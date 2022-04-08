@@ -1,0 +1,3996 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - ELH_cover.doc
+
+
+Technical Report for the 
+La Encantada Silver Mine, 
+Coahuila State, México
+
+Prepared for 
+First Majestic Silver Corp. 
+
+March 19, 2008 
+
+80523
+
+AMENDED 
+
+
+
+Technical Report for the 
+La Encantada Silver Mine 
+Coahuila State, México 
+
+Prepared for 
+
+First Majestic Silver Corp. 
+
+March 19, 2008 
+
+80523
+
+AMENDED 
+
+Prepared by 
+
+Pincock, Allen & Holt 
+
+Leonel López, C.P.G. 
+Richard Addison, P.E. 
+
+
+
+Pincock, Allen & Holt AMENDED 1.1 
+80523 March 19, 2008 
+
+1.0         TITLE PAGE 
+
+This technical report has been prepared in accordance with the National Instrument 43-101 standards of 
+disclosure for mineral projects ("NI 43-101") and the contents herein are organized and in compliance 
+with form 43-101F1 contents of the technical report ("43-101F1"). This technical report is an update of 
+Technical Report Amended for the La Encantada Silver Mine, Coahuila State, México; which was prepared 
+for First Majestic Silver Corp. dated July 24, 2007 and published in SEDAR in July 25, 2007. The first two 
+items are the title page and table of contents that are presented previously in this report and are simply 
+mentioned herein to maintain the specific report outline numbering contained in form 43-101F1 contents 
+of the technical report. 
+
+
+
+Pincock, Allen & Holt AMENDED 2.1 
+80523  March 19, 2008 
+
+2.0         TABLE OF CONTENTS 
+
+See discussion in Section 1. 
+
+
+
+Pincock, Allen & Holt  AMENDED Page i
+80523  March 19, 2008 
+
+CONTENTS     Page
+
+1.0 TITLE PAGE   1.1
+
+2.0 TABLE OF CONTENTS 2.1
+
+3.0 EXECUTIVE SUMMARY 3.1
+
+4.0 INTRODUCTION  4.1
+
+4.1 Qualified Person and Participating Personnel 4.1
+4.2 Term and Definitions 4.1
+4.3 Units 4.3
+4.4 Source Documents 4.4
+
+5.0 RELIANCE ON OTHER EXPERTS 5.1
+
+6.0 PROPERTY DESCRIPTION AND LOCATION 6.1
+
+6.1 Property Description 6.1
+
+7.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES,  
+ INFRASTRUCTURE AND PHYSIOGRAPHY 7.1
+
+8.0 HISTORY   8.1
+
+9.0 GEOLOGICAL SETTING 9.1
+
+10.0 DEPOSIT TYPES  10.1
+
+11.0 MINERALIZATION  11.1
+
+12.0 EXPLORATION  12.1
+
+12.1 Introduction 12.1
+12.2 Exploration Programs 12.1
+ 12.2.1  Geophysical Exploration 12.4
+ 12.2.2  Geochemical Exploration 12.4
+12.3 Drilling  12.4
+ 12.3.1  Exploration Drilling 12.7
+
+13.0 DRILLING   13.1
+
+
+
+CONTENTS (Continued) Page
+
+Pincock, Allen & Holt  AMENDED Page ii
+80523  March 19, 2008
+
+14.0 SAMPLING METHOD AND APPROACH 14.1
+
+15.0 SAMPLE PREPARATION, ANALYSIS AND SECURITY 15.1
+
+15.1 Sample Preparation 15.1
+15.2 Laboratory Facilities 15.1
+15.3 Check Assaying 15.1
+15.4 Conclusion 15.12
+
+16.0 DATA VERIFICATION 16.1
+
+17.0 ADJACENT PROPERTIES 17.1
+
+18.0 METALLURGICAL TESTING AND MINERAL PROCESSING 18.1
+
+19.0 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES 19.1
+
+19.1 Introduction 19.1
+19.2 Methodology 19.1
+19.3 Cutoff Grade Calculation 19.4
+19.4 Reserve Estimates 19.6
+19.5 Resource Estimation 19.12
+19.6 Conclusion  19.15
+
+20.0 OTHER RELEVANT DATA AND INFORMATION 20.1
+
+21.0 INTERPRETATION AND CONCLUSIONS 21.1
+
+22.0 RECOMMENDATIONS 22.1
+
+23.0 REFERENCES  23.1
+
+24.0 DATE AND SIGNATURE PAGE 24.1
+
+25.0 ADDITIONAL REQUIREMENTS FOR TECHNICAL REPORTS ON 
+ DEVELOPMENT PROPERTIES AND PRODUCTION PROPERTIES 25.1
+
+25.1 Introduction 25.1
+
+
+
+CONTENTS (Continued) Page
+
+Pincock, Allen & Holt  AMENDED Page iii
+80523  March 19, 2008
+
+25.2 Mine Design and Production 25.2
+25.3 Mine Equipment 25.9
+25.4 Mineral Processing Plant 25.9
+25.5 Infrastructure 25.13
+25.6 Tailings 25.14
+25.7 Product Marketing 25.14
+25.8 Environmental Safety Review 25.14
+25.9 Economic Analysis 25.16
+ 25.9.1  Capital Costs 25.16
+ 25.9.2  Operating Costs 25.17
+ 25.9.3  Economic Analysis 25.18
+
+26.0 ILLUSTRATIONS  26.1
+
+TABLES 
+
+3-1 Mineral Reserves and Resources 3.3 
+3-2 Economic Analysis Results 3.4 
+
+12-1 Exploration Program of Underground Development 12.7 
+
+13-1 Underground Drilling Program, Second Semester 2007 13.1 
+
+15-1 Sample Pulps Check  15.2 
+15-2 Channel Simple Check  15.3 
+15-3 Tailings Drill Duplicate Samples 15.6 
+15-4 Tailings Drill Pulp Duplicate 15.7 
+
+16-1 Concentrate Assay Comparison for March, April, 2007-06-04 16.2 
+
+19-1 Cutoff Grade Parameters 19.4 
+19-2 Cutoff Grade Parameters, Dump Recovery Only 19.5 
+19-3 Mineral Reserves Prepared by FMS, Reviewed by PAH 19.7 
+19-4 Mineral Resources Prepared by FMS, Reviewed by PAH 19.14 
+
+22-1 Exploration Program 2008 22.2 
+
+25-1 2007 Exploration and Mine Preparation Advances (Lineal Meters) 25.3 
+25-2 Mine Production for 2007 (wet metric tonnes) 25.4 
+25-3 Manpower, Including Contractors (October 31, 2007) 25.7 
+25-4 2007 Production Budget for La Encantada 25.8 
+25-5 Summary of Major Mine Equipment for Encantada Mine 25.10 
+25-6 Ore Processing, Principal Parameters 25.11 
+
+
+
+CONTENTS (Continued) Page
+
+Pincock, Allen & Holt  AMENDED Page iv
+80523  March 19, 2008
+
+25-7 Ore Processing, Principal Equipment 25.11 
+25-8 Estimated Capital Expenditures Summary (6 years) 25.16 
+25-9 Summary of Unit Operating Costs for 2007, Jan - Oct 25.17 
+25-10 Summary of Unit Operating Costs for U/G Mine Only ($US) 25.17 
+25-11 Summary of Unit Operating Costs for Dump Recovery Only ($US) 25.18 
+25-12 Simplified Cash Flow  25.20 
+
+FIGURES
+
+3-1 Mine Site   3.5 
+3-2 Management Team and Dumps Screening 3.6 
+
+6-1 General Location Map 6.2
+6-2 Mining Concessions Map 6.3 
+
+9-1 La Encantada Geologic Cross Section 9.2 
+
+10-1 Sketch of Geologic Model 10.2 
+
+11-1 Mineralization at La Encantada Mine 11.2 
+11-2 Genaro Stope High Grade Mineralization 11.3 
+11-3 San Javier – High Grade Mineralization 11.4 
+
+12-1 Magnetic Anomalies  12.3 
+12-2 Breccia Milagros Mineralization 12.3 
+12-3 Tailings Drill Location Map 12.5 
+12-4 Tailings Dam No. 2  12.6 
+
+13-1 Drilling Breccias Azul y Oro Drilling Program 13.2 
+
+14-1 Channel Sample at the Breccia Milagros 14.2 
+14-2 Galena Remnants at Channel Samples Breccia Milagros 14.3 
+14-3 Breccia Milagros Sampling 14.4 
+
+15-1 Silver Graphs   15.4 
+15-2 Silver Graphs   15.5 
+15-3 Silver Graphs   15.8 
+15-4 Silver Pulp Duplicate Sample Graphs 15.9
+15-5 Lead Pulp Duplicate Sample Graphs 15.10 
+15-6 Zinc Pulp Duplicate Sample Graphs 15.11 
+
+16-1 Concentrates Shipments Silver Assay Comparison 16.3 
+
+18-1 Sulfidation of Oxides in Flotation Concentrates 18.2 
+18-2 Drying Concentrates  18.3 
+
+19-1 Density Determination Breccia Milagros Samples 19.3 
+19-2 Breccia Milagros Reserves and Resource Blocks 19.8 
+
+
+
+CONTENTS (Continued) Page
+
+Pincock, Allen & Holt  AMENDED Page v
+80523  March 19, 2008
+
+19-3 Bonanza Dike Reserves and Resources 19.9 
+19-4 San Francisco Reserve and Resource Blocks 19.10 
+19-5 Intrusive Milagros Reserve and Resource Blocks 19.11 
+
+25-1 Generalized Plan and Section of Typical Preparation and Mining of Cut and Fill Sections 25.5 
+25-2 Process Flowsheet 2007 25.12 
+
+
+
+Pincock, Allen & Holt AMENDED 3.1 
+80523  March 19, 2008
+
+3.0 EXECUTIVE SUMMARY 
+
+First Majestic Silver Corp. (FMS) retained Pincock, Allen and Holt (PAH) a division of Australia-based 
+Runge, Inc. to prepare a Technical Report for the silver / lead deposit of La Encantada Silver Mine located 
+in the Municipality of Ocampo, Coahuila State, and México. This report is an update of Technical Report 
+Amended of July 24, 2007, which was prepared by PAH and published in SEDAR in July 25, 2007. This 
+report meets the requirements and is compliant with NI 43-101 and conforms to Form 43-101F1 for 
+technical reports. 
+
+La Encantada Silver Mine is owned and operated by Minera La Encantada, S.A. de C.V., and a wholly-
+owned Mexican subsidiary of FMS. La Encantada Silver Mine consists of an industrial complex that 
+includes underground silver / lead mining, a flotation ore processing plant, water wells and pipeline, 
+airport, housing and camp facilities.  The La Encantada mine was operated by Peñoles for a period of 
+about 25 years, until June 2002.  Desmín leased the property from Peñoles and operated the mine and 
+processing plant from July 1, 2004 until November 1, 2006 when Desmin was acquired by FMS.  Desmín 
+and FMS have mined and processed approximately 175,000 tonnes of ore to October 31, 2007. 
+
+FMS owns mining rights that cover 2,826 hectares (6,982 acres) within 18 titled concessions and 2 claim 
+applications.  Minera La Encantada has acquired, from the Ejido Tenochtitlán, Municipality of Ocampo, 
+under expropriation regulations, surface land ownership of 1,343 hectares (3,319 acres) where mine, 
+plant, housing, camp and associated facilities are installed.  It also owns the surface rights, installations 
+and water rights for two water wells at El Granizo, which supply La Encantada water needs. 
+
+Estimated proven and probable reserves and measured and indicated resources for La Encantada, as of 
+October 31, 2007, are presented in Table 3-1.  These include proven and probable reserves of 1.2 million 
+tonnes at 312 g/tonne (10.03 oz) Ag, and 1.77 percent (39 lb/tonne) Pb, for a total contained silver 
+equivalent, inclusive of Pb credit, of 12.6 million ounces. 
+
+La Encantada reserves have been estimated at a Cutoff Grade of 256 g/tonne Ag only, and 241 g/tonne 
+Ag equivalent net of Pb credit. 
+
+During the period of June through October, 2007 FMS mined 21,293 tonnes of ore from the May 31 
+proven and probable reserves, in addition of other minerals extracted from different areas of the mine for 
+a total of 162,279 tonnes.  To October 31, the La Encantada exploration programs and underground 
+development increased reserves by 575,600 tonnes.  These were estimated from the following areas: 
+Breccia Milagros, Azul y Oro, Breccia Keylor, Cuerpo 660 E, Mantos 314, Breccia Chicotón, Cedritos, Cola 
+de Gallo, Bonanza, La Piedra, Breccia San Javier, and San Francisco zone.  Most of these deposit areas 
+remain opened for exploration and development; for instance, Breccia Milagros appears to represent a 
+significant deposit which full extent is still unknown to FMS. 
+
+Measured and indicated resources at La Encantada amount to 7.0 million tones at 173 g/tonne (5.6 oz) 
+Ag and 1.73 percent (38.1 lb/tonne) Pb, for a total contained silver equivalent, inclusive of Pb credit, of 
+
+
+
+Pincock, Allen & Holt AMENDED 3.2 
+80523  March 19, 2008
+
+about 40.1 million ounces.  These resources include 4.9 million tonnes of tailings at an average grade of 
+151 g/tonne (4.85 oz/tonne).  Preliminary testwork appears to indicate amenability and probable 
+economic recovery of silver values from the tailings by Cyanide Leaching processing. Additional bulk 
+testing is recommended to validate the resource.    
+
+Additional inferred resources have been estimated by FMS at La Encantada Silver Mine.  The inferred 
+resources require additional grade and tonnage information before they may be upgraded to indicated or 
+measured resources.  They represent geologic potential to be further investigated.  La Encantada has 
+estimated inferred resources that amount to about 2.0 million tonnes at an average grade of 200 g/tonne 
+(6.3 oz/tonne) Ag and 0.50% (11 lb/tonne) Pb, for a total estimated content of silver equivalent, inclusive 
+of Pb credit, of about 13.4 million ounces. 
+
+Table 3-1 shows a summary of proven and probable reserves plus measured and indicated resources and 
+inferred resources as of October 31, 2007. 
+
+Processing flotation plant facilities have an installed capacity of 800 tonnes per day.  It includes all 
+supporting facilities, including laboratory, maintenance, etc. The metallurgical plant is currently operating 
+at about 700 tonnes per day. About half of the ore comes from the mine and the other half is from 
+reprocessing waste dumps through a pre-screening process.  The mine/screened dumps ore processing 
+rate is programmed to increase at a higher rate of mine ore for 2008.   
+
+The surface rights to La Encantada mine are mostly owned by Minera La Encantada (a wholly owned 
+subsidiary of FMS). According to La Encantada, there is a good working relationship with people of the 
+Ejido Tenochtitlán from which the surface rights were purchased by La Encantada, and with the town of 
+Múzquiz, since many of the inhabitants are employed in the exploration or mining operations.  No labor 
+or access problems have been reported by La Encantada within the area. 
+
+La Encantada Mine was declared in suspension of activities by Peñoles in 2003.  In April 24, 2007 La 
+Encantada presented a notification of reactivation of operations at the mine to the National Water 
+Commission (C.N.A.), to SEMARNAT, to Secretaría del Trabajo y Previsión Social, and to PROFEPA. In 
+accordance with legal opinion of November 22, 2007 by Mr. Carlos Galván Pastoriza, La Encantada mining 
+operations are currently and have always been conducted in compliance with all applicable laws and 
+regulations." 
+
+PAH is not aware of any environmental liabilities in La Encantada mining district; most of the area 
+covered by La Encantada concessions is mining and prospective land for mineral exploration and mine 
+development.
+
+PAH believes that La Encantada reserve and resource estimates have been reasonably prepared and 
+conform to acceptable engineering standards for reporting of reserves and resources.  PAH believes that 
+the classification of the reserves and resources meets the standards of Canadian National Instrument NI 
+43-101 and the definitions of the Canadian Institute of Mining, Metallurgy and Petroleum (CIM).
+
+
+
+______________________________________________________________________________________________________________________
+Pincock, Allen & Holt AMENDED 3.3 
+80523  March 19, 2008
+
+TABLE 3-1
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+
+DEPOSIT CATEGORY METRIC TONNES WIDTH
+La Encantada Reserves Tonnes meters Silver, g/tonne Lead, % Zinc, % (4) Silver (Only) oz. Silver (Eq) oz.
+
+Total Proven 850,684 Over 2.00 283 1.80 0.84 7,731,371 8,068,833
+Total Probable 358,449 Over 2.00 380 1.70 0.75 4,379,136 4,552,002
+
+1,209,133 Over 2.00 312 1.77 0.81 12,110,507 12,620,835
+
+TOTAL Measured 879,895 Over 2.00 347 1.99 0.33 9,823,264 10,247,603
+TOTAL (5),(6) Indicated 6,157,081 Over 2.00 148 1.70 2.30 29,276,571 29,875,056
+
+7,036,976 Over 2.00 173 1.73 2.05 39,099,835 40,122,659
+
+8,246,109 Over 2.00 193 1.74 1.87 51,210,342 52,743,494
+
+(5) Tailings are considered as indicated resources.  Bulk sampling testwork in progress.
+
+Azul y Oro Inferred 464,000 Over 2.00 413 0.48 0.37 6,161,111 6,384,880
+Breccia San Javier Inferred 1,015,000 Over 2.00 105 0.57 0.78 3,426,465 3,915,961
+Bonanza Inferred 22,000 2.77 220 1.12 1.12 155,610 166,219
+Intrusivo Milagros Inferred 280,000 2.00 102 0.00 0.00 918,225 1,053,258
+San Francisco Inferred 186,000 2.40 304 0.64 0.14 1,817,932 1,907,632
+TOTAL (5) Inferred 1,967,000 Over 2.00 200 0.50 0.50 12,479,000 13,428,000
+
+(5) Rounded figures.
+
+(3) Mining dilution is included at over 2.00m width. Estimates do not include mining recovery.
+(4) Zinc is not recovered.
+
+(1) Cut Off Grade estimated as 256 g/tonne Ag only; and 241 g/tonne Ag eq net of Pb credit. Cut Off Grade for dumps is 98 g/tonne Ag only; and 91 g/tonne Ag eq net of Pb credit.
+(2) Silver equivalent includes Pb credit, at prices US$10.50/oz-Ag, $0.68/lb-Pb. Pb credit=15 g/tonne-Ag. For dumps Pb credit=7 g/tonne Ag.
+
+(4) Zinc is not recovered.
+
+(6) La Morena sulfide deposit requires additional metallurgical testwork to prove its economic recovery.  La Encantada mill does not have an operating zinc circuit at this time.
+Total Inferred Resources (3) (5)
+
+TOTAL PROVEN PLUS PROBABLE RESERVES AND 
+MEASURED AND INDICATED RESOURCES
+
+(3) Mining dilution is included at over 2.00m width. Estimates do not include mining recovery.
+
+(1) Cut Off Grade estimated as 256 g/tonne Ag only; and 241 g/tonne Ag eq net of Pb credit. Cut Off Grade for dumps is 98 g/tonne Ag only; and 91 g/tonne Ag eq net of Pb credit.
+(2) Silver equivalent includes Pb credit, at prices US$10.50/oz-Ag, $0.68/lb-Pb. Pb credit=15 g/tonne-Ag. For dumps Pb credit=7 g/tonne Ag.
+
+Total Reserves Proven + Probable
+
+Total Resources Measured + Indicated
+
+TOTAL PROVEN AND PROBABLE RESERVES PLUS MEASURED AND INDICATED RESOURCES
+
+Total Resources Measured plus Indicated (3)
+
+Mineral Reserves and Resources Prepared by FMS, Reviewed by PAH. As of October 31, 2007 (1).
+Total Reserves Proven plus Probable (3)
+
+GRADE METAL CONTAINED (2)
+
+
+
+_____________________________________________________________________________________
+Pincock, Allen & Holt AMENDED 3.4 
+80523  March 19, 2008
+
+The reserves and resources herein reported by La Encantada were reviewed by PAH and constitute part 
+of an operation by Minera La Encantada, a Mexican subsidiary of FMS.  There is no significant technical, 
+legal, environmental, political or other kind of restrictions; therefore, in PAH's opinion, these reserves and 
+resources may not be materially affected by issues that could prevent their extraction and processing. 
+
+An economic analysis of La Encantada operation shows positive economics as measured by a cash flow 
+model, and thus the postulated reserve position is accepted.  La Encantada Silver Mine shows a net 
+present value of $6.5 million at a 10 percent discounted rate of return. 
+
+Table 3-2 presents a summary of La Encantada cash flow based on current reserves/resources estimates. 
+
+Figure 3-1 shows a general layout of La Encantada mine site. 
+
+Figure 3-2 shows La Encantada Management Team and dumps screening in the background. 
+
+TABLE 3-2
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Economic Analysis Results as to October 31, 2007
+
+% US $
+IRR 0.95
+NPV 0.00 12,831,254
+
+0.10 6,450,715
+0.15 4,671,562
+0.20 3,417,074
+0.25 2,516,847
+
+DCFRR %
+
+
+
+
+
+
+
+Pincock, Allen & Holt AMENDED 4.1 
+80523  March 19, 2008
+
+4.0 INTRODUCTION 
+
+First Majestic Silver Corp. (FMS), retained Pincock, Allen and Holt (PAH) to prepare a Technical Report of 
+exploration activities and results obtained to this date, for the silver / lead deposit of La Encantada Silver 
+Mine located in the Municipality of Ocampo, Coahuila State, México. This report is an update of Technical 
+Report for the La Encantada Silver Mine, Coahuila State, México, prepared for First Majestic Silver Corp. 
+dated July 24, 2007, Amended by Pincock, Allen & Holt, Inc., and was published in SEDAR on July 25, 
+2007, and it is referred to as Technical Report Amended herein. 
+
+The objective of this Technical Report is to provide FMS with a report that will follow existing regulations 
+in Canada.  This report meets the requirements and is compliant with NI 43-101 and conforms to Form 
+43-101F1 for technical reports. 
+
+4.1 Qualified Person and Participating Personnel 
+
+The principal author of this report is Leonel López, a Certified Professional Geologist (AIPG-CPG-08359), 
+Registered Professional Geologist in the State of Wyoming (PG-2407), a Registered Professional Member 
+of The Society of Mining Engineers (No.1943910) and a PAH Principal Geologist.  Mr. López has visited 
+the site during the periods of May 18 – 23 and November 13–18, 2007, to review current status of the 
+property.  Mr. López also carried out exploration activities for the La Encantada mine as Peñoles 
+Exploration North Division Manager in the 1980s.  Mr. López reviewed available information on the La 
+Encantada mine to update the reported areas where changes have occurred during the period from July 
+to October regarding the mining rights, land tenure, history, environmental concerns, and all aspects of 
+the geology, and reviewed drilling core and results, sampling, data verification and projected resources.  
+Mr. López also reviewed drilling, sampling, volume estimates and location of the two tailings deposits that 
+FMS is investigating for re-processing by cyanidation.  Other PAH members collaborated in the review of 
+FMS's tailings deposits modeling to confirm volumes and grade estimates, as well as the reserve 
+estimates, mine planning and methods and processing for La Encantada silver/lead deposit. 
+
+4.2 Term and Definitions 
+
+La Encantada Silver Mine consists of silver / lead oxidized mineral deposits located in the State of 
+Coahuila, México.  La Encantada mine comprises numerous mineral concentrations within the 
+underground development area, including some exhausted deposits and additional geologic potential in 
+other areas.  Some of the known deposits within the La Encantada area are the following: 
+
+� La Prieta, mostly exhausted breccia pipe deposit 
+� La Escondida, exhausted breccia pipe deposit 
+� El Plomo
+� Bonanza
+� Breccia Milagros 
+� Estructuras Irregulares Bonanza 
+
+
+
+Pincock, Allen & Holt AMENDED 4.2 
+80523  March 19, 2008
+
+� Estructuras Irregulares San Javier 
+� Brecha San Javier 
+� Ojuelas
+� San Francisco 
+� Azul y Oro 
+� 660 W 
+� 660
+� 660 E 
+� La Morena, and
+� Numerous other bedded and vein deposits.  
+
+In this report: 
+
+� FMS refers to First Majestic Silver Corp. 
+
+� Desmín refers to Desmín, S.A. de C.V., a wholly-owned subsidiary of FMS 
+
+� PAH refers to Pincock, Allen & Holt, Inc., a Division of Runge, Inc., and its representatives. 
+
+� Peñoles refers to Industrias Peñoles, S.A. de C.V., MET-MEX Peñoles and Grupo Peñoles. 
+
+� La Encantada Silver Mine refers to the operating underground mine, processing plant and 
+infrastructure facilities that constitute this industrial complex (also referred to as La Encantada mine 
+or La Encantada). 
+
+� Technical Report for the La Encantada Silver Mine, Coahuila State, México, prepared for First Majestic 
+Silver Corp. dated July 24, 2007, Amended by Pincock, Allen & Holt, Inc., and was published in 
+SEDAR on July 25, 2007, is referred to as "Technical Report Amended" herein. 
+
+� Minera La Encantada refers to the operating company and wholly owned subsidiary of First Majestic 
+Silver Corp. 
+
+� Resource and Reserve definitions are as set forth in the CIM Definitions Standards dated December 
+15, 2005. 
+
+� Resource definitions are as set forth in an appendix to Companion Policy 43-101CP, "Canadian 
+Institute of Mining, Metallurgy and Petroleum – Definitions Adopted by CIM Council, August 20, 
+2000."
+
+
+
+Pincock, Allen & Holt AMENDED 4.3 
+80523  March 19, 2008
+
+4.3 Units
+
+All units are carried in metric units, unless otherwise noted. Grades are described in terms of percent (%) 
+or grams per metric tonne (gptonne, g/tonne), with tonnages stated in metric tonnes. Salable metals are 
+described in terms of tonnes, or troy ounces (precious metals) and percent weight. 
+
+Unless otherwise stated, Dollars are US Dollars.  The following abbreviations are used in this report: 
+
+Abbreviation  Unit or Term
+Al2O3  Alumina 
+ANFO   Ammonium nitrate/fuel oil 
+ASTM   American Society for Testing and Materials 
+Sb   Antimony 
+Ag   Silver 
+As   Arsenic 
+Au   Gold 
+Bi   Bismuth 
+Cd   Cadmium 
+Co   Cobalt 
+Cu   Copper 
+In   Indium 
+Fe   Iron 
+g/t   Grams Per Tonne 
+kcal   Kilocalories 
+kg   Kilograms 
+km   Kilometer 
+k   Thousands 
+Pb   Lead 
+LOM   Life of Mine 
+Mn   Manganese 
+Hg   Mercury 
+m   Meters 
+masl   Meters Above Sea Level 
+mm   Millimeters 
+MT  Million Tonnes 
+mtpd  Metric tonnes per day 
+mtpy  Million tonnes per year 
+NPV  Net Present Value 
+Ni  Nickel 
+%  Percent by weight 
+Patio  Yard, court or stocking ground 
+Se  Selenium 
+SiO Silica
+
+
+
+Pincock, Allen & Holt AMENDED 4.4 
+80523  March 19, 2008
+
+Sn  Tin 
+T or t  Metric Tonne (2,204 lbs), tonne 
+Te  Tellurium 
+Ti  Titanium 
+tpa  Tonnes per annum 
+tpy  Tonnes per year 
+tpd  Tonnes per day 
+ug  Underground 
+Wo Tungsten Oxide 
+Zn  Zinc 
+$  United States Dollars 
+$NP  New Mexican Pesos 
+C$  Canadian Dollars 
+
+4.4 Source Documents 
+
+The source documents for this report are summarized in Section 24. 
+
+
+
+Pincock, Allen & Holt AMENDED 5.1 
+80523  March 19, 2008
+
+5.0 RELIANCE ON OTHER EXPERTS 
+
+This report was prepared for First Majestic Silver Corp. (FMS) by the independent consulting firm Pincock, 
+Allen & Holt, Inc. ("PAH") and is based in part on information prepared by other parties.  PAH has relied 
+primarily on information provided as part of the following reports, investigations and operating results: 
+
+� Technical Report for the La Encantada Silver Mine Amended, Coahuila State, México (Technical 
+Report Amended).  Prepared for First Majestic Silver Corp.  Prepared by Pincock, Allen & Holt, Inc., 
+July 24, 2007, and published in SEDAR on July 25, 2007.   
+
+� Resource and Reserve Estimates by FMS for La Encantada Silver Mine.  Prepared by FMS staff and 
+reviewed by PAH, October 31, 2007. 
+
+� Resource / Reserve Estimates of the La Encantada Tailings dams No. 1 and 2 based on manual 
+estimations and checked by GEMCOM Geologic modeling.  It includes surveying, drilling, cross 
+sections, volumes, tonnage and grade estimates.  Prepared by FMS and PAH staff. October and 
+November, 2007 respectively. 
+
+� Peñoles (Largest Silver producer in the World) information as owner and operator of La Encantada 
+mine for a period of 25 years, including public records, operating reports, geological studies, 
+surveying, sampling data, drilling, geologic modeling and resource estimates, production records and 
+historical reserve estimates as of January 2003.  It includes the following reports: 
+
+� Plan y Programa de Exploración 2001 – 2002.  Prepared by Ing. Pantaleón Trejo, Manager of 
+Explorations for Mining Operations, Peñoles. June 2002. 
+
+� Desglose de Mineral Probado y Probable por Cuerpos para 2003.  Prepared by: Minera La 
+Encantada, S.A. de C.V., Ing. Pantaleón Trejo, Manager of Explorations for Mining Operations, 
+Peñoles.
+
+� Relación de Fundos Mineros Minera La Encantada, S.A. de C.V., Unidad David Contreras. 
+Prepared by Minera La Encantada, Peñoles. Febrero 2007.  This report was updated by FMS 
+including additional claims in May 2007.  
+
+� Database and modeling files for the La Encantada deposits by Peñoles.  Provided to FMS in April 
+2007.
+
+� Legal Opinion – Minera La Encantada, S.A. de C.V., a wholly owned subsidiary of First Majestic Silver 
+Corp. Legal Opinion by Durango-based office of legal advisers, by Mr. Carlos Galván Pastoriza, 
+Abogado, prepared on November 22, 2007. 
+
+
+
+Pincock, Allen & Holt AMENDED 5.2 
+80523  March 19, 2008
+
+� Geochemical and Isotopic Study of Calcite Stockworks at La Encantada Mining District; Relationships 
+with Orebodies and Implications for Exploration. A Thesis submitted to the Faculty of the Department 
+of Mining and Geological Engineering, at the University of Arizona at Tucson, in partial fulfillment of 
+the requirements for the degree of Master of Science with a Major in Geological Engineering. By: Raúl 
+Díaz-Unzueta, 1987. 
+
+� Evaluación Geológica Unidad Minera La Encantada, Municipio de Ocampo, Coahuila, México.
+Prepared by: Exploraciones Geológico-Mineras de Occidente, S.A. de C.V.  Septiembre 2006. 
+
+� Geologic Evaluation of the La Encantada Property, State of Coahuila de Zaragoza, México.  Prepared 
+by: J.N. Helsen, Ph.D., P. Geo. December 2006. 
+
+� Data provided by Desmín, S.A. de C.V. as operator of La Encantada under lease from Peñoles, July 1, 
+2004 to November 1, 2006. 
+
+� Information provided by FMS as owner and operator of La Encantada Silver Mine, including the 
+period from November 2006 to May 2007. 
+
+� Information provided by FMS on notifications of mining activities resumption at La Encantada mine 
+to:
+
+� Delegado Federal de la SEMARNAT, Estado de Coahuila. April 24, 2007. 
+
+� Delegado Federal de la STPS (Secretaría de Trabajo y Previsión Social) in the State of Coahuila. 
+April 24, 2007. 
+
+� Director Local de CNA (Comisión Nacional del Agua), Estado de Coahuila. April 24, 2007. 
+
+� Delegado Federal de la PROFEPA (Procuraduría Federal de Protección al Ambiente), Estado de 
+Coahuila. April 24, 2007.  
+
+� PAH observations on site visit during the period of November 11 – 18, 2007.
+
+PAH believes that this information is reliable for use in this report.  PAH has reviewed ownership 
+documents for the purchase of Minera La Encantada shares from Peñoles; acquisition of Desmín shares; 
+purchase land rights under expropriation procedure where La Encantada mine, plant, camp and ancillary 
+installations are located; and documents for sampling and applications for renewal of the Permiso 
+Ambiental Unico (environmental permit for operating); as well as copies of the titled concessions for La 
+Encantada mining rights. 
+
+This information was also reviewed by FMS legal advisers and a legal opinion was provided to PAH by the 
+Durango City-based legal firm of Mr. Carlos Galván Pastoriza.  Therefore, PAH believes all above 
+described documents and information regarding the property current status, legal title and environmental 
+
+
+
+Pincock, Allen & Holt AMENDED 5.3 
+80523  March 19, 2008
+
+compliance for La Encantada mining – metallurgical operation to be accurate and current in legal 
+standing. 
+
+
+
+Pincock, Allen & Holt AMENDED 6.1 
+80523 March 19, 2008
+
+6.0 PROPERTY DESCRIPTION AND LOCATION 
+
+Additional details are presented in Technical Report Amended for La Encantada Silver Mine of July 24, 
+and published in SEDAR on July 25, 2007. 
+
+Figure 6-1 is a General Location Map. 
+
+6.1 Property Description 
+
+This Technical Report presents an update of La Encantada's current operating conditions and projections 
+as planned by FMS.
+
+La Encantada Silver Mine property modifications for the period of July to October, 2007 include the 
+following:
+
+The La Encantada mining rights covered by two Mining Concession Applications have been accepted by 
+the Dirección General de Minas.  The Concessions titles are in the process of being issued. No other 
+changes have occurred in total land coverage at La Encantada Silver Mine. 
+
+All the Mining Concessions legal status was provided by legal opinion, dated November 22, 2007 from the 
+Durango City-based firm of Mr. Carlos Galván Pastoriza, legal advisers for FMS in México.  PAH also 
+requested and received an updated review by legal advisers of the mining concessions current status 
+showing that all mining claims owned by Minera La Encantada, S.A. de C.V. are current in meeting the 
+legal obligations and requirements by Mexican Mining and Environmental Laws and Regulations including 
+assessment works, property taxes and operating permits for the period that covers to December 31, 
+2007.
+
+Figure 6-2 is a Mining Concessions Map. 
+
+
+
+Boquillas Del
+Carmen
+
+La Encantada
+Mine
+
+GULF
+
+OF
+
+MEXICO
+
+PACIFIC
+
+OCEAN
+
+USA
+
+MAP
+AREA
+
+COAHUILA
+
+CHIHUAHUA
+
+NUEVO
+
+LEON
+
+TEXAS
+
+M
+E
+X
+IC
+
+O
+
+M
+E
+X
+IC
+
+O
+
+U
+S
+A
+
+Monclova
+
+Melchor
+Múzquiz
+
+Ocampo
+
+MEXICO
+CITY
+
+Saltillo
+
+Monterrey
+
+Prepared by
+
+Project No.
+
+Project Name
+
+FIGURE 6-1
+
+LA ENCANTADA MINE
+GENERAL LOCATION MAP
+
+Date of Issue
+
+Drawing Name
+
+80523
+
+Dec/2007
+
+Fig.6-1.cdrLa Encantada Silver Mine
+
+Drawing Provided by/Prepared for
+
+FIRST MAJESTIC SILVER Corp.
+pincock, allen & holt
+165 S. Union Boulevard, Suite 950
+Lakewood, Colorado 80228
+Phone (303) 986-6950
+
+
+
+
+
+Pincock, Allen & Holt AMENDED 7.1 
+80523  March 19, 2008
+
+7.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE 
+AND PHYSIOGRAPHY 
+
+La Encantada Silver Mine is located within an isolated mining district in northern México.  It is located in 
+the northern part of the physiographic province of the Sierra Madre Oriental in the NW portion of the 
+State of Coahuila.  It is located in the municipality of Ocampo, at about 120km to the N60ºW from the 
+city of Múzquiz, and 120km to the N7ºW from the city of Ocampo, Coahuila. 
+
+UTM coordinates for La Encantada area are as follows:    N – 3,139,550;  E – 739,660.  
+
+La Encantada mining district consists of two main silver / lead underground mines, the La Encantada and 
+the El Plomo mines.  Both of these mine areas have been consolidated into one operation, which is now 
+owned and operated by FMS. 
+
+Additional details on Accessibility, Infrastructure, Climate, Vegetation, Physiography, Hydrology and Local 
+Resources are presented in Technical Report Amended.  
+
+
+
+Pincock, Allen & Holt AMENDED 8.1 
+80523  March 19, 2008
+
+8.0 HISTORY 
+
+In 2003 Peñoles reported proven and probable reserves at the closing of La Encantada mine including 
+485,000 tonnes at an average grade of 570 g/t Ag and 3.98 percent Pb.  FMS's exploration efforts are 
+directed to explore other areas of interest within the extensive underground workings, validate these 
+historical figures and advance development of additional exploration targets. By June 2007, FMS reported 
+NI43-101 Proven and Probable Reserves of 633,000 tonnes at an average grade of 315 g/tonne Ag, in 
+addition to Measured and Indicated Resources of 1.4 million tonnes at an average grade of 276 g/tonne 
+Ag, and about 1.5 Million tonnes of Inferred Resources at an average grade of 200 g/tonne Ag, in 
+Technical Report Amended of July 24, 2007 published in SEDAR.  The La Encantada aggressive 
+exploration and development investments have resulted in additional Proven and Probable Reserves and 
+Measured and Indicated Resources that contain over 250 percent more metals, silver and lead, than 
+those previously reported. 
+
+From the period of January to October, 2007 FMS has mined and processed 162,279 tonnes of ore from 
+La Encantada Silver mine at an average recovered grade of 6.72 oz/tonne Ag, for a total of 1,090,515 
+ounces. FMS mined 21,293 tonnes of ore from the May 31 proven and probable reserves, in addition of 
+other minerals extracted from different areas of the mine during mine preparation and development 
+activities, for a total of 162,279 tonnes.  Currently the plant has been stabilized at an operating rate of 
+700 tonnes per day, while the mine continues to access, prepare new working phases and develop 
+additional reserves and resources.   
+
+
+
+Pincock, Allen & Holt AMENDED 9.1 
+80523  March 19, 2008
+
+9.0 GEOLOGICAL SETTING 
+
+Please refer to Technical Report Amended dated July 24, 2007, which was published on July 25, 2007 in 
+SEDAR.
+
+To this date, there are no changes to report regarding the La Encantada Silver Mine geology. 
+
+National Instrument 43-101 – Standards of Disclosure for Mineral Projects.  Form 43-101F1 Technical 
+Report – Instructions (5), December 23, 2005. 
+
+Figure 9-1 shows La Encantada Silver Mine geologic cross section. 
+
+
+
+Prepared by
+
+Project No.
+
+Project Name
+
+FIGURE 9-1
+
+GEOLOGIC CROSS SECTION
+LA ENCANTADA MINE
+
+Date of Issue
+
+Drawing Name
+
+80523
+
+Dec/2007
+
+Fig.9-1.cdrLa Encantada Silver Mine
+
+Prepared for
+
+FIRST MAJESTIC
+SILVER Corp.
+
+pincock, allen & holt
+165 S. Union Boulevard, Suite 950
+Lakewood, Colorado 80228
+Phone (303) 986-6950
+
+
+
+Pincock, Allen & Holt AMENDED 10.1
+80523  March 19, 2008
+
+10.0 DEPOSIT TYPES 
+
+There are no changes to report regarding geologic and mineral deposit concepts for the La Encantada 
+Silver Mine. 
+
+Please refer to Technical Report Amended dated July 24, and published in SEDAR on July 25, 2007. 
+
+
+
+Pincock, Allen & Holt AMENDED 11.1 
+80523  March 19, 2008
+
+11.0 MINERALIZATION 
+
+For details on mineralization at La Encantada Silver Mine please refer to Technical Report Amended of 
+July 24 and published in SEDAR on July 25, 2007.  
+
+No changes regarding mineralization characteristics of the La Encantada Silver Mine have occurred since 
+last publication in Technical Report Amended.  
+
+Figure 11-1 shows the mineralization at La Encantada mine. 
+
+The Genaro stope high grade mineralization – irregular San Javier structures are shown in Figure 11-2. 
+
+Figure 11-3 shows the San Javier – high grade mineralization. 
+
+
+
+
+
+
+
+
+
+Pincock, Allen & Holt AMENDED 12.1 
+80523  March 19, 2008
+
+12.0 EXPLORATION 
+
+12.1 Introduction
+
+La Encantada Silver Mine has been subjected to exploration programs from its discovery in the 1950s, by 
+prospectors in the early stages and by Peñoles since the late 1960s to 2003.  FMS is developing an 
+aggressive program of explorations including mine development and preparations for drilling from 
+underground sites. Additional diamond drilling is planned from surface locations, as well as geophysical 
+surveying to investigate areas of interest and confirm other previously identified exploration areas.  
+
+Exploration efforts carried out during the second half of 2007 were primarily focused in proving and 
+developing additional Reserves and Resources for La Encantada mine.  These resulted in a significant 
+increment of both Resources and Reserves.  Major efforts were developed in the areas of Breccia 
+Milagros, Bonanza, San Francisco, Intrusivo Milagros, Azul y Oro, and Cuerpo de Zinc at mine level N-
+1535 and in the sampling of the old dumps.  These results show an increment of about 575,600 tonnes in 
+Proven and Probable Reserves and over 5.6 million tonnes in Measured and Indicated Resources over 
+previously reported Reserves and Resources of May 31, 2007.  Additional efforts were carried out in 
+drilling and metallurgical testwork of the old tailings dams that have resulted in a positive outcome for 
+reprocessing, by Cyanide Leaching this material to recuperate some of the contained silver. 
+
+Sampling of old dumps was also completed and over 100,000 tonnes of screened material were 
+processed during the period.  Screening recovery of the dumps is about 40 percent in tonnage and grade 
+enrichment from about 67 g/tonne Ag to about 130 g/tonne Ag (results for October 2007). 
+
+Figure 12-1 shows the La Encantada Geologic Potential.  
+
+12.2 Exploration Programs
+
+FMS's program of underground exploration was designed to investigate the Milagros and San Javier 
+breccia zones, as well as the San Francisco bedded deposits and the Bonanza area where numerous veins 
+occur associated with the Bonanza dike.  The La Escalera breccia zone appears to be a significant target 
+for exploration. 
+
+During the period of June to October, 2007 a total of about 5,000 meters of underground workings for 
+exploration purposes were developed at the La Encantada mine, including about 4,000 meters of access 
+ramps, drifts, and crosscuts, and about 1,000 meters of exploration preparations for drill sites access.  
+This development resulted in a significant increment of Resources and Reserves, about 5.6 million 
+tonnes, at the various mine levels of the La Encantada Silver Mine, within the Breccia Milagros, Bonanza,  
+San Francisco areas and in the two old tailings dams.  
+
+Figure 12-2 shows the Breccia Milagros Mineralization. 
+
+
+
+Prepared by
+
+Project No.
+
+Project Name
+
+FIGURE 12-1
+
+LA ENCANTADA GEOLOGIC POTENCIAL
+
+Date of Issue
+
+Drawing Name
+
+80523
+
+Dec/2007
+
+Fig.12-1.cdrLa Encantada Silver Mine
+
+Drawing Provided by/Prepared for
+
+FIRST MAJESTIC SILVER Corp.
+pincock, allen & holt
+165 S. Union Boulevard, Suite 950
+Lakewood, Colorado 80228
+Phone (303) 986-6950
+
+
+
+
+
+Pincock, Allen & Holt AMENDED 12.4 
+80523  March 19, 2008
+
+12.2.1 Geophysical Exploration 
+
+FMS has designed an extensive 2008 program of exploration based on geophysical surveying to 
+investigate the various identified anomaly areas, and to confirm other indicated potential zones. This 
+program includes about 50 km of lines to be measured by Induced Polarization methods during the year.  
+Some of the most outstanding targets for investigation are the La Escalera Breccia zone and the 
+Anomalous areas "A", "B", "C" and "D". 
+
+12.2.2 Geochemical Exploration 
+
+No geochemical sampling has taken place at La Encantada during 2007; however, FMS has designed a 
+2008 exploration program that includes sampling for geochemical investigations in the areas of La Prieta 
+Sur, the upper part of the María Isabel area, and the Anomaly "D" zone. This program is estimated to 
+include about 400 samples.
+
+12.3 Drilling
+
+Drilling programs at La Encantada have been limited since the best exploration results may have been 
+obtained through underground development.  Additionally, topographic conditions at the mine and 
+irregular morphology of mineral concentrations make it difficult to plan for drilling.  Therefore, drilling 
+from underground sites and mine workings has proven to be the most effective combination for 
+exploration at La Encantada. 
+
+During 2007 the La Encantada exploration team initiated drilling from underground sites and completed 5 
+drillholes totaling 565.6 meters to investigate continuity and depth of the San Francisco mineralized 
+structures.  These drillholes resulted in extension and confirmation of some of San Francisco mineralized 
+zones.
+
+Additional drilling was developed at the old Peñoles tailings dams to determine volume and grade of the 
+two tailings dams.  Metallurgical testwork was carried out in some of the drilled tailings.  Grade, tonnage 
+and metallurgical recovery estimates have resulted in additional Resources for the La Encantada Silver 
+Mine, since some of the silver contained by the tailings appears to be amenable for economic recovery by 
+Cyanide Leaching processing methods.  The tailings drilling program included 15 drillholes totaling 168 
+meters at the Tailings Dam No. 1, and 34 drillholes for a total drilled depth of 576 meters in Tailings Dam 
+No. 2. 
+
+Figure 12-3 is the La Encantada Tailings drill location map. 
+
+Figure 12-4 shows the La Encantada tailings dam No. 2. 
+
+
+
+
+
+
+
+Pincock, Allen & Holt AMENDED 12.7 
+80523  March 19, 2008
+
+12.3.1 Exploration Drilling 
+
+FMS exploration activities for La Encantada mine include acquisition of two drill rigs to initiate surface 
+drilling programs, and continue with the planned drill program from underground sites. This program, 
+scheduled for 2008, consists of a total underground development of 2,340m including drifts, crosscuts, 
+raises, ramps and stopes development in addition to 5,000m of development carried out during the 
+second semester of 2007. Numerous drill sites have been prepared during 2007 while expecting arrival of 
+the drilling equipment. 
+
+Details of the exploration program developed and completed during the second semester of 2007 are 
+included in Table 12-1.  This program resulted in additional Resources and Reserves for the La Encantada 
+mine.
+
+Table 12-1 shows the exploration program completed for 2nd semester 2007.  
+
+The FMS exploration program for La Encantada includes an aggressive underground and drilling plan that 
+has a high probability of success given the geological conditions of the mineralization at the mine.  In 
+PAH's opinion the combination of direct exploration methods, drilling and underground development 
+represents a good balance for exploration at La Encantada.  The program is directed to access projected 
+known areas of mineralization as well as to investigate other adjacent and new promising areas that may 
+result in an increment of the Resource base and a higher level of Reserves for the mine. 
+
+The exploration program suggested by FMS for the La Encantada Silver Mine for implementation during 
+the period of calendar year 2008 is presented in Table 22-1 including estimated costs.  This program 
+consists of 8,200 meters of surface drilling, 5,000 meters drilling from underground sites, and 2,340 
+meters of underground drifting. 
+
+In PAH's opinion, FMS's exploration program at La Encantada represents an aggressive exploration 
+program with a high probability of success, which would lengthen the mine's life. PAH recommends 
+implementation of the suggested program at an estimated cost of $2.4 million.    
+
+TABLE 12 - 1
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Exploration Program Completed for 2nd Semester 2007 (*)
+Exploration Activities Objective Area Total Development
+
+Tailings Dam No. 1 15 drillholes, 168 m
+Tailings Dam No. 2 34 Drillholes, 576 m
+
+Underground Drilling Develop resources San Francisco Structures 5 drillholes, 565.6 m
+
+Develop resources / reserves Breccia Milagros, Bonanza 3,955 m
+Drill sites preparation / access San Francisco, Azul y oro, etc. 1,030 m
+
+(*) This program was completed during the period.
+
+Surface Drilling Investigate Tailings Dams
+
+Underground development
+
+
+
+Pincock, Allen & Holt AMENDED 13.1 
+80523  March 19, 2008
+
+13.0 DRILLING 
+
+FMS initiated drilling programs at La Encantada during the period from June to October, 2007.  FMS has 
+acquired two additional drilling rigs to carry out exploration drilling from surface targets and from 
+underground sites.  FMS's program for 2008 includes 8,200 meters of core drilling from surface to 
+investigate the La Escalera breccia, Anomalies "A" and "B", La Prieta Sur, Mantos Guadalupe, María Isabel 
+Alto, El Camello and El Bote zones.  Drilling from underground sites is programmed to investigate the 
+Bonanza Dyke, Cedrito, San Francisco mineralized structures, Azul y Oro SW and other exploration 
+targets at the 1940 and 1600 mine levels.  Exploration drilling requires access and drill sites preparation, 
+which for the underground exploration is estimated to be approximately 2,400 meters of ramps, drifts, 
+crosscuts and drill site construction.   
+
+During the period of June through October, 2007, drilling at La Encantada included 51 drillholes for a 
+total depth of 744 meters, including two holes that were developed out of the tailings dams, to determine 
+volume and grade of two tailings dams.  This program resulted in an estimated tonnage of 4.9 million 
+tonnes of tailings at an average grade of 151 g/tonne (4.9 oz/tonne) Ag.  
+
+Five drillholes were completed from underground access to investigate the San Francisco mineralized 
+structures.  Total drilled depth was 565.6 meters.  Some of the San Francisco mineralized structures were 
+intersected to confirm geologic continuity of the mineralization.  Additional Resources and some Reserve 
+blocks were confirmed by the program. 
+
+Details of FMS's 2008 drilling program are presented in Table 22-1 including estimated costs. 
+
+Exploration drilling targets for surface drilling include: 
+
+� Breccia La Escalera 
+� Anomaly A 
+� Anomaly B 
+� Anomaly C 
+� Anomaly D 
+
+Exploration drilling from underground drill sites includes: 
+
+� Bonanza Dike 
+� Cedrito
+� Azul y Oro 
+� Breccia La Escalera at Level 790, and 
+� Anomaly B 
+
+
+
+
+
+Pincock, Allen & Holt AMENDED 13.3 
+80523  March 19, 2008
+
+PAH believes that this drilling program from surface and underground workings, in combination with 
+underground development, is appropriate and well designed to explore promising targets.  Geologic 
+potential exists to discover additional mineralized zones along the development workings.  Estimated 
+budget for this program is included in Section 22 of this Report - Recommendations.  
+
+
+
+Pincock, Allen & Holt AMENDED 14.1 
+80523  March 19, 2008
+
+14.0 SAMPLING METHOD AND APPROACH 
+
+PAH reviewed La Encantada's sampling program for the preparation of the Technical Report Amended 
+dated July 24, 2007.  Full description of sampling method and approach by La Encantada's geologic crews 
+is presented in the Technical Report Amended July 24, 2007.  Additionally, PAH also reviewed the La 
+Encantada sampling procedures for this Technical Report and did not notice changes in protocols that 
+may affect the results, other than improving in some areas, such as QA / QC with increasing number of 
+filed duplicates for drilling and reserve blocks samples. 
+
+The samples are brought into the La Encantada laboratory for preparation and assaying. Duplicate 
+samples are sent to Inspectorate Lab for assay checks. 
+
+In PAH's opinion, the channel sampling and methods applied by La Encantada exploration and mining 
+crews is done carefully and responsibility by well trained samplers. The sampling appears to reconcile 
+with silver / lead head assays for the processing plant, as well as with production and sales by Minera La 
+Encantada.  The channel samples appear to properly represent the mineralization of La Encantada 
+deposits, therefore, they are acceptable for resource and reserve estimates.  
+
+Figure 14-1 shows channel samples at the breccia milagros. 
+
+Figure 14-2 shows the Galena remnants at channel samples breccia milagros. 
+
+Figure 14-3 shows the breccia milagros sampling. 
+
+
+
+
+
+
+
+
+
+Pincock, Allen & Holt AMENDED 15.1 
+80523  March 19, 2008
+
+15.0 SAMPLE PREPARATION, ANALYSIS AND SECURITY 
+
+15.1 Sample Preparation 
+
+Channel, exploration, mine development and production, and plant samples are sent to La Encantada's 
+on-site laboratories for chemical analysis of silver, lead, iron, zinc and manganese. Silver assays are 
+carried out by fire assaying methods, while the rest of the elements are assayed by atomic absorption 
+(AA).  A typical channel sample received by the laboratory, weighing approximately 4 kilograms, is passed 
+through a jaw crusher to reduce it to a 1.3-centimeter (1/2") size.  A 500-gram split is taken and passed 
+through gyratory or disk crushers to reduce it to a 10-mesh (1/8") size.  A 200 to 300 gram split is taken 
+and placed in a drying oven at 120 degrees Centigrade.  After drying, the material is put into two 
+pulverizers, one disk pulverizer and one ring pulverizer, to grind the rock to minus 100 mesh. The 
+resulting pulp is homogenized and 10 grams taken for fire assay analysis of silver and gold for geology 
+samples and for concentrates; 20 grams for head samples; and 1 gram for precipitate samples. 
+
+The 10 gram pulps are placed in fusion crucibles and placed into an electric furnace for fusion into lead 
+buttons. The lead buttons are placed in cupels into an electric furnace for cupellation into a silver-gold 
+bead.  The bead is weighed and then put into nitric acid to dissolve away the silver and then the 
+remaining gold bead is weighed again. The microbalance used has a sensitivity of  + 1  per 10,000 
+(equivalent to an actual grade of  +0.1 gram per tonne), while the gold beads commonly range in weight 
+from 100 milligrams down to less than 1 milligram.  As a result, the determination of the smaller bead 
+weight is at or below the detection limits of the microbalance. 
+
+15.2 Laboratory Facilities 
+
+PAH notes that the La Encantada laboratories generally appear to be adequate, with reasonable cleaning 
+and organization.  The laboratory currently conducts about 800 samples by fire assay and AA per month, 
+including exploration samples, development samples, and mill samples. 
+
+More details on laboratory facilities are presented in Technical Report Amended of July 24, 2007. 
+
+FMS's procedure for quality controls is by sending drill core, mine samples and/or pulps to an outside 
+laboratory, usually Inspectorate Labs in Reno, Nevada.  Samples of concentrates are regularly sent to 
+Peñoles for check assays.  The laboratory duplicates pulp assays at 1 sample for every 10 and it includes 
+field duplicates, standard samples and introduction of blank samples.  
+
+15.3 Check Assaying 
+
+To evaluate sample quality control, the La Encantada personnel perform periodic check analyses on 
+samples. For the operating period from June to October 31, 2007, La Encantada has sent 96 samples to 
+Inspectorate Laboratories, an independent commercial laboratory in Reno, Nevada for duplicate analysis.  
+These include 22 samples from reserve blocks in addition to 22 more duplicates of pulps from the reserve 
+
+
+
+Pincock, Allen & Holt AMENDED 15.2 
+80523  March 19, 2008
+
+blocks.  La Encantada has also sent 35 duplicate samples and 17 pulp samples from the drillholes carried 
+out in the tailings deposits. Results of the assays and graphs are presented in the following Tables and 
+graphs.  La Encantada Silver Mine is mining and processing mineralization contained in oxides, which 
+presents highly variable metal concentrations due to its inherent genetic characteristics.  In this type of 
+mineral occurrence, the comparison of assays may present high variations, depending on the mineral 
+content of each sample.  High grade silver assays may present differences of up to 60 percent, while the 
+middle range grade samples usually result in close assays.  In overall comparison, however, within a 
+range of assays that represent very low to very high grades, the correlation is generally acceptable. 
+
+Tables 15-1 and 15-2, and Figures 15-1 and 15-2 show the assay results and graphs for samples of the 
+La Encantada reserve blocks as duplicate samples and as duplicate pulp samples.  The comparison is 
+between assays by the La Encantada mine's lab and Inspectorate Laboratories. 
+
+TABLE 15-1
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Sample Assays Checks
+RESERVES DUPLICATE SAMPLES
+
+Difference Difference Difference
+Inspectorate La Encantada Inspectorate La Encantada % Inspectorate La Encantada % Inspectorate La Encantada %
+
+141130 141427 128 30 327 0.08 -100 0.15 -100
+134893 141861 425 390 9 3.79 3.14 21 1.17 0.99 18
+141147 138230 111 140 -21 3.45 2.41 43 2.47 1.49 66
+141148 138241 72 30 139 2.12 0.19 1,016 0.59 -100
+141109 141246 425 490 -13 4.75 4.13 15 0.26 -100
+141101 135755 14 0 100 0.21 -100 0.07 -100
+141102 135766 295 350 -16 0.41 -100 0.88 -100
+141103 135777 16 0 100 0.16 -100 0.31 -100
+141108 141235 476 1,160 -59 3.76 3.79 -1 4.70 4.06 16
+141110 141257 128 100 28 0.13 -100 1.20 -100
+141112 141280 194 50 -13 0.37 -100 0.58 -100
+141132 141451 123 150 -18 1.88 -100 0.99 -100
+141111 141268 47 20 133 0.14 -100 0.70 -100
+141104 135791 391 330 19 2.84 2.50 14 7.55 6.73 12
+141128 141405 4 10 -58 0.06 -100 0.39 -100
+141127 141294 348 360 -3 0.65 -100 1.19 -100
+141131 141438 26 0 100 0.14 -100 0.04 -100
+141105 141202 309 300 3 5.40 3.13 73 4.62 2.58 79
+141129 141416 51 50 1 0.11 -100 0.38 -100
+141107 141224 195 220 -11 0.03 -100 7.48 5.02 49
+141106 141213 306 230 33 1.19 -100 5.44 3.33 63
+134875 135540 83 120 -31 2.75 3.27 -16 6.02 8.07 -25
+
+4 0 2.12 0.03 1.17 0.04
+476 1,160 5.40 4.13 7.55 8.07
+155 261 1.08 1.44 2.24 2.25
+189 206 3.61 1.28 4.93 1.82
+
+Sample ID
+
+Min
+Max
+
+StDev
+
+Correlation 0.83 0.67
+Average
+
+0.82
+
+Laboratory Silver g/tonne Laboratory Lead % Laboratory Zinc %
+
+
+
+Pincock, Allen & Holt AMENDED 15.3 
+80523  March 19, 2008
+
+TABLE 15-2
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Sample Assays Checks
+RESERVES DUPLICATE PULP SAMPLES
+
+Difference Difference Difference
+Inspectorate La Encantada Inspectorate La Encantada % Inspectorate La Encantada % Inspectorate La Encantada %
+
+141257 141257 119 100 19 0.13 -100 1.20 -100
+141280 141280 77 50 55 0.37 -100 0.58 -100
+141451 141451 166 150 11 1.88 -100 0.99 -100
+141294 141294 399 360 11 0.65 -100 1.19 -100
+141268 141268 29 20 43 0.14 -100 0.70 -100
+141405 141405 5 10 -50 0.06 -100 0.39 -100
+135791 135791 326 330 -1 3.06 2.50 22 6.10 6.73 -9
+141224 141224 235 220 7 0.03 -100 6.99 5.02 39
+141416 141416 64 50 28 0.11 -100 0.38 -100
+141202 141202 335 300 12 5.95 3.13 90 4.13 2.58 60
+141438 141438 21 0 100 0.14 -100 0.04 -100
+141427 141427 20 30 -35 0.08 -100 0.15 -100
+141213 141213 247 230 7 1.85 1.19 55 4.74 3.33 42
+141246 141246 554 490 13 6.11 4.13 48 0.26 -100
+135766 135766 341 350 -3 0.41 -100 0.88 -100
+141235 141235 1,184 1,160 2 4.51 3.79 19 4.69 4.06 16
+135777 135777 20 0 100 0.16 -100 0.31 -100
+141872 141872 32 50 -37 0.10 -100 0.96 -100
+138241 138241 32 30 8 0.19 -100 0.59 -100
+138230 138230 124 140 -12 3.55 2.41 47 1.86 1.49 25
+135755 135755 13 0 100 0.21 -100 0.07 -100
+
+135595 AS 135595 140 150 -7 2.57 0.68 278 4.57 4.74 -4
+
+5 0 1.85 0.03 1.86 0.04
+1,184 1,160 6.11 4.13 6.99 6.73
+267 259 1.65 1.32 1.61 1.90
+204 192 3.94 1.02 4.73 1.67
+
+Laboratory Silver g/tonne Laboratory Lead % Laboratory Zinc %
+
+Average
+
+Sample ID
+
+Min
+Max
+
+StDev
+
+Correlation 1.00 0.86 0.84
+
+
+
+
+
+
+
+Pincock, Allen & Holt AMENDED 15.6 
+80523  March 19, 2008
+
+The reserve duplicate samples mineral content range includes assays that vary from 0 to 1,160 g/tonne 
+Ag.  The average correlation coefficient of the silver grades is acceptable for the set of samples, at 83 
+percent, although the difference shows slightly higher assays by the La Encantada lab.  The reserve pulp 
+duplicate samples, for the same set of duplicate samples, range in silver values from 0 to 1,160 g/tonne 
+Ag with a general correlation of 100 percent and closed assays between both labs.  Therefore, major 
+differences may result during the sample preparation process.   PAH believes that the reproducibility of 
+silver grades is reasonable, within acceptable industry practices.  
+
+La Encantada Silver Mine drilled a total of 49 drillholes within the old tailings dams, No. 1 and No. 2 of 
+Peñoles' historic operation.  La Encantada duplicated 35 samples of tailings core and 17 pulp tailings 
+samples. The results are presented in Tables 15-3 and 15-4 and represented by graphs in figures 15-3 
+and 15-4. The range of silver assays is from 30 g/tonne Ag to 310 g/tonne Ag and the resulting 
+correlation is 76 percent.  The pulp duplicate samples resulted in a correlation of 98 percent for a range 
+of assays between 10 g/tonne Ag and 310 g/tonne Ag. Both sets of samples include different samples. 
+
+TABLE 15-3
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Sample Assays Checks
+TAILINGS DRILL DUPLICATE SAMPLES
+
+Difference Difference Difference
+Inspectorate La Encantada Inspectorate La Encantada % Inspectorate La Encantada % Inspectorate La Encantada %
+
+135701 136667 73 40 83 1.73 1.88 -7.98 4.16 0.93 347.31
+135702 136679 60 60 1 1.84 1.63 12.88 3.37 1.80 87.22
+135703 136694 206 30 588 4.51 1.24 263.71 4.99 1.86 168.28
+135712 135640 57 50 14 1.44 0.68 111.76 5.84 3.77 54.91
+135713 135656 83 50 66 2.10 1.42 47.89 6.71 3.02 122.19
+135714 135667 68 60 13 2.65 1.88 40.96 5.89 2.41 144.40
+135715 135681 338 230 47 3.91 3.24 20.68 2.88 1.74 65.52
+135716 135698 281 180 56 3.71 2.88 28.82 2.84 1.61 76.40
+135717 137127 282 260 8 3.36 2.83 18.73 2.54 2.48 2.42
+135718 137138 81 60 35 3.43 3.02 13.58 4.76 4.79 -0.63
+135719 137151 302 140 116 3.38 1.51 123.84 2.65 2.44 8.61
+135720 137174 238 210 13 3.23 2.67 20.97 2.97 2.51 18.33
+135721 137187 311 310 0 3.51 3.33 5.41 2.47 2.73 -9.52
+135722 137508 170 260 -34 3.38 2.79 21.15 2.43 2.03 19.70
+135723 137519 67 80 -17 3.94 3.51 12.25 3.35 3.32 0.90
+135724 137530 173 140 24 2.23 1.92 16.15 2.51 2.15 16.74
+135725 137541 76 100 -24 3.51 2.57 36.58 4.50 2.41 86.72
+135726 137555 279 300 -7 3.38 2.86 18.18 2.52 2.53 -0.40
+135727 137566 86 90 -4 3.36 2.12 58.49 4.31 3.56 21.07
+135728 141503 119 150 -21 2.33 1.87 24.60 2.62 2.86 -8.39
+135729 141514 92 100 -8 3.21 1.63 96.93 4.51 4.78 -5.65
+135730 141539 107 140 -24 2.56 2.20 16.36 2.62 1.96 33.67
+135731 141555 180 210 -14 3.04 2.23 36.32 2.20 1.87 17.65
+135732 141566 75 120 -38 4.45 3.46 28.61 4.30 5.71 -24.69
+135733 141577 136 120 13 3.42 2.57 33.07 2.35 2.13 10.33
+135734 141591 178 190 -6 4.13 2.94 40.48 2.00 1.60 25.00
+135735 141605 155 150 4 2.76 1.95 41.54 2.38 2.02 17.82
+135736 141618 139 170 -18 2.60 1.74 49.43 2.25 1.83 22.95
+135737 141630 166 180 -8 2.81 2.40 17.08 2.44 2.05 19.02
+135738 141648 139 140 -1 2.20 2.26 -2.65 2.45 2.21 10.86
+135739 141659 103 60 72 2.78 2.11 31.75 4.78 4.02 18.91
+135740 141672 160 140 15 4.81 4.52 6.42 2.10 2.09 0.48
+135741 141698 203 120 70 2.85 2.09 36.36 2.42 2.17 11.52
+135742 141842 148 140 5 2.22 1.72 29.07 2.63 2.37 10.97
+135743 141854 210 220 -4 2.80 2.02 38.61 2.30 2.13 7.98
+
+57 30 1.44 0.68 2.00 0.93
+338 310 4.81 4.52 6.71 5.71
+81 74 0.80 0.76 1.26 1.01
+158 143 3.07 2.33 3.32 2.57
+
+Sample ID Laboratory Silver g/tonne Laboratory Lead % Laboratory Zinc %
+
+Min
+Max
+
+StDev
+Average
+
+Correlation 0.76 0.71 0.50
+
+
+
+Pincock, Allen & Holt AMENDED 15.7 
+80523  March 19, 2008
+
+TABLE 15-4
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Sample Assays Checks
+TAILINGS DRILL PULP DUPLICATE SAMPLES
+
+Difference Difference Difference
+Inspectorate La Encantada Inspectorate La Encantada % Inspectorate La Encantada % Inspectorate La Encantada %
+136622 AS 136622 12 10 23 0.42 0.36 17 0.41 0.41 0
+136633 AS 136633 110 100 10 2.70 1.86 45 2.97 2.53 17
+136634 AS 136644 115 110 4 3.00 2.39 26 2.85 4.58 -38
+135641 AS 135641 58 60 -3 1.40 0.59 137 4.24 4.63 -8
+135656 AS 135656 84 50 68 2.04 1.42 44 5.28 3.02 75
+135667 AS 135667 76 60 27 2.59 1.88 38 5.09 2.41 111
+136667 AS 136667 77 40 93 2.39 1.88 27 2.02 0.93 117
+136679 AS 136679 81 60 35 2.41 1.63 48 3.93 1.80 118
+136694 AS 136694 55 30 83 1.59 1.24 28 4.16 1.86 124
+137187 AS 137187 299 310 -3 3.92 3.33 18 2.66 2.73 -3
+137519 AS 137519 65 80 -19 3.85 3.51 10 3.35 3.32 1
+137530 AS 137530 167 140 19 2.23 1.92 16 2.46 2.15 14
+137541 AS 137541 97 100 -3 3.01 2.57 17 5.14 2.41 113
+137555 AS 137555 283 300 -6 3.27 2.86 14 2.52 2.53 0
+137566 AS 137566 83 90 -8 3.00 2.12 42 4.71 3.56 32
+141503 AS 141503 161 150 7 2.41 1.87 29 2.67 2.86 -7
+141514 AS 141514 99 100 -1 3.28 1.63 101 4.37 4.78 -9
+
+12 10 0.42 0.36 0.41 0.41
+299 310 3.92 3.51 5.28 4.78
+76 84 0.88 0.84 1.31 1.21
+113 105 2.56 1.94 3.46 2.74
+
+0.98 0.92 0.48
+Average
+
+Min
+Max
+
+StDev
+
+Correlation
+
+Sample ID Laboratory Silver g/tonne Laboratory Lead % Laboratory Zinc %
+
+
+
+
+
+
+
+
+
+
+
+Pincock, Allen & Holt AMENDED 15.12 
+80523  March 19, 2008
+
+La Encantada Silver Mine has implemented a strict program of Quality Control by introduction of blank 
+and standard samples, as well as the insertion of field duplicate samples and pulp duplicates to keep a 
+close control of the assay results. PAH recommends taking special care during the sample preparation 
+process, which shows higher differences in assay checks. 
+
+15.4 Conclusion
+
+Overall, PAH found that the results from the check assaying are reasonable.  It is PAH's opinion that the 
+sample methods and analyses are representative of the deposits at La Encantada mine, and that most of 
+La Encantada's data was generated by procedures that were carried out according to accepted industry 
+standards using accepted practices. 
+
+PAH finds that the exploration, sampling, and laboratory analysis for La Encantada operation is being 
+conducted by FMS in a reasonable manner consistent with standard industry practices.  PAH would 
+expect the sampling results to be reasonably representative of the deposits mineralization and believes 
+that they may be used with acceptable confidence in the estimation of the mineable reserves. 
+
+
+
+Pincock, Allen & Holt AMENDED 16.1 
+80523  March 19, 2008
+
+16.0 DATA VERIFICATION 
+
+PAH has not taken independent samples from the surface or underground exposures of the mineral 
+concentrations at La Encantada mine, as other Qualified Persons have previously sampled the 
+mineralization as discussed in this report, and the production records are the most reliable data of 
+mineralization contained in the ore deposits under development at the mine.  Peñoles developed and 
+operated La Encantada mine for over 25 years producing over 80 million ounces of silver.  Peñoles is one 
+of the leading Mexican mining companies and the world's largest silver producer.  
+
+FMS has established in a short operating period a systematic procedure to verify data and quality control 
+which is proving effective and accurate.  Assay data and information generated by the operation is 
+transmitted manually; however, the entire paper trail is accessible and available for inspection. 
+
+FMS initiated an effective control of La Encantada operations since November 2006 when it took control 
+of the mining operation.  La Encantada has established an active program of assay checks for samples 
+and pulps of exploration, production and concentrates at the mine's lab in comparison to assays 
+performed by Inspectorate Laboratories of Durango city and Reno, Nevada, and concentrate sampling 
+and assaying program by a sales representative in the city of Torreón, Coahuila to check the assays 
+reported by the MET-MEX Peñoles smelter. 
+
+Table 16-1 presents a summary of concentrate assays for August, 2007 of shipments to MET-MEX 
+Peñoles.  This summary presents a comparison of assays by La Encantada lab and Peñoles. 
+
+The coefficient of correlation is excellent for all determinations, including weight (99.9 percent), silver 
+(97.5 percent), and lead (93 percent).  
+
+Figure 16-1 shows correlation between silver assays of both laboratories.  
+
+PAH believes that an adequate amount of checking has been conducted and that the results are 
+representative of the mineralization and concentrates produced at La Encantada and shipped to the 
+smelter. 
+
+PAH's conclusion is that the results from check assaying are reasonable, including appropriate preparation 
+procedures; that the sampling results appear to be reasonably representative of the deposit 
+mineralization and concentrates, and should be usable with acceptable confidence in the estimation of 
+the mineable reserves.
+
+
+
+Pincock, Allen & Holt AMENDED 16.2 
+80523  March 19, 2008
+
+TABLE 16-1
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Concentrate Checks for August, 2007 Shipments.
+
+Shipment Date Weight Content Content
+No (Tonnes) Silver lead Silver lead Tonnes Siver Lead Silver Lead
+
+Kg/tonne % Kg Tonnes Kg/tonne % Kg Tonnes
+DES2007-79 2-Aug-07 31.935      10.100    15.650    322.544 4.998 31.987 10.109    16.170    323.357 5.172
+DES2007-80 6-Aug-07 29.959      9.205      13.660    275.773 4.092 30.642 9.103      15.030    278.934 4.605
+DES2007-81 8-Aug-07 63.741      7.602      11.843    484.559 7.549 63.711 6.893      12.510    439.160 7.970
+DES2007-82 11-Aug-07 29.876      6.590      11.280    196.883 3.370 30.562 6.492      11.440    198.409 3.496
+DES2007-83 13-Aug-07 59.673      5.837      10.860    348.311 6.480 60.488 5.849      11.140    353.794 6.738
+DES2007-85 18-Aug-07 31.060      3.553      10.160    110.356 3.156 31.533 3.680      10.660    116.041 3.361
+DES2007-86 20-Aug-07 30.646      3.785      8.900      115.995 2.727 31.202 3.809      10.360    118.848 3.233
+DES2007-87 22-Aug-07 31.492      5.685      11.080    179.032 3.489 30.527 4.274      11.040    130.472 3.370
+DES2007-88 24-Aug-07 31.864      6.990      12.000    222.729 3.824 32.589 6.893      12.510    224.636 4.077
+DES2007-89 28-Aug-07 30.756      6.740      10.690    207.295 3.288 30.727 6.647      10.930    204.242 3.358
+DES2007-90 28-Aug-07 31.061      5.995      11.550    186.211 3.588 31.112 5.883      10.330    183.032 3.214
+
+Total 402.063 72.082 127.673 2,649.688 46.561 405.080 69.632 132.120 2,570.926 48.596
+Average 36.551 6.553 11.607 36.825 6.330 12.011
+Max 63.741 10.100 15.650 63.711 10.109 16.170
+Min 29.876 3.553 8.900 30.527 3.680 10.330
+Correlation 0.999 0.975 0.930
+
+Concentrates
+Assays Assays
+
+Met Mex Peñoles SA DE CVFirst Majestic Silver Corp.
+
+
+
+
+
+Pincock, Allen & Holt AMENDED 17.1 
+80523  March 19, 2008
+
+17.0 ADJACENT PROPERTIES 
+
+No adjacent properties exist within the surrounding area of La Encantada.  The El Plomo mine was 
+operated as an independent mine for a period of time during the early stages of La Encantada 
+development; however, around 1983 it was purchased by Minera La Encantada and it has been part of La 
+Encantada mine since then.  Underground developments of La Encantada and El Plomo were connected 
+and established as one underground system.  No other mine exists nearby the La Encantada area. 
+
+La Encantada mine is located at about 100km from the cities of Ocampo and Músquiz, in Coahuila, 
+Mexico.   
+
+La Encantada mine housing facilities include 180 single family houses, events center, hotel and three 
+restaurants, sport facilities for soccer, squash and bowling, apart from the administration offices and 
+warehouses, etc. Refurbishing of required facilities is in progress. 
+
+FMS has consolidated ownership of the La Encantada mine area by acquiring all mining claims and 
+concessions around the property.  Surface rights have also been acquired by La Encantada from the local 
+"Ejido" (land community) under expropriation proceedings in accordance with the Mining Laws. 
+
+
+
+Pincock, Allen & Holt AMENDED 18.1 
+80523  March 19, 2008
+
+18.0 METALLURGICAL TESTING AND MINERAL PROCESSING 
+
+The ore processed at La Encantada is a complex mixture of oxide and sulfide minerals and is 
+consequently difficult to process efficiently.  The principal economic minerals are as follows: 
+
+� Argentite (Ag2S)
+� Acanthite (Ag2S)
+� Cerrussite (PbCO3)
+
+The gangue is principally limestone and hematite with minor amounts of quartz, manganese, zinc, and 
+tin.
+
+The ore is relatively soft and friable making for easy crushing and grinding.  The ore processing method 
+consists of crushing and grinding followed by two sequential flotation steps, the first consists of sulfide 
+mineral flotation and the second is oxide mineral flotation.  The reason for floating the ore in two stages 
+is because the reagents used for oxide flotation are detrimental to sulfide flotation.  Recoveries are poor, 
+a reflection of the difficult mineralogy of the rock; operating costs are modest, a consequence of the 
+softness of the rock.       
+
+Metallurgical testwork is in progress in the following two areas: 
+
+� Flotation of current and future ore: the results are about the same as that of the plant. 
+
+� Cyanide leaching of the flotation tails, both old and new material: preliminary silver recovery after 
+cyanidation is about 48 percent. Bulk testing is anticipated to take place at FMS's La Parrilla Silver 
+Mine in Durango. 
+
+Figure 18-1 shows the sulfidation of oxides in flotation concentrates. 
+
+Figure 18-2 shows the drying concentrates.
+
+
+
+
+
+
+
+Pincock, Allen & Holt AMENDED 19.1 
+80523  March 19, 2008
+
+19.0 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES 
+
+La Encantada uses conventional, manual methods, assisted by computer databases, to calculate the 
+tonnage and average grades of the mineral Resources and Reserves.  FMS has initiated the compilation 
+of all data to incorporate it into a database and create a geologic model in SURPAC software which has 
+been acquired by the company.   FMS has reviewed and calculated Resources and Reserves for La 
+Encantada to assess the current status of the property and to use it as a basis for future updated 
+estimates.  FMS assumed control of La Encantada Silver Mine operation from November 2006.  FMS 
+estimated the first Resource / Reserve base for the La Encantada mine as of May 31, 2007. This estimate 
+is an update of May 31, 2007 Resource / Reserve base and it incorporates exploration and underground 
+development results for the mine.  During the current period La Encantada mined a total of 162,279 
+tonnes of ore, from which only 21,293 tonnes were mined out of the previously reported Reserves and 
+also increased the Reserves during the period by about 575,600 tonnes.  This Resource / Reserve update 
+calculation has been estimated as of October 31, 2007. 
+
+19.1 Introduction 
+
+FMS estimated proven and probable Reserves, as of May 31, 2007 amounted to 633,506 tonnes at an 
+average grade of 403 g/tonne Ag and 1.93 percent Pb.  Cutoff grade was estimated as 271 g/tonne Ag 
+only, and 262 g/tonne Ah equivalent net of Pb credit.  The estimated Reserves were included in the 
+deposits of: Breccia Milagros, Azul y Oro, Breccia Keylor, Cuerpo 660, Mantos 314, Chicotón Stope, 
+Cedritos and Cola Gallo deposits. 
+
+FMS has implemented exploration programs based on drifting, drilling and channel sampling.  During this 
+reported period, May through October 2007, FMS has increased the silver contained in the Resource / 
+Reserve base for the La Encantada mine by about 250 percent including Proven and Probable Reserves 
+and Measured and Indicated resources.  Additional inferred resources have been delineated and other 
+exploration targets are under further investigations.  Additional resources and reserves were developed 
+within the La Encantada mine in the Breccia Milagros, Bonanza, San Francisco, La Piedra deposits.  Dump 
+materials and tailings dams have been sampled and measured resulting in additional Reserves and 
+Resources for the La Encantada mine. 
+
+19.2 Methodology 
+
+Under the La Encantada mine's diverse geologic environment, the Resource and Reserve blocks have 
+been defined at the various drift levels where sampling has found mineable ore within the mineralized 
+zones.  The Reserve tonnage and grade are based largely on channel samples along drifts, crosscuts and 
+other mine workings.  Drilling from underground sites was initiated to explore the San Francisco 
+mineralized structures to depth.  This program was completed with five drillholes and a total depth of 565 
+meters. FMS's surface drilling program has been on hold due to delay in delivery of drilling equipment for 
+development of an extensive exploration program. Reserve and Resource blocks range in length 
+according to variable extensions of breccia or mineralized zones, and are from 50 to 150 meters in length 
+
+
+
+Pincock, Allen & Holt AMENDED 19.2 
+80523  March 19, 2008
+
+along the mineralized structures.  The Resource and Reserve blocks are developed by drifting across 
+breccia zones and structures. Proven Reserve blocks are projected up to 15 meters from the drift in 
+which the channel samples were taken, and Probable blocks extending another 15 meters beyond the 
+Proven blocks. 
+
+All adits, drifts ramps and access development headings are regularly surveyed by La Encantada staff.  
+The mineralized zones are subdivided into vertical sections through the multiple horizontal levels, such 
+that each vertical section has 10 meter horizontal separation from the immediately adjacent sections.  For 
+Reserve estimation, the cross sectional area of mineralization is drawn on each of these 10-meter spaced 
+sections using Auto CAD software and the assayed sample lengths.  The volume of mineralization on 
+each section is calculated for the mineralized zone extending 5 meters on either side of the section.  The 
+density factor (specific gravity) is then input into the calculation, and tonnage is calculated based on the 
+formula; Length (in meters) X Width (in meters) X Height (in meters) X Specific Gravity = tonnes of 
+material. 
+
+The density factor used to convert Reserve block volumes into tonnes has been determined as a 
+weighted average from ore samples representative of the various deposit areas. The density tests were 
+performed by Peñoles and by FMS. Numerous samples have been sent to an external lab (Inspectorate 
+Lab) for determination.  Breccia Milagros samples density determinations have reported an average of 
+2.85.  La Encantada continues to follow a conservative approach by taking an average density of 2.70. 
+
+Figure 19–1 shows the density determinations Breccia Milagros samples.  
+
+PAH believes that, on average, the density for mineralization is reasonable.  PAH recommends that 
+additional representative samples be taken periodically, as checks for bulk density determination, to 
+ensure and properly adjust the application of an appropriate density factor as required.  
+
+To estimate the average grade and thickness for each 10-meter section that crosses a Reserve block, La 
+Encantada composites all the sample grades in the drift that occur within 5 meters on either side of the 
+section.  La Encantada has determined that the most appropriate filter for grade outliers is to assign a 
+top grade of 1,000 g/tonne Ag to those samples.  The total length of samples in the composite is then 
+divided by the total number of composites, giving the average width of the mineralization in the drift at 
+that section.  Similarly, the average silver grade of the samples, weighted by length, gives the average 
+silver grade for the drift at that section. 
+
+The tonnes and grade for each Reserve block are then determined by combining the tonnes and grade 
+results obtained for each 10-meter section that crosses the block.  The Resource block tonnes and grade 
+are tabulated by La Encantada personnel on a series of spreadsheet summaries. 
+
+PAH notes that the sampling conducted across the mineralized zones for use in the Reserve estimates is 
+done with cut-off grade and width considerations, at a minimum mining width of 2.00m.  This minimum 
+width typically includes zones within the structures that are above the cutoff grade, as well as sub-ore  
+
+
+
+
+
+Pincock, Allen & Holt AMENDED 19.4 
+80523  March 19, 2008
+
+grade mineralization below the cutoff grade, in which case La Encantada eliminates these areas when 
+possible.
+
+PAH also notes that in a few local areas, the drift is wholly enclosed by the mineralized structures and, 
+unless there are some additional crosscuts or drilling, the vein width is taken as that measured across the 
+confines of the drift opening.  PAH recommends that the true structure widths, measured by cross cuts 
+and/or the drill holes, be used as much as possible in the blocks of Reserve and Resource estimation.  
+
+The Reserve blocks estimated by La Encantada are not included within the Resource blocks. 
+
+In PAH's opinion the Reserve and Resource block estimates carried out by La Encantada have been 
+reasonably prepared and conform to acceptable engineering standards for reporting of Reserves. 
+
+19.3 Cutoff Grade Calculations 
+
+For the current Reserve, PAH has calculated breakeven cutoff grades for both the underground mine 
+operations and also the dump recovery program.  The basic parameters applicable to the cutoff grade 
+calculations for the underground mine are shown in the following table: 
+
+Equating these parameters (U/G mine only), the breakeven cutoff grade for silver (CAg), based solely on 
+silver for total operating costs (Table 25-7) and process recoveries anticipated is as follows: 
+
+CMAg =Total operating costs/ (Silver price X mill recovery X smelter payable metal) 
+
+CMAg= $53.33 per tonne/($10.50 X 0.65 X 0.95) =8.23 oz Ag per tonne or 256 g Ag/tonne.
+
+TABLE 19-1
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Cutoff Grade Parameters
+Concepts Costs and Other
+Average Total Operating Cost Per Tonne $53.33
+COG Silver only (g/t Ag) 256
+COG - Base Metal Credits (g/t Ag) 241
+Silver Recovery in Mill (%) 65%
+Payable Silver from Smelter 95%
+Payable Lead from Smelter 95%
+Silver Price ($/oz.) $10.50
+Lead Price ($/lb.) $0.68
+Zinc Price ($/lb.) $1.16
+Monetary Exchange Rate $10.94 pesos: US$1.00
+
+
+
+Pincock, Allen & Holt AMENDED 19.5 
+80523  March 19, 2008
+
+However, there is a small lead contribution for La Encantada ores. Production of lead in the concentrates 
+from the mine for all of 2007 is about 320 tonnes.  The calculation for lead contribution is as follows: 
+
+Revenues for Mine from lead (Rm) = Lbs lead in concentrates X payable from smelter X lead price. 
+
+Rm =320 t X 2204 lbs/t  X 0.95  X $0.68 
+
+Rm = $455,735 
+
+Rm/ tonne mined = $455,735 / 92,993 = $4.90/ tonne. 
+
+The silver equivalent of lead contribution = $4.90 /$10.50 = 0.47 oz Ag/tonne or 15 g Ag/tonne. 
+
+The adjusted mine cutoff grade (CMAg) is then:256 269 g Ag/tonne Ag-15 g Ag/tonne = 241 g 
+Ag/tonne.
+
+The basic parameters used for the cutoff grade calculations for the recovery of dump material are shown 
+in the following Table 19-2. 
+
+Equating these parameters (dumps only), the breakeven cutoff grade for mining and processing of the 
+"in-situ" dumps, based solely on silver for the total operating costs (Table 25-8) and process recoveries 
+anticipated, is as follows: 
+
+CDAg = Total Operating Costs/ (silver price X mill recovery X smelter payable metal). 
+
+CDAg = $17.13/ $10.50 X 0.547 X 0.95) = 3.14 oz Ag/tonne or 98 g Ag/tonne.
+
+TABLE 19-2
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Cutoff Grade Parameters, Dump Recovery Only
+Concepts Costs and Other
+Average Total Operating Cost Per Tonne $17.13
+COG Silver only (g/t Ag) 98
+COG - Base Metal Credits (g/t Ag) 91
+Silver Recovery in Mill (%) 54.70%
+Payable Silver from Smelter 95%
+Payable Lead from Smelter 95%
+Silver Price ($/oz.) $10.50
+Lead Price ($/lb.) $0.68
+Zinc Price ($/lb.) $1.16
+Monetary Exchange Rate $10.94 pesos: $1.00
+
+
+
+Pincock, Allen & Holt AMENDED 19.6 
+80523  March 19, 2008
+
+A lead contribution is also applicable for recovery of dump material.  About 106.9 tonnes of lead in 
+concentrates will be produced through October 31, 2007.  The calculation for the lead contribution is as 
+follows:
+
+Revenues for lead from Dumps (Rd)= Lbs in concentrates X payable from smelter X lead price. 
+
+Rd = 106.9 tonnes X 2204 lbs/t X 0.95 X $0.68 
+
+Rd = $152,244 or $152,200 
+
+Rd per tonne of dumps processed = $152,200/69,300 = $2.20/tonne. 
+
+Ag Equivalent per tonne = Rd/ Ag price = $2.20/$10.50 = 0.21 oz Ag/tonne or 7 g Ag/tonne. 
+
+Adjusted Cut-off Grade (CDAg) for dumps = 98g Ag/tonne – 7g Ag/tonne = 91 g Ag/tonne
+
+19.4 Reserve Estimates 
+
+PAH has reviewed La Encantada Reserve update of October 31, 2007 along with factors for mining 
+dilution and recovery.  In addition, the sampling methods, assaying procedures, compositing methods, 
+data handling, cutoff grade application and grade calculations were reviewed.  Several Reserve blocks 
+were cross-checked to track data handling from the initial assays to the final tonnage and grade 
+calculation to ensure that the stated methods and practices were observed. 
+
+La Encantada has estimated mineable Reserves for the following deposits: 
+
+� Breccia Milagros 
+� Azul y Oro 
+� Breccia Keylor 
+� Cuerpo 660 
+� Mantos 314 
+� Breccia Chicotón 
+� Cedritos
+� Cola Gallo 
+� Bonanza
+� San Francisco 
+� La Piedra, and 
+� Stockpiles at the mine and at the plant patios. 
+
+The total "in-situ" diluted Reserve at a minimum mining width of 2.00m, as reviewed by PAH, is 1.209 
+million tonnes averaging 312 grams (10.03 oz) per tonne silver and 1.77 percent (39 lb/tonne) lead, for a 
+total of 12.6 million contained ounces of silver net of lead credit.  As discussed previously in the 
+
+
+
+Pincock, Allen & Holt AMENDED 19.7 
+80523  March 19, 2008
+
+calculation methodology section, the proven ore category has been projected up to 15 meters from the 
+drift sample data, while the probable ore category is projected another 15 meters beyond the proven ore. 
+
+La Encantada has been processing pre-screened dump materials.  Results for the month of October 2007 
+indicate that screened dumps yield about 40 percent of tonnage with increased silver grade from about 
+67 g/tonne to about 131 g/tonne; therefore, the dump materials have been included as an Indicated 
+Resource due to silver content of an average grade below the cutoff grade.  Estimated recovered 
+screened tonnage from the measured dumps is about 225,000 tonnes. 
+
+Table 19-3 presents a summary of La Encantada Proven and Probable Reserves. 
+
+Figures 19-2 to 19-5 show cross sections and plan view of some of the different Reserve and Resource 
+areas at La Encantada Silver Mine. 
+
+La Encantada deposits occur in breccia zones and faults or fracturing intersections that make wide and 
+irregular deposits.  These generally present widths greater than 2.00m which is estimated to be the 
+minimum mining width due to the mining equipment in use at the mine. Therefore, mining dilution is only 
+significant when the mining is developed along narrow structures.  Provisions have been taken to include 
+the mining dilution for those areas. 
+
+TABLE 19-3
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+
+DEPOSIT CATEGORY METRIC TONNES WIDTH
+La Encantada Reserves meters Silver, g/tonne Lead, % Zinc, % (4) Silver (Only) oz. Silver (Eq) oz.
+
+Mantos 314 Proven 2,444 4.58 2,423 27.10 0.00 190,391 191,569
+Chicotón Proven 2,462 2.55 1,114 20.50 0.00 88,179 89,366
+Breccia Keylor Proven 19,108 3.40 816 4.88 2.18 501,299 510,514
+Azul y Oro Proven 15,567 2.69 464 0.19 0.54 232,228 239,735
+Stockpile Patios Proven 1,360 0.00 420 2.80 0.00 18,365 19,020
+Stockpile Mine Proven 2,182 0.00 376 2.60 0.00 26,377 27,430
+San Francisco Proven 72,483 2.26 369 1.09 0.33 859,911 894,867
+Breccia Milagros Proven 312,572 Variable > 2.00 336 0.91 0.47 3,376,606 3,527,347
+La Piedra Proven 9,570 2.84 305 3.27 2.42 93,843 98,458
+Cola Gallo Proven 4,971 4.66 296 5.60 0.00 47,307 49,704
+Cuerpo 660 E Proven 124,962 2.00 292 4.75 0.99 1,173,145 1,233,410
+Terreros (5) Proven 225,658 0.00 131 1.29 1.53 950,414 1,001,200
+Mine Dumps Proven 57,345 Variable > 2.00 94 0.00 0.00 173,306 186,212
+TOTAL Proven 850,684 Over 2.00 283 1.80 0.84 7,731,371 8,068,833
+
+Breccia Keylor Probable 16,229 3.40 770 4.90 2.05 401,766 409,593
+Azul y Oro Probable 25,004 2.62 525 1.66 0.48 422,046 434,104
+Cuerpo 660 E Probable 75,632 2.00 352 4.44 2.25 855,932 892,406
+Breccia Milagros Probable 159,262 Variable > 2.00 349 0.27 0.14 1,787,597 1,864,403
+San Francisco Probable 79,582 2.31 345 1.16 0.28 882,724 921,103
+La Piedra Probable 2,740 2.48 330 5.91 2.95 29,071 30,392
+TOTAL Probable 358,449 Over 2.00 380 1.70 0.75 4,379,136 4,552,002
+
+Total Proven 850,684 Over 2.00 283 1.80 0.84 7,731,371 8,068,833
+Total Probable 358,449 Over 2.00 380 1.70 0.75 4,379,136 4,552,002
+
+1,209,133 Over 2.00 312 1.77 0.81 12,110,507 12,620,835
+
+Mineral Reserves Prepared by FMS, Reviewd by PAH. As of October 31, 2007 (1)
+
+GRADE METAL CONTAINED (2)
+Total Proven Reserves (3)
+
+(1) Cut Off Grade estimated as 256 g/tonne Ag only; and 241 g/tonne Ag eq net of Pb credit. Cut Off Grade for dumps is 98 g/tonne Ag only; and 91 g/tonne Ag eq net of Pb credit.
+
+(3) Mining dilution is included at a minimum mining width of 2.00m. Estimates do not include mining recovery.
+(4) Zinc is not recovered
+
+Total Probable Reserves (3)
+(5) Dump represents 40% of "in situ" measured tonnes.
+
+(2) Silver equivalent includes Pb credit, at prices US$10.50/oz-Ag, $0.68/lb-Pb. Pb credit=15 g/tonne-Ag. For dumps Pb credit=7 g/tonne Ag.
+
+Total Reserves Proven plus Probable (3)
+
+(3) Mining dilution is included at a minimum mining width of 2.00m. Estimates do not include mining recovery.
+(4) Zinc is not recovered
+
+(1) Cut Off Grade estimated as 256 g/tonne Ag only; and 241 g/tonne Ag eq net of Pb credit. Cut Off Grade for dumps is 98 g/tonne Ag only; and 91 g/tonne Ag eq net of Pb credit.
+(2) Silver equivalent includes Pb credit, at prices US$10.50/oz-Ag, $0.68/lb-Pb. Pb credit=15 g/tonne-Ag. For dumps Pb credit=7 g/tonne Ag.
+
+(4) Zinc is not recovered
+
+Total Reserves Proven + Probable
+(1) Cut Off Grade estimated as 256 g/tonne Ag only; and 241 g/tonne Ag eq net of Pb credit.
+(2) Silver equivalent includes Pb credit, at prices US$10.50/oz-Ag, $0.68/lb-Pb. Pb credit=15 g/tonne-Ag.
+(3) Mining dilution is included at a minimum mining width of 2.00m. Estimates do not include mining recovery.
+
+
+
+PROBADO T.M. Ag Pb Zn
+g/t % %
+
+BX-M 03 66,744          432            
+BX-M 04 56,356          432            
+
+BX-M 04-A 37,286          425            1.40      0.82           
+BX-M 05 54,688          413            3.52      1.91           
+BX-M 06 46,049          307            3.34      1.70           
+BX-M 07 59,778          225            1.38      0.70           
+BX-M 08 43,659          167            
+
+Sub-total 364,559        347            0.65      0.33           
+
+PROBABLE T.M. Ag Pb Zn
+g/t % %
+
+BX-M 02 66,744          432            
+BX-M 09 43,659          167            
+
+Sub-total 110,403        327            -        -             
+
+PROB + PROBL. 474,962        342            0.50      0.25           
+
+FIRST MAJESTIC SILVER CORP
+UNIDAD LA ENCANTADA
+
+ RESERVAS A OCTUBRE 2007
+
+BRECHA MILAGROS
+
+MEDIDO T.M. Ag Pb Zn
+g/t % %
+
+BX-M 01 186,883        432            
+BX-M 10 218,295        167            
+
+TOTAL 405,178        289            -        -             
+
+FIRST MAJESTIC SILVER CORP
+UNIDAD LA ENCANTADA
+
+RECURSOS A OCTUBRE 2007
+
+BRECHA MILAGROS
+
+
+
+PROBADO T.M. Ag Pb Zn
+g/t % %
+
+BZ-02 3,082         183            2.85           2.99           
+BZ-03 3,082         183            2.85           2.99           
+
+Total 6,165 183            2.85           2.99           
+
+PROBABLE T.M. Ag Pb Zn
+g/t % %
+
+BZ-01 3,082         183 2.85 2.99
+
+PROB + PROBL. 9,247         183            2.85           2.99           
+
+FIRST MAJESTIC SILVER CORP
+UNIDAD LA ENCANTADA
+
+RESERVAS  A SEPTIEMBRE 2007
+
+BONANZA
+
+PROBADO T.M. Ag Pb Zn
+g/t % %
+
+BZ-08 5,897         220            1.12           1.12           
+BZ-09 4,695         203            1.00           1.00           
+BZ-10 4,923         181            0.85           0.85           
+
+Total 15,516 202            0.99           1.00           
+
+PROBABLE T.M. Ag Pb Zn
+g/t % %
+
+BZ-07 5,897         220 1.12 1.12
+BZ-11 4,923         181 0.85 0.85
+
+Total 10,821 202            0.99           1.00           
+
+PROB + PROBL. 26,337        202            0.99           1.00           
+
+FIRST MAJESTIC SILVER CORP
+UNIDAD LA ENCANTADA
+
+RESERVAS  A SEPTIEMBRE 2007
+
+BONANZA
+
+BZ-06 5,897 220 1.12 1.12
+BZ-12 6,544 181 0.85 0.85
+
+Total 12,442 200            0.97           0.98           
+
+INDICADO
+BZ-05 21,624 220 1.12 1.12
+
+INFERIDO
+BZ-04 22,000 220 1.12 1.12
+
+TOTAL 56,066 215            1.08           1.09           
+
+FIRST MAJESTIC SILVER CORP
+UNIDAD LA ENCANTADA
+
+RECURSOS  A SEPTIEMBRE 2007
+
+BONANZA
+
+Zn   %MEDIDO T.M. Ag  g/t Pb   %
+
+
+
+
+
+MEDIDO ANCHO T.M. Ag Pb Zn
+g/t % %
+
+IM - 01 2.00 136,112.3      102            
+
+INDICADO ANCHO T.M. Ag Pb Zn
+g/t % %
+
+IM - 02 2.00        330,965.9      102            
+
+INFERIDO ANCHO T.M. Ag Pb Zn
+IM - 03 2.00        279,730.37    102            
+
+TOTAL 2.00 746,809        102            
+
+FIRST MAJESTIC SILVER CORP
+UNIDAD LA ENCANTADA
+
+RECURSOS  A OCTUBRE 2007
+
+INTRUSIVO MILAGRO
+
+
+
+Pincock, Allen & Holt AMENDED 19.12 
+80523  March 19, 2008
+
+19.5 Resource Estimation 
+
+Resource calculations by FMS at La Encantada are based on projections of the mineralized zones in the 
+underground mine workings; 10m to 15m beyond the areas of Reserves for the Measured Resources; and 
+another 15m beyond the boundaries of the Measured Resources for the blocks of Indicated Resources. 
+Inferred Resources are estimated by projecting up to 50m beyond the Indicated Resource block 
+boundaries along mineralized structures, and another 15m beyond the blocks' width.  The estimated 
+Resource blocks may be limited by underground levels and previous mining extraction.  Longitudinal 
+projections depend on the drift development along the mineralized zones and it may vary from about 
+50m up to 150m in length. 
+
+La Encantada mineral Resource estimates were applied only to adjacent blocks from the estimated 
+Reserves.  Resource estimates were made for blocks that include only oxidized mineralization, such as 
+the Breccia Keylor, Azul y Oro, Breccia Milagros, Cuerpo 660, Cuerpo 660 W and San Francisco deposits.  
+Sulfides mineralization is only estimated in the La Morena deposit.  Sulfides are only considered as 
+Resources because the processing facilities for the zinc circuit at the plant are not currently operating.  
+
+The grade for these blocks is determined from the grade estimated for the adjacent Reserve blocks, and 
+sampling in mine workings and drill holes located within the block area. 
+
+Geologic potential still exists within the mine's area to investigate targets that may result in additional 
+resource development for La Encantada.  Exploration and full development of breccia zones, such as: 
+Milagros, San Javier, Keylor, San Francisco and Azul y Oro may result in high-tonnage resource 
+development.  The Breccia Milagros appears to be a significant deposit.  Other areas that appear to 
+represent important targets for exploration are breccia La Escalera and the area west of the La Prieta 
+deposit beyond the María Isabel fault.  This area appears to be downthrown to the west of La Prieta 
+deposit, which represents the largest known deposit within La Encantada area.   
+
+In addition to the Reserves, La Encantada has estimated resources in blocks within the following areas: 
+
+� Breccia Milagros 
+� Azul y Oro area 
+� Breccia Keylor 
+� Cuerpo 660 E and W 
+� Bonanza
+� Cuerpo de Zinc, N-1535 
+� Intrusivo Milagros 
+� San Francisco 
+� Mine dumps 
+� Tailings Dam No. 1 
+� Tailings Dam No. 2, and 
+� Sulfides deposits at the Cuerpo 660 area. 
+
+
+
+Pincock, Allen & Holt AMENDED 19.13 
+80523  March 19, 2008
+
+Additional Inferred Resources have been projected in the Azul y Oro, Breccia San Javier, Bonanza, 
+Intrusivo Milagros and San Francisco zones. 
+
+FMS has developed a drilling program to measure and sample the tailings dams; preliminary testwork has 
+been performed in some representative samples which indicate potentially economic recovery of some of 
+the silver values contained by the tailings.  Processing would be by Cyanide Leaching.  
+
+La Encantada's estimate of Measured and Indicated Resource blocks as reviewed by PAH, is shown in 
+Table 19-4.  The Measured and Indicated silver Resources consist of 7.0 million tonnes averaging 173 
+grams (5.6 oz) per tonne silver, for a total content of 40.1 million ounces of silver equivalent. This 
+resources grade has been estimated "in situ", and the silver equivalent content is net of lead credit, at 15 
+g/tonne Ag.  The tailings dams No.1 and No.2 and dumps material have been included as Indicated 
+Resources.  This estimate is based on the following prices: Ag - $10.50/oz and Pb - $0.68 / lb. 
+
+Table 19-4 is the Measured and Indicated Resource Estimate for La Encantada.  PAH notes that these 
+Resources are in addition to the previously reported Reserves. 
+
+La Encantada has estimated additional silver Resources at a distance beyond the Proven and Probable 
+Reserves.  These additional Resources lack sufficient drifting, raising, sampling, drill holes or old workings 
+with production data, and are estimated at a lower degree of confidence than other Reserve or Resource 
+categories.  PAH considers these additional Resources to be of an inferred category and they are based 
+on projections of presumed vein continuity ahead, above, and below current mining; and are based on 
+very widely-spaced drill holes, surface sampling or old surface workings.  These Resources are presented 
+by La Encantada as Inferred Resources. 
+
+The Inferred Resources need considerable grade and tonnage information before they can be "proved 
+up" to "Mineable Reserves."  To date, La Encantada has demonstrated a continuity along about 4.0 
+kilometers of strike length and down dip to about 700 meters; so it is reasonable to assume that in the 
+future Resources will continue to be converted to ore as additional drifting, crosscutting and raising 
+define vein configurations, sampling and assaying determine the grade, and diamond drilling confirms 
+vein extensions and fills in data gaps.  Inferred Resources for La Encantada are presented in the lower 
+portion of Table 19-4. 
+
+
+
+Pincock, Allen & Holt AMENDED 19.14 
+80523  March 19, 2008
+
+TABLE 19-4
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+
+DEPOSIT CATEGORY METRIC TONNES WIDTH
+RESOURCES meters Silver, g/tonne Lead, % Zinc, % (4) Silver (Only) oz. Silver (Eq) oz.
+Breccia Keylor Measured 10,810 3.40 539 5.14 1.38 187,327 192,541
+Azul y Oro Measured 86,655 3.84 437 0.30 0.50 1,217,492 1,259,282
+Cuerpo 660 W Measured 111,337 16.71 405 6.46 1.94 1,449,725 1,503,418
+Cuerpo 660 Measured 191,960 Variable > 2.00 390 4.71 0.00 2,409,828 2,502,402
+San Francisco Measured 73,955 2.28 334 0.59 0.18 794,155 829,820
+Breccia Milagros Measured 405,178 Variable > 2.00 289 0.00 0.00 3,764,738 3,960,139
+TOTAL Measured 879,895 Over 2.00 347 1.99 0.33 9,823,264 10,247,603
+
+Azul y Oro Indicated 79,870 3.84 437 0.30 0.50 1,122,164 1,160,682
+San Francisco Indicated 73,024 2.26 332 0.44 0.18 779,462 814,678
+Bonanza Indicated 27,906 2.69 204 1.05 1.05 183,029 196,487
+Bonanza Indicated 19,855 2.46 184 1.24 1.25 117,457 127,032
+Bonanza Indicated 18,724 2.56 183 0.93 0.92 110,164 119,194
+Bonanza Indicated 33,584 2.62 181 1.28 1.29 195,435 211,631
+Tailings Dam # 2 (5) Indicated 4,015,711 0.00 168 2.43 2.67 21,690,160 21,690,160
+Cuerpo 660 (Pilares) Indicated 105,445 Variable > 2.00 135 1.25 7.73 457,668 508,520
+Intrusivo Milagros Indicated 136,112 2.00 102 0.00 0.00 446,362 512,004
+Intrusivo Milagros Indicated 330,966 2.00 102 0.00 0.00 1,085,362 1,244,974
+Cuerpo de Zinc N-1535 Indicated 151,900 1.72 93 1.21 8.85 454,184 527,439
+Talings Dam # 1(5) Indicated 900,374 0.00 72 0.00 0.00 2,084,234 2,084,234
+La Morena Sulfides (6) Indicated 263,610 Variable > 2.00 65 0.76 4.14 550,892 678,021
+TOTAL Indicated 6,157,081 Over 2.00 148 1.70 2.30 29,276,571 29,875,056
+
+(5) Tailings are considered as indicated resources.  Bulk sampling testwork in progress.
+
+TOTAL Measured 879,895 Over 2.00 347 1.99 0.33 9,823,264 10,247,603
+TOTAL Indicated 6,157,081 Over 2.00 148 1.70 2.30 29,276,571 29,875,056
+
+7,036,976 Over 2.00 173 1.73 2.05 39,099,835 40,122,659
+
+(5) Tailings are considered as indicated resources.  Bulk sampling testwork in progress.
+
+Azul y Oro Inferred 464,000 Variable > 2.00 413 0.48 0.37 6,161,111 6,384,880
+San Francisco Inferred 186,000 2.40 304 0.64 0.14 1,817,932 1,907,632
+Bonanza Inferred 22,000 2.77 220 1.12 1.12 155,610 166,219
+Breccia San Javier Inferred 1,015,000 Variable > 2.00 105 0.57 0.78 3,426,465 3,915,961
+Intrusivo Milagros Inferred 280,000 2.00 102 0.00 0.00 918,225 1,053,258
+TOTAL (5) Inferred 1,967,000 Variable > 2.00 200 0.50 0.50 12,479,000 13,428,000
+
+(5) Rounded figures.
+
+Mineral Resources Prepared by FMS, Reviewd by PAH. As of October 31, 2007 (1)
+
+GRADE METAL CONTAINED (2)
+Total Measured Resources (3)
+
+(3) Mining dilution is included at a minimum mining width of 2.00m. Estimates do not include mining recovery.
+(4) Zinc is not recovered.
+
+(1) Cut Off Grade estimated as 269 g/tonne Ag only; and 258 g/tonne Ag eq net of Pb credit. Cut Off Grade for dumps is 98 g/tonne Ag only; and 91 g/tonne Ag eq net of Pb credit.
+(2) Silver equivalent includes Pb credit, at prices US$10.50/oz-Ag, $0.68/lb-Pb. Pb credit=15 g/tonne-Ag. For dumps Pb credit=7 g/tonne Ag.
+
+(6) La Morena sulfides deposit requires of additional metallurgical testwork to prove its economic recovery.  La Encantada mill does not have an operating zinc circuit at this time.
+
+(4) Zinc is not recovered.
+
+Total Resources Measured + Indicated
+
+(3) Mining dilution is included at over 2.00m width. Estimates do not include mining recovery.
+
+(3) Mining dilution is included at a minimum mining width of 2.00m. Estimates do not include mining recovery.
+(4) Zinc is not recovered.
+
+(1) Cut Off Grade estimated as 256 g/tonne Ag only; and 241 g/tonne Ag eq net of Pb credit. Cut Off Grade for dumps is 98 g/tonne Ag only; and 91 g/tonne Ag eq net of Pb credit.
+(2) Silver equivalent includes Pb credit, at prices US$10.50/oz-Ag, $0.68/lb-Pb. Pb credit=15 g/tonne-Ag. For dumps Pb credit=7 g/tonne Ag.
+
+Total Inferred Resources (3)
+
+Total Indicated Resources (3)
+
+(6) La Morena sulfides deposit requires of additional metallurgical testwork to prove its economic recovery.  La Encantada mill does not have an operating zinc circuit at this time.
+Total Resources Measured plus Indicated (3)
+
+(3) Mining dilution is included at a minimum mining width of 2.00m. Estimates do not include mining recovery.
+(4) Zinc is not recuperated.
+
+(1) Cut Off Grade estimated as 256 g/tonne Ag only; and 241 g/tonne Ag eq net of Pb credit. Cut Off Grade for dumps is 98 g/tonne Ag only; and 91 g/tonne Ag eq net of Pb credit.
+(2) Silver equivalent includes Pb credit, at prices US$10.50/oz-Ag, $0.68/lb-Pb. Pb credit=15 g/tonne-Ag. For dumps Pb credit=7 g/tonne Ag.
+
+(1) Cut Off Grade estimated as 256 g/tonne Ag only; and 241 g/tonne Ag eq net of Pb credit. Cut Off Grade for dumps is 98 g/tonne Ag only; and 91 g/tonne Ag eq net of Pb credit.
+(2) Silver equivalent includes Pb credit, at prices US$10.50/oz-Ag, $0.68/lb-Pb. Pb credit=15 g/tonne-Ag. For dumps Pb credit=7 g/tonne Ag.
+
+
+
+Pincock, Allen & Holt AMENDED 19.15 
+80523  March 19, 2008
+
+19.6 Conclusion 
+
+PAH believes that these Reserve and Resource estimates have been reasonably prepared and conform to 
+acceptable engineering standards for reporting of Resources.  PAH believes that the classification of the 
+Reserves and Resources meets the standards of Canadian National Instrument NI 43-101 and the 
+definitions of the Canadian Institute of Mining, Metallurgy and Petroleum (CIM). 
+
+The Reserves and Resources herein reported by La Encantada Silver Mine were reviewed by PAH and 
+constitute part of an operation by Minera La Encantada, a Mexican subsidiary of FMS.  There are no 
+significant technical, legal, environmental, political or other kind of restrictions; therefore, in PAH's 
+opinion these Reserves and Resources may not be materially affected by issues that could prevent their 
+extraction and processing. 
+
+
+
+Pincock, Allen & Holt AMENDED 20.1 
+80523  March 19, 2008
+
+20.0 OTHER RELEVANT DATA AND INFORMATION 
+
+La Encantada mine has been in operation for over 25 years.  Reported silver production for that period by 
+Peñoles is about 80 million ounces of silver, in addition to significant lead content and minor gold.  This 
+production was extracted from about 6 Million tonnes of ore. 
+
+Historical mineral concentrations at La Encantada consist of mineralized breccia pipes (chimneys) and 
+metasomatic zones, which typically contain up to 2.0 million tonnes; breccia zones that range up to 1.0 
+million tonnes; vein deposits that may contain up to 0.5 million tonnes, and mantos or bedded deposits 
+that may hold up to 50,000 tonnes of usually high grade concentrations. 
+
+Major underground workings were developed by Peñoles at La Encantada, to connect the various parts of 
+the mine, as well as to explore and mine mineralized zones within the Aurora limestone / dolomite 
+formation.  These workings extend along a 4km-long mineralized structural zone, with access to mine 
+levels at elevations of 1,535m to about 2,300m.  These connections are accessible by shafts and ramps. 
+
+Through the underground development, numerous exploration targets have been projected, identified or 
+discovered. 
+
+At the closure of La Encantada mine by Peñoles in June 2002, several exploration targets remained to be 
+investigated. Some of these areas require significant development as well as drilling from underground 
+locations, such as Breccia Milagros, Breccia San Javier, Bonanza zone, Mantos San Francisco, etc.  Other 
+longer-term exploration targets may result in discoveries which may be as significant as those previously 
+mined such as La Prieta and La Escondida, these areas are La Escalera, Ojuela and Cuerpo 660. 
+
+Other important areas for future development by FMS are represented by primary sulfide mineralization 
+located at depth, in proximity to the granodiorite intrusive stocks, such as Cuerpo La Morena, Cuerpos 
+660 E and W, and Ojuela, which may enhance and extend La Encantada mine life. 
+
+La Encantada exploration investigations have resulted in validation and a significant increment of previous 
+Reserve and Resource estimates.  Proven and Probable Reserve estimates as of October 31, 2007 are 
+about 70 percent higher than the Reserves estimated for May 31, 2007, while Measured and Indicated 
+Resources were augmented nearly 500 percent, including tailings from previous Peñoles operations, 
+which have been tested for processing by cyanidation.  Inferred Resources are also increased by about 
+30 percent.  Numerous additional exploration targets have been identified by La Encantada staff.   
+
+In PAH's opinion, La Encantada has developed a highly successful exploration program based on 
+underground development and drilling which has resulted in increasing Resources and Reserves and 
+identifying other exploration targets; therefore La Encantada investments in exploration and development 
+have been well justified. 
+
+
+
+Pincock, Allen & Holt AMENDED 21.1 
+80523  March 19, 2008
+
+21.0 INTERPRETATION AND CONCLUSIONS 
+
+Recorded production in about 25 years by Minera La Encantada, S.A. de C.V. is approximately 6.0 million 
+tonnes of ore at an average grade of Ag-418 g/t (13.44 oz/t) and Pb-9.83 percent (over 80 million 
+ounces of silver and about 1.3 billion lbs of lead) until June 2002 when Peñoles shut the operation down.  
+Mining and processing by FMS through its wholly-owned subsidiaries, Desmín and Minera La Encantada, 
+is approximately 175,000 tonnes of ore to October 31, 2007.  
+
+Mineralization at La Encantada is a typical assemblage of metasomatic deposits with a high content of 
+silver and lead.  This mineral assemblage has been affected by a long process of oxidation and secondary 
+enrichment.  The most important mineralization consists of unconsolidated massive concentrations of 
+oxides including hematite, limonite and other iron oxides as well as carbonates and sulphates, including 
+the minor presence of zinc oxides.  Silver and lead represent the main economic minerals within the 
+oxidized deposits at La Encantada.  Silver mineralization occurs as argentite and native silver.  Lead 
+mineralization is present as carbonates (cerussite) and sulfates (anglesite) and other oxides. 
+
+La Encantada mineral assemblage occurs within a range of about 435m in vertical extension (2035m to 
+1600m asl).  Below the 1600m elevation, at the La Morena deposit in the SW portion of La Encantada 
+area, primary sulfide mineralization has been identified.  This mineralization includes primarily sphalerite, 
+galena and pyrite.  FMS has identified other regional areas of geologic interest.  These areas appear to 
+represent potential exploration targets that may extend the mineralized system.  
+
+FMS initiated preliminary drilling, during the period of June through October, 2007 while expecting new 
+drill rigs to carry out a more comprehensive drilling program to investigate several targets.  Exploration 
+investigations during this period by La Encantada staff have resulted in about 6.2 million tonnes of 
+additional Reserve and Resource blocks within the mining areas.  These include dumps materials and 
+tailings being investigated by FMS as Resources. 
+
+The mine was initially developed from the shafts as a conventional operation with rail haulage levels, and 
+utilizing standard rail-bound loading and hauling equipment.  Subsequently, La Encantada Mine has been 
+converted to a mainly trackless operation, although rail haulage is still used on a few of the deeper levels 
+of the mine.  
+
+The main access to the current mine operations is a trackless adit at the 1,870 elevation.  This working 
+has been enlarged to accommodate 20-t capacity highway-type dump trucks for ore and waste haulage 
+from the mine.  Drifts and ramps are driven with cross-sectional area of about 3- X 3- meters, and the 
+enlarged drifts and ramps to accommodate the larger dump trucks are about 4.5- X 5.0- meters in cross-
+section.  Most areas of the mine are unsupported, but in a few places, rock bolts and wire mesh has been 
+installed, and in other heavy ground areas, it has been necessary to install steel arches with timber 
+lagging.
+
+
+
+Pincock, Allen & Holt AMENDED 21.2 
+80523  March 19, 2008
+
+A ramp system in the interior of the mine provides access for low-profile diesel mobile equipment up to 
+the 2035 level and down to the 1710 level. The portion of the ramp above the 1870 level is being 
+enlarged to accommodate the highway-type dump trucks. Mining operations at La Encantada mine are 
+partially mechanized.  Drilling of headings for both development and stoping is accomplished using 
+pneumatic hand-held jackleg machines.  Loading and tramming is done with diesel-powered, low profile 
+front-end loaders (load-haul-dumps, or LHD's), and haulage is usually with highway-type diesel rear-
+dump trucks, or battery powered rail haulage trains.   
+
+The ore processed at La Encantada is a complex mixture of oxide and sulfide minerals and is 
+consequently difficult to process efficiently.  The principal economic minerals are as follows: 
+
+� Argentite (Ag2S)
+� Acanthite (Ag2S)
+� Cerrussite (PbCO3)
+
+The ore is relatively soft and friable, which is easily crushed and milled.  The ore processing method 
+consists of crushing and grinding followed by two sequential flotation steps.  The first consists of sulfide 
+mineral flotation and the second is oxide mineral flotation.   
+
+Installed capacity at La Encantada is 800 tpd; however, it is currently operated at about 700 tpd. 
+
+Recoveries are modest, a reflection of the difficult mineralogy of the rock; operating costs are modest, a 
+consequence of the softness of the rock.  As a result of the modest recoveries, some of La Encantada 
+tailings may be amenable to re-processing by different metallurgical methods such as cyanidation.  
+
+Peñoles estimated proven and probable reserves as of December 2002 amounted to 484,857 tonnes at 
+an average grade of 570 g/t Ag and 3.98 percent Pb.  No cutoff grade was reported.  The estimated 
+reserves were included in the deposits of: Bonanza, El Milagro, Estructuras Irregulares Bonanza, 
+Estructuras Irregulares San Javier, Breccia San Javier, Ojuelas, San Francisco, and Azul y Oro deposits. 
+
+FMS has initiated exploration programs based on drifting, channel sampling, drilling, geophysical 
+investigations and some geochemical studies.  Peñoles reported (2002) reserve or resource blocks are a 
+primary target for confirmation, validation and further exploration by FMS, as well as other promising 
+areas of reserves. 
+
+PAH has reviewed La Encantada Reserve update of October 31, 2007, along with factors for mining 
+dilution and recovery.  In addition, the sampling methods, assaying procedures, compositing methods, 
+data handling, cutoff grade application and grade calculations were reviewed.  Several Reserve blocks 
+were cross-checked to track data handling from the initial assays to the final tonnage and grade 
+calculation to ensure that the stated methods and practices were observed. 
+
+
+
+Pincock, Allen & Holt AMENDED 21.3 
+80523  March 19, 2008
+
+La Encantada has estimated mineable Reserves for the following deposits: 
+
+� Breccia Milagros 
+� Azul y Oro 
+� Breccia Keylor 
+� Cuerpo 660 
+� Mantos 314 
+� Breccia Chicotón 
+� Cedritos
+� Cola Gallo 
+� Ojuelas
+� San Javier 
+� La Morena, and 
+� San Francisco 
+
+The total "in-situ" diluted Reserve as of October 31, 2007, at a minimum mining width of 2.00m, as 
+reviewed by PAH, is 1.2 million tonnes averaging 312 grams (10.03 oz) per tonne silver and 1.77 percent 
+(39 lb/tonne) lead, for a total of 12.6 million contained ounces of silver net of lead credit.  
+
+In addition to Reserves, the La Encantada holds Measured and Indicated mineral Resources that include 
+estimates for the following areas: Azul y Oro, Breccia Milagros, Cuerpo 660, Cuerpo 660 W and Breccia 
+Keylor deposits.  Sulfide mineralization is only estimated in the La Morena deposit.  Sulfides are only 
+considered as Resources because the processing facilities for the zinc circuit at the plant are currently out 
+of order.  Old tailings deposits from previous operations have been drilled, measured and sampled, and 
+further investigation and testing to confirm metallurgical recoveries is now underway.  The tailings appear 
+to be amenable for reprocessing by cyanidation; therefore they have been included as Indicated 
+Resources.  Dump materials have been screened, concentrated, and processed in the flotation plant to fill 
+operating capacity, and have been included as resources after screening.  Estimated Resources for La 
+Encantada Silver Mine total 7.0 million tonnes at an average grade of 173 g/tonne (5.6 oz/tonne) Ag and 
+1.73 percent (38.1 lb/tonne) Pb.  Measured and Indicated Resources to October 31, 2007 are estimated 
+to contain about 40.1 million ounces of silver equivalent net of lead credit. 
+
+In addition to Measured and Indicated Resources, La Encantada has estimated about 2.0 million tonnes 
+of Inferred Resources at an average grade of 200 g/tonne (6.33 oz/tonne) Ag and 0.50 percent (10.8 
+lb/tonne) Pb, for a total silver equivalent of 13.4 million ounces. 
+
+To date, La Encantada has demonstrated a continuity along approximately 4.0 kilometers of strike length 
+and down dip for about 700 meters; so it is reasonable to assume that in the future Resources will 
+continue to be converted to ore as additional drifting, crosscutting and raising define vein configurations, 
+sampling and assaying determine the grade, and diamond drilling confirms vein extensions and fills in 
+data gaps. 
+
+
+
+Pincock, Allen & Holt AMENDED 21.4 
+80523  March 19, 2008
+
+All Reserve and Resource blocks at La Encantada are exclusive of each category. 
+
+PAH believes that these Reserve and Resource estimates have been reasonably prepared and conform to 
+acceptable engineering standards for reporting of Reserves and Resources.  PAH believes that La 
+Encantada Silver Mine classification of Reserves and Resources meets the standards of Canadian National 
+Instrument NI 43-101 and the definitions of the Canadian Institute of Mining, Metallurgy and Petroleum 
+(CIM).
+
+An economic analysis of FMS's La Encantada Silver Mine indicates that the mine's Reserve / Resources 
+may be extracted at a profit, and PAH did not identify any significant technical, legal, environmental, 
+political or other kind of restrictions; therefore, in PAH's opinion these Reserves and Resources may not 
+be materially affected by issues that could prevent their extraction and processing.
+
+
+
+Pincock, Allen & Holt AMENDED 22.1 
+80523  March 19, 2008
+
+22.0 RECOMMENDATIONS 
+
+La Encantada Silver Mine has been in operation since the 1950s, with intense extraction and processing 
+operations from the early 1970's.  Its production, by Peñoles records, amounts to over 80 million ounces 
+of silver and over 1.3 billion pounds of lead.  La Encantada is by no means exhausted; its geologic 
+potential remains to be fully explored.  Several zones within the mine area have been identified that may 
+contain significant mineralization, such as Breccia La Escalera, Breccia Milagros, Breccia San Javier and 
+others that enable the operators to increase La Encantada's production. Aside from the oxidized 
+mineralization, there are sulfides deposits identified within the skarn areas at Cuerpo 660, La Morena and 
+deeper areas under the La Prieta and La Escondida chimneys.  These areas require intense exploration 
+study by direct methods, such as diamond drilling and drifting. 
+
+FMS has initiated an aggressive program of exploration based on drifting and diamond drilling. 
+Preliminary results of this program have resulted in a significant increment of Resources and Reserves for 
+the La Encantada Silver Mine for the period between June and October, 2007.  For instance, the Breccia 
+Milagros and the San Francisco areas have produced high grade ores through exploration development 
+and appear to be developing into significant ore deposits.    
+
+PAH agrees with the continued implementation of the exploration program and recommends additional 
+support for exploration activities at La Encantada.  Positive results would develop Resources into 
+Reserves and extend the mine's life. 
+
+Care must be taken to prioritize the exploration targets since the area holds a broad potential for 
+development and possible discovery of new ore bodies.  Potential high volume areas should have priority 
+in the exploration program, since these large volume deposits could potentially help to lower mine 
+operating costs. 
+
+FMS has suggested an exploration budget of US$2.40 Million for 2008 at La Encantada.  If successful, this 
+program may result in a significant increment of Resources and additional Reserves.  The program 
+includes approximately 8,200 meters of drilling from surface sites and 5,000 meters from underground 
+locations.  Underground exploration development in drifting, access ramps, crosscutting and drill sites 
+preparation amounts to about 2,400 meters for the year.  The budget for this program also includes 
+about 50 km of geophysical surveying lines by Induced Polarization methods, and geochemical sampling 
+of about 400 samples. PAH believes that this exploration program, budget and exploration targets are 
+reasonable for investigating the La Encantada geologic potential. 
+
+Table 22-1 shows the La Encantada exploration budget for 2008  
+
+PAH recommends that La Encantada follow budgeted plans to replace the concentrate filter in the 
+flotation plant with a better-quality machine and that the plant be gradually upgraded over the next three 
+years installing good used equipment where possible.  The estimated cost for this is $575,000.
+
+
+
+______________________________________________________________________________________________________________________
+Pincock, Allen & Holt AMENDED 22.2 
+80523  March 19, 2008
+
+TABLE 22-1
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Exploration Program 2008
+Exploration Activities Objetive Area Project Estimated cost US$
+Geophysical Survey, IP Define drilling targets El Plomo anomaly 8 km
+
+Anomaly "A" 16.8 km
+Anomaly "B" 6 Km
+Anomaly "C" 4 Km
+Anomaly "D" 6 Km
+La Escalera Anomaly 5.6 Km 150,000
+
+Geochemical Survey Define drilling targets La Prieta Sur/Ma Isabel Alto/Anomaly "D" 400 samples 20,000
+Surface Diamond Drilling Resource development La Escalera, Anomalies "A"&"B" 4,000 m 360,000
+
+La Prieta Sur 1,000 m 120,000
+Mantos Guadalupe 1,000 m 120,000
+Ma Isabel Alto 1,000 m 120,000
+El Camello 600 m 72,000
+El Bote 600 m 72,000
+
+Underground Diamond Drilling Deep resource develop. Bonanza Dike & Cedrito 1,650 m 165,000
+Azul y Oro 1,250 m 30,000
+La Escalera Breccia (Level 790) 1,300 m 130,000
+Anomaly "B" 800 m 80,000
+
+Underground development: Resources development San Francisco Dike 240 m 96,000
+ramps, drifts, crosscuts, Bonanza Dike & Cedrito 160 m 64,000
+drill sites Drill site preparation Cedrito 250 m 100,000
+
+SW Azula y Oro 200 m 80,000
+Others structures: Levels 1940 to 1600 1490 m 596,000
+
+Total Investment 2,375,000
+
+
+
+Pincock, Allen & Holt AMENDED 22.3 
+80523  March 19, 2008
+
+Much of the mines mobile equipment at La Encantada is very old and requires replacement.  FMS has a 
+plan in place to replace some of the older mine equipment in the near future.  For 2007, the capital 
+budget includes funding for one scoop tram, trucks, compressor and safety equipment.  PAH believes 
+that this is a reasonable program and agrees with FMS programmed investment of $575,000 for 2007.  
+FMS has scheduled additional investments in mine equipment for the next two years for a total of $2.8 
+million.
+
+In PAH opinion La Encantada programmed capital expenditures for the year 2008, for a total of $2.375 M 
+are scheduled to improve the operation and through a successful exploration program, increase the 
+mine's Reserves and Resources and therefore the mine life.  
+
+Details of projected cash flow are presented in Table 25-12. 
+
+
+
+Pincock, Allen & Holt AMENDED 23.1 
+80523  March 19, 2008
+
+23.0 REFERENCES 
+
+� Resource and Reserve Estimates by First Majestic Silver Corp. for La Encantada Silver Mine.  Prepared 
+by FMS staff and reviewed by PAH. October 31, 2007. 
+
+� Exploration data including drilling, core sampling, underground development, mapping, channel 
+sampling, and operating results carried out and provided to PAH by La Encantada Staff. November, 
+2007.
+
+� Monthly Operating Reports of La Encantada Silver Mine, including exploration, mine, processing plant 
+all supporting operating aspects of the mine operation for the months of January through October, 
+2007.   Prepared by La Encantada General Manager and Staff. 
+
+� Technical Report for the La Encantada Silver Mine, Coahuila State, México, prepared for First Majestic 
+Silver Corp. dated July 24, 2007, Amended by Pincock, Allen & Holt, Inc., and was published in 
+SEDAR on July 25, 2007, is referred to as "Technical Report Amended" herein. 
+
+� Pruebas Metalúrgicas para Determinar la Disolución de Plata y Oro por Cianuaración, de dos Muestras 
+de Mineral. Preparada para Minera La Encantada, S.A. de C.V., por SGS de México, S.A. de C.V.  
+Durango, Durango, 12 de Julio de 2007. 
+
+� Peñoles (Largest Silver producer in the World) information as owner and operator of La Encantada 
+Mine for a period of 25 years, including public records, operating reports, geological studies, 
+surveying, sampling data, drilling, geologic modeling and resource estimates, production records and 
+historical reserve estimates as of January 2003.  It includes the following reports: 
+
+� Plan y Programa de Exploración 2001 – 2002. Prepared by Ing. Pantaleón Trejo, Manager of 
+Explorations for Mining Operations, Peñoles. June 2002. 
+
+� Desglose de Mineral Probado y Probable por Cuerpos para 2003.  Prepared by: Minera La 
+Encantada, S.A. de C.V., Ing. Pantaleón Trejo, Manager of Explorations for Mining Operations, 
+Peñoles.
+
+� Relación de Fundos Mineros Minera La Encantada, S.A. de C.V., Unidad David Contreras. 
+Prepared by Minera La Encantada, Peñoles. Febrero 2007.  This report was updated by FMS 
+including additional claims in May 2007.  
+
+� Database and modeling files for the La Encantada deposits by Peñoles.  Provided to FMS in April 
+2007.
+
+
+
+Pincock, Allen & Holt AMENDED 23.2 
+80523  March 19, 2008
+
+� Legal Opinions – Minera La Encantada, S.A. de C.V., a wholly owned subsidiary of First Majestic Silver 
+Corp. Legal Opinions by Durango-based office of legal advisers, by Mr. Carlos Galván Pastoriza, 
+Abogado, prepared on May 11 and November 22, 2007. 
+
+� Geochemical and Isotopic Study of Calcite Stockworks at La Encantada Mining District; Relationships 
+with Orebodies and Implications for Exploration. A Thesis submitted to the Faculty of the 
+DEPARTMENT OF MINING AND GEOLOGICAL ENGINEERING, in partial fulfillment of the requirements 
+for the degree of Master of Science with a Major in Geological Engineering. By: Raúl Díaz-Unzueta, 
+1987.
+
+� Evaluación Geológica Unidad Minera La Encantada, Municipio de Ocampo, Coahuila, México.
+Prepared by: Exploraciones Geológico-Mineras de Occidente, S.A. de C.V.  Septiembre 2006. 
+
+� Geologic Evaluation of the La Encantada Property, State of Coahuila de Zaragoza, México.  Prepared 
+by: J.N. Helsen, Ph.D., P. Geo. December 2006. 
+
+� Data provided by Desmín, S.A. de C.V. as operator of La Encantada under lease from Peñoles, July 1, 
+2004 to November 1, 2006. 
+
+� Information provided by FMS as owner and operator of La Encantada mine. 
+
+� PAH observations on site visits during the periods of May 19 – 23 and November 11 – 18, 2007.  
+
+
+
+Pincock, Allen & Holt AMENDED 24.1
+80523   March 19, 2008
+
+24.0 DATE AND SIGNATURE PAGE 
+
+Leonel López, C.P.G. 
+165 S. Union Blvd. Suite 950 
+Lakewood, Colorado 80228 
+
+Phone (303)986-6950 
+Fax (303)987-8907 
+
+leonel.lopez@pincock.com
+
+I, Leonel López, C.P.G., am a professional geologist and Principal Geologist for Pincock, Allen & Holt, Inc. 
+of 165 S. Union Boulevard, Suite 950, Lakewood, Colorado, USA.  This certificate applies to the Technical 
+Report for the La Encantada Silver Mine, Coahuila State, Mexico dated March 19, 2008 (the "Technical 
+Report"). 
+
+1. I am a Professional Geologist (PG-2407) in the state of Wyoming, USA, a Certified Professional 
+Geologist (CPG-08359) in the American Institute of Professional Geologists, a Member (No. 
+1943910RM) as SME Founding Registered Member, a registered Geological Engineer (Cédula 
+Profesional #1191), in the Universidad Nacional Autónoma de México, a member of the 
+International Association on the Genesis of Ore Deposits, a member of the Society of Economic 
+Geologists, and a member of the Association of Exploration Geochemists. 
+
+2. I graduated from the Universidad Nacional Autónoma de México with the title of Ingeniero Geólogo 
+in 1966 and subsequently have taken numerous short courses in Economic Evaluation and 
+Investment Decision Methods at Colorado School of Mines, and other technical subjects in related 
+professional seminars.  I have practiced my profession continuously since 1963. 
+
+3. Since 1963, I have been involved in mineral exploration and evaluation of mineral properties for 
+gold, silver, lead, zinc, copper, antimony, and non-metallic deposits as fluorite, barite, dolomite and 
+coal deposits in Canada, United States of America, México, Guatemala, Costa Rica, Nicaragua, 
+Ecuador, Venezuela, Perú, Bolivia, Chile, Brazil and Argentina. 
+
+4. As a result of my experience and qualification I am a Qualified Person as defined in NI 43-101. 
+
+5. I am presently a Principal Geologist with the international resource and mining consulting company 
+of Pincock, Allen & Holt, Inc. and have been employed since December 2003, and was formerly 
+employed by the same firm from 1988 to 1993. 
+
+6. I have previously worked on the La Encantada Deposit North, as Division Manager of Exploration 
+for Peñoles until 1985.  As part of this study, I visited the project site from May 15 – 23 and  
+November 11 - 18, 2007 for the purposes of observing site layout and infrastructure, examining the 
+deposit geology, inspecting the underground mine, reviewing sampling procedures, reviewing 
+available exploration and reserve and resource estimates and data, and discussing the project with 
+site personnel. 
+
+
+
+Pincock, Allen & Holt AMENDED 24.2
+80523   March 19, 2008
+
+7. I am the primary author of the Technical Report.  I am responsible for all report sections including 
+those report sections outside of my discipline of geology and resource estimates, which were 
+prepared by other Pincock, Allen & Holt representatives that were qualified in those particular 
+disciplines (mining, environmental and economics), which I believe to be reliable work.  I have 
+visited the project in May and November 2007, and I have acted as Project Manager for the 
+preparation of this Technical Report. 
+
+8. As of the date of this certificate, to the best of my knowledge, information and belief, the Technical 
+Report contains all scientific and technical information that is required to be disclosed to make the 
+Technical Report not misleading.  
+
+9. I am independent of First Majestic Silver Corp. in accordance with the application of Section 1.4 of 
+National Instrument 43-101. 
+
+10. I have read National Instrument 43-101, Form 43-101F1 and this report has been prepared in 
+compliance with NI 43-101 and Form 43-101F1. 
+
+11. I consent to the filing of the Technical Report with any stock exchange and other regulatory 
+authority and any publication by them, including electronic publications in the public company files, 
+on their websites accessible by the public. 
+
+Dated in Lakewood, Colorado, this 19th day of March 2008 
+
+"Leonel Lopéz" 
+
+______________________________
+Leonel López, C.P.G. 
+
+
+
+Pincock, Allen & Holt AMENDED 24.3
+80523   March 19, 2008
+
+Richard Addison 
+165 So. Union Blvd., Suite 950 
+
+Lakewood, CO  80228 
+Phone (303) 986-6950 
+Fax (303) 987-8907 
+
+dick.addison@pincock.com
+
+As an author of the report entitled "Technical Report for the La Encantada Silver Mine, Coahuila, Mexico" 
+dated , March 19, 2008 (the "Technical Report") and prepared on behalf of First Majestic Silver Corp. (the 
+"Issuer"), I, Richard Addison, P.E., C. Eng., Eur. Ing., do hereby certify that: 
+
+1. I am currently a Principal Process Engineer of: 
+
+Pincock, Allen & Holt 
+165 S. Union Blvd., Suite 950 
+Lakewood, CO 80228 
+USA
+
+2. My residential address is: 857 S. Van Gordon Court, #G207, Lakewood, Colorado 80228. 
+
+3. I graduated from the Camborne School of Mines in England as an Honors Associate in 1964 and 
+subsequently obtained a Master of Science degree in metallurgical engineering from the Colorado 
+School of Mines in 1968. I have practiced my profession continuously since 1964. 
+
+4. I am a Registered Professional Engineer (#3198) in the state of Nevada, USA, a Chartered 
+Engineer in the U.K., and a registered European Engineer in the EU. I am a member of the 
+American Institute of Mining, Metallurgical, and Petroleum Engineers and a member of The 
+Institute of Materials, Minerals and Mining in the U.K. 
+
+5. I have worked as a metallurgical engineer for a total of 43 years since my graduation from 
+university and have been involved in the evaluation and operation of mineral properties for gold, 
+silver, copper, lead, zinc, tin, aluminum, iron, potash, gypsum, limestone, barite, clay, sulfur, 
+pyrite, oil shale, coal, and diamonds in the United States, Canada, Mexico, Dominican Republic, 
+Honduras, Nicaragua, Costa Rica, Panama, Venezuela, Guyana, Peru, Ecuador, Bolivia, Argentina, 
+Chile, Spain, Portugal, Britain, Bulgaria, Indonesia, Papua New Guinea, the Philippines, Japan, 
+Tunisia, Ghana, Zambia, South Africa, Russia, Kyrghyzstan, Brazil, and Australia. 
+
+6. I have read the definition of "qualified person" set out in National Instrument 43-101 ("NI 43-
+101") and certify that by reason of my education, affiliation with a professional association (as 
+defined in NI 43-101) and past relevant work experience, I fulfill the requirements to be a 
+"qualified person" for the purposes of NI 43-101. 
+
+7. I am responsible for the preparation of the paragraph summarizing ore processing in Section 3.0, 
+Executive Summary; Section 18 Metallurgical Testing and Mineral Processing; those paragraphs 
+
+
+
+Pincock, Allen & Holt AMENDED 24.4
+80523   March 19, 2008
+
+covering ore processing in Section 21, Interpretations and Conclusions; Section 25.4, Mineral 
+Processing Plant; and Section 25.7, Product Marketing.   
+
+8. As of the date of the certificate, to the best of my knowledge, information and belief, the 
+technical report contains all scientific and technical information that is required to disclose to 
+make the technical report not misleading. 
+
+9. I am independent of the Issuer in accordance with Section 1.4 of NI 43-101. 
+
+10. I have read NI 43-101 and Form 43-101F1, and the Technical Report has been prepared in 
+compliance with that instrument and form. 
+
+11. I consent to the filing of the Technical Report with any securities regulatory authority, stock 
+exchange or other regulatory authority and any publication by them, including electronic 
+publication in the public company files on their websites accessible by the public, of the Technical 
+Report. 
+
+Dated in Lakewood, Colorado, this 19th day of March 2008. 
+
+"Richard Addison" 
+
+_______________________________________
+
+Richard Addison, P.E., C. Eng., Eur. Ing. 
+
+
+
+Pincock, Allen & Holt AMENDED 25.1 
+80523  March 19, 2008
+
+25.0 ADDITIONAL REQUIREMENTS FOR TECHNICAL REPORTS ON
+DEVELOPMENT PROPERTIES AND PRODUCTION PROPERTIES 
+
+25.1 Introduction 
+
+During the 35 years Peñoles operated the property, about 6.0 million tonnes of mainly oxidized silver-lead 
+ores, which averaged about 418 grams Ag and 9.9 percent Pb per tonne, were mined and processed.  In 
+2003, Peñoles leased the mine to a small company, Desmín, S.A. de C.V., who operated it from 2003 
+until November 2006, when Desmín was acquired by First Majestic Silver Corp. (FMS) giving FMS control 
+over the mine. FMS then acquired Minera La Encantada S.A. de C.V. (a wholly owned subsidiary of 
+Peñoles) in March 2007 giving FMS ownership of the mine. There was no hiatus in the mine production 
+program through the acquisition period and Desmín continued the operations until First Majestic took 
+over in late 2006.  First Majestic continued with Desmín's development and production programs after the 
+acquisition.  FMS made several changes in early 2007, and current production is about 15,700 tonnes per 
+month of oxidized silver-lead ores.  Mill feed is not only derived from the underground mine, but also 
+from old dump material left by both Peñoles and Desmín; the split for the first ten months of FMS 
+operations in 2007 is about 9,000 tonnes per month from the mine and 6,700 tonnes per month from 
+dump material.  Ore is campaign milled at the site in the differential flotation plant, originally constructed 
+by Peñoles in the 1970s.  The mine produces a silver-lead concentrate, and paid metal production is 
+currently about 102,500 ounces of silver and about 100,000 pounds of lead per month. 
+
+25.2    Mine Design and Production 
+
+La Encantada mine has largely been developed below ore zones indicated from surface exploration work 
+within a block about four kilometers long, 700 meters wide and 500 meters in height.  The mine was 
+initially developed from the shafts as a conventional operation with rail haulage levels, and utilizing 
+standard rail-bound loading and hauling equipment.  Subsequently, La Encantada has been converted to 
+a mainly trackless operation, although rail haulage is still used on a few of the deeper levels of the mine. 
+The mine has been developed to the northeast of the shafts over a vertical range of about 400 meters 
+from the surface (2,035 meters asl) to about the 1525 level (1,525 meters asl), where the water table 
+has been encountered. The mine has not been developed into the large prospective area to the 
+southwest of the shafts, which are situated at the southwest boundary of the developed mine area. 
+
+The San Francisco and Maria Isabel shafts were sunk by the Peñoles-Lacana joint venture, mainly for the 
+development and extraction of the Escondida and La Prieta chimneys and these shafts continue to be 
+used by the current operators.  The collar elevations of both shafts, which are situated only about 100 
+meters apart, is 1,800 meters asl for the Maria Isabel, and 1805 meters asl for the San Francisco, and the 
+depths of both are about 300 meters.  Both the San Francisco and Maria Isabel Shafts provide access to 
+the deeper levels of La Prieta and Escondida areas of the mine.   
+
+The southern-most Maria Isabel Shaft is L-shaped with a manway cut-out and it is equipped with two in-
+balance 3.7-t capacity skips, and a man cage.  The man cage capacity is about 15 people.  The 
+
+
+
+Pincock, Allen & Holt AMENDED 25.2 
+80523  March 19, 2008
+
+furnishings in the shaft are all constructed of steel, including dividers.  The guides for the ore skips are 
+cables, and the guides for the man cage are steel H-beams.  The main air lines and electric power cables 
+into the mine are installed in the manway compartment of the Maria Isabel Shaft.  The Maria Isabel ore 
+hoist is a 500-hp Canadian Ingersoll-Rand 2-drum hoist, and the man-hoist is a Vulcan 125-hp 1-drum 
+hoist.
+
+The rectangular San Francisco Shaft is set up for ore hoisting only, with only a small emergency manway 
+located in a corner of the shaft.  The Shaft is fitted with two in-balance 4.8-t capacity skips, but has no 
+man cage.  The main pumping station for the mine is located on the San Francisco Shaft, and the mine 
+pump lines are located in the shaft near the emergency manway.  The San Francisco ore hoist is a 2-
+drum 400-hp Canadian Ingersoll-Rand unit. 
+
+The main access to the current mine operations is a trackless adit at the 1,870 elevation.  This working 
+has been enlarged to accommodate 20-t capacity highway-type dump trucks for ore and waste haulage 
+from the mine.  Drifts and ramps are driven at a cross-section of about 3 X 3 meters, and the enlarged 
+drifts and ramps to accommodate the larger dump trucks are about 4.5 X 5.0 meters in section.  Most 
+areas of the mine are unsupported, but in a few places, rock bolts and wire mesh have been installed, 
+and in other heavy ground areas, it has been necessary to install steel arches with timber lagging. FMS 
+develops most of its short raises (<60 meters) by conventional methods, and most raises are driven at a 
+cross-section area of about 1.5 X 1.5 meters. Historically long ore and waste pass raises, ventilation 
+raises, etc. have been developed by raise boring contractors, and FMS will continue this policy as the 
+need arises. 
+
+A ramp system in the interior of the mine provides access for low-profile diesel mobile equipment up to 
+the 2035 level and down to the 1635 level. The portion of the ramp above the 1870 level is being 
+enlarged to accommodate the highway-type dump trucks. Peñoles established the 1790 main rail haulage 
+level (from the Maria Isabel Shaft to the stoping and exploration areas) northeast of the shaft.  In 
+addition a rail level was also developed at the 1635 level.  Both the rail levels are still in use. 
+
+Mining operations at La Encantada mine are partially mechanized.  Drilling of headings for both 
+development and stoping is accomplished using pneumatic hand-held jackleg machines.  Loading and 
+tramming is done with diesel-powered, low profile front-end loaders (load-haul-dumps, or LHD's), and 
+haulage is usually with highway-type diesel rear-dump trucks, or battery powered rail haulage trains.   
+
+Before FMS acquired La Encantada from the previous operator, Desmín, little exploration and 
+development work had been done in the mine.  Since taking over the operation in November 2006, FMS 
+has undertaken an intensive exploration and development effort.  At this time, an average of about 500 
+meters of drifts, raises and inclines and declines are driven each month; the exploration work amounts to 
+about 400 meters per month, while the development work averages about 103 meters per month (Table 
+25-1).  The maximum inclination on ramps is about 15 percent. As stated above, some mine workings are 
+being slashed out to accommodate highway-type dump trucks, but the advance for these is not included 
+in the development totals. 
+
+
+
+Pincock, Allen & Holt AMENDED 25.3 
+80523  March 19, 2008
+
+The monthly development totals for 2007 are shown in Table 25-1. 
+
+The principal mining method employed at La Encantada is overhand cut-and-fill (Figure 25-1), utilizing 
+development waste for fill. Ramps are driven into the orebodies and stopes are developed from sill drifts 
+driven in the ore zones and slashed out the full width of the ore.  Stopes are drilled with jacklegs, and the 
+main blasting agent is a commercial ammonium nitrate product, which is initiated with sausages of water-
+gel explosive primed with cap and fuse.  Rounds are fired with Ignitacord (B-cord) as the fuse initiator.  
+Stopes are mucked with rubber-tired 1.0- to 2.0 yd3 Load-Haul-Dump (LHD's) machines, which also tram 
+the broken ore to ore passes or remuck stations.  Completed stope cuts are backfilled with development 
+waste, which is passed through raises into the stope or trammed into the stope with the LHD units.  
+Stope production is about 8,500 tonnes per month, and there are currently about 10 stopes in 
+production.  The monthly mine production for 2007 is shown in Table 25-2. 
+
+TABLE 25-1
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+2007 Exploration and Mine Preparation Advances (Lineal Me
+
+Month Exploration Mine Preparation Total Advance
+January 261.8 160.6 422.4
+February 385.9 113.4 499.3
+March 432.8 97.6 530.4
+April 366.2 80.2 446.4
+May 487.5 169.3 656.8
+June 344.0 88.3 432.3
+July 437.1 79.4 516.5
+August 412.3 41.3 453.6
+September 405.5 92.1 497.6
+October 462.7 107.0 569.7
+November
+December
+Totals 3,995.8 1029.2 5,025.0
+
+
+
+Pincock, Allen & Holt AMENDED 25.4 
+80523  March 19, 2008
+
+Most of La Encantada's mine development and stoping work is done by outside contractors, using 
+company equipment.  Mobile equipment operation is done with company crews, and maintenance and 
+other mine services are also done with company personnel.  If the company does not have sufficient 
+personnel to operate the mobile mucking and haulage equipment, the contractors will operate the 
+equipment for extra fees.  Ore haulage to the mine patios is done with contractor dump trucks, and ore 
+transfers from the patios to the mill crusher bins are also done with outside contractors using their own 
+trucks.
+
+The operators plan to eventually reinitiate extraction of La Prieta and La Escondida abandoned chimneys, 
+which were first mined by caving methods by Peñoles in the early years of the mine operation.  The 
+workings for the extraction of both chimneys caved in and were lost, with much waste rock material 
+dumped into the glory-holes, at the surface.  The purpose of the waste rock was to stabilize the areas 
+proximal to the chimneys.  Some ground movements have occurred in the form of concentric cracks 
+around the ore boundaries of the chimneys, and since the chimneys are situated very  
+near to both the main production shafts, ground movements could affect the stability of these 
+installations.  In fact some cracks in the walls of hoistroom of the San Francisco shaft have been noted, 
+apparently as a result of caving of the chimneys.  Extraction of remnants left in these chimneys is 
+technically possible, but should be delayed until the two shafts are no longer required for production or 
+service.
+
+TABLE 25-2
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Mine Production for 2007 (wet mtric tonnes)
+
+Month Ore from Stopes Ore from Development *Total Ore Mined Average Hd Grade
+January 7,157 804 7,961 493
+February 6,321 1,892 8,213 500
+March 9,249 1,864 11,113 318
+April 9,142 1,247 10,389 436
+May 6,938 2,431 9,369 474
+June 7,595 1,932 9,527 504
+July 8,142 2,891 11,033 428
+August 12,404 960 13,364 296
+September 10,646 2,401 13,047 377
+October 7,612 4,660 12,272 477
+November
+December
+Totals 85,206 21,082 106,288 421
+*Totals will not coincide with totals for process due to moisture content 
+of mine ore, which is normally < 6 percent.
+
+
+
+
+
+Pincock, Allen & Holt AMENDED 25.6 
+80523  March 19, 2008
+
+A separate mine dump recovery effort is also being conducted at the mine site.  This operation consists 
+of the excavation and screening of old dump material from the previous operations, and transporting the 
+screened product to the mill ore bins as supplemental mill feed material. The dump recovery operation is 
+done by a combination of company operators and contractors.  The company has acquired a new 
+screening plant in a rental/purchase arrangement for increasing the production from the operation.  
+Currently about 6,700 tonnes per month at average grades of over 100 gpt Ag are being shipped to the 
+mill.  The operators estimate that there are over 160,000 tonnes of dump material, which averages about 
+94 gpt Ag and negligible lead available for recovery.  This material will only be viable if screened, in 
+which case only about 22 percent, or about 35,000 tonnes, would be shipped to the mill with the 
+remainder left as coarse rejects.  The average silver grade in the screened dump material would contain 
+about 42 percent of the total silver and the grade should improve to about 181 gpt Ag.   
+
+The mine currently operates on three shifts per day, 7 days per week.  Both contractor crews and 
+company personnel work the same shift schedule.  Most company and contractor personnel live in the 
+town of Musquiz, Coahuila, which is situated about 210 km on paved highways to the northwest of the 
+Encantada Mine.  The company is currently transporting all personnel to and from Múzquiz to the mine 
+site in a company bus.  Peñoles constructed and maintained about 180 houses, as well as a primary 
+school, stores and recreational facilities in the proximity of the mine site, and FMS management is 
+considering refurbishing the facilities, and accommodating the workforce in company controlled living 
+quarters. 
+
+The current mine workforce (as of October 31, 2007) totals 243 people including contractors and a 
+breakdown is as shown in Table 25-3. 
+
+The budget for 2007 is for production of 129,000 tonnes from the mine and 60,000 tonnes from the old 
+mine dumps (Table 25-4). The milled tonnes are budgeted somewhat lower than the mine production 
+tonnes, or 108,500 tonnes milled from the mine and 59,800 tonnes from the dump recovery, or a total of 
+168,300 tonnes milled.  The average grades to the mill are budgeted at 359 gpt Ag; 500 gpt Ag for the 
+mine and 170 gpt Ag for the dumps.  Desmín did not do any reconciliations, comparing mine production 
+results with tonnes and grades milled in La Encantada plant.  FMS will do this in the future, but currently 
+has not done any comparisons, because of the sparse data from their short operations period.  FMS 
+recently reinforced its mine engineering department and the reconciliation effort will be one of the tasks 
+that will be under taken by the engineers. 
+
+
+
+Pincock, Allen & Holt AMENDED 25.7 
+80523  March 19, 2008
+
+TABLE 25-3
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine 
+La Encantada Mine Manpower, Including Contractors (October 31, 2007)
+
+Mine Contractors TOTALS
+Department & Category Hourly Staff
+
+SITE ADMINISTRATION
+Manager & General Office 11 11
+Safety & Environment 2 3 5
+Sub-Total 2 14 16
+
+MINE
+Miners, helpers, etc. 76 76
+Equipment operators, etc. 27 27
+Supervision, admin. 5 5 10
+Sub-Totals 27 5 81 113
+
+MINE TECHNICAL SUPPORT
+Engineering & Planning 6 4 10
+Geology 3 7 10
+Sub-Total 9 11 20
+
+MINE DUMP RECOVERY
+Dump recovery 18 18
+Supv. & Admin. 2 2
+Sub-Total 20 20
+
+MILL & PROCESS PLANT
+Mill & Plant 31 5 36
+Assay Laboratory 5 2 7
+
+Sub-Total 36 7 43
+
+MAINTENANCE
+Mine & plant maintenance 26 26
+Supv. & Administration 5 5
+Sub-Total 26 5 31
+
+TOTALS 100 42 101 243
+
+Company
+
+
+
+Pincock, Allen & Holt AMENDED 25.8 
+80523  March 19, 2008
+
+TABLE 25-4
+First Majestic Silver Corp.
+Minera La Enacantada, S.A. de C.V.
+La Encantada Silver Mine
+2007 Production Budget for La Encantada
+Month Ore Mined  Milled from Mine Avg Grade Mine Ore Milled from Dumps Average Grade Dump Ore TOTAL MILLED AVERAGE GRADE COMBINED ORE
+
+(tonnes) (tonnes) (gpt Ag) (tonnes) (gpt Ag) (tonnes) (gpt Ag)
+January 9,500 8,000 500 2,300 170 10,300 426
+February 9,500 8,000 500 2,300 170 10,300 426
+March 9,500 8,000 500 3,220 170 11,220 405
+April 9,500 8,000 500 4,140 170 12,140 387
+May 9,500 8,000 500 5,980 170 13,980 359
+June 9,500 8,000 500 5,980 170 13,980 359
+July 12,000 10,080 500 5,980 170 16,060 377
+August 12,000 10,080 500 5,980 170 16,060 377
+September 12,000 10,080 500 5,980 170 16,060 377
+October 12,000 10,080 500 5,980 170 16,060 377
+November 12,000 10,080 500 5,980 170 16,060 377
+December 12,000 10,080 500 5,980 170 16,060 377
+
+TOTALS 129,000 108,480 500 59,800 170 168,280 383
+
+
+
+ ___ _____________
+Pincock, Allen & Holt AMENDED 25.9 
+80523  March 19, 2008
+
+25.3 Mine Equipment 
+
+Most of the mine equipment used at La Encantada was inherited from the previous operator; Desmín and 
+Desmín acquired most it from Peñoles.  The mobile equipment fleet includes several sizes, ranging from 
+1.0-yd3 to 3.5-yd3 capacity, of primarily Wagner diesel-powered LHD's.  A summary of La Encantada Mine 
+Equipment is shown in Table 25-5.  
+
+As can be appreciated from Table 25-5, much of the mine mobile equipment fleet is very old, and 
+requires replacement.  FMS management has a plan in place to replace much of the older mine 
+equipment in the future.  For 2007, the capital budget includes funding for a scoop tram, trucks, 
+compressor and safety equipment.   
+
+25.4 Mineral Processing Plant 
+
+Principal parameters of the ore processing plant, including concentrate freight, smelting and refining 
+values, are presented in Table 25-6 and a listing of the principal equipment is shown in Table 25-7.  A 
+flow diagram of the plant is provided in Figure 25-2.  The plant was constructed in 1973 and at that time 
+incorporated magnetic separation.  In 1977 the plant was modified to convert it to flotation separation. 
+
+Ore is from two sources: from the underground mine and from old mine dumps with the mine 
+contributing about 60 percent of the feed while the processing of dump material accounts for the rest.  
+The dump rock is screened ahead of the plant which results in upgrading the rock to about twice the 
+grade of unscreened material.  Mine and dump ore are not mixed; they are campaign processed through 
+the plant. 
+
+The plant is a small, simple flotation plant in a single-line arrangement.  Crushing is accomplished using 
+two stages of crushing closed on the second stage, and the ore is milled in a single ball mill closed with a 
+cyclone.  The mill is rubber lined and is charged with 2-1/2-inch diameter grinding balls.  Sulfide minerals 
+and oxide minerals are floated sequentially and neither circuit incorporates cleaning; rougher 
+concentrates are the final concentrate.  However, both the sulfide and oxide systems have rougher-
+scavengers with the rougher-scavenger concentrates recycled to the head of the roughers. 
+
+Concentrates from both the sulfide and oxide circuits are combined in a concentrate thickener.  
+Thickened concentrates are filtered on a filter press and the filtered concentrate is stockpiled and trucked 
+to the Peñoles smelter at Torreon. 
+
+Tailings are thickened and then pumped to a nearby tailings containment.  Tailings thickener overflow 
+and the decant water from the tailings containment are pumped to a recycle-water tank and reused in 
+the process. 
+
+
+
+ ___ _____________
+Pincock, Allen & Holt AMENDED 25.10 
+80523  March 19, 2008
+
+TABLE 25-5
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Summary of Major Mine Equipment for Encantada Mine
+MOBILE EQUIPMENT
+No.of Units Description of Unit Make & Model Size Date(s) Acquired
+
+2 SCOOPTRAM WAGNER ST-1A 1 yd3 1995
+2 SCOOPTRAM WAGNER ST-2D 2yd3 Unknown
+2 SCOOPTRAM WAGNER ST-2D 2yd3 1989
+2 SCOOPTRAM WAGNER ST-2D 2yd3 1995 & 1996
+2 SCOOPTRAM WAGNER ST-2D 2yd3 1998
+1 MICROSCOOP TAMBROCK 100D 0.5yd3 2002
+2 DIESEL LOCOMOTIVES PLYMOUTH-HDM-24 8.0 tonnes 1997
+1 FRONT-END LOADER CATERPILLAR 938-G 3.0 yd3 2005
+1 CARGADOR MICHIGAN M-75 3.0yd3 Unknown
+1 MINE TRUCK-TELETRAM TAMROCK EJC-416 10.0 tonnes 2000
+1 JUMBO TAMROCK ? Unknown
+1 CARGADOR CATERPILLAR 928-G 2.5yd3 1997
+1 MINE TRACTOR FORD NEW HOLLAND 5610 NA 1995
+1 MINE TRACTOR FORD NEW HOLLAND 6600 NA Unknown
+1 U/G ROAD GRADER HUBER F-1700 ? 1979
+
+15 RAIL MINE CARS GRANBY-TYPE 2.8 M3 EACH Unknown
+
+MINE HOISTS
+1 TWO-DRUM ORE HOIST CANADIAN INGERSOLL-RAND 72- X 54-in DRUMS Unknown
+
+MARIA ISABEL SHAFT MOTOR - 500 hp, 2200 v, 705 rpm 450 METERS, 11/8-in CABLES
+
+1 ONE-DRUM MAN HOIST VULCAN IRONWORKS DRUM SIZE - N.A. Unknown
+MARIA ISABEL SHAFT MOTOR - 125 hp, 440v, 705 rpm 450 METERS, 11/4-in. CABLE
+
+1 TWO-DRUM ORE HOIST CANADIAN INGERSOLL-RAND 72-X54-in DRUMS Unknown
+SAN FRANCISCO SHAFT MOTOR - 400 HP, 2300v, 505 rpm 450 METERS, 11/8-in CABLES
+
+MINE STATIONARY AIR COMPRESSORS
+1 AIR COMPRESSOR INGERSOLL-RAND 2,400 cfm Unknown
+
+440 hp, RECIPROCATING, XLE
+
+1 AIR COMPRESSOR SULLAIR 1,600 cfm Unknown
+350 hp, SCREW, 25-300L
+
+ PNEUMATIC DRILLING EQUIPMENT
+10 STOPER ROCK DRILLS MID-WESTERN MACHINERY N.A. Unknown
+2 JACKLEG ROCK DRILLS GARDNER-DENVER, 58F N.A. Unknown
+
+16 JACKLEG ROCK DRILLS REFACCIONES PNEUMATICAS  N.A. Unknown
+DE SAN LUIS POTOSI, S.A.
+
+DIAMOND DRILLING EQUIPMENT
+1 DIAMOND-DRILL RIG ATLAS-COPCO, DIAMEC MODEL N.A. Unknown
+
+250, WIRELINE RIG
+
+OTHER MINE EQUIPMENT
+1 MINE VENTILATION FAN SPENDRUP 350 hp, 3,500 m3 per min. Unknown
+2 MINE DEWATERING GARDNER-DENVER DUPLEX 30 hp electric motor Unknown
+2 MINE DEWATERING SULZER 300hp, 23.6 l/sec. Unknown
+1 MINE DEWATERING UNKNOWN 40 hp electric motor Unknown
+1 MINE PICKUP GMC, SERIES 1 GTC C Diesel pickup 1995
+
+
+
+ ___ _____________
+Pincock, Allen & Holt AMENDED 25.11 
+80523  March 19, 2008
+
+TABLE 25-6
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Ore Processing, Principal Parameters
+
+Parameter Units Mine Dumps Combined
+
+Plant Capacity
+  Annual thousand tonnes/year 300
+  Daily tonnes/day 800
+Actual Throughput Rate
+  Annual thousand tonnes/year 110 83 193
+  Daily tonnes/day 333 252 585
+Ore Grade
+  Silver grams/tonne 450 114 306
+  Lead percent 2.4 0.9 1.8
+Recovery
+  Silver percent 65 50 63
+  Lead percent 13 5 11
+Concentrate Grade
+  Silver grams/tonne 8,000 5,000 7,579
+  Lead percent 8 5 7.6
+Concentrate Quantity dry tonnes/year 4,230 690 4,920
+Plant Operating Cost $/tonne ore 8.50
+
+$/tonne concentrate 221 1,022 333
+Freight, Smelting & Refining Values
+  Freight cost $/dry tonne concentrate 36
+  Smelting cost $/dry tonne concentrate 215
+  Refining cost $/payable kg silver 12.50
+  Payables
+    Silver percent 95
+    Lead percent 95 95 95
+
+TABLE 25-7
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Ore Processing, Principal Equipment
+
+Item Size Qty.
+
+Coarse ore bin 1,000 tonne capacity, stationary grizzly
+  on top w/12-inch openings 1
+
+Feeder and belt 42-inch belt 1
+Jaw crusher 24- x 36-inch 1
+Vibrating screens 6- x 14-ft., 3/8-inch openings 2
+Cone crusher 4-1/4-ft. 1
+Crushed ore silos 500-tonne capacity 2
+Ball mill 9-1/2-ft dia. x 11-ft long overflow 1
+Cyclones D-20
+Sulfide flotation cells
+  Roughers Galigher 100 ft3 6
+  Rougher scavengers Galigher 100 ft3 6
+Oxide flotation cells
+  Roughers Galigher 100 ft3 4
+  Rougher scavengers Galigher 100 ft3 6
+Tailings thickener 125-ft dia. 1
+Concentrate thickener 50-ft dia. 1
+Concentrate filter Pressure filter 1
+
+
+
+Prepared by
+
+Project No.
+
+Project Name
+
+FIGURE 25-2
+
+LA ENCANTADA MINE
+PROCESS FLOWSHEET 2007
+
+Date of Issue
+
+Drawing Name
+
+80523
+
+Dec/2007
+
+Fig.25-2.cdrLa Encantada Silver Mine
+
+Drawing Provided by/Prepared for
+
+FIRST MAJESTIC SILVER Corp.
+pincock, allen & holt
+165 S. Union Boulevard, Suite 950
+Lakewood, Colorado 80228
+Phone (303) 986-6950
+
+
+
+ ___ _____________
+Pincock, Allen & Holt AMENDED 25.13 
+80523  March 19, 2008
+
+25.5 Infrastructure 
+
+The infrastructure for La Encantada was very well developed by the previous operators, especially 
+Peñoles.  The operations support facilities, located near the plant, include administrative offices, a 
+medical clinic, warehouse, assay laboratory, power generation plant, fuel storage facilities, maintenance 
+shops, mine compressor building, surface maintenance shop, mine dry, water storage tanks, employee 
+hotel and dining hall, contractor offices and security guard shack.  The Maintenance Department operates 
+from the surface shops, and also from an underground shop (840 level), located near the center of the 
+mine.  Road maintenance is done with a fleet of company tractors, road grader and wheel loaders.  
+Dump trucks for ore haulage and road maintenance are largely vehicles contracted locally.  The company 
+has a passenger bus for transporting operations personnel to and from the town of Múzquiz, where most 
+employees have homes. 
+
+The company also has a town constructed by Peñoles, and which is partially occupied at this time.  The 
+town site has 180 housing units of which 70 are occupied.  There is also a kitchen/dining room for 
+salaried staff and some contractor managers and visitors, a primary school, a church, a store, 
+recreational facilities, etc.  The company has had problems with turnover at the operation, mainly 
+because of the long commute to and from the site every weekend.  Management is planning to refurbish 
+the company housing and offer housing to employees at a nominal rental fee. 
+
+The electric power for the operation and supporting infrastructure is generated on-site.  The power 
+generation plant consists of three General Motors 3,250 KVA diesel-powered motor generators. In 
+addition there are two 1,000 KVA CAT D399 motor-generator sets for site power, when the mill and 
+process plant are idle.   Power consumption is presently about 800,000 kW per month.  The 2007 cost of 
+electric power is presently about $0.18 per kWhr.  The mine is situated about 45 km from a major 
+government (Comisión Federal de Electricidad) power line, and the company will examine the possibility 
+of connecting to this line, and discontinuing use of the diesel plants, keeping them in reserve for 
+emergencies or supplemental power generation during peak cost hours of operation. 
+
+Potable water for the offices and employee housing is derived from a well in the mine, which penetrates 
+below the water table.  The industrial water for the mine and plant is obtained from a series of wells 
+located about 15 kilometers from the site.  This water is pumped to and stored in a number of storage 
+tanks located throughout the plant and mine site.   
+
+Communications to and from La Encantada is via satellites, both for wireless internet information 
+systems, and also for the telephone system.  Currently the telephone system has two lines.  La 
+Encantada has a site radio system for instant communications between all Supervisors and Managers, 
+and all surface vehicle operators also have radio communication capabilities. 
+
+There is a FMS owned airstrip located in the broad valley to the northwest of the mine site.  This strip is 
+suitable for light planes, and is used for flying in emergency supplies, or for transporting mine personnel, 
+visitors and others into and out of La Encantada, and other nearby locations.  The airstrip is 1,200 meters 
+long, 17 meters wide, and has a gravel surface. 
+
+
+
+ ___ _____________
+Pincock, Allen & Holt AMENDED 25.14 
+80523  March 19, 2008
+
+The site is connected with the national highway system and, although in a remote location, La Encantada 
+is reasonably accessible.  The access to the mine from the town of Múzquiz, Coahuila, which lies to the 
+northeast of La Encantada, accessible via a 45 kilometers of gravel road, and then another 170 kilometers 
+on a paved highway to Múzquiz. 
+
+25.6 Tailings
+
+Tailings are deposited in a large storage impoundment located in a natural basin to the northwest of the 
+process plant site.  The impoundment is a continuation of that used by both Desmín and Peñoles, and 
+construction of the impoundment berms is with the up-stream method, constructing berms using borrow 
+material placed on top of consolidated tailings.  FMS is constructing a new berm, which should be 
+adequate to contain tailings for at least five years of operations (at current mining and processing rates). 
+
+25.7 Product Marketing
+
+FMS has a purchase agreement with MET-MEX Peñoles located in the city of Torreón, State of Coahuila, 
+México.  The purchase agreement establishes the obligation to sell all mineral production from La 
+Encantada mine to the Peñoles smelter.  This, however, is the natural market for concentrates since the 
+MET-MEX Peñoles smelter is the closest such facility for shipping La Encantada concentrates.  The 
+contract between La Encantada and Peñoles for sales of bulk flotation concentrate is typical for this 
+product.
+
+La Encantada purchase contract of concentrates with Peñoles includes typical conditions and related 
+charges as follows: 
+
+� Each lot is weighed upon receipt and sampled.  La Encantada also weighs and samples the shipments 
+at the mine site. 
+
+� Smelting charge per dry tonne of concentrate is $215.00. 
+� Freight cost per tonne of concentrate is $36.00. 
+� Refining cost per payable kilogram of silver is $12.50 
+� Payables by Peñoles are: 95 percent for contained silver, and all of the contained lead in excess of 3 
+
+percent.
+
+25.8 Environmental Safety Review 
+
+Minera La Encantada has been operating La Encantada mine since the early 1970's with the necessary 
+land-use and water extraction permits in effect for the operation.  FMS has purchased the land surface 
+rights, under expropriation procedures from Ejido Tenochtitlán, where the camp, water wells, mine and 
+plant installations are located to better manage the property. Through the years and changes in the 
+regulatory framework, La Encantada has been required to update the necessary operation permits. 
+
+
+
+ ___ _____________
+Pincock, Allen & Holt AMENDED 25.15 
+80523  March 19, 2008
+
+In April 24, 2007 La Encantada presented a notification of reactivation of operations at the mine to the 
+National Water Commission (C.N.A.), to SEMARNAT, to Secretaría del Trabajo y Previsión Social, and to 
+PROFEPA.  La Encantada mine was declared in suspension of activities by Peñoles in 2003.   
+
+PAH's environmental and safety review consisted of discussions with FMS's COO Ing. Ramón Dávila 
+Flores, and mine manager and supervisors, Ing. José Luis Arana, Manager of Operations, and other 
+personnel.  PAH visited the site to observe the current site safety and environmental conditions and to 
+identify any potential liabilities having significant economic impacts, and a briefly reviewed file records 
+provided to PAH during the site visit.  PAH's assessment was not intended as an environmental and 
+safety compliance audit, although prudent practices were considered in the review.  In PAH's opinion, La 
+Encantada is in compliance with regulatory requirements and only subject to confirmation of the required 
+permits and authorizations. 
+
+In general, surface disturbance related to mining is limited to the access road to the mining levels, waste 
+rock dumps at each portal, and auxiliary support areas.  Development waste rock is used for fill inside the 
+mine and limits the size of waste rock dumps at the surface. Most of these activities are carried out on 
+land owned by La Encantada.  No acid rock drainage (ARD) is produced from the mine workings. 
+
+PAH noted no visible evidence of ARD on the active and historic tailings deposition areas or spent heap 
+leach pile.  The surface of the active tailings impoundment is wetted, which controls fugitive dust 
+emissions. 
+
+The grinding area, agitated leach tanks, wash thickeners, cyanide mix tank, and several other process 
+vessels in the mill area have spill containment. There are minimal stormwater control measures to route 
+uncontaminated runoff away from the mill or to collect and contain stormwater runoff from around the 
+mill site.
+
+La Encantada has good control of the storage of hazardous chemicals and lubricants at the mill site and 
+has installed concrete pads and fenced areas for drums.  
+
+Although Mexican environmental legislation is not explicit in the requirements for remediation, 
+reclamation, and closure, the SEMARNAP expresses concern for the preservation and restoration of the 
+environment and natural ecosystems in its environmental management guidance for industry.  In fact, 
+SEMARNAP recommends that facilities establish and implement a program for remediation of spills and 
+releases to the environment. 
+
+La Encantada has not supplied to PAH the estimated costs for reclamation and mine closure of the mine 
+or mill and tailings containment areas; however, PAH considers the costs will be low because La 
+Encantada owns most of the surface rights where the installations and mine are located.   
+
+PAH's estimate for the costs required to comply with and remediate the environmental issues for the 
+project is approximately $150,000 in addition to the salvage value of plant and mine equipment. These 
+costs are based on PAH's experience in mining projects in México, and are not the result of detailed 
+
+
+
+ ___ _____________
+Pincock, Allen & Holt AMENDED 25.16 
+80523  March 19, 2008
+
+analysis.  Actual costs will depend on site conditions and impacts from the operation, regulatory 
+requirements at the time of compliance, and corporate environmental management standards. 
+
+25.9 Economic Analysis
+
+25.9.1 Capital Costs 
+
+The FMS capital expenditures planned for 2007 was a total of $6.2 million while this amount is $3.7 
+million for 2008. The 3-year capital budget (2007-2009) is $11.3 million including the acquisition costs of 
+the property, mill and power plant upgrades, mine equipment additions and replacements, exploration 
+and infrastructure development costs.  Major capital expenditures in the program registered for the first 
+ten months of 2007 is the acquisition cost from Peñoles and investments in exploration, some mine 
+equipment and plant improvements.   The capital cost schedule for La Encantada six-year plan is shown 
+in the Table 25-8. 
+
+TABLE 25-8
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Estimated Capital Expenditures SUMMARY (6 years)
+
+CAPEX SCHEDULE AND SUSTAINING CAPITAL
+Capital Cost Summary YEAR 0 YEAR 1 YEAR 2 YEAR 3 YEAR 4 YEAR 5 YEAR 6 TOTALS
+Acquisition from Penoles 3,250,000 3,250,000
+Sub-Total 3,250,000 3,250,000
+
+Exploration & Development
+Diamond Drilling 750,000 1,269,000 500000 500,000 500,000 500,000 4,019,000
+Development & Exploration 500,000 1,106,000 750,000 750,000 750,000 750,000 4,606,000
+Sub-Total 1,250,000 2,375,000 1,250,000 1,250,000 1,250,000 1,250,000 8,625,000
+
+Equipment
+Scooptrams 350,000 500,000 850,000
+Trucks 100,000 300,000 400,000
+Auxilliary Equipment 100,000 150,000 100,000 100,000 100,000 100,000 650,000
+Compressors 100,000 150,000 250,000
+Safety Equipment & Mine Rescue 50,000 25,000 25,000 25,000 25,000 150,000
+Sub-Total 650,000 1,150,000 125,000 125,000 125,000 125,000 2,300,000
+
+Construction & Plant Improvements
+Upgrade Flotation Plant 150,000 100,000 50,000 50,000 50,000 50,000 450,000
+Upgrade Power Plant 375,000 375,000
+Buildings and Offices 50,000 50,000 50000 50000 50,000 50,000 300,000
+Sub-total 575,000 150,000 100,000 100,000 100,000 100,000 1,125,000
+
+Mine Dump Recovery Equipment
+Screening Plant for Dumps 250,000 250,000
+Two Front-End Loaders 200,000 200,000
+Sub-Total 450,000 450,000
+
+TOTALS 6,175,000 3,675,000 1,475,000 1,475,000 1,475,000 1,475,000 15,750,000
+
+
+
+ ___ _____________
+Pincock, Allen & Holt AMENDED 25.17 
+80523  March 19, 2008
+
+25.9.2  Operating Costs 
+
+La Encantada operating costs for the first ten months of 2007 have averaged US$38.22 per tonne of ore 
+processed, inclusive of dump material, which equates to a cost per ounce of silver of US$6.06.  The costs 
+include downstream concentrate freight and processing costs of about US$8.90 per tonne milled or 
+US$1.41 per ounce of silver recovered. The average combined operating cost for 2007 is projected to 
+average about US$50 per tonne milled. A summary of the combined mine and dump recovery operating 
+costs for the first ten months of 2007 is found in Table  25-9. 
+
+The average mine-only operating cost is US$53.33 per tonne, and also includes costs for the downstream 
+processing of the silver-lead concentrates.  The site-only operating cost for the mine generated ore has 
+averaged about US$40.30 per tonne, and the total cost per ounce of silver obtained from mine ore has 
+averaged US$3.92 per oz Ag for 2007.   The downstream concentrate freight and smelting and refining 
+costs are US$13.03 per tonne or US$1.29 per oz Ag for the first ten months of 2007.   A summary of the 
+mine-only operating costs is shown in Table 25-10. 
+
+TABLE 25-9
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Summary of Unit Operating Costs for 2007, Jan.-Oct. ($US )
+
+Cost Area Total Cost ($000's) *Cost per Tonne **Cost per Oz. Ag
+U/G Mine 1,553 9.57 1.52
+Mill & Concentrator 1,620 9.98 1.58
+Site G&A 1,584 9.76 1.55
+Conc. FSR 1,445 8.90 1.41
+
+TOTALS $4,649 $38.22 $6.06
+*Based on 92,993 tonnes from U/G mine and 69,288 tonnes from dump recovery or 162,281 tonnes.
+**Based on 955,667 equivalent oz Ag from U/G mine and 167,921 equivalent oz Ag from dump recovery 
+or 1,023,529 equivalent oz.Ag.
+
+TABLE 25-10
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Summary of Unit Operating Costs for First 10 Months of 2007; U/G Mine Only ($US)
+
+Cost Area Total Cost ($000's) *Cost per Tonne **Cost per Oz. Ag
+U/G Mine 1,553 16.70 1.63
+Mill & Concentrator 970 10.43 1.01
+Site G&A 1,225 13.17 1.28
+Total Direct Costs 3,748 40.30 3.92
+***Concentrate Freighting, 
+Smelting & Refining
+     Freighting 137 1.44 0.14
+     Smelting 757 7.98 0.79
+     Refining 342 3.61 0.36
+Total Conc. FSR 1,236 13.03 1.29
+TOTALS $4,984 $53.33 $5.21
+*Based on 92,993 tonnes from U/G Mine
+**Based on 880,654 ozs Ag + 75,013 equivalent ozs Ag. = 955,667 oz Ag Produced from U/G 
+***Based on October 2007 concentrate grades & FSR from mne
+
+
+
+ ___ _____________
+Pincock, Allen & Holt AMENDED 25.18 
+80523  March 19, 2008
+
+The average costs for extraction and processing of the old dump material for 2007 are US$17.13 per 
+tonne, or US$7.07 per oz Ag produced.  The site-only costs for extraction, screening, milling and 
+processing of the old dump material have averaged US$14.11 per tonne or US$5.82 per oz Ag for 2007 
+(10 months) plus US$3.02 per tonne or US$1.24 per oz Ag for concentrate freight and downstream 
+smelting and refining.   
+
+Table 25-11 is a summary of the operating costs for the first ten months of 2007 for the dump recovery 
+effort.
+
+25.9.3  Economic Analysis 
+
+A simplified cash flow forecast has been prepared and is presented as Table 25-12.  The economics 
+covers the period from January 2008 through December 2012, at which time the known Proven / 
+Probable Reserves will be exhausted and the fifth year's production will be extracted from the Measured 
+and Indicated Resources.  In the interim, it is expected that underground exploration will be advanced 
+through both diamond drilling and drifting, and that Reserves will continually be added over time. 
+
+Table 25-9 shows a summary of Operating Costs. 
+
+Basic premises for the cash flow involve the silver price, which is taken as US$10.50/ounce.  The lead 
+price is taken as US$0.68/lb.  No escalation was considered for operating costs and expenses.  
+Reclamation expenditures are considered spent in the last three years of the period. It can be seen from 
+the table that a net present value for the project at a 15-percent discount rate is approximately US$5.2 
+million.
+
+TABLE 25-11
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Summary of Unit Operating Costs for First 10 months of 2007; Dump Recovery Only
+
+Cost Area Total Cost ($000's) *Cost per Tonne **Cost per Oz. Ag
+Dump Recovery 0 0.00 0.00
+Mill & Concentrator 650 9.38 3.87
+Site G&A 328 4.73 1.95
+Total Site Operating 978 14.11 5.82
+***Concentrate Freighting, 
+Smelting & Refining 
+     Freighting 30 0.43 0.18
+     Smelting 123 1.78 0.73
+     Refining 56 0.81 0.33
+Total Conc. FSR 209 3.02 1.24
+TOTALS $1,187 $17.13 $7.07
+*Based on 69,288 tonnes milled from dumps
+**Based on 142,874 oz Ag + 25,047 equivalent oz Ag = 167,921 oz Ag from dump recovery 
+***Based on October 2007 concentrate grades & FSR from dump recovery
+
+
+
+ ___ _____________
+Pincock, Allen & Holt AMENDED 25.19 
+80523  March 19, 2008
+
+Sensitivity analyses were performed at different discount rates and the analysis shows robust economics 
+for La Encantada, as follows ($US): 
+
+� At 0 % discount   $12.8 million 
+
+� At 10 % discount   $6.5 million 
+
+� Base Case @ 15 % discount  $4.7 million 
+
+� At 20 % discount   $3.4 million 
+
+� At 25 % discount   $2.5 million 
+
+As expected, the project exhibits the greatest sensitivity to metal prices, followed by operating costs, and 
+finally by capital costs.  Any variances in grade or metallurgical recovery will be equivalent to similar 
+changes in metal prices, since all three factors impact the revenue stream equally.  In all cases, however, 
+the La Encantada mine shows positive economics as measured by a cash flow exercise, except when the 
+price of silver falls by 20 percent.  Therefore, the postulated reserve position is accepted. 
+
+The La Encantada mine is an existing operation, mining and processing high grade ores, therefore a 
+payback period for the purchase price of Minera La Encantada from Peñoles is at the second full year of 
+operation.  It can be seen from Table 25-12 that there is sufficient after-tax operational cash flow in any 
+year to adequately cover projected capital expenditures. 
+
+The mine life, based on the Proven / Probable Reserve position, is about 4.0 years and covers production 
+through 2011.
+
+
+
+Pincock, Allen & Holt  25.20 
+80523  January 3, 2008
+
+TABLE 25-12
+First Majestic Silver Corp.
+Minera La Encantada, S.A. de C.V.
+La Encantada Silver Mine
+Cash Flow
+
+Year 1 Year 2 Year 3 Year 4 Year 5 Year 6 Year 7 Year 8
+CAPITAL EXPENDITURES
+Mine Plan TPD
+TONNES TREATED - flotation oxides ore 394 130,000 130,000 130,000 130,000 110,000 110,000 110,000 110,000
+TONNES TREATED - OXIDE ORE dumps 197 65,000 65,000 65,000 0 0 0 0 0
+Total Tonnes 591 195,000 195,000 195,000 130,000 110,000 110,000 110,000 110,000
+Metals Payments
+NSR OXIDES 889,700 890,137 890,137 0 0 0 0 0
+NSR Sulphides 9,927,902 9,927,902 9,927,902 9,927,902 8,400,532 8,400,532 8,400,532 8,400,532
+Net Revenues 10,817,602 10,818,039 10,818,039 9,927,902 8,400,532 8,400,532 8,400,532 8,400,532
+
+OPERATING COSTS SULPHIDES: 5,460,000 5,460,000 5,460,000 5,460,000 4,620,000 4,620,000 4,620,000 4,620,000
+OPERATING COSTS OXIDES: 910,000 910,000 910,000 0 0 0 0 0
+TOTAL OP. COSTS 6,370,000 6,370,000 6,370,000 5,460,000 4,620,000 4,620,000 4,620,000 4,620,000
+Royalty Expense 0% 0 0 0 0 0 0 0 0
+Property Tax & Insurance 140,000 140,000 140,000 140,000 140,000 140,000 140,000 140,000
+
+Net after costs 4,307,602 4,308,039 4,308,039 4,327,902 3,640,532 3,640,532 3,640,532 3,640,532
+Interest Expenses 0% 0 0 0 0 0 0 0 0
+
+Net Profit 4,307,602 4,308,039 4,308,039 4,327,902 3,640,532 3,640,532 3,640,532 3,640,532
+Depreciation 0 882,143 866,667 751,548 1,120,298 1,611,964 2,349,464 2,349,464
+net taxable income 4,307,602 3,425,896 3,441,372 3,576,354 2,520,235 2,028,568 1,291,068 1,291,068
+Profit Sharing 0.1 0 342,590 344,137 357,635 252,023 202,857 129,107 129,107
+net profit after profit sharing 4,307,602 3,083,306 3,097,235 3,218,719 2,268,211 1,825,711 1,161,961 1,161,961
+Tax @ 29% 29% 0 0 0 0 0 0 0 0
+net profit after TAX 4,307,602 3,083,306 3,097,235 3,218,719 2,268,211 1,825,711 1,161,961 1,161,961
+Depreciation 0 882,143 866,667 751,548 1,120,298 1,611,964 2,349,464 2,349,464
+
+Loan Proceeds
+Cash Flow Before Principal & Sustaining Capital 4,307,602 3,965,449 3,963,902 3,970,266 3,388,509 3,437,675 3,511,425 3,511,425
+
+CAPEX EQUITY 0 6,175,000 3,675,000
+Sust. Capital 1,475,000 1,475,000 1,475,000 1,475,000 1,475,000 0
+Excess Cash Flow 0 (1,867,398) 290,449 2,488,902 2,495,266 1,913,509 1,962,675 2,036,425 3,511,425
+
+Cumulative 0 (1,867,398) (1,576,949) 911,953 3,407,219 5,320,728 7,283,403 9,319,829 12,831,254
+
+IRR 76.3%
+NPV 0% 12,831,254
+
+10% 6,450,715
+15% 4,671,562
+20% 3,417,074
+25% 2,516,847
+
+
+
+Pincock, Allen & Holt AMENDED 26.1 
+80523  March 19, 2008
+
+26.0 ILLUSTRATIONS 
+
+The illustrations supporting the various sections of this report are located within the relevant sections 
+immediately following the references to the illustrations, for ease of reference.  An index of tables and 
+illustrations is provided at the beginning of this report. 
+
+
+'

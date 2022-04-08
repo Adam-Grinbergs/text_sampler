@@ -1,0 +1,7805 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TECHNICAL REPORT ON THE
+
+	
+
+UNDERGROUND MINERAL
+RESOURCE ESTIMATES,
+YOUNG -DAVIDSON PROPERTY,
+MATAC H SWAN, ONTARIO
+
+PREPARED FOR NORTHGATE
+MINERALS CORPORATION
+
+Report under N143-101
+
+Author:
+
+Carl Edmunds, M.Sc., P.Geo.
+
+March 25, 2008
+
+(revised May 9 and May 27, 2008)
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+TABLE OF CONTENTS
+
+PAGE
+
+	
+
+1 EXECUTIVE SUMMARY .......................................................................................... 1-1
+
+	
+
+Introduction ............................................................................................................... 1-1
+Geology ..................................................................................................................... 1-2
+Mineralization ............................................................................................................ 1-3
+Metallurgy ................................................................................................................. 1-4
+Mineral Resource Estimate ........................................................................................ 1-4
+Conclusions ............................................................................................................... 1-6
+Recommendations ..................................................................................................... 1-7
+
+2 INTRODUCTION AND TERMS OF REFERENCE .................................................. 2-1
+List of abbreviations .................................................................................................. 2-4
+
+3 RELIANCE ON OTHER EXPERTS ........................................................................... 3-1
+
+	
+
+4 PROPERTY DESCRIPTION AND LOCATION ........................................................ 4-1
+
+	
+
+Property Location ...................................................................................................... 4-1
+
+	
+
+Property Description .................................................................................................. 4-1
+
+Agreements ................................................................................................................ 4-2
+
+Environment .............................................................................................................. 4-3
+
+5 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND
+PHYSIOGRAPHY .......................................................................................................... 5-1
+
+	
+
+6 HISTORY ..................................................................................................................... 6-1
+
+	
+
+7 GEOLOGICAL SETTING ........................................................................................... 7-1
+
+	
+
+8 DEPOSIT TYPES ......................................................................................................... 8-1
+
+	
+
+9 MINERALIZATION .................................................................................................... 9-1
+
+10 EXPLORATION ...................................................................................................... 10-1
+
+11 DRILLING ............................................................................................................... 11-1
+Drill Logs ................................................................................................................. 11-2
+Drill Collar and Down Hole Surveys ...................................................................... 11-4
+Core Size .................................................................................................................. I1-5
+Core Recovery ......................................................................................................... 11-5
+
+	
+
+12 SAMPLING METHOD AND APPROACH ............................................................ 12-1
+Sample Lengths ....................................................................................................... 12-1
+
+	
+
+13 SAMPLE PREPARATION, ANALYSES AND SECURITY ................................. 13-1
+
+	
+
+Sample Preparation .................................................................................................. 13-1
+
+Analysis ................................................................................................................... 13-2
+
+Security .................................................................................................................... 13-2
+
+Quality Control and Quality Assurance ................................................................... 13-2
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+14 DATA VERIFICATION .......................................................................................... 14-4
+Northgate 2007 Data Verification ........................................................................... 14-4
+Northgate 2006 Data Verification ........................................................................... 14-4
+Scott Wilson RPA 2006 Data Verification .............................................................. 14-2
+Micon 2004 Data Verification ................................................................................. 14-2
+
+	
+
+15 ADJACENT PROPERTIES ..................................................................................... 15-1
+
+	
+
+16 MINERAL PROCESSING AND METALLURGICAL TESTING ........................ 16-1
+
+17 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES ................... 17-1
+YD Resource Database ............................................................................................ 17-1
+Geological Interpretation ......................................................................................... 17-2
+Composite Control Intervals .................................................................................... 17-2
+Wireframe Models ................................................................................................... 17-3
+Density ..................................................................................................................... 17-4
+Resource Assay Statistics ........................................................................................ 17-5
+Cut-off Grade ........................................................................................................... 17-9
+
+	
+
+Compositing ........................................................................................................... 17-10
+
+	
+
+Variography ........................................................................................................... 17-10
+Trend analysis ........................................................................................................ 17-11
+
+	
+
+True Thicknesses ................................................................................................... 17-11
+
+	
+
+Mineral Resource Classification ............................................................................ 17-11
+Block Modelling .................................................................................................... 17-13
+Mineral Resources ................................................................................................. 17-19
+
+	18 OTHER RELEVANT DATA AND INFORMATION ............................................ 18-1
+
+19 INTERPRETATION AND CONCLUSIONS .......................................................... 19-1
+
+	
+
+20 RECOMMENDATIONS .......................................................................................... 20-1
+
+	
+
+21 REFERENCES ......................................................................................................... 20-1
+
+	
+
+22 SIGNATURE PAGE ................................................................................................ 22-1
+
+	
+
+23 CERTIFICATE OF QUALIFICATIONS ................................................................ 23-1
+
+24 APPENDIX 1 ........................................................................................................... 24-1
+
+	
+
+List of Claims .......................................................................................................... 24-1
+
+	
+
+25 APPENDIX 2 ........................................................................................................... 25-1
+Composite Control Intervals, Longitudinal Sections and Scatter Plots ................... 25-1
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+LIST OF TABLES
+
+PAGE
+
+Table 1-1 January 2008 Mineral Resource Estimate Summary .................................. 1-5
+Table 1-2 Current Micon 2004 Mineral Resource Estimates ...................................... 1-6
+Table 2-1 List of Abbreviations ................................................................................... 2-4
+Table 4-1 Property Tenure Summary .......................................................................... 4-2
+Table 4-2 Potential Federal Approvals ........................................................................ 4-7
+Table 4-3 Potential Provincial Approvals ................................................................... 4-8
+Table 6-1 Work
+
+	
+
+History ............................................................................................... 6-1
+Table 9-1 Lateral and Vertical Extents for the Mineralized Zones ............................. 9-3
+Table 11-1 Drilling
+
+	
+
+Summary ......................................................................................
+
+	
+
+11-2
+Table 12-1 Resource Assay Sample Length Statistics ................................................ 12-2
+Table 17-1 YD Resource Database .............................................................................
+
+	
+
+17-2
+Table 17-2 Specific Gravity Data (2006) ....................................................................
+
+	
+
+17-5
+Table 17-3 Resource Assay Statistics ..........................................................................
+
+	
+
+17-5
+Table 17-4 Capping Sensitivity By Zone on Assays ................................................... 17-8
+Table 17-5 Breakeven Cut-Off Grade Assumptions ................................................... 17-9
+
+l iT bl 17 6a e - R M i E Di id li YD PG fesource ax mum xtrapo at on stance nes oru e roject
+Syenite-Hosted Mineralization ................................................................
+
+	
+
+17-12
+Table 17-7 Search Ellipsoid Orientations and Radii ................................................. 17-15
+Table 17-8 January 2008 Underground Mineral Resource Estimate ........................ 17-20
+Table 19-1 January 2008 Mineral Resource Estimate Summary ................................ 19-2
+Table 19-2 Current Micon 2004 Mineral Resource Estimates .................................... 19-2
+Table 20-1 2008
+
+	
+
+Project Budget .................................................................................. 20-1
+
+LIST OF FIGURES
+
+PAGE
+
+Figure 4-1 Location Map ............................................................................................. 4-3
+Figure 4-2 Land Tenure ............................................................................................... 4-4
+Figure 4-3 Claim
+
+	
+
+Map
+
+	
+
+................................................................................................. 4-1
+Figure 4-4 Withdrawn Claims ..................................................................................... 4-1
+Figure 4-5 Site
+
+	
+
+Plan ...................................................................................................
+
+	
+
+4-15
+Figure 9-1 3D Perspective Showing Mineralization Wireframes ............................... 9-3
+Figure 9-2 3D North View Longitudinal Showing Underground Mineralization
+
+Wireframes
+
+	
+
+................................................................................................
+
+	
+
+9-5
+Figure 11-I Surface Plan Showing Drilling and Underground Openings ................... 11-3
+
+DM TOR/273 374-00004/2 5 1 01 47.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Figure 17-1 Mineralization Wireframes ...................................................................... 17-3
+Figure 17-2 Resource Assay Histograms .................................................................... 17-7
+Figure 17-3 Cut Gold Grade Block Model ................................................................ 17-17
+Figure 17-4 Resource Classification Block Model .................................................... 17-18
+
+LIST OF APPENDIX FIGURES
+
+Figure 25-1
+
+	
+
+Longitudinal Projection - LKY, YD I, YD2, LBZ1 .............................. 25-8
+Figure 25 -2
+
+	
+
+Longitudinal Projection - UBZ ............................................................. 25-9
+Figure 25 -3
+
+	
+
+Longitudinal Projection - YD3, YD4 and LBZ2 ................................ 25-10
+Figure 25 -4
+
+	
+
+Longitudinal Projection - LL 1 ............................................................ 25-11
+Figure 25 -5 Block and Composite Cut Gold Grades Versus Elevation Scatter Plot.........
+
+- LKY .................................................................................................... 25-12
+Figure 25 -6 Block and Composite Cut Gold Grades Versus Elevation Scatter Plot.........
+
+- LLl ..................................................................................................... 25-13
+Figure 25 -7 Block and Composite Cut Gold Grades Versus Elevation Scatter Plot.........
+
+-YD I ..................................................................................................... 25-14
+Figure 25-8 Block and Composite Cut Gold Grades Versus Elevation Scatter Plot.........
+
+-YD2 ..................................................................................................... 25-15
+Figure 25-9 Block and Composite Cut Gold Grades Versus Elevation Scatter Plot ...........
+
+- YD3 ..................................................................................................... 25-16
+Figure 25 - 10 Block and Composite Cut Gold Grades Versus Elevation Scatter Plot.........
+
+-YD4 ..................................................................................................... 25-17
+Figure 25 - 11 Block and Composite Cut Gold Grades Versus Elevation Scatter Plot.........
+
+- LBZ1 ................................................................................................... 25-18
+Figure 25 - 12 Block and Composite Cut Gold Grades Versus Elevation Scatter Plot.........
+
+- LBZ2 ................................................................................................... 25-19
+Figure 25 - 13 Block and Composite Cut Gold Grades Versus Elevation Scatter Plot.........
+
+- UBZ .................................................................................................... 25-20
+
+LIST OF APPENDIX TABLES
+
+Table 24-1
+
+	
+
+Claim List .................................................................................................. 24-2
+Table 25-1
+
+	
+
+Composite Control Intervals ........... .......................................................... 25-2
+
+DM TOR/2733 74-00004/2 5 1 0 1 47AA
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+1 EXECUTIVE SUMMARY
+
+INTRODUCTION
+
+In January 2008 Northgate staff prepared an estimate of the Mineral Resources of the
+
+Lower Boundary Zone (LBZ), Upper Boundary Zone (UBZ), Lucky Zone (LKY), Lower
+
+Lucky Zone (LL 1) and the Young-Davidson Zone (YD 1-4 Zones) at the Young-
+
+Davidson Property (YD Property), Ontario. The YD Property is located immediately
+
+west of the village of Matachewan, Ontario, and approximately 95 kms west of the town
+
+of Kirkland Lake.
+
+On November 2, 2005, Young-Davidson Mines, Limited (YDM) became a wholly
+
+owned subsidiary of Northgate and on August 1, 2006, YDM, Northgate Minerals
+
+Corporation, Northgate Resources Limited and Kemess Mines Ltd. were amalgamated as
+
+one company under the name Northgate Minerals Corporation. Northgate owns 100% of
+
+the mineral rights to all of the mineral resource related claims at the Young-Davidson
+
+Mine (YD Mine) and the adjoining Matachewan Consolidated Mines (MCM) Mine
+
+(MCM Mine). Northgate also holds the mineral rights to a large number of claims that
+
+are contiguous with the two mine properties. The contiguous claim block that covers the
+
+YD Mine, the MCM Mine, and the surrounding extensions, is referred to as the YD
+
+Property and the Young-Davidson Project (YD Project).
+
+Northgate began a significant surface drilling program in early 2006 designed to
+
+confirm and expand the underground resources at the YD Mine. The results of this work
+
+formed the basis of a NI 43-101 resource statement dated January 12, 2007. During 2007
+
+Northgate drilled a further 52 drill holes and wedge holes (YD06-28 to YD07-56) up
+
+until December 20, 2007, which is the data cut-off date for the resource estimate
+
+discussed in this report. Northgate has drilled two new holes on the MCM property to
+
+locate mining voids and confirm the results of a cavity monitoring survey. In addition, a
+
+surface drill program is near complete targeting specific areas of the open pit resource,
+
+where there is potential for resource additions. By cut-off date, 34 of 55 holes had
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+received results, and they together with previous drilling will form the dataset for a new
+
+Open Pit resource targeted for completion by mid 2008.
+
+Northgate has retained an independent engineering firm to prepare a preliminary
+
+assessment of the YD Property.
+
+GEOLOGY
+
+The YD Property is situated within the southwestern part of the Abitibi Greenstone
+
+Belt. The Abitibi Greenstone Belt consists of a complex and diverse array of volcanic,
+
+sedimentary, and plutonic rocks typically metamorphosed to greenschist facies grade, but
+
+locally attaining amphibolite facies grade. Volcanic rocks range in composition from
+
+rhyolitic to komatiitic and commonly occur as mafic to felsic volcanic cycles.
+
+Sedimentary rocks consist of both chemical and elastic varieties and occur as both
+
+intravolcanic sequences and as uncomformably overlying sequences. A wide spectrum of
+
+	mafic to felsic, pre-tectonic, syn-tectonic and post-tectonic intrusive rocks is present. All
+
+lithologies are cut by late, generally northeast -trending Proterozoic diabase dikes.
+
+The Abitibi Greenstone Belt rocks have undergone a complex sequence of
+
+deformation events ranging from early fabricless folding and faulting through later
+
+upright folding, faulting and ductile shearing resulting in the development of large,
+
+dominantly east-west trending, crustal-scale structures ("breaks") that form a lozenge-like
+
+pattern. The regional Larder Lake-Cadillac Fault Zone (LLCFZ) cuts across the YD
+
+Property. The LLCFZ has a subvertical dip and generally strikes east-west. The LLCFZ
+
+is characterized by chlorite -talc-carbonate schist and the deformation zone can be
+
+followed for over 120 miles from west of Kirkland Lake to Val d'Or.
+
+There are three important groups of Archean sedimentary rocks in the district. The
+
+oldest are Pontiac Group quartz greywacke and argillite, which occur as thick
+
+assemblages in Quebec, while interbedded within the Larder Lake Group volcanic rocks
+
+are turbiditic siltstones and greywackes of the Porcupine Group. Unconformably
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+overlying is Timiskiming Group conglomerate, turbidite and iron formation with minor
+
+interbedded alkalic volcaniclastic units.
+
+Archean intrusive rocks are numerous in the district but are largely manifested as
+
+small stocks, dikes and plugs of augite syenite, syenite and feldspar porphyry occurring
+
+in close temporal and spatial association with the distribution of Timiskiming Group
+
+sediments. The main syenite mass, which hosts most of the gold mineralization on the
+
+YD Property, measures almost 900m east-west by 300m north-south.
+
+Huronian Proterozoic sedimentary rocks onlap and define the southern limit of the
+
+Abitibi in Ontario. In the project area these rocks are correlative to the Gowganda
+
+Formation tillite. Post-Archean dike rocks include Matachewan Diabase and younger
+
+Nipissing Diabase, which respectively bracket the Huronian unconformity in the project
+
+area.
+
+MINERALIZATION
+
+Essentially all of the historical production at the YD Mine and approximately 60% of
+
+the production from the MCM Mine is from syenite-hosted gold mineralization (Lovell,
+
+1967). Most of the current open pit and underground resources are also related to
+
+syenite-hosted gold. The syenite-hosted gold mineralization consists of a stockwork of
+
+quartz veinlets and narrow quartz veins, rarely greater than a few inches in thickness,
+
+situated within a broader halo of disseminated pyrite and potassic alteration. Visible gold
+
+is common in the narrower, glassy-textured quartz veinlets. In general, gold grades
+
+increase with quartz veinlet abundance, pyrite abundance, and alteration intensity.
+
+Mineralized areas are visually distinctive and are characterized by brick red to pink K-
+
+	
+
+feldspar-rich syenite containing two to three percent disseminated pyrite and several
+
+orientations of quartz extension veinlets and veins. The quartz veins and veinlets
+
+commonly contain accessory carbonate, pyrite, and feldspar.
+
+DM TOR/273374-00004/251014Z4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+METALLURGY
+
+Metallurgical tests have been conducted on drill core to obtain design and operating
+
+parameters for a proposed flow sheet that envisioned extraction of gold using a flotation-
+
+cyanidation process. Historical testwork found that the increased costs of power and
+
+capital equipment did not immediately warrant the need to grind beyond 70% passing the
+
+#200 sieve. Leach tests were based on the coarser grind. The optimum residence time of
+
+60 hours at this grind provided an average gold extraction of 91.7%, with an average gold
+
+extraction of 89.9% obtained at the lowest level of cyanide addition tested (1.0lb/ton of
+
+solution) and excluding the additional recovery from the gravity circuit. Testing also
+
+confirmed that a residence time of 48 hours for this same grind provided, on average,
+
+recoveries of 87.8% at minimum cyanide loading and excluding the recovery from the
+
+gravity circuit (Royal Oak, 1997).
+
+MINERAL RESOURCE ESTIMATE
+
+Northgate staff has prepared new underground resource estimates for the UBZ, LBZ,
+
+the Lucky Zone, the Lower Lucky Zone and the YD Zone. The current resource estimate
+
+incorporates new interpretations for all of the underground mineralization, including the
+
+UBZ, and is also based on a new interpretation of the diabase dikes. The current resource
+
+	
+
+estimate is based on all of the historical drill holes and on recent (2007) surface drill
+
+holes up to hole YD07-56.
+
+All of the open pit resources represent additional current resources that were
+
+estimated by Micon in 2004. Northgate plans to update the open pit resource estimates in
+
+the near future as part of the work leading up to a feasibility study. There are currently
+
+no Mineral Reserves at the YD Project.
+
+Northgate built a block model, constrained by 3D mineralization and barren diabase
+
+wireframes, to estimate the resources. Northgate used a US$600/oz (C$630/oz) gold
+
+price, a 90% gold recovery, and a C$38/tonne underground operating cost to estimate a
+
+breakeven cut-off of approximately 2.3g/tonne Au. A minimum true thickness of
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+approximately 3 metres and an incremental cut-off grade of approximately 1.7g/tonne Au
+
+were used to define the resource mineralization intersections. The 1.7g/tonne Au
+
+breakeven cut-off grade was used to constrain the resource wireframes. Some exceptions
+
+were made in order to preserve internal zone continuity.
+
+The Indicated Mineral Resources of the UBZ, LBZ, Lucky Zone, Lower Lucky Zone
+
+and YD Zones total 11.9 million tonnes at an average cut grade of 3.70g/tonne gold and
+
+contain 1.42 million ounces of gold. The Inferred Mineral Resources total 4.2 million
+
+tonnes at an average cut grade of 3.24g/tonne gold and contain 0.44 million ounces of
+
+gold (Table 1-1).
+
+TABLE 1-1 JANUARY 2008 MINERAL RESOURCE ESTIMATE SUMMARY
+
+Northgate Minerals Corporation - Young -Davidson Project, Ontario
+
+Tonnage
+
+	
+
+Gold'
+
+	
+
+Contained Gold'
+(tonnes)
+
+	
+
+(g/t)
+
+	
+
+(ozs)
+Classification
+
+Indicated Resource
+
+	
+
+11,924,000
+
+	
+
+3.70
+
+Inferred Resources
+
+	
+
+4,216,000
+
+	
+
+3.24
+
+1,418,000
+
+440,000
+
+Notes:
+1. Assays are cut to 20g/tonne for all zones.
+2. Mineral Resources are estimated using an average long-term gold price of US$600 per ounce (C$666 per
+
+ounce).
+3. Mineralized wireframes constructed based on approximately a 1.70g/tonne Au incremental cut-off grade and a
+
+minimum true thickness of three metres.
+4. Resources are reported at a zero cut-off grade.
+5. Blocks are 15m by 15m by 7.5m wide and have a percent mineralization field.
+6. 1.5m equal length composites created within the mineralized wireframes.
+7. Inverse distance squared grade interpolation.
+&
+
+	
+
+Standard search radii lengths and orientations employed for each mineralized lens.
+9. A 2.69 specific gravity was used.
+10. Maptek's Vulcan 7.0 software was used.
+
+The August 2004 open pit and underground resource estimate for the UBZ, both by
+
+Micon, are current resource estimates that represent additional resources, which are
+
+unaffected by the above estimate (Table 1-2).
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+TABLE 1-2 CURRENT MICON 2004 MINERAL RESOURCE ESTIMATES
+
+Northgate Minerals Corporation - Young-Davidson Project, Ontario
+
+Classification
+Tonnage
+(tonnes)
+
+Gold*
+(g/t)
+
+Contained Gold*
+(ozs)
+
+Total Measured Open Pit Resources 6,330,000 2.126 432,640
+Total Indicated Open Pit Resources 481,600 2.023 31,320
+
+Total Measured and Indicated Open Pit Resources 6,811,600 2.118 463,960
+
+Total Inferred Open Pit Resources 329,700 1.337 14,170
+* High assays cut to 34g/tonne Au
+
+CONCLUSIONS
+
+In the opinion of the author the 2007 drilling program has been successful in
+
+expanding the YD Project underground resources and it is recommended that Northgate
+
+continue the surface drilling program and advancing an underground exploration program
+
+	
+
+to access some of the mineralized zones for bulk sampling and to provide diamond drill
+
+platforms for delineation. This will generate a significant amount of new data over the
+
+near future. It is also the author's opinion that there is potential to increase the
+
+underground resources because many of the mineralized lenses remain open at depth,
+
+there are isolated untested areas in the plane of the defined mineralization, and there are
+
+untested conceptual geophysical and geological targets on the greater property.
+
+The syenite-hosted gold mineralization exhibits good gold grade continuity. The
+
+mineralization occurs generally as east-west striking, steeply south dipping, vertically
+
+attenuated lenses with local flexures and tapered flanks. The LBZ1 Lens is the largest
+
+continuous lens of mineralization defined to date. It extends laterally east-west for at
+
+least 280m, vertically for at least 1,000m, and reaches 43m in true thickness. The
+
+resource mineralization true thicknesses average approximately l lm, at the LBZ, 13m at
+
+the UBZ, and 9m at the YD and 7m Lucky Zones.
+
+	
+
+The current resource estimate is based on a US$600/oz gold price. There is potential
+
+to increase the true thicknesses in some of the resource drill hole intersections if a lower
+
+incremental cut-off grade is used in future resource estimates that are based on higher
+
+gold prices.
+
+DM TOR/2 73 3 74-00004/2 5 1 01 47AA
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+There is also evidence that there are a number of subparallel, possibly anastomosing,
+
+generally east-west striking, alteration corridors that host the resource lenses defined so
+
+far. Drilling history on the project has demonstrated that these lenses may grow and
+
+merge with adjacent lenses as the results for infill drilling become available. As more
+
+information becomes available, it may be possible to correlate continuous alteration
+
+corridors using the gold assays at a low cut-off grade, the multi-element data, and other
+
+information.
+
+RECOMMENDATIONS
+
+The following work is warranted:
+
+1. Continue the surface drilling and surface exploration program. This includes the
+following activities:
+
+• Update the Micon (2004) open pit resource estimate based on revised gold
+price, pit optimization, recently completed drill holes for which results
+were not available at the time of writing of this report, and other resource
+estimation parameters.
+
+• Continue data verification and validation program on drill holes that
+support open pit and UBZ resources, particularly in reference to
+underground workings surveying.
+
+•
+
+	
+
+Review the capping levels prior to the next resource estimate.
+
+•
+
+	
+
+As new data becomes available, carry out trend analysis work including
+grade, thickness, and grade-times-thickness contouring on longitudinal
+projections, and geostatistical studies to determine possible plunge
+orientations and ranges of continuity for each lens.
+
+•
+
+	
+
+Continue to refine the diabase wireframes.
+
+•
+
+	
+
+Construct updated wireframes for the main rock types.
+
+•
+
+	
+
+Try to correlate continuous alteration corridors using the gold assays at a
+low cut-off grade, the multi-element data, and other information.
+
+• Construct mineralization wireframes at a number of incremental cut-off
+grades to develop a preliminary tonnage-grade curve for the YD Project
+underground syenite-hosted resources.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+•
+
+	
+
+Continue to carry out detailed structural mapping of surface outcrops, pits
+and underground workings.
+
+2. Complete the active underground exploration program on the syenite-hosted
+mineralization at the YD Project.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+2 INTRODUCTION AND TERMS OF
+REFERENCE
+
+In January 2008 Northgate staff prepared an estimate of the Mineral Resources of the
+
+Lower Boundary Zone (LBZ), Upper Boundary Zone (UBZ), Lucky Zone (LKY), Lower
+
+Lucky Zone (LL 1) and the Young-Davidson Zone (YD 1-4 Zones) at the Young-
+
+Davidson Property (YD Property), Ontario for the company. This work is preparatory to
+
+a Preliminary Assessment of the economic viability of a proposed mining project at the
+
+YD Property. The YD Property is located immediately west of the village of
+
+Matachewan, Ontario, and lies approximately 95 kms west of the town of Kirkland Lake.
+
+Northgate Minerals Corporation, formerly known as Northgate Exploration Limited
+
+up until May 14, 2004, is a gold and copper mining company. Northgate's assets include
+
+the 300,000-ounce per year Kemess mine in north central British Columbia and the
+
+adjacent Kemess North deposit. Northgate is listed on the Toronto Stock Exchange under
+
+the symbol NGX and on the American Stock Exchange under the symbol NXG.
+
+On November 2, 2005, Young-Davidson Mines, Limited (YDM) became a wholly
+
+owned subsidiary of Northgate and on August 1, 2006, YDM, Northgate Minerals
+
+Corporation, Northgate Resources Limited, and Kemess Mines Ltd. were amalgamated as
+
+	
+
+one company under the name of Northgate Minerals Corporation. Northgate owns 100%
+
+of the mineral rights to all of the mineral resource related claims at the Young-Davidson
+
+Mine (YD Mine) and the adjoining Matachewan Consolidated Mines (MCM) Mine
+
+(MCM Mine). Northgate also holds the mineral rights to a large number of claims that
+
+are contiguous with the two mine properties. The contiguous claim block that covers the
+
+YD Mine, the MCM Mine, and the surrounding extensions, is referred to as the YD
+
+Property and the Young-Davidson Project (YD Project). The YD Project open pit and
+
+underground Mineral Resources were reported in a 2004 technical report by Micon
+
+International Limited (Micon). The YD Project was formerly known as the Matachewan
+
+Project (Micon, 2004)
+
+DM TOR/273 3 74-000 04/2 5 1 0 1 4 7.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Northgate began a significant surface drilling program in early 2006 designed to
+
+confirm and expand the underground resources at the YD Mine. The results of this work
+
+formed the basis of a NI 43-101 resource statement dated January 12, 2007. During 2007
+
+Northgate drilled a further 52 drill holes and wedge holes (YD06-28 to YD07-56) up
+
+until December 20, 2007, which is the data cut-off date for the resource estimate
+
+discussed in this report. Northgate has drilled two new holes on the MCM property to
+
+locate mining voids and confirm the results of a cavity monitoring survey. In addition, a
+
+surface drill program is near complete targeting specific areas of the open pit resource,
+
+where there is potential for resource additions. By cut-off date 34 of 55 holes had
+
+received results, and they together with previous drilling will form the dataset for a new
+
+Open Pit resource targeted for completion by second quarter 2008.
+
+The author, Carl Edmunds has not changed any of the Micon resource estimates that
+
+are unaffected by new drilling information reported herein. Consequently, this report
+
+presents new underground resource estimates for the LBZ, UBZ, the Lucky Zone, Lower
+
+Lucky Zone, and the YD Zone. The Micon (2004) estimates for the open pit resources
+
+remain the current mineral resource estimates for these areas.
+
+On September 25, 2006, Northgate announced that the permits required to commence
+
+an advanced underground exploration program at the YD Property were granted by the
+
+Ontario government. The project's underground ramp development and shaft dewatering
+
+has been completed to a depth of 275m from surface.
+
+This report has been prepared by Carl Edmunds M.Sc., P.Geo., Exploration Manager
+
+for Northgate who has been involved in the project and visited the site numerous times
+
+since acquisition in November 2005. Activities include acquisition due diligence review
+
+on the Micon 2004 resources in July 2005, early stage 2006 program design and
+
+supervision, on-going monthly to quarterly site visits to review results and preparation of
+
+resource updates. The most recent inspection prior to the writing of this report was
+
+November 12-17, 2007. Jim Janzen, is the YD project's Senior Geologist since January
+
+2006, with responsibilities for current exploration program design, the daily execution of
+
+the surface drilling and geologic interpretation of results. This report acknowledges the
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+new data that staff geologists have collected since January 2006, as well as the data
+
+collected by previous groups of geologists that have worked on the property.
+
+DM TOR1273374-00004f2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+LIST OF ABBREVIATIONS
+
+In this report, monetary units are Canadian dollars (C$) unless otherwise stated. The
+
+metric system of measurements and units has been used unless otherwise specified. Gold
+
+grades are measured in grams per tonne. Tonnage is expressed in metric tonnes. A table
+
+showing abbreviations used in this report is provided below.
+
+TABLE 2-1 LIST OF ABBREVIATIONS
+
+Northgate Minerals Corporation - Young -Davidson Project, Ontario
+
+Abbreviation
+
+	
+
+Meaning
+Au
+
+	
+
+Gold
+Ag
+
+	
+
+Silver
+oz/ton
+
+	
+
+ounces per ton
+tonne
+
+	
+
+Metric ton
+tpd
+
+	
+
+tonnes per day
+tpy
+
+	
+
+tonnes per year
+lb
+
+	
+
+pound
+8
+
+	
+
+grams
+g/t
+
+	
+
+grams per tonne
+oz
+
+	
+
+troy ounce (31.10358)
+ppm
+
+	
+
+parts per million, g/t
+ppb
+
+	
+
+parts per billion
+
+Abbreviation
+in.
+kms
+m
+
+	
+
+cm,
+$ or C$
+NSR
+HW
+LOMP
+DDH
+AQ
+BQ
+NQ
+
+Meaning
+inch
+kilometers
+m
+cubic centimeter
+Canadian $ (all costs)
+Net Smelter Return
+Horizontal Width
+Life of Mine Plan
+Diamond Drill Hole
+Drill core (diameter approx. 1.06in.)
+Drill core (diameter approx. 1.42in.)
+Drill core (diameter approx. 1.89in.)
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+3 RELIANCE ON OTHER EXPERTS
+
+This report has been prepared by Carl Edmunds, Exploration Manager for Northgate
+
+Minerals Corporation (Northgate). The information, conclusions, opinions, and estimates
+
+contained herein are based on:
+
+• Information available to Northgate at the time of preparation of this report,
+
+• Assumptions, conditions, and qualifications as set forth in this report, and
+
+• Data, reports, and other information available to Northgate and other third party
+sources.
+
+For the purpose of this report, Northgate has relied on ownership information
+
+gathered by the legal firm Fraser-Milner-Casgrain when the Young-Davidson project was
+
+acquired in 2005. Since that time land services have been provided by EG Resource
+
+Consultants Inc. of North Vancouver. Information on relevant environmental and other
+
+	
+
+permits has been provided by Colin Webster of Blue Heron - Environmental
+
+Management. The author of this report has not independently researched property title or
+
+mineral rights and expresses no opinion as to the ownership status of the property.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+4 PROPERTY DESCRIPTION AND LOCATION
+
+PROPERTY LOCATION
+
+The YD Project is located immediately west of the village of Matachewan, Ontario,
+
+and approximately 95 kms west of the town of Kirkland Lake, Ontario (Figure 4-1)
+
+(47°56'48.41 "N Latitude, 80°40'28.08"W Longitude).
+
+PROPERTY DESCRIPTION
+
+The YD Project is comprised of 210 tenures related to mining claims, mining leases,
+
+patents, and licences of occupation that were acquired either through staking, application,
+
+or option agreements (Figures 4-2 and 4-3 and Table 24-1 in Appendix 1). Generally
+
+small groups of claims are collectively converted into mining leases so the number of
+
+tenures represents the original number of claims. The project consists of 121 staked
+
+mining claims, 39 mining leases, two patented claims, and two licences of occupation,
+
+covering approximately 754 hectares of surface rights and 4,908 hectares of mining rights
+
+(Table 4-1). The YD Property can be subdivided into eight claim groups based on
+
+agreements and the original claim owners, which included: Fred S. Kiernicki and Mark
+
+A. Fekete (Kiernicki-Fekete); Matachewan Consolidated Mines (MCM); Robert B.
+
+Schaus/Donald J. Clarke/John Shirriff (Schaus-Clarke-Shirriff); Sedex Mining Corp.
+
+(Sedex); John Shirriff (Shirriff); Welsh Estate (Welsh); Opawica and YDM.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+TABLE 4-1 PROPERTY TENURE SUMMARY
+Northgate Minerals Corporation - Young -Davidson Project, Ontario
+
+Mining Licences of Total
+Mining
+Rights
+
+Surface
+Rights
+
+Claim Groups Claims Leases Occupation Patents Tenures (hectares) (hectares)
+Kiernicki & Fekete 3 3 49 0
+
+MCM 1 8 1 1 24 372 53
+
+Schaus, Clarke & Shirriff 19 1 28 466 0
+Sedex 18 18 329 0
+
+Shirriff 3 8 0 0 36 597 418
+Welsh 2 2 25 25
+
+Opawica 49 5 54 877 24
+YDM 28 15 1 1 45 2194 233
+
+Totals 121 39 2 2 210 4908 754
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 4-1 LOCATION MAP
+
+P:'1 wl l l u b d l04A
+
+R -,J Lake
+
+	
+
+Fv:k:^u Lam
+^r
+
+WA MI
+
+hiitriilrke ^
+Fn• h^mfe a
+
+`tk1)
+
+Ll_
+
+	
+
+MATACHE AI
+ON TAR 0
+
+U LI CI u
+
+Thunder ^
+Biy
+
+T^'11?1P; tip
+
+aut
+ste
+
+	
+
+J')
+•
+
+t,,L;rth Bad'
+
+n
+Ottawa
+
+U-
+
+Toronto N
+
+.NII
+
+	
+
+tiiIL
+
+	
+
+IILI-:11
+
+	
+
+x. iir^E3^^ealiun
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+wt 111^II_w( t\ k1)
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+'wi ()l I '4',IJRp\
+
+FIGURE 4-3 CLAIM MAP
+11,11'1 ".,Ifr4fJj,5ajPI. 1 4Ith
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+The claims are located in the southeast corner of Powell Township, the northeast
+
+corner of Yarrow Township and the southwest corner of Cairo Township. All claims are
+
+situated within the Larder Lake Mining Division and the claims are contiguous. All of
+
+the mining leases and patented claims have been surveyed.
+
+The mining and surface rights related to 24 claims and nine leases have been
+
+withdrawn due to Ontario's Living Legacy and the Temagami Land Caution. In
+
+September of 2007 the Land Caution was lifted on all mining claims except those
+
+withdrawn under Ontario's Living Legacy legislation; however the map shown in Figure
+
+4-4 does not reflect the recent change. None of the withdrawn claims and leases affect
+
+the YD Project resource estimates.
+
+The withdrawn claims and leases affected by Ontario's Living Legacy are related to
+
+Ontario government Order Nos. W-LL-F 1600/02 ONT and W-LL-F 1715102 ONT. Map
+
+references and more information can be found at the Ministry of Northern Development
+
+and Mines (MNDM) website.
+
+Twenty-eight mining claims L494591-L494595, L495895-L495899, L523116-
+
+L523119 and L523141-L523145 form part of the Schaus-Clarke-Shirriff claim group,
+
+	
+
+where Northgate is the recorded holder of 20% interest and Mr. Schaus holds 80%
+
+interest. Following the death of Mr. Schaus, the Schaus title to these mining claims was
+
+not passed along to an heir, and the question of ownership remains outstanding. A
+
+special hold status was assigned to these claims. In order to remove this hold status, the
+
+MNDM must make application to the Lieutenant Governor in Council to have the claims
+
+validated. These claims are located in the southwest part of the land holdings, and do not
+
+contain any resources.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 4-4 WITHDRAWN CLAIMS
+
+['[ ^' 1I.,-f 7-,N 1\1I1AwC t It'ffE1'.}t;^flEf'J19^? FL1 'rh
+
+DM-TO Rj2733 74-00004/2 5 1 0 1 4 7.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+AGREEMENTS
+
+The YD Project original owners of the claims included MCM, George Welsh, John
+
+	
+
+Shirriff, Robert Schaus/John Shirriff, and YDM. Northgate currently owns a 100%
+
+interest in all these claims, except the Schaus-Clarke-Shirriff claims, either by direct
+
+ownership or via option agreements. In regard to the Schaus-Clarke-Shirriff claim group,
+
+Northgate currently holds a 20% interest. The remaining 80% interest in the claims
+
+resides with Robert Schaus, who is deceased. Northgate is working with the heirs of the
+
+Schaus estate to arrange for the transfer of the remaining 80% interest in these claims to
+
+Northgate.
+
+	
+
+In order to maintain its option agreement valid with MCM, Northgate must pay all
+
+municipal and land taxes. As well, during periods of economic force majeure (whenever
+
+the price of gold is less than US$400 per ounce), Northgate must pay a non-recoverable
+
+option payment at the commencement of every six-month period of US$3,750. If, at any
+
+time during the six-month period the price of gold exceeds US$400 per ounce, Northgate
+
+will pay a US$7,500 recoverable advance royalty payment. Northgate is obligated to
+
+provide quarterly reports to MCM on the progress of any work completed on the land
+
+holdings, along with sufficient production and financial information to enable MCM to
+
+verify the correctness of any production royalty paid to MCM.
+
+During periods of production and at a base gold price of US$270 per troy ounce, a
+
+royalty of US $1.00 will be paid per ton of ore mined and processed from the MCM
+
+property. When applicable, an additional royalty will be paid on each ounce recovered in
+
+each quarter to compensate for any increase in price received over US$270 per ounce.
+
+This will amount to 5% of the increase in price per ounce recovered above the base rate
+
+of US$270. The price will be based on the average quarterly price of gold sold on the free
+
+market during the quarter in which the gold is shipped.
+
+In order to maintain its option agreement with Welsh, Northgate must pay an advance
+
+royalty of C$1,500 per twelve month period during periods of economic force majeure.
+
+During periods of production, Welsh shall receive C$1.50 per ton of ore mined and
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+processed from the property, or 20% of the net profits (until such time as 0.5 million tons
+
+have been mined after which the net profits interest is 25%), whichever shall be greater.
+
+The agreement with Mr. Shirriff has no ongoing obligations to fulfill in order to
+
+maintain its good standing. However, a 2% Net Smelter Return is retained by Mr.
+
+Shirriff. Similarly, the agreement with Schaus-Clarke-Shirriff has no ongoing
+
+obligations, and it too has a 2% Net Smelter Return which currently accrues to the Schaus
+
+estate.
+
+On May 28, 2007 Northgate entered into an option and joint venture agreement
+
+whereby Northgate acquired 10,000,000 shares of Opawica to fund 2007 exploration on
+
+Opawica properties in Matachewan. This expenditure ($1,078,590) on 14 Opawica
+
+claims on the northern contiguous boundary of Northgate's YD property have earned
+
+	
+
+Northgate a current 100% interest in the surface rights to these claims, and a future 55%
+
+interest in Opawica's mineral rights in the Matachewan area by May 28, 2010 subject to a
+
+cumulative exploration expenditure of $2 million.
+
+ENVIRONMENT
+
+CURRENT SETTING
+
+Mining activities have taken place in the area since the Young-Davidson Mine and
+
+the Matachewan Consolidated Mine were in production from the 1930s to the 1950s.
+
+Remnant environmental liabilities associated with the YD Property are typical of
+
+historical mine sites and include four inactive tailings areas, several mine workings such
+
+as shafts and raises, near surface crown pillars, open scopes, small pits, as well as
+
+abandoned and partially demolished surface foundations.
+
+None of the existing mine hazards have been subjected to remediation or reclaimed to
+
+current standards. Several of the mine hazards are located on land to which Northgate
+
+Minerals does not currently own title to. Title to these area lands will be acquired, as
+
+needed, for future project developments. It is expected that all remnant mine hazards
+
+would be adequately addressed and reclaimed to appropriate standards as part of future
+
+mine development scenarios.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+In response to a 1990 tailings spill and resultant reclamation of the breached
+
+Matachewan Tailings Area 1 by the Ontario government, a construction lien in the
+
+amount of $383,434 was placed against Matachewan Consolidated Mines to recover
+
+incurred costs associated with the remedial stabilization measures. Northgate is proposing
+
+to acquire the title to these tailings from MCM as integral to future developments. It is
+
+presumed that this lien would need to be removed.
+
+In 2007 Northgate initiated advanced exploration activities at the YD Property
+
+authorized under the following approvals and authorizations:
+
+1. Ministry of Northern Development and Mines - Mine Closure Plan with a
+
+corresponding financial assurance of $539,100.
+
+2. Ministry of Environment - Certificate of Approval for Industrial Sewage Works
+
+for the discharge of mine effluent to the Montreal River.
+
+3. Ministry of Environment - Permit to Take Water for dewatering MCM Mine
+
+workings.
+
+4.
+
+	
+
+Ministry of Natural Resources - Clearance letter for resumption of use of the
+
+mine dewatering pipeline in the Montreal River.
+
+5. Department of Fisheries and Oceans - Clearance letter for installation and
+
+operation of the mine dewatering pipeline for discharge of mine effluent to the
+
+Montreal River.
+
+6.
+
+	
+
+Transport Canada - Clearance letter for installation of a mine dewatering pipeline
+
+in the Montreal River.
+
+COMMUNITY CONSULTATIONS
+
+In 2007, Northgate held a number of public information sessions in the Town of
+
+Matachewan, Matachewan First Nation, as well as the Towns of Elk Lake and Kirkland
+
+Lake. Updates of advanced exploration activities as well as introductions to proposed
+
+future mine developments were presented at the public open houses. Feedback to date
+
+generally supports the YD Property and it is recognized by the local communities as a
+
+development that will provide significant socio-economic benefits to the area.
+
+Northgate is working diligently to establish and maintain a cooperative relationship
+
+with the Matachewan First Nation (MFN). The MFN is the closest First Nation to the YD
+
+Property site located approximately 10 km north of the Town of Matachewan. The MFN
+
+dM TOR/273374-00004l2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+is one of seven First Nation community members of the Wabun Tribal Council, is a
+
+signatory of Treaty 9, and is affiliated with the Nishnawbe-Aski Nation.
+
+This relationship recognizes the unique cultural, land use, employment and training
+
+	
+
+needs, and environmental interests of the MFN. The MFN have been approached on all
+
+environmental-related matters associated with the YD Property to date, and its members
+
+have been given the opportunity to obtain employment and related training opportunities
+
+at the YD Property, during the exploration and advanced exploration stages.
+
+FEDERAL ENVIRONMENTAL ASSESSMENT
+
+Consideration of historical environmental impacts and anticipated regulatory
+
+permitting processes, have figured prominently in the development of the preliminary
+
+layouts, designs and operating procedures for the YD Property. These include
+
+consideration of the implications of design alternatives from an environmental approvals
+
+perspective related to such key project components as the tailings impoundment area
+
+(TIA) and the realignment of Highway 566.
+
+	
+
+In order to confirm the applicability (if any) of the Federal Environmental
+
+Assessment process as per the Canadian Environmental Assessment Act (CEAA) in the
+
+context of proposed future mine developments, a comprehensive description of the YD
+
+Project (YD Prospectus) was prepared and submitted to several federal agencies in July
+
+2007 (AMEC 2007). Federal agencies participating in the Prospectus review process
+
+included Natural Resources Canada, Fisheries and Oceans Canada, Indian and Northern
+
+	
+
+Affairs Canada, Environment Canada, Transport Canada and Health Canada, all
+
+supported by the Canadian Environmental Assessment Agency.
+
+On September 19, 2007 the Canadian Environmental Assessment Agency informed
+
+Northgate that the Federal agencies had completed their review of the Prospectus and
+
+determined that the project design as presented in the Prospectus did not present any
+
+triggers for the CEAA process.
+
+DM TOK/2 73 3 74-00004/2 510147 .4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+PROVINCIAL ENVIRONMENTAL ASSESSMENT PROCESSES
+
+In the absence of a federal review process as per the requirements of CEAA, the
+
+project would still be subject to provincial regulatory reviews and approval processes.
+
+	
+
+It is anticipated that three Provincial Class Environmental Assessments (EA) will
+
+need to be completed based on the current project design:
+
+1. Ministry of Transportation (MTO) Class EA for Provincial Transportation
+
+Facilities;
+
+2. Ministry of the Environment (MOE) Class EA for Electricity Projects; and
+
+3. Ministry of Natural Resources (MNR) Class EA for MNR Resource Stewardship
+
+and Facility Development Projects.
+
+A MTO Class EA will be required for relocation of Highway 566 around site
+
+facilities.
+
+The proposed power line for the YD Project is greater than 2km in length and in
+
+excess of 115kV which dictates that a MOE Class EA for minor transmission facilities be
+
+completed.
+
+A portion of proposed tailings impoundment area and the 115kV transmission line is
+
+expected to be located on Crown land administered by MNR (pending land tenure
+
+investigations). As such, the MNR Class EA process would apply to dispositions of
+
+crown lands.
+
+There is also a requirement for a Declaration Order under the Mining Act from the
+
+Ministry of Northern Development and Mines (MNDM) for disposition of mining lands.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FEDERAL ENVIRONMENTAL APPROVALS
+
+A small number of Federal environmental approvals are anticipated to be required or
+
+are potentially required for the construction and operation of the YD Project as listed in
+
+the following table.
+
+TABLE 4-2 POTENTIAL FEDERAL APPROVALS
+Northgate Minerals Corporation - Young -Davidson Project, Ontario
+
+Permit/License Agency Description
+Responsible
+
+Approval of Works in Navigable Transport Construction of transmission line
+Waters Canada crossing over the West Montreal
+Navigable Waters Protection Act River.
+Letter(s) of Advice Fisheries and Disruption to creeks and ponds
+Fisheries Act Oceans Canada supporting fish populations; approval
+
+for
+
+	
+
+roundwater dewaterin
+
+	
+
+effects.
+License for a Magazine for Natural Construction and operation of an
+Explosives Resources explosives magazine.
+Explosives Act Canada
+
+PROVINCIAL ENVIRONMENTAL APPROVALS
+
+There are five primary Provincial agencies that will approve construction of a mine
+
+on the Young-Davidson Property: MNDM, MOE, MNR, MTO and the Ontario Energy
+
+Board (OEB).
+
+	
+
+The MNDM has a responsibility to ensure the orderly development of mineral
+
+resources in the Province, including responsibilities for the disposition of Crown lands for
+
+mining, as well as primary responsibility for mine closure activities.
+
+The MOE grants permits and approvals that address Young-Davidson Project aspects
+
+related to surface and ground waters, air quality (including noise) and waste management.
+
+The MNR's role is to ensure the protection and wise use of Crown resources, not
+
+otherwise disposed such as through the Mining Act administered by MNDM.
+
+MTO has responsibility for provincial owned highways and administers the
+
+construction, modification and maintenance of highways throughout the province.
+
+The OEB has responsibility for energy-related approvals, including approval to
+
+construct transmission lines. It operates as an adjudicative tribunal and carries out its
+
+regulatory function through oral or written public hearings.
+
+DM TOR,'273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+The following table summarizes the main provincial approvals anticipated to be
+
+required or likely to be required for construction and operation of the Young-Davidson
+
+Project. This list is based on other similar projects as well as pre-consultation with
+
+government agencies.
+
+TABLE 4 -3 POTENTIAL PROVINCIAL APPROVALS
+North ate Minerals Corporatio n - Young-Davidson Pro ject, Ontario
+
+Permit/License/Assessment Agency Description
+Res onsible
+
+Closure Plan Amendment MNDM For mine production
+Mining Act
+Comprehensive Certificate of Approval MOE Approval to discharge air
+-Air and Noise emissions and noise
+Environmental Protection Act
+
+_Amendment to Certificate of Approval WO E Approval to treat and discharge
+- Industrial Sewage Works effluent (mine/pit water, TIA,
+Ontario Water Resources Act septic field, oil water separator)
+Certificate of Approval MOE Operation of a landfill and/or
+- Waste Disposal waste transfer site
+Environmental Protection Act
+Permit to Take Water MOE Water taking from surface or
+Ontario Water Resources Act ground water (multiple permits
+
+expected to be required)
+Authorization for Water Crossing MNR Bridge/culvert construction (if
+Lakes and Rivers Improvement Act needed
+Forest Resource License (Cutting Permit) MNR Clearing of Crown merchantable
+Crown Forest Sustainabilit Act timber
+Plans and Specifications Approval MNR Dams and dikes in watercourses,
+Lakes and Rivers Improvement Act including TIA
+Work Permit MNR Work/construction on Crown land
+Public Lands Act (multiple permits expected to be
+
+re uired
+Land Use Permit MNR Temporary form of tenure for
+Public Lands Act Crown land transmission line
+Entrance, Building-Land Use, MTO For new entrances onto
+Encroachment and Commercial Signage provincial highway corridors or
+Permits other activities within highway
+Public Transportation and Highway ROW's
+Improvement Act
+Leave to Construct OEB Approval to construct a
+Ontario Energy Board Act transmission line
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Figure 4-5 Site Plan
+
+IA() ['[ "IJ.Y)N R
+	I I' FI"H'_ 1'^fiCl I '!dFI I. L !?!.,i
+
+11 11 11. S!', l r r I I.I l S:! ! e1. i '! q.
+
+DM TOR/2 7 3 3 74-00004/2 5 1 0 1 47.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+5 ACCESSIBILITY, CLIMATE, LOCAL
+RESOURCES, INFRASTRUCTURE AND
+PHYSIOGRAPHY
+
+Refer to Section 5 of the January 2007 Technical Report: "The Lower Boundary Zone,
+Lucky Zone, and Lower YD Zone Mineral Resource Estimates, Young -Davidson
+Property, Matachewan, Ontario".
+
+Material upgrades to surface and underground infrastructure since January 2007 are
+discussed below.
+
+In the fall of 2006, Northgate commenced excavating a 5 in by 5 in decline that is
+
+permitted and contracted to reach a final vertical depth of 450 metres. This decline ramp
+
+provides a platform for underground exploration and definition drilling as well as
+
+allowing a cross cut through the mineralization in order to assess the geological controls
+
+to the mineralization and provide a bulk sample for ongoing metallurgical test work. At
+
+the same time, Northgate commenced dewatering and rehabilitation of the Matachewan
+
+Consolidated Mines No. 3 shaft. There is currently a 22 person camp at the site and there
+
+are several service buildings erected and in use to support the ongoing decline excavation
+
+and dewatering program.
+
+At date of writing the ramp and ancillary development, such as the cross cut through the
+
+Upper Boundary Zone and development to tie in to the historic workings adjacent to the
+
+	
+
+No. 3 shaft totaled 2,841 metres. Shaft dewatering and rehabilitation had reached the Stn
+
+level, 330 metres below surface. This underground program is in support of engineering
+
+studies that are currently ongoing and which include a preliminary assessment and
+
+environmental baseline study (both of which are being prepared by an independent
+
+engineering firm).
+
+Northgate has contracted an independent engineering firm to prepare a feasibility study.
+
+DM TOR1273374-00004I2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+6 HISTORY
+
+Refer to Section 6 of the January 2007 Technical Report: "The Lower Boundary Zone,
+Lucky Zone, and Lower YD Zone Mineral Resource Estimates, Young Davidson
+Property, Matachewan, Ontario"
+
+Northgate's exploration activities since acquiring the project in late 2005 are summarized
+in the Table 6-1 below:
+
+TABLE 6-1 WORK HISTORY
+Northgate Minerals Corporation - Young-Davidson Project, Ontario
+
+Period Company
+2006 Northgate
+
+2007 Northgate
+
+2007 Opawica/Northgate
+JV
+
+Company*
+43 drill holes and wedges from
+
+30,778m of drilling at YD.
+52 drill holes and wedges from
+
+	
+
+36,630m of drilling at YD. 11 drill
+holes from 3,532m of drilling at Oka.
+34 drill holes from 2,646m of drilling
+
+at YD Open Pit area.
+22 drill holes from 8,139m of core
+
+drilling on Walker claim group.
+
+* Bolded sections pertain to resource estimate documented herein.
+
+DM TOR/273 3 74-00004/2 5 1 0 1 47.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+7 GEOLOGICAL SETTING
+
+Refer to Section 7 of the January 2007 Technical Report: "The Lower Boundary Zone,
+Lucky Zone, and Lower YD Zone Mineral Resource Estimates, Young -Davidson
+Property, Matachewan, Ontario"
+
+DM TOR1273374-00004I2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+8 DEPOSIT TYPES
+
+The Young-Davidson deposit comprised of the Lower Boundary Zone (LBZ), Upper
+
+Boundary Zone (UBZ), Lucky Zone (LKY), Lower Lucky Zone (LL) and the Young-
+
+Davidson Zone (YD 1-4 Zones) can be described as an Archean, syenite-hosted gold
+
+deposit. The gold mineralization is mostly related to quartz veinlet stockworks and
+
+disseminated pyrite mineralization, and is frequently associated with broader zones of
+
+potassic alteration.
+
+DM TOR/273374-00004/2510147,4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+9 MINERALIZATION
+
+At least five styles of gold mineralization are recognized at the YD Project. They are
+
+described in detail in Micon (2004) and Rhys (Panterra Geoservices Inc., 2003).
+
+1. Syenite-hosted gold mineralization
+
+2. Mafic volcanic-hosted gold mineralization (MCM Mine)
+
+3. Timiskaming sediment-hosted gold mineralization
+
+4. Ultramafic-hosted gold mineralization
+
+5. Hanging wall contact gold mineralization
+
+	
+
+Essentially all of the historical production at the YD Project and approximately 60%
+
+of the production from the MCM Mine is from Syenite-hosted gold mineralization
+
+(Lovell, 1967). Most of the current open pit and underground resources are also related
+
+to syenite-hosted gold.
+
+The syenite-hosted gold mineralization consists of a stockwork of quartz veinlets and
+
+narrow quartz veins, rarely greater than a few inches in thickness, situated within a
+
+broader halo of disseminated pyrite and potassic alteration. Visible gold is common in
+
+the narrower, glassy-textured quartz veinlets. In general, gold grades increase with quartz
+
+veinlet abundance, pyrite abundance, and alteration intensity. Mineralized areas are
+
+visually distinctive and are characterized by brick red to pink K-feldspar-rich syenite
+
+containing two to three percent disseminated pyrite and several orientations of quartz
+
+extension veinlets and veins. The quartz veins and veinlets commonly contain accessory
+
+carbonate, pyrite, and feldspar.
+
+At least two orientations for the quartz veins and veinlets are recognized. Most dip
+
+gently to the north and are ladder-type flat veins and some dip steeply to the north. The
+
+flat veinlets are common in the large outcrop exposures and small pits on surface.
+
+Previous workers noted that the syenite-hosted gold mineralization is generally more
+
+extensive and lower grade near surface and appears to be more channeled and
+
+concentrated into higher grade corridors at depth (SWRPA, 2007).
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Ore shoots within the syenite may plunge moderately to the southwest parallel to the
+
+L3 lineation (Panterra Geoservices Inc., 2003), however, a strong vertical down dip
+
+attenuation and plunge direction is indicated by the historical open pits and underground
+
+stopes. The current mineralization wireframes suggest that the mineralization may
+
+plunge steeply to the south-southwest or rake subvertically to moderately to the west.
+
+	
+
+Actual plunge direction(s) for the underground syenite-hosted gold mineralization will
+
+become more evident as new data become available.
+
+The current Northgate underground and Micon open pit mineralization wireframes
+
+are shown in Figure 9-1. The 2004 Micon open pit mineralization wireframes are shown
+
+in red and are mostly hidden by the Micon pit shell in brown. Historical underground
+
+development, the Lower YD glory hole stope, and the UBZ stopes are shown in black.
+
+The Northgate mineralization wireframes are shown in other colours that are described
+
+below and shown in more detail in Figure 9-2.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 9-1 3D PERSPECTIVE SHOWING MINERALIZATION
+WIREFRAMES
+
+The underground mineralization has been subdivided into four main zones, three of
+
+which comprise numerous lenses. Some lenses are formed from a number of discrete
+
+solids that are the result of clipping mineralization solids with the barren diabase dikes or
+
+from relative stratigraphic correlations. The approximate lateral and vertical extents for
+
+the main zones of underground mineralization are summarized in Table 9-1.
+
+TABLE 9-1 LATERAL AND VERTICAL EXTENTS FOR THE
+MINERALIZED ZONES
+
+Northgate Minerals Corporation - Young-Davidson Project, Ontario
+
+Zone
+Name
+
+No. of
+Lenses
+
+Approximate
+Easting
+
+Minimum
+(m)
+
+Approximate
+Easting
+
+Maximum
+(m)
+
+Approximate
+Elevation
+Minimum
+
+(m)
+
+Approximate
+Elevation
+Maximum
+
+(m)
+YD 4 22,700 23,080 8,950 9,930
+Lucky 2 22,875 23,330 8,930 10,120
+LBZ 2 22,900 23,620 8,820 10,030
+UBZ 1 23,470 23,830 9,580 10,150
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+The YD Zone is comprised of four lenses based on their relative stratigraphic
+
+positions with respect to the syenite footwall. YD Lens YD2 (red) is currently the
+
+northernmost of the YD lenses and is located closest to the syenite footwall. It is the
+
+down plunge extension of the old Young-Davidson glory hole mineralization, which is
+
+also known as the "carrot". The Lucky (LKY) and Lower Lucky (LL1) zones appear as
+
+eastern en-echelon structures to the syenite footwall YD2 wireframe.
+
+YD Lens YD I (blue) is the main body of continuous mineralization at depth in the
+
+YD area and it is situated slightly to the south of Lens YD2. A diabase dike (Dike-F),
+
+cuts the main part of Lens YD 1 into two separate solids. The other two YD lenses (YD3
+
+& 4) are en-echelon structures located above and hangingwall to the main YD 1 lens.
+
+A Lower Boundary Zone solid (LBZ2) is interpreted to correlate with YD1 at and
+
+below the 9,440m elevation east of Dike F. Lens LBZ1 is located to the east and footwall
+
+to the LBZ2 lens and it correlates with the UBZ wireframe (magenta) located further east
+
+separated by a major zone of dykes.
+
+The general arrangement of the solids is that of near continuous over-lapping en-
+
+echelon zones, which step to the right in plan going from east to west. Down dip the
+
+individual solids appear to dip steeper than their enveloping surfaces, such that the base
+
+of a given solid is overlapped by the top of an adjacent one occurring in the hangingwall.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 9-2 3D NORTH VIEW LONGITUDINAL SHOWING UNDERGROUND
+MINERALIZATION WIREFRAMES
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+10 EXPLORATION
+
+Northgate acquired the YD Project in November 2005. Essentially, all of the
+
+exploration work completed by Northgate has been surface diamond drilling and this is
+
+summarized in the next section.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+11 DRILLING
+
+Northgate began a deep surface drilling program in early 2006 designed to confirm
+
+and expand the underground resources at the YD Property. This work was completed by
+
+Forage Orbit, of Val D'Or Quebec. Northgate drilled 95 drill holes and wedge holes
+
+(YD06-01 to YD07-56) totaling 67,408.2m up until late December 20, 2007, which is the
+
+data cut-off date for the resource estimate discussed in this report. Resource intersections
+
+were defined in 59 of the 95 holes drilled by Northgate. Of the Northgate holes an
+
+additional three drill holes contain isolated intersections that may be incorporated into
+
+future resource estimates and eighteen holes had to be abandoned, due to deflection or
+
+other technical concerns. Seven holes intersected diabase at mineralization projections
+
+which should happen less frequently in the future as the accuracy of the deeper portions
+
+of the diabase wireframes improves. Another five drill holes yielded sub-economic
+
+intersections, which is normal in drill holes that delimit zone extremities. Overall,
+
+approximately two thirds of the drill holes that reached their targets were successful in
+
+expanding the underground resources reflecting a high success ratio for a technically
+
+	
+
+challenging deep drilling program on gold mineralization in a complex geological
+
+environment.
+
+Northgate has only drilled two new holes on the MCM property for scope monitoring
+
+	
+
+purposes. MCM is considered a lower priority exploration target that should receive drill
+
+holes later in 2008. At time of writing results had been received for thirty four Open Pit
+
+area drill holes. This is part of an on-going program to expand and confirm the Micon
+
+2004 Open Pit resources and will be reported on at a future date.
+
+The Northgate drilling database for the YD Project currently contains some 1,319
+
+surface and underground diamond drill holes totaling 233,696.6m. Current open pit and
+
+underground resources extend from approximately 22500 to 24000E. Between these
+
+coordinates the YD Resource Database contains 783 surface and underground diamond
+
+drill holes totaling 174,714.8m (Table 11-1). The YD Resource Database surface and
+
+underground drill hole traces and the underground mine development are shown in Figure
+
+11-1.
+DM TOR/273374-0000412510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+The gold mineralization has a fairly uniform dip of -70° to the south and an east west
+
+strike, described in greater detail below. The relationship between the sample length and
+
+true thickness of the mineralization varies with the inclination of the drill holes and the
+
+dip of the deposit where it is intersected. The true thickness of the mineralization is
+
+interpreted using the Vulcan software to measure the thickness on cross sections as
+
+described below.
+
+TABLE 11-1 DRILLING SUMMARY
+Northgate Minerals Corporation - Young-Davidson Project, Ontario
+
+Time Period
+Minimum
+Hole No.
+
+Maximum
+Hole Nom
+
+Number of
+Holes
+
+Total Length
+(m)
+
+Unknown BM1 U BM5U 5 826.0
+Unknown V-1 V-7 6 1021.6
+
+1930s to 1950s YD70 YD130 32 2210.4
+1930s to 1950s MCM46 MCM1312 280 22274.4
+
+1980 MC80-30 YD80-62 63 5475.9
+1986 YD86-01 YD86-97 84 9793.2
+1988 YD88-01 YD88-10 10 1183.2
+1989 YD89-01 YD89-10 10 3978.3
+1990 YD90-01 YD90-34 30 18891.5
+1995 MCM9502 YD9599 102 31827.4
+1996 MCM9619 YD9616A 35 5778.6
+1997 WL9701 YD97137 15 1887.9
+2003 M03-42 M03-65 13 2096.1
+2006 YD06-01 YD06-27 43 30777.9
+
+2006 (water) MW-06-03 MW-06-05 3 62.1
+2007 YD06-28 YD07-56 52 36630.3
+
+783 174714.8
+* Historical compilation for mine and resource related drill holes (22500E to 24000E).
+
+DRILL LOGS
+
+A complete set of drill logs are available for the drilling by Pamour from 1980 to
+
+1995, the drilling by Royal Oak from 1996 to 1997, by YDM in 2003, and by Northgate
+
+in 2006 and 2007. The drill logs related to mostly underground drilling at both mines
+
+from the 1930s to 1950s no longer exist, however, the drill hole traces and assays have
+
+been digitized from level plans and sections. All of the 2006-2007 core was
+
+photographed prior to splitting.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 11-1 SURFACE PLAN SHOWING DRILLING AND UNDERGROUND
+OPENINGS
+
+DM TOW273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+DRILL COLLAR AND DOWN HOLE SURVEYS
+
+Collar survey records by professional land surveyors are available for most of the
+
+1988 to 1996 drill holes and all of the 2006 and 2007 drill holes. It is assumed that most
+
+of the pre-1988 surface drill hole collars were not surveyed and were chained from the
+
+exploration grid lines. The collar coordinate uncertainty in these older holes could be in
+
+the order of plus or minus ten metres or so, which is insignificant for drill hole
+
+	
+
+intersections that are spaced at 30 to 150m apart. It is believed that the underground drill
+
+holes are accurately located with respect to the surface drill holes; however it is known
+
+that an approximate 1.25 degree rotational difference exists between the modeled
+
+underground workings' position and the present locations of underground drill collars.
+
+The shaft collars have been surveyed and the MCM Mine was partially dewatered and
+
+remapped in 1997.
+
+In 2007 the project was converted over to metric NAD 83 UTM survey base and the
+
+details for this translation are documented in company files. The conversion amounted to
+
+a scale change and an Easting, Northing and Elevation translation from the origin of the
+
+	
+
+imperial survey base. Check surveying of previous holes initially located in the imperial
+
+grid is an on-going task which occasionally results in revisions to drill hole collar
+
+locations. Most revisions are less than 10m, but one historic drill hole collar (YD86-08)
+
+supporting the Micon 2004 open pit resource was found have a 75.4m error in its
+
+recorded casting.
+
+Northgate regularly used a FLEXIT and a gyroscopic instrument to measure hole
+
+	
+
+deviation in order to locate the mineralized zones as accurately as possible. Historical
+
+downhole survey tests were taken every few hundred feet or so by using a tropari
+
+instrument made by Pajari Instruments Ltd., or a single shot camera and compass
+
+instrument made by Sperry Sun, or by using acid tests. Essentially all of the holes since
+
+1980 have downhole survey data.
+
+Mineralization at Young-Davidson generally strikes east-west and dips 75° to the
+
+south, however there are localized areas where the orientations can deviate by 40° in
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+strike and 25° in dip. Most drilling from surface has been conducted from south to north,
+
+while most underground holes are oriented to transect mineralization at a high angle.
+
+Most YD-project core length intercepts do not represent true orthogonal width of
+
+mineralization, but rather a variable fraction of the core length intercept, depending on
+
+	
+
+relative orientation of each hole and mineralization. All reported widths in Table 25-1
+
+(Composite Control Intervals) and Section 17 are reported as true thicknesses, and the 3-
+
+D wireframe modeling employed herein volumetrically accounts for the acute (<90°)
+
+angles between mineralization and drill hole.
+
+Northgate considers that the locations of all of the surface and underground drill holes
+
+in the YD Resource Database are reasonable and that all of the drill holes should be
+
+included for resource estimation work.
+
+CORE SIZE
+
+The 2006-2007 drill holes and one of the 2003 drill holes were drilled with NQ
+
+equipment (1 7/8 in. core diameter). Northgate believes that all other surface holes have
+
+BQ core (1 7/16 in. core diameter) and that the underground drill holes from the 1930s to
+
+1950s were probably drilled with AQ equipment (1 1/16in. diameter).
+
+CORE RECOVERY
+
+Core recovery and rock quality designation (RQD) information is available in the
+
+2006-2007 drill logs and is generally absent in the historical drill logs. Over much of the
+
+project's exploration history, core recovery is excellent and the mineralization and its
+
+wallrock are very competent.
+
+DM TOR1273 3 74-00004/2 510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+12 SAMPLING METHOD AND APPROACH
+
+Most of the Northgate (2006-07) core and all 2003 drill core were either split in half
+
+with a hydraulic core splitter or were split using a diamond core saw by an employee of
+
+the company. The Northgate core samples were selected by the logging geologist and
+
+labelled with bar coded sample tags. The Northgate samples range in length from
+
+approximately 0.3m to 2m and weigh approximately one to four kilograms each. The
+
+Northgate half-core samples were bagged and placed in sacks, security sealed, and
+
+shipped to ALS Chemex's sample preparation laboratory in Sudbury. In mid-2007 the
+
+company began shipping samples to Swastika Labs, located in the hamlet of Swastika
+
+	
+
+near Kirkland Lake. Samples sent to Swastika were transported by company technical
+
+personnel in rice sacks that are not security sealed as there are no transfer points where
+
+the samples are beyond Northgate's control and supervision.
+
+Details on the historical core splitting practices are not available; however,
+
+mechanical core splatters were likely used.
+
+SAMPLE LENGTHS
+
+The following table refers to the 2,481 samples that are situated within the nine
+
+mineralization wireframes and that were used to estimate resources as the resource
+
+assays. Resource assay samples have lengths ranging from 0.1m to 47.9m and average
+
+1.45m. (Table 12-1).
+
+DM TOR/2 73 3 74-00004/2 5 1 0 1 4 7.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+TABLE 12-1 RESOURCE ASSAY SAMPLE LENGTH STATISTICS
+Northgate Minerals Corporation - Young -Davidson Project, Ontario
+
+Number of
+
+	
+
+Total Length
+Time Period
+
+	
+
+Samples
+
+	
+
+(m)
+Minimum
+
+Length m
+Maximum
+Length m
+
+Average
+Length m
+
+30's-'50's 467 1280.9 0.1 47.9 2.7
+
+1988 21 31.7 0.9 2.1 1.5
+
+1989 98 145.1 0.5 1.8 1.5
+
+1990 620 562.7 0.1 6.3 0.9
+1995 290 310.5 0.1 2.7 1.1
+1996 33 45.5 0.6 1.6 1.4
+2003 5 5.2 0.8 1.4 1.0
+2006 583 722.0 0.4 1.8 1.2
+2007 364 502.3 0.6 1.7 1.4
+
+Total 2481 3605.9 0.1 47.9 1.4
+
+The 467 samples from the 1930s to 1950s include 56 samples with lengths greater
+
+than 4m, in 29 underground holes on UBZ and 2 underground holes in the YD2 solids.
+
+The 56 samples from the 1930s to 1950s represent 2.2% of the total number of resource
+
+assays and 17% of the total length. Five of these historic holes are drilled down dip and
+
+are in solids that are very tightly constrained. Total samples from the 1930's to 1950's
+
+represent 19% of the total number of samples and 36% of the total length. The samples
+
+	
+
+from the 1980s and 1990s represent 42% of the total number of resource assays and 30%
+
+of the total length. The samples from 2006 and 2007 represent 39% of the total number
+
+of resource assays and 34% of the total length.
+
+Approximately 81 % of the resource assays have sample lengths that are less than or
+
+equal to 1.524m (5 feet). Some 28% of the resource assays, mostly from the 1990s, have
+
+0.91m (3 feet) lengths and 40%, mostly from 2006-2007 and from the 1930s to 1950s,
+
+have lengths between 1.5 and 1.52m (5 feet). Less than three percent of the resource
+
+assays have lengths greater than 3.3m.
+
+	
+
+It is the author's opinion that based on the high core recovery, the professional
+
+geologist supervision of the sampling process and the geologic control to the sampling,
+
+that the samples are representative of the mineralized zones in this resource estimation.
+
+DM TOR.
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+13 SAMPLE PREPARATION, ANALYSES AND
+SECURITY
+
+Information on the historical methods used for sample preparation and gold assaying
+
+are not readily available. Northgate assumes that conventional crushing, pulverizing, and
+
+fire assaying techniques were carried out at the YD and MCM Mine laboratories to
+
+analyze the 1930s to 1950s core samples. Northgate assumes most of the core samples
+
+from the 1980s and 1990s were processed at the Pamour laboratory in Timmins. The
+
+2003 core samples were sent to Swastika Laboratories (Micon 2004) in Swastika,
+
+Ontario. The following discussion relates to the 2006-2007 work by Northgate. The labs
+
+used for the Northgate work were ALS Chemex (preparation in Sudury or Timmins), and
+
+later Swastika Labs in Swastika, Ontario.
+
+SAMPLE PREPARATION
+
+Upon arrival, the bar coded samples were logged into the ALS Chemex tracking
+
+system and weighed. Each core sample was entirely crushed to better than 70% -2mm
+
+(minus 10 mesh). A one kilogram split of each sample was then pulverized to better than
+
+85% passing 75 micron (minus 150 mesh). Where indicated, a 250 gram duplicate split
+
+of crushed material was taken and pulverized.
+
+The prepared samples, certified reference material (CRM), and blanks were then
+
+shipped overnight to ALS Chemex's Vancouver laboratory.
+
+Upon arrival at Swastika Laboratories Ltd. lab, samples are dried followed by
+
+crushing the total sample in a half inch jaw crusher, followed by a rolls crusher producing
+
+a -10 mesh product. The coarse crush -10 mesh material is riffle split down to 350 grams,
+
+	
+
+using a Jones splitter. The reject material is bagged and tagged for storage. The 350
+
+gram sample is pulverized using a ring and puck pulverizor to produce a pulp which is
+
+homogenized and sent for fire assay. CRM and blanks are inserted into the submitted
+
+DM TOR12 733 74-0000412 5 1 0 1 4Z4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+sample stream at the YD site. At Swastika, further CRM reference material is inserted
+
+and duplicates are prepared.
+
+ANALYSIS
+
+ALS Chemex Vancouver weighed approximately 50g aliquots for fire assay. Fire
+
+assay fusion was by lead flux with a silver collector, with an atomic absorption finish.
+
+Each sample was also submitted for a 34 element analysis, by aqua-regia acid digestion
+
+and ICP-AES. This process quantitatively dissolves base metals for the majority of
+
+geological materials. Major rock forming elements and more resistive metals are only
+
+partially dissolved. All sample batches were subjected to ALS Chemex's internal quality
+
+control procedures.
+
+Swastika weighs approximately a 30 gram aliquot for fire assay. Fire assay fusion is
+
+by lead flux with a silver collector, with either an atomic absorption finish or a
+
+	
+
+gravimetric finish. All sample batches are subjected to Swastika's internal quality control
+
+procedures, which includes in-house CRM and re-analysis of -10% of all assays.
+
+SECURITY
+
+	Northgate has implemented a number of measures designed to maintain a high level
+
+of security at the core logging facility and at the mine property.
+
+QUALITY CONTROL AND QUALITY ASSURANCE
+
+No information has been compiled that describes the quality control (QC) and quality
+
+assurance (QA) procedures and results for the pre-2003 drilling programs. The 2003
+
+QA/QC procedures are described in Micon (2004), and only one hole from the 2003
+
+drilling affects the Northgate underground resource estimate.
+
+Northgate assumes that blanks and CRMs were not used in the historical drilling
+
+programs because this did not become standard industry practice for many mining
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+companies until the early 2000s. The main form of QC/QA in the past would have been
+
+periodic reassaying of anomalous samples. Some duplicates are shown on the assay
+
+certificates from the 1980s and 1990s.
+
+Micon (2004) states that some of the 1990 core was resampled and four twinned holes
+
+were drilled to verify the gold grades reported from the 1980 drilling campaign.
+
+The QC and QA results for the Northgate 2006-2007 drilling program as of December
+
+	
+
+31, 2007 are compiled in a detailed report by Konst (2008 - in prep). A total of 820
+
+sample preparation and analytical quality control samples were submitted, at a frequency
+
+of one in 26, along with 19,084 prepared mainstream samples, to ALS Chemex and
+
+Swastika Labs during the YD Project 2006-2007 drilling program. This was upped to
+
+one in 20 for the last two months of 2007 to account for smaller fusion batches run at
+
+Swastika. This amounted to 4.3 percent of the entire population of samples submitted to
+
+ALS Chemex and Swastika, including 280 blanks, 290 standards, and 250 reject
+
+duplicates. Additionally, 1,768 pulp replicates and 4,353 reject duplicates were analyzed
+
+and incorporated into final assay grade to improve overall precision. The main
+
+conclusions by Konst (2008) are:
+
+Results from the 280 blanks all indicate that there are no contamination issues.
+One contamination issue was encountered at Swastika. The associated batch of
+samples was re-run and revised.
+
+2. Results from the 290 CRM (RockLabs standards SJ32 and SK33) indicated 26
+
+	
+
+outliers attributable to be fluxing issues related to the standard reference material
+only. All outlier standard investigations and non-outlier standard performance
+indicate that all analytical results are accurate.
+
+3. Results of 1,615 pulp replicates, over the reported detection limit and below
+7.Ogpt (0.21 oz/ton), indicate that the analytical precision is very good
+(approximately 7% at the 1.7gpt (0.05oz/ton) cut-off grade). Above 7.Ogpt
+(0.21 oz/ton) average precision is 14%.
+
+4. Results of 4,455 reject duplicates, over the reported detection limit and below
+7gpt (0.21 oz/ton), indicate that the combined preparation and analytical precision
+is very good (approximately 13% at the 1.7gpt (0.05oz/ton) cut-off grade). Above
+7.Ogpt (0.21oz/ton) average precision is 23%, which is still good precision.
+
+DM TOR/2 73 3 74-00004/2 5 1 0 1 4 7.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+It is the author's opinion that the sample preparation and analytical procedures
+
+employed by both labs are adequate and have produced analytical results for the 2006-
+
+2007 drilling programs which are accurate and precise and thus suitable for supporting
+
+resource and reserve estimation work.
+
+14 DATA VERIFICATION
+
+NORTHGATE 2007 DATA VERIFICATION
+
+Collar coordinates for 351 holes with 1,565 down hole survey tests and 14,851 assay
+
+intervals were audited and verified for accuracy against a variety of supporting
+
+documentation by Northgate personnel working under the direct supervision of the author
+
+from October 2007 through December 2007. The author specifically selected these 395
+
+drill holes because they intersected the underground resource solids forming the subject
+
+of this report as well as any open pit area resources to be reported on later. Additionally,
+
+the data verification extended beyond the limits of the resource solids to include a lower
+
+grade envelope that may be used for future resource modeling. The data verification
+
+program was designed and supervised by the author.
+
+Northgate identified and corrected a large number of minor issues related to
+
+downhole survey test distance values, rounding, truncation, and calculation errors. A few
+
+significant issues related mostly to collar locations, collar orientations, and assay intervals
+
+were also identified and corrected. The most significant revisions occurred with the
+
+addition of new interval information for 651 assays which were previously reported as
+
+much longer composite or summary results in the historic MCM and YD data.
+
+NORTHGATE 2006 DATA VERIFICATION
+
+Collar coordinates for 41 holes with 2,360 down hole survey tests and 1,137 assay
+
+intervals were verified for accuracy against a variety of supporting documentation by
+
+Northgate from September 18 through October 2, 2006. The author specifically selected
+
+these 41 drill holes because they intersected the Lower Boundary, Lower YD, and Lucky
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+mineralized zones. The data verification program was designed and supervised by the
+
+author.
+
+Northgate identified and corrected a large number of minor issues related to
+
+downhole survey test distance values, rounding, truncation, and calculation errors. A few
+
+significant issues related mostly to collar locations, collar orientations, and assay intervals
+
+were also identified and corrected.
+
+Northgate made minor adjustments to most of the collar coordinates in the Fall of
+
+2006 after the collar locations and grid control points were resurveyed and minor
+
+refinements to the transformation profile for converting NAD83 survey information into
+
+"Mine Grid" were made.
+
+SCOTT WILSON RPA 2006 DATA VERIFICATION
+
+In 2006 Scott Wilson RPA verified a small number of collar, downhole survey, and
+
+assay records including some of the longer assay intervals and higher gold grades. No
+
+significant errors were found. Although, the drill log, assay certificates, downhole survey
+
+data, and collar survey data for each hole were well organized and filed together, a
+
+number of exceptions were found. Subsequently, Scott Wilson recommended ensuring
+
+that the hard copy file for each drill hole be complete expediting future data verification
+
+programs.
+
+MICON 2004 DATA VERIFICATION
+
+In 2004 Micon verified 7,370 assay records in 51 holes that intersected mineralized
+
+zones and found very few errors. None of the errors were considered to be significant
+
+(Micon, 2004).
+
+Pre-2004 data verification work is not documented.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+15 ADJACENT PROPERTIES
+
+The YD Project resources are centered on a large claim block controlled by
+
+Northgate. There is currently no significant gold mineralization located on adjacent
+
+properties.
+
+DM-TOR/273 3 74-00004/2 510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+16 MINERAL PROCESSING AND
+METALLURGICAL TESTING
+
+A conventional gold mill process is discussed in the 1997 Royal Oak feasibility study.
+
+The actual mill process design decision will not be made until Northgate finalizes its own
+
+feasibility study. The proposed Royal Oak milling process consists of crushing, grinding,
+
+gravity separation, CIPUL leaching of the whole ore in a weak cyanide solution,
+
+recovery of dissolved gold on activated carbon, pressure stripping of gold from activated
+
+carbon, electrowinning and refining of gold into dore bullion. The dore bullion will be
+
+shipped to a precious metals refinery for further processing into pure gold bullion. The
+
+residual cyanide contained in the mill tailings slurry will be treated before transfer to the
+
+tailings impoundment utilizing the S02 - air effluent treatment process (Royal Oak,
+
+1997).
+
+Metallurgical tests have been conducted on drill core to obtain design and operating
+
+parameters for a proposed flow sheet that envisioned extraction of gold using a flotation-
+
+cyanidation process. The effect of grind size, retention time, and cyanide concentration
+
+has been investigated. While fine grinding presented some better recovery results, it was
+
+found that the increased costs of power and capital equipment did not immediately
+
+warrant the need to grind beyond 70% passing the #200 sieve. Leach tests were based on
+
+the coarser grind. The optimum residence time of 60 hours at this grind provided an
+
+average gold extraction of 91.7%, with an average gold extraction of 89.9% obtained at
+
+the lowest level of cyanide addition tested (1.0 lb/ton of solution) and excluding the
+
+additional recovery from the gravity circuit. Testing also confirmed that a residence time
+
+of 48 hours for this same grind provided, on average, recoveries of 87.8% at minimum
+
+cyanide loading and excluding the recovery from the gravity circuit (Royal Oak, 1997).
+
+Although the 1997 report states that the samples are representative of the ore types
+
+defined at that time, Northgate has initiated an extensive metallurgical program that is
+
+ongoing and the samples for which are representative of the deposit as defined by the
+
+latest drilling.
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+17 MINERAL RESOURCE AND MINERAL
+RESERVE ESTIMATES
+
+The author, Carl Edmunds, P. Geol, Northgate Exploration Manager has prepared
+
+new underground resource estimates for the UBZ, LBZ, the Lucky Zone, and the YD
+
+Zone. All of the open pit resources represent additional current resources that were
+
+estimated by Micon in 2004. Northgate plans to update the open pit resource estimate in
+
+the near future as part of the work leading up to a preliminary assessment of the project.
+
+There are currently no Mineral Reserves at the YD Project.
+
+The new underground resource estimates for the UBZ, LBZ, the Lucky Zone, and the
+
+YD Zone, collectively referred to as "the January 2008 resource estimate", are based on
+
+all of the historical surface and underground diamond drilling available up until late
+
+December 2007.
+
+Northgate used Maptek's Vulcan 7.0 to build a block model, constrained by 3D
+
+mineralization and barren diabase wireframes, to estimate the resources. The main
+
+resource estimation parameters are summarized below.
+
+YD RESOURCE DATABASE
+
+The YD Resource Database comprises 783 diamond drill holes totalling 174,417.8m
+
+of which 180 diamond drill holes totalling 100,555m intersected the UBZ, the LBZ
+
+(1 &2), the Lucky Zone (LKY & LL 1), and the YD (YD 1-4) Zone resource mineralization
+
+wireframes. The portion of the YD Resource Database related to the January 2008
+
+Resource estimate contains 2,481 assay records, 6,825 downhole survey records, and 234
+
+composite control intervals (Table 17-1).
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+TABLE 17 -1 YD RESOURCE DATABASE
+
+Northgate Minerals Corporation - Young -Davidson Project, Ontario
+
+Description Total Number
+of Records
+
+January 2008
+Resource Estimate
+
+Related Records
+
+Diamond Drill Holes 783 180
+
+Total Drill Hole Length (m) 174,714,8 100,555
+
+Downhole Surveys 10,822 6,825
+
+Assays 55,058 2,481
+
+Composite Control Intervals - 234
+
+GEOLOGICAL INTERPRETATION
+
+	Northgate staff in conjunction with the author provided the initial geological
+
+interpretation work for the UBZ, LBZ, the Lucky Zone, and the YD Zone mineralization.
+
+Northgate staff also provided 3D wireframes for the post-mineralization barren diabase
+
+dikes. This work was used to guide the construction of 3D mineralization wireframes
+
+completed by the author, Carl Edmunds, P.Geo, Exploration Manager of Northgate
+
+Minerals Corporation.
+
+COMPOSITE CONTROL INTERVALS
+
+The 234 resource related composite control intervals were defined based on a 2.3gpt
+
+gold economic cut-off grade, a 1.7gpt gold incremental cut-off grade, and a three metre
+
+minimum true thickness (Table 25-1 in Appendix 2). There are a smaller number of
+
+intersections above the 2.3gpt economic cut-off grade that have not been included in the
+
+current resource wireframes. The excluded intersections are generally thin and isolated,
+
+however, some have good grades and could be incorporated in future resource estimates.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+WIREFRAME MODELS
+
+MINERALIZATION WIREFRAMES
+
+The wireframes are based on a sectional interpretation by YD project staff that generated
+
+a set of preliminary, all-inclusive mineralization shapes that included some sub-economic
+
+intersections and a number of discontinuous hanging wall and footwall lenses. These
+
+	
+
+preliminary shapes were reviewed in December 2007 and comprised approximately 60
+
+individual bodies. These interim shapes were used effectively to guide the construction of
+
+nine final wireframes that were formed from 3D polylines on 30m to 7.5m spaced plans
+
+	
+
+or sections, depending on the local complexity. These wireframes are snapped to the drill
+
+	
+
+holes and comply with the cut-off grade and 3 minimum width criteria. The final
+
+wireframes were clipped with a current set of diabase dike wireframes prepared by YD
+
+staff. The final mineralization wireframes used for the resource estimate are shown in
+
+Figure 17-1.
+
+FIGURE 17-1 MINERALIZATION WIREFRAMES
+
+DM TOR/2 73 3 74-000 04/2 5 1 01 47.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Micon constructed wireframes for the historical underground development and the
+
+main syenite-hosted stopes and pits at both MCM and YD mines. The current UBZ
+
+wireframe was clipped in a north-south direction with a clipping polygon based on the
+
+Micon (2004) wireframes of the underground excavations. Two clipping polygons were
+
+developed to reflect a conservative (Indicated) and less conservative (Inferred) approach
+
+to the areas of past mining. The final UBZ Indicated wireframe does not include any of
+
+the remnant sill and rib pillars that were included in the Micon (2004) estimate. Northgate
+
+has assumed for now that they are all unrecoverable.
+
+Preliminary CMS data for the uppermost UBZ stope indicates a larger cavity than
+
+currently modelled and that this may be due to rock slabs peeling off the original stope
+
+walls and back and to locally inaccurate underground excavation wireframes. Presently
+
+	
+
+the impact of the larger void space is insignificant (25,000T) relative to the global
+
+resource estimate, but underscores the need to complete an accurate survey of all the
+
+underground mining areas as dewatering progresses.
+
+DENSITY
+
+The Micon 2004 resource estimate used a density of 2.69g/cm3 (11.9 cubic feet/ton)
+
+based on 54 specific gravity tests on syenite material completed by Royal Oak. The 2006
+
+drilling program generated considerably more specific gravity data including 459 on-site
+
+immersion tests on syenite core that average 2.71g/cm 3 (Table 17-2). The syenite data
+
+includes 67 tests on samples situated within the mineralization wireframes that average
+
+2.69g/cm3. This new data corroborates well with the Micon 2004 tonnage factor. The
+
+mineralized syenite specific gravity is slightly lower than for barren syenite and this
+
+suggests that the increase in mineralization specific gravity expected from more pyrite
+
+may be offset by the potassic alteration and silicification. In future it should be possible
+
+to spatially model the specific gravity as more data becomes available.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+TABLE 17-2 SPECIFIC GRAVITY DATA (2006)
+
+Northgate Minerals Corporation - Young-Davidson Project, Ontario
+
+Rock Type Number of
+Tests
+
+Average
+(g/cm )
+
+Minimum
+(g/cm)
+
+Maximum
+(g/cm3)
+
+Syenite 459 2.715 3.141 2.503
+Diabase 96 2.966 3.110 2.715
+Mafic Volcanic 453 2.835 3.204 2.523
+Timiskaming 266 2.738 3110 2.605
+Total 1,274 3.204 2.503
+
+Resource Syenite 67 2.692 3.051 2.563
+
+RESOURCE ASSAY STATISTICS
+
+All of the assays situated within each mineralization wireframe for each lens were
+
+assigned alphanumeric lens codes. The resource assays are the assays that have been
+
+used to estimate the resource. The resource assay statistics are summarized in Table 17-3
+
+and Figure 17-2.
+
+TABLE 17-3 RESOURCE ASSAY STATISTICS
+
+Northgate Minerals Corporation - Young-Davidson Project, Ontario
+
+Standard Gold Cut Gold
+Lens Minimum Maximum Deviation Coefficient Average Average
+Code N (g/t) (g/t) (g/t) of Variation (g/t) (g/t)
+
+LBZ1 548 0.030 301.000 14.3 2.7 5.351 4.439
+
+LBZ2 343 0.050 111.250 6.9 1.8 3.766 3.469
+
+LKY 157 0.070 18.375 3.5 1.0 3.474 3.474
+
+LL1 164 0.060 44.850 4.6 1.2 3.732 3.547
+
+U BZ 801 0.000 330.960 12.8 2.7 4.798 4.200
+
+YD1 184 0.100 44.800 4.9 1.2 4.004 3.745
+
+YD2 214 0.001 30.270 3.2 1.0 3.145 1097
+
+YD3 22 0.910 9.625 2.4 0.7 3.527 3.527
+YD4 48 0.145 17.750 3.3 0.9 3.530 3.530
+
+Totals 2481 0.000 330.960 10.5 2.4 4.379 3.910
+
+The 2,481 resource assays range from 0.000g/t gold to 330.96g/t gold, average
+
+4.379g/t gold, and are positively skewed with a coefficient of variation of 2.4. After
+
+cutting, or capping of high assays (>20g/t) as discussed below, the average gold grade is
+
+reduced by approximately 11 % to 3.91 g/t gold and the coefficient of variation is reduced
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+to 098. The UBZ has the most resource assays. The cut average gold grades range from
+
+3.097g/t gold for Lens YD2 to 4.439g/t for Lens LBZI. Lucky (LKY and LLI) and the
+
+main YD bodies (YD I, YD3 & YD4) and LBZ2 are lower grade compared to the main
+
+UBZ Lens and LBZ L
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 17-2 RESOURCE ASSAY HISTOGRAMS
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+CAPPING HIGH ASSAYS
+Erratic high grade assays can have a large and disproportionate influence in the
+
+estimation of the average grade of a gold deposit. The histogram of all of the assays
+
+located within the final mineralization wireframes shown below suggests that high assays
+
+should be capped at a level between approximately 16g/t Au, which might be considered
+
+overly conservative, and 24g/t Au, which might be considered overly aggressive.
+
+Consequently, 20g/t Au is a reasonable and round number that falls midway within this
+
+range.
+
+Cutting curves were built to investigate cutting sensitivity. The UBZ is the most
+
+sensitive to cutting with approximately a 12% reduction to the resource assay average
+
+grade at a 20g/t gold cutting level, while the LBZ (1 & 2) showed a 6.4% reduction in the
+
+resource average assay grade cutting to the same level. The Lower YD Zone and Lucky
+
+Zone are relatively insensitive to cutting levels above 20g/t gold (Table 17-4).
+
+TABLE 17-4 CAPPING SENSITIVITY BY ZONE ON ASSAYS
+
+Northgate Minerals Corporation - Young-Davidson Project, Ontario
+
+Zone
+UnCut Au
+
+g/t
+Cut @ 20
+
+Au g/t
+
+Mean %
+Reduction
+
+Assays
+
+% Reduction
+Resource
+Estimate
+
+LBZ 4.741 4.066 -6.36% -8.2%
+Lucky 3.606 3.511 -2.70% -4.4%
+UBZ 4.798 4.200 -12% -3.8%
+YD 3.540 3.416 -3.62% -2.1%
+
+Overall, capping high assays reduces the average gold resource assay grade by
+
+approximately 11% (Table 17-3) while the actual global resource block model cut
+
+average grade is reduced by only 5.6%. Capping sensitivity work in the January 2006
+
+estimate indicated that the LBZ resource was reduced by 16.1 % compared to 8.2% in the
+
+current estimate. It is possible that increased numbers of drill intersections are having a
+
+moderating affect on the amount of contained gold accounted for by the higher grade
+
+intersections. An example of this is demonstrated by the UBZ, which is the most densely
+
+drilled of the underground zones; capping reduces mean assay value by 12% which
+
+translates on a resource basis to only 3.8%.
+
+DM TOR/2 73 3 74-00004/25 1 0 1 4 7.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+CUT-OFF GRADE
+
+Northgate assumed a US$600/oz gold price, a 90% gold recovery, and a C$38/ton
+
+underground operating cost to estimate a breakeven cut-off of approximately 2.3g/t
+
+(Table 17-5). Also an incremental cut-off grade for lower grade underground
+
+mineralization located in the wallrock immediately adjacent to economic mineralization
+
+was estimated. The incremental cut-off grade for an underground mine is based on the
+
+concept that the mining cost related to mining some additional wallrock material in
+
+developed stopes is significantly less than the overall mining cost.
+
+The incremental cut-off grade cost component is estimated using the process and
+
+G&A costs and an incremental mining cost. An incremental cut-off grade of
+
+approximately 1.7g/t Au was estimated based on the above assumptions and
+
+approximately a $12/ton incremental mining cost. The current application of an
+
+incremental cut-off grade has not increased the resource tonnage and decreased the
+
+resource grade significantly.
+
+TABLE 17-5 BREAKEVEN CUT-OFF GRADE ASSUMPTIONS
+
+Northgate Minerals Corporation - Young -Davidson Project, Ontario
+
+Description Assumption
+
+Underground Mining C$22.00/ton
+
+Processing C$12.00/ton
+
+General & Administration C$4.00/ton
+
+Gold price (US$) US$600/oz
+
+US Exchange Rate 1.05
+
+Gold price (C$) C$571/oz
+
+Gold recovery 90%
+
+The US$600/oz gold price assumption is conservative for a 2007 year-end resource
+
+estimate and more appropriate for a reserve estimate. At US$650/oz, the breakeven and
+
+incremental cutoff grades decrease to 2.0g/t Au and 1.5g/t An. In general, the resource
+
+estimate is not very sensitive to breakeven cut-off grades in approximately the 2.0g/t Au
+
+to 2.5g/t Au range and incremental cut-off grades in approximately the 1.5g/t Au to 2.0g/t
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+An range. Notwithstanding, a moderate increase in the resource estimate would be
+
+expected at higher gold prices.
+
+The resource tonnage would increase significantly at approximately a breakeven
+
+cutoff of 1.0g/t, which would require a gold price of approximately US$1300/oz.
+
+The drill hole intersections related to the Young-Davidson underground resources
+
+estimated by Northgate were defined based on approximately a 1.7g/t Au cut-off grade
+
+and approximately a 2.3g/t Au cut-off grade was used to constrain the resource
+
+wireframes. Some exceptions were made in order to preserve internal zone continuity.
+
+COMPOSITING
+
+Approximately 81% of the resource assays have sample lengths that are less than or
+
+equal to 1.52m (5-feet) and less than three percent of the resource assays have lengths
+
+greater than four metres. Northgate created two sets of 1.5m equal length composites
+
+within the mineralization wireframes; one set represented composites generated from un-
+
+capped assays, while the other set were generated from capped assays. A small number
+
+of shorter remnant composites that are mostly situated at the mineralization northern or
+
+footwall contacts were retained.
+
+VARIOGRAPHY
+
+There is not sufficient data available to carry out meaningful variography studies on
+
+the YDZ, Lucky Zone, and LBZ mineralization. Micon (2004) used the UBZ data to
+
+generate a number of well-behaved variograms and interpreted a maximum range of
+
+approximately 120m oriented -80° south or down-dip, an intermediate range of 60m
+
+along an east-west strike direction and an across strike range of approximately 15m. In
+
+general, the Micon (2004) variograms suggest down-dip continuity of approximately
+
+120m, along strike continuity of approximately 60m, and across strike continuity of
+
+approximately 15m, which represents approximately an 8:4:1 anisotropy.
+
+DM TOKJ273374-00004/2510147 AA
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Currently there is insufficient data to generate useful variograms for the YD Zones,
+
+Lucky Zone, and LBZ mineralization. This condition may persist until a significant
+
+amount of underground drilling and sampling data are available. At that point more
+
+variography work is recommended preceded by trend analysis.
+
+TREND ANALYSIS
+
+The composite control data was used to create gold grade and thickness contours on
+
+east-west vertical longitudinal projections. No definitive grade or thickness trends were
+
+evident and the 2:1 subvertical attenuation suggested by the variography is not clearly
+
+defined. Overall, the mineralization appears to rake moderately to the west with thicker
+
+centres and thinner flanks. In some places the contours are not continuous across the
+
+dikes suggesting the possibility of post-mineralization vertical displacements between
+
+some of the diabase dikes.
+
+TRUE THICKNESSES
+
+True thicknesses were estimated directly in Vulcan. The Vulcan results are dependent
+
+on an average dip and strike and they were found to be less reliable locally where there
+
+were strike or dip variations from average. True thicknesses were also measured directly
+
+on-screen from cross sections where more accurate values were needed. The true
+
+thickness data were used to: confirm that the composite control intersections satisfied the
+
+minimum thickness requirements; to guide how far to extend the wireframe boundaries;
+
+and to assist in the resource classification.
+
+MINERAL RESOURCE CLASSIFICATION
+
+The definitions for resource categories used in this report are those defined in CIM
+
+	
+
+(2000 and 2004) and adopted by NI 43-101. In the CIM classification, a Mineral
+
+Resource is defined as "a concentration or occurrence of natural, solid, inorganic or
+
+fossilized organic material in or on the Earth's crust in such form and quantity and of
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+such grade or quality that it has reasonable prospects for economic extraction".
+
+Resources are classified into Measured, Indicated, and Inferred categories.
+
+In 2006 Scott Wilson RPA developed Mineral Resource classification criteria for the
+
+YD Project syenite-hosted underground mineralization based on the following
+
+assumptions:
+
+1. The UBZ maximum variogram ranges of continuity are approximately 120m
+down-dip, 60m along strike, and 15m across strike.
+
+2. The mineralization has greater continuity down-dip than along strike and
+variography work to date suggests an anisotropy ratio of approximately 8:4:1.
+
+3. No definitive down plunge mineralization trends have been established,
+however, a steep westerly rake may exist.
+
+4. Thick mineralization extends further than thin mineralization.
+
+A straight distance from block centroid to the nearest composite type of classification
+
+	
+
+system may not perform very well at the YD Project because of the significant spatial
+
+variability observed in mineralization thickness. There is more uncertainty related to
+
+mineralization shape or tonnage than gold grade. Consequently, for the January 2006
+
+estimate Scott Wilson RPA developed some maximum down-dip and along strike
+
+extrapolation distance guidelines as a function of true thickness which have been adopted
+
+and simplified for the current estimate (Table 17-6). The distance values in Table 17-6
+
+were used as a general guideline for defining Indicated and Inferred Mineral Resources.
+
+TABLE 17-6 RESOURCE MAXIMUM EXTRAPOLATION DISTANCE
+GUIDELINES FOR YD PROJECT SYENITE-HOSTED MINERALIZATION
+
+Northgate Minerals Corporation - Young-Davidson Project, Ontario
+
+Approximate Mineralization True Thickness (m.)
+Direction
+
+	
+
+Thinner (<5m)
+
+	
+
+Thicker (>5m)
+Down Plunge
+
+	
+
+Ind - 60m; Inf - 100m
+
+	
+
+Ind - 120m; Inf - 200m
+Along Strike
+
+	
+
+Ind - 30m; Inf - 50m
+
+	
+
+Ind - 60m; Inf - 100m
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Approximate true thicknesses were measured for each intersection on north-south
+
+cross sections (Table 25-1 in Appendix 2). The UBZ true thicknesses range from 0.2 to
+
+51m and average 13.3m. The LBZ true thicknesses range from approximately 1.6m to
+
+43m and average 11.3m. The Lucky Zones' true thickness ranges from 2.4m to 19.5m
+
+and averages 6.8m, while YD Zone's true thickness ranges from 0.4m to 30.7m and has
+
+an average width of 10.1 m
+
+Preliminary mineralization wireframes were displayed on east-west oriented
+
+longitudinal projections showing the drill hole pierce points, gold grades, and
+
+approximate true thicknesses. Inferred resource outlines were manually digitized and
+
+used to trim the preliminary mineralization wireframes to create a set of Inferred
+
+mineralization wireframes. Indicated resource outlines were manually digitized and used
+
+to create a separate set of Indicated mineralization wireframes from the Inferred
+
+wireframes (Figures 25-1 to 25-5 in Appendix 2).
+
+The maximum down-dip and along strike extrapolation distances used to outline
+
+Indicated areas was 120m and 60m, respectively. The maximum down-dip and along
+
+strike extrapolation distances used to outline Inferred areas was approximately 200m and
+
+100m, respectively. Shorter extrapolation distances were used in areas with thinner
+
+mineralization. In addition, resources defined by single intersections or wider spaced
+
+drilling were automatically classified as Inferred.
+
+BLOCK MODELLING
+
+BLOCK MODEL GEOMETRY AND BLOCK SIZE
+
+The blocks are 15m high by 15m east-west by 7m north-south. The block model is
+
+	
+
+not rotated and has 82 columns, 65 rows, and 91 levels. The block model has 485,030
+
+blocks. A block situated entirely within mineralization (i.e., block mineralization percent
+
+equals 100%) represents 4,236 tonnes. The block model has 12,259 mineralization
+
+blocks that contain 1.0% to 100% mineralization. Only 1,575 blocks are 100% within the
+
+mineralized wireframes.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+The block model origin is at 22,650E, 10,170N, and the 8,820m elevation and the
+
+block model extends up to the 10,185m elevation. The information for each block in the
+
+model includes:
+
+• The percentage of the mineralization wireframe model that is in each block.
+
+• Lens codes for each block.
+
+• Interpolated Au and cut Au grades related to blocks that contain at least 1%
+mineralization.
+
+• Indicated and Inferred identifiers for all mineralization blocks.
+
+• The average distance of composites used to interpolate block mineralization
+grades.
+
+• Number of samples used to estimate grade and number of holes used to
+estimate grade.
+
+GRADE INTERPOLATION AND SEARCH STRATEGY
+
+Inverse distance squared was used to interpolate the gold and cut gold values.
+
+Ordinary kriging criteria have not been developed, however, this may warrant
+
+consideration in the future when more data are available.
+
+A search ellipsoid based on a minimum of two and a maximum of twelve composites
+
+was used to interpolate gold and cut gold grades into blocks using a single-pass process.
+
+A single search ellipse measuring 200 x 100 x 50 was employed to interpolate grade into
+
+blocks. Search ellipsoid was oriented east-west for the secondary axis, with the primary
+
+axis dipping 75 degrees south parallel to the general dip and strike across the property. In
+
+addition, a lens code identifier was assigned to each composite, and composite target
+
+restrictions applied were such that the composites for one lens could not be used to
+
+interpolate grades for another lens.
+
+The search radii and orientations used for interpolation are summarized in Table 17-7.
+
+DM TOR/273374-00004/25101474A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+	
+
+TABLE 17-7 SEARCH ELLIPSOID ORIENTATIONS AND RADII
+
+Northgate Minerals Corporation - Young -Davidson Project, Ontario
+
+Lens
+
+	
+
+Ellipsoid
+
+	
+
+Ellipsoid Dip Down-Dip Along -Strike
+
+	
+
+Across -Strike
+Code
+
+	
+
+Azimuth
+
+	
+
+(to South)
+
+	
+
+Radii (m)
+
+	
+
+Radii (m)
+
+	
+
+Radii (m)
+1-9
+
+	
+
+090°
+
+	
+
+-75°
+
+	
+
+200
+
+	
+
+100
+
+	
+
+50
+
+The overall average distance between block centroids and informing composites is
+
+63m and 92m for Indicated and Inferred blocks, respectively. The maximum distance
+
+used to interpolate Indicated and Inferred blocks is 200m. Approximately 93% of the
+
+Indicated blocks are supported by distances less than 120m, which is consistent with the
+
+general classification guidelines.
+
+BLOCK MODEL VALIDATION
+
+Northgate used three methods to validate its block model Mineral Resource estimate:
+
+1. Visual inspection and comparison of block grades with composite and assay
+grades.
+
+2. Statistical comparison of resource assay and block grade distributions.
+
+3. Volumetric comparisons of final mineralization wireframes and block model
+resource reports for each lens.
+
+4. Inspection of resource assay and block grade scatter plots by elevations.
+
+Northgate compared the block grades with the composite grades on sections and plans
+
+and found good overall visual correlation with some minor low and high grade smearing
+
+and banding problems due to local changes in strike and dip. As more data become
+
+available in the future from closer spaced underground definition drilling, it may be
+
+possible to refine the model by adding more customized search orientations related to
+
+smaller structural domains.
+
+The resource assays, 1.5m composites, Indicated blocks at a zero cut-off grade, and
+
+Inferred blocks at a zero cut-off grade, all cut to the capping levels described earlier,
+
+average essentially the same value at 3.91 g/t Au, 3.71 g/t Au, 3.68g/t Au, and 3.54g/t Au,
+
+DM TOR12 73 3 74-00004125 1 0 1 4 7.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+respectively. This indicates that there have been no significant grade shifts between the
+
+assays, composites and the block model.
+
+Northgate examined the distribution of the composite gold and cut gold grades versus
+
+	
+
+block grades on scatter plots by elevations and found no problems with the block model
+
+grades (Figures 25-5 to 25-14 in Appendix 2).
+
+The underground cut gold grade block models for all of the lenses are shown in the
+
+3D perspective looking down to the northeast in Figure 17-3. The classification block
+
+model, with Indicated blocks in red and Inferred blocks in blue, is shown in Figure 17-4.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 17-3 CUT GOLD GRADE BLOCK MODEL
+
+DM TOR/273374-00004/2510]47.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 17-4 RESOURCE CLASSIFICATION BLOCK MODEL
+Inferred = cyan; Indicated = magenta
+
+The author considers the YD Project January 2008 underground block model to be
+
+valid, reasonable, and appropriate for supporting the Mineral Resource estimate.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+MINERAL RESOURCES
+
+The January 2008 Upper Boundary Zone, Lower Boundary Zone, Lucky Zone, and
+
+Lower YD Zone underground Mineral Resources extend from approximately the 8,830m
+
+elevation to the 10,155m elevation. This represents vertical depths ranging from
+
+approximately 200m to 1,500m below surface.
+
+The resource estimate is based on a bulk underground mining concept with no mining
+
+selectivity. Consequently, the resource estimate is reported at a zero cut-off grade, which
+
+means that it includes a minor amount of internal waste. Approximately three percent of
+
+the global resource estimate tonnage is related to internal waste or blocks with grades
+
+below 1.7g/t gold and a further 9% is related to incremental mineralization with grades in
+
+the 1.7g/t to 2.3g/t gold range.
+
+The Indicated Mineral Resources of the UBZ, LBZ, Lucky Zone, and Lower YD
+
+Zone total 11.9 million tonnes at an average cut grade of 3.7g/t gold and contain 1.42
+
+million ounces of gold. The Inferred Mineral Resources total 4.2 million tonnes at an
+
+average cut grade of 3.2g/t gold and contain 0.44 million ounces of gold (Table 17-8).
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+TABLE 17 -8 JANUARY 2008 UNDERGROUND MINERAL RESOURCE
+ESTIMATE
+
+Indicated Resources
+
+Zone
+Tonnes
+(x000)
+
+g/t
+Au
+
+Ounces
+(x000)
+
+Upper Boundary 1,956 3.83 241
+
+Lower Boundary 5,123 3.89 641
+
+Lower YD 2,465 3.37 267
+Lucky Zone 2,380 3.51 269
+Total Indicated Resources 11,924 3.70 1,418
+
+Inferred Resources
+
+Zone
+Tonnes
+(x000)
+
+glt
+Au
+
+Ounces
+(x000)
+
+Upper Boundary 319 3.76 39
+Lower Boundary 1,961 3.05 192
+Lower YD 848 3.32 90
+Lucky Zone 1,088 3.38 118
+Total Inferred Resources 4,216 3.24 440
+
+DM TOR/273374-00004/2510147, 4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+18 OTHER RELEVANT DATA AND
+INFORMATION
+
+There are no other relevant data and information related to the December 2007
+
+underground Mineral Resources. There are currently no Mineral Reserves at the YD
+
+Project.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+19 INTERPRETATION AND CONCLUSIONS
+
+The 2006-2007 drilling program expanded the YD Project underground resources.
+
+Northgate plans to complete the surface drilling program in 2008 and is advancing an
+
+underground exploration program. This will generate a significant amount of new data
+
+over the next year or two. There remains good potential to increase the underground
+
+resources as there are open gaps between mineralized lenses and several scattered
+
+hangingwall intercepts that may form continuous zones with further drilling.
+
+The syenite-hosted gold mineralization exhibits good gold grade continuity. The
+
+mineralization occurs generally as east-west striking, steeply south dipping, vertically
+
+attenuated lenses with local flexures and tapered flanks. The LBZ 1 lens is the largest
+
+continuous lens of mineralization defined to date and is probably correlated to the UBZ.
+
+It extends laterally east-west for at least 280m, vertically for at least 1,000m, and reaches
+
+43m in true thickness. The resource mineralization true thicknesses average 13.3m at
+
+UBZ, 11.3m at the LBZ, 10.1 m at YD and 6.8 at the Lucky Zones.
+
+	
+
+The current resource estimate is based on a US$600/oz gold price. There is potential
+
+to increase the true thicknesses in some of the resource drill hole intersections if a lower
+
+incremental cut-off grade is used in future resource estimates that are based on higher
+
+gold prices.
+
+There is evidence that there are a number of subparallel, possibly anastomosing,
+
+generally east-west striking, alteration corridors exist that host the resource lenses defined
+
+so far. Some of these lenses may grow and merge with adjacent lenses as the results for
+
+infill drilling become available. As more information becomes available, it may be
+
+possible to correlate continuous alteration corridors using the gold assays at a low cut-off
+
+grade, the multi-element data, and other information.
+
+	
+
+The Indicated Mineral Resources of the UBZ, LBZ, Lucky Zone, and YD Zone total
+
+11.9 million tonnes at an average cut grade of 3.7g/t gold and contain 1.42 million ounces
+
+DM 1`OR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+of gold. The Inferred Mineral Resources total 4.2 million tonnes at an average cut grade
+
+of 3.24g1t gold and contain 0.44 million ounces of gold (Table 19-1).
+
+TABLE 19-1 JANUARY 2008 MINERAL RESOURCE ESTIMATE SUMMARY
+
+Northgate Minerals Corporation - Young-Davidson Project, Ontario
+
+	
+
+Tonnage
+
+	
+
+Gold'
+
+	
+
+Contained Gold'
+
+	
+
+(tonnes)
+
+	
+
+(g/t)
+
+	
+
+(ozs)
+
+	
+
+11,924,000
+
+	
+
+3.70
+
+	
+
+1,418,000
+
+	
+
+4,216,000
+
+	
+
+3.24
+
+	
+
+440,000
+
+Notes:
+1. Assays are cut to 20g/tonne for all zones.
+2. Mineral Resources are estimated using an average long-term gold price of US$600 per ounce (C$666 per
+
+ounce).
+3. Mineralized wireframes constructed based on approximately a 1.708/tonne Au incremental cut-off grade
+
+and a minimum true thickness of three metres.
+4. Resources are reported at a zero cut-off grade.
+5. Blocks are 15m by 15m by 7.5m wide and have a percent mineralization field.
+6.
+
+	
+
+1.5m equal length composites created within the mineralized wireframes.
+7.
+
+	
+
+Inverse distance squared grade interpolation.
+* Standard search radii lengths and orientations employed for each mineralized lens.
+9. A 2.69 specific gravity was used.
+10. Maptek's Vulcan 7.0 software was used.
+
+The August 2004 open pit resource estimate by Micon, are current resource estimates
+
+that represent additional resources, which are unaffected by the above estimate (Table 19-
+
+2). There are no known mining, metallurgical, environmental or infrastructure factors
+
+that materially affect the current underground and open pit resource estimates.
+
+TABLE 19-2 CURRENT MICON 2004 MINERAL RESOURCE ESTIMATES
+
+Northgate Minerals Corporation - Young -Davidson Project, Ontario
+
+Classification
+Tonnage
+(tonnes)
+
+Gold*
+(g/t)
+
+Contained Gold*
+(ozs)
+
+Total Measured Open Pit Resources 6,330,000 2.126 432,640
+Total Indicated Open Pit Resources 481,600 2.023 31,320
+Total Measured and Indicated Open Pit Resources 6,811,600 2.118 463,960
+Total Inferred Open Pit Resources 329,700 1 .337 14,170
+
+* High assays to 34.3 g/t Au.
+
+DM TOR/273 3 74-00004/2510147.4A
+
+Classification
+
+Indicated Resource
+
+Inferred Resources
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+20 RECOMMENDATIONS
+
+The following work is warranted:
+
+1. Continue the surface drilling program (A) and surface exploration (B) program as
+described in summary form in Table 20-1. This program includes the following:
+
+• Update the Micon (2004) open pit resource estimate based on revised gold
+price, pit optimization, recently completed drill holes for which results
+were not available at the time of writing of this report, and other resource
+estimation parameters.
+
+• Continue data verification and validation program on drill holes that
+support open pit and UBZ resources, particularly in reference to
+underground workings surveying.
+
+•
+
+	
+
+Review the capping levels prior to the next resource estimate.
+
+•
+
+	
+
+As new data becomes available, carry out trend analysis work including
+grade, thickness, and grade-times-thickness contouring on longitudinal
+projections, and geostatistical studies to determine possible plunge
+orientations and ranges of continuity for each lens.
+
+•
+
+	
+
+Continue to refine the diabase wireframes.
+
+•
+
+	
+
+Construct updated wireframes for the main rock types.
+
+•
+
+	
+
+Try to correlate continuous alteration corridors using the gold assays at a
+low cut-off grade, the multi-element data, and other information.
+
+• Construct mineralization wireframes at a number of incremental cut-off
+grades to develop a preliminary tonnage-grade curve for the YD Project
+underground syenite-hosted resources.
+
+•
+
+	
+
+Continue to carry out detailed structural mapping of surface outcrops, pits
+and underground workings.
+
+2. Complete the underground exploration (A) and development (B) program on the
+syenite-hosted mineralization at the YD Project.
+
+DM TOR12 73 3 74-0000412 5 1 0 1 47.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+TABLE 20- 1 2008 PROJECT BUDGET
+
+Northgate Minerals Corporation - Young -Davidson Project, Ontario
+
+Program Description Depth(m) Unit Cost/m Estimated Cost
+
+Surface Diamond Drilling
+(Inferred Infill and Exploration) -
+Item 1A 25,000 $190 4,750,000
+Line cutting and IP geophysics
+(kms) - Item 1B 75 $2,800 210,000
+Underground Diamond Drilling -
+Item 2A 39,240 75 2,943,000
+Underground Development
+Decline - Item 213 3,000 6,667 20,000,000
+
+2008 TOTAL 27,903,000
+
+DM TOR/2 733 74-00004/25 1 01 47.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+21 REFERENCES
+
+CIM, 2004, CIM Definition Standards on Mineral Resources and Mineral Reserves,
+Prepared by CIM Standing Committee on Reserve Definitions, Adopted by CIM
+Council, November 14, 2004.
+
+CIM, 2000, CIM Standards on Mineral Resources and Reserves - Definitions and
+Guidelines, CIM Bulletin Vol. 93, No. 1044, October 2000.
+
+CIM, 1996, CIM Mineral Resource/Reserve Classification: Categories, Definitions and
+Guidelines, CIM Bulletin CIM Bulletin Vol. 89, No. 1003, September 1996.
+
+Corfu, F., Krogh, T.E., Kwok, Y.Y., Marmont, S., and Jensen, L., 1989, U-Pb Zircon
+Geochronology in the Southwestern Abitibi Greenstone Belt, Superior Province,
+Canadian Journal of Earth Sciences 26, p. 1747-1763.
+
+Corfu, F. and Andrews, A.J., 1986, A U-Pb Age for Mineralized Nipissing Diabase,
+Gowganda, Canadian Journal of Earth Sciences, v. 23, p. 107-109
+
+Dana, E.S. and Ford, W.E., 1958; Dana's Textbook of Mineralogy With an Extended
+Treatise on Crystallography and Physical Mineralogy, Fourth Edition, November
+1958.
+
+Derry, D.R., Hopper, C.H., and McGowan, H.S., 1948, Matachewan Consolidated Mine
+in Structural Geology of Canadian Ore Deposits: CIMM Jubilee Volume I, p 638-
+643.
+
+Edmunds, Carl, 2007, Young-Davidson Regional, Local and Property Geology, January,
+2007, 5 p.
+
+Esson, D.W., 1980, Report on Potential Ore Reserves and Exploration/Development
+Program Central and Main Ore Zones, Young-Davidson Property, Matachewan,
+Ontario, Pamour Porcupine Mines, Limited, April 1980.
+
+Esson, D.W., 1980, Report on Boundary Ore Zone, Young-Davidson and Matachewan
+Consolidated Mines Property, Matachewan, Ontario, Pamour Porcupine Mines,
+Limited, May 1980.
+
+Evans, L., 2006, Technical Report on the Lower Boundary Zone, Lucky Zone, and Lower
+YD Zone Mineral Resource Estimates, Young-Davidson Property, Matachewan,
+Ontario. Prepared For Northgate Minerals Corporation Scott-Wilson RPA
+
+	
+
+Evans, L., 2008, January 2008 Young-Davidson Resource Estimate Review. Internal
+Memo for Northgate Minerals Corporation Scott-Wilson RPA
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Fairbairn, H. W., Hurley, P. M., Card, K. D., and Knight, C. J., 1969, Correlation of
+Radiometric Ages of Nipissing Diabase and Metasediments with Proterozoic
+Orogenic Events in Ontario, Canadian Journal of Earth Sciences, v. 6, p. 489-497.
+
+Giroux, G.H., Young-Davidson - Data Review, Memorandum on Preliminary
+Variography Review Dated December 6, 2005.
+
+Gryba, C., and Essen, D.W., Feasibility Study of Young-Davidson and Matachewan
+Consolidated Mines, Pamour Porcupine Mines, Limited, September 1980.
+
+	
+
+Heaman, L.M., 1988, A Precise UU-Pb Zircon Age for a Hearst Dyke, Geological
+Association of Canada V 13:A53.
+
+JORC, 1996, Australasian Code for Reporting of Identified Mineral Resources and Ore
+Reserves, Report of the Joint Committee of the Austalasian Institute of Mining
+and Metallurgy, Australian Institute of Geoscientists and Minerals Council of
+Australia, Joint Ore Reserves Committee (JORC).
+
+Konst, Ron, 2006, Young-Davidson Project 2006 Drilling Program Sample Preparation
+and Analytical Quality Assurance Report as of September 25.
+
+	
+
+Konst, Ron, 2008, Young-Davidson Project 2007 Data Audit. Internal Memo Jan 21
+2008.
+
+Konst, Ron, 2006, Young-Davidson Project 2007 Drilling Program Sample Preparation
+and Analytical Quality Assurance Report as of December 20 2007 - In Prep.
+
+Lovell, H.L., 1967, Geology of the Matachewan Area: ODM Geological Report 51, 55 p.
+
+MERQ-OGS, 1983, Lithostratigraphic map of the Abitibi Subprovince: Ontario
+Geological Survey / Ministere de Ftnergie et des Resoources, Quebec, Map 2484
+/ DV83-16 Scale 1:500 000.
+
+Mrcon International Limited, 2004, Technical Report on the Mineral Resource Estimate
+for the Matachewan Property, Powell, Cairo & Yarrow Townships, Larder Lake
+Mining Division, Ontario, Canada, NTS 41 P/15, NI 43-101 Report Prepared for
+Young-Davidson Mines, Limited by Reno Pressacco and Paul Gribble, August
+2004.
+
+North, H.H., and Allen, C.C., 1948, Young-Davidson Mine in Structural Geology of
+Canadian Ore Deposits: CIMM Jubilee Volume I, p 633-637.
+
+Panterra Geoservices Inc., 2003, Structural Study of the Surface Outcrops of the
+Matachewan Consolidated Mine, Powell Township, Ontario, Prepared for Young-
+Davidson Mines, Limited, by David A. Rhys, December 17, 2003.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Powell, W.G., Kilbourne, M.W., and Hodgson, C.J., 1991, Gold-Related Geology of the
+Matachewan Camp in Archean Gold Deposits of the Matachewan-Kirkland Lake-
+Larder Lake Area: Soc. Econ. Geo. Guidebook series, Volume 2, Lovell, H.L.,
+Robinson, D.R., and Guindon, D.L., eds., p 72-88.
+
+Royal Oak Mines Inc., 1997a, Comprehensive Study Report and Environmental Impact
+Statement: Unpublished Document prepared for submission to regulatory
+agencies, Volumes I, II and III.
+
+Royal Oak Mines Inc., 1997b, Feasibility Study Update - May 1997: Unpublished
+Internal Company Document.
+
+Skeeles, Brad E., J., 1989, Open Pit Potential for the Matachewan Deposit (a Pre-
+Feasibility Report): Unpublished Internal Company Document, 44 p.
+
+Sinclair, W.D., 1980, Gold Deposits of the Matachewan Area, Ontario in Geology of
+Canadian Gold Deposits: CIMM Spec. Volume 24, Hodder, R.W., and Petruk,
+W., eds., p 83-93.
+
+SRK Consulting (Canada) Inc., 2006, Scoping Study Report on the Young-Davidson
+Gold Project, Ontario, Report Prepared for Young-Davidson Mines, Limited by
+Ken Reipas and T. Rannelli, April 2006.
+
+Webster, Colin, 2007, Northgate Young-Davidson Environmental Summary Dated
+January 8, 2007, by Blue Heron Solutions for Environmental Management,
+Timmins, 2 p.
+
+Zalnieriunas, R. V., Pressacco, R., McCormack, D., and Beecham, A.W., 2003, 2002-
+2003 Diamond Drill Hole Logs M02-01 to M03-68 for the Matachewan Gold
+Project, Larder Lake Mining Division, Powell and Cairo Townships, Ontario,
+Canada, NTS 41P115: Unpublished Internal Company Document, 728 p., maps
+and sections.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+22 SIGNATURE PAGE
+
+This report titled "Technical Report on the Underground Mineral Resource Estimates,
+
+Young-Davidson Property, Matachewan, Ontario", prepared for Northgate Minerals
+
+Corporation and dated March 25, 2008 (revised May 9 and May 27, 2008), was prepared
+
+and signed by the following author:
+
+(Signed & Sealed)
+
+Dated at Vancouver, B.C.
+
+	
+
+Northgate Minerals Corporation
+May 27, 2008
+
+	
+
+Carl Edmunds, M.Sc., P.Geo.
+Exploration Manager
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+23 Certificate Of Qualifications
+
+Carl Edmunds, M.Sc., P. Geo.
+
+1, Frederick Carl Edmunds, of 1115 Queens Avenue, West Vancouver, British Columbia,
+Canada, do hereby certify that:
+
+I have shared supervision of the 2006-2008 exploration program completed at Young-
+Davidson, reviewed all the geologic data contained herein, and am responsible for the
+preparation of this report dated March 25, 2008 (revised May 9 and 27, 2008) entitled:
+"Technical Report on the Underground Mineral Resource Estimates, Young-Davidson Property,
+Matachewan, Ontario". I was most recently at the Young-Davidson Property from November 12
+- 17`h 2007, April 8-10, and April 22-25"inclusive.
+
+I graduated from the University of Edinburgh in 1983 with a BSc (Honours) in Geology
+
+	
+
+and then from Queens University, Kingston, Ontario in 1988 with an MSc in Mineral
+Exploration.
+
+	
+
+I am a Professional Geoscientist (PGeo) registered with the Association of Professional
+Engineers and Geoscientists of British Columbia, member #19724, and have been a member in
+good standing since 1992.
+
+	
+
+From 1985 until present I have been continuously employed as a Geologist in mineral
+exploration.
+
+I am not independent of the issuer applying all tests in section 1.4 of National Instrument
+43-101. lam employed by Northgate Minerals Corporation which is a producing issuer.
+
+	
+
+I have read the definition of "qualified person" set out in National Instrument 43-101
+
+	
+
+("NI 43-101") and certify that by reason of my education, affiliation with a professional
+association (as defined in NI 43-101) and past relevant work experience, I fulfill the
+requirements to be a "qualified person" for the purposes of NI 43-101.
+
+	
+
+To the best of my knowledge, information and belief, the technical report contains all
+scientific and technical information that is required to be disclosed to make the technical report
+not misleading.
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+I have read National Instrument 43-101 and Form 43-101F1, and the technical report has
+been prepared in compliance with that instrument and form.
+
+Dated at Vancouver British Columbia, the 5th day of June, 2008.
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+24 APPENDIX 1
+
+LIST OF CLAIMS
+
+DM TOR/273374-0000412510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+TABLE 24-1 CLAIM LIST
+
+Northgate Minerals Corporation ("Northgate") - Young Davidson Project
+
+Land Tenure Holdings by Agreement Tenures Area (ha) Area (acres)
+
+Schaus, Clarke & Shirriff - Yarrow Twp. Property 28 466.23 1,152.04
+Kiernicki & Fekete Property 3 48.56 120.00
+Welsh Property 2 24.54 60.64
+Matachewan Consolidated Mines Property 24 371.58 918.17
+Shirriff Property 36 597.11 1,475.45
+Sedex Mining Crop. - OKA Property 18 328.82 812.50
+Young -Davidson Property 45 2,194.07 5,421.54
+
+Opawica Option Properties (5) 54 877.82 2,169.09
+
+210 4,908.71 12,129.43
+
+Notes:
+YDM Property: Licence of Occupation L.11167 & Fee Simple Title CL4871 surface right area included within claim or lease area.
+
+Matachewan Property: Licence of Occupation L. 1007 area included - tenure holds surface rights & undersurface rights.
+
+Location:
+
+Davidson Mine - NTS :041 P/15; UTM NAD83 Z17N - 5310000N: 523000E, Lon. 80 41', Lat47 56'
+
+Claim Maps:
+
+Larder Lake Mining Division, Plans G3218, G3209, M0260, M0237
+
+Kiernicki & Fekete Property
+Northgate 100% subject to Purchase Agreement between Young -Davidson Mines, Limited and Kiernicki & Fekete
+Dated May 8, 2003.*
+
+) o ? Subject to
+-6 F6 Lease } Registered Tenure Area
+
+= c s
+'
+
+	
+
+O Expiry / Surface &
+Twp Title ID m f
+
+2 V +. No. E Holder (ha.) E ^ 2M c .42 =
+Renewal Mining Rights
+
+M co
+H
+
+2 ^ IX !g R .a a> Date Withdrawo U X R Order No.
+CAIRO 1199662 Active Claim Northgate Minerals Corporation 16.188 N Y 26-Aug- P'
+
+	
+
+W-LL-F1715
+2010
+
+CAIRO 1199663 Active Claim Northgate Minerals Corporation 16.188 N Y
+26-Aug-
+2010
+
+CAIRO 1199664 Active Claim Northgate Minerals Corporation 16.188 N Y 26-Aug-
+2010
+
+1 3 48.56
+*Royalty = 2% NSR.
+
+DM TOR/273374-00004/3510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Schaus, Clarke & Shirriff - Yarrow Twp. Propeft
+North ate 100% subject to Letter Agreement between Royal Oak Mines Inc. and Schaus, Clarke, Shirriff
+
+Dated September 9, 1992.
+L
+p N C T
+
+z E Lease y Registered Tenure D != c O
+Expiry/
+
+Title ID Z '@ a No E Holder
+Area (ha.) E a, c 0) o - Renewal
+
+Urn
+.
+
+,^ ^^ g^ %0) Date
+
+n E- U W R
+
+Northgate - 20% &
+494591 Active Claim Schaus - 80% 16.188 N N Y 6-Mar-2012
+
+Northgate - 20% &
+494592 Active Claim Schaus - 80% 16.188 N N Y 6-Mar-2012
+
+Northgate - 20% &
+494593 Active Claim Schaus - 80% 16.188 N N Y 6-Mar-2012
+
+Northgate - 20% &
+494594 Active Claim Schaus - 80% 16.188 N N Y 6-Mar-2012
+
+Northgate - 20% &
+494595 Active Claim Schaus - 80% 16. 188 N N Y 6-Mar-2012
+
+Northgate - 20% &
+494895 Active Claim Schaus - 80% 16.188 N N Y 6-Mar-2012
+
+Northgate - 20% &
+494896 Active Claim Schaus - 80% 16.188 N N Y 6-Mar-2013
+
+Northgate - 20% &
+494897 Active Claim Schaus - 80% 16. 188 N N Y 6-Mar-2013
+
+Northgate - 20% &
+494898 Active Claim Schaus - 80% 16. 188 N N Y 6-Mar-2012
+
+Northgate - 20% &
+494899 Active Claim Schaus - 80% 16.188 N N Y 6-Mar-2012
+
+Northgate - 20% &
+523116 Active Claim Schaus - 80% 16.188 N N Y 1-Mar-2011
+
+Northgate - 20% &
+523117 Active Claim Schaus - 80% 16.188 N N Y 1-Mar-2011
+
+Northgate - 20% &
+
+523118 Active Claim Schaus - 80% 16.188 N N Y 1-Mar-2011
+Northgate - 20% &
+
+523119 Active Claim Schaus - 80% 16.188 N N Y 1-Mar-2011
+Northgate - 20% &
+
+523141 Active Claim Schaus - 80% 16.188 N N Y 1-Mar-2011
+Northgate - 20% &
+
+523142 Active Claim Schaus - 80% 16.188 N N Y 1-Mar-2011
+Northgate - 20% &
+
+523143 Active Claim Schaus - 80% 16. 188 N N Y 1-Mar-2011
+Northgate - 20% &
+
+523144 Active Claim Schaus - 80% 16.188 N N Y 1-Mar-2011
+Northgate - 20% &
+
+523145 Active Claim Schaus - 80% 16.188 N N Y 1-Mar-2011
+Northgate Minerals
+
+MR 29666 4938LT 106668 21 Corporation
+_
+
+start N Y 30-Nov-2013
+Northgate Minerals
+
+MR 29667 4938LT 106668 21 Corporation
+_
+
+N Y 30-Nov-2013
+Northgate Minerals
+
+MR 29668 4938LT 106668 21 Corporation
+_
+
+N Y 30-Nov-2013
+Northgate Minerals
+
+MR 29669 4938LT 106668 21 Corporation
+_
+
+N Y 30-Nov-2013
+Northgate Minerals
+
+MR 29670 4938LT 106668 21 Corporation
+_
+
+N Y 30-Nov-2013
+Northgate Minerals
+
+MR 29671 4938LT 106668 21 Corporation
+_
+
+N Y 30-Nov-2013
+Northgate Minerals
+
+MR 29672 4938LT 106668 21 Corporation
+_
+
+N Y 30-Nov-2013
+Northgate Minerals
+
+MR 29675 4938LT 106668 21 Corporation
+_
+
+N Y 30-Nov-2013
+Northgate Minerals
+
+MR 29676 4938LT 106668 21 Corporation 158.653 N Y 30-Nov-2013
+
+28 466.23
+
+Ontario MNDM Withdraw Order No.
+(N/A) W-L-21-95: Surface & Mining Rights withdrawn from prospecting, staking, sale or lease. These claims were acquired before 1995 and
+are exempted from the Order
+
+W-LL-F1600: Living Legacy Withdrawal area,
+
+	
+
+P" indicates portion of the claim withdrawn.
+
+DM TOR/273 3 74-00004/2 5 1 0 1 4 7.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Welsh Property
+Northgate 100% subject to Mining Lease Agreement between Pamour Porcupine Mines Limited and George Welsh
+
+Dated April 26, 1979 & Amendment dated March 12.1986.
+Subject
+
+N
+
+o ° 'E
+N
+
+E
++N+
+
+as
+ay+
+
+CD ^
+to
+
+SurfaceM
+z n Lease Registered Tenure Area D
+
+a
+o
+
+Exp i
+
+	
+
+^
+Renewal &
+
+Mining
+Twp Title ID -6 U) No. E Holder (ha.) E u ^c 0 Date
+
+Rights
+•- t° t '-c
+
+2
+o Withdraw
+
+a v ~ v x Order
+w No.
+
+POWELL L-316523 5397LT 107282 21 Northgate Minerals Corporation 24 Y Y
+30-Jun-
+2022
+
+POWELL L-511097 5454LT 107440 21 Northgate Minerals Corporation 16
+
+::
+
+Y Y
+30-Apr-
+2024
+
+2
+1
+
+	
+
+1-
+24.54
+
+Matachewan Consolidated Mines Property
+Northgate 100% subject to Mining Lease Agreement between Pamour Porcupine Mines Limited and Matachewan Consolidated Mines
+
+Dated June 1, 1979 & Amendment dated (1981, 1984, 198, 2000, 2006)
+
+wp itle ID
+
+L
+W
+
+0- )
+z ^,
+a
+
+CL 0
+
+ease
+No.
+
+_
+
+L
+
+E
+d
+
+~
+
+egistered Tenure Holder
+rea
+
+(ha.) E
+f6
+v
+
+5 4R =
+`C a,
+(n
+
+y
+
+a,
+0)
+cE
+
+r
+
+° 0yo ,
+Q
+x .°_'
+w
+
+Expiry
+Renewal
+
+Date
+
+Subject to
+Surface &
+
+Mining
+Rights
+
+Withdraw
+Order No.
+
+CAIRO T 18264 1172SEC Patent Matachewan Consolidated Mines Ltd. 14.41 Y Y N/A
+
+POWELL MR 5379 3193LT 19020 10 Matachewan Consolidated Mines Ltd. 16.106 Y Y 30-Sep-2008
+
+POWELL MR 5380 3194LT 19019 10 Matachewan Consolidated Mines Ltd. 19.951 Y Y 30-Sep-2008
+
+POWELL MR 5402 4901 LT 106561 21 Matachewan consolidated Mines Ltd. 19.142 N Y 30-Sep-2012
+
+POWELL MR 5396 5125LT 106715 21 Matachewan Consolidated Mines Ltd. start N Y 30-Sep-2014
+
+POWELL MR 5412 5125LT 106715 21 Matachewan Consolidated Mines Ltd. N Y 30-Sep-2014
+
+POWELL MR 5414 5125LT 106715 21 Matachewan Consolidated Mines Ltd. N Y 30-Sep-2014
+
+POWELL MR 5415 5125LT 106715 21 Matachewan Consolidated Mines Ltd. N Y 30-Sep-2014
+
+CAIRO MR 5417 5125LT 106715 21 Matachewan Consolidated Mines Ltd. N Y 30-Sep-2014
+
+CAIRO MR 5454 5125LT 106715 21 Matachewan Consolidated Mines Ltd.
+I I] N Y 30-Sep-2014
+
+CAIRO MR 5455 5125LT 106715 21 Matachewan Consolidated Mines Ltd. J N Y 30-Sep-2014
+
+CAIRO MR 5707 5125LT 106715 21 Matachewan Consolidated Mines Ltd. q N Y 30-Sep-2014
+
+POWELL MR 5712 5125LT 106715 21 Matachewan Consolidated Mines Ltd. 139.321 N Y 30-Sep-2014
+
+POWELL MR 5397 5126LT 106715 21 Matachewan Consolidated Mines Ltd. starto N Y 31-Dec-2014
+
+POWELL MR 5398 5126LT 106716 21 Matachewan Consolidated Mines Ltd. F-' N Y 31-Dec-2014
+
+POWELL MR 5401 512 -LT 106716 21 Matachewan Consolidated Mines Ltd. F, N Y 31-Dec-2014
+
+POWELL MR 5403 5126LT 106716 21 Matachewan Consolidated Mines Ltd. G N Y 31-Dec-2014
+
+POWELL MR 5406 5126LT 106716 21 Matachewan Consolidated Mines Ltd. o N Y 31-Dec-2014
+
+POWELL MR 5408 5126LT 106716 21 Matachewan consolidated Mines Ltd. 100.664 N Y 31-Dec-2014
+
+POWELL MR 5413 5127LT 106953 21 Matachewan Consolidated Mines Ltd. 19.142 N Y 31-Mar-2015
+
+CAIRO MR 9655 5128LT 106954 21 Matachewan Consolidated Mines Ltd. 10.927 N Y 30-Apr-2015 P'
+
+	
+
+W-LL-F1715
+
+POWELL MR 5991 5127LT 107051 21 Matachewan Consolidated Mines Ltd. 15.726 N Y 31-Dec-2017
+
+CAIRO 537314 Active Claim Northgate Minerals Corporation 16188 1 N N Y 30-Sep-2009
+
+Licence of Occupation with Undersurface rights and Surface rights (Montreal River area)
+
+CAIRO LO 1007 718264 Matachewan Consolidated Mines Ltd. 2.995 Y
+
+	
+
+Y
+
+	
+
+N/A
+
+	
+
+W-LL-F1715
+
+24 371.58
+
+Note: Licence of Occupation L.1007 enables holder to remove all ores & minerals from land covered b
+
+	
+
+water see Title 718264
+
+Ontario MNDM Withdraw Order No.
+
+	
+
+W-LL-F1715: Living Legacy Withdrawal area,
+
+	
+
+P' indicates portion of the claim withdrawn.
+
+*Royalty = US$1/ton+
+
+DNI TOR/2 73 3 74-00004/2 51 0 1 47.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Shirriff Property - In Powell Township
+Northgate 100% subject to Agreement between Thomas J. Obradovich and John F. Shirriff
+
+Dated September 25, 2001.
+
+itle ID
+
+o (n
+
+z V)
+U)E
+
+(L U
+
+ease
+No. E
+
+~
+
+egistered Tenure Holder
+rea
+
+(ha.) E
+
+U
+
+_rn
+
+m
+0
+
+w
+Y
+
+a,
+
+0
+
+o C
+O
+
+04
+a s
+
+w
+
+xpiry/Renewal
+Date
+
+Subject to
+Surface &
+
+Mining
+Rights
+
+Order No.
+
+MR 5386 4982LT 106655 21 Northgate Minerals Corporation start Y Y 31-Mar-2014
+
+MR 5400 4982LT 106655 21 Northgate Minerals Corporation Y Y 31-Mar-2014
+
+MR 5568 4982LT 106655 21 Northgate Minerals Corporation Y Y 31-Mar-2014
+
+MR 5569 4982LT 106655 21 Northgate Minerals Corporation Y Y 31-Mar-2014
+
+MR 5570 4982LT 106655 21 Northgate Minerals Corporation Y Y 31-Mar-2014
+
+MR 5657 4982LT 106655 21 Northgate Minerals Corporation q Y Y 31-Mar-2014
+
+MR 5659 4982LT 106655 21 Northgate Minerals Corporation 11 Y Y 31-Mar-2014
+
+MR 5922 4982LT 106655 21 Northgate Minerals Corporation F] Y Y 31-Mar-2014
+
+MR 6032 4982LT 106655 21 Northgate Minerals Corporation - Y Y 31-Mar-2014
+
+MR 9835 4982LT 106655 21 Northgate Minerals Corporation 173.08 Y Y 31-Mar-2014
+
+MR 33919 5060LT 106881 21 Northgate Minerals Corporation start I_ Y Y 31-Oct-2014 P* W-LL-F1715
+
+MR 33920 506OLT 106881 21 Northgate Minerals Corporation Y Y 31-Oct-2014
+
+MR 33921 506OLT 106881 21 Northgate Minerals Corporation Y Y 31-Oct-2014
+
+MR 33922 506OLT 106881 21 Northgate Minerals Corporation Y Y 31-Oct-2014
+
+MR 33923 506OLT 106881 21 Northgate Minerals Corporation - Y Y 31-Oct-2014
+
+MR 33924 506OLT 106881 21 Northgate Minerals Corporation q Y Y 31-Oct-2014
+
+MR 34250 5060LT 106881 21 Northgate Minerals Corporation q Y Y 31-Oct-2014
+
+MR 34251 506OLT 106881 21 Northgate Minerals Corporation Y Y 31-Oct-2014
+
+MR 34252 506OLT 106881 21 Northgate Minerals Corporation n Y Y 31-Oct-2014 P* W-LL-F1715
+
+MR 34253 506OLT 106881 21 Northgate Minerals Corporation 139.843 Y Y 31-Oct-2014
+
+MR 34242 5365LT 107257 21 Northgate Minerals Corporation start,,-,, Y Y 30-Jun-2020
+
+MR 34243 5365LT 107257 21 Northgate Minerals Corporation 20.598 Y Y 30-Jun-2020
+
+MR 35807 5390LT 106880 21 Northgate Minerals Corporation start i-1 N Y 31-Jul-2014 P* W-LL-F1715
+
+MR 38931 539OLT 106880 21 Northgate Minerals Corporation 1 N Y 31-Jul-2014 P*
+
+	
+
+W-LL-F1715
+
+MR 39023 5390LT 106880 21 Northgate Minerals Corporation 63.831 N Y 31-Jul-2014 W-LL-F1715
+
+MR 35902 5392LT 106882 21 Northgate Minerals Corporation start Y Y 31-Jul-2014 W-LL-F1715
+
+MR 39022 5392LT 106882 21 Northgate Minerals Corporation 29.684 Y Y 31-Jul-2014 W-LL-F1715
+
+MR 40066 5391 LT 106755 21 Northgate Minerals Corporation start [ N Y 31-Jul-2014 W-LL-F1715
+
+MR 40067 5391 LT 106755 21 Northgate Minerals Corporation 32.65 N Y 31-Jul-2014 W-LL-F1715
+
+MR 40068 5389LT 106757 21 Northgate Minerals Corporation 30.52 N Y 31-Jul-2014 W-LL-171715
+
+MR 40071 5389LT 106757 21 Northgate Minerals Corporation 11.04 N Y 31-Jul-2014 W-LL-F1715
+
+MR 50439 5145LT 106876 21 Northgate Minerals Corporation start r_1 Y Y 31-Dec-2015 W-LL-F1715
+
+MR 50440 5145LT 106876 21 Northgate Minerals Corporation 47.296 Y Y 31-Dec-2015 W-1-L-171715
+
+512587 Active 21 Northgate Minerals Corporation 16.188 1 N N Y 30-Sep-2009
+
+512588 Active 21 Northgate Minerals Corporation 16.188 1 N N Y 30-Sep-2009 P* W-LL-F1715
+
+512589 Active 21 Northgate Minerals Corporation 16.188 1 N N Y 30-Sep-2009 P*
+
+	
+
+W-LL-F1715
+
+36 597.11
+
+Ontario MNDM Withdraw Order No.
+
+W-LL-F1715: Living Legacy Withdrawal area,
+
+	
+
+P* indicates portion of the claim withdrawn.
+
+*Royalty = 2% NSR.
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Sedex Mining Corp. - OKA Propeft
+Northgate 60%, with Option to earn additional 20%; Property subject to Option and Joint Venture Agreement between
+
+1519864 Ontario Limited and Sedex Mining Corp.
+Dated October 1, 2002
+
+12 o
+z E
+
+p Expiry t
+Twp Title ID 'R
+
+Lease Registered Tenure Area = s
+c °' ° Renewal Ro alty
+
+	
+
+yNo. E Holder (ha.) E rnt R ^
+- 4 Date
+
+L U
+,^ ^ a:
+
+a
+f v wa
+
+POWELL 1205862 Maim Fred S. Kiernicki - 100% 16.188 1 N N Y 27-Apr-2010 Nil
+
+POWELL 1206077
+Active Steven Stanwick -50% 5.059 1 N N Y 15-Sep-2010 3.0% NSR
+Claim 0Suzanne Guimond - 50 /a
+
+POWELL 1206081
+Active Fred S. Kiernicki - 100% 16 .188 1 N N Y 14-Dec-2010 3.0% NSR
+Claim
+
+POWELL 1206147
+Active Thomas J. Obadovich - 50% 16 .188 1 N N Y 4-Apr-2010 2.5% NSR
+Claim Canadian Royalties Inc. - 50%
+
+POWELL 1206178
+Active Thomas J. Obadovich - 50% 16.188 1 N N Y 4-Apr-2010 2.5% NSR
+Claim Canadian Royalties Inc. - 50%
+
+POWELL 1206150
+Active Thomas J. Obadovich - 50% 16.188 1 N N Y 4-Apr-2010 2.5% NSR
+Claim Canadian Royalties Inc. - 50%
+
+POWELL 1213838
+tiveA Fred S. Kiernicki - 100% 48.56 3 N N Y 27-May-2011 3.0% NSRc
+
+POWELL 1223270
+Active Thomas J. Obradovich - 100% 16188 1 N N Y 17-May-2010 2.5% NSR
+Claim
+
+POWELL 1223271
+Active Thomas J. Obradovich - 100% 32.376 2 N N Y 10-Apr-2010 2.5% NSR
+C laim
+
+POWELL 1223281
+Active Thomas J. Obradovich - 100% 16.188 1 N N Y 14-May-2010 2.5% NSR
+Claim
+
+POWELL 1223283
+Active Thomas J. Obradovich - 100% 16.188 1 N N Y 10-Apr-2010 2.5% NSR
+Claim
+
+POWELL 1223284
+Active Thomas J. Obradovich - 100% 16.188 1 N N Y 10-Apr-2010 2.5% NSR
+
+POWELL 1223285
+Active Thomas J. Obradovich - 100% 16.188 1 N N Y 10-Apr-2010 2.5% NSR
+
+POWELL 1223286
+Active Thomas J. Obradovich - 100% 16.188 1 N N Y 10-Apr-2010 2.5% NSR
+
+POWELL 1223287
+Active Thomas J. Obradovich - 100% 16.188 1 N N Y 10-Apr-2010 2.5% NSR
+Claim
+
+POWELL 1223288
+Active Thomas J. Obradovich - 100% 16.188 1 N N Y 10-Apr-2010 2.5% NSR
+Claim
+
+POWELL 1224878
+Active Alcanex Ltd - 100% 16.188 1 N N Y 10-Apr-2010 3.0% NSR
+Claim
+
+POWELL 3009961
+Active Thomas J. Obradovich - 100% 16.188 1 N N Y 20-Sep-2010 2.5% NSR
+
+laimC
+
+18 328.82 21
+
+*No Surface Rights
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Young -Davidson Property (Northgate Minerals Corporation 100%)
+
+Twp Title ID
+
+o`
+
+z E
+•@ is
+U N
+
+a
+
+Lease
+No.
+
+N
+
+}
+
+^-
+
+Area
+(ha.)
+
+U
+
+m
+N
+
+S
+e c,
+
+o
+
+` 0
+o 4
+a.
+w iF
+
+Expiry
+Renewal
+
+Date
+>
+^°
+
+Subject to
+Surface &
+
+Mining Rights
+Withdraw Order
+
+No.
+
+CAIRO 537315 Active Claim 8.094 1 N N Y 30-Sep-2009 Nil W-LL-F1715
+
+CAIRO 537316 Active Claim 2.023 1 N N Y 30-Sep-2009 NiI
+
+CAIRO 537317 Active Claim 8.094 1 N N Y 30-Sep-2009 Nil W-LL-F1715
+
+POWELL 1207501 Active Claim 16.188 N N Y 6-Apr-2010 Nil W-LL-171715, F1600
+
+POWELL 1207502 Active Claim 259 N N Y 6-Apr-2010 Nil W-LL-F1715, F1600
+
+POWELL 1207503 Active Claim 32.376 N N Y 6-Apr-2010 Nil
+
+YARROW 1207504 Active Claim 259 N N Y 6-Apr-2010 Nil W-LL-F1715, F1600
+
+POWELL 1207505 Active Claim 194.256 N N Y 6-Apr-2009 Nil
+
+YARROW 1207506 Active Claim 242.82 N N Y 6-A r-2009 Nil
+
+YARROW 1207507 Active Claim 259 N N Y 6-Apr-2009 Nil
+
+POWELL 1207508 Active Claim 48.564 N N Y 6-Apr-2009 Nil
+
+POWELL 1207509 Active Claim 64.752 N N Y 6-Apr-2010 Nil
+
+POWELL 1207510 Active Claim 16.188 N N Y 6-Apr-2009 Nil
+
+POWELL 1207511 Active Claim 48.564 N N Y 6-Apr-2009 Nil
+
+POWELL 1207512 Active Claim 16.188 N N Y 6-Apr-2009 Nil
+
+POWELL 1207513 Active Claim 16.188 N N Y 6-Apr-2009 Nil
+
+POWELL 1207514 Active Claim 64.752 N N Y 6-Apr-2010 Nil p* W-LL-F1715
+
+YARROW 1207515 Active Claim 32.376 N N Y 6-Apr-2010 Nil
+
+YARROW 1207516 Active Claim 129.504 N N Y 6-Apr-2009 Nil W-LL-F1715, F1600
+
+CAIRO 1207518 Active Claim 80.94 N N Y 6-Apr-2009 Nil p*
+
+	
+
+W-LL-F1715
+
+POWELL 1207521 Active Claim 8.1347 N N Y 15-Sep-2010 Nil
+
+POWELL 1207522 Active Claim 16. 188 N N Y 6-Apr-2009 Nil
+
+POWELL 1207550 Active Claim 16.188 N N Y 6-Apr-2009 Nil
+
+CAIRO 1248827 Active Claim 16.188 N N Y 7-Jun-2009
+0.5%
+NSR
+
+CAIRO 1248828 Active Claim 32.376 N N Y 7-Jun-2009
+0.5%
+NSR
+
+CAIRO 1248829 Active Claim 16.188 N N Y 5-Jun-2009
+0.5%
+NSR
+
+CAIRO 3004550 Active Claim 48.564 N N Y 16-Sep-2010 Nil P* W-LL-F1715
+
+CAIRO 3004551 Active Claim 32.376 N N Y 18-Sep-2010 Nil
+
+DM TOR/2 73 3 74-00004/2 5 1 0 1 4 7AA
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Young-Davidson Property (Page 2 of 2)
+
+wp itle ID
+
+o =
+u
+
+z 0)
+U)
+
+v
+
+Lease
+No.
+
+r Area
+(ha.)
+
+42
+
+v
+
+d
+_
+
+'C .
+
+a,
+
+c
+-c
+!i
+
+o
+
+p
+o
+Q s
+X .T
+w X
+
+Expo
+Renewal
+
+Date
+
+R
+>,
+o
+
+Subject to
+Surface &
+
+Mining
+Rights
+
+Withdraw
+Order No.
+
+POWELL MR 12506 3858LT 18190 10 22.237 Y Y 30-Apr-2013 Nil
+
+POWELL MR 12507 3857LT 19191 10 15.362 Y Y 30-Apr-2013 Nil
+
+POWELL MR 12508 3856LT 19192 10 12.93 Y Y 30-Apr-2013 Nil
+
+POWELL MR 12509 3861 LT 19197 10 9.741 Y Y 30-Apr-2013 Nil
+
+POWELL MR 12510 3860LT 19196 10 14.225 Y Y 30-Apr-2013 Nil
+
+POWELL MR 12511 3859LT 19195 10 13.124 Y Y 30-Apr-2013 Nil
+
+POWELL MR 12512 3855LT 19194 10 12.351 Y Y 30-Apr-2013 Nil
+
+POWELL MR 12610 3854LT 19193 10 3.849 Y Y 30-Apr-2013 Nil
+
+POWELL MR 5371 3104LT 19574 10 14.933 Y Y 30-Sep-2017 Nil
+
+POWELL MR 5372 3105LT 19575 10 13.476 Y Y 30-Sep-2017 Nil
+POWELL MR 5374 3106LT 19576 10 10.522 Y Y 30-Sep-2017 Nil
+POWELL MR 5375 3107LT 19577 10 15.216 Y Y 30-Sep-2017 Nil
+
+POWELL MR 5376 4215LT 19411 10 17.766 Y Y 30-Sep-2016 Nil
+
+POWELL MR 5383 3108LT 19578 10 11.372 Y Y 30-Sep-2017 Nil
+
+POWELL MR 5399 4314LT 18848 10 21.893 Y Y 31-Mar-2017 Nil
+
+43 2,194.07
+
+Surface Rights Only - Fee Sim p le Lot within MR5208 & Licence of Occu pation - Davidson Lake area
+Patent
+
+POWELL
+CL487/
+MR5408 23381 0.228 Y N N/A
+
+Licence of Occupation
+
+POWELL
+MR9839
+et al 1207509 LO 11167 24.127 Y N N/A
+
+2
+
+W-LL-F1715: Living Legacy Withdrawal area,
+
+	
+
+P* indicates portion of the claim withdrawn.
+W-LL-F1600: Living Legacy Withdrawal area
+
+DM TOR/273374-00004/2S 10147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Opawica Explorations Inc.
+Northgate Option to earn 55% interest in properties of Letter Agreement dated May 28, 2007 between Opawica Explorations Inc.
+
+& Northgate Minerals Corp., subject to the following Underlying Agreements.
+
+	
+
+In addition, Northgate has the right to acquire 100% interest of the surface rights (#) of certain claims held under the option.
+
+Opawica Schedule A Lands: Welsh Property *
+
+Under) in Property Purchase & Sale Agreement dated Sept 27, 2006 b/w Estate of Ethel Welsh and O awica Explorations Inc.
+w
+
+2 Subject
+42 ^ s o ?^ to
+
+Parcel No.
+Registered Tenure
+
+V = °' =w
+M Expiry
+
+f
+Surface &
+
+Twp. Title ID or Claim
+Holder M E
+
+m o
+'4 Renewal Date
+
+Mining
+Status m c u Rights
+
+v w Withdraw
+co Order No.
+
+Powell Active Claim
+Opawica Explorations
+
+16.188 1 Y 26-Apr-2008
+1206013 Inc. - 100% N N
+
+Powell 340615 Active Claim
+Opawica Explorations
+
+16.188 1 Y 4-Sep-2008
+Inc. - 100%
+
+N N
+
+Powell 340616 Active Claim
+Opawica Explorations
+
+16.188 1 Y 4-Sep-2008Inc. - 100%
+N N
+
+Powell 374013 Active Claim
+Opawica Explorations
+
+16188 1 Y 4-Sep-20080Inc. - 100 !0
+N N
+
+Powell 374014 Active Claim
+Opawica Explorations
+
+16.188 1 Y 4-Sep-2008
+Inc. - 100%
+
+N N
+
+Powell 387779 Active Claim
+Opawica Explorations
+
+16.188 1 Y 4-Sep-2008
+Inc. - 100%
+
+N N
+
+Powell 387780 Active Claim
+Opawica Explorations
+
+16.188 1 Y 4-Sep-2008
+Inc. - 100%
+
+N N
+
+Powell 523195 Active Claim
+Opawica Explorations 16.188 1 Y 30-Sep-2009
+
+Inc. - 100%
+N N
+
+Powell 523196 Active Claim
+Opawica Explorations
+
+16.188 1 Y 30-Sep-2009
+Inc. - 100%
+
+N N
+
+Powell 523197 Active Claim
+Opawica Explorations
+
+16.188 1 Y 30-Sep-2009
+Inc. - 100%
+
+N N
+
+Powell 523198 Active Claim
+Opawica Explorations
+
+16.188 1 Y 30-Sep-2009
+Inc. - 100%
+
+N N
+
+Powell 531566 Active Claim
+OpawicaOExplorations
+
+16.188 1 N Y 30-Sep-2009
+Inc. - 100 /o
+
+N
+
+Powell 531567 Active Claim
+Opawica Explorations
+
+16.188 1 N Y 30-Sep-2009
+Inc. - 100%
+
+N
+
+Powell 531568 Active Claim
+Opawica Explorations
+
+16.188 1 N Y 30-Sep-2009
+Inc. - 100%
+
+N
+
+Powell 531613 Active Claim
+Opawica Explorations
+
+16.188 1 N Y 30-Sep-2009
+Inc. -100%
+
+N
+
+Powell 531614 Active Claim
+Opawica Explorations
+
+16.188 1 Y 30-Sep-2009
+Inc. - 100%
+
+N N
+
+Powell 531615 Active Claim
+Opawica Explorations
+
+16.188 1 Y 30-Sep-2009Inc. - 100%
+N N
+
+Powell 531815 Active Claim
+Opawica Explorations
+
+16.188 1 Y 30-Sep-2009Inc. - 100% N N
+
+Powell 531816 Active Claim
+Opawica Explorations
+
+F16.188 1 Y 30-Sep-2009Inc. - 100%
+N N
+
+1
+
+	
+
+19
+
+	
+
+1
+
+*Royalty = 2% NSR.
+
+1
+
+307.57 9
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Opawica Schedule A Lands: Welsh -Furneaux Property *.
+Underlying Property Purchase & Sale Agreement dated Sept 27, 2006 b/w Estate of Ethel Welsh,
+Ma
+
+	
+
+Beth Furneaux and Opawica Explorations Inc
+
+wp. itle ID
+Parcel No.Parcel
+or Claim
+Status
+
+egistered Tenure Holder
+V
+
+Q
+
+E
+is ':_
+v
+
+!
+in
+
+_ a,
+'
+
+	
+
+r -
+
+o 12
+
+X .0° .0
+
+!
+Renewal
+
+Date
+
+Subject to
+Surface &
+
+Mining Rights
+Withdraw Order
+
+No.
+
+Powell 374015 Active Claim O awica Explorations Inc. - 100% 16.188 1 N N Y 4-Sep-2008
+
+Powell 374016 Active Claim O awica Explorations Inc. - 100% 16.188 1 N N Y 4-Sep-2008
+
+Powell 374017 Active Claim O awica Explorations Inc. - 100% 16.188 1 N N Y 4-Sep-2008
+
+Powell 374235 Active Claim O awica Explorations Inc. - 100% 16.188 1 N N Y 4-Sep-2008
+
+Powell 374236 Active Claim O awica Explorations Inc. - 100% 16.188 1 N N Y 4-Sep-2008 P` W-LL-F1715
+
+Powell 374237 Active Claim O awica Explorations Inc. - 100% 16.188 1 N N Y 4-Sep-2008 P` W-LL-F1715
+
+Powell 374238 Active Claim O awica Explorations Inc. - 100% 16.188 1 N N Y 4-Sep-2008 P' W-LL-F1715
+
+Powell 374239 Active Claim O awica Explorations Inc. - 100% 16.188 1 N N Y 4-Sep-2008
+
+Powell 374240 Active Claim O awica Explorations Inc. - 100% 16.188 1 N N Y 4-Sep-2008
+
+Powell 374241 Active Claim O awica Explorations Inc. - 100% 16.188 1 N N Y 4-Sep-2008 P' W-LL-F1715
+
+Powell 374242 Active Claim O awica Explorations Inc. - 100% 16.188 1 N N Y 4-Sep-2008 P' W-LL-F1715
+
+Powell 374243 Active Claim O awica Explorations Inc. - 100% 16.188 1 N N Y 4-Sep-2008
+
+12
+
+Ontario MNDM Withdraw Order No.
+
+12194.256
+
+W-LL-F1715: Living Legacy Withdraw area, P` indicates portion of claim withdrawn.
+
+*Royalty = 2% NSR.
+
+Opawica Schedule A Lands: Stanwick Property
+
+Subject to
+
+Parcel No. v c
+m0 _
+
+rn .°- c
+p Expiry /
+
+Surface &
+
+Twp. Title ID or Claim Registered Tenure Holder 1 E rn rn o y Renewal >o
+Mining
+Rights
+
+Status
+¢
+
+m in iz = X a Date Withdraw
+a g
+
+u! 0:
+Order No.
+
+Powell 1206306 Active Claim O awica Ex lorations Inc. - 100% 16.188 1 N N Y 28-Feb-2008 2% NSR
+
+Powell 1206307 Active Claim O awica Ex lorations Inc. - 100% 16.188 1 # N N Y 28-Feb-2008 2% NSR
+
+Powell 511486 Active Claim O awica Ex lorations Inc. - 100% 16.188 1 N N Y 4-Sep-2009 2% NSR
+
+Powell 511487 Active Claim 0 awica Explorations Inc. - 100% 16.188 1 N N Y 4-Sep-2009 2% NSR
+
+Powell 511488 Active Claim 0 awica Explorations Inc. - 100% 16.188 1 # N N Y 4-Sep-2009 2% NSR
+
+Powell 511489 Active Claim O awica Explorations Inc. - 100% 16.188 1 N N Y 4-Sep-2009 2% NSR
+
+Powell 511490 Active Claim O awica Explorations Inc. - 100% 16.188 1 N N , Y 4-Sep-2009 2% NSR
+
+7 113.321 7
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Opawica Schedule A Lands: Walker Property *
+Underlying Property Option Agreement dated January 24, 2007 between Reginald (Rick) Walker
+and Opawica Explorations Inc.
+
+	
+
+(Powell Township)
+
+o Subject to
+Parcel No.
+
+Registered Tenure
+10c = 04_ c Y
+
+'
+
+	
+
+p Expiry ! Surface &
+Title ID or Claim
+
+Holder E
+a, c o Renewal Mining Rights
+
+Status a
+•ii
+
+00) ii E ii - Date Withdraw Order
+U xW No.
+
+L372902 PCL5546 104927 21 Walker, Reg inald F . start 1 N Y 30-Sep-2008
+
+L372903 PCL5546 104927 21 Walker, Reginald F. N Y 30-Sep-2008
+
+L373507 PCL5546 104927 21 Walker, Reginald F. N Y 30-Se -2008
+
+L367170 PCL5546 104927 21 Walker, Reginald F. 70.516 N Y 30-Sep-2008
+
+MR37455 4636LT 108116 21 Walker, Reginald F. 10.607 Y Y 30-Sep-2028
+
+MR37456 4635LT 108117 21 Walker, Reginald F. 13.128 Y Y 30-Sep-2028
+
+6 94.25
+
+*Royalty = 2.5% NSR.
+
+Opawica Schedule A Lands; Camking Property *
+Underlying Property Option Agreement dated June 30, 2006 between Camking Exploration & Resources Ltd.
+and Opawica Explorations Inc.
+
+	
+
+(Powell Township)
+
+Subject
+.,
+
+T
+
+Parcel No.
+Registered Tenure D T O
+
+Expi
+
+	
+
+!Expiry Surface
+Title ID or Claim E
+
+0 04 Renewal & Mining
+Status Holder
+
+U
+a Date Rights
+
+a
+V ^ to Withdrawun
+
+Order No.
+Camking Exploration &
+
+L372901 5501 112 LT 107875 21 Resources Ltd. N Y 31-Jul-2027
+Camking Exploration &
+
+L372904 5502 1/2 LT 107876 21 Resources Ltd. 15.63 N Y 31-Jul-2027
+Camking Exploration &
+
+L372905 5502 1/2 LT 107876 21 Resources Ltd. 15.63 N Y 31-Jul-2027
+Camking Exploration &
+
+L372908 5501 1/2 LT 107875 21 Resources Ltd. N Y 31-Jul-2027
+Camking Exploration &
+
+L372909 5501 1/2 LT 107875 21 Resources Ltd. N Y 31-Jul-2027
+Camking Exploration &
+
+L372910 5501 1/2 LT 107875 21 Resources Ltd. N Y 31-Jul-2027
+Camking Exploration &
+
+L372911 5501 1/2 LT 107875 21 Resources Ltd. 89.715 N Y 31-Jul-2027
+Camking Exploration &
+
+L367899 5502 1/2 LT 107876 21 Resources Ltd. 15.63 N Y 31-Jul-2027
+Camking Exploration &
+
+L367900 5502 1/2 LT 107876 21
+I
+
+Resources Ltd. 15.63 N Y 31-Jul-2027
+Fred S. Kiernicki -
+
+3006742 Active Claim K19582 16.188 1 N N Y 1 -May-2008
+
+10
+
+	
+
+168.42
+
+*Royalty = 2% NSR.
+
+DM TOR/2733 74-00004/25 1 01 4'7.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+25 APPENDIX 2
+
+COMPOSITE CONTROL INTERVALS, LONGITUDINAL
+SECTIONS AND SCATTER PLOTS
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+TABLE 25 -1 COMPOSITE CONTROL INTERVALS
+
+LBZ1 M03-50 385.0 390.1 5.2 3.7 2.829 23288 9999
+
+LBZ1 YD06-01A 1101.2 1127.4 26.2 20.6 6.984 23379 9360
+
+LBZ1 YD06-01 B 1063.0 1117.1 54.1 41.3 10.663 23433 9397
+
+LBZ1 YD06-01 C 1023.8 1030.2 6.4 5.4 8.122 23374 9461
+
+LBZ1 YD06-01 D 1043.9 1054.9 11.0 9.3 6.362 23370 9431
+
+LBZ1 YD06-09 1039.3 1055.1 15.9 8.2 8.102 23529 9316
+
+LBZ1 YD0613 784.3 790.4 6.1 4.0 3.604 23399 9605
+
+LBZ1 YD06-20A 1312.2 1318.9 6.7 4.2 5.131 23469 910$
+
+LBZ1 YD06-20B 1225.9 1233.8 7.9 67 2.581 23471 9270
+
+LBZ1 YD06-20C 1165.3 1201.2 36.0 32.9 4.163 23432 9337
+
+LBZ1 YD06-20D 1298.6 1310.3 11.7 7.2 2.563 23466 9134
+
+LBZ1 YD06-20E 1245.0 1249.6 4.6 3.3 2.402 23526 9230
+
+LBZ1 YD07-42A 960.5 971.0 10.5 6.6 4.511 23567 9444
+
+LBZ1 YD07-42B 875.5 883.7 8.2 6.8 3.619 23560 9554
+
+LBZ1 YD07-47 754.6 780.9 26.3 16.0 5.201 23528 9620
+
+LBZ1 YD07-47A 693.5 703.0 9.5 7.1 3.907 23517 9700
+
+LBZ1 YD07-49A 625.2 659.1 33.9 19.1 4.249 23511 9732
+
+LBZ1 YD07-51 669.6 677.2 7.6 4.9 6.096 23357 9698
+
+LBZ1 YD89-08 424.3 431.9 7.6 3.4 3.824 23375 9916
+
+LBZ1 YD89-09 374.3 381.9 7.6 3.5 2.441 23355 9969
+
+LBZ1 YD89-10 601.4 612.0 10.7 6.1 3.204 23403 9749
+
+LBZ1 YD90-03 520.9 534.6 13.7 6.2 6.142 23417 9812
+
+LBZ1 YD90-09 880.0 907.7 27.7 15.1 4.48 23524 9475
+
+LBZ1 YD90-16 821.0 834.5 13.6 8.0 5.221 23406 9540
+
+LBZ1 YD9530A 868.7 926.1 57.5 43.3 4.356 23494 9489
+
+LBZ1 YD9530X 905.9 974.2 68.3 37.4 3.349 23454 9419
+
+LBZ1 YD9542 502.6 507.2 4.6 3.0 4.309 23426 9877
+
+LBZ1 YD9543 747.5 785.2 37.7 17.6 3.051 23467 9579
+
+LBZ1 YD9543A 662.9 686.6 23.6 13.1 5.667 23487 9679
+
+LBZ1 YD9544 890.6 896.0 5.3 3.4 6.618 23390 9488
+
+L6Z1 YD9616A 812.3 845.6 33.3 21.2 5.019 23431 9544
+
+LBZ2 YD06-01 1126.2 1169.8 43.6 29.1 2.591 23348 9289
+
+LBZ2 YD06-01 A 1064.7 1078.4 13.7 10.7 5.211 23369 9392
+
+LBZ2 YD06-01 C 1002.5 1010.4 7.9 6.7 3.395 23367 9474
+
+LBZ2 YD06-01 D 1000.7 1011.6 11.0 9.2 12.57 23368 9461
+
+LBZ2 YD06-16 1482.2 1488.3 6.1 4.2 2.69 23190 8982
+
+LBZ2 YD06-16A 1272.8 1278.9 6.1 5.6 2.83 23251 9266
+
+LBZ2 YD06-16C 1322.5 1339.4 16.9 14.3 3.5 23252 9209
+
+LBZ2 YD06-17B 1079.0 1088.1 9.2 5.4 4.337 22931 9349
+
+LBZ2 YD06-20B 1190.2 1196.3 6.1 5.1 2.532 23463 9295
+
+LBZ2 YD06-20E 1221.5 1232.0 10.5 7.6 3.354 23520 9246
+
+LBZ2 YD06-25 925.9 932.0 6.1 3.7 2.322 22974 9471
+
+LBZ2 YD06-27 941.5 950.5 9.0 5.4 3.315 23072 9450
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Figure 25-1 Composite Control Intervals ( Page 2 of 6)
+
+Lens Hole
+--
+
+From(m) To (m)
+Coro
+
+Length
+True
+Thick
+
+Au gR T
+
+	
+
+Comment midi
+_
+
+midz
+
+LBZ2 YD06-29 1246.6 1253.6 7.0 4.5 3.506 23149 9382
+
+LBZ2 YD07-33 1410.4 1432.7 22.3 15.1 3.101 23275 9015
+
+LBZ2 YD07-33A 1419.0 1444.5 25.5 17.4 2.828 23248 9022
+
+LBZ2 YD07-33B 1321.0 1330.5 9.5 6.9 1.881 23254 9148
+
+LBZ2 YD07-33C 1289.0 1291.0 2.0 1.6 3.755 Hole abandoned in zone 23303 9202
+
+LBZ2 YD07-33D 1287.0 1308.0 21.0 17.0 1.991 23305 9198
+
+LBZ2 YD07-33E 1328.1 1355.5 27.4 21.3 1.942 23253 9146
+
+LBZ2 YD07-41 933.6 952.4 18.8 12.5 4.162 23239 9480
+
+LBZ2 YD07-45 1013.1 1018.0 4.9 3.2 0.991 23287 9392
+
+LBZ2 YD07-45A 973.9 1010.5 36.6 26.7 3.496 23250 9422
+
+LBZ2 YD07-48 867.0 874.2 7.2 4.3 3.739 23220 9527
+
+LBZ2 YD07-53 1440.3 1464.3 24.0 15.8 2.7 23118 9023
+
+LBZ2 YD07-56 1046.3 1063.8 17.5 12.5 3.766 23245 9396
+
+LBZ2 YD90-16 774.8 788.5 133 8.0 5.187 23404 9582
+
+LBZ2 YD90-22x 919.9 939.4 19.5 11.7 6.418 23223 9461
+
+LBZ2 YD9530A 806.2 813.8 7.6 4.9 2.597 23460 9556
+
+LBZ2 YD9530X 854.1 869.1 15.1 8.1 4.01 23442 9492
+
+LBZ2 YD9616A 743.7 755.9 12.2 7.4 7.413 23417 9614
+
+LKY YD06-10 500.2 509.6 9.5 6.8 7.202 23251 9939
+
+LKY YD06-11 448.1 470.2 22.1 13.2 2.593 23180 9896
+
+LKY YD06-14 304.9 310.1 5.2 4.3 4.14 23176 10091
+
+LKY YD90-12 460.3 497.7 37.5 19.5 3.691 23148 9858
+
+LKY YD90-15 548.3 578.7 30.3 19.5 3.817 23113 9806
+
+LKY YD90-17 375.8 381.9 6.1 3.4 2.344 23113 9965
+
+LKY YD90-19 420.3 431.0 10.7 5.8 2.538 23117 9917
+
+LKY YD90-24 630.5 636.1 5.7 3.2 3.318 23096 9731
+
+LKY YD90-31 506.6 524.5 17.9 9.8 2.43 23176 9832
+
+LKY YD9537 372.8 377.7 4.9 3.1 2.541 23160 9981
+
+LL1 YD06-16 1492.0 1498.1 61 4.2 2.341 23191 8974
+
+1-1-1 YD06-16A 1347.0 1351.5 4.5 4.1 5.547 23273 9228
+
+LL1 YD06-16C 1353.3 1360.4 7.1 6.0 2.478 23258 9192
+
+LL1 YD06-17B 1129.6 1152.7 23.0 13.6 2.576 22951 9300
+
+LL1 YD06-25 947.7 951.5 3.9 2.4 2.718 22977 9453
+
+LL1 YD06-27 971.1 982.4 11.3 6.9 3.734 23078 9423
+
+LL1 YD06-28 1008.0 1015.2 7.3 4.6 3.218 23164 9402
+
+LL1 YD06-29 1232.3 1239.7 7.3 4.7 9.887 23152 9391
+
+LL1 YD07-33A 1482.0 1486.5 4.5 3.1 2.32 23245 8977
+
+LL1 YD07-33B 1396.5 1405.5 9.0 6.5 2.815 23255 9086
+
+LL1 YD07-33D 1359.0 1365.0 6.0 4.9 2.91 23316 9150
+
+LL1 YD07-33E 1360.8 1382.0 21.2 16.6 3.395 23252 9123
+
+LL1 YD07-36 879.0 885.1 6.1 3.9 7.187 23019 9506
+
+LL1 YD07-41 982. 8 989 .1 6.3 4.2 2.929 23242 9443
+
+LL1 YD07-43 815.8 820.6 4.8 3.8 3.207 23252 9650
+LL1 YD07-45 1086 .6 1099 .0 12.4 8.1 5.038 23300 9325
+LL1 YD07-45A 1041.3 1047.5 6.2 4.6 5.12 23253 9379
+
+DM TOR/2 73 374-000 04/2 5 1 0 1 47.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Figure 25-1 Composite Control Intervals ( Page 3 of 6)
+
+Lens ^Hole Fromm) ^ To gym}
+Core
+
+Len th
+True
+
+- Thick
+-
+
+Au
+
+	
+
+!t
+--
+
+Comment
+-
+
+	
+
+-
+
+	
+
+--- - --
+midx
+
+- - --
+midz
+
+LL1 YD07-53 1468.8 1486.0 17.2 11.4 2.853 23124 9002
+
+LL1 YD07-56 1075.8 1086.6 10.8 7.7 6.38 23250 9375
+
+LL1 YD90-15 622.4 632.2 9.8 6.3 3.724 23118 9749
+
+LL1 YD90-22x 981.0 986.5 5.5 3.4 2.654 23237 9414
+
+LL1 YD90-31 550.0 558.7 8.7 4.7 2.298 23178 9795
+
+LL1 YD90-34 667.2 672.4 5.2 3.4 4.616 22921 9712
+
+LL1 YD9535 577.0 582.2 5.2 3.2 2.447 23005 9785
+
+UBZ MCM1111 0.0 12.5 12.5 12.2 5.14 23778 9962
+
+UBZ MCM1112 0.9 6.7 5.8 5.7 4.49 23788 9962
+
+UBZ MCM1117 4.6 21.3 16.8 16.3 5.55 23728 9962
+
+UBZ MCM1118 17.8 36.6 18.8 18.3 5.169 23711 9962
+
+UBZ MCM1119 63.4 99.1 35.7 32.8 4.8 23678 9962
+
+UBZ MCM1120 86.0 102.1 16.2 13.3 5.49 23655 9962
+
+UBZ MCM1123 77.5 82.6 5.1 1.1 4.53 Hole in remnant mining area 23788 9880
+
+UBZ MCM1123 62.9 71.8 8.9 1.9 4.53 Hole in remnant mining area 23788 9892
+
+UBZ MCM1134 0.0 2.1 2.1 2.1 11.158 Hole in remnant mining area 23682 9963
+
+UBZ MCM1135 0.0 1.2 1.2 1.2 2.06 Hole in remnant minin g area 23698 9963
+
+UBZ MCM1136 2.4 4.0 1.5 1.5 2.74 Hole in remnant mining area 23703 9962
+
+UBZ MCM1173 12.2 21.0 8.8 8.6 2.71 23790 9886
+
+UBZ MCM1175 3.1 19.8 16.8 16.3 2.43 23797 9886
+
+UBZ MCM1179 1.5 18.3 16.8 163 3.916 23778 9886
+
+UBZ MCM1182 0.0 26.5 26.5 12.4 3.186 23780 9896
+
+UBZ MCM1183 0.0 5.3 5.3 5.2 2.88 23744 9886
+
+UBZ MCM1184 7.3 28.4 21.0 13.5 3.934 23791 9896
+
+UBZ MCM1185 29.0 50.3 21.3 20.7 5.387 23720 9886
+
+UBZ MCM1186 36.9 59.4 22.6 19.9 4.905 23723 9897
+
+UBZ MCM1187 59.4 77.7 18.3 17.4 5.024 23701 9886
+
+UBZ MCM1188 50.3 68.6 18.3 15.9 3.158 23702 9898
+
+UBZ MCM1189 74.7 100.3 25.6 20.5 6.415 23668 9886
+
+UBZ MCM1191 0.0 6.9 6.9 3.6 3.22 23694 9887
+
+UBZ MCM1194 0.0 5.5 5.5 5.2 2.744 23714 9886
+
+UBZ MCM1195 0.0 11.1 11.1 10.8 3.09 23733 9886
+
+UBZ MCM1196 35.4 41.9 6.6 4.5 3.182 23800 9852
+
+UBZ MCM1197 27.1 36.7 9.5 9.0 2.507 23790 9868
+
+UBZ MCM1198 42.4 54.3 11.9 9.5 3.6 23719 9852
+
+UBZ MCM1199 79.5 86.6 7.1 3.9 4.037 23718 9808
+
+UBZ MCM1199 86.6 95.8 9.3 5.1 0.168 23720 9801
+
+UBZ MCM1200 53.3 57.9 4.6 3.8 2.061 23721 9843
+
+UBZ MCM1200 43.0 53.3 10.4 8.7 0.03 23720 9848
+
+UBZ MCM1206 52.7 57.6 4.9 4.5 3.98 23704 9856
+
+UBZ MCM1208 67.8 100.6 32.8 23.3 3.773 23703 9815
+
+UBZ MCM1209 77.1 93.5 16.4 8.7 3.662 23719 9802
+
+UBZ MCM1210 55.5 106.4 50.9 41.4 4.07 23676 9850
+
+UBZ MCM1211 69.0 74.4 5.3 3.8 4.893 23687 9833
+
+UBZ MCM1211 74.4 84.5 10.2 73 0.114 23685 9827
+
+DM TOR '273374-00004i2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Figure 25-1 Composite Control Intervals (Page 4 of 6)
+
+Lens Hole
+Core
+
+	
+
+True
+From(m)
+
+	
+
+To (m)^ Length ;Thick Au glt Comment midx midz
+UBZ MCM1213 9.1 15.2 6.1 5.9 6.86 23757 9809
+
+UBZ MCM1219 41.9 45.3 3.4 3.3 0 Hole in remnant area 23729 9810
+
+UBZ MCM1219 27.9 36.0 8.1 7.8 0 Hole in remnant area 23726 9810
+
+UBZ MCM1220 53.3 60.6 73 6.7 4.003 23703 9810
+
+UBZ MCM1221 563 72.9 16.2 12.6 6.062 23684 9807
+
+UBZ MCM1222 35.1 49.7 14.6 12.3 6.51 23728 9821
+
+UBZ MCM1223 7.6 16.0 8.4 8.2 4.571 23766 9810
+
+UBZ MCM1225 45.4 57.8 12.3 10.2 2.81 23707 9822
+
+UBZ MCM1227 12.1 16.8 4.7 4.6 0 Hole in remnant area 23776 9809
+
+UBZ MCM1228 55.0 65.5 10.5 7.2 2.195 23688 9824
+
+UBZ MCM1228 76.2 103.6 27.4 18.8 3.807 23673 9833
+
+UBZ MCM1229 12.2 20.4 8.2 8.0 4.7 23737 9810
+
+UBZ MCM1233 83.5 92.7 9.1 6.3 2.71 23699 9735
+
+UBZ MCM1235 68.6 76.5 7.9 5.4 3.84 23715 9747
+
+UBZ MCM1245 0.0 9.3 9.3 8.6 6.86 23723 9810
+
+UBZ MCM1247 0.0 13.4 13.4 10.1 7.296 23719 9810
+
+UBZ MCM1250 127.3 131.7 4.3 1.6 5.83 Down di
+
+	
+
+hole 23706 9679
+
+UBZ MCM1252 108.2 156.1 47.9 17.2 3.91 23685 9676
+
+UBZ MCM1256 39.9 108.2 68.3 51.2 4.211 23633 9810
+
+UBZ MCM1258 52.6 67.1 14.5 12.8 4.22 23701 9780
+
+UBZ MCM1260 46.9 62.5 15.5 13.9 4.8 23720 9784
+
+UBZ MCM46 94.2 114.0 19.8 15.9 4.01 23597 10039
+
+UBZ MCM47 173.4 173.7 0.3 0.2 0.34 Along strike hole 23514 10039
+
+UBZ MCM47 153.8 164.1 10.3 5.7 1.48 23525 10039
+
+UBZ MCM47 173.7 193.9 20.1 11.0 3.09 23506 10039
+
+UBZ MCM47 88.4 137.2 48.8 26.7 2.845 23561 10039
+
+UBZ MCM48 135.6 148.1 12.5 6.8 219 23580 9928
+
+UBZ MCM49 147.8 167.9 20.1 6.4 3.6 23505 10039
+
+UBZ MCM49 105.2 138.7 33.5 10.7 2.67 23538 10039
+
+UBZ MCM50 114.3 118.1 3.8 2.2 8.025 Along strike hole 23567 9991
+
+UBZ MCM51 94.5 121.9 27.4 22.3 2.93 23602 9984
+
+UBZ MCM52 71.6 88.4 16.8 12.1 3.15 23611 10059
+
+UBZ MCM52 115.8 140.2 24.4 17.6 4.97 23587 10071
+
+UBZ MCM53 184.4 199.6 15.2 7.7 4.01 23502 10072
+
+UBZ MCM53 102.1 137.0 34.8 17.5 2.09 23558 10059
+
+UBZ MCM54 134.1 160.6 26.5 9.8 2.325 23526 9980
+
+UBZ MCM55 112.8 143.3 30.5 21.3 3.114 23613 9934
+
+UBZ MCM57 41.2 44.9 3.8 3.6 1.71 23607 10039
+
+UBZ MCM886 118.7 146.3 27.6 26.9 5.191 23741 10039
+
+UBZ MCM910 85.0 100.0 14.9 14.6 3.638 23787 10038
+
+UBZ MCM946 166.7 205.8 39.1 30.5 3.638 23642 10039
+
+UBZ MCM951 155.3 184.4 29.1 26.7 5.126 23698 10039
+
+UBZ MCM982 6.1 21.6 15.5 15.1 4.133 23665 10040
+
+UBZ MCM985 0.3 29.1 28.8 28.1 4.676 23681 10040
+
+UBZ YD06-03 365.8 378.9 13.1 10.3 3.693 23530 10035
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Figure 25-1 Composite Control Intervals (Page 5 of 6)
+
+Lens Hole (
+
+	
+
+)Fromm To {m}
+
+Core
+Length
+
+True
+Thick 1 Au git Comment midi i
+
+UBZ YD06-06 317.5 359.7 42.2 33.3 3.059 23585 10062
+
+UBZ YD100 122.6 126.7 4.0 2.8 1.147 Irregular strike 23609 9887
+
+UBZ YD88-09 239.0 270.7 31.7 21.6 7.8 23555 10108
+
+UBZ YD89-01 223.3 241.9 18.6 12.0 4.713 23574 10123
+
+UBZ YD89-04 242.4 289.3 46.9 21.2 4.45 23592 10078
+
+UBZ YD89-05 267.3 306.9 39.6 23.5 4.061 23553 10068
+
+UBZ YD89-06 209.1 223.1 14.0 8.4 3.159 23596 10139
+
+UBZ YD90-01 243.2 289.5 46.2 26.9 6.342 23565 10089
+
+UBZ YD90-05 563.2 602.9 39.7 20.9 4.936 23630 9777
+
+UBZ YD90-25 487.7 523.0 35.4 21.4 4.499 23657 9871
+
+UBZ YD90-27 402.0 415.8 13.7 7.5 3.582 23579 9951
+
+UBZ YD90-5B 584.0 641.3 57.3 27.2 5.377 23625 9744
+
+UBZ YD9551 215.5 258.2 42.7 28.6 6.53 23542 10122
+
+UBZ YD9554 264.6 302.7 38.1 30.4 8.009 23506 10091
+
+UBZ YD98 16.7 19.8 3.1 2.8 0.69 Hole in remnant area 23645 9887
+
+UBZ YD98 19.8 53.3 33.5 30.8 3.364 23637 9887
+
+UBZ YD99 97.5 115.8 18.3 14.5 2.942 23634 9887
+
+YD1 YD06-17 1061.0 1085.1 24.1 15.7 3.108 22853 9357
+
+YD1 YD06-21 1263.4 1306.1 42.7 27.2 4.031 22791 9173
+
+YD1 YD06-21A 1238.4 1277.4 39.0 28.2 3.367 22806 9222
+
+YD1 YD06-22 861.1 868.7 7.6 5.1 4.946 22864 9537
+
+YD1 YD06-23 901.6 932.7 31.1 20.1 3.564 22826 9504
+
+YD1 YD06-26 1275.7 1289.6 13.9 9.1 3.754 22756 9168
+
+YD1 YD06-31 1226.8 1234.4 7.6 5.2 3.263 22920 9246
+
+YD1 YD07-34 850.1 869.6 19.5 12.8 5.953 22787 9553
+
+YD1 YD07-46 1468.0 1477.0 9.0 5.9 2.398 22788 8994
+
+YD1 YD07-50 1045.6 1060.5 14.9 10.6 4.108 22760 9404
+
+YD1 YD07-52 648.1 652.2 4.1 2.6 2.94 Strike irregularity 3.3m true hor. Th. 22787 9731
+
+YD1 YD90-21 708.5 724.2 15.7 9.4 4.352 22817 9651
+
+YD2 YD128 47.2 56.7 9.5 4.0 2.81 22844 9860
+
+YD2 YD128 65.4 83.9 18.6 7.9 1.29 22828 9848
+
+YD2 YD128 25.8 47.2 21.4 9.1 0.03 Along strike hole 22854 9868
+
+YD2 YD129 26.3 36.6 10.3 2.8 0.709 Down strike and dip drill hole; 22866 9863
+
+YD2 YD129 36.6 132.6 96.0 26.1 3.334 22843 9820
+
+YD2 YD70 19.2 41.2 22.0 6.4 1601 22850 9888
+
+YD2 YD71 30.5 76.2 45.7 26.3 1.993 22835 9888
+
+YD2 YD72 40.5 78.0 37.5 30.7 2.276 22844 9888
+
+YD2 YD74 7.6 25.9 18.3 0.3 4.452 Along strike drill hole 22863 9888
+
+YD2 YD75 7.6 29.9 22.3 20.1 2.805 22876 9888
+
+YD2 YD77 4.6 22.9 18.3 16.6 1.8 22892 9888
+
+YD2 YD90-07 715.1 727.3 12.2 6.1 4.898 22856 9633
+
+YD2 YD90-23 726.8 745.8 19.0 11.3 3.213 22912 9635
+
+YD2 YD90-32 657.8 697.1 39.3 21.4 3.14 22872 9682
+
+YD2 YD90-34 691.6 697.1 5.5 3.7 4.597 22921 9691
+
+YD3 YD06-17 1001.3 1005.8 4.6 3.0 2.147 22844 9418
+
+DM TOR/273374-00004/2510147AA
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+Figure 25-1 Composite Control Intervals (Page 6 of 6)
+
+Lens Hole From(m) T om
+
+L
+Core
+
+Length
+True
+Thick i
+
+I
+Au
+
+	
+
+!t Comment midx midz
+YD3 YD06-17B 1007.4 1012.2 4.9 2.9 7.091 22909 9413
+
+YD3 YD06-21A 1194.8 1198 .8 4.0 2.8 2.518 22788 9271
+
+YD3 YD06-24 851.9 858 .0 6.1 3.7 2.576 22877 9534
+
+YD3 YD06-26 1207.7 1212.5 4.8 3.1 3.245 22750 9232
+
+YD3 YD06-31 1194.8 1200.9 6.1 4.1 2.672 22912 9273
+
+YD4 YD06-24 805.3 815.0 9.8 5.9 4.533 22873 9575
+
+YD4 YD06-25 755.4 761.5 6.1 3.6 3.493 22958 9626
+
+YD4 YD07-35 6803 687.8 7.5 5.0 3.293 22937 9711
+
+YD4 YD07-36 689.5 703.2 13.7 8.2 3.596 22995 9672
+
+YD4 YD90-28 592.5 604.4 11.9 5.5 3.292 22945 9753
+
+YD4 YD90-34 551.7 559.3 7.6 4.8 3.481 22920 9813
+
+DM TOR/273 3 74-00004/25 1 01 4 7.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 25-1 LONGITUDINAL PROJECTION - LKY, YD1, YD2, LBZ1
+
+Gold g/t
+
+4- 2.3 to 20
+
+	
+
+(62)
+1.7 to 2.3
+
+	
+
+(3)
+1
+
+	
+
+to 1.7
+
+	
+
+(1)
+-}- 0.3 to 1
+
+	
+
+(1)
++ 0 to 0.3 (1)
+
+YD89-09
+2.441
+3.49
+
+	
+
+YD89-03
+3.824
+5 -37 YD954-2
+
+	
+
+4.309
+2.99
+
+Y D07-47
+YD06-13
+
+	
+
+5.261
+
+3.954
+
+	
+
+YL )54316.01
+3.; 7
+
+	
+
+YDO7-42B
+YD^^81175>^3
+
+	
+
+-3.b19
+5.1`¢19
+
+	
+
+6.77
+3.0V1.18
+
+YD9i,30A - ._
+
+	
+
+4.35Y D90-0U1
+43.3,x'.48
+
+15.12 YD07-4 2A
+
+9.29
+
+	
+
+Y -I E
+1O.
+
+	
+
+4.i
+
+YDO& Cf :04
+-16,984 YD06-20C
+
+20.59 74,163
+
+	
+
+YD06-09
+
+YD07-50
+4.108
+10.56
+
+Inferred
+
+Indicated
+
+0,OOOEL
+
+YD2
+
+YE03EX 577
+
+Y D07-52
+2-94
+2.62 Y D90-a F)990-34
+
+3.14 ° 66
+YD90-211.41
+
+352YD90.01 C-90-23
+44-4.898 32 13
+
+6.1
+
+	
+
+11 ^8
+
+YD07-34
+
+	
+
+55,953
+
+	
+
+YG?6-22
+
+	
+
+12.75
+
+	
+
+4-546
+Y DO 65:-q34
+3.564
+20.09
+
+'YD90.24
+3.318
+121
+
+-Yf19"7^.'
+YD90-27541
+2.344 3.06
+3.38
+YD90-19
+
+.538
+
+	
+
+79
+2
+
+	
+
+YD06-11
+5.75
+
+	
+
+2.593
+Y D9b-3t^
+
+Y6^D 30-31
+
+YD90-15g 76
+3.817
+19.45:
+
+LKY
+
+YDO6-14!
+-4.14
+
+4.26
+
+Y F"(36-1 0
+
+	moll-50
+-2-829--
+3.73
+
+	
+
+YD89.10
+m,1204^
+6.07
+
+	
+
+YD07-51
+6,096 t
+4.88
+
+6.362
+
+	
+
+Y D 60X
+
+44YD955g
+
+01C
+
+'5^06-01 D
+
+LBZ1
+
+4.511
+6.64
+
+32.88:
+
+	
+
+8.102
+8.13
+
+Y 1,03-209
+oc1
+
+YD06-21A
+3.°.67
+26.18
+
+YD0(YE^&6-21
+
+	
+
+3.75 bI I
+9.05 7.18
+
+t
+
+-"YDOO-20E"
+2,402
+3.29
+
+Figure 25-1 Longitudinal Projection YD1, YD2, LKY and LBZ1
+
+DM 7'04'2 7 3 3 74-00004/2 5 1 0 1 4 7.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 25-2 LONGITUDINAL PROJECTION - UBZ
+
+^!89-06
+-3'59
+
+YD955, Y109-Qf ,16
+4 71:3
+
+2$n:'rLi;a J.) 'E
+
+'da C'
+`^^
+
+	
+
+YD39-Cw
+e^ hAH.452
+
+2B
+
+	
+
+". k^11115
+
+1[97
+1^,^. a7
+
+	
+
+r.^";M4E&757
+
+	
+
+gggqO'1CRfi98^M9^M951
+E 5
+
+	
+
+111 7.
+
+	
+
+, ,6381113 -4.675-6.126
+8.66
+
+	
+
+-.OM1 15.1428.082634
+
+10,OOOEL
+
+mCm11,V6Wf "
+
+	
+
+(1m1,
+
+	
+
+r; M1 1111 12
+6.49 -1-Q.H1.4509C1^.16 5.55
+
+	
+
+-517149
+1326 32.83 1 1 A 18 .27 16.34
+
+Mined
+
+M,C s3
+
+Gold g/t
+
++ 2.3 to 20 (84)
+
+	
+
+1.7 to 2.3
+
+	
+
+(6)
+;- 1
+
+	
+
+to 1.7
+
+	
+
+(2)
+-{- 0.3 to 1
+
+	
+
+(2)
++ 0 to 0.3 (6)
+
+N
+W
+
+2!
+
+MJ 11'.
+
+2.32
+
+9.76
+
+r:C(v15^
+9 114
+21 31
+
+YD9iJ 27
+SE<
+
+r ^7E
+
+1'010J 'fl ,
+
+	
+
+3
+I1 7 ^u _<
+
+911FE)
+
+	
+
+M
+
+-I
+
+	
+
+I E" 17,
+131432)
+
+^MC^M811
+
+4 49'
+
+44
+
+t'U
+53
+
+W1 r,.1,A2WTMEN2227m mIlzsC
+-0,2 i 1
+si.1e
+
+YM 06
+4 936
+28 92
+
+Inferred
+
+-41
+
+,r, l
+^d__r
+
+s.naa `'s
+12 ^2
+
+mchq<
+-§ 4 22 y
+
+129
+
+9,750EL
+
+Indicated
+
+1250
+
+1
+HoleID
+
++ Au g/t
+True Thickness(m)
+
+Figure 25-2 Longitudinal Projection of UBZ
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 25-3 LONGITUDINAL PROJECTION - YD3, YD4 AND LBZ2
+
+Inferred
+
+Indicated
+Gold 94
+
++ 2.3 to 20
+
+	
+
+(37)
+1.7 to 2 3
+
+	
+
+(4)
+-}- 0,3 to 1
+
+	
+
+(1)
+
+	
+
+Y007-48
+-3.739
+
+YD9616A
+7.413
+
+Y02MI6
+5,187
+8,01 YD9530A
+
+4.53
+
+YD90-34
+3A81
+4.84
+
+YD90-28
+332r̂ .
+
+^ 4489
+g2
+
+YD07-35
+3,293
+5.03
+
+	
+
+YD07-36
+YD4
+
+	
+
+3.596
+8.15
+
+Y D06-25
+3.493
+3,64
+
+4.3
+
+	
+
+YDS=sox 9,500EL
+_ VD07-4 ( -
+
+	
+
+Ypp i?1
+-C1
+
+	
+
+_ . ..
+
+yliv& 2x
+
+	
+
+.'^t2gV il 3.09
+tD06-27
+
+5.43
+
+	
+
+11.X07-45A
+
+	
+
+9 W
+
+0
+'0.-45 YD06-01AYD06-29
+
+	
+
+891
+
+	
+
+}5.211
+3.50E
+
+	
+
+w, a
+
+	
+
+10.65
+4.45
+
+14.33
+
+Y L)06-24
+4.533
+
+3.74
+
+roar 26
+2322
+3.67
+
+YD06-17YD06-17B
+1477.091
+
+2.93
+
+	
+
+YD06-17B
+4.337
+5.44
+
+YC C,6-21A
+
+	
+
+YDO+^
+
+4.14
+
+Y C!
+
+YD06-+71
+
+YD06-1$A
+
+	
+
+691
+2^A9
+
+0.59
+
+	
+
+LBZ 2
+
+LBZ2 YD06-2013
+2532
+
+YD06-20E
+
+7.59
+
+YD07-53
+
+	
+
+!YD
+:21
+
+	
+
+2.8 9,OOOEL
+'15.77 _ -YD46-161
+
+-12.69
+4,22
+
+Figure 25-3 YD3, YD4 and LBZ2 Longitudinal Projection
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 25 -4 LONGITUDINAL PROJECTION - LL1
+
+Inferred
+
+Indicated
+
+'(D90- 31
+2298
+4.73
+
+Y D90-15
+3.724
+6.26
+
+Y D0'-43
+3 ^07
+3.75
+
+Gold g/t
+
+23to20
+
+	
+
+(23)
+
+1.7to 2.3
+
+	
+
+(1)
+
+YD9535
+
+	
+
+2.447
+3,1(:
+
+YD90.34
+4.616
+3.118
+
+YD07-36
+	^.1 S7
+
+^.23
+Y D013-25
+_.718
+
+YD06-27
+3.734
+6.94
+
+Y D06-1 7B
+76
+
+13.64
+
+9.500EL
+
+YD06-16A.,_,..
+5.547
+
+Ybl 16C
+
+	
+
+2.478
+
+	
+
+6.01
+
+	
+
+YD07-33D
+91
+
+YD07-33136
+3-395
+YiDb7-336
+
+2.215
+6.53
+
+9,000EL. -
+YD07-53
+2.853
+11.35
+
+	
+
+YD06-1
+2341 13
+4.21
+
+Ulu E
+
+Figure 25-4 Longitudinal Projection LL1 - Lower Lucky Zane
+
+DM TOR/2 73 3 74-000 04/25 1 0 1 47.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 25-5 BLOCK AND COMPOSITE CUT GOLD GRADES VERSUS
+ELEVATION SCATTER PLOT - LUCKY ZONE
+
+LKY
+
+-4- BLOCKS
+
+-DRILL HOLES
+
+102
+
+101
+
+100
+
+99
+
+98
+
+97 ,
+
+96
+
+95
+
+0 10.5 1.5 2 32.5 3.5 4 4.5
+
+AVERAGE GRADE G/T
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 25-7 BLOCK AND COMPOSITE CUT GOLD GRADES VERSUS
+ELEVATION SCATTER PLOT - LOWER LUCKY ZONE 1
+
+LL1
+
+99
+
+6
+
+AVERAGE GRADE G/T
+
++- BLOCKS
+
+DRILL HOLES
+
+91
+
+90
+
+2 4 8
+
+98
+
+97 I
+
+96
+
+95
+
+9
+
+9
+
+92
+
+1210
+
+89
+
+88,.
+0
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 25-8 BLOCK AND COMPOSITE CUT GOLD GRADES VERSUS
+ELEVATION SCATTER PLOT - LOWER YD ZONE 1
+
+YD1
+
+98
+
+t BLOCKS
+
+DRILL HOLES
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 25-9 BLOCK AND COMPOSITE CUT GOLD GRADES VERSUS
+ELEVATION SCATTER PLOT - LOWER YD ZONE 2
+
+YD2
+
+-^- BLOCKS
+
+DRILL HOLES
+
+10 0.5 3 3.5 41.5
+
+	
+
+2
+
+	
+
+2.5
+
+AVERAGE GRADE G1T
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 25-10 BLOCK AND COMPOSITE CUT GOLD GRADES VERSUS
+ELEVATION SCATTER PLOT - LOWER YD ZONE 3
+
+YD3
+
+95.5
+
+95
+
+94.5
+
+94
+0
+0
+
+x
+
+z 93.5
+
+w
+J
+w
+
+	
+
+93
+
+92.5
+
+92
+
+91.5
+
+-^ BLOCKS
+
+DRILL HOLES
+
+-
+
+4.543.531.50 10.5 2
+
+	
+
+2.5
+
+AVERAGE GRADE G/T
+
+DM TOR/27 3 3 74-00004/2 5 1 0 1 4 7.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 25-11 BLOCK AND COMPOSITE CUT GOLD GRADES VERSUS
+ELEVATION SCATTER PLOT - LOWER YD ZONE 4
+
+YD4
+
+98.5
+
+98
+
+97.5 ,
+
+97
+
+-0- BLOCKS
+96.5
+
+- DRILL HOLES
+
+96
+
+95.5
+
+94.5
+0
+
+	
+
+0.5
+
+	
+
+1
+
+	
+
+1.5
+
+	
+
+2
+
+	
+
+2.5
+
+	
+
+3
+
+	
+
+3.5
+
+	
+
+4
+
+	
+
+4.5
+
+AVERAGE GRADE G/T
+
+DM TOR/273374-00004/2510147.4A
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 25-12 LOCK AND COMPOSITE CUT GOLD GRADES VERSUS
+ELEVATION SCATTER PLOT - LOWER BOUNDARY ZONE 1
+
+LBZ1
+
+102
+
+101
+
+100
+
+99
+
+-
+
+	
+
+Drill Hole
+
+-$ Blocks
+
+4
+
+	
+
+5
+
+	
+
+6
+
+AVERAGE GRADE G/T
+
+7 1098
+
+DM TOR/2 73 3 74-00004/2 5 1 0 1 47AA
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 25-13 BLOCK AND COMPOSITE GOLD GRADES VERSUS
+ELEVATION SCATTER PLOT - LOWER BOUNDARY ZONE 2
+
+LBZ2
+
+97
+
+96
+
+95
+
+94
+
+93
+
+92
+
+91 !,
+
+90
+
+89
+
+88
+
+87
+
+0 1 4
+
+	
+
+5 987632
+
+$ BLOCKS
+
+-DRILL HOLES
+
+AVERAGE GRADE G/T
+
+DM TOR/273 3 74-000 04/2 5 1 0 1 4 7AA
+
+
+
+NORTHGATE MINERALS CORPORATION
+
+FIGURE 25-14 BLOCK AND COMPOSITE GOLD GRADES VERSUS
+ELEVATION SCATTER PLOT - UPPER BOUNDARY ZONE
+
+IJBz
+
+102 -
+
+4
+
+	
+
+5
+
+AVERAGE GRADE GIT
+
+-^- BLOCKS
+
+- - DRILL HOLES
+
+101
+
+100
+
+99
+
+98
+
+97
+
+96
+
+2 76 8 9
+
+95
+
+94
+
+0
+
+DM TOR/273374-00004/2510147.4A
+
+
+	1.pdf
+	page 1
+	page 2
+	page 3
+	page 4
+	page 5
+	page 6
+	page 7
+	page 8
+	page 9
+	page 10
+	page 11
+	page 12
+	page 13
+	page 14
+	page 15
+	page 16
+	page 17
+	page 18
+	page 19
+	page 20
+	page 21
+	page 22
+	page 23
+	page 24
+	page 25
+	page 26
+	page 27
+	page 28
+	page 29
+	page 30
+	page 31
+	page 32
+	page 33
+	page 34
+	page 35
+	page 36
+	page 37
+	page 38
+	page 39
+	page 40
+	page 41
+	page 42
+	page 43
+	page 44
+	page 45
+	page 46
+	page 47
+	page 48
+	page 49
+
+	2.pdf
+	page 1
+	page 2
+	page 3
+	page 4
+	page 5
+	page 6
+	page 7
+	page 8
+	page 9
+	page 10
+	page 11
+	page 12
+	page 13
+	page 14
+	page 15
+	page 16
+	page 17
+	page 18
+	page 19
+	page 20
+	page 21
+	page 22
+	page 23
+	page 24
+	page 25
+	page 26
+	page 27
+	page 28
+	page 29
+	page 30
+	page 31
+	page 32
+	page 33
+	page 34
+	page 35
+	page 36
+	page 37
+	page 38
+	page 39
+	page 40
+	page 41
+	Doc.pdf
+	page 1
+
+
+	3.pdf
+	page 1
+	page 2
+	page 3
+	page 4
+	page 5
+	page 6
+	page 7
+	page 8
+	page 9
+	page 10
+	page 11
+	page 12
+	page 13
+	page 14
+	page 15
+	page 16
+	page 17
+	page 18
+	page 19
+	page 20
+	page 21
+	page 22
+	page 23
+	page 24
+	page 25
+	page 26
+	page 27
+	page 28
+	page 29
+
+
+
+
+'

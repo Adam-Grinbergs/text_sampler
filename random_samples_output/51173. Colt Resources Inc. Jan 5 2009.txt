@@ -1,0 +1,2451 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - NI 43-101-Armamar Meda - Dec 29 Rev.docx
+
+
+ 
+ 
+
+COLT RESOURCES INC. 
+ 
+
+ 
+
+Colt Resources Inc. 
+Suite 212, North Tower, 5811 Cooney Road 
+
+Richmond, British Columbia, V6X 3M1 
+Tel: (604) 278-4400 Fax: (604) 278-4430 
+
+Website: www.coltresources.com 
+Email: info@coltresources.com  
+
+ 
+January 5, 2009 
+ 
+
+Filed on Sedar 
+ 
+ 
+ 
+British Columbia Securities Commission 
+PO Box 10142, Pacific Centre 
+701 West Georgia Street, 
+Vancouver, BC, V7Y 1L2 
+ 
+ 
+Attn: Shelley Harada, Review Officer 
+ Corporate Compliance  
+ 
+ 
+Re:  Colt Resources Inc. (the "Company" or "Colt") 
+ Armamar Meda Property Report dated December 19, 2008 
+ 
+ 
+Please be advised that the Company was not required to file the attached report under NI 43-
+101 and has not filed the subject report for securities regulatory purposes. 
+ 
+Yours truly, 
+ 
+On behalf of, 
+ 
+COLT RESOURCES INC. 
+ 
+ 
+Signed 
+ 
+"Penilla Klomp" 
+ 
+ 
+ 
+Penilla Klomp 
+Corporate Secretary 
+ 
+ 
+Pk/ 
+(attach) 
+
+
+
+TECHNICAL REPORT (NI 43-101) 
+ 
+
+ON THE 
+
+ 
+
+ARMAMAR MEDA CONCESSION 
+ 
+
+NORTHERN PORTUGAL 
+ 
+ 
+ 
+
+LOCATION 
+ 
+
+UTM Zone 29 (Datum European 1950): 4545000N, 625000E 
+ 
+ 
+
+For 
+ 
+
+ 
+
+ 
+COLT RESOURCES INC.  
+
+ 
+N212 - 5811 Cooney Road 
+Richmond, BC   V6X 3M1 
+
+ 
+ 
+ 
+ 
+
+By 
+ 
+
+W. Gruenwald, P. Geo 
+GEOQUEST CONSULTING LTD.  
+
+ 
+ 
+ 
+
+December 19, 2008 
+
+
+
+Quinta zoneS. Pedro das Quinta zoneS. Pedro das 
+Águias zone
+
+View looking northwest  to Sao Pedro das Águias and Quinta zones
+Tabuaço area, Armamar Meda concession, Portugal 
+
+
+
+TABLE OF CONTENTS 
+  Page 
+
+1.0 SUMMARY ..................................................................................................................................................... 1 
+
+2.0 INTRODUCTION & TERMS OF REFERENCE ............................................................................................... 4 
+
+3.0 RELIANCE ON OTHER EXPERTS  ................................................................................................................. 4 
+
+4.0 PROPERTY LOCATION AND DESCRIPTION 
+ 4.1 Location ................................................................................................................................................ 5 
+
+ 4.2 Description of Property ........................................................................................................................ 5 
+
+ 4.3 Armamar Meda Concession, Agreements and Surface Rights ............................................................. 6 
+
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND PHYSIOGRAPHY  
+ 5.1 Accessibility .......................................................................................................................................... 6 
+
+ 5.2 Climate ................................................................................................................................................. 6 
+
+ 5.3 Local Resources .................................................................................................................................... 6 
+
+ 5.4 Infrastructure ....................................................................................................................................... 7 
+
+ 5.5 Physiography ........................................................................................................................................ 7 
+
+6.0 HISTORY ......................................................................................................................................................... 7 
+ 6.1 Tabuaço Area ....................................................................................................................................... 7 
+
+ 6.2 Bebezes Area ...................................................................................................................................... 10 
+
+7.0 GEOLOGICAL SETTING 
+ 7.1 Regional Geology ............................................................................................................................... 10 
+
+ 7.2 Tabuaço Area Geology ....................................................................................................................... 10 
+
+ 7.3 Bebezes Area Geology ........................................................................................................................ 12 
+
+8.0 DEPOSIT TYPES ........................................................................................................................................... 12 
+ 8.1 Exploration Criteria ............................................................................................................................ 12 
+
+9.0 MINERALIZATION ....................................................................................................................................... 13 
+ 9.1 Tabuaço Area Tungsten Occurrences................................................................................................. 13 
+
+ 9.2 Tabuaço Area Tin Occurrences .......................................................................................................... 14 
+
+ 9.3 Bebezes Area Tungsten-Tin Occurrences ........................................................................................... 14 
+
+10.0 EXPLORATION ............................................................................................................................................. 15 
+ 10.1 Tabuaço Area Results ......................................................................................................................... 16 
+ 10.2 Bebezes Area Results ............................................................................................................... 18 
+
+11.0 DRILLING ...................................................................................................................................................... 18 
+
+12.0 SAMPLING METHOD AND APPROACH ................................................................................................... 19 
+ 12.1 Colt 2008 Program ............................................................................................................................. 19 
+
+13.0 SAMPLE PREPARATION, ANALYSIS AND SECURITY ............................................................................. 19 
+
+
+
+14.0 DATA VERIFICATION .................................................................................................................................. 20 
+
+15.0 ADJACENT PROPERTIES ............................................................................................................................. 22 
+
+16.0 MINERAL PROCESSING AND METALLURGICAL TESTING ..................................................................... 22 
+
+17.0 MINERAL RESOURCES AND MINERAL RESERVE ESTIMATES .............................................................. 22 
+
+18.0 OTHER RELEVANT DATA AND INFORMATION ...................................................................................... 22 
+
+19.0 INTERPRETATION AND CONCLUSIONS................................................................................................... 22 
+
+20.0 RECOMMENDATIONS ................................................................................................................................ 23 
+
+21.0 REFERENCES ................................................................................................................................................ 24 
+
+22.0 DATA AND SIGNATURE PAGE .................................................................................................................. 25 
+
+23.0 CERTIFICATION OF THE AUTHOR ............................................................................................................ 26 
+
+24.0 LETTER OF CONSENT.................................................................................................................................. 27 
+
+ APPENDIX  ................................................................................................................................................ 28 
+
+TABLES 
+ Page 
+
+Table 1 Corner Coordinates of The Armamar Meda Concession ................................................................ 5 
+
+Table 2 Significant Historic Drill Results – Sao Pedro das Águias Zone  .................................................... 18 
+
+Table 3 Analytical Comparison of Tungsten-Tin Samples ......................................................................... 21 
+
+Table A1 Rock Sample Descriptions - Tabuaço, Bebezes areas (GeoLog, W. Gruenwald) ............... Appendix  
+
+Table A2 Rock Sample Descriptions – Tabuaço area (GeoLog, Oct/Nov, 2008) ............................... Appendix 
+
+ 
+
+LIST OF ILLUSTRATIONS 
+  After Page 
+
+Figure 1 Location Map .................................................................................................................................. 3 
+
+Figure 2 Concession Location Map ............................................................................................................... 5 
+
+Figure 3 Heavy Mineral Stream Sediment Sampling – Tabuaço Area .......................................................... 7 
+
+Figure 4 Historic Drilling – Tabuaço Area ............................................................................................ Page 9 
+
+Figure 5  Regional Geology .......................................................................................................................... 10 
+
+Figure 6 Local Geology – Tabuaço Area............................................................................................. Page 11 
+
+Figure 7 Rock Sample Location Plan – Tabuaço Area  ................................................................................ 15 
+
+Figure 7a Channel Sampling - S. Pedro Das Águias Zone .................................................................... Page 16 
+
+Figure 7b Channel Sampling - Quintã Zone ......................................................................................... Page 17 
+
+Figure 8 Rock Sample Location Plan - Bebezes Area  ................................................................................. 18 
+
+Figure 9 Adjacent Properties ............................................................................................................. Page 22 
+ 
+
+
+
+Armamar Meda Concession, Portugal Page - 1 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+1.0 SUMMARY 
+
+The following technical (NI 43-101) report, prepared for Colt Resources Inc., describes the Armamar Meda 
+
+concession located in north central Portugal. The company is exploring the concession for its tungsten-tin 
+
+potential. The primary objective of this report is to fulfill the company's application for listing on the TSX Venture 
+
+Exchange. On August 23, 2008, the author examined and collected samples from the concession. 
+
+On December 10, 2007, Colt acquired the 436 km2 Armamar Meda concession. The region is characterized for the 
+
+most part by gentle rolling terrain except for moderate to steep slopes along the Tavora River in the northwest 
+
+part of the concession. Paved and gravel roads provide good access throughout the concession. Infrastructure and 
+
+local resources are excellent. 
+
+The regional history dates back to gold mining during Roman times near the town of Penedono. Small-scale 
+
+tungsten mining took place during the 1940s spurred on by demand by the munitions industry during World War II. 
+
+Tin was mined on the concession at two areas, namely Tabuaço and Bebezes. In the 1970s, government geologists 
+
+discovered the "Tabuaço" tungsten occurrences along the Tavora River. In 1981 and 1982, a consortium formed by 
+
+SPE and SEREM explored the Tabuaço occurrences including the completion of six diamond drill holes.  
+
+The concession is situated at the border zone of two major geologic units in northern Portugal, namely the 
+
+Hercynian age Beiras granite batholiths and the Lower Cambrian Douro Valley Schist-Greywacke Complex (SGC). 
+
+The latter is comprised of shale, schist, siltstone, sandstone and greywacke, with subordinate conglomerate and 
+
+carbonate beds that were folded, faulted and subsequently regionally metamorphosed. This was followed by 
+
+intrusion of Hercynian granites that produced contact-metamorphic haloes in the meta-sediments.  
+
+In the northwest part of the concession, referred to as the Tabuaço area, SGC rocks are in contact with the 
+
+Armamar-Tabuaço granite batholith. Many tin and tungsten occurrences are associated with this intrusive rock. 
+
+Hercynian deformation of the lower part of the SGC (Bateiras Formation) produced a northwest-southeast 
+
+trending, gently northwest plunging anticline referred to as the Tavora Anticline. The "core" zone of the anticline 
+
+contains economically important carbonate and skarn horizons. Metasomatism of some carbonate horizons 
+
+produced the skarns that are host to tungsten-tin mineralization.   
+
+In the Tabuaço area, tungsten mineralization occurs in three areas referred to as São Pedro das Águias, Quintã 
+
+and Quintã do Paço. The São Pedro das Águias zone is situated along the southwest limb and within a possible 
+
+subsidiary syncline fold of the Tavora anticline. A lower, gently dipping, well-developed skarn horizon hosts 
+
+significant scheelite (tungsten) mineralization. The Quinta zone is situated in the hinge area of the Tavora anticline. 
+
+Previous geological work identified several sub-horizontal tungsten bearing skarn horizons. Historic sampling 
+
+reported skarn thickness of over four metres. The Quintã do Paco zone is a series of outcroppings found 
+
+intermittently over a NW-SE strike of nearly 1.5 kilometres. Skarn, calc-silicate and carbonate rock horizons range 
+
+from 0.15 metre to one metre thick. 
+
+The São Pedro das Águias and Quintã zones contain the most significant tungsten mineralization of the Tabuaço 
+
+area. Tungsten is found as fine to coarse disseminations of scheelite (CaWO₄). The skarns are virtually devoid of 
+
+sulphides. These are considered favourable attributes for potential mineral processing.  
+
+
+
+Armamar Meda Concession, Portugal Page - 2 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+Considerable amounts of tin are reported analytically  in the Tabuaço tungsten skarns. Current belief is that this 
+
+occurs within silicate minerals such as garnet and as such, it is not considered recoverable by current extraction 
+
+processes.  
+
+Several small historic tin (cassiterite) mines and occurrences are scattered throughout the Tabuaço area. 
+
+Cassiterite (SnO₂) was mined from several quartz vein and alluvial deposits. Tin bearing aplite-quartz veins occur 
+
+within the "core" schistose rocks of the Tavora anticline. These are described as small-sized, but prolific cassiterite-
+
+bearing quartz and aplite veins. It is conceivable that the tin occurrences in the core of the Tavora anticline may be 
+
+the result of later stage metasomatic processes peripheral to the Tabuaço skarns. The tin occurrences and 
+
+widespread tin-in-stream anomalies in the Tabuaço area suggest exploration potential.  
+
+The Bebezes area situated approximately 14 kilometres east-southeast of the Tabuaço area is an area of granite 
+
+hosted quartz veins containing significant amounts of tungsten and tin. These veins were the site of small-scale 
+
+mining for tungsten in the mid 1900s. Veins range to over one metre wide, dip sub-vertically and strike north-
+
+northeast to northeast for up to 300 metres. Vein mineralogy consists of quartz, arsenopyrite, pyrite, chalcopyrite, 
+
+wolframite and cassiterite. Located three kilometres southeast from the centre of Bebezes zone is the Souto vein 
+
+occurrence that is the site of an old artisanal tin-tungsten mine. One vein reportedly extends for at least 300 
+
+metres and apparently exceeds one metre wide.  
+
+Colt's 2008, exploration work was conducted under the supervision of J.W. Murton, P.Eng and Mr. Filipe Faria of 
+
+GeoLog, a professional and reputable geological consulting company based in Lisbon. Work took place in two 
+
+campaigns, July and October and covered the three Tabuaço zones and the Bebezes area.  
+
+Channel sampling at the Sao Pedro das Águias zone yielded some very significant results. Sampling of one skarn 
+
+horizon yielded a weighted average of 0.36% W across a width of 23.30 metres. This compares favourably with the 
+
+historic SPE-SEREM exploration work.  
+
+The Quinta zone also yielded promising zones of tungsten mineralization. The first sampling campaign returned 
+
+1,033 ppm W (sample 196916) across one metre of skarn outcrop. The subsequent and more detailed sampling 
+
+campaign immediately south of this returned ten anomalous samples ranging from 204 to 8,125 ppm W. 
+
+Mineralized intervals range from 0.53 to 5.90 metres with a 2.85 metre interval grading 0.73% W. Samples 
+
+collected northwest of Quintã contain anomalous tungsten with values ranging up to 2,027 ppm W. This supports 
+
+the hypothesis that tungsten mineralization associated with the Tavora anticline may extend northerly of the 
+
+known mineralized zones. The implications are significant and present high priority exploration targets. 
+
+The Bebezes reconnaissance sampling revealed seven of nine samples containing over 200 ppm tungsten. Two 
+
+samples contain over 10,000 ppm or 1% tin.  
+
+In summary, the 2008 sampling on the Armamar Meda concession combined with historic exploration indicates 
+
+that significant areas of tungsten and tin mineralization are present. A number of areas of potentially economic 
+
+mineralization have never been drill tested. The author finds ample justification to recommend further exploration 
+
+work on the concession especially on the Quintã and S. Pedro das Águias zones. The Bebezes and Souto areas 
+
+should be investigated further in light of the tungsten-tin potential.   
+
+
+
+Armamar Meda Concession, Portugal Page - 3 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+A two-phase exploration program is recommended and outlined as follows:  
+
+Phase I:  
+
+At Tabuaço, this program would consist of additional rock sampling to delineate the São Pedro das Águias zone to 
+
+the south. Prospecting and sampling should be conducted at the Quintã skarn zone and especially northwest along 
+
+the Tavora anticline. Prospecting using Ultra-violet lamps will assist in tracing this and other tungsten bearing 
+
+zones. In prospective areas, soil and heavy mineral (stream) sampling is recommended. Excavator work is 
+
+recommended in accessible areas to test mineralization such as the Quintã and any northwest extensions. Access 
+
+trails and drill sites could be built at the same time.   
+
+At Bebezes, more detailed prospecting, mapping and sampling of veins should be done. Where it is feasible, old 
+
+vein excavations should be cleaned out in order to conduct representative sampling. Soil geochemical surveys (grid 
+
+or contour traverse) should be conducted to delineate buried vein extensions. It is estimated that this work will 
+
+take approximately 1-1.5 months.  
+
+Phase II: 
+
+This phase of work should include follow-up detailed sampling of new mineralized zones from the Phase I program. 
+
+Reconnaissance drilling (two holes) is recommended at Quintã or any Quintã  extension discovery. At Bebezes, 
+
+trenching and drilling (1-2 holes) should be carried out. It is estimated that this work will take approximately 1 to 
+
+1.5 months.   
+
+The two phase exploration program is estimated to cost €125,000. At an exchange rate of CDN $1.60 this equates 
+
+to CDN $200,000.  
+
+
+
+
+
+Armamar Meda Concession, Portugal Page - 4 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+2.0 INTRODUCTION & TERMS OF REFERENCE 
+
+Colt Resources Inc. (Colt) retained Geoquest Consulting Ltd. to prepare a technical report (NI 43-101) on the 
+
+Armamar Meda concession (license) in northern Portugal where the company is exploring for tungsten and tin 
+
+deposits. On August 23, 2008, the writer conducted examinations and rock sampling at several sites. This report is 
+
+to be used by Colt to support filings with the BC Securities Commission, the TSX Venture Exchange and other 
+
+regulatory bodies as required.  
+
+The review of the history, exploration, geological data and the author's site visit form the basis of comments, 
+
+opinions and recommendations for further exploration. The interpretive views expressed herein are those of the 
+
+author and may or may not reflect the views of Colt Resources Inc. 
+
+Unless otherwise stated, costs are denominated in Euros (€1.00 = CDN$1.60) and metric units are used in this 
+
+report. Tungsten is stated as parts per million (ppm) W or % W. In geologic literature tungsten content can also be 
+
+stated as % WO₃. For reference, 1% WO₃ equates to 0.79% W. Tin is expressed as ppm or % Sn. In this report, 
+
+reference is also made to heavy mineral sampling results for tungsten and tin minerals, namely scheelite and 
+
+cassiterite. The unit of measure is g/m³ representing the calculated grams of each mineral recovered from one 
+
+cubic metre (1 m³) of stream sediment.  
+
+3.0 RELIANCE ON OTHER EXPERTS 
+
+The author has relied considerably on historical and technical information provided by Mr. Filipe Faria of GeoLog 
+
+Gabinete de Geosciencias, Ltn, a geological consulting company based in Lisbon, Portugal. The author's site visit 
+
+was greatly facilitated by Mr. Faria's familiarity of the area and expert knowledge of tungsten deposits in Portugal. 
+
+Assessment of the mining rights, contracts, permitting and environmental policy in Portugal is beyond the scope 
+
+and ability of the author. Therefore, the author has relied on data provided by GeoLog and Colt.  
+
+Sources of information in this report include: 
+
+• Reports and correspondence with Mr. Filipe Faria regarding local history, geology and Colt's 2008 work.   
+• Skarn deposit literature (printed and web based sources). 
+• Tungsten and tin commodity references.  
+• Discussions with Dr. Gerry Ray, P.Geo, a colleague and expert on skarn deposits.    
+
+While due care has been taken in preparing this report, the author cannot guarantee the accuracy or completeness 
+
+of all supporting documentation. The veracity of the information cannot be fully determined however given the 
+
+sources, the author has no reason to doubt its reliability or accuracy. 
+
+Details regarding the monetary aspects (payment schedule) of the agreement between Colt and the government 
+
+of Portugal are derived from documentation provided by Mr. Filipe Faria and information posted on Colt's website.  
+
+
+
+Armamar Meda Concession, Portugal Page - 5 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+4.0 PROPERTY LOCATION AND DESCRIPTION 
+
+4.1 Location 
+The Armamar Meda concession is situated in north central Portugal approximately 295 air kilometres north-
+
+northeast or four hours driving time from Lisbon, the country's capital (Figure 1). The village of Penedono is the 
+
+largest community in the area. Several smaller villages include Meda and Sao Romao in the east and west and 
+
+Tavora and Granja do Tedo in the northern and western parts of the concession. The municipalities of Armamar 
+
+and Tabuaço are situated just north of the concession (Figure 2). The key exploration area referred to as the 
+
+Tabuaço area is located approximately three kilometres south of the village of Tavora (Tabuaço municipality).  
+
+4.2 Description of Property 
+The Armamar Meda concession forms an elongate roughly east-west polygon with an area 436 km2. (Figure 2). The 
+
+concession surrounds the Penedono concession that is also under license to Colt Resources Inc. Table 1 lists the 
+
+outer and inner geographic co-ordinates of the concession.  
+
+Table 1 - Corner Coordinates of The Armamar Meda Concession 
+
+ 
+Hayford-Gauss 
+
+Coordinates 
+UTM Coordinates
+(European 1950) 
+
+Outer boundary: 
+
+Corner M P Easting Northing 
+
+A 38000 160000 610891 4551830 
+
+B 60000 160000 632885 4552049 
+
+C 80000 150000 652979 4542250 
+
+D 80000 140000 653079 4532253 
+
+E 52000 140000 625086 4531975 
+
+F 38000 154000 610951 4545832 
+
+Inner boundary: 
+
+Corner M P Easting Northing 
+
+G 52000 156000 624927 4547970 
+
+H 55959 156000 628885 4548010 
+
+I 55617 153940 628563 4545947 
+
+J 57093 153530 630043 4545552 
+
+K 65257 150198 638238 4542302 
+
+L 67500 148380 640499 4540507 
+
+M 67500 142000 640562 4534128 
+
+N 52000 142000 625066 4533974 
+
+O 48000 146000 621028 4537934 
+
+P 48000 152000 620968 4543932 
+
+ 
+
+The coordinate system used by the Portuguese government is known as "Hayford-Gauss" which relates to a 
+
+coordinate system with a central or "0" point located at the Melrica geodesic point in the geographic center of 
+
+Portugal. Distances to the west are negative, to the east are positive while distances to the south are negative and 
+
+to the north are positive. Thus Point I in the above table refers to a point 55.6 kilometres east and 153.9 kilometres 
+
+north of the "0" point. 
+
+
+
+
+
+Armamar Meda Concession, Portugal Page - 6 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+4.3 Armamar Meda Concession, Agreements and Surface Rights 
+On December 10, 2007, Colt entered into a prospecting and exploration license agreement with the Government 
+
+of Portugal whereby Colt has been granted the exclusive right to prospect and explore for base and precious 
+
+metals on what is referred to as the Armamar Meda concession (license). The concession as shown on Figure 2 
+
+surrounds the company's Penedono concession. Previous tin mining concessions are all extinct, and therefore 
+
+there are no exclusion areas on Armamar Meda.  
+
+The initial term of the Armamar Meda concession is for three years that can be extended twice on an annual 
+
+basis. During the initial term, Colt is obligated to incur prospecting and exploration expenditures of not less than 
+
+€25,000 in the first year (completed), €50,000 in the second year and €75,000 in the third year. Upon the expiry of 
+
+the initial term, Colt must on an annual basis relinquish 50% of the area covered by the concession.    
+
+The concession holder (Colt) owns the mineral rights for gold, silver, copper, lead, zinc, antimony, arsenic, 
+
+tungsten, tin, lithium, beryllium, bismuth, molybdenum, tantalum and niobium. Surface rights are held by various 
+
+entities/individuals with most being small farm holdings. Although there is an underlying ability of confiscation of 
+
+surface rights (with government approval), this option would only be used as a very last resort.  
+
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND PHYSIOGRAPHY 
+
+5.1 Accessibility 
+The concession is situated in a region with a well developed road system. The larger centre of Viseu lies about 50 
+
+kilometres southwest of Penedono and the coastal city of Porto is three hours westerly by highway. Paved roads 
+
+from Porto and other centres provide good regional access. The extensive agricultural activity throughout most of 
+
+the concession provides access to all but the steepest slopes. Exploration and any development will have some 
+
+limitations or cost factors due to the presence of local Port-wine vineyards. 
+
+Historic exploration in the northwest area of the concession near the Tabuaço area was completed on private 
+
+property. Negotiations and agreements with land owners were and still are imperative prior to conducting any 
+
+work. Recently, Mr. Faria approached a new land owner in a strategic exploration area and concluded positive 
+
+negotiations that allowed GeoLog personnel to conduct exploration work this summer. Well cultivated 
+
+relationships with local land owners should pave the way for future exploration programs.  
+
+5.2 Climate 
+The climate is temperate - humid with a mean temperature of 15° C and an annual rainfall of up to 20 cm. Summer 
+
+temperatures can reach 40°C while minor snowfalls may occur in the winter at higher elevations. Snow does not 
+
+last more than a day or two. The operating season for exploration and mining operations is year round. 
+
+5.3 Local Resources 
+Penedono, with an area population of 3400, is located near the eastern part of the concession (Figure 2). Several 
+
+smaller villages are located very near the areas of exploration interest. These include Quintã, Tavora, Pereiro, 
+
+Espinhosa and Tabuaço the latter being the namesake of Colt's main exploration area. A new area of interest is 
+
+situated less than a kilometre to the south of the community of Bebezes.  
+
+
+
+Armamar Meda Concession, Portugal Page - 7 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+The local economy is relatively poor and devoted mainly to agricultural activities. New employment opportunities 
+
+would be welcomed but landowner's agricultural activities and the environment would need to be protected. 
+
+Villages in the region could provide many of the personnel for mining purposes but training would be required.  
+
+5.4 Infrastructure  
+In addition to excellent transportation corridors, high voltage power is locally available. Water requirements would 
+
+be readily available from small rivers crossing the concession. There would be areas suitable for milling operations.  
+
+5.5 Physiography 
+The Tabuaço area is located along the north flowing Tavora River, which is a major tributary of the upper Douro 
+
+River. Local topography is characterized by rolling hills with moderately steep to very steep slopes especially along 
+
+the Tavora River valley. Elevations range from 175 metres (ASL) along the Tavora River to nearly 1,000 metres on 
+
+local hilltops. The key exploration areas are generally located below 400 metres.  
+
+The Bebezes area is located approximately 14 kilometres east-southeast of the Tabuaço area and south of the 
+
+village of Bebezes. The area of exploration interest is situated on the north flank of Mt. Airoso at elevations 
+
+between 750 and 900 metres.  
+
+Many hill tops, cliffs and rocky areas of the concession are grass and shrub covered. Scattered areas of deciduous 
+
+and coniferous trees occur along higher slopes and uncultivated areas. Valley bottoms and hillsides in the Tabuaço 
+
+area are characterized by terraces planted as Port-wine vineyards and small olive, almond and fruit orchards. Only 
+
+a few of the very steepest areas along the Tavora River would present any topographic restraints to exploration.  
+
+6.0 HISTORY 
+
+Mineral exploitation in the region dates to Roman times. Near the town of Penedono, deep open cuts attest to the 
+
+ancient mining of gold veins. In the 1940s, the search for tungsten in the region was spurred by the demand from 
+
+the munitions industry during WWII. Small-scale mining was done from innumerable small open cuts, shafts and 
+
+tunnels. The Tabuaço area was first known for small-scale tin mining operations dating to the mid-1900s or earlier.  
+
+6.1 Tabuaço Area 
+In the 1970s, tungsten bearing skarns were discovered by Government geologists (SFM) through geological 
+
+mapping and mineral light (UV) prospecting south of Tabuaço after which these occurrences are collectively 
+
+named. In the early 1980s, exploration of the Tabuaço discoveries was conducted by a joint venture (Consortium) 
+
+of Portuguese company SPE with French SEREM (part of the French Government's BRGM group). Three 
+
+mineralized areas are referred to as São Pedro das Águias, Quintã and Quintã do Paço  (Figure 3).  
+
+Earlier this year, Mr. Faria conducted a search for the SPE-SEREM Tabuaço exploration data. Initially, regional 
+
+exploration results were accessed from the archives of INETI (government) in Porto. Detailed exploration results 
+
+were not available at INETI or at SPE. Most of the missing exploration data was found after contacting Mr. Paulo 
+
+Alves who was SPE's project geologist at Tabuaço in the 1980s and who fortunately had kept copies of his old 
+
+reports and maps. This and other available data was compiled in a report by Mr. Faria on behalf of Colt and proved 
+
+very useful to the author.  
+
+
+
+
+
+Armamar Meda Concession, Portugal Page - 8 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+The São Pedro das Águias zone or area attracted most of the exploration efforts by the SPE-SEREM Consortium 
+
+based upon SFM's initial work. Scheelite bearing skarn outcroppings occur at the São Pedro das Águias and 
+
+Herédias farms on the west slope of the Távora River. SPE-SEREM mapping identified two subparrallel carbonate 
+
+horizons, the lower one of which contains significant tungsten skarn mineralization. After removal of the 
+
+vegetation and overburden, detailed channel sampling was carried out at the south and north skarn outcroppings 
+
+of the lower horizon. Several scattered small channels were sampled in the south skarn showings with the most 
+
+extensive sampling conducted on the north skarn showing. At the north skarn showing, two channels 16.70 and 
+
+15.50 metres long contained a weighted average of 0.67% and 0.56% W along with an average 0.086% Sn. At the 
+
+southern skarn showing samples ranged from 2.00 to 2.70 metres long and yielded 0.10% to 0.55 % W with 
+
+roughly 0.05% Sn.   
+
+The Quintã skarn area was discovered by SFM on the steep slopes easterly and downhill of Quintã village. 
+
+Exploration by SPE-SEREM was very limited due to the fact that the area was then within a tin mining concession 
+
+(now extinct). Geological reconnaissance work identified several skarn horizons with the most significant located 
+
+approximately 200 metres southeast of Quintã village on a steep slope with agricultural terraces. The earliest 
+
+(SFM) work indicated a four metre thick skarn zone with grades ranging from 0.17 to 0.76% W. SPE-SEREM 
+
+geologists concluded that the Quintã zone had very significant potential and recommended negotiations with the 
+
+tin concession holder. This was never completed and thus the Quintã zone remained untested.    
+
+East of the Tavora River SFM geologists discovered tungsten skarn outcroppings intermittently over a NW-SE strike 
+
+of nearly 1.5 kilometres extending northward from the Quintã  do Paço farm. Skarn, calc-silicate and carbonate 
+
+rock horizons ranging from 0.15 metre to one metre thick were identified. Although tungsten grades up to 1.52 % 
+
+W were reported, most were much lower grade. 
+
+The SPE-SEREM exploration work on the Tabuaço mineralized zones was completed in two phases. Phase I 
+
+(November 1980 to November 1981) consisted of geological mapping, UV lamp prospecting, grab and channel rock 
+
+sampling, prospecting and heavy mineral stream sediment and soil sampling.  
+
+Heavy-mineral stream-sediment sampling led to the discovery of new scheelite anomalies near the villages of 
+
+Távora and Espinhosa (Figure 3). In order to determine the scheelite distribution downslope of the known Quintã 
+
+do Paço mineralized horizons, heavy-mineral soil sampling was carried out at 50-metre spacing along 100-metre 
+
+spaced traverses. It was concluded that this type of sampling could effectively be used in the search for tungsten in 
+
+this geologic and topographic setting. 
+
+Phase II exploration took place between November 1981 and November 1982 and consisted of the six widely 
+
+spaced diamond drill holes on the S. Pedro das Águias tungsten occurrences (Figure 4). Drilling focused on 
+
+determining the geometry, structure and grade of the scheelite bearing horizons in the S. Pedro das Águias area. 
+
+Two holes were drilled westerly toward the granitic pluton to determine the nature of mineralization and to locate 
+
+other possible scheelite-bearing horizons.  
+
+Diamond drilling was conducted by a local contractor (Teixeira Duarte) whose experience was primarily in 
+
+engineering geology with little experience in mineral exploration. According to Mr. Faria, their work was sub-
+
+standard with core recoveries averaging only 76%. The mention of "voids" being encountered would have resulted 
+
+in some core loss and is consistent with weathering or dissolution of the carbonate rocks along factures.  
+
+
+
+Armamar Meda Concession, Portugal Page - 9 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+ 
+
+Records according to Mr. Faria showed that most tungsten and tin analysis for the SFM and SPE-SEREM exploration 
+
+work were carried out at the SFM's (now INETI's) laboratory at S. Mamede de Infesta (near Porto). X-ray 
+
+fluorescence spectrometry (XRF) was used with results reported as ppm W and ppm Sn. These were recalculated 
+
+by geologists to % WO₃ and % Sn respectively. Whether the methodology and laboratory were suited to produce 
+
+assay quality results is unknown. XRF is still a proven and used analytical technique for tungsten content. The SPE-
+
+SEREM joint venture did some check analysis at the BRGM laboratory in Orléans (France), which reportedly had a 
+
+good match with the SFM tungsten analysis but was generally 130 to 200 ppm lower with respect to tin.  
+
+The SPE-SEREM drilling program identified scheelite skarn mineralization in stratiform horizons up to 19 metres 
+
+thick. Mineralization was considered open both down-dip (towards the granite) and along strike particularly to the 
+
+northwest. SPE-SEREM estimated from their work a deposit with a potential geologic resource of around one 
+
+million tons grading between 0.63 and 0.79 % W. Tin averaging 0.08 % Sn was also reported. The geologic resource 
+
+is not compliant with NI 43-101 standards and is presented only as an historic reference. Although additional 
+
+drilling was planned (Figure 4) an impasse with a land owner over access forced cessation of exploration work in 
+
+1982. Since that time no further work was conducted on the Tabuaço mineral occurrences. In addition, all of the 
+
+local tin mining concessions have since expired.   
+
+An important part of the Tabuaço exploration history related to the land ownership at the time. In his 2008 report 
+
+for Colt, Mr. Faria describes the land ownership and access. The following information is derived from his report.  
+
+During the last period of exploration the SPE-SEREM Consortium dealt with two separate landowners in order to 
+
+carry out their exploration/evaluation work on the S. Pedro das Águias area. At the time, Mr. António Teixeira 
+
+Feliciano owned Quintã de S. Pedro das Águias in the north and Mr. Serafim Santos Parente owned Quintã das 
+
+Herédias in the south part of the exploration area. 
+
+
+
+Armamar Meda Concession, Portugal Page - 10 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+It is not known how much of the S. Pedro das Águias zone was covered by each of these two land ownerships, but 
+
+the northern farm seemed to cover the most important part of the zone. Records indicate that Mr. Parente 
+
+granted permission for the drilling of three drill holes and was paid compensation for some damage to his 
+
+property. He seemed not to have raised any opposition to continuing exploration work on his farm. Mr. Feliciano 
+
+also allowed the Consortium to carry exploration on his farm including the completion of three diamond drill holes. 
+
+After two years of reported "economic and moral damage" Mr. Feliciano revoked his permission, thus prohibiting 
+
+further drilling or exploration on his farm. In order to continue exploration he demanded a renegotiated contract 
+
+that only allowed acquisition of a portion of his farm for a proposed price of 75 million escudos (~ €375,000). Ruled 
+
+out was a temporary lease of the same portion or total acquisition of his entire farm by the Consortium. Before 
+
+making a decision on any acquisition SPE-SEREM wanted to continue their evaluation drilling. The impasse resulted 
+
+in cessation of exploration by the end of 1982 and no further work was ever completed.  
+
+Since 1982, land ownership has changed and Mr. Faria successfully acquired permission to access for exploration 
+
+purposes, a strategic part of the S. Pedro das Águias area. This positive development may assist with future work 
+
+not only here but elsewhere in the Tabuaço area. 
+
+6.2 Bebezes Area 
+Given the proximity to the former Santo Antonio mine the Bebezes area would possibly have been explored for 
+
+gold dating to Roman times. The more recent history dates to the 1940s, a period when widespread small-scale 
+
+tungsten mining took place. Artisanal mining is evident as long and deep ditches that in some areas extend to 
+
+underground workings (Faria, 2008). Mining took place by hand and generally involved physically breaking quartz 
+
+vein material to extract the tungsten mineral - wolframite and possibly cassiterite (tin). As with most such areas 
+
+there is no evidence of recent exploration work. Exploration work by Colt on its nearby Penedono concession 
+
+revealed that gold also occurs in some of these historically mined veins.   
+
+7.0 GEOLOGICAL SETTING 
+
+7.1 Regional Geology 
+The Armamar Meda concession area is situated at the border zone of two major geologic units in northern 
+
+Portugal, namely the Hercynian age Beiras granite batholiths and the Douro Valley Schist-Greywacke Complex – 
+
+"SGC" (Faria, 2008). The latter, of Lower Cambrian age, is comprised of several formations that include shale, 
+
+schist, siltstone, sandstone and greywacke, with subordinate conglomerate and carbonate beds. These rocks were 
+
+folded and faulted mostly during the Hercynian (Upper Paleozoic) orogeny and subsequently regionally 
+
+metamorphosed. This was followed by intrusion of Hercynian age granites that often produced significant contact-
+
+metamorphic haloes in the meta-sediments (Figure 5). 
+
+The lower part of the SGC, the Bateiras Formation, is characterized by black graphitic schists overlain by carbonate 
+
+beds intercalated with grey schists. These litholgies normally outcrop only at the core zones of anticlines.  
+
+7.2 Tabuaço Area Geology 
+In this important part of the concession Douro-Valley SGC rocks are in contact with the Armamar-Tabuaço granite 
+
+batholith to which many tin and tungsten mineralized occurrences are associated. The economically important 
+
+Bateiras Formation outcrops along the Távora River valley. Hercynian deformation produced a northwest-
+
+southeast trending, gently northwest plunging (<5°) anticline referred to as the Tavora Anticline (Figure 6). The 
+
+
+
+
+
+Armamar Meda Concession, Portugal Page - 11 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+granite batholith is located southwesterly and within a kilometre of the anticline. The "core" zone of the anticline 
+
+is marked by black graphitic schists that are overlain by economically important carbonate and skarn horizons. 
+
+Carbonate rocks appear banded due to alternating layers of pure calcite, calcite-quartz and biotite. Metasomatism 
+
+of some carbonate horizons produced the quartz-garnet-amphibole-pyroxene skarns that are host to tungsten-tin 
+
+mineralization.   
+
+Detailed geological mapping by the SPE-SEREM Consortium identified the following lithologic units:  
+
+Schsitose Unit: - black and grey schist and phyllite, locally containing minor intercalated calc-silicate.  
+
+Limestone Facies: - series of banded, grey-green to bluish crystalline limestones and calc schists consisting of 
+
+alternating thin layers of crystalline carbonates meta-pelites that have undergone greenschist metamorphism. Also 
+
+includes local calc-silicate and skarn horizons. Mineralogy consists of plagioclase feldspar, quartz, calcite, garnet 
+
+and vesuvianite.  
+
+Skarn: a much more developed metamorphic/metasomatic formation than the above unit with amphibolite-facies 
+
+metamorphism. Whitish to dark greenish colour and consisting of quartz, garnet, hornblende, epidote-group 
+
+minerals, rare calcite and occasional fluorite.  
+
+Granite: - medium-grained "two-mica" granite that is often tourmalinized and with feldspars often transformed to 
+
+damourite, a greenish variety of muscovite.  
+
+Aplite - Pegmatite Sills and rare quartz veins: - alteration of the aplite results in a greenish, finer-grained 
+
+muscovite bearing (± damourite) often tourmalinized rock.   
+
+ 
+ 
+
+
+
+Armamar Meda Concession, Portugal Page - 12 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+Mapping at São Pedro das Águias identified two subparrallel, distinct, carbonate horizons normally separated by 
+
+grey schists and phyllites. The "upper carbonate horizon" is primarily comprised of the limestone facies, whereas 
+
+the "lower horizon" is essentially made-up of true, well-developed skarn. SPE- SEREM subdivided the lower horizon 
+
+into the south and north skarn bands. The total vertical thickness of the carbonate horizons and grey schists is in 
+
+excess of 50 metres. The horizontal distance between the upper carbonate outcroppings and granite batholith 
+
+contact ranges from 20 to 400 metres.  
+
+Previous workers and government geologists mapped numerous northeast striking faults. Locally these have 
+
+displaced core rocks of the Tavora anticline. Northeast of the anticline, bedding generally strikes northwest and 
+
+dips from 30° to 60° NE. Mapping and drilling southwest of the anticline indicate gently east dipping strata.   
+
+7.2 Bebezes Area Geology 
+The geology in this area is relatively simple consisting of Beiras granite approximately 500 metres from the contact 
+
+with the overlying Cambrian metasediments. Zones of strong fracturing likely controlled a series of north-
+
+northeast to northeast striking tungsten-tin bearing veins. The nearby Souto vein occurrence has a similar geologic 
+
+setting with sub vertical quartz veins in granite very close to its contact with overlying Cambrian metasediments. 
+
+8.0 DEPOSIT TYPES 
+
+The Armamar Meda concession mineral deposit types include skarn tungsten and tin veins in the Tabuaço area and 
+
+vein hosted tungsten and tin at the Bebezes area.  
+
+Tungsten skarns are one of seven types within this economically important class of mineral deposits and account 
+
+for the majority of tungsten produced worldwide. As with most skarns, mineral deposits form in "reactive" rocks 
+
+such as calcareous sediments and/or volcanics. Skarns form by regional or contact metamorphism, the latter being 
+
+the traditional geologic model. In these settings intrusive rocks are often nearby but not always evident. Typically 
+
+these rocks provide a heat source and drive the hydrothermal activity that alters the chemistry and/or mineralogy 
+
+of the host rocks and introduces mineralization.  
+
+Several tin occurrences are present in the Tabuaço area where cassiterite (SnO₂) was reportedly mined from small 
+
+veins and alluvial deposits. In the Bebezes area, tungsten-tin bearing quartz veins occur along fracture zones 
+
+developed in the Beiras granite. These too were the site of small-scale mining likely dating to the mid-1900s.  
+
+8.1 Exploration Criteria 
+One of the first and most important exploration criteria is recognition of favourable geologic terrain for skarn 
+
+formation. In many cases, government mapping serves to identify prospective areas. This work was key to  
+
+identifying the geological setting and ultimately discovery of the Tabuaço area tungsten skarns.    
+
+Grass roots exploration such as prospecting in favourable geologic terrain and stream sampling can further define 
+
+areas of mineral potential. Heavy mineral sampling is well suited to tungsten and tin exploration. These elements 
+
+occur as minerals with high specific gravity (i.e. scheelite and cassiterite). As such they can be physically 
+
+concentrated in the field by panning or by several laboratory methods. In addition, ultra violet lamps can quickly 
+
+yield qualitative and semi-quantitative determinations of scheelite in heavy mineral concentrates and rocks.   
+
+
+
+Armamar Meda Concession, Portugal Page - 13 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+9.0 MINERALIZATION 
+
+The Armamar Meda concession hosts skarn related tungsten ± tin, tin veins and intrusion hosted gold ±tungsten 
+
+mineralization. The latter are important on Colt's nearby Penedono concession where the author examined several 
+
+clusters of granite hosted auriferous quartz veins. Given the relative abundance of granitic rocks on the Armamar 
+
+Meda concession gold veins are no doubt present however these were not the objective of the author's visit. On 
+
+the Penedono concession the writer also observed numerous excavations that attest to small-scale tungsten 
+
+mining dating to the 1940s. The tungsten mineral sought was wolframite (FeMnWO4) which occurs in many of the 
+
+granite hosted quartz veins.  
+
+9.1 Tabuaço Area Tungsten Occurrences 
+This important part of the concession is noted for tungsten and tin occurrences. Past exploration led to the 
+
+identification of skarn tungsten mineralization associated with distinct stratigraphic "horizons" within the 
+
+metasedimentary rocks near the contact with the granite batholith. The prospective stratigraphic horizons consist 
+
+of calc-silicate hornfels and skarns. Tungsten mineralization was recognized in three areas that are referred to as 
+
+São Pedro das Águias, Quintã and Quintã do Paço.  
+
+The São Pedro das Águias zone is situated along the southwest limb and within a possible subsidiary syncline fold 
+
+of the Tavora anticline. As previously mentioned, mapping by SFM and SPE-SEREM identified two subparrallel, 
+
+distinct, carbonate horizons. The upper carbonate horizon is comprised of mostly marble and crystalline limestone. 
+
+The lower and more prospective horizon consists of well-developed skarn that was further described as the south 
+
+and north skarn bands.  
+
+The Quintã zone is situated in the hinge area of the Tavora anticline. Previous geological work identified several 
+
+sub-horizontal skarn horizons with the most significant located approximately 200 metres southeast of Quintã 
+
+village on a steep slope with agricultural terraces. Historic sampling reported skarn thickness of over four metres. 
+
+Scheelite mineralization observed under UV light was reportedly medium to coarse-grained.  
+
+East of the Tavora River, tungsten skarn outcroppings occur intermittently over a NW-SE strike of nearly 1.5 
+
+kilometres extending northward from the Quintã do Paço farm for which the zone is named. Skarn, calc-silicate 
+
+and carbonate rock horizons ranging from 0.15 metre to one metre thick were identified. In all, the SPE-SEREM 
+
+work discovered 50 carbonate horizons comprised of limestone, calc-silicate hornfels or true skarn. Only seven 
+
+were rated as having some significance but overall the grade and size of these horizons appears limited.   
+
+The São Pedro das Águias and Quintã zones contain the most significant tungsten mineralization of the Tabuaço 
+
+skarns. Tungsten consists of fine to coarse disseminations of scheelite (CaWO₄). The skarns are virtually devoid of 
+
+sulphides. These are considered favourable attributes for potential mineral processing.  
+
+Petrographic analysis of the skarns identified garnet, epidote, clinozoisite, diopside, hornblende, tremolite-
+
+actinolite, vesuvianite (idocrase), calcite and fluorite. Banding or layering of the skarn minerals is often parallel to 
+
+bedding. The calc-silicate hornfels are finer grained and carry some of the same skarn minerals along with quartz 
+
+and calcite referred to as "calc-schist" (Faria, 2008).  
+
+
+
+Armamar Meda Concession, Portugal Page - 14 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+9.2 Tabuaço Area Tin Occurrences 
+As previously mentioned considerable amounts of tin were reported in the Tabuaço tungsten skarns. Mr. Faria 
+
+indicated that there were no references in the SPE-SEREM exploration data explaining the tin content of the skarn 
+
+mineralization. He went on to suggest that it is highly possible that most if not all tin in the Tabuaço skarns is 
+
+"geochemical tin", that is tin bound in the crystal lattice of some calc-silicate minerals. He pointed out a parallel 
+
+with the Ribeiro (Armamar) tungsten deposit, where tin was often analysed but no cassiterite was ever found. Rio 
+
+Tinto concluded that the analysed tin was hosted in the abundant garnet of the skarns. The author reviewed a 
+
+geological paper entitled "Tin Behavior and Its Implications for Skarn Genesis"  (Watanabe, Hoshino, 1991) wherein 
+
+reference was made to "stannian garnets" from the Tsumi mine in Japan where green andradite garnet reportedly 
+
+contain 0.15% SnO₂ (Shimazaki, 1968).  
+
+Mr. Faria also indicated, and the author concurs, that in such cases the tin would not be recoverable by current 
+
+extraction processes. Therefore tin reported in the Tabuaço skarns should not at present be considered of 
+
+economic potential.  
+
+Several small historic tin (cassiterite) mines and occurrences are scattered throughout the Tabuaço area as shown 
+
+on Figure 3. Cassiterite (SnO₂) was reportedly mined from several quartz vein and alluvial deposits. The author 
+
+observed an old mine site along the east side of the Tavora River just north of Ponte do Fumo (bridge). Tin bearing 
+
+aplite--quartz veins reportedly occur within the "core" schistose rocks of the Tavora anticline. These are described 
+
+as small-sized, but prolific, cassiterite-bearing quartz and aplite veins. 
+
+Interestingly, the aforementioned geological paper presented a model whereby tin is incorporated into garnet 
+
+early during metasomatism under high temperature and high pH conditions. With decreasing temperature and 
+
+increasing pH, tin forms cassiterite, stannite and tellurium minerals along with chalcopyrite, pyrrhotite, 
+
+arsenopyrite, sphalerite and galena. A later quartz vein stage sees deposition of tin minerals, chalcopyrite and 
+
+pyrrhotite. 
+
+The literature review and personal communication with Mr. Faria and Mr. Gerry Ray, P.Geo. , an expert in the field 
+
+of skarn deposits, lead the author to suggest that the tin occurrences in the core of the Tavora anticline may be the 
+
+result of later stage metasomatic processes peripheral to the Tabuaço skarns. Northeast faults cutting the anticline 
+
+could have served as conduits for mineralizing fluids and ultimately the deposition of the tin deposits.  
+
+The tin occurrences and widespread tin-in-stream anomalies in the Tabuaço area suggest there is additional 
+
+exploration potential for this metal. None of these sites were visited or sampled by the author but are worthy of at 
+
+least cursory exploration. There are no records of any tin deposits ever having been drilled.  
+
+9.3 Bebezes Area Tungsten-Tin Occurrences 
+This area of tungsten-tin mineralization is found approximately 14 kilometres east-southeast of the Tabuaço area 
+
+and south of the village of Bebezes. This area was not seen by the author and any details presented were provided 
+
+by Mr. Filipe Faria. The Bebezes vein area is located about 2.5 kilometres northeast of the Santo Antonio gold 
+
+deposit on Colt's Penedono concession that was the subject of the author's recent examination. As with the Santo 
+
+Antonio deposit, quartz veins are hosted by Hercynian granite except the Bebezes veins occur approximately 500 
+
+metres from the contact with the overlying Cambrian metasediments.  
+
+
+
+Armamar Meda Concession, Portugal Page - 15 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+Quartz veins range from 0.50 to over one metre wide, dip sub-vertically and strike north-northeast to northeast for 
+
+up to 300 metres. Vein mineralogy consists of quartz, arsenopyrite, pyrite, chalcopyrite, wolframite and cassiterite.   
+
+The Souto vein occurrence is located three kilometres southeast of the centre of Bebezes zone. Mr. Faria reported 
+
+it is the site of an old artisanal tin-tungsten mine evidenced by sub-parallel, east-northeast trending ditches along 
+
+two distinct granite hosted quartz veins. The largest vein extends for at least 300 metres and apparently exceeds 
+
+one metre wide. Abundant quartz vein material is present in dumps resulting from hand-sorting of the cassiterite-
+
+wolframite bearing quartz. Mineralization in order of abundance is reported as arsenopyrite, cassiterite and 
+
+wolframite.  
+
+10.0 EXPLORATION 
+
+Two prospecting and rock sampling campaigns were carried out in July and October-November, 2008 under the 
+
+direction of J.W. Murton, P.Eng and Mr. Filipe Faria of GeoLog. The first was completed prior to the author's visit.  
+
+The July work focused on prospecting and sampling the tungsten mineralization at the Quintã  and Quintã  do Paco 
+
+zones (Figure 7). Eighteen rock chip samples were collected, all but two of which were from outcroppings. Nine 
+
+samples collected 350 to 900 metres northeast and east of the historic Quintã zone are potential extensions of the 
+
+skarn horizons along the northern projection of the Tavora anticline. The two float samples at Quintã do Paco have 
+
+a nearby and likely uphill source. Some of the sample sites in these two areas were verified by the author.  
+
+At the Bebezes area, work focused on determining the gold content of quartz veins hosted by similar granitic rocks 
+
+to those seen at the nearby and former producing Santo Antonio gold mine. The latter is an integral part of the 
+
+Penedono concession for which the author recently completed a field examination and Technical Report. Nine grab 
+
+samples were collected over a several hundred metre area from artisanal mining dumps (Figure 8). Mr. Faria 
+
+indicated that the Bebezes "grab sampling did not concentrate on wolframite and/or cassiterite rich dump 
+
+fragments, but on arsenopyrite rich rocks". 
+
+During the October-November program and after gaining permission for access, GeoLog personnel conducted 
+
+sampling at Sao Pedro das Águias. Ten bedrock samples comprised of continuous chip samples were collected from 
+
+several skarn outcroppings (Figure 7a). In one area, continuous sampling was conducted across 23.30 metres 
+
+allowing for calculation of a weighted average tungsten grade. The Quintã zone was also sampled in detail in one 
+
+area with samples ranging from 0.45 to 1.80 metres long extending south of the July sampling (Figure 7b). It is 
+
+reportedly part of a larger skarn zone. GeoLog indicated that excavation of the overburden covered areas would be 
+
+required to make this determination.  
+
+
+
+Figure 7b
+
+Figure 7a
+
+196923
+392
+
+196922
+2093
+
+196921
+1547
+
+196920
+2027
+
+196919
+217
+
+196918
+1241
+
+196917
+482
+
+196916
+1033
+
+196915
+555
+
+196914
+554
+
+196913
+1179
+
+196912
+339
+
+196911
+477
+
+196910
+<5
+
+196909
+<5
+
+196908
+194
+
+196907
+<5196906
+
+<5
+
+S9
+
+S6S3, S4
+
+S1, S2
+
+623000 m 624000 m 625000 m 626000 m
+
+623000 m 624000 m 625000 m 626000 m
+
+45
+49
+
+00
+0 
+
+m
+45
+
+50
+00
+
+0 
+m
+
+45
+51
+
+00
+0 
+
+m
+
+45
+49
+
+00
+0 
+
+m
+45
+
+50
+00
+
+0 
+m
+
+45
+51
+
+00
+0 
+
+m
+
+COLT RESOURCES INC.
+
+Armamar Meda Concession, Portugal
+
+Rock Sample Location Plan
+Tabuaço Area
+
+Tech Work by:  GEOQUEST
+Drawn by:  EG
+
+Date:  Dec, 2008
+Figure:  7
+
+0 500 mScale:  1:15000
+
+Datum
+European 1950 (Portugal, Spain)
+
+UTM Zone 29T
+
+N
+
+S
+
+W E
+
+To accompany a report by W. Gruenwald, P. Geo.
+
+LEGEND
+
+Community
+
+Historic Drill Hole
+
+Rock Samples
+(Values in ppm W)
+
+W. Gruenwald, P. Geo.
+
+Geolog Sampling (July 2008)
+
+
+
+Armamar Meda Concession, Portugal Page - 16 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+10.1 Tabuaço Area Results 
+Analytical results for tungsten range widely from <5 ppm to 10,224 ppm. Figures 7 and 7a,b display the rock 
+
+sample locations while Tables A1, A2 (Appendix) present the Tabuaço and Bebezes sample descriptions and assay 
+
+data. 
+
+Channel sampling at Sao Pedro das Águias yielded some very significant results. Sampling of one skarn horizon 
+
+yielded a weighted average of 0.36% W across a width of 23.30 metres. This compares favourably with the historic 
+
+SPE-SEREM exploration work. The presence of tin was also indicated with values ranging from 272 to 669 ppm Sn. 
+
+As discussed previously this may not be in the form of cassiterite but associated with tin bearing garnet.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Quintã zone also yielded promising zones of tungsten mineralization. The first sampling campaign returned 
+
+1,033 ppm W (sample 196916) across one metre of skarn outcrop (Figure 7b). The subsequent and more detailed 
+
+sampling campaign immediately south of this returned ten anomalous samples ranging from 204 to 8,125 ppm W. 
+
+Mineralized intervals range from 0.53 to 5.90 metres with a 2.85 metre interval grading 0.73% W.   
+
+
+
+Armamar Meda Concession, Portugal Page - 17 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+ 
+
+All five of the samples collected northeast of Quintã contain anomalous tungsten ranging up to 2,027 ppm W. This 
+
+supports Mr. Faria's hypothesis that tungsten mineralization associated with the Tavora anticline may extend 
+
+northwest of the known mineralized zones. The implications are significant and present high priority exploration 
+
+targets. 
+
+The majority of the Quintã samples also contain anomalous amounts of tin ranging up to 780 ppm. In general, 
+
+there is a positive correlation between tungsten and tin content. It should be noted that tungsten and tin analysis 
+
+by standard ICP methods only reports partial metal content due to the relative insolubility of the parent minerals. 
+
+For this reason analytical techniques such as metaborate fusion with ICP-Mass Spectrometry are preferred.   
+
+Anomalous amounts of arsenic, beryllium are also present in most samples. Arsenic is related to trace amounts of 
+
+arsenopyrite. Quintã do Paco zone sample 196923 returned the highest arsenic value (8,319 ppm As) from pelitic 
+
+hornfels containing tourmaline, arsenopyrite and wolframite. The remaining samples contain less than 1,000 ppm 
+
+(0.1%) arsenic. The weakly anomalous beryllium is an uncommon element in tungsten and tin skarns.  
+
+ 
+
+
+
+Armamar Meda Concession, Portugal Page - 18 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+10.2 Bebezes Area Results  
+Samples from this area do not contain any anomalous amounts of gold however Mr. Faria expressed surprise at 
+
+the high content of tungsten and particularly tin. As expected the arsenic content was high ranging from 1,172 to 
+
+58,339 ppm As. Tungsten was for the most part anomalous with seven of the nine samples containing over 200 
+
+ppm W. Anomalous amounts of tin were present in seven of the samples (Figure 8). Two contain over 10,000 ppm 
+
+or 1% Sn. There does not appear to be a correlation between tungsten and tin.  
+
+In summary, the 2008 sampling on the Armamar Meda concession combined with the historic exploration 
+
+indicates that significant areas of tungsten and tin mineralization are present. A number of areas of potentially 
+
+economic mineralization have never been drill tested. Therefore the author finds ample justification to 
+
+recommend further exploration work especially on the Quintã and S. Pedro das Águias zones. Current knowledge 
+
+of the Bebezes and Souto areas should be investigated further in light of the tungsten-tin potential.   
+
+11.0 DRILLING 
+
+As previously mentioned the only drilling campaign in the Tabuaço area were six holes drilled in 1982 on the São 
+
+Pedro das Águias zone (Figure 4). A brief description of the historic drilling is outlined below.  
+
+Drill holes S1, S2 and S3, S4 were completed from two sites. Holes S1 and S2 confirmed the presence of two 
+
+carbonate/skarn horizons displaying a sub-horizontal orientation. The upper predominantly carbonate horizon was 
+
+poorly mineralized. The lower horizon was a better developed skarn with tungsten mineralized intervals of a metre 
+
+or more in thickness. Holes S2 and S4 angled to the west did not reach the targeted granite suggesting that the 
+
+mineralized horizons extend below the outcropping granite. The northernmost hole, S9, intersected the most 
+
+favourable mineralization thought to be the central zone of the deposit. Vertical holes S1, S3 and S9 intersected 
+
+the horizons at a perpendicular angle and thus represent true width intersections. The northwesterly limit of the 
+
+mineralized horizon is not known. Holes S3 and S4, probably located beyond a fracture zone, intersected 
+
+carbonate rock that was partially transformed into skarn. Significant drilling results from this work are listed in 
+
+Table 2.  
+
+ 
+
+Table 2 – Significant Historic Drill Results - Sao Pedro Das Águias Zone 
+
+Drill Hole Details Significant Intersections 
+
+DDH Target Dip Az 
+Length
+
+(m) 
+From
+(m) 
+
+To
+(m) 
+
+Length
+(m) 
+
+WO3 
+(%) 
+
+Sn 
+(%) 
+
+S1 North Skarn -90°  101.05 50.00 52.10 2.10 0.930 0.0830 
+    63.55 68.72 5.17 0.480 0.0590 
+    76.03 78.14 2.11 0.680 0.0670 
+S2 North Skarn -55 250° 105.25 80.93 85.60 4.67 0.730 0.0840 
+    87.40 95.00 7.60 0.520 0.0950 
+    96.75 98.40 1.90 0.380 0.0850 
+S9 North Skarn -90°  63.80 25.00 44.35 19.35 1.180 0.0900 
+S3 South Skarn -90°  108.00 46.15 47.15 1.00 0.014 0.0007 
+S4 South Skarn -40° 250° 84.80 58.43 59.75 1.35 0.094 0.0038 
+S6 South Skarn -90°  63.80 No results reported 
+
+ 
+
+
+
+134500
+843, 2956
+
+134499
+1012, 3033
+
+134498
+788, 32910
+
+134497
+3316, 4735
+
+196905
+<5, <5
+
+196904
+1955, 973
+
+196903
+5, <5
+
+196902
+274, 11050
+
+196901
+1460, 6320
+
+636000 m 636500 m
+
+636000 m 636500 m
+
+45
+43
+
+50
+0 
+
+m
+45
+
+44
+00
+
+0 
+m
+
+45
+43
+
+50
+0 
+
+m
+45
+
+44
+00
+
+0 
+m
+
+COLT RESOURCES INC.
+
+Armamar Meda Concession, Portugal
+
+Rock Sample Location Plan
+Bebezes Area
+
+Tech Work by:  GEOQUEST
+Drawn by:  EG
+
+Date:  Dec, 2008
+Figure:  8
+
+0 200 mScale:  1:5000
+
+Datum
+European 1950 (Portugal, Spain)
+
+UTM Zone 29T
+
+To accompany a report by W. Gruenwald, P. Geo.
+
+N
+
+S
+
+W E
+
+Legend
+
+Topographic Contour
+
+Road
+
+Road
+
+Stream
+
+Rock Sample
+
+Values in ppm W, ppm Sn
+
+
+
+Armamar Meda Concession, Portugal Page - 19 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+12.0 SAMPLING METHOD AND APPROACH 
+
+The historic sampling on the concession comprises heavy mineral stream and soil samples and rock and drill core. 
+
+Maps of the SPE-SEREM heavy mineral stream sampling for the Tabuaço area were reviewed by the author. 
+
+Seventy-five samples were collected over a 15 km² area equating to a more than ample density of 5 samples/km². 
+
+Figure 3 displays the sample locations and the amount of scheelite and cassiterite recovered by gravity 
+
+concentration that was back calculated to grams/cubic metre (g/m³). 
+
+Rock sampling by SPE-SEREM of outcroppings involved collection of grab, continuous chip or detailed channel 
+
+samples after the clearing of vegetation and overburden. The most detailed channel sampling was carried out at 
+
+the north and south skarn showings on the Sao Pedro das Águias Zone. Scattered outcrop and trench sampling was 
+
+also conducted on the Quintã do Paco and Quintã zones. Historic photographs provided by Mr. Faria displayed 
+
+evidence of the detailed surface work that was carried out.  
+
+12.1 Colt 2008 Program 
+During the July program at Tabuaço, eighteen chip and random grab samples were collected from outcroppings 
+
+and float from an area measuring nearly one kilometre east-west and 750 metres north-south. The two float 
+
+samples (grabs) consisted of carbonate or skarn. Several grab samples were collected from prospective areas such 
+
+as the Tavora anticline to determine whether tungsten mineralization extended northwesterly of the known 
+
+mineralized zones.  
+
+At Bebezes, nine widely spaced grab samples were collected from an approximately 800 metre by 1,000 metre 
+
+area (Figure 8). The objective was to sample artisanal workings to determine the gold potential of the vein system. 
+
+Arsenopyrite bearing quartz from the old dumps was collected rather than the wolframite (tungsten) that was 
+
+likely the reason for these old excavations. One composite grab sample (134496) of arsenopyrite bearing quartz 
+
+was collected from old dumps at the Souto vein occurrence located near the northeast limit of the Penedono 
+
+concession and 4.5 kilometres due east of the Santo Antonio gold deposit. As with the Bebezes veins, this sample 
+
+was collected in order to determine the gold content.   
+
+Part of the October-November sampling campaign was focused on the Sao Pedro das Águias zone after access was 
+
+granted by the landowner. Ten continuous channel samples were collected across skarn horizons in order to 
+
+determine the tungsten and tin content as well as to confirm the previous SPE-SEREM work. The area of sampling 
+
+was confined to an area of 150 by 100 metres (Figure 7a). At Quintã, channel sampling also focused on establishing 
+
+the width of the vertical extent or thickness of the tungsten mineralized horizons. Ten samples were collected 
+
+from a 30 by 30 metre area (Figure 7b).  
+
+13.0 SAMPLE PREPARATION, ANALYSIS AND SECURITY 
+
+The 2008 rock samples were analyzed by OMAC Laboratories in County Galloway, Ireland, which is part of the Alex 
+
+Stewart Group of worldwide analytical labs. OMAC is accredited to ISO 17025 which "differs from ISO 9000 in that 
+
+it takes quality management system a stage further setting requirements for the technical competence of the 
+
+laboratory as well as for the fitness for purpose of the quality management system, thus assuring that the 
+
+laboratory generates technically valid results." (OMAC Website). 
+
+
+
+Armamar Meda Concession, Portugal Page - 20 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+Rock sample preparation initially involves coarse crushing followed by pulverizing to yield several hundred grams 
+
+of -150 mesh material (pulp). From this a 0.5 gram sub sample is digested in a 3:1 HCl:HNO3 mixture and diluted 
+
+with deionized water. The solutions are analyzed by Inductively Coupled Plasma-Atomic Emission Spectra to 
+
+provide the content for 43 elements. Detection limits and analytical ranges are element specific. Each sample 
+
+batch contains internal duplicates, a blank and two reference standards. Reanalysis of the entire batch is 
+
+conducted if the reference samples do not match the expected values.  
+
+Given the partial solubility of tungsten and tin minerals, analysis was also conducted using a meta-borate fusion 
+
+followed by Induction Coupled Plasma-Mass Spectrometry (ICP-MS). The results of both analytical methods are 
+
+presented on the sample descriptions in the Appendix.  
+
+GeoLog personnel collected rock chip samples in durable plastic sample bags secured by tamper proof, single use 
+
+plastic straps. Samples were securely stored at Colt's facility in Penedono. No Colt employees, officers, directors or 
+
+associates were involved in sampling, handling or shipping. Samples were shipped to OMAC Laboratories in County 
+
+Galloway, Ireland by TNT Worldwide Express (Portugal) SA., a  reputable courier company that routinely ships 
+
+between European Union countries.   
+
+The author is completely satisfied that proper sampling, handling, storage and chain of custody procedures were 
+
+followed in Colt's 2008 exploration program.  
+
+14.0 DATA VERIFICATION 
+
+Mr. Filipe Faria of GeoLog greatly assisted the author's examination by providing on site transportation, 
+
+compilation of the historic work and his extensive knowledge of tungsten deposits. Data verification included the 
+
+field site visit, a review of the historic and recent analytical data along with the author's rock chip sampling. The 
+
+examination confirmed to the author the deposit types being explored, the extent of mineralization as well as the 
+
+exploration potential.    
+
+The site visit confirmed the excellent access present on the concession. It appears unlikely there are any 
+
+exploration areas more than a kilometre from a road. The local infrastructure is complemented by nearby power 
+
+and water. A few areas such as along the Tavora River would present physiographic challenges to exploration or 
+
+development.  
+
+The area where the historic drilling took place at Tabuaço could not be directly examined, as it required permission 
+
+to access private land. An overview of this area however was afforded by a road lookout east of the Tavora River 
+
+from where the author could confirm historic photographs of zones and sampling presented in Mr. Faria's 
+
+compilation report. A portable UV lamp brought by the author verified the presence of scheelite in GeoLog's 
+
+sample specimens at Colt's Penedono office as well as the author's own samples.  
+
+The historic SPE-SEREM data is quite comprehensive and presents well the exploration that was carried out. 
+
+Several areas of mineralization as well as GeoLog's sampling were examined, sampled, photographed and GPS 
+
+located by the author. The details of the author's samples along with the Colt 2008 samples are presented in Table 
+
+A1 (Appendix) and the sample locations are displayed on Figure 7. The author has a high confidence in the recent 
+
+analytical data based upon OMAC's certification, reputation and QA/QC protocols. 
+
+
+
+Armamar Meda Concession, Portugal Page - 21 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+Rock samples submitted by the author all contain substantial amounts of tungsten. This is consistent with the 
+
+detection of scheelite by ultra violet light during the examination. Samples T-01 and T-02 were collected in the 
+
+Quintã  zone proximal to GeoLog's sample 196916 where a one metre sample from a skarn horizon yielded 1,033 
+
+ppm W. The author's sample, T-01, taken from the same outcropping returned 1,187 ppm W over a similar width. 
+
+Random chip sample T-02 collected nearby along a trail but representing a vertical thickness of approximately five 
+
+metres yielded 1,912 ppm W. Subsequent ICP-MS analysis using meta-borate fusion returned 3,211 ppm W on this 
+
+sample. These values are consistent with nearby sampling conducted by GeoLog personnel.  
+
+The author's third sample (T-03) taken from a one metre thick skarn horizon at the Quintã  do Paco zone assayed 
+
+1,518 ppm W with normal ICP but yielded 3,368 ppm W using a meta borate fusion ICP-MS analysis. This compares 
+
+favourably with GeoLog sample 196922 (2,093 ppm W).  
+
+Samples T-02 and T-03 demonstrate that normal ICP analysis should be used with caution and values over a certain 
+
+level (i.e. >100 ppm W) should be routinely re-analyzed using meta borate fusion ICP-MS. Table 2 demonstrates 
+
+the difference in tungsten and tin values between these two analytical methods.  
+
+ 
+
+Table 3 - Analytical Comparison of Tungsten-Tin Samples 
+
+Sample 
+Number 
+
+Collected 
+by 
+
+Area 
+Sn*
+ppm 
+
+Sn**
+ppm 
+
+% 
+Change 
+
+W*
+ppm 
+
+W** 
+ppm 
+
+% 
+Change 
+
+T-01 WG Quintã 107 611 469 1187 1157 -3 
+
+T-02 WG Quintã 227 726 219 1912 3211 68 
+T-03 WG Quintã do Paco 330 1181 258 1518 3368 122 
+
+196908 Geolog Quintã do Paco <5     188 194 3 
+196911 Geolog Quintã North 10     457 477 4 
+196901 Geolog Bebezes  9 6320 70242 747 1460 95 
+196902 Geolog Bebezes  19 11050 56841 272 275 1 
+196904 Geolog Bebezes  40 973 2334 296 1955 561 
+134497 Geolog Bebezes  8 4735 58178 1032 3316 221 
+134498 Geolog Bebezes  132 32910 24926 574 788 37 
+134499 Geolog Bebezes  78 3033 3789 889 1012 14 
+134500 Geolog Bebezes  16 2956 18788 714 843 18 
+
+* Analysis by aqua regia digest, ICP         ** Analysis by metaborate fusion, ICP 
+
+ 
+
+Sampling by the author indicated anomalous amounts of tin (up to 330 ppm). ICP analysis using meta borate fusion 
+
+yielded values up to 1,181 ppm Sn. As discussed in section 9.1, the tin may be tied up in silicates rather than in 
+
+economic minerals such as cassiterite. Anomalous amounts of arsenic (up to 419 ppm As) were reported and also 
+
+substantiate GeoLogs's analytical results.   
+
+
+
+Armamar Meda Concession, Portugal Page - 22 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+15.0 ADJACENT PROPERTIES 
+The Penedono gold concession also granted to Colt Resources Inc. is situated within the Armamar Meda 
+
+concession. The author visited this concession and recently completed a technical report. In addition, Colt holds 
+
+mineral rights to the Moimenta-Almendra concession which adjoins Armamar Meda to the southwest and east and 
+
+the areas surrounding the current Penedono concession. The latter consists of areas reduced from within the 
+
+original Penedono concession.   
+
+ 
+
+16.0 MINERAL PROCESSING AND METALLURGICAL TESTING 
+There are no records of recent mineral processing or metallurgical testing on mineralization from the concession.  
+
+17.0 MINERAL RESOURCES AND MINERAL RESERVE ESTIMATES 
+There are no estimates of mineral resources or reserves on the concession. 
+
+18.0 OTHER RELEVANT DATA AND INFORMATION 
+There is no other relevant data and information. 
+
+19. 0 INTERPRETATION AND CONCLUSIONS 
+The earlier mining history and the more recent Colt exploration programs have identified several tungsten ± tin 
+
+mineralized areas on the Armamar Meda concession. It is apparent that the geological settings are favourable for 
+
+the discovery of economic deposits. The extent of the known mineralized zones has yet to be fully tested or 
+
+delineated. The following summarizes the author's observations, interpretations and conclusions.  
+
+• Historic stream sampling surveys identified drainage basins prospective for tungsten and tin mineralization.   
+• Prospecting, UV lamp and rock sampling can effectively locate mineralization and favourable lithologies.    
+• Only six holes were ever drilled at Tabuaço but these identified long intervals of tungsten mineralization.  
+• No drilling was ever conducted at the Quintã, Quintã do Paco or Bebezes zones.  
+
+Colt's 2008 exploration program has successfully met their objective of confirming the presence of and identifying 
+
+high-grade tungsten potential at Tabuaço. The potential for significant tungsten-tin mineralization was revealed at 
+
+the Bebezes area. The full potential of any of these mineralized areas have yet to be realized.  
+
+
+
+Armamar Meda Concession, Portugal Page - 23 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+20.0 RECOMMENDATIONS 
+
+The author finds ample justification to recommend continued exploration on the Armamar Meda concession. A 
+
+two-phase exploration program is therefore recommended and outlined as follows:  
+
+Phase I:  
+
+Tabuaço Area:  
+• Additional rock sampling at São Pedro das Águias and the southwest skarn extension (Herédias farm). 
+• Prospecting and rock sampling the Quintã skarn zone especially northwest along the Tavora anticline.  
+• Prospecting (and UV light prospecting). 
+• Localized soil and heavy mineral (stream) sampling. 
+• Excavator trenching in accessible areas (i.e. Quintã zone extensions), access roads and drill pads.  
+
+Bebezes Area:- 
+• More detailed prospecting, mapping and sampling of veins at Bebezes and Souto. 
+• Where feasible clean out old vein excavations in order to conduct representative sampling.  
+• Soil geochemical surveys (grid or contour traverse) to delineate buried vein extensions.   
+
+It is estimated that this work will take approximately 1-1.5 months and is to be completed by December 3, 2009.  
+
+Phase II: 
+• Follow-up detailed sampling of new mineralized zones from Phase I program.  
+• Reconnaissance drill holes at Quintã or Quintã extension discovery.   
+• Trenching at priority vein zones and soil geochemical anomalies at Bebezes/Souto.   
+
+It is estimated that this work will take approximately 1-1.5 months and is to be completed by December 3, 2010. 
+Phase I:  
+Soil, rock sampling, prospecting over target areas (35 days @ €350/day) (*rounded) * €12,000 
+Trenching of soil geochemical and or outcrop anomalies (and construct drill pads) 7,500 
+Supervisory, Geologist - (20 days @ €475/day) 9,500 
+Analytical Costs ( 500 rock, soil, stream samples – ICP@ average €25/sample)  12,500 
+Support – vehicles, room and board (50 days @ €150/day all in) 7,500 
+Shipping , Supplies and Miscellaneous  1,000 
+
+Phase I Total : €50,000 
+  
+
+Phase II:  
+Follow-up prospecting and rock sampling at Tabuaço area (7 days @ €350/day) €2,450 
+Follow-up prospecting and rock sampling at Bebezes/Souto area (5 days @ €350/day) 1,750 
+Supervisory, Geologist, Logging  - (25 days @ €475/day) 12,000 
+Trenching and access, drill pads (Bebezes, Souto areas) 2,300 
+Drilling (Tabuaço area) – 2 holes totaling 300 m @ €100/m    30,000 
+Drilling (Bebezes area) – 1 or 2 holes totaling 125 m @ €100/m    12,500 
+Support Costs – vehicles, room and board (35 days @ €150/day - all in) 4,500 
+Analytical Costs – ICP analysis - 100 rock samples @ €30/sample) 3,000 
+Shipping, Supplies and Miscellaneous 1,500 
+Reporting and Documentation (Phases I and II)  5,000 
+
+Phase II Total: €75,000 
+Phase I + II /Total:  €125,000 
+
+  
+Using an exchange rate of CDN 1.60 the two-phase program equates to CDN $200,000  
+
+
+
+Armamar Meda Concession, Portugal Page - 24 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+21.0 REFERENCES 
+
+Faria, Filipe (July 9, 2008) SUMMARY REPORT ON THE TABUAÇO TUNGSTEN DEPOSITS  
+
+(Armamar – Meda Exploration License) for Colt Resources Inc. 
+
+Meinert, L. D. (1992) Skarns  and Skarn Deposits, Geoscience Canada, Volume 19, Number 4 
+
+Murton, J.W. (Mar 28, 2008) 2007 Diamond Drill Report on the Santo Antonio Project, Penedono 
+
+Concession. Internal report for Colt Resources Inc. 
+
+Ray, G. E. (1995) W Skarns, in Selected British Columbia Mineral Deposit Profiles, Volume 1 - 
+
+Metallics and Coal, Open File 1995-20, pages 71-74. 
+
+Reed, B.L and Cox, P.D.  Descriptive model of Sn Skarn Deposits, Model 14b. US Geological Survey 
+
+US Geological Survey minerals.usgs.gov/minerals/pubs/commodity/tungsten/680798.pdf 
+
+Watanabe, M and Hoshino, K 
+
+(1991) 
+
+Tin Behavior and Its Implications for Skarn Genesis from Text "Skarns their 
+
+Genesis and Metallogeny  
+
+Web sites: Colt Resources Inc http://www.coltresources.com/ 
+
+ OMAC Laboratory - http://www.omaclabs.com/ 
+
+
+
+Armamar Meda Concession, Portugal Page - 25 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+22.0 DATE AND SIGNATURE PAGE 
+
+Effective Date of report:  December 19, 2008 
+
+Completion Date of report:  December 19, 2008 
+
+"Warner Gruenwald" December 19, 2008 
+
+_______________________ Date Signed: 
+
+Warner Gruenwald, P.Geo 
+
+
+
+23.0 CERTIFICATION OF THE AUTHOR
+
+I, Warner Gruenwald, P.Geo. do hereby certify that:
+
+• I am currently employed as Consulting Geologist by Geoquest Consulting Ltd. of 8055 Aspen Road,
+
+Vernon, BC, Canada, V1B 3M9.
+
+• I was commissioned by Colt Resources Inc. of N212-5811 Cooney Road, Richmond, BC, Canada, V6X 3M1
+
+to prepare the "Technical Report (43-101) on the Armamar Meda Concession Northern Portugal dated
+
+December 19, 2008".
+
+• I graduated with a B.Sc. in Geology from the University of British Columbia (1972) and have worked as an
+
+exploration geologist a total of over 35 years since graduation from university.
+
+• I am a member in good standing with the Association of Professional Geoscientists of British Columbia
+
+(APEGBC - License # 23202).
+
+• I have worked extensively in the exploration for precious and base metal deposits and am qualified to
+
+evaluate and report on such deposits.
+
+• I have read the definition of "qualified person" set out in the National Instrument 43-101 ("NI 43-101")
+
+and certify that by reason of my education, affiliation with professional associations (as defined in NI 43-
+
+101) and past relevant work experience, I fulfill the requirements to be a "qualified person" for the
+
+purposes of NI 43-101.
+
+• This Technical (43-101) report is based upon my examination of the Armamar Meda concession that took
+
+place on August 23, 2008.
+
+• I am solely responsible for the preparation of this report titled "Technical Report (43-101) on the
+
+Armamar Meda Concession Northern Portugal" dated the 19
+th
+
+of December 2008.
+
+• I am independent of the issuer applying the Section 1.4 tests in N143-101.
+
+• I had no prior involvement with the project that is the subject of this report.
+
+• I have read National Instrument 43-101 and Form 42-101F1, and the Technical Report has been prepared
+
+in compliance with that instrument and form.
+
+• As of the date of the certificate, to the best of my knowledge, information and belief, the technical report
+
+contains all the scientific and technical information that is required to be disclosed to make the technical
+
+report not misleading.
+
+Dated at Vernon, Canada, this 19th day of December, 2008
+
+"Warner Gruenwald"
+
+Signature of qualified person
+
+Printed name of qualified person
+
+Armamar Meda Concession, Portugal
+Colt Resources Inc.
+
+Page - 26-
+
+Stamp of qualified person
+
+Geoquest Consulting Ltd.
+December 19, 2008
+
+
+
+Armamar Meda Concession, Portugal Page - 27 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+24.0 LETTER OF CONSENT 
+
+I, Warner Gruenwald., P. Geo. hereby consent to the use of the Technical Report with any stock exchange or any 
+
+regulatory authority, in any prospectus or filing statement or offering memorandum, filing on SEDAR, and including 
+
+electronic publication on the company's corporate website.  
+
+Dated this 19th day of December, 2008 
+
+Geoquest Consulting Ltd. 
+
+ 
+
+ 
+
+ 
+
+___________________________ 
+
+W. Gruenwald, P. Geo.  
+
+ 
+
+
+
+Armamar Meda Concession, Portugal Page - 28 - Geoquest Consulting Ltd. 
+Colt Resources Inc.  December 19, 2008 
+
+APPENDIX 
+
+Table A1 Rock Sample Descriptions - Tabuaço, Bebezes areas (GeoLog, W. Gruenwald) 
+Table A2 Rock Sample Descriptions – Tabuaço area (GeoLog , Oct/Nov, 2008) 
+
+ 
+
+
+
+Table A1 - Rock Sample Descriptions for Tabuaço and Bebezes Areas 
+
+Sample
+Number
+
+Easting
+(Eur1950)
+
+Northing
+(Eur1950)
+
+Zone Type
+Otc
+
+Float
+Description 
+
+As 
+ppm
+
+W*
+ppm
+
+W**
+ppm
+
+Sn*
+ppm
+
+Sn** 
+ppm
+
+T-01 624149 4550338 Quinta chip outcrop Continuous chip across 0.85 metre vertical thickness of subhorizontal skarn horizon. Buff-
+coloured, medium-grained pyroxene-skarn with minor scheelite and trace arsenopyrite?
+
+419 1187 1157 107 611
+
+T-02 624126 4550330 Quinta chip outcrop Random chip from skarn along trail. Represents approximately 5 m vertical thickness of 
+skarn horizon. Pale grey, medium-grained quartz-pyroxene-muscovite rock with minor 
+scheelite.
+
+51 1912 3211 227 726
+
+T-03 625709 4549742 Quinta do Paço chip outcrop Continous chip across 1.0 m of white weakly limonitic skarn horizon in ditchline of road. 
+Band with scattered scheelite. Trace purple fluorite. Adjacent schist attitude 114 °/40° 
+NE. 
+
+121 1518 3368 330 1181
+
+196906 625967 4549942 Quinta do Paço grab float Calcsilicate rock (calcsilicate facies) 17 <5 <5
+196907 625967 4549942 Quinta do Paço grab outcrop Layered carbonate rock (carbonate facies) 71 5 <5
+196908 625967 4549942 Quinta do Paço grab float Skarn 104 188 194 <5
+196909 625856 4549870 Quinta do Paço grab outcrop Skarn 516 90 8
+196910 625638 4549119 Quinta do Paço grab outcrop Layered skarn with quartz and mica 76 <5 12
+196911 623684 4551132 Quintã grab outcrop Calcsilicate rock layer (with aplite) 131 457 477 10
+196912 624334 4550654 Azenha Velha chip outcrop Skarn layers less than 0,40m thick, So: 75º, 60ºE 828 339 15
+196913 624433 4550668 Azenha Velha chip outcrop Folded skarn layer with aprox. 1m thick, fold axis: 295º,10ºN 168 1179 102
+196914 624344 4550676 Azenha Velha chip outcrop Skarn layer with 0,20-0,25m thick, So: 295º, 30º-35ºNE 501 554 37
+196915 624335 4550663 Azenha Velha chip outcrop Skarn layer close to the last sample (196914) 391 555 27
+196916 624151 4550358 Quintã chip outcrop Skarn layer aprox. 1m thick visible, So: 55º, 10º-15ºNE 131 1033 194
+196917 624896 4550500 Azenha Velha chip outcrop single skarn layer with aprox. 0,50m thick, So: 285º, 35ºN 545 482 93
+196918 624796 4550573 Azenha Velha chip outcrop Bad skarn layer outcrop with 0,20-0,25m thick 93 1241 105
+196919 624684 4550512 Azenha Velha chip outcrop Narrow cm skarn layers, sample along 15m; So: 305º, 45º-50ºNE 87 217 25
+196920 624433 4550668 Azenha Velha chip outcrop Folded skarn layer with aprox. 1m thick, fold axis: 295º,10ºN 68 2027 76
+196921 625022 4550398 Azenha Velha chip outcrop Single skarn layer with  0,80-1m thick, So: 285º, 35ºN 522 1547 44
+196922 625713 4549739 Quinta do Paço chip outcrop White skarn layer with fluorite(?), So: 295º,45ºNE 77 2093 343
+196923 625780 4549740 Quinta do Paço chip outcrop Pelitic hornfels with tourmaline, aspy and wolframite (?) 8319 393 7
+134497 635869 4543968 Bebezes grab quartz with aspy+py(+wolfr?) 16427 1032 3316 8 4735
+134498 636502 4543192 Bebezes grab quartz with aspy+wolfr 42735 574 788 132 32910
+134499 636607 4543226 Bebezes grab quartz with aspy+py(+wolfr?) 22451 889 1012 78 3033
+134500 636021 4543209 Bebezes grab quartz with aspy+py+cpy 18877 714 843 16 2956
+196901 636348 4543214 Bebezes grab quartz with aspy+py+cpy+wolfr 58339 747 1460 9 6320
+196902 636348 4543214 Bebezes grab quartz with aspy+py+cpy+wolfr 37035 272 275 19 11050
+196903 636476 4543265 Bebezes grab fine layered felsic rock (silicified aplite?) w. aspy 16440 5 <5
+196904 636348 4543214 Bebezes grab quartz with aspy+py+wolfr 1172 296 1955 40 973
+196905 636309 4543380 Bebezes grab quartz with aspy 23935 24 <5
+
+* Aqua Regia Sample Digestion
+** Metaborate Fusion
+
+Samples collected by W. Gruenwald, Aug, 2008
+
+Samples collected by Geolog, July 2008
+
+
+
+Table A2 - Rock Sample Descriptions - Tabuaço Area (October/November 2008)
+
+Sample
+Number
+
+Easting
+(Eur1950)
+
+Northing
+(Eur1950)
+
+Zone Type
+True
+
+Width
+Otc
+
+Float
+Description 
+
+W**
+ppm
+
+Sn**
+ppm
+
+205051 624754 4549481 S.Pedro das Aguias channel 4.65 outcrop Main skarn horizon, section SA, sample 1/6 (base) 1408 569
+205052 624763 4549470 S.Pedro das Aguias channel 2.70 outcrop Main skarn horizon, section SA, sample 2/6 189 398
+205053 624771 4549460 S.Pedro das Aguias channel 4.20 outcrop Main skarn horizon, section SA, sample 3/6 2578 498
+205054 624780 4549455 S.Pedro das Aguias channel 4.00 outcrop Main skarn horizon, section SA, sample 4/6 10224 669
+205055 624781 4549450 S.Pedro das Aguias channel 2.00 outcrop Main skarn horizon, section SA, sample 5/6 3052 403
+205056 624781 4549443 S.Pedro das Aguias channel 2.25 outcrop Main skarn horizon, section SA, sample 6/6 (top) 8475 408
+205057 624795 4549428 S.Pedro das Aguias channel 3.20 outcrop Skarn exposure, horizon above main skarn horizon, section SA, single sample 1252 272
+205058 624820 4549385 S.Pedro das Aguias channel 2.85 outcrop Skarn bed included in upper carbonate horizon (above main skarn horizon), section SA, 
+
+single sample
+2383 198
+
+205059 624880 4549400 S.Pedro das Aguias channel 3.40 outcrop Main skarn horizon, section SB, sample 1/2 (base) 2678 612
+205060 624884 4549398 S.Pedro das Aguias channel 2.50 outcrop Main skarn horizon, section SB, sample 2/2 (top) 2138 883
+205061 624158 4550352 Quintã (Távora) channel 1.05 outcrop Skarn exposure, section QC-basal, single sample 3455 375
+205062 624150 4550349 Quintã (Távora) channel 0.65 outcrop Skarn exposure, section QB-basal, single sample 1271 564
+205063 624137 4550331 Quintã (Távora) channel 1.30 outcrop Skarn exposure, section QA-basal, sample 1/2 (base) 3255 780
+205064 624137 4550331 Quintã (Távora) channel 1.40 outcrop Skarn exposure, section QA-basal, sample 2/2 (top) 8125 549
+205065 624149 4550354 Quintã (Távora) channel 0.45 outcrop Skarn exposure, section QB-top, sample 1/2 (base of outcrop); with calcsilicate, schist & 
+
+quartz
+204 161
+
+205066 624149 4550354 Quintã (Távora) channel 0.85 outcrop Skarn exposure, section QB-top, sample 2/2 (top of outcrop) 1062 530
+205067 624159 4550358 Quintã (Távora) channel 0.53 outcrop Skarn exposure, section QC-top, single sample; with 10cm calcsilicate hornfels in lower 
+
+contact with schist
+279 615
+
+205068 624133 4550342 Quintã (Távora) channel 0.55 outcrop Skarn exposure, section QA-central, sample 1/2 (base); with calcsilicate hornfels, schist & 
+quartz
+
+233 780
+
+205069 624133 4550342 Quintã (Távora) channel 1.40 outcrop Skarn exposure, section QA-central, sample 2/2 (top) 2227 724
+205070 624131 4550345 Quintã (Távora) channel 1.80 outcrop Skarn exposure, section QA-top, single sample 2445 476
+
+ 
+** Metaborate Fusion
+
+- skarn  continuity between samples along each section remains to be tested by diggings/drilling
+
+Channel Sampling taken from the Tabuaço tungsten prospect area (Geolog - October-November 2008)
+
+- samples 205051 to 205056 cover the full width of the main skarn horizon, which was totally exposed along section SA
+- samples 205057 to 205060 cover only the exposed portion of apparently wider skarn beds
+
+General comments:
+
+- all the Quintã samples (205061 to 205070) are restricted to the exposed portions of the skarn beds, which seem to represent part of a much wider skarn horizon
+
+
+
+
+'

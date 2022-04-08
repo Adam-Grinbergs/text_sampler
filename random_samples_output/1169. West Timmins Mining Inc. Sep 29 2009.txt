@@ -1,0 +1,5142 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - THunder_Creek _Sept 28_09_Update_Title.doc
+
+
+AMENDED 
+ 
+
+A TECHNICAL REVIEW AND REPORT 
+OF THE 
+
+"THUNDER CREEK PROPERTY" 
+ 
+ 
+
+BRISTOL AND CARSCALLEN TOWNSHIPS 
+PORCUPINE MINING DIVISION 
+
+ONTARIO, CANADA 
+ 
+ 
+
+NTS: 42-A-05 
+UTM Zone: 17, NAD: 83 
+
+~458,050m East, ~5,357,923m North 
+~81.57° West, 48.37° North 
+
+ 
+ 
+
+Prepared For 
+ 
+
+THE THUNDER CREEK JOINT VENTURE 
+ 
+ 
+
+LAKE SHORE GOLD CORP. 
+ 
+
+181 University Avenue, Suite 2000 
+Toronto, Ontario, Canada, M5H 3M7 
+
+ 
+and 
+
+ 
+WEST TIMMINS MINING INC. 
+
+ 
+555 Burrard Street, Suite 328 
+
+Vancouver, B.C., Canada,  V6C 2B5 
+ 
+ 
+ 
+ 
+
+By 
+ 
+ 
+ 
+ 
+
+David H. R. Powers, H.B.Sc., P. Geo. 
+ 
+ 
+ 
+ 
+
+July 29, 2009 
+Timmins, Ontario 
+
+
+
+ i
+
+TABLE OF CONTENTS 
+ 
+          Page 
+ 
+1. EXECUTIVE SUMMARY        1  
+      
+2. INTRODUCTION AND TERMS OF REFERENCE 
+ 2.1 Introduction          3 
+ 2.2 Terms of Reference         4 
+ 2.3 Source of Information         4 
+ 2.4 Units and Currency         5 
+ 2.5 Disclaimers          5 
+ 
+3. RELIANCE ON OTHER EXPERTS 
+ 3.1 Reliance on Other Experts        7 
+ 
+4. PROPERTY DESCRIPTION AND LOCATION 
+ 4.1  Location          7 
+ 4.2 Past Mining Activity, Environmental Liabilities and  
+  Permitting           7 
+ 4.3 Property Description         8 
+ 4.4 Recent Ownership History and Underlying Agreements    9 
+ 
+5. ACCESSIBILITY, CLIMATE, LOCAL RESOURCES AND INFRASTRUCTURE 
+ AND PHYSIOGRAPHY 
+ 5.1 Access          14 
+ 5.2 Climate         14 
+ 5.3 Local Resources and Infrastructure      15 
+ 5.4 Physiography         15 
+ 
+6. HISTORY 
+ 6.1 General History        17 
+ 
+7. GEOLOGICAL SETTING 
+ 7.1 General Geological Setting       23 
+ 7.2 Regional Geology and Structure      26 
+ 7.3 Property Geology        27 
+ 7.4 Structural Geology        29 
+ 
+8. DEPOSIT TYPES 
+ 8.1 General Deposit Types       37 
+ 
+9. MINERALIZATION 
+ 9.1 General Description of the Mineralization     41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ ii
+
+TABLE OF CONTENTS 
+(Continued) 
+
+          Page 
+ 
+ 
+10. EXPLORATION 
+ 10.1 A General Description of Exploration Programs  
+  2003 to May 10, 2009        42 
+ 10.2 Bedrock Mapping and Lithogeochemistry     42 
+ 10.3 Trenches, Outcrop Stripping, and Lithogeochemistry   43 
+  10.3.1 Outcrop Stripped area 1 and Expanded Area    43 
+  10.3.2 Outcrop Stripped Area 2      43 
+  10.3.3 Outcrop Stripped Area 3      44 
+  10.3.4 Outcrop Stripped Area 4      44 
+  10.3.5 Outcrop Stripped Area 5 (the Rusk Showing)   44 
+ 10.4 Mobile Metal Ion (MMI) Soil Sampling Survey    45 
+ 
+11. DIAMOND DRILLING 
+ 11.1 General description of the Diamond Drill Programs    63 
+ 11.2 Lake Shore Core Handling and Logging Protocols    63 
+ 11.3 Hole Collar and Down Hole Attitude Surveys     64 
+ 
+12.  SAMPLING METHOD AND APPROACH 
+ 12.1  General         76 
+  
+13. SAMPLE PREPARATION, ANALYSIS AND SECURITY 
+ 13.1 Sample Preparation and Assay Procedures     79 
+ 13.2 Quality Assurance / Quality Control      80 
+  13.2.1 Standards and Blanks       80 
+  13.2.1 Check Assays        80 
+ 13.3 Security         81 
+ 
+14. DATA VERIFICATION AND SITE VISIT      81 
+ 
+15. ADJACENT PROPERTIES        81 
+ 
+16. MINERAL RESOURCE AND MINERAL  
+ RESERVE ESTIMATES        82 
+ 
+17. MINERAL PROCESSING AND METALLURGICAL TESTING   82 
+ 
+18. OTHER RELAVANT DATA AND INFORMATION     83 
+  
+19. INTERPRETATION AND CONCLUSIONS      83 
+ 
+20. RECOMMENDATIONS 
+ 20.1 General         84 
+ 20.2 Lake Shore Proposed Work Plan and Budget    86 
+ 
+ 
+
+ 
+
+
+
+ iii
+
+TABLE OF CONTENTS 
+(Continued) 
+
+          Page 
+ 
+CERTIFICATES 
+  
+ Certificate – David H. R. Powers, P.Geo      87 
+ 
+REFERENCES 
+ General          89 
+ Assessment Files (Assessment File Research Imaging (ARRI))   94 
+ Thunder Creek Press Releases       100 
+ 
+
+ 
+LIST OF TABLES 
+
+ 
+Table 2.4.1 Abbreviations          6 
+ 
+Table 4.2.1 Species at Risk         8 
+Table 4.3.1 List of Claims         11 
+Table 4.4.1 Thunder Creek Property, Bristol Township      13 
+  Claim List (May 17, 2009) 
+ 
+Table 5.2.1 Average Temperatures, Precipitation, and 
+  Snow Fall Depth for the Timmins Area     14 
+ 
+Table 6.1.1  List of "T-file" Assessment Reports for the  
+  Thunder Creek Property and Surrounding Area    20 
+Table 6.1.2 List of "AFRI" Reports for the Thunder Creek 
+  Property and Surrounding Area      21 
+ 
+Table 7.2.1 Tectonic Assemblages       30 
+Table 7.2.2 A Simplified Sequence of Geological Events for 
+  the Timmins Camp (after Melnik-Proud, 1992)    33 
+ 
+Table 8.1.1 Operations of Greater Than 100,000 Ounces of 
+  Gold Production in the Porcupine Gold Camp    37 
+ 
+Table 10.1.1 Thunder Creek Property Work Completed to Date    42 
+Table 10.4.1 Summary of Soil Sampling Statistics      45 
+Table 10.4.2 2004 and 2006 Saw Channel Sample, and Rock 
+  Sample Gold Assay Results (Appendix 1)   104 
+ 
+Table 11.1.1 Diamond Drill Hole Collar Details      65 
+Table 11.1.2 Diamond Drill Targets        67 
+Table 11.1.3   Assay Results Released by Lake Shore Gold Corp.    68 
+Table 11.1.4 Assay Results Equal to or Greater Than 1 Gram 
+  per Tonne Gold (Appendix 2.)     107 
+           
+Table 12.1.1 Diamond Drill Core Sampling Summary     77 
+ 
+
+
+
+ iv
+
+TABLE OF CONTENTS 
+(Continued) 
+
+          Page 
+ 
+ 
+
+LIST OF FIGURES 
+ 
+Figure 4.1.1 Location Sketch of the Thunder Creek Property    10 
+Figure 4.3.1 Claim Map         12 
+ 
+Figure 5.4.1 Physiography         16 
+ 
+Figure 7.2.1 Tectonic Assemblages of the Eastern Abitibi  
+  Subprovince          31 
+Figure 7.2.2 The Southern Abitibi Subprovince (Ontario) 
+  Time Line         32 
+Figure 7.2.3 The Regional Geology       34 
+Figure 7.3.1 Property Geology        35 
+Figure 7.3.2 Sample Locations        36 
+ 
+Figure 8.1.1 Stratigraphy Hosting Gold Mineralization in the Timmins 
+  Gold Camp         40 
+ 
+Figure 10.3.1 Trench Location Map        47 
+Figure 10.3.2 Trench Map Area 1 and 1 extension      48 
+Figure 10.3.3 Trench Map Area 2        49 
+Figure 10.3.4 Trench Map Area 3        50 
+Figure 10.3.5 Trench Map Area 4        51 
+Figure 10.3.6 Trench map Area 5        52 
+Figure 10.4.1 MMI Soil Geochemistry Map ppb Au      53 
+Figure 10.4.2 MMI Soil Geochemistry Map ppb Ag      54 
+Figure 10.4.3 MMI Soil Geochemistry Map ppb Co       55  
+Figure 10.4.4 MMI Soil Geochemistry Map ppb Ni      56 
+Figure 10.4.5 MMI Soil Geochemistry Map ppb Pd      57 
+Figure 10.4.6 MMI Soil Geochemistry Map Response Ratio Au    58 
+Figure 10.4.7 MMI Soil Geochemistry Map Response Ratio Ag    59 
+Figure 10.4.8 MMI Soil Geochemistry Map Response Ratio Co    60 
+Figure 10.4.9 MMI Soil Geochemistry Map Response Ratio Ni    61 
+Figure 10.4.10 MMI Soil Geochemistry Map Response Ratio Pd    62 
+ 
+Figure 11.1.1a Diamond Drill Hole Collar Location Plan (holes 1-49)   71 
+Figure 11.1.1b Diamond Drill Hole Collar Location Plan (holes 50-71)   72 
+Figure 11.1.2 Generalized Diamond Drill Section      73 
+Figure 11.1.3 Idealized Composite Section of Thunder Creek and  
+  Timmins Mine         74 
+Figure 11.1.4 Longitudinal Section of the Rusk Zone     75 
+ 
+Figure Appendix 3.1 May 29, 2009 Traverse     120 
+ 
+      
+
+ 
+
+
+
+ v
+
+TABLE OF CONTENTS 
+(Continued) 
+
+          Page 
+Appendix 1. 
+
+ 
+Table 10.4.2 2004 and 2006 Saw Channel Sample, and Rock 
+  Sample Gold Assay Results (Appendix 1)   104 
+
+ 
+ 
+
+Appendix 2. 
+ 
+
+Table 11.1.1.4 Significant Assay Results, and Composite Assays 
+   Greater Than or Equal to 1 Gram Gold per Tonne  110 
+
+ 
+ 
+
+Appendix 3. 
+ 
+
+LIST OF PLATES 
+ 
+Plate 1.,  Diamond Drill Hole TC09-68 (TC09-68a, b, c)  
+  May 29, 2009       121 
+ 
+Plate 2.,  Lake Shore's field grid looking 150°    122 
+ 
+Plate 3.,  MMI sample station 392544     122 
+ 
+Plate 4.,  Overburden stripping Area Five (Rusk Showing)  123 
+ 
+Plate 5.,  Saw  channel sampling Area Five    123 
+ 
+Plate 6.,  Area Five, Altered Alkali Intrusive Complex   124 
+ 
+Plate 7.,  Area Five, Alkali Intrusive Complex (Pyroxenite)  124 
+ 
+Plate 8.,  Garnetiferous pegmatitic injection into Pyroxenite, 
+  Area Five       125 
+ 
+Plate 9.,  Area One, South West Shear Zone    125 
+ 
+Plate 10.,  Overburden Stripping Area One    126 
+ 
+Plate 11.,  Overburden Stripping Area Three East-West  
+  Shear Zone       126 
+ 
+Plate 12.,  Old Trench trending East-West    127 
+ 
+Plate 13.,  Old Cut Timbers      127 
+ 
+Plate 14.,  Collar TC03-01      128 
+ 
+Plate 15.,  Collar TC07-28      128 
+
+
+
+ vi
+
+TABLE OF CONTENTS 
+(Continued) 
+
+          Page 
+ 
+Plate 16.,  Collar TC08-52      129 
+ 
+Plate 17.,  North boundary line of Thunder Creek Property and  
+  The Timmins West Gold Property    129 
+ 
+ Plate 18., Racked saw split core from drill hole TC08-63  130 
+ 
+Plate 19.,  Cross piled hanging wall core from TC07-43 and TC07-41 130 
+ 
+Plate 20., Racked saw split core from drill hole TC09-71  131 
+ 
+Plate 21., Racked core from drill holes TC09-70, and TC09-71 131 
+ 
+Plate 22.,  Cartons of coarse sample reject in Lake Shore Gold 
+  Corp.'s Timmins field office compound.   132 
+ 
+Plate 23., Locked storage lockers for storage of returned assay  
+  pulps        132 
+ 
+Plate 24., Assay pulps are stored in a secure, systematic,  
+  orderly fashion      133 
+ 
+Plate 25., Assay pulp storage boxes are clearly labeled with assay  
+  preparation laboratory location and analysis worksheet  
+  number, the date and assign internal laboratory number 133 
+ 
+Plate 26., The core logging facility for  Laura Krupka-Crites and  
+  Jacques Samson reviewing intersections in TC08-34,  
+  TC08-36 with author.      134 
+ 
+ 
+Plate 27.,          Laura Krupka-Crites, core logging directly to computer. 134 
+ 
+ 
+Plate 28.,  Looking northward, from the projected surface expression  
+  of the Rusk Zone Extension toward the Timmins West  
+  Gold headframe.      135 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 1
+
+1.0  EXECUTIVE SUMMARY 
+ 
+This report is an independent, National Instrument 43-101 compliant technical review 
+and report for Thunder Creek Property that is being explored as a joint venture between 
+Lake Shore Gold Corp and West Timmins Mining Inc.   The work programs reviewed 
+cover the time span from 2003 to June 24, 2009.  Lake Shore Gold Corp.'s field 
+programs are current with 4 diamond drills turning on the Thunder Creek Property. 
+ 
+The Thunder Creek Property is situated approximately 21 kilometres west of the City of 
+Timmins, near the junction of Highways 144, south to Sudbury, and 101 west to 
+Chapleau and Wawa.  On May 1, 2008, Lake Shore Gold Corp. notified West Timmins 
+Mining Inc. ("WTM") that the requirements to earn a 60% ownership interest in the 
+Thunder Creek Property have been completed. The terms for original option agreement 
+are outlined in an agreement with Band-Ore Resources Ltd. ("Band-Ore") dated 
+November 07, 2003  An amalgamation between Sydney Resources Corporation and 
+Band-Ore Resources Ltd. (September 13, 2006) merged the Thunder Creek property 
+into a new company West Timmins Mining Inc. The term of the agreement with Band-
+Ore Resources Ltd. continued unchanged with West Timmins Mining Inc.   
+ 
+The exploration programs are designed to test, and to delineate gold mineralization 
+hosted within a tectonic zone that overprints a westward dipping contact of 
+metamorphosed mafic volcanic rocks and sediments which have been intruded by an 
+alkalic igneous complex.  This lithology is the southern, along strike continuation of the 
+mineralized rock units that are located at the contiguous Timmins West Gold Project 
+property.  SRK (2007) estimate a NI 43-101 compliant Probable Mineral Reserve at 
+3387,000 tonnes grading an average 7.59 gram per tonne gold (cut grade of 3 g/t Au) 
+containing 826,000 ounces of gold (25.7 M g) for the Timmins West Gold Property.   
+ 
+Work completed to date on the Thunder Creek Property includes: geological mapping, 
+outcrop overburden washing, channel sampling, a Mobile Metal Ion geochemical survey, 
+line cutting, and 5 phases of diamond drilling.  A fifth phase diamond drill program is 
+currently active with 75 bore holes plus seven wedge piercings having been collared for 
+a completion of 40,689 metres of coring and over 20,102 core samples submitted for 
+gold analysis. An additional diamond drill has recently been commissioned to the 
+property bringing the total number of drills to three. 
+ 
+The quality of the Lake Shore's reports, drill logs, and databases reviewed by the author 
+are detailed and maintain a level of high professional standards. 
+ 
+The Thunder Creek Project has advanced from a grassroots, anomaly testing, 
+exploration program to a mineralized zones detailed definition drilling program.  A gold 
+nugget effect has been recognized in the assaying process and the required steps for a 
+more robust QA/QC vigilance is in the process of being implemented.  A data base 
+manager to handle the QA/QC has been hired and the assay protocol has been changed 
+such that all suspected mineralized zones will be assayed by pulp and metallic method 
+procedures.   
+ 
+The gold mineralization, within the Thunder Creek Property is hosted within a tectonite 
+zone that straddles the mafic volcanic, sediment contacts and portions of the alkalic 
+intrusive complex.  There appears to be one zone with multiple higher grade shoots 
+within.  The definition drilling required to join up one shoot to another, from hole to hole 
+
+
+
+ 2
+
+may require the drilling off at 12.5 metre centres.  With target depths at - 400 to – 1000 
+metres below surface this type of detail drilling is not practical from surface.  With 
+continued success in intersecting significant ore grade gold tenor, an underground 
+exploration program of drill drifting, mineralization cross cutting, mapping and sampling 
+on more than one level, with a raise between levels to determine mineralization 
+continuity should be considered.  A two level drifting program will allow a significant bulk 
+sample to be taken and mill tested.   
+ 
+An aggressive multi drill rig diamond drill program is required to test the down dip, along 
+strike, and down plunge extensions of the mineralization.  Detailed, sectional fan drilling 
+is required for resource estimation.  A preliminary resource calculation and block 
+computer model should be targeted for completion within the next 6 to 9 months. 
+ 
+Bore hole TC09-68b has returned the best assay results intersected within the Thunder 
+Creek property.  The pierce point of this hole, as demonstrated on a longitudinal 
+projection, occurs approximately 42 metres above the parent hole TC09-68 and 
+approximately 33 metres above the first wedge splay TC09-68a.  This intersection also 
+occurs approximately 717 metres below surface and at an approximate distance of 88 
+metres from TC09-69 and 131 metres from TC09-70.  The weighted average of returned 
+gold analysis is 12.75 grams per tonne over 83.4 metres.  Gold mineralization greater 
+than 1 gram per tonne is reported for 102 core samples of which 7 samples exceeded 
+values of 34.29 g/tonne (1 ounce/ton Au).   Tables 11.1.3 and 11.1.4 tabulate the 
+weighted averages of assay results for the Thunder Creek diamond drill programs.  
+ 
+The recommended work program and budget for the Thunder Creek project includes 
+detailed sectional diamond drilling of the Rusk Zone (44,000 metres) at 50 metre centres 
+testing above -800 metres; intermediate step out diamond drilling at 100 to 200 metre 
+centres along the extensions of the Rusk Zone (19,000 metres) to test the along strike 
+and dip potential of the north and south extensions; and wide spaced exploratory drilling 
+to test a variety of "other targets" at the Thunder Creek property (5,000 metres).  "Other 
+targets" include the southwest extension of the volcanic and sedimentary contact from 
+the Rusk Zone, as well as the margins of the syenite stock located to the immediate 
+south of the Rusk Zone.  As a result of receiving encouraging ore grade drill intercepts 
+an underground program of driving a drill drift platform on two levels and bulk sampling 
+is in the cost review and planning stage.   
+
+
+
+ 3
+
+2.0   INTRODUCTION AND TERMS OF REFERENCE 
+ 
+ 
+2.1 Introduction 
+ 
+Lake Shore Gold Corp. ("Lake Shore", "LSG") is a public company listed on the TSX 
+Exchange and trading under the symbol LSG. The corporate head office is located in 
+Toronto, Ontario at 181 University Avenue, Suite 2000, M5H 3M7.  Lake Shore was 
+founded in 2002 to explore for precious and base metals hosted within the Quebec and 
+Ontario portions of the Canadian Shield.  Information taken from Lake Shore's internet 
+website list their major projects and grade estimates within the Porcupine Mining Camp 
+to include the Bell Creek mine and mill complex, West Timmins Project, and the Thunder 
+Creek Project.  SRK Consulting (Canada) Inc. ("SRK)", present a NI 43-101 compliant 
+resource estimate for the Timmins West Gold Property that includes: 3,268,000 tonnes 
+at 8.62 g/t Au cut (905,000 contained ounces gold) or 12.29 g/t Au uncut (1,291,000 
+contained ounces gold) in the Indicated Resource category; and an additional 968,000 
+tonnes with an average grade of 5.62 g/t Au in the Inferred Resource category.  The Bell 
+Creek Complex includes historical, non NI 43-101 compliant inferred resources for the 
+Bell Creek Mine at 346,000 tonnes at 7.70 g/t Au for 85,880 ounces gold (uncut); the 
+Vogel property at 642,000 tonnes at 12.2 g/t Au containing 261,200 ounces of gold in 
+non compliant measured and indicated description plus an additional non compliant 
+inferred resource of 933,800 tonnes at 12.2 g/t Au for 379,800 ounces of gold; and the 
+Schumacher Property with a historical measured and indicated resource of 156,000 
+tonnes at 5.99 g/t Au for 30,043 ounces of gold (uncut) (LGS webpage, 
+http://www.lsgold.com/explorationBellCreekComplex.html, 2009).   
+ 
+In a letter dated November 20th, 2007, Lake Shore informed West Timmins Mining Inc., 
+that LSG have completed their 60% ownership in interest in the Thunder Creek Project 
+(the "Project") by expending more than $1,705,000 dollars (Canadian), issuing 100,000 
+shares and making cash payments of $370,000 dollars (Canadian) within the required 5 
+year period. The option agreement with Band-Ore Resources Ltd. ("Band-Ore") dated 
+November 07, 2003 is survived by an amalgamation of Sydney Resources Corp. 
+("Sydney") and Band-Ore to form West Timmins Mining Inc. ("WTM").  A press release 
+announcing the fulfillment of the option agreement obligations and the 60% interest earn 
+in was issued December 04, 2007.   
+ 
+West Timmins Mining Inc. maintains their 40% ownership interest in the Thunder Creek 
+Project by actively financing their portion of the exploration expenditures.  WTM's head 
+office is located at 555 Burrard Street, Suite 328, Vancouver, British Columbia, V6C 
+2B5. Correspondence from WTM to LSG dated May 1, 2008 acknowledges and confirms 
+LSG's 60% ownership of Thunder Creek Property and option.  
+ 
+The original Thunder Creek Project acquired from WTM consists of 54 claim units.  An 
+additional 6 claim units were acquired by staking and rolled into the option agreement.  
+The portions of property are subjected to various underlying royalties.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 4
+
+2.2 Terms of Reference 
+ 
+David Powers Geological Services ("DPGS") was retained by the Thunder Creek Joint 
+Venture to carry out an independent technical review of the Thunder Creek property (the 
+"Property").  The review commenced April 29, 2009 and continued to June 29, 2009. 
+ 
+DPGS's assignment consisted of: 
+
+ Reviewing exploration data generated from programs initiated in 2003 to 
+the May 10, 2009; 
+
+ Undertake site field visits confirming data sampling locations; 
+ Review mineralized zones at the core shack with Lake Shore personnel; 
+ Prepare a National Instrument 43-101 compliant report for the Property; 
+
+and 
+ Carry out a review of 2009 proposed work and budget for the Thunder 
+
+Creek property. 
+ 
+DPGS's review has been completed, and this report is prepared in compliance with the 
+standards of the Canadian Securities Administrators' National Instrument 43-101 ("NI 
+43-101"). 
+ 
+ 
+2.3 Sources of Information 
+ 
+During the preparation of this report, DPGS relied on reports, and data supplied by Lake 
+Shore at their exploration office situated at 1515 Government Road South, Timmins, 
+Ontario, and their core shack - project office, located at the Bradley Brothers Ltd, 
+industrial sited at 3300 Riverside Drive, Timmins, Ontario. 
+ 
+Historical "T-File" assessment reports were reviewed at the Ministry of Northern 
+Development and Mines' ("MNDM") office at the Ontario Government Complex, Highway 
+101E, Timmins (Porcupine), Ontario.  Assessment reports were accessed from the web 
+by searching the Assessment File Research Imaging ("AFRI") at: 
+ www.geologyontario.mndm.gov.on.ca/. 
+ 
+Claim ownership and due dates were check on line May 17, 2009 by the author. 
+ (http://www.mci.mndm.gov.on.ca/Claims/Cf_Claims/ ) 
+ 
+Press release data for both Lake Shore and WTM were extracted from the company's 
+site hosted on SEDAR: http://www.sedar.com/DisplayProfile. 
+ 
+Finalized assay certificates were viewed on line with a password entry log in to ALS 
+Mineral Division Webtrieve database.  
+ 
+The most recent site visit was carried out by David Powers, P. Geo., and Qualified 
+Person ("QP") on May 29, 2009.  During this visit gps measurements of selected 
+diamond drill casings were taken and compared with completed diamond drill logs; 
+trench locations were observed for geology, structure and channel sampling; cut line 
+location coordinates were taken and compared with what has been reported and 
+selected MMI sample sites were observed.   On May 05th, June 01st, and June 29th, 2009 
+selected diamond drill hole cores were observed, reviewing geology, and mineralization 
+
+
+
+ 5
+
+location and styles.  Assay protocols and sample locations, were observed and 
+compared with selected drill logs.  The core storage was reviewed for completeness and 
+security. 
+ 
+Documents used for background information and project details during the preparation of 
+this report are listed in the section "References". 
+ 
+ 
+2.4 Units and Currency 
+ 
+Metric and Imperial units are used throughout this report.  Canadian dollars ("C$") is the 
+currency used unless otherwise noted.  On May 27, 2009 the exchange rate was 
+approximately $1 US dollar to 1.114 C$. 
+ 
+Common conversions used included converting one ounce of gold to grams gold with a 
+factor of 31.104 grams/troy ounce; and one ounce gold per ton ("oz Au/t, or opt Au") with 
+a conversion factor of 34.29 grams gold per tonne ("g Au/t, or gpt Au"). 
+ 
+Table 2.4.1, lists the common abbreviations is used in the report. 
+ 
+ 
+2.5 Disclaimers 
+ 
+This report or portions of this report containing pertinent technical information are not to 
+be reproduced or used for any purpose other than those noted above, without the prior 
+written consent of the author.  The author does not assume any responsibility, or liability 
+for losses occasioned by any party as a result of the circulation, publication, or 
+reproduction, or use of this report contrary to the provisions of this paragraph.  
+ 
+
+
+
+ 6
+
+Table 2.4.1: Abbreviations 
+Abbreviation     Unit or Term 
+AA      Atomic Absorption 
+Ag      silver 
+Au      gold 
+AZ,      azimuth 
+cm      centimeter 
+cm2      square centimeter 
+cm3      cubic centimeter 
+Co      cobalt 
+°      degree (degrees) 
+ddh      diamond drill hole 
+ft      foot (feet) 
+g      gram 
+gpt      grams per tonne 
+Ga      gigayears, a billion years 
+ha      hectare 
+kg      kilogram 
+km      kilometre 
+km2      square kilometres 
+l      litre 
+m      metre 
+m2      square metres 
+m3      cubic metres 
+mm      millimetre 
+mm2      square millimetres 
+mm3      cubic millimetres 
+MMI      mobile metal ion 
+M oz      million troy ounces 
+M g      million grams 
+Mt      million tonnes 
+Ma      million years 
+Ni      nickel 
+NI 43-101     Canadian National Instrument 43-101 
+oz      ounce 
+%      percent 
+Pd      palladium 
+PGE, pge     Platinum Group Elements 
+PGM, pgm     Platinum Group Metals 
+Pt      Platinum 
+ppb      parts per billion 
+ppm      parts per million  
+QA/QC      Quality Assurance/Quality Control 
+RC      rotary circulation/reverse circulation drilling 
+RQD      Rock Quality Description 
+S      second 
+SG      specific gravity 
+St      short ton (2,000 pounds) 
+t      metric tonne (2,000 kg) (2,204.6 pounds) 
+µ      micron (microns) 
+ 
+
+
+
+ 7
+
+ 
+3.0   RELIANCE ON OTHER EXPERTS 
+
+ 
+3.1  Reliance on Other Experts 
+ 
+The author has prepared this report using a combination of public available and 
+confidential information.  This report is sourced from an amalgamation of several reports 
+listed it the section labeled References.  Qualified Person Mr. Jacques Samson, P.Geo., 
+is and has been the QP responsible for overseeing and reporting the exploration 
+programs surveyed at the Thunder Creek Project.  His knowledge and documentation 
+has been instrumental in the preparation of this report.   The author has reviewed drill 
+logs, and assay certificates issued during the exploration phases and have found them 
+to be consistent and believe the data to be reliable within testable parameters. 
+ 
+Active mining claim abstracts have been reviewed online at: 
+ http://www.mci.mndm.gov.on.ca/Claims/Cf_Claims/.   The ownership on record remains 
+in the name of West Timmins Mining Inc. (100 %.)  Credits for assessment report 
+submitted by Lake Shore and received by MNDM March 25, 2009 remains pending 
+accreditation under number W0960.01052.  No formal legal opinion has been sought on 
+the Thunder Creek Property. 
+ 
+Some figures for this report have been prepared by Mr. Tom Savage, and others in the 
+employ of Lake Shore Gold Corp. and modified by the author. 
+  
+
+ 
+ 
+
+4.0   PROPERTY DESCRIPTION AND LOCATION 
+ 
+4.1 Location 
+ 
+The Thunder Creek property is situated approximately 21 kilometres west of Timmins 
+city centre, and approximately 552 straight line kilometres north-north-west of Ontario's 
+provincial capital city, Toronto.  The centre of the Project is located within national 
+topography series map reference 42-A-05; at longitude 81.57° west / 48.37° north 
+latitude.  Universal Transverse Mercator ("UTM") co-ordinates for the project centre 
+utilizing projection North American Datum ("NAD") 83, Zone 17 are approximately 
+458,050 metres east, 5,357,923 metres north.  Easy, all weather road access to the 
+property is provided by provincial Highways 101 and 144, with bush roads and timber 
+cutting or diamond drill trail side roads. The junction of Highways 101 and 144 is situated 
+1.8 kilometres north-west of the property centre. Figure 4.1.1, Location Map, illustrates 
+the Project area relative to the highways, City of Timmins and the City of Toronto. 
+ 
+ 
+4.2 Past Mining Activity, Environmental Liabilities and Permitting 
+ 
+To the best of the author's knowledge there has been no past mining activity in the form 
+of blasting, excavating, and processing bulk material from the Thunder Creek Property.  
+Small, shallow, historical test pits have been dug into the overburden and are now 
+overgrown.   
+ 
+
+
+
+ 8
+
+To the best of the author's knowledge there are no environmental issues or liabilities 
+resulting for the exploration activities or timber harvesting within the boundaries of the 
+Thunder Creek Project. 
+ 
+To date no permitting has been required to explore the Property. 
+ 
+From the Ministry of Natural Resources' Species at Risk in Ontario ("SARO") list, the 
+following species could range within the Project area.   
+(http://www.mnr.gov.on.ca/en/Business/Species/2ColumnSubPage/246809.html) 
+ 
+Table 4.2.1: Species at Risk 
+Common Name  Scientific Name   OMNR Status 
+Lake Sturgeon   Acipenser fluvescens   special concern 
+Golden Eagle   Aquila chrysaetos   endangered 
+Short-eared Owl  Asio flammeus   special concern 
+Eastern Wolf   Canis lupus lycaon   special concern 
+Black Tern   Chlidonias niger   special concern 
+Yellow Rail   Coturnicops noveboracensis  special concern 
+Monarch Butterfly  Danaus plexippus   special concern 
+Bald Eagle   Haliaeetus leucocephalus  special concern 
+Peregrine Falcon  Falco peregrinus   threatened 
+Eastern Cougar  Puma concolor   endangered   
+ 
+The author is not aware of any of these species being present within the area of the 
+Property. 
+ 
+ 
+  
+4.3 Property Description 
+ 
+The Thunder Creek property is comprised of a contiguous block of 37 staked or 
+unpatented mineral claims and three patented mining claims located in Bristol and 
+Carscallen Townships, within the Porcupine Mining Division of Ontario. Covering an area 
+of approximately 981 hectares the area equates to a total of 60 claim units.  The majority 
+(96.3%) of the property is situated within Bristol Township, and approximately 36 
+hectares (3.7%) is located in Carscallen Township.  
+ 
+Registered title on record resides with West Timmins Mining Inc. (100%) for the original 
+54 claim units optioned from Band-Ore Resources Ltd.  The 4 claims (6 claim units) 
+staked by Lake Shore Gold Corp remain registered 100 percent to Lake Shore. 
+ 
+Lake Shore has reported that the company has earned a 60% ownership interest in the 
+project by completing an excess of 1,705,000 C$ expenditures, 370,000 C$ in cash 
+payments and the issuing of 100,000 shares within the 5 year payment.  Under the 
+terms of the agreement dated November 07, 2003 properties acquired by either party 
+within 1 kilometre of the Thunder Creek Property is subject to the terms of the 
+agreement.  
+ 
+The claim ownership and statistics are summarized in Table 4.3.1.  Assessment work 
+has been submitted by Lake Shore and received by MNDM March 25, 2009 remains 
+
+
+
+ 9
+
+pending accreditation under work number W0960.01052.  Each individual claim status 
+was checked on line May 17, 2009 by the author.  
+(http://www.mci.mndm.gov.on.ca/Claims/Cf_Claims/ )   
+ 
+Figure 4.3.1 is a Claim Sketch Map illustrating the claim numbers and boundaries 
+relative to locate topographic and cultural features. 
+ 
+ 
+4.4 Recent Ownership History and Underlying Agreements 
+ 
+The staked mineral claims of the Thunder Creek Property are all in good standing with 
+applied assessment credits until 2011.  An assessment work report has been submitted 
+March 25, 2009 and is pending review approval by the mining recorder's office 
+ 
+The Thunder Creek Property assembled by Band-Ore Resources Limited prior to the 
+Lake Shore Gold Corp. option is an amalgamation of claim units acquired by staking and 
+option agreement.  Claims 1189528,1193477,1201162,1203840 and 1217601 were 
+staked by Band-Ore Resources Ltd. and are not subject to any underling royalty 
+agreements.  Mineral claims 4211037, 4211038, 4211039, and 4211040 were acquired 
+by Lake Shore Gold Corp. have no underlying royalties and are subject to the option 
+agreement with West Timmins Mining Inc. (Band-Ore Resources Ltd.) dated November 
+07, 2003.  Mineral claims optioned from Mr. Jim Croxall (Croxall) are subject to a 2% Net 
+Smelter Return ("NSR") royalty.  One percent of this royalty may be purchased for a 
+payment of 1,000,000 $C.  These claims are subject to an advanced annual royalty 
+payment of 5,000 $C until commercial production begins.  Claim number 1189886 
+optioned from Mr. Bruce Durham and partners ("Durham") has a 3.0% royalty attached, 
+with the option to purchase 1 percent for a sum of 1,000,000 $C.  Eight claims optioned 
+from the late Mr. Matt Kangas ("Kangas") (1177807,1177808, 1177809, 1177811, 
+1181410, 1181413, 1198803, and 1198804) are subject to a 2 percent NSR royalty of 
+which 1 percent may be purchased for 1,000,000 $C.  An advanced royalty payment of 
+5,000 $C is paid annually to the estate of Mr. Kangas.  Four claims 1189593, 1181995, 
+1189580 and 1189592 were purchased by Bruce Durham, Robert Duess, Ken Krug and 
+Henry Hutteri from Ray Meikle ("Meikle") and Steve Anderson and then optioned to 
+Band-Ore Resources Ltd.  A 3 percent NSR is attached 1.5 percent from Durham et al 
+and 1.5 percent from Meikle and Anderson.  There is no buy down of this royalty.  Table 
+4.4.1, outlines the status of the claims.
+
+
+
+ 10
+
+
+
+ 11
+
+Table 4.3.1 List of Claims 
+ 
+
+Owner Claim # Ha Units Patent Claims & Ownership Assessment Date 
+West Timmins Mining 1159635 16 1 18-Dec-11
+West Timmins Mining 1159636 16 1 18-Dec-11
+West Timmins Mining 1159637 16 1 18-Dec-11
+West Timmins Mining 1159638 16 1 18-Dec-11
+West Timmins Mining 1159639 16 1 18-Dec-11
+West Timmins Mining 1159640 16 1 18-Dec-11
+West Timmins Mining 1159641 16 1 18-Dec-11
+West Timmins Mining 1176341 16 1 18-Feb-11
+West Timmins Mining 1177807 16 1 13-May-11
+West Timmins Mining 1177808 16 1 13-May-11
+West Timmins Mining 1177809 16 1 13-May-11
+West Timmins Mining 1177811 16 1 13-May-11
+West Timmins Mining 1177822 16 1 04-Oct-11
+West Timmins Mining 1181409 16 1 14-Feb-11
+West Timmins Mining 1181410 16 1 14-Feb-11
+West Timmins Mining 1181413 16 1 14-Feb-11
+West Timmins Mining 1181995 32 2 P18916 & P18917 – Timmins Forest Management (FSR) 22-Jun-11
+West Timmins Mining 1189528 16 1 18-Jun-11
+West Timmins Mining 1189580 16 1 08-Jan-11
+West Timmins Mining 1189592 48 3 P18913, P10920 & P10921 – Timmins Forest Management (FSR) 19-Jun-11
+West Timmins Mining 1189593 16 1 P18918 – Timmins Forest Management (FSR) 22-Jun-11
+West Timmins Mining 1189886 96 6 07-May-11
+West Timmins Mining 1193477 96 6 04-May-11
+West Timmins Mining 1198803 16 1 14-Feb-11
+West Timmins Mining 1198804 16 1 14-Feb-11
+West Timmins Mining 1201162 16 1 04-Jul-11
+West Timmins Mining 1203840 96 6 21-Jul-11
+West Timmins Mining 1217601 16 1 26-Nov-11
+West Timmins Mining 530884 16 1 10-Oct-11
+West Timmins Mining 583234 16 1 10-Oct-11
+West Timmins Mining 649964 16 1 25-Mar-11
+West Timmins Mining 649965 16 1 25-Mar-11
+West Timmins Mining 764945 16 1 19-Apr-11
+West Timmins Mining P495307 19.49 1 West Timmins Mining (LMR) 01-Jun-11
+West Timmins Mining P495308 24.111 1 West Timmins Mining (LMR) 01-Jun-11
+West Timmins Mining P495309 25.297 1 West Timmins Mining (LMR) 01-Jun-11
+
+Original Goup 36 claims 885 ha 54 units 
+
+Lake Shore Gold 4211037 32 2 P23967 – held by City of Timmins (FSR) 02-Jun-14
+Lake Shore Gold 4211038 16 1 P23969 – held by City of Timmins (FSR) 02-Jun-14
+Lake Shore Gold 4211039 16 1 P23970 – privately held (FSR) 02-Jun-14
+Lake Shore Gold 4211040 32 2 P23971 –privately held (FSR) 02-Jun-14
+
+Tat Claim Goup 4 claims 96 ha 6 units 
+
+Total 40 claims 981 60 units 
+
+ 
+Note: LMR = Leasehold Patent Mining Rights; FSR = Freehold Patent Surface Rights;  
+ 
+ 
+ 
+
+
+
+ 12
+
+ 
+
+
+
+ 13
+
+ Table 4.4.1: Thunder Creek Property, Bristol Township, Claim List (May 17, 2009) 
+
+Annual
+Claim Due Required Credits In Royalty
+
+Number Units Recorded Date Expenditure Reserve To
+530884 1 10/10/1980 10/10/2011 $400 $ 2,387 * Croxall
+583234 1 10/10/1980 10/10/2011 $400 $ 25,004 * Croxall
+649964 1 03/25/1983 03/25/2011 $400 $ 229 * Croxall
+649965 1 03/25/1983 03/25/2011 $400 $ 29,742 * Croxall
+764945 1 04/19/1984 04/19/2011 $400 $ 1,092 * Croxall
+
+1159635 1 12/18/1990 12/18/2011 $400 $ 546 * Croxall
+1159636 1 12/18/1990 12/18/2011 $400 $ 24,582 * Croxall
+1159637 1 12/18/1990 12/18/2011 $400 $ 12,049 * Croxall
+1159638 1 12/18/1990 12/18/2011 $400 $ 1,773 * Croxall
+1159639 1 12/18/1990 12/18/2011 $400 $ 1,559 * Croxall
+1159640 1 12/18/1990 12/18/2011 $400 $ 61,764 * Croxall
+1159641 1 12/18/1990 12/18/2011 $400 $ 805 * Croxall
+1176341 1 02/18/1991 02/18/2011 $400 $ 1,169 * Croxall
+1177807 1 02/18/1991 05/13/2011 $400 $ 0 * Kangas
+1177808 1 02/18/1991 05/13/2011 $400 $ 312 * Kangas
+1177809 1 02/18/1991 05/13/2011 $400 $ 1,637 * Kangas
+1177811 1 02/18/1991 05/13/2011 $400 $ 1,403 * Kangas
+1177822 1 10/04/1991 10/04/2011 $400 $ 4,296 * Croxall
+1181409 1 02/14/1994 02/14/2011 $400 $ 156 * Croxall
+1181410 1 02/14/1994 02/14/2011 $400 $ 17,851 * Kangas
+1181413 1 02/14/1994 02/14/2011 $400 $ 1,793 * Kangas
+1181995 2 06/22/1992 06/22/2011 $800 $ 4,054 * Meikle
+1189528 1 06/22/1992 06/22/2011 $400 $ 15,189 * Band-Ore
+1189580 1 01/08/1993 01/08/2011 $400 $ 1,013 * Meikle
+1189592 3 06/19/1992 06/19/2011 $1,200 $ 28,407 * Meikle
+1189593 1 06/19/1992 06/22/2011 $400 $ 624 * Meikle
+1189886 6 05/07/1992 05/07/2011 $2,400 $ 53,834 * Durham
+1193477 6 05/07/1992 05/04/2011 $2,400 $ 1,793 * Band-Ore
+1198803 1 02/14/1994 02/14/2011 $400 $ 0 * Kangas
+1198804 1 02/14/1994 02/14/2011 $400 $ 0 * Kangas
+1201162 1 07/04/1994 07/04/2011 $400 $ 780 * Band-Ore
+1203840 6 07/21/1995 07/21/2011 $2,400 $ 0 * Band-Ore
+1217601 1 11/26/1996 11/26/2011 $400 $ 0 * Band-Ore
+4211037 2 06/02/2006 06/02/2014 $800 $0 LSG
+4211038 1 06/02/2006 06/02/2014 $400 $0 LSG
+4211039 1 06/02/2006 06/02/2014 $400 $0 LSG
+4211040 2 06/02/2006 06/02/2014 $800 $0 LSG
+P495307 1 06/01/1990 06/30/2011 Lease Croxall
+P495308 1 06/01/1990 06/30/2011 Lease Croxall
+P495309 1 06/01/1990 06/20/2011 Lease Croxall
+
+Totals 60 $295,843
+ 
+
+*Work report approval pending at time of writing (W0960.01052) 
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+ 14
+
+5.0   ACCESSIBILITY, CLIMATE, LOCAL RESOURCES AND 
+INFRASTRUCTURE AND PHYSIOGRAPHY 
+
+ 
+ 
+ 
+5.1 Access 
+ 
+The centre of the Property is located within national topographic series map reference 
+42-A-05; at longitude 81.57° west, 48.37° north latitude.  UTM co-ordinates for the 
+Property centre projected in NAD 83, Zone 17 are approximately 458,050 metres east, 
+5,357,923 metres north.  All weather road access to the property is provided by 
+provincial Highways 101 and 144 with bush roads and timber cutting, and diamond drill 
+trail side roads. A major power transmission line traverses portions of the property and 
+provides additional access.  The junction of Highways 101 and 144 is located 1.8 
+kilometres north-west of the Property centre.  Figure 4.1.1, Location Sketch, illustrates 
+the Project area relative to the highways, City of Timmins and the City of Toronto. 
+ 
+ 
+5.2 Climate 
+ 
+The Thunder Creek Property and the City of Timmins experience a Continental Climate 
+with an average mean temperature range of -17.5°C (January)  to +17.4° (July) and an 
+annual precipitation of about 831mm.  The following table (Table 5.2.1) summaries the 
+average temperatures and precipitation values for the 15 year period taken from the 
+Timmins Airport between 1971 and 2000. 
+ (http://www.climate.weatheroffice.ec.gc.ca/climate_normals/index_e.html)  
+ 
+ 
+Table 5.2.1: Average Temperatures, Precipitation and Snow Fall Depths for the 
+Timmins Area. 
+ 
+
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year
+
+Temperature 
+Daily Average (°C) -17.5 -14.4 -7.7 1.2 9.6 14.7 17.4 15.7 10.3 4.2 -4 -13.2 1.3
+Daily Maximum (°C) -11 -7.5 -0.9 7.6 16.6 21.7 24.2 22.3 16.1 8.9 0.1 -7.8 7.5
+Daily Minimum (°C) -23.9 -21.3 -14.5 -5.2 2.5 7.5 10.5 9.1 4.4 -0.6 -8.1 -18.7 -4.9
+
+Precipiation
+Rainfall (mm) 2.9 1.6 14.7 26.6 62.7 89.1 91.5 82 86.7 64 29.5 7 558.1
+Snowfall (cm) 61.7 40.6 49.9 27.5 6.7 0.4 0 0 1.6 14 45.7 65.4 313.4
+Precipitation (mm) 53.9 36.6 59.4 52.8 69.2 89.4 91.5 82 88.3 76.8 69.6 61.9 831.3
+Average Snow Depth 
+(cm) 58 66 58 25 1 0 0 0 0 0 7 29 20  
+ 
+ 
+Local lakes will start to freeze over approximately mid November, and breakup will take 
+place in early to mid May.  Work can be carried out on the Property twelve months a 
+year. 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 15
+
+ 
+5.3 Local Resources and Infrastructure 
+ 
+The local economy of Timmins is dominated by the mining and logging industries.  With 
+an area of 3,210 square kilometres, Timmins is one of Canada's largest area 
+municipalities.  The 2006 Census indicates the population to be 42,455 persons. The 
+area is serviced from Toronto via Highways 400, 69 to Sudbury; and Highway 144 to 
+Timmins; or Hwy 11 from Barrie to Matheson and 101 westward to Timmins.  The Victor 
+M. Power Airport has scheduled service provided by Air Canada Jazz, Bearskin Airlines 
+and Air Creebec.  The Timmins District Hospital is a major referral health care centre for 
+northeastern Ontario.   
+ 
+The Property is transected by Highways 101 and 144 and is in close proximity to the 
+main hydro grid transmission line.  An experienced mining labour pool is accessible in 
+the Timmins area. 
+ 
+ 
+5.4 Physiography 
+ 
+The Property generally exhibits low to moderate relief.  A base elevation at the junction 
+of Highways 144/101 is approximately 312 metres.  A peak height of land near the 
+property centre rises to an elevation of 351 metres.  Thunder Creek ranges in elevation 
+from 298 to 295m.  Drainage is southeast across the Property into Thunder Creek which 
+flows into the Tatachikapika River (also known as the Lost or Redsucker River) which 
+flows east-north-east to the northerly flowing Mattagami River.  Outcrop exposure is less 
+than five (5) percent.  Figure 5.4.1 illustrates the claim boundary of the Thunder Creek 
+property and Bristol Township draped over a landsat panchromatic image of the area. 
+ 
+ The Continental Climate and the location on the Canadian Shield give rise to a plant 
+hardiness zone 2a which supports the following boreal forest tree species and a timber, 
+pulp and paper industry.  In no particular order of significance local trees species 
+include: American Mountain-Ash (Sorbus Americana), Balsam Fir (Abies Balsamea), 
+Black Spruce (Pincea Mariana), Eastern White Cedar (Thuja Occidentalis), Eastern 
+White Pine (Pinus Strobus), Jack Pine (Pinus Banksiana), Pin Cherry (Prunus 
+Pensylvanica), Red Pine (Pinus Resinosa), Tamarack (Larix Laricina), Trembling Aspen 
+(Populus Tremuloides), White Birch (Betula Papyrifera) and White Spruce (Pincea 
+Glauca). 
+(http://www.mnr.gov.on.ca/en/Business/ClimateChange/2ColumnSubPage/268124.html) 
+ 
+Hawley, J.E., (1926) points out that a large part of Ogden, Bristol and Carscallen 
+Townships were swept by several forest fires dating back to 1911.  Portions of the area 
+has recently been tree harvested leaving little timber of commercial value. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 16
+
+ 
+
+
+
+ 17
+
+6.0   HISTORY 
+ 
+
+ 
+6.1  General History 
+ 
+The north and westward extension of the Temiskaming and Northern Ontario railway, 
+and Niven's survey lines from Cobalt allowed new access for the discoveries of gold 
+near Porcupine Lake.   In the early 1900's Mr. E.M. Burwash noted traces of gold in 
+quartz veins along Niven's baseline while he was employed by the Ontario Bureau of 
+Mines (1896), and was assigned to Niven's survey crew.  In 1899 Mr. W.A. Parks, also 
+working for the Ontario Bureau of Mines and attached to Niven's survey crew noted an 
+occurrence of gold in quartz veins along the portage route from the Mattagami River to 
+Night Hawk Lake.  He reported "I regard the region south of the trail to Porcupine Lake 
+as giving promise to the prospector" (Burrows, A.G., 1911, 1915; Dunbar, R., 1948). 
+While prospecting for the Algoma Central Railway (1901) Mr. Charles Camsell worked 
+on a vein occurrence returning low grade gold.  This property would become part of the 
+Hollinger Mine.  In 1907 the Temiskaming and Northern Ontario Railway reached Nellie 
+Lake (Iroquois Falls). These gold discoveries helped create interest in the Porcupine 
+area and began a rush that defined the Porcupine Gold Camp.  Mr. A.G. Hunter in 1908 
+staked claims along the east shore of Porcupine Lake protecting a native gold showing 
+associated with a shear zone occupied with quartz and schist.  1909 was a year of major 
+discoveries of the Vipond, Dome and Hollinger mines.   
+ 
+Niven's 1899 baseline forms the northern boundary of Bristol Township with Godfrey 
+Township.  Access to the Thunder Creek Project area was limited in the early 1900's to: 
+a winter road from Mattagami Heights (Timmins) north and west of the Mattagami River; 
+river access to Bristol Landing situated on township boundary of Bristol and Ogden; and 
+a wagon road across Bristol Township passing the Timmins West Property, Thunder 
+Creek and the Thunder Creek Property. The Mattagami River provided access to 
+Thorneloe Township and the Wawaitin Falls area.  The river at Wawaitin Falls had a 35 
+metre (116 feet) descent and was dammed giving rise to Mattagami Lake and a hydro 
+power generating facility to supply a portion of the Hollinger Mine power requirements.  
+The transmission line and tote road would provide access to Thorneloe and the south-
+eastern portion of Bristol Townships.   
+ 
+The discovery of gold in Bristol Township on the McAuley-Brydge property (currently 
+Lake Shore's Timmins West Gold Property) occurred in 1911.  The 1912 geology map 
+(arm21a) by A.G. Burrows and W.R. Rogers illustrated three claims (TC 612, TC613, 
+TC614) at the McAuley-Brydge occurrence plus four claims west of the Rusk occurrence 
+(HR 1187, HR1188, HR1189 and HR1191).  The 1911 fire storms swept large parts of 
+Carscallen, Bristol and Ogden townships.  The surface plants at Hollinger, Dome, West 
+Dome, Vipond, Standard, Preston, East Dome, North Dome, were entirely destroyed.  
+South Porcupine, parts of Pottsville and the North Part of Porcupine were also 
+destroyed. (Burrows, A.G., 1915, Hawley, J.E., 1926).   
+ 
+Ontario government geological mapping and report publications for Thunder Creek – 
+Bristol Township area include documentation by A.G. Burrows (1910, 1911, 1912, 1915) 
+for the Ontario Bureau of Mines; J.E. Hawley (1926) for the Ontario Department of 
+Mines; and S.A Ferguson (1957) for the Ontario Department of Mines.  Recent 
+Geological Survey of Ontario publications include: Ms. C. Vaillancourt (2000, 2001) 
+OFR6032.004 "New Geological Mapping and Compilation in the Timmins West Area – 
+
+
+
+ 18
+
+Bristol and Ogden Townships and a Preliminary Precambrian Geology Map "Timmins 
+West-Bristol and Ogden Townships (P3436)".  In 2003, Ms. C. Vaillancourt and Ms. 
+L.A.F. Hall completed miscellaneous release data ("MRD") 123, lithogeochemical data 
+for the West Timmins Area.   Ferguson's map, "Bristol Township – 1957-7" remains the  
+standard base geology for the township. 
+ 
+ Historical "T-Files" assessment reports have been reviewed at the Ministry of Northern 
+Development and Mines' ("MNDM") office at the Ontario Government Complex, Highway 
+101 East, Timmins (Porcupine), Ontario; and Assessment File Research Imaging 
+("AFRI") at: www.geologyontario.mndm.gov.on.ca/.   Table 6.0.1 and Table 6.0.2 list the 
+report files with information which add to the geological interpretation of the Thunder 
+Creek Property, plus surrounding area. It should be noted that recently submitted 
+assessment files are not in the AFRI system as there is a lag in scanning and posting 
+the submitted assessment reports to the AFRI pdf files to the web site. 
+ 
+Significant historical work has been well summarized by: Cavey, G., 2002, 2004, 2006; 
+Darling, G., et al., 2007; Ferguson, S.A., 1957; Hocking, M., and Marsden, H., 2004; 
+Samson, J., 2005, 2008, 2009; Sullivan J.R., et al., 2007; Wagner, D.W., 2008; and 
+Winter, L.D.S., 2004, 2006. 
+ 
+A few chronological highlights of exploration activities surrounding and including the 
+Thunder Creek Property are: 
+ 
+1941 Rusk Porcupine Mines  
+
+ Several pits and trenches across a 150 to 200 metre area;  
+ Eighteen diamond drill holes (1981m); 
+ Discovery pit was 1.2m x 1.2m and returned a value of $24.85 over 
+
+121.9cm, $15.05 over 76.2 cm and $8.41 over 91.4 cm (T-File 542). 
+ 
+1958 Hollinger Mines Ltd. 
+
+ 7 diamond drill holes completed in the northern portion of the property; 
+ No assays were reported. 
+
+ 
+1980 Falconbridge Nickel Mines Ltd. 
+
+ Metallurgical analysis of sample provided by Jim Croxall for the Thunder 
+Creek Property. 
+
+ 
+1981 Preussag Canada Limited 
+
+ Geophysical surveys in Bristol and Thorneloe Townships include 
+magnetometer, VLF-EM, HLEM and Induced Polarization ("IP"); 
+
+ 10 diamond drill holes (613.9m); 
+ Adjacent holes 64 metres apart intersected 2.57 grams gold per tonne 
+
+2.43m, and 4.46 g/tonne gold over 4.6m in an area of the Rusk Showing.  
+ 
+
+1984-5 Noranda Exploration Company Ltd. (NPL) 
+ Completed a regional airborne geophysical survey with flight lined flown 
+
+in 2 directions; 
+ Geological mapping, humus geochemical sampling, outcrop mechanical 
+
+stripping and trenching;   
+
+
+
+ 19
+
+ Best assays returned in the trenching were 2.86 g/tonne Au and 5.54 
+g/tonne Au; 
+
+ 9 overburden, reverse circulation drilling and 3 diamond drill holes 
+(332.3m) were also completed with no assay results reported. 
+
+ 
+1987 Highwood Resources Ltd. 
+
+ Option property from J. Croxall;  
+ 4 diamond drill holes (400m) targeting geophysical targets;  
+ No assay results are reported. 
+
+ 
+1994 Noranda Exploration Company Ltd. (NPL) 
+
+ Line cutting, ground geophysical surveys include magnetometer and IP; 
+ A single diamond drill hole (302m) with no assay results reported. 
+
+ 
+1995  Hemlo Gold Mines Inc. 
+
+ Hemlo Gold Mines fund project and work was carried out by Noranda 
+Exploration Company Ltd. (NPL); 
+
+ Surveys include line cutting, magnetometer and IP;  
+ 7 diamond drill holes 95-2 to 95-8 (1581m) with no significant assays 
+
+reported. 
+ 
+1996 Band-Ore Resources Ltd. 
+
+ Make gold discoveries and renew gold exploration in Bristol and 
+Thorneloe Townships. 
+
+ 
+1997 Battle Mountain Canada Limited 
+
+ Line cutting and geophysical surveys include magnetometer and IP 
+ 14 diamond drill holes ("ddh") (3547m) testing stratigraphy and 
+
+geophysical targets; 
+ In ddh MC 97-20 an assay returned the value of 5.9 g/tonne Au over 
+
+1.0m.   In ddh MC 97-26 there is a 2 metre interval of 1.28 g/tonne Au 
+along with a couple of scattered intervals on a metre and similar 1 gram 
+values.  
+
+ 
+2003 to Present  Lake Shore Gold Corp. 
+
+ Option the Thunder Creek Property from Band-Ore Resources Ltd. in 
+2003; 
+
+ Complete a 3 phase, 25 diamond drill holes (8,399m) targeting the Rusk 
+Zone, the ultra mafic complex, and various structures (2004); 
+
+ complete a MMI (mobile metal ion) soil geochemical survey (2004); 
+ complete a reconnaissance bed rock mapping program (2004); 
+ initiate outcrop mechanical stripping and hydro washing and saw channel 
+
+sampling program of 2 locations in the area of the Rusk occurrence 
+(2004); 
+
+ additional outcrop stripping and power-washing and saw channel 
+sampling at 3 locations (2006); 
+
+ Complete a phase 4 diamond drill program of 25 drill holes (13,760m) 
+(2008-2009); 
+
+
+
+ 20
+
+ Lake Shore fulfilled the terms of the option agreement and own 60% of 
+the Thunder Creek Property; 
+
+ In 2009 the Thunder Creek Project develops into and advanced, 
+systematic, mineralization, sectional diamond drill definition stage project 
+with phase 5 drilling currently in progress. 
+
+ 
+Regional airborne geophysical surveys have been completed by Texasgulf Inc., Noranda 
+Exploration Company Limited (NPL), Chevron Minerals Limited, Band-Ore Resources 
+Limited, Explorers Alliance Corporation, INCO, the Porcupine Joint Venture (Placer 
+Dome and Kinross) and Lake Shore Gold Corp for the Timmins West Gold Project area 
+only.  Not all of these surveys are in the public domain. 
+ 
+Table 6:1:1:  List of "T-file" Assessment Reports for the Thunder Creek Property 
+and Surrounding Area.  
+ 
+
+"T" File Number Period of Work Company / Individual
+12 1941 O'Shea, P.
+
+105 1941-42 Orpit Mines
+105 1957 Stanwell Oil and Gas Ltd.
+105 1945 Orpit Mines
+105 1938 McCauley-Brydge/Orpit Mines
+105 1933-1934 McCauley-Brydge Claims
+105 1938-1955 Piccadilly Porcupine
+105 1939 Orpit Mines
+105 1946, 1955 Piccadilly Porcupine
+285 1911, 1957 Milroy-Wilson-Harris-Paul Group
+542 1941, 1957 Rusk Porcpine Mines Limited
+556 1958-1959 Hollinger Consolidated Gold Mines Ltd.
+620 1949,1958-60. Haywood Property
+760 1938 Porcupine Pioneer Syndicate
+770 1941 O'Neill Property
+842 1968, 1979-83 Holmer Gold Mines Limited
+842 1980 Ontario Research Foundation
+842 1984 Noranda Exploration Company Limited
+1532 1973 Mill Hill Mines
+1647 1974-75 Thomas, H.
+1654 1974 Campsall, C.R.
+1941 1979-85 Texasgulf Canada Limited/Kidd Creek Mines Limited
+1950 1979-88 Croxall, J., Croxall, J & Miller D.
+2378 1981 Pressuag Canada Limited
+2618 1987-89 Chevron Minerals Limited / Chevron Canada Resources Limited
+2645 1984-88 Noranda Exploration Company Limited
+2890 1987 Esso Resources Canada Ltd.
+2913 1984-1992 Croxall, J.; Noranda Exploration Company Ltd.;  Band-Ore Resources Ltd. 
+2927 1984-86 Utah Mines Limited.
+3246 1994-96 Hemlo Gold Mines Inc.
+3317 1987-89 Cheveron Minerals Limited
+3616 1996-97 Band-Ore Resources Ltd.
+3718 1995 Hemlo Gold Mines Inc.
+3908 1997 Battle Mountain Canada Ltd.
+3932 1997 Battle Mountain Canada Ltd.
+4440 1999 Prospectors Alliance Corporation
+4516 1999 Prospectors Alliance Corporation
+4787 2002 Band-Ore Resources Ltd.
+5249 2003-2005 Band-Ore Resources Ltd.
+5371 2004 Lake Shore Gold Corp.
+5515 2005 Pelangio Mines Inc.
+5684 2006 Lake Shore Gold Corp.
+
+ 
+ 
+
+
+
+ 21
+
+Table 6:1:2:  List of "AFRI" Reports for the Thunder Creek Property and 
+Surrounding Area.  
+ 
+ 
+
+AFRI No. Year Author Company
+42A05NE8454 1958 Jones, W.A. Hollinger Mines Ltd.
+42A05NE8477 1958 Robinson, G.D. Hollinger Mines Ltd.
+42A05NE8650 1965 Dionna, R.J. United Buffadison
+42A05NE8500 1969 Holmer Gold Mines Ltd. Holmer Gold Mines Limited
+42A05NE8475 1973 George, P.T. Holmer Gold Mines Limited
+42A05NE8495 1973 Bradshaw, R.J. Holmer Gold Mines Limited
+42A05SE0024 1973 Bradshaw, R.J. Mill Hill Mines Limited
+42A05SE0025 1973 Kilpatrick, J.M. Mill Hill Mines Limited
+42A05NE8449 1974 Allan, J.E. Ducanex Resources
+42A05NE8463 1974 Bradshaw, R.J. Shield Group - Campsall
+42A05NE8436 1975 George, P.T. Geonex Limited (Ralph Allerston)
+42A05NE8435 1977 Perry, J. Canadian Nickel Company
+42A06NW8471 1977 Webster, B. Ralph Allerston
+42A06NW8431 1977 Webster, B. Canadian Nickel Company
+42A05NE8439 1978 Bradshaw, R.J. Holmer Gold Mines Limited
+42A05NE8494 1978 Bradshaw, R.J. Holmer Gold Mines Limited
+42A05NE8447 1979 Croxall, J.E. Croxall-Miller
+42A05NE8457 1979 McLeod, C.C. Texasgulf Inc.
+42A05NE8479 1979 Mullen, D. Texasgulf Ltd.
+42A05NE8460 1980 Holmer Gold Mines Ltd. Holmer Gold Mines Limited.
+42A05NE8430 1980 Muir, J.E. Jim Croxall
+42A05NE8478 1981 Chataway, R.T. Preussag Canada Limited
+42A06NW8486 1981 Gasteiger, W.A. Texasgulf Inc.
+42A06NW0042 1981 Gasteiger, W.A. Texasgulf Inc.
+42A05NE8464 1981 McLeod, C.C. Texasgulf Inc.
+42A06SW0206 1981 Warren, T.E. Preussag Canada Limited
+42A05SE0010 1984 Lebaron, P.S. Noranda Exploration Company Limited
+42A05NE8473 1984 Benham, Rio Algom Exploration Inc.
+42A05NE8491 1984 Diorio, P. Utah Mines Ltd.
+42A05NE8489 1985 Barnett, E.S. Kidd Creek Mines Ltd.
+42A05SE0001 1985 Lebaron, P.S. Noranda Exploration Company Limited.
+42A05NE8456 1985 Diorio, P. Utah Mines Ltd.
+42A05NE8498 1985 Deevy, A.J. Westfield Minerals Limited
+42A06NW8423 1986 Klein, J. Cominco Ltd.
+42A06NW8426 1986 Newsome, J.W. Utah Mines Ltd.
+42A05NE8705 1987 Glenn, W.E. Chevron Canada Resources Ltd.
+42A05NE8428 1987 Bald, R. Highwood Resources
+42A06NW8427 1987 Hendry, K.N. Cominco Ltd.
+42A05NE8432 1987 Hiava, M. R. Allerston
+42A06NW8424 1987 Moore, D. Cominco Ltd.
+42A05NE8492 1988 Roth, J. Chevron Canada Resources Ltd.
+42A05NE8459 1988 Fumerton, S., Clark, D. Chevron Minerals Ltd.
+42A05NE8490 1988 Fumerton, S., Clark, D. Chevron Minerals Ltd.
+42A06NW0317 1988 MacPherson Esso Minerals Canada
+42A05NE8648 1989 Clark, D. Chevron Minerals Ltd.
+42A05NE8649 1989 Manchuck, B. Chevron Minerals Ltd.
+42A06NW8429 1989 Van Hees, E.H. Cheveron Minerals Ltd.
+42A05NE8488 1992 Croxall, J.E. Croxall-Miller
+42A05NE0070 1994 Meikel, R.J. Band-Ore Resources Ltd.
+
+
+
+ 22
+
+Table 6:1:2:  List of "AFRI" Reports for the Thunder Creek Property and 
+Surrounding Area. (continued) 
+ 
+
+AFRI No. Year Author Company
+42A05NE2062 1994 Meikel, R.J. Band-Ore Resources Ltd.
+42A05NE8701 1994 Meikel, R.J. Band-Ore Resources Ltd.
+42A05NE0075 1994 Calhoun R. Noranda Exploration Company Limited
+42A05NE0081 1994 Daigle, R.J. Noranda Exploration Company Limited
+42A05NE0083 1994 Daigle, R.J. Noranda Exploration Company Limited
+42A05SE0011 1994 Daigle, R.J. Noranda Exploration Company Limited
+42A05NE0079 1994 Anderson, S.D. R. Poirier
+42A05NE0080 1995 Daigle, R.J. Hemlo Gold Mines Inc.
+42A05NE0084 1995 Calhoun R. Hemlo Gold Mines Inc.
+42A05NE0085 1995 McCann, S. Hemlo Gold Mines Inc.
+42A05NE0087 1995 McCann, S. Hemlo Gold Mines Inc.
+42A05NE0092 1995 Meikel, R.J. Pelangio Larder Mines Limited 
+42A05NE0077 1995 Mackenzie, C.D. R. Allerston
+42A05NE0078 1995 Anderson, S.D. R. Poirier
+42A05NE0095 1996 Burns, J. Copper Dome Mines
+42A05NE0165 1996 Anderson, S.D. Marl / Pelangio Larder J.V.
+42A05NE0167 1996 Begauskas,J., Vamos, P.J. Prospectors Alliance Corp.
+42A05NE0131 1997 Daigle, R.J. Band-Ore Resources Ltd.
+42A06SW0025 1997 Daigle, R.J. Band-Ore Resources Ltd.
+42A06NW0042 1997 Duess, R. Sedex Mining Corp. / Band-Ore Resources Ltd.
+42A05NE0169 1997 Calhoun R., Edwards, J. Battle Mountain Gold
+42A05NE2007 1997 Calhoun R., Edwards, J. Battle Mountain Gold
+42A05NE0104 1997 Grant, J.C. Copper Dome Mines
+42A05NE0158 1997 Grant, J.C. Pelangio Larder Mines Limited  & Copper Dome Mines Ltd.
+42A05NE0168 1997 Filo, J.K. Pelangio Larder Mines Limited  & Copper Dome Mines Ltd.
+42A05NE2018 1997 Legault, J.M. Prospectors Alliance Corp.
+42A06NW8485 1997 Perry, J. Canadian Nickel Company Limited
+42A05NE2001 1997 Webster, B. Prospectors Alliance Corp.
+42A05NE2019 1998 Calhoun R. Falconbridge Ltd./ Explorers Alliance Corp.
+42A05NE2012 1998 Vamos, P.J. Prospectors Alliance Corp.
+42A05NE2034 1999 Calhoun, R. Prospectors Alliance Corp.
+42A05NE2030 2000 Calhoun, R. Falconbridge Ltd./ Explorers Alliance Corp.
+42A05NE2037 2000 Johnston, M. Mike Caron
+42A05NE2049 2003 Anderson, S.D. R. Poirier
+42A06NW2026 2001 Calhoun, R. Explorers Alliance Corp.
+42A06NW2046 2004 Grant, J. Probe Mines Limited
+
+
+
+ 23
+
+7.0   GEOLOGICAL SETTING 
+ 
+ 
+7.1  General Geological Setting 
+ 
+The earliest reports of the geology for the Timmins and Thunder Creek area are from 
+Ontario government geologist: Burrows (1910, 1911, 1912), Hawley (1926), Ferguson 
+(1957, 1968) and Pyke (1982), supplemented by contributions by  Brisbin (1997), Grey, 
+(1994), Melnik-Proud (1992) and van Hees (2000) for their Doctor of Philosophy 
+degrees.  Described in these documents are the contributions made by government and 
+mine geologists to detail the evolution of the stratigraphic understanding for the 
+Porcupine Gold Camp.  Highlighted herein is a chronological bullet summary of 
+significant observations and interpretations. 
+ 
+
+ 1896, Burwash assigned Precambrian volcanic and sedimentary rocks of the 
+Timmins area to Huronian defined by Logan in 1847. 
+
+ 
+ 1911, 1912, 1915, 1925, Burrows maps and produces the first geological 
+
+map of the Porcupine Camp and made his stratigraphic nomenclature 
+consistent with relationships observed by Lawson (1913) for Lake of the 
+Woods, as well as Miller and Knight (1915) in the Lake Timiskaming area. 
+
+ 
+ 1925, Burrows established that younger Timiskaming Series of sedimentary 
+
+rocks unconformably overly the Keewatin Series volcanic rocks.  He identified 
+porphyry dykes and stocks and the granitoid plutons in the surrounding area 
+as being Algoman, and post Timiskaming.  The observation that 
+Keweenawan olivine diabase dykes crosscut Matachewan quartz diabase 
+was made at this time. 
+
+ 
+ 1933, Graton et al., proposed a subdivision for Keewatin volcanic rocks in 
+
+Tisdale Township.  The subdivision included, from oldest to youngest, the 
+Northern, McIntyre, Central, Vipond, and Gold Centre Series. The name "99 
+Flow" was applied to a massive flow at the base of the Vipond Series.  
+
+ 
+ 1936, 1939, Hurst noted sedimentary rocks in the Timmins area occur both 
+
+overlying and underlying an angular unconformity.  He places the rocks 
+above the unconformity into the Timiskaming Series and assigns the 
+sediments below the unconformity to the Keewatin Series. Porphyries are 
+interpreted to be subvolcanic stocks emplaced into volcanic vents from which 
+the felsic volcaniclastics were erupted. 
+
+ 
+ 1944, Holmes interpreted the porphyries to post date Keewatin volcanic rocks 
+
+and Timiskaming sedimentary rocks. 
+ 
+
+ 1948, Jones, while working at the Hollinger Mine, presented a more detailed 
+classification modified after Graton (1933).  Jones introduced the 
+alphanumeric names to the lithological units (e.g. V8E); gave formation status 
+to the Northern, Central, and Vipond Series; and renamed the "McIntyre 
+Series" the "95", assigning the flows to the base of the Central Formation.  
+
+ 
+
+
+
+ 24
+
+ 1948, Buffam adapts Jones' Hollinger Mine terminology at the Moneta Mine 
+and adds the term Krist Fragmental and describes the unconformity at the 
+base of the Krist that separates it from the Tisdale Group mafic volcanic 
+flows. 
+
+ 
+ 1948, Dunbar distinguishes two groups of Keewatin volcanic rocks in the 
+
+Timmins area and names them Deloro Group and Tisdale Group.  He 
+discriminates the Krist Formation from the underlying Tisdale Group and 
+places it into the Hoyle Series. 
+
+ 
+ 1954, Moore included the Krist Formation with the Timiskaming Group and 
+
+placed the unconformity between Keewatin and Timiskaming rocks at the 
+base of the Krist. Burrows (1911) presented the same interpretation.   
+
+  
+ 1954, Fuse applied Jones' (1948) terminology of the Tisdale Group to rocks 
+
+exposed at the McIntyre Mine. 
+ 
+
+ 1960, Griffis, at the McIntyre Mine, establishes the most detailed subdivision 
+of the Tisdale Group. 
+
+ 
+ 1968, Ferguson et al., attempt to correlate the stratigraphy of the Timmins 
+
+Camp.  They assign the Krist Fragmental to the uppermost formation in the 
+Tisdale.  
+
+ 
+ 1974, Pyke subdivided the Deloro and Tisdale Groups, based upon major 
+
+oxide geochemical classification of volcanic rocks as per Jensen Cation Plot 
+(Jensen, 1976) His nomenclature divided the two groups into six formations. 
+Numbers I through III are within the Deloro Group and numbers IV through VI 
+are within the Tisdale Group.  The Deloro is largely a calc-alkaline sequence 
+approximately 14760 to 16400 feet (4500 to 5000m) thick and is composed 
+mainly of flows of andesite and basalt in the lower part, and dacitic flows and 
+dacitic and rhyolitic pyroclastic rocks toward the top.  Iron formation is 
+common at or near the top of the group.  Most of the Deloro Group is 
+confined to a large domal structure in the east central part of the area.  A 
+major change in volcanism marks the beginning of the Tisdale Group.  The 
+base formation consists largely of ultramafic volcanic rocks and basaltic 
+komatiites.  This in turn is overlain by a thick sequence of tholeiitic basalt.  
+The uppermost formation is largely volcaniclastic and has a calc-alkaline 
+dacite composition.  The total thickness of the Tisdale Group is about 13120 
+feet (4000m), (Pyke, 1974). 
+
+ 
+ 1975, Lorsong subdivided the Porcupine Group into Whitney, Beatty, Dome 
+
+and Three Nations Formations. 
+ 
+ 1976, Pyke renamed the six formations from youngest as Donut Lake, 
+
+Redstone, Boomerang, Goose Lake, Schumacher and Krist.  He assigns all 
+sedimentary rocks to Formation VII, the sole unit of the Porcupine Group, 
+which he considers to be a time equivalent, or the upper Deloro and the 
+entire Tisdale Groups. 
+
+ 
+
+
+
+ 25
+
+ 1978, Pyke renamed the Tisdale and Deloro Groups the Upper and Lower 
+subgroups and raised formations I through VI to group status.  This 
+terminology did not receive acceptance with subsequent workers (Brisbin, 
+1997) 
+
+ 
+ 1986 (Frarey and Krough), 1987 (Mortensen), 1989 (Corfu et al) post U-Pb 
+
+zircon age dates for intrusives and selected volcanics in the Timmins area. 
+ 
+
+ 1988, Mason et al., suggest that the highly fractured centres which 
+hydrothermal fluids and gold mineralization subsequently accessed were 
+prepared at the time of porphyry emplacement.  Fracturing and brittle faulting 
+generated prior to porphyry intrusion during one or more magmatic 
+tumescence.  Eruption of Krist Formation pyroclastic rocks, and Keewatin 
+folding and faulting, may have initiated ground preparation and localized 
+magmatic and hydrothermal activity. 
+
+ 
+ 1991, Jackson and Fyon define a lithostratigraphic association of rock units 
+
+within the Western Abitibi Subprovince within the boundaries of 55 tectonic 
+assemblages. An assemblage is defined as stratified volcanic and/or 
+sedimentary rock units built during a discrete interval of time in a common 
+depositional or volcanic setting.  A four stage evolutionary model was 
+suggested for the southern Abitibi greenstone belt. 1) Formation of submarine 
+oceanic assemblages in a regional complex micro-plate interactions, perhaps 
+caught between two larger converging plates located north and south of the 
+micro-plate region.  2) Termination of submarine volcanism by collision of a 
+large continental mass to the south at ~2700 Ma.  The collision may have 
+been oblique, involving the 2.8 to 3.0 billion year old Minnesota River Valley 
+gneiss terrane.  3) Tectonic thickening during collision led to emergent 
+sediment source area(s) for post ~2700 Ma turbidite deposits, including both 
+local deposits and a massive sedimentary accretionary wedge.  As collision 
+continued, previously formed volcanic and turbidite deposits, including the 
+Pontiac Subprovince were deformed.  Terminal subduction, possibly involving 
+complex plate interactions at 2685 to 2675 Ma, generated alkalic volcanic 
+rocks and alluvial–fluvial sediments in proximity to crustal–scale shear zones 
+(Jackson and Fyon, 1991) 
+
+ 
+ 1992, Melnik-Proud interprets the gold bearing quartz-carbonate-albite veins 
+
+to not only be spatially, but temporally and genetically associated with albite 
+dykes in the Hollinger –McIntyre complex 
+
+ 
+ 1997, Brisbin defines the Krist as a formation within the Hoyle Group.  He 
+
+proposes and assigns a new lithostratigraphic unit "the Hersey Lake 
+Formation".  This unit is composed of intercalated ultramafic and mafic flows 
+that comprise the base of the Tisdale Group in the core of the North Tisdale 
+Anticline.  Correlative flows are exposed in the south, on the Delnite, Aunor, 
+and Buffalo Ankerite mine properties.  The upper contact of the Hersey Lake 
+Formation is defined as the upper contact of highest ultramafic flow in the 
+Tisdale Group (Brisbin, 1997) 
+
+ 
+
+
+
+ 26
+
+ 2000, Ayer et al., with the aid of additional re-mapping and geochronological 
+data have reinterpretation of the Tectonic Assemblages, reducing the 55 
+assemblages to 7 volcanic assemblages and 2 sedimentary assemblages. 
+Presently the assemblages are interpreted as autochthonous not 
+allochthonous.  Geochemistry of the volcanic units indicates an interaction 
+between plume and subduction zone melts.  Porcupine assemblage is 
+interpreted to be the result of submarine turbidite fans that are coeval with 
+batholith emplacement, regional folding and collision with Opatica 
+Subprovince.  The Timiskaming assemblage is believed to be the result of 
+subaerial alluvial fan-fluvial sedimentation associated with continental arc 
+magmatism. 
+
+ 
+  The Discover Abitibi Initiative, Ayer et al., from 2002 to the present has 
+
+brought the talents of individuals, geologists, prospectors, the mining 
+industry, the Ontario Geological Survey, and the Geological Survey of 
+Canada to the Timmins - Kirkland Lake Gold Camps to assess the 
+fundamental architecture and processes which were responsible for the gold 
+and base metal endowment.  The products of this initiative have not been 
+fully realized as the refined, higher resolution airborne geophysical 
+electromagnetic and magnetic surveys, seismic survey, gravity survey,  
+lithogeochemistry and additional age dating is providing tools that will modify 
+historical interpretations.  
+
+ 
+  Lake Shore Gold's geologists recognized the significance relationship a 
+
+tectonic zone intruded by an alkali intrusive complex ("AIC") and gold 
+mineralization at the Timmins West Gold Property and then apply this 
+knowledge beyond the Timmins West Property boundaries. 
+
+ 
+ 
+7.2 Regional Geology and Structure 
+ 
+Supracrustal rocks in the Timmins region are assigned as members of nine (9) tectonic 
+assemblages within the Western Abitibi Subprovince, of the Superior Province.  The 
+seven volcanic and two sedimentary assemblages are of Archean age. Intrusions are 
+emplaced at Archean and Proterozoic times.  Tectonic Assemblages of the Eastern 
+Abitibi Subprovince, Figure 7.2.1, after Ayer J.A., Dube, B., and Trowell, N.F. (2009), 
+illustrates the locations of these assemblages.  Table 7.2.1, is modified after Ayer (1999, 
+2000, 2003) and summarizes the characteristics of the assemblages, from youngest to 
+oldest.  
+
+Figure 7.2.2, The Southern Abitibi Time Line diagrams the time relationship of these 
+assemblages.  Significant ore deposits have been positioned on the time line as per 
+Lucas and St-Onge (1998).   
+ 
+There is a 55 Ma year time span between the volcanic eruption of the lower Pacaud 
+Assemblage (2735 Ma) to the sedimentation and volcanism of the upper Timiskaming 
+Assemblage (2680 Ma).  Each of the assemblages demonstrates a melt evolution from 
+Komatiitic or Tholeiitic Basalt to Felsic or Calc-alkaline volcanics. Within the immediate 
+Timmins area only the Deloro (2730 - 2724 Ma (6 Ma)), Kidd-Munro (2719 - 2711 Ma (8 
+Ma)), Tisdale (2710 - 2703 Ma (7 Ma)), Porcupine (2690 - 2680 Ma (10 Ma)), and 
+Timiskaming Assemblages (2680 - 2670 Ma (10 Ma)) are present. Revised age dates for 
+
+
+
+ 27
+
+the Porcupine assemblage indicate the felsic volcanism of the Krist Formation is coeval 
+with the calc-alkalic felsic porphyries in Timmins (2692+/-3 to 2688+/-2 Ma).   
+ 
+Figure 7.2.3: The Regional Geology locates the property relative to the regional geology. 
+ 
+Rhys, (2003) describes the regional penetrative structures of the Timmins area as being 
+constrained between 2700 Ma and 2670 Ma, and are characterized by pre-metamorphic 
+folds (D1) to a sequence of syn-metamorphic folding events (D2 and D3) which overprint 
+D1 folds. The D1 event is multiphase, recorded by truncation of folds at the 
+unconformable base of the Krist-Porcupine sequence.  The Destor Porcupine Fault Zone 
+("DPFZ") accounts for two stages of deformation: 1) an episode of syn-Timiskaming 
+(2680 to 2677 Ma) brittle faulting which truncates D1 folds and created the basins for 
+Timiskaming sedimentation, and 2) a phase of syn-metamorphic D2-D3 shear zone 
+development, which is represented by a band of highly strained rock, generally several 
+hundred metres wide. The syn-metamorphic D2-D3 events are often characterized by 
+west-northwest trending foliations, steeply dipping stretching and intersection lineations, 
+and shear zones.  The displacement along the DPFZ in the Timmins area is sinistral. 
+ 
+A compilation of geochronology age dates for the Southern Abitibi sub province from 
+various sources: Easton, 2000; van Hees, 2000; Anglin, 1992; Melnik-Proud, 1992 and 
+Lucas, St-Onge, 1991 is selectively summarized in Table 7.2.2, A Simplified Sequence 
+Of Geological Events For The Timmins Camp (after Melnik-Proud, 1992). 
+ 
+
+ 
+
+7.3 Property Geology 
+ 
+All volcanic and sedimentary rocks underlying the Thunder Creek property have been 
+metamorphosed.  The degree of metamorphism varies from upper greenschist to lower 
+amphibolite facies.  Mineral alteration assemblages include: chlorite, sericite, carbonate, 
+albite, quartz, and iron-oxides.  A mafic volcanic suite belonging to the Tisdale 
+assemblage (2710-2703 Ma) occurs in the central portion of the property and trends in a 
+northeast-southwest direction. Stratigraphically overlying, but now overturned, the mafic 
+volcanics are clastic, turbiditic sediments of the Porcupine Assemblage (2690 to 2680 
+Ma).   A poly-phase alkalic intrusive complex (AIC) intrudes within the South West Shear 
+Zone and is discordant to both the mafic volcanic and sedimentary rock lithologies.   
+Barrie (1992) dates two garnet fractions and one titanite fraction from a garnetite dyke 
+phase of the intrusive at 2687+/-3 Ma.  The contact zone of the mafic volcanics-alkalic 
+intrusion-sediments is central to the property and displays a S-shaped deflection and 
+strikes northeast toward the Timmins West Gold Project (Samson, J., 2009).  A quartz-
+feldspar porphyritic monzonite stock and numerous smaller related dykes (2687+/- 1.4 
+Ma; Ayer et al., 2003) have intruded the sedimentary sequence in the southeast portion 
+of the property.  Several Proterozoic diabase dykes of the Matachewan Swarm cross-cut 
+all lithologies in a north-south direction.   
+ 
+Geological mapping was surveyed by Michael Mocking, and Jacques Samson, under the 
+direction of Henry Marsden, Senior Project Manager. 
+ 
+Samson (2008) describes the rock types mapped on surface mapping and intersected in 
+diamond drill core as follows:  
+ 
+
+
+
+ 28
+
+  
+Rock Type 1: Mafic Volcanic Rocks: (Tisdale Assemblage) 
+
+The mafic volcanic rocks are fine-grained, medium-green, and generally occur as 
+pristine massive to pillowed flows and flow breccias.  They are commonly 
+epidotized and carbonatized (calcite).  Fine disseminated to blebby magnetite is 
+quite common, particularly proximal to the alkalic complex, where the rocks 
+become fine-grained and darker, partly chloritized, locally hematized.   
+
+  
+ Rock Type 2: Sedimentary Rocks: (Porcupine Assemblage) 
+
+The sedimentary sequence consists mainly of massive to poorly bedded quartz 
+and feldspar lithic greywacke units, locally interbedded with siltstone to 
+argillaceous units.  In the footwall to the AIC, along a southwest trending shear 
+zone (SWSZ) and along the east-west structural zone (EWSZ), the sediments 
+are sheared into a quartz-sericite-carbonate-hematite schist, which locally 
+displays crenulation fabrics.  
+
+ 
+ Rock Type 3: Alkalic Intrusive Complex: 
+
+The alkalic intrusive complex (AIC) is poorly exposed. It has a very strong 
+magnetic signature which the geophysical interpretation indicates that it extends 
+northeasterly for at least 2 kilometres across the central portion of the Thunder 
+Creek Property, and onto the Timmins West Gold Property to the north.  The AIC 
+intrudes along the contact between the volcanic and the sediments.  The 
+magnetic trend becomes distorted and exhibits an offset or folded character 
+when intersected by several interpreted structures.  The AIC is a poly-phase and 
+vari-textured intrusion, of  contemporaneous age with the Timmins Porphyry suite 
+(Pearl Lake 2689 Ma, Millerton 2691 Ma, Crown 2688 Ma, and Paymaster 2690 
+Ma; – Barrie 1992), and is also of similar age as the Bristol Lake Quartz-Feldspar 
+Porphyry in the eastern portion of Bristol Township (2687 +/- 1.4 Ma; Ayer 2003).  
+The intrusive shows at least three texturally and mineralogically distinct phases:  
+i) a fine- to coarse-grained pyroxenite; ii) a biotite-pyroxenite; and iii) a porphyritic 
+garnet syenite.  The fine to coarse grained pyroxenite is strongly magnetic, and 
+consists of greater than 85% pyroxene (diopside), with variable amounts of 
+accessory biotite+magnetite+rutile+apatite, and interstitial calcite (Miller, 2004).  
+The intrusive is partially exposed at the Rusk Showing, and displays pegmatitic 
+primary layering as well as cumulate-like textures.  The pyroxenite locally grades 
+into a biotite-rich phase (possible lamprophyric affinity), characterized by the 
+presence of large biotite "clots" and books (poikilitic biotite) up to several 
+centimeters across.  In places, "sweats" and dykes containing 40 to over 75% 
+dark brown to black melanite garnets (up to 1cm across) are noted, contained 
+within a fine-grained and leucocratic matrix consisting of 
+plagioclase+orthoclase+biotite+carbonate+apatite+titanite (Miller 2004).  The 
+different phases sometimes exhibit clear yet irregular contacts, and sometimes 
+appear to be transitional. Numerous "monzonitic" to "syenitic" dykes are noted 
+throughout the main body of the pyroxenite and also within the volcanic rocks.  It 
+is not clear if these phases are genetically related to the AIC or to the monzonite 
+stock located in the southern portion of the property. 
+
+  
+ Rock Type 4: Quartz Feldspar Porphyry:  
+
+The quartz-feldspar porphyritic monzonite consists of a nearly circular intrusion in 
+excess of 500m across, expressed by a distinct topographic high in the lower-
+middle portion of the property.  The intrusive consists of 10-40% quartz eyes and 
+
+
+
+ 29
+
+10-20% tabular feldspars (commonly zoned and occasionally up to 3cm across), 
+contained within fine-grained pinkish-grey groundmass.  Salmon pink to brick-red 
+(interpreted as being hematized) and generally aphyric felsic dykes are 
+commonly observed within shear zones hosted by the sediments. These dykes 
+possibly relate to the monzonite stock. 
+ 
+Figure 7.3.1, Property Geology, locates the outcrop, showings, and rock types 
+relative to the Thunder Creek claim boundaries and local access. 
+ 
+Figure 7.3.2, Sample Locations, positions the 2004 rock sample locations relative 
+to the property geology. 
+ 
+
+ 
+
+7.4 Structural Geology 
+ 
+There is less than five (5) percent outcrop exposure observed within the Property.  The 
+dominant tectonic fabric strikes approximately 220° and dips 65°northwest.   Two 
+intersecting linear structures cross cut lithology and have been interpreted as shear 
+zones. The structures have been labeled the southwest ("SWSZ") and the east-west 
+("EWSZ") shear zones.   
+ 
+The SWSZ is observed between the alkalic intrusive complex and sediment contact 
+(footwall).  Occasionally the SWSZ occurs in the hangingwall, along the contact between 
+the AIC and the mafic volcanics.  This shear zone is poorly exposed but can be 
+observed at the Rusk Showing and at another area 300m further to the northeast.  It has 
+also been intersected by diamond drill holes.   The shear or tectonic  zone is 
+characterized by being 1 to >20 m wide, generally trending southwest and dipping 
+northwest at 220°/65-80°N and is interpreted as extending over two kilometres in length 
+along the intrusive contact zone.  Alteration within the zone is moderate to very strong 
+iron-carbonate alteration, in association with narrow and discontinuous quartz-ankerite-
+albite-hematite stringers and veinlets, various syenitic to felsite dykes, disseminated 
+pyrite, and anomalous gold values;   
+ 
+The EWSZ occurs in the central portion of the property and was outlined during the 2004 
+mapping survey.  It is expressed by a distinct east-west dextral flexure in the magnetic 
+pattern of the AIC.  The zone displays a strong southwest to east-west trend, with a 
+moderate to steep dip to the north (240-270°/60-80°N).  It has similar alteration and 
+mineralization as the SWSZ (Samson, J., 2009). 
+ 
+
+
+
+ 30
+
+Table 7.2.1 Tectonic Assemblages 
+
+Timiskaming Assemblage 
+ Unconformably deposited from 2680 - 2670 Ma (10 Ma) 
+ Conglomerate, sandstone, and alkalic volcanics 
+ Coeval Gold mineralization occurs near regional fault zones (PDF & CLLF) 
+
+Two end member types 
+1) Quartz veins (Timmins & Val d'Or) 
+2) Sulphide  rich Stockworks (Holloway Twp., Kirkland Lake, Matachewan) 
+
+ 
+Porcupine Assemblage 
+
+ Age of 2690 - 2680 Ma (10 Ma) 
+ Turbidites with minor conglomerates & iron formation locally 
+ Krist Formation is coeval with calc-alkalic felsic porphyries 2691+/-3 to 2688+/-2 Ma 
+ Alkali Intrusive Complex (Thunder Creek) 2687+/-3 Ma (Barrie, 1992) 
+
+ 
+Blake River Assemblage 
+
+ Age of 2701 - 2697 Ma (4 Ma) 
+ Tholeiitic & Calc-alkaline mafic to felsic volcanics 
+ VMS deposits associated with F3 felsic volcanics at Noranda 
+ Syngenetic gold & base metals (Horne, Thompson Bousquet) 
+
+ 
+Kinojevis Assemblage 
+
+ Age of 2702 - 2701 Ma (1 Ma) 
+ Tholeiitic mafic flows 
+ Interflow Turbidites 
+ F3 Felsic Volcanics 
+
+ 
+Tisdale Assemblage 
+
+ Age of 2710 - 2703 Ma (7 Ma) 
+ Tholeiitic to komatiite suite 
+ Calc-alkaline suite 
+ VMS Deposit: Kamiskotia – tholeiitic volcanics, gabbros & F3 felsics 
+
+Val d'Or – calc-alkaline volcanics & F2 felsics 
+Sheraton Township area – intermediate-felsic calc-alkaline volcanics 
+
+ Ni-Cu-PGE: Shaw Dome, Texmont, Bannockburn 
+ 
+Kidd-Munro Assemblage 
+
+ Age of 2719 - 2711 Ma (8 Ma) 
+ Tholeiitic to komatiitic 
+ Calc-alkaline suite 
+ VMS deposit: F3 felsic volcanics & komatiites (Kidd Creek) 
+
+Tholeiitic-Komatiitic volcanism (Potter) 
+ Ni-Cu-PGE (Alexo)   
+
+ 
+Stoughton-Roquemaure Assemblage 
+
+ Age of about 2723 - 2720 Ma (3 Ma) 
+ Magnesium and iron rich tholeiitic basalts 
+ Localized komatiites and felsic volcanics 
+ PGE mineralization in mafic-ultramafic intrusions and komatiites  
+
+(Mann & Boston Townships) 
+ 
+Deloro Assemblage 
+
+ Age of about 2730 - 2724 Ma (6 Ma) 
+ Mafic to felsic calc-alkaline volcanics 
+ Commonly capped by regionally extensive chemical sediments 
+ Two different types of VMS deposits 
+
+1) F2 felsic volcanics and synvolcanic intrusion (Normetal) 
+    2) Localized sulfide-rich facies in regional oxide facies iron formations (Shunsby) 
+ 
+
+Pacaud Assemblage 
+ Age of 2750 – 2735 Ma (15 Ma) 
+ Magnesium and iron rich tholeiitic basalt 
+ Localized komatiites and felsic volcanics 
+
+ 
+
+
+
+ 31
+
+  
+
+
+
+ 32
+
+ 
+
+
+
+ 33
+
+ Table 7.2.2.  A Simplified Sequence of Geological Events for the Timmins Camp. 
+(after Melnik-Proud, 1992) 
+
+Faulting 
+ 
+
+Diabase (Matachewan) Dyke Intrusion 
+(~2461 Ma) 
+
+(Hearst Dyke – Diabase, 2461 +/- 2 Heaman, 1988) 
+ 
+
+Penetrative Deformation/Greenschist Facies Metamorphism 
+(~2633 Ma) 
+
+ 
+Folding /Faulting? 
+
+ 
+Timiskaming Sedimentation 
+
+ 
+Unconformity / Folding 
+
+ 
+Copper and Gold Mineralization And Related Hydrothermal Alteration 
+
+ 
+Albitite Dyke Intrusion (Algoman) (And Related Hydrothermal Alteration?) 
+
+(~2673 Ma) 
+(Albitite Dyke, 2673 +6 / -2 Ma, Corfu et al, 1989) 
+
+(Watabeag Batholith, 2676 +/- 2 Ma, Frarey and Krogh, 1986) 
+(Winnie Lake Stock, (monzonite), 2677 +/-2 Ma, Frarey and Krogh, 1986) 
+
+(Garrison Stock, (monzonite), 2678 +/-2 Ma, Corfu et al, 1989) 
+(Garrison Stock, (monzonite), 2679 +/-4 Ma, Frarey and Krogh,1986) 
+
+(Otto Stock, (syenite), 2680 +/-1 Ma, Corfu et al, 1989) 
+(Watabeag Batholith (quartz monzonite), 2681 +/-3 Ma, Frarey and Krogh, 1986) 
+
+Adams Stock (granodiorite), 2686 +/-3 Ma Frarey and Krogh, 1986) 
+Lake Abitibi Batholith (granodiorite), 2689 +3 / -2 Ma, Mortensen, 1987) 
+
+ 
+Porphyry Intrusion (Algoman), Emplacement Of Heterolithic Breccias, 
+
+And Related Hydrothermal Alteration 
+(~2690 Ma) 
+
+(Crown Porphyry, 2688 +/-2 Ma, Corfu et al, 1989) 
+(Pearl Lake Porphyry, 2689, +/-1 Ma, Corfu et al, 1989) 
+
+(Preston Porphyry, 2690 +/-2 Ma, Corfu et al, 1989) 
+(Paymaster Porphyry, 2690 +/-2 Ma, Corfu et al, 1989) 
+(Millerton Porphyry, 2691 +/-3 Ma, Corfu et al, 1989) 
+
+ 
+Beatty Sedimentation 
+
+ 
+Krist (Keewatin) Calc-alkaline Volcanism and Sedimentation 
+
+(~2698 Ma +/-4 Ma) 
+(2691+/-3 to2688+/-2 Ma revised) 
+
+ 
+Unconformity 
+
+Tilting / Folding? 
+ 
+
+(Watabeag Batholith (diorite), 2699 +/-2 Ma, Frarey and Krogh, 1986) 
+ 
+
+Tisdale Group (Keewatin) Komatiite-Tholeiitic-Calc-alkaline Volcanism 
+("99" Flow, 2707 +/-3 Ma, Ayre, OGS) 
+
+Flavian Stock (trondhjemite), 2701 +/-1.5 Ma, Mortensen, 1987) 
+(Aquarius Diorite, 2705 +/- 10 Ma, Corfu et al, 1989) 
+
+ 
+Deloro Group (Keewatin) Komatiite-Tholeiitic-Calc-alkaline Volcanism 
+
+(~2725 Ma) 
+(Dunite, 2707 +/-3 Ma, Corfu et al 1989)  
+
+
+
+ 34
+
+
+
+ 35
+
+ 
+
+ 
+
+
+
+ 36
+
+ 
+ 
+ 
+
+
+
+ 37
+
+8.0  DEPOSIT TYPES 
+ 
+ 
+8.1  General Deposit Types 
+ 
+The Porcupine area is well known for hosting two mineral deposit types: Xstrata's Kidd 
+Creek mine, a volcanogenic massive sulphide deposit, and several mesothermal 
+Archean shear hosted gold deposits.  Gold production to the end of 2006, from some 50 
+operational sites is reported to be 2,028,140 kilograms of gold (65,206,222 ounces of 
+gold).  Table 8.1.1 highlights the twenty one locations that exceeded production of 3,110 
+kilograms of gold (100,000 ounces of gold).   
+ 
+Figure 8.1.1, illustrates a stratigraphic column for the Tisdale Group and the formations 
+which host significant gold mineralization.  The formational calculated thicknesses have 
+been sourced from Ferguson (1968) and Brisbin (1997).  To date, no significant gold 
+mineralization has been found within the Krist and Beatty Formations.    
+ 
+ 
+Table 8.1.1:  Operations of Greater Than 100,000 Ounces of Gold Production the 
+Porcupine Gold Camp.  
+ 
+
+Mine Kilograms Gold Produced Ounces Gold Produced
+Hollinger 601,158 19,327,691
+Dome 487,558 15,675,367
+McIntyre Pamour Schumacher 334,423 10,751,941
+Pamour # 1 (pits 3, 4, 7,Hoyle) 131,393 4,224,377
+Aunor Pamour (#3) 77,828 2,502,214
+Hoyle Pond 72,046 2,316,346
+Hallnor (Pamour #2) 52,582 1,690,560
+Preston 47,879 1,539,355
+Paymaster 37,082 1,192,206
+Coniarum/Carium 34,512 1,109,574
+Buffalo Ankerite 29,775 957,292
+Delnite  (open pit) 28,740 924,006
+Pamour (other sources) 21,046 676,645
+Broulan Reef Mine 15,519 498,932
+Broulan Porcupine 7,485 240,660
+Owl Creek 7,368 236,880
+Hollinger Pamour Timmins 5,663 182,058
+Nighthawk 5,468 175,803
+Moneta 4,642 149,250
+Crown 4,303 138,330
+Bell Creek 3,507 112,739
+
+21 site Totals 2,009,976 64,622,226
+
+The Porcupine Camp Total (50 sites) 2,028,140 65,206,222
+
+(source: http://www.mndm.gov.on.ca/mines/ogs/resgeol/office)
+
+
+
+ 38
+
+Brisbin (1997) summarizes the local Timmins area gold mineralization and stratigraphic 
+association as follows. 
+   
+
+Approximately 4.5 million ounces of gold have been produced from veins spatially associated with 
+small quartz feldspar porphyry stocks and dykes which intrude Hersey Lake Formation flows on the 
+Delnite, Aunor, Buffalo Ankerite, and Paymaster properties.  Veins hosted in mafic flows 
+intercalated with ultramafic flows adjacent the Timiskaming unconformity have accounted for a 
+significant portion of 6.1 million ounces of gold produced from Broulan -  Hallnor – Pamour mines 
+area.  In Hoyle Township gold – bearing veins hosed within mafic flows of the Hersey Lake 
+Formation were mined at Bell Creek, Marhill, and Owl Creek mines and are being mined at Hoyle 
+Pond Mine.  Massive white quartz veins are hosted in a carbonatized peridotitic komatiite unit near 
+the Beaumont Shaft in northeastern Tisdale Township but no gold production from that property is 
+recorded. 
+ 
+Central Formation flows and interflow carbonaceous argillites are very important hosts for gold 
+mineralization.  The Central Ore Zone on the Hollinger property, all major gold orebodies in the 
+McIntyre Mine and a number of the vein systems in the Coniaurum Mine all occur within the Central 
+Formation.   A black, carbonaceous argillite is the uppermost unit in the Northern member.  It is the 
+host for 3, 5, and 25 veins in the McIntyre, 91 vein in the Hollinger Mine and the single vein mined 
+at Moneta Mine (Mason et al 1986).  The 95 Member at the McIntyre Mine forms the hangingwall to 
+the important veins hosted by the carbonaceous argillite that caps the Northern Member.  The 95C 
+was prominent marker unit at the Moneta, Hollinger, and McIntyre Mines.  It hosts 84 Vein in the 
+Hollinger Mine and 7 Vein in the McIntyre Mine which together yielded more than 3 million ounces 
+of gold (Jones, 1985).   
+ 
+The 99 flow of the Vipond Formation is the stratigraphically uppermost unit to be affected by 
+intense alteration in the Central Ore Zone.  It is intensely ankeritized, weakly to moderately 
+sericitized and pyritized and hosts gold bearing veins along its strike length on the south limb of the 
+Central Tisdale anticline.  Mineralized exposures of the 99 flow occur in open pits of the Hollinger 
+property, on the McIntyre property where it crops out immediately adjacent to Pear Lake porphyry 
+south of Pearl lake and on the Coniaurum property where it hosts number 2, 5, and 10 veins.  
+South Shaft was sunk on subhorizontal white quartz on the Davidson Tisdale property in northeast 
+Tisdale Township but there is no alteration present in this area, nor did any significant production 
+take place from this shaft. 
+  
+The V8 unit of the Vipond Formation is a complex and variable entity which as a whole forms a 
+consistent stratigraphic unit, but within which there is less consistency due to facies variations.  Its 
+economic importance is underscored by the fact that 14 of the 20 quartz ankerite veins which up to 
+1979 accounted for 20% of gold produced at the Dome Mine (Fryer et al, 1979) were hosted by the 
+Vipond Formation, and that the most important hosts were the Key and Spherulitic subunits of the 
+V8 (Crick, 1991).  Very little gold production has been derived from veins hosted with the V8 in the 
+Hollinger-McIntyre- Coniaurum area.  A portion of 92 Vein and 20 Vein were hosted in the V8 on 
+the south side of the Hollinger property. 
+ 
+The V9 unit is a black carbonaceous argillite which overlies the V8 unit in the McIntyre (Griffis, 
+1960), Hollinger  (Hall, 1985) Vipond (Dougherty, 1934) and Dome (Holmes, 1968) Mines.  Despite 
+its presence over a wide area there are sections where it s absent (Hall, 1985).  On the McIntyre 
+property it is up to 6 metres thick but averages 1.5 metres this.  The V9 is an important ore host at 
+the Vipond Mine (Dougherty, 1934).  It hosts 20/24 Vein at the McIntyre and Coniaurum Mines, 
+much of the 92 Vein and 44 Vein at the Hollinger Mine, and quartz ankerite veins at the Dome 
+Mine. 
+ 
+The most important orebodies at the Vipond mine occur in the V10A, known there as the 10 Flow 
+(Dougherty, 1934).  On the Coniaurum property, 40 vein occurs in the V10A and adjacent V10B 
+subunits.  The V10A hosts portions of the 92, 93, and 44 veins on the Hollinger property.  Some of 
+he "Dacite Ore" at the Dome occurs in a V10A.  The carbonaceous argillite interval that overlies the 
+V10A is a locus of quartz veining where it is present at the Vipond Mine (Dougherty, 1934) and 
+hosts much of 93 Vein at the Hollinger Mine.  The V10B hosts part of 93 and 44 veins at the 
+Hollinger Mine, a portion of 40 Vein on the Coniaurum property and "Dacite Ore" in the Dome Mine.  
+The V10C hosts "Dacite Ore" at the Dome Mine. 
+ 
+
+
+
+ 39
+
+The only orebodies hosted by Gold Centre Formation flows are veins systems in the "Northern " 
+Flows at the Dome Mine similar to those in "Dacite Ore" in the underlying Vipond Formation  
+The only significant gold mineralization known to be hosted in the Whitney Group occurs in the east 
+end of the Owl Creek Pit in Hoyle Township.  Gold bearing veins hosted within Whitney Group have 
+been intersected in diamond drill holes north of Pamour 1 Mine (Duff, per. Com, 1992) and south of 
+Owl Creek pit.  Veins in Tisdale Group mafic flows occur immediately south of the contact of these 
+flow with Whitney Formation sedimentary rocks at the Hoyle Pond Mine in Hoyle Township. 
+ 
+No gold mineralization is known to occur within the Krist Formation. 
+ 
+No significant gold mineralization is known to occur within the Beatty Formation.  Some of the 
+auriferous veins hosted within the basal conglomerate of the Timiskaming Group at the North 
+Dome Shaft do transgress the contact with the Beatty Formation, but they pinch out within a few 
+metre to two of the contact (Brisbin, 1997).  If Holmes (1944,1964) and Gray (1994) are correct in 
+their observations within the Sedimentary Trough the Beatty Formation is host to significant gold 
+mineralization. 
+ 
+Approximately 15 % of gold mined to date in the Porcupine Camp has come from bulk tonnage 
+sheeted vein and stockwork orebodies, and to a lesser extent from narrow veins in Timiskaming 
+sedimentary rocks. These orebodies have been mined at the Dome Mine in Tisdale Township, and 
+at the Pamour, Falconbridge Hoyle, Broulan, Hallnor, and Bonetal Mines in Whitney Township.  
+The gold deposits of Whitney Township were not examined during this study and are described by 
+Aitken (1990) (Brisbin, 1997). 
+
+ 
+ 
+Gold mineralization at the Thunder Creek Property occurs along the same volcanic-
+sedimentary rock contact and similar alkalic mafic complex as the Timmins West Gold 
+Property.  The mafic volcanic rocks are of the Tisdale assemblage, but a flow unit 
+correlation with the detailed volcanic stratigraphy of the Timmins' deposits has not been 
+determined.  SRK (2007) estimate a Probable Mineral Reserve at 3387,000 tonnes 
+grading an average 7.59 gram per tonne gold (cut grade) containing 826,000 ounces of 
+gold (25.7 M g) for the West Timmins Gold Property. 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 40
+
+ 
+ 
+
+
+
+ 41
+
+9.0   MINERALIZATION 
+ 
+ 
+9.1  General Description of the Mineralization 
+ 
+The most significant surface showing on the Thunder Creek Property is mineral deposits 
+inventory ("MDI") number MDI42A05NE00003, the "Rusk Showing" and  the zone's 
+down dip and down plunge extensions.  Over the years the property name has changed 
+from 1941-the ONeill Property, 1942-Rusk Porcupine Claim P8396, 1979-Croxall-Miller 
+Property, 1994-Thunder Creek Property.  The MDI file indicates that trenching and 
+pitting took place on the property as early as 1916. During the early 1940's Rusk 
+Porcupine Mines completed trenching and the diamond drilling of 18 drill holes (1981m).  
+The mineralization discovery pit was 1.2 metres  by 1.2 metres and returned a value of 
+$24.85 over 121.9cm, $15.05 over 76.2 cm and $8.41 over 91.4 cm (T-File 542).  The 
+showing is situated within present claim P495309 and is hosted within the Southwest 
+Shear Zone. 
+ 
+One of the exposed zones of mineralization and alteration consists of weak shearing 
+accompanied by numerous "syenitic" sweats and dykes swarming along the contact 
+between the mafic volcanic rocks and the AIC.  Samples with 2 to 3% pyrite and traces 
+of chalcopyrite from the area commonly assay around 1 to 3 gpt Au, and one sample 
+collected by Lake Shore from a syenitic piece of rubble returned an assay of 71.9 grams 
+per tonne gold.  Another shear zone is exposed in the footwall of the AIC, at the contact 
+with the sediments, roughly 125 metres to the southeast.  This second zone displays 
+very strong iron-carbonate staining, hematization, and is accompanied by tectonic 
+brecciation, quartz-ankerite veining, and over 10% fine disseminated pyrite in places.  
+Trenching by Lake Shore 2004 extended the surface expression of anomalous gold 
+zone another 300 metres further to the northeast (Hocking and Marsden, 2004.). 
+ 
+Mapping along the EWSZ has indicated many similarities with characteristics of the 
+SWSZ, but the rock samples so far collected are only weakly anomalous in gold 
+(Hocking and Marsden, 2004). 
+ 
+The monzonite intrusion that occurs in the south central portion of the property contains 
+very narrow flat lying quartz veins, 1-10cm wide, that host small amounts of galena and 
+sphalerite.  Historical pits have been placed on these veins.  Grab samples from the pit 
+area, collected by Lake Shore are reported to have returned assay results up to 4.02 
+grams per tonne gold. 
+ 
+Unlike the Timmins West Gold Property no significant amount of gold mineralization is 
+found to be associated with tourmaline-quartz veining within the Thunder Creek 
+property.  Diamond drilling is testing gold mineralization targets in the hanging wall mafic 
+volcanics, alkali intrusive complex contact, the alkali intrusive complex and the footwall 
+of the complex with the metasedimentary rocks; and galena quartz stockwork veins 
+associated with porphyry intrusions. These host rocks are spatially bound by the South 
+West Shear Zone and the East West Shear Zone.   
+ 
+Ongoing diamond drilling is targeted to define the along strike, down dip and down 
+plunge dimensions to the multiple mineralized zones leading to a resource calculation. 
+ 
+ 
+
+
+
+ 42
+
+10.0   EXPLORATION 
+ 
+ 
+10.1 A General Description of Exploration Programs 2003 to May 10, 2009 
+ 
+Lake Shore Gold Corp. has been actively exploring the Thunder Creek Property since 
+2003. Table 10.1.1, Thunder Creek Property, Work Completed summarizes the 
+chronology, surveys and survey unit details. 
+ 
+Table 10.1.1 Thunder Creek Property, Work Completed  
+ 
+
+Activity Year Units  Units Units 
+No. DDH metres samples 
+
+Diamond Drilling 2003 7 1,945 876 
+2004 12 4,092 1,429 
+2005 6 2,359 767 
+2007 20 10,840 5,884 
+2008 21 10,954 8,083 
+2009 16* 10,499 3,063 
+
+Totals 82 40,689 20,102 
+* wedges considered as separate 
+new holes 
+
+Geology Surface 
+Mapping 2004 
+
+Surface Samples 2004 102 
+Lithogeochemistry 2004 3 
+Outcrop Stripping 
+
+Washing 2004 3 areas 780m² 
+Saw Channel Sampling 2004 
+
+Trench Mapping 2004 
+MMI Geochemical 
+
+Survey 2004 830 
+
+Outcrop Stripping 
+Washing 2006 3 areas 675m² 135 
+
+ 
+ 
+ 
+10.2  Bedrock Mapping and Lithogeochemical Sampling 
+ 
+Surface geological mapping was carried out during the summer field season of 2004 by 
+Lake Shore personnel.  Emphasis was place on the area between Highway 144 and the 
+eastern property boundary.  The area was mapped at a scale of 1:2,500.  The remainder 
+of the property was surveyed at 1:5,000 scale.  During this program 102 surface 
+samples were taken.   Three samples of the alkali intrusive complex were collected for 
+whole rock analysis to test for economic concentrations of rare-earth elements.   These 
+samples were submitted to ALS Chemex Laboratories in Toronto for gold assay and 
+ICP-MS multi-element analysis.  
+ 
+
+
+
+ 43
+
+Figures 7.3.1, and 7.3.2, illustrate the property geology and sample locations. The Rusk 
+Showing and associated blast rubble returned the most significant reported assay value 
+is 2.98 grams per tonne gold.  A single float sample from an existing pit in the Rusk 
+Showing area returned an assay value of 71.9 g/t Au.  Base metal bearing, undeformed, 
+quartz veins in the quartz-feldspar porphyritic monzonite intrusion returned assay values 
+of up to 4.02 g/t Au.  Table 10.4.2, located in Appendix 1. lists the locations, sample 
+numbers and returned gold analysis for the lithogeochemistry sampling and channel 
+sampling that took place in 2004 and 2006. 
+
+10.3   Trenching, Outcrop Stripping, and Lithogeochemical Sampling 
+
+ 
+Two phases of outcrop overburden excavation, power washing and channel saw 
+sampling have taken place within the Thunder Creek Property.  Three areas were 
+completed in 2004 and 2 new areas plus an extension of area 1 was completed in 2006. 
+Approximately 780 m² was exposed in 2004 and an additional 675 m² uncovered in 
+2006.  The trench areas are shown in Figure 10.3.1, Overburden Stripping Location 
+Map. Detailed overburden stripping maps are illustrated in Figures 10.3.2 to 10.3.6.   
+ 
+Total Exploration of Timmins, completed the 2004 trenching, and mapping program 
+utilizing a backhoe attachment mounted on a muskeg-tracked vehicle and Wajax water 
+pumps.  The 2006 mechanical stripping and trenching was completed using a 215B CAT 
+excavator operated by Kapel's Backhoe Services of Timmins.  Washing, channel 
+sampling and mapping was carried-out intermittently by various contractors and Lake 
+Shore personnel. 
+ 
+Samples from the 2004 sampling program were sent to Swastika Laboratories, to be 
+analyzed for gold using FA/AA methods   
+
+ 10.3.1 Outcrop Stripped Area 1 and Expanded Area 1 
+
+ 
+The 2004 overburden stripped Area One (1) covers approximately 400m2.   In 2006, the 
+exposure area was expanded by approximately 100 m2.  The expansion provided a 
+better exposure of the quartz veining and iron-staining in the southwest portion of the 
+trench.  The stripped area consists of a sheared contact zone between the pyroxenite 
+and sediments, as well as the "SWSZ".  This shear strikes approximately 220° and dips 
+80° to the northwest.  It is characterized by a two (2) to six (6) metre wide zone of weak 
+to moderate calcite and iron-carbonate alteration, accompanied by weak hematization, 
+and discontinuous quartz-calcite to quartz-ankerite veining.  Strong patchy iron-staining 
+is noted, accompanied by up to 2% pyrite.  Strongly deformed intermediate to felsic 
+dykes and calcareous syenitic dykelets occur subparallel to the contact zone.  The best 
+assay obtained from this location in 2004 was 1.23 gpt Au over 0.40m.  The expansion 
+of this trench to the southwest in 2006 indicated that bedrock quickly plunges down and 
+most of the trench became submerged under water.  Similar alteration and veining was 
+exposed, with the best assay being 861 ppb Au over 0.57cm (Samson, 2008) 
+
+ 10.3.2 Outcrop Stripped Area 2 
+
+Stripped Area Two (2) has an approximate area of 180m2.  The exposed rock units are 
+fine to medium grained, dark green to black in colour mafic volcanic rocks near the 
+hanging wall contact of the AIC. Chlorite-magnetite alteration is present.  The interpreted 
+
+
+
+ 44
+
+SWSZ appears to be represented by a one (1) to four (4) metre wide chlorite-calcite 
+altered shear zone trending 230° and dipping 65° north west.  Numerous fine-grained, 
+pink, feldspar ± biotite ± magnetite "syenitic" dykes cut the outcrop.  The dykes 
+occasionally contain dark brown to black garnets on their margins and have an overall 
+southwest trending orientation.  Samples of the dykes containing up to 2-3% pyrite and 
+0.5% chalcopyrite returned assays of up to 2.35 g/t gold.  A single float sample of pyritic 
+syenite dyke taken near Stripped Area 2 returned an assay value of 71.9 g/t gold.  A 
+sample of altered mafic volcanics and syenite dyke, with minor pyrite and chalcopyrite, 
+from the shear zone returned an assay value of 2.95 g/t gold (Hocking, and Marsden, 
+2004). 
+
+ 10.3.3 Outcrop Stripped Area 3 
+ 
+Stripped Area Three (3) exposes an area of about 200m2 of quartz-sericite-hematite 
+schist within the EWSZ.  The zone appears to be strongly sheared sediments that have 
+been intruded by salmon pink, aphanitic felsic dykes, possibly related to the nearby 
+monzonite intrusion.  The schist displays a strong 240° to 270° trend, with a northward 
+dip of 60° to 80°.  Stretching lineations on the dominant foliation plane exhibit a 
+moderate plunge to the northwest at 60°-284°.  Narrow quartz veins and quartz-calcite 
+veinlets are located within the shear planes, contain up to 1% disseminated pyrite and 
+display strong hematite alterations on the vein margins.  Two samples of schist wall rock 
+with minor pyrite yielded anomalous values gold values of 139 and 169 ppb (Hocking, 
+and Marsden, 2004). 
+ 
+ 10.3.4 Stripped Area 4 
+ 
+Stripped Area Four (4) is located about 170m south-southwest of Area 1 and covers 
+roughly 275m2.  A historical trench is filled with rubble and overgrown with vegetation.  
+The exposed rock units are relatively unaltered, non-mineralized, biotite-rich pyroxenite 
+or lamprophyre.  The footwall contact zone with the sediments and ultramafic complex 
+lies beneath 1.5 metres of sand and clay.  The zone was strongly deformed and 
+displayed irregular quartz-carbonate stringers and veinlets which have been altered by 
+iron-carbonate, and accompanied by minor disseminations of pyrite.  The best gold 
+assay returned was 408 ppb over 0.64m (Samson, 2008). 
+ 
+ 10.3.5 Outcrop Stripped Area 5 (the Rusk Showing) 
+ 
+The "Rusk Showing" represents a general area, and not one location, where several pits, 
+trenches and drill holes were completed by Rusk Porcupine Mines in 1942.  The area is 
+approximately 150m across.  In 2006, an approximate area of 300m² was exposed 
+centered on UTM coordinates 458,780m east and 5,358,050m north.  Two old pits filled 
+by vegetation were noted at this location.  All rocks were extremely weathered, stained 
+by iron-oxide.  Stripping and washing revealed the sheared contact zone between the 
+ultramafic to the northwest, and the sediments in the footwall.   
+ 
+The ultramafic consists of a massive and relatively unaltered pyroxenite, fine to medium-
+grained, black, and strongly magnetic.  Subtle "pinkish sweats" or calcareous syenitic 
+dykes and garnetiferous pegmatitic bands occur injected along joints and fractures, 
+locally defining "pseudo-layering".  No significant sulphide mineralization or veining was 
+noted within the ultramafic.   The rocks in the footwall to the intrusive are dark rusty 
+brown, extremely oxidized, revealing very strong and pervasive iron-carbonate 
+
+
+
+ 45
+
+alteration.  They are flooded by several generations of quartz-ankerite-albite stringers 
+and veins, and are extremely deformed, displaying numerous episodes of folding.  The 
+dominant "fabric" trends 240° and dips 55-65° northwest.  Shearing and brecciation are 
+extreme, and the identification of the protolith is very difficult.  Fine magnetite is 
+disseminated throughout.  Approximately twenty-five metres away from the contact 
+zone, the rocks become less altered, less deformed, weakly magnetic, and can be 
+clearly identified as sediments.   
+  
+Mineralization in the footwall rocks is quite variable, with trace to 10% fine dusty pyrite 
+and 1-2mm cubes. Trace amounts of chalcopyrite are noted mostly in the veins, and 
+"clots" of galena up to 1cm across can be observed on fracture planes.  A total of 106 
+channel samples were collected from the Rusk Showing.  Most are geochemically 
+anomalous in gold (>100 ppb), with many assaying in the 1 to 2 gram per tonne range in 
+association with the strongest zones of alteration and veining.  One sample (2513), 
+taken from a zone of veining with less than 0.5% pyrite and trace chalcopyrite initially 
+assayed 15.017 gpt Au over 0.41 metres, and returned up to 22.354 gpt Au on a check 
+analysis.  Another sample taken at the same location also assayed 10.423 gpt Au over 
+1.15m.  Upon re-examination of these samples, fine pinheads and "flakes" of visible gold 
+were noted in the veins (Samson, 2008).  Sample numbers, widths, and returned gold 
+assay results from the saw channel samples are listed in Table 10.4.2. (Appendix 1). 
+ 
+ 
+10.4  Mobile Metal Ion (MMI) Soil Sampling Survey 
+
+During 2004, a combined field crew consisting of Lake Shore Gold employees, and 
+contract personal from Vision Explorations completed a Mobile Metal Ion ("MMI") soil 
+geochemical sampling program over the Thunder Creek Property.   A total of 830 
+samples, including 5 duplicates samples were collected from soil material situated 10 cm 
+below the base of the organic "humus" layer.   Approximately 250-400 grams of soil is 
+collected and placed in labeled plastic bags sealed with plastic ties.  The samples were 
+shipped to SGS Analytical labs in Toronto for analysis using MMI-B analytical package 
+which includes elements Au, Ag, Pt, Co and Ni.  
+
+Field survey control utilized an existing historical Battle Mountain Canada Ltd. grid.  Grid 
+lines are spaced 125 metres apart.  Samples were taken on 27 survey lines at 50 metre 
+intervals along the line.  Where the grid was overgrown, lines were pushed through the 
+impasse with hip chain and compass.  Each sample site was flagged, the sample 
+number inscribed on an aluminum tag and placed at the site.  A hand held GPS was 
+used to record the position of each sample for plotting reference. 
+
+Analytical results are summarized in Table 10.4.1., and plots of both ppb and response 
+ration are illustrated in Figures 10.4.1 to 10.4.10. Sample results for 29 of the 830 
+samples reported taken were not found.  
+ 
+
+
+
+ 46
+
+Table 10.4.1 Summary of Soil Sample Statistics 
+
+Sample Au Co Ni Pd Ag Au Co Ni Pd Ag
+(response (response (response (response (response
+
+(ppb) (ppb) (ppb) (ppb) (ppb) ratio) ratio) ratio) ratio) ratio)
+
+sample count 796 796 796 796 796 796 796 796 796 796
+maximum value 3.06 154.00 570.00 0.66 165.00 61.20 57.04 43.85 13.20 330.00
+minimum value 0.05 0.50 1.50 0.05 0.05 1.00 0.19 0.12 1.00 0.10
+average 0.08 14.58 49.15 0.07 3.71 1.58 5.40 3.78 1.31 7.42
+first quartile 0.05 4.00 19.00 0.05 0.90 1.00 1.48 1.46 1.00 1.80
+Average of First Quartile 0.05 2.70 13.00 0.05 0.50
+
+ 
+ 
+The colour intensity plots generated by ArcMap and Geosoft Target for ArcGIS show 
+that the trend of the elemental anomalies coincides with the mapped geology Figures 
+10.4.1 to 10.4.10.  Early phase drilling in 2003 to 2006 targeted some of the MMI 
+anomalies. 
+
+
+
+ 47
+
+ 
+
+
+
+ 48
+
+ 
+ 
+
+
+
+ 49
+
+ 
+
+ 
+
+
+
+ 50
+
+ 
+
+ 
+
+
+
+ 51
+
+
+
+ 52
+
+ 
+ 
+
+
+
+ 53
+
+ 
+
+ 
+
+
+
+ 54
+
+
+
+ 55
+
+ 
+  
+
+
+
+ 56
+
+ 
+ 
+
+
+
+ 57
+
+
+
+ 58
+
+
+
+ 59
+
+
+
+ 60
+
+
+
+ 61
+
+ 
+
+
+
+ 62
+
+
+
+ 63
+
+ 11.0   DIAMOND DRILLING 
+ 
+ 
+11.1 General Description of the Diamond Drill Programs 
+ 
+Bradley Bros. Ltd., (Timmins, Ontario), is the contractor assigned to carry out the 
+diamond drilling on the Thunder Creek Property.  Holes are bored to retrieve NQ size 
+rock cores with a diameter of 47.6mm.  As a practice, diamond drill hole casings are left 
+in the ground and labeled for future surveys and access.  At the present time there are 
+four diamond drill rigs boring holes into the Thunder Creek project.  The project data cut 
+off for this report is June 24th, 2009.   Seventy five (75) diamond drill hole collar locations 
+are indicated in Table 11.1.1, Diamond Drill Hole Collar Details.  Of the seventy five drill 
+holes and seven wedged hole extensions, information from bore holes TC09-68c, TC09-
+68d, TC09-71a, TC09-73, TC09-73a, TC09-74 and TC09-75 is pending completion of 
+the logging and verification process.   Thus information from these bore holes will not be 
+a subject of the technical report.  To date 40,689 metres have been cored on the 
+Thunder Creek Project by Lake Shore Gold Corp.  Figure 11.1.1a, and Figure 11.1.1b, 
+are diamond drill collar location plans, illustrating the location of the holes relative to the 
+property geology and claim boundary. The location of Lake Shore's first forty-nine drill 
+holes are plotted in Figure 11.1.1a, and drill holes fifty to seventy-one are positioned on 
+Figure 11.1.1b.    Figure 11.1.2, is a generalized cross section, looking south-southwest 
+illustrating the geology and intercept points of the labeled diamond drill holes.  An 
+idealized composite section of present interpretation of the Thunder Creek diamond 
+drilling in relation to the Timmins West Gold Mine's infrastructure and mineralized zones 
+is illustrated in Figure 11.1.3.   A vertical longitudinal projection of core length 
+intersections piercing the Rusk Zone is diagramed in Figure 11.1.4. The intersection 
+pierce point for drill hole TC09-68b is illustrated on Figures 11.1.2, 11.1.3, and 11.1.4. 
+ 
+The objectives of the previous diamond drill campaigns was to test, a) the historical 
+showings by twinning the Preussag 1981 hole, b) test MMI soil geochemistry anomalies, 
+c) test geophysical interpreted structure; d) test lithologies and stratigraphy; and 
+definition drilling of mineralization intersected. The emphasis and targeting of the 
+diamond drill programs has evolved to the definition drilling of gold mineralization 
+associated with gold zones hosted in the AIC, Hangingwall AIC, Footwall AIC, porphyry 
+zone, EWSZ and SWSZ or Rusk.  Table 11.1.2, summarizes the exploration target 
+expected to be intersected for each drill hole. Compiled assay results from Lake Shore's 
+press releases are presented in Table 11.1.3.  Located in Appendix 2, Table 11.1.4, 
+prepared by the author, tabulates the returned assay results, and weighted average 
+combinations of results greater than or equal to 1 gram per tonne gold.  Within this table 
+an assay result, or an average of assay results must average 1 gram or greater before 
+being combined into the composite assay.   To date no upper limit cutting factor is 
+applied to gold assay averaging, or results presentations. 
+ 
+11.2 Lake Shore Core Handling and Logging Protocols 
+ 
+The diamond drillers secure the drill core boxes, at the drill site, for shipment from the 
+field to the core logging facility located in the Bradley Bros. Ltd. ("Bradley") compound at 
+3300 Riverside Drive, Timmins, Ontario.  The drill core is delivered to the core shack by 
+the Bradley drill foreman.  Under the direct supervision of Mr. Jacques Samson, P.Geo., 
+Lake Shore personnel open the boxes; check the metre markers for accuracy; label the 
+boxes for hole number, box number and footage; prepare a quick log; take rock quality 
+
+
+
+ 64
+
+designation ("RQD") measurements; photograph and log the core.  Geological logging is 
+done directly into a computer using GEMCOM GEMS Custom Drill Logger software.  
+The logging software was recently changed from DHLogger.  Diamond drill logs are then 
+printed, reviewed and edited where required.   The logs are detailed, and are of very 
+good quality, describing geology, structure, alteration, mineralization and do address 
+transition problem areas where naming nomenclature presents difficulties. 
+ 
+11.3 Hole Collar and Down-Hole Attitude Surveys 
+ 
+The proposed drill hole locations are pegged on the ground referenced to a 63 kilometre 
+control grid established by Vision Exploration in 2008.  Chainsaw cut lines are on 50 to 
+100 metre spacing with labeled pickets every 25 metres provide adequate field control 
+for exploration anomaly drill testing.  The "false origin" of the grid is coincident with the 
+number three (3) post of patented claim P4040 (458,854.168m East, 5,358,786.3m 
+North, Nad 83, Zone 17).  The surveyed post is the departure point for the baseline 
+coordinate 65+00E / 100+25N.  The azimuth of the base line is 40 degrees from true 
+north.  Grid line designation decreases southward.  All drill holes are spotted on the field 
+grid coordinate system, initially using a hand held GPS.   On a regular basis or as 
+required the collars are surveyed by L. Labelle Surveys of Timmins for a final collar 
+location.  Table 11.1.1, lists the collar location, drill azimuth, hole inclination (drill dip) 
+end of hole and the number of samples per hole.  Note that for diamond drill holes TC08-
+51 to TC09-73 collar locations remain in field grid co-ordinates. The final collar survey is 
+scheduled, but has not taken place at the time of writing this report.    
+ 
+As the holes are drilling changes in azimuth and inclination are monitored at 30 to 50 
+metre intervals using an EZ-shot Reflex instrument. Upon completion of a hole it is 
+normal practice to have the holes resurveyed using a north-seeking gyro by 
+Halliburton/Sperry Drilling Services of North Bay, Ontario.  If the north-seeking gyro is 
+not available for surveying, a Maxibor instrument from Reflex Instruments of Timmins is 
+used for the final direction and dip orientation survey. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 65
+
+ 
+Table 11.1.1: Diamond Drill Hole Collar and Sampling Information 
+ 
+
+ 
+
+
+
+ 66
+
+Table 11.1.1: Diamond Drill Hole Collar and Sampling Information (continued) 
+ 
+
+
+
+ 67
+
+Table 11.1.2: Diamond Drill Targets 
+
+ 
+ 
+
+
+
+ 68
+
+Table 11.1.3: Assay Results As Released by Lake Shore Gold Corp. 
+ 
+
+ 
+ 
+
+
+
+ 69
+
+Table 11.1.3 : Assay Results As Released by Lake Shore Gold Corp. (continued) 
+ 
+
+
+
+ 70
+
+Table 11.1.3 : Assay Results As Released by Lake Shore Gold Corp. (continued) 
+
+ 
+
+
+
+ 71
+
+
+
+ 72
+
+
+
+ 73
+
+ 
+ 
+
+ 
+
+
+
+ 74
+
+
+
+ 75
+
+
+
+ 76
+
+12.0   SAMPLING METHOD AND APPROACH 
+ 
+ 
+12.1 General 
+ 
+Historical assay data from assessment T-Files or AFRI files has been accepted at face 
+value.  In some cases copies of assay certificates have been submitted with the 
+historical reports. Lake Shore has twinned historical holes and re-sampled showings for 
+qualitative controlled assay results.  All diamond drill core is archived in core racks or 
+cross piled in a secure systematic indexed core farm.  The sawn core half not sent for 
+assay is available for check assay results.  Drill core from the Thunder Creek project is 
+easily accessible for inspection, or re-logging.  Table 12.1.1 summarizes the diamond 
+drill holes sample statistics, illustrating the number of samples, the number of returned 
+assay results per drill hole equal or greater than 1 gram per tonne gold, the number of 
+sample analysis equal to or greater than 34.29 grams per tonne gold (one ounce per ton 
+gold) plus the number of assay samples taken and the method of analysis.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 77
+
+Table 12.1.1 Diamond Drill Core Sampling Summary 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 78
+
+Table 12.1.1 Diamond Drill Core Sampling Summary (continued) 
+ 
+
+ 
+ 
+
+
+
+ 79
+
+13.0   SAMPLE PREPARATION, ANALYSIS, SECURITY 
+ 
+ 
+13.1 Sample Preparation and Assay Procedures 
+ 
+The drill core is prepared, and logged by Lake Shore personnel or contract geologists 
+and geo-technicians under the direction of Mr. Jacques Samson, P.Geo and project QP. 
+After geological logging and photography is complete the core is given to a trained and 
+supervised core sawing technician.  The technician saws the core along the designated 
+lines and sample intervals prescribed by the Lake Shore geologist. Sample intervals 
+ranging from 0.20 to 3.4 metres in length with the average sample length 0.79 metres. 
+The core sample length is determined by the geologist based upon lithology, alteration, 
+percent sulphides, the presence of visible gold, and geological contacts. Core to be sent 
+for analysis is cut in half using a diamond blade core saw.  The core half not bagged and 
+tagged for assay is returned to the core box with a sample tag number stapled into the 
+core box.  All drill core is stored in a secure compound at the core logging facility in the 
+Bradley industrial compound.  
+ 
+Bagged core samples to be sent for analysis are placed in shipping bags sealed with a 
+numbered security seal by Lake Shore personnel. These bags are shipped to a ALS 
+Chemex prep lab facility.  During 2004 the samples were shipped via Manitoulin 
+Transport directly to the ALS Chemex prep-lab in Mississauga.  In 2005 the samples 
+were forward to the prep-lab in Sudbury, Ontario.  During the 2007-2009 drilling 
+program, all samples were delivered by Lake Shore personnel directly to the ALS 
+Chemex prep-lab in Timmins.  All samples are analyzed for gold using regular Fire 
+Assay Technique.  In reporting assay results the protocol utilized by Lake Shore is 
+Metallic assay results over ride Fire Assay with gravimetric finish with over rides Fire 
+Assay with atomic absorption finish. 
+ 
+Lake Shore Gold Corp. and West Timmins Mining Inc. personnel are not involved in the 
+sample preparation once the sample leaves the core shack. 
+ 
+The treatment of Lake Shore's drill core samples by ALS Chemex is outlined in the 
+following descriptions, with references to the ALS Chemex procedure codes.  Samples 
+are entirely crushed to 70 % passing 2 mm mesh. The crushed samples were split and a 
+250 g sub-sample was pulverized to 85% passing <75 micron using a ring & puck 
+pulverize (PREP-31). During the period of 2004 to 2007, a 50 g aliquot was taken from 
+the pulp and analyzed by fire assay and atomic absorption methods (Au-AA24). For 
+samples that returned a value greater then 3 gpt Au, another pulp was taken and 
+analyzed using a gravimetric finish (Au-GRAV22). In October of 2007, the fusion weights 
+were reduced from 50g to 30g (Au-AA23 and Au-GRAV21), in order to avoid delays with 
+occasional "incomplete fusions" reported by the lab.   
+
+Routinely, if visible gold was noted in the sample, samples are analyzed by the Pulp and 
+Metallic method (Au-SCR24). In the phase 5 drill program all samples suspected of 
+being from a mineralized zone location are analyzed using the pulp and metallic method.  
+The entire samples were crushed to 70 % passing 6 mm mesh, and the entire sample 
+was then pulverized to 85 % passing 75 micron (PREP-22). The pulp is passed through 
+a 100 micron stainless steel screen and the entire (+) fraction is analyzed by fire assay 
+
+
+
+ 80
+
+and gravimetric finish.  The (-) fraction is homogenized and two 50 g aliquots are 
+analyzed by fire assay and atomic absorption finish (Au-AA26 and Au-AA26D).  The total 
+gold content is then calculated by combining the weighted averages of the two fine 
+fractions with the grade of the coarse fraction.  
+ 
+Drill core from the first 50 holes (10,713 samples) were analyzed for arsenic (As) by 
+aqua regia digestion and atomic absorption scanning (AA-45). In late 2007, No 
+significant levels were reported and there does not seem to be a correlation with 
+returned value and gold mineralization for the Thunder Creek Property 
+ 
+A check-assay analysis was also done by the ALS Chemex for their internal quality 
+control by analyzing a second pulp from the coarse reject on every twenty fifth sample 
+received.  
+ 
+13.2 Quality Assurance/Quality Control 
+ 
+The QA/QC procedures implemented for the Thunder Creek Project follow the 2003 
+recommended procedures by consultant, Mr. John Reddick, for Lake Shore Gold Corp.'s 
+Timmins West Gold Project.  
+
+Between November 2003 and June 24th, 2009 over 20,102 core samples have been 
+taken and sent for analysis.  Additional certified standards and blanks were inserted to 
+the sample stream of one each every twenty samples submitted for analysis.   
+
+ 
+Drill core from a local, gold barren diabase dyke is used as a blank sample medium.  Cut 
+diabase core is inserted at random approximately every 20. 
+ 
+ 
+ 13.2.1 Standards and Blanks 
+ 
+Certified gold standards individually wrapped in 60g sealed envelopes were prepared by 
+Ore Research and Exploration Pty. Ltd. of 6-8 Gatwick Road, Bayswater North, Victoria, 
+Australia ("OREA") and provided by Analytical Solutions Ltd.  Several standards are 
+used in order to vary the expected value and depending on availability.  These Certified 
+Standards are purchased from Ms. Lynda Bloom, Analytical Solutions Ltd., at 1214-3266 
+Yonge Street, Toronto, Ontario.  
+ 
+ 
+ 13.2.2  Check Analyses 
+ 
+The QA/QC procedures have been monitored by Mr. Jacques Samson, P.Geo in a 
+vigilant, however informal manor following the protocols established at the Timmins 
+West project.  Check assays were requested on a non routine individual basis.  Lake 
+Shore Gold have recently hired a database administrator to review all assay data, and 
+rejecting analysis that does not meet a newly formulated QA/QC format standard.  An 
+embedded routine is being established within the new logging GEMCOM logging system 
+software to automatically flag samples that do not meet the protocol standards.   
+ 
+ 
+
+
+
+ 81
+
+ 
+13.3 Security 
+ 
+The Thunder Creek Project secure chain of custody for diamond drill core and samples  
+starts at the drill and is completed with the safe return and storage of sample pulp and 
+sample rejects locked garage storage facility.  Frequent, and unscheduled visits to the 
+diamond drill sites are made to insure safety, good working practices and drill core 
+security.  The core is transported from the field to the core logging facility by the drill 
+foreman.  Lake Shore Gold Corp.'s personnel receive the core and carry out the logging 
+and sample preparation procedures as previously described.  The samples are sent to 
+an ALS Chemex pre-lab facility in secure, sealed shipping bags.   The return assay 
+results are reviewed by Jacques Samson, the data base manager and selected 
+members of the Lake Shore management group, on a need to know basis.   
+ 
+
+ 
+ 
+
+14.0   DATA VERIFICATION AND SITE VISIT 
+ 
+Lake Shore Gold Corp. have provided detailed information of the exploration programs 
+in the form of: GIS data base, diamond drill logs, assay results spreadsheets, assay 
+certificates, MMI sample sites and lab analysis results, and maps.  From the public 
+domain, SEDAR filings of press releases, and technical reports for Band-Ore Resources, 
+West Timmins Mining Inc and Lake Shore.  Historical assessment report files have been 
+reviewed by the author both at the MNDM office in Porcupine and the AFRI files on line. 
+ 
+The author has personally checked the MNDM claim registry for the Thunder Creek 
+Claim ownership and found it to be as described by Lake Shore and West Timmins 
+Mining. 
+ 
+The author has reviewed, and compared, finalized ALS Chemex Webtrieve analysis 
+worksheets with Lake Shore's drill database for the mineralized zones. This comparison 
+totaled 979 samples from 43 drill holes. The database is true to the assay certificates 
+reviewed.   
+ 
+A site visit confirming field work discussed in this report took place May 29, 2009.  A 
+review of the core shack, drill core geology, core logging and assay sampling 
+procedures, core, pulp and reject storage facilities took place  on May 5th, June 1st, and 
+June 29th, 2009.  Located in Appendix 3 is a traverse plot map (Figure, Appendix 3.1) of 
+locations on the property visited as well as a collection of plates of photos taken. 
+ 
+
+ 
+ 
+
+15.0 ADJACENT PROPERTIES 
+ 
+Within a 3 kilometre buffer of the Thunder Creek Property there is no open ground 
+available for staking. Contiguous to the northern claim boundary is Lake Shore's 
+Timmins West Gold Property.  West of the Thunder Creek project mineral rights are 
+registered to Mr. L Gervais/1571925 Ontario Ltd., and West Timmins Mining Inc. (WTM).  
+South and south west of the Property claims area owned by Richmond Mines Inc., and 
+WTM. East of the project claims are titled to Red Pine Exploration, Probe Mines Limited 
+and WTM. North of Lake Shore's Thunder Creek and the Timmins West Gold properties 
+
+
+
+ 82
+
+the claims are registered to International Explorers and Prospectors Inc., Xstrata Copper 
+Corporation, and Probe Mines Limited. 
+ 
+There is no significant historical or present gold production within the immediate area of 
+the Property.  Two properties adjacent to the Thunder Creek Property have NI 43-101 
+compliant resource estimates.   
+ 
+On August 28, 2007 Lake Shore Gold Corp. issued a press release announcing the 
+results of the SRK mineral reserve estimates and results from the pre-feasibility study for 
+the Timmins West Property.   The reserve estimate is based on a cut gold grade totaling 
+3,386,000 tonnes at 7.59 grams per tonne gold for 826,000 (cut) ounces in the 
+"Probable" category.  The mineral resource estimates include an "Indicated" resource of 
+3,268,000 tonnes at a cut grade of 8.62 g/tonne Au for a contained 905,000 ounces of 
+gold. Uncut the indicated resource has 1,287,000 ounces of contained gold at a grade of 
+12.29 g/tonne gold.  In addition an "Inferred" cut resource includes 968,000 tonnes at 
+5.54 g/tonne Au for 174,700 contained ounces gold.  The inferred uncut resource 
+estimates 205,000 contained ounces of gold at a grade of 6.62 g/tonne. 
+ 
+To the south of the Thunder Creek Property situated in Thorneloe Township is WTM's 
+Thorne Property.  In 1997-98 Mr. J. Spiteri and Spiteri Geological and Mining 
+Consultants Inc. were commissioned by Band-Ore Resources Ltd. to review all diamond 
+drilling and generate a mineral resource for the Thorne Property's "Golden River Zones".  
+Hosted within a 750 metre wide deformation zone the mineralization discovered is 
+collectively made up of 13 zones.  Cavey (2002) in a Summary Report on the Thorne 
+Property quotes Mr. Spiteri as stating, "the inferred resource estimate in 1997-98 on the 
+Thorne Property totaling approximately 4 million tonnes of 3 g/t for about 400,000 
+contained gold ounces qualifies as an "Inferred Resource" under the Guidelines of NI 43-
+101".  
+  
+The "Mahoney Creek" (MDI number mdi42A05SE00005) gold occurrence is situated a 
+3.5 kilometres southwest of the Thunder Creek project claim boundary in Denton 
+Township.  This property is registered to Richmond Mines Inc. The occurrence has  
+been drill tested by Hollinger with the best assay being 13.37 g/tonne Au over 1.5m; and 
+8.9 g/tonne over 2.75m (hole 8).  The mineral inventory data base indicates that Gowest 
+established a zone averaging 4.46 g/tonne Au over 4.4m width for a length of 24.4m.  
+During diamond drilling of the mineralized zone Gowest intersected in drill hole 87-12,  
+6.6 g/tonne Au over 4.6m. 
+ 
+ 
+ 
+
+16.0   MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES 
+ 
+No mineral resource or reserve estimate has been made for the Thunder Creek 
+Property.     
+ 
+ 
+
+17.0   MINERAL PROCESSING AND METALLUGICAL TESTING 
+ 
+Lake Shore Gold Corp has not submitted samples from the Thunder Creek Property for 
+metallurgical testing.  One historical sample of the alkalic intrusive complex was 
+
+
+
+ 83
+
+submitted to Texasgulf Inc by Mr. Jim Croxall (AFRI No. 42A05NE8430).  At this time the 
+sample results are not considered to be relevant to Lake Shore's exploration programs.  
+ 
+Petrology, ore microcopy and scanning electron microscope investigations have been 
+carried out on selected diamond drill core samples from drill holes TC04-13, TC07-27, 
+TC07-30 and TC07-37 (2008) and TC08-51, TC08-52, TC08-54(663), TC08-54(668) and 
+sample TC1891 (2009) by Miller and Associates of Ottawa. 
+ 
+ 
+
+ 
+18.0   OTHER RELEVANT DATA AND INFORMATION 
+
+ 
+To the best of the author's knowledge all relevant data has been presented with in this 
+report.  The diamond drilling continues on the project, and there are eight (8) drill holes 
+in various stages of completion that information was not finalized at the time of writing 
+this report.  Data and information cut off for this report is May 10th, 2009 
+ 
+ 
+
+19.0   INTERPRETATION AND CONCLUSIONS 
+ 
+The work programs and data reviewed by the author are of high professional quality.  
+The Lake Shore Gold Corp.'s interpretation of the data is up to date and within the 
+parameters of current geological understanding.    
+ 
+Gold mineralization at Thunder Creek is hosted within a wide southwest trending 
+tectonic zone.  Within the tectonic zone there is an anastomosing highly strained 
+southwest trending fabric that is named the South West Shear Zone ("SWSZ").  Cross 
+cutting the SWSZ and parallel to the Bristol fault is an East West strain fabric named the 
+East-West Shear Zone ("EWSZ").  From airborne magnetic geophysical data and 
+interpretation there appears to be a significant flexure, and with possible a right lateral 
+displacement associated with the East- West shear. An alternative interpretation of the 
+apparent displacement is the surface trace of a fold flexure changing dip that occurs 
+along the contact of the mafic volcanic and sedimentary rocks.  The Tisdale mafic 
+volcanics are overturned and dipping steeply to the west and north-west.  The volcanics 
+exhibit a hanging wall relationship to the unconformable Porcupine sediments.  An 
+ancestral south-west trending structure provided a discordant, pathway for the alkalic 
+intrusive complex to invade the mafic volcanics and sediments.  Re-activation of the 
+structure imprinted a high strain tectonic fabric within a narrower zone hosting mafic 
+volcanics, the portions of the alkalic intrusive complex ("AIC") and the sediments.  This 
+zone appears to be spatially associated with the volcanic-sedimentary rock contact and 
+prepared the ground for fluid pathways to alter the host rock and transport the sulphides, 
+and gold.  The number of gold mineralizing events at Thunder Creek has not been 
+determined.  Gold occurs as native gold, electrum, tellurides and in association with 
+pyrite, galena, sphalerite, quartz, and quartz-ankerite.   Significant gold mineralization 
+intersected at -500m from surface, demonstrate a presently interpreted strike length of 
+250 metres and is hosted within a tectonite zone.  The tectonite includes host rocks of 
+mafic volcanics, sediments, AIC, felsic intrusions of porphyry and syenite with lithons of 
+less altered and less foliated wall rock surrounded by a very high strain mylonitic folded 
+foliation fabric.  Within the high strain zone boudinage, pinch and swell and ptygmatic 
+folding textures are witnessed.   
+ 
+
+
+
+ 84
+
+Bore hole TC09-68b has returned the best assay results intersected within the Thunder 
+Creek property.  The pierce point of this hole, as demonstrated on a longitudinal 
+projection, occurs approximately 42 metres above the parent hole TC09-68 and 
+approximately 33 metres above the first wedge splay TC09-68a.  This intersection also 
+occurs approximately 717 metres below surface and at an approximate distance of 88 
+metres from TC09-69 and 131 metres from TC09-70.  The weighted average of returned 
+gold analysis is 12.75 grams per tonne over 83.4 metres.  Gold mineralization greater 
+than 1 gram per tonne is reported for 102 core samples of which 7 samples exceeded 
+values of 34.29 g/tonne (1 ounce/ton Au). 
+ 
+Given the successful results targeting the Rusk targets at depth, and along strike an 
+aggressive drill campaign of systematic grid drilling down dip, down plunge and along 
+strike is warranted. 
+ 
+ 
+ 
+
+20.0   RECOMMENDATIONS 
+ 
+20.1 General 
+ 
+Diamond drilling on the Thunder Creek Project has advanced from grassroots anomaly 
+testing to mineralized zones definition drilling phase.  With the evolution to an advanced 
+mineralization definition program, changes in some of the current procedures with allow 
+better efficiency in processing larger amounts of drill core, and returned and distribution 
+of assay data.  The work observed to date is of good quality and is of very high, 
+professional standards. 
+ 
+ It is the opinion of the author that all drill holes targeting the definition of ore grade 
+mineralization have collars and front sites surveyed to an ideal "engineering grid."  This 
+will enable more control of the hole location for resource calculation.  This will also help 
+to elevate any errors that may occur with the use of a hand held GPS and the field grid.  
+ 
+The present core storage and logging location is choked with drill core from the Thunder 
+Creek property and the Timmins West Gold Property.  The Timmins West Project core 
+should be moved out to a prepared core farm on the Timmins West Gold Mine site.   
+With the initiation of an accelerated drilling program at the Thunder Creek Property,   
+archiving and relocating of early Thunder Creek exploration core that would not be used 
+in a future resource calculation, to one of Lake Shore's mine sites, should be 
+considered.   
+ 
+RQD measurements are being taken in the core logging procedure.  It is recommended 
+that measurements of additional physical rock properties also be taken.  For example, 
+specific gravity of the various mineralized zones and lithological units; rock hardness; 
+and perhaps a testing for carbonate. These measurements assist in planning and 
+resource calculations for an advanced underground exploration-development program.  
+ 
+With an increase of exploration activities the office, day to day management, and 
+administrative functions currently residing at the core shack should be relocated to the 
+more central location.  Along with the move it would be practical to have all project files 
+consolidated, organized, and complete at one central location.  This will help prepare the 
+setting for the next phase of ore resource calculation by in house or outside consultants.  
+
+
+
+ 85
+
+ 
+The time line from the collaring of a drill hole to finalization and validation of the assays 
+should be reviewed, and steps taken to speed up the process without sacrificing the high 
+quality standard of data gathering.   
+ 
+Changes to the present sampling assay preparation stream should be considered with 
+the change to an advanced exploration program.  The contracting of a certified sample 
+preparation laboratory to prepare multiple aliquots of each sample, and insert standards, 
+blanks and duplicate samples for analysis by a separate second and at times a third 
+laboratory would add greater quality control and increase the confidence levels of the 
+returned assay results.  This would provide a more uniform in sample size, and increase 
+the contact between the sample prep lab, and the quality control-data base manager so 
+they could supervise and inspect the preparation process.  The "blank" sample should 
+contain gold values lower than the detection limit (<5 ppb Au) and will check the sample 
+order and possible contamination during the pulverizing process.   "Standard" samples 
+are used to check the accuracy of the assay procedure.  The "duplicate" sample will 
+check precision of the assay and potential nugget variance.  Having multiple sample 
+aliquots from the original reject and pulp roll will provide a more uniform sample to send 
+to an umpire lab or perform a metallic analysis.  It is recommended that one individual be 
+dedicated to tracking the results of the check procedures and take immediate corrective 
+measures to resolve the cause of any discrepancy in returned assay results. 
+ 
+It is recommended that a calculated horizontal width or true width of the assay intervals 
+provided beside the core lengths on longitudinal sections and press releases. 
+ 
+Computer logging and plotting of drill sections does not readily allow the plotting of 
+structure along the side of the hole.  As the mineralized zone is situated in a tectonite the 
+it is recommended that the foliations, and other structures be plotted along the drill hole 
+traces to allow a visual perspective of the kinematic indicators approaching or within the 
+tectonite.  This may enhance the understanding for interpretive purpose. 
+ 
+Gold mineralization is hosted within a structural setting.  In order to maximize the 
+understanding of the structural history and overprinting and effect on mineralization a 
+geological structural consultant be contracted to map the property and review the drill 
+core.  
+ 
+Given the successful results targeting the Rusk targets at depth, and along strike an 
+aggressive drill campaign of systematic grid drilling down dip, down plunge and along 
+strike is warranted. 
+ 
+A preliminary resource calculation and block modeling should be targeted to be 
+completed within the next 6 to 9 months.  The block modeling of the mineralized zones 
+will help guide the drill hole definition, and step out targeting. 
+ 
+At Thunder Creek the gold mineralization is hosted within a tectonite zone that straddles 
+the volcanic, sediment contact and portions of the alkalic intrusive complex.  It appears 
+to be one zone with multiple higher grade shoots within.  The definition drilling required 
+to join up one shoot to another from hole to hole may require the drilling off at 12.5 metre 
+centres.  With target depths at  - 400 to – 1000 metres below surface this type of detail 
+drilling is not practical from surface.  With continued success in intersecting significant 
+ore grade gold tenor, an underground exploration program of drill drifting, mineralization 
+
+
+
+ 86
+
+cross cutting, mapping and sampling on more than one level, with a raise between levels 
+to determine mineralization continuity should be considered.  A two level drifting program 
+will allow a significant bulk sample to be taken and mill tested.   
+ 
+ 
+20.2 Lake Shore Proposed Work Plan and Budget 
+ 
+ 
+The recommended work program and budget for the Thunder Creek project includes 
+detailed sectional diamond drilling of the Rusk Zone (44,000 metres) at 50 metre centres 
+testing above -800 metres; intermediate step out diamond drilling at 100 to 200 metre 
+centres along the extensions of the Rusk Zone (19,000 metres) to test the along strike 
+and dip potential of the north and south extensions; and wide spaced exploratory drilling 
+to test a variety of "other targets" at the Thunder Creek property (5,000 metres).  "Other 
+targets" include the southwest extension of the volcanic and sedimentary contact from 
+the Rusk Zone, as well as the margins of the syenite stock located to the immediate 
+south of the Rusk Zone.  As a result of receiving encouraging ore grade drill intercepts 
+an underground program of driving a drill drift platform on two levels and bulk sampling 
+is in the cost review and planning stage.   
+ 
+The purpose of new diamond drill program is to accelerate the evaluation of the 
+mineralization at depth and work toward a resource estimate that could be developed 
+into a mineral reserve.  The estimated budget required to carry out the recommendations 
+presented in this report is tabulated in Table 20.2.1 Cost Estimate of Recommendations.  
+The prices listed are estimates only, based upon prices provided by persons within the 
+Lake Shore Gold Corp. management group.  The prices are based upon current labour, 
+contract costs, and Lake Shore's tracking of project expenditures in the Timmins area.  
+The estimated numbers reflect possible all up charges and costs per activity.  
+Recommended activities, such as adding additional structural information to the drill 
+sections, which bear no additional costs to the exploration program are not shown in the 
+table. The planning of an underground exploration drilling program is differed and is not 
+included in the proposed expenditures listed below. 
+ 
+Table 20.2.1 Cost Estimate of Recommendations 
+ Recommendation     Estimated Cost (dollars) 
+Survey of Diamond Drill Collar Locations       20,000.00 
+Diamond Drill Core Relocation        80,000.00 
+Measurement of Additional Rock Properties       28,000.00 
+Relocation of Project Administrative Office         2,000.00 
+Preliminary Resource Calculation        42,000.00 
+QA/QC Monitoring and Control        50,000.00 
+Geology – Structural Mapping Consultant       21,000.00 
+Surface Diamond Drilling Rusk Zone  (44,000 metres)  7,260,000.00 
+Surface Diamond Drilling Rusk Extension (19,000 metres)  3,135,000.00 
+Surface Drilling of Other Targets (5,000 metres)      825,000.00 
+    
+
+Total Estimated Cost            11,463,000.00 
+ 
+This budget proposal and proposed work program is subject to the approval of senior 
+management of the Thunder Creek Joint Venture. 
+ 
+
+
+
+ 87
+
+CERTIFICATE 
+ 
+To Accompany the Report titled "A Technical Review of the Thunder Creek Property,  
+Bristol and Carscallen Townships, Porcupine Mining Division, Ontario, Canada, for Lake 
+Shore Gold Corp.", Dated July 29th, 2009. 
+ 
+I, David H. R. Powers, do here by certify that: 
+ 
+1. I reside at 385 Sony Street, South Porcupine, Ontario, Canada, P0N 1H0. 
+ 
+2. I am a graduate from Lakehead University, Thunder Bay, Ontario with an 
+ Honours B.Sc. Geology degree (1974), and I have practiced my profession 
+ continuously since that time. 
+ 
+3. I am a member of the Association of Professional Geoscientists of Ontario 
+ (Membership Number 0114). 
+ 
+4. I have practiced my profession as a geologist for 34 years being employed by 
+ Noranda Exploration Company Limited (N.P.L.), Noranda Mines Limited, Placer 
+ Dome C.L.A. Limited, Placer Dome North America Limited, Dome Mine, Placer 
+ Dome (C.L.A.) Limited – Porcupine Joint Venture, and Placer Dome Canada. As 
+ an independent geological consultant my services have provided  to Central 
+ Crude Limited, Dome Mine, CanAlaska Uranium Limited and Pacific North West 
+ Capital Corp.  I have actively explored for Archean hosted gold deposits since 
+ 1985. 
+ 
+5. I have experience with various mineral deposit types, Mineral Resource 
+ estimation techniques, and the preparation of technical reports. 
+ 
+6. I have read the definition of "qualified person" set out in NI 43-101 and certify that 
+ by reason of my education, affiliation with a professional association (as defined 
+ in NI43-101) and past relevant work experience, I fulfill the requirements to be a 
+ "qualified person" for the purpose of NI 43-101. 
+ 
+7 I have visited the Thunder Creek Property on May 29th, 2009, and examined core 
+ from the property as well as the core logging and core storage areas on May 5th, 
+ June 1st, and June 29th, 2009. 
+ 
+8. I am responsible for the preparation of all sections of the Technical Report titled: 
+
+"A Technical Review and Report of the Thunder Creek Property", dated July 29th, 
+2009.   
+
+ 
+9. I am not aware of any material fact or material change with respect to the subject 
+ matter of the Technical Report that is not reflected in the Technical Report. 
+ 
+10. I am independent of the issuer (Lake Shore Gold Corp.) applying tests in section 
+ 1.4 of  National Instrument 43-101, and there were no circumstances that were 
+ or could be seen to interfere with my judgment in preparing the Technical Report. 
+ 
+11. I have read National Instrument 43-101 and form 43-101F1, and the Technical 
+ Report has been prepared in compliance with that instrument and that form. 
+
+
+
+ 88
+
+ 
+12. I consent to the filing of the Technical Report with any stock exchange and other 
+ regulatory authority and any publication by them for regulatory purposes, 
+ including electronic publication in the public company files on their websites 
+ accessible by the public, of the Technical Report. 
+ 
+ 
+ 
+Dated in South Porcupine, Ontario, this the 29th day of July, 2009 
+ 
+
+
+
+ 89
+
+REFERENCES 
+ 
+Report References: 
+ 
+ALS Laboratory Group, 2009 (CAD); Schedule of Services and Fees, ALS Minerals. 
+ 
+Anglin, C. D.,1992; Sm-Nd and Sr Isotope Studies of Scheelite From Some Superior 
+ Province Gold Deposits;  A thesis submitted to the Faculty of Graduate Studies 
+ and Research in partial fulfillment of the requirements for the degree of Doctor of 
+ Philosophy, Ottawa-Carleton Geoscience Centre and Department of Earth 
+ Science, Carleton University, Ottawa, Ontario. 
+ 
+Ayer, J., Berger, B., Johns, G., Trowell, N., Born, P., Mueller, W.U., 1999; Late Archean 
+ Rock Types and Controls On Gold Mineralization In The Southern Abitibi 
+ Greenstone Belt Of Ontario; Field Trip B3 Guidebook, Geological Association of 
+ Canada (GAC), Mineralogical Association of Canada (MAC), Joint Annual 
+ Meeting, 1999, Sudbury, Ontario, Canada.  
+ 
+Ayer, J.A., Baker, C.L., Kelly, R.I., Stott, G.M., Thurston, P.C., 1999; Summary of Field 
+
+Work and Other Activities 1999; Ontario Geological Survey, Open File Report 
+6000, Queen's Printer of Ontario.  Ayer, J.A., Trowell, N.F., Madon, Z., Kamo, S., 
+Compilation of the Abitibi Greenstone Belt In The Timmins-Kirkland Lake Area; 
+revision to stratigraphy and new geochronological results; pp. (4) 1-14 
+
+ 
+Ayer, J.A., Dubé, B., Trowell, N.F. 2009, NE Ontario Mines and Minerals Symposium, 
+
+PowerPoint Presentation: Stratigraphic and Metallogenic Comparison of the 
+Detour Burntbush area with the Southern Abitibi. 
+
+ 
+Ayer, J., Trowell, N., (OGS); Amelin, Y., Kamo, S. and Kwok, Y., (ROM), 2000; 
+
+PowerPoint Presentation: Deep Crustal Structures in the Abitibi Greenstone Belt  
+and their Prolonged Control on the Distribution of Stratigraphy and Mineral 
+Deposits; Toronto, January 2000. 
+ 
+
+Ayer, J., Barr, E., Bleeker, W., Creaser, R.A., Hall, G., Ketchum, J.W.F., Powers, D., 
+ Salier, B., Still, A., Trowell, N.F, 2003; Discovery Abitibi. New geochronology 
+ results from the Timmins Area: Implications for the Timing of Late-Tectonic 
+ Stratigraphy, Magmatism and Gold Mineralization.  Summary of field work and 
+ other activities, Ontario Geological Survey, Open File Report 6120, p. 33-1 to 33-
+ 11. 
+ 
+Barrie, C.T., 1992; Geology of the Kamiskotia Area, Ontario Geological Survey, Open 
+ File Report 5829,p. 33. 
+ 
+Brisbin, D.I., 1997; Geological Setting of Gold Deposits in the Porcupine Camp, 
+ Timmins, Ontario, A thesis submitted to the Department of Geological Science in 
+ conformity with the requirements for the degree of Doctor of Philosophy, Queens 
+ University, Kingston, Ontario. 
+ 
+Burrows, A.G., 1911; The Porcupine Gold Area, Twentieth Annual Report of the Bureau 
+ of Mines, 1911, Vol. XX., Part II. 
+ 
+
+
+
+ 90
+
+Burrows, A.G., and Rogers, W.R., 1912; Map of the Porcupine Gold Area, District of  
+ Temiskaming, Ontario. First Edition, July 1910; Second Edition, April 1911. 
+ Scale: 1:63,360. To accompany the Twentieth report of the Bureau of Mines, 
+ 1911. 
+ 
+Burrows, A.G., and Rogers, W.R., 1912; Map of the Porcupine Gold Area, District of  
+ Temiskaming, Ontario. First Edition, July 1910; Second Edition, April 1911; Third 
+ Edition June 1912. Scale: 1:63,360. To accompany the Twenty First report of 
+ the Bureau of Mines, 1912. 
+ 
+Camsell, C., 1948; Structural Geology of Canadian Ore Deposits, A symposium 
+ arranged by a committee of the Geology Division of the Canadian Institute of 
+ Mining and Metallurgy, p. 442 to 570. 
+ 
+Card, K.D., Poulsen, K.H., 1998; Geology of Precambrian Superior and Grenville 
+ Provinces and Precambrian Fossils in North America, Geology of Canada No. 7, 
+ Chapter 2, Geology and Mineral Deposits of the Superior Province of the 
+ Canadian Shield, Geological Survey of Canada, p. 15 to 68. 
+ 
+Cavey, G., 2004; Summary Geological Report On The Thorne Property, Bristol, 
+ Carscallen, Denton and Thorneloe Townships, Porcupine Mining Division, 
+ Ontario, for Band-Ore Resources Ltd. (December 04, 2004) 
+ 
+Cavey, G., 2006; Summary Geological Report On The Thorne Property, Bristol, 
+ Carscallen, Denton and Thorneloe Townships, Porcupine Mining Division, 
+ Ontario, for Band-Ore Resources Ltd.  (March 30, 2006) 
+ 
+Darling, G., Kociumbas, M., Sullivan, J.R., Lavigne, J., Hayden, A.S., Small, A.S., Butler, 
+ D., Kordgharochorloo, F., Hall, R.A., Schmidt, P.R., 2007; NI 43-101 Technical 
+ Report, Lake Shore Gold Corp., Timmins West Project, Timmins, Ontario, Report 
+ Prepared for Lake Shore Gold Corp. by SRK Consulting engineers and 
+ Scientists.  (October 12, 2007) 
+ 
+Easton, R.M., 2000; Geochronology Of Ontario; Ontario Geological Survey, 
+ Miscellaneous Release Data 75 
+ 
+Ferguson, S.A., 1957; Geology of Bristol Township, Sixty-Sixth Annual Report of the 
+ Ontario Department of Mines, being Volume LXVI, Part 7. 
+ 
+Ferguson, S.A., 1957; Bristol Township, District of Cochrane, Ontario; Ontario 
+ Department of Mines, Map 1957-7, scale 1:12,000. 
+ 
+Ferguson, S.A., 1968; Geology and Ore Deposits of Tisdale Township, Geological 
+ Report 58, Ontario Department of Mines. 
+ 
+Ferguson, S.A., Groen, H.A., Haynes, R., 1971; Gold Deposits of Ontario, Part 1, 
+ Districts of Algoma, Cochrane, Kenora, Rainy River and Thunder Bay,  Ontario 
+ Department of Mines, Mineral Resources Circular No 13., p. 49 to 50, 123-124. 
+ 
+Fyon, J.A., Breaks, F.W., Heather, K.B, Jackson, S.L., Muir, T.L., Stott, G.M., Thurston, 
+ P.C. 1991; Geology of Ontario, Special Volume 4, Part 2, Chapter 22, 
+
+
+
+ 91
+
+ Metallogeny of Metallic Mineral Deposits in the Superior Province of Ontario, 
+ Ontario Geological Survey, p. 1091 to 1174 
+ 
+Gray, D. Mathew, 1994; Multiple Gold Mineralizing Events In The Porcupine Mining 
+
+District, Timmins Area, Ontario, Canada;  A thesis submitted to the faculty and 
+the Board of Trustees of the Colorado School of Mines in partial fulfillment of the 
+requirements for the degree of Doctor of Philosophy (Geology). 
+
+ 
+Hawley, J.E., 1926; Thirty-Fifth Annual Report of the Ontario Department of Mines being 
+ Vol. XXXV, Part VI, 1926, p. 1 to 36. 
+ 
+Hawley, J.E., 1926; Map No. 35g, The Townships of Carscallen, Bristol and Ogden, 
+ district of Cochran, Ontario, scale: 1:47520. 
+ 
+Hawley, J.E., 1926; ARM35G, The Townships of Carscallen, Bristol, and Ogden, District 
+ of Cochrane, Ontario, Map 35g, scale: 1:47,520, Ontario Department of Mines. 
+ 
+Hocking, M., and Marsden, H., 2004; 2003-2004 Exploration Program, Thunder Creek 
+ Project, Bristol Township, Timmins Ontario, NTS 42A/5, Lake Shore Gold Corp., 
+ Report. 
+ 
+Hodder, R.W., Petruk, W., 1980; Geology of Canadian Gold Deposits, Proceedings of 
+ the CIM Gold Symposium, published for the Geology Division of CIM, Special 
+ Volume 24, The Canadian Institute of Mining and Metallurgy, p. 101 to 170. 
+ 
+Jackson, S.L., Fyon, J.A., 1991; Geology of Ontario, Special Volume 4, Part 1, Chapter 
+ 11, The Western Abitibi Subprovince in Ontario, Ontario Geological Survey 
+  p. 405 to 482. 
+ 
+Kerrich, R., 1983; Geochemistry of Gold Deposits in the Abitibi Greenstone Belt, Special 
+ Volume 27, Canadian Institute of Mining and Metallurgy. 
+ 
+Krikham, R.V., Sinclair, W.D., Thorpe, R.I., Duke, J.M., (editors) 1993, Mineral Deposit 
+ Modeling, Geological Association of Canada Special Paper 40, p. 465 to 479, 
+ and 635 to 678. 
+ 
+Lucas, S.B., and St-Onge, M.R. Coordinators, 1998; Geology of Canada No. 7., Geology 
+ of the Precambrian Superior and Grenville Provinces and Precambrian Fossils In 
+ North America; Geological Survey of Canada, Geology of North America, Volume 
+ C-1. 
+ 
+Macdonald, A. James, Editor, 1986: Proceedings Volume, Gold 86; An International 
+ Symposium of the Geology of Gold Deposits: 
+ Burrows, D.R., and E.T.C. Spooner, McIntyre Cu-Au Deposit, Timmins, Ontario, 
+ Canada; pp. 23-40. 
+
+ 
+Mason, R., and Melnik, N., The Anatomy of an Archean Gold System – The 
+McIntyre-Hollinger Complex at Timmins, Ontario, Canada; pp. 40-56. 
+ 
+
+
+
+ 92
+
+Wood, P.C. et al., The Hollinger-McIntyre Au-Quartz Vein System, Timmins, 
+Ontario, Canada; Geological Characteristics, Fluid Properties and Light Stable 
+Isotope Geochemistry; pp. 56-81. 
+
+ 
+Melnik-Proud, Nadia, 1992; The Geology And Ore Controls In And Around The McIntyre 
+ Mine At Timmins, Ontario, Canada; A thesis submitted to the Department of 
+ Geological Sciences in conformity with the requirements for the degree of Doctor 
+ of Philosophy, Queen's University, Kingston, Ontario, Canada. 
+ 
+Miller, A., 2008; A Contribution To The Geology of The Thunder Creek Property, 
+ Northern Volcanic Zone, Abitibi Subprovince, Canada:  Lithologies, 
+ Metamorphism, Overprinting, Hydrothermal Alteration Assemblages, Precious 
+ Metal Mineralogy Based On Petrography, Ore Microscopy & Scanning Electron 
+ Microscope Investigation Of Selected Drill Core Samples From Drill Holes TC04-
+ 13, TC07-27, -30, -36, -37 With Comparison Of The West Timmins Gold Property 
+ (Formerly Holmer Gold Deposit); Internal Report for Lake Shore Gold Corp. by 
+ Miller & Associates, Ottawa, Ontario, Canada. 
+ 
+Miller, A., 2009; Rusk Horizon and Rusk Showing, Thunder Creek Project, Northern 
+ Volcanic Zone, Abitibi Subprovince, Canada: Mineralogy of Selected Drill Core 
+ Samples from Drill Holes TC-08-51, TC-08-52, TC08-54, TC-1891 utilizing 
+ Scanning Electron Microscope with Petrography and Ore Microscope. Parts A-C-
+ D; Internal Report for Lake Shore Gold Corp. by Miller & Associates, Ottawa, 
+ Ontario, Canada. 
+ 
+Miller, A., 2009; Rusk Horizon and Rusk Showing, Thunder Creek Project, Northern 
+ Volcanic Zone, Abitibi Subprovince, Canada: Mineralogy of Selected Drill Core 
+ Samples from Drill Holes TC-08-51, TC-08-52, TC08-54, TC-1891 utilizing 
+ Scanning Electron Microscope with Petrography and Ore Microscope. Part B; 
+ Internal Report for Lake Shore Gold Corp. by Miller & Associates, Ottawa, 
+ Ontario, Canada. 
+ 
+Miller, A., 2009; Part A – Petrography and Ore Microscopy addendum to January 11, 
+ 2009 Report entitled Rusk Horizon and Rusk Showing, Thunder Creek Project, 
+ Northern Volcanic Zone, Abitibi Subprovince, Canada: Mineralogy of Samples 
+ TC08-54 (663), TC-08-54 (668) utilizing Part A - Scanning Electron Microscope, 
+ Part B - Petrography and Ore Microscope, Internal Report for Lake Shore Gold 
+ Corp. by Miller & Associates, Ottawa, Ontario, Canada. 
+ 
+Miller, A., 2009; Part B – Scanning Electron Microscopy addendum to January 11, 2009 
+ Report entitled Rusk Horizon and Rusk Showing, Thunder Creek Project, 
+ Northern Volcanic Zone, Abitibi Subprovince, Canada: Mineralogy of Samples 
+ TC08-54 (663), TC-08-54 (668) utilizing Part A - Scanning Electron Microscope, 
+ Part B - Petrography and Ore Microscope, Internal Report for Lake Shore Gold 
+ Corp. by Miller & Associates, Ottawa, Ontario, Canada. 
+ 
+Pyke, D.R., 1982; Geology of the Timmins Area, District of Cochrane, Report 219, 
+ Ontario Geological Survey. 
+ 
+Poulsen, K.H., 1996; Geology of Canadian Mineral Deposit Types, Geology of Canada, 
+ No. 8., Geological Survey of Canada, Chapter 15, Lode Gold, p323 to 392. 
+
+
+
+ 93
+
+ 
+Pressacco, R., 1999; Special Project: Timmins Ore Deposit Descriptions, Ontario 
+ Geological Survey, Open File Report 5985. 
+ 
+Ross, K., 2003; Petrographic Study of Twenty Five Samples From The Holmer Gold 
+ Deposit, Timmins, Ontario, Internal Lake Shore Gold Corp. Report by Panterra 
+ Geoservices Inc., Surrey, British Columbia. 
+ 
+Rhys, D.A., 2003; Structural Mapping Study Of The Surface Outcrops Of The Holmer 
+ Gold Deposit, Timmins, Ontario, Internal Lake Shore Gold Corp. Report by 
+ Panterrra Geoservices Inc., Surrey, British Columbia. 
+ 
+Samson, J., 2005; The 2003-2005 Diamond Drill Program on The Thunder Creek 
+ Property, Bristol Township, Lake Shore Gold Corp., Report. 
+ 
+Samson, J., 2008; The 2006 Stripping and Trenching Program on The Thunder Creek 
+ Property, Bristol Township, Lake Shore Gold Corp., Report. 
+   
+Samson, J., 2009; The 2007-2008 Diamond Drill Program (Phase 4) on The Thunder 
+ Creek Property, Bristol Township, Lake Shore Gold Corp., Report. 
+ 
+Sullivan, J.R., Lavigne, J.G., Kociumbas, M.W., 2007;  A Technical Review of  the 
+ Timmins West Gold Project in Bristol Township, Timmins Area, Ontario, Canada, 
+ for Lake Shore Gold Corp., Watts, Griffis and McOuat Limited, Consulting 
+ Geologists and Engineers.  (January 03, 2007) 
+ 
+Thompson, P.H., 2002; Toward a New Metamorphic Framework for Gold Exploration in 
+ the Timmins Area, Central Abitibi Greenstone Belt, Ontario Geological survey 
+ Open File Report 6101.  
+ 
+van Hees, E.H.P., 2000; Gold Deposition In The Western Abitibi Greenstone Belt And Its 
+ Relation To Regional Metamorphism;  A dissertation submitted in partial 
+ fulfillment of requirements of the degree of Doctor of Philosophy (Geology) in The 
+ University of Michigan. 
+ 
+Wagner, D.W., 2008; Technical Report of the Thunder Creek Gold Property, Bristol 
+ Township, Timmins, Ontario, Canada, for West Timmins Mining Inc.  (June 27, 
+ 2008) 
+ 
+Winter, L.D.S., 2004; National Instrument 43-101 Technical Report, Lake Shore Gold 
+ Corp., Timmins Gold Project, Timmins, Ontario. (September 28, 2004) 
+ 
+Winter, L.D.S., 2004; National Instrument 43-101 Technical Report, Lake Shore Gold 
+ Corp., Timmins Gold Project, Timmins, Ontario.  (November 26, 2004) 
+ 
+Winter, L.D.S., 2006; National Instrument 43-101 Technical Report, Lake Shore Gold 
+ Corp., Timmins Gold Project, Timmins, Ontario.  (January 25, 2006) 
+ 
+
+
+
+ 94
+
+Assessment Files (Assessment File Research Imaging (AFRI)): 
+ 
+Allan, J.E., 1974; Diamond Drill Logs, Allerston Gold Property, Bristol Twp., Ducanex 
+ Resources, AFRI No. 42A05NE8449. 
+ 
+Anderson, S.D., 1994; Work Report on the Bristol Lake Property, Trenching and 
+ Sampling Program for R.J. Poirier by Rayan Exploration Ltd., AFRI No. 
+ 42A05NE0079. 
+ 
+Anderson, S.D., 1995; Report on an Induced Polarization Survey on the Bristol 
+ Township Properties, Porcupine Mining Division, Ontario, for  R.J. Poirier by 
+ Rayan Exploration Ltd., AFRI No. 42A05NE0078. 
+ 
+Anderson, S.D., 1996; Geophysical Report on the Bristol Township Property, Induced 
+ Polarization Survey Located in Bristol Township, Porcupine Mining Division, for 
+ Marl/Pelangio Larder J.V., Rayan Exploration Ltd., AFRI No. 42ANE0165. 
+ 
+Anderson, S.D., 2003; Geophysical Report on the Magnetometer Survey, Bristol Lake 
+ Property, Bristol Township, Porcupine Mining Division for Rolly Poirier, Vision 
+ Exploration, AFRI No. 42A05NE2049. 
+ 
+Bald, R., 1987; Diamond Drill Logs, Bristol Township, Highwood Resources. AFRI No.
+ 42A05NE8428. 
+ 
+Barnett, E.S., 1985; Diamond Drill Report, Bristol Township, Kidd Creek Mines Ltd. 
+ AFRI No. 42A05NE8489. 
+ 
+Begauskas, J., Vamos, P.J., 1996; Report on the Allerston Project (Portion of the 
+ Allerston Option) in Bristol Township, West Timmins Area, Prospectors Alliance 
+ Corp. AFRI No. 42A05NE0167. 
+ 
+Benham, W., 1984; Diamond Drill Report, Allerston Option, Rio Algom Exploration Inc., 
+ Bristol Township, AFRI No. 42A05NE8473. 
+ 
+Bradshaw, R.J., 1973; Magnetic – Electromagnetic Survey on the Property of Holmer 
+ Gold Mines Limited, Bristol Township, Ontario, AFRI No. 42A05NE8495. 
+ 
+Bradshaw, R.J., 1973; Magnetic – Electromagnetic Survey on the Property of Mill Hill 
+ Mines Limited, Bristol, Denton, Carscallen and Thorneloe Townships, Ontario, 
+ AFRI No. 42A05SE0024. 
+ 
+Bradshaw, R.J., 1974; Magnetic – Electromagnetic Survey on the Shield Group, Bristol 
+ Township, Ontario, AFRI No. 42A05NE8463. 
+ 
+Bradshaw, R.J., 1978; Magnetic – Electromagnetic Survey on the Property of Holmer 
+ Gold Mines Limited, Bristol Township, Ontario, AFRI No. 42A05NE8439. 
+ 
+Bradshaw, R.J., 1978; Geological Report on Part of the Property of Holmer Gold Mines 
+ Limited, Bristol Township, Ontario, AFRI No. 42A05NE8494. 
+ 
+ 
+
+
+
+ 95
+
+Burns, J.G., 1996; Evaluation Report on Claims Located in Bristol Township, Porcupine 
+ Mining Division for Copper Dome Mines Ltd., AFRI No. 42A05NE0095. 
+ 
+Calhoun, R., 1994; Diamond Drill Hole Summary, Mahoney Creek Project (No. 507), 
+ Noranda Exploration Company Limited, Claims 1177808, 1177809, AFRI No. 
+ 42ANE0075. 
+ 
+Calhoun, R., 1995; Summary of Induced Polarization Survey, Mahoney Creek Project 
+ (No. 507), Hemlo Gold Mines Inc., AFRI No. 42ANE0084. 
+ 
+Calhoun, R., Edwards, J., 1997; Battle Mountain Gold, Diamond Drill Logs, Mahoney 
+ Creek, Project 507, AFRI No. 42A05NE0169. 
+ 
+Calhoun, R., Edwards, J., 1997; Battle Mountain Gold, Diamond Drill Logs, Thunder 
+ Creek, Project 506, AFRI No. 42A05NE2007. 
+ 
+Calhoun, R., 1998; Diamond Drill Logs, Allerston Option, Bristol Township, Falconbridge 
+ Ltd., AFRI No. 42A05NE2019. 
+ 
+Calhoun, R., 2000; Diamond Drill Logs, KM-2 Project, Bristol Township, Falconbridge 
+ Ltd., Explorers Alliance Corp., AFRI No. 42A05NE2030. 
+ 
+Calhoun, R., 1999; Diamond Drill Logs, Wallingford South Project, Bristol Township, 
+ Pelangio Mines Inc., Prospectors Alliance Inc., AFRI No. 42A05NE2034. 
+ 
+Calhoun, R., 2001; Summary Report of Fugro MegaTem® Survey, Timmins West Area 
+ by GeoCal Exploration Services, for Explorers Alliance Corp., AFRI No. 
+ 42A06NW2026. 
+ 
+Chataway, R.T., 1981; Diamond Drilling 1981, Preussag Canada Limited, Timmins West 
+ Project, Timmins, Ontario, AFRI No. 42A05NE8478. 
+ 
+Clark, D., 1989; Report on Magnetic Survey , southwestern Poirier Block, Holmer 
+ Project, Bristol Township, Ontario, M588, AFRI No. 42ANE8648. 
+ 
+Croxall, J.E., 1979; Magnetic and Electromagnetic Surveys, Claims No. 495307, 
+ 495309, 515901, North Part of the Croxall-Miller Property, Southwestern pare of 
+ Bristol Township, Porcupine Mining Division, AFRI No. 42A05NE8447. 
+ 
+Croxall, J.E., 1992. Mechanical Overburden Stripping, Bristol Township, AFRI No. 
+ 42A05NE8488. 
+ 
+Daigle, R.J., 1994; Noranda Exploration Co. Ltd., Geophysical Assessment Report, 
+ Project 507, Induced Polarization Survey,  Bristol, Carscallen, Denton, 
+ Thorneloe, Townships, Ontario, N/.T.S. 42A-SW, Porcupine Mining Division, 
+ AFRI No. 42A05NE0083. 
+ 
+Daigle, R.J., 1994; Noranda Exploration Co. Ltd., Total Field Magnetic Assessment 
+ Report, Project 507, Bristol, Carscallen, Denton, Thorneloe, Townships, Ontario, 
+ N/.T.S. 42A-05, Porcupine Mining Division, AFRI No. 42A05NE0081. 
+ 
+
+
+
+ 96
+
+Daigle, R.J., 1994; Noranda Exploration Co. Ltd., Assessment Report, Project 144, 
+ Porcupine Mining Division, AFRI No. 42A05SE0011. 
+ 
+Daigle, R.J., 1995; Line Cutting, TFM and I.P. Surveys, Bristol Township, Hemlo Gold 
+ Inc.,  N.T.S. 42-A-05, Porcupine Mining Division, AFRI No. 42ANE0080. 
+ 
+Daigle, R.J., 1997; Report of Work for Band-Ore Resources Ltd. on Carstol Property, 
+ Carscallen and Bristol Townships, 1997 Line Cutting, TFM, and I.P. Surveys, 
+ AFRI No. 42A05NE0131. 
+ 
+Daigle, R.J., 1997; Report of Work for Band-Ore Resources Ltd. on West Porcupine 
+ Project 1996-1997, Geophysical Surveys, Line Cutting, IP., TFM., AFRI No. 
+ 42A06SW0025. 
+ 
+Deevy, A.J., 1985; Report on Bristol Township Property, Project 404, Allerston Option, 
+ Westfield Minerals Ltd., AFRI No. 42A05NE8498. 
+ 
+Dionna, R.J., 1965; Diamond Drill Report, Claim P55903, Bristol Township, United 
+ Buffadison, AFRI No. 42A05NE8650. 
+ 
+Diorio, P., 1984; Assessment Report on Magnetic and VLF-EM Surveys Conducted on 
+ Claims 724587-724591, 740864-740873, 752195-752205, 779457-779461, 
+ 779509-779515, 825436-825440 Located in the Bristol Township in Porcupine 
+ Mining  District, Ontario., Utah Mines, AFRI No. 42A05NE8491. 
+ 
+Diorio, P., 1985; Assessment Report on Induced Polarization Conducted on Claims 
+ 724587-724591, 740864-740873, 752195-752205, 779457-779461, 779509-
+ 779515, 825436-825440 Located in the Bristol Township in Porcupine Mining 
+ District, Ontario., Utah Mines, AFRI No. 42A05NE8456. 
+ 
+Duess, R., 1997; Diamond Drill Logs and Sections, Bristol Property, Sedex Mining 
+ Corp./Band-Ore Resources Ltd. Joint Venture, Bristol and Thorneloe Townships, 
+ Porcupine Mining Division, AFRI No. 42A06NW0042. 
+ 
+Filo, J.K., 1997; Diamond Drill Report for Pelangio Larder Mines Limited and Copper 
+ Dome Mines Ltd, on the Poirier Joint Venture within Bristol Township, Northern 
+ Ontario, AFRI No. 42A05NE0168. 
+ 
+Fumerton, S., Clark, D.,1988; Geological and Geochemical Assessment Report, Bristol 
+ Township, M588, Chevron Minerals Ltd., AFRI No. 42A05NE8459. 
+ 
+Fumerton, S., 1988; Report of Work Done in 1987 on the Holmer Property, Bristol 
+ Township, M588, Chevron Minerals Ltd.,  AFRI No. 42A05NE8490. 
+ 
+Gasteiger, W.A., 1981; Report on Geophysical Work, Bristol Township, Allerston Claims 
+ and Bristol 66, Texasgulf Inc., AFRI No. 42A06NW8486. 
+ 
+Gasteiger, W.A., 1981; Report on Geophysical Work, Bristol, Denton, Carscallen, 
+ Thorneloe Townships, Airborne EM and Airborne Mag., Texasgulf Canada Ltd., 
+ AFRI No. 42A06NW0303. 
+ 
+
+
+
+ 97
+
+George, P.T., 1973; Report on the property of Holmer Gold Mines Ltd., Bristol Township, 
+ Ontario, AFRI No. 42A05NE8475. 
+ 
+George, P.T., 1975; Diamond Drill Report, for Geonex Limited (Ralph Allerston), Bristol 
+ Township, Ontario, AFRI No. 42A05NE8436. 
+ 
+Glenn, W.E., 1987; Airborne Geophysical Survey, Bristol Township, Chevron Canada 
+ Resources Limited, AFRI No. 42A05NE8705. 
+ 
+Grant, J.C, 1997; Geophysical Report for Copper Dome Mines Ltd. on the Poirier Option, 
+ Bristol Township., Porcupine Mining Division, Northeastern Ontario, AFRI No. 
+ 42ANE0104. 
+ 
+Grant, J.C., 1997; Geophysical Report for Pelangio Larder/Copper dome Mines Ltd. on 
+ the Poirier Option Bristol Township., Porcupine Mining Division, Northeastern 
+ Ontario, AFRI No. 42A05NE0158. 
+ 
+Grant, J.C., 2004; Geophysical Report for Probe Mines Limited, Bristol Project, Bristol 
+ Township, Porcupine Mining Division, Northeastern Ontario, AFRI No. 
+ 42A06NW2046. 
+ 
+Hendry, K.N., 1987; 1986 Geophysical assessment Report, Bristol Property, Cominco 
+ Ltd., AFRI No. 42A06NW8427. 
+ 
+Hiava, M., 1987; Diamond Drill Logs, Allerston Property, Bristol Township, AFRI No. 
+ 42A05NE8432.  
+ 
+Holmer Gold Mines Ltd.,1969; Diamond Drill Log Report, Bristol Township, AFRI No. 
+ 42A05NE8500.  
+ 
+Holmer Gold Mines Ltd., 1980; Diamond Drill Log Report, Bristol Township, AFRI No. 
+ 42A05NE8460.  
+ 
+Johnston, Matthew, 2000; Report of Work on the Bristol Property, Bristol Township, 
+ Ontario, NTS 42A/SW, Porcupine Mining Division, for Mike Caron, AFRI No. 
+ 42A05NE2037. 
+ 
+Jones, W.A., 1958; Diamond Drill Report, Hollinger Mines Ltd., Bristol Township, AFRI 
+ No. 42A05NE8454. 
+ 
+Klein, J., 1987; 1986 Geophysical Assessment Report on Claims P835909-835916, 
+ P871660 and P871661, Bristol Property, Cominco Ltd., AFRI No. 
+ 42A06NW8423. 
+ 
+Kilpatrick, J.M., 1973; Report on the Property on the Boundary of Townships of 
+ Carscallen, Bristol, Denton and Thorneloe, Mill Hill Mines Limited.  AFRI No. 
+ 42ASE0025. 
+ 
+Lebaron, P.S., 1984; Report on Reverse Circulation Overburden Drilling, Croxall Option, 
+ Bristol  and Thorneloe Townships, Noranda Exploration Company Limited, AFRI 
+ No. 42A05SE0010. 
+
+
+
+ 98
+
+ 
+Lebaron, P.S., 1985; Diamond Drill Report, Croxall Option, Bristol Township, Noranda 
+ Exploration Company Limited, AFRI No. 42A05SE0001. 
+ 
+Legault, J.M., Williston, C., Warne, J., 1997; Geophysical Survey Logistical Report, 
+ Quantec, regarding the Gradient-Realsection TDIP\Resistivity Survey over the 
+ Bristol Property, Bristol Twp., ON., on behalf of Prospectors Alliance Corp., 
+ Toronto, Quantec IP Incorporated, AFRI No. 42A05NE2018. 
+ 
+Mackenzie, C.D, 1995; Ground Magnetometer Survey and VLF Survey for the Ralph 
+ Allerston Property, Bristol Twp., Block 1190579, 4 Units, District of Cochrane, 
+ Timmins, Ontario, AFRI No. 42A05NE0077. 
+ 
+MacPherson, J., 1988; Report on Linecutting, and Ground Magnetometer on Bristol #1 
+ and 2, Mattagami River and Hwy 144 Grids, Thorneloe and Bristol Townships, 
+ District of Cochrane, Esso Minerals Canada, AFRI No. 42A06NW0317. 
+ 
+Manchuck, B., 1989; Diamond Drill Report, Chevron Minerals Ltd., AFRI No. 
+ 42A05NE8649. 
+ 
+McCann, S., 1995, Hemlo Gold Mines Inc., Diamond Drill Logs, Mahoney Creek Project 
+ (507), AFRI No. 42ANE0085. 
+ 
+McCann, S., 1995, Hemlo Gold Mines Inc., Diamond Drill Logs, Mahoney Creek Project 
+ (507), AFRI No. 42ANE0087. 
+ 
+McLeod, C.C., 1979; Reverse Circulation Overburden Drilling, Texasgulf Inc., AFRI No. 
+ 42A05NE8457. 
+ 
+McLeod, C.C., 1981; Reverse Circulation Overburden Drilling, Texasgulf Inc., AFRI No. 
+ 42A05NE8464. 
+ 
+Meikle, R.J.; 1994; Geophysical Report on a Magnetometer Survey for Band-Ore 
+ Resources Ltd., on Claim 1177822, Bristol Twp., Porcupine Mining Division, 
+ Ontario, by Rayan Exploration, AFRI No. 42A05NE0070. 
+ 
+Meikle, R.J.; 1994; Geophysical Report on a Magnetometer Survey for Band-Ore 
+ Resources Ltd., on the Thunder Creek Property, Bristol /Carscallen Twp., 
+ Porcupine Mining Division, Ontario, by Rayan Exploration, AFRI No. 
+ 42A05NE2062. 
+ 
+Meikle, R.J.; 1994; Geophysical Report on a Magnetometer Survey for Band-Ore 
+ Resources Ltd., on the Thunder Creek Property, Bristol /Carscallen Twp., 
+ Porcupine Mining Division, Ontario, by Rayan Exploration, AFRI No. 
+ 42A05NE8701. 
+ 
+Meikle, R.J.; 1995; Geophysical Report on the, Bristol Township Property Magnetometer 
+ Survey Located In Bristol Township., Porcupine Mining Division, Ontario, for 
+ Pelangio Larder Mines Ltd., AFRI No. 42A05NE0092. 
+ 
+
+
+
+ 99
+
+Moore, D.D., 1987; Diamond Drill Logs BR87-1, 87-2, 87-6, Cominco Ltd., AFRI No. 
+ 42A06NW8424. 
+ 
+Muir, J.E., 1980; Mineralogical Examination of Jim Croxall's Sample, Falconbridge 
+ Metallurgical laboratories, AFRI No. 42A05NE8430. 
+ 
+Mullen, D., 1979; Diamond Drill Logs, Allerston Option, Bristol Township, Texasgulf 
+ Ltd., AFRI No. 42A05NE8479. 
+ 
+Newsome, J.W., 1986; Assessment Report on Diamond Drilling Conducted on Claim 
+ 779509, Bristol Township, Porcupine Mining Division, Ontario, for Utah Mines 
+ Ltd., AFRI No. 42A06NW8426. 
+ 
+Perry, J., 1977; Magnetic Survey Report, Bristol Township, M-264, Porcupine Mining 
+ Division, District of Cochrane, Canadian Nickel Company, AFRI No. 
+ 42A06NE8435. 
+ 
+Perry, J., 1977, Geological Report, Allerston Option, Bristol Township, Canadian Nickel 
+ Company Limited, AFRI No. 42A06NW8485. 
+ 
+Robinson, G.D., 1958; Diamond Drill Report, Hollinger Mines Ltd., Bristol and 
+ Thorneloe Townships, AFRI No. 42A05NE8477. 
+ 
+Roth, J., 1988; Report on Magnetic and Induced Polarization surveys, Holmer Project, 
+ Bristol Township for Chevron Canada Resources Ltd., AFRI No. 42A05NE8492. 
+ 
+Vamos, P.J., 1998; Report on the Exploration Program Conducted by Prospectors 
+ Alliance Corp., during 1996 and 1997, on the East Portion of the Allerston 
+ Option, AFRI No. 42A05NE2012. 
+ 
+Van Hees, E.H., 1989, Diamond Drill Log and Assay Results, Chevron Minerals Ltd., 
+ AFRI No. 42A06NW8429. 
+ 
+Wamtech Pty, Ltd., 2004; MMI Manual for Mobile Metal Ion Geochemical Soil Survey. 
+ Version 5.04. 
+ 
+Warren, T.E., 1981; Timmins west Project, Geophysical Surveys, 1981, Mag., VLF, 
+ HEM, Preussag Canada Limited, AFRI No. 42A06SW0206. 
+ 
+Webster, B., 1977; Induced Polarization and Resistivity Survey Report, Bristol Township 
+ (M-264), Porcupine Mining Division, District of Cochrane, for R. Allerston, AFRI 
+ No. 42A06NW8471. 
+ 
+Webster, B., 1977; Magnetic Survey Report, Bristol Township (M-264), Porcupine Mining 
+ Division, District of Cochrane, for Canadian Nickel Company Ltd., AFRI No. 
+ 42A06NW8431. 
+ 
+Webster, B., 1997; Logistical and Interpretive Report, Spectral Induced Polarization 
+ Surveys, Timmins West Project, The Allerston Grid, Prospectors Alliance Corp., 
+ Bristol Twp., Northern Ontario, AFRI No. 42A05NE2001. 
+
+
+
+ 100
+
+Thunder Creek Press Releases: 
+ 
+2003-11-11;  
+ O'Connor, W.J., Lake Shore and Band-Ore Ink Timmins, Ontario Deal. 
+ 
+2003-11-12;  
+ Innes, D.G., Lake Shore Options Thunder Creek Property Adjoining The 
+ Timmins Gold Project, Ontario. 
+ 
+2003-12-03;  
+ Innes, D.G., Lake Shore Gold Reports More Timmins Gold Property Results 
+ and Updates From the Thunder Creek-Bazooka-Highway Projects Ontario-
+ Quebec. 
+ 
+2004-03-24;  
+ Innes, D.G., Lake Shore Confirms Gold Mineralization on Thunder Creek 
+ Property Timmins, Ontario. 
+ 
+ O'Connor, W.J., Gold Mineralization Confirmed on Thunder Creek Property. 
+ Band-Ore Resources Ltd. 
+ 
+2004-08-25; 
+ Innes, D.G., Lake Shore Gold Corp. Initiates Second Phase 3.000 Metre drilling 
+ Program Thunder Creek Property, Timmins, Ontario. 
+ 
+ O'Connor, W.J., Lake Shore Gold Corp., Initiates Second Phase 3,000 Metre 
+ Drill Program Thunder Creek Gold Property, Band-Ore Resources Ltd., Timmins, 
+ Ontario. 
+ 
+2005-02-14; 
+ Innes, D.G., Thunder Creek Project Update, Timmins, Ontario. 
+ 
+ O'Connor, W.J., Thunder Creek Project Update, Band-Ore Resources Ltd., 
+ Timmins, Ontario. 
+ 
+2006-06-21; 
+ O'Connor, W.J., Exploration Update, Thunder Creek Property, Band-Ore 
+ Resources Ltd., Timmins, Ontario. 
+ 
+2006_08-11; 
+ Booth, B.R., Lake Shore Gold Quarterly Project Update. 
+ 
+2006-09-26; 
+ Notice of Change in Corporate Structure, Report Date: 2006-09-26; 
+ Amalgamation became effective on September 13, 2006. (Sydney Resources 
+ Corporation and Band-Ore resources Limited)  -  new West Timmins Mining Inc. 
+ 
+2006-09-18;  
+ Wagner, D.W., Canadian Gold Company Launched On Toronto Stock 
+ Exchange. – West Timmins Mining Inc. to Focus on Large Projects in West 
+ Timmins Camp and Sierra Madres of Mexico. 
+
+
+
+ 101
+
+2006-11-09; 
+ Booth, B.R., Lake Shore Third Quarter Project Update. 
+ 
+2007-04-11;  
+ Wagner, D.W., West Timmins Mining Exploration Update: 5 Drills Turning 
+ on WTM Gold Projects; 8,000 metres, 10-12 holes, Thunder Creek Property,  
+ Timmins, funded by Lake Shore Gold. 
+ 
+2007-05-10;  
+ Booth, B.R. Lake Shore Gold First Quarter Project Update. 
+ 
+2007-08-01;  
+ Booth, B.R., Lake Shore Intersects New High-Grade Gold Mineralization at 
+ Thunder Creek, Ontario. 
+ 
+ Wagner, D.W., High Grade Gold Intersected on West Timmins' Thunder Creek 
+ Property, Ontario. 
+ 
+2007-08-15;  
+ Booth, B.R., Lake Shore Second Quarter Project Update. 
+ 
+2007-09-05;  
+ Booth, B.R., Lake Shore Reports Additional High-Grade Gold Intersection 
+ at Thunder Creek. 
+ 
+2007-09-06;  
+ Wagner, D.W., West Timmins Reports New High Grade Gold Discovery at 
+ Thunder Creek Property, Timmins, Ontario. 
+ 
+2007-11-13;  
+ Booth, B.R., Lake Shore Reports Third Quarter Results. 
+ 
+2007-12-04;  
+ Booth, B.R., Lake Shore Intersects 24.61 Grams Gold Per Tonne over 7.0 
+ Metres at Thunder Creek Property in Ontario. 
+ 
+2008-03-31;  
+ Makuch, T., Lake Shore Intersects 8.57 g/t Gold over 9.0 Metres at Thunder 
+ Creek Property in Ontario. 
+ 
+ Wagner, D.W., WTM Reports 8.57 g/t Gold over 9.0 Metres for Follow-Up 
+ Drilling at Thunder Creek. 
+ 
+2008-04-21; 
+ Wagner, D.W., WTM To Test Northern Extension of Thunder Creek – 
+ Timmins West Trend. 
+ 
+2008-05-15;  
+ Makuch, T., Lake Shore Gold Announces First Quarter 2008 Results. 
+ 
+ 
+
+
+
+ 102
+
+2008-08-05;  
+ Makuch, T., Lake Shore Gold Provides Update on Thunder Creek  Exploration. 
+ 
+ Wagner, D.W., 22,000 Metre Diamond Drill Program Commences on WTM's 
+ Thunder Creek Property In Timmins, Ontario. 
+ 
+2008-08-12;  
+ Makuch, T., Lake Shore Gold on Track to Achieve 2008 Targets. 
+ 
+2008-08-13;  
+ Wagner, D.W., WTM Completes $1,950,000 Non Brokered, Flow Through 
+ Private Placement, -  proceeds to fund the announced 22,000 metre diamond 
+ drill program on the Thunder Creek Property. 
+ 
+2008-11-10;  
+ Makuch, T., Lake Shore Gold Reports Timmins West on Schedule for 
+ Production in First Quarter 2009. 
+ 
+2008-12-16; 
+ Makuch, T., Lake Shore Gold Significantly Extends Rusk Zone and Announces 
+ New High-Grade Gold Intercepts at Thunder Creek. 
+ 
+ Wagner, D.W., WTM Reports 11.20 g/t Gold over 10.4 metres at Thunder 
+ Creek, Timmins, Ontario. 
+ 
+2009-01-21;  
+ Wagner, D.W., Drilling Program Accelerated on WTM's Thunder Creek Gold 
+ Property, Timmins, Ontario. 
+ 
+2009-02-23; 
+ Makuch, T., Lake Shore Gold Provides Corporate Update. 
+ 
+2009-03-31;  
+ Makuch, T., Lake Shore Gold Announces 19.55 g/t over 6.0 Metres And 
+ Discovery of Second Mineralized Horizon in Porphyry at Thunder Creek. 
+ 
+ Wagner, D.W., WTM Reports 8.86 g/t (0.26 oz/t) Gold over 24.85 Metres  
+ (81.58 feet) from Rusk Zone – Is History Being Repeated in Timmins, Ontario? 
+ 
+2009-05-05;  
+ Makuch, T., Lake Shore Gold Continues To Advance Projects on Schedule 
+ and Budget and To Achieve Exploration Success In First Quarter of 2009. 
+ 
+2009-05-05;  
+ Makuch, T., Lake Shore Gold Reports Additional High-Grade Intercepts at 
+ Thunder Creek, Confirms 175 Metre minimum Strike Length for Rusk and 
+ Porphyry Zones and Identifies New Sub-Zone at Depth. 
+ 
+ Wagner, D.W., WTM Reports 7.95 g/t (0.23 oz/t) Gold over 19.45 Metres (63.80 
+ feet) As Thunder Greek Gold System Continues to Expand. 
+ 
+
+
+
+ 103
+
+2009-06-24 
+ Makuch, T., Lake Shore Gold Reports 12.75 Grams Per Tonne Over 83.40  
+ Metres at Thunder Creek. 
+ 
+ Wagner, D.W., WTM Intersects 83.40 Metres (273.55 feet) Grading 12.75 g/t  
+ (0.37 oz/ton) Gold on Thunder Creek Property, Timmins, Ontario. 
+ 
+ 
+ 
+
+
+
+ 104
+
+Appendix 1. 
+ 
+ 
+
+Table 10.4.2:   2004 and 2006 Saw Channel Sample,  
+and Rock Sample Gold Assay Results 
+
+ 
+ 
+ 
+
+
+
+ 105
+
+Table 10.4.2:   2004 and 2006 Saw Channel Sample, and Rock Sample Gold Assay 
+Results.  
+
+Sample East_83_17 North_83_17 Type Width Comments Au_ppm Au_grav
+168101 458779.0 5358066.0 chip 2m Patchy zone of pyrite upto 5% 0.88
+168102 458779.0 5358066.0 chip 2m Patchy zone of pyrite upto 5% 0.15
+168103 458779.0 5358066.0 chip 2m Patchy zone of pyrite upto 5% 0.89
+168104 458782.0 5358068.0 select 0.2m Patchy zone of pyrite upto 5% 0.02
+168105 458784.0 5358062.0 select Patchy zone of pyrite upto 5% 2.98
+168106 458932.0 5358348.0 grab 0.5% py 0.02
+168107 458979.0 5357866.0 grab 0.06
+168108 458720.0 5358020.0 grab tr py 0.00
+168109 458856.0 5357557.0 grab 0.07
+168110 458363.0 5358011.0 grab 0.01
+168111 458731.0 5358555.0 float 0.1 x 0.06m 5% po 0.00
+168112 458737.0 5358562.0 grab tr py 0.00
+168113 458783.0 5358347.0 grab 0.00
+168114 458018.0 5358237.0 grab 3% py 0.01
+168115 457748.0 5358074.5 float 1% py 0.01
+168116 457748.0 5358074.5 chip 1.5m x 0.025m 1% py 0.01
+168117 457825.8 5357973.2 grab 3% py 0.27
+168118 458125.5 5357639.9 grab 1% py 0.00
+168119 458041.3 5357771.4 Chip 1m 1% py + cp, +/- Bornite 0.05
+168120 458995.0 5357880.0 grab tr py + cpy 0.06
+168121 458985.0 5357790.0 grab 1 % py 0.01
+168122 458025.5 5357539.9 grab 1% po + py 0.00
+168123 458026.1 5357538.8 grab 1% po + py 0.01
+168124 458028.6 5357533.8 float 0.1 x 0.15m tr py 0.01
+168125 458739.2 5357563.6 grab 0.02
+168126 458739.2 5357563.6 grab 0.04
+168127 459235.8 5357072.8 grab 2% py 0.00
+168128 458837.0 5357420.0 grab tr py + galena 0.02
+168129 458854.0 5358416.0 float 1%py 0.01
+168130 458704.0 5358122.0 grab 0.5% py 0.01
+168131 458442.0 5357915.0 grab 1% py 0.01
+168132 458442.0 5357915.0 grab 2-3% py 0.00
+168133 458630.1 5357776.4 chip 1.25m 0.5 % py 0.01
+168134 458634.1 5357772.2 chip 0.5m 0.5 % py 0.01
+168135 458717.9 5357696.8 float Tr. Py, galena, cpy 0.01
+168136 458829.3 5357597.7 grab Minor Py and Galena 0.01
+168137 458817.0 5357580.0 grab Tr Py 0.01
+168138 458724.9 5357341.4 grab 7cm wide 0.5% py + Ga 0.09
+168139 458726.8 5357339.9 grab 0.5 % Py 0.01
+168140 458614.9 5357667.5 float 0.5% py 0.01
+168141 458600.6 5357585.1 grab 40 x 30cm 0.5% Ga + Py 0.08
+168142 458605.5 5357580.5 grab 11cmwide 5% Ga, 0.5% py 4.02 3.36
+168143 458605.4 5357578.9 float 11cm wide 5% Ga, 0.5% py 2.14
+168144 458739.6 5357168.8 grab 1% py 0.07
+168145 457593.2 5357649.1 grab Whole Rock
+168146 457579.4 5357681.9 grab Whole Rock
+168147 457519.9 5357701.8 grab Whole Rock
+168148 457093.0 5356919.8 grab 1% py 0.01
+168149 457101.4 5356953.5 float 1% py 0.01
+168150 457331.6 5356886.0 chip 1m minor sulfide 0.01
+255401 458932.0 5358338.0 Grab 0.00
+255402 458932.0 5358338.0 Grab 0.00
+255403 458929.0 5358345.0 Grab 0.00
+255404 458935.0 5358345.0 Grab 0.04
+255405 458932.0 5358348.0 Grab 0.01
+255406 458782.0 5358068.0 Grab 0.47
+255407 458782.0 5358069.0 Grab 2.23
+255408 458729.0 5358067.0 Grab 0.02
+255409 458752.0 5357908.0 Grab 0.04
+255410 458700.0 5358090.0 Grab 1.50
+255411 458701.0 5358117.0 Grab 0.01
+255412 458701.0 5358117.0 Grab 71.90 71.90
+255413 458701.0 5358117.0 Grab 0.17
+255414 458012.0 5358234.0 Grab 0.48
+355451 458935.6 5358350.7 Channel 0.65 0.05
+355452 458935.0 5358351.3 Channel 0.75 0.07
+355453 458933.0 5358351.1 Channel 0.8 0.00
+355454 458931.7 5358351.1 Channel 0.4 0.00  
+
+
+
+ 106
+
+Table 10.4.2:   2004 and 2006 Saw Channel Sample, and Rock Sample Gold Assay 
+Results (continued) 
+
+Sample East_83_17 North_83_17 Type Width Comments Au_ppm Au_grav
+355455 458932.5 5358344.4 Channel 0.3 0.03
+355456 458932.4 5358345.0 Channel 0.4 0.03
+355457 458932.5 5358345.3 Channel 0.4 1.23
+355458 458931.9 5358345.4 Channel 0.35 0.17
+355459 458931.5 5358345.8 Channel 0.75 0.02
+355460 standard Channel N/A 1.28
+355461 458931.0 5358346.0 Channel 0.3 0.10
+355462 458930.0 5358345.7 Channel 0.7 0.02
+355463 458929.4 5358346.0 Channel 0.8 0.03
+355464 458928.9 5358346.5 Channel 0.75 0.00
+355465 458928.2 5358346.9 Channel 0.8 0.01
+355466 458927.7 5358347.3 Channel 0.6 0.01
+355467 458927.2 5358347.5 Channel 0.7 0.00
+355468 458926.8 5358347.7 Channel 0.7 0.00
+355469 458927.6 5358342.1 Channel 0.6 0.64
+355470 NO Analysis Channel
+355471 458927.1 5358342.5 Channel 0.6 0.03
+355472 458926.6 5358343.0 Channel 0.75 0.04
+355473 458688.6 5358124.2 Channel 0.75 0.02
+355474 458688.8 5358123.7 Channel 0.75 0.02
+355475 458689.2 5358123.2 Channel 0.7 4.14 3.77
+355476 458689.7 5358122.7 Channel 0.85 0.74
+355477 458690.7 5358122.0 Channel 0.6 0.16
+355478 458690.7 5358122.0 Channel 0.7 0.11
+355479 458691.7 5358125.0 Channel 0.5 0.02
+355480 Standard Channel N/A 1.29
+355481 458691.8 5358124.8 Channel 0.6 0.11
+355482 458692.0 5358124.1 Channel 0.7 0.20
+355483 458700.8 5358128.4 Channel 0.6 0.00
+355484 458701.0 5358127.9 Channel 0.45 2.35
+355485 458709.6 5358128.7 Channel 0.6 3.40 2.95
+355486 458710.1 5358128.6 Channel 0.5 0.10
+355487 458710.5 5358127.6 Channel 0.65 0.05
+355488 458711.0 5358127.0 Channel 0.7 0.01
+355489 458711.5 5358126.5 Channel 0.65 0.01
+355490 458711.9 5358125.9 Channel 0.5 0.00
+355491 458712.2 5358125.4 Channel 0.55 0.00
+355492 458712.5 5358125.2 Channel 0.65 0.01
+355493 458706.7 5358123.9 Channel 0.4 0.00
+355494 458708.2 5358121.8 Channel 0.35 0.00
+355495 Standard Channel N/A 4.27 4.17
+355496 458616.0 5357771.1 Channel 0.75 0.01
+355497 458615.7 5357770.6 Channel 0.75 0.08
+355498 458616.5 5357770.4 Channel 0.6 0.01
+355499 458616.7 5357769.9 Channel 0.5 0.01
+355500 458615.9 5357769.1 Channel 0.9 0.01
+392951 458615.4 5357768.5 Channel 0.7 0.01
+392952 458615.4 5357768.1 Channel 0.7 0.01
+392953 458615.7 5357766.8 Channel 0.02
+392954 458615.8 5357766.5 Channel 0.9 0.01
+392955 458615.6 5357766.2 Channel 0.8 0.01
+392956 458614.9 5357767.2 Channel 0.9 0.02
+392957 458614.2 5357766.0 Channel 0.65 0.01
+392958 458615.6 5357765.7 Channel 0.8 0.02
+392959 458615.7 5357765.3 Channel 0.8 0.00
+392960 458616.0 5357764.7 Channel 0.75 0.03
+392961 458616.1 5357764.1 Channel 0.8 0.00
+392962 458617.1 5357763.3 Channel 0.6 0.05
+392963 458618.0 5357762.5 Channel 0.35 0.01
+392964 458617.2 5357761.5 Channel 0.3 0.02
+392965 458616.4 5357760.5 Channel 0.25 0.02
+392966 458616.5 5357759.9 Channel 0.4 0.04
+392967 458615.5 5357759.1 Channel 0.8 0.01
+392968 458615.4 5357758.4 Channel 0.95 0.01
+392969 458615.7 5357757.6 Channel 0.6 0.01
+392970 458616.3 5357757.0 Channel 0.7 0.17
+392971 458616.5 5357756.4 Channel 0.45 0.14
+392972 458619.4 5357778.4 Channel 0.9 0.01
+
+040751R 457333.7 5356880.4 grab 0.5-1% py 0.02
+
+
+
+ 107
+
+Table 10.4.2:   2004 and 2006 Saw Channel Sample, and Rock Sample Gold Assay 
+Results (continued) 
+
+Sample East_83_17 North_83_17 Type Width Comments Au_ppm Au_grav
+040752R 457329.7 5356873.4 chip 1m 0.5-1% py 0.01
+040753R 456836.6 5356676.0 grab 1% py 0.00
+040754R 456506.0 5356788.0 grab 0.5-1% Py 0.00
+040755R 457484.2 5357973.6 chip 1m, 6cm wide 1% py 0.00
+040756R 457495.1 5357985.5 grab 10% pyrite 0.01
+040757R standard 1.39
+040758R blank 0.00
+040759R 459069.9 5358602.1 chip 2m 1-2% py 0.03
+040760R 459259.2 5358624.0 grab 0.5% py 0.02
+040761R 458967.0 5358598.5 grab minor sulfide 0.00
+040762R 459259.5 5358066.9 float 0.5% py 0.01
+040763R 459255.6 5358013.1 grab 0.5% py 0.00
+040764R 459079.1 5357874.3 chip 2m 1% py 0.15
+040765R 459087.5 5357868.5 chip 0.6 m minor py 0.01
+040766R 459059.9 5357869.5 grab 0.5 minor py 0.01
+040767R 459047.4 5357872.1 float 1-2% Ga + Py 0.12
+040768R 459018.0 5357888.0 float 1% Ga + Py 0.02
+040769R 458981.5 5357878.1 grab minor sulfide 0.16
+040770R 458967.7 5357833.7 grab 1% py 0.01
+040771R 458857.8 5357905.7 grab 0.5% py disseminated 0.01
+040772R 458864.0 5357719.6 chip trace py 0.01
+040773R 458892.9 5357549.2 grab minor py + sulfasalts 0.04
+040774R 458894.6 5357566.2 grab trace py 0.02
+040775R 457840.3 5358156.1 grab 2% py 0.00
+040776R 457840.1 5358149.5 chip 1.5m 2% py 0.00
+040777R 457842.5 5358163.8 float 1-2% py, Sphalerite 0.01
+040778R 457863.1 5358165.5 float minor sulfide 0.01
+040779R 457863.4 5358165.0 float minor sulfide 0.00
+040780R 457908.7 5358208.4 chip 1m minor sulfide 0.00
+040781R 457954.0 5358251.8 grab 1% py 0.01
+040782R 457982.2 5358276.6 chip 1m 1% py 0.01
+040783R 457981.0 5358272.0 grab 2% py 0.01
+040784R 458680.8 5358054.1 Float 1% py 0.19
+040785R 458680.9 5358055.7 3-4% py 0.04
+
+040785R R 458680.9 5358055.7 0.04
+040786R 458685.2 5358043.6 float 2-3% py 0.02
+040787R 459288.2 5357938.8 float 50 x 50 x20cm 2-3% py, 2-3% arsenopyrite 1.37
+355476 R 458690.3 5358122.5 Channel 0.80
+392963R 458618.0 5357762.5 Channel 0.5 0.01
+
+2741 Stripped Area 1 Channel 0.44 Nil -
+2742 Extended Channel 0.36 Nil 2.00
+2743 2006 Channel 0.36 Nil -
+2744 Channel 0.43 367.00 -
+2745 Channel 0.40 21.00 -
+2746 Channel 0.44 281.00 -
+2747 Channel 0.57 861.00 631.00
+2748 Channel 0.41 216.00 -
+2749 Channel 0.43 473.00 -
+2750 Channel 0.46 Nil -
+2751 Channel 0.45 401.00 -
+2752 Channel 0.47 233.00 -
+2753 Channel 0.42 Nil -
+2754 Channel 0.46 Nil -
+2755 Channel 0.47 Nil -
+2756 Channel 0.46 7.00 7.00
+2757 Channel 0.38 24.00 -
+2758 Channel 0.41 Nil -
+2759 Channel 0.39 Nil -
+2760 Channel 0.34 10.00 -
+2761 Channel 0.49 Nil -
+2762 Channel 0.45 Nil -
+2763 Channel 0.43 14.00 -
+2764 Channel 0.36 96.00 -
+2765 Channel 0.34 110.00 171.00  
+ 
+ 
+ 
+
+
+
+ 108
+
+Table 10.4.2:   2004 and 2006 Saw Channel Sample, and Rock Sample Gold Assay 
+Results (continued) 
+
+Sample Overburden Stripped Area Type Width Comments Au_ppm Au_grav
+
+355451 2004 Samples Channel 0.65 52.00
+355452 Area 1 Channel 0.75 68.00
+355453 Channel 0.80 Nil
+355454 Channel 0.40 Nil
+355455 Channel 0.30 29.00
+355456 Channel 0.40 31.00
+355457 Channel 0.40 1230.00
+355458 Channel 0.35 172.00
+355459 Channel 0.75 20.00
+355461 Channel 0.30 102.00
+355462 Channel 0.70 17.00
+355463 Channel 0.80 31.00
+355464 Channel 0.75 Nil
+355465 Channel 0.80 5.00
+355466 Channel 0.60 8.00
+355467 Channel 0.70 Nil
+355468 Channel 0.70 Nil
+355469 Channel 0.60 638.00
+355471 Channel 0.60 32.00
+355472 Channel 0.75 41.00
+2624 Area 4 Channel 0.64 408.00 -
+2625 2006 Channel 0.66 82.00 -
+2626 Channel 0.41 3.00 -
+2627 Channel 0.46 2.00 -
+2501 Area 5 Channel 0.32 2798.00 -
+2502 2006 Channel 0.31 48.00 -
+2503 Channel 0.34 1461.00 -
+2504 Channel 0.39 Same location as 2575 1807.00 1817.00
+2505 Channel 0.39 7.00 -
+2506 Channel 0.35 1539.00 -
+2507 Channel 0.41 41.00 -
+2508 Channel 0.42 2.00 -
+2509 Channel 0.39 874.00 -
+2510 Channel 0.33 357.00 -
+2511 Channel 0.34 1217.00 -
+2512 Channel 0.34 24.00 -
+2513 Channel 0.41 Same location as 2561 15017.00 22354.00
+2514 Channel 0.35 1920.00 -
+2515 Channel 0.27 106.00 -
+2516 Channel 0.34 Nil -
+2517 Channel 0.34 2.00 -
+2518 Channel 0.28 2187.00 -
+2519 Channel 0.44 99.00 -
+2551 Channel 1.06 10.00 -
+2552 Channel 0.44 Nil 3.00
+2553 Channel 0.58 7.00 -
+2554 Channel 0.64 765.00 -
+2555 Channel 0.60 38.00 -
+2556 Channel 0.60 48.00 -
+2557 Channel 0.95 7.00 -
+2558 Channel 0.64 45.00 -
+2559 Channel 0.50 Nil -
+2560 Channel 1.15 322.00 -
+2561 Channel 1.15 Same location as 2513; see Rep 10423.00 14126.00
+2562 Channel 1.19 Nil -
+2563 Channel 0.94 17.00 -
+2564 Channel 0.47 41.00 -
+2565 Channel 0.33 147.00 -
+2566 Channel 0.51 189.00 -
+2567 Channel 0.40 86.00 -
+2568 Channel 0.45 Nil -
+2569 Channel 0.43 353.00 -
+2570 Channel 0.30 1128.00 -
+2571 Channel 0.51 555.00 525.00
+2572 Channel 0.49 432.00 -
+2573 Channel 0.31 51.00 -
+2574 Channel 0.43 291.00 -
+
+
+
+ 109
+
+Table 10.4.2:   2004 and 2006 Saw Channel Sample, and Rock Sample Gold Assay 
+Results (continued) 
+
+Sample Overburden Stripped Area Type Width Comments Au_ppm Au_grav
+2575 Area 5 Channel 0.38 Same location as 2504 2211.00 -
+2576 2006 Channel 0.58 696.00 -
+2577 Channel 0.41 110.00 -
+2578 Channel 0.41 295.00 -
+2579 Channel 0.41 106.00 -
+2580 Channel 0.50 55.00 48.00
+2581 Channel 0.37 Nil -
+2582 Channel 0.40 Nil -
+2583 Channel 0.64 Nil -
+2584 Channel 1.00 185.00 -
+2585 Channel 0.39 99.00 110.00
+2586 Channel 0.51 see Rep 7.00 -
+2588 Channel 0.45 Nil -
+2589 Channel 0.44 Nil -
+2590 Channel 0.62 10.00 -
+2591 Channel 0.48 41.00 -
+2592 Channel 0.45 744.00 -
+2593 Channel 1.02 55.00 -
+2594 Channel 0.48 1423.00 1275.00
+2595 Channel 0.52 309.00 -
+2596 Channel 0.34 288.00 -
+2597 Channel 0.52 Nil -
+2598 Channel 0.48 315.00 -
+2599 Channel 0.32 45.00 -
+2600 Channel 0.34 72.00 -
+2601 Channel 0.37 27.00 -
+2602 Channel 0.50 103.00 -
+2603 Channel 0.44 881.00 878.00
+2604 Channel 0.44 134.00 -
+2605 Channel 0.48 7.00 -
+2606 Channel 0.51 130.00 -
+2607 Channel 0.23 Nil -
+2608 Channel 0.33 27.00 -
+2609 Channel 0.41 Nil -
+2610 Channel 0.66 Nil -
+2611 Channel 0.38 10.00 -
+2612 Channel 0.55 34.00 -
+2613 Channel 0.44 7.00 -
+2614 Channel 0.55 see Rep 240.00 195.00
+2615 Channel 0.44 see Rep 7.00 -
+2616 Channel 0.64 65.00 -
+2617 Channel 0.42 2.00 -
+2618 Channel 0.29 7.00 -
+2619 Channel 0.47 10.00 -
+2620 Channel 0.74 14.00 -
+2621 Channel 0.52 27.00 -
+2622 Channel 0.27 21.00 -
+2623 Channel 0.44 45.00 -
+2987 Channel 0.32 7.00 -
+2988 Channel 0.34 Nil -
+2989 Channel 0.44 110.00 -
+2990 Channel 0.42 579.00 -
+2991 Channel 0.42 1550.00 -
+2992 Channel 0.30 929.00 -
+2993 Channel 0.30 425.00 -
+2994 Channel 0.43 374.00 501.00
+2995 Channel 0.27 130.00 -
+2996 Channel 0.30 55.00 -
+2997 Channel 0.24 86.00 -
+2998 Channel 0.36 141.00 -
+2999 Channel 0.33 51.00 -
+3000 Channel 0.35 2406.00 2194.00
+
+ 
+
+
+
+ 110
+
+Appendix 2. 
+ 
+ 
+
+Significant Assay Results, and Composite Assays 
+Greater Than or Equal to 1 Gram Gold per Tonne 
+
+ 
+ 
+
+
+
+ 111
+
+
+
+ 112
+
+ 
+
+
+
+ 113
+
+ 
+
+
+
+ 114
+
+ 
+
+
+
+ 115
+
+  
+ 
+
+
+
+ 116
+
+
+
+ 117
+
+
+
+ 118
+
+ 
+ 
+ 
+ 
+
+
+
+ 119
+
+Appendix 3. 
+ 
+ 
+
+Photographic Plates 
+ 
+
+
+
+ 120
+
+
+
+ 121
+
+Plate 1., Diamond Drill Hole TC09-68, (TC09-68a, b, c) May 29, 2009 
+ 
+
+ 
+ 
+ 
+
+ 
+
+
+
+ 122
+
+ 
+Plate 2., Lake Shore's field grid looking 130° (9650E / 6875 N). 
+ 
+
+ 
+ 
+ 
+ 
+Plate 3., MMI sample station 392544. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 123
+
+Plate 4., Overburden stripping Area Five (Rusk Showing) 
+ 
+Several historical pits are within this general area by Rusk Porcupine Mines. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Plate 5., Saw channel sampling Area Five 
+ 
+From foreground to background return assay results from saw channels are 0.106 g/t 
+over 0.27 metres, 1.92 g/tonne over 0.35 metres and 15.017 g/tonne over 0.41 metres (a 
+check sample of the latter returned 22.35 g/tonne gold.  A parallel channel returned 
+10.42 g/tonne gold over 1.15 metres. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 124
+
+Plate 6., Area Five, Altered Alkali Intrusive Complex, hematite, iron carbonate, 
+quartz +/- carbonate injections, sulphide (pyrite, chalcopyrite). 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Plate 7., Area Five, Alkali Intrusive Complex (Pyroxenite), exhibiting epidote 
+alteration. 
+ 
+
+ 
+ 
+  
+
+
+
+ 125
+
+Plate 8., Garnetiferous pegmatitic injections into the Pyroxenite, Area Five. 
+ 
+
+ 
+ 
+ 
+Plate 9., Area One, Looking southward along the South West Shear Zone, and the 
+contact between the Alkali Intrusive Complex (right) and the Metasediments (left 
+where Jacques Samson is standing). 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 126
+
+Plate 10., Overburden Stripping Area One, looking northward along a strongly 
+foliated unit representing the South West Shear Zone, and mapped as altered 
+Metasediments (?).  In the foreground to the left, is the Alkalic Intrusive Complex 
+(Pyroxenite).  A light leucocratic boudinage of Felsite dyke within altered 
+Pyroxenite is located off the photo centre to the right.  Metasediments are located 
+to the upper left over the knoll. 
+ 
+
+ 
+ 
+ 
+Plate 11., Overburden stripped Area Three, the East-West Shear Zone. 
+ 
+
+ 
+ 
+ 
+
+
+
+ 127
+
+South of Area Five evidence of historical work. 
+ 
+Plate 12., Old Trench trending East-West 
+ 
+
+ 
+ 
+Plate 13., Old cut timber with greater than 1 cm moss growth approximately 12.5 
+metres south of trench in the above photo. 
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+ 128
+
+Completed Diamond drill holes that drilling are well marked, if the casing is not 
+pulled and the hole cemented, the casing is capped  
+ 
+Plate 14., Collar TC03-01 
+ 
+
+ 
+ 
+ 
+Plate 15., Collar TC07-28 
+ 
+
+ 
+ 
+
+
+
+ 129
+
+Plate 16., Collar TC08-52 
+ 
+
+ 
+ 
+ 
+Plate 17., The north boundary, east-west line between the Thunder Creek Property 
+and the Timmins West Gold Property in the area of drill hole TC09-68 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+
+
+ 130
+
+Plate 18., Racked saw split core from drill hole TC08-63.  
+ 
+ 
+
+ 
+ 
+ 
+ 
+Plate 19., Cross piled hanging wall core from TC07–43 and TC07-41. 
+ 
+
+ 
+ 
+
+
+
+ 131
+
+Plate 20., Racked saw spilt core from drill hole TC09-71 
+ 
+
+ 
+ 
+ 
+Plate 21., Racked core from drill holes TC09-70 and TC09-71. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 132
+
+Plate 22., Cratons of coarse sample reject stored in Lake Shore Gold Corp.'s Field 
+office compound, Timmins.  Note that mineralized sections of core are subjected 
+to a pulp and metallic analysis there all the reject is used.  The other half of the 
+drill core is available for check analysis. 
+ 
+
+ 
+ 
+ 
+Plate 23., Locked storage lockers for storage of returned assay pulps. 
+ 
+
+ 
+ 
+  
+ 
+ 
+
+
+
+ 133
+
+Plate 24., Assay pulps are stored in a secure, systematic, orderly fashion. 
+ 
+ 
+
+ 
+ 
+ 
+Plate 25.., Assay pulp storage boxes are clearly labeled with assay preparation 
+laboratory location, analysis worksheet number, the date, and assign internal 
+laboratory number. 
+ 
+
+ 
+ 
+ 
+  
+ 
+ 
+
+
+
+ 134
+
+Plate 26., The core logging facility for  Laura Krupka-Crites and Jacques Samson 
+reviewing intersections in TC08-34, TC08-36 with author. 
+ 
+
+ 
+ 
+ 
+Plate 27.,  Laura Krupka-Crites, core logging directly to computer. 
+ 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+
+
+
+ 135
+
+ 
+ 
+ 
+Plate 28., Looking northward, from the projected surface expression of the Rusk 
+Zone Extension toward the Timmins West Gold headframe.  
+ 
+
+ 
+  
+
+ 
+
+
+
+
+'

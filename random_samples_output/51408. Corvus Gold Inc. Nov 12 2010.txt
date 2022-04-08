@@ -1,0 +1,5860 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - bullfrog_43-101_nov10_10_final_nov12_10.docx
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SUMMARY REPORT 
+
+ON THE  
+
+NORTH BULLFROG PROJECT 
+
+AND RESOURCE AT MAYFLOWER, 
+
+BULLFROG MINING DISTRICT, 
+
+NYE COUNTY, NEVADA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PREPARED BY: 
+
+Roger C. Steininger Ph.D. CPG            Gary Giroux, M.Sc. P. Eng. 
+Steininger Consulting              Giroux Consulting Ltd. 
+3401 San Mateo Ave.              1215‐675 W. Hastings St. 
+Reno, NV 89509‐5091              Vancouver, B.C. V6B 1N2 
+775‐742‐6333                604‐684‐0899     
+ 
+
+For: Corvus Gold Inc.   
+
+November 10, 2010 
+
+ 
+
+ 
+
+
+
+ 
+
+2 
+ 
+
+TABLE OF CONTENTS 
+
+Page 
+
+1.0 Summary                              5 
+
+2.0 Introduction                              6 
+
+2.1 General Statement                                                   6 
+
+2.2 Terms of Reference                          7 
+
+2.3 Source of Information                          8 
+
+3.0 Reliance on Other Experts                          8 
+
+4.0 Property Description and Location                        9 
+
+4.1 Area and Location                          9 
+
+4.2 Redstar Joint Venture                        10 
+
+4.3 Mayflower Property                        11 
+
+4.4 Other Property Considerations                      12 
+
+5.0 Accessibility, Climate, Local Resources, Infrastructure, and Physiography             13 
+
+6.0 History                              14 
+
+7.0 Geological Setting                          15 
+
+7.1 Regional Geological Setting                      15 
+
+7.2 NBP Geology                          16 
+
+8.0 Deposit types                            19 
+
+9.0 Mineralization                            19 
+
+9.1 General Statement                        19 
+
+9.2 Mayflower                          20 
+
+9.3 Sierra Blanca                          22 
+
+9.4 Connection                          25 
+
+9.5 Pioneer                           26 
+
+9.6 Savage/Savage Valley                        26 
+
+9.7 Jolly Jane                          27 
+
+9.8 Arsenic Vein                          28 
+
+10.0 Exploration                            28 
+
+11.0 Drilling                              28 
+
+12.0 Sampling Method and Approach                       29 
+
+13.0 Sample Preparation, Analyses, and Security                    30 
+
+14.0 Data Verification                          31 
+
+14.1 Mayflower                          31 
+
+14.1.1 Duplicates                        32 
+
+14.1.2 Blanks                          32 
+
+14.1.3 Standards                        33 
+
+15.0 Adjacent Properties                          35 
+
+16.0 Mineral Processing and Metallurgical Testing                    36 
+
+17.0 Mineral Resource and Mineral Reserve Estimates                  37 
+
+
+
+ 
+
+3 
+ 
+
+17.1 Mayflower Resource Estimate Background                 37 
+
+17.1.1 Data Base for Mayflower Resource Estimation               37 
+
+17.1.2 Geologic Model of the Mayflower Mineralized Zone             37 
+
+17.1.3 Data Analysis                       40 
+
+17.1.4 Composites                       41 
+
+17.1.5 Variography                       42 
+
+17.1.6 Bulk Density                       42 
+
+17.1.7 Block Model                       43 
+
+17.1.8 Grade Interpolation                     43 
+
+17.2 Classification                         44 
+
+17.3 Mayflower Resource Estimate                     46 
+
+18.0 Other Relevant Data and Information                     49 
+
+19.0 Interpretation and Conclusions                       49 
+
+20.0 Recommendations                         50 
+
+21.0 References                           52 
+
+22.0 Date and Signature Page                       53 
+
+23.0 Certificates of Authors                         54 
+
+Appendix 1‐List of Drill Holes Used in Resource Estimate                  56 
+
+Appendix 2‐Semivariogram models                           59 
+
+Appendix 3‐Claim Descriptions                         66 
+
+LIST OF FIGURES 
+
+Figure 1‐Regional location maps of the NBP                       7 
+
+Figure 2‐Property map of the NBP showing key target/mineralization areas             10 
+
+Figure 3‐Mayflower Ridge looking to the northwest                   13 
+
+Figure 4‐Generalized geologic map of the NBP                     18 
+
+Figure 5‐2008 ITH drilling at Mayflower                       21 
+
+Figure 6‐Geology Map of the Sierra Blanca and Savage Valley target areas             24 
+
+Figure 7‐Cross section through Sierra Blanca area                   25 
+
+Figure 8‐Cross section through Jolly Jane area                     29 
+
+Figure 9‐Analytical results from duplicates submitted with the 2008 ITH drill samples from NBP         32 
+
+Figure 10‐Analytical results from blanks submitted with 2008 ITH drill samples from NBP          33 
+
+Figure 11‐Analytical results from several standards submitted with 2008 ITH drill samples from NBP   35 
+
+
+
+ 
+
+4 
+ 
+
+Figure 12‐Mayflower model viewed from the northwest at end of the David Adit Zone           38 
+
+Figure 13‐Perspective view looking down on the Mayflower mineralization model           39 
+
+Figure 14‐Isometric view looking NW of the Mayflower geologic solid               40 
+
+ 
+
+LIST OF TABLES 
+
+Table  1‐Summary  of  lease  obligations  that  are  part  of  the NBP  Joint  Venture which were  originally 
+
+structured by RGC                            10 
+
+Table 2‐Summary of terms for the Mayflower/Greenspun Group lease                11 
+
+Table 3‐Summary of companies that explored NBP                     14 
+
+Table 4‐Companies that drilled in the Mayflower area                     20 
+
+Table 5‐Intervals of poor recovery in 2008 ITH drilling in Mayflower area                30 
+
+Table 6‐Bottle roll recovery estimates form Mayflower drill samples                 36 
+
+Table 7‐Bottle roll test results for drill core from Sierra Blanca                   36 
+
+Table 8‐Summary of assay statistics for mineralized solid and waste                 41 
+
+Table 9‐Summary of capped assay statistics for mineralized solid and waste                           41 
+
+Table 10‐Summary of 5m composite statistics for mineralized solid                             41 
+
+Table 11‐Summary of semivariogram parameters                     42 
+
+Table 12‐Summary of measured specific gravity determinations for Mayflower               42 
+
+Table 13‐Summary of Kriging search parameters                      44 
+
+Table 14‐Mayflower indicated resource                         47 
+
+Table 15‐Mayflower inferred resource                         48 
+
+Table 16‐Proposed budget to support recommended exploration program at NBP             51 
+
+   
+
+
+
+ 
+
+5 
+ 
+
+1.0 SUMMARY 
+
+Corvus Gold  Inc.  ("Corvus")  controls  the North Bullfrog Project  ("NBP") as a  result of  the  spin out of 
+
+certain  assets,  including  the  shares  of  Talon  Gold  Nevada  Inc.  ("TGN"), which  holds  the  NBP,  from 
+
+International Tower Hill Mines Ltd ("ITH") to Corvus that occurred on August 26, 2010.  ITH and Redstar 
+
+Gold Corporation  ("RGC") had  jointly explored  the property between 2007 and 2009 under  the North 
+
+Bullfrog Property Joint Venture agreement ("NBPJV").  ITH purchased, through TGN, the RGC interest in 
+
+NBP  in  August  2009.    The NBP  area  covers  approximately  4,557  acres  of  patented  and  unpatented 
+
+mining claims in the Bullfrog Hills, about 15 km north of Beatty, Nevada.  The Bullfrog mine is about 12 
+
+km south of  the property where Barrick Gold Corporation  (and predecessor companies) produced 2.4 
+
+million ounces of gold from a geological environment similar to NBP. 
+
+Gold  was  discovered  in  the  Bullfrog  district  in  1904  resulting  in  an  estimated  production  of  about 
+
+112,000 ounces of gold and 869,000 ounces of silver through 1921.  There was only minor activity in the 
+
+district after that initial production period until the Bullfrog gold deposit was discovered in 1986.  During 
+
+the  early  20
+th
+  Century  only  limited mining  occurred  in  the NBP  area,  principally  at  the  Pioneer  and 
+
+Mayflower mines.   Modern exploration at NBP started  in 1974 and continued until 1996 during which 
+
+time  several companies mapped,  sampled, and drilled  several areas of gold mineralization.   Declining 
+
+precious metal prices in the late 20
+th
+ Century resulted in reduced interest in the area.  RGC started land 
+
+acquisition  and  exploration  at  NBP  in  2005,  and  in  2007  entered  into  the  NBPJV  with  ITH.    ITH 
+
+purchased,  through TGN,  the  interest of RGC  in  the NBP  from RGC  in August 2009 and continued  the 
+
+exploration program.   With the spin out of TGN and the NBP  interest to Corvus they are assuming the 
+
+exploration program and property obligations. 
+
+Gold mineralization  in  the  NBP  is  primarily  hosted  in  the middle Miocene  Crater  Flats  Tuff.    Gold 
+
+mineralization  is also hosted  to a  lesser extent  in monolithic and heterolithic debris‐flow deposits, as 
+
+well  as  in  felsic  dikes  and  plugs.    Two  district‐scale  north  striking  normal  faults  are  the  dominant 
+
+structural  features  in  the  Project  area,  but  several  smaller‐scale  faults  between  them  are  important 
+
+controls for distribution of hydrothermal alteration and gold mineralization. 
+
+Two  styles of precious metal epithermal mineralization are present at NBP: 1) potentially high‐grade, 
+
+structurally controlled fissure veins and associated stockwork zones, and 2)  low‐grade disseminated or 
+
+replacement deposits within altered volcanic  rocks.   Historic drilling  (pre‐NI 43‐101) outlines areas of 
+
+important mineralization at NBP, the most significance of which appears to be  in the Mayflower mine 
+
+area.  Drilling by the NBPJV was used to develop a resource estimate at Mayflower, to better understand 
+
+precious metal mineralization at Air Track Hill, and as  initial tests at Sierra Blanca, Pioneer, and Savage 
+
+targets. 
+
+The basis for the resource estimate at Mayflower was a geologic model developed by ITH (predecessor 
+
+to Corvus) geologists using geology logs from the drill holes along with alteration and geochemical data.  
+
+This was used to define the "Mayflower Zone" which was the limiting factor for gold distribution for the 
+
+resource estimation.  Ordinary Kriging was used to develop a block model, which at a 0.50 g/t gold cut‐
+
+off consists of: 
+
+
+
+ 
+
+6 
+ 
+
+ 
+
+  Indicated resource  2,020,000 tonnes at 0.88 g/t Au and 0.45 g/t Ag 
+
+  Inferred resource     950,000 tonnes at 0.78 g/t and 0.36 g/t Ag 
+
+The total contained metal  is about 57,086 ounces of gold and 29,160 ounces of silver  (indicated), and 
+
+23,793 ounces of gold and 10,904 ounces of silver (inferred).  Mineral resources which are not mineral 
+
+reserves do not have demonstrated economic viability. 
+
+The data generated at NBP by NBPJV, and previous explorers, identified areas where additional vein and 
+
+disseminated  epithermal  precious  metal  deposits  are  likely  to  occur.    Many  of  these  targets  are 
+
+expected to be similar in grade to the Mayflower deposit.  However, given the similarity and proximity 
+
+to the nearby Bullfrog mine, there is the potential for discovery of a multi‐million ounce gold deposit at 
+
+NBP.     
+
+A two part program is recommended to advance the exploration of the property, with a total budget of 
+
+US$ 1,000,000.  Areas of stratabound gold mineralization are known at Sierra Blanca and Jolly Jane that 
+
+could represent significant gold deposits.   A 36 reverse circulation (RC) drilling program  is proposed  in 
+
+these  two  areas  to  initially  define  the  extent,  continuity,  and  grade  of  the  gold  mineralization.  
+
+Significant gold targets have been defined at Savage Valley, Connection, and Arsenic Vein.  Initial drilling 
+
+is proposed at each area.  The budget for this portion of the program is estimated at US$ 900,000.  The 
+
+numerous gold,  trace element and hydrothermal alteration areas  that have been previously drilled or 
+
+are undrilled  should be  re‐evaluated  in  light of  the expanded  knowledge of gold deposits  in volcanic 
+
+rocks.  This should generate additional drill targets.  The estimated budget for this part of the program is 
+
+US$ 100,000. 
+
+2.0  INTRODUCTION 
+
+2.1  General Statement 
+
+NBP  is  in northwestern Nye County, Nevada  in the northern Bullfrog Hills about 15 km north of Beatty 
+
+(Figure 1).   The Project  is within  the Walker Lane structural  terrain about 12 km north of  the Bullfrog 
+
+mine where Barrick Gold Corporation (and several predecessor companies) produced about 2.4 million 
+
+ounces of gold  from 1989  through 1999.   NBP contains numerous epithermal  low‐sulfidation volcanic 
+
+rock hosted gold showings that had limited historic production. 
+
+Corvus,  through  TGN,  controls  the  property  through  a  number  of  leases  with  various  land  owners 
+
+(Figure 2) and unpatented  lode claims.   RGC assembled 213 unpatented  lode claims and 33 patented 
+
+claims through six  lease agreements which were part of the original  joint venture agreement with  ITH 
+
+(NBPJV).   ITH  leased an additional 11 patented claims  in the Mayflower area, which became subject to 
+
+the  NBPJV  agreement.    ITH was  earning  into  the  NBPJV when,  in  August  2009,  they  negotiated  an 
+
+agreement to purchase RGC's  interest  in the property.   On August 26, 2010,  ITH spun out to Corvus a 
+
+number of  its assets,  including  the  shares of TGN, which holds  the NBP  interest, with  the  result  that 
+
+Corvus now controls the NBP through TGN. 
+
+
+
+ 
+
+7 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 1. Regional location maps of the NBP; Nevada map shows productive gold deposits in black and 
+
+location of enlarged area with false‐color remote‐sensing image backdrop. 
+
+ 
+
+2.2  Terms of Reference 
+
+Corvus  requested  that  this Technical Report be prepared  in  support of a  resource estimate  that was 
+
+developed and included herein for Mayflower area of the property, as well as updating material changes 
+
+in  the NBP ownership,  land position, metallurgical data, and  recommendations  for  the next phase of 
+
+exploration on the property.  This report also outlines the geology, exploration history, and potential of 
+
+the property outside of the Mayflower resource area.  Dr. Roger C. Steininger and Mr. Gary Giroux were 
+
+commissioned by Corvus to prepare this document. 
+
+The principal author, Roger C. Steininger, Ph.D., CPG, as an independent Qualified Person, has visited the 
+
+property  several  times during  the  last 20  years.   With  respect  to  the  current activities, he  visited on 
+
+March 28‐29, 2008 during ITH's most recent drilling program and, most recently, on June 3‐4, 2010.  Dr. 
+
+Steininger did not collect independent samples from the property but did inspect the geology of most of 
+
+Project Area 
+
+Gold Deposits
+
+Bullfrog Mine 
+
+Beatty 
+
+2 MI 
+
+
+
+ 
+
+8 
+ 
+
+Corvus' holdings, and in 2008 observed drilling and sampling practices.  Dr. Steininger does not own any 
+
+interest in any of the properties or companies involved in the NBP and does not have, or expect to have, 
+
+an ongoing relationship with any of  the subject companies or  individuals.   Therefore, Dr. Steininger  is 
+
+not an insider and is independent of all parties that are subject to the property. 
+
+The second author, Mr. Gary Giroux, PEng., as an  independent Qualified Person,  is responsible for the 
+
+resource estimate presented in this document and summarized in the resource section (Section 17).  Mr. 
+
+Giroux does not own any  interest  in any of the properties or companies  involved  in the NBP and does 
+
+not have, or expect to have, an ongoing relationship with any of the subject companies or  individuals.  
+
+Therefore, Mr. Giroux is not an insider and is independent of all parties that are subject to the property. 
+
+2.3  Source of Information 
+
+Information  used  in  this  report was  obtained  from  ITH,  RGC,  and  Corvus.    The  database  consists  of 
+
+original materials  from  ITH and RGC; also both companies were able  to collect copies of original data 
+
+and  reports  from  companies  that previously explored  the property.    There  is  a  significant  volume of 
+
+information  on  the  property,  and  adjacent  properties,  in  the  public  domain  that  was  used  in  the 
+
+preparation of this report.  Except where specifically referenced in this document, the material used to 
+
+develop  this  report  was  derived  from  various  unpublished  company  documents  that  are  far  too 
+
+numerous to reference individually. 
+
+3.0  RELIANCE ON OTHER EXPERTS 
+
+The  principal  author  has  not  conducted  independent  exploration  activities  on  the  property.    The 
+
+information  presented  in  this  document  is  a  summary  of  findings  by  others  that  is  found  in  various 
+
+company reports that outline exploration activities and results on the property.  ITH and RGC collected 
+
+data  from previous explorers extending back  to  the early 1970s,  although  this database,  for obvious 
+
+reasons, contains numerous gaps and omissions.   All of  the available data was  transferred  to Corvus.  
+
+Additionally,  there  is  abundant  information  on  the  region's  geology  and mineralization  in  the  public 
+
+domain  that  extends  to  the  start of  the 20
+th
+ Century.   All of  these data were made  available  to  the 
+
+principal author.  While the principal author assumes that this information was accurate at the time of 
+
+collection, except for the  ITH, RGC, and Corvus data, there  is no direct way of determining  its validity.  
+
+Most  of  the  data  collected within  the  last  40  years was  done  under  the  umbrella  of  larger mining 
+
+companies and to industry standard at the time, therefore it is assumed to be reasonably reliable. 
+
+ITH  supplied  Mr.  Giroux  a  database  that  contained  the  drill  hole  information  and  assays  for  the 
+
+Mayflower area.   As discussed  in  Sections 13, 14, and 17,  the  ITH/NBPJV data  is  considered  reliable.  
+
+Data collected by previous operators  is subject  to an unknown quality control program and was used 
+
+with advisement. 
+
+The principal author was  informed by Corvus that there are no  impending  legal or environment issues, 
+
+or litigation that would impede exploration of the property.  A title search to determine the status of the 
+
+patented and unpatented mining claims was beyond the scope of this report.  The principal author was 
+
+assured by Corvus that all mining claims are in good standing with the appropriate fees and taxes having 
+
+
+
+ 
+
+9 
+ 
+
+been paid  through  the date of  this  report.    The principal  author  is  relying on  ITH's opinion  in  these 
+
+matters.  
+
+4.0  PROPERTY DESCRIPTION AND LOCATION 
+
+4.1  Area and Location 
+
+The NBP is located in the Bullfrog Hills of northwestern Nye County, Nevada (Figure 2).  Corvus' property 
+
+covers about 4,521 acres of patented and unpatented mining claims in Sections 25, 26, 27, 34, 35, and 
+
+36 of T10S, R46E; sections 1, 2, 11, 12, 13, and 14 of T11S, R46E; section 31 of T10S, R47E; and section 6, 
+
+T11S,  R47E, MDBM.   A  complete  list  of  claims  covered  by  the NBP  is  given  in Appendix  3.    Corvus, 
+
+through TGN, has several agreements in place that give it control of these claims which are summarized 
+
+below. 
+
+   
+
+
+
+ 
+
+ 
+
+ 
+
+Figure 2
+
+4.2  R
+
+RGC origi
+
+six  privat
+
+eventually
+
+shares  (N
+
+part of  th
+
+Table 1  s
+
+property. 
+
+ 
+
+ 
+
+2. Property m
+
+edstar Option
+
+nally staked 2
+
+e  parties.    T
+
+y  purchased,
+
+ews Release,
+
+he August 26,
+
+ummarizes  th
+
+ 
+
+map of the NB
+
+n/Joint Ventu
+
+213 unpatent
+
+This  is  the  la
+
+  through  TG
+
+, August 4, 2
+
+, 2010 spin o
+
+he obligation
+
+BP showing th
+
+ure/ITH Purch
+
+ted lode mini
+
+nd  package 
+
+N,  by  paying
+
+009).   The sh
+
+out, with  the 
+
+ns of  the  six 
+
+10 
+
+ 
+
+he key target/
+
+hase of Land
+
+ing claims an
+
+that  ITH  opt
+
+g  RGC  CAD  $
+
+hares of TGN 
+
+result  that C
+
+leases which
+
+/mineralized
+
+d optioned 3
+
+tioned  from 
+
+$250,000  and
+
+were then t
+
+Corvus now c
+
+ are part of 
+
+d areas; 20‐fo
+
+33 patented m
+
+RGC,  formin
+
+d  issuing  200
+
+transferred to
+
+controls  the N
+
+Corvus'  resp
+
+ 
+
+oot contour li
+
+mining claims
+
+g  the  NBPJV
+
+,000  ITH  com
+
+o Corvus by  I
+
+NBP  through 
+
+ponsibilities o
+
+nes. 
+
+s from 
+
+V,  and 
+
+mmon 
+
+TH as 
+
+ TGN.  
+
+on  the 
+
+
+
+ 
+
+11 
+ 
+
+ 
+
+Table 1‐Summary of lease obligations that are part of the Corvus holdings (all funds USD) 
+
+Party  Area  Claims/Acres Next payment  Property 
+Taxes 
+
+NSR  Signing date 
+
+Gregory  North 
+Pioneer 
+
+1/8.19  $3,000  $46.68  2%  6/16/2006 
+
+Hall  Savage  3/45.67  $7,200  $80.05  2%  5/22/2006 
+
+Kolo Corp  Jolly Jane  2/41.32  $3,000  $43.36  3%  5/8/2006 
+
+Milliken  Pioneer  3/24.53  $4,500  $80.05  2%  5/8/2006 
+
+Pritchard  Pioneer  12/203.01  $20,000  $230.18  4%  5/16/2006 
+
+Lunar  Connection  12/213  $10,800  $207.31  4%  10/27/2008 
+
+Total    21/322.72  $48,500  $687.63     
+
+ 
+
+4.3  Mayflower Property 
+
+In 2007,  ITH,  through TGN, entered  into a mining  lease with option  to purchase with  the Greenspun 
+
+Group  for  183  acres  of  patented mining  claims  that  cover much  of  the Mayflower  prospect.    The 
+
+Mayflower lease requires Corvus to make payments and complete work programs as outlined in Table 2.  
+
+During the term of the lease any production from the property is subject to a sliding scale royalty, also 
+
+outlined in Table 2.  Corvus has the right to purchase a 100% interest in the property for US$ 7.5 million 
+
+plus an 0.5% NSR (if gold is less than US$ 500) or 1.0% (if gold is above US$ 500) at any time during the 
+
+term of the  lease (subject to escalation for  inflation  if the option  is exercised after the 10
+th
+ year of the 
+
+lease).    The  annual property  taxes  to be paid by Corvus  for  the Mayflower  lease  are  $213.50.    TGN 
+
+remains  obligated  to  deliver  ITH  shares  under  the Mayflower  lease.   However,  for  the  issuance  due 
+
+December  1,  2010,  Corvus  has  negotiated  a  payment  of  cash  plus  the  issuance  of  Corvus  common 
+
+shares. 
+
+ 
+
+ 
+
+Table 2‐Summary of Terms for the Mayflower/Greenspun Group Lease 
+
+Term:  Five years beginning December 1, 2007 
+
+  Five additional years with an additional five year period, plus an additional 3 year period or so 
+long thereafter as commercial production continues 
+
+Lease Payments:  Due on each anniversary date of the lease 
+
+
+
+ 
+
+12 
+ 
+
+  On regulatory acceptance ‐ US$ 5,000 and 25,000 ITH shares 
+
+  Each of first – fourth anniversaries, US$ 5,000 and 25,000 ITH shares 
+
+  Each of fifth – ninth anniversaries, US$ 10,000 and 50,000 ITH shares 
+
+Work Commitments:  Excess  expenditures  in  any  year  can  be  carried  forward, or  if under  spent  the 
+unspent portion paid to Greenspun Group  
+
+  Years 1‐3  US$ 100,000 each year the lease is in effect 
+
+  Years 4‐6  US$ 200,000 each year the lease is in effect 
+
+  Years 7‐10  US$ 300,000 each year the lease is in effect 
+
+Retained Royalty: Production sliding scale net smelter return based on price of gold each quarter 
+
+  2% if gold is less than US$ 300 per ounce 
+
+  3% if gold is between US$ 300 and US$ 500 per ounce 
+
+  4% if gold is more than US$ 500 per ounce 
+
+Advance Minimum  Royalty  Payments  (if  not  in  commercial  production  by  the  tenth  anniversary,  in 
+order to extend lease for an additional three years) 
+
+Years 11‐13  US$ 100,000 each year  the  lease  is  in effect and commercial production has not been 
+achieved 
+
+Purchase Option: 
+
+  During first 10 years property can be purchased for US$ 7.5 million plus an 0.5% NSR (if gold  is 
+less than US$ 500) or 1.0% (if gold is above US$ 500) 
+
+After the tenth anniversary the US$ 7.5 million purchase price escalates by the Consumer Price 
+Index, using the CPI immediately prior to the tenth anniversary as a base 
+
+4.4  Other Property Considerations 
+
+All of the unpatented claims are on U.S. public  land administered by the Bureau of Land Management 
+
+("BLM")  and  therefore  a  subject  to  exploration  and development permits  as  required by  the  several 
+
+current  regulations.   The unpatented claims  require payment of yearly maintenance  fees  to  the BLM, 
+
+State  of  Nevada,  and  Nye  County  (filing  fees)  of  US$29,820.00,  US$18,105.00,  and  US$2,240.50, 
+
+respectively (for 2010).   Annual property taxes to be paid by Corvus for the original six RGC  leases are 
+
+tabulated in Table 1.  
+
+
+
+ 
+
+13 
+ 
+
+Current exploration activities are covered by a Bureau of Land Management (BLM) Plan of Operations 
+
+(NVN‐83002)  allowing  for  6.43  acres  of  disturbance.    Two  Plans  of  Operation  with  the  Nevada 
+
+Department of Environmental Protection (NDEP#0280 and 0290) are in place that allow for exploration 
+
+activities on private and public lands, respectively.  Reclamation bonds are in place to cover activities on 
+
+these  claims  and  amount  to  USD$29,627.00  with  the  BLM  and  USD$29,473.00  with  the  NDEP.  
+
+Additional permits and bonding will be required for the expanded exploration program outlined  in the 
+
+Recommendation Section of this report. 
+
+5.0  ACCESSIBILITY, CLIMATE, LOCAL RESORUCES, INFRASTRUCTURE, AND PHYSIOGRAPHY 
+
+NBP is in Western Nevada's high desert which receives about 15 cm of precipitation per year, mostly as 
+
+modest snow fall in the winter and thunderstorms in the summer.  The average daily temperature varies 
+
+from a low of 40.8
+0
+ in January to a high of 80.8
+
+0
+ in July.  The hills at the property are covered with low 
+
+brush,  dominated  by  sagebrush.    The  project  is  in  the  Basin  and  Range  province  but  on  site  the 
+
+topographic  relief  is  only  a  few  hundred  feet.   Most  of  the  property  is  characterized  by  low  hills 
+
+separated by modest width valleys (Figure 3). 
+
+Beatty, Nevada is the closest town to the property with a population of about 1,100 and contains most 
+
+basic services.  The nearest major supply point that would support a major mining related activity is Las 
+
+Vegas, Nevada about 160 km to the southeast.  Access around the property is by a series of reasonably 
+
+good gravel roads that extend to most of the important exploration areas.  There are several accessible 
+
+mine workings that produce good exposures of the geology throughout the district. 
+
+
+
+ 
+
+ 
+
+6.0  H
+
+The NBP 
+
+Bullfrog m
+
+mining ac
+
+ounces of
+
+was little 
+
+the  distri
+
+Senator S
+
+acquisitio
+
+deposit fr
+
+similar am
+
+ISTORY 
+
+is  in  the Bul
+
+mine by Frank
+
+ctivity accoun
+
+f gold and 86
+
+production u
+
+ct.    They  co
+
+Stewart mines
+
+ns resulted in
+
+rom 1989 thr
+
+mount of silve
+
+Figure 3‐
+
+lfrog mining 
+
+k "Shorty" Ha
+
+t for the majo
+
+68,749 ounces
+
+until the 1980
+
+onducted  ext
+
+s, resulting in
+
+n Barrick Gold
+
+rough 1994 r
+
+er (Eng, et al, 
+
+Mayflower R
+
+district.   Go
+
+rris and Ernes
+
+ority of produ
+
+s of silver we
+
+0s.  In early 19
+
+ensive  explo
+
+n the discover
+
+d Corporation
+
+esulted  in th
+
+1996). 
+
+14 
+
+Ridge looking 
+
+ 
+
+ 
+
+ld was discov
+
+st Cross on Au
+
+uction from t
+
+ere produced 
+
+982 geologist
+
+oration  in  the
+
+ry of the Bull
+
+n being the fin
+
+e production
+
+ to the north
+
+vered at wha
+
+ugust 9, 1904
+
+he district.  L
+
+between 190
+
+s from St. Joe
+
+e  area  of  th
+
+frog deposit 
+
+nal owner of 
+
+n of about 2.4
+
+hwest 
+
+at was  to be
+
+4 (Elliott, 196
+
+Lincoln (1923)
+
+05 and 1921,
+
+e America bec
+
+he Montgome
+
+in mid‐1986.
+
+the mine.  Pr
+
+4 million oun
+
+come  the Or
+
+6).  Two perio
+
+) reported 11
+
+, after which 
+
+came interes
+
+ery‐Shoshone
+
+  Several com
+
+roduction fro
+
+nces of gold, 
+
+ 
+
+riginal 
+
+ods of 
+
+11,805 
+
+there 
+
+ted in 
+
+e  and 
+
+mpany 
+
+m the 
+
+and a 
+
+
+
+ 
+
+15 
+ 
+
+The early history of the NBP property is comingled with the greater Bullfrog mining district.  The Pioneer 
+
+and Mayflower were the principal mines in the northern part of the district.  The Pioneer mine was most 
+
+active between 1909 and 1926 with about 15,000  feet of underground workings, all being developed 
+
+within 300  feet of  the surface.   There are no accurate production  figures, but  limited  records suggest 
+
+that head grades were about one quarter ounce of gold per  ton.   The Mayflower mine was probably 
+
+active  during  the  same  time,  but  again  there  are  no  reliable  production  records.    Underground 
+
+development  at  Sierra Blanca,  Jolly  Jane,  Savage,  and  Yellowjacket  also  attest  to historic mining  and 
+
+production, probably during the same period. 
+
+Modern exploration  started  in  the early 1970s and, as outlined  in Table 3,  consisted of a number of 
+
+companies with  focuses on different parts of  the property.   These programs consisted of a variety of 
+
+activities including surface mapping and sampling, underground mapping and sampling, and drilling. 
+
+Table 3—Summary of companies that explored NBP 
+
+COMPANY  YEARS OF ACTIVITY  PRINCIPAL TARGET 
+
+Cordex  1974‐1982  Connection, Pioneer 
+
+US Borax  1982  Mayflower 
+
+Gexa/Galli  1984‐1991  Pioneer, Connection 
+
+CR Exploration  1984‐1985  Mayflower 
+
+Western States  1987  West Mayflower 
+
+Sunshine/Bond Gold JV  1988‐1994  Sierra Blanca, Yellowjacket 
+
+Pathfinder  1991, 1992  Pioneer 
+
+Barrick  1995‐1996  Jolly  Jane,  Sierra  Blanca, 
+Mayflower  
+
+ 
+
+Through the Barrick program approximately 249 rotary and reverse‐circulation drill holes were drilled on 
+
+the property (see Section 9 for detailed description of these programs). 
+
+With the downturn in gold price at the start of the 21th Century interest in the property was essentially 
+
+nonexistent.   In late 2005 RGC became  interested in the North Bullfrog area and started staking claims 
+
+and acquiring  leases on patented mining claims.    In March 2007 RGC granted  ITH the right to earn an 
+
+interest in the NBP and thereafter form the NBPJV.  In December 2007, ITH, through TGN, completed a 
+
+lease of the Mayflower property, which was  included  in the NBPJV.   From the execution of the NBPJV 
+
+option/joint  venture agreement until  the  spin‐out  to Corvus,  ITH actively explored  the property.   On 
+
+August 4, 2009 ITH purchased RGC's interests in the NBP and continued the exploration program as sole 
+
+owner/leasor.    As  a  result  of  the  spin‐out  on  August  26,  2010  by  ITH  of  several  assets  to  Corvus, 
+
+including the shares of TGN, on that date Corvus became the holder of the NBP and assumed all of the 
+
+responsibilities of the NBP. 
+
+7.0  GEOLOGICAL SETTING 
+
+7.1  Regional Geological Setting 
+
+
+
+ 
+
+16 
+ 
+
+The NBP  is within  the Walker  Lane  structural  province  and  the  southwestern Nevada  volcanic  field; 
+
+approximately  three kilometers west of  the western  structural margin of  the middle Miocene Timber 
+
+Mountain caldera complex.   Many of  the volcanic units exposed on  the property originated  from  the 
+
+caldera  complex,  some  of  which  were  locally  reworked.    The  region  is  underlain  by  Paleozoic 
+
+sedimentary  rocks  and  older  volcanic  rocks which  are  the  basement  for  the mid‐Miocene  tuffs  and 
+
+related rocks that are the hosts for most of the mineralization in the Bullfrog mining district.  The region 
+
+was  subjected  to  extensional  faulting  related  to  the  development  of  the Great  Basin, which  started 
+
+about the time of major volcanism.   Most of the major fault zones have northerly strikes with normal 
+
+displacement to the east and west.  Numerous cross faults are present between the principal northerly 
+
+striking faults.   Some of the faults are  interpreted to have  listric shapes, similar to the MP fault at the 
+
+Bullfrog mine, and thus accommodate extension and likely sole into a district‐scale detachment faults at 
+
+depth. 
+
+The area is characterized by short low ranges, separated by narrow gravel filled valleys (Figure 3). 
+
+7.2  NBP Geology  
+
+The  Northern  Bullfrog  Hills  (NBH)  are  underlain  by  a  complexly  faulted  and  hydrothermally  altered 
+
+sequence of Miocene  volcanic and  sedimentary  rocks  ranging  in  age  from ~14‐10 Ma.   The Miocene 
+
+rocks  are  underlain  by  Late  Precambrian  to  Cambrian  sedimentary  rocks  that  are  exposed  in  two 
+
+prominent erosional windows (Figure 4).  The pre‐Tertiary windows represent basement structural highs 
+
+of significant relief upon which the Miocene section was deposited.  The basement structural highs have 
+
+played a role in the unique volcaniclastic and epiclastic Tertiary stratigraphy of the NBH.  In contrast to 
+
+the layer‐cake volcanic stratigraphy of the Southern Bullfrog Hills (SBH), the NBH stratigraphy consists of 
+
+extensive  semi‐tabular  sequences of monolithic and heterolithic debris‐flow breccias, as well as  large 
+
+intercalated  slide  blocks.    These  fragmental  sequences  are  composed  of  both  basement  debris  and 
+
+volcanic debris  from many of  the same units  that are preserved as  tabular ash  flow  tuff sheets  in  the 
+
+SBH.    The  implication  is  that  the  scarp‐bounded  basement  highs  created  a  unique  depositional 
+
+environment  during  and  after  deposition  of  each  ash  flow  tuff  sheet.    The  slide  blocks  and 
+
+monolithic/heterolithic debris flow breccias are largely the result of the re‐working of both pre‐Tertiary 
+
+and Miocene map  units  via  gravity  sliding, mass wasting  and  alluvial  fan  development  around  fault‐
+
+bounded basement structural highs.   
+
+Both  pre‐Tertiary  and Miocene  rocks  have  been  subjected  to  large‐scale, W‐  to WNW‐directed,  syn‐
+
+volcanic  and  syn‐mineral  extension  between  16‐9.4  Ma  (faulting  and  east‐tilting).    Extension  was 
+
+accommodated  by  the  Bullfrog  Hills  fault  system  (BHFS)  –  a  complex  group  of  kinematically‐linked, 
+
+predominantly  NNE‐  to  NNW‐trending,  moderately  west  ‐dipping,  down‐to‐the‐west  normal  faults.  
+
+Three major splays of the BHFS cross the property including: the Donovan Mountain fault, the West Jolly 
+
+Jane fault and the Road fault (Figure 4).  The Road fault is considered the northern continuation of the 
+
+Contact fault from the SBH.  The Contact fault forms the bounding post‐mineral structure on the north 
+
+side  of  the Montgomery‐Shoshone  deposit,  and  also  hosts  sub‐economic  vein mineralization  under 
+
+Rhyolite Valley.    The Pioneer  shear  is  a poorly understood  EW‐trending  structural  zone  that  exhibits 
+
+both  down‐to‐the‐north  and  down‐to‐the‐south  displacement,  depending  on  location.    The  Pioneer 
+
+
+
+ 
+
+17 
+ 
+
+shear  is  interpreted  to  be  a  strike‐slip  (left,  right  or  both?)  tear  fault  that  accommodated  lateral 
+
+movement  between major  splays  of  the BHFS.   Hydrothermal  alteration  and  gold mineralization  are 
+
+commonly spatially associated with major splays of the BHFS throughout the Bullfrog Hills.  In the NBH, 
+
+there  is  substantial  post‐mineral  movement  on  the  major  faults,  resulting  in  the  juxtaposition  of 
+
+relatively unaltered younger rocks (hanging walls) against variably altered and locally mineralized older 
+
+rocks  (footwalls).    Despite  their  current  appearance,  the major  faults  are  considered  to  be  primary 
+
+structural conduits that were active during gold mineralization.  
+
+A  variety of  aphanitic  to  porphyritic dikes,  sills  and  irregular  intrusive bodies  ranging  in  composition 
+
+from  rhyolite  to  andesite  are  present  in  the NBH.    Intensely  altered  rhyolite  and  dacite  bodies  are 
+
+spatially associated with and locally host gold mineralization in the Sierra Blanca and Jolly Jane areas.  In 
+
+these  target areas,  larger  intrusive bodies are  commonly altered and mineralized only near wall  rock 
+
+contacts; and typically less altered and unmineralized in the interior portions.  Smaller dikes and sills are 
+
+often difficult  to  recognize  as  they  can be  intensely  altered  and mineralized.   Classic  low  sulfidation 
+
+quartz‐adularia‐sericite‐type alteration  is widespread  in  the NBH, and  is  typically associated with gold 
+
+mineralization  throughout  the  greater  Bullfrog  district.    Alteration  assemblages  with  increasing 
+
+proximity to gold mineralization generally include: propylitic, sericite (illite)+silica‐adularia‐pyrite, silica‐
+
+adularia+sericite‐pyrite,  and  intense  silica‐adularia+pyrite.    Variable  overlapping  mixtures  of  these 
+
+assemblages are common  in the NBH, suggesting  long‐lived, episodic hydrothermal activity; as well as 
+
+juxtaposition  by  syn‐  and  post‐mineral  faulting.    A  younger  unmineralized  assemblage  of  opalite‐
+
+kaolinite alteration affects debris flow breccias along the Road fault on the eastern side of the property.   
+
+Two general types of  low‐sulfidation gold mineralization are recognized on the property: 1) potentially 
+
+high‐grade, fault‐controlled fissure veins and vein breccias (Mayflower, Arsenic, Yellowjacket, Liberator, 
+
+Liberty,  and  other  unnamed  occurrences);  and  2)  low‐grade,  disseminated  or  breccia‐hosted 
+
+replacement deposits (Sierra Blanca, Jolly Jane, etc).  Fissure veins are generally poorly developed in the 
+
+NBH  relative  to  the SBH, which may be a  function of  the overall deeper  level of erosion  in  the NBH.  
+
+Low‐grade disseminated mineralization is the more common style in the NBH.  Low grade mineralization 
+
+is most commonly associated with strong silica‐adularia‐pyrite alteration, and less commonly associated 
+
+with sericite‐dominated assemblages.   The Yellowjacket, East Savage and Mayflower vein occurrences 
+
+have yielded adularia age dates of 11.3, 11.0 and 10.0 Ma  respectively.   Hydrothermal activity  in  the 
+
+NBH  is associated with episodic caldera magmatism of the Southwest Nevada Volcanic Field, centered 
+
+15‐20 kilometers  to  the east; and accompanied by ongoing regional‐scale pre‐, syn‐, and post‐mineral 
+
+extensional tectonism.  
+
+ 
+
+ 
+
+   
+
+
+
+ 
+
+ 
+
+Figuure 4. Generalized geologic map of the 
+
+(see Figure
+
+18 
+
+NBP with tar
+
+e 7 for section
+
+rget areas an
+
+n A‐A') 
+
+nd property aas in Figure 2.. 
+
+ 
+
+
+
+ 
+
+19 
+ 
+
+8.0  DEPOSIT TYPES 
+
+Gold mineralization  in the district  is best characterized as  low‐sulfidation epithermal with the precious 
+
+metals occurring as disseminations in favorable lithologies and in quartz‐carbonate‐adularia veins within 
+
+fault zones.   Mineralization  is commonly associated with silicification and adularia alteration either  in 
+
+veins and fault fillings, or pervasive replacement of volcanic and volcaniclastic units.  Weakly anomalous 
+
+gold may occur in the surrounding argillic alteration zones. 
+
+Mineralization at NBP  is  typical of other  low‐sulfidation  type gold systems  in, and around,  the Walker 
+
+Lane trend such as; Round Mountain, Rawhide, Aurora, Bodie, and Comstock.  These deposits commonly 
+
+contain  higher  grade  gold  in  vein mineralization  surrounded  by  zones  of  lower  grade  disseminated 
+
+mineralization.   
+
+9.0  MINERALIZATION 
+
+9.1  General Statement 
+
+Two  styles  of mineralization  are  common  in  the  district;  1)  locally  high‐grade  structurally  controlled 
+
+epithermal quart‐calcite veins; and 2) low‐grade stratabound quartz‐adularia replacement deposits.  The 
+
+former has characteristics similar to the nearby Bullfrog mine and the  latter the Round Mountain gold 
+
+deposit  in  Nye  County,  Nevada.    Gold  and  minor  silver  mineralization  has  an  affinity  for 
+
+silicification/adularia,  either  in  veins  and  stockworks,  or  as  disseminations  within  silicified/adularia 
+
+altered  zones  that  replace  favorable  lithologic  units.    There  is  also  some  low‐grade  precious metal 
+
+mineralization  in  argillic  zones  surrounding  silicification/adularia.    The  vast  majority  of  the  gold 
+
+mineralization  is  hosted  by  the  Crater  Flat  Tuff,  as well  as monolithic  and  heterolithic  debris‐flows 
+
+sequences.    Fissure  veins  and  associated  stockwork  zones  are  also  hosted  within  these  lithologies.  
+
+Numerous hypabyssal dacite  to  rhyolitic dikes  and plugs  are  variably  altered  and  locally mineralized.  
+
+These  intrusives may reflect poor permeability compared to surrounding ash flow and debris flows, or 
+
+possibly that some intrusions were relatively late in the mineralization event.  
+
+Most of  the disseminated  style gold mineralization discovered  to date  is  low‐grade, with mineralized 
+
+areas commonly having an average grade of <1 g/t Au.   The disseminated zones  in the Crater Flat Tuff 
+
+are generally stratabound, conforming to the low to moderate angle dips of the tuff.  At Mayflower the 
+
+veins  and  stockwork  zones  locally  exhibit  high  grades,  but  generally  have  grades  similar  to  the 
+
+disseminated  zones.   Veins are massive  to weakly banded  chalcedonic  silica and quartz with variable 
+
+amounts of carbonate and adularia.  Stockworks zones have similar mineralogy except that the veins are 
+
+narrower  and  less  through‐going.   Carbonate  commonly  is dark‐gray  to brown manganiferous  calcite 
+
+that is locally bladed. 
+
+The style and mineralogy of the hydrothermal alteration in the NBP appears to be essentially identical to 
+
+that associated with the productive veins at the Bullfrog mine and associated areas (Weiss, 1996). 
+
+Corvus , as well as several previous exploration groups that operated in the district, have defined targets 
+
+that  generally  correspond  with  the  areas  of  historic mines  or  prospects  (Figure  2).    These  will  be 
+
+
+
+ 
+
+20 
+ 
+
+discussed  in detail and  include Mayflower, Sierra Blanca, Jolly Jane, Savage/Savage Valley, Connection, 
+
+Arsenic Vein, and Pioneer.  
+
+Most of these targets have been drilled to some extent, but  in the pre‐43‐101 era, and  little  is known 
+
+about quality control for sampling and assaying of the historic drill holes.  Therefore, most of the drilling 
+
+results are  considered historic  in nature and used here as  indications of mineralization.    ITH  (NBPJV) 
+
+drilled principally at Air Track Hill and Mayflower, with  two holes each at Sierra Blanca, Pioneer, and 
+
+Savage.  The results of the NBPJV will be discussed in detail within this document. 
+
+9.2  Mayflower 
+
+Historically,  the Mayflower mine was developed on a quartz‐calcite vein and  stockwork  zone along a 
+
+steeply  southwest dipping northwest  striking  fault  zone  in  silicified‐adularia altered debris  flow.   The 
+
+zone  is  traceable  for  at  least  900 meters  along  strike  and  is  covered by  post‐mineralization  volcanic 
+
+rocks to the southeast and possibly off‐set by faulting to the northwest.  Mineralization has been traced 
+
+down‐dip  by  drilling  at  least  275 meters.    The  zone  is  characterized  by  wall  rock  silicification  that 
+
+surrounds a  steeply  southwesterly dipping  zone of braided veins and  stockworks.   Several high‐grade 
+
+gold areas have been detected surrounded by lower grade mineralization. 
+
+Mineralization is controlled by a complex structural zone without a clear‐cut central vein, or veins, but is 
+
+characterized as a series of anastamosing and/or en echelon veins.  As evidenced in the geochemistry of 
+
+the  zone,  there  is  a  clear  correlation  between  higher  gold  grades  and  arsenic,  both  of  which  are 
+
+associated with potassium feldspar (adularia) replacement of the host  lithology (Myers, 2008).   Overall 
+
+the zone appears to narrow with depth and has a steeper more planar hangingwall than footwall. 
+
+The initial development of the deposit was in the early 20
+th
+ Century when an inclined shaft was opened 
+
+and  production  came  from  four  levels.    The  David  adit  was  also  driven  to  explore  the  northwest 
+
+extension of the system.  The David adit was mapped and sampled by ITH and supplies good exposures 
+
+of the mineralized zone.  The Mayflower prospect was the focus of exploration and drilling by numerous 
+
+companies during  the modern era, starting  in 1984  (Table 4).   Drilling  results have been collected  for 
+
+most of the drill holes, original assay certificates are available for the Barrick drilling and that data was 
+
+used in the resource estimated presented in Section 17. 
+
+Table 4 – Companies that drilled in the Mayflower area 
+
+Company  Year in which drilling occurred 
+
+U.S. Borax  1982 
+
+CR Exploration  1984‐1985 
+
+Western States  1987 
+
+Bond/Sunshine JV  1989  1 hole‐180 meters 
+
+Sunshine  1991  1 hole‐220 meters 
+
+Barrick  1995‐1996  26 reverse circulation holes‐avg. 150 m 
+
+International Tower Hill Mines  2008  24 reverse circulation holes‐6000 meters 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Hunter (2
+
+24 reverse
+
+"The mine
+
+dipping a
+
+predomin
+
+all units o
+
+generally 
+
+selective s
+
+confirmed
+
+not been d
+
+The parag
+
+Silica  floo
+
+anastamo
+
+2008) present
+
+e circulation 
+
+eralization  in
+
+anastamosing
+
+antly but not
+
+of the Tdf but 
+
+occurs over 
+
+silicification e
+
+d the existenc
+
+defined by dr
+
+genetic seque
+
+oding  contai
+
+osing structur
+
+  Fig
+
+ts a summary
+
+holes totaling
+
+ the Mayflow
+
+g  structures.   
+
+t exclusively o
+
+appears to fa
+
+a width of a
+
+extends  in th
+
+ce of silicifica
+
+rilling. 
+
+ence for the M
+
+ining  low  le
+
+res developin
+
+gure 5‐2008 I
+
+y of the mine
+
+g 5,953.05 me
+
+wer Mine are
+
+Pervasive  sil
+
+on the hangin
+
+avor the finer
+
+about 50 met
+
+e order of 50
+
+ation over a s
+
+Mayflower min
+
+evel  gold  (< 
+
+ng a silicified 
+
+21 
+
+TH drilling at
+
+eralization fro
+
+eters (Figure 
+
+a  is controlle
+
+licification oc
+
+ngwall side. 
+
+r sedimentary
+
+ters around  t
+
+0 meters beyo
+
+strike  length o
+
+neralization a
+
+1  ppm)  em
+
+envelope aro
+
+t Mayflower
+
+om the 2008 
+
+5), as follows
+
+ed by northwe
+
+ccurs as an en
+
+The silicifica
+
+y layers (Tdfs)
+
+the Mayflowe
+
+ond the perv
+
+of 700 meter
+
+appears to be
+
+mplaced  alon
+
+ound  these s
+
+ITH drilling, w
+
+s: 
+
+est striking, v
+
+nvelope arou
+
+tion occurs w
+
+).  Strong per
+
+er  structure. 
+
+vasive silicifica
+
+rs.   The down
+
+e; 
+
+ng  NW  strik
+
+tructures.   La
+
+which consist
+
+variably south
+
+und  the  struc
+
+within the Trt
+
+rvasive silicific
+
+ An outer  sh
+
+ation.   Drillin
+
+n dip potentia
+
+king,  SW  di
+
+ater moveme
+
+ 
+
+ted of 
+
+hwest 
+
+ctures, 
+
+t2 and 
+
+cation 
+
+hell of 
+
+ng has 
+
+al has 
+
+ipping 
+
+ent on 
+
+
+
+ 
+
+22 
+ 
+
+the structures broke the silicified rock and high‐grade gold bearing quartz veining was locally emplaced 
+
+(Mayflower  shaft area).   Additional gold mineralization  likely occurs on dry  or  clay  filled  fractures as 
+
+found at the Pioneer Mine, a mile to the north of the Mayflower Mine. 
+
+Late stage black manganese calcite occurs as veins and fracture fillings along the mineralized structures.  
+
+This  calcite  is  not  known  to  be mineralized  but  because  of  the  intimate  spatial  relationship with  the 
+
+mineralized structure it is thought to be a late stage of the waning hydrothermal system." 
+
+As revealed  in the David adit, there is an alteration and mineralization sequence that  indicates at  least 
+
+two  periods  of  alteration  and mineralization.    An  early  potassic  feldspar  low‐grade  gold  event was 
+
+followed by fracturing and the development of high‐grade gold mineralization along a central zone.  The 
+
+zonation pattern that developed is a central higher grade gold‐quartz zone that is surrounded by lower‐
+
+grade gold with potassic feldspar alteration and strongly anomalous arsenic.  Outward for this core is an 
+
+illite rich zone with peripheral propylitic alteration.  
+
+9.3  Sierra Blanca 
+
+The greater Sierra Blanca  target area  includes Air Track Hill, North Sierra Blanca and  the Yellowjacket 
+
+vein corridor; and essentially merges with northern portion of the Savage Valley target area (Figures 4 
+
+and  6).    The  Sierra  Blanca  area  is  predominantly  underlain  by  ubiquitously  altered  and  variably 
+
+mineralized Crater Flat Tuff.  The tuff has been intruded by numerous irregular, finely porphyritic dacite 
+
+bodies. Aphanitic to spherulitic rhyolite also intrudes the tuff at depth under Sierra Blanca and Air Track 
+
+Hill.   The main mineralized  structures are NNE‐trending, moderate  to  steeply west‐dipping  faults and 
+
+fracture  zones  (silicified/adularized  ribs).    Individually,  these  structures appear  to have  rather  limited 
+
+displacement, but generally mimic the major BHFS structures (Donovan Mountain and West Jolly Jane 
+
+faults).   Moderate‐ to high‐angle structures of other orientations  including NNW‐, NW‐, EW‐ and ENE‐
+
+trending also appear to play a role as fluid conduits to low grade gold mineralization, particularly in the 
+
+vicinity of intersections with the NNE‐trending structures.  
+
+To date, over 40 holes have been drilled in the greater Sierra Blanca area.  Many holes have tested the 
+
+dominant NNE‐trending structures for bonanza‐grade fissure veins with little success.  However, several 
+
+holes have  intersected significant  intervals of  low grade mineralization, mostly associated with  intense 
+
+silica‐adularia‐pyrite  alteration.    Cross  section  analysis  indicates  a  20‐40  degree  east‐dipping,  semi‐
+
+stratabound  zone of  silica‐adularia‐pyrite  alteration within  the middle portion of  the Crater  Flat  Tuff 
+
+(Figure  6).    Variably  brecciated  tuff  is  the  dominant  host  rock,  but  dacite  dikes  and  sills  also  host 
+
+mineralization within or adjacent to the stratabound zone.  Alteration and mineralization in the dacite is 
+
+best developed within smaller dikes and sills, or near the margins of  larger bodies.   Better gold values 
+
+typically occur at contacts between dacite and tuff, although such contacts are often difficult to  locate 
+
+exactly due to the alteration overprint.  The complex relationships between the tuff and dacite are due 
+
+to both irregular intrusive and faulted intrusive contacts.  
+
+The  Yellowjacket  vein  corridor  forms  the  eastern  side  of  the  Sierra  Blanca  target  area  and  projects 
+
+southward into Savage Valley (Figure 6).  The Yellowjacket vein corridor is defined by the NS‐ to NNW‐
+
+trending Yellowjacket,  Liberator, and  Liberty vein  structures.   The  Liberty and Yellowjacket  structures 
+
+
+
+ 
+
+23 
+ 
+
+are inferred to merge with the Savage fault zone under Savage Valley.  The nearest outcrop to the area 
+
+of projected merger  is relatively unaltered dacite.   The Savage fault zone  is  interpreted to trend off to 
+
+the northeast from Savage Valley, where  it eventually merges with the West Jolly Jane fault (Figure 6).  
+
+Vein material from dumps on the Yellowjacket and Liberator shafts has yielded gold values of 12 ppm 
+
+and 1 ppm respectively.  Proposed holes along the Yellowjacket vein corridor will test the vein structures 
+
+where they are projected to cut the middle portion of the Crater Flat Tuff (see Figure 7). 
+
+Historically, there are twelve widely spaced drill holes that have intercepts that range in total thickness 
+
+from 62‐380 ft., averaging between 0.315‐0.620 g/t Au (minimum 20 ft.  intercept, 0.2 g/t cutoff).   The 
+
+average  thickness  of  these  intercepts  is  179  ft., with  a weighted  average  grade  of  0.352  g/t.    The 
+
+proposed drilling at Sierra Blanca will test the continuity of stratabound zone in accessible areas within 
+
+and adjacent to the areas of previous drilling.   The drill plan will minimize disturbance  in order to stay 
+
+within the bonded BLM acreage, and achieve ~400‐600 ft. hole spacing.  
+
+
+
+ 
+
+ 
+
+There  is p
+
+Blanca, to
+
+area  (see 
+
+due  to  a 
+
+silica‐adu
+
+considera
+
+cross sect
+
+Figure 6
+
+potential to e
+
+o the northea
+
+below).   At 
+
+combination
+
+laria zone, an
+
+ation as exten
+
+tion.  The infe
+
+6. Geology ma
+
+extend the Sie
+
+ast into the Y
+
+present,  the 
+
+n  of wide  dri
+
+nd post‐mine
+
+nsion of the S
+
+erred west‐di
+
+ap of the Sier
+
+erra Blanca m
+
+ellowjacket c
+
+continuity o
+
+ll  hole  spacin
+
+ral faulting.  
+
+Sierra Blanca 
+
+ipping Air Tra
+
+24 
+
+rra Blanca an
+
+mineralization
+
+corridor, and 
+
+f  the Sierra B
+
+ng,  variability
+
+Much of Air T
+
+mineralizatio
+
+ack Hill fault i
+
+nd Savage Val
+
+n; primarily to
+
+also eastwar
+
+Blanca miner
+
+y  of minerali
+
+Track Hill min
+
+on due to the
+
+s difficult to 
+
+lley target ar
+
+o the north u
+
+rd into the Sa
+
+ralization  is s
+
+ization within
+
+neralization w
+
+e apparent la
+
+recognize in d
+
+eas. 
+
+under North 
+
+avage Valley t
+
+omewhat  ten
+
+n  the  stratab
+
+was excluded
+
+ack of continu
+
+drill holes be
+
+ 
+
+Sierra 
+
+target 
+
+nuous 
+
+bound 
+
+d from 
+
+uity in 
+
+cause 
+
+
+
+ 
+
+ 
+
+it has app
+
+late‐mine
+
+mineraliza
+
+juxtapose
+
+Prelimina
+
+(NB07‐1) 
+
+from71‐9
+
+samples y
+
+Mayflowe
+
+leach min
+
+should be
+
+ 
+
+9.4   C
+
+The Conn
+
+breccias a
+
+blocks  an
+
+heterolith
+
+parently been
+
+ral,  having 
+
+ation.    Subse
+
+ed mineralizat
+
+ry 72 hour cy
+
+yielded  the  f
+
+2%; four mixe
+
+yielded recov
+
+er have yielde
+
+ning  scenario
+
+e conducted in
+
+onnection 
+
+nection target
+
+adjacent to t
+
+nd  breccias  o
+
+hic  debris  flo
+
+n intruded‐ou
+
+intruded  int
+
+equent  post‐
+
+tion. 
+
+yanide bottle 
+
+following enc
+
+ed oxide/sulf
+
+eries ranging
+
+ed similar rec
+
+o  to  exploit  t
+
+n conjunction
+
+Figure 7
+
+t area  is und
+
+he Road  faul
+
+of  Ranier  M
+
+ows  consist  o
+
+t by dacite.  D
+
+to  structure
+
+‐mineral  fau
+
+roll leach tes
+
+couraging  res
+
+fide samples y
+
+ from 4‐46%
+
+covery results
+
+he  low  grade
+
+n with the 201
+
+‐Cross sectio
+
+erlain by gen
+
+t  (see Figure 
+
+esa  Tuff,  Wo
+
+of  unconsolid
+
+25 
+
+Dacite and rh
+
+s  that  were
+
+lting  along  m
+
+sts on low‐gra
+
+sults:  three o
+
+yielded recov
+
+(Kappes, Cas
+
+s (63‐91%), in
+
+e  resources  i
+
+10 drilling. 
+
+n through Sie
+
+ntly east‐dipp
+
+4).   The mo
+
+ood  Canyon 
+
+dated  boulde
+
+hyolite intrusi
+
+e  active  an
+
+many  of  the
+
+ade (0.31 to 0
+
+oxidized samp
+
+veries ranging
+
+ssiday, 2010).
+
+ndicating the 
+
+in  the NBH. 
+
+erra Blanca a
+
+ping monolith
+
+nolithic debr
+
+Formation, 
+
+er  fanglome
+
+ions appear t
+
+d  open  dur
+
+e  same  struc
+
+0.89 g/t) samp
+
+ples yielded 
+
+g from 82‐91%
+
+  Preliminary 
+
+potential for 
+
+ Additional m
+
+area. 
+
+hic and heter
+
+ris  flows are 
+
+and  Carrara
+
+rates  contain
+
+to be syn‐ and
+
+ring  the  tim
+
+ctures  has  fu
+
+ples from one
+
+recoveries  ra
+
+%; and four s
+
+bottle roll te
+
+an open pit/
+
+metallurgical 
+
+rolithic debris
+
+composed of
+
+  Formation. 
+
+ning  a  mixtu
+
+d very 
+
+me  of 
+
+urther 
+
+e hole 
+
+anging 
+
+sulfide 
+
+ests at 
+
+/heap‐ 
+
+work 
+
+s  flow 
+
+f slide 
+
+  The 
+
+ure  of 
+
+
+
+ 
+
+26 
+ 
+
+Tertiary  and  Paleozoic  clast  lithologies.    The  target  area  hosts  a  small mineralized  area  drilled  and 
+
+reported by Cordex in the early 1980's.  Mineralization appears to be mostly confined to a slide block of 
+
+Carrara limestone.  The limestone block lies stratigraphically above a relatively unaltered breccia body of 
+
+Ranier Mesa Tuff and below unconsolidated heterolithic debris  flows.   The mineralized block exhibits 
+
+silicification,  decalcification,  and  abundant  earthy  hematite.    The  alteration  and  stratigraphic 
+
+relationships  suggest  that  the  limestone block was mineralized elsewhere and  transported via gravity 
+
+sliding to the current position.  However, in cross section, the mineralization appears to be fed by one or 
+
+more moderately west dipping  structures  that are  sub‐parallel  to  the Road  fault.   Andesite porphyry 
+
+dikes are exposed at the surface along the Road fault and occur in at least one Cordex drill hole (P‐23).  
+
+This  interpretation  is  somewhat  consistent  with  the  old  Cordex  cross  sections,  but  Cordex  never 
+
+attempted to test such a west‐dipping feeder scenario with angle holes.  Depending on the thickness of 
+
+the debris flow units, it is possible that the stratabound silica‐adularia‐pyrite zone in the Crater Flat Tuff 
+
+may exist at a reasonable depth under the Connection area. 
+
+9.5  Pioneer 
+
+Mineralization appears to occur along  intersecting northeast and northwest striking faults that contain 
+
+silicification, adularia, argillization, and minor quartz veining.  The fault zones also hosts argillized dacite 
+
+dikes.  Most of the surface and underground sampling demonstrates that the system is low‐grade (<1 g/t 
+
+Au) with a  few  scattered >1 g/t Au  samples.   Most of  the higher grade gold  samples  came  from  the 
+
+upper  levels of  the Pioneer mine with grades over a  few meters of 1  to 14 g/t Au.   During 2007  the 
+
+NBPJV  drilled  a  hole  under  this  area  to  test  the  down‐dip  extension  of  the  structure,  but  only 
+
+encountered anomalous gold over 130 meters, with a maximum of 0.26 g/t Au  in weakly silicified and 
+
+argillized  rock.    A  second  hole was  designed  to  test  known  higher  grade mineralization.    The  hole 
+
+encountered a total of 8 meters of about 2 g/t Au (including 17.6 g/t over 0.4 m) on either side of a 3.5 
+
+meter mine workings.    This  high‐grade  interval  is  in  a  clay  altered  fault  zone without  visible  quartz 
+
+veining. 
+
+9.6  Savage/Savage Valley 
+
+The  Savage  Valley  target  has  the  potential  for  both  high‐grade  veins  and  low‐grade  disseminated 
+
+mineralization  along  and  adjacent  to  the  Savage  fault  zone.    The  Savage  fault  zone  remains  entirely 
+
+untested under  thin alluvial  cover down  the axis of  Savage Valley  (Figure 4 and 6).    Savage Valley  is 
+
+essentially a graben feature within the hanging wall of the West Jolly Jane fault.   The structures along 
+
+the west side of Savage Valley – whether steeply east‐ or west‐dipping – appear  to be predominantly 
+
+down‐to‐the‐east.   The steeply west‐dipping Savage fault zone  is down‐to‐the‐west.   When combined, 
+
+the Savage graben and the merging Yellowjacket vein corridor form a continuous structural zone that is 
+
+over 7000 ft. long (projected north from the Pioneer Shear).  The southern exposure of the Savage fault 
+
+zone near the  intersection with the Pioneer shear has yielded gold values up to 1.1 ppm from silicified 
+
+basement  rocks.    The  southern  exposure  was  tested  unsuccessfully  for  basement‐hosted  vein 
+
+mineralization  in 2007.   However, significant potential remains along strike to the north under alluvial 
+
+cover where the Crater Flat Tuff is preserved above the basement unconformity.  The Crater Flat Tuff is 
+
+ubiquitously  altered  and  intruded by  irregular dacite bodies on both  sides of  Savage Valley.   A  large 
+
+
+
+ 
+
+ 
+
+rhyolite p
+
+(Trpi in Fig
+
+under Sav
+
+9.7  Jo
+
+Alteration
+
+setting as
+
+degree  e
+
+primarily 
+
+Carrara Fo
+
+other sma
+
+Figure 8‐C
+
+Based on 
+
+with inter
+
+20  ft.  inte
+
+average  g
+
+mineraliza
+
+oxidized.  
+
+ 
+
+porphyry plug
+
+gures 4 and 6
+
+vage Valley.   
+
+olly Jane 
+
+n  and minera
+
+s Sierra Blanc
+
+ast‐dipping, 
+
+within the  lo
+
+ormation lim
+
+aller faults wo
+
+Cross section 
+
+historic six d
+
+rcepts that ra
+
+ercept, 0.2 g/
+
+grade  of  0.3
+
+ation is thicke
+
+ 
+
+ has intruded
+
+6), providing a
+
+alization  at  th
+
+ca  (see Figure
+
+tabular,  stra
+
+ower portion 
+
+estone.  Rest
+
+ould essentia
+
+through Jolly
+
+drill holes spa
+
+nge in thickn
+
+/t  cutoff).   T
+
+341  g/t.    In
+
+er, exhibits be
+
+d the hanging
+
+an additional 
+
+he  Jolly  Jane
+
+es 4 and 8). 
+
+tabound  silic
+
+of the Crate
+
+toring post‐m
+
+ally connect Jo
+
+y Jane.  
+
+ced ~400 ‐50
+
+ess from 55‐3
+
+The average  t
+
+  comparison
+
+etter continu
+
+27 
+
+g wall of the S
+
+magmatic co
+
+e  target  area 
+
+Mineralizatio
+
+ca‐adularia‐py
+
+er Flat Tuff,  ju
+
+mineral displac
+
+olly Jane and
+
+00 ft. apart th
+
+360 ft., avera
+
+thickness of  t
+
+n  to  the  Sie
+
+ity, occurs clo
+
+Savage fault z
+
+omponent to 
+
+is  in  a  simil
+
+on at  Jolly  Ja
+
+yrite  zone. 
+
+ust above the
+
+cement on th
+
+ Sierra Blanca
+
+here is a zone
+
+aging between
+
+these  interce
+
+erra  Blanca 
+
+oser to the su
+
+zone north of
+
+potential min
+
+lar  structural
+
+ne  is  largely 
+
+The  stratabo
+
+e basement u
+
+he West Jolly
+
+a as the same
+
+e of stratabou
+
+n 0.299‐0.461
+
+epts  is 203  ft
+
+mineralizatio
+
+urface, and is
+
+f the Pioneer 
+
+neralization b
+
+l  and  stratigr
+
+confined to 
+
+ound  zone  o
+
+unconformity
+
+y Jane, Savage
+
+e coeval alter
+
+und mineraliz
+
+1 g/t Au (min
+
+t, with a wei
+
+on,  the  Jolly 
+
+ nearly comp
+
+shear 
+
+buried 
+
+raphic 
+
+a ~30 
+
+occurs 
+
+y with 
+
+e, and 
+
+ration 
+
+zation 
+
+imum 
+
+ghted 
+
+Jane 
+
+pletely 
+
+
+
+ 
+
+28 
+ 
+
+9.9  Arsenic Vein 
+
+The Arsenic vein lies ~1500 ft. west of the Connection resource area (see Figure 4).  The vein consists of 
+
+a  zone  of  high‐level  chalcedonic  quartz  and  quartz‐flooded  breccia  up  to  50  ft wide,  hosted within 
+
+silicified monolithic  debris  flow  breccias  of  Paintbrush  Tuff.    The  vein  zone  strikes  N5E,  dips  70‐80 
+
+degrees to the east, and persists along strike for ~800‐900 ft.   The vein zone has formed along one or 
+
+more hanging wall splays of  the Arsenic  fault.   The  fault and vein geometry suggests  that  the Arsenic 
+
+vein  fluids  ascended  from  the  Road  fault  at  depth.    Pathfinder  drilled  a  shallow  hole  (P92‐3) which 
+
+encountered 20'/160‐180'/0.243 g/t Au at the south end of the vein zone on the Sunrise patent.   This 
+
+intercept has better gold grades than any of the surface rock sampling, indicating that the gold tenor is 
+
+increasing with depth.   The vein zone has yielded surface  trace element values up  to 503 ppm As, 33 
+
+ppm Sb, and 2.74 ppm Hg.  The main portion of the vein remains untested at depth. 
+
+10.0  EXPLORATION 
+
+ITH actively explored the NBP since it entered into the NBPJV in March 2007.   RGC assembled much of 
+
+the  land position, consolidated all of the available data, and sampled extensive areas of the property.  
+
+After optioning  the ground  from RGC,  ITH added  the Mayflower claims, mapped selected surface and 
+
+underground areas, and conducted additional sampling.   ITH's initial focus was on drilling the Air Track 
+
+Hill  and Mayflower  targets.    Since  that  drilling  program  emphasis  has  shifted  to  out  targets  on  the 
+
+property.  Corvus is continuing the exploration of the property.  All of the work by both companies was 
+
+conducted by their employees and consultants, under the direct supervision of the respective company. 
+
+11.0  DRILLING 
+
+Between  1974  and  1996  approximately  249  rotary  and  reverse  circulation  holes  totaling  33,775.5 
+
+meters were drilled on the property by several different companies.  RGC was able to obtain assays and 
+
+geological data  for most of  these holes.   Recent  drilling by  the NBPJV on many of  the  same  targets 
+
+encountered similar gold grades and thicknesses as the historic holes suggesting that the earlier results 
+
+are reliable.   Additionally, much of the historic drilling was conducted by  larger companies who mostly 
+
+conducted sampling and assaying to  industry standards at the time.   Unfortunately, there  is no quality 
+
+control data available for these historic programs.  Therefore, while it seems reasonable to put reliance 
+
+on  the  older  drill  hole  results  they must  be  treated  as  historic  and  as  guidelines  to  the  location  of 
+
+mineralized areas. 
+
+The NBPJV drilled six core holes totaling 1305.14 meters in 2007 and 35 reverse circulation holes in 2008 
+
+totaling  8,422 meters.    All  of  the  core  holes  were  drilled  at  an  angle  to  intersect  the mineralized 
+
+structures  at nearly  right  angles.    Sample  intervals  in  core  varied with  rock  and  alteration  type,  and 
+
+represent  nearly  true  thicknesses.   Most  of  the  2008  holes  drilled  at  Air  Track  Hill  and  all  of  the 
+
+Mayflower holes were angled drilled to cross the mineralized zones at nearly right angles and produce 
+
+near true thickness.  Reverse circulation drilling above the water table was with a 5 ½ inch hammer bit, 
+
+and where water became a problem a 5 ¼  inch  rock bit was used.   Samples were collected at 5  foot 
+
+intervals starting from the top of each hole.  
+
+
+
+ 
+
+29 
+ 
+
+ 
+
+12.0  SAMPLING METHOD AND APPROACH 
+
+In the 2007 NBPJV core drilling program HQ core was extracted using triple‐tube barrels to  insure the 
+
+recovery in broken rock intervals.  The entire core was oriented using an Ace accelerometer.  Once the 
+
+core  was  received  recovery,  RQD,  and  magnetic  susceptibility  measurements  were  made.    An 
+
+assessment was made of the quality of the orientation data and the core was marked accordingly.  The 
+
+core  was  then  logged  recording  lithological,  alteration,  mineralization,  and  structural  information 
+
+including  the orientation of  faults,  fault  lineations,  fractures, veins, and bedding.   The entire  length of 
+
+the  hole was  sampled with  sampling  intervals  based  on  the  geological  logging,  separating  different 
+
+lithologies and styles of mineralization and alteration.  Samples were marked and tagged in the core box 
+
+before being photographed, after which the core was sawed in half with one half sent for assay and one 
+
+half retained for future reference.   Each sample  interval was bagged separately and shipped to the  lab 
+
+for analysis. 
+
+During  the 2008  reverse circulation drill program  the cuttings were divided  into  two streams, one  for 
+
+sampling  and  excess which was discarded  to  the  sump.   Using  a  "Y"  splitter  the  sample  stream was 
+
+divided into two parts, one reporting for assaying and the second reporting for QA/QC and metallurgical 
+
+studies.  Samples were collected at five foot intervals and bagged at the drill.  Each five foot sample was 
+
+sealed at the drill and not opened until  it reached the analytical  lab.   At each 20 foot rod addition the 
+
+hole was blown clean to eliminate material that had fallen  into the hole during the rod addition.   One 
+
+sample  for each  five  foot  interval was  collected by  the  site geologist and moved  to a  secure  sample 
+
+collection area off of the property for shipment to the laboratory for assay.  The corresponding duplicate 
+
+sample was retained at the drill site as a reference sample if needed.  If the duplicate samples were not 
+
+used prior to the reclamation of the pad they were interred in the sump at the time of reclamation. 
+
+During drilling at Mayflower sample recovery was a problem  in 11 of  the NBPJV holes and was also a 
+
+problem in some of the Barrick drill holes.  Recovery problems occurred in the silicified zones and in, and 
+
+around,  the David adit.    It appears  that  silicified  rock  is  strongly  fractured and contains voids  so  that 
+
+sample  is  lost  when  drill  chips  move  into  the  fractures  rather  than  along  the  hole  and  into  the 
+
+interchange.    Zones  of  poor  recovery  up  to  60 meters were  encountered  in  strongly  fractured  rock.  
+
+Where old workings were encountered the down‐hole intervals also had poor recovery. 
+
+Table 5 outlines the intervals in the several holes where poor sample recovery occurred.  Several of the 
+
+intervals  were  in mineralized  ground  and may  impact  the  resource  estimate  (see  Section  17  for  a 
+
+discussion and Section 20  for  recommendations on how  this  situation  can be handled).   Of  the 6375 
+
+samples that were shipped for analyses  in 2008 about 8% contained weights that were more than 1.5 
+
+standard deviations below  the mean and only 145  samples were more  than  two  standard deviations 
+
+lighter than the mean.  Because most of the light samples are from unmineralized intervals this problem 
+
+does not represent a major problem.  However, future work should try to overcome this problem.  
+
+ 
+
+
+
+ 
+
+30 
+ 
+
+ 
+
+ 
+
+Table 5‐Intervals of poor recovery in the 2008 ITH drilling in Mayflower area 
+
+Drill Hole Number  From (meters)  To (meters) Comment 
+
+NB‐08‐08  109.73  114.30  Weak Au <0.25g/t around interval 
+
+NB‐08‐08  144.78  182.88  No mineralization in and around interval 
+
+NB‐08‐11  128.02  132.59  Mineralized zone at 1 g/t Au level 
+
+NB‐08‐16  79.25  134.11  Variable  recovery,  >1g/t  Au  samples  normal 
+weights 
+
+NB‐08‐18  83.82  91.44  Just above mineralized zone 
+
+NB‐08‐18  103.63  115.82  Just below mineralized zone 
+
+NB‐08‐18  178.31  195.07  Unmineralized zone 
+
+NB‐08‐40  80.77  88.39  Well mineralized interval 
+
+NB‐08‐40  123.4  143.26  Consistently poor recovery  
+
+NB‐08‐40  160.02  190.5  Unmineralized in and around interval 
+
+NB‐08‐41  88.39  120.4  Weak Au <0.25 g/t around interval 
+
+ 
+
+13.0  SAMPLE PREPARATION, ANALYSES, AND SECURITY 
+
+There is no information available about how samples from the historic drilling were handled, processed, 
+
+and analyzed. 
+
+In the 2007 NBPJV core program blank basalt rock and certified standard materials were each inserted at 
+
+a  ratio of 1:20  throughout  the  sample  sequence.   Samples  for duplicate analysis were  identified at a 
+
+ratio of 1:20 and given sequential sample numbers at the end of the shipment.  Once the samples were 
+
+marked out the core was photographed and then sawed in half using a diamond saw.  Half of the core 
+
+was  then  sent  for assay and half was kept  for  future  reference.   Prior  to  shipment  the  samples were 
+
+weighed, photographed and  then placed  in bags  that were sealed with a security  tag.   Each hole was 
+
+sent to ALS‐Chemex in Reno as a separate shipment with a chain of custody document to certify that the 
+
+seals were  intact when  the  shipment was  received.    In Reno  the  samples were weighed  so  that  the 
+
+shipped  and  received weights  could  be  compared  and  then  the  samples were  sent  to  the  crusher.  
+
+Duplicate  samples were prepared by  splitting  the crushed  sample  in half and creating  two numbered 
+
+samples.    All  samples  were  assayed  for  gold  using  a  50  gram  fire  assay  and multi‐elements  were 
+
+analyzed using a four acid digest with ICP‐MS analysis.  
+
+For the NBPJV RC drilling program in 2008 Hunter (2008) describes the procedures for inserting quality 
+
+control  samples  into  the drill  sample  sequence as noted below.   The principal author observed  these 
+
+procedures and concurs with  them.   A similar approach was used during  the 2007 core program with 
+
+similar analytical results. 
+
+"The samples are taken from the drill site to the sample prep area where they are laid out in order on a 
+
+tarp  to dry.   Each drill hole  is  treated as a  separate  shipment.   While  the  samples are drying, control 
+
+
+
+ 
+
+31 
+ 
+
+samples are inserted.  Pre‐bagged crushed blank material supplied by ALS Chemex Labs, is inserted at the 
+
+beginning of each shipment and also as every 20
+th
+ sample throughout the hole.  Commercially prepared 
+
+(Rock Labs) standards with a known gold content are  inserted  throughout  the hole as  the 10
+th
+ sample 
+
+and every 20
+th
+ sample after that so that every 10
+
+th
+ sample in the shipment is either a blank or a standard. 
+
+Generally three levels of gold standards are used; a low level (100‐200 ppb), a medium level (1 ppm) and 
+
+a  high  level  (7  ppm).    The  geologist matches  the  level  of  gold  standard  to  the  anticipated  level  of 
+
+mineralization  in  the  drill  hole.   At  the  end  of  each  shipment  empty  bags  are  provided  for  duplicate 
+
+samples.    There  is  approximately  one  duplicate  sample  for  every  20  samples  in  the  shipment.    The 
+
+samples to be duplicated are selected by the geologist and recorded  in the drill  log.   The samples to be 
+
+duplicated are split up in the lab and placed in the bar‐coded empty bags provided by the geologist. 
+
+When the samples have dried to the point where they are dry or just damp a bar‐coded tag is attached to 
+
+each sample and the entire shipment is photographed.  The photo is taken to establish that all samples 
+
+are accounted for.  
+
+While placing the samples into rice bags for shipping each sample is weighed and the weight is recorded 
+
+next  to  the  sample number on  the drill  logs.   Trucks  from ALS Chemex pick  the  samples up  from  the 
+
+sample prep area and  take  them directly  to  their Lab.   When  the  lab  receives  the samples  they weigh 
+
+each one as they place their identifier on it and they are instructed to incorporate the attached barcodes 
+
+for sample tracking." 
+
+At Chemex's Sparks, Nevada  facility  the  samples were dried as needed,  crushed and a 350‐500 gram 
+
+split of the crushed material was pulverized to make an analytical sample.   Fifty grams of this material 
+
+was analyzed by  fire assay with an atomic absorption  finish  (Chemex's AuAA24 procedure).   Samples 
+
+were  also  analyzed  for  multielements  using  Chemex's  MES61m  procedure.    Grind  tests  were  also 
+
+reported as a  further quality control  to  insure  that  the pulps were sufficiently  fine  to supply a quality 
+
+analytical pulp. 
+
+14.0  DATA VERIFICATION 
+
+Except for the limited drilling by NPBJV outside of the Mayflower and Air Track Hill areas there is no data 
+
+available that can be construed a verification of the of the previous drilling on the property.  Therefore, 
+
+all of the analytical work for prior company drill holes and surface geochemistry at NBP is unverifiable.  
+
+Data verification for the Air Track Hill NBPJV drilling is included in the Mayflower discussion. 
+
+14.1  Mayflower 
+
+There are no assay  certificates or hole  collar data available  for any of  the pre‐Barrick drilling.   Collar 
+
+survey data and copies of assay certificates were obtained from Barrick for their drilling at Mayflower. 
+
+All of NBPJV's drill hole collars were surveyed with a handheld GPS unit and most of the holes deeper 
+
+than 200 meters were down‐hole gyroscopically surveyed by International Directional Survey Company.  
+
+These data were part of the drill hole database, along with the assays. 
+
+
+
+ 
+
+ 
+
+As outline
+
+The result
+
+14.1.1  D
+
+Figure  9 
+
+collected 
+
+its  fire as
+
+minor diff
+
+ 
+
+Figure
+
+14.1.2  B
+
+Chemex c
+
+limit (0.00
+
+the  labor
+
+but after 
+
+batch.  Th
+
+batch wou
+
+ed  in Section 
+
+ts of the 2008
+
+uplicates 
+
+is  a  scatter 
+
+at the drill si
+
+say procedur
+
+ferences in as
+
+e 9‐Analytica
+
+lanks 
+
+committed  to
+
+05 ppm Au), 
+
+atory batche
+
+investigation
+
+he two extrem
+
+uld probably 
+
+13 a rigorou
+
+8 QA/QC prog
+
+diagram  of  t
+
+te.  Generally
+
+re.   There  is 
+
+ssay value pre
+
+al results from
+
+o maintain sa
+
+or less than 0
+
+s.   There we
+
+n  ITH chose  t
+
+me cases rep
+
+not unduly af
+
+us QA/QC pro
+
+gram are repo
+
+the  assays  fr
+
+y, the results 
+
+a wider scat
+
+esent large pe
+
+m duplicates s
+
+ample prepar
+
+0.015 ppm A
+
+ere  some app
+
+to accept  the
+
+resent about
+
+ffect the anal
+
+32 
+
+ogram was  im
+
+orted by Mye
+
+rom  original 
+
+fall within an
+
+ter at  the  low
+
+ercentages of
+
+submitted wi
+
+ration cleanlin
+
+u.  As detaile
+
+parently mino
+
+e  results and 
+
+ 0.068 g/t Au
+
+lyses. 
+
+mplemented a
+
+ers (2008) and
+
+samples  and
+
+nalytical prec
+
+wer detectio
+
+f variation. 
+
+ith the 2008 
+
+ness of  less  t
+
+ed in Figure 1
+
+or contamina
+
+not  require 
+
+u which if car
+
+as part of the
+
+d summarized
+
+d  the  corres
+
+cision as defin
+
+ons as might 
+
+ITH drill sam
+
+than  three  ti
+
+10 this was ac
+
+ation problem
+
+Chemex  to  r
+
+rried through 
+
+e drilling pro
+
+d here. 
+
+ponding  dup
+
+ned by Chem
+
+be expected 
+
+ples from NB
+
+mes  the dete
+
+chieved in m
+
+ms  in  two bat
+
+re‐assay  the e
+
+ the entire sa
+
+gram.  
+
+plicate 
+
+ex for 
+
+since 
+
+ 
+
+BP 
+
+ection 
+
+ost of 
+
+tches, 
+
+entire 
+
+ample 
+
+
+
+ 
+
+ 
+
+Figu
+
+ 
+
+14.1.3  St
+
+Figures 11
+
+within  +1
+
+analyses w
+
+samples. 
+
+through t
+
+analytical
+
+ 
+
+re 10‐Analyt
+
+tandards 
+
+1 presents th
+
+10%  of  the  c
+
+were at the  l
+
+  Given  the 
+
+o the drill ho
+
+ly down‐grad
+
+ical results fr
+
+he analyses o
+
+certified  valu
+
+ower end of 
+
+low‐grade  na
+
+ole assays.  Th
+
+ded. 
+
+rom blanks su
+
+f the standar
+
+e  and  within
+
+the range an
+
+ature  of  the 
+
+hese data sug
+
+33 
+
+ubmitted wit
+
+rds submitted
+
+n  the  range 
+
+nd  in the cas
+
+Mayflower  d
+
+ggest that som
+
+h the 2008 IT
+
+d with the dr
+
+that  Chemex
+
+e of OxC58 b
+
+deposit  this 
+
+me of the dri
+
+TH drill samp
+
+rill samples.   
+
+x  guaranteed
+
+below the 10
+
+could  be  a 
+
+ill hole sampl
+
+les from NBP
+
+Generally the
+
+d.    Several  o
+
+%  limit for se
+
+concern  if  ca
+
+les may have
+
+ 
+P 
+
+ey fall 
+
+of  the 
+
+everal 
+
+arried 
+
+ been 
+
+ 
+
+
+
+ 
+
+ 
+34 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Figure 1
+
+ 
+
+15.0  A
+
+There is o
+
+The Bullfr
+
+produced
+
+property 
+
+stockwork
+
+striking m
+
+mineralize
+
+down‐dip
+
+material. 
+
+11‐Analytical
+
+ADJACENT PRO
+
+one adjacent p
+
+rog mine wa
+
+  2.4 million 
+
+(Eng,  et  al.,
+
+ks with assoc
+
+moderately  w
+
+ed zone is co
+
+ for 500 mete
+
+ Anomalous 
+
+ results from
+
+OPERTIES  
+
+property that
+
+s operated b
+
+ounces  of  go
+
+,  1996).    Ep
+
+ciated adular
+
+west  dipping 
+
+mmonly 5‐15
+
+ers.  There is 
+
+arsenic, and 
+
+m the several s
+
+t is relevant to
+
+by Barrick Go
+
+old  and  serv
+
+pithermal  gol
+
+ia,  fluorite, a
+
+fault  zone  t
+
+5 meters wide
+
+commonly an
+
+possibly anti
+
+35 
+
+standards su
+NBP 
+
+o the NBP: th
+
+old Corporati
+
+es  as  a mod
+
+d  mineraliza
+
+and barite.   M
+
+hat  is  up  to 
+
+e, at least 1,6
+
+n interior hig
+
+mony and mo
+
+bmitted with
+
+he Bullfrog mi
+
+on  (and  seve
+
+del,  at  least  i
+
+ation  occurs 
+
+Mineralization
+
+  100 meters
+
+600 meters alo
+
+h‐grade gold 
+
+olybdenum fo
+
+h 2008 ITH dr
+
+ine. 
+
+eral processo
+
+in  part,  for  t
+
+with  quartz‐
+
+n  is primarily
+
+s  thick.    At  a
+
+ong strike, an
+
+zone surroun
+
+orm a halo o
+
+rill samples fr
+
+or  companies
+
+the North  Bu
+
+‐calcite  veins
+
+y along a nort
+
+a  3  g/t  cutof
+
+nd has been t
+
+nded by low‐
+
+outside to the
+
+ 
+
+ 
+
+rom 
+
+s)  and 
+
+ullfrog 
+
+s  and 
+
+therly 
+
+ff  the 
+
+traced 
+
+grade 
+
+e zone 
+
+
+
+ 
+
+36 
+ 
+
+of gold mineralization.  The deposit was formed 9.99 Ma +0.04 Ma and contained a pre‐mining resource 
+
+of 25.03 million tonnes with an average grade of 3.06 g/t.   The authors have been unable to verify the 
+
+information available with respect to the Bullfrog mine property, and such information is not necessarily 
+
+indicative of the mineralization at NBP. 
+
+16.0  MINERAL PROCESSING AND METALLURGICAL TESTING 
+
+Available metallurgical data for the NBP indicates the following; 1) limited samples collected for specific 
+
+density measurements  from  the Mayflower prospect  as outlined  in  Section 17; 2)  cyanide bottle  roll 
+
+tests on six samples from the Mayflower RC drilling that  ITH submitted to Hazen Research  Inc.; and 3) 
+
+cyanide bottle roll tests on eleven samples from Sierra Blanca core hole NB07‐01 submitted to Kappes 
+
+Cassiday and Associates.  Each Mayflower bottle roll sample was leached for three days, with little gold 
+
+extracted during the third day indicating that most of the easily extractable gold was removed.  In most 
+
+Mayflower  samples  the extraction  curve  flattens after 16 hours.   Gold extractions  ranged  from 65  to 
+
+90% (Table 6) (Baughman, 2008). 
+
+Table 6‐Bottle roll recovery estimates from Mayflower drill samples 
+
+Sample  Head Assay  Tail Assay  Recovery 
+
+NB‐08‐07 155‐160  0.60 g/t Au  0.20 g/t Au  67% 
+
+NB‐08‐10 335‐340   1.7 g/t Au  0.30 g/t Au  83% 
+
+NB‐08‐11 385‐390   1.1 g/t Au  0.10 g/t Au  91% 
+
+NB‐08‐12 230‐235   2.4 g/t Au  0.90 g/t Au  63% 
+
+NB‐08‐12 320‐325   11.1 g/t Au  1.2 g/t Au  89% 
+
+NB‐08‐17 300‐305  1.2 g/t Au  0.40 g/t Au  67% 
+
+In 2010 eleven core samples from Sierra Blanca hole NB07‐01 were submitted for 72 hour cyanide bottle 
+
+roll  leach  tests.    The  results  are  summarized  in  Table  7  and  show  that  oxidized  and  partly  oxidized 
+
+material  leached at about the same rate of 84% of the contained gold and 40% of the contained silver 
+
+(Kappes, Cassidy, 2010). 
+
+Table 7‐Bottle roll test results for drill core from Sierra Blanca 
+
+Sample  Head Assay  Tail Assay  Recovery 
+
+NBMET‐1 oxidized  0.59 g/t Au  0.13 g/t Au  78% 
+
+NBMET‐2 oxidized  0.78 g/t Au  0.22 g/t Au  71% 
+
+NBMET‐3 oxidized  0.46 g/t Au  0.03 g/t Au  92% 
+
+NBMET‐4 mixed  0.63 g/t Au  0.11 g/t Au  82% 
+
+NBMET‐5 mixed  0.34 g/t Au  0.05 g/t Au  84% 
+
+NBMET‐6 mixed  0.40 g/t Au  0.05 g/t Au  88% 
+
+NBMET‐7 mixed  0.47 g/t Au  0.04 g/t Au  91% 
+
+NBMET‐8 unoxidized  0.28 g/t Au  0.19 g/t Au  30% 
+
+NBMET‐9 unoxidized  0.29 g/t Au  0.16 g/t Au  45% 
+
+NBMET‐10 unoxidized  0.64 g/t Au  0.62 g/t Au  4% 
+
+NBMET‐11 unoxidized  0.74 g/t Au  0.62 g/t Au  17% 
+
+ 
+
+
+
+ 
+
+37 
+ 
+
+17.0 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES 
+
+The only mineralized area at NBP with sufficient drilling to warrant a resource estimate is the Mayflower 
+
+area.   This section summarizes  the  resource estimated  for  the Mayflower area by  the second author.  
+
+There are no mineral reserves at NBP. 
+
+17.1  MAYFLOWER RESOURCE ESTIMATE BACKGROUND 
+
+17.1.1  Data Base for Mayflower Resource Estimation 
+
+The supplied data for the Mayflower Resource Estimation consisted of 52 drill holes totaling 10,232 m 
+
+(see  list of Drill Holes used  in Appendix 1).   A total of 6,364 samples were assayed for gold and silver.  
+
+One blank Ag assay was set to 0.001 g/t.  All units used in this study are metric. 
+
+17.1.2  Geologic Model of the Mayflower Mineralized Zone 
+
+The  distribution  of  mineralization  at  the  Mayflower  prospect  is  complicated.    It  is  clear  that 
+
+mineralization  is  controlled  by  a  complex  fracture  network without  the  clear  definition  of  a  simple 
+
+central vein system.  In order to define a volume to be included in the resource model a combination of 
+
+the  alteration,  trace  element  geochemistry  and  gold mineralization  were  taken  into  account.    The 
+
+underlying premise for the model was that the form of the zone should be roughly tabular following the 
+
+main fault zone. 
+
+The Mayflower geochemical data show that there  is a clear correlation between the higher‐grade gold 
+
+mineralization, potassium  feldspar alteration and arsenic mineralization.   The  first step  in building  the 
+
+model was  to define  the distribution of potassium  feldspar alteration using  the molar K/Al and Na/Al 
+
+ratios.    The  next  step  was  to  look  at  the  statistical  distribution  of  arsenic  and  establish  that  the 
+
+mineralized population begins at approximately 36ppm arsenic (high arsenic in this system is 200ppm).  
+
+Finally the cumulative frequency distribution of gold indicates that 0.06g/t is the lower limit of the main 
+
+mineralized population.   The "Mayflower Zone" was then defined as continuous drilled  intervals which 
+
+had K‐feldspar alteration, As>36ppm and Au>0.06g/t. 
+
+The  drill  hole  data  with  the  "Mayflower  Zone"  designation  was  loaded  into  a  3‐D  view  and  the 
+
+"Hangingwall" and "Footwall" was constructed using  the  top and bottom contacts of  the "Mayflower 
+
+Zone".   Once  this was done  the surface was extended and modified by  integrating  the Barrick drilling 
+
+data into the model.  The same 0.06g/t cutoff was used to define zones of mineralization in the Barrick 
+
+holes.    The  resulting model  surfaces  were  exported  to  Surpac  where  the  final  closed  volume  was 
+
+constructed.  The base of the modeled volume was arbitrarily cut off at an elevation of 1000 meters. 
+
+The overall form of the Mayflower Zone  is narrow at depth and widens as  it approaches the surface, a 
+
+configuration that is quite common is near surface fault systems (Figure 12 and 13).  The hangingwall is 
+
+steeper  and more  planar  than  the  footwall.    The  zone  appears  to  be  somewhat  segmented with  a 
+
+distinctly different Mayflower and David Adit Zones (Figure 14).  
+
+
+
+ 
+
+ 
+
+Figure 112‐Mayflowe
+The 
+
+er Model view
+sectional slic
+
+wed from the
+ces were used
+
+38 
+
+e northwest lo
+d to construc
+
+ooking at the
+ct the final su
+
+e end of the D
+urface model.
+
+David Adit zo
+. 
+
+ 
+
+one.  
+
+
+
+ 
+
+ 
+
+Figure  13
+
+illustrates
+
+narrower
+
+hangingw
+
+D
+
+Zo
+
+3‐Perspective
+
+s  the  differe
+
+r than the Da
+
+wall and a flat
+
+avid Adit 
+
+one 
+
+e  view  looki
+
+nce  in  form 
+
+avid Adit zone
+
+tter footwall.
+
+ing  down  o
+
+of  the Mayf
+
+e but both ap
+
+. 
+
+39 
+
+n  the  Mayf
+
+flower  and D
+
+ppear to thin
+
+300 m
+
+flower  mine
+
+David Adit  zo
+
+n at depth.  B
+
+m
+
+ralization  m
+
+ones.    The M
+
+Both zones al
+
+Ma
+
+Zon
+
+model.    This 
+
+Mayflower  zo
+
+lso have a ste
+
+N 
+
+yflower
+
+ne 
+
+ 
+
+view 
+
+one  is 
+
+eeper 
+
+
+
+ 
+
+ 
+
+ 
+
+Figure 14
+
+shown in 
+
+ 
+
+17.1.3  D
+
+Using the
+
+mineralize
+
+ 
+
+ 
+
+‐Isometric vi
+
+brown. 
+
+ata Analysis 
+
+e  interpreted 
+
+ed solid.  The
+
+Table 8: 
+
+ 
+
+ 
+Num
+Mea
+Stan
+Mini
+Max
+Coe
+
+ew looking N
+
+geologic soli
+
+ sample stati
+
+Summary o
+
+mber of Samp
+an Grade 
+ndard Deviatio
+imum Value 
+ximum Value 
+efficient of Var
+
+NW of the Ma
+
+d the assays 
+
+stics are tabu
+
+of assay sta
+
+Insid
+
+Au (g
+ples 2,
+
+0.
+on 1.
+
+0.
+41
+
+riation 4
+
+40 
+
+ayflower geo
+
+were back ta
+
+ulated below 
+
+atistics for m
+
+de Mineralize
+Solid 
+
+g/t) Ag (g/t
+280 2,28
+365 0.28
+504 0.52
+001 0.00
+1.50 15.6
+4.13 1.8
+
+ 
+
+ologic solid in
+
+agged with a
+
+(Table 8). 
+
+mineralized
+
+ed Outside
+S
+
+t) Au (g/t)
+80 4,084
+86 0.033
+26 0.070
+05 0.00
+60 1.30
+84 2.13
+
+n blue with su
+
+a mineralized
+
+ solid and w
+
+ Mineralized
+Solid 
+
+Ag (g/t) 
+4 4,084
+3 0.125
+0 0.148
+1 0.001
+0 3.45
+3 1.18
+
+ 
+
+urface topog
+
+ code  if  insid
+
+waste 
+
+ 
+
+4 
+5 
+8 
+ 
+
+5 
+8 
+
+raphy 
+
+de the 
+
+
+
+ 
+
+41 
+ 
+
+The grade distributions for gold and silver were evaluated using  lognormal cumulative frequency plots 
+
+for  samples  within  both  the  mineralized  solid  and  the  surrounding  waste.    In  all  cases,  multiple 
+
+overlapping  lognormal populations were seen.   Within the mineralized zone for gold there were seven 
+
+overlapping populations (Table 9).  The highest two with average grades of 29.3 g/t representing 0.17% 
+
+of the data and 12.0 g/t representing 0.24 % of the data were considered erratic high grades and a cap 
+
+consisting of 2 standard deviations above the mean of population 3, a value of 7.2 g/t was used to cap 9 
+
+gold assays.   A  similar exercise  completed on  silver  resulted  in 10 assays  capped at 2.70 g/t.   Within 
+
+waste gold  showed 5 overlapping  lognormal populations with  the upper most averaging 1.77 g/t and 
+
+representing 0.26 % of the data considered erratic.   A cap  level of 0.64 g/t or two standard deviations 
+
+above the mean of population 2 was used to cap 11 assays at 0.64 g Au/t.  For silver in waste a cap level 
+
+of  0.93  g/t was  used  to  cap  21  assays.    The  results  of  capping  reduce  the mean  grade  slightly  and 
+
+significantly reduce the standard deviation and as a result the coefficient of variation in all variables. 
+
+ 
+
+Table 9-Summary of capped assay statistics for mineralized solid and waste 
+
+ 
+
+ Inside Mineralized
+Solid 
+
+Outside Mineralized 
+Solid 
+
+ Au (g/t) Ag (g/t) Au (g/t) Ag (g/t) 
+Number of Samples 2,280 2,280 4,084 4,084 
+Mean Grade 0.316 0.272 0.032 0.122 
+Standard Deviation 0.712 0.314 0.062 0.109 
+Minimum Value 0.001 0.005 0.001 0.001 
+Maximum Value 7.20 2.70 0.64 0.93 
+Coefficient of Variation 2.25 1.15 1.92 0.89 
+
+ 
+
+14.1.4  Composites 
+
+Drill holes at Mayflower were compared to the mineralized solid and the points each hole entered and 
+
+left the solid were recorded.  Uniform down hole composites, 5 m in length, were formed and made to 
+
+honor  the  solid boundaries.    Intervals  less  than ½  the composite  length at  the  solid boundaries were 
+
+joined with adjoining samples to produce a composites file of uniform support, 5± 2.5 m in length.  The 
+
+statistics for 5 m composites are summarized below (Table 10). 
+
+  Table 10-Summary of 5 m composite statistics for mineralized solid  
+
+ Inside Mineralized
+Solid 
+
+ Au (g/t) Ag (g/t) 
+Number of Samples 718 718
+Mean Grade 0.307 0.263
+Standard Deviation 0.574 0.264
+Minimum Value 0.001 0.005
+Maximum Value 6.29 2.22
+Coefficient of Variation 1.87 1.00
+
+
+
+ 
+
+42 
+ 
+
+17.1.5  Variography 
+
+Pairwise relative semivariograms were produced from composites within the mineralized solid for both 
+
+gold and silver.   The semivariograms were produced along strike, down dip and across dip within  the 
+
+mineralized lens.  Nested spherical models were fit to the three directions of anisotropy.  The nugget to 
+
+sill  ratio was  a  reasonable 12%  for  gold  and 17%  for  silver.    The model parameters  are  summarized 
+
+below (Table 11) and the variograms shown in Appendix 2. 
+
+Table 11-Summary of semivariogram parameters 
+
+Variable Azimuth Dip Co C1 C2 Short Range
+(m) 
+
+Long Range 
+(m) 
+
+Au 315o 0o 0.10 0.55 0.20 30 80 
+ 225o -70o 0.10 0.55 0.20 30 60 
+ 45o -20o 0.10 0.55 0.20 20 40 
+
+Ag 315o 0o 0.10 0.30 0.20 25 60 
+ 225o -70o 0.10 0.30 0.20 30 80 
+ 45o -20o 0.10 0.30 0.20 10 20 
+
+ 
+
+ 
+
+17.1.6  Bulk Density 
+
+At  the  present  time  there  is  very  little  bulk  density  information  for  the Mayflower  Deposit.    Three 
+
+samples from silicified and mineralized debris flow tuff were taken from the Mayflower dump and are 
+
+thought to be typical samples of the mineralized zone.  The results of specific gravity determinations are 
+
+shown below  (Table 12).   For  this  resource estimate  the average of  the  three mineralized debris  flow 
+
+samples, 2.47, was used for the mineralized zone.  If waste is required a specific gravity of 2.24 should 
+
+be used. 
+
+Table 12-Summary of measured specific gravity determinations for Mayflower 
+
+Sample Rec. Wt. 
+(kg) 
+
+S.G. Description 
+
+25 0.36 2.42 Silicified and mineralized debris flow (Tdf) from Mayflower dump  
+50A 0.34 2.52 Silicified and mineralized debris flow (Tdf) from Mayflower dump  
+50B 0.28 2.46 Silicified and mineralized debris flow (Tdf) from Mayflower dump  
+174 0.30 2.28 Weakly silicified unmineralized tuff (Trt2) 
+175 0.14 2.19 Weakly silicified unmineralized tuff (Trt2) 
+
+
+
+ 
+
+43 
+ 
+
+17.1.7  Block Model 
+
+A block model with blocks 10 x 10 x 5 m in dimension was superimposed over the mineralized solid.  The 
+
+model was rotated 45 degrees to better fit the solid.  The block model origin was as follows: 
+
+Lower left corner of model 
+
+  518793.805 E    Column width – 10 m     40 columns 
+
+  4093850.845 N    Row width – 10 m    78 rows 
+
+Top of Model 
+
+  1400 Elevation    Level width – 5 m    82 levels 
+
+Rotation 45 degrees 
+
+Within  each  block  the  percentage  below  surface  topography  and  within  the mineralized  solid  was 
+
+recorded. 
+
+17.1.8  Grade Interpolation 
+
+Grades  for  gold  and  silver  were  interpolated  into  all  blocks,  with  some  percentage  within  the 
+
+mineralized solid, by Ordinary Kriging.  Kriging was completed in a series of passes with the dimensions 
+
+and  orientation  of  the  search  ellipse  for  each  pass  tied  to  the  semivariogram.    The  first  pass  used 
+
+dimensions equal to ¼ of the semivariogram range in the three principal directions.  If a minimum of 4 
+
+composites were found within this ellipse centered on a block, the block was estimated.  For blocks not 
+
+estimated  the  search  ellipse was  expanded  to ½  the  semivariogram  range.    Again  a minimum  of  4 
+
+composites within the search ellipse were required to estimate any given block.  A third pass using the 
+
+full semivariogram range was completed for blocks not estimated during the first two passes.  Finally a 
+
+fourth pass using roughly twice the range was completed.  This pass was modified to use the maximum 
+
+range for both gold and silver to ensure all blocks were estimated for both variables.  In all cases if more 
+
+than 12 composites were  located  in any search, the closest 12 were used.   The search parameters for 
+
+the  Kriging  procedure  are  tabulated  below  (Table  13).    Volumes  for  each  block  estimated  were 
+
+determined by multiplying the block volume by the percentage of block below topography and within 
+
+the solid.  The tonnage was calculated by multiplying the block volume by the S.G. (2.47). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+44 
+ 
+
+Table 13-Summary of Kriging search parameters 
+
+Variable Pass Number 
+Estimated
+
+Az/Dip Dist. 
+(m) 
+
+Az/Dip Dist. 
+(m) 
+
+Az/Dip Dist. 
+(m) 
+
+Au 1 2,020 315/0 20.0 225/-70 15.0 45/-20 10.0 
+2 9,338 315/0 40.0 225/-70 30.0 45/-20 20.0 
+3 7,628 315/0 80.0 225/-70 60.0 45/-20 40.0 
+4 4,012 315/0 160.0 225/-70 160.0 45/-20 80.0 
+
+Ag 1 366 315/0 15.0 225/-70 20.0 45/-20 5.0 
+2 7,597 315/0 30.0 225/-70 40.0 45/-20 10.0 
+3 10,426 315/0 60.0 225/-70 80.0 45/-20 20.0 
+4 4,609 315/0 160.0 225/-70 160.0 45/-20 80.0 
+
+ 
+
+17.2  Classification 
+
+Based  on  the  study  herein  reported,  delineated mineralization  of  the  estimated  deposits within  the 
+
+Mayflower  Deposit  are  classified  as  a  resource  according  to  the  following  definitions  from National 
+
+Instrument 43‐101 and from CIM (2005): 
+
+"In this Instrument, the terms "mineral resource", "inferred mineral resource", "indicated mineral 
+
+resource" and  "measured mineral  resource" have  the meanings ascribed  to  those  terms by  the 
+
+Canadian  Institute  of Mining, Metallurgy  and  Petroleum,  as  the  CIM  Definition  Standards  on 
+
+Mineral  Resources  and Mineral  Reserves  adopted  by  CIM  Council,  as  those  definitions may  be 
+
+amended." 
+
+The terms Measured, Indicated and Inferred are defined by CIM (2005) as follows: 
+
+"A Mineral Resource is a concentration or occurrence of diamonds, natural solid inorganic 
+
+material, or natural solid fossilized organic material including base and precious metals, coal 
+
+and  industrial minerals  in or on  the Earth's crust  in  such  form and quantity and of  such a 
+
+grade  or  quality  that  it  has  reasonable  prospects  for  economic  extraction.    The  location, 
+
+quantity, grade, geological characteristics and continuity of a Mineral Resource are known, 
+
+estimated or interpreted from specific geological evidence and knowledge." 
+
+"The  term  Mineral  Resource  covers  mineralization  and  natural  material  of  intrinsic 
+
+economic  interest  which  has  been  identified  and  estimated  through  exploration  and 
+
+sampling  and  within  which  Mineral  Reserves  may  subsequently  be  defined  by  the 
+
+consideration and application of  technical, economic,  legal, environmental, socio‐economic 
+
+and  governmental  factors.    The  phrase  'reasonable  prospects  for  economic  extraction' 
+
+implies a judgment by the Qualified Person in respect of the technical and economic factors 
+
+likely to influence the prospect of economic extraction.  A Mineral Resource is an inventory of 
+
+mineralization  that  under  realistically  assumed  and  justifiable  technical  and  economic 
+
+conditions might become economically extractable.   These assumptions must be presented 
+
+explicitly in both public and technical reports." 
+
+ 
+
+
+
+ 
+
+45 
+ 
+
+Inferred Mineral Resource 
+
+"An 'Inferred Mineral Resource' is that part of a Mineral Resource for which quantity and 
+
+grade or quality can be estimated on the basis of geological evidence and  limited sampling 
+
+and reasonably assumed, but not verified, geological and grade continuity.   The estimate  is 
+
+based on  limited  information and sampling gathered  through appropriate  techniques  from 
+
+locations such as outcrops, trenches, workings and drill holes." 
+
+"Due to the uncertainty that may be attached to Inferred Mineral Resources, it cannot be 
+
+assumed  that  all  or  any  part  of  an  Inferred  Mineral  Resource  will  be  upgraded  to  an 
+
+Indicated or Measured Mineral Resource as a result of continued exploration.  Confidence in 
+
+the  estimate  is  insufficient  to allow  the meaningful application of  technical and economic 
+
+parameters  or  to  enable  an  evaluation  of  economic  viability worthy  of  public  disclosure.  
+
+Inferred Mineral Resources must be excluded from estimates forming the basis of feasibility 
+
+or other economic studies." 
+
+Indicated Mineral Resource 
+
+"An  'Indicated Mineral Resource'  is that part of a Mineral Resource for which quantity, 
+
+grade or quality, densities, shape and physical characteristics, can be estimated with a level 
+
+of  confidence  sufficient  to  allow  the  appropriate  application  of  technical  and  economic 
+
+parameters,  to  support  mine  planning  and  evaluation  of  the  economic  viability  of  the 
+
+deposit.   The estimate  is based on detailed and reliable exploration and testing  information 
+
+gathered  through  appropriate  techniques  from  locations  such  as  outcrops,  trenches,  pits, 
+
+workings and drill holes that are spaced closely enough for geological and grade continuity 
+
+to be reasonably assumed." 
+
+"Mineralization may  be  classified  as  an  Indicated Mineral  Resource  by  the  Qualified 
+
+Person when  the  nature,  quality,  quantity  and  distribution  of  data  are  such  as  to  allow 
+
+confident  interpretation  of  the  geological  framework  and  to  reasonably  assume  the 
+
+continuity  of mineralization.    The Qualified  Person must  recognize  the  importance  of  the 
+
+Indicated Mineral Resource category to the advancement of the feasibility of the project.  An 
+
+Indicated  Mineral  Resource  estimate  is  of  sufficient  quality  to  support  a  Preliminary 
+
+Feasibility Study which can serve as the basis for major development decisions." 
+
+Measured Mineral Resource 
+
+"A 'Measured Mineral Resource' is that part of a Mineral Resource for which quantity, 
+
+grade or quality, densities,  shape, and physical characteristics are  so well established  that 
+
+they  can  be  estimated with  confidence  sufficient  to  allow  the  appropriate  application  of 
+
+technical and economic parameters,  to  support production planning and evaluation of  the 
+
+economic viability of the deposit.  The estimate is based on detailed and reliable exploration, 
+
+sampling and  testing  information gathered  through appropriate  techniques  from  locations 
+
+such as outcrops, trenches, pits, workings and drill holes that are spaced closely enough to 
+
+confirm both geological and grade continuity." 
+
+
+
+ 
+
+46 
+ 
+
+"Mineralization or other natural material of economic  interest may be classified as a 
+
+Measured Mineral Resource by the Qualified Person when the nature, quality, quantity and 
+
+distribution  of  data  are  such  that  the  tonnage  and  grade  of  the  mineralization  can  be 
+
+estimated to within close limits and that variation from the estimate would not significantly 
+
+affect potential economic viability.   This category requires a high level of confidence in, and 
+
+understanding of, the geology and controls of the mineral deposit." 
+
+ 
+Within the Mayflower mineralized zone the geological continuity has been established though surface 
+
+mapping,  underground  mapping  and  diamond  drill  hole  interpretation.    Grade  continuity  can  be 
+
+quantified by semivariogram analysis.   By tying the classification to the semivariogram ranges through 
+
+the use of various search ellipses the resource is classified as follows: 
+
+Blocks  estimated  during  pass  1  and  2  using  search  ellipses  with  dimensions  up  to  ½  the 
+
+semivariogram range were classified as Indicated 
+
+All remaining blocks were classified as Inferred 
+
+17.3  Mayflower Resource Estimate 
+
+The results are presented as grade‐tonnage tables (Tables 14 and 15) for a series of gold cutoffs.  At this 
+
+time no economic analysis has been made so the economic cutoff is unknown.  A 0.5 g/t Au cutoff has 
+
+been highlighted as a possible open pit cutoff. 
+
+   
+
+
+
+ 
+
+47 
+ 
+
+Table 14-Mayflower indicated resource 
+
+Au Cutoff Tonnes > Cutoff Grade  > Cutoff Contained  
+
+(g/t) (tonnes) Au (g/t) Ag (g/t) 
+Ounces 
+
+Au 
+Ounces 
+
+Ag 
+0.20 5,140,000 0.54 0.34 88,577 56,187 
+0.30 3,570,000 0.67 0.38 76,327 43,386 
+0.40 2,630,000 0.78 0.42 65,869 35,175 
+0.50 2,020,000 0.88 0.45 57,086 29,160 
+0.60 1,530,000 0.99 0.48 48,453 23,710 
+0.70 1,130,000 1.11 0.53 40,218 19,146 
+0.80 850,000 1.23 0.58 33,504 15,741 
+0.90 660,000 1.33 0.61 28,286 13,029 
+1.00 510,000 1.44 0.66 23,677 10,871 
+1.10 410,000 1.54 0.70 20,353 9,175 
+1.20 330,000 1.64 0.74 17,368 7,809 
+1.30 280,000 1.71 0.76 15,358 6,860 
+1.40 230,000 1.78 0.77 13,170 5,709 
+1.50 190,000 1.85 0.82 11,325 4,997 
+
+ 
+
+   
+
+
+
+ 
+
+48 
+ 
+
+Table 15-Mayflower inferred resource 
+
+Au Cutoff Tonnes > Cutoff Grade  > Cutoff Contained  
+
+(g/t) (tonnes) Au (g/t) Ag (g/t) 
+Ounces 
+
+Au 
+Ounces 
+
+Ag 
+0.20 3,090,000 0.46 0.26 46,096 25,532 
+0.30 2,180,000 0.56 0.28 38,969 19,695 
+0.40 1,410,000 0.67 0.32 30,373 14,370 
+0.50 950,000 0.78 0.36 23,793 10,904 
+0.60 650,000 0.89 0.40 18,495 8,296 
+0.70 470,000 0.98 0.42 14,748 6,392 
+0.80 330,000 1.08 0.45 11,437 4,774 
+0.90 260,000 1.14 0.47 9,521 3,895 
+1.00 180,000 1.22 0.51 7,083 2,946 
+1.10 110,000 1.33 0.51 4,693 1,811 
+1.20 79,000 1.42 0.52 3,597 1,321 
+1.30 63,000 1.46 0.49 2,961 999 
+1.40 34,000 1.57 0.61 1,713 669 
+1.50 22,000 1.62 0.74 1,144 525 
+
+ 
+
+Mineral resources which are not mineral reserves do not have demonstrated economic viability. 
+
+
+
+ 
+
+49 
+ 
+
+18.0  OTHER RELEVANT DATA AND INFORMATION 
+
+There is no other relevant data or information about the NBP.  
+
+19.0  INTERPRETATION AND CONCLUSIONS 
+
+The NBP contains several epithermal gold occurrences that have similarities to the nearby Bullfrog mine 
+
+and several other  large  low‐sulfidation gold deposits  in Nevada.   The area  is characterized by volcanic 
+
+tuffs, breccias, and debris flows and extensive faulting.  Many of the faults served as channel‐ways and 
+
+sites of deposition for precious metal mineralization.  Much of the volcanic sequence has good porosity 
+
+and permeability and there  is abundance evidence that precious metals, and associated alteration and 
+
+geochemistry, permeated  these  rocks  forming  replacement‐type deposits.   Exploration work over  the 
+
+last  few decades demonstrated that gold bearing quartz vein zones and replacement deposits exist at 
+
+NBP.  While drilling (including that by the NBPJV) only discovered lower‐grade gold mineralization much 
+
+of the drilling has been shallow and therefore did not explore the deeper portions of the gold bearing 
+
+systems.  The one exception is at Mayflower where some deeper drilling has occurred. 
+
+Drilling to date at Mayflower has been sufficient to develop a resource estimate of about 2.02 million 
+
+tonnes at 0.88 g/t Au and 0.45 g/t Ag (at 0.50 g/t Au cutoff) of indicated resources and 950,000 tonnes 
+
+at 0.78 g/t Au and 0.36 g/t Ag (at 0.50 g/t Au cutoff) of inferred resources.  While the deposit contains 
+
+about  57,086  ounces  of  gold  and  29,160  ounces  of  silver  as  indicated  resources  (plus  an  additional 
+
+23,793 ounces of gold and 10,904 ounces of silver in the inferred resource category), which is probably 
+
+insufficient size to develop a mining operation, it does support the conclusion that potentially economic 
+
+gold grades exist at NBP that could support an open‐pit heap leach operation, when compared to similar 
+
+grade gold mines in Nevada.  The opportunity at NBP is to explore for both high‐grade veins (analogous 
+
+to  those  at  the  Bullfrog mine)  and  low‐grade  disseminated  deposits  of  similar  or  higher  grade  than 
+
+Mayflower.    The district  has  the  potential  to  produce multiple deposits  that  could  support  a mining 
+
+operation.   
+
+Other areas  that could contain significant gold deposits  include Sierra Blanca,  Jolly  Jane, Pioneer, and 
+
+Savage Valley.   Sierra Blanca has numerous gold  intercepts  in historic drill holes.   This drilling the basis 
+
+for an expanded drilling program as outlined above.   A  similar  situation exists at  Jolly  Jane.   Both of 
+
+these targets should be drilled in the next round of drilling at NBP.  Much of mineralization in both areas 
+
+appears to be stratabound and could represent an opportunity to discover significant replacement‐type 
+
+precious  metal  mineralization.    Savage  Valley  is  a  gravel  covered  area  with  some  precious  metal 
+
+mineralization around the margins that could be peripheral to a gold deposit under gravel cover.  Other 
+
+lower priority  targets  including Connection, Arsenic vein, and Pioneer warrant additional drilling.    It  is 
+
+unlikely that additional exploration will continue to expand the Mayflower deposit.  
+
+These are  the obvious  targets;  there are numerous alteration and geochemical anomalies  throughout 
+
+the property that should be evaluated on the ground.  These could develop into new drill targets.  There 
+
+is also the possibility that larger deposits may exist in the district.  One aspect that has come out of the 
+
+2007‐2008  exploration  programs  is  that  gold mineralization  is  not  always  directly  related  to  quartz 
+
+veining at NBP.   Historic exploration focused on drilling  in areas of quartz veining, with  limited work  in 
+
+
+
+ 
+
+50 
+ 
+
+areas of anomalous gold and alteration  that  is not quartz veins.   This opens several opportunities  for 
+
+Corvus to make discoveries in areas that were not previously explored. 
+
+20.0  RECOMMENDATIONS 
+
+The recommended program has two parts ‐ firstly, drilling to focus on Sierra Blanca and Jolly Jane with 
+
+initial drilling at Savage Valley, Connection, and Arsenic vein, and secondly, re‐evaluation of the several 
+
+known mineralization and alteration/geochemical anomalies which should result in the identification of 
+
+additional drill targets. 
+
+Recommended drilling at Sierra Blanca is a reverse circulation (RC) drill program along strike to the north 
+
+and  south,  and  down‐dip  to  the  east.    Approximately  20  RC  holes  totaling  about  10,000  feet  is 
+
+recommended to supply an  initial test to determine size of the mineralized area, continuity within the 
+
+deposit, and an estimation of the grade.  At Jolly Jane a similar size program (16 RC holes totaling 8,000 
+
+feet)  is recommended to outline the size, grade and continuity of the gold deposit.   The costs for this 
+
+portion of the program are outlined in Table 16.  Significant gold targets have been identified at Savage 
+
+Valley, Connection, and Arsenic Vein.   An  initial RC drilling program  is recommended (14 holes totaling 
+
+7,000 feet) to start the definition of the size, grade, and continuity of gold mineralization in each area. 
+
+Since  the  last  period  of  intense  exploration  in  the  district  during  the  1980's  and  early  1990's  the 
+
+knowledge  of  gold  systems  in  volcanic  terrains  has  expanded  greatly.    This  new  knowledge  can  be 
+
+applied to the several areas of gold mineralization at NBP to identify new targets for drilling.  Initially, a 
+
+"boots  on  the  ground"  approach  should  be  taken.    Each  area  of  anomalous  gold,  associated  trace 
+
+elements,  and  alteration  should  be  visited  and  evaluated  for  the  need  for  additional mapping  and 
+
+sampling.  This would be followed by creating cross sections through the drill areas and compiling all of 
+
+the  available drill hole  information.    The  costs  for  this program  are outlined  in  Table  16.   Once  this 
+
+information is assembled additional drill targets will most likely be identified. 
+
+ 
+
+   
+
+
+
+ 
+
+51 
+ 
+
+Table 16: Proposed budget to support recommended exploration program at NBP 
+
+ITEM  ESTIMATED COST US$ 
+
+Sierra Blanca Drilling 
+
+Mob/Demob cost‐one RC drill  $25,000
+
+Geological Support cost+expenses  $40,000
+
+RC Drilling‐10,000 feet @ $25/foot  $250,000
+
+Analytical work and sample preparation  $30,000
+
+Data analysis and report preparation  $15,000
+
+Sierra Blanca area total  $360,000
+
+Jolly Jane Hill Drilling 
+
+Move RC drill from Sierra Blanca  $1,000
+
+Geological Support cost+expenses  $30,000
+
+RC Drilling‐8,000 feet @ $25/foot  $200,000
+
+Analytical work and sample preparation  $25,000
+
+Data analysis and report preparation  $15,000
+
+Jolly Jane total  $371,000
+
+Savage Valley, Connection, and Arsenic Vein Drilling 
+
+Move rig from Jolly Jane and between areas  $3,000
+
+Geological Support (cost+expenses)  $20,000
+
+RC Drilling‐7,000 feet @$25/foot  $175,000
+
+Analytical work and sample preparation  $20,000
+
+Data analysis and report preparation  $5,000
+
+Total  $223,000
+
+Geological Evaluation of NBP 
+
+Geologist‐field work+expenses  $50,000
+
+Geochemical analyses  $15,000
+
+Geologist‐data evaluation  $25,000
+
+CSAMT survey at Savage Valley  $10,000
+
+Geological evaluation total  $100,000
+
+Contingency for entire program  $46,000
+
+GRAND TOTAL  $1,000,000
+
+ 
+
+
+
+ 
+
+52 
+ 
+
+21.0  REFERENCES 
+
+Connors,  Katherine  A., Weiss,  Steven  I., Noble,  Donald  C.,  1998, Geologic Map  of  the  Northeastern 
+
+Bullfrog Hills and Vicinity, Southern Nye County, Nevada, Nevada Bureau of Mines and Geology Map 
+
+112. 
+
+Elliott, Russell R., 1966, Nevada's Twentieth‐Century Mining Boom‐Tonopah, Goldfield, Ely, University of 
+
+Nevada Press, Reno and Las Vegas, 344 pages. 
+
+Eng, Tony, Boden, David R., Reischman, Mark R., and Biggs, James O., 1996, Geology and mineralization 
+
+of  the Bullfrog Mine and vicinity, Nye County, Nevada,  in Geology and Ore Deposits of  the American 
+
+Cordillera, Geological Society of Nevada Symposium Proceedings, Alan R. Coyner and Patrick L. Fahey 
+
+eds., Reno, Nevada, pages 353‐402. 
+
+Baughman,  Dave,  2008,  Cyanidation  Results  for  Coarse  Gold  Ore  Samples:  Hazen  Research  Inc. 
+
+unpublished report, 9 pages. 
+
+Hunter,  Edward  N.,  2008,  Summary  Report  on  the  North  Bullfrog  Project,  Nye  County,  Nevada. 
+
+International Tower Hill Mines Ltd. unpublished report, May 18, 2008, 24 pages. 
+
+Lincoln,  F.C.,  1923,  Mining  districts  and  mineral  resources  of  Nevada,  Reno,  Nevada  Newsletter 
+
+Publishing Co., 296 pages. 
+
+Kappes,  Cassiday  &  Associates,  2010,  NB  Project‐Report  of  Metallurgical  Test  Work,  March  2010, 
+
+unpublished report to Talon Gold Alaska, Inc., 21 pages. 
+
+Myers,  Russell,  2008,  Summary  of  Data  Provided  to  Giroux  Consulting  Ltd.  for  Resource Modeling: 
+
+Mayflower Prospect, Beatty, Nevada,  International Tower Hill Mines  Ltd. unpublished  report, 30 May 
+
+2008, 5 pages. 
+
+Weiss,  S.  I.,  1995,  Hydrothermal  activity,  epithermal  mineralization  and  regional  extension  in  the 
+
+southwestern volcanic field (Ph.D. thesis): University of Nevada, Reno, 212 pages. 
+
+
+
+ 
+
+53 
+ 
+
+22.0  DATE AND SIGNATURE PAGE 
+
+The  effective  date  of  this  technical  report  entitled–"Summary  Report  on  The North  Bullfrog 
+Project and Resource at Mayflower, Bullfrog Mining District, Nye County, Nevada" is September 
+15, 2010. 
+
+ 
+
+ 
+
+Dated this 10
+th
+ day of November, 2010 
+
+ 
+
+ 
+
+(Signed)  Roger Steininger      [Sealed} 
+
+Roger C. Steininger, Ph.D., CPG 
+ 
+
+(Signed)  Gary Giroux        [Sealed] 
+
+Gary Giroux M.Sc., P.Eng. 
+ 
+
+
+
+ 
+
+54 
+ 
+
+23.0  CERTIFICATES OF AUTHORS 
+
+CERTIFICATE of Roger Steininger 
+ 
+I, Roger Steininger, PhD, CPG, do hereby certify that: 
+ 
+I am an independent consultant with an office at‐   
+3401 San Mateo Ave. 
+Reno, NV 89509 
+ 
+I graduated from Colorado State University with a Ph.D. (Geology) in 1986.   
+ 
+I am a Certified Professional Geologist  (CPG 7417)  certified by  the American  Institute of Professional 
+Geologists. 
+ 
+I have practiced my profession continuously for 40+ years. 
+ 
+I have read the definition of "qualified person" set out in National Instrument 43‐101 ("NI 43‐101") and 
+certify  that by reason of my education, affiliation with a professional association  (as defined  in NI 43‐
+101) and past relevant work experience, including involvement in mineral exploration, mine site geology 
+and  operations,  mineral  resource  and  reserve  estimations  and  feasibility  studies  on  numerous 
+underground and open pit base metal and gold deposits  in Canada,  the United States, and Mexico,  I 
+fulfill the requirements to be a "qualified person" for the purposes of NI 43‐101. 
+ 
+I am responsible for the preparation of all sections of the technical report titled "Summary Report on 
+the North Bullfrog Project and Resource at Mayflower, Bullfrog Mining District, Nye County, Nevada", 
+dated November 10, 2010 (the "Technical Report") except section 17 and the corresponding portions of 
+section 1  (Summary).    I personally visited  the  site on March 27 and 28, 2008 and again on  June 3‐4, 
+2010. 
+ 
+I have had prior  involvement with  the property  that  is  the  subject of  the Technical Report, as  I have 
+carried out geological  investigations and authored or co‐authored previous NI 43‐101 technical reports 
+on the North Bullfrog Property for International Tower Hill Mines Ltd. (August, 2008 and June 30, 2010).  
+I had no  involvement with the North Bullfrog Property prior to co‐authoring the first 43‐101 report for 
+International Tower Hill Mines Ltd. in 2008. 
+ 
+I  am  not  aware  of  any material  fact  or material  change with  respect  to  the  subject matter  of  the 
+Technical Report for which I am responsible that is not reflected in the Technical Report, the omission to 
+disclose which makes the Technical Report misleading. 
+  
+I am independent of the issuer applying all of the tests in Section 1.4 of NI 43‐101.   
+   
+
+
+
+ 
+
+55 
+ 
+
+I have read NI 43‐101 and Form 43‐101F1, and the subject matter of the Technical Report for which I am 
+responsible has been prepared in compliance with that instrument and form. 
+ 
+Dated this 10
+
+th
+ Day of November, 2010 
+
+ 
+ 
+(Signed) Roger Steininger          [Sealed: CPG 7417] 
+Roger Steininger, PhD, CPG  
+
+
+
+ 
+
+56 
+ 
+
+CERTIFICATE of G.H. Giroux 
+
+I, G.H. Giroux, of 982 Broadview Drive, North Vancouver, British Columbia, do hereby certify that: 
+
+ 1)  I  am  a  consulting  geological  engineer  with  an  office  at  #1215  ‐  675 West  Hastings  Street, 
+
+  Vancouver, British Columbia. 
+
+ 2)  I am a graduate of the University of British Columbia in 1970 with a B.A. Sc. and in 1984 with a 
+
+M.A. Sc., both in Geological Engineering. 
+
+ 3)  I  am  a  member  in  good  standing  of  the  Association  of  Professional  Engineers  and 
+
+  Geoscientists of the Province of British Columbia. 
+
+4)  I have practiced my profession continuously since 1970. 
+
+5)  I have read the definition of "Qualified Person" set out  in National  Instrument 43‐101 ("NI 43‐
+
+101") and certify that, by reason of my education, affiliation with a professional association, and 
+
+past  relevant  work  experience,  which  includes  over  30  years  experience  completing mineral 
+
+resource  estimations on  a wide  variety of precious metal deposits both  in B.C.  and  around  the 
+
+world, many similar to Mayflower, I fulfill the requirements to be a "Qualified Person" as defined 
+
+in NI 43‐101. 
+
+ 6)  I am responsible for the preparation of section 17 and the corresponding portions of section 1 
+
+(Summary) of  the  technical  report entitled "Summary Report on  the North Bullfrog Property 
+
+and Resource at Mayflower, Bullfrog Mining district, Nye County, Nevada" dated November 
+
+10, 2010 (the "Technical Report").  I have not visited the property. 
+
+7)  I have had prior  involvement with the property that  is the subject of the Technical Report, as I 
+
+have carried out mineral resource calculations and authored or co‐authored previous NI 43‐101 
+
+technical reports on the North Bullfrog Property for International Tower Hill Mines Ltd. (August, 
+
+2008 and  June 30, 2010).    I had no  involvement with  the North Bullfrog Property prior  to co‐
+
+authoring the first 43‐101 report for International Tower Hill Mines Ltd. in 2008. 
+
+ 8)  I am not aware of any material fact or material change with respect to the subject matter of the 
+
+Technical Report  for which  I am  responsible  that  is not  reflected  in  the Technical Report,  the 
+
+omission to disclose which makes the Technical Report misleading. 
+
+9)  I am independent of the issuer applying all of the tests in section 1.4 of NI 43‐101. 
+
+10)  I  have  read  NI  43‐101  and  Form  43‐101F1,  and  the  Technical  Report  has  been  prepared  in 
+
+compliance with that instrument and form. 
+
+Dated this 10
+th
+ day of November, 2010 
+
+(signed)  G. H. Giroux        [Sealed] 
+
+G. H. Giroux, P.Eng., MASc. 
+
+
+
+ 
+
+57 
+ 
+
+APPENDIX 1 
+
+LIST OF DRILL HOLES USED IN RESOURCE ESTIMATE 
+
+ 
+
+HOLE              EASTING 
+     
+NORTHING 
+
+  
+ELEVATION 
+
+HOLE 
+LENGTH 
+
+BGS-26       518907.70 4093966.10 1307.77 182.88 
+
+GS-47        518841.87 4094095.46 1320.76 222.50 
+
+NB-08-07     518817.00 4094127.00 1322.83 153.92 
+
+NB-08-08     518753.00 4094148.00 1327.40 182.88 
+
+NB-08-09     518752.00 4094148.00 1327.40 182.88 
+
+NB-08-10     518569.00 4094277.00 1368.55 182.88 
+
+NB-08-11     518562.00 4094237.00 1363.98 213.36 
+
+NB-08-12     518548.00 4094294.00 1368.55 213.36 
+
+NB-08-13     518907.00 4094221.00 1310.00 304.80 
+
+NB-08-14     518757.00 4094044.00 1322.83 304.80 
+
+NB-08-15     518820.00 4094078.00 1321.30 346.25 
+
+NB-08-16     518789.00 4094133.00 1327.40 147.83 
+
+NB-08-17     518488.00 4094341.00 1379.20 304.80 
+
+NB-08-18     518724.00 4094176.00 1332.00 213.36 
+
+NB-08-30     518607.00 4094172.00 1347.20 304.80 
+
+NB-08-31     518669.00 4094207.00 1341.10 335.28 
+
+NB-08-32     518852.00 4094018.00 1313.70 228.60 
+
+NB-08-33     518733.00 4093939.00 1316.70 288.04 
+
+NB-08-34     518752.00 4094046.00 1322.80 365.76 
+
+NB-08-35     518548.00 4094294.00 1368.60 184.40 
+
+NB-08-36     518562.00 4094237.00 1364.00 213.36 
+
+NB-08-37     518093.00 4094380.00 1357.90 330.71 
+
+
+
+ 
+
+58 
+ 
+
+NB-08-38     518384.00 4094435.00 1365.50 300.23 
+
+NB-08-39     518384.00 4094435.00 1365.50 147.83 
+
+NB-08-40     518548.00 4094294.00 1368.60 208.79 
+
+NB-08-41     518562.00 4094237.00 1364.00 300.23 
+
+RDH-759      518820.89 4094118.04 1319.43 120.40 
+
+RDH-760      518689.35 4094180.18 1330.73 132.59 
+
+RDH-761      518612.92 4094099.24 1333.94 254.51 
+
+RDH-762      518486.74 4094198.09 1353.61 268.22 
+
+RDH-763      518560.14 4094267.23 1362.51 135.64 
+
+RDH-764      518467.92 4094372.48 1378.89 129.54 
+
+RDH-765      518392.29 4094308.64 1349.30 237.74 
+
+RDH-766      518360.11 4094475.93 1353.49 132.59 
+
+RDH-780      518860.56 4094071.61 1316.78 134.11 
+
+RDH-781      518843.10 4094139.73 1316.74 85.34 
+
+RDH-782      518796.35 4094095.32 1318.19 158.50 
+
+RDH-783      518773.22 4094163.30 1324.81 121.92 
+
+RDH-784      518730.62 4094125.25 1322.89 195.07 
+
+RDH-785      518639.29 4094242.26 1346.72 121.92 
+
+RDH-786      518598.75 4094201.48 1348.85 182.88 
+
+RDH-787      518586.15 4094288.36 1365.50 121.92 
+
+RDH-788      518534.84 4094245.41 1357.05 213.36 
+
+RDH-789      518533.66 4094342.84 1367.51 121.92 
+
+RDH-790      518492.79 4094304.79 1359.07 164.59 
+
+RDH-791      518493.32 4094396.09 1383.70 109.73 
+
+RDH-792      518435.48 4094352.97 1368.12 152.40 
+
+RDH-793      518423.55 4094415.62 1370.78 121.92 
+
+RDH-794      518946.65 4093988.49 1301.33 121.92 
+
+
+
+ 
+
+59 
+ 
+
+RDH-795      518891.52 4094039.35 1313.51 121.92 
+
+RDH-796      518835.94 4094048.03 1311.90 152.40 
+
+RDH-797      518885.90 4094096.19 1310.64 54.86 
+
+     
+
+52 Drill Holes    10,232.44 
+
+ 
+
+  
+
+
+
+ 
+
+60 
+ 
+
+APPENDIX 2 
+
+SEMIVARIOGRAM MODELS 
+
+
+
+ 
+
+61 
+ 
+
+
+
+ 
+
+62 
+ 
+
+ 
+
+
+
+ 
+
+63 
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+64 
+ 
+
+
+
+ 
+
+65 
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+66 
+ 
+
+ 
+
+
+
+ 
+
+67 
+ 
+
+Appendix 3 
+
+Claim Descriptions 
+
+  
+
+
+
+ 
+
+68 
+ 
+
+Claim Type BLM Serial/Patent# County Loc Date Mer Twp   Rge Sec 
+Claimant / 
+
+Owner 
+
+NB1 Unpatented 922928 Nye 1/17/2006 21 10S 46E 26 ITH 
+
+NB2 Unpatented 922929 Nye 1/17/2006 21 10S 46E 26 ITH 
+
+NB3 Unpatented 922930 Nye 1/17/2006 21 10S 46E 26 ITH 
+
+NB4 Unpatented 922931 Nye 1/17/2006 21 10S 46E 26 ITH 
+
+NB5 Unpatented 922932 Nye 1/17/2006 21 10S 46E 26 ITH 
+
+NB6 Unpatented 922933 Nye 1/17/2006 21 10S 46E 26 ITH 
+
+NB7 Unpatented 922934 Nye 1/17/2006 21 10S 46E 26 ITH 
+
+NB8 Unpatented 922935 Nye 1/17/2006 21 10S 46E 25,26 ITH 
+
+NB9 Unpatented 922936 Nye 1/17/2006 21 10S 46E 26,27 ITH 
+
+NB10 Unpatented 922937 Nye 1/17/2006 21 10S 46E 26 ITH 
+
+NB11 Unpatented 922938 Nye 1/17/2006 21 10S 46E 26 ITH 
+
+NB12 Unpatented 922939 Nye 1/17/2006 21 10S 46E 26 ITH 
+
+NB13 Unpatented 922940 Nye 1/17/2006 21 10S 46E 26 ITH 
+
+NB14 Unpatented 922941 Nye 1/17/2006 21 10S 46E 26 ITH 
+
+NB15 Unpatented 922942 Nye 1/17/2006 21 10S 46E 26 ITH 
+
+NB16 Unpatented 922943 Nye 1/17/2006 21 10S 46E 26 ITH 
+
+NB17 Unpatented 922944 Nye 1/17/2006 21 10S 46E 26 ITH 
+
+NB18 Unpatented 922945 Nye 1/17/2006 21 10S 46E 25,26 ITH 
+
+NB19 Unpatented 922946 Nye 1/17/2006 21 10S 46E 25 ITH 
+
+NB20 Unpatented 922947 Nye 1/17/2006 21 10S 46E 27,34 ITH 
+
+NB21 Unpatented 922948 Nye 1/17/2006 21 10S 46E 27,34 ITH 
+
+NB22 Unpatented 922949 Nye 1/17/2006 21 10S 46E 26,27,34,35 ITH 
+
+NB23 Unpatented 922950 Nye 1/17/2006 21 10S 46E 26,35 ITH 
+
+NB24 Unpatented 922951 Nye 1/17/2006 21 10S 46E 26,35 ITH 
+
+NB25 Unpatented 922952 Nye 1/17/2006 21 10S 46E 26,35 ITH 
+
+NB26 Unpatented 922953 Nye 1/17/2006 21 10S 46E 26,35 ITH 
+
+NB27 Unpatented 922954 Nye 1/17/2006 21 10S 46E 26,35 ITH 
+
+NB28 Unpatented 922955 Nye 1/17/2006 21 10S 46E 26,35 ITH 
+
+NB29 Unpatented 922956 Nye 1/17/2006 21 10S 46E 26,35 ITH 
+
+NB30 Unpatented 922957 Nye 1/17/2006 21 10S 46E 26,35 ITH 
+
+NB31 Unpatented 922958 Nye 1/17/2006 21 10S 46E 25,26,35,36 ITH 
+
+NB32 Unpatented 922959 Nye 1/17/2006 21 10S 46E 25,36 ITH 
+
+NB33 Unpatented 922960 Nye 1/17/2006 21 10S 46E 34 ITH 
+
+NB34 Unpatented 922961 Nye 1/17/2006 21 10S 46E 34 ITH 
+
+NB35 Unpatented 922962 Nye 1/17/2006 21 10S 46E 34,35 ITH 
+
+NB36 Unpatented 922963 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB37 Unpatented 922964 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB38 Unpatented 922965 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB39 Unpatented 922966 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB40 Unpatented 922967 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB41 Unpatented 922968 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+
+
+ 
+
+69 
+ 
+
+NB42 Unpatented 922969 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB43 Unpatented 922970 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB44 Unpatented 922971 Nye 1/17/2006 21 10S 46E 35,36 ITH 
+
+NB45 Unpatented 922972 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB46 Unpatented 922973 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB47 Unpatented 922974 Nye 1/17/2006 21 10S 46E 34 ITH 
+
+NB48 Unpatented 922975 Nye 1/17/2006 21 10S 46E 34 ITH 
+
+NB49 Unpatented 922976 Nye 1/17/2006 21 10S 46E 34,35 ITH 
+
+NB50 Unpatented 922977 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB51 Unpatented 922978 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB52 Unpatented 922979 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB53 Unpatented 922980 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB54 Unpatented 922981 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB55 Unpatented 922982 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB56 Unpatented 922983 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB57 Unpatented 922984 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB58 Unpatented 922985 Nye 1/17/2006 21 10S 46E 35,36 ITH 
+
+NB59 Unpatented 922986 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB60 Unpatented 922987 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB61 Unpatented 922988 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB62 Unpatented 922989 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB63 Unpatented 922990 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB64 Unpatented 922991 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB65 Unpatented 922992 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB66 Unpatented 922993 Nye 1/17/2006 21 10S 46E 34 ITH 
+
+NB67 Unpatented 922994 Nye 1/17/2006 21 10S 46E 34,35 ITH 
+
+NB68 Unpatented 922995 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB69 Unpatented 922996 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB70 Unpatented 922997 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB71 Unpatented 922998 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB72 Unpatented 922999 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB73 Unpatented 923000 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB74 Unpatented 923001 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB75 Unpatented 923002 Nye 1/17/2006 21 10S 46E 35 ITH 
+
+NB76 Unpatented 923003 Nye 1/17/2006 21 10S 46E 35,36 ITH 
+
+NB77 Unpatented 923004 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB78 Unpatented 923005 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB79 Unpatented 923006 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB80 Unpatented 923007 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB81 Unpatented 923008 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB82 Unpatented 923009 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB83 Unpatented 923010 Nye 1/17/2006 21 10S 46E 36 ITH 
+
+NB84 Unpatented 923011 Nye 1/18/2006 21 10S 46E 35; 21 11S 46E 2 ITH 
+
+
+
+ 
+
+70 
+ 
+
+NB85 Unpatented 923012 Nye 1/18/2006 21 10S 46E 35; 21 11S 46E 2 ITH 
+
+NB86 Unpatented 923013 Nye 1/18/2006 21 10S 46E 35; 21 11S 46E 2 ITH 
+
+NB87 Unpatented 923014 Nye 1/18/2006 21 10S 46E 35; 21 11S 46E 2 ITH 
+
+NB88 Unpatented 923015 Nye 1/18/2006 21 10S 46E 35; 21 11S 46E 2 ITH 
+
+NB89 Unpatented 923016 Nye 1/19/2006 21 10S 46E 35; 21 11S 46E 2 ITH 
+
+NB90 Unpatented 923017 Nye 1/19/2006 21 10S 46E 35; 21 11S 46E 2 ITH 
+
+NB91 Unpatented 923018 Nye 1/19/2006 21 10S 46E 35; 21 11S 46E 2 ITH 
+
+NB92 Unpatented 923019 Nye 1/18/2006 
+21 10S 46E 35,36; 21 11S 46E 
+
+1,2 ITH 
+
+NB93 Unpatented 923020 Nye 1/18/2006 21 10S 46E 36; 21 11S 46E 1 ITH 
+
+NB94 Unpatented 923021 Nye 1/19/2006 21 11S 46E 12 ITH 
+
+NB95 Unpatented 923022 Nye 1/18/2006 21 10S 46E 36; 21 11S 46E 1 ITH 
+
+NB96 Unpatented 923023 Nye 1/18/2006 21 10S 46E 36; 21 11S 46E 1 ITH 
+
+NB97 Unpatented 923024 Nye 1/18/2006 21 10S 46E 36; 21 11S 46E 1 ITH 
+
+NB98 Unpatented 923025 Nye 1/18/2006 21 10S 46E 36; 21 11S 46E 1 ITH 
+
+NB99 Unpatented 923026 Nye 1/18/2006 21 10S 46E 36; 21 11S 46E 1 ITH 
+
+NB100 Unpatented 923027 Nye 1/18/2006 21 10S 46E 36; 21 11S 46E 1 ITH 
+
+NB101 Unpatented 923028 Nye 1/18/2006 21 10S 46E 36; 21 11S 46E 1,6 ITH 
+
+NB102 Unpatented 923029 Nye 1/18/2006 21 11S 46E 2 ITH 
+
+NB103 Unpatented 923030 Nye 1/18/2006 21 11S 46E 2 ITH 
+
+NB104 Unpatented 923031 Nye 1/18/2006 21 11S 46E 2 ITH 
+
+NB105 Unpatented 923032 Nye 3/7/2006 21 11S 46E 2 ITH 
+
+NB106 Unpatented 923033 Nye 3/7/2006 21 11S 46E 2 ITH 
+
+NB107 Unpatented 923034 Nye 1/19/2006 21 11S 46E 2 ITH 
+
+NB108 Unpatented 923035 Nye 1/19/2006 21 11S 46E 2 ITH 
+
+NB109 Unpatented 923036 Nye 1/19/2006 21 11S 46E 2 ITH 
+
+NB110 Unpatented 923037 Nye 1/18/2006 21 11S 46E 1,2 ITH 
+
+NB111 Unpatented 923038 Nye 1/18/2006 21 11S 46E 1 ITH 
+
+NB112 Unpatented 923039 Nye 1/19/2006 21 11S 46E 1 ITH 
+
+NB113 Unpatented 923040 Nye 3/6/2006 21 11S 46E 1 ITH 
+
+NB114 Unpatented 923041 Nye 1/18/2006 21 11S 46E 1 ITH 
+
+NB115 Unpatented 923042 Nye 3/6/2006 21 11S 46E 1 ITH 
+
+NB116 Unpatented 923043 Nye 1/19/2006 21 11S 46E 1 ITH 
+
+NB117 Unpatented 923044 Nye 1/19/2006 21 11S 46E 1,6 ITH 
+
+NB118 Unpatented 923045 Nye 1/19/2006 21 11S 46E 6 ITH 
+
+NB119 Unpatented 923046 Nye 1/19/2006 21 11S 46E 2 ITH 
+
+NB120 Unpatented 923047 Nye 1/19/2006 21 11S 46E 2 ITH 
+
+NB121 Unpatented 923048 Nye 1/19/2006 21 11S 46E 2 ITH 
+
+NB122 Unpatented 923049 Nye 1/19/2006 21 11S 46E 2 ITH 
+
+NB123 Unpatented 923050 Nye 1/19/2006 21 11S 46E 2 ITH 
+
+NB124 Unpatented 923051 Nye 1/19/2006 21 11S 46E 1 ITH 
+
+NB125 Unpatented 923052 Nye 1/19/2006 21 11S 46E 1 ITH 
+
+NB126 Unpatented 923053 Nye 1/19/2006 21 11S 46E 2,11 ITH 
+
+
+
+ 
+
+71 
+ 
+
+NB127 Unpatented 923054 Nye 1/19/2006 21 11S 46E 2,11 ITH 
+
+NB128 Unpatented 923055 Nye 1/19/2006 21 11S 46E 2,11 ITH 
+
+NB129 Unpatented 923056 Nye 1/18/2006 21 11S 46E 2,11 ITH 
+
+NB130 Unpatented 923057 Nye 1/18/2006 21 11S 46E 2,11 ITH 
+
+NB131 Unpatented 923058 Nye 1/19/2006 21 11S 46E 2,11 ITH 
+
+NB132 Unpatented 923059 Nye 1/18/2006 21 11S 46E 11 ITH 
+
+NB133 Unpatented 923060 Nye 1/18/2006 21 11S 46E 11 ITH 
+
+NB134 Unpatented 923061 Nye 1/18/2006 21 11S 46E 11 ITH 
+
+NB135 Unpatented 923062 Nye 1/18/2006 21 11S 46E 11 ITH 
+
+NB136 Unpatented 923063 Nye 1/18/2006 21 11S 46E 11 ITH 
+
+NB137 Unpatented 923064 Nye 1/18/2006 21 11S 46E 11 ITH 
+
+NB138 Unpatented 923065 Nye 1/18/2006 21 11S 46E 11 ITH 
+
+NB139 Unpatented 923066 Nye 1/18/2006 21 11S 46E 11 ITH 
+
+NB140 Unpatented 923067 Nye 1/18/2006 21 11S 46E 11 ITH 
+
+NB141 Unpatented 923068 Nye 1/18/2006 21 11S 46E 11,12 ITH 
+
+NB142 Unpatented 923069 Nye 1/18/2006 21 11S 46E 11 ITH 
+
+NB143 Unpatented 923070 Nye 3/7/2006 21 11S 46E 2,11 ITH 
+
+NB144 Unpatented 923071 Nye 3/7/2006 21 11S 46E 1,2,11,12 ITH 
+
+NB145 Unpatented 923072 Nye 1/18/2006 21 11S 46E 11 ITH 
+
+NB146 Unpatented 923073 Nye 1/19/2006 21 11S 46E 12 ITH 
+
+NB147 Unpatented 923074 Nye 1/20/2006 21 11S 46E 1 ITH 
+
+NB148 Unpatented 923075 Nye 1/20/2006 21 11S 46E 1 ITH 
+
+NB149 Unpatented 923076 Nye 1/20/2006 21 11S 46E 1 ITH 
+
+NB150 Unpatented 943108 Nye 10/18/2006 21 11S 46E 2 ITH 
+
+NB151 Unpatented 943109 Nye 10/18/2006 21 11S 46E 2 ITH 
+
+NB152 Unpatented 943110 Nye 10/18/2006 21 11S 46E 1,2 ITH 
+
+NB153 Unpatented 943111 Nye 10/18/2006 21 11S 46E 1 ITH 
+
+NB154 Unpatented 943112 Nye 10/18/2006 21 11S 46E 1 ITH 
+
+NB155 Unpatented 943113 Nye 10/18/2006 21 11S 46E 1 ITH 
+
+NB156 Unpatented 943114 Nye 10/18/2006 21 11S 46E 1, 12 ITH 
+
+NB157 Unpatented 943115 Nye 10/18/2006 21 11S 46E 1, 12 ITH 
+
+NB158 Unpatented 943116 Nye 10/18/2006 21 11S 46E 1, 12 ITH 
+
+NB159 Unpatented 943117 Nye 10/18/2006 21 11S 46E 1, 12 ITH 
+
+NB160 Unpatented 943118 Nye 10/18/2006 21 11S 46E 1, 12 ITH 
+
+NB161 Unpatented 943119 Nye 10/18/2006 21 11S 46E 1, 12 ITH 
+
+NB162 Unpatented 989863 Nye 4/14/2008 21 10S 46E 27 ITH 
+
+NB163 Unpatented 989864 Nye 4/14/2008 21 10S 46E 27 ITH 
+
+NB164 Unpatented 989865 Nye 4/14/2008 21 10S 46E 27 ITH 
+
+NB165 Unpatented 989866 Nye 4/14/2008 21 10S 46E 27 ITH 
+
+NB166 Unpatented 989867 Nye 4/14/2008 21 10S 46E 26, 27 ITH 
+
+NB167 Unpatented 989868 Nye 4/14/2008 21 10S 46E 26 ITH 
+
+NB168 Unpatented 989869 Nye 4/14/2008 21 10S 46E 27 ITH 
+
+NB169 Unpatented 989870 Nye 4/14/2008 21 10S 46E 27 ITH 
+
+
+
+ 
+
+72 
+ 
+
+NB170 Unpatented 989871 Nye 4/14/2008 21 10S 46E 27 ITH 
+
+NB171 Unpatented 989872 Nye 4/14/2008 21 10S 46E 27 ITH 
+
+NB172 Unpatented 989873 Nye 4/14/2008 21 10S 46E 27 ITH 
+
+NB173 Unpatented 989874 Nye 4/14/2008 21 10S 46E 27 ITH 
+
+NB174 Unpatented 989875 Nye 4/14/2008 21 10S 46E 27,34 ITH 
+
+NB175 Unpatented 989876 Nye 4/14/2008 21 10S 46E 27,34 ITH 
+
+NB176 Unpatented 989877 Nye 4/14/2008 21 10S 46E 27,34 ITH 
+
+NB177 Unpatented 989878 Nye 4/14/2008 21 10S 46E 27,34 ITH 
+
+NB178 Unpatented 989879 Nye 4/14/2008 21 10S 46E 34 ITH 
+
+NB179 Unpatented 989880 Nye 4/14/2008 21 10S 46E 34 ITH 
+
+NB180 Unpatented 989881 Nye 4/14/2008 21 10S 46E 34 ITH 
+
+NB181 Unpatented 989882 Nye 4/14/2008 21 10S 46E 34 ITH 
+
+NB182 Unpatented 989883 Nye 4/14/2008 21 10S 46E 34 ITH 
+
+NB183 Unpatented 989884 Nye 4/14/2008 21 10S 46E 34 ITH 
+
+NB184 Unpatented 989885 Nye 4/14/2008 21 10S 46E 34 ITH 
+
+NB185 Unpatented 989886 Nye 4/14/2008 21 10S 46E 34 ITH 
+
+NB186 Unpatented 989887 Nye 4/14/2008 21 10S 46E 34 ITH 
+
+NB187 Unpatented 989888 Nye 4/14/2008 21 10S 46E 34 ITH 
+
+NB188 Unpatented 989889 Nye 4/14/2008 21 10S 46E 34 ITH 
+
+NB189 Unpatented 989890 Nye 4/14/2008 21 10S 46E 34 ITH 
+
+NB190 Unpatented 989891 Nye 4/14/2008 21 10S 46E 34 ITH 
+
+NB191 Unpatented 989892 Nye 4/14/2008 21 11S 46E 11 ITH 
+
+NB192 Unpatented 989893 Nye 4/14/2008 21 11S 46E 11 ITH 
+
+NB193 Unpatented 989894 Nye 4/14/2008 21 11S 46E 11, 14 ITH 
+
+NB194 Unpatented 989895 Nye 4/14/2008 21 11S 46E 11, 14 ITH 
+
+NB195 Unpatented 989896 Nye 4/14/2008 21 11S 46E 11, 14 ITH 
+
+NB196 Unpatented 989897 Nye 4/14/2008 21 11S 46E 11, 14 ITH 
+
+NB197 Unpatented 989898 Nye 4/14/2008 21 11S 46E 11, 12, 13, 14 ITH 
+
+NB198 Unpatented 989899 Nye 4/14/2008 21 11S 46E 12, 13 ITH 
+
+NB199 Unpatented 989900 Nye 4/14/2008 21 11S 46E 12 ITH 
+
+NB200 Unpatented 989901 Nye 4/14/2008 21 11S 46E 12 ITH 
+
+NB201 Unpatented 989902 Nye 4/14/2008 21 11S 46E 12 ITH 
+
+NB202 Unpatented 989903 Nye 4/14/2008 21 11S 46E 12 ITH 
+
+NB203 Unpatented 989904 Nye 4/14/2008 21 11S 46E 12 ITH 
+
+NB204 Unpatented 989905 Nye 4/14/2008 21 11S 46E 12 ITH 
+
+NB205 Unpatented 989906 Nye 4/14/2008 21 11S 46E 12 ITH 
+
+NB206 Unpatented 989907 Nye 4/14/2008 21 11S 46E 12 ITH 
+
+NB207 Unpatented 989908 Nye 4/14/2008 21 11S 46E 12 ITH 
+
+NB208 Unpatented 989909 Nye 4/14/2008 21 11S 46E 12 ITH 
+
+NB209 Unpatented 989910 Nye 4/14/2008 21 11S 46E 12 ITH 
+
+NB210 Unpatented 989911 Nye 4/14/2008 21 11S 46E 12 ITH 
+
+NB211 Unpatented 989912 Nye 4/14/2008 21 11S 46E 12 ITH 
+
+NB212 Unpatented 989913 Nye 4/14/2008 21 11S 46E 12 ITH 
+
+
+
+ 
+
+73 
+ 
+
+NB213 Unpatented 989914 Nye 4/14/2008 21 11S 46E 12 ITH 
+
+Jim Dandy  Patented 448055 Nye 2/14/1905 21 11S 46E 1,2 Gregory 
+
+Gold Basin Patented 330227 Nye 4/12/1907 21 11S 46E 2 Hall 
+
+Savage Patented 330227 Nye 2/16/2005 21 11S 46E 2 Hall 
+
+Savage 2 Patented 330227 Nye 2/19/2005 21 11S 46E 2 Hall 
+
+Black Jack Patented 163170 Nye 10/22/1904 21 10S 46E 36; 21 11S 46E 1 Kolo 
+
+ZuZu Patented 261838 Nye 10/22/1904 21 10S 46E 36; 21 11S 46E 1 Kolo 
+
+Indiana 1 Patented 245488 Nye 2/17/1905 21 11S 46E 2 Milliken 
+
+Indiana 2 Patented 245488 Nye 2/17/1905 21 11S 46E 2 Milliken 
+
+Indiana 3 Patented 245488 Nye 2/17/1905 21 11S 46E 2,11 Milliken 
+
+Banker's Life Patented 493623 Nye 2/13/1905 21 11S 46E 2 Pritchard 
+
+Bimettalic (1) Patented 46204 Nye 1/13/1905 21 11S 46E 1 Pritchard 
+
+Bimettalic 2 Patented 46204 Nye 1/14/1905 21 11S 46E 1 Pritchard 
+
+Bimettalic 3 Patented 46205 Nye 1/14/1905 21 11S 46E 1,2 Pritchard 
+
+Bluff Patented 493623 Nye 1/23/1905 21 11S 46E 1,2 Pritchard 
+
+Conservative Patented 611953 Nye 1/23/1905 21 11S 46E 1,2 Pritchard 
+
+KK1 Patented 504301 Nye 2/17/1905 21 11S 46E 2 Pritchard 
+
+Mutual Patented 493623 Nye 1/23/1905 21 11S 46E 2 Pritchard 
+
+Penn Mutual Patented 493623 Nye 1/23/1905 21 11S 46E 2 Pritchard 
+
+Prudential Patented 493623 Nye 1/23/1905 21 11S 46E 2 Pritchard 
+
+Sunrise 1 Patented 114544 Nye 3/24/1905 21 11S 46E 1 Pritchard 
+
+Sunrise 2 Patented 114544 Nye 3/24/1905 21 11S 46E 1 Pritchard 
+
+Mayflower Patented 46195 Nye 4/4/1905 21 11S 46E 11,12 Greenspun 
+
+Mayflower 1 Patented 46195 Nye 4/20/1905 21 11S 46E 11 Greenspun 
+
+Mayflower 2 Patented 46195 Nye 4/4/1905 21 11S 46E 11,12 Greenspun 
+
+Mayflower 3 Patented 46195 Nye 4/6/1905 21 11S 46E 11,12 Greenspun 
+
+Moonlight Patented 46830 Nye 4/20/1905 21 11S 46E 11 Greenspun 
+
+Moonlight 1 Patented 46830 Nye 4/20/1905 21 11S 46E 11,12 Greenspun 
+
+Moonlight 2 Patented 46830 Nye 4/20/1905 21 11S 46E 12 Greenspun 
+
+Starlight 4 Patented 46830 Nye 4/16/1905 21 11S 46E 11 Greenspun 
+
+Starlight 5 Patented 46830 Nye 4/16/1905 21 11S 46E 2,11 Greenspun 
+
+Starlight 6 Patented 46830 Nye 4/21/1905 21 11S 46E 2,11 Greenspun 
+
+Starlight 7 Patented 46830 Nye 4/21/1905 21 11S 46E 11 Greenspun 
+
+Connection Mine Patented 342533 Nye 4/17/1906 21 11S 46E 1 Lunar 
+
+Dewey Bailey Patented 269019 Nye 4/20/1905 21 11S 46E 12 Lunar 
+
+Equity Patented 342533 Nye 1/1/1906 21 11S 46E 1 Lunar 
+
+Four Aces Patented 269019 Nye 4/20/1905 21 11S 46E 12 Lunar 
+
+Geraldine 3 Patented 342533 Nye 10/18/1904 21 11S 46E 1 Lunar 
+
+Grey Eagle 2 Patented 342533 Nye 4/14/1905 21 11S 46E 1 Lunar 
+
+Grey Eagle 4 Patented 342533 Nye 4/14/1905 21 11S 46E 1 Lunar 
+
+Hardtack Patented 341527 Nye 1/8/1905 21 11S 46E 12,13 Lunar 
+
+Parson Haskins Patented 269019 Nye 4/20/1905 21 11S 46E 12 Lunar 
+
+Ugly Patented 269019 Nye 4/20/1905 21 11S 46E 12 Lunar 
+
+
+
+ 
+
+74 
+ 
+
+Bull Con Patented 269019 Nye 4/20/1905 21 11S 46E 12 Lunar 
+
+Vinegarroan Patented 342533 Nye 1/21/1905 21 11S 46E 1 Lunar 
+
+ 
+
+
+'

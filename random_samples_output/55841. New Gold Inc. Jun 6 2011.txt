@@ -1,0 +1,4887 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Tech Report Blackwater_06Jun2011 readdressed FINAL.doc
+
+
+TECHNICAL REPORT 
+BLACKWATER GOLD PROJECT 
+
+Omineca Mining Division 
+British Columbia, Canada 
+
+ 
+
+Prepared for 
+New Gold Inc. 
+
+3110 – 666 Burrard Street, 
+Vancouver, BC V6C 2X8 
+
+ 
+And  
+
+ 
+Silver Quest Resources Ltd. 
+Suite 1410, 650 West Georgia Street 
+
+Vancouver BC V6B 4N8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+March 2, 2011 
+Readdressed: June 6, 2011 
+
+ 
+Ronald G. Simpson, P.Geo 
+
+GeoSim Services Inc. 
+1975 Stephens St. 
+
+Vancouver, BC, Canada V6K 4M7 
+Tel: (604) 803-7470 
+
+Email: rgs@uniserve.com 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cautionary Note to United States Investors Concerning Estimates of 
+Measured, Indicated and Inferred Resources 
+
+This technical report uses the terms 'measured resources', 'indicated resources' and 'inferred 
+resources'. Viceroy advises United States investors that while these terms are recognized and 
+required by Canadian regulations (under National Instrument 43-101 Standards of Disclosure 
+for Mineral Projects), the United States Securities and Exchange Commission does not 
+recognize them. United States investors are cautioned not to assume that any part or all of 
+the mineral deposits in these categories will ever be converted into reserves. In addition, 
+'inferred resources' have a great amount of uncertainty as to their existence, and economic and 
+legal feasibility. It cannot be assumed that all or any part of an Inferred Mineral Resource will 
+ever be upgraded to a higher category. Under Canadian rules, estimates of Inferred Mineral 
+Resources may not form the basis of feasibility or pre-feasibility studies, or economic studies 
+except for a Preliminary Assessment as defined under 43-101. United States investors are 
+cautioned not to assume that part or all of an inferred resource exists, or is economically 
+or legally mineable. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 3
+
+TABLE OF CONTENTS 
+ 
+
+1 EXECUTIVE SUMMARY.................................................................................................6 
+1.1 Introduction..............................................................................................................6 
+1.2 Geology and Mineralization.....................................................................................6 
+1.3 Project History .........................................................................................................6 
+1.4 Drill Hole and Assay Database................................................................................7 
+1.5 Metallurgical Testing ...............................................................................................7 
+1.6 Mineral Resources and Mineral Reserves ..............................................................7 
+1.7 Conclusions and Recommendations.......................................................................8 
+
+2 INTRODUCTION AND TERMS OF REFERENCE........................................................10 
+2.1 Introduction............................................................................................................10 
+2.2 Terms of Reference...............................................................................................10 
+
+3 RELIANCE ON OTHER EXPERTS...............................................................................10 
+4 PROPERTY DESCRIPTION AND LOCATION.............................................................11 
+
+4.1 Location.................................................................................................................11 
+4.2 Mineral Rights .......................................................................................................11 
+4.3 Surface Rights.......................................................................................................13 
+4.4 Nature and Extent of Issuer's Title ........................................................................14 
+4.5 Permits & Environmental Liabilities .......................................................................14 
+
+5 Accessibility, Climate, Infrastructure and Physiography ........................................15 
+5.1 Accessibility...........................................................................................................15 
+5.2 Local Resources Infrastructure .............................................................................15 
+5.3 Physiography.........................................................................................................15 
+5.4 Climate ..................................................................................................................15 
+
+6 HISTORY.......................................................................................................................16 
+6.1 Historic Drilling ......................................................................................................16 
+
+7 GEOLOGICAL SETTING ..............................................................................................20 
+7.1 Regional Geology..................................................................................................20 
+7.2 Local and Property Geology..................................................................................22 
+
+8 DEPOSIT TYPE.............................................................................................................26 
+9 MINERALIZATION ........................................................................................................26 
+10 EXPLORATION.............................................................................................................31 
+
+10.1 Geophysical Surveys.............................................................................................31 
+11 DRILLING......................................................................................................................32 
+12 SAMPLING METHOD AND APPROACH.....................................................................40 
+13 SAMPLE PREPARATION, ANALYSES AND SECURITY ...........................................40 
+14 DATA VERIFICATION ..................................................................................................41 
+
+14.1 Historic Drilling ......................................................................................................41 
+14.2 Standards ..............................................................................................................42 
+14.3 Duplicate Samples ................................................................................................46 
+14.4 Blanks....................................................................................................................49 
+14.5 Site Visit ................................................................................................................49 
+14.6 Conclusions...........................................................................................................49 
+
+15 ADJACENT PROPERTIES ...........................................................................................50 
+16 MINERAL PROCESSING AND METALLURGICAL TESTING ....................................50 
+17 MINERAL RESOURCE ESTIMATE..............................................................................51 
+
+17.1 Exploratory Data Analysis .....................................................................................51 
+17.2 Outlier Analysis .....................................................................................................53 
+17.3 Deposit Modeling...................................................................................................54 
+17.4 Compositing ..........................................................................................................55 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 4
+
+17.5 Density ..................................................................................................................56 
+17.6 Variogram Analysis ...............................................................................................56 
+17.7 Block Model and Grade Estimation Procedures....................................................58 
+17.8 Mineral Resource Classification ............................................................................63 
+17.9 Model Validation....................................................................................................65 
+17.10 Mineral Resource Summary..................................................................................68 
+
+18 OTHER RELEVANT DATA AND INFORMATION........................................................68 
+19 INTERPRETATION AND CONCLUSIONS...................................................................69 
+20 RECOMMENDATIONS .................................................................................................70 
+21 REFERENCES ..............................................................................................................71 
+22 DATE AND SIGNATURE PAGE...................................................................................72 
+
+ 
+ 
+ 
+
+LIST OF TABLES 
+ 
+
+Table 1-1 Mineral resource summary .....................................................................................8 
+Table 4-1 Blackwater Mineral Tenure Status ........................................................................12 
+Table 6-1 Project work history...............................................................................................16 
+Table 6-2 Historic drilling summary.......................................................................................17 
+Table 6-3  Historic drilling - significant intercepts..................................................................19 
+Table 7-1 Drill database lithologic codes ..............................................................................24 
+Table 11-1 Company 2009-2010 drill hole summary ............................................................32 
+Table 11-2 Significant intercepts 2009 drilling ......................................................................35 
+Table 11-3 Significant intercepts 2010 drilling ......................................................................36 
+Table 14-1 Certified reference standard values ....................................................................42 
+Table 14-2 Field duplicate statistics ......................................................................................46 
+Table 14-3 Pulp duplicate recheck statistics .........................................................................47 
+Table 14-4  Assay results from samples collected during site visit .......................................49 
+Table 17-1 Sample statistics .................................................................................................52 
+Table 17-2  Block model lithologic codes..............................................................................55 
+Table 17-3 Composite statistics ............................................................................................56 
+Table 17-4 SG statistics for modeled lithologies ...................................................................56 
+Table 17-5 Block model parameters .....................................................................................58 
+Table 17-6 Grade model search parameters ........................................................................59 
+Table 17-7 Global mean grade comparison..........................................................................66 
+Table 17-8 Blackwater Gold Project mineral resource summary ..........................................68 
+Table 17-9 Mineral resource breakdown by area..................................................................68 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 5
+
+LIST OF FIGURES 
+
+Figure 4-1 Location map .......................................................................................................11 
+Figure 4-2 Mineral claim map................................................................................................12 
+Figure 7-1 Regional geology.................................................................................................21 
+Figure 7-2 Property geology..................................................................................................22 
+Figure 7-3 Drill core photographs of representative lithologies.............................................25 
+Figure 8-1 Cross section of conceptual model......................................................................26 
+Figure 9-1 Lithogeochemistry plots .......................................................................................29 
+Figure 9-2 Alteration assemblages .......................................................................................30 
+Figure 10-1 IP Chargeability - 2010 Quantec survey ............................................................31 
+Figure 10-2  N-S section chargeability data near centre of the mineralized zone.................32 
+Figure 11-1 Drill hole plan .....................................................................................................35 
+Figure 14-1 Sample sequence chart - Standard CDN-GS-3E ..............................................43 
+Figure 14-2 Sample sequence chart - Standard CDN-GS-3F...............................................44 
+Figure 14-3 Sample sequence chart - Standard CDN-GS-7B ..............................................44 
+Figure 14-4 Sample sequence chart - Standard CDN-GS-3E (Au).......................................45 
+Figure 14-5 Sample sequence chart - Standard CDN-GS-3E (Ag).......................................45 
+Figure 14-6 Scatterplot of field duplicate results ...................................................................46 
+Figure 14-7 T-H plot for field duplicates ................................................................................47 
+Figure 14-8 Pulp recheck scatterplots...................................................................................48 
+Figure 14-9 T-H plot for pulp duplicates................................................................................48 
+Figure 17-1 Frequency distribution of Au ..............................................................................51 
+Figure 17-2 Frequency distribution of Ag ..............................................................................52 
+Figure 17-3 Scatterplot of Au vs Ag sample data..................................................................52 
+Figure 17-4 Cumulative log probability plots for Au and Ag ..................................................53 
+Figure 17-5 Box plots of Au distribution by lithology .............................................................54 
+Figure 17-6 Block lithology on section 5892800N.................................................................55 
+Figure 17-7 Semi-variogram model parameters ...................................................................56 
+Figure 17-8 Semi-variogram model for Au ............................................................................57 
+Figure 17-9 Semi-variogram model for Ag ............................................................................58 
+Figure 17-10 Frequency distribution of Au grades in block model ........................................59 
+Figure 17-11 Frequency distribution of Ag grades in block model ........................................59 
+Figure 17-12 Au block grade distribution – Section 5892800N.............................................60 
+Figure 17-13 Ag block grade distribution – Section 5892800N.............................................60 
+Figure 17-14 Au block grade distribution – Section 5892850N.............................................61 
+Figure 17-15 Ag block grade distribution – Section 5892850N.............................................61 
+Figure 17-16 Au block grade distribution and claim boundaries - plan view .........................62 
+Figure 17-17 Perspective view of block model Au grades ....................................................62 
+Figure 17-18 Perspective view of block model Ag grades ....................................................63 
+Figure 17-19  Block classification - Plan view .......................................................................65 
+Figure 17-20  Block classification – Section 5892800N........................................................65 
+Figure 17-21 Swath plot (E-W) at 5892840 North.................................................................66 
+Figure 17-22 Swath plot (N-S) at 375570 East .....................................................................67 
+Figure 17-23 Swath plot by elevation at 375300 East...........................................................67 
+
+ 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 6
+
+1 EXECUTIVE SUMMARY  
+
+This technical report on the Blackwater Gold Project dated March 2, 2011 has been 
+prepared by Geosim Services Inc. ("Geosim") at the request of Richfield Ventures Corp. 
+("Richfield") and was filed by Richfield Ventures on SEDAR (www.sedar.com).  The report 
+was written in compliance with disclosure and reporting requirements set forth in the 
+Canadian Securities Administrators' National Instrument 43-101, Companion Policy 43-
+101CP, and Form 43-101F1. In general, the information in this report is current as of 
+February 8, 2010.  A mineral resource estimate is provided based upon the current 
+geological interpretation and exploration results of the past two years. 
+
+Following the completion of a business transaction on June 1, 2011 and pursuant to a Plan 
+of Arrangement ("Arrangement"), New Gold Inc. ("New Gold") which is based in Vancouver 
+B.C., Canada acquired all of the issued and outstanding common shares of Richfield, and 
+Richfield became a wholly owned subsidiary of New Gold, and ceased trading on the TSX 
+Venture Exchange on June 1, 2011.  New Gold has requested that Geosim readdress this 
+report to New Gold in order to support its own disclosure.  No changes have been made to 
+this report beyond addressing it to New Gold, replacing references to Richfield with 
+"Company" and re-dating it.  For the purposes of this report "Company" means New Gold 
+and its wholly owned subsidiary Richfield, except for information and actions occurring 
+before the Arrangement where references to the Company mean Richfield only. 
+
+1.1 Introduction 
+
+The Blackwater Gold project is on the northern flanks of Mt. Davidson in the Nechako 
+Plateau approximately 110 km southwest of the town of Vanderhoof.  The Company 
+acquired the property through option agreements with Silver Quest Resources and from 
+private individuals in early 2009. 
+
+Mineral claims presently comprising the Blackwater Gold Project are owned by three parties. 
+52 of 60 claims are owned 100% by the Company.  The total area of the project tenures is 
+23,670 hectares. The mineral tenures that contain the focus of 2009 drilling are under option 
+agreement from Silver Quest Resources and from private individuals. 
+
+1.2 Geology and Mineralization 
+
+The property is within a structurally raised block termed the Nechako Uplift that juxtaposes 
+older Jurassic arc related rocks (Hazelton and Bowser Lake groups) with younger Eocene 
+extensional related rocks (Ootsa Lake and Endako groups).  This uplift provides a direct 
+window into the volcanic, volcaniclastic, and sedimentary rocks of the Hazelton and Bowser 
+Lake groups.  These stratified rocks are locally intruded by late Cretaceous felsic plutons 
+such as the Capoose batholith. The widespread Eocene Ootsa Lake and Endako groups 
+overlie these older volcanic and intrusive rocks. The entire package is capped by basalts of 
+the Chilcotin Group. 
+
+1.3 Project History 
+
+The Blackwater Project area has been actively explored since the discovery of anomalous 
+concentrations of silver, lead, and zinc in silt samples taken from streams draining the Mt. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 7
+
+Davidson area in 1973 by Granges Inc.  Historic work includes soil geochemistry, 
+geophysics (VLF, magnetics and IP), and RC and diamond drilling. 
+
+The Company's Blackwater Gold Project began in 2009 when the company recognized the 
+bulk gold potential on the property. In March 2009 the Company optioned the Davidson and 
+Dave claims from Silver Quest Resources and the Rozek family respectively. 
+
+1.4 Drill Hole and Assay Database 
+
+The Company's drill hole and assay database is administered from the Vancouver head 
+office using Maxwell Geoservices products. Drill hole data logged in the field is entered into 
+a LogChief database specifically tailored to the Blackwater Project. LogChief validates this 
+data as it is entered, and the final logs are exported and transferred to the database 
+administrator in Vancouver for import to DataShed, the master database. Additional data 
+validation checks are carried out in DataShed and all logs are checked by the administrator. 
+
+Assay certificates received from EcoTech Labs are delivered in a format specified by the 
+Company to allow instant import to Datashed. 
+
+The database is hosted on the Company's server which runs a RAID 5 configuration to 
+protect the database from any drive failures. The database is backed up after every major 
+data upload and also as part of a weekly backup of the Company's server.  Backups are 
+stored off site to avoid any loss of data due to physical damage of the drives. 
+
+1.5 Metallurgical Testing 
+
+Preliminary metallurgical testing on samples from the Blackwater Gold Project was carried 
+out on composites from three drill holes drilled in 2009. The work was carried out in early 
+2010 by the Metallurgical Division of Inspectorate Exploration and Mining Services Ltd. in 
+Richmond BC. 
+
+The samples responded well to direct whole ore cyanidation tests with an average of 92% 
+gold recovery across three tests at different conditions on each composite (9 tests in total). 
+Accessory silver was recovered at an average of 47%. 
+
+The three composites were also subjected to flotation testing to produce a bulk sulphide 
+concentrate under three different grinding and reagent conditions. The samples also 
+responded well to this test and the best recoveries obtained under one set of test conditions 
+returned an average for the three composites of 94% of the gold and silver reporting to the 
+bulk sulphide concentrate. 
+
+The composites were also subjected to direct gravity concentration. The samples responded 
+well with the three composites averaging 51% gold recovered into a gravity concentrate. 
+
+1.6 Mineral Resources and Mineral Reserves 
+
+Analytical and lithologic data from 77 core holes (25,263 m) was used to develop the 
+resource model.  Only assays received since 2005 from 68 holes were used for grade 
+interpolation.  Resource estimation was constrained by 3-dimensional solid models 
+developed from geological and analytical data.  Grade estimation was carried out by 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 8
+
+ordinary kriging using 5 metre downhole drill composites.  Gold grades were capped at 15 
+g/t and Silver grades at 50 g/t prior to compositing.   The mineral resource was also 
+constrained by an optimized pit shell using a gold price of $1000 per ounce.  Block 
+dimensions were 10 by 10 by 10 metres.   The density values assigned to the main 
+lithologies were based on 5,748 bulk density measurements of drill core. 
+
+At a cut-off grade of 0.4 g/t gold, the Blackwater Gold deposit is estimated to contain an 
+indicated mineral resource of 53 million tonnes averaging 1.06 g/t Au and 5.6 g/t Ag.  An 
+additional 75 million tonnes grading 0.96 g/t Au and 4.0 g/t Ag is classified as inferred (Table 
+1-1).   
+
+ 
+
+Table 1-1 Mineral resource summary 
+Indicated Inferred 
+Grade Grade Property Tonnes 
+
+000's Au g/t Ag g/t 
+Contained 
+Au M oz 
+
+Tonnes 
+000's Au g/t Ag g/t 
+
+Contained 
+Au M oz 
+
+Total Blackwater 53,460 1.06 5.6 1.83 75,452 0.96 4 2.34 
+Dave and Jarrod 
+(100% the 
+Company) 
+
+53,128 1.07 5.6 1.82 29,183 1.04 5.5 0.98 
+
+Davidson (75% 
+the Company, 
+25% Silver Quest 
+
+331 0.92 5.0 0.01 46,269 0.92 3.1 1.36 
+
+Total Company 53,377 1.06 5.6 1.83 63,885 0.97 4.2 2.00 
+
+1.7 Conclusions and Recommendations 
+
+Drilling by the Company since August 2009 has outlined a large, low grade gold-silver 
+deposit that extends at least 1040 metres along its longest dimension in an east-west 
+direction and at least 580 metres N-S. The thickness of the presently defined zone ranges 
+up to 350 metres. 
+
+Results from preliminary metallurgical testing carried out in 2010 showed that the samples 
+responded well to direct whole ore cyanidation tests with an average of 92% gold and 47% 
+silver recovery.  Preliminary flotation tests suggest that up to 94% gold and silver may report 
+to a bulk sulphide concentrate.  Direct gravity concentration tests gave average recoveries 
+of 51% gold. 
+
+Sample preparation, security and analysis meets or exceeds industry standards and is 
+adequate to support a mineral resource estimate as defined under NI 43-101.  QA/QC with 
+respect to the results received to date for the Company's 2009/2010 exploration programs is 
+acceptable and protocols have been well documented.  The database contains all core data 
+collected on the project to date and has been structured for resource estimation. 
+
+At a cut-off grade of 0.4 g/t gold, the Blackwater Gold deposit is estimated to contain an 
+indicated mineral resource of 53 million tonnes averaging 1.06 g/t Au and 5.6 g/t Ag.  An 
+additional 75 million tonnes grading 0.96 g/t Au and 4.0 g/t Ag is classified as inferred. 
+
+Two lower grade Au reference standards should be acquired as the ones presently in use 
+are over twice the average deposit grade. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 9
+
+A preliminary economic assessment should be initiated.  Results of the PEA should be used 
+as a basis for making additional detailed recommendations for: 
+
+• Further metallurgical test work 
+
+• Infill and additional definition drilling  
+
+• Geotechnical drilling 
+
+• Site investigation 
+
+• Infrastructure development 
+
+• Environmental baseline studies 
+
+• Mining method evaluation 
+
+• Processing option tradeoffs and resource characterization 
+
+ 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 10
+
+2 INTRODUCTION AND TERMS OF REFERENCE 
+2.1 Introduction 
+
+Richfield Ventures Corp. ("Richfield") requested that Geosim Services Inc. (Geosim) provide 
+a Technical Report on the Blackwater Gold Project (the Project), located in the Omineca 
+Mining Division, British Columbia, Canada. 
+
+The current work by Geosim entailed the preparation of a Technical Report as defined in NI 
+43–101 and in compliance with Form 43–101F1 (the "Technical Report"). 
+
+This report has been re-addressed to New Gold Inc. in June 2011 following completion of a 
+business transaction by way of a Plan of Arrangement ("Arrangement") between Richfield 
+and New Gold Inc. ("New Gold") on June 1, 2011.  Following the Arrangement Richfield has 
+become a wholly-owned subsidiary of New Gold.  No changes have been made to this 
+report beyond addressing it to New Gold, replacing references to Richfield with "Company" 
+and re-dating it.  For the purposes of this report "Company" means New Gold and its wholly 
+owned subsidiary Richfield, except for information and actions occurring before the 
+Arrangement, where references to the Company mean Richfield only. 
+
+2.2 Terms of Reference 
+
+Geosim is independent of New Gold, and has no beneficial interest in the Blackwater Gold 
+Project.  Fees for this Technical Report are not dependent in whole or in part on any prior or 
+future engagement or understanding resulting from the conclusions of this report.   
+
+In preparing this report, the author relied on geological maps, reports and miscellaneous 
+technical data listed in the Section 21 of this report.  
+
+The author conducted a site visit to the Blackwater Gold Project on December 13, 2010.  
+The purpose of the visit was to review the geology and mineralization encountered in the 
+drill holes completed to date.  In addition, drilling, sampling, quality assurance/quality control 
+(QA/QC), sample preparation and analytical protocols and procedures, and database 
+structure were reviewed.   
+
+The Effective Date of the Technical Report is March 2, 2010 and readdressed June 6, 2011. 
+
+All measurement units used in this report are metric, and currency is expressed in United 
+States dollars unless stated otherwise.   
+
+3 RELIANCE ON OTHER EXPERTS 
+
+It was not within the scope of this report to independently verify the legal status or ownership 
+of the mineral properties or underlying option agreements and transfers of title. Information 
+related to claim ownership (Sections 4.2, 4.3 & 4.4), permitting and environmental liabilities 
+(Section 4.5) have been provided by the Company. Metallurgical data (Section 16) has been 
+provided by the Metallurgical Division of Inspectorate Exploration and Mining Services Ltd., 
+and the author has no reason to believe this information is misleading or misrepresented. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 11
+
+4 PROPERTY DESCRIPTION AND LOCATION  
+4.1 Location 
+
+The Blackwater Gold Project lies in central British Columbia approximately 112 km 
+southwest of Vanderhoof and 446 km northeast of Vancouver.  The property is centered at 
+5893000 N and 375400 E and is located in NTS sheet 93F/02 (Figure 4-1). 
+
+Figure 4-1 Location map 
+
+ 
+
+4.2 Mineral Rights 
+
+Mineral claims comprising the Blackwater Gold Project are owned by three parties. 52 of 60 
+claims are owned 100% by the Company. Claims 503050, 509273, 509274, and 509275 are 
+under option agreement with Silver Quest Resources and claims 515810, 637203, 637205, 
+and 637206 are under option agreement with private individuals (Figure 4-2).  Present claim 
+status is shown in Table 4-1. The total area of the project tenures is 23,670 hectares. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 12
+
+Figure 4-2 Mineral claim map 
+
+ 
+
+Table 4-1 Blackwater Mineral Tenure Status 
+Tenure 
+Number Claim Name Issue Date 
+
+Good To 
+Date Status Area (ha) 
+
+515810 JARRIT 2005/Jul/01 2011//08 GOOD 348.962 
+637203 OZZY 2009//19 2011//19 GOOD 484.4198 
+637205 BABY JANE 2009//19 2011//19 GOOD 464.574 
+637206 DAVID DALE 2009//19 2011//19 GOOD 464.5708 
+503050 WHITEWATER 2005/Jan/13 2017/Jan/13 GOOD 348.759 
+509273 GOT 2005/Mar/19 2016/Mar/19 GOOD 484.448 
+509274 got2 2005/Mar/19 2016/Mar/19 GOOD 38.75 
+509275 got3 2005/Mar/19 2016/Mar/19 GOOD 19.375 
+515809 DAVE 2005/Jul/01 2016/Mar/19 GOOD 581.604 
+602167 BWD  2009/Jul/05 2016/Mar/19 GOOD 387.9406 
+602168 BWD2 2009/Jul/05 2016/Mar/19 GOOD 310.3469 
+607194 BLACKWATER  2 2009/Jul/08 2016/Mar/19 GOOD 464.8588 
+607195 BLACKWATER 1 2009/Jul/08 2016/Mar/19 GOOD 348.7434 
+630903 BW1 2009//09 2016/Mar/19 GOOD 465.3307 
+630944 BW2 2009//09 2016/Mar/19 GOOD 251.902 
+630963 BW3 2009//09 2016/Mar/19 GOOD 465.1538 
+630983 BW4 2009//09 2016/Mar/19 GOOD 387.2911 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 13
+
+Tenure 
+Number Claim Name Issue Date 
+
+Good To 
+Date Status Area (ha) 
+
+630984 BW5 2009//09 2016/Mar/19 GOOD 464.9757 
+631003 BW6 2009//09 2016/Mar/19 GOOD 484.1406 
+631024 BW7 2009//09 2016/Mar/19 GOOD 445.4864 
+631043 BW8 2009//09 2016/Mar/19 GOOD 464.7268 
+636583 KASSY 1 2009//18 2012/Mar/19 GOOD 464.5292 
+636603 KASSY 2 2009//18 2012/Mar/19 GOOD 464.2711 
+636604 KASSY 3 2009//18 2012/Mar/19 GOOD 464.0079 
+636623 KASSY 4 2009//18 2012/Mar/19 GOOD 463.8179 
+636643 KASSY 5 2009//18 2012/Mar/19 GOOD 483.3024 
+636644 KASSY 6 2009//18 2012/Mar/19 GOOD 483.472 
+636663 KASSY 7 2009//18 2012/Mar/19 GOOD 290.1782 
+636683 RIGHT STUFF 1 2009//18 2012/Mar/19 GOOD 464.8647 
+636684 RIGHT STUFF 2 2009//18 2012/Mar/19 GOOD 464.8675 
+636703 RIGHT STUFF 3 2009//18 2012/Mar/19 GOOD 464.8687 
+636723 RIGHT STUFF 4 2009//18 2012/Mar/19 GOOD 464.449 
+636724 RIGHT STUFF 2009//18 2012/Mar/19 GOOD 464.6267 
+636725 RIGHT STUFF 6 2009//18 2012/Mar/19 GOOD 484.1815 
+636727 RIGHT STUFF 7 2009//18 2012/Mar/19 GOOD 484.4075 
+636743 RIGHT STUFF 8 2009//18 2012/Mar/19 GOOD 483.8407 
+636763 RIGHT STUFF 9 2009//18 2012/Mar/19 GOOD 464.849 
+636764 RIGHT STUFF 10 2009//18 2012/Mar/19 GOOD 484.5585 
+636765 RIGHT STUFF 11 2009//18 2012/Mar/19 GOOD 465.1158 
+636766 RIGHT STUFF 12 2009//18 2012/Mar/19 GOOD 464.7619 
+636767 RIGHT STUFF 13 2009//18 2012/Mar/19 GOOD 464.4173 
+642043 BW 2009//27 2011/Jul/01 GOOD 232.5739 
+642063 BW 2 2009//27 2011/Jul/01 GOOD 232.6623 
+642064 BW3 2009//27 2011/Jul/01 GOOD 310.3356 
+642603 TOP LAKE 2009//28 2011/Jul/01 GOOD 174.0916 
+643323 TOP 2009//29 2011/Jul/01 GOOD 309.4498 
+834371 DAVIDSON 2010//27 2011//27 GOOD 425.8729 
+834948  2010/Oct/03 2011/Oct/03 GOOD 484.6897 
+835005  2010/Oct/04 2011/Oct/04 GOOD 465.5035 
+835009  2010/Oct/04 2011/Oct/04 GOOD 271.2713 
+835011  2010/Oct/04 2011/Oct/04 GOOD 484.6897 
+835012  2010/Oct/04 2011/Oct/04 GOOD 484.4599 
+835013  2010/Oct/04 2011/Oct/04 GOOD 174.4104 
+835016  2010/Oct/04 2011/Oct/04 GOOD 232.7703 
+835019  2010/Oct/04 2011/Oct/04 GOOD 387.7691 
+835020  2010/Oct/04 2011/Oct/04 GOOD 329.4685 
+835021 BW WEST 2010/Oct/04 2011/Oct/04 GOOD 387.9372 
+835022 BW WEST2 2010/Oct/04 2011/Oct/04 GOOD 368.555 
+835023  2010/Oct/04 2011/Oct/04 GOOD 465.1906 
+835025 BW WEST2 2010/Oct/04 2011/Oct/04 GOOD 38.7862 
+
+4.3 Surface Rights 
+
+No surface rights exist within the project area. The claims are on Crown land, and the area 
+is open to mineral exploration and development. None of the claims are covered by placer 
+mining claims. The claim area is in the competing areas of interest of several First Nations, 
+including the Kluskus, Ulkatcho, Nazko. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 14
+
+4.4 Nature and Extent of Issuer's Title 
+
+The Company holds 100% interest in 52 of the 60 tenures listed in Table 4-1. To keep these 
+claims in good standing in accordance with the Mineral Tenure Act a minimum value of work 
+or cash-in-lieu is required annually. These values are currently set at $4 per hectare in the 
+first three years of a tenure and $8 per hectare in the fourth and subsequent years. Below 
+are the details concerning the optioned properties and an NSR agreement on one other 
+claim (tenure number 515809).  
+
+In March, 2009, the Company acquired an option to earn up to a 75% interest in the 
+Davidson Property from Silver Quest Resources Ltd. ("Silver Quest").  The Company has 
+the option to acquire an initial 60% interest in the Davidson Property by making aggregate 
+cash and share payments totaling $90,000 cash and 350,000 shares and incurring an 
+aggregate $1,000,000 in exploration expenditures within three years of TSX-Venture 
+acceptance of the agreement. After vesting of a 60% interest, the Company has the option 
+to acquire an additional 15% (total 75%) interest in the Davidson Property by making an 
+additional cash payment of $150,000, issuing 400,000 shares and incurring an additional 
+$500,000 in exploration expenditures on the property in the fourth year.  
+
+In May, 2009, the Company acquired an option to earn a 100% interest in the Dave Property 
+(tenure number 515809) from Jane Roderick, Rebekah Antkow, David Rozek, Benjamin 
+Rozek, and John Blackwell, by making aggregate cash and share payments totaling 
+$185,000 cash and 800,000 shares and incurring an aggregate $625,000 in exploration 
+expenditures within four years of TSX-Venture acceptance of the agreement. The Optionors 
+retain a 2.5% NSR royalty, of which the Company may purchase 1% for one million dollars. 
+The Company has met the requirements stated in this option agreement and have taken 
+100% ownership as of November 29th 2010. 
+
+In October, 2009, the Company acquired an option to earn a 100% interest in the Jarrit 
+Property (tenure number 515810) from Jane Roderick, Rebekah Antkow, David Rozek, and 
+Benjamin Rozek by making aggregate cash and share payments totaling $180,000 cash 
+and 120,000 shares and incurring an aggregate $400,000 in exploration expenditures within 
+three years of TSX-Venture acceptance of the agreement. The Optionors retain a 2% NSR 
+royalty), of which the Company may purchase 1% for one million two hundred thousand 
+dollars. 
+
+In January, 2011, the Company acquired an option to earn a 100% interest in 3 tenures 
+(637203, 637205, and 637206) from Jane Roderick, Rebekah Antkow, David Rozek, and 
+Benjamin Rozek, by making cash payments totaling $75,000 cash and incurring an 
+aggregate $600,000 in exploration expenditures within two years of TSX-Venture 
+acceptance of the agreement. The Optionors retain a 3% NSR royalty, of which the 
+Company may purchase 2% for one million dollars. 
+
+4.5 Permits & Environmental Liabilities 
+
+The claims are on Crown land, and the area is open to mineral exploration and 
+development. None of the claims are covered by placer mining claims. The claim area is in 
+area of interest of several First Nations, namely the Kluskus, Ulkatcho, Nazko. 
+
+The project area is being actively logged to remove trees killed by the mountain-pine-beetle 
+infestation and logging roads are extensive and in heavy use. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 15
+
+To perform the exploration work that will cause a physical disturbance, the Company must 
+first file, and receive approval of, a Notice of Work and Reclamation as required by Section 
+10 of the Mines Act of the Province of British Columbia. The Company currently holds MX-
+13-177 which expires 31-12-2012. 
+
+5 Accessibility, Climate, Infrastructure and Physiography 
+5.1 Accessibility 
+
+The Blackwater Gold Project is readily accessible by vehicle from the Kluskus-Ootsa forest 
+service road originating south of Vanderhoof.  At kilometre 146.5 along this road an 18 km 
+mine road built in 1986 by Granges Inc. and improved by the Company provides direct 
+easterly access to the property and camp location.  Driving time from Vanderhoof to the 
+property is roughly 3 hours and vehicles should be radio equipped. 
+
+Additional road construction and continuation of the mine road from camp in 1991 provides 
+further access to the PEM grid and additional historic drill setups.  Helicopter access is from 
+bases in Vanderhoof, Quesnel, or Prince George. 
+
+5.2 Local Resources Infrastructure 
+
+The area is very sparsely inhabited; three ranches are found in a 20 km radius. Services are 
+available in Vanderhoof, a two and a half hour drive away. Prince George is the regional hub 
+with air service from major centres. 
+
+5.3 Physiography 
+
+The Blackwater Gold Project is within the Nechako Plateau, the northernmost region of the 
+Interior Plateau physiographic province.  The area is characterized by rolling north to 
+northwest trending hills cut by small to medium sized drainages.  The Blackwater Gold 
+Project is located on the northern flank of Mt. Davidson with its peak at 1860 m.  Elevations 
+on the property range from 1490 to 1820; most current work is focused between 1520 and 
+1620 meters.  An extensive veneer of glacial debris covers the project area and bedrock 
+exposures are rare and are generally restricted to higher elevations. On the ridge of Mt. 
+Davidson outcrop is spotty although there is plenty of broken rock. 
+
+Vegetation in the project area is balsam fir and white spruce with lodgepole pine.   At higher 
+elevations vegetation is less dense and dominated by subalpine fir and whitebark pine.  
+Tree line is about 1600meters. 
+
+5.4 Climate 
+
+Climate is characterized by brief warm summers and long cold winters.  The area receives 
+on average 33 cm of precipitation yearly and temperatures range from a minimum of -40°C 
+in winter to a maximum of 32°C in summer.   Snowfall can attain 2 meters at higher 
+elevations.   The exploration period is between mid-June and late October.  Year round 
+diamond drilling is possible given a suitable supply of water and a winterized camp. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 16
+
+6 HISTORY 
+
+The property was discovered in 1973 during a regional silt geochemical survey which 
+located anomalous zinc and other metals in stream sediment east and north of the property. 
+Between 1973 and 1985 a range of ground and airborne surveys were conducted to locate 
+and delimit mineralization. The nature and volume of the work is detailed in Table 6-1. 
+Drilling began in 1985 and was concentrated between 1986 and 1994 with a total of 6300 
+metres completed during this period. A further 1332.6 metres of drilling was completed in 
+the winter of 2005-06. The focus of the work during this period was on high grade vein 
+targets which, at the time, were the only known gold targets in the Nechako Plateau 
+
+The Company's Blackwater Gold Project began in 2009 when the company recognized the 
+bulk gold potential on the property. In March 2009 the Company optioned the Davidson and 
+Dave claims from Silver Quest Resources and the Rozek family respectively. 
+
+Table 6-1 Project work history 
+Year Period Work 
+
+1973 Summer 
+Regional silt survey located anomalous silver, zinc, and 
+lead in the Mt. Davidson area.  This was followed by a 
+wide spaced soil survey northeast of Mt. Davidson. 
+
+1976 September Soil sample and ground magnetometer surveys follow up of 1973 soil results. 
+1977 March Pulse EM survey on the Pem claim. 
+1979 Nov. to Dec. Vector Pulse EM survey on the Pem claim. 
+1981 February Helicopter EM and magnetometer survey. 
+1981 August Horizontal Loop EM survey on the Deb #1 claim. 
+1981 November Reconnaissance mapping of the Mt. Davidson area. 
+
+1982 July Soil sample and ground magnetometer surveys on the Pem claim. 
+1983 July Hammer seismic survey. 
+1984 September Hand trenching and VLF survey on the Pem claim. 
+
+1985 Aug. to Sept. Winkie drilling (507.02m) on the Pem claim. Holes Dav 1-8. 
+1986 July to Aug. Construction of access road. 
+
+1986 September Percussion drilling (1524 m) on the Pem claim. RC 1-34. 
+
+1987 July to Nov. Diamond drilling (2724.61 m) on the Pem claim. Holes Dav 9-31. 
+
+1992 July to Aug. 
+Soil sampling, stream silt sampling, geological 
+mapping, IP, mag, VLF surveys and diamond drilling of 
+five (785.47 m). Drill holes BD92-32 to BD92-36. 
+
+1994 Summer Diamond drilling (759.36 m). Holes DAV 94-37 to DAV 94-41. 
+1997 June to Aug. Linecutting and an Induced Polarization survey. 
+
+2005 Sept. to Oct. Diamond drilling (938.65 m). Holes DAV05-01 to DAV05-05. 
+
+2006 September Diamond drilling (393.97 m). Holes DAV06-06 and DAV06-07. 
+2007 June to July Soil sampling program, 335 samples. 
+
+6.1 Historic Drilling 
+
+During 1985 eight holes were drilled for a total 507.02 metres by Granges Inc. The 
+helicopter supported winkie drill had difficulty with the ground conditions and some holes did 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 17
+
+not reach target depths. Drilling focused on northern parts of the property. Results of this 
+early drilling including drill logs, assays and core have not been located.  
+
+During the 1986 season 34 percussion drill holes were completed for a total 1,524 metres. 
+As with data for the earlier drilling, and despite thorough search, the drill logs and assays 
+could not be located.  
+
+During 1987 some 22 diamond drill holes (2617.13 m) were completed on the Gold and 
+Silver Zones. Drill logs and assay data were filed for assessment and drill core is stored on 
+the property. The core was relogged and the data were reviewed by the Company.  
+
+In 1992, 788.5 metres were drilled in five holes focused mainly southwest of the Gold Zone 
+and on the Dave claim. Logs and assays were filed for assessment and core is stored on 
+the property.  This core was also relogged by the Company.  
+
+Five holes were drilled in 1994 for a total 761.68 metres. The data was filed for assessment 
+and the core stored. The data have been reviewed and the core relogged by the Company. 
+
+Silver Quest Resources drilled five holes in 2005 for a total 938.65 metres and another two 
+holes in early 2006 for 393.97 metres. The holes were widely dispersed. The later drilling 
+focused on the Quest Zone (holes DAV 05-02, DAV 06-06 and DAV 06-07). Cumulative 
+drilling to the end of 2006 was 5,810.79 metres in 44 holes. 
+
+Location of historic drilling is listed in Table 6 2.  Significant intercepts are shown in Table 
+6-2 Significant intercepts are shown in Table 6-3. 
+
+Table 6-2 Historic drilling summary 
+DDH EAST NORTH ELEVm DEPTHm YEAR 
+
+DAV 3 375765.25 5893261.91 1535.00 97.56 1985 
+DAV 4 375195.23 5893222.61 1568.00 67.37 1985 
+DAV 7 376033.43 5893482.70 1507.00 67.37 1985 
+DAV 8 374988.06 5893518.94 1513.00 78.56 1985 
+DAV 9 375778.58 5893132.71 1531.47 155.75 1987 
+DAV 10 375663.55 5893227.34 1532.43 19.51 1987 
+DAV 11 375666.30 5893256.30 1520.92 139.30 1987 
+DAV 12 375567.59 5893233.73 1550.00 137.80 1987 
+DAV 13 375954.10 5893477.50 1510.00 110.00 1987 
+DAV 14 375854.41 5893410.76 1518.00 125.90 1987 
+DAV 15 375238.12 5893616.54 1508.00 141.70 1987 
+DAV 16 375243.03 5893482.37 1521.00 152.70 1987 
+DAV 17 375142.62 5893591.92 1502.81 134.40 1987 
+DAV 18 375161.82 5893301.01 1529.24 65.80 1987 
+DAV 19 375716.26 5893223.41 1529.83 145.70 1987 
+DAV 20 375816.04 5893256.92 1516.43 144.20 1987 
+DAV 21 375661.74 5893263.62 1546.00 100.30 1987 
+DAV 22 375777.54 5893087.86 1543.61 161.80 1987 
+DAV 23 375633.68 5893223.70 1548.00 82.60 1987 
+DAV 24 375643.37 5893275.73 1534.62 32.50 1987 
+DAV 25 375650.66 5893201.67 1550.00 71.93 1987 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 18
+
+DDH EAST NORTH ELEVm DEPTHm YEAR 
+DAV 26 375718.94 5893094.52 1550.45 145.70 1987 
+DAV 27 375696.47 5893040.74 1556.83 185.00 1987 
+DAV 28 375643.37 5893032.65 1571.55 153.01 1987 
+DAV 29 375599.67 5893005.99 1576.00 95.10 1987 
+DAV 30 375639.26 5893281.14 1544.00 60.96 1987 
+DAV 31 375840.62 5893169.55 1523.59 55.47 1987 
+BD 92-32 374522.39 5893772.59 1475.00 152.40 1992 
+BD 92-33 375477.42 5893085.64 1575.01 183.80 1992 
+BD 92-34 375591.60 5892870.26 1603.39 144.80 1992 
+BD 92-35 375386.29 5892935.95 1606.06 171.30 1992 
+BD 92-36 375470.63 5893186.87 1558.25 136.20 1992 
+DAV 94-37 375607.00 5892606.00 1632.00 152.40 1994 
+DAV 94-38 375420.86 5892783.20 1624.92 167.64 1994 
+DAV 94-39 374749.00 5892011.00 1689.00 88.90 1994 
+DAV 94-40 374456.00 5891639.00 1739.00 185.10 1994 
+DAV 94-41 374977.14 5892618.34 1629.00 167.64 1994 
+DAV 05-01 375234.61 5893611.26 1494.88 302.97 2005 
+DAV 05-02 375081.00 5893000.00 1603.00 237.60 2005 
+DAV 05-03 375641.93 5893710.96 1500.00 52.43 2005 
+DAV 05-04 375635.25 5893711.13 1501.00 209.40 2005 
+DAV 05-05 375870.99 5893003.80 1562.00 136.25 2005 
+DAV 06-06 375029.21 5892960.49 1599.00 156.97 2006 
+DAV 06-07 375048.00 5893035.87 1595.00 237.00 2006 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 19
+
+Table 6-3  Historic drilling - significant intercepts 
+Hole From To Width Au g/t Ag g/t 
+
+DAV 05-02 96.00 162.00 66.00 1.76 6.0
+DAV 06-06 47.00 79.00 32.00 3.33  
+DAV 06-07 35.66 56.00 20.34 0.96  
+  66.00 68.00 2.00 0.88  
+DAV 11 57.00 110.80 53.80 3.43 5.8
+  117.20 138.70 21.50 0.74 1.4
+DAV 12 44.80 67.70 22.90 0.69 3.6
+DAV 15 101.80 118.60 16.80 0.03 42.7
+  128.30 141.70 13.40 0.03 35.7
+DAV 16 37.20 38.70 1.50 0.07 35.1
+DAV 19 82.40 130.50 48.10 2.02 6.6
+DAV 21 55.30 72.10 16.80 1.53 9.4
+DAV 22 16.80 31.70 14.90 0.59 2.1
+DAV 23 40.80 60.20 19.40 0.82 3.9
+DAV 26 85.04 126.58 41.54 0.80 4.0
+DAV 27 172.67 181.66 8.99 1.84 1.5
+DAV 28 48.92 69.80 20.88 0.50 12.2
+DAV 29 77.57 91.44 13.87 1.27 12.4
+DAV 9 33.38 102.08 68.70 1.15 5.2
+BD 92-33 66.00 162.00 96.00 0.73 5.2
+BD 92-34 118.90 138.50 19.60 0.61 8.8
+BD 92-35 150.00 171.30 21.30 1.41 1.8
+DAV 94-37 82.00 123.00 41.00 0.64 6.0 
+  139.00 152.40 13.40 1.14 6.5 
+DAV 94-38 20.00 36.00 16.00 0.53 4.9 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 20
+
+7 GEOLOGICAL SETTING 
+7.1 Regional Geology 
+
+The Blackwater Gold project is underlain by rocks of the Stikine Terrane within an uplifted 
+block termed the Nechako uplift. The Nechako Plateau is an area of moderate relief 
+between the Skeena Arch, and the Stikine and Cache Creek terrane contact 
+
+The southern Nechako Plateau near the Blackwater property is underlain by Late Triassic to 
+Middle Jurassic island and continental arc assemblages and epicontinental sedimentary 
+strata (Diakow et al. 1997).  Near the Blackwater Gold Project, the volcaniclastic Hazelton 
+Group represents the Stikine Terrane (Diakow and Levson 1997).  The Hazelton Group has 
+a lower unit of felsic tuffs and sediments, named the Entiako Formation and an upper unit of 
+felsic to mafic volcanic flows and volcaniclastic and sedimentary rocks, termed the Naglico 
+Formation (Diakow and Levson 1997).  Rocks of the Stikine Terrane in the southern 
+Nechako Plateau are overlain by post-accretion Upper Jurassic volcaniclastic, sedimentary 
+and mafic to felsic volcanic rocks of the Bower Lake Group (Diakow and Levson 1997).  The 
+Hazelton and Bowser Lake groups in the area are collectively intruded by Late Cretaceous 
+granitic to granodioritic plutons (e.g., Capoose batholith) exposed within the Nechako uplift.  
+
+Rocks of the Hazelton and Bowser Lake groups are overlain by Upper Cretaceous and 
+Paleocene continental volcanic arc intermediate volcanic rocks and related sedimentary 
+rocks of the Kasalka Group (Diakow et al. 1997).  The Kasalka Group is a rock unit which 
+occurs locally south of Natalkuz fault. Widespread Eocene volcanic arc related extensional 
+felsic volcanic rocks and minor sedimentary rocks of the Ootsa Lake Group overlie the older 
+rocks and are themselves overlain on higher ridges by basalt and andesite of the Eocene 
+Endako Group (Diakow et al. 1997).   
+
+The Bowser Lake Group is poorly exposed in the southern Nechako Plateau, except within 
+Nechako uplift.  Nechako uplift is a structurally raised block bounded by the Natalkuz fault to 
+the north and the Blackwater fault to the south (Diakow and Webster, 1994). Both faults 
+juxtapose older rocks of the Stikine Terrane (e.g., Hazelton and Bowser Lake groups) with 
+younger Cretaceous and Eocene rocks of the Ootsa Lake and Endako groups. This uplift 
+provides a direct window through younger cover into older rocks (Diakow et al. 1997).The 
+regional geologic setting is illustrated in Figure 7-1. 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 21
+
+Figure 7-1 Regional geology 
+
+ 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 22
+
+7.2 Local and Property Geology 
+
+Quaternary glacial overburden, colluvial and fluvial deposits mask the majority of bedrock 
+within the project area. Outcrop on the Blackwater property is sparse and limited to the peak 
+and ridges of Mt. Davidson. Property geology is based on historic and 2009/2010 drill core 
+interpretations. Figure 7-2 presents a sketch map of the project geology.  Interpreted 
+geology is overlain on the regional geology as mapped by Diakow and Levson. The 
+coloured area represents the gold gram*metre interpretation of mineralization as known on 
+Feb 5, 2011. 
+
+Figure 7-2 Property geology 
+
+ 
+
+The Blackwater Gold Project is underlain by intercalated volcanic and volcaniclastic felsic to 
+intermediate lapilli and ash tuff, volcanic breccia, and andesitic flows.  These strata form a 
+local wedge of laterally discontinuous strata. The Blackwater wedge is thought to dip 
+generally northwest and is of limited aerial extent.  On the west the Blackwater wedge is 
+faulted against younger massive felsic volcanic rocks of the Ootsa Lake Group. The fault is 
+a north trending, presumed steep dipping structure. A similar relationship exists on the north 
+side where Blackwater host rocks are also juxtaposed next to Ootsa Lake Group strata 
+across an east-northeast trending fault. Although displacement across the faults is not 
+known, the relative age of rocks across the two faults implies that the Blackwater block is a 
+horst or high standing remnant west and north of which the Ootsa Lake Group has been 
+dropped.  
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 23
+
+East and south of the Blackwater block the relationship to the country rocks is unknown but 
+presumed stratigraphic. Likely the Blackwater strata are underlain by Bowser Lake Group 
+beds as at Capoose Lake. 
+
+The Blackwater wedge includes felsic to intermediate volcaniclastic rocks that comprise two 
+suites, massive grey and white lapilli tuff and massive dacite-andesite lapilli tuff.  The "black 
+and white" lapilli tuff is characterized by subrounded dark grey dacitic-andesitic clasts and 
+near-white rhyolite and siliceous clasts.  Clasts range to 20 cm, but are generally one to five 
+cm across. The volcanic clasts are extremely fine grained massive and presumed to be 
+felsic to intermediate composition based on colour and limited chemical data from historic 
+work. The tuff is mostly matrix supported and layering is absent. The tuff matrix is very fine 
+grained devitrified ash or recrystallized glass. Tuff fragments are welded to the groundmass 
+and the rocks break across fragments, not around them. Dark reddish-brown anhedral 
+equant, garnet crystal fragments up to a cm in diamter are seen as an accessory in the tuff 
+and locally make up a percent or two of the rock. XRF data on the garnets indicates they are 
+Mn-rich spessartine. 
+
+The dacite-andesite tuff is massive and characterized by its dark grey angular dacite-
+andesite lapilli in a dark grey very fine grained matrix of similar composition. Lapilli are up to 
+15 cm across, angular and not rounded; the rock is mainly clast supported. The dacite-
+andesite tuff fragments locally have oval quartz filled amygdules to 5 mm across and rarely 
+pale grey to white subhedral short stubby plagioclase lath ghosts to 5 mm long. The dacite-
+andesite tuff grades to dacite-andesite without fragments. This rock unit may be subvolcanic 
+or subaerial but lacks evidence of surface reworking. 
+
+Strata within the Blackwater wedge are laterally discontinuous over short distances. In 
+sections it is impossible to trace units between drill holes even where holes are only 50 
+metres apart. A general stratigraphic sequence for the Blackwater wedge remains elusive; 
+the dacite-andesite is generally below the lapilli tuff and felsic volcanic rocks. 
+
+Blackwater rocks are pervasively hydrofractured and silicified. Rocks are broken into small 
+(2 mm to 10 cm) highly angular fragments. The fragments are "welded" together by very fine 
+grained light to medium grey chalcedonic silica which fills the space between fragments. 
+Examples of repeated hydrofracturing and silicification are common implying that this was a 
+protracted process. The space generated by hydrofracturing varies widely even over 
+distances of a few centimetres. Thus in one place the angular fragments almost fit together 
+with only narrow cracks arating them. Centimetres away similar angular fragments have 
+wider zones of siliceous cement between them. The amount of silica introduced through 
+hydrofracturing and silicification may amount to 25% or more of the total volume of volcanic 
+rocks. Hydrofracturing was driven by fluid overpressure of late magmatic and/or post 
+magmatic fluid related to the volcanism. Silica between the fragments is thought to derive 
+from the same fluid and to have been deposited as a result of sudden sharp fluid pressure 
+decrease as a result of and immediately following hydrofracturing. 
+
+Although intensely hydrofractured, the Blackwater wedge lacks recognized large scale faults 
+or shear zones. Instead, extensive zones of broken rocks are seen in the mineralized zone. 
+Rocks are broken into angular pieces a centimeter or more across and tightly packed but 
+not cemented. Space between fragments may be occupied by a few tiny terminated clear 
+quartz crystals but generally it is empty. The zones grade laterally into unbroken rock and 
+are generally not bounded by planar surfaces. Fragment strain ratios are 1:1 and planar 
+surfaces such as joints, slickensides or fabric are lacking. Evidence for displacement across 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 24
+
+these broken sections is generally lacking and they appear to be simply broken zones. The 
+shape of broken zones is highly irregular. The volume of broken rocks may amount to 15% 
+of the volume of the Blackwater wedge. Broken zones are interpreted as late stage 
+hydrofactured zones when little silica remained in the fluid to cement fragments and/or when 
+the system was close enough to surface to allow fluid escape. 
+
+The minimum age of Blackwater volcanic rocks is inferred from a concordant U-Pb zircon 
+age of 67 Ma from a felsic dyke sampled from historic drill hole 92-35 (Friedman et al. 2001) 
+and from two K-Ar ages of 70.2 and 68.1 Ma on related rocks.  These authors interpret that 
+the ages represent the age of felsic magmatism and, more importantly, the age of precious 
+metal mineralization. This age falls within the mineralization age bracket of 74-66 Ma for the 
+Capoose prospect.  This age is suspect because it is unclear from current evidence what 
+was sampled to obtain these results. However, if this age does define the age of 
+mineralization the Blackwater and the Capoose properties likely represent mineralization 
+associated with the waning stages of Bulkley suite magmatism (Friedman et al. 2001); 
+volcanism and mineralization can be correlated with the Kasalka Group.  
+
+On the peak and ridges of Mt. Davidson are outcrops of massive felsic lapilli tuff assigned to 
+the Ootsa Lake Group. This rock is generally darker grey than rocks drilled on the property, 
+clasts are larger and plagioclase porphyry dominates. This unit is also characterized by 
+fresh, black stubby euhedral doubly terminated quartz crystals up to a mm across which 
+commonly make up a few percent of the rock.   
+
+At lower elevations near the Kluskus Road, bedded tuffs and sediments of the Jurassic 
+Naglico Formation are observed. 
+
+The lithologic codes used in the Blackwater drill database are presented in Table 7-1. Figure 
+7-3 shows representative rock photographs of Blackwater core specimens. 
+
+Table 7-1 Drill database lithologic codes 
+Code Description 
+
+OB Overburden 
+AND Andesite 
+LTFF Lapilli Tuff 
+SIL 5 Siliceous breccia/microbreccia no relict textures 
+SIL 2 Siliceous breccia/microbreccia relict textures 
+CR SIL Crumbled Siliceous 
+CR CHL Crumbled Chloritic 
+ATFF Ash Tuff 
+L/ATFF Lapilli/Ash Tuff 
+BWLT Black/White Lapilli Tuff 
+SED Argillite / Sandstone / Conglomerate 
+MAFVLC Mafic Volcanic 
+CHL Chloritic 
+RHY Rhyolite 
+D/AND Dacite/Andesite 
+XLTFF Crystal Tuff 
+DYKE Dykes (mainly felsic) 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 25
+
+Figure 7-3 Drill core photographs of representative lithologies 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 26
+
+8 DEPOSIT TYPE 
+
+What is known of the Blackwater deposit is exclusively from drilling. Host rocks are not 
+exposed but are thought to occupy a roughly 5 square kilometer area east of a north 
+trending fault which juxtaposes younger Ootsa Lake Group strata and south of a similar fault 
+north of which the same relationship is hypothesized.  
+
+Blackwater has the characteristics of, and is considered to be, a low sulphidation epithermal 
+gold-silver deposit. Mineralization occurs in stratigraphically chaotic volcanic rocks of Late 
+Cretaceous age emplaced through and on Hazelton Group strata. The rocks are extensively 
+hydrofractured and silicified and shot through with fine grained pyrite and other sulphide 
+minerals. Gold is mainly associated with the sulphide minerals as gold grains between 5 and 
+50 microns across. 
+
+Figure 8-1 illustrates the hypothesized relationship of the mineralized volcanic rocks to 
+surrounding strata.  
+
+Figure 8-1 Cross section of conceptual model 
+
+ 
+
+9 MINERALIZATION 
+
+A total of 21 polished thin sections were prepared from samples taken from 2009 drill core 
+and were submitted to Vancouver Petrographics Ltd.  The sections were described and 
+interpreted by Dr. John Payne by reflected and transmitted light petrographic methods.  
+Sample selection was based primarily on gaining a representative suite containing; 1) the 
+dominant lithologies and alteration assemblages described and used in core logging and, 2) 
+all the different styles of sulphide mineralization observed with different gold grades. The 
+purpose of this study was to understand the nature of the host volcanic and volcaniclastic 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 27
+
+sequence and the nature of gold and base metal mineralization.  This study was ultimately 
+intended to assist with lithologic correlation between drill holes.   
+
+A second petrographic study of 21 drill core samples from 2010 drilling was carried out by 
+Vancouver Petrographics Ltd who report as follows: 
+
+"The samples submitted can be subdivided into five different suites. The first suite of 
+samples are volcaniclastic lithologies and the nomenclature used in this report 
+follows the suggestions reported in McPhie et. al. (1993). The components of the 
+deposits are generally poorly sorted, polymict lithic fragments with a grain-size 
+ranging from mudstone to breccia. Only sample 20 showed evidence of volcanic 
+derived lithic fragments, such as microstructural evidence of the compaction of the 
+lithic fragments under high temperature conditions and possibly devitrified 
+spherulites. In the same sample, the coexistence of rounded and angular fragments 
+indicates syn-eruptive re-sedimentation of primary deposits. 
+
+The second group of samples show a more intense alteration and they are possibly 
+the altered equivalent of the volcaniclastic lithologies described above. Alteration 
+products include clay, quartz and white mica, albite, chlorite and tourmaline 
+
+The third group of samples show flow microstructures and a possibly rhyo-dacitic 
+composition.  
+
+The fourth group are porphyritic andesites with differing alteration products. One 
+sample is altered by a biotite-white mica-quartz-pyrrhotite-chalcopyrite-sphalerite 
+assemblage and another sample is altered by a weak to subtle clay alteration." 
+
+Material from BW 59 was tested by Inspectorate Labs Metallurgical Division and reported by 
+Karla Clayton. She reports that: 
+
+"The principle (sic) minerals observed in the BW-59 Drill Hole Composite were 
+non-opaque phases (90.02% average by optical analysis), which X-ray diffraction 
+analysis indicates consist primarily of quartz (39.1% average), micas (27.9% 
+average), orthoclase (17.0% average), clays (8.3% average), and minor calcium 
+sulfates (1.8% average) and carbonates (0.5% average). The divergence in 
+agreement between optical and XRD analysis is due mainly to the inability of 
+XRD to detect amorphous limonite and subsequent overstating of the remnant 
+phases; XRD analysis reflects only those components that are crystalline. Pyrite 
+(3.96% average), iron oxides (limonite, hematite, magnetite and goethite, 3.88% 
+average) and pyrrhotite (1.14% average) were the principle opaque phases. Ore 
+minerals included sphalerite (0.77% average), chalcopyrite (0.23% average), 
+cubanite (0.03% average), and traces of tetrahedrite, chalcocite and dioptase. 
+Chalcopyrite and cubanite were occasionally tightly intergrown. Sphalerite rarely 
+alters to bianchite. Principle other minerals included tetrahedrite, chalcocite, 
+dioptase, rutile and ilmenite (traces of each), with a few particles of graphite 
+observed. Dioptase and bianchite are only partially observable by reflected light 
+microscopy, and a transmitted light study would better quantify their presence." 
+
+Twenty-one samples were submitted to Eco Tech labs in 2009 for whole rock 
+lithogeochemical analyses.  The aim of this study was to constrain the geochemical 
+fingerprint of the host volcanic rocks by providing insight into the tectonic affinity, 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 28
+
+geochemical classification, and petrological evolution.  Sample selection was primarily 
+based on gaining a representative suite of volcanic rock types observed during the 2009 drill 
+program.  Below is a brief summary of an internal report that details the results of the 
+lithogeochemistry study. 
+
+Owing to the intensity of silica and clay alteration only immobile trace elements (e.g., Ti, Y, 
+Nb, Th, Zr etc) are used for volcanic rock classification and geochemical modeling.  For 
+example, the classic TAS diagram plots Blackwater rocks as andesite, dacites, and rhyolites 
+because of increasing SiO2 concentrations.  On the basis of lithologic observation we know 
+that SiO2 is largely secondary therefore discriminating on the basis of SiO2 is highly 
+suspect. Blackwater volcanic rocks are geochemically classified as andesites on the basis of 
+a revised Zz/TiO2 vs. Nb/Y plot (Figure 9-1) using only immobile elements. The trend 
+observed in the TAS diagram is likely a result of silica alteration.  On a chondrite normalized 
+REE (rare earth element) spider diagram (Figure 9-1) a pronounced negative Eu anomaly is 
+observed in most samples and indicates that feldspar was conserved during melting and 
+resides in the source.  This has implications for the mineralogy of the source and therefore 
+the potential of a feldspar porphyritic source is plausible.  Also, the fractionated pattern 
+observed in the plot (e.g., depletion of heavy REEs to light REEs) is indicative of garnet 
+residing is the source as heavy REEs preferentially reside in garnet during partial melting.  
+Garnet is commonly observed as clasts in Blackwater volcaniclastic rocks and based on 
+geochemistry it is likely that they originated from the source.  The commonly used tectonic 
+discrimination diagrams for felsic volcanic rocks (e.g. Figure 9-1; Rb vs. Y+Nb diagram) plot 
+Blackwater rocks as volcanic arc related.  These diagrams have little use for distinguishing 
+volcanic rocks in this area as all volcanic rocks of Jurassic to Eocene age have an arc 
+affinity (Diakow et al. 1997).  Furthermore, there has been little geochemistry published in 
+literature on volcanic rocks in the Nechako Plateau therefore distinguishing between 
+Jurassic and Cretacous/Eocene volcanism on the basis of this limited geochemistry is not 
+presently attempted. 
+
+In a plot of Au vs. SiO2 (Figure 9-1) it is observed that rocks with the highest SiO2 content 
+are not necessarily correlated with higher gold content.  The samples that yielded the 
+highest gold assays are mostly confined to SiO2 concentrations of 63.5-66%.  This indicates 
+that gold precipitation is likely associated with hydrothermal alteration but not necessarily 
+restricted to the most intense phase of alteration.  This implies that the primary target at 
+Blackwater is also proximal to the siliceous pipes where the intensity of silica alteration is 
+somewhat weaker. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 29
+
+Figure 9-1 Lithogeochemistry plots 
+
+ 
+
+Alteration assemblages at Blackwater indicate neutral pH fluid at mesothermal temperatures 
+as illustrated in Figure 9-2. Sampling for this work was done by Andre Panteleyev in 2009 
+and the PIMA work was done by Kim Heberlein. The diagram is after Corbett and Leach 
+(1997) 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 30
+
+Figure 9-2 Alteration assemblages 
+
+ 
+
+ 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 31
+
+10 EXPLORATION 
+
+The Blackwater Gold Project was discovered in 1973. Since then a wealth of data has been 
+collected on the property by the various operators. These data are publicly available where 
+filed for assessment. For example, complete soil geochemical data were collected over the 
+property. Ground total magnetic field data were also collected. A pole-dipole IP survey was 
+carried out as part of the pre Company work. These data have been digitized, synthesized 
+and reinterpreted and are used to help guide the current work on the property. 
+
+10.1 Geophysical Surveys 
+
+During 2010 the Company contracted Quantec Geoscience Ltd of Toronto to conduct a 17.5 
+line kilometer deep focus IP survey on five 3.5 km long north-south lines spaced 400 m 
+apart. Results of the survey have been reported and interpreted in terms of drill data. 
+Excellent correspondence is seen between chargeability and known mineralization and the 
+IP data helps guide the drilling. 
+
+Figure 10-1 is a view looking northwest across the IP survey area showing chargeability 
+variation across the project.  Figure 10-2 is a plot of the chargeability data through the 
+centre of the mineralized zone.  The high near-surface zone between 2500 and 3500N 
+coincides with the gold mineralization. 
+
+Figure 10-1 IP Chargeability - 2010 Quantec survey 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 32
+
+Figure 10-2  N-S section chargeability data near centre of the mineralized zone 
+
+ 
+
+ 
+
+11 DRILLING 
+
+The Company began drilling at Blackwater in August 2009 and during that year drilled 18 
+holes for a total 3,368.58 metres. During 2010 the Company drilled a further 58 holes for a 
+total 21,585.56 metres as detailed in the Table 11-1. Following completion of work 
+requirement for the option agreements on the Davidson, Dave and Jarrit claims the 2010 
+drilling focused on the Dave and Jarrit claims.  The drill hole layout is illustrated in Figure 
+11-1. 
+
+Table 11-1 Company 2009-2010 drill hole summary 
+DDH EAST NORTH ELEV (DEM) TD YEAR 
+
+BW 42 375682.83 5893212.29 1535.31 254.20 2009 
+BW 43 375727.04 5893130.29 1543.07 307.54 2009 
+BW 44 375591.81 5893014.61 1568.47 181.66 2009 
+BW 45 375587.12 5892875.17 1583.78 186.70 2009 
+BW 46 375591.00 5892746.00 1601.30 215.50 2009 
+BW 47 375426.74 5892772.90 1615.39 102.47 2009 
+BW 48 375295.69 5892956.22 1593.24 159.11 2009 
+BW 49 375155.80 5892976.10 1589.99 149.96 2009 
+BW 50 375274.85 5893100.82 1576.92 113.39 2009 
+BW 51 375088.91 5893098.97 1564.89 123.14 2009 
+BW 52 374897.49 5892947.88 1548.84 146.91 2009 
+BW 53 374892.84 5892945.39 1560.05 165.20 2009 
+BW 54 375389.64 5893297.97 1550.00 143.87 2009 
+BW 55 375582.00 5893245.34 1549.00 143.87 2009 
+BW 56 375687.32 5893401.27 1529.00 118.57 2009 
+BW 57 375588.87 5892747.82 1604.38 259.70 2009 
+BW 58 375311.32 5892805.27 1603.19 260.60 2009 
+BW 59 375427.12 5892957.49 1596.32 588.87 2009 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 33
+
+DDH EAST NORTH ELEV (DEM) TD YEAR 
+
+BW 60 375498.5 5892947.4 1590.2 422.45 2010 
+BW 61 375494.8 5893046.6 1594.2 355.40 2010 
+BW 62 375494.0 5893036.1 1578.6 366.98 2010 
+BW 63 375347.7 5892991.4 1585.4 447.14 2010 
+BW 64 375582.7 5892752.7 1601.0 306.93 2010 
+BW 65 375586.5 5892751.9 1608.9 297.48 2010 
+BW 66 375204.8 5892853.8 1598.0 427.33 2010 
+BW 67 375204.0 5892846.8 1590.4 378.69 2010 
+BW 68 375203.8 5892852.8 1598.2 431.44 2010 
+BW 69 375609.0 5892612.5 1625.4 290.27 2010 
+BW 70 374959.4 5892854.2 1583.7 289.86 2010 
+BW 71 375004.9 5892860.5 1585.2 348.39 2010 
+BW 72 375092.6 5892854.9 1595.9 362.58 2010 
+BW 73 375059.0 5892845.4 1594.2 369.42 2010 
+BW 74 375797.2 5892746.8 1589.2 261.51 2010 
+BW 75 375252.2 5892850.4 1594.6 529.74 2010 
+BW 76 375747.0 5892745.7 1592.8 377.95 2010 
+BW 77 375299.8 5892852.8 1598.7 505.36 2010 
+BW 78 375700.8 5892745.5 1598.9 332.84 2010 
+BW 79 375646.8 5892745.4 1597.0 362.1 2010 
+BW 80 375349.3 5892846.4 1594.4 367.59 2010 
+BW 81 375796.3 5892703.4 1595.5 321.11 2010 
+BW 82 375398.2 5892849.2 1606.0 426.1 2010 
+BW 83 375753.6 5892709.3 1601.5 278.89 2010 
+BW 84 375451.7 5892853.9 1610.4 392.13 2010 
+BW 85 375496.1 5892840.7 1604.3 453.54 2010 
+BW 86 375696.7 5892696.6 1605.5 303.89 2010 
+BW 87 375553.7 5892845.6 1592.6 456.59 2010 
+BW 88 375646.3 5892694.2 1610.7 342.29 2010 
+BW 89 375605.0 5892840.8 1592.2 395.63 2010 
+BW 90 375894.4 5892748.0 1569.2 314.9 2010 
+BW 91 375549.1 5892797.8 1600.9 474.88 2010 
+BW 92 375650.00 5892850.00 1598.36 377.3 2010 
+BW 93 375300.00 5892750.00 1614.82 401.73 2010 
+BW 94 375350.00 5892750.00 1615.92 346.86 2010 
+BW 95 375000.00 5892750.00 1607.55 288.9 2010 
+BW 96 375850.00 5892850.00 1581.55 379.78 2010 
+BW 97 375500.00 5892750.00 1620.78 365.15 2010 
+BW 98 375100.00 5892750.00 1610.30 435.25 2010 
+BW 99 375750.00 5892850.00 1592.60 346.86 2010 
+BW 100 376001 5891548 1682 415.75 2010 
+BW 101 375140 5893331 1536 98.15 2010 
+BW 102 375050 5892800 1600.30 349.91 2010 
+BW 103 375150.00 5892800.00 1605.30 389.53 2010 
+BW 104 375950.00 5892600.00 1621.70 261.21 2010 
+BW 105 375250.00 5892800.00 1610.90 429.16 2010 
+BW 106 375800.00 5892800.00 1592.20 438 2010 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 34
+
+DDH EAST NORTH ELEV (DEM) TD YEAR 
+
+BW 107 375500.00 5892650.00 1630.50 450.49 2010 
+BW 108 375750.00 5892800.00 1598.30 504.44 2010 
+BW 109 375450.0 5892800.0 1615.00 450.19 2010 
+BW 110 375600.0 5892650.00 1630.00 263.04 2010 
+BW 111 375650.0 5892800.0 1605.70 413.92 2010 
+BW 112 376000.0 5892750.00 1591.90 415.44 2010 
+BW 113 375600.0 5892800.0 1611.60 465.73 2010 
+BW 114 375500.0 5892800.0 1605.70 383.52 2010 
+BW 115 375850.0 5892800.0 1589.90 315.16 2010 
+BW 116 375700.0 5892800.0 1603.50 356.01 2010 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 35
+
+Figure 11-1 Drill hole plan 
+
+  
+
+The tables below list the significant intervals intercepted during the 2009/2010 drill programs based 
+on a cut-off grade of 0.3 g/t Au.  The minimum width reported is 10m and up to 5m internal dilution 
+was accepted.  The mineralized zone is irregular and not tabular in shape and true thickness cannot 
+be determined and was not used as a factor in the resource model. 
+
+Table 11-2 Significant intercepts 2009 drilling 
+Hole From To Width Au g/t Au Cap 15 g/t Ag g/t 
+
+Ag Cap 
+50 g/t 
+
+BW0042 62.00 94.00 32.00 3.254 3.254 9.7 9.7 
+BW0042 119.00 140.00 21.00 0.546 0.546 2.7 2.7 
+BW0042 149.00 160.00 11.00 0.384 0.384 2.0 2.0 
+BW0043 11.00 115.00 104.00 0.847 0.847 5.9 5.9 
+BW0043 161.00 180.00 19.00 1.421 1.257 5.6 5.6 
+BW0043 254.00 298.00 44.00 0.756 0.756 3.1 3.1 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 36
+
+Hole From To Width Au g/t Au Cap 15 g/t Ag g/t 
+Ag Cap 
+50 g/t 
+
+BW0044 59.00 116.00 57.00 0.592 0.592 2.5 2.5 
+BW0044 122.00 175.00 53.00 1.213 0.780 2.8 2.8 
+BW0045 108.00 126.00 18.00 0.517 0.517 3.2 3.2 
+BW0045 141.00 186.50 45.50 0.516 0.516 2.2 2.2 
+BW0046 8.25 22.00 13.75 0.652 0.652 16.0 8.6 
+BW0046 28.00 146.00 118.00 1.058 1.058 6.1 6.1 
+BW0046 163.00 203.00 40.00 1.903 1.821 2.8 2.8 
+BW0047 5.70 31.00 25.30 2.844 2.844 7.8 7.8 
+BW0047 38.00 56.00 18.00 0.303 0.303 3.1 3.1 
+BW0048 13.00 39.00 26.00 0.729 0.729 2.6 2.6 
+BW0048 40.00 159.00 119.00 1.404 1.333 5.6 5.5 
+BW0049 16.00 26.00 10.00 0.459 0.459 6.3 6.3 
+BW0049 77.00 104.00 27.00 0.488 0.488 6.9 6.2 
+BW0054 95.00 143.87 48.87 0.379 0.379 2.6 2.6 
+BW0055 36.00 65.00 29.00 1.991 1.825 5.7 5.7 
+BW0057 11.13 156.00 144.87 0.973 0.973 7.8 7.8 
+BW0058 139.00 149.00 10.00 0.296 0.296 3.6 3.6 
+BW0058 156.00 171.00 15.00 0.224 0.224 1.9 1.9 
+BW0058 203.00 224.00 21.00 0.411 0.411 2.2 2.2 
+BW0058 241.00 260.00 19.00 0.814 0.814 2.1 2.1 
+BW0059 14.00 56.00 42.00 0.526 0.526 1.6 1.6 
+BW0059 61.00 248.00 187.00 1.651 1.010 2.6 2.0 
+
+Table 11-3 Significant intercepts 2010 drilling 
+Hole From To Width Au g/t Au Cap 15 g/t Ag g/t 
+
+Ag Cap 
+50 g/t 
+
+BW0060 54.00 98.00 44.00 0.539 0.539 1.3 1.3 
+BW0060 108.00 124.00 16.00 0.310 0.310 1.7 1.7 
+BW0060 154.00 176.00 22.00 1.117 1.081 3.4 3.4 
+BW0060 239.00 256.00 17.00 0.517 0.517 1.3 1.3 
+BW0060 289.00 326.00 37.00 0.450 0.450 1.1 1.1 
+BW0061 50.00 102.00 52.00 0.453 0.453 7.1 7.1 
+BW0061 113.00 126.00 13.00 0.365 0.365 2.0 2.0 
+BW0061 159.00 232.00 73.00 0.548 0.548 0.7 0.7 
+BW0061 239.00 297.00 58.00 0.433 0.433 1.5 1.5 
+BW0062 50.00 64.00 14.00 0.354 0.354 4.3 4.3 
+BW0062 101.00 133.00 32.00 1.055 1.055 3.2 3.2 
+BW0062 139.00 218.00 79.00 1.248 1.164 1.4 1.4 
+BW0062 243.00 258.00 15.00 0.347 0.347 4.3 4.3 
+BW0063 33.00 50.00 17.00 0.598 0.598 3.1 3.1 
+BW0063 58.00 74.00 16.00 1.543 1.543 3.7 3.7 
+BW0063 101.00 346.00 245.00 0.794 0.763 3.4 3.4 
+BW0065 54.00 169.00 115.00 1.287 1.219 7.9 6.5 
+BW0065 207.00 224.00 17.00 0.878 0.878 7.1 7.1 
+BW0064 6.71 82.00 75.29 1.583 1.511 10.1 9.8 
+BW0064 105.00 142.00 37.00 1.003 1.003 3.8 3.8 
+BW0064 170.00 267.00 97.00 2.498 2.289 7.6 5.1 
+BW0065 54.00 139.00 85.00 1.486 1.392 9.7 7.0 
+BW0065 207.00 224.00 17.00 0.878 0.878 7.1 7.1 
+BW0066 23.00 93.00 70.00 0.928 0.928 2.8 2.8 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 37
+
+Hole From To Width Au g/t Au Cap 15 g/t Ag g/t 
+Ag Cap 
+50 g/t 
+
+BW0066 231.00 252.00 21.00 0.516 0.516 3.4 3.4 
+BW0067 25.00 49.00 24.00 0.536 0.536 2.5 2.5 
+BW0067 130.00 184.00 54.00 0.816 0.816 3.0 3.0 
+BW0067 191.00 204.00 13.00 0.302 0.302 2.6 2.6 
+BW0068 51.00 142.00 91.00 2.902 2.892 9.6 8.9 
+BW0068 158.00 272.00 114.00 0.595 0.595 3.1 3.1 
+BW0069 179.00 213.00 34.00 0.611 0.611 5.9 5.9 
+BW0070 16.00 31.00 15.00 0.767 0.767 7.0 7.0 
+BW0070 180.00 209.00 29.00 2.141 2.141 2.8 2.8 
+BW0070 228.00 289.86 61.86 0.706 0.706 1.0 1.0 
+BW0071 76.00 283.00 207.00 1.715 1.666 4.5 4.5 
+BW0072 31.00 58.00 27.00 0.427 0.427 6.8 6.8 
+BW0072 71.00 148.00 77.00 0.552 0.552 2.4 2.4 
+BW0072 278.00 306.00 28.00 0.901 0.901 6.2 6.2 
+BW0072 311.00 362.58 51.58 0.828 0.828 5.8 5.8 
+BW0073 49.00 143.00 94.00 0.746 0.746 2.4 2.4 
+BW0073 205.00 222.00 17.00 0.501 0.501 4.1 4.1 
+BW0073 231.00 245.00 14.00 0.629 0.629 4.4 4.4 
+BW0073 274.00 367.00 93.00 0.776 0.776 4.5 4.5 
+BW0074 163.00 193.00 30.00 2.752 2.752 15.7 15.7 
+BW0074 206.00 225.00 19.00 1.027 1.027 4.3 4.3 
+BW0075 68.00 252.00 184.00 1.573 1.517 9.1 9.1 
+BW0076 99.00 144.00 45.00 0.821 0.821 4.1 4.1 
+BW0076 149.00 192.00 43.00 5.489 2.957 8.6 8.5 
+BW0077 116.00 145.00 29.00 0.548 0.548 3.0 3.0 
+BW0077 180.00 192.00 12.00 0.326 0.326 10.3 10.3 
+BW0078 98.00 112.00 14.00 1.346 1.346 5.6 5.6 
+BW0078 126.00 143.00 17.00 0.831 0.831 5.1 5.1 
+BW0078 176.00 238.00 62.00 2.018 1.737 13.6 11.3 
+BW0079 21.00 72.00 51.00 1.290 1.290 10.1 10.1 
+BW0079 103.00 124.00 21.00 0.774 0.774 7.2 7.0 
+BW0079 144.00 173.00 29.00 0.452 0.452 2.1 2.1 
+BW0079 195.00 301.00 106.00 0.959 0.955 3.6 3.6 
+BW0080 13.00 42.00 29.00 1.072 1.072 3.7 3.7 
+BW0080 146.00 164.00 18.00 0.418 0.418 2.2 2.2 
+BW0081 35.00 113.00 78.00 0.814 0.814 7.2 7.2 
+BW0081 127.00 176.00 49.00 1.137 1.137 11.7 11.5 
+BW0081 183.00 220.00 37.00 1.645 1.366 8.7 8.7 
+BW0082 2.40 32.00 29.60 0.870 0.870 5.8 5.8 
+BW0082 42.00 55.00 13.00 0.798 0.798 4.5 4.5 
+BW0082 120.00 147.00 27.00 0.812 0.812 4.8 4.8 
+BW0082 343.00 356.00 13.00 0.351 0.351 7.8 7.8 
+BW0083 58.00 134.00 76.00 1.627 1.454 6.5 6.5 
+BW0083 142.00 196.00 54.00 1.060 1.060 5.1 5.1 
+BW0083 208.00 224.00 16.00 0.307 0.307 2.9 2.9 
+BW0084 4.00 34.00 30.00 0.818 0.818 2.9 2.9 
+BW0084 130.00 144.00 14.00 0.817 0.817 2.7 2.7 
+BW0084 153.00 163.00 10.00 0.725 0.725 2.2 2.2 
+BW0085 4.00 28.00 24.00 0.909 0.909 3.2 3.2 
+BW0085 56.00 70.00 14.00 0.429 0.429 6.6 6.6 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 38
+
+Hole From To Width Au g/t Au Cap 15 g/t Ag g/t 
+Ag Cap 
+50 g/t 
+
+BW0085 97.00 113.00 16.00 1.416 1.372 4.3 4.3 
+BW0085 192.00 206.00 14.00 0.398 0.398 14.4 13.8 
+BW0085 271.00 293.00 22.00 0.499 0.499 7.9 7.3 
+BW0086 89.00 136.00 47.00 0.510 0.510 5.2 5.2 
+BW0086 143.00 161.00 18.00 0.883 0.883 8.8 8.8 
+BW0086 274.00 294.00 20.00 0.321 0.321 4.4 4.4 
+BW0087 47.00 65.00 18.00 0.519 0.519 5.0 5.0 
+BW0087 72.00 156.00 84.00 3.398 2.831 4.1 4.1 
+BW0087 303.00 316.00 13.00 4.329 4.329 13.4 13.4 
+BW0088 155.00 168.00 13.00 0.379 0.379 13.5 13.5 
+BW0089 19.00 48.00 29.00 0.955 0.955 7.6 7.6 
+BW0089 61.00 74.00 13.00 0.582 0.582 4.2 4.2 
+BW0089 80.00 102.00 22.00 1.406 1.292 4.1 4.1 
+BW0089 108.00 124.00 16.00 0.399 0.399 3.2 3.2 
+BW0090 71.00 219.00 148.00 1.772 1.650 8.5 8.3 
+BW0090 252.00 291.00 39.00 2.986 2.665 8.2 8.2 
+BW0091 7.00 27.00 20.00 8.292 5.002 31.9 18.4 
+BW0091 34.00 179.00 145.00 2.568 2.124 8.2 8.2 
+BW0091 293.00 319.00 26.00 0.709 0.709 63.1 40.4 
+BW0091 436.00 452.00 16.00 0.529 0.529 1.3 1.3 
+BW0092 27.00 52.00 25.00 0.707 0.707 12.2 12.2 
+BW0092 108.00 129.00 21.00 0.811 0.811 14.7 12.0 
+BW0092 214.00 246.00 32.00 0.946 0.946 4.6 4.6 
+BW0092 297.00 315.00 18.00 0.525 0.525 5.4 5.4 
+BW0093 167.00 181.00 14.00 0.542 0.542 1.3 1.3 
+BW0094 3.05 21.00 17.95 3.869 1.390 9.6 8.2 
+BW0094 42.00 52.00 10.00 0.530 0.530 0.9 0.9 
+BW0094 186.00 197.00 11.00 0.336 0.336 0.8 0.8 
+BW0094 329.00 346.86 17.86 0.653 0.653 2.9 2.9 
+BW0095 105.00 116.00 11.00 1.711 1.711 2.3 2.3 
+BW0095 124.00 139.00 15.00 0.508 0.508 1.8 1.8 
+BW0095 194.00 204.00 10.00 1.274 1.274 2.4 2.4 
+BW0097 3.00 53.00 50.00 0.864 0.864 5.4 5.4 
+BW0097 74.00 195.00 121.00 0.842 0.842 5.4 5.4 
+BW0098 130.00 165.00 35.00 0.553 0.553 3.5 3.5 
+BW0098 183.00 205.00 22.00 0.555 0.555 4.2 4.2 
+BW0099 127.00 137.00 10.00 1.265 1.265 12.7 12.7 
+BW0099 185.00 195.00 10.00 0.478 0.478 1.4 1.4 
+BW0099 239.00 254.00 15.00 0.507 0.507 1.2 1.2 
+BW0102 58.00 68.00 10.00 0.454 0.454 0.8 0.454 
+BW0102 202.00 242.00 40.00 0.501 0.501 1.8 0.501 
+BW0102 291.00 328.00 37.00 1.202 1.202 9.4 1.202 
+BW0103 40.00 100.00 60.00 0.640 0.640 1.7 1.7 
+BW0103 107.00 119.00 12.00 0.555 0.555 9.0 9.0 
+BW0103 129.00 158.00 29.00 1.510 1.510 3.5 3.5 
+BW0103 160.00 176.00 16.00 0.586 0.586 5.8 5.8 
+BW0103 177.00 192.00 15.00 0.938 0.938 11.9 11.9 
+BW0103 194.00 262.00 68.00 2.314 1.353 8.5 8.5 
+BW0103 332.00 364.00 32.00 2.395 1.267 11.9 11.9 
+BW0105 35.00 36.00 1.00 0.320 0.320 2.0 2.0 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 39
+
+Hole From To Width Au g/t Au Cap 15 g/t Ag g/t 
+Ag Cap 
+50 g/t 
+
+BW0105 51.00 78.00 27.00 0.620 0.620 4.4 4.4 
+BW0105 120.00 148.00 28.00 0.386 0.386 2.6 2.6 
+BW0106 42.00 78.00 36.00 2.102 2.102 15.2 14.6 
+BW0106 83.00 111.00 28.00 1.736 1.665 18.8 14.4 
+BW0106 112.00 124.00 12.00 18.780 6.488 53.8 28.5 
+BW0106 126.00 155.00 29.00 0.632 0.632 9.3 9.3 
+BW0106 158.00 173.00 15.00 0.421 0.421 2.6 2.6 
+BW0106 177.00 202.00 25.00 0.539 0.539 3.9 3.9 
+BW0106 220.00 247.00 27.00 0.954 0.954 4.3 4.3 
+BW0107 87.00 117.00 30.00 0.357 0.357 2.2 2.2 
+BW0107 134.00 186.00 52.00 0.829 0.829 4.8 4.8 
+BW0107 195.00 281.00 86.00 0.803 0.803 3.6 3.6 
+BW0107 288.00 314.00 26.00 0.367 0.367 2.6 2.6 
+BW0107 325.00 339.00 14.00 0.576 0.576 1.9 1.9 
+BW0108 45.00 58.00 13.00 0.844 0.844 7.9 7.9 
+BW0108 66.00 86.00 20.00 1.756 1.756 10.6 10.6 
+BW0108 141.00 152.00 11.00 0.825 0.825 2.3 2.3 
+BW0108 177.00 212.00 35.00 1.109 1.109 4.1 4.1 
+BW0108 251.00 267.00 16.00 0.702 0.702 3.7 3.7 
+BW0109 28.00 39.00 11.00 0.346 0.346 5.9 5.9 
+BW0109 63.00 74.00 11.00 0.310 0.310 3.1 3.1 
+BW0109 81.00 105.00 24.00 0.938 0.938 4.4 4.4 
+BW0109 129.00 157.00 28.00 3.986 3.829 5.5 5.5 
+BW0110 3.00 57.00 54.00 0.463 0.463 6.1 5.7 
+BW0110 137.00 155.00 18.00 1.036 1.036 4.7 4.7 
+BW0111 43.00 62.00 19.00 0.617 0.617 14.1 14.1 
+BW0111 74.00 96.00 22.00 0.415 0.415 4.1 4.1 
+BW0111 155.00 168.00 13.00 0.622 0.622 3.3 3.3 
+BW0111 174.00 189.00 15.00 0.420 0.420 2.4 2.4 
+BW0111 202.00 245.00 43.00 0.584 0.584 4.1 4.1 
+BW0112 97.00 129.00 32.00 0.606 0.606 5.1 5.1 
+BW0112 142.00 184.00 42.00 2.555 2.401 9.7 9.5 
+BW0112 194.00 214.00 20.00 0.666 0.666 4.0 4.0 
+BW0112 230.00 241.00 11.00 0.461 0.461 0.5 0.5 
+BW0113 29.00 82.00 53.00 1.889 1.257 9.0 7.1 
+BW0113 85.00 110.00 25.00 0.571 0.571 8.4 8.3 
+BW0113 125.00 149.00 24.00 1.070 1.070 5.3 5.3 
+BW0113 155.00 194.00 39.00 1.000 1.000 7.4 7.4 
+BW0113 341.00 360.00 19.00 4.295 2.769 10.7 10.6 
+BW0114 6.00 44.00 38.00 2.208 2.182 11.1 11.0 
+BW0114 70.00 84.00 14.00 0.503 0.503 2.0 2.0 
+BW0114 91.00 175.00 84.00 2.549 1.596 3.1 3.1 
+BW0114 182.00 193.00 11.00 0.248 0.248 2.6 2.6 
+BW0114 199.00 212.00 13.00 0.741 0.741 3.4 3.4 
+BW0114 300.00 314.00 14.00 0.624 0.624 3.1 3.1 
+BW0115 125.00 169.00 44.00 1.754 1.503 8.8 8.8 
+BW0115 254.00 273.00 19.00 0.769 0.769 2.8 2.8 
+BW0115 290.00 306.00 16.00 1.986 1.633 4.6 4.6 
+BW0116 6.00 50.00 44.00 0.686 0.686 5.0 5.0 
+BW0116 54.00 72.00 18.00 1.032 1.032 10.4 10.4 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 40
+
+Hole From To Width Au g/t Au Cap 15 g/t Ag g/t 
+Ag Cap 
+50 g/t 
+
+BW0116 79.00 97.00 18.00 2.631 2.631 14.1 14.1 
+BW0116 116.00 128.00 12.00 8.962 4.062 9.0 9.0 
+
+ 
+
+12 SAMPLING METHOD AND APPROACH 
+
+Drill core is transported from drill to camp by all-terrain vehicle.  Core is logged in a specially 
+built core handling facility. Logging includes geotechnical, magnetic susceptibility, specific 
+gravity and portable XRF chemistry measurements at regular intervals. Lithology is logged 
+and the core prepared for systematic sampling of one metre intervals. Core sawing and 
+sampling are the last steps in core handling. 
+
+Logged data is inserted into LogChief in tables designed specifically for this project.  
+Logging was carried out by Chris Leslie, Riyan Abraham, Nimmi Dhada, Scott McBride and 
+Todd Wikjord.  Chemical composition was measured directly on core using a portable XRF 
+(X-ray fluorescence) analyser (Niton Xl3t) at 25cm intervals.  This work was performed by 
+Brian Kornichuk, Geoff Ranson, Jonathan Lodge, and Aaron McMillan.  Magnetic 
+susceptibility and conductivity were measured at 10 cm increments along the core with a 
+handheld conductivity and magnetic susceptibility meter (GDD MPP-EM2S+Probe).  This 
+data was stored internally and was downloaded to an excel spread sheet. Brian Kornichuk, 
+Geoff Ranson, Jonathan Lodge, and Aaron McMillan performed this task. 
+
+Recovery and RQD (Rock Quality Designation) were measured and recorded in LogChief.  
+An RQD measurement is the cumulative length of core pieces longer than 10cm in a run 
+divided by the total length of that run.  Recovery and RQD measurements were performed 
+by geotechnical staff including, Brian Kornichuk, Geoff Ranson, Jonathan Lodge, and Aaron 
+McMillan.  Core recovery for the 2009/2010 drilling averaged 88% and the median core 
+recovery was 95%.  Poor core recovery often occurs in the crumbled chloritic and crumbled 
+siliceous units.  Together, these lithologies account for about 7% of the total drill meterage 
+and it is not believed that this materially impacts the accuracy and reliability of the results. 
+
+13 SAMPLE PREPARATION, ANALYSES AND SECURITY 
+
+Sampling for analysis is done systematically on one meter sample composites. Intervals are 
+measured and marked on the core boxes where sample tags are stapled at the beginning of 
+each interval.  Core is sawed in half lengthwise using a diamond saw. Half the core is 
+placed in standard heavy poly sample bags with the pre-printed sample tag in a zip log 
+baggy; the whole is then closed with zip ties. The remaining half core is kept for reference in 
+the core box stored on site at the Company's camp.  Core sawing and sampling were 
+performed by Company employees Devin Grinder, Tom Morrison and Kerry Bunnah. 
+
+A standard sample, a blank sample, or a duplicate sample is inserted into the sample 
+stream every tenth sample. The certified reference standards used were purchased from 
+supplied by CDN Resource Laboratories Ltd., an independent laboratory in Langley, BC. 
+The standards were selected to match the precious metal content range and material type at 
+Blackwater as closely as possible at the start of the exploration program.  However, the 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 41
+
+certified gold grades of the standards used in the 2010 program were significantly higher 
+than the average grade of around 1 g/t and this should be corrected in future programs. 
+
+For shipment to the lab, four samples are placed in rice bags with sample ID numbers on 
+each bag and sealed with numbered banker's security tags.  Between preparation and 
+shipment, a period up to four days, the rice bags with samples are stored at site in a secure 
+area behind the core cutting area. 
+
+Samples are transported to Prince George by truck. The driver waits with the samples in the 
+truck until pick up for shipment by ACE Courier.  Samples including the blanks, standards 
+and duplicates, are shipped by bonded courier to Eco Tech Stewart Group Laboratories 
+("Eco Tech") in Kamloops, BC. 
+
+Eco Tech was used as the primary analytical laboratory and has an ISO 9001:2008 
+certification.  Acme Analytical Laboratories Ltd., an ISO 9001 registered facility located in 
+Vancouver, BC is used as a secondary laboratory and every thirtieth reject is routinely sent 
+to Acme for rechecks. 
+
+In the lab standard sample preparation procedures were used. A multi element (28 
+elements) package with aqua-regia digest (nitric and hydrochloric acids) ICPOES finish 
+coupled with a 30g fire assay with an AA finish was used for multi element and gold 
+analyses respectively.  Overlimit ICP analyses of Ag, Cu, Pb, and Zn were performed on 
+analyses that returned grades of Ag >30g/t, and Cu, Zn, Pb >1%. 
+
+The Company's drill hole and assay database is administered from the Vancouver head 
+office using Maxwell Geoservices products. Drill hole data logged in the field is entered into 
+a LogChief database specifically tailored to the Blackwater Project. LogChief validates this 
+data as it is entered, and the final logs are exported and transferred to the database 
+administrator in Vancouver for import to DataShed, the master database. Additional data 
+validation checks are carried out in DataShed and all logs are checked by the administrator. 
+
+Assay certificates received from Eco Tech Labs are delivered in a format specified by the 
+Company to allow instant import to Datashed. 
+
+The database is hosted on the Company's server which runs a RAID 5 configuration to 
+protect the database from any drive failures. The database is backed up after every major 
+data upload and also as part of a weekly backup of the Company's server.  Backups are 
+stored off site to avoid any loss of data due to physical damage of the drives. 
+
+It is the author's opinion that sample preparation, security and analysis meets or exceeds 
+industry standards and is adequate to support a mineral resource estimate as defined under 
+NI 43-101. 
+
+14 DATA VERIFICATION 
+14.1 Historic Drilling 
+
+No records exist regarding QA/QC practices prior to 2005.  The 2005 assessment report by 
+Silver Quest states the following: 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 42
+
+Routine duplicate samples were inserted into the sample stream about every 
+20 samples. Blank samples were inserted into the sample stream about every 
+40 samples. 
+
+A microdiorite sill rock unit was used for the blank samples in the sampling 
+program. This blank rock was collected from diamond drill holes that 
+intersected the sill during historical diamond drilling on Southern Rio's 3Ts 
+property, located about 20 km southwest of the Davidson property. Laboratory 
+results show that the ten blank samples contain from zero to 30 ppb gold and 
+zero to 0.3 ppm silver, therefore no contamination within the laboratory is 
+indicated by the blank sample results. 
+
+Duplicate samples were obtained by quartering the drill core sample from the 
+selected interval (splitting one half of the core into two quarters). The two 
+quarter-core samples were then submitted to the assay laboratory as a 
+duplicate pair. Nineteen duplicate pairs were analyzed. 
+
+In addition, nineteen sample pulps from Eco Tech Laboratory were shipped to 
+Acme Analytical Laboratories Ltd. for check analyses.  
+
+No assessment report was filed in 2006 but it is believed that the same protocol was used 
+for the two core holes completed during that season. 
+
+14.2 Standards 
+
+As noted above standards are inserted systematically into the sample stream. Every tenth 
+sample is a standard, a blank or a duplicate. 
+
+The standards used during the 2009 and 2019 drill programs were used to monitor 
+laboratory performance.  The certified values and "Between Laboratory" two standard 
+deviation limits are shown in Table 14-1. 
+
+Table 14-1 Certified reference standard values 
+Year Standard Au g/t (Fire Assay) Ag g/t Zn % 
+
+2009 CDN-PGMS-14 0.259 ± 0.034 g/t   
+2009 CDN-GS-11A 11.21 ± 0.87 g/t   
+2009 CDN-GS-3E 2.97 ± 0.27 g/t   
+2010 CDN-GS-3F 3.10 ± 0.24 g/t     
+2010 CDN-GS-7B 6.42 ± 0.46 g/t     
+2009 CDN-ME-1 0.87 ± 0.09 g/t 39.3 ± 4.6 g/t 0.347 ± 0.028 % 
+2010 CDN-ME-2 2.10 ± 0.11 g/t 14.0 ± 1.3 g/t 1.35 ± 0.10 % 
+
+Upon receipt of the assay data the standards are carefully examined and compared with 
+accepted values. For standards a result within two standard deviations from the mean of the 
+certified standard were deemed to pass. No unacceptable standard verification results were 
+found in 2010 and one was found in 2009. Five instances were found where a blank was 
+inserted into the sample stream instead of a standard. Five cases of misclassified standards 
+being inserted were also noted. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 43
+
+The average standard grades from Eco Tech compared closely with the certified grades 
+except for CDN-GS-3E where the average grade of 78 samples was almost 10% higher 
+(3.26 vs 2.97 g/t).  Examination of the CRM certificate revealed one of the round robin tests 
+returned similar levels so the certified value may not be completely reliable.  When 
+performance limits were adjusted for the bias the results were deemed acceptable with one 
+failure (Figure 14-1). Use of this standard was discontinued at the end of 2009. 
+
+Sample sequence charts from the 2010 drill program are illustrated in Figure 14-2 to Figure 
+14-5. 
+
+Figure 14-1 Sample sequence chart - Standard CDN-GS-3E 
+
+STANDARD CDN-GS-3E
+2.97 g/t Au 
+
+2.20
+
+2.40
+
+2.60
+
+2.80
+
+3.00
+
+3.20
+
+3.40
+
+3.60
+
+3.80
+
+4.00
+
+B
+W
+
+00
+42
+
+B
+W
+
+00
+42
+
+B
+W
+
+00
+43
+
+B
+W
+
+00
+43
+
+B
+W
+
+00
+44
+
+B
+W
+
+00
+45
+
+B
+W
+
+00
+46
+
+B
+W
+
+00
+47
+
+B
+W
+
+00
+48
+
+B
+W
+
+00
+49
+
+B
+W
+
+00
+50
+
+B
+W
+
+00
+51
+
+B
+W
+
+00
+51
+
+B
+W
+
+00
+52
+
+B
+W
+
+00
+53
+
+B
+W
+
+00
+54
+
+B
+W
+
+00
+55
+
+B
+W
+
+00
+56
+
+B
+W
+
+00
+57
+
+B
+W
+
+00
+57
+
+B
+W
+
+00
+58
+
+B
+W
+
+00
+59
+
+B
+W
+
+00
+59
+
+B
+W
+
+00
+59
+
+B
+W
+
+00
+60
+
+B
+W
+
+00
+60
+
+B
+W
+
+00
+61
+
+B
+W
+
+00
+61
+
+B
+W
+
+00
+62
+
+B
+W
+
+00
+62
+
+B
+W
+
+00
+63
+
+B
+W
+
+00
+63
+
+B
+W
+
+00
+64
+
+B
+W
+
+00
+65
+
+B
+W
+
+00
+66
+
+B
+W
+
+00
+66
+
+B
+W
+
+00
+67
+
+B
+W
+
+00
+68
+
+B
+W
+
+00
+71
+
+B
+W
+
+00
+72
+
+B
+W
+
+00
+74
+
+Sample Sequence 
+
+g
+/t
+
+ A
+u
+
+Au Assay
+Mean
+Mean-2σ
+Mean+2σ
+Mean-3σ
+Mean+3σ
+Recommended CRM value
+
+Difference in mean 
+Au values
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 44
+
+Figure 14-2 Sample sequence chart - Standard CDN-GS-3F 
+
+STANDARD CDN-CS-3F
+3.1 g/t Au 
+
+2.40
+
+2.60
+
+2.80
+
+3.00
+
+3.20
+
+3.40
+
+3.60
+
+3.80
+B
+
+W
+ 6
+
+3
+B
+
+W
+ 6
+
+5
+B
+
+W
+ 6
+
+7
+B
+
+W
+ 6
+
+9
+B
+
+W
+ 7
+
+1
+B
+
+W
+ 7
+
+3
+B
+
+W
+ 7
+
+5
+B
+
+W
+ 7
+
+5
+B
+
+W
+ 7
+
+7
+B
+
+W
+ 7
+
+7
+B
+
+W
+ 8
+
+0
+B
+
+W
+ 8
+
+1
+B
+
+W
+ 8
+
+2
+B
+
+W
+ 7
+
+9
+B
+
+W
+ 8
+
+4
+B
+
+W
+ 8
+
+5
+B
+
+W
+ 8
+
+6
+B
+
+W
+ 8
+
+7
+B
+
+W
+ 8
+
+8
+B
+
+W
+ 8
+
+9
+B
+
+W
+ 9
+
+0
+B
+
+W
+ 9
+
+1
+B
+
+W
+ 9
+
+3
+B
+
+W
+ 9
+
+4
+B
+
+W
+ 9
+
+5
+B
+
+W
+ 9
+
+6
+B
+
+W
+ 9
+
+8
+B
+
+W
+ 9
+
+9
+B
+
+W
+ 1
+
+00
+B
+
+W
+ 1
+
+02
+B
+
+W
+ 1
+
+04
+B
+
+W
+ 1
+
+05
+B
+
+W
+ 1
+
+06
+B
+
+W
+ 1
+
+07
+B
+
+W
+ 1
+
+08
+B
+
+W
+ 1
+
+09
+B
+
+W
+ 1
+
+10
+B
+
+W
+ 1
+
+11
+B
+
+W
+ 1
+
+12
+B
+
+W
+ 1
+
+13
+B
+
+W
+ 1
+
+15
+B
+
+W
+ 1
+
+16
+
+Sample Sequence 
+
+g
+/t
+
+ A
+u
+
+Au Assay
+Mean
+Mean-2σ
+Mean+2σ
+Mean-3σ
+Mean+3σ
+
+ 
+
+Figure 14-3 Sample sequence chart - Standard CDN-GS-7B 
+
+STANDARD CDN-CS-7B
+6.42 g/t Au 
+
+5.00
+
+5.50
+
+6.00
+
+6.50
+
+7.00
+
+7.50
+
+8.00
+
+B
+W
+
+ 6
+3
+
+B
+W
+
+ 6
+5
+
+B
+W
+
+ 6
+7
+
+B
+W
+
+ 6
+9
+
+B
+W
+
+ 7
+1
+
+B
+W
+
+ 7
+3
+
+B
+W
+
+ 7
+5
+
+B
+W
+
+ 7
+5
+
+B
+W
+
+ 7
+7
+
+B
+W
+
+ 7
+7
+
+B
+W
+
+ 8
+0
+
+B
+W
+
+ 8
+1
+
+B
+W
+
+ 8
+2
+
+B
+W
+
+ 7
+9
+
+B
+W
+
+ 8
+4
+
+B
+W
+
+ 8
+5
+
+B
+W
+
+ 8
+6
+
+B
+W
+
+ 8
+7
+
+B
+W
+
+ 8
+8
+
+B
+W
+
+ 8
+9
+
+B
+W
+
+ 9
+0
+
+B
+W
+
+ 9
+1
+
+B
+W
+
+ 9
+3
+
+B
+W
+
+ 9
+4
+
+B
+W
+
+ 9
+5
+
+B
+W
+
+ 9
+6
+
+B
+W
+
+ 9
+8
+
+B
+W
+
+ 9
+9
+
+B
+W
+
+ 1
+00
+
+B
+W
+
+ 1
+02
+
+B
+W
+
+ 1
+04
+
+B
+W
+
+ 1
+05
+
+B
+W
+
+ 1
+06
+
+B
+W
+
+ 1
+07
+
+B
+W
+
+ 1
+08
+
+B
+W
+
+ 1
+09
+
+B
+W
+
+ 1
+10
+
+B
+W
+
+ 1
+11
+
+B
+W
+
+ 1
+12
+
+Sample Sequence 
+
+g/
+t A
+
+u
+
+Au Assay
+Mean
+Mean-2σ
+Mean+2σ
+Mean-3σ
+Mean+3σ
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 45
+
+Figure 14-4 Sample sequence chart - Standard CDN-GS-3E (Au) 
+
+STANDARD CDN-ME-2
+2.1 g/t Au 
+
+1.70
+
+1.80
+
+1.90
+
+2.00
+
+2.10
+
+2.20
+
+2.30
+
+2.40
+
+2.50
+B
+
+W
+ 6
+
+3
+B
+
+W
+ 6
+
+6
+B
+
+W
+ 6
+
+7
+B
+
+W
+ 6
+
+9
+B
+
+W
+ 7
+
+1
+B
+
+W
+ 7
+
+3
+B
+
+W
+ 7
+
+5
+B
+
+W
+ 7
+
+5
+B
+
+W
+ 7
+
+7
+B
+
+W
+ 7
+
+7
+B
+
+W
+ 8
+
+0
+B
+
+W
+ 8
+
+1
+B
+
+W
+ 8
+
+2
+B
+
+W
+ 7
+
+9
+B
+
+W
+ 8
+
+4
+B
+
+W
+ 8
+
+5
+B
+
+W
+ 8
+
+6
+B
+
+W
+ 8
+
+7
+B
+
+W
+ 8
+
+8
+B
+
+W
+ 8
+
+9
+B
+
+W
+ 9
+
+0
+B
+
+W
+ 9
+
+1
+B
+
+W
+ 9
+
+2
+B
+
+W
+ 9
+
+3
+B
+
+W
+ 9
+
+4
+B
+
+W
+ 9
+
+6
+B
+
+W
+ 9
+
+7
+B
+
+W
+ 9
+
+8
+B
+
+W
+ 9
+
+9
+B
+
+W
+ 1
+
+01
+B
+
+W
+ 1
+
+03
+B
+
+W
+ 1
+
+04
+B
+
+W
+ 1
+
+05
+B
+
+W
+ 1
+
+06
+B
+
+W
+ 1
+
+07
+B
+
+W
+ 1
+
+08
+B
+
+W
+ 1
+
+09
+B
+
+W
+ 1
+
+10
+B
+
+W
+ 1
+
+11
+B
+
+W
+ 1
+
+12
+B
+
+W
+ 1
+
+13
+B
+
+W
+ 1
+
+14
+B
+
+W
+ 1
+
+15
+
+Sample Sequence 
+
+g
+/t
+
+ A
+u
+
+Au Assay
+Mean
+Mean-2σ
+Mean+2σ
+Mean-3σ
+Mean+3σ
+
+ 
+
+Figure 14-5 Sample sequence chart - Standard CDN-GS-3E (Ag) 
+
+STANDARD CDN-ME-2
+14 g/t Ag 
+
+10.00
+
+11.00
+
+12.00
+
+13.00
+
+14.00
+
+15.00
+
+16.00
+
+17.00
+
+18.00
+
+B
+W
+
+ 6
+3
+
+B
+W
+
+ 6
+6
+
+B
+W
+
+ 6
+7
+
+B
+W
+
+ 6
+9
+
+B
+W
+
+ 7
+1
+
+B
+W
+
+ 7
+3
+
+B
+W
+
+ 7
+5
+
+B
+W
+
+ 7
+5
+
+B
+W
+
+ 7
+7
+
+B
+W
+
+ 7
+7
+
+B
+W
+
+ 8
+0
+
+B
+W
+
+ 8
+1
+
+B
+W
+
+ 8
+2
+
+B
+W
+
+ 7
+9
+
+B
+W
+
+ 8
+4
+
+B
+W
+
+ 8
+5
+
+B
+W
+
+ 8
+6
+
+B
+W
+
+ 8
+7
+
+B
+W
+
+ 8
+8
+
+B
+W
+
+ 8
+9
+
+B
+W
+
+ 9
+0
+
+B
+W
+
+ 9
+1
+
+B
+W
+
+ 9
+2
+
+B
+W
+
+ 9
+3
+
+B
+W
+
+ 9
+4
+
+B
+W
+
+ 9
+6
+
+B
+W
+
+ 9
+7
+
+B
+W
+
+ 9
+8
+
+B
+W
+
+ 9
+9
+
+B
+W
+
+ 1
+01
+
+B
+W
+
+ 1
+03
+
+B
+W
+
+ 1
+04
+
+B
+W
+
+ 1
+05
+
+B
+W
+
+ 1
+06
+
+B
+W
+
+ 1
+07
+
+B
+W
+
+ 1
+08
+
+B
+W
+
+ 1
+09
+
+B
+W
+
+ 1
+10
+
+B
+W
+
+ 1
+11
+
+B
+W
+
+ 1
+12
+
+B
+W
+
+ 1
+13
+
+B
+W
+
+ 1
+14
+
+B
+W
+
+ 1
+15
+
+Sample Sequence 
+
+g/
+t A
+
+g
+
+Ag Assay
+Mean
+Mean-2σ
+Mean+2σ
+Mean-3σ
+Mean+3σ
+
+ 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 46
+
+14.3 Duplicate Samples 
+
+Assay results for duplicates were compared to those for the original sample and statistical 
+plots were prepared for comparison.  A total of 789 field duplicate results were examined; 
+27% of which were duplicate half core with the remainder quarter core duplicates.  Two of 
+the samples were suspected of being misclassified and excluded from statistical analysis.  
+No significant sample bias was evident in the statistics (Table 14-2) or scatterplot (Figure 
+14-6) 
+
+Table 14-2 Field duplicate statistics 
+ HALF CORE QUARTER CORE COMBINED 
+  Original Duplicate Original Duplicate Original Duplicate 
+n 169 169 618 618 787 787 
+Min 0.02 0.02 0.02 0.02 0.02 0.02 
+Max 8.55 12.70 16.90 15.00 16.90 15.00 
+Mean 0.50 0.56 0.38 0.38 0.41 0.41 
+Median 0.15 0.14 0.12 0.12 0.12 0.12 
+Variance 1.48 2.58 1.32 1.03 1.35 1.36 
+Std Dev 1.22 1.61 1.15 1.01 1.16 1.17 
+COV 2.43 2.89 2.99 2.70 2.84 2.82 
+
+Figure 14-6 Scatterplot of field duplicate results 
+
+Field Duplicates
+
+0.01
+
+0.1
+
+1
+
+10
+
+100
+
+0.01 0.1 1 10 100
+
+Original Au g/t
+
+D
+up
+
+lic
+at
+
+e 
+A
+
+u 
+g/
+
+t
+
+Half Core
+
+Quarter Core
+
+1:1 Line
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 47
+
+The Thompson-Howarth plot for Au in the field duplicates is shown in Figure 14-7.  The 
+precision values for the core duplicates measure the cumulative error in the sampling, 
+preparation and analytical processes. At the 95% confidence level and at 0.5 g/t Au, the 
+precision values indicate about a ± 10% error.  This is considered low for gold deposits 
+which can often have greater than a ± 20% cumulative error. 
+
+Figure 14-7 T-H plot for field duplicates 
+
+Blackwater 2010 Field Duplicates
+Au Precision T-H Method
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+0.0 1.0 2.0 3.0 4.0 5.0 6.0
+
+Au (gpt)
+
+P
+re
+
+ci
+si
+
+on
+ (%
+
+)
+
+Field Duplicates
+
+ 
+
+For a check on the primary assays by another laboratory every thirtieth reject is sent to 
+Acme Labs of Vancouver, BC for check assay by staff at the Eco Tech Stewart Group 
+Laboratories. Assay data are sent by Acme to the Company as pdf and xls files.  Results up 
+to hole BW 90 have been received to date totaling 397 samples.  The statistical comparison 
+(Table 14-3and scatterplots (Figure 14-8) indicate that ACME has a very minor high bias 
+which is not considered significant. 
+
+Table 14-3 Pulp duplicate recheck statistics 
+
+  
+
+Original 
+Eco Tech 
+
+Lab 
+
+Duplicate 
+ACME 
+
+Lab 
+n 397 397 
+Min 0.00 0.00 
+Max 22.80 24.70 
+Mean 0.60 0.63 
+Median 0.13 0.14 
+Var 3.58 3.63 
+Std Dev 1.89 1.90 
+COV 3.17 3.02 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 48
+
+Figure 14-8 Pulp recheck scatterplots 
+
+ 
+
+The Thompson-Howarth plot for Au in the field duplicates is shown in Figure 14-9.  The 
+precision values for the core duplicates measure the cumulative error in the sampling, 
+preparation and analytical processes. At the 95% confidence level and at 0.5 g/t Au, the 
+precision values indicate about a ± 9% error.  
+
+Figure 14-9 T-H plot for pulp duplicates 
+
+Blackwater 2010 Pulp Rechecks
+Au Precision T-H Method
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+0.0 1.0 2.0 3.0 4.0 5.0 6.0
+
+Au (gpt)
+
+P
+re
+
+ci
+si
+
+o
+n
+
+ (
+%
+
+)
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 49
+
+14.4 Blanks 
+
+Blanks used in this project and inserted into the sample stream derive from outcrop of a 
+barren granodiorite exposed about 10 km north of the mineralized zone. Before use as 
+blanks 13 samples of this material were analyzed at was analyzed at Eco Tech Stewart 
+Group Laboratories.  
+
+Upon receipt of the assay data the blanks are carefully examined and compared with 
+accepted values. Assay results for blanks were uniformly below or at detection limit for gold. 
+For other elements the blanks show good consistency giving confidence that the same 
+material was being used in each instance. 
+
+14.5 Site Visit 
+
+The author visited the site on December 13, 2010.  The purpose of the visit was to review 
+the geology and mineralization encountered in the drill holes completed to date.  In addition, 
+drilling, sampling, quality assurance/quality control (QA/QC), sample preparation and 
+analytical protocols and procedures, and database structure were reviewed. 
+
+Four samples of drill core were collected and submitted for assay.  Results were consistent 
+with those from the intervals in which they resided (Table 14-4). 
+
+Six drill hole collar locations were also verified by GPS readings. 
+
+Table 14-4  Assay results from samples collected during site visit 
+Sample Dhole Depth Assay g/t Au Assay Interval Au_g/t 
+
+B2-81A BW0081 192 0.384 192-193 0.51 
+BW-81B BW0081 191 0.210 191-192 0.51 
+BW-87A BW0087 133.5 15.93 133-134 3.53 
+BW-87B BW0087 146.5 0.603 146-147 0.75 
+
+14.6 Conclusions 
+
+QA/QC with respect to the results received to date for the Company's 2009/2010 exploration 
+programs is acceptable and protocols have been well documented.  A lower level of QA/QC 
+exists for the seven drill holes completed between 2005 and 2006 but it is believed to be 
+sufficient to support a resource estimate.  Data from holes drilled between 1981 and 1994 
+have no documented QA/QC information and they are not deemed acceptable for use in 
+resource grade estimation. 
+
+The author recommends acquiring some lower grade Au standards as the ones presently in 
+use are over twice the average grade of the deposit.  Two standards of approximately 0.4 
+and 1 g/t gold levels would be appropriate. 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 50
+
+15 ADJACENT PROPERTIES 
+
+Not applicable 
+
+ 
+
+16 MINERAL PROCESSING AND METALLURGICAL TESTING 
+
+Preliminary metallurgical testing on samples from the Blackwater Gold Project was carried 
+out on composites from three drill holes drilled in 2009. The work was carried out in early 
+2010 by the Metallurgical Division of Inspectorate Exploration and Mining Services Ltd. in 
+Richmond BC. 
+
+The composite samples are of drill core from BW 43, BW 46 and BW 59. Samples are of 
+selected sections from the three drill holes and represent different rock and alteration types; 
+the samples are of drill core sawed in half lengthwise. 
+
+The samples responded well to direct whole ore cyanidation tests with an average of 92% 
+gold recovery across three tests at different conditions on each composite (9 tests in total). 
+Accessory silver was recovered at an average of 47%. 
+
+The three composites were also subjected to flotation testing to produce a bulk sulphide 
+concentrate under three different grinding and reagent conditions. The samples also 
+responded well to this test and the best recoveries obtained under one set of test conditions 
+returned an average for the three composites of 94% of the gold and silver reporting to the 
+bulk sulphide concentrate. 
+
+The composites were also subjected to direct gravity concentration. The samples responded 
+well with the three composites averaging 51% gold recovered into a gravity concentrate. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 51
+
+17 MINERAL RESOURCE ESTIMATE 
+17.1 Exploratory Data Analysis 
+
+The sample database for the Blackwater project contains results from 113 core holes drilled 
+between 1987 and 2010.  Seventy-four of these have been drilled since the start of 2009. 
+Four core holes drilled between 1981 and 2006 were not sampled or records have been 
+lost.  No analytical data was available for 33 RC holes completed in 1981 and their precise 
+locations are uncertain.  Due to lack of QAQC and survey information, holes drilled prior to 
+2005 were not used for statistical analysis or grade estimation. 
+
+Cumulative frequency distribution for the Au and Ag samples within a 0.3 g/t gradeshell 
+domain is illustrated in Figure 17-1 and Figure 17-2.  Sample populations are highly skewed 
+approaching log normal distribution with no significant bimodality evident.    
+
+Au and Ag show a weak positive correlation (correlation coefficient = 0.3) and a linear 
+regression yields a very low R2 value of 0.03 (Figure 17-3). 
+
+Basic statistics are shown in Table 17-1. 
+
+Figure 17-1 Frequency distribution of Au 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 52
+
+Figure 17-2 Frequency distribution of Ag 
+
+ 
+
+Figure 17-3 Scatterplot of Au vs Ag sample data 
+
+Au vs Ag R2 = 0.030
+
+0
+
+25
+
+50
+
+75
+
+100
+
+0.0 5.0 10.0 15.0 20.0
+
+g/t Au
+
+g
+/t
+
+ A
+g
+
+ 
+
+Table 17-1 Sample statistics 
+  Au g/t Ag g/t 
+n 9268 9210 
+Min 0.015 0.0 
+Max 132 638.0 
+Median 0.43 2.5 
+Mean 1.12 5.8 
+Wt Avg 1.13 5.7 
+Variance 13.21 243.3 
+Std Dev 3.64 15.6 
+COV 3.26 2.7 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 53
+
+17.2 Outlier Analysis 
+
+Before compositing, grade distribution in the raw sample data was examined to determine if 
+grade capping or special treatment of high outliers was warranted. Cumulative log 
+probability plots were examined for outlier populations and decile analyses was performed 
+for Au within the zone domains. As a general rule, the cutting of high grades is warranted if: 
+
+• the last decile (upper 10% of samples) contains more than 40% of the metal; or 
+• the last decile contains more than 2.3 times the metal of the previous decile; or 
+• the last centile (upper 1%) contains more than 10% of the metal; or 
+• the last centile contains more than 1.75 times the next highest centile. 
+
+For the Blackwater zone domain the last decile for Au contains 59% of the metal content 
+and 25% is contained in the top centile. After reviewing the probability distribution it was 
+decided to cap grades near the 99th percentile level at 15 g/t.  This cap grade affects 84 
+samples. 
+
+For Ag the last decile contained 53% of the metal and the upper centile contained 19%.  A 
+cap grade of 50 g/t was selected which approximates the 99th percentile level. A total of 99 
+samples assayed above this threshold for Ag. 
+
+CPP plots and cap grade levels are illustrated in Figure 17-4. 
+
+Figure 17-4 Cumulative log probability plots for Au and Ag 
+
+ 
+
+Analysis of statistics for the various lithologies reveals that all rock types can contain 
+significant levels of Au (Figure 17-5).  Examination of contact profiles throughout the 
+mineralized zones showed that lithologies were not principal controls of mineralization and 
+that the use of hard boundaries for grade estimation were not justified. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 54
+
+Figure 17-5 Box plots of Au distribution by lithology 
+
+Box Plots Total Au
+Log Scale
+
+0.01
+
+0.1
+
+1
+
+10
+
+100
+
+1000
+BW
+
+LT
+
+AN
+D
+
+LT
+FF
+
+L/A
+TF
+
+F
+
+CR
+ C
+
+HL
+
+AT
+FF
+
+SI
+L 
+
+5
+
+SI
+L 
+
+2
+
+CR
+ S
+
+IL
+
+Lithology
+
+Lo
+g 
+
+g/
+t A
+
+u
+
+Q1
+Min
+Median
+Mean
+
+Max
+90th %ile
+99th %ile
+Q3
+
+ 
+
+17.3 Deposit Modeling 
+
+Due to the irregular and chaotic nature of the lithologic contacts it was not possible to create 
+valid wireframe solids based on sectional or level plan interpretations.  Alternative methods 
+considered were nearest neighbour interpolations and indicator kriging to assign lithologic 
+codes to the block model and to generate a gradeshell domain to constrain grade 
+estimation.   
+
+Core drilling has defined a continuous zone of +0.3 g/t Au mineralization that extends at 
+least 1040 metres along its longest dimension in an east-west direction and at least 580 
+metres N-S. The thickness of the zone ranges up to 350 metres. This zone was modeled as 
+an isosurface using Leapfrog3D© software at a level of 0.3 g/t Au. The Au data was 
+composited to 5m intervals and put through a log transform and modeled using ordinary 
+kriging with a maximum search distance of 100 metres. A moderate anisotropy of 1.5:1 was 
+imposed parallel to the main trend of the zone (plunging 0° towards an azimuth of 100°).  
+The resulting solid was imported to Gemcom Surpac© software and clipped to the bedrock 
+surface.  Isolated solids based on intercepts from single drill holes were eliminated.  An 
+indicator kriging run was also carried in Surpac out using a 0.3 g/t Au threshold as a 
+comparison and blocks with a 50% probability of containing grades above this level were 
+compared with the solid model.  The general geometry of the solid model correlated 
+reasonably well with the 50% level of the indicator kriged model. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 55
+
+Lithologic shapes were generated using indicator kriging with intercepts of the modeled 
+lithology being assigned a value of 1 and all others a value of 0.  The 0.5 level was then 
+used as a threshold for generating the solid models.  Several lithic tuff lithologies that had 
+similar characteristics and densities were combined for block assignments as listed in Table 
+17-2.  The block lithologic code assignments are illustrated in Table 17-2 and the block 
+model lithologic coding is shown in cross section in Figure 17-6. 
+
+Table 17-2  Block model lithologic codes 
+Code Lith 
+
+1 OVERBURDEN 
+10 AND 
+21 ATFF 
+22 LTFF/ALTFF/BWLT 
+52 SIL 2 
+55 SIL 5 
+61 CR CHL 
+62 CR SIL 
+
+Figure 17-6 Block lithology on section 5892800N 
+
+ 
+
+An bedrock surface was modeled by creating profiles based on drill hole intercepts and 
+generating a digital elevation model. 
+
+17.4 Compositing 
+
+Fixed length downhole composites of Au and Ag were generated using 5 metre intervals 
+within the zone domain.  Samples were capped prior to compositing at levels of 15 g/t for Au 
+and 50 g/t for Ag.  Statistics for composites are summarized Table 17-3.  The combination of 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 56
+
+capping and compositing reduce the coefficient of variation for Au from 3.26 in the raw 
+sample data to 1.29. 
+
+Table 17-3 Composite statistics 
+  Au g/t Ag g/t 
+n 1900 1900 
+Min 0.015 0.0 
+Max 12.94 50.0 
+Median 0.56 3.3 
+Mean 1.00 5.1 
+Variance 1.65 34.0 
+Std Dev 1.29 5.8 
+COV 1.29 1.1 
+
+17.5 Density 
+
+A total of 5748 specific gravity measurements were made on drill core from the 2009 and 
+2010 field programs.  Statistics for the major lithologies are listed in Table 17-4.  The 
+average SG grades for each modeled lithology were assigned to the corresponding blocks 
+in the resource model. 
+
+Table 17-4 SG statistics for modeled lithologies 
+Lith Code n Median Mean 
+AND 1947 2.80 2.79 
+ATFF 136 2.64 2.62 
+LTFF 1093 2.77 2.76 
+BWLT 82 2.77 2.76 
+SIL 2 473 2.70 2.70 
+SIL 5 1501 2.68 2.67 
+CR CHL 162 2.78 2.77 
+CR SIL 142 2.68 2.65 
+
+17.6 Variogram Analysis 
+
+Directional pairwise relative semi-variograms for Au and Ag were modeled using composites 
+falling within the domain constraint in order to determine kriging parameters, search 
+parameters and anisotropy. 
+
+Figure 17-7 Semi-variogram model parameters 
+Item Type Axis Azim Dip co c1 a1 c2 a2 
+
+major 100 0 0.276 0.1716 18 0.12 80 
+semi-
+major 10 0 0.276 0.1716 18 0.12 65 
+
+Au 
+Pairwise 
+Relative 
+
+Spherical 
+minor 100 -90 0.276 0.1716 14 0.12 45 
+major 100 0 0.144 0.2065 20 0.117 90 
+semi-
+major 10 0 0.144 0.2065 17 0.117 75 
+
+Ag 
+Pairwise 
+Relative 
+
+Spherical 
+minor 100 -90 0.144 0.2065 14 0.117 57 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 57
+
+Figure 17-8 Semi-variogram model for Au 
+
+ 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 58
+
+Figure 17-9 Semi-variogram model for Ag 
+
+ 
+
+17.7 Block Model and Grade Estimation Procedures 
+
+A block model was created in Gemcom-Surpac Vision© software using a block size 10 x 10 
+x 10 m.  Block model extents are summarized in Table 17-5. 
+
+Table 17-5 Block model parameters 
+  East North Elev 
+Min 374500 5892000 1100 
+Max 376500 5893700 1750 
+Extent 2000 1700 650 
+Block Size 10 10 10 
+Blocks 200 170 65 
+
+The model blocks were first coded by the partial percent within the zone domain and below 
+topography.  Lithologic codes and SG values were then assigned as described in Sections 
+17.3 and 17.5.  
+
+Au and Ag grades within the zone domain were estimated in three passes using both the 
+ordinary kriging method and inverse distance to the third power (ID3).  Search parameters 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 59
+
+are outlined in Table 17-6.  The frequency distributions of block grades are shown in Figure 
+17-10 and Figure 17-11. Block model grade distribution is illustrated in Figure 17-12 to 
+Figure 17-18. 
+
+Table 17-6 Grade model search parameters  
+
+Pass Search Type 
+Max Search 
+
+Dist (m) 
+Min # 
+
+Composites 
+Max # 
+
+Composites 
+Min 
+
+Octants 
+Required 
+
+Max per 
+Hole 
+
+Topcut 
+g/t Au 
+
+1 Ellipsoidal 20 4 16 na 3 15 
+2 Octant 60 6 24 5 - 15 
+3 Ellipsoidal 80 6 24 na - 15 
+
+Figure 17-10 Frequency distribution of Au grades in block model 
+
+ 
+
+Figure 17-11 Frequency distribution of Ag grades in block model 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 60
+
+Figure 17-12 Au block grade distribution – Section 5892800N 
+
+ 
+
+Figure 17-13 Ag block grade distribution – Section 5892800N 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 61
+
+Figure 17-14 Au block grade distribution – Section 5892850N 
+
+ 
+
+Figure 17-15 Ag block grade distribution – Section 5892850N 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 62
+
+Figure 17-16 Au block grade distribution and claim boundaries - plan view 
+
+ 
+
+Figure 17-17 Perspective view of block model Au grades 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 63
+
+Figure 17-18 Perspective view of block model Ag grades 
+
+ 
+
+17.8 Mineral Resource Classification 
+
+Resource classifications used in this study conform to the following definition from National 
+Instrument 43-101: 
+
+Mineral Resource 
+
+A Mineral Resource is a concentration or occurrence of diamonds, natural solid inorganic material, or 
+natural solid fossilized organic material including base and precious metals, coal, and industrial 
+minerals in or on the Earth's crust in such form and quantity and of such a grade or quality that it has 
+reasonable prospects for economic extraction. The location, quantity, grade, geological 
+characteristics and continuity of a Mineral Resource are known, estimated or interpreted from specific 
+geological evidence and knowledge. 
+
+Measured Mineral Resource 
+
+A 'Measured Mineral Resource' is that part of a Mineral Resource for which quantity, grade or quality, 
+densities, shape, physical characteristics are so well established that they can be estimated with 
+confidence sufficient to allow the appropriate application of technical and economic parameters, to 
+support production planning and evaluation of the economic viability of the deposit. The estimate is 
+based on detailed and reliable exploration, sampling and testing information gathered through 
+appropriate techniques from locations such as outcrops, trenches, pits, workings and drill holes that 
+are spaced closely enough to confirm both geological and grade continuity. 
+
+Indicated Mineral Resource 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 64
+
+An 'Indicated Mineral Resource' is that part of a Mineral Resource for which quantity, grade or quality, 
+densities, shape and physical characteristics, can be estimated with a level of confidence sufficient to 
+allow the appropriate application of technical and economic parameters, to support mine planning and 
+evaluation of the economic viability of the deposit. The estimate is based on detailed and reliable 
+exploration and testing information gathered through appropriate techniques from locations such as 
+outcrops, trenches, pits, workings and drill holes that are spaced closely enough for geological and 
+grade continuity to be reasonably assumed. 
+
+Inferred Mineral Resource 
+
+An 'Inferred Mineral Resource' is that part of a Mineral Resource for which quantity and grade or 
+quality can be estimated on the basis of geological evidence and limited sampling and reasonably 
+assumed, but not verified, geological and grade continuity. The estimate is based on limited 
+information and sampling gathered through appropriate techniques from locations such as outcrops, 
+trenches, pits, workings and drill holes. 
+
+In order to meet the requirements of NI43-101 with respect to reasonable prospects of 
+economic extraction, by open pit mining methods, a 45°wall slope Lerchs Grossman pit was 
+generated to constrain the resource within the block model.  Metal prices assumed were 
+$1000/ounce for gold with recovery of 92%. Combined processing, G & A, and ore mining 
+costs were assumed to be $12.79/tonne.  Base waste mining costs were assumed to be 
+$2.00/tonne.  
+
+Consideration was given to classifying blocks estimated in the1st kriging pass as 
+'measured'.  However only about 1% of the blocks estimated in the first 2 passes qualified 
+and this was deemed too small a figure to report at this stage. 
+
+Blocks were classified as indicated if they were estimate in the 1st or 2nd kriging pass and 
+were within a boundary limit surrounding the area of recent grid drilling.  Blocks within this 
+boundary were also classified as indicated if they were estimated in the 3rd pass but had a 
+composite within 40 m of the block centroid (half the maximum variogram range).  All other 
+estimated blocks were classified as inferred.  Block classification is illustrated in Figure 
+17-19 and Figure 17-20. 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 65
+
+Figure 17-19  Block classification - Plan view 
+
+ 
+
+ 
+
+Figure 17-20  Block classification – Section 5892800N 
+
+ 
+
+17.9 Model Validation 
+
+Model verification was initially carried out by visual comparison of blocks and sample grades 
+in plan and section views. The estimated block grades showed reasonable correlation with 
+adjacent composite grades. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 66
+
+Block grades were also estimated using ID3 and nearest neighbour methods. A comparison 
+of global mean values within the gradeshell domain shows a reasonably close relationship 
+with samples, composites and block model values (Table 17-7). 
+
+Table 17-7 Global mean grade comparison 
+Data Set Au g/t Ag g/t 
+Samples (Wt Avg) 1.13 5.7 
+Samples Capped 1.00 5.1 
+Composites 1.00 5.1 
+IDW block model 0.98 4.7 
+Kriged block model 0.97 4.7 
+Nearest Neighbour model 0.96 4.7 
+
+Swath plots were generated to assess the model for global bias by comparing Kriged, ID3 
+and nearest neighbour estimates on panels through the deposit. Results show a reasonable 
+comparison between the methods, particularly in the main portions of the deposit indicated 
+by the bar charts (Figure 17-21 to Figure 17-23). 
+
+Figure 17-21 Swath plot (E-W) at 5892840 North 
+
+50m Swath Plot X Drift
+5892840‐5892870N
+
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+1.2
+
+1.4
+
+1.6
+
+1.8
+
+37
+49
+00
+
+37
+50
+00
+
+37
+51
+00
+
+37
+52
+00
+
+37
+53
+00
+
+37
+54
+00
+
+37
+55
+00
+
+37
+56
+00
+
+37
+57
+00
+
+37
+58
+00
+
+Easting (m)
+
+A
+u
+ g
+/t
+
+0
+
+200000
+
+400000
+
+600000
+
+800000
+
+1000000
+
+1200000
+
+1400000
+
+To
+n
+n
+e
+s
+
+Tonnes Kriged Grade ID3 Grade NN Grade
+
+ 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 67
+
+Figure 17-22 Swath plot (N-S) at 375570 East 
+
+50m Swath Plot Y Drift
+375570‐375600E
+
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+1.2
+
+1.4
+
+1.6
+
+1.8
+
+58
+92
+55
+0
+
+58
+92
+65
+0
+
+58
+92
+75
+0
+
+58
+92
+85
+0
+
+58
+92
+95
+0
+
+58
+93
+05
+0
+
+58
+93
+15
+0
+
+58
+93
+25
+0
+
+Northing (m)
+
+A
+u
+ g
+/t
+
+0
+
+200000
+
+400000
+
+600000
+
+800000
+
+1000000
+
+1200000
+
+To
+n
+n
+e
+s
+
+Tonnes Kriged Grade ID3 Grade NN Grade
+ 
+
+Figure 17-23 Swath plot by elevation at 375300 East 
+
+30m Swath Plot Z Drift
+375300‐375600E
+
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+1.2
+
+1.4
+
+1.6
+
+12
+30
+
+12
+90
+
+13
+50
+
+14
+10
+
+14
+70
+
+15
+30
+
+15
+90Elevation (m)
+
+A
+u
+ g
+/t
+
+0
+
+1000000
+
+2000000
+
+3000000
+
+4000000
+
+5000000
+
+6000000
+
+7000000
+
+8000000
+
+9000000
+
+10000000
+
+To
+n
+n
+e
+s
+
+Tonnes Kriged Grade ID3 Grade NN Grade
+
+ 
+
+  
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 68
+
+17.10 Mineral Resource Summary 
+
+The following tables present the mineral resource estimate for the Blackwater Gold Project 
+at a range of cut-off grades with the base case in bold face.  The selected base case cut-off 
+grade of 0.4 g/t gold is considered consistent with other mineral deposits of similar 
+characteristics, scale and location.  The effective date of the estimate is March 2, 2011. 
+
+Table 17-8 Blackwater Gold Project mineral resource summary 
+ Indicated Inferred 
+
+Grade Grade Cut-
+off g/t 
+
+Au 
+
+Tonnes 
+000's Au g/t Ag g/t 
+
+Contained 
+Au M oz 
+
+Tonnes 
+000's Au g/t Ag g/t 
+
+Contained 
+Au M oz 
+
+0.3 54,136 1.06 5.6 1.84 78,653 0.94 4.0 2.38 
+0.4 53,460 1.06 5.6 1.83 75,452 0.96 4.0 2.34 
+0.5 49,914 1.11 5.7 1.78 68,001 1.02 4.2 2.23 
+
+Table 17-9 Mineral resource breakdown by area 
+Indicated Inferred 
+Grade Grade Property Tonnes 
+
+000's Au g/t Ag g/t 
+Contained 
+Au M oz 
+
+Tonnes 
+000's Au g/t Ag g/t 
+
+Contained 
+Au M oz 
+
+Total Blackwater 53,460 1.06 5.6 1.83 75,452 0.96 4.0 2.34 
+Dave and Jarrod 
+(100% the 
+Company) 
+
+53,128 1.07 5.6 1.82 29,183 1.04 5.5 0.98 
+
+Davidson (75% 
+the Company, 
+25% Silver Quest 
+
+331 0.9243 5.0 0.01 46,269 0.92 3.1 1.36 
+
+Total Company 53,377 1.0644 5.6 1.83 63,885 0.97 4.2 2.00 
+
+ 
+
+18 OTHER RELEVANT DATA AND INFORMATION. 
+
+There are no other data known to Geosim that are relevant to this Technical Report: 
+therefore there are no relevant data or information presented in this section.  Furthermore, 
+there are no known factors or issues that materially affect the estimate of mineral resources. 
+
+ 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 69
+
+19 INTERPRETATION AND CONCLUSIONS 
+
+Blackwater has the characteristics of, and is considered to be, a low sulphidation epithermal 
+gold-silver deposit. Mineralization occurs in stratigraphically chaotic volcanic rocks of Late 
+Cretaceous age emplaced through and on Hazelton Group strata. The rocks are extensively 
+hydrofractured and silicified and shot through with fine grained pyrite and other sulphide 
+minerals. Gold is hosted mostly associated with the sulphide minerals as gold grains 
+between 5 and 50 microns across. 
+
+Drilling by the Company since August 2009 has outlined a large, low grade gold-silver 
+deposit that extends at least 1040 metres along its longest dimension in an east-west 
+direction and at least 580 metres N-S. The thickness of the presently defined zone ranges 
+up to 350 metres. 
+
+Results from preliminary metallurgical testing carried out in 2010 showed that the samples 
+responded well to direct whole ore cyanidation tests with an average of 92% gold and 47% 
+silver recovery.  Preliminary flotation tests suggest that up to 94% gold and silver may report 
+to a bulk sulphide concentrate.  Direct gravity concentration tests gave average recoveries 
+of 51% gold. 
+
+Sample preparation, security and analysis meets or exceeds industry standards and is 
+adequate to support a mineral resource estimate as defined under NI 43-101.  QA/QC with 
+respect to the results received to date for the Company's 2009/2010 exploration programs is 
+acceptable and protocols have been well documented.  The database contains all core data 
+collected on the project to date and has been structured for resource estimation. 
+
+At a cut-off grade of 0.4 g/t gold, the Blackwater Gold deposit is estimated to contain an 
+indicated mineral resource of 53.5 million tonnes averaging 1.064 g/t Au and 5.6 g/t Ag.  An 
+additional 74.85 million tonnes grading 0.97 g/t Au and 4.1 g/t Ag is classified as inferred. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 70
+
+20 RECOMMENDATIONS 
+
+Two lower grade Au certified reference standards should be acquired as the ones presently 
+in use are over twice the average deposit grade. 
+
+A preliminary economic assessment should be initiated.  Results of the PEA should be used 
+as a basis for making additional detailed recommendations for: 
+
+• Further metallurgical test work 
+
+• Infill and additional definition drilling  
+
+• Geotechnical drilling 
+
+• Site investigation 
+
+• Infrastructure development 
+
+• Environmental baseline studies 
+
+• Mining method evaluation 
+
+• Processing option tradeoffs and resource characterization 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 72
+
+22 DATE AND SIGNATURE PAGE 
+
+The effective date of this Technical report, entitled "Technical Report, Blackwater Gold 
+Project" is March 2, 2011, readdressed June 6, 2011. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+___________________________________ 
+
+Ronald G. Simpson, P.Geo. 
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 73
+
+Certificate of Author – Ronald G. Simpson, P.Geo. 
+
+I, Ronald G. Simpson, P.Geo, residing at 1975 Stephens St., Vancouver, British Columbia, V6K 4M7, 
+do hereby certify that:   
+
+1. I am president of GeoSim Services Inc. 
+
+2. This certificate applies to the Technical Report entitled "Technical Report, Blackwater Gold 
+Project, British Columbia, Canada", dated March 2, 2011 and readdressed June 6, 2011.  
+
+3. I graduated with an Honours Degree of Bachelor of Science in Geology from the University of 
+British Columbia in 1975. I have practiced my profession continuously since 1975. My relevant 
+experience is as follows: 
+• 1975-1993: Geologist employed by several mining/exploration companies including 
+
+Cominco Ltd., Bethlehem Copper Corporation, E & B Explorations Ltd, Mascot Gold Mines 
+Ltd., and Homestake Canada Inc. 
+
+• 1993-1999: Self employed geological consultant specializing in resource estimation and 
+geomatics. 
+
+• 1999 – Present: President, GeoSim Services Inc. 
+4. I am a member in good standing of the Association of Professional Engineers and 
+
+Geoscientists of British Columbia (Registered Professional Geoscientist, No. 19513) and a 
+Fellow of the Geological Association of Canada. I am a "qualified person" for the purposes of 
+National Instrument 43-101 ("NI 43-101") due to my experience and current affiliation with a 
+professional organization as defined in NI 43-101. 
+
+5. I have visited the property that is the subject of the Technical Report on December 13, 2010. 
+
+6. I am independent of the issuer, New Gold Inc., applying all of the tests in section 1.4 of NI 43 
+101.   
+
+7.  I have had no prior involvement with the property that is the subject of the Technical Report.  
+
+8. I am responsible for the preparation of all sections of the Technical Report. 
+
+9. I have read NI 43-101 and Form 43-101F1, and the Technical Report has been prepared in 
+compliance with that instrument and form.   
+
+10. As of the date of this certificate, to the best of my knowledge, information and belief, the 
+Technical Report contains all scientific and technical information that is required to be disclosed 
+to make the Technical Report not misleading 
+
+11. I consent to the filing of the Technical Report with any stock exchange and other regulatory 
+authority and any publication by them, including electronic publication in the public company 
+files on their websites accessible by the public, of the Technical Report.   
+
+DATED this 6th day of June, 2011   
+
+ 
+
+ 
+
+Ronald G. Simpson, P.Geo.  
+
+
+
+TECHNICAL REPORT – BLACKWATER GOLD PROJECT 
+
+GeoSim Services Page 71
+
+21 REFERENCES 
+
+Corbett, G.J. and Leach, T.M. (1997); Southwest Pacific rim gold-copper systems: Short 
+Course Manual.  
+
+Diakow, L.J., and Webster, I.C.L. (1994): Geology of the Fawnie Creek Map Area (93F/3); in 
+Geological Fieldwork 1993, Grant, B and Newell, J.M., Editors, B.C. Ministry of Energy 
+Mines, and Petroleum Resources, Paper 1994-1, pages 15-26. 
+
+Diakow, L.J. and V.M. Levson (1997): Bedrock and Surfical Geology of the Southern 
+Nechako Plateau, Central British Columbia (93F/2,3,6,7), Geoscience Map 1997-2. (Map) 
+
+Diakow, L.J., Webster, I.C.L., Richards, T.A. and Tipper, H.W. (1997): Geology of the 
+Fawnie and Nechako Ranges, Southern Nechako Plateau, Central British Columbia 
+(93F/2,3,6,7); in Interior Plateau Geoscience Project: Summary of Geological, Geochemical 
+and Geophysical Studies, Newell, J.M. and Diakow L.G., Editors. B.C. Ministry of 
+Employment and Investment, Paper 1997-2. 
+
+Friedman, R.M., Diakow, L.J., Lane, R.A., and Mortensen, J.K. (2001): New U-Pb age 
+constraints on latest Cretaceous magmatism and associated mineralization in the Fawnie 
+Range, Nechako Plateau, central British Columbia: Canadian Journal of Earth Sciences, vol. 
+38: pp. 619-637 
+
+
+
+
+'

@@ -1,0 +1,2921 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - FINAL 111010_TSXReptdocx.docx
+
+
+ 
+ 
+ 
+
+UPDATED ESTIMATION OF PHOSPHATE RESOURCES FOR 
+THE SANDPIPER PROJECT IN ML170, NAMIBIA 
+
+(A NI 43-101 Compliant Technical Report) 
+ 
+
+For  
+Namibian Marine Phosphate (Pty) Ltd 
+
+ 
+ 
+ 
+ 
+
+Prepared by 
+ 
+ 
+
+DR A. E. ANNELS C.Eng, FIOM3 
+ 
+
+(QUALIFIED PERSON) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+DATE: 23rd September 2011 
+
+
+
+ ii
+
+TABLE OF CONTENTS 
+ 
+
+1.0	 INTRODUCTION ............................................................................................. 1	
+1.1	 Introduction ...................................................................................................... 1	
+1.2	 Scope of Work and Qualified Person .............................................................. 2	
+1.3	 Sources of Information and Databases ........................................................... 2	
+1.4	 Disclaimer ........................................................................................................ 2	
+
+2.0	 RELIANCE ON OTHER EXPERTS ................................................................ 3	
+
+3.0	 PROPERTY DESCRIPTION AND LOCATION .............................................. 3	
+
+4.0	 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE 
+AND PHYSIOGRAPHY ................................................................................... 7	
+
+4.1	 Topography, elevation and vegetation ............................................................ 7	
+4.2	 The means of access to the property .............................................................. 7	
+4.3	 The proximity of the property to a population centre, and the nature of 
+
+transport .......................................................................................................... 7	
+4.4	 The climate and the length of the operating season ....................................... 8	
+4.5	 Infrastructure ................................................................................................... 9	
+
+5.0	 5.0 HISTORY ................................................................................................ 10	
+5.1	 Prior ownership of the property and ownership changes .............................. 10	
+5.2	 The type, amount, quantity and general results of exploration and 
+
+development work undertaken by previous owners or operators .................. 10	
+5.3	 Historical mineral resource and mineral reserve estimates ........................... 10	
+
+6.0	 GEOLOGICAL SETTING AND MINERALIZATION ..................................... 10	
+6.1	 Stratigraphy ................................................................................................... 10	
+6.2	 Spatial Variation ............................................................................................ 11	
+6.3	 Mineralization ................................................................................................ 14	
+
+7.0	 DEPOSIT TYPES .......................................................................................... 14	
+
+8.0	 EXPLORATION ............................................................................................ 14	
+
+9.0	 DRILLING ..................................................................................................... 15	
+9.1	 The Gravity Corer .......................................................................................... 15	
+9.2	 Sampling Programme and Approach ............................................................ 16	
+
+10.0	 SAMPLE PREPARATION, ANALYSES AND SECURITY ........................... 19	
+10.1	 Sample Collection ......................................................................................... 19	
+10.2	 Sample Storage and Security ........................................................................ 19	
+10.3	 Sample Analysis ............................................................................................ 19	
+10.4	 Quality Control Measures .............................................................................. 20	
+
+11.0	 DATA VERIFICATION .................................................................................. 23	
+11.1	 General introduction and database construction and manipulation .............. 23	
+11.2	 Global Resource Database – EPL 3414 and 3323 ....................................... 24	
+
+12.0	 MINERAL PROCESSING AND METALLURGICAL TESTING .................... 26	
+
+13.0	 MINERAL RESOURCE ESTIMATES ........................................................... 26	
+13.1	 Introduction .................................................................................................... 26	
+13.2	 Global Resources - EPL 3414 and 3323 ....................................................... 27	
+13.3	 Inferred Mineral Resources – EPL 3414 and 3323. ...................................... 27	
+13.4	 Inferred Mineral Resources – EPL 3415 ....................................................... 33	
+13.5	 Grade Tonnage Relationships for EPLs 3414, 3415 and 3323 Combined ... 36	
+
+
+
+ iii
+
+13.6	 Revision of Grab Sample Resources in EPL 3323 ........................................ 38	
+13.7	 Resource Classification ................................................................................. 41	
+13.8	 Statement of Mineral Resources ................................................................... 41	
+13.9	 Reconciliation of Mineral Resource Estimates .............................................. 43	
+
+14.0	 INTERPRETATION AND CONCLUSIONS .................................................. 44	
+
+15.0	 RECOMMENDATIONS ................................................................................. 45	
+
+16.0	 REFERENCES .............................................................................................. 45	
+
+17.0	 CERTIFICATE ............................................................................................... 47	
+
+ 
+ 
+
+LIST OF FIGURES 
+Figure 3.1: Location of Licences ML170, EPL3323, and 3415 (3414 entirely 
+
+absorbed by ML170) ......................................................................... 5	
+
+Figure 3.2: Licences areas showing bathymetric contours ................................. 6	
+
+Figure 4.1:  Proximity of licences to coastal population centres ........................... 8	
+
+Figure 6.1:  Compilation of Block Thickness Values EPLs 3415, 3414 and 3323 
+(blank rectangles represent Indicated Resource Areas) ................. 12	
+
+Figure 6.2:  Compilation of Grade Values EPLs 3415, 3414 and 3323 (balnk 
+rectangles represent Indicated Resource Areas) ............................ 13	
+
+Figure 8.1:   Location of Gencor vibrocorer samples (large squares) ................. 15	
+
+Figure 9.1:  Map of JV licence areas showing location of samples collected  
+in the 2008/9 and 2010/11 programmes ......................................... 18	
+
+Figure 11.1:  Selected Sample Sites (Blue triangles - previous samples retained, 
+yellow squares – 2010/11) .............................................................. 25	
+
+Figure 13.1:  Thickness values interpolated into resource blocks for EPL 3414  
+and 3323 ......................................................................................... 28	
+
+Figure 13.2:  Metal Accumulation values interpolated into resource blocks for  
+EPL 3414 and 3323 ........................................................................ 29	
+
+Figure 13.3:  Grade values interpolated into resource blocks for EPL 3414 and  
+3323 ................................................................................................ 30	
+
+Figure 13.4:  Inferred Mineral Resources for EPL 3414 and 3323 - Thickness ... 31	
+
+Figure 13.5:  Inferred Mineral Resources for EPL 3414 and 3323 - Grade .......... 32	
+
+Figure 13.6:  Inferred Resource Thickness – EPL 3415 ...................................... 34	
+
+Figure 13.8:  Grade – Tonnage Curves ................................................................ 37	
+
+Figure 13.9:  Grade above Threshold .................................................................. 37	
+
+Figure 13.10:  Grab Sample resources in EPL 3323 (December 2008) ................. 38	
+
+Figure 13.11:  Grab Sample Block Matrix after deletion of >10% Core Blocks ...... 39	
+
+Figure 13.12:  Grab Resources .............................................................................. 40	
+
+Figure 13.13:  Grab Resources .............................................................................. 41	
+ 
+  
+
+
+
+ iv
+
+LIST OF TABLES 
+Table 3.1:  Phosphate Licences ............................................................................. 3	
+
+Table 4.1:  Distances to EPLs and ML ................................................................... 7	
+
+Table 10.1:  Comparison of close-spaced holes – Bulk Sampling Area  
+EPL 3414 ........................................................................................... 21	
+
+Table 10.2:  Results of repeat analysis in the laboratory ....................................... 22	
+
+Table 10.3:  Analyses of Standards ....................................................................... 22	
+
+Table 13.1:  IDW parameters ................................................................................. 27	
+
+Table 13.2:   Comparison of Inferred Mineral Resources based on Cut-off Grade . 27	
+
+Table 13.3:  Comparison of Inferred Mineral Resources based on Cut-off Grade . 33	
+
+Table 13.4:  Grade and Tonnages above selected grade cut-offs ......................... 36	
+
+Table 13.5:  Grades and tonnages above selected cut-offs – grab sample data ... 40	
+
+Table 13.6:  Updated Inferred Mineral Resources (Phosphate) all Licence Areas 
+(10% Block Cut-off Grade Applied) .................................................... 42	
+
+Table 13.7:  Indicated Mineral Resources (Phosphate) all Licence Areas ............ 42	
+
+Table 13.8:  Inferred Mineral Resources (Phosphate) all Licence Areas ............... 42	
+
+Table 13.9:  Indicated Mineral Resources (Phosphate) all Licence Areas ............ 43	
+ 
+
+  
+
+
+
+ v
+
+SUMMARY 
+ 
+
+1.0 INTRODUCTION AND TERMS OF REFERENCE 
+ 
+1.1 Introduction 
+ 
+In October 2008, Bonaparte Diamond Mines (Namibia) (Pty) Ltd ("Bonaparte"), 
+Tungeni Investments cc ("Tungeni") and Union Resources Limited ("Union") 
+concluded a joint venture agreement to form the Sandpiper/Meob Phosphate Joint 
+Venture to jointly develop their respective marine phosphate tenements located off 
+the Namibian coast. The Sandpiper/Meob Phosphate Joint Venture interests 
+comprised Bonaparte (42.5%), Union (42.5%) and Tungeni (15%). Bonaparte was a 
+wholly owned subsidiary of Bonaparte Diamond Mines NL ("BDMNL"). BDMNL was 
+appointed by the JV to manage the marine exploration and resource development 
+programme. During 2009, Australian listed company Minemakers Ltd. [Minemakers] 
+was successful in its bid to take over BDMNL.  As a result, BDMNL has since been 
+delisted and is now a wholly owned proprietary limited subsidiary of Minemakers. The 
+interests in the Joint Venture project have also now been transferred into a Namibian 
+Registered JV Company , Namibian Marine Phosphate (Pty) Limited which is held as 
+follows: Minemakers Limited subsidiary (42.5%), Union Resources subsidiary 
+(42.5%) and Tungeni  (15%). 
+ 
+
+The JV project area comprises a total of 7 Exclusive Exploration Licences (EPL's) 
+covering 7000km2 in total. In 2009, work within the Sandpiper JV Project area was 
+focused on the three key tenements in the JV area namely EPLs 3414, 3415 and 
+3323.  EPL 3415 lies to the south of EPL 3414 for which an updated resource 
+estimate was produced in July 2009. EPL 3323 lies to the east of EPL 3414 in the JV 
+area.  
+ 
+On 13th July 2011 a 20 year mining license, ML170, was awarded over the whole of 
+EPL 3414 and portions of EPL's 3415 and 3323. ML 170 covers an area of 2233km2, 
+while the remaining areas of EPL 3415 and 3323 are now 250km2 and 560km2 
+respectively. There also remain 4 other EPL's covering 4000km2 in total. The 
+locations of resources and their geological context within ML170 are still referred to 
+by their original EPL numbers in this update report to prevent confusion and maintain 
+continuity with earlier reports. 
+ 
+This report provides an update of the resources of the Sandpiper Project following 
+the completion, in March 2011, of a new programme of gravity corer sampling in EPL 
+3414 and 3323. This programme of 100 cores (including 10 cores for bulk sampling) 
+was concentrated on intermediate lines between existing 4000m spaced sampling 
+lines and thus reduced the line spacing to 2000m. No additional drilling has been 
+undertaken in the "Indicated Resource Areas" (IRA) or in EPL 3415. 
+ 
+1.2 Scope of Work 
+ 
+This report has been prepared in compliance with the Canadian Securities 
+Administrator's National Instrument 43-101 for Minemakers Ltd subsequent to their 
+listing on the Toronto Stock Exchange in September 2010. 
+ 
+The writer of this report and Qualified Person (QP) was appointed by Minemakers to 
+produce an updated independent assessment and classification of the insitu 
+resources of EPL 3414 and 3323 using the data available as of March 2011. These 
+
+
+
+ vi
+
+estimates update those made in previous reports dated 15th April 2009, 24th June 
+2009, 25th July 2009 and 21st March 2011 (see References in Section 16). All of 
+these reports were produced by the Qualified Person for the joint venture company 
+and partners on instruction from BDML. Reference should thus be made to these 
+documents for more detailed information concerning the local geology and the 
+sampling techniques employed. In addition, the QP has been asked to provide 
+resource estimates for the Inferred Mineral Resources for both licences and for EPL 
+3415 using a 10% block cut-off grade (BCOG) to allow comparison with previous 
+estimates based on a 15% BCOG and also to produce grade-tonnage data for a 
+range of BCOGs for the grab sample data in the area of EPL 3323 remaining after 
+removal of resources based on core data. 
+ 
+1.3 Qualified Person 
+ 
+The Qualified person responsible for the content of this report is:- 
+ 
+
+Dr Alwyn E. Annels FIOM3  C.Eng 
+ 
+
+He is an independent resource consultant with 44 years' experience in the 
+exploration, geological interpretation and resource estimation of mineral deposits. 
+More specifically, he has audited and undertaken resource estimation for offshore 
+diamond deposits along the Namibian portion of the southern African continental 
+shelf since 2000. The phosphate deposits, for which he has undertaken resource 
+estimation since 2008, are in very similar geological environments to, and are 
+spatially associated with, the alluvial diamond deposits. The latter may occur at the 
+base of the phosphatic sediments though the processes of formation differ. 
+ 
+2.0 GEOLOGY 
+ 
+The phosphatic horizon, which overlies a grey-green clay of Miocene age, is 
+subdivided into two distinct layers; an upper 0.1 to 1.0 m thick shelly phosphorite 
+identified as Holocene in age and demonstrating a downward fining sequence and a 
+lower 0.05 to >2.0 m (up to 5.5m in some Gencor vibrocores) thick clayey 
+phosphorite identified as Pleistocene in age. 
+ 
+These phosphate deposits are characterized by their spatial continuity (especially in 
+a NNE direction) and general uniformity in grade. Thickness variations are generally 
+the product of thicker accumulation of sediment in palaeotopographic depressions in 
+the underlying clay surface. The phosphate is thought to be the product of 
+synsedimentary chemical precipitation and early diagenetic concretionary growth 
+within the unconsolidated sediment. 
+ 
+Grades for individual samples rarely exceed 23% P2O5 and the majority lie between 
+17 and 21% P2O5. Average layer grades are typically 19 - 20% P2O5 for the lower 
+layer (1) and 18 -19% for the upper layer (2). Overall deposit grades decrease both 
+laterally and vertically reflecting the pinchoutout of Layer 2 to the east and to the west 
+so that Layer 1 then sits directly on the underlying clay. In addition, decreases in 
+grade may also be due to the local increase in clay infiltration or deposition or to the 
+winnowing action of bottom currents near the water-sediment interface. 
+ 
+3.0 SAMPLING  
+ 
+Details of the sampling method using a gravity corer and all the associated 
+procedures are to be found in the April 2009 report but a brief summary is presented 
+below. 
+
+
+
+ vii
+
+ 
+In 2010 and 2011 three generations of a new gravity corer were built and utilised. 
+These newer gravity corers weighed between 350 and 700kg and could be fitted with 
+steel pipe sections that ranged from 3m to 4.5m long and contained 75mm or 90mm 
+diameter plastic sample barrels in which the core could be recovered. The gravity 
+corer is lowered towards the sea bed on the main winch cable until 5m above the sea 
+bed it takes a controlled drop on a built in 13mm wire spool to impale the sediments 
+before being pulled out again and recovered to the vessel.  Although good core 
+recovery was obtained in most areas there were areas where the corer failed to 
+penetrate the phosphorite horizon due to the presence of dense shell concentrations. 
+ 
+The 2010/11 programme of sampling was completed in March 2011 when 100 
+sample sites had been occupied on a regional infill sample grid in EPL 3414 and the 
+western portion of EPL 3323. This sampling area also incorporates the Initial Target 
+Mining Area (ITMA) which lies in water depths of <225m. This programme was aimed 
+at demonstrating the continuity of the mineralization in the ITMA over an area of 
+approximately 25 x 8 km and to identify areas of consistent thickness and 
+mineralization grading above 20% P2O5 in the upper levels of the deposit. In addition, 
+it was undertaken to define an area for detailed follow-up sampling to further upgrade 
+current Inferred Mineral Resources to the higher category of Indicated Mineral 
+Resource to support a 25 year mine development plan for the Definitive Feasibility 
+Study (DFS). 
+ 
+The 100 sample sites included 10 closely spaced sites from which cores were 
+obtained to create a bulk sample for preliminary processing studies. Sampling was 
+concentrated on intermediate lines between existing 4000m spaced sampling lines 
+and thus reduced the line spacing to 2000m. The sample spacing on these lines was 
+1600m though locally, in the east, it was reduced to 800m. 
+ 
+The use of the upgraded gravity corer system allowed greater penetration depths 
+than in the initial phase of sampling in 2008/9 with an average penetration depth of 
+1.65m (previously 1.22m) and a maximum penetration depth of just over 3m in water 
+depths of between 180 and 300m.  
+ 
+No additional sampling has been undertaken in the two "Indicated Resource Areas" 
+(IRAs) or in EPL 3415. 
+ 
+4.0 RESULTS OF CURRENT SAMPLING 
+ 
+Compilation of available data for all three JV licence areas shows that there are two 
+distinct parallel zones of thicker phosphatic material. The best developed passes 
+through EPL 3414 into the north of EPL 3415, however, water depths are increasing 
+to excess of 300m at this southwestern extremity. Within this zone, which is up to 9 
+km wide, phosphatic sediments exceed 100 cm in thickness. The full thickness of 
+phosphate is not known as holes have generally penetrated to depths of less than 
+200cm and only 40% reached the underlying grey-green clay. There is thus a 
+considerable upside potential in terms of tonnage. 
+ 
+The second zone, to the east, passes through the southwest part of EPL 3323 
+(where it is weakly developed) into EPL 3415 where it is much better developed in an 
+area with water depths of 200 to 300m. 
+ 
+
+
+
+ viii
+
+5.0 RESOURCE ESTIMATION 
+ 
+Inferred Mineral Resources have been calculated for EPL3414 and 3323 combined 
+using combined assay and thickness data for Layers 1 and 2.  
+ 
+2D Inverse Distance Weighting (IDW) methods were used to interpolate thicknesses, 
+metal accumulations and grades into 1000 x 1000m blocks in both areas. 
+Extrapolation has been constrained by boundary files representing the perimeter of 
+the resource under evaluation and 2D search areas were used whose dimensions 
+were controlled by examination of the distribution and trends of data and by the 
+results of current and previous geostatistical studies. 
+ 
+In the case of Inferred Resources, volumes have been converted into wet tonnages  
+using a conservative estimate of 1.68 tonnes / m3. The dry tonnage was then 
+estimated using a factor of 0.75 based on the average of all measurements available 
+at the time of writing. 
+ 
+No additional sampling has been undertaken at a density necessary to support 
+Indicated Mineral Resources hence these resources remain unchanged since the 
+March 2011 report. 
+ 
+6.0 QA/QC PROCEDURES AND RESULTS 
+ 
+The quality of sampling and analysis continues to be monitor using the now well 
+established QA/QC protocol which includes the following. 
+ 
+
+a) Close spaced drilling to test the reproducibility of sample data at a specific 
+location. 
+
+b) Duplicate sampling and analysis of core to determine the combined sampling 
+and analytical precision. 
+
+c) Repeat analysis of samples in the laboratory to determine the analytical 
+precision. This procedure is undertaken by the laboratory. 
+
+d) Repeat analysis of 'blind' samples previously analysed by the laboratory but 
+resubmitted under new numbers. 
+
+e) Analysis of commercially available accredited standards with each batch of 
+routine samples to determine analytical accuracy. 
+
+f) Analysis of blanks to monitor potential contamination in the sample 
+preparation process. 
+
+ 
+No referee samples were submitted to an internationally accredited assay laboratory 
+during this particular programme but a batch will be selected and sent during a future 
+programme. 
+ 
+In all cases, the results were found to be very satisfactory and there is no evidence of 
+any systematic bias. Intra-laboratory comparisons all indicated repeatability of results 
+to a precision of better than 5%. 
+ 
+7.0 RESOURCE CLASSIFICATION 
+ 
+Though the density of regional sampling in most of EPL 3414 and 3323 is too low to 
+allow anything but an Inferred status to be applied, within the 10 km2 areas of 
+detailed sampling in each of the EPLs, the density of sampling (400 x 400m) is more 
+than adequate to allow the assignment of an Indicated Mineral Resource 
+classification. Variographic studies are now available which indicate that 
+geostatistical ranges for thickness, metal accumulation and grade are generally in 
+
+
+
+ ix
+
+excess of 450m and as high as 1250m in the case of EPL 3323, for some directional 
+variograms. The boundary between Inferred and Indicated Mineral Resources in 
+terms of sample spacing is set at the point at which no serial correlation (Covariance) 
+exists between samples. This spacing is represented by the geostatistical range. The 
+level of geological understanding and knowledge of this area of the Namibian 
+continental shelf is also more than adequate to support the reporting of Mineral 
+Resources meeting International Codes as are the results of QA/QC procedures. 
+ 
+The gravity core sampling has clearly defined the existence of a significant 
+phosphate deposit in terms of areal extent and thickness, at grades which are 
+potentially economic.  
+ 
+8.0 STATEMENT OF MINERAL RESOURCES 
+ 
+8.1 Current Resource Statements for EPL 3415 and 3323 
+ 
+Based on the information presented above, all the Mineral Resources estimated for 
+the gravity cored areas of EPL 3414, 3415 and 3323 are considered to be fully NI 43-
+101 compliant. Estimates are rounded to reflect the level of confidence in these 
+resources at the present time. 
+ 
+The updated Mineral Resources listed in Table 8.1 are based on a flexibly applied 
+10% block cut-off grade and on a minimum thickness of 25cm. Average wet tonnage 
+factors of 1.68 tonnes per cubic metre are applied to Inferred Mineral Resources 
+which are converted to dry tonnages using a factor of 0.75. In the case of Indicated 
+Mineral Resources (see Table 8.2), Layer 1 and 2 tonnages are produced using new 
+SGs of 1.75 and 1.69 tonnes per m3 respectively and new dry tonnages conversion 
+factors of 0.80 and 0.71 respectively. 
+ 
+Table 8.1 Updated Inferred Mineral Resources (Phosphate) all Licence Areas 
+(10% Block Cut-off Grade Applied) 
+ 
+EPL Sample 
+
+Type 
+Resource 
+
+Area 
+Wet 
+
+Tonnes x 
+106 
+
+Dry 
+Tonnes x 
+
+106 
+
+Grade 
+(% P2O5) 
+
+Date 
+Reported
+
+3323 Grab All * 139.1 104.3 13.4 August 11
+3415 Core North 138.0 103.5 19.8 August 11
+3415 Core Central+South 520.7 390.6 17.5 August 11
+3414+ 
+3323 
+
+Core All and West 
+respectively 
+
+1,705.1 1,278.8 19.0 August 11
+
+  Combined 2,502.9 1,877.2 18.4  
+* Excluding area covered by core resources 
+
+ 
+Table 8.2: Indicated Mineral Resources (Phosphate) all Licence Areas 
+ 
+EPL Sample 
+
+Type 
+Resource 
+
+Area 
+Wet 
+
+Tonnes x 
+106 
+
+Dry 
+Tonnes x 
+
+106 
+
+Grade 
+(% P2O5) 
+
+Date 
+Reported 
+
+3323 Core West 16.235 12.176 20.52 June 09 
+3414 Core Detailed 47.251 35.438 21.70 July 09 
+3415 Core Detailed 35.424 26.310 19.08 Sept 09 
+  Combined 98.910 73.924 20.57  
+ 
+
+
+
+ x
+
+ 
+All of the resources estimated in this report are in tenements owned by Namibian 
+Marine Phosphates (Pty) Ltd ("NMP") and that company advises that all of the 
+tenements are currently in good standing. 
+ 
+A Definitive Feasibility Study on the economics of development of the phosphate 
+resources is being carried out for NMP by independent and appropriately qualified 
+local and international consultants. NMP advises that, at this time, is not aware of 
+any environmental, permitting, legal, title, taxation, socio-economic, marketing or 
+other factors which are likely to cause a material effect on the mineral resource 
+estimates herein. 
+ 
+9.0 INTERPRETATION AND CONCLUSIONS 
+ 
+
+1) Compilation of available data for all three licence areas shows that there are 
+two distinct parallel zones of thicker phosphatic material. The best developed 
+passes through EPL 3414 into the north of EPL 3415, however, water depth 
+is increasing to excess of 300m at this south-western extremity. The second 
+zone, to the east, passes through the south west part of EPL 3323 (where it is 
+weakly developed) into EPL 3415 where it is much better developed in an 
+area with water depths of 200 to 300m. 
+
+ 
+2) The modifications undertaken to the gravity corer since the March 2011 report 
+
+have improved sample recovery in EPLs 3414 and 3323 and also achieved a 
+significant improvement in depth penetration. However, this is still not 
+sufficient to obtain complete intersection of the phosphate horizon down to 
+the footwall clays. 
+
+ 
+3) The completion of infill lines, reducing the line spacing to 2000m, has 
+
+confirmed the continuity of mineralization and P2O5 grade. 
+ 
+
+4) Coverage of EPL 3415 is still incomplete as no additional sampling has been 
+undertaken in this licence area, priority being given to 3414 and 3323 due to 
+their shallower water depth. Though three separate areas exist from the point 
+of view of sampling, two of these have been merged as a result of 
+extrapolation by the software. As a consequence, assessment of the full 
+extent of the potential mineralization remains incomplete. 
+
+ 
+5) Sampling, core logging and petrographic analyses appear to have been 
+
+undertaken with great care though these procedures have not been directly 
+witnessed by the Qualified Person.  
+
+ 
+6) Close spaced drilling continues to confirm that sample grades revealed by the 
+
+gravity corer are representative of the area in which they lie. Thicknesses 
+obtained from complete intersections reveal some variability over distances of 
+10s of metres reflecting variable compaction rates and local changes in the 
+floor of the depression in which the phosphate has accumulated. 
+
+ 
+7) Inter-laboratory analytical comparisons have not been made during the 
+
+current programme but previous studies did indicate that there is no 
+systematic bias in the results from the routine laboratory though comparisons 
+give repeatability precisions no better than 10%. 
+
+ 
+8) Improvements in analytical precision are evident compared with previous 
+
+studies of QA/QC results and are now considered very satisfactory. 
+
+
+
+ xi
+
+ 
+9) QA/QC procedures have been followed and the results have been examined 
+
+by the Qualified Person and have been found to be compatible with the level 
+of confidence expected for NI 43 -101 compatible Mineral Resources. 
+
+ 
+10) The deletion of some of the previous data from the resource database is 
+
+justified as it would have affected the quality of the resource model by 
+introducing line anomalies where poor penetration depths were achieved. 
+
+ 
+11) The 2010/11 sampling programme was aimed at completing the coverage of 
+
+EPLs 3414 and 3323 at a sampling density sufficient for the determination of 
+an Inferred Mineral Resource. This work has allowed the definition of priority 
+target areas for the next phase of closer spaced sampling (currently in 
+progress) aimed at the production of Indicated Mineral Resources for the 
+Definitive Feasibility Study. 
+
+ 
+12) The increase in Inferred Mineral Resource reported in this study largely 
+
+reflects the deeper penetration of the modified gravity corer and the slightly 
+extended coverage. Despite the removal of some of the previous data from 
+the database, there has been no significant change in grade and there is 
+every indication that grade variations are gradual and predictable. 
+
+ 
+13) The reduction in the Block Cut-off Grade from 15% to 10% has only slightly 
+
+increased the tonnages available with a concomitant small reduction in grade. 
+ 
+
+14) The resource estimates presented are considered to be conservative in terms 
+of tonnage as phosphate is known to continue below those intersections 
+which failed to reach the underlying grey-green clay. 
+
+ 
+15) Preliminary mineral processing tests and studies undertaken in 2001 and 
+
+2004 suggest that there is the potential for economic upgrading of Run of 
+Mine material to a saleable product. This has also been support by October 
+2010 scoping study results. This is accepted by the QP as further support for 
+the definition of Mineral Resources within the Sandpiper Project Area. 
+
+ 
+10.0 RECOMMENDATIONS 
+
+ 
+The following recommendations are made for consideration by Minemakers Ltd.  
+
+ 
+1) Attempts should continue to be made to improve depth penetration in Layer 2 
+
+in all three EPLs possibly through the introduction of a vibracorer. 
+ 
+
+2) Coverage of EPL 3415 at a 4000m line spacing needs to be completed with 
+localized infill lines where warranted. 
+
+ 
+3) Once the drilling for Indicated Mineral Resources is complete, further 
+
+investigation of the eastern margin of the main 3141/3323 phosphate zone 
+should be undertaken to resolve some of the problems relating to the thick 
+low grade Layer 2 sediments that were intersected in previous sampling work 
+and also whether the second lower phosphate rich layer intersected in two 
+holes in this area during the recent programme have any spatial continuity 
+and should thus be included in future resource estimates. 
+
+ 
+4) As a large portion of the central and eastern areas of EPL 3323 has only 
+
+been subject to grab sampling, it is recommended that some reconnaissance 
+
+
+
+ xii
+
+lines be sampled, using the gravity corer, over areas with elevated grades to 
+determine whether they have any economic potential in terms of grade and 
+thickness. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dr Alwyn E. Annels C.Eng, FIOM3 
+ 
+
+Qualified Person     23rd September 2011 
+ 
+ 
+
+
+
+ 1
+
+UPDATED ESTIMATION OF PHOSPHATE RESOURCES FOR 
+THE SANDPIPER PROJECT IN ML170, NAMIBIA 
+
+(A NI 43-101 Compliant Technical Report) 
+ 
+
+For  
+Namibian Marine Phosphate (Pty) Ltd 
+
+ 
+ 
+ 
+
+1.0 INTRODUCTION 
+ 
+1.1 Introduction 
+ 
+In October 2008, Bonaparte Diamond Mines (Namibia) (Pty) Ltd ("Bonaparte"), 
+Tungeni Investments cc ("Tungeni") and Union Resources Limited ("Union") 
+concluded a joint venture agreement to form the Sandpiper Phosphate Joint Venture 
+to jointly develop their respective marine phosphate tenements located off the 
+Namibian coast. The Sandpiper Phosphate Joint Venture interests comprised 
+Bonaparte (42.5%), Union (42.5%) and Tungeni (15%). Bonaparte was a wholly 
+owned subsidiary of Bonaparte Diamond Mines NL ("BDMNL"). BDMNL was 
+appointed by the JV to manage the marine exploration and resource development 
+programme. During 2009, Australian listed company Minemakers Ltd. [Minemakers] 
+was successful in its bid to take over BDMNL.  As a result, BDMNL has since been 
+delisted and is now a wholly owned proprietary limited subsidiary of Minemakers. The 
+interests in the Joint Venture project have also now been transferred into a Namibian 
+Registered JV Company , Namibian Marine Phosphate (Pty) Limited (NMP) which is 
+held as follows: Minemakers Limited subsidiary (42.5%), Union Resources subsidiary 
+(42.5%) and Tungeni  (15%). 
+ 
+The JV project area comprises a total of 7 Exclusive Exploration Licences (EPL's) 
+covering 7000km2 in total. In 2009, work within the Sandpiper JV Project area was 
+focused on the three key tenements in the JV area namely EPLs 3414, 3415 and 
+3323.  EPL 3415 lies to the south of EPL 3414 for which an updated resource 
+estimate was produced in July 2009. EPL 3323 lies to the east of EPL 3414 in the JV 
+area. 
+ 
+On 13th July 2011 a 20 year mining license, ML170, was awarded over the whole of 
+EPL 3414 and portions of EPL's 3415 and 3323. ML 170 covers an area of 2233km2, 
+while the remaining areas of EPL 3415 and 3323 are now 250km2 and 560km2 
+respectively. There also remain 4 other EPL's covering 4000km2 in total. The 
+locations of resources and their geological context within ML170 are still referred to 
+by their original EPL numbers in this update report to prevent confusion and maintain 
+continuity with earlier reports. 
+ 
+This report provides an update of the resources of the Sandpiper Project following 
+the completion, in March 2011, of a new programme of gravity corer sampling in EPL 
+3414 and 3323. This programme of 100 cores (including 10 cores for bulk sampling) 
+was concentrated on intermediate lines between existing 4000m spaced sampling 
+lines and thus reduced the line spacing to 2000m. No additional drilling has been 
+undertaken in the "Indicated Resource Areas" (IRA) or in EPL 3415. 
+ 
+
+
+
+ 2
+
+1.2 Scope of Work and Qualified Person 
+ 
+This report has been prepared in compliance with the Canadian Securities 
+Administrator's National Instrument 43-101 for NMP subsequent to their listing on the 
+Toronto Stock Exchange in September 2010. 
+ 
+The writer of this report and Qualified Person (QP) was appointed by Minemakers to 
+produce an updated independent assessment and classification of the in-situ 
+resources of EPL 3414 and 3323 using the data available as of March 2011. These 
+estimates update those made in previous reports dated 15th April 2009, 24th June 
+2009, 25th July 2009 and 21st March 2011 (see References in Section 16). All of 
+these reports were produced by the Qualified Person for the joint venture company 
+and partners on instruction from BDML. Reference should thus be made to these 
+documents for more detailed information concerning the local geology and the 
+sampling techniques employed. In addition, the QP has been asked to provide 
+resource estimates for the Inferred Mineral Resources for both licences and for EPL 
+3415 using a 10% block cut-off grade (BCOG) to allow comparison with previous 
+estimates based on a 15% BCOG and also to produce grade-tonnage data for a 
+range of BCOGs for the grab sample data in the area of EPL 3323 remaining after 
+removal of resources based on core data. 
+ 
+The Qualified Person responsible for the content of this report is:- 
+ 
+
+Dr Alwyn E. Annels FIOM3, C.Eng 
+ 
+
+Dr A. E. Annels is a Chartered Engineer and Fellow of the Institute of Materials, 
+Minerals and Mining (IOM3). He is an independent resource consultant with 44 years 
+experience in the exploration, geological interprtetation and resource estimation of 
+mineral deposits. More speciifically, he has audited and undertaken resource 
+estimation for offshore diamond deposits along the Namibian portion of the southern 
+African continential shelf since 2000. The phosphate deposits, for which he has 
+undertaken resource estimation since 2008, are in very similar geological 
+environments to, and are spatially associated with, the alluvial diamond deposits. The 
+latter may occur at the base of the phosphatic sediments though the processes of 
+formation differ. 
+ 
+1.3 Sources of Information and Databases 
+ 
+All data used for the production of this report has been provided by Minemakers in 
+the form of Excel spreadsheets. 
+ 
+1.4 Disclaimer 
+ 
+Dr Annels has not directly observed sample collection on board ship or the 
+preparation and analysis (petrographic and chemical) of these samples relying 
+heavily on Dr Morrison (see below). No visit to sample storage and preparation 
+facilities in Namibia has been undertaken by the Qualified Person and thus he has 
+not directly examined grab and core samples. Dr Annels has thus taken the sampling 
+data provided at face value having full confidence in the work undertaken by 
+Minemakers and Bonaparte prior to the acquisition of the JV licences by Minemakers 
+and also in its QA/QC procedures. The author bases this confidence on having been 
+consulted by the Bonaparte/Minemakers team regularly throughout the resource 
+sampling operation in relation to sampling grid layout and detailed sample handing 
+and QC/QA procedures. 
+ 
+
+
+
+ 3
+
+2.0 RELIANCE ON OTHER EXPERTS 
+ 
+Details of the local geology and sampling methodologies applied have been supplied 
+to Dr Annels by Dr C. Morrison who has 21 years experience in exploration and 
+sampling in the submarine environment. He had full responsibility for the supervision 
+of sample collection and also undertook the sampling of phosphatic material for 
+analysis. He also compiled and validated the databases on which the resource 
+estimates are based and has supervised QA/QC procedures specified by Dr Annels 
+both in the sample collection facility and in the analytical laboratory. The Qualified 
+Person has, however, undertaken his own checks on the database and has 
+undertaken statistical studies of the QA/QC data. 
+ 
+3.0 PROPERTY DESCRIPTION AND LOCATION 
+ 
+Through the Joint Venture Company, Minemakers have an interest in granted tenure 
+over 7 phosphate licences totalling 7000 km2. These Exclusive Prospecting Licences 
+(EPLs) were issued by the Namibian Ministry of Mines and Energy for periods of 
+three years, renewable for periods of two years, and lie off the coast of Namibia 
+between Walvis Bay and Luderitz (see Figure 4.1). The EPL's were all transferred 
+from the original JV partners into the JV company effective 4 October 2010. On 13th 
+July 2011 a 20 year mining licence, ML170, was awarded over the whole of EPL 
+3414 and portions of EPL's 3415 and 3323. ML 170 covers an area of 2233km2, 
+while the remaining areas of EPL 3415 and 3323 are now 250km2 and 560km2 
+respectively. 
+ 
+Areas and renewal dates for these licences are listed in Table 3.1 below. 
+ 
+Table 3.1: Phosphate Licences 
+
+EPL Licence Holder Area Expiry date 
+ML170 Namibian Marine Phosphate (Pty) Ltd 2233 km2 12/07/31 
+3323 Namibian Marine Phosphate (Pty) Ltd 560 km2 11/07/12 
+3415 Namibian Marine Phosphate (Pty) Ltd 250 km2 24/04/13 
+4009 Namibian Marine Phosphate (Pty) Ltd 1000 km2 15/01/12 
+4010 Namibian Marine Phosphate (Pty) Ltd 1000 km2 15/01/12 
+4021 Namibian Marine Phosphate (Pty) Ltd 1000 km2 15/07/11 
+4059 Namibian Marine Phosphate (Pty) Ltd 1000 km2 15/02/13 
+
+ 
+Exclusive prospecting licences are granted on payment of an annual fee of N$10,000 
+and on the submission of proposed expenditure programmes for each EPL and for 
+each year of the licence period. Monthly financial statements are then submitted 
+which are then combined at the end of the licence period in support of applications 
+for licence renewal. In addition, environmental impact assessments and 
+environmental management plans have to be submitted and approved by the 
+Namibian Ministry of Environment and Tourism. The terms of the licence also require 
+6 monthly environmental impact reports.  
+ 
+The mining licence is subject to an annual fee of N$5,000. A monthly report is 
+submitted which reflect monthly production, stock and reserve figures as well monthly 
+employee demographic and salary information. In addition, environmental impact 
+assessments and environmental management plans have to be submitted within 6 
+month of issuance of the license and an environmental contract entered into with the 
+Namibian Ministry of Environment and Tourism (MET) and the Ministry of Mines and 
+Energy (MME) before mining can commence. Mining must commence in terms of the 
+proposed work programme and budget submitted with the original mining license 
+
+
+
+ 4
+
+application although variations can be made on approval by the MME. The terms of 
+the environmental contract will probably require annual environmental impact reports. 
+ 
+Exploration work carried out todate had had no significant environmental impact. 
+Environmental Baseline studies have been completed involving physical (grab) 
+sampling of the seabed for the characterization of fauna and sediment type 
+concentrating on areas targetted for initial mining operations. 
+ 
+The licences lie within a regional phosphate province located on the continental shelf 
+off Namibia at water depths of between 130 and 400m. In these areas, the sea floor 
+is sediment covered and the main phosphatic horizon extends downward to depths of 
+in excess of 6m with thicker zones trending parallel to the coast in a NNE direction. 
+Exploration activity is largely concentrated in 3 licence areas, ML170, EPL 3323, and 
+3415 (see Figure 3.1), which together constitute the Sandpiper Phosphate Project. 
+ 
+Preliminary mining studies, involving ship-borne dredging, have indicated that current 
+dredging systems (grabs, flexible fall pipe) are capable of operating in water depths 
+of up to 700m. Moreover, existing trailing suction arm dredges are capable of 
+operating to 225m with minor adjustment but, with development of more specialized 
+systems, could attain 250m. EPL 3323 lies at water depths of 130 – 170m while 
+ML170, immediately to the east, lies at water depths of 150m to in excess of 300m. 
+EPL 3415 which is now immediately to the southwest and contiguous with ML170 
+(see Figure 3.2), lies at a water depth over 300m. The combined total area is 
+approximately 3000,000 ha with a strike length of 110 km. 
+ 
+ 
+ 
+
+
+
+ 5
+
+ 
+Figure 3.1: Location of Licences ML170, EPL3323, and 3415 (3414 entirely 
+
+absorbed by ML170) 
+ 
+
+
+
+ 6
+
+ 
+Figure 3.2: Licences areas showing bathymetric contours 
+
+ 
+
+
+
+ 7
+
+4.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE 
+AND PHYSIOGRAPHY 
+
+ 
+4.1 Topography, elevation and vegetation 
+ 
+All the properties are marine properties, as such they cover flat areas of the sea floor 
+and have no terrestrial type vegetation. 
+ 
+The neighbouring coastline of Namibia has an arid flat (peneplain) coastal belt 
+approximately 50km wide and rising from sea level to 300m over the 50km from west 
+to east. Vegetation is limited to scatter bushes in dune free or stable dune areas and 
+acacia trees along seasonal river courses. Dune fields cover the coastal plain 
+adjacent to the properties but they terminate when intersected by a seasonal river 
+course (the Kuiseb River) that flows to the Walvis Bay area which lies to the NE of 
+the properties. 
+ 
+4.2 The means of access to the property 
+ 
+The properties can be accessed by boat from the nearest ports of Walvis Bay or 
+Luderitz. 
+ 
+4.3 The proximity of the property to a population centre, and the nature of 
+
+transport 
+ 
+The properties lie in a zone between 60km and 100km off the coastline and 
+extending from Walvis Bay for 350km southwards to the vicinity of Oyster Cliffs, 
+which lies 80km to the North of Luderitz. (see Figure 4.1). Transport is by boat. 
+ 
+Table 4.1: Distances to EPLs and ML 
+EPL 3323 ML170 3415 4009 4010 4021 4059 
+Distance to 
+Walvis Bay from 
+nearest part of 
+EPL. 
+
+120km 130km 190km 80km 130km 280km 60km 
+
+ 
+
+
+
+ 8
+
+ 
+Figure 4.1: Proximity of licences to coastal population centres 
+
+ 
+ 
+4.4 The climate and the length of the operating season 
+ 
+The Namibian coastal district has an unusually cool dry and windy climate, which is 
+caused by the cold Benguela current, which flows northwards. The cold ocean water 
+maintains low temperatures with very small differences from month to month. The 
+average temperature is 16.8°C with a range of 6°C. The coast is characterized by 
+frequent fog (usually burning back during the heat of the day) and a very low annual 
+rainfall (average 20mm but ranging from 0 to 100mm per annum). The driest weather 
+
+
+
+ 9
+
+is in January, October, November and December while the wettest weather is in 
+March when an average of 8 mm of rainfall occurs across 2 days.  
+ 
+Exploration operations (and eventually mining operations) are constrained by 
+weather and sea conditions. 
+ 
+Wind and wave directions are dominantly from the south to southwest. The weather 
+tends to cycle in a 3 to 6 day pattern due to frontal systems passing to the south of 
+Southern Africa. These cycles are associated with persistent strong southerly winds 
+that periodically drop and swing to a north-westerly or easterly direction. The 
+southerly winds are persistently strong with prolonged periods during which wind 
+speeds range from 15 to 30 knots. Wind speeds gusting to 50 knots are a more or 
+less monthly occurrence. 
+  
+The average significant wave height for the entire year is below 2m for 28% of the 
+year, 2.6m for 54% of the year and below 3m for 72% of the year. Marine operations 
+are most likely to be affected during the period August to November.  
+ 
+The dredge vessel would be able to operate in spring (Sept-Nov) and autumn 
+(March-May) when sea conditions are more favourable. However, marine diamond 
+mining vessels are designed to operate throughout the year on a 24/7 basis. 
+ 
+4.5 Infrastructure 
+ 
+The resource areas are located approximately 120 km to the south east of Walvis 
+Bay, Namibia's major port.  Within the Walvis Bay area, there is significant 
+infrastructure and resources available to support the project development, including 
+rail, road, freshwater, engineering facilities, major port services as well as human 
+resources.  The emergence of the uranium industry in the region is also driving 
+significant new investment into infrastructure and services in the area.  In due course 
+it is likely that a sulphuric acid plant, and/or significant upgrades to sulphuric acid 
+handling infrastructure will be developed to support the uranium industry, further 
+enhancing the prospects for on-shore treatment of phosphate rock to phosphoric 
+acid. 
+ 
+Mining (recovery of ore) will be undertaken at sea using a large dredging vessel. As 
+such, all mining recovery infrastructure will be contained on the dredge vessel.  
+ 
+Electrical power is available in Walvis Bay through the national grid which is operated 
+by Nampower. Nampower can supply power at various voltages depending on where 
+it is taken from the grid (e.g. 3kV, 7kV or 11kV).  
+ 
+Approval has been granted in principle by Walvis Bay municipality for access to 
+excess sweet water derived from the sewage treatment works. For all other 
+processing purposes saltwater is accessible and can be used. 
+ 
+Namibia has a well developed and regulated land and marine mining industry from 
+which mining personnel can be sourced and this resource can be supplemented from 
+the South African mining industry as required. 
+ 
+There are light and heavy industrial sites designated for development in Walvis Bay, 
+close to the port of Walvis Bay. Port-storage and bulk loading facilities are available 
+in Walvis Bay. The port currently handles approximately 1.5 million tonnes of bulk 
+commodity exports per annum. The port can currently take vessels with lengths of up 
+to 300m and maximum drafts of 12.8m at the container quay. The current bulk 
+
+
+
+ 10
+
+terminal quay has a draft of 10.6m and can accept bulk shipping vessels up to 
+32,000 GRT in size. If needed, bulk vessels can be diverted to the deeper draft 
+container quay. The port has 6 cranes (mobile) rated to capacities of 80 – 140 
+tonnes. Plans for port expansion have also been approved and are in progress. 
+Maximum draft is expected to be increased to 13.5m. 
+ 
+Rail and road infrastructure is well established in the Port and surrounding area.  The 
+rail link passes through the designated heavy industry area located near the Walvis 
+Bay Airport located approximately 8km out of town and terminates in the port. 
+ 
+5.0 5.0 HISTORY 
+ 
+5.1 Prior ownership of the property and ownership changes 
+ 
+EPL 3323 was granted to Bonaparte Diamond Mines Namibia (Pty) Ltd in 2005 for an 
+itial period of 3 years and was transferred to Bonaparte Tungeni Joint Venture 
+Exploration (Pty) Ltd. on the 7th September 2006, which was re-named Minemakers 
+Tungeni Joint Venture Exploration (Pty) Ltd., before being transferred to Namibian 
+Marine Phosphate (Pty) Ltd. on the 4th October 2010. 
+ 
+EPL 3414 was granted to Sea Phosphates Namibia (Pty) Ltd. on the 25th April 2006 
+before being transferred to Namibian Marine Phosphate (Pty) Ltd. on the 4th October 
+2010. 
+ 
+EPL 3415 was granted to Sea Phosphates Namibia (Pty) Ltd. on the 25th April 2006 
+before being transferred to Namibian Marine Phosphate (Pty) Ltd. on the 4th October 
+2010. 
+ 
+ML170 was awarded to Namibian Marine Phosphate (Pty) Ltd. on 13th July 2011 and 
+incorporates the whole of EPL 3414 and parts of EPL's 3415 and 3323. 
+ 
+EPL's 4009, 4010, 4021 and 4059 are new issued license areas which were issued 
+in the name of Bonaparte Tungeni Joint Venture Exploration (Pty) Ltd., which was re-
+named Minemakers Tungeni Joint Venture Exploration (Pty) Ltd., before being 
+transferred to Namibian Marine Phosphate (Pty) Ltd. on the 4th October 2010. 
+ 
+5.2 The type, amount, quantity and general results of exploration and 
+
+development work undertaken by previous owners or operators 
+ 
+This is covered by Section 9 (Previous Exploration) of this TSX resource report. 
+ 
+5.3 Historical mineral resource and mineral reserve estimates  
+ 
+There are no historical mineral resource estimates for the properties. In 1994 Gencor 
+produced a feasibility study based on 3 billion tonnes, but this was not compliant with 
+international reporting codes for stock exchanges. 
+ 
+6.0 GEOLOGICAL SETTING AND MINERALIZATION 
+ 
+6.1 Stratigraphy  
+ 
+The stratigraphy throughout both the ML and EPL's has been ascertained from 
+gravity cores (with a penetration potential of up to 3m) and older (Gencor) vibrocore 
+(with a penetration of up to 6m). The phosphatic horizon, which overlies a grey-green 
+
+
+
+ 11
+
+clay of Miocene age, is subdivided into two distinct layers; an upper 0.1 to 1.0 m thick 
+shelly phosphorite identified as Holocene in age and demonstrating a downward 
+fining sequence and a lower 0.05 to >2.0 m thick clayey phosphorite identified as 
+Pleistocene in age. Within EPL 3323 the upper shell layer locally thickens to in 
+excess of 1.5 m (to 1.8m). 
+ 
+Comments provided in subsequent sections relate to the results obtained by gravity 
+coring which is restricted to the upper 3m of the deposit. 
+ 
+6.2 Spatial Variation 
+ 
+Figure 6.1 shows that a well-defined SSW trending zone of thicker phosphatic 
+sediment (>1m) exists throughout the central portion of EPL 3414 into the north-
+western part of EPL 3415. It may well continue further to the south but here it is in an 
+area of deeper water. The true thickness of phosphatic sediment within this zone 
+cannot yet be determined due to the limited depth penetration of the gravity corer and 
+thus variations in the palaeo-topography of the upper surface of the underlying grey-
+green clay cannot be precisely established. Along its margins, the thickness declines 
+gradually to less than 25cm in areas where the upper shelly horizon lies directly on 
+the grey-green clay with little or no intervening sandy or clayey phosphate. This 
+thicker zone also coincides with an area of higher grade (see Figure 6.2) reflecting 
+the influence of the thickening of the higher grade Layer 2. 
+ 
+EPL3323 is clearly separated from the EPL 3414 deposit by a zone in which 
+phosphatic material is thin and in which Layer 1 generally lies directly on the 
+underlying grey-green clay. This same zone can be traced into the northern and 
+central portion of EPL 3415. The thicker area of EPL3323 is partly explained by the 
+localized reappearance of Layer 2 but as the eastern edge is approached, this is the 
+product of a thick low-grade clay section (see Figure 6.2) which may represent a 
+facies equivalent of Layer 2 or the underlying grey-green clay. 
+ 
+Figure 6.1 indicates that the central part of EPL3415 appears to be the 
+southwestward continuation of the thicker zone in EPL3323 showing a westward 
+thinning as in EPL 3323. However, it has a higher grade as Layer 2 is better 
+developed and contains an area that has been allocated an Indicated status. 
+ 
+
+ 
+ 
+
+
+
+ 12
+
+ 
+Figure 6.1: Compilation of Block Thickness Values EPLs 3415, 3414 and 3323 
+
+(blank rectangles represent Indicated Resource Areas) 
+  
+
+
+
+ 13
+
+ 
+
+ 
+Figure 6.2: Compilation of Grade Values EPLs 3415, 3414 and 3323 (balnk 
+
+rectangles represent Indicated Resource Areas) 
+ 
+
+
+
+ 14
+
+6.3 Mineralization 
+ 
+The phosphatic material within the sediment is predominantly comprised of 
+unconsolidated fine sand sized phosphorite ooliths and pellets, falling in the 100 to 
+500 micron grain size range (mostly 150 to 250 microns). These pellets are formed of 
+concentric phosphate layers and predominantly comprise calcium carbonate and 
+P2O5. They can also contain quartz grains, ilmemite and sulphides. 
+ 
+The phosphorite pellets form a matrix with organic rich mud and supports a 
+downward fining and declining bed of coarse to fine shell fragments (bivalves and 
+foraminifera) in the winnowed upper part of the deposit.  The lower part of the deposit 
+is shell free and clay rich in the matrix. 
+ 
+Grades for individual samples rarely exceed 23% P2O5 and the majority lie between 
+17 and 21% P2O5. Average layer grades are typically 19 - 20% P2O5 for the lower 
+layer (2) and 18 -19% for the upper layer (1). Overall deposit grades decrease both 
+laterally and vertically, reflecting the pinchoutout of Layer 2 to the east and to the 
+west so that Layer 1 then sits directly on the underlying clay. In addition, decreases 
+in grade may also be due to the local increase in clay infiltration or deposition or to 
+the winnowing action of bottom currents near the water-sediment interface. 
+ 
+7.0 DEPOSIT TYPES 
+ 
+These phosphate deposits are characterized by their spatial continuity (especially in 
+a NNE direction) and general uniformity in grade. Thickness variations are generally 
+the product of thicker accumulation of sediment in very shallow palaeotopographic 
+depressions in the underlying clay surface. The phosphate is thought to be the 
+product of synsedimentary chemical precipation and early diagenetic concretionary 
+growth within the unconsolidated sediment. 
+ 
+8.0 EXPLORATION 
+ 
+Prior to the 2008 and 2009 programmes of work undertaken by Bonaparte and the 
+Joint Venture, licences EPL 3414, 3415 and 2027G have been investigated in some 
+detail by previous explorers. The locations of the previous samples, and the results, 
+are shown in Figure 8.1 which also shows Bonaparte's 2008 grab sampling results in 
+the adjacent licence EPL 3323. 
+ 
+Union Resources Ltd (part of the Sandpiper JV) record that phosphates were 
+originally discovered in this area in the 1970s during regional marine surveys. In 
+1992 and 1994 Gencor drilled 50 vibrocorer holes, mainly in EPL 3414 and 3415 and 
+at waters depths of between 200 and 300m though some holes did stray into EPL 
+3323. Though data only exists for 38 of these holes, the results were very 
+encouraging with grades between 15 and 22% P2O5 and thicknesses in 8 holes in 
+EPL 3414 lying between 2.62 and 5.05m, Peripheral areas displayed thicknesses of 
+between 1 and 2.0 m. As can be seen from Figure 8.1, the spacing of these holes 
+was too large to demonstrate continuity of the phosphate horizon. However, bulk 
+sampling in 2004 by the Ocean Phosphate Consortium in EPL 3415 demonstrated 
+the local continuity of grade and thickness (see Figure 8.1) in an area where grades 
+lay between 16.66 and 18.35% P2O5 and thicknesses between 3.1 and 6.36m. 
+Grades and thicknesses in the northern part of EPL 3415 were, however, lower and 
+those in EPL 2027G were very low. 
+ 
+
+
+
+ 15
+
+ 
+Figure 8.1:  Location of Gencor vibrocorer samples (large squares) 
+
+ 
+The above results provided sufficient evidence to support the view that the Sandpiper 
+Project Area could host significant quantities of phosphate, a view that was later 
+confirmed by the 2008 / 2009 grab and core sampling programme.  
+ 
+9.0 DRILLING 
+ 
+9.1 The Gravity Corer 
+ 
+Samples collected for the purposes of the current updated resource estimates were 
+obtained using gravity coring techniques. Details of the sampling method using a 
+gravity corer and all the associated procedures, are to be found in the April 2009 
+report (see References) however, a summary is presented below. 
+ 
+The original gravity corer used in 2008 and 2009 comprised a 1.5m long dart section 
+which weighs 110kg. The corer had a hollow mid section that could be filled with 
+cement to increase the weight of the corer to over 400kg. The corer was lifted by 
+three lifting wires gathered at a shackle, which allowed it to hang vertically over the 
+side of the ship with the point down. A tail fin provided stability when it was free 
+falling through the water. Attached to the dart section was a 3m long steel pipe 
+
+
+
+ 16
+
+section that contained a 3m long 2-inch internal diameter plastic sample barrel. The 
+corer was lowered to within 15m of the seabed and then dropped in third gear for the 
+remaining 15m to impale the seabed before being pulled out of the sediment and 
+recovered to the vessel.  
+ 
+In 2010 and 2011 three generations of a new gravity corer were built and utilised. 
+These newer gravity corers weighed between 350 and 700kg and could be fitted with 
+steel pipe sections that ranged from 3m to 4.5m long. The steel pipe was fitted with 
+75mm or 90mm diameter plastic sample barrels in which the core could be 
+recovered. The gravity corer is deployed using the vessels main winch. This winch is 
+not a free fall winch. The gravity corer works with a lever controlled mechanical 
+braking system. A 50kg weight on a 5m cable keeps the brake in a locked position 
+while the gravity corer is lowered towards the sea bed on the main winch cable 
+(16mm). When the 50kg weight reaches the sea bed the weight on the lever goes 
+slack, releasing the lever, which allows the brakes to release. The gravity corer then 
+takes a controlled drop of up to 5m to the seabed on a built in 13mm wire spool that 
+sits at the top of the corer.  Although good core recovery was obtained in most areas 
+there were areas where the corer failed to penetrate the phosphorite horizon due to 
+the presence of dense shell concentrations. 
+ 
+9.2 Sampling Programme and Approach 
+ 
+Reconnaissance sampling during the 2008/9 programmes was largely concentrated 
+in those areas where water depths are between 200 and 300m and thus potentially 
+mineable given additional modifications to the proposed dredging vessel. This work 
+brought the total strike length covered to 90 km at an east-west line spacing of 
+4000m and with a spacing along lines of close to 1600m.  
+ 
+The 2010/11 programme of gravity corer sampling was completed in March 2011 and 
+occupied 100 sample sites on a regional infill sample grid in EPL 3414 and the 
+western portion of EPL 3323 (the northern portion of the Sandpiper Project Area). 
+This sampling area also incorporates the Initial Target Mining Area (ITMA) which lies 
+in water depths of <225m for development using the Jan De Nul dredger "Christobal 
+Colon". This programme was aimed at demonstrating the continuity of the 
+mineralization in the ITMA over an area of approximately 25 x 8 km and to identify 
+areas of consistent thickness and mineralization grading above 20% P2O5 in the 
+upper levels of the deposit. In addition, it was undertaken to define an area for 
+detailed follow-up sampling to further upgrade current Inferred Mineral Resources to 
+the higher category of Indicated Mineral Resource to support a 25 year mine 
+development plan for the Definitive Feasibility Study (DFS). 
+ 
+The 100 sample sites included 10 closely spaced sites from which cores were 
+obtained to create a bulk sample for preliminary processing studies. These sites were 
+concentrated on intermediate lines between existing 4000m spaced sampling lines 
+and thus reduced the line spacing to 2000m. The sample spacing on these lines was 
+1600m though locally in the east it was reduced to 800m. The location of these new 
+sites in relation to previous sampling sites is shown in Figure 9.1. This spacing is 
+considered adequate for the assignment of an Inferred Mineral Resource status.  
+ 
+The use of the upgraded gravity corer system allowed greater penetration depths 
+than in the initial phase of sampling in 2008/9 with an average penetration depth of 
+1.65m (previously 1.22m) and a maximum penetration depth of just over 3m in water 
+depths of between 180 and 300m. The average thickness of mineralization (Layers 1 
+and 2) intersected was 1.51m. 
+ 
+
+
+
+ 17
+
+No additional sampling has been undertaken in the two "Indicated Resource Areas" 
+(IRAs) or in EPL 3415. 
+ 
+Standard QA/QC procedures were followed during the sampling programme and 
+included an examination of: 
+ 
+
+ The effectiveness of the GPS positioning system (by comparison with an 
+independent GPS and reference to a fixed position). 
+
+ 
+ The quality of samples collected (by observation). 
+
+ 
+ The reliability of the record keeping (records kept and signed off). 
+
+ 
+ The labelling of samples (all samples inspected and labelling improved as 
+
+necessary). 
+ 
+
+ Whether samples were missing or if extra samples were collected. 
+ 
+
+ Whether storage of samples was satisfactory (no leakage, and careful 
+handling of samples). 
+
+ 
+
+
+
+ 18
+
+ 
+Figure 9.1: Map of JV licence areas showing location of samples collected in the 
+
+2008/9 and 2010/11 programmes 
+ 
+
+
+
+ 19
+
+10.0 SAMPLE PREPARATION, ANALYSES AND SECURITY 
+ 
+10.1 Sample Collection 
+ 
+Sample collection and preparation took place in Luderitz and was under the control of 
+geologists directly employed by Minemakers. 
+ 
+Gravity cores are contained within 55mm, 75mm or 90mm internal diameter blue 
+plastic piping cut and capped at the length of the core onboard the vessel. These 
+cores are split longitudinally and then sub-sampled to obtain approximately 120 to 
+170g of wet material to generate 70 to 120g of dry material for XRF analysis. 
+Sampling was done separately for the shelly phosphate unit and the clayey 
+phosphate unit, except where very thin, when it was included in the shelly sample. If 
+a unit exceeded 75cm in length then that unit was sampled as two or more sub-
+samples ranging from 35cm to 70cm depending on the length to be sampled. 
+Samples were taken as channels scooped along the interval to be sampled.  
+ 
+10.2 Sample Storage and Security 
+ 
+The majority of samples are stored in Luderitz, Namibia in a workshop facility. The 
+samples are in the form of core halves (cut plastic core sleeves) which have been 
+cling wrapped to keep the sediment in place and laid out in a dry store room, or grab 
+samples in plastic bottles stored in large plastic crates. The premises are surrounded 
+by barbed wire fencing and buildings have a linked alarm system. 
+ 
+A number of samples are also stored in Cape Town (selected cores and all 
+laboratory pulp samples). Pulp samples are in zip-lock bags sealed in larger batch 
+bags. These samples are in a locked store room within a modern rental storage 
+building with access control and CCTV monitoring. 
+ 
+10.3 Sample Analysis 
+ 
+Samples were collected for laboratory analysis of major elements by XRF methods 
+and also for sediment grain size, petrographic information and metallurgical and 
+other tests. Only the data produced by the core sampling has been used in the 
+current resource estimation.  
+ 
+Sample analysis was carried out by Scientific Services (Pty Ltd) in Cape Town, South 
+Africa. Samples sent to this laboratory are powdered using a swing mill. A portion of 
+the sample is taken and then weighed before being heated to 105o C to remove 
+water. The sample is re-weighed to establish moisture content, then heated to 750o C 
+and weighed again. This gives a Loss on Ignition value. The sample is then used to 
+make a glass bead, which is used to run XRF whole rock analyses for major 
+elements.  
+ 
+The major elements analyzed for include: 
+ 
+Fe2O3 
+MnO 
+Cr2O3 
+TiO2 
+CaO 
+K2O 
+P2O5 
+SiO2 
+
+
+
+ 20
+
+Al2O3 
+MgO 
+Na2O 
+ 
+10.4 Quality Control Measures 
+ 
+QA/QC procedures relating to the analytical process were described in Section 10 of 
+the June 2009 report (see References) produced by the current Qualified Person for  
+Minemakers Limited. Control samples are run using commercially available 
+international standards and in-house blanks. The QA/QC procedures included the 
+determination of combined analytical and sampling precision and analytical precision 
+and used data from both of the JV's licences currently under investigation. 
+ 
+The confidence in a resource estimate, and hence its classification, is not just a 
+matter of sample density but also the quality of the sampling and analytical 
+procedures. These can be monitored by adherence to a formalized QA/QC protocol. 
+The protocol followed by Minemakers normally involves as many of the following 
+procedures as possible; 
+ 
+
+a) Twin drilling to test the reproducibility of sample data at a specific location. 
+b) Duplicate sampling and analysis of core to determine the combined sampling 
+
+and analytical precision. 
+c) Repeat analysis of samples in the laboratory to determine the analytical 
+
+precision. This procedure is undertaken by the laboratory. 
+d) Repeat analysis of 'blind' samples previously analysed by the laboratory but 
+
+resubmitted under new numbers. 
+e) Analysis of commercially available accredited standards with each batch of 
+
+routine samples to determine analytical accuracy. 
+f) Analysis of a selected batch of samples covering the normal assay range at 
+
+an internationally accredited assay laboratory (referee laboratory). 
+g) Analysis of blanks to monitor potential contamination in the sample 
+
+preparation process. 
+ 
+Analysis of samples has been undertaken by Scientific Services CC, Cape Town, 
+RSA using XRF methods calibrated using Certified Reference Material. The 
+standards inserted into batches are thus based on SARM 32 (39.96% P2O5 with 95% 
+confidence limits of 39.71 to 40.23%) using phosphate rock from Phalaborwa 
+distributed by the SA Bureau of Standards, Pretoria, and on NIST 694 (30.2% P2O5 
+with 95% confidence limits of 28.698 to 31.711%) distributed by the National Institute 
+of Standards & Technology, Gaithersburg USA – Western Phosphate Rock. In the 
+case of NIST 694, a 50% dilution was made using laboratory grade silica. The 
+majority of analyses were internally controlled using the latter standard following 
+concerns expressed in previous reports by the QP in June 2009 and March 2011. 
+ 
+Only P2O5 analyses are involved in the resource estimation process and thus only 
+P2O5 quality issues are discussed in detail in the following sections. 
+ 
+
+
+
+ 21
+
+10.4.1  Twin Drilling 
+ 
+Closely spaced twin holes are usually drilled to confirm grades and thicknesses at a 
+specific location but also, if a sufficient number are drilled, they provide an insight into 
+the likely nugget effect of a deposit in that differences in values for each pair of holes 
+reflect local small scale geological variability as well as sampling and analytical 
+errors. In this programme of sampling no twinned holes were planned, however, a 
+series of 10 holes were completed in a limited area around old hole number 1797 in 
+order to produce a bulk sample for mineral processing test-work. 9 of these fall within 
+an area 33x35m and three sets of holes are closely spaced enough to be considered 
+as twins with separations of approximately 5m.  
+ 
+Table 10.1: Comparison of close-spaced holes – Bulk Sampling Area EPL 3414 
+
+Sample no Easting Northing 
+
+        
+
+Footwall 
+Reached 
+
+Layer 1 Layer 2 
+Length 
+
+(cm) 
+%P2O5 
+
+Length 
+(cm) 
+
+%P2O5 
+
+1797B-1 397309 7325898 70 23.78 123 24.31   
+1797B-
+
+1RC 397309 7325898 90 23.47 125 24.05   
+                
+
+1797B-2 397305 7325933 100 22.23 40 24.09   
+1797B-6 397300 7325929 130 23.13 140 24.38   
+
+                
+1797B-3 397300 7325911 115 23.76 119 24.05   
+1797B-4 397298 7325905 105 23.09 95 23.35   
+
+                
+1797B-5 397322 7325898 87 24.17       
+1797B-7 397309 7325907 72 20.73       
+
+1797B-10 397331 7325917 75 19.81 140 21.66   
+        
+        
+  Paired Holes      
+
+ 
+Table 10.1 shows that for both Layers 1 and 2 the grades are very similar between 
+paired holes and also for all 6 of these holes. Thicknesses are however more 
+variable with some significance differences in Layer 2. However, it should be pointed 
+out that we are dealing with thickness differences of the order of only a few tens of 
+centimetres. Within the bulk sample area as a whole, the grades are reasonably 
+uniform but the thicknesses are much more variable reflecting local fluctuations in the 
+phosphorite accumulations in sea floor depressions. Tonnage estimates for 1000 x 
+1000m blocks will thus be of slightly lower confidence.  
+ 
+10.4.2 Duplicate Sampling and Analysis 
+ 
+18 sets of duplicate samples were obtained from 6 holes (1797, 1870, 1882, 1901, 
+1923 and 1924), the average grade of which is 21.29%. 
+ 
+The combined sampling and analytical precision is significantly less than 10% at 
+6.2% and is thus deemed very satisfactory. Had one pair of samples been removed 
+then the result would have been considerably improved. This study confirms that 
+sampling and analytical procedures are of high enough confidence to support the 
+estimation of Mineral Resources at both Inferred and Indicated levels. 
+ 
+
+
+
+ 22
+
+ 
+10.4.3 Repeat Analysis 
+ 
+Routine repeats 
+ 
+A total of 35 samples were subjected to repeat analysis in the laboratory selected at 
+random from a total of 356 routine samples representing 10%; this thus exceeds the 
+minimum of 5% normally considered appropriate. The results of this exercise for 
+P2O5 are presented in Table 10.2. 
+ 
+Table 10.2: Results of repeat analysis in the laboratory 
+
+Date Repeats Routine 
+Average 
+
+Repeat 
+Average 
+
+Analytical 
+Precision 
+
+Up to August 2011 35 18.85 18.69 3.96% 
+ 
+The analytical precision is 3.96% which is satisfactory being less than the 5% 
+normally considered acceptable. The means of the two populations are very similar 
+which is also very encouraging. 
+ 
+10.4.4 Standards 
+ 
+The analysis of both routine and duplicate samples plus laboratory repeat analysis of 
+pulps, was undertaken in conjunction with the analysis of selected standards. A total 
+of 14 standards were included in routine analytical batches including one in a batch 
+of repeat samples. The first batch used SARM 32 but all subsequent batches were 
+analysed with the NIST 694 standard (50%). A total of 391 routine and repeat 
+analyses were accompanied by the 14 standard analyses representing 3.6%. A 
+breakdown of the results for each standard is presented in Table 10.3. 
+ 
+Table 10.3: Analyses of Standards 
+
+Standard Number 
+used 
+
+Accepted 
+value 
+
+Average 
+Value 
+
+SARM 32 2 39.96 40.94 
+NIST 694 (50%) 12 15.10 15.32 
+
+ 
+The average deviation from the 'accepted' values was less than 2.5% and the worst- 
+case deviation was 3.5%. No systematic trend is observed that would indicate 
+instrumental drift though all analyses except one were above the 'accepted' value. 
+ 
+The implication of this QA/QC procedure is that the analyses of the routine samples 
+may be a little on the high side. However, the Qualified Person (QP) does not 
+consider this to have any major impact on the confidence of the quoted Mineral 
+Resource. 
+ 
+10.4.5 Blanks 
+ 
+A total of 18 blanks (laboratory grade silica) were inserted into the four batches. No 
+evidence of laboratory contamination was produced by their analysis which ranges 
+between 0.00 and 0.02% P2O5, close to the limit of detection by XRF (0.01%). 
+ 
+10.4.6 Conclusion 
+ 
+The conclusion is that sampling and analytical procedures are more than adequate to 
+allow the assignment of NI 43-101 compatible Mineral Resource classifications to 
+
+
+
+ 23
+
+resources based on this sampling. It is also apparent that samples are stored 
+appropriately and in secure facilities. 
+ 
+11.0 DATA VERIFICATION 
+ 
+11.1 General introduction and database construction and manipulation 
+ 
+Previous studies, prior to the estimation of Inferred Resources for EPL 3323 
+(December 2008 Report for Bonaparte) have clearly demonstrated that the 
+phosphate deposit in the area of detailed sampling in this licence can be subdivided 
+into an upper horizon, Layer 1, characterized by its high shell content, its lower grade 
+and by its general uniformity in thickness and spatial distribution and into a lower 
+horizon, Layer 2, characterized by its lower shell content and higher clay content and 
+by its higher grade. 
+ 
+The 2010/11 infill sampling programme covered both EPL 3414 and 3323 and thus 
+the decision was taken to combine both new and old data for both areas into one 
+database and produce one combined mineral resource estimate. This can be justified 
+as both EPLs cover the same phosphate deposit. As one of the aims of the recent 
+sampling programme was to improve depth penetration, this approach would 
+necessitate the deletion of some of the previous holes which, if retained, would have 
+resulted in line anomalies. In addition, duplication of hole data would occur because 
+samples outside each of the EPL boundaries were originally used to assist in the 
+modelling of areas close to the boundary. Database construction and manipulation 
+was a two stage process; the first involved the combination of all three databases 
+with some deletions and the second additional deletions to remove old data that 
+would result in an unrealistic geological model for the deposit. 
+ 
+The current mineral resource update is targeted at Inferred Mineral Resources only 
+and no attempt was made to revise the Indicated Mineral Resources in the two areas 
+selected for early mining, one in each licence. Their databases (separate Layer 1 and 
+2) thus remain unchanged. 
+ 
+The data provided to the Qualified Person for the 100 new sites sampled with the 
+gravity corer, consisted of P2O5 values for specified assay intervals and also 
+weighted averages for each of the various layers recognized in the stratigraphic 
+profile. Depth ranges and thicknesses in each case were also provided. 
+ 
+All databases were thoroughly checked for transcription errors, missing or duplicated 
+data and for errors in coordination (plots of sample points used to detect anomalous 
+locations).  
+ 
+
+
+
+ 24
+
+11.2 Global Resource Database – EPL 3414 and 3323 
+ 
+The first phase of verification and manipulation for the new sampling data involved 
+the deletion of all replicate sample results in favour of the first "routine" samples. Four 
+holes re-drilled to attain greater depth were also deleted in favour of the re-drill. 
+ 
+A series of holes were drilled in the proximity of old hole 1477 to provide a bulk 
+sample referred to as 1797-1. Nine of these holes were sampled and assayed. 
+However, one was not accepted for use as it only penetrated the upper Layer 1. The 
+remaining 8 were retained in the database, despite data clustering, allowing the 
+software to average out the thicknesses and grades over the area covered. Though 
+grades were fairly uniform in this area, there was clearly some local scale variability 
+in thickness reflecting variability in the topography of the floor of the deposit. 
+ 
+In two holes (1873 and 1918), a second high grade layer was penetrated at the base 
+beneath a clay layer that had been labelled on sections as Layer 3. There is 
+insufficient data at this time to determine its spatial continuity and to make any 
+attempt at resource estimation and thus this mineralization was not included with 
+Layer 1 and 2 in the database. 
+ 
+The Minemakers' raw assay database contains weighted grades and combined 
+thicknesses for Layers 1 and 2 for use in the estimation of Inferred Mineral 
+Resources. However, in 31 cases these grades were enhanced by the application of 
+a 10% P2O5 assay footwall cut-off grade to remove low-grade material at the bottom 
+of these holes above the footwall clays. 
+ 
+Following these modifications to the new data, the original databases for EPL 3414 
+and 3323 were added. The former includes 8 samples from the northern extremity of 
+EPL 3415 needed to improve modelling in the nearby area of 3414. 
+ 
+A plot of old and new sample locations then revealed that some of the old sites had 
+been revisited and deeper intersections obtained. These old holes were thus 
+removed from the database. However, in one case (1854), a new hole was deleted in 
+favour of the previous hole at a nearby location (1474). Another old hole 1439 was 
+deleted because it had a suspiciously low grade compared with surrounding 
+information. 
+ 
+Following this first phase 453 holes remained in the database. During the second 
+phase of data processing, all old data (pre 2010/11) was removed except where: 
+ 
+
+a) old data extended further westwards beyond the new data, 
+b) its thickness values are compatible with those on adjacent new infill lines and 
+c) old holes reached footwall clay (Layer 3). 
+
+ 
+At this time all duplicated holes were removed; i.e., holes appearing in both the 
+separate EPL 3414 and 3323 databases. The final fully vetted database now 
+contained data from 377 sampling sites. Of these 154 cores (40.8%) reached the 
+underlying footwall clay, 142 (37.7%) penetrated into mineralized layer 2 while a 
+further 81 (21.5%) failed to reach beyond Layer 1.  In the latter two cases, it is 
+possible that some were close to the footwall of the deposit. Resources computed 
+using this data will thus be conservative in terms of tonnage but the general 
+uniformity of grade down through the profile means that there will be little impact on 
+overall resource grade. 
+ 
+
+
+
+ 25
+
+The average thickness and grade for these sites is 121.5 cm and 18.98% P2O5 
+respectively. 
+ 
+Figure 11.1 shows the distribution of all samples used for resource estimation within 
+the combined licence areas. 
+ 
+
+ 
+ 
+
+Figure 11.1: Selected Sample Sites (Blue triangles - previous samples retained, 
+yellow squares – 2010/11) 
+
+ 
+
+
+
+ 26
+
+12.0 MINERAL PROCESSING AND METALLURGICAL TESTING 
+ 
+In 2004, pilot processing tests and mineralogical analysis and were performed on a 
+sample of from the Sandpiper project area.  
+ 
+The pilot tests on phosphoric acid production were done by Prayon–Rupel 
+technologies, (Wet Phosphoric Acid process specialists) on beneficiated sample 
+(screened to 125-450micron). The tests confirmed that merchant grade phosphoric 
+acid with 52% P2O5 could be produced from Sandpiper rock phosphate concentrate 
+of 27% P2O5 with appropriate treatments for handling contained organics, Fe, Al and 
+Mg. Tests by Bateman Phosphate Technologies in 2001 also showed that a 25% 
+P2O5 concentrate can be produced from an in-situ sample grade of 18% P2O5 by 
+simple gravity screening to 125-450 micron.   
+ 
+Historical testwork suggests there is an adequate expectation for the resources to be 
+utilised on a commercial basis. 
+ 
+13.0 MINERAL RESOURCE ESTIMATES 
+ 
+13.1 Introduction 
+ 
+For Inferred Mineral Resources, the entire intersection of phosphate, constrained by 
+a 10% footwall assay cut-off grade, has been used in contrast to Indicated Mineral 
+Resources where the deposit has been subdivided into two layers reflecting their 
+different lithological and continuity characteristics. Grade values have been 
+interpolated into a 2D matrix of resource blocks using IDW methods. This has been 
+achieved indirectly by the 2D modelling of thickness and metal accumulation. 
+ 
+Excessive extrapolation of block information has been limited by the parameters 
+used to define search areas and the relative weighting given to sample values. In 
+addition, a resource perimeter has been constructed around the area whose 
+boundaries coincide with the boundary of the EPL. 
+  
+The JV has undertaken preliminary in-house techno-economic studies of the cost of 
+dredging using a trailing suction hopper dredge and on-shore processing which 
+indicate that insitu grades of 15% P2O5 are economic and potentially mineable at 
+currently forecast future prices. Minimum mineable thicknesses achievable by the 
+dredge are still under consideration but are at least 1m and could go down to 0.5m. 
+For the current resource update, a 10% block cut-off grade has been selected to 
+define the margins of a potentially economic deposit. Cost estimates have been 
+received for modification of an existing dredge to allow it to mine at water depths of 
+up to 225m initially and to depths of 250m with further development. 
+ 
+Tonnages estimates are based on densities and moisture contents whose 
+determination is described in Section 8 of the June 2009 report to which the reader is 
+referred. 
+ 
+In the case of Inferred Mineral Resources, volumes have been converted into wet 
+tonnages using a conservative estimate of 1.68 tonnes / m3. The dry tonnage was 
+then estimated using a factor of 0.75 based on the average of all measurements 
+available at the time of writing. 
+ 
+
+
+
+ 27
+
+13.2 Global Resources - EPL 3414 and 3323 
+ 
+The parameters used for interpolation of thicknesses and metal accumulations into 
+the block matrix are unchanged from previous estimates for these licences and are 
+shown in Table 13.1.  
+ 
+Table 13.1: IDW parameters 
+Power Azimuth Search 
+
+radii (m) 
+Ratio Sectors 
+
+searched 
+Min data 
+captured
+
+Block size (m) 
+
+2 24o 5000x2500 2:1 1 2 1000 x 1000 
+ 
+The block dimensions (1000 x1000m) reflect the wide spacing of the holes in the 
+licence area (see Figure 11.1). Reconnaissance holes were laid out on a 4000 x 
+1600m grid and infill lines reduced this to 2000 x 800m. An elliptical search area, with 
+major axes on an azimuth of 24o and an axial ratio of 2:1, was used to reflect the 
+geometric anisotropism of the sampling grid and also the geological trends in the 
+data (greater NNE continuity). 
+ 
+Figures 13.1 and 13.2 show the thicknesses (cm) and metal accumulations (cm%) 
+respectively interpolated into blocks while Figure 13.3 for grade is derived by dividing 
+these two variables in each block in a spreadsheet and then re-importing them into 
+Surfer. The results database was then modified to delete the two "Indicated 
+Resource Area" using internal blanking files.  
+ 
+13.3 Inferred Mineral Resources – EPL 3414 and 3323. 
+ 
+Peripheral blocks in the global resource block matrix with less than the 10% P2O5 
+grade threshold were deleted to produce a Mineral Resource estimate at this cut-off 
+grade. Some internal blocks with marginally lower grades were, however, retained as 
+were some peripheral blocks surrounded on three sides by higher grades. 
+ 
+In addition, all blocks with thicknesses of <25cm were deleted in areas where very 
+thin or no phosphate had been recorded above the grey-green clay. This threshold is 
+not to be considered as a minimum mining thickness but as a means of screening out 
+areas which are barren but into which value has been extrapolated by the IDW 
+process. A minimum mining thickness will be applied during the conversion of 
+resources to reserves at a later stage. 
+ 
+The resultant block plots for thickness and grade are presented as Figures 13.4 and 
+13.5.  
+ 
+This exercise was also repeated using a 15% block cut-off grade but no plots are 
+provided here. Table 13.2 shows a comparison of the results obtained using these 
+two cut-off grades. The application of a lower cut-off grade has only marginally 
+increased the tonnage available at the expense of a lightly lower grade. 
+ 
+Table 13.2:  Comparison of Inferred Mineral Resources based on Cut-off Grade 
+Cut-Off Grade 
+
+% P2O5 
+Resource 
+
+Area 
+Wet Tonnes 
+
+x 106 
+Dry Tonnes 
+
+x 106 
+Grade 
+
+(% P2O5) 
+Date 
+
+Reported 
+15 3414 and 
+
+3323 West  
+1,645.0 1,233.0 19.2 August 11 
+
+10 3414 and 
+3323 West  
+
+1,705.1 1,278.8 19.0 August 11 
+
+ 
+
+
+
+ 28
+
+ 
+ 
+
+Figure 13.1: Thickness values interpolated into resource blocks for EPL 3414 and 
+3323 
+
+  
+
+
+
+ 29
+
+ 
+ 
+
+Figure 13.2: Metal Accumulation values interpolated into resource blocks for EPL 
+3414 and 3323 
+
+  
+
+
+
+ 30
+
+ 
+ 
+Figure 13.3: Grade values interpolated into resource blocks for EPL 3414 and 3323 
+
+  
+
+
+
+ 31
+
+ 
+Figure 13.4: Inferred Mineral Resources for EPL 3414 and 3323 - Thickness 
+
+ 
+  
+
+
+
+ 32
+
+ 
+Figure 13.5: Inferred Mineral Resources for EPL 3414 and 3323 - Grade 
+
+  
+
+
+
+ 33
+
+ 
+13.4 Inferred Mineral Resources – EPL 3415 
+ 
+No additional sampling has been undertaken in EPL 3415 and hence the mineral 
+resources reported in September 2009 still stand. The block plots based on a 15% 
+block cut-off grade and a 25cm minimum thickness are thus reproduced in Figures 
+13.6 and 13.7.  However, new estimates based on the previous global resources 
+block matrices have now been produced using a 10% cut-off grade in order to assess 
+the impact of this change in cut-off from 15%. The results are shown in Table 13.3. It 
+should be noted that the results for the Northern area remain unchanged as no 
+blocks had been assigned grades of between 10 and 15% in this area. 
+ 
+Table 13.3: Comparison of Inferred Mineral Resources based on Cut-off Grade 
+
+Cut-Off 
+Grade % 
+
+P2O5 
+
+Resource 
+Area 
+
+Wet 
+Tonnes x 
+
+106 
+
+Dry 
+Tonnes x 
+
+106 
+
+Grade 
+(% P2O5) 
+
+Date 
+Reported 
+
+15 North 138.0 103.5 19.8 Sept 09 
+15 Central+South 461.0 346.0 18.1 Sept 09 
+10 North 138.0 103.5 19.8 August 11 
+10 Central+South 520.7 390.6 17.5 August 11 
+
+ 
+  
+
+
+
+ 34
+
+ 
+Figure 13.6: Inferred Resource Thickness – EPL 3415 
+
+
+
+ 35
+
+Figure 13.7: Inferred Resource Grade – EPL 3415 
+ 
+  
+
+
+
+ 36
+
+13.5 Grade Tonnage Relationships for EPLs 3414, 3415 and 3323 Combined 
+ 
+All global resource blocks (thickness and grade) for EPL 3415 were combined with 
+those for EPL 3414 and 3323 to produce a combined Sandpiper Project Mineral 
+Resource spreadsheet. 29 of these with thicknesses below 25cm were deleted but 2 
+others originally in the 3414/3323 block database were retained though they were 
+marginally below this threshold. The combined file, containing 1159 blocks, was 
+sorted by grade and the tonnages of each block accumulated above a series of 
+thresholds from 0 to 20%. The results are presented in Table 13.4 and in Figures 
+13.8 and 13.9. 
+ 
+The tonnages curves in Figure 13.8 clearly show that the tonnage remains stable 
+until a 15% cut-off grade is reached but beyond this, the tonnages fall as the cut-off 
+increases. Similarly, the "grade above threshold" curve in Figure 13.9 remains stable 
+between 10 and 15% after which there is a steady increase. 
+ 
+ 
+Table 13.4: Grade and Tonnages above selected grade cut-offs 
+
+Cut-off Grade 
+(%P2O5) 
+
+Weighted Grade 
+(%P2O5) 
+
+Wet Tonnage 
+(x106) 
+
+Dry Tonnage 
+(x106) 
+
+0 18.2 2,447 1,835 
+5 18.5 2,406 1.804 
+
+10 18,7 2,347 1,760 
+11 18.8 2,330 1,747 
+12 18.8 2,315 1,736 
+13 18.9 2,303 1,727 
+14 18.9 2,274 1,706 
+15 19.1 2,219 1,664 
+16 19.2 2,112 1,584 
+17 19.6 1,878 1,409 
+18 20.0 1,541 1,156 
+19 20.3 1,271 954 
+20 20.8 833 625 
+21 21.6 239 179 
+22 22.2 51 38 
+
+ 
+  
+
+
+
+ 37
+
+ 
+ 
+
+Figure 13.8: Grade – Tonnage Curves  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Figure 13.9: Grade above Threshold 
+ 
+  
+
+0.0E+00
+
+5.0E+08
+
+1.0E+09
+
+1.5E+09
+
+2.0E+09
+
+2.5E+09
+
+3.0E+09
+
+0 5 10 11 12 13 14 15 16 17 18 19 20 21 22
+
+T
+o
+
+n
+n
+
+e
+s
+
+Cut-off Grade (%)
+
+Grade - Tonnage Curves
+
+Wet Tonnes
+
+Dry Tonnes
+
+18.00
+
+20.00
+
+22.00
+
+24.00
+
+0 5 10 11 12 13 14 15 16 17 18 19 20 21 22
+
+%
+P
+
+2
+O
+
+5
+
+Cut-off Grade (%)
+
+Grade Above Threshold
+
+Grade
+
+
+
+ 38
+
+13.6 Revision of Grab Sample Resources in EPL 3323 
+ 
+The extension of core sample based Inferred Mineral Resources into the Western 
+Resource Area of EPL 3323 (Compare Figure 13.1 and Figure 13.10) has 
+necessitated the revision of grab sample based resources to exclude these 
+resources. At the same time, the opportunity has been taken in this update to 
+determine the grab sample resources at a range of cut-off grades (0, 5, 10 and 15%) 
+and to produce estimates for the whole of this licence area not just for the Western 
+and North-Eastern Resource Areas as was the case in the December 2008 
+Statement of Resources (based on a 10% cut-off grade alone). 
+ 
+In order to remove those grade blocks now covered by core based blocks, a series of 
+blanking files were produced each based on a cut-off grade boundary around the 
+eastern margin of the core blocks in EPL 3323. These blanking files were used to 
+remove grab-based blocks below each of these cut-offs from the block matrix 
+covering the whole of EPL 3323 (produced in December 2008). Figure 13.11 shows 
+an example of the grab sample block matrix after deletion of the >10% core blocks. 
+ 
+
+ 
+ 
+
+Figure 13.10: Grab Sample resources in EPL 3323 (December 2008) 
+
+
+
+ 39
+
+ 
+ 
+
+Figure 13.11: Grab Sample Block Matrix after deletion of >10% Core Blocks 
+ 
+  
+
+
+
+ 40
+
+The tonnages and grades of the remaining resources were then calculated and the 
+results presented in Table 13.5. The information in Table 13.5 is also presented in 
+graphical form in Figures 13.12 and 13.13. 
+
+ 
+ 
+
+Table 13.5: Grades and tonnages above selected cut-offs – grab sample data 
+Cut-off Grade 
+
+(%P2O5) 
+Weighted Grade 
+
+(%P2O5) 
+Wet Tonnage 
+
+(x106) 
+Dry Tonnage 
+
+(x106) 
+0 7.2 532.9 399.7 
+5 9.4 344.1 258.0 
+
+10 13.4 139.1 104.3 
+15 16.7 45.7 34.3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Figure 13.12: Grab Resources 
+ 
+ 
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+0 5 10 15
+
+M
+ t
+
+o
+n
+
+n
+e
+
+s
+
+Cut-off Grade % P2O5
+
+GRADE - TONNAGE CURVES
+
+Wet Tonnes (Mt)
+
+Dry Tonnes (Mt)
+
+
+
+ 41
+
+ 
+ 
+
+Figure 13.13: Grab Resources 
+ 
+13.7 Resource Classification 
+ 
+Though the density of regional sampling in most of EPL 3414, EPL 3415 and EPL 
+3323 is too low to allow anything but an Inferred status to be applied, within their 
+respective "Indicated Resource Areas", the density of sampling (400 x 400m) is more 
+than adequate to allow the assignment of an Indicated Mineral Resource 
+classification. Variographic studies are now available which indicate that 
+geostatistical ranges for thickness, metal accumulation and grade are generally in 
+excess of 450m and as high as 1250m, in the case of a directional variogram in EPL 
+3415. The boundary between Inferred and Indicated Mineral Resources in terms of 
+sample spacing is set at the point at which no serial correlation (Covariance) exists 
+between samples. This spacing is represented by the geostatistical range. The level 
+of geological understanding and knowledge of this area of the Namibian continental 
+shelf is also more than adequate to support an Indicated status as are the results of 
+QA/QC procedures which were initially described in Section 10 of the June 2009 
+report and later updated in this Section 12 of the March 2011 report and also in 
+Section 10.4 of the current report. 
+ 
+13.8 Statement of Mineral Resources 
+ 
+Based on the information presented above, all the Mineral Resources estimated for 
+the gravity cored areas of EPL 3414, 3415 and 3323 are considered to be fully NI 43-
+101 and JORC compliant. Estimates are rounded to reflect the level of confidence in 
+these resources at the present time. 
+ 
+The Mineral Resources listed in Table 13.6 are determined using a 10% block cut-off 
+grade and a minimum thickness of 25cm. Previous resource estimates based on core 
+samples were based on 15% block cut-off grades as shown in Tables 13.7 and 13.8. 
+This change has been made at the request of Minemakers. For Tables 13.6 and 13.8 
+average wet tonnage factors of 1.68 tonnes per cubic metre are applied to Inferred 
+Mineral Resources which are converted to dry tonnages using a factor of 0.75. In the 
+case of Indicated Mineral Resources in Tables 13.7 and 13.9, Layer 1 and 2 
+
+0
+2
+4
+6
+8
+
+10
+12
+14
+16
+18
+
+0 5 10 15
+
+%
+ P
+
+2
+O
+
+5
+
+Cut-Off Grade % P2O5
+
+GRADE - GRADE CURVE
+
+Grade %
+
+
+
+ 42
+
+tonnages are produced using new SGs of 1.75 and 1.69 tonnes per m3 respectively 
+and new dry tonnage conversion factors of 0.80 and 0.71 respectively 
+ 
+The Inferred Mineral Resources are exclusive of the Indicated Mineral Resources.  
+ 
+13.8.1 Updated Mineral Resources as of August 2011 
+ 
+Table 13.6: Updated Inferred Mineral Resources (Phosphate) all Licence Areas 
+(10% Block Cut-off Grade Applied) 
+EPL Sample 
+
+Type 
+Resource 
+
+Area 
+Wet 
+
+Tonnes x 
+106 
+
+Dry 
+Tonnes x 
+
+106 
+
+Grade 
+(% P2O5) 
+
+Date 
+Reported
+
+3323 Grab All * 139.1 104.3 13.4 August 11
+3415 Core North 138.0 103.5 19.8 August 11
+3415 Core Central+South 520.7 390.6 17.5 August 11
+3414+ 
+3323 
+
+Core All and West 
+respectively 
+
+1,705.1 1,278.8 19.0 August 11
+
+  Combined 2,502.9 1,877.2 18.4  
+* Excluding area covered by core resources 
+
+ 
+Table 13.7: Indicated Mineral Resources (Phosphate) all Licence Areas 
+EPL Sample 
+
+Type 
+Resource 
+
+Area 
+Wet 
+
+Tonnes x 
+106 
+
+Dry 
+Tonnes x 
+
+106 
+
+Grade 
+(% P2O5) 
+
+Date 
+Reported 
+
+3323 Core West 16.235 12.176 20.52 June 09 
+3414 Core Detailed 47.251 35.438 21.70 July 09 
+3415 Core Detailed 35.424 26.310 19.08 Sept 09 
+  Combined 98.910 73.924 20.57  
+ 
+ 
+13.8.2 Mineral Resources as of November 2010 
+ 
+Table 13.8: Inferred Mineral Resources (Phosphate) all Licence Areas 
+EPL Sample 
+
+Type 
+Resource 
+
+Area 
+Wet 
+
+Tonnes x 
+106 
+
+Dry 
+Tonnes x 
+
+106 
+
+Grade 
+(% P2O5) 
+
+Date 
+Reported
+
+3323 Grab West* 128.9 96.7 16.4 Dec 08 
+3323 Grab North East 49.5 37.1 13.4 Dec 08 
+3415 Core North 138.0 103.5 19.8 Sept 09 
+3415 Core Central+South 461.0 346.0 18.1 Sept 09 
+3414 Core All 1,232.0 924.0 19.3 July 09 
+  Combined 2,009.4 1,507.3 18.7  
+ 
+
+ NB Some of these resources had been replaced by the Inferred Mineral 
+Resources based on core sampling. Thus an area of 73 Km2 of the original 
+200 Km2 had been replaced at the time of this statement (Dec 2008). 
+ 
+
+  
+
+
+
+ 43
+
+Table 13.9: Indicated Mineral Resources (Phosphate) all Licence Areas 
+EPL Sample 
+
+Type 
+Resource 
+
+Area 
+Wet 
+
+Tonnes x 
+106 
+
+Dry 
+Tonnes x 
+
+106 
+
+Grade 
+(% P2O5) 
+
+Date 
+Reported 
+
+3323 Core West 16.235 12.176 20.52 June 09 
+3414 Core Detailed 47.251 35.438 21.70 July 09 
+3415 Core Detailed 35.424 26.310 19.08 Sept 09 
+  Combined 98.910 73.924 20.57  
+ 
+13.8.3 Factors affecting Mineral Resource Estimates 
+ 
+All of the resources estimated in this report are in tenements owned by Namibian 
+Marine Phosphates (Pty) Ltd ("NMP") and that company advises that all of the 
+tenements are currently in good standing. 
+ 
+A Definitive Feasibility Study on the economics of development of the phosphate 
+resources is being carried out for NMP by independent and appropriately qualified 
+local and international consultants. NMP advises that, at this time, is not aware of 
+any environmental, permitting, legal, title, taxation, socio-economic, marketing or 
+other factors which are likely to cause a material effect on the mineral resource 
+estimates herein. 
+ 
+13.9 Reconciliation of Mineral Resource Estimates 
+ 
+Where new gravity core sample coverage has been obtained, the grab sample 
+resources in the old Western Area of EPL 3323 have been deleted from the new 
+updated table (Table 13.6) as they have been converted to the core resources 
+quoted in this table. Table 13.6 quotes all Inferred Mineral Resources at a 10% cut-
+off grade; previously a cut-off grade of 15% was applied. This also accounts for some 
+of the change in total resources. The updated resource now contains the remainder 
+of the grab resources in EPL 3323 not previously included in resource statements. 
+ 
+There has been no change in the magnitude of Indicated Mineral Resources since 
+the 2010 NI 43 -101 compliant report. The combined area of these three separate 
+resources is 37.86 km2. 
+ 
+The Inferred Mineral Resources based on gravity coring in the combined 3414 and 
+3323 areas has increased from 1.232 billion wet tonnes at 19.3% P2O5 to 1.705 
+billion wet tonnes at 19.0% P2O5. If the equivalent resources for EPL 3415 are 
+included then the total Inferred Mineral Resource for the Sandpiper project area is 
+2.364 billion wet tonnes at 18.7% P2O5. The new resource estimates are based on a 
+10% cut-off grade. These increases in tonnage reflect change in the cut-off grade, 
+the deeper penetration of the modified gravity corer employed in the latest 
+programme and the slightly extended coverage.  
+ 
+The combined area of Inferred Mineral Resources in the 3414 and 3323 areas 
+(based on core sampling) has increased from 656 km2 to 791 km2 as a direct result of 
+the recent programme of sampling and also the change in block cut-off grade to 10% 
+P2O5. Addition of the revised estimates for EPL 3415 using the new cut-off grade 
+increases these areas to 946.5km2 and 1109.5 km2 respectively. 
+ 
+  
+
+
+
+ 44
+
+14.0 INTERPRETATION AND CONCLUSIONS 
+ 
+
+1) Compilation of available data for all three licence areas shows that there are 
+two distinct parallel zones of thicker phosphatic material. The best developed 
+passes through EPL 3414 into the north of EPL 3415, however, water depth 
+is increasing to excess of 300m at this southwestern extremity. The second 
+zone, to the east, passes through the south west part of EPL 3323 (where it is 
+weakly developed) into EPL 3415 where it is much better developed in an 
+area with water depths of 200 to 300m. 
+
+ 
+2) The modifications undertaken to the gravity corer since the March 2011 report 
+
+have improved sample recovery in EPLs 3414 and 3323 and also achieved a 
+significant improvement in depth penetration. However, this is still not 
+sufficient to obtain complete intersection of the phosphate horizon down to 
+the footwall clays. 
+
+ 
+3) The completion of infill lines, reducing the line spacing to 2000m, has 
+
+confirmed the continuity of mineralization and P2O5 grade. 
+ 
+
+4) Coverage of EPL 3415 is still incomplete as no additional sampling has been 
+undertaken in this licence area, priority being given to 3414 and 3323 due to 
+their shallower water depth. Though three separate areas exist from the point 
+of view of sampling, two of these have been merged as a result of 
+extrapolation by the software. As a consequence, assessment of the full 
+extent of the potential mineralization remains incomplete. 
+
+ 
+5) Sampling, core logging and petrographic analyses appear to have been 
+
+undertaken with great care though these procedures have not been directly 
+witnessed by the Qualified Person.  
+
+ 
+6) Close spaced drilling continues to confirm that sample grades revealed by the 
+
+gravity corer are representative of the area in which they lie. Thicknesses 
+obtained from complete intersections reveal some variability over distances of 
+10s of metres reflecting variable compaction rates and local changes in the 
+floor of the depression in which the phosphate has accumulated. 
+
+ 
+7) Inter-laboratory analytical comparisons have not been made during the 
+
+current programme but previous studies did indicate that there is no 
+systematic bias in the results from the routine laboratory though comparisons 
+give repeatability precisions no better than 10%. 
+
+ 
+8) Improvements in analytical precision are evident compared with previous 
+
+studies of QA/QC results and are now considered very satisfactory. 
+ 
+9) QA/QC procedures have been followed and the results have been examined 
+
+by the Qualified Person and have been found to be compatible with the level 
+of confidence expected for NI 43 -101 compatible Mineral Resources. 
+
+ 
+10) The deletion of some of the previous data from the resource database is 
+
+justified as it would have affected the quality of the resource model by 
+introducing line anomalies where poor penetration depths were achieved. 
+
+ 
+11) The 2010/11 sampling programme was aimed at completing the coverage of 
+
+EPLs 3414 and 3323 at a sampling density sufficient for the determination of 
+an Inferred Mineral Resource. This work has allowed the definition of priority 
+
+
+
+ 45
+
+target areas for the next phase of closer spaced sampling (currently in 
+progress) aimed at the production of Indicated Mineral Resources for the 
+Definitive Feasibility Study. 
+
+ 
+12) The increase in Inferred Mineral Resource reported in this study largely 
+
+reflects the deeper penetration of the modified gravity corer and the slightly 
+extended coverage. Despite the removal of some of the previous data from 
+the database, there has been no significant change in grade and there is 
+every indication that grade variations are gradual and predictable. 
+
+ 
+13) The reduction in the Block Cut-off Grade from 15% to 10% has only slightly 
+
+increased the tonnages available with a concomitant small reduction in grade. 
+ 
+
+14) The resource estimates presented are considered to be conservative in terms 
+of tonnage as phosphate is known to continue below those intersections 
+which failed to reach the underlying grey-green clay. 
+
+ 
+15) Preliminary mineral processing tests and studies undertaken in 2001 and 
+
+2004 suggest that there is the potential for economic upgrading of Run of 
+Mine material to a saleable product. This has also been support by October 
+2010 scoping study results. This is accepted by the QP as further support for 
+the definition of Mineral Resources within the Sandpiper Project Area. 
+
+ 
+15.0 RECOMMENDATIONS 
+ 
+The following recommendations are made for consideration by Minemakers Ltd.  
+
+ 
+1) Attempts should continue to be made to improve depth penetration in Layer 2 
+
+in all three EPLs possibly through the introduction of a vibracorer. 
+ 
+
+2) Coverage of EPL 3415 at a 4000m line spacing needs to be completed with 
+localized infill lines where warranted. 
+
+ 
+3) Once the drilling for Indicated Mineral Resources is complete, further 
+
+investigation of the eastern margin of the main 3141/3323 phosphate zone 
+should be undertaken to resolve some of the problems relating to the thick 
+low grade Layer 2 sediments that were intersected in previous sampling work 
+and also whether the second lower phosphate rich layer intersected in two 
+holes in this area during the recent programme have any spatial continuity 
+and should thus be included in future resource estimates. 
+
+ 
+4) As a large portion of the central and eastern areas of EPL 3323 has only 
+
+been subject to grab sampling, it is recommended that some reconnaissance 
+lines be sampled, using the gravity corer, over areas with elevated grades to 
+determine whether they have any economic potential in terms of grade and 
+thickness. 
+
+ 
+16.0 REFERENCES 
+
+ 
+Internal reports produced by the QP for Bonaparte and Minemakers 
+
+ 
+19th December 2008  "Preliminary Resource Estimation, Phosphate Resources 
+in EPL 3323, Namibia" 
+ 
+
+
+
+ 46
+
+15th April 2009  "Resource Estimation of Phosphate Resources for the 
+Sandpiper/Meob Joint Venture Project in EPL's 3323, 3414 & 3415, Namibia" 
+ 
+ 24th June 2009 "Updated Estimation of Phosphate Resources for the 
+Sandpiper/Meob Joint Venture Project in EPL 3323, Namibia". 
+ 
+25th July 2009 "Updated Estimation of Phosphate Resources for the 
+Sandpiper/Meob Joint Venture Project in EPL 3414, Namibia". 
+ 
+21st March 2011 "Updated Estimation of Phosphate Resources for the 
+Sandpiper/Meob Project in EPL 3415 and 3323, Namibia" 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dr Alwyn E. Annels C.Eng, FIOM3 
+
+Qualified Person     23rd September  2011 
+ 
+ 
+  
+
+
+
+ 47
+
+17.0 CERTIFICATE 
+To Accompany a Technical Report Entitled 
+
+"Updated Estimation of Phosphate Resources for the Sandpiper Project in ML 170, 
+Namibia" Dated September 2011 
+
+ 
+I, Alwyn E. Annels, do hereby certify that: 
+ 
+
+1. I reside at 14 Mill Road, Llanishen, Cardiff CF14 0XB, Wales, UK. 
+ 
+
+2. I am a graduate from Kings College, University of London, with an Honours BSc. 
+Degree in Geology (Specializing in Mineralogy and Petrology – 1964) and also have 
+a PhD from Imperial College, University of London in Volcanic Geology (1967). I 
+have practised my profession continuously since that time. 
+
+ 
+3. I am a Fellow of the Institution of Materials Mining and Metallurgy (Membership 
+
+Number 40113) and I am a Chartered Engineer. 
+ 
+
+4. I am an independent mineral resource consultant. 
+ 
+
+5. I have 11 years experience in the exploration and resource estimation of offshore 
+mineral deposits including alluvial diamonds and marine phosphate deposits. 
+
+ 
+6. I am a Qualified Person for the purposes of NI 43-101 and I am responsible for the 
+
+preparation of all aspects of this report. 
+ 
+
+7. I have not visited the property but I have reviewed all geological, chemical and 
+mineralogical reports and databases made available to me by the JV Partners 
+
+ 
+8. I have no personal knowledge as of the date of this certificate of any material fact or 
+
+change, which is not reflected in this report. 
+ 
+
+9. Neither I, nor any affiliated entity of mine, is at present under an arrangement or 
+understanding, nor expects to become, an insider, associate, affiliated entity or 
+employee of Minemakers Ltd, or any associated or affiliated entities. 
+
+ 
+10. Neither I, nor any affiliated entity of mine, own either directly or indirectly, nor 
+
+expect to receive, any interest in the properties or securities of Minemakers Ltd , or 
+any associated or affiliated companies. 
+
+ 
+11. Neither I, nor any affiliated entity of mine, have earned the majority of our income 
+
+during the preceding three years from Minemakers, or associated or affiliated 
+companies. 
+
+ 
+12. I have read NI 43-101 and Form 43-101F1 and have prepared the technical report in 
+
+compliance with these and in conformity with generally accepted International 
+mining industry practices. 
+
+ 
+ 
+ 
+ 
+ 
+Dr Alwyn E. Annels, BSc, DIC, FIMMM, CEng 
+
+ 23rd September 2011 
+
+
+'

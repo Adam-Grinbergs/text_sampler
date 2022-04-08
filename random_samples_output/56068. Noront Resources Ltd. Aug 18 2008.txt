@@ -1,0 +1,6655 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - NI 43-101 Report 149 Double Eagle Property_MASTER FINAL Aug 18.doc
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+TECHNICAL REPORT 
+AND RESOURCE ESTIMATE 
+
+ON THE 
+EAGLE ONE DEPOSIT 
+
+DOUBLE EAGLE PROPERTY 
+MCFAULDS LAKE AREA 
+
+JAMES BAY LOWLANDS, ONTARIO 
+LATITUDE 52⁰45' N, LONGITUDE -86⁰17' W 
+
+ 
+For 
+
+ 
+NORONT RESOURCES LTD. 
+
+ 
+ 
+
+By 
+ 
+
+P & E Mining Consultants Inc. 
+ 
+ 
+ 
+ 
+ 
+ 
+NI 43-101 & 43-101F1 
+TECHNICAL REPORT 
+ 
+Ms. Tracy Armstrong, P.Geo 
+Mr. Eugene Puritch, P.Eng 
+Mr. Antoine Yassa, P. Geo. 
+ 
+P & E Mining Consultants Inc 
+Report No. 149 
+ 
+Effective Date: July 3, 2008 
+Signing Date: August 14, 2008 
+
+
+
+  
+
+IMPORTANT NOTICE 
+ 
+This report was prepared as a National Instrument 43-101 Technical Report, in accordance with 
+Form 43-101F1, for Noront Resources Limited ("Noront") by P&E Mining Consultants Inc 
+("P&E"). The quality of information, conclusions and estimates contained herein is consistent 
+with the level of effort involved in P&E's services and based on: i) information available at the 
+time of preparation, ii) data supplied by outside sources, and iii) the assumptions, conditions, 
+and qualifications set forth in this report. This report is intended to be used by Noront, subject to 
+the terms and conditions of its contract with P&E. This contract permits Noront to file this 
+report as a Technical Report with Canadian Securities Regulatory Authorities pursuant to 
+National Instrument 43-101, Standards of Disclosure for Mineral Projects. Any other use of this 
+report by any third party is at that party's sole risk. 
+
+
+
+  
+
+TABLE OF CONTENTS 
+ 
+EXECUTIVE SUMMARY ........................................................................................................... i 
+ 
+1.0  INTRODUCTION AND TERMS OF REFERENCE ....................................................1 
+ 1.1  TERMS OF REFERENCE ...................................................................................1 
+ 1.2  SOURCES OF INFORMATION .........................................................................1 
+ 1.3  UNITS AND CURRENCY ....................................................................................2 
+ 
+2.0  RELIANCE ON OTHER EXPERTS ..............................................................................3 
+ 
+3.0  PROPERTY DESCRIPTION AND TENURE ...............................................................4 
+ 
+4.0  LOCATION, ACCESS, CLIMATE, PHYSIOGRAPHY & INFRASTRUCTURE....7 
+ 4.1  LOCATION AND ACCESS .................................................................................7 
+ 4.2  CLIMATE AND PHYSIOGRAPHY ...................................................................7 
+ 4.3  INFRASTRUCTURE ............................................................................................8 
+ 
+5.0  HISTORY AND PREVIOUS EXPLORATION ...........................................................10 
+ 5.1  HISTORY .............................................................................................................10 
+ 5.2  PREVIOUS FEASIBILITY STUDIES ..............................................................11 
+ 5.3  PREVIOUS METALLURGICAL TESTING ...................................................11 
+ 
+6.0  GEOLOGICAL SETTING .............................................................................................12 
+ 6.1  REGIONAL GEOLOGY ....................................................................................12 
+
+ 6.1.1  PRECAMBRIAN GEOLOGY ...............................................................12 
+ 6.1.2  PALEOZOIC GEOLOGY ......................................................................12 
+ 6.1.3  QUATERNARY GEOLOGY .................................................................13 
+
+ 6.2  LOCAL AND PROPERTY GEOLOGY ...........................................................14 
+ 
+7.0  DEPOSIT TYPES ............................................................................................................17 
+ 7.1  MAGMATIC NICKEL-COPPER-PLATINUM GROUP ELEMENTS 
+
+TYPE .....................................................................................................................17 
+ 7.2 MAFIC TO ULTRAMAFIC-HOSTED CHROMITE DEPOSIT TYPE .......21 
+
+ 7.2.1  BLACKBIRD ONE CHROMITE DEPOSIT .......................................21 
+ 7.2.2  ECONOMIC CONSIDERATIONS FOR CHROMITE 
+
+MINING ....................................................................................................25 
+ 7.3  VOLCANOGENIC MASSIVE SULPHIDE TYPE ..........................................26 
+ 
+8.0  MINERALIZATION .......................................................................................................28 
+ 8.1  MASSIVE SULPHIDES ......................................................................................28 
+ 8.2  SULPHIDE BRECCIA (DURCHBEWEGUNG TECTURE) .........................28 
+ 8.3  SEMI-MASSIVE SULPHIDE ............................................................................28 
+ 8.4  NET TEXTURED SULPHIDES ........................................................................29 
+ 8.5  GEOLOGICAL AND MINERALIZATION MODEL ....................................30 
+ 
+9.0  EXPLORATION ..............................................................................................................31 
+ 9.1  2003 FUGRO AIRBORNE SURVEY ................................................................31 
+ 9.2  2004 GROUND MAGNETIC AND HORIZONTAL LOOP EM SURVEY ..31 
+ 9.3  2006 CONDOR DIAMOND CORP IN-FILL GROUND MAGNETIC 
+
+SURVEY ...............................................................................................................32 
+ 9.4  2006 PROBE DIAMOND DRILL PROGRAM ................................................32 
+
+
+
+  
+
+ 9.5  2007 NORONT AEROTEM II HELICOPTER SURVEY ..............................33 
+ 9.6  2007 MAGNETICS, HLEM AND GRAVITY SURVEYS OVER EAGLE 
+
+ONE DEPOSIT ....................................................................................................34 
+ 9.6.1  HLEM AND MAGNETIC SURVEYS...................................................34 
+ 9.6.2  GRAVITY SURVEY ...............................................................................34 
+
+ 9.7  2008 MAGNETIC, VLF, HLEM, GRAVITY AND LARGE LOOP 
+TDEM SURVEYS ................................................................................................34 
+
+ 
+10.0  DRILLING .......................................................................................................................36 
+ 
+11.0  SAMPLING METHOD AND APPROACH .................................................................38 
+ 
+12.0  SAMPLE PREPARATION, ANALYSES AND SECURITY ......................................39 
+ 12.1  ALS CHEMEX ANALYTICAL PROTOCOL .................................................39 
+ 12.2  SGS MINERAL SERVICES ANALYTICAL PROCEDURES ......................39 
+ 
+13.0  DATA VERIFICATION .................................................................................................41 
+ 13.1  SITE VISIT AND INDEPENDENT SAMPLING ............................................41 
+ 13.2  NORONT QUALITY CONTROL PROGRAM ...............................................43 
+ 
+14.0  ADJACENT PROPERTIES ...........................................................................................44 
+ 
+15.0  METALLURGICAL PROCESSING AND METALLURGICAL TESTING ...........46 
+ 
+16.0  MINERAL RESOURCES AND MINERAL RESERVE ESTIMATES ....................47 
+ 16.1  INTRODUCTION................................................................................................47 
+ 16.2  DATABASE ..........................................................................................................47 
+ 16.3  DATA VERIFICATION .....................................................................................47 
+ 16.4  DOMAIN INTERPRETATION .........................................................................47 
+ 16.5  ROCK CODE DETERMINATION ...................................................................48 
+ 16.6  COMPOSITES .....................................................................................................48 
+ 16.7  GRADE CAPPING ..............................................................................................48 
+ 16.8  VARIOGRAPHY .................................................................................................49 
+ 16.9  BULK DENSITY .................................................................................................49 
+ 16.10  BLOCK MODELING .........................................................................................49 
+ 16.11  RESOURCE CLASSIFICATION ......................................................................50 
+ 16.12  RESOURCE ESTIMATE ...................................................................................50 
+ 16.13  CONFIRMATION OF ESTIMATE ..................................................................53 
+ 
+17.0  OTHER RELEVANT DATA AND INFORMATION .................................................55 
+ 
+18.0  CONCLUSIONS AND RECOMMENDATIONS .........................................................56 
+ 18.1  CONCLUSIONS ..................................................................................................56 
+ 18.2  RECOMMENDATIONS .....................................................................................56 
+ 
+19.0  REFERENCES .................................................................................................................58 
+ 
+20.0  CERTIFICATES..............................................................................................................60 
+
+
+
+  
+
+ 
+LIST OF APPENDICES 
+ 
+APPENDIX-I: SURFACE DRILL HOLE PLAN ............................................................ 63 
+APPENDIX-II: 3D DOMAINS ............................................................................................ 65 
+APPENDIX-III: LOG NORMAL HISTOGRAMS ............................................................. 67 
+APPENDIX-IV: VARIOGRAMS ......................................................................................... 74 
+APPENDIX-V: Ni, Cu & NSR BLOCK MODEL CROSS SECTIONS .......................... 80 
+APPENDIX-VI: Ni, Cu & NSR BLOCK MODEL PLANS ............................................... 96 
+APPENDIX-VII: CLASSIFICATION BLOCK MODEL CROSS SECTIONS .............. 109 
+APPENDIX-VIII: CLASSIFICATION BLOCK MODEL PLANS ................................... 115 
+ 
+LIST OF FIGURES 
+ 
+Figure 3.1:  Claim Map of Double Eagle Property ........................................................... 5 
+Figure 4.1: Regional Location Map of Project Area ....................................................... 9 
+Figure 6.1: Regional Tectonic Subdivisions of Northern Ontario ............................... 13 
+Figure 6.2: Regional Geology of Double Eagle Project Area ....................................... 14 
+Figure 6.3: Local Geology Surrounding Eagle One Deposit ........................................ 15 
+Figure 6.4: Simplified Geology of Eagle One Deposit ................................................... 15 
+Figure 6.5 Cross Section 3600 Eagle One Deposit ........................................................ 16  
+Figure 6.6: Cross Section 3625 Eagle One Deposit ........................................................ 16 
+Figure 7.1: Plan of General Geology of the Kambalda Camp...................................... 19 
+Figure 7.2: 2005 Longitudinal Section of Voisey's Bay Mine ....................................... 20 
+Figure 7.3: Concentration of Cr2O3 in Hole NOT-08-1G17 Blackbird One Deposit 23 
+Figure 7.4: Cross Section 1987 Blackbird One .............................................................. 24 
+Figure 7.5: Cross Section 2025 Blackbird One .............................................................. 24 
+Figure 7.6: Classic Noranda-type VMS Deposit Section............................................... 27 
+Figure 7.7: Contours of Cu-Pb-Zn in 800 VMS Deposits ............................................. 27 
+Figure 13.1: Comparison of Ni Results using 3 Analytical Methods ............................. 42 
+Figure 13.2: Comparison of Cu Results using 3 Analytical Methods ............................ 42 
+Figure 13.3: Comparison of Results for Total PGE ........................................................ 43 
+Figure 14.1: Noront Joint Venture Holdings ................................................................... 45 
+ 
+LIST OF TABLES 
+ 
+Table 3-1: List of Claims Double Eagle Property .......................................................... 6 
+Table 7-1: Canadian and International Komatiite-hosted Ni Deposits ...................... 20 
+Table 10-1: Eagle One Significant Diamond Drill Intersections ................................... 36 
+Table 16-1: Grade Capping Values ................................................................................. 48 
+Table 16-2: Block Model Interpolation Parameters ...................................................... 50 
+Table 16-3: Resource Estimate at $CDN 115/tonne NSR Cut-off Grade ..................... 53 
+Table 16-4: Comparison of Weighted Average Grade of Capped Assays & 
+
+Composites ..................................................................................................... 54 
+Table 18-1: Proposed Eagle One and Double Eagle Property Budget ......................... 57 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc. i  
+Eagle One Report No. 149 
+
+EXECUTIVE SUMMARY 
+ 
+The following report was prepared to provide a Technical Report compliant with the provisions 
+of National Instrument 43-101- Standards of Disclosure for Mineral Projects, ("NI 43-101") and 
+an independent Resource Estimate of the nickel, copper, platinum, palladium, gold (PGE) and 
+silver mineralization on the Eagle One Deposit, Double Eagle Property, Sachigo Greenstone 
+Belt, James Bay Lowlands, Ontario. 
+ 
+This report was prepared by P&E Mining Consultants Inc., ("P&E") at the request of Mr. 
+Richard Nemis, President and CEO of Noront Resources Ltd., ("Noront"). Noront is a Toronto 
+based company trading on the TSX Venture Exchange (TSX-V) under the symbol "NOT". 
+ 
+The Double Eagle Property consists of 178 claims for a total of 41,696 hectares. The Eagle One 
+Deposit is situated on claim number 3012264. This claim, as well as claim number 3012265, is 
+held 100% by Noront, subject to a 1% NSR that can be bought back at any time for $500,000. 
+The remaining 176 claims were staked, and Noront has 100% rights to the staked claims which 
+can be leased from the Province of Ontario if a positive decision to mine the deposit is taken.  
+ 
+The Double Eagle Property is situated to the north and west of the Attawapiskat River some 250 
+kilometres west of James Bay. The Property lies in the James Bay Lowlands straddling its 
+western limit, and approximately 250 kilometres west of the community of Attawapiskat on 
+James Bay.  Thunder Bay lies 520 kilometres to the southwest of the project area, and Timmins 
+is located approximately 570 kilometres south-southeast. 
+ 
+An exploration camp was initially established on the north-west corner of McFaulds Lake, which 
+is accessible to float and ski-equipped aircraft and is situated approximately twelve kilometres 
+north, north-east of the Eagle One Deposit. Since the discovery of the deposit, Noront has 
+constructed a second camp known as the Esker Camp, which is located 250 metres north-east of 
+Eagle One. Currently exploration is supported from Nakina, 300 kilometres to the south, where 
+there is a paved, 3,880-foot airstrip, all weather road access and railroad access.   
+ 
+The James Bay Lowlands experience long, cold winters and short, warm summers.  The mean 
+daily minimum temperature in January is approximately -27°C.  Spring breakup occurs in April.  
+Mean annual precipitation is approximately 660 millimetres, and mean annual snowfall is 
+approximately 2400 millimetres (snow depth). 
+ 
+The Geological Survey of Canada and the Ontario Department of Mines carried out regional 
+studies circa 1906 and again between 1940 and 1965. The early work focused on the petroleum 
+possibilities of the sedimentary basins in Hudson and James Bays and on industrial and fuel 
+minerals in the Moose River Basin.  
+ 
+In the early 1990's, Spider Resources Inc., ("Spider") and KWG Resources Inc., ("KWG") 
+commenced an ambitious, airborne magnetic-based, diamond exploration program in the 
+northern James Bay Lowlands as joint venture partners, discovering the Good Friday and 
+MacFayden kimberlites in the Attawapiskat cluster and an additional five kimberlites to the east.   
+ 
+In 2002 De Beers Canada Inc., ("De Beers") in joint venture with Spider and KWG discovered 
+the McFaulds No. 1 volcanogenic massive sulphide (VMS) body while drilling some isolated 
+magnetic anomalies in search of kimberlites. In November 2002, Spider recorded the first group 
+of claims surrounding the initial VMS discovery and subsequent work by Spider and KWG 
+discovered the rest of the McFaulds occurrences, including McFaulds No. 3 VMS body. Many 
+
+
+
+ 
+
+P&E Mining Consultants Inc. ii  
+Eagle One Report No. 149 
+
+other junior mining companies started staking in late 2002 (December) and then again during the 
+first half of 2003.  
+ 
+The Double Eagle claims were staked by Noront in 2003, following the VMS discovery, and a 
+Fugro Geotem survey was flown later that year.  
+  
+The Condor Property, which was contiguous to the Double Eagle Property consisted of two 
+claims which were sold to Noront in May 2007. Noront holds a 100% interest on these claims, 
+subject to a 1% NSR Royalty, and it was in early September 2007 that Noront announced the 
+discovery of significant Ni-Cu-PGE mineralization on the Condor claims. The deposit was 
+named Eagle One, and the ultramafic sill occupying an unconformity between the basement 
+granodiorite on the inside of an arc, and the volcanic belt on the outside of the arc was dubbed 
+the "Ring of Fire". 
+ 
+The James Bay Lowlands are defined by flat-lying, Paleozoic platform rocks which are covered 
+by a thin but persistent layer of glacial and periglacial sediments.  The Paleozoic carbonates are 
+up to 75 metres thick in the McFaulds Lake area and feather out toward the west. 
+ 
+The Precambrian geology of the area is inferred from airborne geophysical data supplemented by 
+sparse gravity and diamond drill data.  Magnetic patterns suggest a basement complex 
+comprising volcanic and sedimentary belts between large expanses of granite and gneisses.  
+Recent work by Stott suggests that the Oxford-Stull Domain, in which the Double Eagle 
+Property lies, comprises an older core (2870 to 2830 Ma) perhaps built on a remnant mid-
+oceanic ridge.  Stott et al have reported that greenstone belts date between 2737 and 2695 Ma 
+which are comparable with data from other parts of the Superior Province.   
+ 
+The "Ring of Fire" is clearly an emerging metal district. The McFaulds No. 1 and No. 3 VMS 
+occurrences, Noront's Eagle One Magmatic Sulphide Deposit, Noront's Blackbird One Chromite 
+Deposit and Blackbird Two Chromite Occurrence, as well as other Cu-Pb-Zn hits (results 
+pending) by the Metalex Ventures Ltd./WSR Gold Inc. joint venture in the area leave no doubt 
+about this.   
+ 
+The Eagle One Deposit is a magmatic sulphide deposit. A mantle derived, highly magnetic 
+ultramafic intrusion ("the Ring of Fire Intrusion" or "RFI") has been emplaced along the margin 
+of a regional scale granodiorite pluton which had been intruded into and caused a doming of the 
+host Sachigo greenstone belt rocks. The RFI is thus situated between the granodiorite on one 
+hand (footwall) and the surrounding Sachigo greenstone belt rocks (hangingwall) on the other. 
+The RFI is magnetically distinct allowing it to be traced more or less uninterrupted, for tens of 
+kilometres along the granodiorite margin. It appears that a series of conduits cutting across the 
+granodiorite have acted as feeders to the main RFI. 
+ 
+The Eagle One Deposit is interpreted as occurring well within the conduit feeder, at some 
+distance from the main RFI. In addition to the Eagle One Deposit, Noront has also discovered, 
+two kilometres south-west, the Blackbird One Chromite Deposit, the Eagle Two shear-hosted 
+Ni-Cu-PGE Deposit (collectively also known as AT2), and most recently the Blackbird Two 
+Chromite Occurrence. At the time of writing of this report, two drill holes had been completed 
+on Anomaly AT12, which returned encouraging widths of visual copper-nickel-iron sulphide 
+mineralization up to 29.2 metres in peridotite host rock. Assays are pending.  
+ 
+Massive sulphides at the Eagle One Deposit comprise pyrrhotite, pentlandite, and chalcopyrite, 
+with subsidiary amounts of equant millimetric magnetite.  In most examples the rocks are very 
+
+
+
+ 
+
+P&E Mining Consultants Inc. iii  
+Eagle One Report No. 149 
+
+coarse-grained, with grain sizes up to 1 centimetre and well-formed pentlandite "eyes".  There 
+are many instances in the deposit of medium to very fine-grained massive sulphide veins that are 
+rich in inclusions of silicates and which may display pronounced gneissic foliation that wraps 
+around the clasts, (durchbewegung texture). In some cases the massive sulphide texture grades 
+into peridotite through a marginal zone in which silicate minerals are completely bathed in 
+sulphide and are not in mutual grain contact.  Much of the net-textured sulphide mineralization at 
+Eagle One shows a distinct metamorphic fabric.  Sub-parallel wavy veinlets of sulphide minerals 
+are present throughout the rock, apparently the result of transfer of sulphide on the grain-scale 
+from the net texture into extensional features.  In this texture the silicate minerals form a closely-
+packed orthocumulate-textured framework, the interstices of which are fully occupied by 
+sulphide minerals. The large amounts of sulphide and of ultramafic cumulate make it absolutely 
+clear that the Eagle One deposit formed in a magmatic conduit.  No magma could have carried 
+the observed amount of sulphide in solution; therefore the sulphides have been left behind by a 
+through-going volume of magma much greater than what presently remains in the intrusion.  
+ 
+Since Noront acquired the Double Eagle Property in 2003, and prior to the 2007 diamond drill 
+program undertaken by Noront, there have been a total of six airborne and ground geophysical 
+surveys undertaken as well as an 11 hole diamond drill program completed by Probe Mines Ltd., 
+("Probe") in 2006.  
+ 
+Noront has been drilling continuously since acquiring the Condor claims in May 2007, on which 
+the Eagle One Deposit is situated. Thirty-five holes were drilled for a total of 5,387 metres on the 
+Eagle One Deposit, (none of the 11 holes drilled by Probe intersected the Eagle One Deposit). 
+The holes were named NOT-07-01 through NOT-08-35. Seven (7) drill cross sections were 
+developed for the resource model on a local grid looking north, on  a 25 metre spacing named 
+from 3525-N to 3675-N.  A Gemcom database was provided by Noront containing 29 diamond 
+drill holes of which 23 were utilized in the resource calculation. The remaining data were not in 
+the area that was modeled for this resource estimate. 
+ 
+From drill hole NOT-07-05 and for the remainder of the drilling, a quality control (QC) program 
+was set up by P&E and instituted by Noront. Holes NOT-07-01 and NOT-07-02 were not 
+covered by QC and holes NOT-07-03 and 04 did not intersect mineralization. 
+ 
+The QC program involved the insertion of two certified reference materials that monitored the 
+lab accuracy on the Cu, Ni and PGE analyses, blank material comprised of sterile granodiorite 
+drill core and field (1/4 core), coarse reject and pulp duplicates.  
+ 
+The QC monitoring was done on a real-time basis, and as the lab certificates were received, the 
+QC data were graphed to ensure results were accurate as defined by a strict protocol. All of the 
+data in the Master database met the QC requirements. 
+ 
+The resource estimate was derived from applying an NSR cut-off grade to the block model and 
+reporting the resulting tonnes and grade for potentially mineable areas.  
+
+
+
+ 
+
+P&E Mining Consultants Inc. iv  
+Eagle One Report No. 149 
+
+The resulting underground resource estimate at $115/tonne NSR Cut-off Grade is: 
+
+ 
+Indicated Tonnes Ni (%) 
+
+Cu 
+(%) 
+
+Au 
+(g/t) 
+
+Pt 
+(g/t) 
+
+Pd 
+(g/t) 
+
+Ag 
+(g/t) 
+
+Ni lbs 
+millions 
+
+Cu lbs 
+millions 
+
+Au 
+(oz) 
+
+Pt 
+(oz) 
+
+Pd 
+(oz) 
+
+Ag 
+(oz) 
+
+Massive 233,000 6.52 3.45 0.24 1.94 12.2
+1
+
+9.75 33.4 17.7 1,800 14,500 91,400 72,900 
+Disseminated 1,601,000 1.30 0.85 0.14 1.00 2.70 2.94 45.8 29.9 7,300 51,700 139,100 151,500
+Total 
+Indicated 1,834,000 1.96 1.18 0.15 1.12 3.91 3.81 79.2 47.6 9,100 66,200 230,500 224,400
+
+              
+Inferred 
+
+Tonnes Ni (%) 
+Cu 
+(%) 
+
+Au 
+(g/t) 
+
+Pt 
+(g/t) 
+
+Pd 
+(g/t) 
+
+Ag 
+(g/t) 
+
+Ni lbs 
+millions 
+
+Cu lbs 
+millions Au oz 
+
+Pt 
+(oz) 
+
+Pd 
+(oz) 
+
+Ag 
+(oz) 
+
+Massive 217,000 7.00 2.86 0.18 3.00 11.75 8.70 33.5 13.7 1,300 20,900 82,000 60,700 
+Disseminated 870,000 1.24 0.88 0.12 0.97 2.69 3.09 23.7 16.8 3,300 27,000 75,300 86,300 
+Total 
+Inferred 1,087,000 2.39 1.27 0.13 1.37 4.50 4.21 57.2 30.5 4,600 47,900 157,300 147,000  
+
+(1) Mineral resources which are not mineral reserves do not have demonstrated economic viability.  Estimated 
+mining costs, metallurgical recoveries and project infrastructure costs in this report may materially affect 
+this resource estimate due to those components not being studied in sufficient detail to accurately predict 
+their realized values.  The estimate of mineral resources may also be materially affected by environmental, 
+permitting, legal, title, taxation, socio-political, marketing or other relevant issues.  There is no guarantee 
+that Noront will be successful in obtaining any or all of the requisite consents, permits or approvals, 
+regulatory or otherwise for the project or that the project will be placed into production. 
+
+ 
+(2) The quantity and grade of reported Inferred resources in this estimation are uncertain in nature and there 
+
+has been insufficient exploration to define these Inferred resources as an Indicated or Measured mineral 
+resource and further exploration drilling is required to determine whether they can be upgraded to an 
+Indicated or Measured mineral resource category. 
+
+ 
+A total budget of $12,300,000 is recommended to follow up at Eagle One, to continue defining 
+and delineating the other deposits on the property such as Eagle Two, Blackbird One and Two, 
+as well as other geophysical anomalies. The authors feel that the large budget is warranted, given 
+that the project is now entering a predevelopment stage and will require considerable 
+infrastructure upgrades and advanced studies in order to proceed to the next level. In addition, 
+geophysical indications are that the Ring of Fire Intrusion continues across the entire Double 
+Eagle Property, and that Noront has continued success at intersecting mineralization in areas 
+several kilometres from the Eagle One Deposit.  
+ 
+The recommended budget breakdown is presented in the following table: 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc. v  
+Eagle One Report No. 149 
+
+EAGLE ONE Unit cost Units $CDN
+
+Delineation (for scoping)
+Diamond drilling 120$               5000 600,000$        
+Drill support (geos, camp, assays, etc.) 55$                 5000 275,000$        
+Helicopter support 175$               5000 875,000$        
+Subtotal 1,750,000$     
+
+Scoping study 1,750,000$     1 1,750,000$     
+Subtotal 1,750,000$     
+Total Eagle One 3,500,000$       
+
+AT2 (Eagle Two and Blackbird One)
+
+Delineation (for initial resource est.)
+Diamond drilling 120$               5000 600,000$        
+Drill support (geos, camp, assays, etc) 55$                 5000 275,000$        
+Helicopter support 175$               5000 875,000$        
+Subtotal 1,750,000$     
+
+Resource Estimate (BB1 and Eagle 2) 400,000$        1 400,000$        
+Subtotal 400,000$        
+Total AT2 2,150,000$       
+
+Blackbird Two
+
+Continued exploration
+Diamond drilling 120$               3000 360,000$        
+Drill support (geos, camp, assays, etc.) 55$                 3000 165,000$        
+Helicopter support 175$               3000 525,000$        
+Total BB2 1,050,000$       
+
+AT12 Cu-Ni-anomaly
+
+Continued exploration
+Diamond drilling 120$               2500 300,000$        
+Drill support (geos, camp, assay, etc.) 55$                 2500 137,500$        
+Helicopter support 175$               2500 437,500$        
+Total AT12 875,000$          
+
+Anomaly Testing 
+Linecutting 650$               200 130,000$        
+Geophysical surveying 500$               200 100,000$        
+camp support (geophysics) 250$               200 50,000$          
+Heli support   (geophysics) 1,500$            100 150,000$        
+Drilling 120$               4000 480,000$        
+drill support (geos,camp, assays, etc.) 55$                 4000 220,000$        
+Heli support  175$               4000 700,000$        
+Total Anomaly Testing 1,830,000$       
+
+Airstrip and Camp Construction 1 1,750,000$       
+
+Subtotal 11,155,000$     
+Contingencies (10%) 1,115,500$       
+Total Budget recommended 12,270,500$     
+
+Total Budget Rounded Off 12,300,000$      
+(1) Subject to permitting 
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 1 of 119 
+Eagle One Report No. 149 
+ 
+
+1.0 INTRODUCTION AND TERMS OF REFERENCE 
+ 
+1.1 TERMS OF REFERENCE 
+ 
+The following report was prepared to provide a Technical Report compliant with the provisions 
+of National Instrument 43-101 - Standards of Disclosure for Mineral Projects ("NI 43-101"), and 
+an independent Resource Estimate of the nickel, copper, (platinum, palladium, gold- PGE) 
+mineralization on the Eagle One Deposit, Double Eagle Property, Sachigo Greenstone Belt, 
+James Bay Lowlands, Ontario. Noront has a 100% outright interest in the property, subject to a 
+1% Net Smelter Returns (NSR) Royalty on two claims, which be bought back at any time for 
+$500,000. The Eagle One Deposit lies on one of these two claims.  
+ 
+This report was prepared by P&E Mining Consultants Inc., ("P&E") at the request of Mr. 
+Richard Nemis, President and CEO of Noront. Noront is a Toronto based company trading on 
+the TSX Venture Exchange (TSX-V) under the symbol of "NOT", with its corporate office at: 
+ 
+15 Toronto Street, Suite 1000 
+Toronto, Ontario, M5C 2E3 
+ 
+Tel:  416-864-1456 
+Fax: 416-367-5444 
+ 
+This report is considered current as of July 3, 2008. 
+ 
+Ms. Tracy Armstrong, P. Geo., a qualified person under the terms of NI 43-101, conducted a site 
+visit to the Property on April 8 and 9, 2008. An independent verification sampling program was 
+conducted by Ms. Armstrong at that time. 
+ 
+In addition to the site visit, P&E carried out a study of all relevant parts of the available literature 
+and documented results concerning the Property and held discussions with technical personnel 
+from Noront regarding all pertinent aspects of the Property.  The reader is referred to these data 
+sources, which are outlined in the "Sources of Information" section of this report, for further 
+details. 
+ 
+The purpose of the current report is to provide an independent Technical Report and Resource 
+Estimate of the nickel, copper, PGE mineralization present on the Eagle One Deposit, in 
+conformance with the standards required by NI 43-101 and Form 43-101F1. The estimate of 
+mineral resources contained in this report conforms to the CIM Mineral Resource and Mineral 
+Reserve definitions (December, 2005) referred to in NI 43-101.  
+ 
+1.2 SOURCES OF INFORMATION 
+ 
+This report is based, in part, on internal company technical reports, and maps, published 
+government reports, company letters and memoranda, and public information as listed in the 
+"Selected References" Section 19.0 at the conclusion of this report. Several sections from reports 
+authored by other consultants have been directly quoted in this report, and are so indicated in the 
+appropriate sections. P&E has not conducted detailed land status evaluations, and has relied upon 
+public documents and statements by Noront regarding property status and legal title to the 
+property. 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 2 of 119 
+Eagle One Report No. 149 
+ 
+
+1.3 UNITS AND CURRENCY 
+ 
+Unless otherwise stated all units used in this report are metric. Nickel and copper assay values 
+are reported in percent ("%") and platinum, palladium, gold and silver assays are reported in g/t 
+unless some other unit is specifically stated. The CDN$ is used throughout this report. 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 3 of 119 
+Eagle One Report No. 149 
+ 
+
+2.0 RELIANCE ON OTHER EXPERTS 
+ 
+The authors wish to make clear that they are qualified persons only in respect of the areas in this 
+report identified in their "Certificates of Qualified Persons" submitted with this report to the 
+Canadian Securities Administrators. The authors have relied, and believe that they have a 
+reasonable basis to rely, upon the following individuals who have contributed the legal, 
+environmental, marketing and taxation information stated in this report, as noted below: 
+ 
+Mr. John Harvey, P. Eng. 
+Chief Operating Officer, Noront Resources Ltd. who provided the general overall Project 
+information, and; 
+ 
+Mr. Neil Novak, P. Geo. 
+Vice President Corporate and Aboriginal Affairs, (formerly Vice President Exploration), Noront 
+Resources Ltd., who provided the general exploration and drilling information and history, and; 
+ 
+Dr. James Mungall, Ph. D., P. Geo. 
+Chief Geologist, Noront Resources Ltd., who provided the information on the Eagle One Deposit 
+mineralization and genesis;  
+ 
+Although copies of the licenses, permits and work contracts were reviewed, an independent 
+verification of land title and tenure was not performed.  P&E has not verified the legality of any 
+underlying agreement(s) that may exist concerning the licenses or other agreement(s) between 
+third parties. 
+ 
+A draft copy of the report has been reviewed for factual errors by Noront. Any changes made as a 
+result of these reviews did not involve any alteration to the conclusions made. Hence, the 
+statement and opinions expressed in this document are given in good faith and in the belief that 
+such statements and opinions are neither false nor misleading at the date of this report. 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 4 of 119 
+Eagle One Report No. 149 
+
+3.0 PROPERTY DESCRIPTION AND TENURE 
+ 
+The Double Eagle Property, within which sits the Eagle One Deposit, is comprised of 178 claims 
+for a total of 41,696 hectares. The approximate centre of the property is located at 5,845,000N 
+and 545,000E in the UTM NAD83 coordinate system. Two of the claims, 3012264 and 3012265 
+were purchased by Noront, subject to a 1% Net Smelter Returns (NSR) royalty that can be 
+bought back for $500,000 cash or stock at any time. The Eagle One Deposit lies on claim 
+3012264.  
+ 
+The remainder of the claims were acquired by Noront by ground staking pursuant to 
+requirements of the Mining Act R.S.O. 1990, Chapter M.14, attached regulations and 
+amendments thereto. In the James Bay Lowlands, claims corners are generally established with 
+the aid of handheld GPS receivers, whose accuracies are in the order of +/- 10 metres, depending 
+on which type of unit is used. Claim stakers mark out claim block boundaries by navigating, 
+blazing and flagging their course with the aid of a compass or GPS receiver and placing line 
+posts along this course every 400 metres. Corner claim posts are established at each corner of the 
+claim, and positional information is provided on the corner posts with the aid of a GPS receiver. 
+ 
+Noront has 100% rights to the staked claims which can be leased from the Province of Ontario if 
+a positive decision to mine the deposit is taken.  
+ 
+A map showing the claims is presented in Figure 3.1 and a list of the claims is presented in Table 
+3-1. 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 5 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+Figure 3.1: Claim Map of Double Eagle Property with the Eagle One Deposit shown as a 
+red star and the location of the Esker Camp indicated as a yellow dot.  
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.       Page 6 of 119 
+Eagle One Report No. 149 
+
+Table 3-1: List of Claims Double Eagle Property 
+ 
+
+C laim Nu mber Division Township/Area Area (Ha) Claim N umber D ivision T ownship/Area Area (Ha) Claim Number Division Townsh ip/Area Area (Ha)
+1221423 Porcupine BMA 526862 256 4225873 Porcupine BMA 526862 256 4226685 Porcupine BMA 526862 256
+3005622 Porcupine BMA 526862 256 4225874 Porcupine BMA 526862 256 4226686 Porcupine BMA 526862 256
+3005667 Porcupine BMA 527862 256 4225875 Porcupine BMA 526862 256 4226687 Porcupine BMA 526862 256
+3005668 Porcupine BMA 527862 144 4225876 Porcupine BMA 526862 256 4226688 Porcupine BMA 526862 256
+3005669 Porcupine BMA 527862 256 4225878 Porcupine BMA 525863 (PORC) 256 4226689 Porcupine BMA 527862 256
+3005670 Porcupine BMA 527862 256 4225879 Porcupine BMA 525863 (PORC) 256 4226690 Porcupine BMA 527861 256
+3008260 Porcupine BMA 526862 256 4225880 Porcupine BMA 525863 (PORC) 256 4226691 Porcupine BMA 526862 256
+3008261 Porcupine BMA 526862 256 4225881 Porcupine BMA 525862 256 4226692 Porcupine BMA 526862 256
+3008266 Porcupine BMA 527861 256 4225882 Porcupine BMA 525862 256 4226693 Porcupine BMA 526862 256
+3008267 Porcupine BMA 527861 256 4225883 Porcupine BMA 525862 256 4226694 Porcupine BMA 526862 256
+3008687 Porcupine BMA 527861 256 4225988 Porcupine BMA 527861 64 4226695 Porcupine BMA 526862 256
+3008773 Porcupine BMA 526862 256 4226091 Porcupine BMA 527861 112 4226696 Porcupine BMA 526862 256
+3008774 Porcupine BMA 526862 256 4226100 Porcupine BMA 526862 256 4226697 Porcupine BMA 526862 256
+3011019 Porcupine BMA 527861 240 4226581 Porcupine BMA 526861 256 4226698 Porcupine BMA 526862 256
+3011020 Porcupine BMA 527861 240 4226585 Porcupine BMA 526861 160 4226699 Porcupine BMA 526862 256
+3011021 Porcupine BMA 527861 240 4226586 Porcupine BMA 526861 256 4226700 Porcupine BMA 526862 256
+3011022 Porcupine BMA 527861 240 4226588 Porcupine BMA 527861 64 4226701 Porcupine BMA 527862 256
+3011024 Porcupine BMA 527861 256 4226611 Porcupine BMA 527861 256 4226702 Porcupine BMA 527862 256
+3011025 Porcupine BMA 527861 256 4226612 Porcupine BMA 526861 256 4226703 Porcupine BMA 527861 256
+3011556 Porcupine BMA 526862 256 4226613 Porcupine BMA 526861 32 4226704 Porcupine BMA 527862 256
+3011557 Porcupine BMA 526862 256 4226614 Porcupine BMA 526861 160 4226705 Porcupine BMA 527861 256
+3011561 Porcupine BMA 526862 256 4226616 Porcupine BMA 527861 256 4226706 Porcupine BMA 526862 256
+3011562 Porcupine BMA 526862 256 4226617 Porcupine BMA 526861 256 4226707 Porcupine BMA 526862 256
+3012256 Porcupine BMA 527862 256 4226624 Porcupine BMA 527861 256 4226708 Porcupine BMA 526862 256
+3012259 Porcupine BMA 526862 256 4226625 Porcupine BMA 527861 256 4226709 Porcupine BMA 526862 256
+3012260 Porcupine BMA 526862 256 4226626 Porcupine BMA 527861 256 4226710 Porcupine BMA 527862 256
+3012261 Porcupine BMA 526862 256 4226627 Porcupine BMA 527861 240 4229428 Porcupine BMA 527861 64
+3012262 Porcupine BMA 526862 256 4226628 Porcupine BMA 527861 256 4229430 Porcupine BMA 528861 64
+3012265 Porcupine BMA 526862 64 4226631 Porcupine BMA 526861 256 4229432 Porcupine BMA 528861 32
+4218185 Porcupine BMA 526862 256 4226632 Porcupine BMA 526861 256 4229435 Porcupine BMA 527861 16
+4218186 Porcupine BMA 526862 256 4226633 Porcupine BMA 526861 256 4229436 Porcupine BMA 528861 240
+4218187 Porcupine BMA 526862 256 4226635 Porcupine BMA 526861 256 4229437 Porcupine BMA 528861 256
+4218188 Porcupine BMA 526862 256 4226636 Porcupine BMA 526861 256 4229438 Porcupine BMA 527861 64
+4218887 Porcupine BMA 527862 256 4226639 Porcupine BMA 526861 256 4229439 Porcupine BMA 528861 192
+4218888 Porcupine BMA 527862 256 4226640 Porcupine BMA 526861 256 4229440 Porcupine BMA 528861 240
+4218889 Porcupine BMA 527862 256 4226651 Porcupine BMA 527862 256 4229442 Porcupine BMA 528861 160
+4218890 Porcupine BMA 527862 256 4226652 Porcupine BMA 527861 256 4229443 Porcupine BMA 528861 192
+4218901 Porcupine BMA 527862 256 4226653 Porcupine BMA 527861 256 4229630 Porcupine BMA 528861 192
+4218902 Porcupine BMA 527862 256 4226654 Porcupine BMA 527862 256 4229656 Porcupine BMA 528861 256
+4218903 Porcupine BMA 527862 256 4226655 Porcupine BMA 527861 192 4229657 Porcupine BMA 528861 256
+4218904 Porcupine BMA 527862 192 4226656 Porcupine BMA 527862 256 4229658 Porcupine BMA 528861 256
+4221425 Porcupine BMA 527862 256 4226657 Porcupine BMA 527861 256 4229659 Porcupine BMA 528862 256
+4221426 Porcupine BMA 527862 256 4226658 Porcupine BMA 527861 224 4229660 Porcupine BMA 528862 256
+4221427 Porcupine BMA 527862 256 4226659 Porcupine BMA 527861 256 4229661 Porcupine BMA 528862 256
+4221428 Porcupine BMA 527862 256 4226661 Porcupine BMA 526862 256 3011553 Thunder Bay BMA 526863 (TB) 256
+4221429 Porcupine BMA 527862 256 4226662 Porcupine BMA 526862 256 3011554 Thunder Bay BMA 526863 (TB) 256
+4222499 Porcupine BMA 526862 256 4226663 Porcupine BMA 526861 256 3011555 Thunder Bay BMA 526863 (TB) 256
+4222500 Porcupine BMA 526862 256 4226665 Porcupine BMA 526862 256 3011558 Thunder Bay BMA 526863 (TB) 256
+4225178 Porcupine BMA 526862 256 4226672 Porcupine BMA 527861 80 3011559 Thunder Bay BMA 526863 (TB) 256
+4225861 Porcupine BMA 526862 64 4226675 Porcupine BMA 526861 256 3011560 Thunder Bay BMA 526863 (TB) 256
+4225862 Porcupine BMA 526862 64 4226676 Porcupine BMA 526861 192 4218183 Thunder Bay BMA 526863 (TB) 256
+4225863 Porcupine BMA 526862 16 4226677 Porcupine BMA 526861 256 4218184 Thunder Bay BMA 526863 (TB) 256
+4225864 Porcupine BMA 526863 (PORC) 256 4226678 Porcupine BMA 526861 224 4221421 Thunder Bay BMA 527863 256
+4225865 Porcupine BMA 526862 256 4226679 Porcupine BMA 526861 256 4221422 Thunder Bay BMA 527863 256
+4225866 Porcupine BMA 526862 224 4226680 Porcupine BMA 526861 160 4221423 Thunder Bay BMA 527863 256
+4225868 Porcupine BMA 526863 (PORC) 256 4226681 Porcupine BMA 526862 256 4221424 Thunder Bay BMA 527863 256
+4225869 Porcupine BMA 526863 (PORC) 256 4226682 Porcupine BMA 526862 256 4221430 Thunder Bay BMA 526863 (TB) 256
+4225870 Porcupine BMA 526863 (PORC) 256 4226683 Porcupine BMA 526862 256 4225176 Thunder Bay BMA 526863 (TB) 256
+4225871 Porcupine BMA 526862 256 4226684 Porcupine BMA 526862 256 4225177 Thunder Bay BMA 526863 (TB) 256  
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 7 of 119 
+Eagle One Report No. 149 
+
+4.0 LOCATION, ACCESS, CLIMATE, PHYSIOGRAPHY & 
+INFRASTRUCTURE 
+
+ 
+4.1 LOCATION AND ACCESS 
+ 
+The Double Eagle Property is situated to the north and west of the Attawapiskat River some 250 
+kilometres west of James Bay. The Property lies in the James Bay Lowlands straddling its 
+western limit, and ~250 kilometres west of the community of Attawapiskat on James Bay.  An 
+exploration camp was initially established on the northwest corner of McFaulds Lake which is 
+accessible to float and ski-equipped aircraft and is situated approximately twelve kilometres 
+north, north-east of the Eagle One Deposit. Since the discovery of the deposit, Noront has 
+constructed a second camp known as the Esker Camp, which is located 250 metres north-east of  
+the Eagle One Deposit. Currently exploration is supported from Nakina, 300 kilometres to the 
+south, where there is a paved, 3,880-foot airstrip, all weather road access and railroad access.  
+  
+Smaller ponds, closer to work areas, form potential winter ice strips.  Snow mobiles afford good 
+winter access within tens of kilometres of temporary airstrips.  Advanced programs require 
+helicopter support for both moving equipment and ferrying personnel and supplies. 
+ 
+The First Nations communities of Webequie and Ogoki / Marten Falls lie 110 kilometres west 
+and 130 kilometres SSE of McFaulds Lake respectively.  Both are served by scheduled air 
+services, primarily from Thunder Bay, although both Thunder Bay and Timmins serve as support 
+centers for the James Bay communities and the projects. Thunder Bay lies 520 kilometres to the 
+southwest of the project area, and Timmins is located ~570 kilometres south-southeast.  
+ 
+4.2 CLIMATE AND PHYSIOGRAPHY 
+ 
+The James Bay Lowlands experience long, cold winters and short, warm summers.  Freeze-up of 
+the major rivers occurs in late October or early November. The mean daily minimum 
+temperature in January is approximately -27°C.  Spring breakup occurs in April.  Mean annual 
+precipitation is approximately 660 millimetres, and mean annual snowfall is approximately 2400 
+millimetres (snow depth). 
+ 
+River levels reach their maximum during the spring runoff in late April and early May. Water 
+levels typically drop through the summer and then increase slightly during the fall prior to freeze 
+up. Water levels fluctuate in response to even modest rainfall and short dry spells. 
+
+The James Bay Lowlands are an almost perfectly planar topographic feature that slope slightly 
+eastwards (0.7 m / km).  Major and secondary rivers incise slight trenches into the soft marine 
+clays that cover much of the Lowlands.  Elevations in the project area are in the order of 140 
+metres ASL.   
+
+Drainage is poor due to the lack of relief, and consequently inland areas remain water-logged 
+throughout the year.  Vegetation comprises grasses and sedges, low shrubs and sparse, stunted 
+trees, predominantly tamarack (larch) and black spruce.  Woody species increase in size and 
+proportion as drainages cut into overburden, forming better-drained banks.  Trees reach full size 
+along stable banks of the major rivers.  Extensive string bogs are developed between drainages. 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 8 of 119 
+Eagle One Report No. 149 
+
+The perennially water logged surface makes effective surface travel impossible except during the 
+winter months (December to March), however activities continue year round with helicopter 
+support. 
+
+4.3 INFRASTRUCTURE 
+ 
+The only infrastructure in the project area is the Esker and McFaulds Lake Camps. The 
+McFaulds Lake Camp is located on the shore of McFaulds Lake which is shared by several 
+companies doing work in the area. The Esker Camp is located 250 metres north-east of the Eagle 
+One Deposit and is used exclusively by Noront. The closest town with infrastructure is Nakina, 
+300 kilometres to the south. 
+ 
+Noront is required to remove camps, fuel caches and any remaining waste material upon 
+completing exploration.  Drilling is conducted in compliance with environmental standards that 
+include the removal of all equipment and waste upon completion of each set-up.  Currently the 
+operator backhauls empty containers, garbage and waste on supply flights from Nakina where 
+there are believed to be approved waste disposal facilities.  There are no other existing 
+environmental liabilities that are known to the writer. 
+ 
+Permits are not required for exploration, however meetings are held on a regular basis with the 
+First Nations communities in the area to keep them informed of the activities and to address any 
+specific concerns they may have. 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 9 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+Figure 4.1: Regional Location Map of Project Area 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 10 of 119 
+Eagle One Report No. 149 
+
+5.0 HISTORY AND PREVIOUS EXPLORATION 
+ 
+5.1 HISTORY 
+ 
+The Geological Survey of Canada and the Ontario Department of Mines carried out regional 
+studies circa 1906 and again between 1940 and 1965. The early work focused on the petroleum 
+possibilities of the sedimentary basins in Hudson and James Bays and on industrial and fuel 
+minerals in the Moose River Basin.  
+ 
+In 1959, Consolidated African Selection Trust started diamond exploration in the Lowlands 
+(Janse and Sheahan, 2003) and were joined by De Beers South Africa interests in 1962 (Timmins 
+Assessment File T.4663).  Monopros Ltd., De Beers' Canadian subsidiary, discovered the 
+Attawapiskat kimberlite cluster in 1988 (T.4663) by tracing a picroilmenite (a Kimberlite 
+Indicator Mineral- KIM) dispersal train from Hearst northwards to the Attawapiskat River where 
+diamonds were discovered in river sands and the Uniform kimberlite found in outcrop. 
+ 
+In the early 1990's, Spider Resources Inc., ("Spider") and KWG Resources Inc., ("KWG") 
+commenced an ambitious, airborne magnetic-based, diamond exploration program in the 
+northern James Bay Lowlands as joint venture partners, discovering the Good Friday and 
+MacFayden kimberlites in the Attawapiskat cluster and an additional five kimberlites to the east.   
+ 
+In 2002 De Beers Canada Inc., ("De Beers") in joint venture with Spider and KWG discovered 
+the McFaulds No. 1 volcanogenic massive sulphide (VMS) body while drilling some isolated 
+magnetic anomalies in search of kimberlites. In November 2002, Spider recorded the first group 
+of claims surrounding the initial VMS discovery and subsequent work by Spider and KWG 
+discovered the rest of the McFaulds occurrences, including McFaulds No. 3 VMS body. Many 
+other junior mining companies started staking in late 2002 (December) and then again during the 
+first half of 2003.  
+ 
+The Double Eagle Claims were staked by Noront in 2003, following the VMS discovery, and a 
+Fugro Geotem survey was flown later that year.  
+  
+Noront optioned the Double Eagle claims to Hawk Precious Minerals Inc., (now Hawk Uranium 
+Inc.), who in turn optioned them to Probe Mines Ltd., ("Probe"). 
+ 
+Probe completed an exploration program in early 2006 with 11 holes testing various (mostly 
+VMS style) anomalies. Probe returned the Double Eagle Claims back to Noront in early 2007. 
+ 
+The Condor Property, which was contiguous to the Double Eagle claims, consisted of two claims 
+which were optioned to Noront in May 2007. Noront holds a 100% interest on these claims, 
+subject to a 1% NSR Royalty, and it was in early September 2007 that Noront announced the 
+discovery of significant Ni-Cu-PGE mineralization on the Condor claims. Noront's diamond 
+drill hole NOT-07-05 drilled vertically into the heart of a magnetic and electromagnetic target, 
+remained in massive sulphide for a 68.3 metre section (not true width) and averaged 5.9% Ni, 
+3.1% Cu, 2.87 g/t Pt, 9.78 g/t Pd, 0.61 g/t Au and 8.5 g/t Ag. The deposit was named Eagle One, 
+and the ultramafic sill occupying an unconformity between the basement granodiorite on the 
+inside of an arc, and the volcanic belt on the outside of the arc was dubbed the "Ring of Fire". 
+ 
+After viewing the chalcopyrite and pentlandite mineralization in the core from the first hole of 
+the program, Noront contacted a staking contractor to launch a staking campaign. Claims were 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 11 of 119 
+Eagle One Report No. 149 
+
+staked immediately around the discovery site, to the north-east, and to the north-west. By the 
+time the drill had completed the second hole, news of the Noront claim-stakers moving into the 
+area had leaked out and a number of competing groups began arriving. Helicopter assisted 
+staking ensued in the immediate area, initially involving a group headed up by Temex Resources 
+Corp. and Baltic Resources Inc., in joint venture with MacDonald Mines Exploration Ltd.  After 
+the visuals for hole NOT-07-05 were reported to Noront's management in Toronto, a press 
+release was drafted and disseminated. This caught the attention of several other juniors, all vying 
+for claims as close to Noront's discovery site as possible. At one point, there were a minimum of 
+10 helicopters in the immediate area, staking anything possessing a high magnetic signature, in a 
+pattern that covered the geophysically interpreted greenstone belt in contact with the centrally 
+located granodiorite (Precambrian gneissic complex) dome. Staking continued from early 
+September 2007 until well into 2008, covering most of the area interpreted as being the "Ring of 
+Fire", and west toward De Beers Canada's Victor Diamond Mine.  
+ 
+The mining recorder for the area confirmed to Noront that this was the largest staking rush in the 
+province of Ontario since the Hemlo discovery.    
+ 
+5.2 PREVIOUS FEASIBILITY STUDIES 
+ 
+There have been no feasibility studies done on the Property. 
+ 
+5.3 PREVIOUS METALLURGICAL TESTING 
+ 
+There has been no metallurgical testing done on the Property. 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 12 of 119 
+Eagle One Report No. 149 
+
+6.0 GEOLOGICAL SETTING 
+ 
+6.1 REGIONAL GEOLOGY 
+ 
+Stott (e.g., 2007) and coworkers have done much to elucidate basement geology under the 
+Hudson Bay Platform.  Public domain aeromagnetic data supported by isotope chemistry of a 
+small number of diamond drill core samples provided the basis for a preliminary geological base 
+for the region.  
+ 
+The James Bay Lowlands are defined by flat-lying, Paleozoic platform rocks, which are covered 
+by a thin but persistent layer of glacial and periglacial sediments.  The Paleozoic carbonates are 
+up to 75 metres thick in the McFaulds Lake area and feather out toward the west. 
+ 
+6.1.1 PRECAMBRIAN GEOLOGY 
+ 
+The Precambrian geology of the area is inferred from airborne geophysical data supplemented by 
+sparse gravity and diamond drill data.  Magnetic patterns suggest a basement complex 
+comprising volcanic and sedimentary belts between large expanses of granite and gneisses.  The 
+Oxford-Stull Domain (Stott, 2007) extends eastwards under Paleozoic cover and into James Bay.  
+There are a handful of basement inliers in the Lowlands as follows: 
+
+• Coarse-grained fragmental and pillowed basalt ~30 kilometres north of Missisa Lake 
+(McBride, 1994) 
+
+• Fine- to medium-grained intermediate to felsic volcanic ~55 kilometres north north-west  
+of Missisa Lake 
+
+• Aphebian (Proterozoic) iron formation, greywacke and other clastic sediments (Sutton 
+Ridge Formation), dolomite, limestone and minor argillite (Nowashe Formation) and 
+Archean gneisses are exposed in the Sutton inlier ~200 kilometres north north-east of 
+Missisa Lake (Bostock, 1971) 
+
+• Sheared mafic to intermediate metavolcanics outcrop in the north-east part of the project 
+area (Thomas, 1995).  
+
+Recent work by Stott (e.g., 2007) suggests that the Oxford-Stull Domain comprises an older core 
+(2870 to 2830 Ma) perhaps built on a remnant mid-oceanic ridge.  Stott et al., have reported that 
+greenstone belts date between 2737 and 2695 Ma which are comparable with data from other 
+parts of the Superior Province.  For example host calc-alkaline volcanics from McFaulds Lake 
+show a U/Pb zircon isotopic age of 2737±7 Ma.  It should be noted that these new data 
+complicate the former picture of progressively older greenstone belts into the northwest corner 
+of the province.  A paleo weathering profile, locally including a regolith, is preserved in the 
+upper 10 to 20 metres of Precambrian basement immediately below the Paleozoic platform. 
+ 
+6.1.2 PALEOZOIC GEOLOGY 
+ 
+The Paleozoic section spans Ordovician to Cretaceous, the latter being developed in the Moose 
+River basin far to the south-east. In the project area, the section is limited to Ordovician and 
+Silurian rocks, which are absent along the west edge of the project area but reach ~100 metres to 
+the south and east. The section in the project area comprises thin, poorly consolidated, basal 
+sandstone, mudstone overlain by muddy dolomites, and limestone intervals of Ordovician and 
+Silurian age. 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 13 of 119 
+Eagle One Report No. 149 
+
+6.1.3 QUATERNARY GEOLOGY 
+ 
+The thickness of the Quaternary section ranges from 3.5 to 10 metres in drill holes. It typically 
+comprises 1 to 2 metres of sandy (Wisconsin) till overlain by sand (proximal varves?) grading up 
+to clays (distal varves?) and capped by marine clays (Thomas, 2004). Older, pre-Wisconsin, 
+interglacial sediments and tills are locally preserved (e.g., DR 95-46).  
+ 
+Glacial striae suggest a southwesterly ice flow in east and south parts of the area and to the 
+south-east, west of 85°W (e.g., Bell, 1872, 1878; Fulton, 1995). More recent work (e.g., 
+Thorleifson et al., 1993) suggests that the predominant Late Wisconsin ice flow direction was 
+west or north-west migrating through time to the south-west. They argue that the south to south-
+east flow patterns, termed the Winisk Ice Stream (e.g., Fulton, 1995), were late and short-lived. 
+ 
+
+ 
+ 
+Figure 6.1: Regional Tectonic Subdivisions of northern Ontario (after Stott et al. 
+2007), and the Location of the Eagle One Ni-Cu-PGE deposit in the Oxford-Stull 
+Domain. 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 14 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+Figure 6.2: Regional Geology of the Double Eagle Area (after Franklin and 
+Mungall, 2008) 
+ 
+6.2 LOCAL AND PROPERTY GEOLOGY 
+ 
+A mantle derived, highly magnetic ultramafic intrusion ("the Ring of Fire Intrusion" or "RFI") 
+has been emplaced along the margin of a regional scale granodiorite pluton which had been 
+intruded into and caused a doming of the host Sachigo greenstone belt rocks. The RFI is thus 
+situated between the granodiorite on one hand (footwall) and the surrounding Sachigo 
+greenstone belt rocks (hangingwall) on the other. The RFI is magnetically distinct allowing it to 
+be traced more or less uninterrupted, for tens of kilometres along the granodiorite margin. It 
+appears that a series of conduits cutting across the granodiorite have acted as feeders to the main 
+RFI. 
+ 
+The Eagle One Deposit is interpreted as occurring well within a conduit feeder, at some distance 
+from the main RFI. In addition to the Eagle One Deposit, Noront has also discovered, two  
+kilometres south-west, the Blackbird One Chromite Deposit, the Eagle Two shear-hosted Ni-Cu-
+PGE Deposit (collectively also known as AT2), and most recently the Blackbird Two Chromite 
+Occurrence. At the time of writing of this report, two drill holes had been completed on 
+Anomaly AT12, which returned encouraging widths of visual copper-nickel-iron sulphide 
+mineralization up to 29.2 metres in peridotite host rock. Assays are pending.  
+ 
+The Eagle Two discovery is interpreted as occurring within the "throat or mouth" portion of the 
+conduit where it empties into the main RFI.  The mineralization at this point in the system 
+consists of mineralized zones that contain numerous thin Ni-Cu bearing sulphide layers or 
+"fingers" that "feather" out into the main RFI.  
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 15 of 119 
+Eagle One Report No. 149 
+
+The most recent drilling at Eagle Two suggests that the zone of finger-style mineralization is 
+coalescing and increasing in overall thickness as it is tested to the west, presumably into a 
+conduit that is part of the original feeder system. The sulphide mineralization is also interpreted 
+as moving away from the chromite mineralization further suggesting that the Eagle Two 
+mineralizing environment is moving further away from the RFI and into a possible feeder 
+conduit environment similar to that at the Eagle One Deposit. 
+ 
+
+ 
+ 
+Figure 6.3: Local Geology surrounding Eagle One Deposit 
+ 
+
+ 
+ 
+Figure 6.4: Simplified Geology of Eagle One Deposit and surrounding Area 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 16 of 119 
+Eagle One Report No. 149 
+
+ 
+
+ 
+ 
+Figure 6.5: Cross Section 3600N through Eagle One Deposit. Disseminated 
+sulphides indicated by red color along hole trace.  
+ 
+
+ 
+ 
+Figure 6.6: Cross Section 3625N through Eagle One Deposit. Massive sulphides 
+indicated by magenta color along hole trace. 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 17 of 119 
+Eagle One Report No. 149 
+
+7.0 DEPOSIT TYPES 
+ 
+The "Ring of Fire" is clearly an emerging metal district. The McFaulds No. 1 and No. 3 VMS 
+occurrences, Noront's Eagle One Magmatic Sulphide Deposit, Noront's Blackbird One Chromite 
+Deposit and Blackbird Two Chromite Occurrence, as well as other Cu-Pb-Zn hits (results 
+pending) by the Metalex Ventures Ltd./WSR Gold Inc. joint venture in the area leave no doubt 
+about this.   
+ 
+The Eagle One Deposit is clearly a magmatic sulphide deposit, and Section 7.1 presents this 
+particular deposit type. In addition to the magmatic sulphide type, a chromite and volcanogenic 
+massive sulphide type are discussed.  
+ 
+7.1 MAGMATIC NICKEL-COPPER-PLATINUM GROUP ELEMENTS TYPE 
+ 
+A broad group of deposits containing nickel-copper-platinum group elements (PGE) occur as 
+sulphur segregations associated with a variety of mafic and ultramafic magmatic rocks. Among 
+such deposits, two main subtypes are distinguishable. In the first, the Ni-Cu sulphide type, nickel 
+and copper are economic commodities contained in sulphide-rich ores that are associated with 
+differentiated mafic sills and stocks and ultramafic volcanic (komatiitic) volcanic flows and sills. 
+The second type, magmatic PGE is mined principally for PGE's which are associated with 
+sparsely dispersed sulphides in medium to large, typically layered mafic to ultramafic intrusions. 
+ 
+Nickel-copper sulphide deposits are sulphide concentrations that occur in certain mafic and/or 
+ultramafic intrusions or volcanic flows. Nickel is the main economic commodity; copper may be 
+either a co-product or by-product, and platinum group elements (PGEs) are usual by-products. 
+Other commodities recovered in some cases include gold, silver, cobalt, sulphur, selenium, and 
+tellurium. These metals are associated with sulphides, which generally make up more than 10% 
+of the ore. 
+ 
+As a group, magmatic nickel-copper sulphide deposits have accounted for most of the world's 
+past and current production of nickel. International reserves of magmatic sulphide nickel remain 
+large, though they are exceeded by those of lateritic nickel deposits, the only other significant 
+source of nickel. 
+ 
+Most nickel sulphide deposits consist of several closely adjacent, but discrete orebodies, 
+therefore the definition of "deposit" is rather arbitrary. Individual orebodies may contain from a 
+few hundred thousand to a few million tonnes of ore, and in some instances tens of millions of 
+tonnes of ore. Mining grades are generally about 1 to 3% Ni, but may be higher in some small 
+deposits. Noteworthy exceptions are some of the ore zones in the Talnakh camp of the Noril'sk 
+area, where substantial orebodies average several per cent Ni and greater than 20% Cu. 
+ 
+There are four subtypes of this deposit and all subtypes have some general similarities. For 
+example, the host intrusions in all cases are either mafic or ultramafic in composition. In 
+addition, most deposits occur as sulphide concentrations toward the base of their magmatic host 
+bodies. Furthermore, all subtypes of nickel sulphide ores usually consist mainly of the simple 
+sulphide assemblage pyrrhotite-pentlandite-chalcopyrite, either as massive sulphides, sulphide-
+matrix breccias, or disseminations of sulphides. Nickel-copper sulphide ores of any of the 
+subtypes that have undergone tectonic remobilization have been converted to similar-appearing 
+sulphide-matrix breccias. The subtypes differ significantly in their geological-tectonic settings 
+and in the geometric form and style of differentiation of the host magmatic bodies. They differ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 18 of 119 
+Eagle One Report No. 149 
+
+also in that the magmatic hosts in most subtypes are intrusions, but in the komatiitic subtype 
+most are volcanic flows. Furthermore the ores of the various subtypes show some differences in 
+composition, most noticeably in their Ni:Cu ratios.  
+ 
+The komatiitic subtype, (to which the Eagle One Deposit belongs) is the third most important 
+type in the world. Proterozoic komatiitic deposits of the Thompson Nickel Belt in Manitoba 
+account for one quarter to one third of current nickel production in Canada. Archean komatiitic 
+deposits at Kambalda and elsewhere in Western Australia yield most of that country's produced 
+nickel. Several small nickel mines in the Abitibi greenstone belt of Ontario and Quebec are also 
+Archean komatiitic deposits. 
+ 
+Most of the Canadian Archean nickel deposits are found in the Abitibi greenstone belt of the 
+Superior province (e.g., Langmuir, Redstone, Marbridge, Texmont, Alexo; Coad, 1979; Barnes, 
+1985; Barrie et al., 1993). Those in the Shaw dome area south of Timmins are associated with a 
+discontinuous horizon of spinifex-textured komatiitic flows (probably 2707 Ma; Corfu, 1993) at 
+the base of a volcanic cycle which comprises an ultramafic-mafic-felsic succession. Other nickel 
+deposit-bearing komatiites in the Timmins area are considered to be part of the same horizon. 
+Furthermore, in both the Kambalda and Shaw dome-Timmins areas, most of the ore-bearing 
+komatiite is directly underlain by sulphidic sediments (Coad, 1979; Lesher, 1989). Many believe 
+these sediments are the source of sulphur that became incorporated in the komatiitic magmas and 
+gave rise to the ores. In both the Norseman-Wiluna and Abitibi greenstone belts, some larger, but 
+sub-economic, low grade disseminated nickel sulphide deposits occur in thicker and larger 
+dunitic sills of komatiitic affiliation. These are generally separate from the areas in which 
+extrusive komatiite hosted nickel deposits occur. Figure 7.1 demonstrates the "multi-deposit" 
+aspect of magmatic nickel deposits using the Kambalda camp in the Norseman-Wiluna 
+greenstone belt in Australia as an example. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 19 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+Figure 7.1: Plan of general geology of the Kambalda camp showing surface projections of 
+
+orebodies (after Gresham and Loftus-Hills, 1981). 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 20 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+Figure 7.2: 2005 Long Section through Voisey's Bay Mine showing the multiple nature of 
+
+magmatic Ni-Cu Deposits (CIM Presentation to St John's, 2005) 
+ 
+Table 7-1: Canadian and International Komatiite-hosted Nickel Deposits  
+ 
+Canadian Deposits Deposit Name Age Size Ni Cu Reference
+Sub-type Mt % %
+Komatiite-hosted Ni Thompson Ni Belt, MB Proterozoic 89.0 2.50 0.13 INCO Prospectus, 1968; Naldrett, 1994
+Komatiite-hosted Ni Amax Area 1 (Nose), MB Proterozoic 7.3 1.33 n/a Roth (1975)
+Komatiite-hosted Ni Manibridge, MB Proterozoic 1.4 2.55 0.27 Coats and Brummer (1971)
+Komatiite-hosted Ni Bucko, MB Proterozoic 2.5 2.23 0.17 Falconbridge Review, 1991
+Komatiite-hosted Ni Bowden, MB Proterozoic 80.0 0.60 n/a Northern Miner, 1970-08-06
+Komatiite-hosted Ni Raglan Deposits (6), Ungava, QC Proterozoic 18.5 3.13 0.88 Northern Miner, 1992-11-02
+Komatiite-hosted Ni Nunavik Nickel Project, Ungava, QC Proterozoic 19.4 0.97 1.18 Canadian Royalties Press Release 2008
+Komatiite-hosted Ni Texmont, ON Archean 3.2 0.93 n/a Coad (1979)
+Komatiite-hosted Ni Langmuir (No. 1&2), ON Archean 1.6 2.09 0.08 Coats (1982)
+Komatiite-hosted Ni Marbridge, QC Archean 0.8 2.82 0.10 Brett et al. (1976)
+Komatiite-hosted Ni Alexo Mine, ON Archean 0.1 3.58 n/a Shklanka (1969)
+Komatiite-hosted Ni Redstone, ON Archean 1.2 2.39 0.09 Barrie et al. (1993)
+Komatiite-hosted Ni Dumont, QC Archean 150.0 0.50 n/a Duke (1986)
+Komatiite-hosted Ni Gordon Lake, ON Archean 1.1 1.62 0.68 Coats (1982)
+Komatiite-hosted Ni Shebandowan, ON Archean 15.0 1.50 1.00 Coats (1982)
+Komatiite-hosted Ni Namew Lake, MB Proterozoic 2.6 2.44 0.90 Canadian Minerals Yearbook, p. 45.2
+
+Foreign Deposits Deposit Name Age Size Ni% Cu% Reference
+Sub-type Mt
+Komatiite-hosted Ni Pechenga, Russia Proterozoic 36.0 1.00 0.40 DeYoung et al. (1985)
+Komatiite-hosted Ni Kambalda District, Australia Archean 48.0 3.60 0.25 Chen and Mingliang (1987); Naldrett (1994)
+Komatiite-hosted Ni Agnew, Australia Archean 46.8 2.08 0.10 Listerud and Meineke (1977)
+Komatiite-hosted Ni Windarra District, Australia Archean 13.2 1.45 n/a DeYoung et al. (1985)
+Komatiite-hosted Ni Mt. Keith, Australia Archean 270.0 0.60 n/a DeYoung et al. (1985)
+Komatiite-hosted Ni Hitura, Finland Proterozoic 12.3 0.56 0.16 DeYoung et al. (1985)
+Komatiite-hosted Ni Shangani, Zimbabwe Archean 22.0 0.71 n/a DeYoung et al. (1985)
+Komatiite-hosted Ni Trojan, Zimbabwe Archean 20.4 0.68 n/a DeYoung et al. (1985)
+Komatiite-hosted Ni Hunter's Road, Zimbabwe Archean 30.0 0.70 n/a DeYoung et al. (1985)
+Komatiite-hosted Ni Kabanga, Tanzania Proterozoic 11.7 1.72 0.26 Northern Miner 1993-03-08, p.14  
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 21 of 119 
+Eagle One Report No. 149 
+
+7.2  MAFIC TO ULTRAMAFIC-HOSTED CHROMITE DEPOSIT TYPE  
+ 
+Chromite is mined almost exclusively from massive to semi massive accumulations in ultramafic 
+or mafic igneous rocks. Hard rock chromite deposits are normally assigned either to stratiform or 
+podiform on the basis of deposit geometry, petrological character, and tectonic setting. 
+ 
+Stratiform chromite deposits are sheet-like accumulations of chromite that occur in layered 
+ultramafic to mafic igneous intrusions. The best examples of stratiform chromite deposits in 
+Canada occur in the Bird River Sill in south-eastern Manitoba and in the Big Trout Lake 
+intrusion in north-western Ontario. Other intrusions in Canada with chromitite layers include the 
+Muskox complex in the Northwest Territories, the Lac des Montagnes body in Quebec, and the 
+Puddy Lake and Crystal Lake intrusions in Ontario. 
+ 
+There is no past or current production from stratiform chromite deposits in Canada apart from 
+approximately 6000 tons of material which was mined at Puddy Lake, Ontario in the 1930's.  
+ 
+Stratiform chromite deposits occur in large, layered intrusions which are commonly 
+differentiated into a lower ultramafic zone and an upper mafic zone. The intrusions fall into two 
+broad categories with respect to morphology. The first includes essentially tabular bodies which 
+were emplaced as sill-like intrusions in which igneous layering is conformable to the floor. 
+Examples include Kemi, Campo Formoso, Stillwater Complex, Bird River Sill, and Big Trout 
+Lake. 
+ 
+The intrusions which host stratiform chromite deposits occur in a variety of tectonic settings. The 
+Bushveld Complex, Great Dyke, and Muskox Intrusion are unmetamorphosed and were 
+emplaced into stable cratonic settings. The Kemi and Campo Formoso intrusions are 
+prekinematic and occur at the unconformable contact between Archean granitic basement and 
+overlying, mainly sedimentary Proterozoic supracrustal rocks. The Bird River Sill and Big Trout 
+Lake body are synvolcanic intrusions in Archean greenstone belt settings. 
+ 
+Most stratiform chromite deposits comprise laterally extensive chromite-rich layers which, 
+despite local irregularities are generally conformable to and form an integral part of the igneous 
+layering that characterizes such intrusions. The individual chromite rich layers range from less 
+than 1 cm to more than 1 m in thickness, but their lateral extent is measured in kilometres or tens 
+of kilometres. Chromite bearing horizons may be interlayered with a variety of rock types 
+including dunite, peridodite, orthopyroxenite, anorthosite and norite and may occur at various 
+stratigraphic levels within the host layered intrusion. However because chromite in the most 
+primitive rocks tends to be the most Cr –rich mineral species the immediate host rocks of 
+economically significant chromitites are peridotites, or less commonly, pyroxenites. Orebodies 
+may comprise discrete layers of massive chromitite rocks as in the Bushveld complex and Kemi 
+deposit or a number of closely spaced chromite-rich layers separated by UM rocks.  
+ 
+The association of chromite with magmatic platinum group element deposits is well known. The 
+association is two-fold. Firstly, the intrusions hosting the most prominent PGE "reefs" (Bushveld 
+Complex, Stillwater Complex, and Great Dyke) also contain significant stratiform chromite 
+deposits, normally at lower levels in the igneous stratigraphy. 
+
+7.2.1 BLACKBIRD ONE CHROMITE DEPOSIT 
+ 
+The following description is taken directly from a report by Dr. James E. Mungall, Noront's 
+Chief Geologist. In the winter of 2008, Noront encountered massive chromitite mineralization in 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 22 of 119 
+Eagle One Report No. 149 
+
+boreholes drilled to test airborne anomaly AT2 on the Double Eagle Property. The AT2 anomaly 
+is a coincident magnetic and conductive feature that was recognized as paired linear AeroTEM 
+conductors striking parallel to the margins of a highly magnetic body several kilometres long.  
+The magnetic body is connected directly to the Eagle One magmatic massive sulfide deposit and 
+as such was considered a prime target for further discoveries of peridotite-hosted magmatic 
+sulfide mineralization.  Diamond drilling into the conductive anomalies confirmed that the 
+magnetic anomaly corresponds to a large body of metadunite and metaharzburgite that has been 
+altered to magnetite-rich tremolite serpentinite and talc-carbonate rock.  Drill holes encountered 
+extensive Ni-rich sulphide mineralization hosted by shear zones parallel to the contact between 
+the ultramafic rocks and their felsic plutonic (granodiorite, sensu lato) host rocks.  The sulphide 
+deposit at the AT2 anomaly area was named the Eagle Two deposit. 
+ 
+Below the Eagle Two shear-hosted sulphide deposit the drilling unexpectedly intersected 
+chromite mineralization. The chromite mineralization has been named the Blackbird One 
+Deposit.  Blackbird One mineralization consists of massive chromitite layers interbedded with 
+chromite-rich metadunite, now entirely replaced by talc carbonate minerals, chromite, and minor 
+ferrochrome overgrowths.   
+ 
+Several drill holes intersected massive chromitite mineralization. The layers vary widely in 
+thickness, from centimetres on the margins of the Blackbird One deposit to continuous massive 
+chromitite intersections approaching true thicknesses of 30 metres at its central axis.  The 
+mineralization is thickest along an axis plunging steeply to the northwest from a near-surface 
+expression near the southeast extremity of the drill pattern.  To the southwest of this axis the 
+mineralization thins rapidly to nothing; along the northeast side there are insufficient data to tell 
+the shape of the body at the time of writing. 
+ 
+The chromite mineralization at Blackbird One shows several different textural and structural 
+styles.  In the host ultramafic silicate rocks there is abundant chromite which stands out in drill 
+core as isolated or disseminated submillimetric black euhedra in the white talc-carbonate host 
+rock. The modal abundance of chromite varies from less than 1% to as much as 25% and locally 
+shows evidence of primary layering.  When chromite abundance reaches 25% the rock typically 
+shows antinodular texture, with submillimetre chromite grains forming a closely packed matrix 
+around larger pseudomorphs of olivine. Within domains showing disseminated or antinodular 
+texture there are common cognate xenoliths of chromitite or dunite up to several centimetres in 
+size. Where xenoliths are larger than the diameter of the core they may become difficult to 
+distinguish from primary layers, however, most primary layering preserves some combination of 
+centimetric layering and fine laminations, which make identification unequivocal.  
+ 
+The chromitite mineralization does not have a notably strong magnetic susceptibility, compared 
+with serpentinized dunite and peridotite which are both common in the area around Eagle One, 
+Eagle Two, and the Blackbird One Deposits.  Chromite is an electrical insulator hence there is no 
+EM expression from the chromite deposit despite the presence of traces of interstitial sulfide 
+minerals in the massive chromitite.    
+ 
+A useful characteristic of chromite is its high density, around 4.5, which is similar to that of 
+magnetite and pyrrhotite.  Massive chromite therefore has an anomalously high density 
+compared even with ultramafic rocks and is detectable by gravity survey when it exists in 
+sufficient tonnages.    
+ 
+The demonstration of a detectable gravitational response to the massive chromitite at the 
+Blackbird One Deposit has been used to infer the presence of another body of chromitite some 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 23 of 119 
+Eagle One Report No. 149 
+
+900 metres long striking 60° away from the AT2 area. A single diamond drill hole through the 
+highest part of the density anomaly at line 4000E cut two bodies of massive chromitite, each 
+with apparent thicknesses of approximately 20 metres.  The new mineralized zone has been 
+named the Blackbird Two Deposit. 
+ 
+Massive layers of chromitite vary in thickness from centimetres to apparent thicknesses 
+exceeding 70 metres and true thicknesses probably exceeding 30 metres.  Within massive layers 
+there are occasional xenoliths and thin beds of talc after olivine. The chemical composition of 
+the chromitite mineralization has been assessed by three methods; whole-rock assay by 
+instrumental neutron activation analysis (INAA), electron microprobe analysis of individual 
+chromite grains (EMP), and hand-held semi-quantitative X-ray fluorescence spectrometry (H-
+XRF).   
+ 
+Assay results through the chromitite zone in drillhole 1G17 are shown in Figure 7.3.  Cr was 
+determined by INAA and is not subject to matrix effects; the results are therefore considered to 
+be quantitative.  The main mineralized zone remains well above 40% Cr2O3 for more than 30 
+metres, and includes a zone greater than 5 metres wide that averages above 45% Cr2O3.  Similar 
+results have been reported in other holes, and further assay results are pending.  The Cr/Fe 
+elemental weight percent ratio in the whole rock is consistently above 2 and averages about 2.6 
+over the massive chromitite interval.  
+ 
+Electron microprobe analyses were conducted on polished thin sections of samples taken at 
+intervals through several chromitite intersections.  Ten grains were analyzed at random from 
+each thin section.  Notable results include the observations that the Cr/Fe ratio of the chromite 
+ranges from 1.6 to 2.2, and that the Cr2O3 concentration in a chromite mineral concentrate 
+would exceed 52%. 
+ 
+
+ 
+DDH NOT 08 1G17
+
+175
+
+185
+
+195
+
+205
+
+215
+
+225
+
+235
+
+2450.0 10.0 20.0 30.0 40.0 50.0
+
+Cr2O3 (wt%)
+
+D
+ep
+
+th
+ in
+
+ h
+ol
+
+e
+
+Series1
+
+ 
+ 
+Figure 7.3: Concentration of Cr2O3 (wt%) in chromite 
+mineralization in hole NOT- 08-1G17.  Note sharp increase from 
+background levels near 4% Cr2O3 to a plateau above 40%, 
+including several metres above 45% Cr2O3. 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 24 of 119 
+Eagle One Report No. 149 
+
+ 
+Figure 7.4: Cross Section 1987 through Blackbird One Chromite Deposit 
+ 
+ 
+
+ 
+Figure 7.5: Cross Section 2025 through Blackbird One Chromite Deposit 
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 25 of 119 
+Eagle One Report No. 149 
+
+7.2.2 ECONOMIC CONSIDERATIONS FOR CHROMITE MINING 
+ 
+Annual production of chromite ores is approximately 19 Mt, 90% of which is used to make 
+ferrochrome alloy for use in steel.  Chromium ores and products are sold in three principal forms 
+worldwide.  Direct shipping ore is referred to as lumpy ore and is sold by contract only.  The 
+lump ore is defined as the > 6 mm size fraction; < 6 mm fractions are sold as fines and carry a 
+lower price.  High-grade lump ore can be fed directly into smelters and there is a global trade in 
+this material, particularly from developing countries to a growing metallurgical market in China.  
+Fine-grained chromite concentrates are not amenable to smelting and must be pelletized first; 
+most pelletizing operations are integrated with smelters and there is little trade in concentrates.  
+However, the bulk of trade in chromium products is in the ferrochrome product of smelting.  
+Most ferrochrome is produced by vertically integrated large-scale mining, pelletizing and 
+smelting operations that produce the ferrochrome on site or very near to the mine site.  
+  
+The dominant player in the world ferrochrome market is South Africa, which accounted for 43% 
+of global production in 2005.  Major producers include Assmang Ltd., Kermas Group Ltd., 
+(formerly Samancor Chrome Mines, South Africa), Xstrata South Africa Proprietary Ltd., and 
+International Ferro Metals Ltd.  Most ferrochrome produced in South Africa is made from ores 
+mined from the stratiform chromitite deposits of the Bushveld Complex of South Africa.   
+Annual production in 2005 was 7.645 Mt.  These ores have moderate grades compared with 
+some smaller deposits worldwide but are economic due to economies of scale and simple deposit 
+geometry.  Other important producers are India (3.640 Mt), Kazakhstan (3.566 Mt), Finland 
+(0.572 Mt), Turkey and India.   
+ 
+Lump ore prices are reported in units called dry metric ton units (dmtu).  The price of an ore is 
+found by multiplying the concentration of Cr2O3 in wt% by the price in dmtu; for example, a 
+Turkish lump ore containing 39% Cr2O3 was sold in May 2008 at a price of USD14.97/dmtu for 
+a price of $583/Mt ex ports (http://www.asianmetals.com).  The value of lump ore increases 
+dramatically as the grade increases above 30%; no significant international trade takes place at 
+grades below this value.  The value of a concentrate containing 50% Cr2O3 is approximately 
+$750/ton (http://www.asianmetals.com). 
+ 
+The smelting process adds considerable value to chromite ores if a deposit is large enough to 
+justify the capital cost of a smelter. The product of smelting is ferrochrome alloy, whose price 
+has rapidly increased in recent years due to interruptions of the electricity supply in South Africa 
+and mounting demand from China. The Q3 contract price for high-carbon 65% ferrochrome is 
+$US $2.05, up from about $US 0.60 in mid-2005 
+(http://www.metalprices.com/FreeSite/metals/cr/cr.asp). The contained metal value in a ton of 
+ore at 40% Cr2O3 therefore is $1,890 a considerable increase over the May 2008 lump ore value 
+of about $600 ex ports. 
+ 
+The closest geological analogs to the Blackbird One Deposit are the Kemi Mine in Finland, the 
+Ipueira-Medrados Deposit in Brazil, and the Sukinda Valley Deposit in India.  All consist of 
+massive chromitite bodies up to several tens of metres thick and hundreds of metres long, hosted 
+by ultramafic rocks predominantly consisting of dunite and harzburgite, and all are currently 
+being mined. 
+ 
+The Kemi Mine is the best described of these similar deposits.  It is a massive body 40 metres 
+thick dipping 70°.  Ore reserves in January 2006 were 41.1 Mt grading 24.5% Cr2O3 and 
+Inferred Resources of 86.1 Mt at 29% Cr2O3.  The Cr/Fe ratio is 1.53.  From 1968 to 2005 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 26 of 119 
+Eagle One Report No. 149 
+
+mining was from an open pit, but with stripping ratios becoming intolerable in the late 1990's, an 
+underground operation was begun, and since 2006 all production has been from underground, 
+(Duke, 1998).    
+ 
+Production from Kemi in 2005 was 1.1 Mt, recovering 572,000 t of lumpy ore (36% Cr2O3) and 
+metallurgical grade concentrate with a grade of 44% Cr2O3, which were used to produce 
+235,000 t of ferrochrome (Duke, 1998). 
+ 
+Grades at Noront's Blackbird One compare favourably with those at the world's most important 
+chromite producers.  The deposit is the latest example of the Kemi Deposit type, represented by 
+important producing mines on three continents that collectively account for approximately one 
+third of global chromite production.  A geophysical anomaly known to correspond to the 
+presence of massive chromitite persists for more than one kilometre along strike from the 
+Blackbird One Deposit, indicating that the potential exists for a multimillion ton resource 
+comparable in size to the Kemi, Sukinda Valley, or Ipueira-Medrados Deposits. 
+ 
+7.3 VOLCANOGENIC MASSIVE SULPHIDE TYPE 
+ 
+All volcanic-associated massive sulphide deposits occur in terranes dominated by volcanic rocks. 
+The individual deposits however may be hosted predominantly by volcanic or sedimentary strata, 
+all of which form integral parts of a volcanic complex. Such deposits are also commonly referred 
+to as volcanogenic massive sulphides, or simply as VMS. 
+ 
+These deposits are important sources of base metals and precious metals in Canada. In 1988 they 
+produced 32.8% of Canada's copper, 29.4% of its lead, 56.3% of its zinc, 3.6% of its gold, and 
+30.4% of its silver. 
+ 
+The deposits occur in two distinct compositional groups, the copper-zinc group and the zinc-
+lead-copper group, according to their total contained copper, lead, and zinc (Figure 7.7). Using 
+the Zn/Zn+Pb ratio, the division between these two groups is established at 0.90. All are within 
+sequences dominated by submarine volcanic rocks, and contain about 90% iron sulphide (pyrite 
+dominant). They consist of two parts: massive sulphide ore that formed either on or immediately 
+below the seafloor and generally less important vein and disseminated ore (stringer zone) that 
+immediately underlies the massive sulphide ore. The stringer ore is usually within an intensely 
+metasomatically altered "alteration pipe". Deposits of the volcanic-associated massive sulphide 
+type are important sources of copper, zinc, and lead; many deposits contain economically 
+recoverable silver and gold. Cadmium, tin, indium, bismuth, and selenium are also recovered as 
+smelter by products. 
+ 
+These deposits occur in two principal geological settings; 1) in mafic-volcanic dominated areas, 
+such as Archean and Proterozoic greenstone belts and modern and Phanerozoic spreading ridges 
+and seamounts; 2) in areas containing subequal amounts of both mafic volcanic rocks and 
+sedimentary strata, such as are in Phanerozoic arc sequences. 
+ 
+Significant variation in the composition of these deposits, and the alteration associated with 
+them, has been related to the depth of water under which the deposits formed. Morton and 
+Franklin (1987) defined two groups: 
+ 
+1) Deposits typified by the Noranda and Matagami Lake Districts, Quebec (Figure 7.6) were 
+formed at depths of considerably more than 500 metres. These are associated with sequences 
+composed primarily of massive to pillowed mafic flows. Felsic ash-flow tuff beds are usually 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 27 of 119 
+Eagle One Report No. 149 
+
+prominent immediately below the deposits, and felsic domes may immediately underlie or 
+enclose the ore. However, the amount of felsic rock in the footwall sequence may be only minor 
+(Flin Flon, Manitoba), or comprise as much as 30% (e.g. Noranda); 
+ 
+2) A second group of deposits, typified by those near Sturgeon Lake, Ontario, Hackett River, 
+Northwest Territories, and possibly the Kidd Creek Mine near Timmins, Ontario, are associated 
+with volcanic rocks deposited in subaerial to shallow marine environments (<500 metres). These 
+include mafic and felsic amygdaloidal and scoriaceous flows and pyroclastic rocks, volcanic 
+breccia, and epiclastic strata. Felsic rocks typically comprise 30% of the footwall sequence. 
+ 
+Both groups of deposits occur in volcanic sequences that have prominent subvolcanic intrusions 
+near their base. Trondhjemitic intrusions predominate (Noranda, Sturgeon Lake, Flin Flon, Snow 
+Lake), but a layered mafic intrusion forms the base of the Matagami Lake Sequence.  
+ 
+
+ 
+Figure 7.6: Classic Noranda-type VMS Deposit section (after Franklin et al. 1981) 
+
+ 
+
+ 
+ 
+
+Figure 7.7: Contours of tonnes of contained copper, lead, and zinc, in 
+approximately 800 massive sulphide deposits of both the volcanic-associated 
+and sediment-associated types from Canada, U.S.A., Japan, Scandinavia, 
+Spain, and Portugal (after Franklin et al., 1981)  
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 28 of 119 
+Eagle One Report No. 149 
+
+8.0 MINERALIZATION 
+ 
+The Eagle One Deposit is comprised of massive and net textured sulphides with little to no 
+disseminated sulphides in the deposit. Descriptions of the mineralization that follow are taken 
+directly from reports by Dr. James E. Mungall, Chief Geologist for Noront.  
+  
+8.1 MASSIVE SULPHIDES 
+ 
+Massive sulphides at the Eagle One Deposit comprise pyrrhotite, pentlandite, and chalcopyrite, 
+with subsidiary amounts of equant millimetric magnetite.  In most examples the rocks are very 
+coarse-grained, with grain sizes up to 1 centimetre and well-formed pentlandite "eyes".  
+Sometimes the pentlandite is seen to be aligned along microfractures.  At peak metamorphic 
+conditions, all the Ni and perhaps all the Cu in the sulphide was probably present within a 
+homogeneous monosulphide solid solution.  The pentlandite probably nucleated and grew during 
+retrogression from peak metamorphic conditions, and its occasional habit of forming along the 
+margins of fractures probably indicates that it was more easily nucleated on discontinuities.   The 
+significance of these textural features is as follows:  since the pentlandite that nucleated along 
+fractures is as coarse as the large isolated porphyroblasts ("eyes"), it is likely that all of the 
+pentlandite and hence all of the pyrrhotite show metamorphic texture and has been completely 
+annealed since peak metamorphic conditions.  It is therefore important to recognize that even 
+extreme deformational textures that may have existed in the sulphide at peak conditions will 
+have been erased by recrystallization. 
+ 
+8.2 SULPHIDE BRECCIA (DURCHBEWEGUNG TECTURE) 
+ 
+There are many instances in the deposit of medium to very fine-grained massive sulphide veins 
+that are rich in inclusions of silicates and which may display pronounced gneissic foliation that 
+wraps around the clasts; in light of the comments above, these veins clearly must have 
+undergone extreme ductile deformation at post-peak metamorphic conditions.  Motion along 
+these zones therefore was very late.  Since sulphide minerals are very ductile at upper 
+greenschist or amphibolite facies conditions, massive sulphide bodies commonly serve as 
+nucleation points for faults.  Once faulting begins along a surface that includes a massive 
+sulphide body, it is not unusual for the sulphides to be squeezed laterally into the fault plane for 
+distances of hundreds of metres away from their original sites.  Under the same conditions that 
+allow rapid ductile deformation of the sulphides, the host silicate rocks will have been brittle.  As 
+a result, the sulphide bodies tend to contain a mixture of brittle angular clasts and wavy schistose 
+clasts of host silicate rock. 
+ 
+8.3 SEMI-MASSIVE SULPHIDE 
+ 
+In some cases the massive sulphide texture grades into peridotite through a marginal zone in 
+which silicate minerals are completely bathed in sulphide and are not in mutual grain contact.  
+Rocks like this may preserve the textures formed at the point where immiscible sulphide liquid 
+was becoming fully separated from the hosting silicate crystal mush.  However it is also possible 
+that this texture has resulted in part from tectonic disaggregation of net-textured sulphides (see 
+below), followed by complete annealing of the texture which would remove all textural evidence 
+of deformation. 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 29 of 119 
+Eagle One Report No. 149 
+
+8.4 NET TEXTURED SULPHIDES 
+ 
+In this texture the silicate minerals form a closely-packed orthocumulate-textured framework, the 
+interstices of which are fully occupied by sulphide minerals.  This arrangement is generally 
+understood to result from the invasion of a silicate crystal mush by dense immiscible sulphide 
+melt that has effectively expelled all the interstitial silicate melt.  In a few examples at Eagle One 
+this net texture is observed to be occupied by large (up to 10 cm) pyrrhotite oikocrysts that 
+completely fill the interstices of the peridotite orthocumulate texture.  Such large oikocrysts may 
+represent primary growth of monosulphide solid solution from the original sulphide melt. 
+ 
+Much of the net-textured sulphide mineralization at the Eagle One Deposit shows a distinct 
+metamorphic fabric.  Subparallel wavy veinlets of sulphide minerals are present throughout the 
+rock, apparently the result of transfer of sulphide on the grain-scale from the net texture into 
+extensional features.  This might have occurred by ductile flow of the sulphides or through 
+pressure solution.  This foliation is commonly best developed in parts of the deposit that also 
+contain fine-grained sulphide breccias; the combination of metamorphic foliation and discrete 
+ductile shear zones indicates that significant deformation has taken place. 
+ 
+The large amounts of sulphide and of ultramafic cumulate make it absolutely clear that the Eagle 
+One Deposit formed in a magmatic conduit.  No magma could have carried the observed amount 
+of sulphide in solution, therefore the sulphides have been left behind by a through-going volume 
+of magma much greater than what presently remains in the intrusion.  Similarly, the mafic 
+chilled margins can be interpreted to represent samples of the liquid from which the intrusion 
+formed; the ultramafic rocks are cumulates that were gleaned from large volumes of mafic liquid 
+that deposited small increments of olivine and pyroxene as it passed by. 
+  
+If the intrusion is accepted to be a conduit then it must be continuous over considerable distances 
+likely measurable in kilometres.  Since diamond drilling has shown that it is surrounded on all 
+sides by older felsic intrusive rocks at surface, logic dictates that it must continue at depth.  The 
+prospects for continued extension of the mineralized body to depth are excellent, as long as it is 
+not lost in a fault zone.  In this regard it is encouraging to note that although the western margin 
+has been extensively modified by faulting, it is fundamentally an intrusive contact that is 
+preserved in situ.  There is thus no immediate indication of a structural termination of the 
+mineralization.   
+ 
+The origins of the sulphides are slightly problematic.  It is generally accepted that in order to 
+form a mass of immiscible sulphide liquid on the scale observed at the Eagle One Deposit, a 
+mafic or ultramafic magma must become contaminated by sulphide-rich crustal rock.  At its 
+present level of exposure the mineralized intrusion is entirely surrounded by sulphur-poor felsic 
+intrusive rocks, leaving the origin of the required sulphide in doubt.  Mungall suggests that the 
+presence of abundant magnetite-rich xenoliths in the intrusion records a previous episode of 
+assimilation of iron formation, which has added sufficient sulphide to the magma to induce 
+sulphide liquid saturation.  The conduit has carried the slurry of sulphide droplets and small 
+xenoliths to their current location, requiring transport over considerable distances.  This in turn 
+suggests that the Eagle One Deposit resides in a large magmatic system with lateral extents at 
+least as great as the distance to this same iron formation, which may be represented by the very 
+prominent magnetic lineament to the south of the deposit. 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 30 of 119 
+Eagle One Report No. 149 
+
+ 
+8.5 GEOLOGICAL AND MINERALIZATION MODEL 
+ 
+On-going exploration work on the Double Eagle Property is partly predicated upon a conceptual 
+model of the mineralizing systems associated with the Ring of Fire. This model has been 
+formulated by incorporating recent drill data along with geophysical, geological and other 
+technical survey results. Salient features from other established geological models for similar 
+mineralizing systems from around the world have also been incorporated into the conceptual 
+model, which is in a constant state of revision as new data become available. Key points of the 
+Ring of Fire model are as follows: 
+ 
+
+• A mantle derived, highly magnetic ultramafic intrusion ("the Ring of Fire Intrusion" or 
+"RFI") has been emplaced along the margin of a regional scale granodiorite pluton which 
+had been intruded into and caused a doming of the host Sachigo greenstone belt rocks 
+The RFI is thus situated between the granodiorite on one hand (footwall) and the 
+surrounding Sachigo greenstone belt rocks (hangingwall) on the other. The RFI is 
+magnetically distinct allowing it to be traced more or less uninterrupted, for tens of 
+kilometres along the granodiorite margin. It appears that a series of conduits cutting 
+across the granodiorite have acted as feeders to the main RFI. 
+
+• On a world wide basis ultramafic intrusions, such as the RFI, are known to host several 
+types of deposits: 
+
+• Layered chromite deposits 
+• Nickel-Copper deposits and 
+• Platinum Group Metals (PGM) deposits. 
+
+• Recent drilling within the Ring of Fire area confirms that both PGM-rich Ni-Cu deposits 
+(Eagle One and Two) and now chromitite deposits, (Blackbird One and Two) are 
+associated with the RFI and its related conduit feeder system. On-going drilling by 
+Noront and others suggest that the layered chromite mineralization is, as conceptually 
+expected from the model, confined strictly to the main RFI while the platinum rich Ni-Cu 
+sulphide mineralization appears, at least at this stage of exploration, to be related to the 
+conduit feeders.  Based on observations from similar intrusives globally there is no 
+reason, at least conceptually, why Ni-Cu or PGM deposits could not be hosted by the RFI 
+itself. The exploration potential in this regard remains to be tested.  
+
+• According to the conceptual model, the high-grade Eagle One Deposit is interpreted as 
+occurring well within a conduit feeder, at some distance from the main RFI. The Eagle 
+Two discovery on the other hand is interpreted as occurring within the "throat or mouth" 
+portion of the conduit where it empties into the main RFI.  The mineralization at this 
+point in the system consists of mineralized zones that contain numerous thin Ni-Cu 
+bearing sulphide layers or "fingers" that "feather" out into the main RFI.  
+
+• The most recent drilling at Eagle Two suggests that the zone of finger-style 
+mineralization is coalescing and increasing in overall thickness as it is tested to the west, 
+presumable into a conduit that is part of the original feeder system. The sulphide 
+mineralization is also interpreted as moving away from the chromite mineralization 
+further suggesting that the Eagle Two mineralizing environment is moving further away 
+from the RFI and into a possible feeder conduit environment similar to that at Eagle One. 
+
+• It is felt that the drill results obtained to date at Eagle Two are consistent with the 
+conceptual model which would suggest that there is significant potential for the discovery 
+of another Eagle One - type deposit as the Eagle Two mineralization is traced westward 
+into a possible feeder conduit.  
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 31 of 119 
+Eagle One Report No. 149 
+
+9.0 EXPLORATION  
+ 
+Since Noront acquired the Double Eagle Property in 2003, there have been a total of six airborne 
+and ground geophysical surveys undertaken as well as an 11 hole diamond drill program 
+completed by Probe in 2006, (prior to the 2007 diamond drill program undertaken by Noront). A 
+summary of each of the programs is presented in this section. Sub-sections 9.1, 9.2, 9.3 and 9.4 
+predate the discovery of the Eagle One Deposit, while sub-sections 9.5, 9.6 and 9.7 postdate it. 
+No other exploration work has been done on the Property apart from diamond drilling which is 
+presented in Section 10.0 of this report. 
+ 
+9.1  2003 FUGRO AIRBORNE SURVEY 
+ 
+An airborne magnetic and electromagnetic survey over the McFaulds Lake Area was carried out 
+by Fugro Airborne Surveys, ("Fugro") between July 26th and August 10th 2003 from an 
+operating base at Pickle Lake, Ontario. A total of 2,148 line kilometres of data was collected, 
+which provided among other things, added detail to the sparse geologic information available for 
+the area. 
+ 
+The airborne magnetic and electromagnetic survey identified a number of interpreted bedrock 
+conductors that closely correlate with magnetic anomalies. The associated conductance estimates 
+are typically in the range of 30 to 50 siemens which is reasonable for sulphide mineralization. A 
+ground survey using a horizontal loop electromagnetic system and magnetometer was suggested 
+at the recommended locations and was completed in 2004.  
+ 
+9.2 2004 GROUND MAGNETIC AND HORIZONTAL LOOP EM SURVEY 
+ 
+In March and April 2004, Noront carried out two ground geophysical surveys on two separate 
+grids over its mineral claims in the McFaulds Lake area. The data were compiled and interpreted 
+by Scott Hogg & Associates Ltd. ("SHA") of Toronto, Ontario.  
+ 
+Ground survey grids were cut with a line interval of 200 metres, perpendicular to a base line, 
+which was established using a GPS reference. The data were collected and presented with 
+reference to line and station. 
+ 
+The ground magnetic survey was carried out using a Scintrex MP3 proton recession 
+magnetometer. Readings were taken at 12.5 metre intervals along the line and recorded digitally 
+by the instrument. A second MP3 magnetometer, at a fixed location at the camp recorded diurnal 
+magnetic variation and a correction was applied in the field. The corrected digital magnetic files 
+were recorded on disk and sent to SHA in Toronto for compilation and analysis. 
+ 
+The magnetic data, collected as profiles, were gridded using the SI-Grid process developed by 
+SHA. This interpolation technique preserves all of the detail of the profile data and optimizes the 
+correlation of information between adjacent survey lines. The SI-Grid output was contoured at a 
+50 nT interval and presented in colour together with survey lines and geographic reference at 
+1:20,000 scale. 
+ 
+The ground horizontal loop electromagnetic survey was carried out using a MaxMin II 
+instrument. A coil spacing of 150 metres was used and the in-phase and quadrature response 
+amplitudes were recorded at 3 frequencies: 444, 1777 and 3555 Hz. Measurements were made 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 32 of 119 
+Eagle One Report No. 149 
+
+every 25 metres and recorded manually. The field notes were converted to digital files and sent 
+to SHA. 
+ 
+On both grids, conductive axes of bedrock origin were mapped within and adjacent to magnetic 
+anomalies typical of metavolcanic rocks. It is possible that some or all of these conductors are 
+associated with sulphide mineralization. The weaker conductors may be indicative of minor 
+pyrite that can occur with gold mineralization and the stronger conductors with massive 
+sulphides. Further investigation is warranted but specific anomaly recommendations and 
+prioritization cannot be made solely on the basis of the available geophysical information. It is 
+also suggested that the circular magnetic anomaly in the northwest corner of Grid 2 might be 
+associated with a kimberlite pipe. Magnetic modelling, to determine whether the anomaly dip, 
+width and susceptibility is consistent with typical kimberlite, is recommended. 
+ 
+9.3 2006 CONDOR DIAMOND CORP IN-FILL GROUND MAGNETIC SURVEY 
+ 
+In 2003, Condor Diamond Corp., ("Condor") staked several mining claims in the McFaulds Lake 
+area based on a regional aeromagnetic survey, (two of the claims were later optioned to Noront 
+and the Eagle One Deposit discovery was made on claim number 3012264). In early 2004, 
+Condor took part in a ground magnetic and horizontal loop electromagnetic survey that partially 
+covered one of these claims. Their target was kimberlite pipes. The claim was one of a 
+contiguous pair of four-unit claims that captured two aeromagnetic anomalies. The survey 
+revealed an elliptically shaped magnetic anomaly with an associated EM response. The original 
+line spacing was 200 metres and was considered insufficient to site a drill hole, and infill lines 
+were therefore recommended. 
+ 
+In February 2006, Condor contracted Greenstone Exploration Ltd. to survey infill lines and to 
+extend the survey to include the northwest claim. Work began on February 23rd and was 
+completed on March 1st. The raw data were forwarded to the offices of SHA in Toronto where 
+they were compiled and interpreted. Three anomalies were identified, named A, B and C.  
+ 
+Anomaly A - This anomaly was further resolved magnetically by the infill lines. The magnetic 
+field data indicate a SW-NE striking elongated body with a peak amplitude of 4000 nT. The 
+modeled body is steeply dipping, with a width of 40 metres to 75 metres, at a depth of 20 to 30 
+metres and a magnetic susceptibility of 0.016 to 0.018 emu. *Anomaly A turned out to be the 
+Eagle One Deposit. 
+ 
+Anomaly B - This 550 nT anomaly occurs on line 4800, with a slight response on line 5000. The 
+model results show a steeply dipping body, with a width of approximately 115 metres and a 
+depth of 55 metres. The magnetic susceptibility is 0.0049 emu. 
+ 
+Anomaly C - The anomaly is immediately northwest of anomaly B on line 4800, with a peak 
+amplitude of 1100nT. It has a lesser response on line 4600. The model results show a south-
+easterly dipping body, with a width of approximately 55 metres at a depth of 18 metres. The 
+magnetic susceptibility is 0.00676 emu. 
+ 
+9.4 2006 PROBE DIAMOND DRILL PROGRAM 
+ 
+Noront optioned the Double Eagle claims to Hawk Precious Minerals Inc., (now Hawk Uranium 
+Inc.), who in turn optioned them to Probe Mines Ltd.  
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 33 of 119 
+Eagle One Report No. 149 
+
+Probe drilled eleven holes from February 14 through April 4, 2006 to test selected ground and 
+airborne geophysical targets identified from previous surveys, (the closest hole to the Eagle One 
+Deposit was drilled approximately 2.5 kilometres north-east of the deposit). The holes ranged in 
+length from 103 to 167 metres for a total of 1,585 metres. The diamond drilling was undertaken 
+by Norex Drilling of Timmins, Ontario and Cartwright Drilling of Newfoundland and Labrador. 
+ 
+Drilling explained five of the ten conductors, with three targets being explained by sulphide 
+mineralization, and two by significant fault structures. Five conductors were not identified and it 
+was felt that they were likely due to thick clay deposits or possible conductivity associated with 
+mafic/ultramafic mineralogy.  
+ 
+The drilling provided geological information as well. When compared with the central portion of 
+the Sachigo Greenstone Belt where the majority of the previous work had been carried out, there 
+was found to be an increase in the volume of mafic to ultramafic lithologies associated with 
+felsic to intermediate volcanic rocks. 
+ 
+The conclusions stemming from the diamond drill program were that the geology and 
+geophysical indications for the presence of VMS-type deposits were encouraging and a second-
+phase program of airborne geophysics and diamond drilling was proposed. 
+ 
+Probe returned the claims to Noront in early 2007. 
+ 
+9.5 2007 NORONT AEROTEM II HELICOPTER SURVEY 
+ 
+It is to be noted that the reports discussed in Sections 9.5, 9.6 and 9.7 post date the discovery of 
+the Eagle One Deposit. 
+ 
+In late 2007, following the discovery of the Eagle One Deposit, Noront carried out an airborne 
+magnetic and electromagnetic survey over a more extensive area in McFaulds Lake. Other 
+companies with properties in the vicinity and some with joint venture arrangements with Noront 
+wished to participate in the airborne geophysical program. To meet the objectives of a multi-
+partner program, Noront arranged for Billiken Management, ("Billiken") to direct the operation. 
+Billiken contracted Aeroquest Ltd., ("Aeroquest") to fly the survey using the AeroTem II 
+helicopter transient electromagnetic system. SHA were contracted to provide technical 
+management, compilation and interpretation services. While the survey was in progress 
+Aeroquest provided SHA with field-processed digital data from which preliminary maps, 
+representative of the magnetic and electromagnetic data were prepared. An interim report that 
+included preliminary anomaly identification and follow-up recommendations was also provided 
+by SHA. When completed, the final Aeroquest data, maps and report were distributed.  
+ 
+Follow-up investigation is recommended where a clear indication of a bedrock conductor has 
+been interpreted. The highest priority recommendation was reserved for those with a high 
+conductance that can often indicate major sulphide mineralization. Lower priorities are 
+suggested for lower conductance indications; however, it is important to again note that the 
+lower conductance values can be associated economic mineralization such as thinner zones of 
+high value minerals or large zones of a less conductive mineral such as zinc.  
+ 
+Twelve anomalies were identified (13 counting the Eagle One Deposit which showed up very 
+well as a highly conductive body with a coincident magnetic anomaly). The twelve anomalies 
+were prioritized as to high, medium, low and no follow-up recommended.  
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 34 of 119 
+Eagle One Report No. 149 
+
+One anomaly, 1-36 situated SSW of the Eagle One Deposit was considered high priority for 
+follow-up. Anomalies 1-11 and 1-35 were considered medium priority for follow up and 
+anomalies 1-07, 1-37 and 1-38 were considered low priority. The remaining five anomalies were 
+not recommended for follow-up. 
+ 
+9.6 2007 MAGNETICS, HLEM AND GRAVITY SURVEYS OVER EAGLE 
+
+ONE DEPOSIT 
+
+9.6.1 HLEM AND MAGNETIC SURVEYS 
+ 
+Horizontal loop electromagnetic (HLEM or MaxMin) and magnetic surveys were done over the 
+Eagle One Cu-Ni discovery. The field work was done in the period from September 17 to 
+October 16, 2007 and detailed in report JVX 7-79. Total coverage was 26,900 metres HLEM and 
+44,687.5 metres magnetics. The grid is largely within claims 3012256, 3012259, 3012264 and 
+3012265.  
+ 
+Total magnetic intensity readings were made at a station spacing of 12.5 metres using GEM 
+Systems GSM-19 and/or Scintrex Envi magnetometer systems. The base station magnetometer 
+was set to read the total magnetic intensity every 10 seconds. 
+ 
+The survey grid is centered near 52° 44.5' north, 86° 18' west. For an elevation of 175 m, the 
+IGRF on October 1, 2007 is defined by total magnetic intensity = 58,469 nT, inclination = 77.4° 
+and declination = 8° west of north. . 
+ 
+HLEM surveys were done with a 150 metre coil spacing at 440, 1760 and 3520 Hz. The reading 
+interval was 25 metres. The HLEM coils were held horizontally at the pickets; the lines were 
+slope chained. The terrain is flat – the operator entered 0% slope at all stations. A small lake in 
+the southeast part of claim 3012264 means a gap in magnetic and HLEM coverage.  
+ 
+The Eagle One Deposit is marked by a distinct magnetic high with a peak over 10,000 nT. The 
+magnetic body looks to be no more than 150 metres in strike length and of modest width. Eagle 
+One is also marked by strong 440 Hz HLEM anomalies consistent with multiple shallow, strong 
+conductors. 
+
+9.6.2 GRAVITY SURVEY 
+ 
+A gravity survey over the Eagle One Deposit was done by JVX Ltd., ("JVX") and detailed in 
+report JVX 7-84. Gravity readings were made at 198 stations on 9 traverse lines (49+00E to 
+54+00E). Station spacing was 25 or 50 metres.  
+ 
+The Eagle One Deposit is clearly marked in the residual Bouguer gravity as a roughly circular 
+gravity high of 0.6 mGal. The gravity high may be open to the south. Small outlier gravity highs 
+were not explained. 
+ 
+9.7 2008 MAGNETIC, VLF, HLEM, GRAVITY AND LARGE LOOP TDEM 
+
+SURVEYS 
+ 
+Magnetic/VLF, Horizontal loop electromagnetic (HLEM or MaxMin), gravity and large loop 
+TDEM surveys were done on all or parts of Grid 1 by JVX. Grid 1 includes the Eagle One 
+Deposit and includes all or parts of claims 3005622, 3005670, 3008261, 3008773, 3008774, 
+3012256, 3012259 to 3012262, 3012264 and 3012265. Magnetic/VLF, HLEM and gravity 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 35 of 119 
+Eagle One Report No. 149 
+
+surveys reported here did not cover claims 3012264 and 3012265 – these claims were surveyed 
+in late 2007 under JVX 7-79 and JVX 7-84 (see Sections 9.6.1 and 9.6.2). The field work was 
+done in the period from January 20 to May 27, 2008. Total coverage was 144,330 metres 
+(magnetic/VLF), 106,150 metres (HLEM), 50,225 metres or 2222 stations (gravity) and 62,575 
+metres (TDEM on 14 loops). 
+ 
+Total magnetic intensity and VLF readings were taken every 12.5 metres. Horizontal loop EM 
+(HLEM) surveys were done with a 150 metre coil spacing at 440 (or 880) and 1760 Hz, readings 
+every 25 metres. Gravity surveys were done over selected grid sections at a station spacing of 25, 
+50 metres in areas of less interest. Large loop transient EM (TDEM) surveys were done over 
+selected grid sections, readings every 25 or 50 metres.  
+ 
+As of the date of this report, the interpretation, conclusions and recommendations had not been 
+completed by JVX and were therefore not available. 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 36 of 119 
+Eagle One Report No. 149 
+
+10.0 DRILLING 
+ 
+Noront has been drilling continuously since acquiring the Condor claims in May 2007, on which 
+the Eagle One Deposit is situated. Thirty five holes were drilled for a total of 5,387 metres at 
+Eagle One. The holes were named NOT-07-01 through NOT-08-35.  
+ 
+Drilling was undertaken on 50-metre spaced sections over dip lengths of up to 225 metres, and 
+over a strike length of 200 metres.  
+ 
+The drilling contractor was Cabo Drilling of Timmins, Ontario, who was later replaced by 
+Forage Orbit Garant of Val-d'Or, Quebec. The initial holes were BQ diameter which was later 
+replaced with NQ diameter holes. All holes were surveyed at the collar and downhole using a 
+gyro instrument which measured dip and azimuth every 15 metres. Core recovery was 
+considered excellent. 
+ 
+A table of the significant intersections through the Eagle One Deposit is presented below. 
+ 
+Table 10-1: Eagle One Significant Diamond Drill Intersections 
+ 
+Hole # Intersection Nickel Copper Platinum Palladium Gold Silver
+
+(metres) % % g/t g/t g/t g/t
+NOT-07-01 71.5 1.1 0.9 0.7 2.1 0.1 2.9
+including 36.0 1.8 1.5 1.1 3.5 0.1 4.8
+NOT-07-02 86.4 1.9 1.2 1.0 3.2 0.1 4.1
+NOT-07-05 117.4 4.1 2.2 2.1 7.1 0.4 6.3
+including 68.2 5.9 3.1 2.9 9.8 0.6 8.5
+NOT-07-07 51.5 3.7 1.5 2.3 7.5 0.8 5.2
+including 2.8 8.5 3.0 22.2 22.4 0.2 10.1
+NOT-07-09 45.6 2.9 1.8 0.6 7.2 0.2 5.0
+including 17.4 4.8 3.9 1.0 14.8 0.3 11.3
+NOT-07-11 21.3 1.7 1.0 0.6 3.8 0.1 3.9
+including 1.6 7.1 4.8 2.5 14.7 0.2 14.0
+NOT-07-12 94.5 1.4 0.6 0.7 2.6 0.1 1.9
+including 9.5 7.0 1.5 2.6 10.0 0.2 5.2
+NOT-07-14 64.1 1.5 0.8 1.0 2.8 0.1 0.0
+including 3.6 7.5 3.4 5.0 9.1 0.1 0.0
+NOT-07-16 40.9 1.0 0.7 1.0 2.5 0.2 2.0
+NOT-07-17 81.0 1.6 0.8 0.9 3.0 0.1 3.1
+including 7.5 6.8 1.5 2.2 6.6 0.2 6.1
+NOT-07-18 124.6 2.4 1.1 1.1 3.9 0.3 3.9
+including 18.8 7.4 3.2 1.1 10.2 0.2 8.9
+NOT-07-19 17.8 1.3 0.4 0.6 1.9 0.1 1.7
+NOT-07-27 46.2 6.3 2.8 1.9 10.2 3.0 7.3
+including 35.6 7.9 3.5 1.7 12.8 3.9 9.3
+NOT-07-28 73.2 1.3 0.7 0.6 2.6 0.3 2.2
+including 42.0 1.6 0.8 0.8 3.1 0.5 2.8
+NOT-07-29 65.9 1.5 1.1 1.2 2.9 0.1 3.3
+NOT-08-30 84.7 1.1 0.8 0.3 2.1 0.6 2.8
+including 11.1 3.5 3.5 0.5 9.0 0.2 9.3
+NOT-08-32 57.7 1.9 0.9 1.1 3.7 0.2 9.0
+including 7.6 6.6 1.7 0.1 3.9 0.1 0.4
+NOT-08-33 63.0 0.7 0.3 0.3 1.0 0.1 4.5
+including 15.3 1.5 0.7 0.7 2.4 0.1 1.9
+NOT-08-34 38.5 2.3 1.7 2.2 5.5 0.2 4.9
+including 10.6 6.9 5.1 2.5 14.1 0.4 15.1
+NOT-08-35 35.5 1.1 0.5 0.7 2.1 0.1 4.4
+including 14.5 2.3 0.9 0.8 3.0 0.2 3.7  
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 37 of 119 
+Eagle One Report No. 149 
+
+The Eagle One Deposit was intersected in 23 out of the 35 holes drilled and is currently defined 
+over a strike length of 200 metres and to a depth of 225 metres. The Deposit dips semi vertically 
+and remains open at depth. All widths reported in the above drilling table are apparent, and true 
+widths of the intersections are approximately 2/3 of those reported.  
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 38 of 119 
+Eagle One Report No. 149 
+
+11.0 SAMPLING METHOD AND APPROACH 
+ 
+All drill core was picked up from the drills twice daily at shift change and flown by helicopter to 
+the base camp. The core was taken to the core shack where it was logged by one of the 
+geologists on the project. Mineralization was identified as being either disseminated, net textured 
+or massive sulphide and details as to the type and percentage of mineralization were recorded in 
+the logs. Sample intervals were chosen based on geology and contacts between the different 
+types of mineralization were not crossed. Typical sample intervals ranged from 1 to 1.5 metres 
+but may have varied slightly at the geologist's discretion. Each sample interval has a unique 
+sample tag. 
+ 
+Core was sawn in half using an electric saw equipped with a diamond-embedded blade. After 
+sawing, core samples are placed in plastic sample bags, sealed with tape and placed inside a rice 
+bag, which is then placed inside a plastic bucket. All the sample numbers are recorded on a 
+sample shipment form which is inserted into each bucket.  Once the bucket is full, the lid is 
+hammered on and a security seal is attached joining the bucket and lid. The buckets are flown to 
+Thunder Bay via Nakina Air Services who fly in and out of the camp on an almost daily basis.  
+ 
+Approximately half the holes were sent to ALS Chemex Labs in Thunder Bay for prep, with the 
+pulps forwarded to Vancouver for analysis.  The other half of the holes were sent to SGS 
+Mineral Services in Toronto for preparation and analysis. 
+ 
+There are no obvious drilling, sampling or recovery factors that would impact the reliability of 
+the core samples. The even distribution of the sulphides in all types of mineralization ensures 
+that the samples are of high quality and representative of the material or mineralization being 
+sampled. 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 39 of 119 
+Eagle One Report No. 149 
+
+12.0 SAMPLE PREPARATION, ANALYSES AND SECURITY 
+ 
+Samples awaiting shipment to Thunder Bay are placed in the outbound cargo area beside the trail 
+leading to the lake. When the plane arrives the buckets are taken to the plane and loaded on. 
+Samples were not secured in locked facilities as this precaution was deemed unnecessary due to 
+the remote and isolated camp location.  
+ 
+No aspect of the sample preparation was conducted by an employee, officer, director or associate 
+of Noront. 
+ 
+12.1 ALS CHEMEX ANALYTICAL PROTOCOL 
+ 
+The split drill core samples were crushed in their entirety to 90% passing 2 millimetres and the 
+crusher was cleaned with barren rock between samples. From the coarse rejects a sub-sample of 
+one kilogram was split and pulverized to 85% passing 75 microns. The pulveriser was cleaned 
+with silica sand between samples. 
+ 
+From each pulp, a 100-gram sub-sample was split and shipped to the ALS Chemex laboratory in 
+Vancouver, British Columbia for assay. The remainder of the pulp and the rejects are held at the 
+preparation laboratory in Thunder Bay for future reference. The ALS Chemex quality system 
+complies with the requirements of the international standards ISO 9001:2000 and ISO 
+17025:2005 and operates at all laboratory sites.  
+ 
+The base metals of economic interest (nickel and copper), were determined using a 0.2-gram 
+aliquot that was subjected to Geochemical Procedure MS61, (ALS Chemex internal code). This 
+method uses a four-acid solution to digest the sample, followed by ICP-AES or ICP-AAS finish.  
+ 
+Silver was digested using aqua regia (3-acid) followed by AAS. 
+ 
+The precious metals gold, platinum and palladium, were determined using Procedure PGM-
+ICP27 (ALS Chemex internal code) on a thirty-gram fire assay, followed by ICP-AES. 
+ 
+12.2 SGS MINERAL SERVICES ANALYTICAL PROCEDURES 
+ 
+Approximately half way through the drill program, Noront began using the services of SGS 
+Mineral Services in Toronto, Ontario instead of ALS Chemex. The change was made in hopes 
+that the assay turn around time would be improved from the almost 8 weeks at Chemex. 
+ 
+SGS Minerals Services are ISO/IEC 17025 accredited and most major regional facilities are ISO 
+9001 certified.  
+ 
+The split drill core samples were crushed in their entirety to 90% passing 2 millimetres and the 
+crusher was cleaned with barren rock between samples. From the coarse rejects a sub-sample of 
+one kilogram was split and pulverized to 85% passing 75 microns. The pulveriser was cleaned 
+with silica sand between samples. 
+ 
+From each pulp, a 100-gram sub-sample was split for assay. The remainder of the pulp and the 
+rejects are held at the preparation laboratory in Toronto for future reference. 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 40 of 119 
+Eagle One Report No. 149 
+
+The base metals of economic interest (nickel and copper), were determined using a 0.2-gram 
+aliquot that was subjected to Geochemical Procedure ICP40B, (SGS internal code). This method 
+uses a four-acid solution to digest the sample, followed by ICP-AES or ICP-AAS finish. 
+Following discussions with SGS, the method for Ni and Cu was changed to a sodium peroxide 
+fusion decomposition (ICP90Q) and analyzed by ICO-OES, as it was believed by SGS that the 
+results for Ni and Cu would be more accurate with this method. The author had the site visit 
+samples analyzed using 3 different methods, the results of which are presented in Section 13 of 
+this report.  Little to no difference in values was observed between the 4-acid digest and the 
+sodium peroxide fusion methods. 
+ 
+Silver was digested using aqua regia (3-acid) followed by AAS. 
+ 
+The precious metals gold, platinum and palladium, were determined using Procedure FA1323 
+(SGS internal code) on a thirty-gram fire assay, followed by ICP-AES.  
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 41 of 119 
+Eagle One Report No. 149 
+
+13.0 DATA VERIFICATION 
+ 
+13.1 SITE VISIT AND INDEPENDENT SAMPLING 
+ 
+A visit was made to the McFaulds Lake camp from April 8 to April 10, 2008. The Eagle One 
+Deposit core was examined and 24 samples were taken in 15 holes by taking ¼ splits of the half 
+remaining core. An effort was made to sample both the net textured and massive sulphides 
+equally with a range of grades.  
+ 
+At no time were any employees of Noront or Billiken advised as to the identification of the 
+samples to be chosen during the visit.  
+ 
+The samples were selected by the author of this section, ¼ sawn by the technician and placed by 
+the author into sample bags which were sealed with tape and placed in a rice bag which was then 
+placed in a plastic pail for shipping. Two certified reference materials were inserted into the 
+shipment. Two pails were necessary to contain the 24 samples. 
+ 
+The pails were loaded onto the Cessna Caravan operated by Nakina Air Services and flown to 
+Thunder Bay where they were delivered by the author to Activation Laboratories ("Actlabs") for 
+preparation.  From Thunder Bay the pails were picked up by Fedex Courier and delivered to the 
+Ancaster Division of Actlabs for analysis. 
+ 
+In order to estimate the Ni contained in the silicates, a 3-acid (aqua regia) digest was requested 
+(3-acid will not dissolve silicates), a 4-acid digest was also requested (will dissolve silicates), as 
+well as a lithium metaborate fusion which is a more aggressive digestion method. The 3 methods 
+were compared as well as being compared to the original Noront assays, and the results for Ni 
+are presented in Figure 13.1. The results demonstrate that 3-acid is not an appropriate method, as 
+there is Ni remaining in the undigested silicates. The 4-acid and lithium metaborate fusion 
+methods did not differ in their results apart from the analytical variability. Figure 13.2 presents 
+the results for Cu and Figure 13.3 presents the results for combined total PGE. 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 42 of 119 
+Eagle One Report No. 149 
+
+0.0
+
+1.0
+
+2.0
+
+3.0
+
+4.0
+
+5.0
+
+6.0
+
+7.0
+
+8.0
+
+9.0
+
+10.0
+
+Ni %
+
+Sample number
+
+Eagle One Site Visit
+Verification Samples Ni by 3 Different Methods
+
+Ni% P&E 4‐acid
+
+Ni% P&E fusion
+
+Ni% P&E 3‐acid
+
+Ni% NOT 4‐acid
+
+ 
+Figure 13.1: Comparison of Nickel Results using 3 Different Analytical Methods 
+ 
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+4.0
+
+4.5
+
+5.0
+
+Cu %
+
+Sample number
+
+Eagle One  Site Visit
+Verification Samples Cu by 3 Different Methods
+
+Cu % P&E 4‐acid
+
+Cu % P&E fusion
+
+Cu% P&E 3‐acid
+
+Cu% NOT 4‐acid
+
+ 
+Figure 13.2: Comparison of Copper Results using 3 Different Analytical Methods 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 43 of 119 
+Eagle One Report No. 149 
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+1
+9
+3
+0
+7
+5
+
+1
+9
+3
+0
+7
+6
+
+1
+9
+3
+0
+7
+7
+
+1
+9
+3
+0
+7
+8
+
+1
+9
+3
+0
+7
+9
+
+1
+9
+3
+0
+8
+1
+
+1
+9
+3
+0
+8
+2
+
+1
+9
+3
+0
+8
+3
+
+1
+9
+3
+0
+8
+4
+
+1
+9
+3
+0
+8
+5
+
+1
+9
+3
+0
+8
+6
+
+1
+9
+3
+0
+8
+7
+
+1
+9
+3
+0
+8
+8
+
+1
+9
+3
+0
+8
+9
+
+1
+9
+3
+0
+9
+0
+
+1
+9
+3
+0
+9
+1
+
+1
+9
+3
+0
+9
+2
+
+1
+9
+3
+0
+9
+3
+
+1
+9
+3
+0
+9
+4
+
+1
+9
+3
+0
+9
+5
+
+1
+9
+3
+0
+9
+6
+
+1
+9
+3
+0
+9
+7
+
+1
+9
+3
+0
+9
+8
+
+1
+9
+3
+0
+9
+9
+
+Total PGE
+g/t
+
+Sample number
+
+Eagle One Site Visit
+Verification Samples Total PGE
+
+Combined PGE NOT g/t
+
+Combined PGE P&E g/t
+
+ 
+Figure 13.3: Comparison of Total PGE  
+ 
+13.2 NORONT QUALITY CONTROL PROGRAM 
+ 
+From drill hole NOT-07-05 and for the remainder of the drilling, a quality control (QC) program 
+was set up by P&E and instituted by Noront. Holes NOT-07-01 and NOT-07-02 were not 
+covered by QC and holes NOT-07-03 and 04 did not intersect mineralization. 
+ 
+The QC program involved the insertion of two certified reference materials that monitored the 
+lab accuracy on the Cu, Ni and PGE analyses, blank material comprised of sterile granodiorite 
+drill core and field (1/4 core), coarse reject and pulp duplicates.  
+ 
+The QC monitoring was done on a real-time basis, that is, as the lab certificates were received, 
+the QC data were graphed to ensure results were accurate as defined by a strict protocol 
+determined between the author of this section and the labs. It is to be noted that likely due to the 
+labs' overextended capacity there were problems with the QC in that the certified reference 
+materials were often not meeting the required norms. This problem was noted and dealt with on a 
+real-time basis and work orders were rerun as required. Once the data were shown to have passed 
+the QC, they were transferred to the Master database. All of the data in the Master database met 
+the QC requirements. 
+ 
+It is the author's opinion that the sample preparation, security and analytical procedures were 
+satisfactory. 
+ 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 44 of 119 
+Eagle One Report No. 149 
+
+14.0 ADJACENT PROPERTIES 
+ 
+Since the Eagle One Deposit discovery in September 2007, interest in the area has increased 
+tremendously, resulting in the entire arcuate shaped "Ring of Fire" having been staked in the past 
+11 months.  
+ 
+Noront's land position in the "Ring of Fire" includes the Double Eagle Property, 11 additional 
+joint ventures (of which Noront is operator of 9), and 3 floating blocks of claims that lie within 
+the Ring of Fire but are not contiguous to any other defined property package.  
+ 
+The Double Eagle Property alone covers over 41,000 hectares of land, and with the addition of 
+the joint venture claims, the area in which Noront is implicated is increased greatly, see Figure 
+14.1.  
+ 
+Deposit types such as VMS (McFaulds No. 1 and No. 3), MMS, (Noront's Eagle One and Eagle 
+Two), Chromite (Noront's Blackbird One and Two), and diamonds (Kyle kimberlite pipes) are 
+all known to occur. The Metalex /WSR joint venture intersected VMS –style mineralization in 
+May in the "Ring of Fire" and at the time of writing, assays were still pending. The author has 
+not verified the mineralization outside the Double Eagle Property and the reader is cautioned that 
+mineralization on properties adjacent to the Double Eagle Property is not necessarily indicative 
+of mineralization on the Double Eagle Property. 
+ 
+An important aspect in defining a metal district is that there exist many different styles of 
+mineralization and metals throughout the belt occurring in varying rock types. This is the case 
+for the Abitibi Greenstone Belt in which there are gold and base metal deposits in rocks varying 
+from gold in ultramafics (Dunite Sill at Sigma II deposit) to gold and base metals in VMS-style 
+intermediate to felsic rocks, (Bousquet Camp: (Laronde Mine, Bousquet I and II Mines), 
+Noranda Camp), to gold in mafic volcanic and granodiorite to diorite intrusions (Sigma and 
+Lamaque Mines). The Dome Mine in Timmins is hosted largely by sedimentary conglomerates 
+as well as mafic and felsic rocks. These are to name but a few examples. 
+ 
+It is the author's opinion that this new metal district, the currently known deposits in the Ring of 
+Fire, and Noront's vast land position make the adjacent properties a significant upside to the 
+Double Eagle Property. 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.      Page 45 of 119 
+Eagle One Report No. 149 
+
+ 
+Figure 14.1: Noront Joint Venture Properties in the Ring of Fire. McFaulds Lake is pictured in the bottom 
+
+east corner of the map. 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 46 of 119 
+Eagle One Report No. 149 
+
+15.0 METALLURGICAL PROCESSING AND METALLURGICAL TESTING 
+ 
+There has been no metallurgical testing or any metallurgical processing on this property.  
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 47 of 119 
+Eagle One Report No. 149 
+
+16.0 MINERAL RESOURCES AND MINERAL RESERVE ESTIMATES 
+ 
+16.1 INTRODUCTION 
+ 
+The purpose of this report section is to delineate the Eagle One Deposit Resources in compliance 
+with NI 43-101 and CIM standards. This resource estimate was undertaken by Eugene Puritch, 
+P.Eng. and Antoine Yassa, P.Geo. of P & E Mining Consultants Inc. of Brampton Ontario, who 
+are the independent Qualified Persons within the meaning of NI 43-101. The effective date of 
+this resource estimate is July 3, 2008. 
+ 
+16.2 DATABASE 
+ 
+All drilling data were provided by Noront in the form of a Microsoft Access database, Excel 
+files, drill logs and assay certificates.  Seven (7) drill cross sections were developed on a local 
+grid looking north on a 25 metre spacing named from 3525-N to 3675-N.  A Gemcom database 
+was provided by Noront containing 29 diamond drill holes of which 23 were utilized in the 
+resource calculation. The remaining data were not in the area that was modeled for this resource 
+estimate.  A surface drillhole plan is shown in Appendix I. 
+ 
+The database was validated in Gemcom with minor corrections required.  The assay table of the 
+database contained 1,238 assays for Ni, Cu, Pt, Pd, Au and Ag.  All data are expressed in metric 
+units and grid coordinates are in the NAD83 UTM system. 
+ 
+16.3 DATA VERIFICATION 
+ 
+Verification of assay data entry was performed on 1,182 assay intervals for Ni, Cu, Co, Au, Pt 
+and Pd.  A few very minor discrepancies were observed and related to averaging multiple results 
+and determination of values below detection limits. No corrections were required. The 1,182 
+intervals were verified against digital assay lab certificates from ALS Chemex and SGS Mineral 
+Services.  The verified assays represented 96% of the data to be used for the resource estimate 
+and approximately 95% of the entire database.  
+ 
+16.4 DOMAIN INTERPRETATION 
+ 
+Domain boundaries were determined from lithology, structure and NSR boundary interpretation 
+from visual inspection of drill hole sections.  Two domains were developed, named Massive in 
+the core of the deposit and Disseminated surrounding the Massive domain. These domains were 
+physically created with computer screen digitizing on drill hole sections in Gemcom by the 
+authors of this report.  The outlines were influenced by the selection of mineralized material that 
+demonstrated massive and disseminated mineralization characteristics, and zonal continuity 
+along strike and down dip.  In a very few cases, some mineralization below characteristic grades 
+was included for the purpose of maintaining zonal continuity. Smoothing was utilized to remove 
+obvious jogs and dips in the domains and incorporated a minor addition of Inferred 
+mineralization. This exercise allowed for easier domain creation without triangulation errors 
+from solids validation. 
+ 
+On each section, polyline interpretations were digitized from drill hole to drill hole but not 
+extended more than 25 metres into untested territory. Minimum constrained true width for 
+interpretation was 2.0 metres. The interpreted polylines from each section were "wireframed" in 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 48 of 119 
+Eagle One Report No. 149 
+
+Gemcom into a 3-dimensional domain.  The resulting solids (domains) were used for statistical 
+analysis, grade interpolation, rock coding and resource reporting purposes.  See Appendix II. 
+ 
+16.5 ROCK CODE DETERMINATION 
+ 
+The rock codes used for the resource model were derived from the two mineralized domain 
+solids and are listed below: 
+ 
+Rock Code Description  
+ 
+0 Air  
+10 Massive Sulphide Domain 
+20 Disseminated Domain  
+99  Waste Rock 
+ 
+16.6 COMPOSITES  
+ 
+Length weighted composites were generated for the drill hole data that fell within the constraints 
+of the above-mentioned domains.  These composites were calculated for Ni, Cu, Pt, Pd, Au and 
+Ag over 1.5 metre lengths starting at the first point of intersection between assay data hole and 
+hanging wall of the 3-D zonal constraint. The compositing process was halted upon exit from the 
+footwall of the aforementioned constraint. Un-assayed intervals were treated as null data. Any 
+composites calculated that were less than 0.5 metres in length, were discarded so as to not 
+introduce a short sample bias in the interpolation process. The composite data were transferred to 
+Gemcom extraction files for the grade interpolation as X, Y, Z, Ni, Cu, Pt, Pd, Au and Ag files. 
+ 
+16.7 GRADE CAPPING 
+ 
+Grade capping was investigated on the raw assay values in the combined domains to ensure that 
+the possible influence of erratic high values did not bias the database. Extraction files were 
+created for constrained Ni, Cu, Pt, Pd, Au and Ag data within each mineralized domain. From 
+these extraction files, log-normal histograms were generated. Refer to Appendix III for graphs. 
+
+Table 16.1:   Grade Capping Values  
+Massive Sulphide Domain 
+
+Element Capping 
+Value 
+
+Number of Assays
+Capped 
+
+Cumulative Percent 
+for Capping 
+
+Raw Coefficient
+of Variation 
+
+Capped Coefficient of 
+Variation 
+
+    Ni No Cap 0 100 0.36 0.36 
+Cu No Cap 0 100 0.58 0.58 
+Pt 12.5 g/t 5 96.6 2.85 1.84 
+Pd 25.0 g/t 4 97.3 0.47 0.43 
+Au 1.0 g/t 8 94.5 8.86 0.99 
+Ag No Cap 0 100 0.56 0.56 
+
+ 
+Disseminated Domain 
+Element Capping 
+
+Value 
+Number of 
+
+Assays Capped 
+Cumulative Percent 
+
+for Capping 
+Raw Coefficient 
+
+of Variation 
+Capped Coefficient of 
+
+Variation 
+    Ni 3.5 % 19 97.1 0.92 0.66 
+Cu 4.5 % 8 98.8 1.15 1.08 
+Pt 6.5 g/t 7 99.0 2.47 1.12 
+Pd 12.0 g/t 5 99.3 0.77 0.73 
+Au 1.5 g/t 6 99.1 6.11 1.49 
+Ag No Cap 0 100 1.11 1.11 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 49 of 119 
+Eagle One Report No. 149 
+
+16.8 VARIOGRAPHY  
+ 
+Variography was carried out on the constrained domain composites within the domains of the 
+deposit model. The Disseminated domain composites allowed the generation of reasonable 
+omnivariograms and down dip variograms. The Massive Sulphide domain consisted of 
+populations too small to yield discernable variograms. The search ranges from the Disseminated 
+domain variography were applied to the Massive Sulphide domain. See Appendix IV. 
+ 
+16.9 BULK DENSITY 
+ 
+The bulk density used for the resource model was derived from measurements of bulk density 
+test work performed on drill core by Noront, as well as 22 samples done on drill core by ALS 
+Chemex Labs with the same samples done on pulps using a pycnometer. A total of 71 values 
+were used, which represented all the Massive and Disseminated domains. The bulk density block 
+model was coded with a simple spherical interpolation pass. The resulting average bulk densities 
+within the constraining domains utilizing these samples were calculated to be 4.34 tonnes/m3 for 
+massive sulphides and 2.98 tonnes /m3 for disseminated sulphides.  
+ 
+16.10 BLOCK MODELING 
+ 
+The resource model was divided into a 3D block model framework. The block model has 
+720,000 blocks that were 5m in the X direction, 5m in the Y direction and 5m in the Z direction. 
+There were 100 columns (X), 120 rows (Y) and 60 levels (Z). The block model was rotated 20 
+degrees clockwise.  Separate block models were created for rock type, density, percent, Ni, Cu, 
+Pt, Pd, Au, Ag and NSR.  
+ 
+The percent block model was set up to accurately represent the volume and subsequent tonnage 
+that was occupied by each block inside each constraining domain. As a result, the domain 
+boundaries were properly represented by the percent model ability to measure infinitely variable 
+inclusion percentages within a particular domain. 
+ 
+The Ni, Cu, Pt, Pd, Au and Ag composites were extracted from the Microsoft Access database 
+composite table into separate files for each Mineralized Zone.  Inverse distance squared (1/d2) 
+grade interpolation was utilized. There were two interpolation passes performed on the massive 
+and disseminated domains for each element for the Indicated and Inferred classifications. The 
+resulting Ni, Cu, and NSR blocks can be seen on the block model cross-sections and plans in 
+Appendix V and VI.  The grade blocks within the domains were interpolated using the following 
+parameters:  
+ 
+Table 16.2: Block Model Interpolation Parameters 
+
+Massive Sulphide and Disseminated Domains - Indicated 
+Massive Sulphide Domain 
+
+Element Capping Value Number of Assays
+Capped 
+
+Cumulative Percent
+for Capping 
+
+Raw Coefficient 
+of Variation 
+
+Capped Coefficient 
+of Variation 
+
+    Ni No Cap 0 100 0.36 0.36 
+Cu No Cap 0 100 0.58 0.58 
+Pt 12.5 g/t 5 96.6 2.85 1.84 
+Pd 25.0 g/t 4 97.3 0.47 0.43 
+Au 1.0 g/t 8 94.5 8.86 0.99 
+Ag No Cap 0 100 0.56 0.56 
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 50 of 119 
+Eagle One Report No. 149 
+
+Massive Sulphide and Disseminated Domains -  Inferred 
+Disseminated Domain 
+
+Element Capping Value Number of 
+Assays Capped
+
+Cumulative Percent
+for Capping 
+
+Raw Coefficient 
+of Variation 
+
+Capped Coefficient 
+of Variation 
+
+    Ni 3.5 % 19 97.1 0.92 0.66 
+Cu 4.5 % 8 98.8 1.15 1.08 
+Pt 6.5 g/t 7 99.0 2.47 1.12 
+Pd 12.0 g/t 5 99.3 0.77 0.73 
+Au 1.5 g/t 6 99.1 6.11 1.49 
+Ag No Cap 0 100 1.11 1.11 
+
+ 
+16.11 RESOURCE CLASSIFICATION 
+ 
+For the purposes of this resource, classifications of all interpolated grade blocks were determined 
+from the Ni grade interpolations for Indicated and Inferred due to Ni being the dominant revenue 
+producing element in the NSR calculation. See block model classification cross-sections and 
+plans in Appendix VII and VIII.  
+ 
+16.12 RESOURCE ESTIMATE 
+ 
+The resource estimate was derived from applying an NSR cut-off grade to the block model and 
+reporting the resulting tonnes and grade for potentially mineable areas. The following 
+calculations demonstrate the rationale supporting the NSR cut-off grade that determines the 
+potentially economic portion of the mineralized domains.  
+ 
+NSR Cut-Off Grade Calculation Components (All currency $C unless stated otherwise) 
+ 
+$C/$US (Exchange Rate ...............................................$0.90 
+
+Ni Price ............................................................ US $12.00/lb  
+
+Cu Price .............................................................. US $3.00/lb  
+
+Pt Price .............................................................US $1,250/oz  
+
+Pd Price ................................................................ US $325oz  
+
+Au Price ..............................................................US $650/oz  
+
+Ag Price ...........................................................US $12.00/oz  
+ 
+Massive Sulphide Ni Concentrate 
+
+Ni Flotation Recovery .................................................... 80% 
+
+Cu Flotation Recovery ..................................................... 5% 
+
+Pt Flotation Recovery .................................................... 50% 
+
+Pd Flotation Recovery .................................................... 60% 
+
+Au Flotation Recovery ...................................................   0% 
+
+Ag Flotation Recovery ...................................................   0% 
+
+Concentration Ratio ...................................................... 2.2:1 
+
+Ni Smelter Payable ........................................................ 92% 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 51 of 119 
+Eagle One Report No. 149 
+
+Cu Smelter Payable ........................................................ 90% 
+
+Pt Smelter Payable ......................................................... 65% 
+
+Pd Smelter Payable ........................................................ 65% 
+
+Au Smelter Payable .......................................................... 0% 
+
+Ag Smelter Payable .......................................................... 0% 
+
+Massive Sulphide Cu Concentrate 
+
+Ni Flotation Recovery ...................................................... 3% 
+
+Cu Flotation Recovery ................................................... 92% 
+
+Pt Flotation Recovery .................................................... 15% 
+
+Pd Flotation Recovery .................................................... 23% 
+
+Au Flotation Recovery ................................................... 65% 
+
+Ag Flotation Recovery ..................................................  65% 
+
+Concentration Ratio .................................................... 10.0:1 
+
+Ni Smelter Payable .......................................................... 0% 
+
+Cu Smelter Payable ........................................................ 97% 
+
+Pt Smelter Payable ......................................................... 42% 
+
+Pd Smelter Payable ........................................................ 69% 
+
+Au Smelter Payable ........................................................ 90% 
+
+Ag Smelter Payable ........................................................ 90% 
+ 
+Disseminated Ni Concentrate 
+
+Ni Flotation Recovery .................................................... 80% 
+
+Cu Flotation Recovery ..................................................... 5% 
+
+Pt Flotation Recovery .................................................... 50% 
+
+Pd Flotation Recovery .................................................... 60% 
+
+Au Flotation Recovery ...................................................   0% 
+
+Ag Flotation Recovery ...................................................   0% 
+
+Concentration Ratio .................................................... 12.5:1 
+
+Ni Smelter Payable ........................................................ 92% 
+
+Cu Smelter Payable ........................................................ 90% 
+
+Pt Smelter Payable ......................................................... 65% 
+
+Pd Smelter Payable ........................................................ 65% 
+
+Au Smelter Payable .......................................................... 0% 
+
+Ag Smelter Payable .......................................................... 0% 
+
+ 
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 52 of 119 
+Eagle One Report No. 149 
+
+Disseminated Cu Concentrate 
+
+Ni Flotation Recovery ...................................................... 3% 
+
+Cu Flotation Recovery ................................................... 92% 
+
+Pt Flotation Recovery .................................................... 15% 
+
+Pd Flotation Recovery .................................................... 65% 
+
+Au Flotation Recovery ................................................... 65% 
+
+Ag Flotation Recovery ..................................................  65% 
+
+Concentration Ratio .................................................... 37.5:1 
+
+Ni Smelter Payable .......................................................... 0% 
+
+Cu Smelter Payable ........................................................ 97% 
+
+Pt Smelter Payable ......................................................... 42% 
+
+Pd Smelter Payable ........................................................ 69% 
+
+Au Smelter Payable ........................................................ 90% 
+
+Ag Smelter Payable ........................................................ 90% 
+
+ 
+
+Ni Refining Charges .......................................... US $0.50/lb 
+
+Cu Refining Charges .......................................... US $0.10/lb 
+
+Pt Refining Charges .........................................US $15.00/oz 
+
+Pd Refining Charges ........................................US $15.00/oz 
+
+Au Refining Charges ........................................US $15.00/oz 
+
+Ag Refining Charges ..........................................US $0.30/oz 
+
+ 
+
+Ni Smelter Treatment Charges ...................... US $150/tonne 
+
+Cu Smelter Treatment Charges ..................... US $130/tonne 
+
+Concentrate Shipping .................................... US $125/tonne 
+
+Humidity Factor.………………………………………...8% 
+
+ 
+
+The above data were derived from similar studies on other Ni-Cu-PGE deposits.  
+
+ 
+In the anticipated underground operation of the Eagle One Deposit, the mining, processing and 
+G&A costs combine for a total of ($60 + $30 + $25) = $115/tonne milled which became the NSR 
+cut-off value.  
+ 
+The resulting underground resource estimate can be seen in the following table: 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 53 of 119 
+Eagle One Report No. 149 
+
+Table 16-3: Resource Estimate @ $115/tonne NSR Cut-off Grade 
+Indicated Tonnes Ni (%) 
+
+Cu 
+(%) 
+
+Au 
+(g/t) 
+
+Pt 
+(g/t) 
+
+Pd 
+(g/t) 
+
+Ag 
+(g/t) 
+
+Ni lbs 
+millions 
+
+Cu lbs 
+millions 
+
+Au 
+(oz) 
+
+Pt 
+(oz) 
+
+Pd 
+(oz) 
+
+Ag 
+(oz) 
+
+Massive 233,000 6.52 3.45 0.24 1.94 12.2
+1
+
+9.75 33.4 17.7 1,800 14,500 91,400 72,900 
+Disseminated 1,601,000 1.30 0.85 0.14 1.00 2.70 2.94 45.8 29.9 7,300 51,700 139,100 151,500
+Total 
+Indicated 1,834,000 1.96 1.18 0.15 1.12 3.91 3.81 79.2 47.6 9,100 66,200 230,500 224,400
+
+              
+Inferred 
+
+Tonnes Ni (%) 
+Cu 
+(%) 
+
+Au 
+(g/t) 
+
+Pt 
+(g/t) 
+
+Pd 
+(g/t) 
+
+Ag 
+(g/t) 
+
+Ni lbs 
+millions 
+
+Cu lbs 
+millions Au oz 
+
+Pt 
+(oz) 
+
+Pd 
+(oz) 
+
+Ag 
+(oz) 
+
+Massive 217,000 7.00 2.86 0.18 3.00 11.75 8.70 33.5 13.7 1,300 20,900 82,000 60,700 
+Disseminated 870,000 1.24 0.88 0.12 0.97 2.69 3.09 23.7 16.8 3,300 27,000 75,300 86,300 
+Total 
+Inferred 1,087,000 2.39 1.27 0.13 1.37 4.50 4.21 57.2 30.5 4,600 47,900 157,300 147,000
+
+ 
+(1) Mineral resources which are not mineral reserves do not have demonstrated economic viability.  Estimated 
+
+mining costs, metallurgical recoveries and project infrastructure costs in this report may materially affect 
+this resource estimate due to those components not being studied in sufficient detail to accurately predict 
+their realized values.  The estimate of mineral resources may also be materially affected by environmental, 
+permitting, legal, title, taxation, socio-political, marketing or other relevant issues.  There is no guarantee 
+that Noront will be successful in obtaining any or all of the requisite consents, permits or approvals, 
+regulatory or otherwise for the project or that the project will be placed into production. 
+
+ 
+(2) The quantity and grade of reported Inferred resources in this estimation are uncertain in nature and there 
+
+has been insufficient exploration to define these Inferred resources as an Indicated or Measured mineral 
+resource and further exploration drilling is required to determine whether they can be upgraded to an 
+Indicated or Measured mineral resource category. 
+
+  
+It should be noted that the mineral resources in this estimate were calculated using the Canadian 
+Institute of Mining, Metallurgy and Petroleum (CIM), CIM Standards on Mineral Resources and 
+Reserves, Definitions and Guidelines prepared by the CIM Standing Committee on Reserve 
+Definitions and adopted by CIM Council December 11, 2005. 
+ 
+16.13 CONFIRMATION OF ESTIMATE 
+ 
+As a test of the reasonableness of the estimate, the block model was queried at a 0.01 % Ni cut 
+off grade with blocks in all classifications summed and their grades weight averaged. This 
+average is the average grade of all blocks within the mineralized domains. The values of the 
+interpolated grades for the block model were compared to the length weighted capped average 
+grades and average grade of composites of all samples from within the domains. The results are 
+presented below: 
+ 
+Table 16.4: Comparison of Weighted Average Grade of Capped Assays and Composites 
+
+with Total Block Model Average Grade 
+ 
+Massive Sulphide Domain 
+
+Category Ni (%) Cu (%) Au (g/t) Pt (g/t) Pd (g/t) Ag (g/t) 
+Capped Assays 6.56 2.99 0.26 2.59 11.58 8.4 
+Composites 6.55 3.09 0.25 2.76 11.56 8.6 
+Block Model 6.89 3.01 0.18 2.79 11.65 8.7 
+
+ 
+Disseminated Domain 
+Category Ni (%) Cu (%) Au (g/t) Pt (g/t) Pd (g/t) Ag (g/t) 
+Capped Assays 1.24 0.85 0.12 0.83 2.51 2.5 
+Composites 1.23 0.79 0.13 0.82 2.49 2.6 
+Block Model 1.18 0.80 0.13 0.85 2.55 2.8 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 54 of 119 
+Eagle One Report No. 149 
+
+ 
+The comparison above shows the average grade of all of the Ni, Cu, Au, Pt, Pd and Ag blocks in 
+each domain to be similar to the weighted average of all capped assays and composites used for 
+grade estimation.  
+ 
+In addition, a volumetric comparison was performed with the block volume of the model vs. the 
+geometric calculated volume of the domain solids.  
+ 
+Massive Sulphide Domain 
+Block Model Volume                           105,543 m3 
+Geometric Domain Volume                 105,485 m3 
+Difference                                                        0.05 % 
+ 
+Disseminated Domain 
+Block Model Volume                           885,903 m3 
+Geometric Domain Volume                 885,546 m3 
+Difference                                                        0.04 % 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 55 of 119 
+Eagle One Report No. 149 
+
+17.0 OTHER RELEVANT DATA AND INFORMATION 
+ 
+A petrographic study was undertaken by M.A. McKeough on drill core from holes NOT-07-01 
+and NOT-07-02, (prior to the intersection of drillhole NOT-07-05 and an understanding that a 
+deposit had been discovered). Seven samples were collected from NOT-07-02 and one sample 
+from NOT-07-01.  
+ 
+The eight polished thin sections and cut samples were investigated by transmitted and reflected 
+light microscopy and followed up on with electron microprobe analysis in order to identify the 
+host rocks to the sulphide mineralization and unravel the host rock alteration.  
+ 
+The conclusions were that most of the sections were peridotites, apart from one interval in NOT-
+07-02 that was found to be a granodiorite. Certain textural and alteration features, as well as a 
+high concentration of MgO may suggest that the rocks were mantle derived igneous rocks, 
+(otherwise known as komatiitic flows or peridotitic intrusions).  
+ 
+The samples had undergone extreme, low temperature hydrothermal alteration which produced 
+serpentinized olivine cumulates as well as two phases of chlorite alteration: 1) phlogopite-
+tremolite-chlorite (Mg-rich) and 2), serpentine-chlorite (non Mg-rich).  
+ 
+The sulphides demonstrated both net-texture and massive texture. In spite of the different 
+textures, they both showed the same appearances of coarse-grained and fractured pentlandite 
+with finely disseminated and blebby chalcopyrite in a coarse-grained pyrrhotite matrix.  
+ 
+The sulphides appeared not to have been affected by the extreme metamorphism and low 
+temperature alteration seen in the gangue minerals. However pentlandite displayed some 
+alteration in fractures, seen with the presence of violarite (<1% in a section but perhaps present 
+in others) and can perhaps be attributed to the hydrothermal alteration the rocks have undergone.  
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 56 of 119 
+Eagle One Report No. 149 
+
+18.0 CONCLUSIONS AND RECOMMENDATIONS 
+ 
+18.1 CONCLUSIONS 
+ 
+The Eagle One Ni-Cu-PGE Deposit is comprised of a massive sulphide core containing high 
+grade Ni-Cu-PGE values, surrounded by lower grade net textured sulphides. The large amounts 
+of sulphide and ultramafic cumulate make it clear that it formed in a magmatic conduit which is 
+likely continuous over considerable distances, (likely measurable in kilometres).  Diamond 
+drilling has shown that the deposit is surrounded on all sides by older felsic intrusive rocks. 
+continue at depth.  The prospects for continued extension of the mineralized body to depth are 
+excellent, as long as it is not lost in a fault zone. Although the western margin has been 
+extensively modified by faulting, it is fundamentally an intrusive contact that is preserved in situ 
+and there is no immediate indication of a structural termination of the mineralization.   
+ 
+In addition to the Eagle One Deposit, Noront has also discovered, two kilometres south-west, the 
+Blackbird One Chromite Deposit, the Eagle Two shear-hosted Ni-Cu-PGE deposit (collectively 
+also known as the AT2 anomaly) and most recently the Blackbird Two Chromite Occurrence. 
+Each one remains to be defined in detail. At the time of writing of this report, two drill holes had 
+been completed on Anomaly AT12, which returned encouraging widths of visual copper-nickel-
+iron sulphide mineralization up to 29.2 metres in peridotite host rock. Assays are pending. There 
+are also many more geophysical anomalies which remain to be tested on the Double Eagle 
+Property claims surrounding the Eagle One Deposit.  
+ 
+18.2 RECOMMENDATIONS 
+ 
+A total budget of $12,300,000 is recommended to follow up at Eagle One, and to continue 
+defining and delineating the other deposits on the property such as Eagle Two, Blackbird One 
+and Two, as well as other geophysical anomalies. The authors feel that the large budget is 
+warranted, given that the project is now entering a predevelopment stage and will require 
+considerable infrastructure upgrades and advanced studies in order to proceed to the next level. 
+In addition, geophysical indications are that the Ring of Fire Intrusion continues across the entire 
+Double Eagle Property, and that Noront has continued success at intersecting mineralization in 
+areas several kilometres from the Eagle One Deposit.  
+ 
+For the Eagle One Deposit, the following recommendations are made: 
+
+• Continue diamond drilling to potentially upgrade resource categories and extend the 
+deposit at depth; 
+
+• Complete a preliminary economic assessment (scoping study). 
+A budget of $3,500,000 is allotted for this work. 
+ 
+For the Eagle Two and Blackbird One Deposits, the following recommendations are made: 
+
+• Delineation diamond drilling for the purposes of an initial resource estimate; 
+• NI 43-101 compliant resource estimates on Eagle Two and Blackbird One. 
+
+A budget of $2,150,000 is allotted for this work. 
+ 
+For the Blackbird Two Chromite Occurrence, continued exploration diamond drilling is 
+recommended.  A budget of $1,050,000 is allotted for this work. 
+ 
+For the AT12 anomaly continued exploration diamond drilling is recommended. The budget 
+allotted for this work is $875,000. 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 57 of 119 
+Eagle One Report No. 149 
+
+For the remainder of the Double Eagle Property, the following recommendations are made: 
+• Follow up on the defined airborne anomalies with ground geophysics; 
+• Diamond drilling to test best targets. 
+
+A budget of $1,800,000 is allotted for this work. 
+ 
+These programs should be undertaken concurrently in as much as the manpower and equipment 
+allow.  
+ 
+In addition to the exploration work, it is recommended to construct a semi-permanent airstrip, as 
+the current one is on McFaulds Lake which necessitates skis in the winter, floats in the summer 
+and during spring break-up is not accessible. Currently the camp houses temporary facilities and 
+a new camp more appropriately sized to house the large numbers of people should be built. A 
+budget of $1,750,000 should be allotted for this. The proposed budget is presented in Table 18-1. 
+ 
+Table 18-1: Proposed Eagle One and Double Eagle Property Budget  
+E A GL E ON E U ni t cos t U nits $ C D N
+
+D elin eat ion  ( for  sco ping )
+D iam on d d ril ling 12 0$               50 00 6 00 ,0 00$        
+D r ill s up po rt (geo s, cam p, assay s, e tc .) 5 5$                 50 00 2 75 ,0 00$        
+H elico pt er su pp or t 17 5$               50 00 8 75 ,0 00$        
+S ubto tal 1,75 0,0 00$      
+
+S co ping  study 1 ,75 0,00 0$     1 1,7 50 ,0 00$     
+S ub tota l 1,7 50 ,0 00$     
+T otal  E ag le  One 3,5 00 ,0 00$        
+
+A T 2 (Ea gle  Tw o  and B lackbi rd  O ne)
+
+D elin eat ion  ( for  in it ia l resou rce  est .)
+D iam on d d ril ling 12 0$               50 00 6 00 ,0 00$        
+D r ill s up po rt (geo s, cam p, assay s, e tc ) 5 5$                 50 00 2 75 ,0 00$        
+H elico pt er su pp or t 17 5$               50 00 8 75 ,0 00$        
+S ub tota l 1,7 50 ,0 00$     
+
+R es ource  Est im a te  (B B1  a nd Ea gle  2 ) 40 0,00 0$        1 4 00 ,0 00$        
+S ub tota l 4 00 ,0 00$        
+T otal  A T 2 2,1 50 ,0 00$        
+
+B lack bird  Tw o
+
+C o ntinued explo rat io n
+D iam on d d ril ling 12 0$               30 00 3 60 ,0 00$        
+D r ill s up po rt (geo s, cam p, assay s, e tc .) 5 5$                 30 00 1 65 ,0 00$        
+H elico pt er su pp or t 17 5$               30 00 5 25 ,0 00$        
+T otal  B B2 1,0 50 ,0 00$        
+
+A T 12  C u -N i-a nom a ly
+
+C o ntinued explo rat io n
+D iam on d d ril ling 12 0$               25 00 3 00 ,0 00$        
+D r ill s up po rt (geo s, cam p, assay , e tc .) 5 5$                 25 00 1 37 ,5 00$        
+H elico pt er su pp or t 17 5$               25 00 4 37 ,5 00$        
+T otal  A T 12 8 75 ,0 00$           
+
+A no m a ly Tes ti ng 
+L in ecutti ng 65 0$               2 00 1 30 ,0 00$        
+G eo ph ys ica l s urvey ing 50 0$               2 00 1 00 ,0 00$        
+c am p su pp or t (geo ph ysic s ) 25 0$               2 00 50 ,0 00$          
+H eli s up po rt   (geo ph ysi cs ) 1,50 0$            1 00 1 50 ,0 00$        
+D r illi ng 12 0$               40 00 4 80 ,0 00$        
+d r ill su pp or t (geos ,cam p, assay s, et c.) 5 5$                 40 00 2 20 ,0 00$        
+H eli s up po rt  17 5$               40 00 7 00 ,0 00$        
+T otal  A no m a ly Tes ti ng 1,8 30 ,0 00$        
+
+A irs tr ip  a nd C am p C o nstruct ion  1 1,7 50 ,0 00$        
+
+S ub tota l 1 1,1 55 ,00 0$     
+C on tin gencies  (1 0% ) 1,1 15 ,50 0$       
+T otal  B udg et recom m ended 1 2,2 70 ,5 00$      
+
+T otal  B udg et R ou nded Off 1 2,3 00 ,0 00$       
+(1) Subject to permitting 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 58 of 119 
+Eagle One Report No. 149 
+
+19.0 REFERENCES 
+ 
+Cullen, D., Brown, F., Sedore, L., 2007: Technical Report on the Shebandowan West Property 
+Thunder Bay Mining Division Northwestern Ontario, prepared for North American Palladium.  
+ 
+Duke, J.M. 1998: Mafic/ultramafic-hosted chromite; Geology of Canadian Mineral Deposit 
+Types, (ed.) O.R. Eckstrand, W.D. Sinclair, and R.I. Thorpe; Geological Survey of Canada, 
+Geology of Canada, no. 8, p. 615-616 (also Geological Society of America, The Geology of 
+North America, v. P-1). 
+ 
+Eckstrand, O.R. 1996: Magmatic nickel-copper-platinum group elements; Geology of Canadian 
+Mineral Deposit Types, (ed.) O.R. Eckstrand, W.D. Sinclair, and R.I. Thorpe; Geological Survey 
+of Canada, Geology of Canada, no. 8, p. 583 (also Geological Society of America, The Geology 
+of North America, v. P-1). 
+ 
+Ewert, W.D., 2008: Eagle One and Two Geological Model and Exploration Potential Update 
+taken from Press Release titled "Noront Receives Assays from Earlier Holes and Significant 
+Visuals from New holes at Eagle Two Occurrence," dated May 27, 2008.  
+ 
+Franklin, Dr. J.M., 2007: Preliminary Review of a VMS Occurrence, McFaulds Lake Area, N.W. 
+Ontario, for Spider Resources. 
+ 
+Franklin, J.M., 1996: Volcanic-associated massive sulphide base metals;  Geology of Canadian 
+Mineral Deposit Types, (ed.) O.R. Eckstrand, W.D. Sinclair, and R.I. Thorpe; Geological Survey 
+of Canada, Geology of Canada, no. 8, p. 158-183 (Geological Society of America, The Geology 
+of North America, v. P-1). 
+ 
+Hogg, S. and Associates, 2003: Noront Resources Ltd. Airborne Magnetic and Electromagnetic 
+Survey McFaulds Lake - Northwestern Ontario Compilation and Interpretation Report. 
+ 
+Hogg, S. and Associates, 2004: Noront Resources Ltd. Ground Magnetic and Horizontal Loop 
+Electromagnetic Survey McFaulds Lake - Northwestern Ontario Compilation and Interpretation 
+Report. 
+ 
+Hogg, S. and Associates, 2006: Condor Diamond Corp Compilation and Interpretation Report Of 
+a Ground Magnetic Survey In the McFaulds Lake Area, Northern Ontario. 
+ 
+Hogg, S. and Associates, 2008: Interpretation Report On a Helicopter-Borne Electromagnetic 
+and Magnetic Survey Carried out by Aeroquest Ltd. Under Contract to Billiken Management On 
+behalf of Noront and Participating Companies McFaulds Lake Area, James Bay Lowlands 
+Ontario, Canada. 
+ 
+JVX Geophysical Surveys and Consulting, 2008: Report JVX 7-79 on HLEM and Magnetic 
+Surveys, Double Eagle Project, Eagle One Discovery, McFaulds Lake Area, Ontario. Noront 
+Resources Ltd.  
+ 
+JVX Geophysical Surveys and Consulting, 2008: Report JVX 7-84 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 59 of 119 
+Eagle One Report No. 149 
+
+JVX Geophysical Surveys and Consulting, 2008: Logistical Report JVX08-01 on 
+Magnetic/VLF, HLEM, Gravity and large loop TDEM Surveys Grid 1 - McFaulds Lake Area, 
+Ontario Noront Resources Ltd. 
+ 
+Lahti, Dr. H., 2008: Technical Report on the McFaulds Lake Project, Porcupine Mining 
+Division, James Bay Lowland, Ontario, Canada, for UC Resources and Spider Resources. 
+ 
+McKeough, M.A. 2008: Double Eagle Petrological Report. Internal Report for Noront Resources 
+Ltd. 
+ 
+Mungall, J.E., 2007: Report on a Field Visit to the Eagle One Deposit. Internal Report for Noront 
+Resources. 
+ 
+Mungall, J.E., February 2008: Report on a Field Visit to the McFaulds Lake Camp. Internal 
+Report for Noront Resources.  
+ 
+Mungall, J.E., May 2008: Report on a Field Visit to the McFaulds Lake Camp. Internal Report 
+for Noront Resources.  
+ 
+Mungall, J.E., July 2008: AT2 Chromitite Report. Internal Report for Noront Resources.  
+ 
+Palmer, D., 2006: Noront Resources – Double Eagle Joint Venture Project, James Bay 
+Lowlands, Report of Exploration 2006 on behalf of Probe Mines. 
+ 
+Stott, G.M. 2007. Precambrian geology of the Hudson Bay and James Bay lowlands region 
+interpreted from aeromagnetic data – east sheet; Ontario Geological Survey, Preliminary Map 
+P.3598, scale 1:500 000. 
+ 
+Stott, G.M. 2007. Precambrian geology of the Hudson Bay and James Bay lowlands region 
+interpreted from aeromagnetic data – west sheet; Ontario Geological Survey, Preliminary Map 
+P.3597, scale 1:500 000. 
+ 
+Thomas, Roger D., 2004: Technical Report Spider #1 and #3 Projects, James Bay Joint Venture, 
+James Bay, Ontario. Spider Resources and KWG Resources. 
+ 
+Tremblay, Dr. M., Butler, H.: 2006: Technical (Geological) Report on the MacFayden Property, 
+James Bay Lowlands, Porcupine Mining Division, Ontario, Canada, for KWG Resources. 
+ 
+Voisey's Bay Nickel, 2005: Developing New Nickel Resources, Voisey's Bay Project. 
+Presentation to the CIM, St. John's NF. Exact author unknown. 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 60 of 119 
+Eagle One Report No. 149 
+
+20.0 CERTIFICATES 
+ 
+CERTIFICATE of AUTHOR 
+ 
+TRACY J. ARMSTRONG, P.GEO. 
+ 
+I, Tracy J. Armstrong, P.Geo., residing at 2007 Chemin Georgeville, res. 22, Magog, QC J1X 3W4, do hereby certify that: 
+ 
+1. I am an independent geological consultant contracted by P& E Mining Consultants Inc; 
+ 
+2. I am a graduate of Queen's University at Kingston, Ontario with a B.Sc (HONS) in Geological Sciences (1982); 
+ 
+3. I am a geological consultant currently licensed by the Order of Geologists of Québec (License No. 566) and the 
+
+Association of Professional Geoscientists of Ontario (License No. 1204); 
+ 
+4. I have worked as a geologist for a total of 22 years since obtaining my B.Sc. degree; 
+ 
+5. I am responsible for Sections 1 through 15, 17, and co-authored Section 18, as well as the overall structuring of the 
+
+technical report titled "Technical Report and Resource Estimate on the Eagle One Deposit, Double Eagle Project, 
+McFaulds Lake Area, James Bay Lowlands, Ontario," and dated August 18, 2008, (the "Technical Report");  
+
+ 
+6. I visited the Eagle One Deposit and the Double Eagle Property on April 8 and 9, 2008; 
+ 
+7. I have not had prior involvement with the Double Eagle Property that is the subject of this Technical Report. 
+ 
+8. As of the date of this certificate, to the best of my knowledge, information and belief, the Technical Report contains all 
+
+scientific and technical information that is required to be disclosed to make the Technical Report not misleading; 
+ 
+9. I have read the definition of "qualified person" set out in National Instrument 43-101 (NI 43-101) and certify that by 
+
+reason of my education and past relevant work experience, I fulfill the requirements to be a "qualified person" for the 
+purposes of NI 43-101. This Technical Report is based on my personal review of information provided by the Noront 
+Resources Ltd., (the "Issuer") and on discussions with the Issuer's representatives. My relevant experience for the 
+purpose of the Technical Report is: 
+
+• Underground production geologist, Agnico-Eagle Laronde Mine 1988-1993; 
+• Exploration geologist, Laronde Mine 1993-1995; 
+• Exploration coordinator, Placer Dome 1995-1997; 
+• Senior Exploration Geologist, Barrick Exploration 1997-1998; 
+• Exploration Manager, McWatters Mining 1998-2003; 
+• Chief Geologist Sigma Mine 2003; 
+• Consulting Geologist 2003-2008. 
+ 
+
+10. I am independent of the Issuer applying the test in Section 1.4 of NI 43-101; 
+ 
+11. I have read NI 43-101 and Form 43-101F1 and the Technical Report has been prepared in compliance therewith; 
+ 
+12. I consent to the filing of the Technical Report, including extracts therefrom and a summary thereof  with any stock 
+
+exchange and other regulatory authority and any publication by them or by the Issuer of the Technical Report for 
+regulatory purposes, including electronic publication in the public company files on their websites accessible by the 
+public. 
+
+ 
+ 
+Effective date: July 3, 2008 
+ 
+Signing Date: August 14, 2008. 
+ 
+ 
+ 
+{SIGNED AND SEALED} 
+ 
+{"Tracy Armstrong"} 
+________________________________ 
+Tracy J. Armstrong, P.Geo. 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 61 of 119 
+Eagle One Report No. 149 
+
+CERTIFICATE of AUTHOR 
+ 
+EUGENE J. PURITCH, P. ENG. 
+ 
+I, Eugene J. Puritch, P. Eng., residing at 44 Turtlecreek Blvd., Brampton, Ontario, L6W 3X7, do hereby certify that: 
+ 
+1. I am an independent mining consultant contracted by Noront Resources Ltd., (the "Issuer"). 
+ 
+2. I am a graduate of The Haileybury School of Mines, with a Technologist Diploma in Mining, as well as obtaining an 
+
+additional year of undergraduate education in Mine Engineering at Queen's University. In addition I have also met the 
+Professional Engineers of Ontario Academic Requirement Committee's Examination requirement for Bachelor's Degree in 
+Engineering Equivalency.  
+
+ 
+3. I am a mining consultant currently licensed by the Professional Engineers of Ontario (License No. 100014010) and 
+
+registered with the Ontario Association of Certified Engineering Technicians and Technologists as a Senior Engineering 
+Technologist.  I am also a member of the National and Toronto CIM.  
+
+ 
+4. I have practiced my profession continuously since 1978.  My summarized career experience is as follows:  
+ 
+ - Mining Technologist - H.B.M.&S. and Inco Ltd. 1978-1980 
+ - Open Pit Mine Engineer – Cassiar Asbestos/Brinco Ltd 1981-1983 
+ - Pit Engineer/Drill & Blast Supervisor – Detour Lake Mine 1984-1986 
+ - Self-Employed Mining Consultant – Timmins Area 1987-1988 
+ - Mine Designer/Resource Estimator – Dynatec/CMD/Bharti 1989-1995 
+
+- Self-Employed Mining Consultant/Resource-Reserve Estimator 1995-2004 
+ - President – P & E Mining Consultants Inc.                     2004-Present 
+ 
+5. I have read the definition of "qualified person" set out in National Instrument 43-101 ("NI 43-101") and certify that, by 
+
+reason of my education, affiliation with a professional association (as defined in NI 43-101) and past relevant work 
+experience, I fulfill the requirements to be a "qualified person" for the purposes of NI 43-101. 
+
+ 
+6. I am jointly responsible for Section 16 and co-authored Section 18 of the Technical Report titled "Technical Report and 
+
+Resource Estimate on the Eagle One Deposit, Double Eagle Property, McFaulds Lake Area, James Bay Lowlands, Ontario," 
+and dated August 18, 2008, (the "Technical Report"). 
+
+ 
+7. I have not had prior involvement with the property that is the subject of the Technical Report.  
+ 
+8. As of the date of this certificate, to the best of my knowledge, information and belief, the Technical Report contains all 
+
+scientific and technical information that is required to be disclosed to make the Technical Report not misleading; 
+ 
+9. I am independent of the Issuer applying the test in Section 1.4 of NI 43-101. 
+ 
+10. I have read NI 43-101 and Form 43-101F1 and the Technical Report has been prepared in compliance therewith. 
+ 
+11.  I did not visit the Double Eagle Property or the Eagle One Deposit. 
+ 
+
+12. I consent to the filing of the Technical Report, including extracts therefrom and a summary thereof  with any stock exchange 
+and other regulatory authority and any publication by them or by the Issuer of the Technical Report for regulatory purposes, 
+including electronic publication in the public company files on their websites accessible by the public. 
+
+ 
+ 
+Effective date: July 3, 2008 
+ 
+Signing Date: August 14, 2008. 
+ 
+ 
+{SIGNED AND SEALED} 
+ 
+{"Eugene Puritch"} 
+       
+Eugene J. Puritch, P. Eng. 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 62 of 119 
+Eagle One Report No. 149 
+
+CERTIFICATE of AUTHOR 
+ 
+ANTOINE R. YASSA, P. GEO 
+ 
+I, Antoine R. Yassa, P. Geo., residing at 241 Rang 6 West, Evain, Quebec, do hereby certify that: 
+ 
+
+1. I am an independent geological consultant contracted by P& E Mining Consultants Inc; 
+
+2. I am a graduate of Ottawa University at Ottawa, Ontario with a B.Sc (HONS) in Geological Sciences (1977); 
+
+3. I am a geological consultant currently licensed by the Order of Geologists of Québec (License No 224); 
+
+4. I have worked as a geologist for a total of 28 years since obtaining my B.Sc. degree; 
+
+5. I am responsible for co-authoring Section 16.0 of the technical report titled "Technical Report on the Eagle One 
+Deposit, Double Eagle Property, McFaulds Lake Area, James Bay Lowlands, Ontario" and dated August 18, 2008, (the 
+"Technical Report");  
+
+6. I did not visit the Eagle One Deposit or the Double Eagle Property; 
+
+7. I have not had prior involvement with the Double Eagle Property that is the subject of this Technical Report. 
+
+8. As of the date of this certificate, to the best of my knowledge, information and belief, the Technical Report contains all 
+scientific and technical information that is required to be disclosed to make the Technical Report not misleading; 
+
+9. I have read the definition of "qualified person" set out in National Instrument 43-101 (NI 43-101) and certify that by 
+reason of my education and past relevant work experience, I fulfill the requirements to be a "qualified person" for the 
+purposes of NI 43-101. This Technical Report is based on my personal review of information provided by Noront 
+Resources Ltd., (the "Issuer") and on discussions with the Issuer's representatives. My relevant experience for the 
+purpose of the Technical Report is: 
+
+• Minex Geologist (Val d'Or), 3D Modeling (Timmins), Placer Dome 1993-1995; 
+
+• Database Manager, Senior Geologist, West Africa, PDX, 1996-1998 
+
+• Senior  Geologist, Database Manager, McWatters Mine 1998-2000; 
+
+• Database Manager, Gemcom modeling and Resources Evaluation (Kiena Mine) QAQC Manager (Sigma 
+Open pit), McWatters Mines 2001-2003; 
+
+• Database Manager and Resources Evaluation at Julietta Mine, Far-East Russia, Bema Gold Corporation, 
+2003-2006 
+
+• Consulting Geologist 2006. 
+
+10. I am independent of the Issuer applying the test in Section 1.4 of NI 43-101; 
+
+11. I have read NI 43-101 and Form 43-101F1 and the Technical Report has been prepared in compliance therewith; 
+ 
+12. I consent to the filing of the Technical Report, including extracts therefrom and a summary thereof  with any stock 
+
+exchange and other regulatory authority and any publication by them or by the Issuer of the Technical Report for 
+regulatory purposes, including electronic publication in the public company files on their websites accessible by the 
+public. 
+
+ 
+Effective date: July 3, 2008 
+ 
+Signing Date: August 14, 2008. 
+ 
+ 
+ 
+{SIGNED AND SEALED} 
+ 
+{"Antoine Yassa"} 
+ 
+Antoine R. Yassa, P.Geo. 
+OGQ # 224 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 63 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX - I 
+ 
+ 
+
+SURFACE DRILLHOLE PLAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 64 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+SURFACE DRILL PLAN
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547,15 0 E
+
+547,20 0 E
+
+547,2 50 E
+
+547 ,300 E
+
+5 47,350 E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO SURFACE
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 65 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX - II 
+ 
+ 
+
+3D DOMAINS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.    Page 66 of 119 
+Eagle One Report No. 149 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 67 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX - III 
+ 
+ 
+
+LOG NORMAL HISTOGRAMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 68 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 69 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 70 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 71 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 72 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 73 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 74 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX - IV 
+ 
+ 
+
+VARIOGRAMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 75 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 76 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 77 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 78 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 79 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 80 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX - V 
+ 
+ 
+
+Ni, Cu & NSR BLOCK MODEL CROSS 
+SECTIONS 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 81 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+SURFACE
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+Ni BLOCK MODEL SECTION 3575 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+0.25 - 0.5
+
+0.01 - 0.25
+
+2.0 - 5.0
+
+0.5 - 1.0
+
+1.0 - 2.0
+
++ 5.0
+
+Ni %
+
+150 EL
+
+100 EL
+
+50 EL
+
+0 EL
+
+-50 EL
+
+547, 250 E
+
+547 ,300 E
+
+54 7,200 E
+
+547 ,150 E
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 82 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+SURFACE
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+Cu BLOCK MODEL SECTION 3575 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+Cu %
+
+1.0 - 2.0
+
+0.5 - 1.0
+
+0.25 - 0.5
+
+0.01 - 0.25
+
++ 5.0
+
+2.0 - 5.0
+
+150 EL
+
+100 EL
+
+50 EL
+
+0 EL
+
+-50 EL
+
+547,250 E
+
+547 ,300 E
+
+54 7,200 E
+
+54 7,150 E
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 83 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+SURFACE
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+NSR BLOCK MODEL SECTION 3575 N
+Scale 1:1,000 August 2008
+
+Eagle One 
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+NSR C$/t
+
+$115 - $200
+
+$50 - $115
+
+$0.01 - $50
+
++$500
+
+$200 - $500
+
+0 25 50
+
+METRES
+
+SURFACE
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+NSR BLOCK MODEL SECTION 3575 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+NSR C$/t
+
+$115 - $200
+
+$50 - $115
+
+$0.01 - $50
+
++$500
+
+$200 - $500
+
+150 EL
+
+100 EL
+
+50 EL
+
+0 EL
+
+-50 EL
+
+547, 250 E
+
+547,300 E
+
+547,20 0 E
+
+5 47,150 E
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 84 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+Ni BLOCK MODEL SECTION 3600 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+0.25 - 0.5
+
+0.01 - 0.25
+
+2.0 - 5.0
+
+0.5 - 1.0
+
+1.0 - 2.0
+
++ 5.0
+
+Ni %
+
+SURFACE
+
+-50 EL
+
+0 EL
+
+50 EL
+
+100 EL
+
+150 EL
+
+547,200 E
+
+5 47,250 E
+
+547,3 00 E
+
+547,350  E
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 85 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+Cu BLOCK MODEL SECTION 3600 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+SURFACE
+
+0.25 - 0.5
+
+0.01 - 0.25
+
+2.0 - 5.0
+
+0.5 - 1.0
+
+1.0 - 2.0
+
++ 5.0
+
+Cu %-50 EL
+
+0 EL
+
+50 EL
+
+100 EL
+
+150 EL
+
+547,200 E
+
+547,250 E
+
+5 47,300 E
+
+547,3 50 E
+
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 86 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+NSR BLOCK MODEL SECTION 3600 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+SURFACE
+
+$50 - $115
+
+$0.01 - $50
+
+NSR C$/t
+
+$200 - $500
+
+$115 - $200
+
++$500
+
+-50 EL
+
+0 EL
+
+50 EL
+
+100 EL
+
+150 EL
+
+547,200 E
+
+547 ,250 E
+
+547,300 E
+
+547, 350 E
+
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 87 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+NSR BLOCK MODEL SECTION 3600 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+SURFACE
+
+$50 - $115
+
+$0.01 - $50
+
+NSR C$/t
+
+$200 - $500
+
+$115 - $200
+
++$500
+
+-50 EL
+
+0 EL
+
+50 EL
+
+100 EL
+
+150 EL
+
+547,200 E
+
+547 ,250 E
+
+547,300 E
+
+547, 350 E
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 88 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+SURFACE
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+Cu BLOCK MODEL SECTION 3625 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+547, 150 E
+
+5 47,200 E
+
+547,250  E
+
+547,3 00 E
+
+-50 EL
+
+0 EL
+
+50 EL
+
+100 EL
+
+150 EL
+
+0.25 - 0.5
+
+0.01 - 0.25
+
+2.0 - 5.0
+
+0.5 - 1.0
+
+1.0 - 2.0
+
++ 5.0
+
+Cu %
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 89 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+SURFACE
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+NSR BLOCK MODEL SECTION 3625 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+$50 - $115
+
+$0.01 - $50
+
+NSR C$/t
+
+$200 - $500
+
+$115 - $200
+
++$500
+
+547 ,150 E
+
+547,20 0 E
+
+547,25 0 E
+
+547 ,300 E
+
+-50 EL
+
+0 EL
+
+50 EL
+
+100 EL
+
+150 EL
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 90 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+SURFACE
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+Ni BLOCK MODEL SECTION 3650 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+0.25 - 0.5
+
+0.01 - 0.25
+
+2.0 - 5.0
+
+0.5 - 1.0
+
+1.0 - 2.0
+
++ 5.0
+
+Ni %
+
+547,2 50 E
+
+547,200  E
+
+54 7,300 E
+
+100 EL
+
+150 EL
+
+50 EL
+
+0 EL
+
+-50 EL
+
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 91 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+SURFACE
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+Cu BLOCK MODEL SECTION 3650 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+547,250  E
+
+547,20 0 E
+
+54 7,300 E
+
+100 EL
+
+150 EL
+
+50 EL
+
+0 EL
+
+-50 EL
+
+0.25 - 0.5
+
+0.01 - 0.25
+
+2.0 - 5.0
+
+0.5 - 1.0
+
+1.0 - 2.0
+
++ 5.0
+
+Cu %
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 92 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+SURFACE
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+NSR BLOCK MODEL SECTION 3650 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+$50 - $115
+
+$0.01 - $50
+
+NSR C$/t
+
+$200 - $500
+
+$115 - $200
+
++$500
+
+547,2 50 E
+
+547,200  E
+
+547,300  E
+
+100 EL
+
+150 EL
+
+50 EL
+
+0 EL
+
+-50 EL
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 93 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+Ni BLOCK MODEL SECTION 3675 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+0.25 - 0.5
+
+0.01 - 0.25
+
+2.0 - 5.0
+
+0.5 - 1.0
+
+1.0 - 2.0
+
++ 5.0
+
+Ni %-50 EL
+
+0 EL
+
+50 EL
+
+100 EL
+
+150 EL
+
+547,20 0 E
+
+547,2 50 E
+
+547,300  E
+
+547,350  E
+
+SURFACE
+
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 94 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+Cu BLOCK MODEL SECTION 3675 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+0.25 - 0.5
+
+0.01 - 0.25
+
+2.0 - 5.0
+
+0.5 - 1.0
+
+1.0 - 2.0
+
++ 5.0
+
+Cu %-50 EL
+
+0 EL
+
+50 EL
+
+100 EL
+
+150 EL
+
+547,20 0 E
+
+547,25 0 E
+
+5 47,300 E
+
+5 47,350 E
+
+SURFACE
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 95 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+NSR BLOCK MODEL SECTION 3675 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+$50 - $115
+
+$0.01 - $50
+
+NSR C$/t
+
+$200 - $500
+
+$115 - $200
+
++$500
+
+-50 EL
+
+0 EL
+
+50 EL
+
+100 EL
+
+150 EL
+
+547,20 0 E
+
+547,250  E
+
+547 ,300 E
+
+547,350  E
+
+SURFACE
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 96 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX - VI 
+ 
+ 
+
+Ni, Cu & NSR BLOCK MODEL PLANS 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 97 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+Ni BLOCK MODEL PLAN 150 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547,15 0 E
+
+54 7,200 E
+
+547,2 50 E
+
+547,3 00 E
+
+547, 350 E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+0.25 - 0.5
+
+0.01 - 0.25
+
+2.0 - 5.0
+
+0.5 - 1.0
+
+1.0 - 2.0
+
++ 5.0
+
+Ni %
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 98 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+Cu BLOCK MODEL PLAN 150 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547, 150 E
+
+547 ,200 E
+
+547,2 50 E
+
+547,300 E
+
+547,3 50 E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+0.25 - 0.5
+
+0.01 - 0.25
+
+2.0 - 5.0
+
+0.5 - 1.0
+
+1.0 - 2.0
+
++ 5.0
+
+Cu %
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 99 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+NSR BLOCK MODEL PLAN 150 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547,150 E
+
+547,200 E
+
+54 7,250 E
+
+547,300 E
+
+547,35 0 E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+$50 - $115
+
+$0.01 - $50
+
+$200 - $500
+
+$115 - $200
+
+NSR C$/t
+
++$500
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 100 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+Ni BLOCK MODEL PLAN 100 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547,150 E
+
+547,200 E
+
+54 7,250 E
+
+5 47,300 E
+
+547, 350 E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+Ni %
+
++ 5.0
+
+1.0 - 2.0
+
+0.5 - 1.0
+
+2.0 - 5.0
+
+0.01 - 0.25
+
+0.25 - 0.5
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 101 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+Cu BLOCK MODEL PLAN 100 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547,150 E
+
+547 ,200 E
+
+547, 250 E
+
+547,300 E
+
+547,3 50 E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+Cu %
+
++ 5.0
+
+1.0 - 2.0
+
+0.5 - 1.0
+
+2.0 - 5.0
+
+0.01 - 0.25
+
+0.25 - 0.5
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 102 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+NSR BLOCK MODEL PLAN 100 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547,15 0 E
+
+547,200 E
+
+5 47,250 E
+
+547,30 0 E
+
+5 47,350 E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+$50 - $115
+
+$0.01 - $50
+
+$200 - $500
+
+$115 - $200
+
+NSR C$/t
+
++$500
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 103 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+Ni BLOCK MODEL PLAN 50 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547,1 50 E
+
+54 7,200 E
+
+547,25 0 E
+
+547,30 0 E
+
+547,350  E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+Ni %
+
++ 5.0
+
+1.0 - 2.0
+
+0.5 - 1.0
+
+2.0 - 5.0
+
+0.01 - 0.25
+
+0.25 - 0.5
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 104 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+Cu BLOCK MODEL PLAN 50 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547,150 E
+
+547,200 E
+
+547,250 E
+
+547,30 0 E
+
+5 47,350 E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+Cu %
+
++ 5.0
+
+1.0 - 2.0
+
+0.5 - 1.0
+
+2.0 - 5.0
+
+0.01 - 0.25
+
+0.25 - 0.5
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 105 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+NSR BLOCK MODEL PLAN 50 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547,15 0 E
+
+547,200 E
+
+5 47,250 E
+
+5 47,300 E
+
+547,35 0 E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+$50 - $115
+
+$0.01 - $50
+
+$200 - $500
+
+$115 - $200
+
+NSR C$/t
+
++$500
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 106 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+Ni BLOCK MODEL PLAN 0 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547,15 0 E
+
+547,200 E
+
+547,250 E
+
+547,300 E
+
+547,350 E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+Ni %
+
++ 5.0
+
+1.0 - 2.0
+
+0.5 - 1.0
+
+2.0 - 5.0
+
+0.01 - 0.25
+
+0.25 - 0.5
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 107 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+Cu BLOCK MODEL PLAN 0 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547,150  E
+
+547, 200 E
+
+54 7,250 E
+
+547,30 0 E
+
+547,350  E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+Cu %
+
++ 5.0
+
+1.0 - 2.0
+
+0.5 - 1.0
+
+2.0 - 5.0
+
+0.01 - 0.25
+
+0.25 - 0.5
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 108 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+NSR BLOCK MODEL PLAN 0 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547,15 0 E
+
+54 7,200 E
+
+54 7,250 E
+
+547,300 E
+
+547,3 50 E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+$50 - $115
+
+$0.01 - $50
+
+$200 - $500
+
+$115 - $200
+
+NSR C$/t
+
++$500
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 109 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX - VII 
+ 
+ 
+
+CLASSIFICATION BLOCK MODEL CROSS 
+SECTIONS 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 110 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+SURFACE
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+CLASS BLOCK MODEL SECTION 3575 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+INFERRED
+
+CLASS
+
+INDICATED
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+150 EL
+
+100 EL
+
+50 EL
+
+0 EL
+
+-50 EL
+
+547,25 0 E
+
+547,300  E
+
+5 47,200 E
+
+547,150 E
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 111 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+CLASS BLOCK MODEL SECTION 3600 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+INFERRED
+
+CLASS
+
+INDICATED
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+SURFACE
+
+-50 EL
+
+0 EL
+
+50 EL
+
+100 EL
+
+150 EL
+
+547,200 E
+
+547,250 E
+
+547,3 00 E
+
+547,3 50 E
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 112 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+SURFACE
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+CLASS BLOCK MODEL SECTION 3625 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+INFERRED
+
+CLASS
+
+INDICATED
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+547,150 E
+
+547,200  E
+
+547,25 0 E
+
+547,300  E
+
+-50 EL
+
+0 EL
+
+50 EL
+
+100 EL
+
+150 EL
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 113 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+SURFACE
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+CLASS BLOCK MODEL SECTION 3650 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+INFERRED
+
+CLASS
+
+INDICATED
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+54 7,250 E
+
+547,200  E
+
+547,300 E
+
+100 EL
+
+150 EL
+
+50 EL
+
+0 EL
+
+-50 EL
+
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 114 of 119 
+Eagle One Report No. 149 
+
+0 25 50
+
+METRES
+
+OVERBURDEN
+
+P & E Mining Consultants Inc.
+
+CLASS BLOCK MODEL SECTION 3675 N
+Scale 1:1,000 August 2008
+
+Eagle One Deposit
+INFERRED
+
+CLASS
+
+INDICATED
+PROJECTED TO SECTION
+
+DISSEMINATED SULPHIDE
+MASSIVE SULPHIDE
+
+MINERALIZED DOMAINS
+
+-50 EL
+
+0 EL
+
+50 EL
+
+100 EL
+
+150 EL
+
+547,200 E
+
+547,250  E
+
+547, 300 E
+
+547,350 E
+
+SURFACE
+
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 115 of 119 
+Eagle One Report No. 149 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+APPENDIX - VIII 
+ 
+ 
+
+CLASSIFICATION BLOCK MODEL PLANS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 116 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+CLASS BLOCK MODEL PLAN 150 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547,1 50 E
+
+547,200  E
+
+54 7,250 E
+
+547,300 E
+
+547,350  E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+INFERRED
+
+INDICATED
+
+CLASS
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 117 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+CLASS BLOCK MODEL PLAN 100 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547,150 E
+
+5 47,200 E
+
+547,2 50 E
+
+547, 300 E
+
+547 ,350 E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+INFERRED
+
+INDICATED
+
+CLASS
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 118 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+CLASS BLOCK MODEL PLAN 50 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547, 150 E
+
+5 47,200 E
+
+547,250  E
+
+5 47,300 E
+
+547,3 50 E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+INFERRED
+
+INDICATED
+
+CLASS
+
+ 
+
+
+
+ 
+
+P&E Mining Consultants Inc.  Page 119 of 119 
+Eagle One Report No. 149 
+
+5,843,550 N
+
+5,843,650 N
+
+5,843,700 N
+
+5,843,500 N
+
+0 25 50
+
+METRES
+
+5,843,600 N
+
+P & E Mining Consultants Inc.
+
+CLASS BLOCK MODEL PLAN 0 EL
+Scale 1:1,250 August 2008
+
+Eagle One Deposit
+
+5,843,450 N
+
+547,150 E
+
+5 47,200 E
+
+547,25 0 E
+
+5 47,300 E
+
+547,350 E
+
+MASSIVE SULPHIDE
+DISSEMINATED SULPHIDE
+
+MINERALIZED DOMAINS
+PROJECTED TO PLAN
+
+INFERRED
+
+INDICATED
+
+CLASS
+
+ 
+
+
+
+
+'

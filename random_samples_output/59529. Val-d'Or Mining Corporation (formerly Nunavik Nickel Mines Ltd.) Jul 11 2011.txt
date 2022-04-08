@@ -1,0 +1,5369 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Broker's Fee Qualifying Report
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+NATIONAL INSTRUMENT 
+
+43-101 TECHNICAL REPORT 
+ 
+
+Fortin Prospect 
+Ducros Township, Quebec 
+
+NTS 32C/11 
+ 
+ 
+
+Prepared for: 
+ 
+
+Nunavik Nickel Mines Ltd. 
+& 
+
+Golden Valley Mines Ltd. 
+ 
+
+ 
+ 
+
+by:  
+ 
+
+John Langton, M.Sc., P.Geo. 
+of 
+
+MRB & Associates 
+2100-1748 chemin Sullivan 
+Val-d'Or, Québec J9P 7H1 
+
+ 
+ 
+
+December 18, 2010 
+ 
+
+(amended March 15, 2011)
+
+
+
+ Fortin Technical Report 2 
+ 
+
+TABLE OF CONTENTS 
+ 
+1.0 SUMMARY................................................................................................ 4 
+2.0 INTRODUCTION AND TERMS OF REFERENCE ................................................ 6 
+2.1 Sources of information .............................................................................. 6 
+2.2 Units of reference ..................................................................................... 6 
+3.0 RELIANCE ON OTHER EXPERTS................................................................... 7 
+4.0 PROPERTY DESCRIPTION AND LOCATION .................................................... 7 
+4.1 Property Agreements ...............................................................................12 
+4.2 Environmental liabilities............................................................................12 
+4.3 Work permits ..........................................................................................13 
+5.0 ACCESSIBILITY, PHYSIOGRAPHY, CLIMATE, LOCAL RESOURCES AND 
+INFRASTRUCTURES.......................................................................................13 
+6.0 HISTORY ................................................................................................15 
+7.0 GEOLOGICAL SETTING .............................................................................19 
+7.1 Regional Geology.....................................................................................19 
+7.2 Local Geology .........................................................................................19 
+7.3 Property Geology.....................................................................................20 
+7.4 Structure................................................................................................20 
+8.0 DEPOSIT TYPES.......................................................................................21 
+9.0 MINERALIZATION ....................................................................................22 
+10.0 EXPLORATION (2004-2007 by Golden Valley) ............................................23 
+10.1 2004 Property Due Diligence Sampling Program .........................................23 
+10.2 2005 Sampling ......................................................................................23 
+10.3 2005 Geophysics ...................................................................................23 
+10.4 2006 Geophysics ...................................................................................23 
+10.5 2006 Geophysics Interpretation ...............................................................23 
+10.6 2007 Sampling ......................................................................................25 
+11.0 Diamond Drilling ....................................................................................25 
+12.0 SAMPLING METHOD AND APPROACH ........................................................30 
+12.1 Grab-channel sampling ...........................................................................30 
+12.2 Core-sampling.......................................................................................30 
+13.0 SAMPLE PREPARATION, ANALYSIS AND SECURITY......................................31 
+14.0 DATA VERIFICATION ..............................................................................32 
+14.1 Site Visit...............................................................................................32 
+15.0 ADJACENT PROPERTIES ..........................................................................33 
+16.0 MINERAL PROCESSING AND METALLURGICAL TESTING...............................33 
+17.0 MINERAL RESOURCES AND MINERAL RESERVE ESTIMATION........................33 
+18.0 OTHER RELEVANT DATA AND INFORMATION..............................................33 
+19.0 INTERPRETATION AND CONCLUSIONS......................................................33 
+20.0 RECOMMENDATIONS..............................................................................35 
+20.1 Budget for Proposed Exploration ..............................................................37 
+21.0 REFERENCES.........................................................................................38 
+21.1 References by Author Name ....................................................................38 
+21.2 References by Report Number .................................................................40 
+CERTIFICATE OF QUALIFICATION: JOHN LANGTON ............................................42 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ Fortin Technical Report 3 
+ 
+
+ 
+
+ 
+LIST OF FIGURES 
+ 
+Figure 1: Regional location map of Fortin Property .............................................. 9 
+Figure 2: Simplified geology map of the eastern Abitibi Greenstone Belt showing the 
+ location of the Fortin Property. ..........................................................10 
+Figure 3: Fortin Property claim map.................................................................11 
+Figure 4: Abitibi Greenstone Belt Regional Geology ............................................14 
+Figure 6: Geological Compilation Map: Fortin Property (included at end of Report) 
+Figure 7: Geological Compilation Map: Ducros Showings Area (included at end of 
+Report)   
+ 
+ 
+LIST OF TABLES 
+ 
+Table 1: Current Status of Claims Comprising the Fortin Property…………………………….7 
+Table 2: Results from 2004 grab samples …………………………………………………………………23 
+Table 3: Results from 2005 grab samples …………………………………………………………………24 
+Table 4: Results from 2007 channel sampling program …………………………………………..26 
+Table 5: List of diamond-drill hole technical parameters ………………………………………….25 
+ 
+ 
+LIST OF APPENDICES 
+ 
+Appendix I – Logs for Drill holes GCF-08-01 to GCF-08-07 inclusive 
+Appendix II - Copies of Assay Certificates 
+ 
+
+
+
+ Fortin Technical Report 4 
+ 
+
+1.0 SUMMARY 
+ 
+The Fortin Property (the "Property") is approximately 80 km northeast of the City of 
+Val-d'Or, Quebec, in the central part of Ducros Township, between the municipalities 
+of Senneterre and Lebel-sur-Quévillon. The Property lies between Provincial Highway 
+113 and the western shore of Lac Parent within National Topographic System, Map 
+Sheet 32C/11, and consists of five (5) contiguous mining claims that form a north-
+south elongated block of 1.3 kilometres by 1.6 kilometres. Nunavik Nickel Mines Ltd. 
+owns a 100% interest in all 5 of these claims, which cover 211.3 hectares.  
+ 
+Pursuant to a Property Transfer Agreement dated November 9, 2010, between 
+Golden Valley Mines Ltd. and Nunavik Nickel Mines Ltd. (a wholly-owned subsidiary 
+of Golden Valley Mines as of the date of this Report), Golden Valley Mines Ltd. sold, 
+assigned and transferred all legal and beneficial interest in and to the Fortin Prospect 
+to Nunavik Nickel Mines Ltd. in consideration for which Nunavik Nickel Mines Ltd. 
+issued to Golden Valley Mines Ltd. common shares in its capital. A 1.5 % net smelter 
+royalty (NSR) granted to the original vendors by Golden Valley Mines Ltd. remains in 
+place. Nunavik Nickel Mines Ltd. retains buyback discretion of the NSR at any time 
+(0.5 % buyback for $500,000 and 1% buyback for $1,000,000).  
+ 
+The Property is located in the southeast part of the Abitibi Greenstone Belt, in the 
+area of the Lebel-sur-Quevillon Mining Camp, which is host to a number of significant 
+gold and base-metal deposits including Osbell (Au), Barry (Au), Merimac/Bousecour 
+(Au), Barraute-Swanson (Au), Abcourt (Zn-Ag) and Vermont Zinc (Zn-Ag). The 
+Abitibi Greenstone Belt extends for over 500 kilometres from Timmins, Ontario to 
+Chibougamau, Quebec in the Abitibi Sub-province of the Canadian Shield. It is one of 
+the largest greenstone belts in the world, and one of the most productive gold and 
+base-metal regions. 
+ 
+Initial interest in the area around the Property followed the discovery of sulphides 
+and iron formation, first noted in 1935 and outlined in 1953-54 by Atlas Sulphur Co. 
+Exploration was performed in the area proximal to the current Property periodically 
+from 1953 to 1965, from 1974 to 1988, and from 1998 to 2002, and included 
+ground- and airborne-geophysical surveys, diamond-drilling, trenching, prospecting, 
+sampling and lithogeochemical surveys. Current interest is concentrated around two 
+known showings; the Ducros Pyroxenite Showing (Cu-Ni-PGE) and the Ducros Gold 
+Showing (Au).  
+ 
+The area surrounding the Fortin Property is underlain by metamorphosed mafic 
+volcanic flows and gabbroic intrusions that are overlain by metasedimentary rocks 
+with greywacke, argillite and siltstone protoliths. These rocks have been locally 
+intruded by ultramafic rocks (peridotite, dunite, pyroxenite and gabbro). The entire 
+sequence has been compressed between vast tonalitic and granodioritic plutons that 
+are locally highly metamorphosed to migmatitic gneiss.  
+ 
+The region around Lebel-sur-Quevillon is well known for its mining heritage, and 
+current gold and base-metal operations and infrastructure. An experienced mining 
+work force, along with mining/exploration services and equipment, are readily 
+available from the nearby mining centres of Val-d'Or and Rouyn-Noranda. 
+ 
+The Property is accessible by Provincial Highway 113, which connects to the Trans 
+Canada Highway (Route 117), some 30 kilometres east of Val-d'Or. The Maheux 
+Transportation Company operates bus services between Val-d'Or and Chibougamau 
+
+
+
+ Fortin Technical Report 5 
+ 
+
+ 
+
+via Senneterre and Lebel-sur-Quevillon. Both Val-d'Or and Rouyn-Noranda maintain 
+municipal airports, with scheduled air service to Montreal and other local centres. 
+ 
+Although the Fortin Property has been explored extensively in the area of the known 
+showings, there remain prospective targets for testing within this favourable 
+geological setting. The proposed exploration program on the Property comprises: 
+
+1. The area around the exposed parts of the Fortin sill (Ducros Pyroxenite 
+showing) should be bulldozed (if necessary) and stripped;  
+
+2. In order to classify and thereby better determine the mineralization model, 
+the Fortin Sill should be investigated to determine its size, shape, thickness, 
+layering (if any), texture (cumulate?, mesocumulate?, adcumulate?), the 
+nature of its margins (poikilitic?, recrystallized?), grain size(s) (parent and 
+margins), geometry within the local stratigraphy, and chemical composition 
+(whole rock, MgO content of parent and margin, modal olivine); 
+
+3. Detailed mapping, geophysical interpretation and, if necessary, diamond-
+drilling should be employed to determine the extent of the Fortin Sill on the 
+Property; 
+
+4. Following its delineation, Pionjar, Winkie and diamond-drills should be used to 
+systematically sample the sill and its contact zone in the surrounding host 
+rocks, over its entire extent. Emphasis should be placed on investigating the 
+source of the IP conductors both within and at the margins of the ultramafic 
+unit; 
+
+5. The area around the gold occurrence should be bulldozed (if necessary) and 
+stripped, and a detailed channel sampling of the exposed area instigated;  
+
+6. Ground prospecting in conjunction with detailed ground geophysical surveys 
+(IP) are recommended in order to help identify favourable areas for 
+structurally controlled quartz vein-hosted gold mineralization along the shear 
+zone that is exposed at the known occurrence. If warranted, follow-up 
+geological mapping, prospecting and diamond drilling should then be 
+completed; 
+
+7. Historic diamond-drilling by Brominco (1978) targeted a strong geophysical 
+anomaly and coincident B-horizon soil anomaly in the northeastern part of the 
+Property, intersected anomalous concentrations of Cu, Zn, Ni and Au. It is 
+recommended that this area be re-investigated; 
+
+8. At the moment no computerized database exists for the historical data 
+completed on the Property. In order to better understand the geology, 
+mineralization (type, form and distribution), alteration (type and distribution) 
+and geometry (i.e., shape and size) of the mineralized features, it is strongly 
+recommended that a comprehensive, digital, 3D geological model and 
+database be assembled. The purpose of this work would be used to formulate 
+a model on the geological and mineralizing controls for future drill-testing 
+along the predicted sub-surface and along-strike locations of mineralization. 
+
+ 
+The proposed exploration program would require a budget of $276,000. If results 
+warrant, a Phase II $360,000 follow-up diamond-drilling program, utilizing large 
+diameter coring, is recommended. 
+ 
+ 
+
+
+
+ Fortin Technical Report 6 
+ 
+
+ 
+
+2.0 INTRODUCTION AND TERMS OF REFERENCE 
+ 
+John P. Langton, M.Sc., P.Geo., of MRB & Associates, Val-d'Or, Quebec was retained 
+on July 16, 2010 by Michael P. Rosatelli of Golden Valley Mines Ltd., a public junior 
+exploration company, to author a National Instrument (NI) 43-101 compliant 
+Technical Report (or, the "Report") on their wholly owned Fortin Property (or, the 
+"Property"), located on National Topographic System (NTS) Map Sheet 32C/11, and 
+to recommend an exploration program on said Property. 
+ 
+This Report was prepared for Nunavik Nickel Mines Ltd. and Golden Valley Mines 
+Ltd.  Nunavik Nickel Mines is a wholly owned subsidiary of Golden Valley Mines Ltd. 
+(or, "Golden Valley") and has acquired the Fortin Property from Golden Valley 
+pursuant to a property transfer agreement dated November 9, 2010. Golden Valley 
+intends to spin out the shares it holds in Nunavik Nickel Mines Ltd. (or, "Nunavik 
+Nickel") to its shareholders subject to the approval of the applicable regulatory 
+authorities, which is the purpose for preparing this Report.  
+ 
+This Report was prepared in accordance with NI 43-101 regulations. All claim 
+information and maps have been updated for this Report. There has been no 
+material change, nor has there been any significant work performed on the Property 
+since 2008. John Langton, who is completely independent of both Nunavik Nickel and 
+Golden Valley, and who is a Qualified Person (QP) under the terms of NI 43-101, 
+conducted a site visit of the Property on September 2, 2010.  
+ 
+2.1 Sources of information 
+ 
+All of the information held by Golden Valley was made available for use in this 
+Report. In addition, the author made use of publicly available Assessment Reports, 
+on-line resources, publications of the Geological Survey of Canada, scientific papers 
+from various earth science Journals and from internal company documents from 
+various companies that have carried out previous work in the area. A list of material 
+reviewed and used is included in the References section of this document. 
+ 
+2.2 Units of reference 
+ 
+Most of the historic field work on the Property was carried out using the Imperial 
+System of measurement, whereas the more recent data are in SI units. For this 
+reason both Imperial and SI units are used throughout the text and reflect the data 
+in its original form. Where data of both types have been compiled (e.g., Tables), 
+units have been converted to SI to comply with Canadian and International 
+standards. Units include metric tons (tonnes, t), grams (g) and kilograms (kg) for 
+weight, kilometres (km) and metres (m) for distance, hectares (ha) or square 
+kilometres (km2) for area, and grams per metric tonne (g/t), parts per million (ppm) 
+and percent (%) for metals.  
+ 
+Spatial data and maps from previous work also vary with respect to: 1) coordinate 
+reference systems, i.e., Universal Transverse Mercator (UTM) versus Latitude-
+Longitude (LAT-LONG), and; 2) datum, i.e., NAD27 versus NAD83 projections. 
+Compiled spatial data have been converted to UTM NAD 83 Zone 18 projections; 
+otherwise they are referred to in their originally published form with designations 
+stated. Unless otherwise stated, all currency amounts are expressed in Canadian 
+dollars (CND).  
+
+
+
+ Fortin Technical Report 7 
+ 
+
+ 
+
+3.0 RELIANCE ON OTHER EXPERTS 
+ 
+Although reasonable care has been exercised, to ensure that the best available data 
+and facts are utilized and presented herein; and that such data and facts are 
+accurate, and that the opinions, conclusions and recommendations are fair and 
+reasonable, and within the scope and parameters accepted by the mining industry; 
+no representation, warranty or undertaking is hereby made, expressed or implied; 
+nor is any responsibility accepted by the authors respecting the accuracy and 
+completeness of any data and facts presented herein, other than those resulting 
+directly from technical and exploration work carried out by, or under the supervision 
+of the authors. The authors further assume that the reports and other data listed in 
+the Reference section are substantially accurate and complete as reported. 
+ 
+No information contained or presented in this report can nor shall be relied upon as 
+representative of neither absolute fact nor a promise as to the future outcome or 
+profitability of the properties, prospects or the companies presented herein. 
+ 
+ 
+4.0 PROPERTY DESCRIPTION AND LOCATION 
+ 
+The Fortin Property is approximately 80 kilometres (km) northeast of the City of Val-
+d'Or, QC, in the central part of Ducros Township, on National Topographic System 
+(NTS) Map Sheet 32C/11 (Figure 1 and Figure 2). The centre of the Property, using 
+the Universal Transverse Mercator (UTM) system, is approximately 346650 E, 
+5394350 N (North American Datum (NAD) 83, Zone 18), or Latitude 48º-41'-00" 
+west, Longitude 77º-05'-00" north. 
+ 
+The Property consists of five (5) contiguous mining claims that form a north-south 
+elongated block of 1.3 km by 1.6 km (Figure 3). Golden Valley owns a 100% 
+interest in all 5 of these claims, which cover 211.27 hectares (ha). The current status 
+of the claims comprising the Property, as listed on the MRNF on-line GESTIM claim 
+management system (www.mrnfp.gouv.qc.ca/mines/index.jsp) is summarized in 
+Table 1.  
+ 
+
+Table 1: Current Status of Claims Comprising the Fortin Property 
+
+Claim Expiry Date Area 
+Work 
+
+Req'd/year Rent/year Credits Owner 
+5230562 3-Dec-2012 41.69 $2,500 $52 $9,289.31 Golden Valley Mines Ltd
+5234862 29-Jun-2012 42.5 $2,500 $52 $1,743.54 Golden Valley Mines Ltd
+5234861 29-Jun-2012 42.33 $2,500 $52 $10,345.44 Golden Valley Mines Ltd
+5221166 26-Feb-2012 42.38 $2,500 $52 $84.89 Golden Valley Mines Ltd
+5221167 26-Feb-2012 42.37 $2,500 $52 $0.00 Golden Valley Mines Ltd
+ TOTALS 211.27 $12,500 $260 $21,463.18  
+ 
+The Property's yearly assessment work requirements amount to $12,500. Yearly 
+"rent" charges for the Property, regardless of work credits, are $260. Current credits 
+amount to $21,463 and can be distributed amongst the 5 claims for renewal.  
+ 
+The Property has not been surveyed since being acquired by Golden Valley. The 
+boundaries of the Property are defined by UTM (NAD83, Zone 18) coordinates: 
+345672 E, 5396744 N (NW corner), 346975 E, 5396705 N (NE corner), 346929 E, 
+5395084 N (SE corner), and 345625 E, 5395125 N (SW corner). 
+
+http://www.mrnfp.gouv.qc.ca/mines/index.jsp
+
+
+ Fortin Technical Report 8 
+ 
+
+ 
+
+ 
+Nunavik Nickel Mines has to issue to Golden Valley an aggregate of 3,250,000 
+common shares in consideration for the transfer of the Property pursuant to a 
+property transfer agreement dated November 9, 2010.  Nunavik also has to meet all 
+the requirements above to keep the Property in good standing.  In addition, there is 
+a royalty of 1.5% of the Net Smelter Returns from the Property payable jointly to 
+Normand Fortin, Denis Fortin and Rita Tremblay Fortin pursuant to an agreement 
+dated November 23, 2004 with Golden Valley, which obligation Nunavik Nickel Mines 
+has assumed. 0.5% of the royalty can be purchased at any time for $500,000 and 
+1% of the royalty can be purchased at any time for $1,000,000. 
+ 
+
+
+
+ Fortin Technical Report 9 
+ 
+
+ 
+ 
+
+Figure 1: Regional location map of Fortin Property
+
+
+
+ Fortin Technical Report 10 
+ 
+
+ 
+
+ 
+ 
+
+Figure 2: Simplified geology map of the eastern Abitibi Greenstone Belt 
+showing the location of the Fortin Property. 
+
+
+
+ Fortin Technical Report 11 
+ 
+
+ 
+
+ 
+ 
+
+Figure 3: Fortin Property claim map 
+
+
+
+ Fortin Technical Report 12 
+ 
+
+ 
+
+The Property is located in the east part of the Abitibi Greenstone Belt, which extends 
+for over 500 kilometres from Timmins, Ontario to Chibougamau, Quebec in the 
+Abitibi Sub-province of the Canadian Shield (Figure 4). It is one of the largest 
+greenstone belts in the world, and one of the most productive gold and base-metal 
+regions. The Fortin Property is in the area of the Lebel-sur-Quevillon Mining Camp, 
+which is host to a number of significant gold and base-metal deposits including 
+Osbell (Au), Barry (Au), Merimac/Bousecour (Au), Barraute-Swanson (Au), Abcourt 
+(Zn-Ag) and Vermont Zinc (Zn-Ag). 
+ 
+Interest in the Property centres on two adjacent but distinct mineral occurrences: 1) 
+Ni-Cu-PGE mineralization exposed on a small outcrop (65 m x 25 m) of pyroxenite 
+(Ducros Pyroxenite Showing), and; 2) gold in quartz veins associated with a zone of 
+high-strain, exposed on a similar sized outcrop (Ducros Gold Showing), some 25 m 
+to the east (Figure 6 and Figure 7 appended to end of Report). A significant 
+amount of exploration activity was completed in the area of the Property periodically 
+from 1953 to 2005. Work mainly included geophysical surveys and follow-up drilling 
+and was concentrated on nearby occurrences (see 6.0 History section for details). 
+ 
+4.1 Property Agreements 
+ 
+On November 8, 2004, Golden Valley announced an agreement to acquire a 100% 
+interest in the Fortin Prospect, which consists of five (5) mining claims 
+(approximately 200 hectares), in Ducros Township, Québec, located approximately 
+87 kilometres north of Val-d'Or. The terms of the property acquisition agreement 
+included a cash payment to the vendors of $5,000, the issuance of 50,000 common 
+shares of Golden Valley Mines Ltd. to the vendors over an 18-month period and a 1.5 
+% net smelter royalty (NSR) granted to the vendors.  
+ 
+Pursuant to a property transfer agreement dated November 9, 2010, Golden Valley 
+Mines Ltd. sold, assigned and transferred all legal and beneficial interest in and to 
+the Fortin Prospect to Nunavik Nickel Mines Ltd. in consideration for which Nunavik 
+issued to Golden Valley Mines Ltd. common shares in its capital. Nunavik Nickel 
+Mines Ltd. retains buyback discretion of the NSR at any time (0.5 % buyback for 
+$500,000 and 1% buyback for $1,000,000).  
+ 
+4.2 Environmental liabilities  
+ 
+Prior to Nunavik Nickel's involvement, the Property had been explored by airborne- 
+and surface-geophysical surveys, sampling/prospecting programs that included grid-
+cutting, trenching and sampling programs, and diamond-drilling. There are few 
+vestiges of this previous work, and no environmental issues related to said 
+exploration programs.  
+ 
+As of the writing of this report, the Author is not aware of encumbrances or 
+environmental liabilities to which the Property could be subject. Golden Valley and 
+Nunavik Nickel have ensured the author that all exploration programs on the 
+property have been and shall be conducted in an environmentally sound manner, 
+and will follow, to the best of their abilities, the principles and guidelines outlined in 
+the E3 Framework Document for Responsible Exploration 
+(http://www.pdac.ca/e3plus/index.aspx). 
+ 
+ 
+
+http://www.pdac.ca/e3plus/index.aspx
+
+
+ Fortin Technical Report 13 
+ 
+
+ 
+
+4.3 Work permits 
+ 
+The author understands that Golden Valley Mines applied for, and was granted all 
+permitting requirements to proceed with all the work performed to date.  
+ 
+In order to complete the recommended work on the Property in the future, Nunavik 
+Nickel will be required to obtain a Land Use Permit (for ground exploration and 
+drilling activities) from the Ministère des Ressources naturelles et de la Faune 
+(MRNF) de Quebec.   
+ 
+ 
+5.0 ACCESSIBILITY, PHYSIOGRAPHY, CLIMATE, LOCAL RESOURCES AND 
+INFRASTRUCTURES 
+ 
+The Property is accessible by Provincial Highway 113, which is coincident with the 
+western Property boundary and which connects to the Trans Canada Highway (Route 
+117), some 30 kilometres east of Val-d'Or. The Maheux Transportation Company 
+operates bus services between Val-d'Or and Chibougamau via Senneterre and Lebel-
+sur-Quevillon. Both Val-d'Or and Rouyn-Noranda maintain municipal airports, with 
+scheduled air service to Montreal and other local centres. 
+ 
+The physiography of the area is fairly flat-lying with little topographic relief and large 
+wetlands. Average elevation is around 320 metres (1050 ft) above sea-level. The 
+area is mostly covered with glacial till and drift, with a few outcrops exposed as small 
+mounds with positive relief in the north-central part of the Property. The Property is 
+drained by the Bell River from Lac Parent. Vegetation is boreal, consisting mostly of 
+black spruce, poplar, and birch trees, and various shrubs, mosses and lichen. 
+ 
+Climatic conditions are typical for the Canadian Shield, with short, mild summers and 
+long, cold winters. Mean temperatures range from -17°C in January, to +18°C in 
+July. The mean annual precipitation throughout the region ranges from 812 mm to 
+876 mm.  
+ 
+Power is readily accessible from a hydro line 25 km south, along Route 113. 
+ 
+The region around Lebel-sur-Quevillon is well known for its mining heritage, and 
+current gold and base-metal operations and infrastructure. An experienced mining 
+work force, along with mining/exploration services and equipment, are readily 
+available from the nearby mining centres of Val-d'Or and Rouyn-Noranda. 
+ 
+The operating season for the project is year-round. No potential encumbrances for 
+future mining operations are expected based on the sufficiency of surface rights for 
+potential waste disposal areas, heap leach pad areas and potential processing plant 
+sites in addition to the near-by availability and sources of power, water and mining 
+personnel.   
+ 
+
+
+
+ Fortin Technical Report 14 
+ 
+
+ 
+ 
+
+Figure 4: Abitibi Greenstone Belt Regional Geology 
+
+
+
+ Fortin Technical Report 15 
+ 
+
+6.0 HISTORY 
+ 
+
+NOTE: The online "E-Sigeom" resource (http://sigeom.mrnf.gouv.qc.ca/) 
+provides access to the information holdings of the Ministère des Ressources 
+naturelles et de la Faune (MRNF) de Quebec, and is the principal repository 
+for historical information on the Province's mineral resources. Spatial and 
+attribute search functionality allows for rapid discovery of information from 
+reports, maps, and client-submitted Assessment Reports or "Gestimes 
+Minieres" (GM's). A "GM" number, is a reference number to which an 
+Assessment File or similar document is assigned by MRNF once a Report has 
+been accepted. GM files are accessible online at 
+https://gestim.mines.gouv.qc.ca/.  
+ 
+In this Section, the relationship between sample lengths and true thickness is 
+not known. All reported intervals are intersection widths, not true widths.  
+
+ 
+Records of work reported for the Fortin Property area date from as far back as 1935, 
+to as recently as 2005. The author has reviewed the available historical work and 
+verified the information contained in Assessment Reports that pertain to the Fortin 
+claim block. A summary of the pertinent Assessment Report files is presented below. 
+References in italics are the alpha-numeric code assigned to various documents by 
+the MRNF de Quebec, and accessible through E-Sigeom. 
+ 
+1935 Bannerman, H.M.  
+Summary Report on the Regional geology around the Lac Parent area for the Quebec 
+Department/Bureau of Mines (RASM 1935-C1, RP 108, RP 108-A). The Report 
+mentions the presence of numerous pyrite showings discovered by prospectors.  
+ 
+1948 Geophysical Survey of Canada (GM14683) 
+Airborne geophysical magnetic survey of Lac Parent area GSC Map 94-G revealed a 
+large, northwest-trending magnetic anomaly underlying the current Property  
+ 
+1953-54 Atlas Sulphur and Iron Company (GM02377 and excerpts from 
+GM47268) 
+An exploration campaign by Atlas Sulphur and Iron Company covered a major, 
+north-trending sulphide horizon that extends for some 10 kilometres (6.25 miles) 
+from Delestre Township to Ducros Township across the islands on Lake Parent.  
+ 
+A 13 million* ton (Mt) iron-sulphide deposit (Delandore) was outlined in the Delestre 
+Township, near the Brassier River, by 5,514 metres (18,089 feet) of diamond-
+drilling.  
+ 
+*The author was not able to verify this resource figure. The information is not 
+necessary indicative of the mineralization on the property that is the subject of this 
+report. The above information pertains to the Delandore property and not the 
+Property that is the subject of this Technical Report.  
+ 
+A number of significant assays for gold are reported, reaching 18.51 grams per ton 
+(g/t) or 0.54 ounces per ton (oz/t) in the core, and 26.74 g/t (0.78 oz/t) in the drill 
+cutting (sludge). Some of these gold values were obtained in secondary quartz 
+carbonate veins; however, composite samples of the iron sulphide from the deposit 
+showed only traces values of gold. 
+ 
+
+http://sigeom.mrnf.gouv.qc.ca/
+https://gestim.mines.gouv.qc.ca/
+
+
+ Fortin Technical Report 16 
+ 
+
+ 
+
+The Delandore deposit is along strike and to the southeast of the current Fortin 
+Property, within the same narrow corridor of volcano-sedimentary rocks that underlie 
+the Property. 
+ 
+1968 GM17792 
+Freeport Sulphur 1968. Rough sketch map (1 inch = 0.5 mile) showing geological 
+contacts, diamond-drill hole locations and EM conductors of the area adjacent to the 
+southeast of the Fortin Property. 
+ 
+ 
+1974 Quebec Department of Natural Resources 
+Questor Surveys Ltd. produced an airborne Input MK VI survey of the region in 1974 
+(DP 237, DP 728 and DP 764). The survey outlined a large number of 
+electromagnetic anomalies in the area including two strong trends on the Fortin 
+property.  
+ 
+1977-80 GM33191 (Husson, B. and Mongeau, C.), GM34257 (Berube, M.), 
+and GM42864 (Larouche, C.) 
+In December 1976 and July 1977 Brominco Inc. completed an EM-16 ground 
+geophysical survey on their property adjacent to the eastern boundary of the current 
+Fortin Property. Some work overlapped the current claims. Conductors 4 and 7 were 
+outlined on current claim 5230562 and were subsequently drilled by holes BD-78-5 
+and BD-78-6 respectively (GM34257). Slightly anomalous concentrations of Cu, Zn, 
+Ni and Au were present in hole BD-78-5, which targeted a coincident B-horizon soil 
+anomaly and conductor. Hole 6 returned no significant sulphide or precious metal 
+values. According to GM42864 , the anomalies were explained by drill-intersections 
+of graphite, pyrite-pyrrhotite with local traces of chalcopyrite, magnetite, and 
+arsenopyrite. 
+ 
+1986 GM43618 (Campbell, R.A.) 
+June 13, 1986, an airborne geophysical survey was carried out on the property of 
+Abitibi Resources Ltd. in Ducros Township, Quebec. Magnetic and VLF-
+electromagnetic data was collected by H. Ferderber Geophysics Ltd. A total of 127.6 
+line miles of data were collected. The magnetic survey delineated a north-striking, 
+magnetic-high near the northeastern boundary of property. It was thought that it 
+could represent a small zone of iron formation located north of the contact with a 
+known small mafic intrusive body. The VLF-EM survey outlined several conductive 
+zones that correlated well with the magnetic highs. Conductive bands B,C and D 
+underlie the current claim group and are coincident with small magnetic highs. Band 
+D is folded and could represent a contact between the volcano-sedimentary rocks 
+and the mafic intrusion. Zone C is located near a creek and could be caused by 
+conductive overburden. Conductor E strikes roughly east-west and appears to cut-off 
+conductor A. It may represent a small cross-cutting shear zone. 
+ 
+1987 GM44380 (Barrie, C.Q.) 
+Airborne magnetic and VLF-EM survey was flown by Terraquest Ltd, for Exploration 
+Cardumont Inc. in January 1987. The survey outlined a number of strong Total Field 
+magnetic anomalies coincident with quadrature (conductive) responses, interpreted 
+as stratabound mineralogical horizons, overburden responses, and fault zones. The 
+very strong magnetic anomalies were interpreted as iron formation or, less likely, as 
+being related to highly concentrated horizons of pyrrhotite. The mafic to intermediate 
+metavolcanic rocks had moderate magnetic responses, and the clastic sediments 
+exhibited weak to moderate responses. It was supposed that magnetic horizons 
+
+
+
+ Fortin Technical Report 17 
+ 
+
+ 
+
+within both these units were probably related to increased concentrations of 
+magnetic minerals such as pyrrhotite or magnetite, or possibly to mafic horizons. 
+ 
+1987 GM47267 and GM45155 (Gaucher, E.) 
+An evaluation report in early 1987 (GM47267) was followed by a ground IP survey 
+by Geosig Inc. for Abitibi Resources Ltd., that covered all of lots 54 to 60 (western 
+part of the property) on a 400 metres (1,312 feet) line spacing grid. The survey done 
+at one separation, and a 25 metres (82 feet) dipole, outlined several 100 to 300 
+metres (328 to 984 feet) wide highly anomalous outcrops areas probably reflecting 
+massive and disseminated sulphides, whose central conductive core correspond to 
+the Input conductors. In the south, the conductive overburden is deeper and the 
+important swarm of Input anomalies in the south-west corner was detected only in a 
+subdued manner by the 25 metre dipole used (Gaucher, E., Geosig Inc., 1987). A 
+new grid was cut with line spacing at 100 metres followed by a magnetometric 
+gradiometric survey. 
+ 
+1988 GM46893 and GM46894 (Gaucher, E. and Desbiens, R.) 
+Report on results of Magnetometer-gradiometric and Induced Polarization, ground 
+geophysical surveys by Geosig Inc. that included coverage of the current Property. A 
+strong northwest-trending IP anomaly, corresponding with a magnetic anomaly, was 
+outlined and interpreted as a response to massive sulphides or graphite. A drill hole 
+to test the anomaly was recommended. 
+ 
+1998 GM57864 (Theberge, J.) 
+Work included collection and analyses of nine (9) lithogeochemical samples for 
+selected sulphides and precious metals. All samples were obtained from bedrock 
+exposures of mafic volcanic rock and an ultramafic intrusion in the north western 
+part of the Property (claims 5221166 and 5221167). Selected results obtained 
+include: 0.527 g/t gold (Au), 4.00 g/t silver (Ag), 0.16% copper (Cu), 0.02% zinc 
+(Zn), 0.13% nickel (Ni), and 0.115 g/t platinum (Pt).  
+ 
+2000 GM58113 (Fortin, C. and Fortin, D.) 
+Eight (8) lithogeochemical samples were collected and analyzed for selected 
+sulphides and precious metals. All samples were obtained from bedrock exposures of 
+quartz veins, mafic volcanic rock, and an ultramafic intrusion in the northern part of 
+the Property (claims 5224861 and 5224862). Selected result obtained include: 20.15 
+g/t gold (Au), 0.199% copper (Cu), 0.014% zinc (Zn), 0.161% nickel (Ni), and 0.51 
+g/t platinum (Pt).  
+ 
+2000 GM58297 (Fortin, C. and Fortin, D.) 
+Seven (7) lithogeochemical samples were collected and analyzed for selected 
+sulphides and precious metals. All samples were obtained from bedrock exposures of 
+mafic volcanic and sedimentary rocks in the eastern part of the Property (claim 
+5230562). Selected results obtained include: 1.97 g/t gold (Au), 0.215% copper 
+(Cu), and 0.008% nickel (Ni).  
+ 
+2000 GM59306 (Berger, J.) 
+The Report comprises a brief technical evaluation of the economic potential of the 
+Fortin property held by Denis, Clément and Normand Fortin. The report includes a 
+review of the geology, mineral occurrences, and geochemical assay results from the 
+property. 
+ 
+2002 GM59361 (Fortin, D. and Fortin, C.) 
+
+
+
+ Fortin Technical Report 18 
+ 
+
+ 
+
+Thirty-nine (39) lithogeochemical samples were collected and analyzed for selected 
+sulphides and precious metals. All samples were obtained from bedrock exposures of 
+mafic volcanic rock and an ultramafic intrusion in the north western part of the 
+Property (claims 5221166 and 5224861). Selected results obtained include: 24.33 
+g/t and 2.93 g/t gold (Au), 1.61 g/t palladium (Pd), 1.42 g/t and 1.16 g/t platinum 
+(Pt), 2.64% and 1.17% copper (Cu), 0.02% zinc, and 0.540% nickel (Ni).  
+ 
+2002 GM59363 (Fortin, N. and Fortin, C.) 
+Thirty-five (35) lithogeochemical samples were collected and analyzed for selected 
+sulphides and precious metals. The samples were obtained from bedrock exposures 
+of quartz veins, mafic volcanic rock and an ultramafic intrusion in the north western 
+part of the Property (claims 5221166 and 5221167). Selected results obtained 
+include: 10.50 g/t and 7.55 g/t gold (Au), 0.301 g/t palladium (Pd), 0.41 g/t 
+platinum (Pt), 0.054% and 0.049% copper (Cu), 0.039% zinc, and 0.014% nickel 
+(Ni).  
+ 
+2000-02 GM59362 and GM59364 (Lapointe, D.) 
+A Quebec supported, exploration assistance program that involved a minor ground 
+geophysical survey along with a compilation of some earlier lithogeochemical survey 
+results. No significant new results were reported. 
+ 
+2004 Golden Valley Mines Ltd. (Internal Report) 
+Eleven (11) grab samples were collected in the Autumn of 2004 from the area of the 
+Ducros Pyroxenite Showing and the Ducros Gold Showing. This description and 
+results of the program are available only in a Golden Valley Press Release issued 
+November 8, 2004. 
+ 
+2005 Golden Valley Mines Ltd. (Internal Report) 
+Ten (10) grab samples were collected in the from the area north of the Ducros 
+Pyroxenite Showing and the Ducros Gold Showing. The results of the program were 
+unremarkable and results were not published. 
+ 
+2005 GM62129 (Lambert, G.) Report describes a ground geophysical survey (Mag 
+and MaxMin) completed on the Property. The survey outlined both geological 
+contacts and magnetic horizons comprising mainly iron formation. 
+ 
+2006 GM62408 (Lambert, G.) Report describes a ground geophysical survey (IP) 
+completed on the Property. The survey (11.8 line kilometres) outlined geological 
+contacts and resistive and conductive horizons comprising mainly mineralized 
+(pyrrhotite) and graphitic zones. 
+ 
+2006 Golden Valley Mines Ltd. (Internal Report) (Plante, L.)  
+Report comprises an interpretation of the previous ground geophysical surveys by 
+Golden Valley, and recommends targets for a diamond-drilling program.  This is an 
+unpublished, internal Golden Valley document.   
+ 
+2007 Golden Valley Mines Ltd. (Internal Report) 
+Thirty-six (36) grab samples were collected in the summer of 2007 from the area of 
+the Ducros Pyroxenite Showing and the Ducros Gold Showing. Limited results of the 
+program were presented in an August 22, 2007 Golden Valley Press Release. 
+ 
+2008 Golden Valley Mines Ltd. (Internal Report) 
+
+
+
+ Fortin Technical Report 19 
+ 
+
+ 
+
+A seven (7) hole, 639 m diamond-drilling program, designed to follow up on the 
+surface sampling results and to test IP anomalies, was completed in 2008. Hole GCF-
+08-07 and GCF-08-06, which undercut the pyroxenite showing, yielded weighted 
+average grade results of 1934 ppm Ni and 1061 ppm Cu (from 19.50-61.50 m)  over 
+21.2 metres and 0.4396 ppm Cu, 0.3742 ppm Ni, 0.25 g/t Pt, 0.23 g/t Pd and 0.18 
+g/t Au over 21.20 m (from 4.0-25.20 m down-hole) over 42.0 metres respectively. 
+No significant gold values were obtained in the holes testing the Ducros Gold 
+Showing; however, anomalous nickel values with an average weighted grade of 
+0.1794 ppm Ni (from 7.0-14.0 metres) were intersected. 
+ 
+ 
+7.0 GEOLOGICAL SETTING 
+ 
+7.1 Regional Geology 
+ 
+The Property is located in the southeastern part of the Abitibi Greenstone Belt (AGB), 
+within the Eastern Superior Province of the Precambrian Canadian Shield. The Abitibi 
+Greenstone Belt is characterized by numerous Archean volcano sedimentary belts 
+and igneous intrusive complexes that are in some places cross-cut by generally 
+northeast-striking, Proterozoic diabase dykes. The rocks are locally metamorphosed 
+to greenschist and amphibolite facies.  
+ 
+The AGB extends in a north-easterly direction for approximately 700 kilometres 
+between the gneissic rocks of the Kapuskasing Uplift in the west and the 
+Mesoproterozoic Grenville Province in the east. The belt is about 300 kilometres 
+wide, measured at right angles to its strike, and averages about 500 kilometres in 
+length making it the largest known greenstone belt, in the world. There are many 
+fault zones and deformation corridors within the AGB. The Cadillac-Larder Lake Fault 
+Zone and the Destor-Porcupine Fault Zone are the major, tectonic, gold-deposition 
+structures.  
+ 
+The Abitibi Greenstone Belt is subdivided into the Northern Volcanic Zone and the 
+Southern Volcanic Zone along the Destor-Porcupine-Manneville (DPM) Fault Zone, 
+which is interpreted to be the locus of Archean terrane-docking between the older 
+(2730-2710 Ma) diffuse volcanic arc of the Northern Volcanic Zone and the younger 
+(2705-2698 Ma) arc segments of the Southern Volcanic Zone (Chown et al., 1992; 
+Mueller et al., 1996).  
+ 
+7.2 Local Geology 
+ 
+The Fortin Property is located within the Southern Volcanic Zone of the AGB in a 
+narrow, northwest-trending neck of volcano-sedimentary rocks enclosed to the 
+northeast and southwest by large, mainly granitic stocks (Figure 4). The volcano-
+sedimentary rocks are comprised mainly of intermediate and mafic volcanic rock, 
+intimately associated with gabbro and diorite sills and dykes. Lesser amounts of 
+greywacke, shale, iron formation and felsic volcanic rocks are present. Large felsic 
+volcanic (granitic and dioritic) stocks intrude the sequence along with "late", 
+northeast-trending diabase dykes. Local metamorphic grade around the plutons 
+reached middle amphibolite facies; however, the regional metamorphic grade is 
+greenschist.  
+ 
+ 
+
+
+
+ Fortin Technical Report 20 
+ 
+
+ 
+
+7.3 Property Geology 
+ 
+Based on limited exposures, diamond-drill logs and core, and geophysical survey 
+results, the Property is interpreted to be mainly underlain by a north-northeast 
+striking sequence of intermediate and mafic volcanic rocks, bounded on the east and 
+west by fine-grained sedimentary rocks and iron formation. The volcano-sedimentary 
+package includes minor rhyolite, tuff and associated felsic pyroclastic rocks. A 
+gabbro-pyroxenite intrusion in the northwest part of the claim-group is the loci of the 
+Ni-Cu-PGE mineralization (Figure 6 and Figure 7 appended to end of Report). A 
+second surface showing, 75 m to the northeast, contains quartz veins with 
+anomalous gold mineralization in a well-developed shear zone. 
+ 
+The Property is underlain by a northwest-striking units of highly altered volcano-
+sedimentary rocks. The two main strata consist essentially of: 1) metamorphosed 
+clastic sedimentary rocks interbedded with minor mafic to felsic metavolcanic rock, 
+and; 2) mainly metavolcanic rocks and associated pyroclastics interbedded with 
+minor clastic metasedimentary rocks. The younger, mainly sedimentary, sequence is 
+host to at least one Algoma-type iron formation. Established trenches reveal that the 
+iron formations are composed mainly of massive to disseminated sulphides (pyrite, 
+pyrrhotite) and oxides (magnetite). The occurrence of two apparently separate bands 
+of  iron formation near the western and eastern boundaries of the Property, is likely 
+the result of folding geometry, rather than a repetition of stratigraphy. 
+ 
+The iron formation is hosted by a commonly brecciated, impure quartzite that 
+exhibits a characteristic sugary texture. Locally, conglomeratic sandstone and 
+greywacke are interbedded with this unit. The quartzite carries the disseminated- 
+and massive-sulphide, and oxide-iron mineralization. In the western part of the claim 
+group near the main iron formation, a mineralized ultramafic intrusion, composed of 
+serpentinized dunite, has recently been recognized (Figure 6 appended to end of 
+Report).  
+ 
+The clastic metasedimentary rocks show a direct positive correlation with linear 
+airborne electromagnetic anomalies defined on the Property. Strong magnetic 
+anomalies are associated with the iron formation. Geophysical response also defines 
+the dunite sill as having a north-south strike, a width of approximately 80 metres, 
+and a westerly dip. Other geophysical anomalies in the vicinity of the Property 
+represent similar intrusions. All the rocks of the general area have subjected to 
+upper greenschist grade metamorphism.  
+ 
+7.4 Structure 
+ 
+The Property is located near the end of a narrow, northwest-trending, deformation 
+corridor of volcano-sedimentary rocks, dwarfed by huge granitic stocks to the 
+northeast and southwest (Figure 4). No information was found to indicate the 
+structural geometry (antiform, synform, facing direction, etc.) of the volcano-
+sedimentary rocks. The regional foliation and schistosity strike roughly northwest 
+and dip 50° to 80° to the southwest.  
+ 
+Two conjugate fault sets (northeast/southeast and north/north-northeast) 
+interpreted by regional lineations studies, transect the area and are reflected in the 
+geophysical data (see Figure 8 in GM52381).  
+ 
+ 
+
+
+
+ Fortin Technical Report 21 
+ 
+
+ 
+
+8.0 DEPOSIT TYPES 
+ 
+Massive sulphides: 
+Massive sulphide occurrences of pyrite and pyrrhotite have been documented in the 
+Lac Parent area since the mid-1900's. The known massive sulphide deposits are 
+associated with iron formation; numerous bands of graphitic schist with or without 
+sulphide mineralization are also known to exist in the area. The graphitic schists, 
+mineralized or otherwise, typically manifest as linear IP anomalies. 
+ 
+Iron/sulphides: 
+Although there are a number of nearby iron deposits associated with the local iron 
+formations, according to a recent Due Diligence Report, the iron formation on the 
+Fortin Property does not contain sufficient quantities of sulphide, gold or iron to be of 
+economic interest for production.  
+ 
+The sulphide deposits are thought to be syngenetic; however, their depositional 
+nature is not certain as the regional metamorphism has likely remobilized, 
+recrystallized and transformed the primary sulphides (Husson, 1980 and Mongeau, 
+1977). 
+ 
+Gold/Copper: 
+There has been no gold or copper production in the area of the Fortin Property; 
+however, a number of historical gold and copper occurrences have been 
+documented. They occur as: (1) gold-bearing quartz veins, typically hosted by 
+intermediate volcanic rocks and syenite bodies, (2) quartz veins bearing chalcopyrite 
+and gold in intermediate volcanic rocks, and (3) quartz veins in andesite rock 
+containing impressive but erratic amounts of chalcopyrite. 
+ 
+When the iron formations in the area were being explored for iron and sulphides, the 
+grab samples and core were rarely assayed for gold. Early gold assays were typically 
+very low, with most assays returning only trace concentrations of gold and silver. 
+Later drill core from the iron formation targets were not assayed for gold.   
+ 
+Copper/PGE: 
+A previously unrecognized ultramafic sill (the "Fortin Sill") has been noted in the 
+northern part of the Property, near the western iron formation. The north-striking sill 
+is composed mainly of dunite/pyroxenite. Anomalous Cu, Ni, and PGE values have 
+been encountered from the ultramafic intrusion and are mostly attributed to the high 
+nickel background for this kind of rock. 
+ 
+The Fortin Sill has an estimated width varying from 80 to 600 metres and dips 
+toward the west. As nickel and PGE (Platinum Group Elements) are known to be 
+associated with ultramafic intrusions, the recognition of the sill warranted a re-
+evaluation of the metallogenic concepts and hypothesis for the Property.  
+ 
+A few isolated Input EM (electromagnetic) and Magnetic anomalies are coincident 
+with the sill and are interpreted to be caused by sulphide mineralization, directly and 
+genetically associated with the ultramafic host rock. The contact between the Fortin 
+Sill and the host rocks, which also exhibits good local Input EM (electromagnetic) 
+response, is also a promising target zone for mineralization. Chalcopyrite has been 
+observed in outcrops near the exposed part of the contact zone. Both in situ and 
+remobilized deposits are prime targets in the area of the Fortin Sill.  
+ 
+
+
+
+ Fortin Technical Report 22 
+ 
+
+ 
+
+ 
+9.0 MINERALIZATION  
+ 
+There are two principle exploration targets on the Property: 1: Cu-Ni-PGE 
+mineralization associated with the Fortin Sill, and; 2) gold mineralization in dilatant 
+quartz veins associated with high-strain zones.  
+ 
+Cu-Ni-PGE Mineralization: 
+The Cu-Ni-PGE mineral occurrence is hosted within a dunite-pyroxenite intrusive 
+body exposed at surface over a 24 by 58 metre area. A series of well-mineralized 
+gossans are located along the eastern flank of the outcrop, which hosts abundant 
+pyrrhotite and chalcopyrite.  
+ 
+The Fortin Sill belongs to the dunite-peridotite class. The known mineralization 
+associated with this intrusion falls into the "intrusive-dunite associated" class of 
+Marston et al. (1981). Deposits of this type may be further categorized into: a) 
+medium sized deposits with high-grade and low-grade ore (e.g., the Agnew – 
+formerly Perseverance - deposit in Australia and; b) large sized deposits carrying 
+low-grade, disseminated ore, e.g., Mount Keith in Australia. Intrusive dunite- and 
+volcanic peridotite-associated deposits are generally restricted to ca. 2,700 Ma 
+Archean terrains worldwide. 
+ 
+In the mineralization model envisaged for the Ducros Pyroxenite (Cu-Ni-PGE) 
+Showing, the country rock, which contains abundant disseminated sulphide 
+mineralization, may have played an important chemical role in assimilation magmatic 
+process as the main source of sulphur necessary for the magmatic segregation of the 
+ultramafic Fortin Sill. In order to generate a magma rich in magmatic sulphides it is 
+necessary that: a) the host magma is saturated in sulphur, and; b) a reasonably 
+high proportion of sulphides droplets settle rapidly to form an ore body; slow settling 
+will result in a disseminated ore. A higher proportion of immiscible magmatic 
+sulphides is possible if the magma assimilates sufficient country rock that contains a 
+relatively high sulphur (sulphide) content. The "talcose" altered rocks present at the 
+contact of the dunite supports the proposed genetic interpretation (Donaldson, 
+1981).  
+ 
+Any mafic and ultramafic intrusions discovered on the Property should be carefully 
+prospected for Cu-Ni-PGE mineralization.  
+ 
+Gold Mineralization: 
+The gold occurrence is located 75 metres to the northeast within a well-developed 
+shear zone exposed over 15 by 60 metre area. Approximately 30% of the exposed 
+outcrop of mafic volcanic rock is transected by lenticular quartz veins, slightly 
+oblique to the main foliation, with mineralized with pyrite±chalcopyrite, mainly along 
+the wall rock contacts.  
+ 
+The style of deformation and mineralization is consistent with other gold 
+mineralization in the Val-d'Or area. The gold bearing quartz-tourmaline veins appear 
+to be associated with the principal shear and tension faults interpreted in the local 
+geology.  
+ 
+ 
+
+
+
+ Fortin Technical Report 23 
+ 
+
+ 
+
+10.0 EXPLORATION (2004-2007 by Golden Valley) 
+ 
+10.1 2004 Property Due Diligence Sampling Program 
+A limited prospecting and sampling program was carried out on the Property in the 
+Fall of 2004. Eleven (11) grab samples were collected in the Autumn of 2004 from 
+the area of the Ducros Pyroxenite Showing and the Ducros Gold Showing. Results are 
+included in Table 2. Locations are shown on Figure 7 (appended to end of Report). 
+ 
+
+Table 2: Results from 2004 grab samples 
+
+Sample 
+Easting   
+
+(NAD 83) 
+Northing    
+(NAD 83) Au (ppm) Cu % Ni % Pt % Pd % 
+
+Ducros Pyroxenite showing: 2004 Grab samples    
+116101 346132 5396379 0.672 1.460 0.493 0.857 1.795 
+116102 346123 5396368 0.194 0.295 0.182 0.402 0.386 
+116103 346123 5396373 0.397 0.841 0.334 0.657 0.820 
+116104 346118 5396362 0.033 0.058 0.092 0.045 0.050 
+116105 346151 5396387 0.135 0.458 0.331 0.259 0.354 
+
+Ducros Gold showing: 2004 Grab samples    
+116106 346190 5396409 0.397     
+116107 346196 5396416 0.039     
+116108 346198 5396408 0.973     
+116109 346184 5396425 <0.005     
+116110 346184 5396425 4.000     
+116111 346184 5396425 1.090     
+
+ 
+10.2 2005 Sampling 
+Following the acquisition of the Property, a prospecting and sampling program was 
+carried out on the Property in 2005. Ten (10) grab samples were collected from the 
+area north of the Ducros Pyroxenite Showing and the Ducros Gold Showing. Results 
+are included in Table 3. Locations are shown on Figure 7 (appended to end of 
+Report). 
+ 
+10.3 2005 Geophysics 
+In 2005 a ground geophysical survey (Mag and MaxMin) was completed on the 
+Property. The survey outlined both geological contacts and magnetic horizons, which 
+were interpreted as mainly iron formation in the western part of the Property. The 
+vertical magnetic gradient format significantly improves the resolution and shows 
+several minor patterns not clearly resolvable by the total magnetic field data, 
+including a notable anomaly associated with the Fortin Sill (GM62129). 
+ 
+10.4 2006 Geophysics 
+In 2006 a ground geophysical survey (IP) completed on the Property (GM62428). 
+The survey (11.8 line kilometres) outlined geological contacts and resistive and 
+conductive horizons comprising possible mineralized (pyrrhotite) and graphitic zones. 
+The results from the 2006 IP survey are consistent with the many previous 
+geophysical surveys, which show strong magnetic and IP anomalies, with principal 
+north-northwest trends. 
+ 
+10.5 2006 Geophysics Interpretation 
+In 2006, L. Plante completed an interpretation of the previous ground geophysical 
+surveys by Golden Valley. The unpublished report recommends targets for a 
+diamond-drilling program. The strongest anomalies, located in the western part of 
+
+
+
+ Fortin Technical Report 24 
+ 
+
+Table 3: Results from 2005 grab samples 
+
+Sample 
+Number 
+
+Easting  
+(NAD 
+83) 
+
+Northing  
+(NAD 
+83) 
+
+Description 
+Au 
+
+ppm 
+Pt 
+
+ppm 
+Pd 
+
+ppm 
+Au 
+
+ppm 
+Cu 
+
+ppm
+Ni 
+
+ppm
+
+106601 346155 5396550 
+sub-angular boulder,pyroxenite,3-
+5%PY,magnetic 
+
+   0.008 20 9 
+
+106602 346394 5395320 outcrop,basalt,oxydized,foliated,<1%PY    0.008 95 65 
+
+106603 346466 5395331 
+outcrop,sedimentary,2%sulphides in 
+bands with QTZ 
+
+   0.012 52 151 
+
+106551 346061 5396508 outcrop,volcanic,1%sulphides <0.03 <0.03 <0.03 0.005 63 12 
+
+106552 346061 5396470 
+outcrop, highly altered gabbro, 
+3%PY,CPY,QTZ,malachite stain 
+
+<0.03 <0.03 <0.03 0.018 614 60 
+
+106553 345989 5396438 outcrop,rusty,silicified volcanic?,2%PY    0.01 175 15 
+
+106554 346539 5395264 outcrop,gossan,silicified sedimentary    0.006 27 2 
+
+106604 343508 5394087 
+outcrop, silicified,trace disseminated 
+sulphides 
+
+   0.007 11 18 
+
+106605 343598 5394614 
+outcrop, sedimentary iron formation, 
+highly magnetic,garnets 
+
+<0.03 <0.03 <0.03 0.007 15 74 
+
+106555 343508 5394087 
+outcrop,black rock with 
+bedding,2%sulphides along slips 
+
+<0.03 <0.03 <0.03 0.028 91 106 
+
+ 
+
+
+
+ Fortin Technical Report 25 
+ 
+
+the Property, are interpreted as iron formation primarily on the basis of the 
+characteristic responses. "Magnetic overwhelming", by of the magnetic fields is likely 
+the cause of the exaggerated anomaly widths. 
+ 
+The mafic to intermediate metavolcanic rocks correlate with moderate magnetic 
+responses, and the clastic sedimentary rocks correlate with weak to moderate 
+responses. Magnetic horizons within both these units are likely related to increased 
+concentrations of magnetic minerals such as pyrrhotite and magnetite, or possibly to 
+interlayered mafic volcanic horizons. The mafic/ultramafic intrusions are magnetically 
+similar to the metavolcanic rocks; they cannot be readily distinguished solely by 
+magnetic mapping. The Fortin Sill correlates with a strong, narrow, vertical-gradient 
+magnetic anomaly.  
+ 
+Some of the north-south conductor axes may be related to fault zones. In particular 
+the lithological contact between the granite, diabase and sediments to the northeast 
+may be a fault contact. The conductivity in faults may be: (a) mineralogical, e.g., 
+gouge, graphite and sulphides, or; (b) ionic, i.e., porosity within the fault zone or in 
+the overlying conductive overburden. The magnetic data was used to modify and 
+update the existing geology and has shown a number of new contacts and faults.  
+ 
+10.6 2007 Sampling 
+A limited channel sampling program comprising 36 samples from three (3) channels 
+– 2 on the gold showing and one on the southern part of the exposed pyroxenite 
+showing - was carried out on the Property in 2007. Results are included in Table 4. 
+See Figure 7 (appended to end of Report) for locations of the channels. 
+ 
+ 
+11.0 Diamond Drilling 
+ 
+In May of 2008 Golden Valley Mines Ltd. completed a seven hole, 639 metre 
+diamond-drill program (see Table 5), designed to follow up on the surface sampling 
+results and to test geophysical anomalies. Drill Logs are included in Appendix I. 
+ 
+A total of 254 core samples from the seven diamond-drill holes (GCF-08-01 to GCF-
+08-07 inclusive) were collected and analyzed. The locations of the drill collars and 
+the surface projection of the drill hole traces are shown on Figure 6 and Figure 7. 
+ 
+Three priority induced polarization (IP) anomalies and a horizontal loop 
+electromagnetic (HLEM) conductor were selected to test for the projected strike 
+extensions of the two showings in the southeast part of the property, whereas three 
+holes were designed to test for near surface extensions of the Ducros Pyroxenite (Ni-
+Cu-PGE) and Ducros Gold (Au) showings. 
+ 
+
+Table 5: List of diamond-drill hole technical parameters 
+DDH No. UTM - East UTM - North Azimuth Dip Casing (m) Length (m) 
+GCF-08-01   346429   5396158 63.00° -45°     3.30    138.00 
+GCF-08-02   346655   5395708 63.00° -50°    10.20     96.54 
+GCF-08-03   346689   5395725 63.00° -45°    11.90     66.00 
+GCF-08-04   346177   5396384 63.00° -45°     7.22     99.00 
+GCF-08-05   346150   5396386 45.00° -45°     5.00    126.00 
+GCF-08-06   346108   5396335 63.00° -45°     5.25     81.00 
+GCF-08-07   346123   5396367 45.00° -45°     2.00     73.00 
+
+
+
+ Fortin Technical Report 26 
+
+Table 4: Results from 2007 channel sampling program 
+
+Channel Showing 
+Sample 
+Number 
+
+length 
+(m) 
+
+Au 
+(ppm) 
+
+Pt 
+(ppm)
+
+Pd 
+(ppm) 
+
+Cu   
+% 
+
+Ni    
+% 
+
+1 Gold 116751 1.00 0.005 n/a n/a 0.013 0.020
+1 Gold 116752 1.00 <0.005 n/a n/a 0.012 0.038
+1 Gold 116753 1.00 0.013 n/a n/a 0.013 0.039
+1 Gold 116754 1.00 0.009 n/a n/a 0.013 0.041
+1 Gold 116755 1.00 0.026 n/a n/a 0.016 0.033
+1 Gold 116756 1.00 0.049 n/a n/a 0.018 0.033
+1 Gold 116757 1.00 0.011 n/a n/a 0.018 0.030
+2 Gold 116758 0.81 0.041 n/a n/a n/a n/a 
+2 Gold 116759 0.55 0.036 n/a n/a n/a n/a 
+2 Gold 116760 0.39 0.105 n/a n/a n/a n/a 
+2 Gold 116761 0.37 0.054 n/a n/a n/a n/a 
+2 Gold 116762 1.00 0.021 n/a n/a n/a n/a 
+2 Gold 116763 1.00 0.017 n/a n/a n/a n/a 
+2 Gold 116764 1.00 0.011 n/a n/a n/a n/a 
+2 Gold 116765 0.46 0.065 n/a n/a n/a n/a 
+2 Gold 116766 1.13 0.012 n/a n/a n/a n/a 
+2 Gold 116767 0.31 0.014 n/a n/a n/a n/a 
+2 Gold 116768 0.45 0.022 n/a n/a n/a n/a 
+2 Gold 116769 0.42 <0.005 n/a n/a n/a n/a 
+2 Gold 116770 0.90 0.010 n/a n/a n/a n/a 
+2 Gold 116771 0.87 <0.005 n/a n/a n/a n/a 
+2 Gold 116772 0.35 0.019 n/a n/a n/a n/a 
+2 Gold 116773 0.79 0.006 n/a n/a n/a n/a 
+2 Gold 116774 0.55 0.007 n/a n/a n/a n/a 
+2 Gold 116775 0.87 <0.005 n/a n/a n/a n/a 
+2 Gold 116776 0.63 0.005 n/a n/a n/a n/a 
+2 Gold 116777 0.95 0.005 n/a n/a n/a n/a 
+2 Gold 116778 0.97 <0.005 n/a n/a n/a n/a 
+2 Gold 116779 0.38 <0.005 n/a n/a n/a n/a 
+3 Pyroxenite 116780 0.70 0.186 0.459 0.617 1.450 0.129
+3 Pyroxenite  116781 0.77 1.325 0.734 0.688 1.700 0.370
+3 Pyroxenite 116782 0.85 0.556 1.020 0.973 1.600 0.564
+3 Pyroxenite 116783 0.77 0.589 1.115 1.295 1.220 0.698
+3 Pyroxenite 116784 0.72 0.604 0.342 0.592 0.819 0.178
+3 Pyroxenite 116785 0.67 0.225 0.922 0.905 1.590 0.536
+3 Pyroxenite 116786 0.60 0.208 0.517 0.631 0.554 0.383
+
+ 
+DDH GCF-08-01  
+ 
+This drill hole was designed to test an IP anomaly that consisted of a moderate 
+chargeability response associated with a zone of high resistivity.  
+ 
+The drill hole first encountered a unit of gabbro that contained a section of feldspar 
+porphyry between the core interval of 29.36-30.79 metres. A section of andesite 
+followed the gabbro unit. The andesite section contains a felsic dyke between the 
+core interval of 74.11-77.90 metres. The hole ended in a massive, homogeneous unit 
+of medium- to coarse-grained gabbro. 
+ 
+
+
+
+ Fortin Technical Report 27 
+ 
+
+ 
+
+Shears and folds were observed at different points throughout the gabbro units. 
+Weak, moderate and strong biotitization also occurred at different locations 
+throughout the gabbro units. 
+ 
+Traces of fine, disseminated pyrite were observed in the felsic dyke. Within the lower 
+gabbro unit, from the core interval of 95.64-96.02 metres, traces of pyrrhotite and 
+chalcopyrite were recorded within irregular quartz injections. 
+ 
+No significant values of Ni, Cu, Au or Ag were detected in the fifty-three (53) 
+samples that were sent for assay. 
+ 
+DDH GCF-08-02 
+ 
+This drill hole was designed to test an HLEM anomaly with a conductance of 50 
+Siemens. 
+ 
+A wide unit of massive, medium-grained, dark green gabbro that contains a narrow 
+unit of andesite was the first suite of rocks encountered by DDH GCF-08-02. This 
+unit was followed by a 45.83 metres (core-length) of sandstone and argillite 
+containing sections of quartz porphyry. The log reports a wide shear that runs 
+through this sandstone and argillite unit. The shear contains sections of sericitization 
+with intervals of weak hematization. The drill hole was stopped within a unit of 
+massive, fine-grained gabbro.  
+ 
+At many intervals throughout the sandstone and argillite unit, the log records various 
+concentratiobs of pyrrhotite, pyrite and magnetite that range from between 1% to 
+"massive sulphide" category. 
+ 
+No significant values of Ni, Cu, Au or Ag were detected in the twenty-four (24) 
+samples that were sent for assay. 
+ 
+DDH GCF-08-03 
+ 
+This drill hole was designed to test a well defined moderate chargeability IP anomaly. 
+The drill hole was collared 40 metres northeast of DDH GCF-08-02 on the same grid 
+line. 
+ 
+The drill hole intersected 3.07 metres of massive, medium- to fine-grained gabbro 
+before encountering another part of the same wide section of sandstone and argillite 
+that was drilled by DDH GCF-08-02. 
+ 
+The mineralization present in DDH GCF-08-03 ranged from trace disseminated pyrite 
+to 12% fine pyrite. Bands of massive sulphide between 1 to 4 centimetres in core-
+width were observed within the foliations of the rock at some intervals. The drill hole 
+was stopped after entering a unit of massive, fine-grained, dark green gabbro. 
+ 
+No significant values of Ni, Cu, Au or Ag were detected in the twenty-four (24) 
+samples that were sent for assay. 
+ 
+DDH GCF-08-04 
+ 
+This drill hole targeted the geology underlying anomalous gold values encountered in 
+channel samples.  
+
+
+
+ Fortin Technical Report 28 
+ 
+
+ 
+
+ 
+The drill hole intersected a unit of olivine gabbro before entering a wide section of 
+sheared basalt. This section of basalt is intruded by narrow sections of quartz 
+porphyry, quartz-gabbro and gabbro at different intervals. At different locations 
+within the basalt, there are narrow sections containing white quartz veins with traces 
+of pyrrhotite, chalcopyrite and pyrite.  
+ 
+No significant values of Ni, Cu, Au or Ag were detected in the forty (40) samples that 
+were sent for assay. The highest gold value detected was 0.011 g/t Au. 
+ 
+DDH GCF-08-05 
+ 
+This drill hole targeted the geology underlying the Ducros Gold (Au) showing.  
+ 
+The drill hole first encountered olivine-gabbro and then basalt before being stopped 
+within a unit of fine- to medium-grained massive gabbro. The units of olivine-gabbro 
+and basalt show evidence of moderate to strong shearing.  
+ 
+From the core interval of 7.00-14.00 metres, within the olivine gabbro, the 
+mineralization encountered consisted of between 1% to 2% pyrrhotite with traces of 
+pyrite. Seven (7) samples, each one of them being one metre long, from this section 
+of core returned nickel values that ranged from between 1610 ppm Ni to 2210 ppm 
+Ni. The copper values that were coincident with these nickel values ranged from 
+between 138 ppm Cu and 680 ppm Cu.  
+ 
+The highest gold value detected in DDH GCF-08-05 was from a 0.38 metre sample 
+interval that contained a 5mm quartz mass with chalcopyrite that carried 0.171 g/t 
+Au. 
+ 
+DDH GCF-08-06 
+ 
+This drill hole was set up at a point on grid line 100 mE, which is immediately 
+proximate to the Ducros Pyroxenite (Ni-Cu-PGE) showing and was designed to 
+intersect the strong chargeability IP anomaly associated with this showing. 
+ 
+The drill hole first encountered diorite followed by a unit of medium-grained gabbro 
+that graded to a coarse-grained gabbro. The drill hole then intersected a medium-
+grained, olivine gabbro followed by another medium-grained gabbro before ending in 
+a unit of quartz-gabbro.  
+ 
+Mineralization consisting of up to 3% pyrrhotite with trace to 1% chalcopyrite is 
+present within the latter coarse-grained part of the first unit of gabbro and continues 
+into the upper part of the unit of olivine gabbro. The mineralization in the latter part 
+of the unit of olivine-gabbro is made up of trace to 3% pyrrhotite coincident with 
+trace to 1% chalcopyrite before ending as local traces of fine, disseminated 
+pyrrhotite in the second unit of medium-grained gabbro.  
+ 
+Twenty eight (28) samples, each one being 1.5 metres long, from this 42 metre long 
+section of variously mineralized core returned nickel values that ranged from 
+between 739 ppm Ni to 3920 ppm Ni. The copper values that were coincident with 
+these nickel values ranged from between 30 ppm Cu and 4770 ppm Cu.  
+ 
+DDH GCF-08-07 
+
+
+
+ Fortin Technical Report 29 
+ 
+
+ 
+
+ 
+This drill hole targeted the geology underlying the Ducros Pyroxenite (Ni-Cu-PGE) 
+showing. 
+ 
+The log records that the drill hole entered a medium- to fine-grained, dark green, 
+massive gabbro before going through a medium-grained, olivine gabbro. The drill 
+hole continued through a medium-grained massive gabbro and then passed through 
+a unit of quartz-gabbro before being stopped within a unit of massive basalt. 
+ 
+Mineralization consisting of up to 5% pyrrhotite with chalcopyrite that occurs up to 
+2% is present through most of the first gabbro unit and throughout the olivine-
+gabbro unit.  
+ 
+The thirty-three (33) consecutive samples, of varying length, that were taken from 
+this 23.20 metres of mineralized core carried values that ranged from 0.022 g/t Au 
+to 0.404 g/t Au, 344 ppm Cu to 9200 ppm Cu, 654 ppm Ni to 6090 ppm Ni, 0.026 
+ppm Pt and 0.453 ppm Pt as well as 0.023 ppm Pd and 0.404 ppm Pd. 
+ 
+Summary of Results 
+ 
+Hole GCF-08-07 and GCF-08-06 that undercut the pyroxenite showing, yielded 
+weighted average grade results of 1934 ppm Ni and 1061 ppm Cu (from 19.50-61.50 
+m)  over 21.2 metres and 0.4396 ppm Cu, 0.3742 ppm Ni, 0.25 g/t Pt, 0.23 g/t Pd 
+and 0.18 g/t Au over 21.20 m (from 4.0-25.20 m down-hole) over 42.0 metres 
+respectively. No significant gold values were obtained in the holes testing the Ducros 
+Gold Showing; however, anomalous nickel values were interested with an average 
+weighted grade of 0.1794 ppm Ni (from 7.0-14.0 metres). No other notable 
+mineralization was encountered. 
+ 
+The samples from the drill-core confirms the presence of sulphides including 
+anomalous concentrations of nickel (Ni), copper (Cu), platinum (Pt) and palladium 
+(Pd) in drill hole GCF-08-07, and anomalous Ni and Cu in drill holes -05 and GCF-08-
+06. 
+ 
+In all instances, the relationship between sample lengths and mineralization to true 
+thickness is unknown. 
+
+
+
+ Fortin Technical Report 30 
+ 
+
+ 
+
+12.0 SAMPLING METHOD AND APPROACH 
+ 
+Nunavik Nickel Mines Ltd. is a wholly-owned subsidiary of Golden Valley Mines. As of 
+the date of this Report, Nunavik Nickel acquired from Golden Valley Mines a 100% 
+interest in the Fortin Property. Although Nunavik Nickel has done no exploration on 
+the claims, the following section applies to the most recent work on the Property, 
+which was conducted by Golden Valley Mines. Project geologist Denis McNichols of 
+Golden Valley Mines supervised all exploration work and was involved in all aspects 
+of the fieldwork through the duration of the 2004-08 exploration program.  
+ 
+Two sampling programs were undertaken: 1) grab samples were collected in the field 
+to characterize the host rock and approximate metal accumulations in obviously 
+mineralized material, and; 2) selective mineralized drill-core intervals from the 2007 
+diamond-drilling program were collected. The samples were assayed to quantitatively 
+determine elemental concentrations with emphasis on copper, nickel, Platinum Group 
+Elements (PGE) and gold.  
+ 
+According to Mr. Rosatelli, grab-, channel- and core-sampling procedures, security of 
+samples, sample preparation, and sample analyses were conducted in a satisfactory 
+method according to accepted industry standards. In general, intervals to be 
+sampled were established based on visibly mineralized core intervals regardless of 
+degree of strain, alteration, metamorphism or rock type. The maximum length of 
+sample was 1.5 m. Where mineralized zones greater than 1.5 m were encountered, 
+multiple samples were obtained. The shortest sampled interval was 0.21 m. In 
+addition, higher grade intervals within lower grade intersections were individually 
+sampled.  
+ 
+12.1 Grab-channel sampling 
+ 
+Prospecting and collecting of individual rock samples ("grab" sampling) from outcrop 
+or boulders was focused on locating mineralized outcrop or boulders within areas 
+prioritized as being prospective based on historic work. This type of sampling by its 
+nature provides only a characterization of any mineralization found. 
+ 
+The grab samples generally were selected as being representative of either the rock 
+type and/or mineralization present. The samples were relatively easy to obtain and 
+were considered of good quality (Michael P. Rosatelli, pers. comm.). A unique sample 
+number was assigned to each grab sample and recorded on the sample bag, with a 
+corresponding sample tag placed in the bag. The sample sites were labelled in the 
+field with a sample number recorded on orange flagging tape so that the site may be 
+relocated if required. Analytical results for these samples, along with location-
+coordinates and descriptions are included in Section 10. 
+ 
+Samples were sealed in sample bags with plastic tie-straps for shipping to the assay 
+laboratory.  
+ 
+The author is not aware of any sampling or recovery factors that would impact the 
+reliability of results reported from the assayed grab samples. 
+ 
+12.2 Core-sampling 
+ 
+Core from the 2008 Golden Valley Mines Ltd. diamond drill program was logged by 
+D. McNichols of Golden Valley Mines Ltd. Core intervals that required sampling were 
+
+
+
+ Fortin Technical Report 31 
+ 
+
+ 
+
+marked off and tagged, with sample intervals rarely longer then 6 feet. Half of the 
+core was bagged for assay purposes, and the remaining half placed back in the core 
+box with its duplicate sample tag for future reference purposes. The submitted 
+sample included both pieces of core and fines, carefully collected and placed in a 
+plastic bag and sealed. Individual bagged samples were placed in rice shipping bags, 
+secured and dropped-off at the laboratory for analysis.  
+ 
+A total of 254 samples were submitted to ALS Chemex Chimitec in Val-d'Or, Quebec. 
+Samples were analyzed for: 1) gold, using a standard 30 gram fire assay with an AA 
+finish; 2) platinum, palladium, and gold, using a standard 30 gram fire assay with an 
+ICP finish, and; 3) multiple-elements (n=33), using a four-acid, ICP-AES method. 
+ 
+Copies of Certificates with analytical results for these samples are included in 
+Appendix II. 
+ 
+The author is not aware of any drilling, sampling or recovery factors that would 
+impact the reliability of results reported from re-assayed drill core. 
+ 
+ 
+13.0 SAMPLE PREPARATION, ANALYSIS AND SECURITY 
+ 
+The Author has reviewed all the publicly available technical data covering historic 
+exploration work on the Property. Most of the historically reported lithogeochemical 
+sampling was completed on the Property between 1998 and 2002, inclusive. A drill 
+program in 1978 by Brominco Inc. yielded some assays from core samples. The 
+author is of the opinion that the historic data are of good quality; however, no 
+information is available regarding sample preparation or analytical and security 
+procedures that might have been implemented were published as the programs were 
+deemed to be at an early exploration stage by the previous owners, and were 
+obtained prior to the implementation of National Instrument (NI) 43-101 guidelines.  
+ 
+Collection and preparation of the channel, and drill core samples was conducted 
+under the direction of Dennis McNichols of Golden Valley Mines Ltd. Once obtained, 
+all samples were immediately placed in plastic sample bags, tagged and recorded 
+with unique sample numbers and then collected in shipping bags, which were sealed 
+with plastic tie straps and remained sealed until opened by ALS. Upon reception at 
+ALS, the samples were dried, weighed, crushed and pulverized before analysis.  
+the laboratory facility. 
+ 
+Quality Assurance and Quality Control (QAQC) standard operating procedures for 
+lithogeochemical analysis of drill core and surface samples obtained from the 
+Property consisted of the ALS-Chemex internal QA/QC of their sample preparation 
+and assaying, inserting blanks, duplicates and certified standards into the analytical 
+process. The process allows for a determination of the accuracy and reproducibility of 
+assay results. ALS Chemex has attained ISO 9001:2000 registration at all of its 
+North American and Peruvian laboratories as well as the Brisbane, Australia site, with 
+Chile and the rest of Australia actively pursuing registration. Recently, ALS were 
+accredited to ISO 9001:2000 for North America. ISO 9001:2000 requires evidence of 
+a quality management system covering all aspects of our organisation. To ensure 
+compliance with this system regular internal audits are undertaken by ALS staff 
+members specially trained in auditing techniques. In addition, ALS Chemex is 
+currently working towards accreditation to ISO 17025, which provides specific 
+assessment of the laboratories' analytical competence for specific analytical 
+
+
+
+ Fortin Technical Report 32 
+ 
+
+ 
+
+techniques. The combination of the two ISO standards provides clients complete 
+assurance regarding the quality of every aspect of ALS Chemex operations.  
+ 
+ALS-Chemex QA/QC program included the insertion of certified standards that are 
+used at the start of preparation procedure to calibrate the equipment. Blind duplicate 
+samples are used to verify analytical accuracy, and blanks to measure any 
+background contamination in the sample preparation protocol.  
+ 
+The author believes the sampling, sampling preparation, security, and analytical 
+procedures employed during the 2004-2008 channel-sampling and core-sampling 
+programs meets the standards set out in NI-43-101 and is deemed to have been 
+adequate for the level of Property development to date; however, a more rigorous 
+QA/QC program is recommended to support future drilling, surface sampling, and 
+metallurgical testing.  
+ 
+The adequacy of any values reported by previous exploration is unknown as no 
+discussions exists as per sample preparation, security and analytical procedures. 
+ 
+ 
+14.0 DATA VERIFICATION 
+ 
+The author (QP) did not collect independent samples of drill core for verification as it 
+was not deemed necessary since the Property is in the early, grass-roots phase of 
+exploration, no resource has been outlined, and no resource estimate was to be 
+included in this Report. 
+ 
+From the 2004-07 exploration programs, Golden Valley collected 36 channel samples 
+and 254 core samples from seven (7) diamond-drill holes (total of 639 m). The 
+Golden Valley samples confirmed the presence of sulphides, including anomalous 
+concentrations of nickel (Ni), copper (Cu), platinum (Pt) and palladium (Pd) in drill 
+hole GCF-08-07, and anomalous Ni and Cu in drill holes GCF-08-05, -06 and -07.   
+ 
+Independent verification of the results of the 2004-08 sampling was achieved by 
+comparing the results reported by Golden Valley with copies of the original, signed 
+Assay Certificates obtained directly from ALS Chemex in Val-d'Or, QC. The two sets 
+of Assay Certificates were found to be identical. 
+ 
+The author is not aware of any sampling problems that would impact the accuracy 
+and reliability of the original assay results. A review of all the pertinent and available 
+assessment files from the Ministère des Ressources naturelles et de la Faune (MRNF) 
+de Quebec was completed. The author has reviewed the reports containing 
+information on the Fortin Property and believes the information to be accurate.  
+ 
+14.1 Site Visit 
+ 
+John Langton, who is completely independent of Golden Valley Mines Ltd. and of 
+Nunavut Nickel Ltd., and who is a Qualified Person (QP) under the terms of NI 43-
+101, conducted a site visit of the Fortin Property on September 2, 2010 accompanied 
+by Michael P. Rosatelli of Golden Valley Mines Ltd. The visit to the site located and 
+examined the documented mineral occurrences, checked for and confirmed evidence 
+of previous diamond-drilling and lithological sampling, and explored the general 
+landscape and surface features recorded on geological maps and figures published by 
+Golden Valley Mines Ltd. 
+
+
+
+ Fortin Technical Report 33 
+ 
+
+ 
+
+ 
+Mr. Langton confirms that the exploration activity previously reported by Golden 
+Valley to be accurate and reliable. 
+ 
+ 
+15.0 ADJACENT PROPERTIES 
+ 
+At the time of writing, the author was not aware of any other active exploration 
+activities in the immediate area of the Fortin Property. 
+ 
+ 
+16.0 MINERAL PROCESSING AND METALLURGICAL TESTING 
+ 
+Neither processing nor metallurgical testing has been conducted on the Fortin 
+Property. 
+ 
+ 
+17.0 MINERAL RESOURCES AND MINERAL RESERVE ESTIMATION 
+ 
+The Fortin Property does not have any mineral reserve estimation, as the work done 
+on the Property to date has been of an "early exploratory" nature. 
+ 
+ 
+18.0 OTHER RELEVANT DATA AND INFORMATION 
+ 
+The author of this report is not aware of any environment, permitting, legal, title, 
+taxation, socio-political or any other issue that may materially affect the future 
+exploration or mine development on the Fortin Property. 
+ 
+ 
+19.0 INTERPRETATION AND CONCLUSIONS 
+ 
+The Fortin Property is located at the northwestern end of a northwest-trending 
+deformation corridor in the eastern part of the Abitibi Greenstone Belt. The 
+deformation corridor is underlain by metamorphosed mafic volcanic flows and 
+gabbroic intrusions that are overlain by metasedimentary rocks with greywacke, 
+argillite and siltstone protoliths. These rocks have been locally intruded by ultramafic 
+rocks (peridotite, dunite, pyroxenite and gabbro). The entire sequence has been 
+compressed between vast tonalitic and granodioritic plutons that are locally highly 
+metamorphosed to migmatitic gneisses.  
+ 
+Interest in the Property is centred on two mineral showings: 1) the Ducros 
+Pyroxenite showing, and; 2) the Ducros Gold showing (SIGEOM - 
+http://sigeom.mrnf.gouv.qc.ca/) 
+ 
+
+Ducros Pyroxenite Showing: 
+This is a copper-nickel-platinum-palladium (Cu-Ni-PGE) showing, hosted in an 
+ultramafic sill-like intrusion, recently interpreted as a dunite. The dunite host 
+rock is exposed at surface over 24 by 58 metres. A series of well-mineralized 
+gossans, located along the eastern flank of the outcrop, host abundant 
+pyrrhotite and chalcopyrite. 
+ 
+
+http://sigeom.mrnf.gouv.qc.ca/
+
+
+ Fortin Technical Report 34 
+ 
+
+ 
+
+Five (5) grab samples were collected in the Autumn of 2004 from the area of 
+the Ducros Pyroxenite Showing as part of a Property due-diligence exercise. 
+The best results was from Sample 116101, which yielded 0.67 g/t Au, 1.46 % 
+Cu, 0.49% Ni, 0.86 g/t Pt, and 1.79 g/t Pd. The southern part of the exposed 
+pyroxenite body was channel sampled in August 2007. The 5.08 m channel 
+yielded 0.55 g/t Au, 1.30% Cu, 0.42% Ni, 0.75 g/t Pt, and 0.83 g/t Pd.  
+
+ 
+Ducros Gold Showing: 
+This showing is 75 metres to the northeast of the pyroxenite body, within a 
+well-developed, northwest-striking, high-strain zone, exposed over 15 by 60 
+metre area. The mineralized occurrence consists of wide, lenticular quartz 
+veins, slightly oblique to the main foliation, with locally well-mineralized (pyrite 
+± chalcopyrite) wall-rock contacts.  
+ 
+Six (6) grab samples were collected in the Autumn of 2004 from the area of the 
+gold showing as part of a Property due-diligence exercise.. The best result was 
+4.0 g/t Au from sample 116110. Two (2) channels were cut across the gold 
+showing in August of 2007 yielded slightly anomalous gold concentrations. The 
+best result was 0.11 g/t Au over 0.39 m, from sample 116760.  
+ 
+
+A seven (7) hole, 639 m diamond-drilling program, designed to follow up on the 
+surface sampling results and to test IP anomalies, was completed in 2008. Hole GCF-
+08-07, which undercut the pyroxenite showing, yielded the best results of 0.17g/t 
+Au, 0.41% Cu, 0.35 % Ni, 0.23 g/t Pt, and 0.25 g/t Pd over 23.20 m (from 2.0 m to 
+25.20 m down-hole). Other than a slightly anomalous section of 0.18% Ni, from 7.0 
+to 14.0 m in Hole GCF-08-05, no other notable mineralization was encountered.  
+ 
+The exploration programs carried out by Golden Valley were well thought out and 
+conducted in a professional manner. Drilling was conducted by reputable contactors.  
+The core was logged, split and sampled properly. The author is of the opinion that 
+the analytical work performed by ALS-Chemex Laboratories was accurate and 
+suitable for the Project. All samples were analyzed using appropriate assay 
+procedures of the time. The drill logging and assay results were correctly compiled 
+onto cross-sections. 
+ 
+In the author's opinion, the work done on the Property to date has been adequate in 
+demonstrating the presence of anomalous gold, copper, nickel and PGE 
+mineralization on the Property. The gold-mineralized areas are represented by a 
+continuous series of surface channel samples that adequately define the gold bearing 
+host rock cut by the channels. The copper-, nickel- and PGE-mineralized areas are 
+represented by a continuous series of drill core samples that adequately define the 
+mineralized intervals cut by the drill holes. There was no attempt to define the 
+overall length, width, depth or continuity of the mineralization on surface or 
+underground. The data collected by Nunavik Nickel is consistent and reliable, and the 
+author is not aware of any uncertainties related to these data.  
+ 
+The author was commissioned by Nunavik Nickel to prepare a NI 43-101 compliant 
+Technical Report on Exploration for the Fortin Property including a description and 
+evaluation of historical exploration work. This objective has been met.  The historical 
+data was found to be collected and documented by appropriate techniques and 
+verified by modern standards.    
+ 
+
+
+
+ Fortin Technical Report 35 
+ 
+
+ 
+
+Based on the results from the 2004-2008 exploration work by Golden Valley Mines 
+Ltd., which corroborated and expanded on known Cu-Ni-PGE and gold mineralization 
+around the two Ducros showings, the new dunite-intrusion model established for the 
+Ducros Pyroxenite showing, and the potential for additional mineralization along 
+strike from these zones, further work is recommended on the Property. 
+ 
+ 
+20.0 RECOMMENDATIONS 
+ 
+Based on the results from the 2004-07 exploration programs, the recognition of 
+ultramafic (dunite) nature of the Fortin Sill, the known Cu-Ni-PGE and gold 
+mineralization showings, and the untested induced polarization (IP) anomalies on the 
+Property, the following further work is recommended on the Property:  
+ 
+
+1. The area around the exposed parts of the Fortin sill (Ducros Pyroxenite 
+showing) should be bulldozed (if necessary) and stripped;  
+
+2. In order to classify and thereby better determine the mineralization model, 
+the Fortin Sill should be investigated to determine its size, shape, thickness, 
+layering (if any), texture (cumulate?, mesocumulate?, adcumulate?), the 
+nature of its margins (poikilitic?, recrystallized?), grain size(s) (parent and 
+margins), geometry within the local stratigraphy, and chemical composition 
+(whole rock, MgO content of parent and margin, modal olivine); 
+
+3. Detailed mapping, geophysical interpretation and, if necessary, diamond-
+drilling should be employed to determine the extent of the Fortin Sill on the 
+Property; 
+
+4. Following its delineation, Pionjar, Winkie and diamond-drilling should be used 
+to systematically sample the sill and its contact zone in the surrounding host 
+rocks, over its entire extent. Emphasis should be placed on investigating the 
+source of the IP conductors both within and at the margins of the ultramafic 
+unit; 
+
+5. The area around the gold occurrence should be bulldozed (if necessary) and 
+stripped, and a detailed channel sampling of the exposed area instigated;  
+
+6. Ground prospecting in conjunction with detailed, time-domain, ground 
+geophysical surveys are recommended in order to help identify favourable 
+areas for structurally controlled quartz vein-hosted gold mineralization along 
+the shear zone that is exposed at the known occurrence. If warranted, follow-
+up geological mapping, prospecting and diamond drilling should then be 
+completed; 
+
+7. Historic diamond-drilling by Brominco (1978) targeted a strong geophysical 
+anomaly and coincident B-horizon soil anomaly in the northeastern part of the 
+Property, intersected anomalous concentrations of Cu, Zn, Ni and Au. It is 
+recommended that this area be re-investigated; 
+
+8. At the moment no computerized database exists for the historical data 
+completed on the Property. In order to better understand the geology, 
+mineralization (type, form and distribution), alteration (type and distribution) 
+and geometry (i.e., shape and size) of the mineralized features, it is strongly 
+recommended that a comprehensive, digital, 3D geological model and 
+database be assembled. The purpose of this work would be used to formulate 
+a model on the geological and mineralizing controls for future drill-testing 
+along the predicted sub-surface and along-strike locations of mineralization. 
+
+ 
+
+
+
+ Fortin Technical Report 36 
+ 
+
+ 
+
+The proposed exploration program would require a budget of $276,000. If results 
+warrant, a Phase II $360,000 follow-up diamond-drilling program, utilizing large 
+diameter coring, is recommended. 
+
+
+
+ Fortin Technical Report 37 
+ 
+
+ 
+
+20.1 Budget for Proposed Exploration 
+ 
+Phase I   
+
+Bulldozing and stripping  5,000 
+
+Mineralogical studies & analytical 
+testing: Fortin Sill 
+
+Geologist - 2 weeks (with summary 
+Report) 8,000
+
+Determine extent of the Fortin Sill  Geologist with tech support 5,000 
+
+Grid & detailed geophysical survey - 
+Fortin Sill Survey, geologist & tech support 35,000 
+
+Geology & geophysical surveys: Gold 
+showing  Survey, geologist & tech support 5,000 
+
+ Pionjar, Winkie and diamond-drilling 
+on Fortin Sill  25,000 
+
+Re-investigate northeast historic 
+intersections Geologist with tech support 8,000
+
+Diamond Drilling  $120/m all in; 1000m  120,000
+
+Diamond Drill hole Database (Gemcom 
+®)  18,000 
+
+Assaying at $30 / sample ~200 
+samples  6,000 
+
+Tech support 20 days at $250/day with 
+plotting  5,000 
+
+Sub-Total  240,000
+
+15% Management Fees  36,000
+ Total $276,000
+   
+Phase II   
+
+Contingent upon the results of the 
+Phase I program, should include 
+approximately 3000 metres of 
+diamond-drilling, in order to continue 
+the evaluation of the Property. $120/m all in; 3000m  $360,000
+
+ 
+ 
+
+
+
+ Fortin Technical Report 38 
+ 
+
+ 
+
+21.0 REFERENCES 
+ 
+21.1 References by Author Name 
+ 
+Assad, J.R., Marleau, R.A. and Favini, G., 1980 (DPV671). Prévisions de mineral 
+Cupro-Zincifère dans le nord-ouest Québecois: cartographie à l'échelle de 1:100,000.  
+Ministere de l'Energie et des Ressources, Gouvernement du Quebec. 
+ 
+Bannerman, H.M., 1935. Summary Report on the Regional geology around the Lac 
+Parent area. Quebec Department/Bureau of Mines (RASM 1935-C1, RP108, 
+RP108-A). 
+ 
+Barrie, C.Q., 1987 (GM44380) Report on an Airborne Magnetic and VLF-EM Survey, 
+Ducros Twp, Abitibi Region, Quebec, for Exploration Cardumont Inc., by Terraquest 
+Ltd., Toronto, Canada. 
+ 
+Beauregard A. J ., Khobzi, A. and Gaudreault, D. 1986. Evaluation report on the 
+Ducros property, Ducros Township, Northwestern Quebec, Geologica Consultants 
+Group.  
+ 
+Berger, J., 2000 (GM59306) Rapport d'Evaluation Properiétés Bartouille Nord et 
+Ducros, Abitibi-Est, Quebec. Group-conseil Cygnus Consulting. 
+ 
+Berube, M., 1978 (GM34257) Diamond-drill logs (6 holes) and Geophysical survey 
+(EM) map, Ducros Twp., Brominco Ltd. 
+ 
+Billington, L.G. 1984. Geological Review of the Agnew Nickel Deposit, Western 
+Australia; in D.L. Buchanan and  M.J. Jones eds. "Sulphide Deposits in Mafic and 
+Ultramafic Rocks", Inst.of Mining and Metallurgy, London, pp 43-54; and in Geochim 
+et Cosmochim Acta, v.58, pp 1252-1260.  
+ 
+Campbell, R.A. 1986 (GM43618). Report on the airborne geophysical survey by H. 
+Ferderber Geophysics, Ducros Township, Que., Abitibi Resources Ltd.  
+ 
+DeChavigny, P., 1987 (GM47268) Atlas Sulphur and Iron Company, Geological 
+Report, 1987 Exploration Campaign, Ducros Property, Abitibi Resources Ltd. 
+ 
+Desbiens, R. and Gaucher, E., 1988 (GM46893) Magnetometer-Gradiometric and 
+Induced Polarization Surveys, Ducros Township by Geosig Inc., for Abitibi Resources 
+Ltd. 
+ 
+Desbiens, R. and Gaucher, E., 1988 (GM46894) Magnetometer-Gradiometric and 
+Induced Polarization Surveys, Ducros Township by Geosig Inc., for Exploration 
+Cardumont Inc. 
+ 
+Donaldson, M.J., 1981. Redistribution of ore elements during serpentinization and 
+talc-carbonate alteration of some Archean dunites, Western Australia. Economic 
+Geology 1981 v. 76, p. 1698-1713 
+ 
+Foote, F.W., 1953 (GM02377). Atlas Sulphur & Iron Co. Ltd., Geological Report, 
+Delestres & Ducros Townships, Quebec. 
+ 
+
+
+
+ Fortin Technical Report 39 
+ 
+
+ 
+
+Fortin, D. and Fortin, C., 2002 (GM59361) Projet Ducros Partie Sud, 2001-A2-310, 
+Rapport de Prospection. 
+ 
+Fortin, N. and Fortin, C., 2002 (GM59363) Projet Ducros Partie Sud, 2000-A2-306, 
+Rapport de Prospection. 
+ 
+Gaucher, E., 1987 (GM45155) Geophysical Evaluation of the Ducros Property, 
+Ducros Twp., Quebec, by Edwin Gaucher & Associates Inc., for Abitibi Resources Ltd. 
+ 
+Gaucher, E., 1987 (GM47267) Evaluation Report of the Ducros Property, Ducros 
+Twp., Abitibi, by Geosig Inc., for Abitibi Resources Ltd. 
+ 
+Hoatson, D.M., Jaireth, S. and Jaques, A.L., 2006. Nickel sulfide deposits in 
+Australia: Characteristics, resources, and potential. Ore Deposit Reviews, v. 29, 
+issues 3-4, p. 177-241. 
+ 
+Husson, B., 1980 (GM33191). Reconnaissance Geologique et Geochimique de 
+l'Option Berube, Canton Ducros, Compte Abitibi, Bromonc Ltd. 
+ 
+Lambert, G., 2005 (GM62129) Propriété Ducros Prospect, Rapport sommaire sur 
+des travaux geophysiques au sol: Levés Magnétiques et EM MaxMin I. Golden Valley 
+Mines Ltd. 
+ 
+Lambert, G., 2006 (GM62408) Propriété Ducros Prospect, Rapport sommaire sur 
+des travaux geophysiques au sol: Levés de Polarisation Provoquée. Golden Valley 
+Mines Ltd. 
+ 
+Lapointe, D., 2000-02 (GM59364) Projet Ducros 2000-A2-306 Rapport 
+D'Exploration, NTS 32C/11, Canton Ducros. 
+ 
+Larouche, C., 1980 (GM42864) Rapport sur les traveaux d'exploration, Ducros Twp, 
+Range VIII and IX. Brominco Inc.  
+ 
+Marston, R.J., Groves, D.I., Hudson, D.R. and Ross, J.R., 1981. Nickel sulphide 
+deposits in Western Australia: a review. Economic Geology, v. 76, pp. 1330-1363. 
+ 
+Mongeau, C., 1977 (GM33191) Rapport des Traveaux, Canton Ducros, Brominco 
+Inc. 
+ 
+Plante, L., 2006. Interpretation of Geophysical Data – Mag, HEM and IP for Golden 
+Valley Mines Ltd., Ducros JV Prospect, Ducros Township, QC, NTS 32C11. Internal 
+Golden Valley Mines document, GZZ-2006-DUC. 
+ 
+Theberge, J., 1998 (GM57864) Site visit Report, Ducros Property. 
+ 
+Thurston, P.C. and Franconi, A., 1984 (Map 2484/DV83-16) Lithostratigraphic Map 
+of the Abitibi Sub province (1:500,000). Ontario Geological Survey/Ministere de 
+l'Energie et des Ressources, Quebec: catalogued as 'Map2484' in Ontario and 'DV83-
+16' in Quebec, Ontario Ministry of Natural Resources.  
+
+
+
+ Fortin Technical Report 40 
+ 
+
+ 
+
+21.2 References by Report Number 
+ 
+DP237 (1974) Airborne Input Mark IV Survey, Bartouille Area, Quebec Department 
+of Natural Resources. 
+ 
+DP728 (Keating, P., 1974) Compilation d'Anomalies Electromagnetiques de Type 
+Input (1:250,000). 
+ 
+DP764 (1971) Leve Arien par Input Mark IV, Questor Surveys Ltd., Ministere de 
+l'Energie et des Ressources, Gouvernement du Quebec. 
+ 
+DPV671 (Assad, J.R., Marleau, R.A. and Favini, G., 1980). Prévisions de mineral 
+Cupro-Zincifère dans le nord-ouest Québecois: cartographie à l'échelle de 1:100,000.  
+Ministere de l'Energie et des Ressources, Gouvernement du Quebec. 
+ 
+DV83-16 (Thurston, P.C. and Franconi, A., 1984) Carte Lithostratigraphique de la 
+Sous-Province de l'Abitibi (1:500,000). Gouvernement du Québec, Ministere de 
+l'Energie et des Ressources du Quebec. 
+ 
+GM02377 (Foote, F.W., 1953). Atlas Sulphur & Iron Co. Ltd., Geological Report, 
+Delestres & Ducros Townships, Quebec. 
+ 
+GM07746-A (R.M. Dagenais, 1959) Valray Explorations Ltd., Ducros Township, 
+Quebec, 22 DDH logs with assay results. 
+  
+GM07746-B Valray Explorations Ltd., Ducros Township, Quebec, 6 DDH logs with 
+assay results.  
+ 
+GM14683 Geophysical Survey of Canada (1948) - Airborne geophysical magnetic 
+survey of Lac Parent area GSC Map 94-G  
+ 
+GM17792 Freeport Sulphur 1968. Rough sketch map (1 inch = 0.5 mile) showing 
+geological contacts, diamond-drill hole locations and EM conductors.  
+ 
+GM33191 Includes: 1977 (Mongeau, C.) Rapport des Traveaux, Canton Ducros, 
+Brominco Inc., and; 1980 (Husson, B.) Reconnaissance Geologique et Geochimique 
+de l'Option Berube, Canton Ducros, Compte Abitibi, Bromonc Ltd. 
+ 
+GM34257 (Berube, M., 1978) Diamond-drill logs (6 holes) and Geophysical survey 
+(EM) map, Ducros Twp., Brominco Ltd. 
+ 
+GM42864 (Larouche, C., 1980) Rapport sur les traveaux d'exploration, Ducros Twp, 
+Range VIII and IX. Brominco Inc.  
+ 
+GM43618 (Campbell, R.A., 1986) Report on the Airborne Geophysical Survey, 
+Abitibi Resources Ltd., Ducros Township, Que., Ferderber Geophysics Ltd. 
+ 
+GM44380 (Barrie, C.Q., 1987) Report on an Airborne Magnetic and VLF-EM Survey, 
+Ducros Twp, Abitibi Region, Quebec, for Exploration Cardumont Inc., by Terraquest 
+Ltd., Toronto, Canada. 
+ 
+GM45155 (Gaucher, E., 1987) Geophysical Evaluation of the Ducros Property, 
+Ducros Twp., Quebec, by Edwin Gaucher & Associates Inc., for Abitibi Resources Ltd. 
+
+
+
+ Fortin Technical Report 41 
+ 
+
+ 
+
+ 
+GM46893 (Desbiens, R. and Gaucher, E., 1988) Magnetometer-Gradiometric and 
+Induced Polarization Surveys, Ducros Township by Geosig Inc., for Abitibi Resources 
+Ltd. 
+ 
+GM46894 (Desbiens, R. and Gaucher, E., 1988) Magnetometer-Gradiometric and 
+Induced Polarization Surveys, Ducros Township by Geosig Inc., for Exploration 
+Cardumont Inc. 
+ 
+GM47267 (Gaucher, E., 1987) Evaluation Report of the Ducros Property, Ducros 
+Twp., Abitibi, by Geosig Inc., for Abitibi Resources Ltd. 
+ 
+GM57864 (Theberge, J., 1998) Site visit Report, Ducros Property. 
+ 
+GM58113 (Fortin, C. and Fortin, D., 2000) Lithochemistry sample locations and 
+assay results. 
+ 
+GM58297 (Fortin, C. and Fortin, D., 2000) Lithochemistry sample locations and 
+assay results. 
+ 
+GM59306 (Berger, J., 2000) Rapport d'Evaluation Properiétés Bartouille Nord et 
+Ducros, Abitibi-Est, Quebec. Group-conseil Cygnus Consulting. 
+ 
+GM59361 (Fortin, D. and Fortin, C., 2002) Projet Ducros Partie Sud, 2001-A2-310, 
+Rapport de Prospection. 
+ 
+GM59363 (Fortin, N. and Fortin, C., 2002) Projet Ducros Partie Sud, 2000-A2-306, 
+Rapport de Prospection. 
+ 
+GM59364 (Lapointe, D., 2000-02) Projet Ducros 2000-A2-306 Rapport 
+D'Exploration, NTS 32C/11, Canton Ducros. 
+ 
+GM62129 (Lambert, G., 2005) Propriété Ducros Prospect, Rapport sommaire sur 
+des travaux geophysiques au sol: Levés Magnétiques et EM MaxMin I. Golden Valley 
+Mines Ltd. 
+ 
+GM62408 (Lambert, G., 2006) Propriété Ducros Prospect, Rapport sommaire sur 
+des travaux geophysiques au sol: Levés de Polarisation Provoquée. Golden Valley 
+Mines Ltd. 
+ 
+Map 2484 (Thurston, P.C. and Franconi, A., 1984) Lithostratigraphic Map of the 
+Abitibi Sub province (1:500,000). Ontario Geological Survey/Ministere de l'Energie et 
+des Ressources, Quebec: catalogued as 'Map2484' in Ontario and 'DV83-16' in 
+Quebec, Ontario Ministry of Natural Resources.  
+ 
+RP 108 (Bannerman, H.M., 1935). Advance Report on the Josselin-Delestres Map 
+Area : Abitibi County, 1935. 
+
+
+
+                     Fortin Technical Report 42 
+ 
+
+ 
+
+CERTIFICATE OF QUALIFICATION: JOHN LANGTON 
+ 
+
+I, John Langton, M.Sc., P. Geo., of 1748 Sullivan Rd, Val-d'Or, Québec (J9P7H1) 
+do hereby certify that: 
+1. This Certificate applies to "National Instrument 43-101 Technical Report, Fortin 
+
+Prospect, Ducros Township, Quebec, NTS 32C/11" dated March 15, 2011; 
+2. I graduated from the University of New Brunswick in 1985 with a B.Sc. in 
+
+Geology and from Queen's University, Kingston in 1993 with a M.Sc. in Geology, 
+and I have practised my profession continuously since that time; 
+
+3. I am currently working and living in Quebec and I am a Professional Geologist 
+currently licensed by the Ordre des géologues du Québec (License 1231); the 
+Association of Professional Engineers and Geoscientists of New Brunswick 
+(Licence M5467), and; the Association of Professional Geoscientists of Ontario 
+(Licence 1716); 
+
+4. I have worked as a field geologist for 24 years. I have knowledge and experience 
+with regard to  a number of mineral deposit types - including 20 years of 
+sulphide and base-metal experience - and with the procedures involved in 
+exploring for base-metals, and the preparation of reports relating to them; 
+
+5. I have read the definition of "qualified person" set out in the National Instrument 
+43-101 and declare that I fulfil the requirements to be an independent qualified 
+person for the purposes of NI 43-101;  
+
+6. I have been retained by Nunavik Nickel Mines Ltd. (wholly owned subsidiary of 
+Golden Valley Mines Ltd.) a body corporate having a registered office at 152 
+chemin de la Mine École, Val-d'Or, QC, J9P 7B6, as a contract/consulting 
+geologist, and not as an employee; 
+
+7. I have no prior involvement with Nunavik Nickel Mines Ltd., nor with the Property 
+that is the subject of this Report; 
+
+8. I have prepared and take responsibility for all sections of this Report and 
+personally visited the site on September 2, 2010;  
+
+9. I have no personal knowledge, as of the date of this certificate, of any material 
+fact or change, which is not reflected in this Report; 
+
+10. I am "independent" of Golden Valley Mines Ltd. and Nunavik Nickel Mines Ltd. 
+with respect to the conditions defined in Section 1.4 NI 43-101. Namely: (i) I 
+have neither affiliation nor am I at present under an agreement, arrangement or 
+understanding, nor do I expect to become an insider, associate, affiliated entity 
+or employee of Golden Valley Mines Ltd. or Nunavik Nickel Mines Ltd; (ii) I 
+neither hold shares of Golden Valley Mines Ltd. or Nunavik Nickel Mines Ltd., 
+and; (iii) I neither have received the majority of my income in the three years 
+proceeding the date of the writing of this Technical Report from Golden Valley 
+Mines Ltd. or Nunavik Nickel Mines Ltd; 
+
+11. I have read NI 43-101 and Form 43-101F1 and have prepared the technical 
+Report in compliance with them and in conformity with generally accepted 
+Canadian mining industry practice. As of the date of the certificate, to the best of 
+my knowledge, information and belief, this Report contains all scientific and 
+technical information that is required to be disclosed to make this Technical 
+Report not misleading. 
+
+ 
+DATED this 15th Day of March, 2011 
+
+  
+(Signed) John P. Langton, M.Sc., P. Geo., 
+ 
+
+ 
+
+
+
+                     Fortin Technical Report  
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX I 
+ 
+
+Logs for Drill holes GCF-08-01 to GCF-08-07 inclusive    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV  2009-04-20 
+
+DDH : GCF-08-01
+Claims title : 5224861
+Township  : Ducros
+Range  : IX
+Lot  : 69
+
+Section  : 
+Level  : 
+Work place : 
+
+Drilled by  : Forage Orbit Garant Inc. From  : 2008-05-10 To : 2008-05-11 
+Described by  : Denis McNichols Description date : 2008-10-29 
+
+  Collar  
+
+Core size : Carotte BQ Cemented : No Stored : Yes
+
+  Remarks  
+Target: Moderate chargeability anomaly associated to a resistivity high.
+Source:
+
+Azimuth : 63.00°
+Plunge : -45.00°
+Length : 138.00 m
+
+Longitude (East)
+Latitude (North)
+Elevation
+
+UTM (nad 83)
+
+346429.0
+5396158.0
+0.0
+
+Grille locale
+
+400
+570
+0
+
+  Down hole survey  
+Type Depth Azimuth Plunge Invalid
+
+Acide 102.00 m  -43.00° No
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-01 Page :  2 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+0.00 3.30 OVB
+Overburden
+ 
+
+3.30 47.60 I3A
+Gabbro
+- mafic intrusive rock
+- medium-grained
+- medium-green
+- in part massive, in part sheared
+- local biotitization
+- no reaction to HCl
+- 2-5% of quartz +/- calcite in foliation, local in all directions
+- not mineralized
+- not magnetic
+SPECIFICS
+- 6.66-6.74: same quartzo-feldspatic material as in the fold. no sulphides
+- 10.43-10.66: same, mixed with gabbro. traces of fuschite, no sulphides
+- 18.02-18.15: irregular grey quartz injection with 1% pyrrhotite and traces of
+chalcopyrite at borders
+- 43.49-44.13: 7% small white quartz vein in the foliation. Local traces of
+chalcopyrite and pyrite in quartz and hostrock.
+
+6.51 6.90 814844 0.39 83 135   <0.005 <0.5
+
+6.53 6.61 FLD
+Fold 
+- small nose of fold
+- circular foliation
+- injected by quartzo-feldspatic material
+- no sulphides associated
+
+7.20 14.70 CIS
+Sheared 60°
+- moderate shearing
+- foliation at 60°
+- 1-2% quarzt +/- calcite in the foliation
+- no mineralization associated
+
+8.85 9.44 814845 0.59 82 16   <0.005 <0.5
+9.44 10.43 814846 0.99 92 62   <0.005 <0.5
+10.43 10.72 814847 0.29 70 20   0.005 <0.5
+10.72 12.00 814848 1.28 112 158   <0.005 <0.5
+12.00 13.50 814849 1.50 120 128   0.010 <0.5
+13.50 15.00 814850 1.50 115 106   0.013 <0.5
+
+14.70 14.75 FLD
+Fold 
+- small fold
+- circular structure of the foliation
+- in the shear zone
+
+14.75 20.10 CIS
+Sheared 60°
+- moderate to weak foliation
+- foliation at 60°
+- 5% quartz +/- calcite in the foliation
+- no mineralization associated
+
+17.95 18.38 814851 0.43 107 120   0.006 <0.5
+18.38 18.98 814852 0.60 130 88   0.005 <0.5
+18.98 20.18 814853 1.20 117 143   <0.005 <0.5
+24.00 25.50 814854 1.50 131 84   <0.005 <0.5
+25.50 27.00 814855 1.50 137 83   <0.005 <0.5
+27.00 28.50 814856 1.50 127 84   <0.005 <0.5
+
+29.36 30.79 FP
+Feldspar porphyry 60°
+- intermediate intrusive rock
+- light brown- weakly biotitized, which gives the colour
+- 5% of feldspar up to 1.5 mm
+- aphyric groundmass
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-01 Page :  3 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+- not mineralized
+- not magnetic
+- contacts at 60°
+
+32.30 49.48 CIS
+Sheared 50°
+- moderate to local strong shearing
+- foliation at 40°
+- local weak biotitization associated
+- only odd sulphides
+
+33.00 34.50 814857 1.50 122 106   <0.005 <0.5
+36.00 37.50 814858 1.50 118 88   <0.005 0.5
+40.65 41.88 814859 1.23 159 291   0.012 <0.5
+41.88 42.85 814860 0.97 308 335   0.012 0.5
+
+42.04 45.28 Bo+
+Biotitization Strong
+- strong to moderate biotitization gives brown colour to the rock
+- overprint primary textures
+- in the core of the shearing
+
+42.85 43.49 814861 0.64 239 211   0.011 <0.5
+43.49 44.17 814862 0.68 167 916   0.025 <0.5
+44.17 45.47 814863 1.30 130 168   <0.005 <0.5
+45.47 46.10 814864 0.63 47 195   0.013 <0.5
+
+47.60 95.15 V2J
+Andesite
+- intermediate volcanic rock
+- aphyric
+- medium-green to brown
+- massive before 78m
+- after 78, primary textures overprinted by shearing
+- in large part biotitized (sub-level)
+- local traces of fuschite
+- not mineralized
+- not magnetic
+- 95.06-95.09: quartz vein with traces of pyrrhotite
+
+50.10 51.00 814865 0.90 125 115   <0.005 <0.5
+51.00 51.71 814866 0.71 165 305   <0.005 <0.5
+51.71 52.28 814867 0.57 142 234   0.005 <0.5
+52.28 53.35 814868 1.07 300 664   0.012 <0.5
+53.35 54.00 814869 0.65 169 648   0.011 <0.5
+54.00 54.82 814870 0.82 141 135   0.005 <0.5
+54.82 56.19 814871 1.37 170 103   <0.005 <0.5
+56.19 57.10 814872 0.91 341 125   <0.005 <0.5
+57.10 58.13 814873 1.03 211 144   <0.005 <0.5
+58.13 58.92 814874 0.79 280 175   <0.005 <0.5
+58.92 59.46 814875 0.54 380 111   <0.005 <0.5
+63.33 63.60 814876 0.27 228 105   0.005 0.5
+63.60 65.59 814877 1.99 164 125   <0.005 <0.5
+
+68.50 70.35 I3A
+Gabbro
+- mafic intrusive rock
+- medium-grained
+- medium-dark green
+- massive
+- not altered
+- not mineralized
+- not magnetic
+- upper contact 63°, lower broken
+
+69.00 70.25 814878 1.25 376 193   0.009 <0.5
+70.25 71.25 814879 1.00 220 202   0.007 <0.5
+
+70.35 71.51 Bo
+Biotitization
+- moderate biotitization light brown in color
+- no mineralization associated
+
+71.25 71.72 814880 0.47 342 151   0.005 <0.5
+
+74.11 77.90 I1
+Felsic dike 70°
+- felsic intrusive rock
+- light grey
+- fine-grained
+- composed of quartz and feldspar with up to 2% of mafic
+- only very weak sericitization
+- odd traces of fine-grained disseminated pyrite
+- not magnetic
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-01 Page :  4 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+- contacts at 70°
+78.82 93.52 CIS
+
+Sheared 55°
+- moderate to strong shearing
+- foliation at 55°
+- only few, small quartz veins in the foliation
+- not mineralized
+
+79.50 81.00 814881 1.50 582 93   0.007 <0.5
+
+80.20 87.70 Bo-
+Biotitization weak
+- irregular and local biotitization
+- weak to strong
+- not always present
+- local traces of fuschite
+- no mineralization associated
+
+81.00 82.50 814882 1.50 678 93   0.006 <0.5
+82.50 84.00 814883 1.50 622 118   0.010 <0.5
+84.00 85.50 814884 1.50 524 93   0.012 <0.5
+85.50 87.00 814885 1.50 470 74   0.010 <0.5
+87.00 88.50 814886 1.50 533 80   0.005 <0.5
+
+87.70 94.25 Bo
+Biotitization
+- moderate to strong biotitization
+- very variable
+- could be sediments?
+
+88.50 90.00 814887 1.50 287 95   0.008 <0.5
+90.00 91.50 814888 1.50 390 59   <0.005 <0.5
+91.50 93.00 814889 1.50 526 28   <0.005 <0.5
+93.00 94.18 814890 1.18 552 29   0.006 <0.5
+
+93.52 94.03 FLD
+Fold 
+- 4 different folds
+- foliation form circular patterns
+- fuschite in the folds
+
+94.03 95.15 CIS
+Sheared 55°
+- same shear zone as before (cut to the core of the folds)
+- foliation at 55°
+
+94.18 95.61 814891 1.43 342 15   <0.005 <0.5
+
+95.15 102.00 I3A
+Gabbro
+- mafic intrusive rock
+- medium to coarse-grained
+- dark green
+- massive and homogeneous
+- not altered
+- not mineralized
+- not magnetic
+- contact at 60°
+- 95.64-96.02: irregular quartz injection (65%) with odd traces of pyrrhotite and
+chalcopyrite
+
+95.61 96.03 814892 0.42 58 64   <0.005 <0.5
+96.03 96.77 814893 0.74 95 43   0.005 <0.5
+96.77 97.66 814894 0.89 125 60   0.006 <0.5
+97.66 98.56 814895 0.90 115 66   0.007 <0.5
+100.44 101.59 814896 1.15 108 103   0.010 <0.5
+
+138.00     DDH end
+Number of samples :   53 
+Number of samples QAQC :   0 
+Total sampled length :  56.27
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV  2009-04-20 
+
+DDH : GCF-08-02
+Claims title : 5224862
+Township  : Ducros
+Range  : IX
+Lot  : 70
+
+Section  : 
+Level  : 
+Work place : 
+
+Drilled by  : Forage Orbit Garant inc. From  : 2008-05-11 To : 2008-05-12 
+Described by  : Denis McNichols Description date : 2008-10-31 
+
+  Collar  
+
+Core size : Carotte BQ Cemented : No Stored : Yes
+
+  Remarks  
+Target: Max-Min anomaly with a conductance of 50 Siemens.
+Source:
+
+Azimuth : 63.00°
+Plunge : -50.00°
+Length : 96.54 m
+
+Longitude (East)
+Latitude (North)
+Elevation
+
+UTM (nad 83)
+
+346655.0
+5395708.0
+0.0
+
+Grille locale
+
+900
+570
+0
+
+  Down hole survey  
+Type Depth Azimuth Plunge Invalid
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-02 Page :  2 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+0.00 10.20 OVB
+Overburden
+ 
+
+10.20 49.95 I3A
+Gabbro
+- mafic intrusive rock
+- medium-grained
+- dark green
+- massive and homogeneous
+- not altered
+- groundmass does not react to HCl
+- 1% of very fine calcite veinlets in all directions
+- not mineralized
+- not magnetic
+- Lower contact approximate and hard to define
+
+33.81 36.22 V2J
+Andesite
+- intermediate volcanic rock
+- aphyric
+- medium-brown
+- weak to moderate foliation
+- piece of andesite/basalt stock between 2 gabbro
+- primary texture overprinted by alteration and foliation
+- weak to moderate biotitization of the groundmass
+- not mineralized
+- not magnetic
+- contacts not sharp, can't be measured
+
+49.95 95.78 S1; S6
+Sandstone; Argillite
+- fine-grained sedimentary rock?
+- could be volcanic?
+- variable color (with alteration)
+- primary textures overprinted by the alteration and the strong shearing
+- bedding and foliation at 70°
+- all altered, but very variable
+- strongly mineralized (pyrite and pyrrhotite)
+- moderate magnetic where pyrrhotite is present
+- strongly magnetic 49.95-58.5m due to magnetite (disseminated and/or in
+laminations)
+- rest not magnetic
+
+49.95 57.94 Py10; Po02; Mt02
+Pyrite 10%; Pyrrhotine 02%; Magnétite 02%
+- 1% sulphides to massive sulphides
+- highly dominated by pyrite
+- proportion really hard to define
+- all mixed with quartz veins and silicified zones
+- quartz veins are described separately
+SULPHIDES INTERSECTIONS
+-- 49.65-50.39: SEMI-MASSIVE: up to 60-65% pyrite, 5-7%
+pyrrhotite, mostly in bands around 70° (fine-grained) local more in
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-02 Page :  3 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+grains, seem to float in the rest, not bedded (even mixed with beds).
+- 51.02-51.26: SEMI-MASSIVE, 25% pyrite, 25% pyrrhotite, 20%
+quartz (white to smokey)
+- 52.43-52.65: MASSIVE sulphides, 80% pyrite, 7-10% pyrrhotite,
+7-10% silicified rock, rest is small mass of quartz mixed with sulphides.
+- 52.82-53.08: MASSIVE sulphides, 80% pyrite, 5% pyrrhotite, 12%
+silicified and chloritized rock, 3% quartz.
+- 55.03-55.13: MASSIVE pyrite: 85% very fine-grained pyrite, 5%
+pyrrhotite, 10% rock silicified and chloritized.
+- 56.96-57.06: MASSIVE sulphides: 80% pyrrhotite, 10% pyrite, 7%
+quartz, 3% altered rock.
+QUARTZ VEIN & SILICIFICATION
+- Largest quartz veins are described below
+-52.65-52.82: Small smokey quartz vein stock between two massive
+sulphides. Includes 5% pyrite, 3% pyrrhotite.
+- 53.08-53.60: Silicified zone, 3% very fine grained pyrrhotite, 1%
+very fine grained pyrite, both oriented in direction of apparent bedding
+(65°)
+-54.76-55.3: white quartz vein, no sulphides except small mass of
+pyrite near contact
+- 55.13-56.66: Silicified rock with local small quartz vein. 2%
+fine-grained pyrrhotite, traces fine-grained pyrite.
+- 56.66-56.96: white to grey quartz vein with 2% of magnetite <
+0.5mm disseminated in the groundmass, 5% of chloritized rock, 1%
+pyrite and 1% pyrrhotite.
+- 57.06-57.40: 30% magnetite with quartz and silicified rock
+- 57.40-57.94: quartz veins mixed with strongly silicified rock, 3%
+pyrrhotite & 1% pyrite in fine bands, 1% fine-grained disseminated
+magnetite < 0.5mm.
+- 59.04-59.16: white quartz vein, no sulphides. contacts 85°
+- 58.94-59.03: white quartz vein, fragments of chloritized rock, traces
+pyrrhotite associated with rock fragments.
+
+50.47 51.02 VEI;;;;;Po05Py02Mt01;
+Veine Pyrrhotine05% Pyrite02% Magnétite01% 
+- white to smokey quartz vein
+- sulphides mostly near upper contact
+- only traces in quartz
+- 5% pyrrhotite very fine-grained
+- 2% pyrite very fine-grained
+- 1% magnetite mixed with pyrrhotite and pyrite near upper contact
+- both contacts are irregular
+
+51.18 52.43 VEI;;;;;Po12Py10Mt05;
+Veine Pyrrhotine12 Pyrite10 Magnétite05  
+- smokey quartz
+- sulphides very fine-grained
+- in small bands at 65-70°
+- 12% pyrrhotite mostly in first 2/3
+- 10% pyrite mostly in the last third
+- 5% magnetite (isolated bands up to mm)
+
+53.60 54.76 VEI;;;;;Po05Py02; 62.00 63.00 814897 1.00 58 142   <0.005 <0.5
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-02 Page :  4 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+Veine Pyrrhotine05% Pyrite02%
+- smokey grey to white quartz vein
+- sulphides very fine-grained and irregular
+- 5% pyrrhotite
+- 2% pyrite
+
+62.83 69.69 Bo
+Biotitization
+- weak to moderate biotitization of the groundmass
+- colour varies with the intensity (grey-brown to medium-brown)
+- local weak sericitization associated
+- local quartz-calcite vein in the bedding
+- 67.10-67.20: weak fuschite
+- no mineralization associated
+
+66.75 95.78 CIS
+Sheared 65°
+- strong to moderate shearing
+- core of shearing associated with strong sericite
+- foliation average around 65 but variable as following:
+- 68.5m: 75°
+- 75.5m: 65°
+- 78m: 70°
+- 84m: 65°
+- 91.5m: 75°
+- 93.5m: 45°
+
+69.00 69.69 814898 0.69 271 145   <0.005 <0.5
+
+69.69 70.31 Sr+
+Sericitization strong
+- strong sericitization of the groundmass-associated to strongest
+shearing
+- weak chloritization
+- possible very weak traces of fuschite
+
+69.69 70.31 814899 0.62 467 244   0.015 <0.5
+
+70.31 70.59 QP
+Quartz porphyry 70°
+- felsic intrusive rock
+- grey-brown
+- aphyric to fine-grained groundmass
+- 2% of quartz < 4 mm
+- groundmass is weakly biotitized
+- upper contact is more light brown (moderate)
+- not mineralized
+- not magnetic
+- contacts at 70°
+
+70.31 71.00 814900 0.69 153 59   <0.005 <0.5
+
+70.69 76.21 QP
+Quartz porphyry
+- felsic intrusive rock
+- grey-blue to grey-brown
+- aphyric groundmass
+- 3% of blue rounded quartz 0.5-4mm
+- not mineralized except the last 57 cm with traces to 10% pyrrhotite
+- pyrrhotite increases near the contact
+- not magnetic
+
+75.45 76.21 814901 0.76 372 194   0.009 <0.5
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-02 Page :  5 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+- contacts at 70° and 80°
+76.21 79.93 Sr+
+
+Sericitization strong
+- strong sericitization associated to strongest shearing
+- weak chloritization associated
+- dike (73.46-77.01) is sericitized from weak to moderate
+
+76.21 84.83 Py10
+Pyrite 10%
+- 10% pyrite
+- fine-grained
+- in bands in bedding and/or foliation
+- variable (1 ot 15%)
+- no other sulphides
+
+76.21 77.01 814902 0.80 264 146   0.018 <0.5
+
+76.43 77.01 QP
+Quartz porphyry
+- felsic intrusive rock
+- brown-beige
+- aphyric groundmass
+- 2% of quartz 1-2 mm
+- moderate sericitization
+- weak biotization
+- 2% of very fine-grained pyrite
+- not magnetic
+- contacts at 70°and 80°
+
+77.01 78.00 814903 0.99 264 296   0.021 <0.5
+78.00 79.00 814904 1.00 193 161   0.013 <0.5
+79.00 79.93 814905 0.93 213 211   0.020 <0.5
+
+79.93 92.72 Sr; He-
+Sericitization; Hematization weak
+- moderate sericitization local stronger
+- weak pervasive hematization
+- hematite gives mauve tint to the rock
+- local weak traces of fuschite
+
+79.93 81.00 814906 1.07 225 147   0.011 <0.5
+81.00 82.50 814907 1.50 279 36   <0.005 <0.5
+82.50 84.00 814908 1.50 318 377   0.005 <0.5
+84.00 84.88 814909 0.88 343 970   0.008 <0.5
+
+84.83 91.14 Py01
+Pyrite 01%
+- average 1% pyrite
+- traces to 2%
+- fine-grained
+- disseminated in the groundmass
+- 90-90.06: white quartz vein, no sulphides, traces fuschite
+
+84.88 86.00 814910 1.12 328 79   <0.005 <0.5
+86.00 87.00 814911 1.00 341 145   <0.005 <0.5
+87.00 88.50 814912 1.50 402 37   <0.005 <0.5
+88.50 90.00 814913 1.50 376 108   <0.005 <0.5
+90.00 90.50 814914 0.50 331 35   <0.005 <0.5
+90.50 91.14 814915 0.64 316 221   <0.005 <0.5
+
+91.14 92.35 Py05
+Pyrite 05%
+- average 5% pyrite
+- fine-grained
+- bands in the bedding/foliation
+- traces of chalcopyrite in veinlets and in one vein of quartz (2cm)
+
+91.14 92.35 814916 1.21 474 1270   0.015 <0.5
+92.35 93.25 814917 0.90 516 140   <0.005 <0.5
+
+92.72 95.78 Sr; Fu-; He-
+Sericitization; fucshite weak; Hematization weak
+- moderate sericitization
+- weak and irregular fuschite
+- weak and irregular hematization
+- this gives a variable color (ligh green to mauve)
+
+93.25 94.50 814918 1.25 281 26   <0.005 <0.5
+94.50 95.78 814919 1.28 544 86   <0.005 <0.5
+
+95.78 96.54 I3A 95.78 96.54 814920 0.76 67 99   <0.005 <0.5
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-02 Page :  6 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+Gabbro
+- mafic intrusive rock
+- fine-grained
+- medium-green
+- massive and homogeneous
+- not altered
+- not mineralized
+- not magnetic
+- upper contact at 65°
+
+96.54     DDH end
+Number of samples :   24 
+Number of samples QAQC :   0 
+Total sampled length :  24.09
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV  2009-04-20 
+
+DDH : GCF-08-03
+Claims title : 5230562
+Township  : Ducros
+Range  : IX
+Lot  : 71
+
+Section  : 
+Level  : 
+Work place : 
+
+Drilled by  : Forage Orbit Garant Inc. From  : 2008-05-12 To : 2008-05-13 
+Described by  : Denis McNichols Description date : 2008-10-30 
+
+  Collar  
+
+Core size : Carotte BQ Cemented : No Stored : Yes
+
+  Remarks  
+Target:
+Source:
+
+Azimuth : 63.00°
+Plunge : -45.00°
+Length : 66.00 m
+
+Longitude (East)
+Latitude (North)
+Elevation
+
+UTM (nad 83)
+
+346689.0
+5395725.0
+0.0
+
+Grille locale
+
+900
+610
+0
+
+  Down hole survey  
+Type Depth Azimuth Plunge Invalid
+
+Acide 66.00 m  -45.00° No
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-03 Page :  2 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+0.00 11.90 OVB
+Overburden
+ 
+
+11.90 14.97 I3A
+Gabbro
+- mafic intrusive rock
+- medium fine-grained
+- medium-green
+- massive and homogeneous
+- not altered
+- not mineralized
+- not magnetic
+- lower contact broken
+
+14.97 50.53 S1; S670
+Sandstone; Argillite
+- fine to very fine-grained sediment?
+- colour variable with the alteration
+- primary textures overprinted by alteration and strong shearing
+- local possible presence of fragments/blocs (ex. 42-46m)
+- bedding is with foliation at 70°
+- variable alteration (see below)
+- variable pyrite amount (see below)
+- not magnetic
+-
+- 21.27-21.37: irregular smokey quartz vein, traces of pyrrhotite
+- 38.45-38.51: white quartz vein, local smokey, no sulphides. contacts 55° and 65°
+
+15.41 16.75 Sr+; Bo
+Sericitization strong; Biotitization
+- strong sericitization
+- moderate biotization
+- local  weak fuschite
+- no reaction to HCl
+- colour very variable due to changes in alteration
+
+16.75 24.14 Bo; Sr-
+Biotitization; Seritization weak
+- moderate pervasive biotitization
+- weak pervasive sericitization
+- local traces of fuschite
+- colour grey-brown
+- does not react to HCl
+
+21.09 21.42 814921 0.33 262 121   0.034 <0.5
+
+24.14 24.99 Sr+
+Sericitization strong
+- strong sericitization
+- bands of strong silicification
+- only weak to moderate sericite with silicification
+- traces of local biotite at beginning
+- no reaction to HCl
+
+24.14 24.40 814922 0.26 545 186   <0.005 <0.5
+
+24.40 24.99 Py07
+Pyrite 07%
+- 7% fine-grained pyrite
+
+24.40 25.02 814923 0.62 428 163   0.026 <0.5
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-03 Page :  3 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+- irregular distribution
+- only traces with silicification
+- in bands in foliation
+
+24.99 30.24 QP
+Quartz porphyry 75°
+- felsic intrusive rock
+- light grey
+- aphyric groundmass
+- 2% of blue quartz 0.5-3mm
+- only very weak sericitization and very weak chloritization
+- only odd traces of very fine-grained pyrite disseminated
+- not magnetic
+- contacts both at 75°
+
+27.55 28.12 814924 0.57 180 39   0.007 <0.5
+
+30.24 37.20 Sr+; Ch-
+Sericitization strong; Chloritization weak
+- strong sericitization
+- weak chloritization in small bands
+- weak hematization in the last 1.5m.
+
+30.24 37.31 Py12
+Pyrite 12%
+- 12% fine-grained pyrite
+- bands in the foliation
+- massive intervals over 1-4cm
+- no other sulphides
+
+30.24 31.50 814925 1.26 236 185   0.020 <0.5
+31.50 33.00 814926 1.50 275 176   0.014 <0.5
+33.00 34.50 814927 1.50 271 209   0.016 <0.5
+34.50 36.00 814928 1.50 300 187   0.009 <0.5
+36.00 37.32 814929 1.32 317 407   0.017 <0.5
+
+37.20 50.55 He; Sr-
+Hematization; Seritization weak
+- weak to moderate hematization (weak mauve teint)
+- weak pervasive sericitization
+- local bands of weak to moderate fuschite
+
+37.32 38.27 814930 0.95 322 612   0.016 <0.5
+38.27 39.00 814931 0.73 282 606   0.014 <0.5
+39.00 40.50 814932 1.50 245 877   0.019 <0.5
+40.50 42.00 814933 1.50 293 831   0.010 <0.5
+42.00 43.50 814934 1.50 387 150   <0.005 <0.5
+43.50 45.00 814935 1.50 704 62   <0.005 <0.5
+
+45.00 47.44 Py03
+Pyrite 03%
+- 3% fine-grained pyrite
+- massive bands up to 3cm in foliation
+- very irregular distribution
+
+45.00 46.50 814936 1.50 670 450   0.006 <0.5
+46.50 47.44 814937 0.94 650 1330   0.008 <0.5
+47.44 48.00 814938 0.56 445 396   <0.005 <0.5
+48.00 49.50 814939 1.50 397 65   <0.005 <0.5
+49.50 50.53 814940 1.03 260 147   0.006 <0.5
+
+50.53 66.00 I3A
+Gabbro
+- mafic intrusive rock
+- coarse-grained
+- dark green
+- massive and homogeneous
+- not altered
+- not mineralized
+- not magnetic
+- upper contact at 70°
+- 52.05-52.81: 4 white quartz veins, no sulphides (2.5-8cm)
+- 65.38-65.80: white to smokey quartz vein, no sulphides. Upper contact 30,
+lower irregular
+
+50.53 51.36 814941 0.83 66 34   0.005 <0.5
+51.36 52.24 814942 0.88 63 131   0.006 <0.5
+52.24 52.84 814943 0.60 39 113   <0.005 <0.5
+52.84 65.80 814944 12.96 29 27   <0.005 <0.5
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-03 Page :  4 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+66.00     DDH end
+Number of samples :   24 
+Number of samples QAQC :   0 
+Total sampled length :  37.34
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV  2009-04-20 
+
+DDH : GCF-08-04
+Claims title : 5221166
+Township  : Ducros
+Range  : XI
+Lot  : 68
+
+Section  : 
+Level  : 
+Work place : 
+
+Drilled by  : Forage Orbit Garant Inc. From  : 2008-05-13 To : 2008-05-14 
+Described by  : Denis McNichols Description date : 2008-12-04 
+
+  Collar  
+
+Core size : Carotte BQ Cemented : No Stored : Yes
+
+  Remarks  
+Target: Follow-up of the gold showing
+
+Azimuth : 63.00°
+Plunge : -45.00°
+Length : 99.00 m
+
+Longitude (East)
+Latitude (North)
+Elevation
+
+UTM (nad 83)
+
+346177.0
+5396384.0
+0.0
+
+Grille locale
+
+85
+440
+0
+
+  Down hole survey  
+Type Depth Azimuth Plunge Invalid
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-04 Page :  2 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+0.00 7.22 OVB
+Overburden
+ 
+
+7.22 23.76 I3K; MAG
+Olivine gabbro; Magnetic
+- mafic intrusive rock
+- medium-grained
+- medium-green to grey-green
+- olivine ? in matrix (soft texture)
+- massive and homogeneous
+- not altered
+- not mineralized
+- moderate to strong magnetism
+- lower contact at 45°
+
+23.76 99.00 V3B
+Basalt
+- mafic volcanic rock
+- aphyric
+- green to grey-green
+- in big part sheared
+- shearing overprint primary textures
+- local weak biotitization
+- 1-2% of fine quartz-calcite vein in the foliation
+- not mineralized
+- not magnetic
+-
+- 33.08-33.59: 4 white quartz veins, one with traces of pyrrhotite
+- 44.21-44.44: 2 white quartz veins, odd traces of pyrrhotite, chalcopyrite and
+pyrite
+- 44.46-44.75: very irregular quartz vein, pieces of andesite, odd pyrrhotite
+- 75.62-75.76: irregular smokey quartz with traces of pyrrhotite
+
+23.76 76.45 CIS
+Sheared 70°
+- moderate to strong shear
+- foliation at 70°, lightly variable
+- local weak biotitization associated
+- quartz veins are mostly in the foliation
+- not always straight, sometimes veins  are brecciated or irregular but
+in the foliation.
+
+24.97 25.95 814945 0.98 113 67   0.005 <0.5
+25.95 27.00 814946 1.05 112 77   <0.005 <0.5
+31.10 31.62 814947 0.52 62 103   0.008 <0.5
+33.00 34.05 814948 1.05 74 93   0.007 <0.5
+34.05 34.63 814949 0.58 86 159   0.017 <0.5
+34.63 36.00 814950 1.37 203 36   <0.005 <0.5
+36.00 37.50 814951 1.50 216 174   0.010 <0.5
+37.50 39.00 814952 1.50 211 178   <0.005 <0.5
+39.00 40.50 814953 1.50 202 160   <0.005 <0.5
+40.50 42.00 814954 1.50 202 166   0.007 <0.5
+42.00 42.93 814955 0.93 187 131   <0.005 <0.5
+42.93 44.09 814956 1.16 141 131   0.006 <0.5
+44.09 44.52 814957 0.43 156 118   <0.005 <0.5
+44.52 44.80 814958 0.28 89 66   <0.005 <0.5
+
+44.74 51.43 Bo
+Biotitization
+- weak to moderate pervasive biotitization
+
+44.80 45.80 814959 1.00 278 164   0.005 <0.5
+45.80 46.58 814960 0.78 213 137   0.006 <0.5
+48.00 48.65 814961 0.65 157 134   0.006 <0.5
+50.83 51.36 814962 0.53 289 120   0.012 <0.5
+51.36 58.50 814963 7.14 131 153   <0.005 <0.5
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-04 Page :  3 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+53.58 54.67 QP
+Quartz porphyry
+- felsic intrusive rock
+- grey-brown
+- fine-grained groundmass
+- 1% of quartz 1-2mm
+- phenocryst is hard to see
+- weak pervasive biotitization
+- 1%  fine-grained idiomorphic pyrite
+- pyrite is disseminated
+- not magnetic
+- contacts at 80°and 60°
+
+58.50 60.00 814964 1.50 175 48   <0.005 <0.5
+
+62.25 69.19 I3E
+Quartz gabbro
+- quartz gabbro
+- mafic intrusive rock
+- medium-grained
+- medium to dark green
+- rounded blue quartz eyes (0.5-2mm)
+- traces of quartz strata at 62.65m
+- quartz decrease around 66m
+- no more quartz after 69.5m
+- no sharp contact, seems to be the same rock
+- affected by the deformation (moderate foliation)
+- local bands (up to 1mm) of biotite after 67m
+- not mineralized
+- not magnetic
+
+65.21 66.00 814965 0.79 34 197   <0.005 0.5
+66.00 66.65 814966 0.65 31 112   <0.005 <0.5
+66.65 67.46 814967 0.81 43 81   <0.005 <0.5
+67.46 68.13 814968 0.67 81 96   <0.005 <0.5
+68.13 68.53 814969 0.40 79 57   <0.005 <0.5
+68.53 69.13 814970 0.60 124 142   <0.005 <0.5
+69.13 70.43 814971 1.30 132 222   0.011 <0.5
+
+69.95 73.69 I3A
+Gabbro
+- mafic intrusive rock
+- fine to medium-grained
+- medium-green
+- massive and homogeneous
+- not altered
+- not mineralized
+- not magnetic
+- upper contact injected by quartz, lower at 75°
+
+74.40 75.60 814972 1.20 128 113   0.005 <0.5
+75.60 75.96 814973 0.36 102 83   0.005 <0.5
+75.96 76.56 814974 0.60 136 66   <0.005 <0.5
+
+76.45 84.57 I3A
+Gabbro
+- mafic intrusive rock
+- medium-grained
+- dark green
+- massive and homogeneous
+- not altered
+- not mineralized
+- not magnetic
+- upper contact at 60°, lower approximative
+
+81.62 82.86 814975 1.24 141 39   <0.005 <0.5
+82.86 84.00 814976 1.14 115 111   <0.005 <0.5
+84.00 84.45 814977 0.45 86 112   0.005 <0.5
+84.45 85.53 814978 1.08 124 62   <0.005 <0.5
+85.53 86.61 814979 1.08 221 170   <0.005 <0.5
+86.61 87.38 814980 0.77 176 154   <0.005 <0.5
+
+89.33 99.66 CIS
+Sheared 70°
+- moderate to strong shearing
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-04 Page :  4 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+- foliation at 70°
+90.70 98.98 Bo-
+
+Biotitization weak
+- weak to local strong biotitization
+- very variable
+- no mineralization associated
+
+93.71 94.37 814981 0.66 324 89   <0.005 <0.5
+96.00 97.00 814982 1.00 211 133   <0.005 <0.5
+97.00 98.00 814983 1.00 300 112   <0.005 <0.5
+98.00 99.00 814984 1.00 380 94   0.008 <0.5
+
+99.00     DDH end
+Number of samples :   40 
+Number of samples QAQC :   0 
+Total sampled length :  42.75
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV  2009-04-20 
+
+DDH : GCF-08-05
+Claims title : 5221166
+Township  : Ducros
+Range  : IX
+Lot  : 68
+
+Section  : 
+Level  : 
+Work place : 
+
+Drilled by  : Forage Orbit Garant Inc. From  : 2008-05-14 To : 2008-05-20 
+Described by  : Denis McNichols Description date : 2008-11-07 
+
+  Collar  
+
+Core size : Carotte BQ Cemented : No Stored : Yes
+
+  Remarks  
+Target: Follow-up of the surface gold showing.
+
+Azimuth : 45.00°
+Plunge : -45.00°
+Length : 126.00 m
+
+Longitude (East)
+Latitude (North)
+Elevation
+
+UTM (nad 83)
+
+346150.0
+5396386.0
+0.0
+
+Grille locale
+
+70
+415
+0
+
+  Down hole survey  
+Type Depth Azimuth Plunge Invalid
+
+Acide 126.00 m  -44.00° No
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-05 Page :  2 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+0.00 5.00 OVB
+Overburden
+ 
+
+5.00 30.83 I3K; MAG
+Olivine gabbro; Magnetic
+- mafic intrusive rock
+- medium-grained
+- dark to medium-green
+- presence of olivine? gives that soft texture
+- massive
+- possible very weak serpentinization of the olivine
+- local up to 2% pyrrhotite and traces of pyrite disseminated
+- strongly magnetic
+-
+- 7-10: 2% pyrrhotite, traces pyrite
+- 10-14: 1% pyrrhotite, odd pyrite
+- 26.12-30: 2% pyrrhotite, 1% pyrite
+- 28.41-28.67: 2 irregular quartz veins (35%) with traces of pyrrhotite
+
+5.30 126.00 CIS
+Sheared 65°
+- moderate to strong shearing
+- foliation around 65°
+- dikes could be affected
+
+7.00 8.00 814985 1.00 2210 680   0.019 <0.5
+8.00 9.00 814986 1.00 1830 277   0.009 <0.5
+9.00 10.00 814987 1.00 1690 253   0.013 <0.5
+10.00 11.00 814988 1.00 1690 187   0.024 <0.5
+11.00 12.00 814989 1.00 1715 242   0.011 <0.5
+12.00 13.00 814990 1.00 1610 138   0.017 <0.5
+13.00 14.00 814991 1.00 1815 435   0.014 <0.5
+26.12 27.67 814992 1.55 30 82   0.015 <0.5
+27.67 29.09 814993 1.42 52 60   0.010 <0.5
+29.09 30.00 814994 0.91 23 65   <0.005 <0.5
+30.00 30.83 814995 0.83 23 76   <0.005 <0.5
+
+30.83 126.00 V3B
+Basalt
+- mafic volcanic rock
+- aphyric to fine-grained
+- presence of fine mafic minerals up to 1.5mm long (amphibolitization of the rock)
+- this amphibolitization gives a local gabroic aspect to the basalt
+- grey-green to dark green (when not sheared)
+- massive flows
+- biotite, hematite and sericite in shearing
+- presence of local quartz vein in foliation
+- quartz vein could also be irregular and not totally in foliation
+- only local traces of pyrite, pyrrhotite and/or chalcopyrite in basalt
+- sulphides also present in quartz vein
+- chalcopyrite is mostly in quartz
+- not magnetic
+-
+- 111-118: rock is dark green, massive, not altered and not amphibolitized
+- 50.85-50.90: white quartz vein, odd chalcopyrite and pyrite near contacts (both
+75°)
+- 51.04-51.18: irregular white quartz vein, odd pyrite
+- 51.29-51.81: white quartz, no sulphides, contacts at 60°and 50°
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-05 Page :  3 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+- 52.10-52.15: white quartz vein, no sulphides, contacts ondulating around 80°
+and 70°
+- 52.63-52.74: irregular white quartz injection, no sulphides
+- 54.13-54.22: irregular grey-white quartz (70%), no sulphides
+- 62.5-62.62: irregular quartz vein, no sulphides
+- 62.67: VG 0.3mm gold in a 5mm quartz mass (not a vein) with chalcopyrite.
+- 62.75-62.85: very irregular quartz ankerite vein, traces chalcopyrite at upper
+contact
+- 63.38: 2cm quartz vein, no sulphides, contacts at 60°
+- 63.72-63.79: quartz vein, no sulphides. irregular.
+- 64.33-64.40: white quartz mass with traces of chalcopyrite
+- 69.45-69.65: 35% quartz mixed with basalt. Traces of chalcopyrite
+- 73.42-73.68: 70% quartz, 30% basalt, no sulphides
+- 75-79.5: several quartz veins, 1-8cm, in the foliation, no sulphides,
+
+39.63 44.51 I3A
+Gabbro
+- mafic intrusive rock
+- medium-grained
+- dark green
+- massive and homogeneous
+- not altered
+- not mineralized
+- not magnetic
+- contacts hard to define, too gradual.
+
+48.00 49.50 814996 1.50 92 104   <0.005 <0.5
+49.50 50.83 814997 1.33 82 143   0.011 <0.5
+50.83 51.27 814998 0.44 81 149   0.166 <0.5
+51.27 51.90 814999 0.63 22 17   0.011 <0.5
+51.90 52.82 815000 0.92 84 195   0.019 <0.5
+
+52.23 60.70 Bo-
+Biotitization weak
+- weak to local moderate biotitization
+- very irregular
+- gives a local brown color to the basalt
+
+52.82 54.00 539601 1.18 114 180   0.014 <0.5
+54.00 55.00 539602 1.00 115 219   0.016 <0.5
+55.00 56.00 539603 1.00 99 248   0.028 <0.5
+56.00 57.00 539604 1.00 90 260   0.027 <0.5
+57.00 58.50 539605 1.50 172 136   0.010 <0.5
+58.50 60.00 539606 1.50 167 220   0.015 0.5
+60.00 61.50 539607 1.50 306 180   0.014 <0.5
+61.50 62.47 539608 0.97 359 132   0.012 <0.5
+62.47 62.85 539609 0.38 391 771   0.171 <0.5
+62.85 63.35 539610 0.50 383 152   0.014 <0.5
+63.35 64.56 539611 1.21 252 175   0.017 <0.5
+64.56 66.00 539612 1.44 149 166   0.005 <0.5
+66.00 67.50 539613 1.50 194 167   0.005 <0.5
+67.50 69.00 539614 1.50 288 179   <0.005 <0.5
+69.00 69.43 539615 0.43 204 131   0.005 <0.5
+69.43 69.72 539616 0.29 126 101   <0.005 <0.5
+69.72 70.79 539617 1.07 173 153   0.005 <0.5
+70.79 72.00 539618 1.21 135 135   0.005 <0.5
+72.00 73.42 539619 1.42 178 135   <0.005 <0.5
+73.42 73.68 539620 0.26 61 14   <0.005 <0.5
+73.68 75.00 539621 1.32 137 121   <0.005 <0.5
+75.00 76.50 539622 1.50 185 155   0.005 <0.5
+76.50 78.00 539623 1.50 194 155   <0.005 <0.5
+78.00 79.50 539624 1.50 147 137   0.005 <0.5
+79.50 81.00 539625 1.50 195 141   0.006 <0.5
+81.00 82.50 539626 1.50 195 141   <0.005 <0.5
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-05 Page :  4 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+82.50 84.00 539627 1.50 172 153   0.005 <0.5
+84.00 85.50 539628 1.50 147 143   <0.005 <0.5
+85.50 87.00 539629 1.50 195 365   0.005 <0.5
+87.00 88.50 539630 1.50 196 115   <0.005 <0.5
+88.50 90.00 539631 1.50 99 125   <0.005 <0.5
+
+88.90 96.46 I3E
+Quartz gabbro
+- mafic intrusive rock
+- fine to medium-grained
+- medium-green
+- 1-2% of rounded blue quartz eyes (traces to 2%)
+- massive
+- not altered
+- not mineralized
+- local disseminated traces of pyrite
+- contacts too gradual, can't be measured
+
+90.00 91.50 539632 1.50 60 117   <0.005 <0.5
+91.50 93.00 539633 1.50 75 129   <0.005 <0.5
+105.00 106.50 539634 1.50 117 29   <0.005 <0.5
+106.50 108.00 539635 1.50 123 35   0.006 <0.5
+108.00 109.50 539636 1.50 139 169   <0.005 <0.5
+109.50 111.00 539637 1.50 161 75   <0.005 <0.5
+114.00 115.50 539638 1.50 162 137   <0.005 <0.5
+115.50 117.00 539639 1.50 172 191   0.009 <0.5
+117.00 118.50 539640 1.50 186 211   0.005 <0.5
+
+126.00     DDH end
+Number of samples :   56 
+Number of samples QAQC :   0 
+Total sampled length :  67.21
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV  2009-04-20 
+
+DDH : GCF-08-06
+Claims title : 5221166
+Township  : Ducros
+Range  : IX
+Lot  : 68
+
+Section  : 
+Level  : 
+Work place : 
+
+Drilled by  : Forage Orbit Garant Inc. From  : 2008-05-20 To : 2008-05-20 
+Described by  : Denis McNichols Description date : 2008-11-10 
+
+  Collar  
+
+Core size : Carotte BQ Cemented : No Stored : Yes
+
+  Remarks  
+Target:
+Source
+
+Azimuth : 63.00°
+Plunge : -45.00°
+Length : 81.00 m
+
+Longitude (East)
+Latitude (North)
+Elevation
+
+UTM (nad 83)
+
+346108.0
+5396335.0
+0.0
+
+Grille locale
+
+100
+360
+0
+
+  Down hole survey  
+Type Depth Azimuth Plunge Invalid
+
+Acide 78.00 m  -46.00° No
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-06 Page :  2 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+0.00 5.25 OVB
+Overburden
+ 
+
+5.25 18.58 I2J
+Diorite
+- intermediate intrusive rock
+- medium to coarse-grained
+- light grey-green
+- up to 40% feldspar
+- massive
+- not altered
+- not mineralized
+- not magnetic
+
+18.00 19.50 539641 1.50 477 725   0.098 <0.5
+
+18.58 25.30 I3A
+Gabbro
+- mafic intrusive rock
+- fine-grained, becomes medium near the end
+- dark green
+- massive and homogeneous
+- not altered
+- mineralization near the end (see below)
+- not magnetic
+- contacts are gradual
+- possibly the same unit but changing gradually (evolution of magma)
+- top of intrusion at top of hole
+
+19.05 33.00 Po03; Cp01
+Pyrrhotine 03%; Chalcopyrite 01%
+- 3% pyrrhotite
+- traces to 1% chalcopyrite
+- both fine grained and disseminated
+- variable amount
+
+19.50 21.00 539642 1.50 739 1410   0.096 <0.5
+21.00 22.50 539643 1.50 1320 2340   0.177 0.5
+22.50 24.00 539644 1.50 1820 2040   0.058 0.6
+24.00 25.50 539645 1.50 2550 2660   0.056 0.6
+
+25.30 58.20 I3K; MAG
+Olivine gabbro; Magnetic
+- mafic intrusive rock
+- medium-grained
+- medium to dark grey
+- composed in part of feldspars
+- includes olivine
+- soft rock (easy to scratch)
+- soft texture (olivine composition?)
+- light serpentinization of the olivine
+- mineralization variable from traces to 3% pyrrhotite
+- traces to 1% chalcopyrite
+- sulphides are disseminated in the groundmass
+- strongly magnetic
+- contacts gradual
+
+25.50 27.00 539646 1.50 3030 2990   0.114 0.9
+27.00 28.50 539647 1.50 1610 437   0.014 <0.5
+28.50 30.00 539648 1.50 2330 1620   0.094 1.0
+30.00 31.50 539649 1.50 3120 2440   0.106 0.5
+31.50 33.00 539650 1.50 2320 1175   0.063 <0.5
+33.00 34.50 539651 1.50 1890 383   0.029 <0.5
+34.50 36.00 539652 1.50 1650 223   0.023 <0.5
+36.00 37.50 539653 1.50 2380 768   0.018 <0.5
+37.50 39.00 539654 1.50 1735 283   0.009 <0.5
+39.00 40.50 539655 1.50 1615 231   0.010 <0.5
+40.50 42.00 539656 1.50 1575 175   0.009 <0.5
+42.00 43.50 539657 1.50 1565 211   0.025 <0.5
+43.50 45.00 539658 1.50 1620 229   0.009 <0.5
+45.00 46.50 539659 1.50 1485 165   0.006 <0.5
+46.50 48.00 539660 1.50 1685 218   0.007 <0.5
+48.00 49.50 539661 1.50 1935 569   0.015 <0.5
+49.50 51.00 539662 1.50 1700 370   0.012 <0.5
+51.00 52.50 539663 1.50 1485 143   <0.005 <0.5
+52.50 54.00 539664 1.50 1935 343   0.014 <0.5
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-06 Page :  3 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+54.00 55.50 539665 1.50 3840 3280   0.105 0.8
+55.50 57.00 539666 1.50 3920 4770   0.099 1.6
+57.00 58.50 539667 1.50 1290 140   0.006 <0.5
+
+58.20 74.57 I3A; MAG
+Gabbro; Magnetic
+- mafic intrusive rock
+- medium-grained
+- dark green
+- could still include some traces of olivine but slightly different from the last unit
+- massive
+- variations are very gradual and hard to see
+- weak chloritization of the groundmass
+- only local traces of fine grained disseminated pyrrhotite
+- weak to local moderate magnetic
+- contacts gradual
+
+58.50 60.00 539668 1.50 914 30   <0.005 <0.5
+60.00 61.50 539669 1.50 1095 57   0.005 <0.5
+72.00 73.50 539670 1.50 1200 143   0.012 <0.5
+73.50 75.00 539671 1.50 699 64   <0.005 <0.5
+
+74.57 81.00 I3E
+Quartz gabbro
+- mafic intrusive rock
+- fine to medium-grained
+- dark green
+- 1-3% of blue quartz eyes up to 2mm
+- in part foliated (beginning of the shearing? in front)
+- injected by 1% of small quartz veinlets
+- weak chloritization
+- not mineralized
+- not magnetic
+- contact still gradual and approximative
+
+81.00     DDH end
+Number of samples :   31 
+Number of samples QAQC :   0 
+Total sampled length :  46.50
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV  2009-04-20 
+
+DDH : GCF-08-07
+Claims title : 5221166
+Township  : Ducros
+Range  : IX
+Lot  : 68
+
+Section  : 
+Level  : 
+Work place : 
+
+Drilled by  : Forage Orbit Garant Inc. From  : 2008-05-20 To : 2008-05-21 
+Described by  : Denis McNichols Description date : 2008-10-28 
+
+  Collar  
+
+Core size : Carotte BQ Cemented : No Stored : Yes
+
+  Remarks  
+Target: Follow-up of the PGE showing
+
+Azimuth : 45.00°
+Plunge : -45.00°
+Length : 73.00 m
+
+Longitude (East)
+Latitude (North)
+Elevation
+
+UTM (nad 83)
+
+346123.0
+5396367.0
+0.0
+
+Grille locale
+
+75
+385
+0
+
+  Down hole survey  
+Type Depth Azimuth Plunge Invalid
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-07 Page :  2 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+0.00 2.00 OVB
+Overburden
+ 
+
+2.00 12.00 I3A
+Gabbro
+- mafic intrusive rock
+- medium to fine-grained
+- dark green
+- massive
+- not altered (only weak chloritization, normal for greenschist level)
+- not mineralized
+- only magnetic due to pyrrhotite disseminated
+- groundmass starts to be magnetic only at the end of unit
+- no sharp contact, more gradual
+
+2.00 2.50 814286 0.50 1025 1020 0.092 0.067 0.078 0.6
+2.50 3.00 814287 0.50 654 344 0.026 0.023 0.022 <0.5
+3.00 4.00 814288 1.00 697 663 0.066 0.059 0.032 0.6
+
+3.90 10.16 Po03; Cp01
+Pyrrhotine 03%; Chalcopyrite 01%
+- 2-3% pyrrhotite
+- 1% chalcopyrite
+- both disseminated in small patches in the groundmass
+- most of the time mixed together but not always
+
+4.00 4.50 814289 0.50 1830 3030 0.359 0.346 0.146 1.7
+4.50 5.50 814290 1.00 2460 3360 0.331 0.219 0.100 1.2
+5.50 6.00 814291 0.50 1455 1810 0.117 0.095 0.067 0.8
+6.00 7.00 814292 1.00 1570 2030 0.046 0.060 0.094 0.6
+7.00 8.00 814293 1.00 1110 899 0.033 0.040 0.036 0.7
+8.00 8.54 814294 0.54 6090 2550 0.310 0.305 0.145 1.0
+8.54 9.00 814295 0.46 3170 4380 0.200 0.231 0.147 1.6
+9.00 9.43 814296 0.43 3440 4040 0.094 0.070 0.080 1.6
+9.43 9.64 814297 0.21 2310 2710 0.124 0.117 0.089 1.3
+9.64 10.05 814298 0.41 3250 4730 0.173 0.219 0.404 1.8
+10.05 10.55 814299 0.50 4640 9200 0.234 0.355 0.159 3.0
+
+10.16 19.60 Po05; Cp02
+Pyrrhotine 05%; Chalcopyrite 02%
+- average around 5% pyrrhotite but varies from 3-7%
+- 2-3% chalcopyrite
+- sulphides are fine-grained, in small masses
+- chalcopyrite is finer grained
+- mostly mixed together
+
+10.55 11.05 814300 0.50 4020 7500 0.207 0.321 0.295 2.4
+11.05 11.53 814301 0.48 3100 5060 0.102 0.161 0.144 1.5
+11.53 12.00 814302 0.47 4560 3850 0.135 0.244 0.196 1.3
+
+12.00 32.00 I3K; MAG
+Olivine gabbro; Magnetic
+- mafic intrusive rock
+- medium-grained
+- medium to dark-grey
+- composed in part of feldspar (gives in part that grey color)
+- includes olivines
+- soft rock (easy to scratch)
+- soft texture (given by altered olivines)
+- light serpentinization of the olivines
+- variable mineralization described below
+- groundmass strongly magnetic (independant of pyrrhotite)
+- contacts are gradual
+
+12.00 13.00 814303 1.00 3900 7280 0.152 0.224 0.242 2.6
+13.00 13.82 814304 0.82 4600 7270 0.150 0.287 0.311 2.5
+13.82 14.49 814305 0.67 3470 6360 0.170 0.249 0.374 2.4
+14.49 15.00 814306 0.51 5610 6570 0.211 0.441 0.326 3.4
+15.00 15.76 814307 0.76 4690 5250 0.350 0.315 0.210 2.3
+15.76 16.31 814308 0.55 4670 7030 0.453 0.369 0.313 3.0
+16.31 17.31 814309 1.00 5300 5170 0.421 0.387 0.207 1.8
+17.31 18.28 814310 0.97 5140 7320 0.325 0.352 0.251 2.5
+18.28 18.78 814311 0.50 5830 6220 0.323 0.416 0.179 1.7
+18.78 19.78 814312 1.00 4370 5200 0.226 0.279 0.179 1.7
+
+19.60 25.00 Po05; Cp01
+Pyrrhotine 05%; Chalcopyrite 01%
+- 5% pyrrhotite
+- 1% chalcopyrite
+- both fine-grained in small masses
+
+19.78 20.78 814313 1.00 3390 2440 0.167 0.210 0.096 1.2
+20.78 21.78 814314 1.00 3540 3740 0.213 0.229 0.314 2.0
+21.78 22.60 814315 0.82 4690 2730 0.451 0.373 0.099 1.1
+22.60 23.20 814316 0.60 3620 1870 0.205 0.247 0.089 1.1
+23.20 24.20 814317 1.00 3920 3030 0.221 0.252 0.108 0.6
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-07 Page :  3 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+- disseminated in the groundmass
+- mixed together
+
+24.20 25.20 814318 1.00 3120 2390 0.155 0.182 0.111 0.8
+
+25.00 30.00 Po02; Cp0.5
+Pyrrhotine 02%; Chalcopyrite 0.5%
+- average of 2% pyrrhotite
+- traces of chalcopyrite
+- both fine grained
+- variable proportion
+-
+- 30-34: traces of pyrrhotite disseminated all over with very local
+chalcopyrite
+
+32.00 52.33 I3A
+Gabbro
+- mafic intrusive rock
+- medium-grained
+- dark green to brown
+- massive
+- local biotitization up to moderate-strong
+- weak chloritization
+- not mineralized
+- not magnetic
+- contacts are gradual
+-
+- 47.05-49.04: 2-3% of very fine pyrrhotite in the foliation, traces of pyrite
+
+35.60 48.30 Bo
+Biotitization
+- moderate to weak
+- pervasive
+- gives a brown teint to the rock
+
+47.00 48.00 539672 1.00 82 100   0.005 <0.5
+48.00 49.00 539673 1.00 28 61   0.005 <0.5
+
+52.33 60.04 I3E
+Quartz gabbro
+- mafic intrusive rock
+- medium-grained
+- dark green
+- up to 2% of rounded blue quartz eyes, 0.5 to 2mm
+- massive and homogeneous
+- local weak biotitization
+- not mineralized
+- not magnetic
+- upper contact gradual, lower at 70°
+
+60.04 63.00 V3B
+Basalt
+- mafic volcanic rock
+- aphyric
+- medium-dark green
+- massive
+- very weak pervasive biotitization
+- not mineralized
+- not magnetic
+
+
+
+Golden Valley Mines Ltd
+
+Project : Ducros JV DDH : GCF-08-07 Page :  4 
+
+DESCRIPTION
+ASSAYS
+
+From To Number Length Ni (ppm) Cu (ppm) Pt (ppm) Pd (ppm) Au (g/t) Ag (ppm)
+
+73.00     DDH end
+Number of samples :   35 
+Number of samples QAQC :   0 
+Total sampled length :  25.20
+
+
+
+                       Fortin Technical Report  
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX II 
+ 
+
+Copies of Assay Certificates     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+((
+
+((
+((
+
+((
+
+((
+
+((
+
+((
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+((
+
+,,
+
+!H
+
+!H
+
+!H
+
+!H
+
+!H
+
+!H
+
+!H
+
+!H
+
+!H
+
+!H
+
+!H
+
+_̂
+
+_̂
+
+-
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+
+-- --
+
+----
+----
+
+TL-800mN
+
+TL-400mN
+
+BL-000mN
+
+L-00
+0mE
+
+L-10
+0mE
+
+L-40
+0mE
+
+L-25
+0mE
+
+L-35
+0mE
+
+L-30
+0mE
+
+L-90
+0mE
+
+L-70
+0mE
+
+L-60
+0mE
+
+L-85
+0mE
+
+L-50
+0mE
+
+L-20
+0mE
+
+L-80
+0mE
+
+L-95
+0mE
+
+L-75
+0mE
+
+L-11
+00m
+
+E
+
+L-10
+00m
+
+E
+
+Ducros (Pyroxénite)
+
+Ducros (Zone aurifêre)
+
+GCF-08-02
+
+GCF-08-01
+
+GCF-08-03
+
+116113116112
+
+106554
+
+106553
+
+106603
+106602
+
+V2J
+
+V3Bc
+
+V3Bc
+
+S3a
+
+M16
+
+S3a
+
+I1B S6
+
+I3BM16
+
+BD-78-6
+
+BD-78-5
+
+BD-78-4
+
+BD-78-3
+
+344800
+
+344800
+
+345200
+
+345200
+
+345600
+
+345600
+
+346000
+
+346000
+
+346400
+
+346400
+
+346800
+
+346800
+
+347200
+
+347200
+
+347600
+
+347600
+
+53
+95
+
+00
+0
+
+53
+95
+
+00
+0
+
+53
+95
+
+30
+0
+
+53
+95
+
+30
+0
+
+53
+95
+
+60
+0
+
+53
+95
+
+60
+0
+
+53
+95
+
+90
+0
+
+53
+95
+
+90
+0
+
+53
+96
+
+20
+0
+
+53
+96
+
+20
+0
+
+53
+96
+
+50
+0
+
+53
+96
+
+50
+0
+
+53
+96
+
+80
+0
+
+53
+96
+
+80
+0
+
+M
+
+UV113
+
+Area of Map 2
+
+5221167 5221166 5224861 5224862 5230562
+
+Geophysic
+(( Resistivity Axis
+
+Weak or Possible Chargeability Axis
+
+Strong Chargeability Axis
+Moderate Chargeability Axis
+
+Gradient
+
+I1B - Granite
+I2J - Diorite
+
+I3B - Diabase
+M16 - Amphibolite
+S3a - Quartzitic Wacke
+
+S6 - Mudrock
+
+Lithology
+V2J - Andesite
+
+V3B - Basalt
+
+RockSample
+
+Property
+
+Showing
+Outcrop
+
+Main Road
+
+Trench
+Stripping
+
+- -- Fault
+
+Rivers
+
+Lake
+
+!H
+BD-78-06
+
+Historical Drillhole
+
+DrillholeGCF-08-01
+!H
+
+_̂
+
+,
+
+,
+
+1:3 500
+
+Prepared by: Myriam Lavoie
+
+Approved by : J. Langton, P.Geo
+
+Grid: Nad 83 UTM Zone 18
+
+Date : December, 2010
+
+Geological and Geophysical Compilation 
+Figure 6
+
+0 100 200
+Meters
+
+
+
+,,,
+
+,,
+
+, !H
+
+!H
+
+!H
+
+!H
+
+"
+
+"
+
+"
+
+"
+
+"
+
+"
+
+"
+
+"
+
+"
+
+"
+
+"
+
+"
+
+"""
+
+-
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+--
+
+--
+
+-- -- -- -- --
+
+----
+----
+
+----
+----
+
+---
+"
+
+"
+
+"
+
+"
+
+"
+
+"
+
+"
+
+"
+
+"""
+
+"
+
+"
+
+"
+
+"
+
+_̂
+
+_̂
+
+GCF-08-01
+
+106601
+
+106551
+
+106552
+
+106553
+
+116101
+
+116102
+116103
+
+116104
+
+116105
+
+116106
+116107
+
+116108
+
+116109
+116110
+116111
+
+346050
+
+346050
+
+346100
+
+346100
+
+346150
+
+346150
+
+346200
+
+346200
+
+346250
+
+346250
+
+53
+96
+
+25
+0
+
+53
+96
+
+25
+0
+
+53
+96
+
+30
+0
+
+53
+96
+
+30
+0
+
+53
+96
+
+35
+0
+
+53
+96
+
+35
+0
+
+53
+96
+
+40
+0
+
+53
+96
+
+40
+0
+
+53
+96
+
+45
+0
+
+53
+96
+
+45
+0
+
+53
+96
+
+50
+0
+
+53
+96
+
+50
+0
+
+53
+96
+
+55
+0
+
+53
+96
+
+55
+0
+
+File : R:\Clients\GoldenValley\Ducros\GeoData
+
+Geological & Geophysical Compilation
+
+NTS: 32C11
+Grid: NAD 83, Zone 18 Drawn by: S.Duchaine
+Supervised by: J. Langton, P. Geo Date: Dec. 2010
+
+1:1 500
+
+0 30 6015
+Metres
+
+Figure 7
+
+2007 Channel 2
+Samples: 116758 - 116779
+
+2007 Channel 1
+Samples: 116751 - 116757
+
+2007 Channel 3
+Samples: 116780 - 116786
+
+GCF-08-06
+
+GCF-08-07
+
+GCF-08-05 GCF-08-04
+
+L-00
+0mE
+
+L-10
+0mE
+
+L-20
+0mE
+
+Ducros Pyroxenite Showing
+
+Ducros Gold Showing
+
+M
+
+Area of Outcrop
+
+Trench
+
+!H Drillhole
+
+" Grab samples
+_̂ Showing
+
+Shear Zone
+
+,
+
+,
+
+- --
+
+
+	2.1 Sources of information
+	2.2 Units of reference
+	4.1 Property Agreements
+	4.2 Environmental liabilities 
+	4.3 Work permits
+	7.1 Regional Geology
+	7.2 Local Geology
+	7.3 Property Geology
+	7.4 Structure
+	10.1 2004 Property Due Diligence Sampling Program
+	10.2 2005 Sampling
+	10.3 2005 Geophysics
+	10.4 2006 Geophysics
+	10.5 2006 Geophysics Interpretation
+	10.6 2007 Sampling
+	12.1 Grab-channel sampling
+	12.2 Core-sampling
+	14.1 Site Visit
+	20.1 Budget for Proposed Exploration
+	21.1 References by Author Name
+	21.2 References by Report Number
+	AppendixI-drillLogs.pdf
+	GCF-08-01
+	GCF-08-02
+	GCF-08-03
+	GCF-08-04
+	GCF-08-05
+	GCF-08-06
+	GCF-08-07
+
+	43-101_Fortin-Report-TEXT_FINAL.pdf
+	2.1 Sources of information
+	2.2 Units of reference
+	4.1 Property Agreements
+	4.2 Environmental liabilities 
+	4.3 Work permits
+	7.1 Regional Geology
+	7.2 Local Geology
+	7.3 Property Geology
+	7.4 Structure
+	10.1 2004 Property Due Diligence Sampling Program
+	10.2 2005 Sampling
+	10.3 2005 Geophysics
+	10.4 2006 Geophysics
+	10.5 2006 Geophysics Interpretation
+	10.6 2007 Sampling
+	12.1 Grab-channel sampling
+	12.2 Core-sampling
+	14.1 Site Visit
+	20.1 Budget for Proposed Exploration
+	21.1 References by Author Name
+	21.2 References by Report Number
+
+
+
+
+'

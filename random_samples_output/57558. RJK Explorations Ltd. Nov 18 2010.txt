@@ -1,0 +1,3874 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technical Report on Mining Claims  
+Sackville Project 
+
+ 
+Adrian, Aldina, Sackville, and Marks Townships 
+
+Ontario, Canada 
+ 
+
+Thunder Bay District, Mining Division 
+ 
+
+For 
+ 
+
+GLR Resources Inc. & RJK Exploration Ltd. 
+P.O. Box 546, 4 Al Wende Avenue, 
+
+Kirkland Lake, Ontario P2N 3J5 
+ 
+ 
+
+NTS 52 A 
+UTM 5367597N and 284556E 
+
+(Zone 16, NAD 83) 
+Latitude 48° 25' N Longitude 89° 55' W 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Dated at Kirkland Lake, Ontario on June 15th
+ 
+
+, 2010 
+
+Tammy Perry BSc. (ON) 
+ 
+Fred J. Sharpley, P.Geo. (ON) 
+ 
+ 
+ 
+
+
+
+TABLE OF CONTENTS                                           PAGE 
+ 
+Item 3:  Summary         5 
+ 
+Item 4:  Introduction and Terms of Reference     7 
+ 
+Item 5:  Disclaimer         7 
+ 
+Item 6:  Property Description and Location     8 
+ 
+Item 7:  Accessibility, Climate, Local Resources, Infrastructure 
+             and Physiography       13 
+ 
+Item 8:  History         14 
+ 
+Item 9:  Geological Setting       16 
+ 
+Item 10:  Deposit Type        19 
+ 
+Item 11:  Mineralization        20 
+ 
+Item 12:  Exploration        20 
+ 
+Item 13:  Drilling         25 
+ 
+Item 14:  Sampling Method and Approach     29 
+ 
+Item 15:  Sampling Preparation, Analysis and Security   29 
+ 
+Item 16:  Data Verification       29 
+ 
+Item 17:  Adjacent Properties       30 
+ 
+Item 18:  Mineral Processing and Metallurgical Testing   30 
+ 
+Item 19:  Mineral Resources and Mineral Reserves 
+       Estimates         30 
+ 
+Item 20:  Other Relevant Data and Information    30 
+ 
+Item 21:  Interpretation and Conclusions     30 
+ 
+Item 22:  Recommendations       31 
+ 
+Item 23:  References        33 
+
+ 
+
+
+
+ 
+PAGE 
+
+ 
+Item 24:  Certificate        37 
+ 
+Item 25:  Additional Requirements for Technical Reports 
+               On Development Properties and Production 
+               Properties (not applicable)       
+ 
+Item 26:  Illustrations        41 
+ 
+ 
+
+LIST OF TABLES 
+ 
+
+Table No. 1  Claims – (Sackville, Adrian, Aldina and Marks    
+           Townships) Property      13 
+
+ 
+Table No. 2  Property History – 2004 Drill Program    16 
+ 
+Table No. 3  Summary of Boulders 
+ 
+Table No. 4  Summary of Exploration Expenditures, 2009 – 2010  20 
+ 
+Table No. 5  Summary of Assay Results for soil samples 
+                     2009 – 2010        21 
+    
+Table No. 6  Drill Hole Location, 2009 – 2010     25 
+ 
+Table No. 7  Summary of Assay Results for core samples 
+                     2009 – 2010        28 
+ 
+Table No. 8  Proposed Budget                                                                    32 
+
+ 
+ 
+
+LIST OF FIGURES 
+ 
+
+Figure 1:  General Location Map       10 
+                      
+Figure 2: Claim Location Map       11 
+  
+Figure 3:  Geological Location Map: OGS (Map  
+                2664 Thunder Bay Sheet)      12 
+ 
+Figure 4:  Geology Map with DDH's      41 
+ 
+
+ 
+
+
+
+PAGE 
+ 
+Figure 5:  Magnetometer Map with DDH's     42 
+ 
+Figure 6:  Grid Map with Claims and DDH's     43 
+ 
+Figure 7:  Section Holes S09-01, S09-02     44 
+ 
+Figure 8:  Section Hole S09-03       45 
+ 
+Figure 9:  Section Hole S09-04       46 
+ 
+Figure 10:  Section Holes S09-05, S09-07     47 
+ 
+Figure 11:  Section Hole S09-06       48 
+ 
+Figure 12:  Section Hole S10-08       49 
+ 
+Figure 13:  Section Hole S10-09       50 
+ 
+Figure 14:  Section Hole S10-10       51 
+ 
+Figure 15:  Induced Polarization Survey:      
+
+           Chargeability with DDH's      52 
+ 
+Figure 16:  Induced Polarization Survey: 
+                  Chargeability with Geology      53 
+ 
+Figure 17:  Induced Polarization Survey: 
+                  Chargeability with Magnetometer Survey                         54  
+
+   
+Figure 18:  Induced Polarization Survey: 
+       Resistivity        55 
+ 
+Figure 19:  Enzyme Leach Soil Geochemistry – Cu    56 
+ 
+Figure 19a:  Enzyme Leach Soil Geochemistry – Zn    57 
+ 
+Figure 20:  Airborne Geotem Survey      58 
+ 
+ 
+
+ 
+Appendix 
+
+ 
+Figures 4 – 20         40 
+
+ 
+
+
+
+Item 3:  Summary 
+ 
+The Sackville Project consists of 8 non-patented mining claims (113 units) and one 
+patented claim located 100 km west of Thunder Bay in Adrian, Aldina, Sackville, and 
+Marks townships along the Shebandowan volcanic belt. 
+ 
+This report describes the drilling program performed between Oct.24, 2009 - Dec.15, 
+2009 and Jan.18, 2010 to Feb.9, 2010 by GLR Resources Inc. (GLR) and RJK 
+Explorations Ltd located on mining claims 4219074 - 4219075, 
+4244451 – 4244454, & 4244456 – 4244457 in Aldina, Marks, Adrian, and Sackville 
+Townships, District of Thunder Bay, Ontario.   
+ 
+The objective was to test wider possibilities for sources of massive sulphide boulders 
+(zinc-lead-copper-gold-silver) in three areas of the property.  These included a felsic 
+volcanic horizon with TDEM and IP anomalies to the north.  The boulders are known as 
+the Boomer, Calvert boulders that were 10 tons and 15 tons, respectively and found in 
+Aldina Township.  The Boomer boulder (southernmost) is predominantly pyrite and the 
+Calvert boulder (northernmost) is comprised of pyrite, chalcopyrite, sphalerite, galena 
+hosted in felsic agglomeratic volcanic rocks within a matrix of cherty lapilli tuff. Grade of 
+boulder samples are presented in Table 3. (Calvert boulder: 12% Zn, 0.26%Cu, 
+1.70%Pb, 214.3 g/t Ag, 3.51 g/t Au) 
+ 
+The work carried out consisted of drilling activities, core logging, assaying, soil 
+sampling, line cutting, and geophysical surveying.  Drilling took place between Oct.24, 
+2009 - Dec.15, 2009 and Jan.18, 2010 to Feb.9, 2010.  Ten holes were drilled at the 
+Sackville Project for a total of 1908 meters.  An Induced Polarization survey covering 
+21.75km was executed by Pierre Simone of GeoSig Inc. on the Stares Property from 
+Oct. 15, 16, and 17th 2009 and Oct. 27 and 28th 2009.  This survey detected 
+approximately 14 anomalies.  Also a geochemical soil survey was carried on the 
+Sackville property with lines spaced at 200m with samples taken every 25m.  This 
+survey covered approximately 21.75 km and was done Nov. 15th – 30th 2009 and Feb. 
+1st – 5th 
+    
+
+2010. 
+
+Core samples selected for assaying were split in half with a diamond saw blade and one 
+half was submitted for chemical assaying at Accurrassay Laboratories in Thunder Bay, 
+ON.  The core and rock samples were processed using procedure ALFA1 and 
+AL1CPMA; 67 core samples and 29 rock samples were assayed for WR and MA;  305 
+core samples and 54 rock samples were analysed for AUMA.   Also, 62 soil samples 
+were submitted for chemical assaying at Actlabs in Thunder Bay, ON.   
+ 
+The highest value obtained in drill core samples was of 6512 ppm Zn (0.65%) over 1m 
+in hole S09-03 within a 1m zone of Zn mineralization with a weight average of 6512 
+ppm (0.65%).  The highest weighted average was 4483.31ppm Zn (0.45%) in hole S10-
+08 over a width of 13m.  The highest in the soil samples 
+
+
+
+was 147 ppm at 283341E 5368181N.  The majority of anomalous values were caused 
+by a significant graphitic zone with abundant pyritization.  Often these types of zones 
+act as a cap for massive sulphide deposits which are in close proximity.  The deposit 
+type in this area is thought to be VMS due to the geology of the boulders found in the 
+Aldina Township.   
+ 
+Review of drill hole, geochemical, and geophysical data suggests more work should be 
+carried out on this property to better define areas of significant mineralization. 
+ 
+It is recommended that a detailed enzyme leach soil sampling campaign should be 
+carried out over the Sackville Property focussing on areas where high zinc values have 
+been found and over IP anomalies underlain by felsic volcanic rocks that have not been 
+tested.  As well drilling should be done in areas south of the known graphitic zone and 
+areas of anomalous geochemical results.  
+ 
+The total estimated cost of diamond drilling, soil sampling, and prospecting is estimated 
+to cost $252,450. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+Item 4:  Introduction and Terms of Reference 
+ 
+The author of this report was engaged by GLR resources Inc. (GLR) and RJK 
+Explorations Ltd. (RJK) both of Kirkland Lake, Ontario to compile, evaluate, and make 
+recommendations on the Sackville Property in the Kakabecka Falls area of the Thunder 
+Bay Mining Division of ON.  The purpose of this report is to update a previous NI 43 – 
+101 report which was carried out over claims that have been since dropped and new 
+claims have been staked in this area.  
+ 
+This document has been prepared to meet the companies general reporting needs.  
+Information contained has been based on personal inspection by the author, and on 
+published, assessment file and company information (see References).  The author is a 
+geologist (Bsc. Hons.); a resident of Haileybury, Ontario at 63 Dutton Street, P0J 1K0; 
+and is author and sole contractor for geological field and office work performed up to the 
+report release date.   
+ 
+The author supervised all work on the Sackville under the supervision of Fred Sharpley 
+P.Geo. including;  directed drilling operations (Oct. 24, 2009 – Dec.15, 2009 and 
+Jan.18, 2010 - Feb.9, 2010); examined drill core (Oct. 24, 2009 – Dec.15, 2009 and 
+Jan.18, 2010 -Feb.9, 2010), evaluated (Feb.9, 2010 – March 31, 2010), and reported on 
+(Feb.9, 2010 – June 1, 2010) the 2009 - 2010 drilling program in the Marks, Adrian, 
+Aldina and Sackville Townships, District of Thunder Bay, Ontario for the jointly-owned 
+Sackville Project (formerly Stares-Calvert).   
+ 
+Fred Sharpley, P.Geo (ON) who fulfills the requirements to be a "qualified person" for 
+the purpose of NI 43 – 101 visited the Sackville Property May 27 – 28, 2010.  At this 
+time Fred Sharpley, P.Geo examined drill core and property location of GLR Resources 
+Inc. and RJK Explorations Ltd.   
+ 
+Huard Drilling Ltd. of Haileybury, ON supplied a Duralite 200 with BTW rods for the 10-
+hole, 1908m drill campaign.   
+ 
+The objective of the drilling program was to test wider possibilities for sources of 
+massive sulphide boulders (zinc-lead-copper-gold-silver) in three areas of the property.  
+These included a felsic volcanic horizon with TDEM and IP anomalies to the north.   
+ 
+ 
+Item 5:  Disclaimer 
+ 
+The report prepared for GLR Resources Inc. and RJK Explorations Ltd. was based on 
+data provided by GLR Resources Inc. and RJK Explorations Ltd. and data collected in 
+the field.  The author has also relied on the field property visits between Oct.24, 2009 - 
+Dec.15, 2009 and Jan.18, 2010 - Feb.9, 2010, past assessment files, and reports on the 
+Sackville Property. 
+ 
+
+
+
+ 
+The data is presented in the metric system with a conversion from imperial system at 
+3.282 feet per meter.  The conversion factor from acres to hectares is 0.405.   
+ 
+The author has reviewed a series of documents and agreements with regard to claim 
+title and reviewed the government website with respect to staked claims controlled by 
+Option lands shown and listed in the accompanying tables and figures are in good 
+standing.  However, the author takes no responsibility for any errors or omissions in title 
+as neither an exacting title search nor an opnion was obtained from a solicitor. 
+ 
+All of the information reviewed and examined is believed to be reliable but cannot be 
+guaranteed as to the accuracy thereof.  It is the author's opinion that sufficient data was 
+reviewed to support the interpretations and conclusions of this report for exploration 
+purposes. 
+ 
+  
+Item 6: Property Description and Location 
+ 
+The Sackville property is a contiguous assembly of 8 non-patented mining claims and 1 
+patented claim (114 units, 3944 hectares).  The claims occupy parts of Adrian, Aldina, 
+Sackville and Marks Townships in the Thunder Bay (TB) Mining Division, District of 
+Thunder Bay, Ontario, Canada.  Relevant Mining Land Tenure Maps are Plan G -0640, 
+0641, and 0685, respectively (NAD 83).   The area is covered by the National 
+Topographic System 52A/5 quadrant (ed. 4 NAD 27).  Magnetic declination for this area 
+is 2° 41' (west declination) for the year 2010.  Figure 1 locates the project within 
+Northern Ontario in the Thunder Bay, Lake Superior area of northwest Ontario.  Figure 
+2 shows the outline of the contiguous claim group, worked claims, Aldina Rd and its 
+intersections with other logging roads for assessment filing purposes.  The claim group 
+is centred at UTM 5367597mN and 284556mE (Zone 16, NAD 27) and Latitude 48° 25' 
+28.73"N and Longitude 89° 54' 44.21"W.  The maximum extents are 4.8 km north-south 
+and 4.5 km east-west. Figure 3 locates the project area geologically on map 2664 
+Thunder Bay map sheet. Figure 4,5 & 6 details the specific claims, local geology, drill 
+locations, and a magnetometer survey.  Table 1 lists particulars of the claim holdings, 
+annual work requirements; and respective interests of GLR Resources Inc. (GLR) and 
+RJK Explorations Ltd. (RJK).  The unpatented claims were recorded from 2008 to 2010 
+with earliest due date on June 10, 2010 and the latest due date on Dec. 10, 2011.  
+Annual assessment totals $45,200 to maintain the maturity of the holdings.  
+ 
+ RJK Explorations Ltd. and GLR Resources Inc. have an option agreement on patented 
+claim in the area. It is recognized the property vendor and respective interests as being 
+50% Daniel Macsemchuk and 50% Bruce Macsemchuk with RJK and GLR having the 
+right to purchase (buy back) up to 2.0% of the Net 
+
+
+
+Smelter Royalty (NSR) from the vendors at a rate of $200,000 per 0.5% to a maximum 
+of $800,000 (2.0%).  As well there was a cash payment upon signing on September 30, 
+2001 of $7,000.00 cash and 40,000 shares which is in good standing.  RJK and GLR 
+shall have, over and above the NSR (buy back) the right of first refusal on the remaining 
+NSR should the vendors offer it for sale. 
+ 
+The jointly-owned project is 50% GLR Resources Inc. and 50% RJK Explorations Ltd. 
+Each company must pay their 50% share of the cost to maintain their interest.  
+ 
+There are no environmental liabilities on the property. 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+Township Claim # Units Hectares Recorded     Due     
+    Date 
+
+Amount    
+    Due 
+
+Ownership 
+
+Sackville 4219074 13 520 10-Jun-08 Pending $5200 RJK 50%-GLR 50% 
+Sackville 4219075 16 640 10-Jun-08 Pending $6400 RJK 50%-GLR 50% 
+
+Marks Patent 1 16 L 12  C 7 NW 1/4  RJK 50%-GLR 50% 
+Sackville 4244451 14 560 28-Sep-09 28-Sep-11 $5600 RJK 50%-GLR 50% 
+Sackville 4244452 16 640 28-Sep-09 28-Sep-11 $6400 RJK 50%-GLR 50% 
+Sackville 4244453 16 640 29-Oct-09 29-Oct-11 $6400 RJK 50%-GLR 50% 
+Sackville 
+& Adrian 
+
+4244454 16 640 10-Dec-09 10-Dec-11 $6400 RJK 50%-GLR 50% 
+
+Aldina 4244456 6 240 10-Dec-09 10-Dec-11 $2400 RJK 50%-GLR 50% 
+Aldina 4244457 16 640 10-Dec-09 10-Dec-11 $6400 RJK 50%-GLR 50% 
+
+ 
+             TOTAL: 8 claims & 1 patent 114 units     4536 hectares 
+ 
+
+     TABLE 1 Sackville Property Claims and Patents 
+ 
+ 
+                Item 7: Accessibility, Climate, Local Resources, Infrastructure and  
+
+            physiography 
+ 
+All season, gravel road access is available via Boreal Road. This traverses west from 
+Secondary Highway 590 to Km 10.5, Aldina East Road (63 km from Kakabeka Falls, 
+ON) and beyond. Aldina West Road, a seasonal (winter-plowing required) sandy road 
+provides generally good vehicle access to a ski-doo trail which provides access to 
+eastern side of the grid.  The Boreal Road- Hwy 590 intersection is 13 km west and 
+(then) south of the Hwy 590-TransCanada Highway 11-17 intersection.  Kakabeka Falls, 
+Ontario only 2 km to the south of this turn (on Highway 11-17) is the closest town. 
+Known as the "Niagara of the North" for its principal tourist attraction, it is also central to, 
+and partly dependent upon, surrounding forest resources.  A hydroelectric facility and 
+railway are  
+major infrastructure assets of this community.  Close proximity to the city of Thunder 
+Bay, 29 km to the east, also makes this locale attractive to commuters.  With  a 
+population of 149,063 (metropolitan area, 2006 Census), Thunder Bay hosts a major 
+airport, CN and CP rail lines, Ontario's largest port, and shipping service to the Great 
+Lakes, St. Lawrence Seaway and beyond.  Bulk commodities handled here are grain, 
+coal, potash, forest products, manufactured and dimension goods.  By surface, Thunder 
+Bay is 1387 km from Toronto, Ontario; 700 km from Winnipeg, Manitoba; 581 km from 
+Minneapolis, Minnesota;  
+and 1047 km from Chicago, Illinois, USA.  Otherwise, these major centres are a  
+short, 1-2 hour flight away.  Thunder Bay also has suppliers, government services and a 
+university (Lakehead) which also support mineral exploration and some mining needs.  
+
+        
+Located in the Severn Upland physiographic unit of the James Region, Precambrian 
+Canadian Shield (Carter, M.W., 1990; Thurston, P.C. 1991), the property is generally 
+surrounded by landforms which include bedrock knob and 
+
+
+
+plateau (metavolcanic-felsic intrusive- related); glaciolacustrine plain (low relief); ground 
+moraine (subdued relief, metavolcanic bedrock), glaciofluvial (low lying) and organic 
+terrain types (lowest relief, devoid of outcrop). Elevation varies from 440 to 570 m in the 
+area of the worked claims.  Steep hills, deep valleys and likely deep overburden are the 
+result of a terminal moraine.  This glacial deposit provides sand and gravel resources at 
+a number of pits (excluded from mineral rights).  Drainage and topography slope from 
+the west and from the east toward the north-flowing Serpent Creek. Portions of Serpent 
+Creek are designated as "cold water" habitat- a classification which tightly restricts 
+fording and operations (permits must be applied for in advance of such operations). 
+Much of the property has been harvested for timber.  Remaining forest cover includes 
+poplar, black spruce, balsam fir, birch; young jackpine and poplar regrowth.    
+ 
+Temperatures in the Kakabeka Falls/ Thunder Bay area average 2.5˚C and range from 
+an extreme minimum of –41.1˚C (January record) to the extreme maximum of +40.3˚C 
+(August record).  Averaged daily temperatures recorded by Environment Canada are –
+14.8˚ (January) and +24.2˚C (July).  Weather conditions on the property are notably 
+cooler (e.g. 5˚ in winter).  Moderation of climate by Lake Superior is sometimes visible 
+as a "frost-line" at higher elevations and en-route to the property.   
+  
+ 
+Item 8:  History 
+ 
+The Sackville Property was formerly known as the Stares.  Claims belonging to this 
+property were dropped and in 2008-2010; new claims were obtained in the vicinity of the 
+old Stares Property and renamed Sackville Property. 
+ 
+In his (NI43-101) report to GLR Resources and RJK Explorations, Bottrill (2003) 
+chronicles and details the history of the property from 1956-2002 (p. 10, p. 22).  The 
+region around the former Dawson road and present Highway 11-17 has seen sporadic 
+mapping (from 1872) and exploration (largely for iron deposits, from 1901) with 
+heightened activity from 1901-1925.  The property was explored for iron between 1950 
+and 1961.  Limited prospecting and geophysical surveys in 1991 and 1993 
+(magnetometer, VLF-EM, government airborne electromagnetic/AEM) included those of 
+American base-metal producer, Asarco Exploration Company (unpublished). Newly-cut 
+forestry roads by Stares Contracting, led to the 1996 discovery of sulphide-rich float 
+(0.6% Cu, 12% Zn, 4.4% Pb, 359 g/t Ag and 5.52 g/t Au).  Exploration by Cumberland 
+Resources in 1996 and 1997 included line cutting (additional to ASARCO's existing 
+grid), geological mapping; soil geochemistry, magnetometer, VLF-EM, Pulse DEEPEM 
+(PEM) and drilling (9 holes) - without success.  As part of a wider, Shebandowan 
+greenstone belt, and project-area specific surveys, surface till and humus samples were 
+taken by Bajc (1999, 2001). 
+ 
+ 
+ 
+
+
+
+Further exploration, from 1999, by GLR (or predecessor Greater Lenora Resources) 
+and RJK included  time-domain IP, trenching and discovery of heavily-oxidized bedrock 
+mineralization and(1999); initial drilling (winter, spring 2000); and discovery of Boomer 
+and Calvert massive sulphide boulders (10 and 15 t, respectively, summer 2000. The 
+Boomer boulder (southernmost) is predominantly pyrite and the Calvert boulder 
+(northernmost) is comprised of pyrite, chalcopyrite, sphalerite, galena. Grade of boulder 
+samples are presented in Table 3.  This was followed in 2000-2001 by line-cutting 
+(main 100 line km grid and 30 deg. local grid, 7 line-km); geophysical (magnetic, IP), 
+prospecting, mapping, geochemical surveys; stripping and trenching; and optioning of 
+the 15-claim Sackville property).  Additional boulders were discovered near a previous 
+pit (and near L 20+00W) in the summer of 2001.  Mechanical stripping and discovery of 
+more mineralized outcrop, led to additions to the property, to line-cutting, magnetic 
+surveys and channel sampling; to horizontal loop EM (HLEM), lithogeochemical, humus 
+geochemistry surveys. The winter 2001- summer 2002 tested the property extensively 
+with an enzyme leach geochemical survey (lab-extraction from till samples) and drilling 
+of enzyme-leach, magnetic and IP anomalies.   
+ 
+ 
+Bottrill (2003) also discussed results, specific techniques and limitations of the various 
+detection methods employed on the property.  Limitations of previous drilling were also 
+reviewed.  By 2002, cumulative diamond drilling, with Cumberland Resources previous 
+9-hole (1552 m) campaign and GLR-RJK's 63-hole (6916 m) totalled 8468 m.  Follow-
+up drilling (5 holes, 125-175m depth) was recommended close (50-200m) to the known 
+mineralized horizon.  This was based on the possibilities that down-plunge extensions 
+may lie west and north of the original discovery zone (and shallow drilling about this); 
+and that previous drilling in this direction was too shallow and too widely-spaced given 
+suspected faulting of the host rock and related stratigraphy.   
+ 
+ 
+Following the 2003 report the companies decided to proceed with an additional IP 
+surveys (2005, 2006), airborne time-domain EM (TDEM) and magnetic surveys and 
+drilling on Claims 1215006, 1215007, 125008, 125009 and 1215056 (MS04-01 to 
+MS04-06) from L 12W 17+00N to L22W 4+00S.  Specifics of the 2004 program are as 
+follows,  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+TABLE 2 Property History 
+
+ 
+Hole  Grid Position   Length        Azimuth       Dip  
+
+ 
+MS-04-01   12+00W 17+00N    113 m  180°  -45°  
+MS-04-02   12+00W 14+50N    102 m  180°  -45° 
+MS-04-03    21+00W   4+75N    199 m  180°  -50° 
+MS-04-04    21+20W   5+60N    258 m  180°  -60° 
+MS-04-04a  21+20W   5+60N     53 m         180°  -60° 
+(abandoned) 
+MS-04-05   19+00W   5+00N    230 m  180°  -70° 
+MS-04-06   22+00W   4+00S    210 m  180°  -50°  
+All   12-22W          4S-17N1165m  
+ 
+Zinc concentrations were generally in lowest, orders-of-magnitude ppm range.  Higher 
+values in MS04-03, MS-04-04 were found. MS-05-05 reported around 1% Zn, but these 
+were in short intervals (0.5-1m, Parker 2004).   
+ 
+In 2005-2006 GLR Resources and RJK Explorations drilled 9 holes totalling 826m.  
+Drilling of three widely separated targets on the Stares option allowed testing of broader 
+base metal potential on an extensive property.  While mineralization was low, it was at 
+least provided other indications and perspective on potential away from the discovery 
+zone.   The northern target zone produced somewhat higher amounts of zinc and 
+copper than the west extension.  One hole, SC05 – 08 was drillied on the present claim 
+4244451.    
+  
+ 
+Item 9:  Geological Setting 
+ 
+Regional Geology 
+ 
+An extensive discussion of the geological and tectonic setting of the Stares property 
+was provided by Bottrill (2003).  The described setting is within the Shebandowan 
+greenstone belt of the western Wawa Subprovince in the Archean-era Superior 
+Province, Precambrian Shield.  Further description of the regional to local geology 
+focuses here on some key characteristics of geological systems at various scales, from 
+pluton to assemblage to sub-province and to geological province scale which may 
+provide geological insight to mineral distributions at a property and drill project scale. 
+ 
+ 
+Within the Shebandowan belt volcanic cycles consist of a lower sequence of (tholeiitic) 
+basalt flows and an upper sequence of andesite, dacite, and rhyolite (calc-alkalic) flows 
+(Williams et al 1991).  This bi-modal volcanic cycle is accompanied by abundant mafic 
+sills and differentiated gabbro-anorthosite plutons.  Stratigraphic units are near-vertical.  
+These volcanics – including some 
+
+
+
+magnesian (komatiitic) units can be overlain, unconformably by sedimentary and 
+volcanic rocks that resemble rocks of the Timiskaming Group near Kirkland Lake, ON in 
+the Abitibi belt.  Sediments include metamorphosed equivalents of wacke, minor 
+conglomerate and iron formation. The broader Wawa Subprovince is described as a 
+"sea" of granitoid (intrusive) rocks with well-defined greenstone belts such as the 
+Shebandowan belt.  Shearing often masks stratigraphic and structural relationships 
+between lithological units.  Mineralization associated with the Shebandowan greenstone 
+includes iron, nickel-copper sulphide (Shebandowan Mine, in a komatiitic flow unit) 
+copper, copper-gold, copper-zinc and gold- in short a wide range of commodities 
+generally found in the Superior Province.  Consequently, the Shebandowan greenstone 
+belt is not particularly distinctive in this respect or at this scale- neither are the 
+associated processes. 
+ 
+ 
+At a much larger scale- 2 million square km- the Superior Province is differentiated into 
+plutonic, granite-greenstone, metasedimentary and gneissic subprovinces (Card and 
+Poulsen, 1998). This might offer little else than a modal analysis of igneous, mixed 
+igneous-supracustal, sedimentary and metamorphic domains- with one exception.  The 
+granite-greenstone sub-provinces contain virtually all of the economically important 
+mineral deposits of the Superior Province- Zn-Cu-Pb, lode gold, vein copper, magmatic 
+nickel sulphides, Cr-Ti-V, iron-ore deposits of the Algoma type, and rare-metal 
+pegmatite deposits including lithium and tantalum.   While not usually discussed in the 
+same context as lateral variation of the provinces, subprovinces, assemblages and local 
+geology- vertical differentiation might also be be considered. By geophysical inference 
+(gravity, seismic characteristics), greenstone belts can have depths of 5 km with roots to 
+7 to 12 km while metasedimentary and granitic rocks may, by virtue of lower density, 
+may show negative anomalies.   An upper layer approximately 10 km thick layer of 
+greenschist-amphibolite (metamorphic facies) rocks appears to be cut by plutons and 
+mainly steep-dipping discordant structures.  Below this is an intermediate plutonic 
+(tonalite-granodiorite-remnant supracrustal rocks) layer, 15 km thick, with shallow-
+dipping (seismically reflective), ductile structures.  Further below are granulite-facies 
+rocks (plutonic and supracrustal) that extends to an average depth of 40 km.   
+ 
+ 
+While geological settings and associated models may vary, lithologies, associated 
+processes and potentials in granite-greenstone (greenschist to amphibolite) in as little 
+as a 5 to 10 km radius might be considered as geologically and spatially significant- 
+from property scale to Superior Province-wide scale.  Within a local geological setting, 
+distribution of bimodal volcanic rocks - among the most significant hosts of Archean 
+mineral deposits- provide an additional focus.  A mineralized "system"- might therefore 
+significantly include some combination of, metavolcanic-metasedimentary rocks 
+(greenschist-amphibolite metamorphic-grade, "greenstones"); specifically bi-modal 
+volcanics; mafic sills; other intrusives or plutons.   
+ 
+
+
+
+Local Geology 
+ 
+The local stratigraphic sequence is characteristic of many greenstone belts in areas 
+associated with volcanic hosted base and precious metal mineralization. 
+This sequence is primarily a basal iron tholeiite basalt overlain by variable thicknesses 
+of felsic volcanic rocks and in turn by a thick sequence of turbiditic graywackes.   
+ 
+The felsic rocks are predominantly rhyolites which can be further divided into a 
+younging sequence from subaqueous quartz-phyric high-silica rhyolites upwards to 
+progressively more subaerial quartz-feldspar phyric rhyolite tuffs. The basal high-silica 
+rhyolites include thinly bedded ignimbrite units which include basal tuff-breccia to 
+agglomeratic horizons with similar coarse fragmental textures to those seen in sulphide 
+mineralization. The tops of these units are finely laminated and graded ash-tuffs. 
+ 
+ Additional signs of probable subaerial volcanism include distinctive phreatic breccias 
+restricted to single horizons in highly siliceous ash tuffs. 
+Throughout the sequence there are abundant ironstones and cherty tuffites, the latter 
+being more abundant in the rhyolite units. The ironstones include chert-magnetic 
+jasperoids as well as magnetite-silicate (amphibole-garnet) facies. The distribution of 
+the different ironstones facies corresponds to probable 
+water depths and each type is associated with a correspondingly appropriate rock type 
+consistent with the appropriate water depth. The iron-oxide rich units are associated 
+with the subaerial units, whereas separate pyretic and carbonaceous chert tuffites are 
+located in progressively more subaqueous hosts. This facies distribution may reflect an 
+original volcanic topography with a volcanic high in the area around the known sulphide 
+mineralization progressively deepening to the north and east into the turbiditic 
+graywacke basin. 
+ 
+These units are deformed and metamorphosed. The intensity of deformation is different 
+among the various rocks types, with some such as the original mudstones showing the 
+development of schistosity, whereas, by contrast, units such as the rhyolite ignimbrites, 
+are almost internally pristine and mostly show 
+brittle failure in locally closely-spaced faults. The ironstones, especially magnetite-
+silicate facies ironstones are very finely laminated and unlike the many banded 
+jasperoid ironstones show none of the classical internal folding. 
+ 
+The overall structure on the property is a southern isoclinally folded, steeply dipping 
+overturned antiform, with the central area a corresponding synform underlain by the 
+turbitic graywackes, with a further antiform in the northern part of the property. Each of 
+these folds have east-west axial planes. They appear to have been re-folded around 
+later northeast striking axes providing the oroclinal form of the folds, convex to the 
+northeast. To a large extent the interpretation of the property geology has been based 
+on the 1991 OGS airborne magnetic and electromagnetic survey, and the relationship 
+between the local geology on the 
+
+
+
+grid area with the ground magnetic data. The fold pattern that is very apparent on the 
+grid has been used as a model for interpretation of the entire property. 
+ 
+The only major faults which cross and off-set the units within the fold are orientated 
+northeast and appear from the differences on either side to be original basin margin 
+faults active during volcanism and sedimentation. 
+ 
+Several rock types were encountered during the 2009 – 2010 drilling program can be 
+seen on Figure 4 which include mafic volcanics (green), gabbro (blue), intermediate 
+volcanic (bright green) that are mainly rhyolites.  Not shown on the map is chert and 
+graphite which was also seen during mapping and drilling.  The eastern and 
+northeastern section of the grid consisted mainly of rhyolites with clastic sediments near 
+the southeast.  A section of gabbro can be seen on the northwest and southwest.  All 
+units strike NW-SE with the majority of the area being mafic volcanics.  
+ 
+     
+ 
+Item 10: Deposit Type 
+ 
+In exploring recent and past work of the Sackville Property the geological deposit type 
+to describe mineralization is massive sulphide.  Volcanogenic massive sulphide (VMS) 
+deposits, also known as volcanic-associated, rhyolite-volcanic-hosted, and 
+volcanosedimentary-hosted massive sulphide deposits.  These deposits are major 
+sources of Zn, Cu, Pb, Ag, and Au, and significant sources for Co, Sn, Se, Mn, Cd, In, 
+Bi, Te, Ga, and Ge. 
+ 
+They are discovered in submarine volcanic terranes that range in age from 3.4 Ga to 
+actively forming deposits in modern seafloor environments. The most common feature 
+among all types of VMS deposits is that they are formed in extensional tectonic settings, 
+including both oceanic seafloor spreading and arc environments.  They are a natural 
+product of hydrothermal activity associated with submarine volcanic activity.  Seawater 
+circulates through active volcanic rocks becomes heated and picks up small quanities of 
+metals from these rocks. The heated seawater then spews onto the seafloor as gysers 
+and sulphide minerals precipitate. 
+ 
+Some indications of VMS deposits which can be seen on the Sackville property and 
+surrounding area include; boulders of massive sulfide,   alterartion (chloritization, 
+seritization, and pyritization) although seritization is very minor, 
+ and main rock types are volcanic and felsic. 
+ 
+The boulders are known as the Boomer and Calvert boulders that were 10 t and 15 t, 
+respectively that trend north – northeast at 200m apart. The Boomer boulder 
+(southernmost) is predominantly pyrite and the Calvert boulder (northernmost) is 
+comprised of pyrite, chalcopyrite, sphalerite, galena hosted in felsic agglomeritic 
+volcanic rocks with a cherty lapilli matrix. Grade of the Calvert, Boomer, and 
+
+
+
+Stares boulder samples are presented in Table 3.  The Calvert c boulder had a grade of 
+15.99 Zn%, 0.24 Cu%, 2.06 Pb%, 0.016 Cd%, 192 Ag g/t, and 3.5 Au g/t. 
+ 
+The ice direction is 190° which aligns the massive sulphide boulders with the area of 
+drilling on the Sackville property. 
+ 
+ 
+Boulder Zn % Cu % Pb % Cd % Ag g/t Au g/t Township 
+
+Boomer 1 0.56 0.00 0.39 n/a 56 0.22 Aldina 
+Boomer 2 0.29 0.00 0.00 0.001 5.2 0.19 Aldina 
+
+Calvert  8.8 0.26 1.70 n/a 214.2 3.51 Aldina 
+Calvert a 8.96 0.24 0.62 0.015 124.5 2.47 Aldina 
+Calvert b 38.06 0.16 0.33 0.099 36.8 0.41 Aldina 
+Calvert c 15.99 0.24 2.06 0.026 192 3.5 Aldina 
+Calvert d 10.47 0.20 0.41 0.016 67 2.33 Aldina 
+Stares 12 0.6 4.4 n/a 359 5.52 Aldina 
+
+ 
+Table 3 Summary of VMS boulders 
+ 
+ 
+Item 11: Mineralization 
+ 
+Mineralization occurring in the drill core and outcrop on the Sackville Property is mainly 
+disseminated pyrite (as well as stringers) with very minor chalcopyrite.  The majority of 
+mineralization occurred in the rhyolite and graphitic units that ranged from 5 – 30%.  As 
+well felsic rocks with classic mill-rock were encountered during drilling on the east side 
+of the property.   
+ 
+ 
+Item 12: Exploration 
+ 
+All exploration on the Sackville property was carried out by the author under the 
+supervision of Fred Sharpley, P.Geo.  The work was carried out according to industry 
+standards.  From the years 2009 – 2010 a total of $491,745.14 of exploration has been 
+spent on the claims.  The type of exploration and expenditures are itemized in TABLE 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+TABLE 4 
+WORK EXPENSES 
+
+ 
+Crew Members           Title  Function      Days of Work
+ Salary 
+ 
+Tammy Perry Geologist core logging,mapping  $33, 983.87  
+     Report production 
+ 
+ 
+Donald Kasner           Supervised field activities  $5590.29 
+ 
+Robbie Sheldon Core Cutter      $5899.62 
+ 
+Jimmy Everett        $300.00 
+                 
+
+   TOTAL 1  $45, 773.78  
+ 
+DRILLING EXPENSES (1908m of Drilling) 
+
+            
+                           days 
+
+Peter Huard   Driller  Drilling work/mob-demob  76 
+Andrew Huard     Driller     Drilling work/mob-demob  76 
+Shaun Bowen     Drill Helper Drilling work/mob-demob  76 
+Larry Milot   Drill Helper Drilling work/mob-demob  53 
+Jason Jolette   Drill helper Drilling work/mob-demob  23 
+ 
+    Meters drilling + expenses + salary TOTAL 2     $338,837.09 
+ 
+Analyses 
+ 
+Core Assays      372 samples 
+Rock Assays    83 samples 
+Soil Assays    62 samples     TOTAL Core + Rock + Soil    $10,062.65 
+ 
+ 
+Geophysical Survey (21.75 km) 
+GeoSig (Consultants)             $44,000.40 
+ 
+OTHER 
+Room + Board                       $11,872.81 
+Project Administration                             $4,355.44 
+Insurance              $781.82 
+Rentals, Equipment, etc.            $12,096.96 
+             
+        TOTAL  $29,107.03 
+        GRAND TOTAL $491,745.14 
+ 
+
+
+
+Geophysical Work 
+ 
+On behalf of GLR Resources Inc. GeoSig carried out an Induced Polarization survey 
+from Oct. 15, 16, and 17th 2009 and Oct. 27 and 28th
+
+ 
+
+ 2009 on the Sackville property.  
+The survey was done on a NS grid and NE-SW grid with lines spaced at 200 m covering 
+approximately 21.75 km and partially covered claim blocks; 4219074, 4219075, 
+4244451, 4244452, and 4244453.    The IP survey was done using dipole-dipole array, 
+in time domain mode with a standard 2 seconds ON, 2 seconds OFF.  The dipole-dipole 
+ran with a=25m electrode spacing and N=1 to 6.  Readings were taken every 25m and 
+stainless steel pin electrodes were used for the receiver to improve the signal to noise 
+ratio. 
+
+14 anomalies were located over the grid area with the strongest anomalies on lines 22, 
+24, 26, & 28 E and lines 20, 22, & 24 N.  6 of the 14 anomalies were drilled.   These 
+anomalies are seen on FIGURES 15 – 18.  As well GeoSig provided maps of 
+chargeability, resistivity, and metal factor. 
+ 
+ 
+Geochemical Surveying 
+ 
+A geochemical soil survey of Au by atomic absorption and Aqua Regia ICP was carried 
+out on the Sackville property on a portion of NS grid and NE-SW grid with lines spaced 
+at 200 m covering approximately 21.75 km (FIGURE 19 & 19a).  The soil survey was 
+done using a hand held auger with the majority of samples taken at 25m intervals and a 
+depth that reaches the B – horizon.  Clear Ziploc bags were labelled showing sample 
+number, location, and line number, then sample were placed in the bag. 62 Samples 
+were sent to ACTLabs, Thunder Bay, ON for analysis  using packages; Code 1A2-Tbay 
+Au-Fire Assay AA which used 30g samples and Code 1E3-Tbay Aqua Regia 
+ICP(AQUAGEO) which used 0.5g samples and a 3:1 ratio HCL acid to Nitrate acid for 
+the leaching process. 
+ 
+Samples were analysed for Au, Ag, Cd, Cu, Mn, Mo, Ni, Pb, Zn, Al, As, B, Ba, Be, Bi, 
+Ca, Co, Cr, Fe, Ga, Hg, K, La, Mg, Na, P, S, Sb, Sc, Sr, Ti, Te, Tl, U, V, W, Y, and Zr. 
+
+                  
+W Y Zr 
+
+The Geochemical results for the elements of interest Au, Ag, Cu, Mn, Pb, and Zn are 
+presented in Table 5 which represents values received in parts per billion for Au and 
+parts per million for the remaining elements.  Some anomalous values occurred on line 
+8 and line 2 on the western portion of the property. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+TABLE 5: SACKVILLE PROPERTY: SOIL SPLS
+
+Sample # x y Easting Northing Au Ag Cu Mn Pb Zn Type Colour Trees and Vegitation,Terrain Other Comments Depth
+
+ppb ppm ppm ppm ppm ppm
+
+SL10400N 10+00E 4+00N 283574 5368388 < 5 < 0.2 19 204 4 34 Sandy Brown Pine,mossy,lab tea,flat lowland none 20 cm
+
+SL10375N 10+00E 3+75N 283571 5368364 < 5 < 0.2 19 202 4 36 Clay/Sand br/grey balsalm,pine,mossy,flat lowland none 20 cm
+
+SL10350N 10+00E 3+50N 283577 5368328 < 5 < 0.2 26 314 19 44 Clay/Sand br/grey Pine,mossy,lab tea,flat lowland none 20 cm
+
+SL10325N 10+00E 3+25N 283568 5368282 < 5 < 0.2 21 1110 4 43 Clay grey Pine,mossy,boulders,Flat lowland none 20 cm
+
+SL10300N 10+00E 3+00N 283570 5368282 < 5 < 0.2 59 329 5 33 Mud/Clay black Pine,Spruce,Flatting out to creek none 20 cm
+
+SL10275N 10+00E 2+75N 283569 5368261 < 5 < 0.2 83 254 5 17 Muddy black Pine,mossy,boulders,Flat lowland none 20 cm
+
+SL10250N 10+00E 2+50N 283567 5368232 < 5 < 0.2 50 417 9 85 Mud/Clay black Pine,Tags,flat beside creek edge of creek 30 cm
+
+SL10225N 10+00E 2+25N 283572 5368212 < 5 < 0.2 10 245 2 11 Muddysoil black balsalm,pine,mossy,flat lowland N or creek stinky soil 20 cm
+
+SL10200N 10+00E 2+00N 283573 5368185 < 5 < 0.2 6 189 2 15 Muddy black Pine,mossy,boulders,Flat lowland none 20 cm
+
+SL8350N 8+00E 3+50N 283356 5368331 < 5 < 0.2 42 106 5 38 Clay grey/br Pine,Blk spruce,tags,Grassy river basin none 30cm
+
+SL8325N 8+00E 3+25N 283358 5368306 < 5 < 0.2 31 176 5 55 Clay Blueish/Gr Pine,Blk spruce,tags,Grassy river basin Never seen soil before 25 cm
+
+SL8300N 8+00E 3+00N 283355 5368282 < 5 < 0.2 14 278 5 42 Clay/Mud Dark grey Grassy flood path of creek Pyr+ryst in sample 20 cm
+
+SL8275N 8+00E 2+75N 283356 5368261 < 5 < 0.2 8 127 2 31 Clay/Mud Dark grey Grassy flood path of creek Pyr+ryst in sample 20 cm
+
+SL8250N 8+00E 2+50N 283347 5368237 11 < 0.2 26 82 14 43 Soil Black Pine,Balsalm,Mossy,boulders next to creek beside creek 20 cm
+
+SL8225N 8+00E 2+25N 283354 5368215 < 5 < 0.2 45 238 6 48 Sandysoil Br/Blk Pine,mossy,lots of boulders incline multi hole sample 5 cm's
+
+SL8200N 8+00E 2+00N 283341 5368181 < 5 0.3 24 370 5 147 Sandgravel Brown Pine,Balsalm.Mossy side of hill pebbles in sample 20 cm
+
+SL8175N 8+00E 1+75N 283355 5368165 6 < 0.2 30 219 6 92 Sand Brown Pine,moss,in a gulley with boulders in a small valley 20 cm
+
+SL8150N 8+00E 1+50N 283346 5368135 5 < 0.2 21 191 11 65 Clay Br/Grey Pine,Bal,tags mossey boulders Side of hill 20 cm
+
+SL6400S 6+00E 4+00S 283180 5367582 < 5 < 0.2 30 431 5 58 sand/pebb brown pop,bal, slope to north skidder rd 25m North 20 cm
+
+SL6375S 6+00E 3+75S 283187 5367611 < 5 < 0.2 12 196 3 51 fine sand reddish/br pop,bal, tags flatting out other side of road 20 cm
+
+SL6350S 6+00E 3+50S 283188 5367633 < 5 < 0.2 31 423 5 53 Sand br/greyish pop,pine,bal,tags, flat sloping dn to north 20 cm
+
+SL6325S 6+00E 3+25S 283174 5367661 < 5 < 0.2 10 206 6 63 clay/sand grey/brown pop,pine,bal,tags, flat none 20 cm
+
+SL6300S 6+00E 3+00S 283130 5367688 < 5 < 0.2 10 192 3 40 fine sand brown pop,pine, some tags none 20 cm
+
+SL6275S 6+00E 2+75S 283179 5367706 < 5 < 0.2 10 157 4 29 fine sand brown pop,pine, some tags none 20 cm
+
+SL6250S 6+00E 2+50S 283173 5367740 < 5 < 0.2 10 154 3 25 sandy/clay light brown pines open area next to road 20 cm
+
+SL6225S 6+00E 2+25S 283176 5367759 < 5 < 0.2 13 153 3 33 sand/clay browish/rd pines open area next to road 20 cm
+
+SL6200S 6+00E 2+00S 283178 5367783 < 5 < 0.2 37 400 8 57 clay indian red pines,old and young hard sample 20 cm
+
+SL6300N 6+00E 3+00N 283163 5368277 < 5 < 0.2 35 287 5 78 sand brown pine,bal next to creek 20 cm
+
+SL6325N 6+00E 3+25N 283155 5368302 < 5 < 0.2 12 239 7 65 sand brown pine,bal next to creek 20 cm
+
+SL6350N 6+00E 3+50N 283156 5368327 < 5 < 0.2 16 191 5 37 sand lt br/ dk br pine,lab tea opening to cut 20 cm
+
+SL6375N 6+00E 3+75N 283158 5368351 < 5 < 0.2 25 290 4 42 clay/sand lt brown young pine,tamarack in cut 20 cm
+
+
+
+SL6400N 6+00E 4+00N 283156 5368377 6 < 0.2 34 349 5 52 gran/sand brown open still in cut 20 cm
+
+SL6425N 6+00E 4+25N 283159 5368404 < 5 < 0.2 15 239 5 72 sand brown open still in cut 20 cm
+
+SL6450N 6+00E 4+50N 283158 5368426 < 5 < 0.2 19 232 5 74 sandy/clay orange/br open still in cut 20 cm
+
+SL6475N 6+00E 4+75N 283157 5368481 < 5 < 0.2 25 194 11 49 gran/sand brown open still in cut 20 cm
+
+SL6500N 6+00E 5+00N 283157 5368481 < 5 < 0.2 31 270 6 66 gran/sand rusty/br open some veg in cut some boulders 20 cm
+
+SL6525N 6+00E 5+25N 283152 5368524 < 5 < 0.2 19 156 4 31 sand/clay grey/br hard sample lots of boulders small sample 20 cm
+
+SL6550N 6+00E 5+50N 283152 5368524 < 5 < 0.2 43 467 4 63 sand/clay grey/br hard sample lots of boulders still in cut 20 cm
+
+SL200EBL 2+00E 0+00 282774 5367954 < 5 < 0.2 11 278 3 30 sand light brown in cut young pines,tags grassy none 20 cm
+
+SL2025N 2+00E 0+25N 282775 5367981 < 5 < 0.2 14 234 4 46 sand orange/br in cut young pines,tags grassy none 20 cm
+
+SL2050N 2+00E 0+50N 282774 5368006 < 5 < 0.2 28 246 5 53 sand orange/br in cut young pines,tags grassy none 20 cm
+
+SL2075N 2+00E 0+75N 282773 5368027 < 5 < 0.2 11 191 5 47 sand brown in cut young pines,tags grassy none 20 cm
+
+SL2100N 2+00E 1+00N 282773 5368054 < 5 < 0.2 10 423 4 61 sand orange/br pop,tags,pines,grassy boulders none 20 cm
+
+SL2125N 2+00E 1+25N 282772 5368080 < 5 < 0.2 14 205 5 61 sand light brown pop,tags,pines,grassy boulders none 20 cm
+
+SL2150N 2+00E 1+50N 282772 5368101 < 5 < 0.2 19 300 5 47 sand light brown pop,tags,pines,grassy boulders next to road 20 cm
+
+SL2425N 2+00E 4+25N 282766 5368369 < 5 < 0.2 39 467 12 54 clay dark grey tags 2m north of road 20 cm
+
+SL2450N 2+00E 4+50N 282763 5368393 8 < 0.2 20 375 8 73 sand orang/brown bals,pop,tags bottom of gulley 20 cm
+
+SL2475N 2+00E 4+75N 282769 5368416 < 5 < 0.2 18 319 5 75 sand dark br/red tags bottom of gulley 20 cm
+
+SL2500N 2+00E 5+00N 282759 5368436 < 5 < 0.2 11 279 7 65 sand red/brown birch,tags bottom of gulley 20 cm
+
+SL2525N 2+00E 5+25N 282766 5368462 < 5 < 0.2 17 279 5 62 fine sand orang/brown birch,pine still desending 20 cm
+
+SL2550N 2+00E 5+50N 282762 5368492 < 5 < 0.2 62 366 7 115 gran/sand orang/brown birch,pine desending off hill 20 cm
+
+SL2575N 2+00E 5+75N 282761 5368515 < 5 < 0.2 26 310 5 59 sand or/rd/brown pines,tags top oif hill 20 cm
+
+SL2600N 2+00E 6+00N 282764 5368539 < 5 < 0.2 22 290 4 53 sand brown/red birch,pop,tags,ferns.grass uphill to south 20 cm
+
+SL2625N 2+00E 6+25N 282754 5368565 < 5 < 0.2 12 266 5 88 sand brown/red birch,pop,tags,ferns.grass side of slope to north 30 cm
+
+SL2650N 2+00E 6+50N 282761 5368589 < 5 < 0.2 30 237 4 55 sand brown birch,pop,tags,ferns.grass side of slope to north 20 cm
+
+BL2450E 24+50E 0+00N 285399 5366292 < 5 < 0.2 17 137 6 5 clay grey/black pine,bal, bottom of cliff 30 cm
+
+BL2475E 24+75E 0+00N 285360 5366259 < 5 < 0.2 10 168 3 8 silty sand orang/brown toung pine,bal hit bedrock top of hill 5 cm's
+
+BL2500E 25+00E 0+00N 285379 5366249 7 < 0.2 8 602 5 5 silty sand brown pop,pine,bal,grass top of hill 5 cm's
+
+BL2525E 25+25E 0+00N 285402 5388241 < 5 < 0.2 14 476 5 6 silty sand red/brown pop,pine,bal,grass depression t.o.h 20 cm
+
+BL2550E 25+50E 0+00N 285424 5366228 < 5 < 0.2 23 379 10 2 silty sand dk red/brown pop,pine,bal,grass slopeing down 5 cm's
+
+BL2575E 25+75E 0+00N 285446 5366214 6 < 0.2 46 360 3 6 silty sand orang/brown young bal,ferns side of hill 20 cm
+
+BL2600E 26+00E 0+00N 285467 5366204 < 5 < 0.2 12 554 2 5 sand brown birch,pop,tags,ferns end of new grid 20 cm
+
+
+
+Item 13: Drilling  
+ 
+Drill Holes location performed in 2009 – 2010 at the Sackville Project of claims 
+4219074, 4219075, 4244451 – 4244454, & 4244456 – 4244457 are shown in Figure 6 
+and Table 6. 
+ 
+Hole # Easting Northing Azimuth Dip Length 
+
+S09-01 283899 5367693 360 -45 150m 
+S09-02 283891 5367599 360 -45 248m 
+S09-03 283336 5367621 220 -45 137m 
+S09-04 284737 5367815 220 -45 163m 
+S09-05 284732 5367631 30 -45 203m 
+S09-06 285374 5367526 30 -45 152m 
+S09-07 284727 5367576 30 -45 227m 
+S10-08 284730 5367941 45 -45 230m 
+S10-09 283356 5368189 45 -45 160m 
+S10-10 285424 5366551 30 -45 238m 
+
+             
+   TOTAL:         1908m  
+ 
+TABLE 6 Drill hole location, 2009 – 2010. 
+ 
+Drill hole sections are also presented earlier in the report in FIGURES 7 - 14. 
+ 
+A summary of the main results obtained of the core samples submitted for assaying for 
+the 10 drill holes S09-01 to S09-07 and S10-08 to S10-10 are presented below and on 
+TABLE 7.  Zn and Cu values are displayed on figures of the drill hole sections 
+FIGURES 7 - 14. 
+ 
+DDH S09-01 - 140.67 ppm Cu (0.01%) and 885.00 ppm Zn (0.09%) over 3m   
+                        (76m – 79m). 
+
+155.4 ppm Cu (0.02%) and 592.90 ppm Zn (0.06%) over 10m     (82m – 
+92m).  
+306.67 ppm Cu (0.03%) and 1086.33 ppm Zn (0.11%) over 3m (87m – 
+90m). 
+
+ 
+DDH S09-02 – 160.43 ppm Cu (0.02%) and 952.50 ppm Zn (0.10) over 8m   
+
+     (186.5m – 194.5m). 
+     107.00 ppm Cu (0.01%) and 1288.00 ppm Zn (0.13%) over 1m   
+     187.5m – 188.5m). 
+     613.80 ppm Cu (0.06%) and 4116.20 ppm Zn (0.41%) over 1.10m   
+     (190.9m – 192m).  
+
+ 
+DDH S09-03 – 589.33 ppm Cu (0.06%) over and 2308.33 ppm Zn (0.23%) over   
+                        3m (24 – 27m). 
+
+764 ppm Cu (0.08%) and 6512 ppm Zn (0.65%) over 1m (26m – 27m). 
+
+
+
+191.00 ppm Cu (0.02%) and 900 ppm Zn (0.09%) over 1m (35m –      
+36m). 
+
+      219 ppm Cu (0.02%) and 2321.00 ppm Zn (0.23%) over 1m (38m    
+                       – 39m). 
+
+    172 ppm Cu (0.02%) and 1875 ppm Zn (0.19%) over 1m (52.5m –         
+    53.5m). 
+    146.5m ppm (0.01%) and 519.25 ppm Zn (0.05%) over 4m (56m –   
+    60m). 
+    467 ppm Cu (0.05%) and 80 ppm Zn (0.01%) over 1m (131m –  
+    132m). 
+
+ 
+DDH S09-04 – 403.29 ppm Cu (0.04%) and 530.00 ppm Zn (0.05%) over 7m  
+                        (156m – 163m). 
+        808.67 ppm Cu (0.08%) and 5451.67 ppm Zn (0.55%) over 3m    
+                        (159 – 162m). 
+ 
+DDH S09-05 – 288.33 ppm (0.03%) Cu and 1708.75 ppm Zn (0.17%) over 12m  
+                        (109m – 121m). 
+        319.00 ppm Cu (0.03%) and 2311 ppm Zn (0.23%) over 3m  
+                        (111m – 114m). 
+        453.50 ppm Cu (0.05%) and 2882.75 ppm Zn (0.29%) over 4m  
+                        (115m – 119m). 
+ 
+DDH S09-06 - 124.00 ppm Cu (0.01%) and 1209 ppm Zn (0.12%) over 1m (63m  
+                        – 64m). 
+ 
+DDH S09-07 –111.3 ppm Cu (0.01%) and 569.60 ppm Zn (0.06%) over 20m  
+    (156 – 176m). 
+    287.00 ppm Cu (0.03%) and 2309.25 ppm Zn (0.23%) over 4m  
+                       (167 – 171m). 
+ 
+DDH S10-08 – 505.16 ppm Cu (0.05%) and 3603.18 ppm Zn (0.36%) over  
+                        21.61m (162 – 183.61m). 
+     653.15 ppm Cu (0.07%) and 4483.31 ppm Zn (0.45%) over 13m  
+                        (170m – 183m). 
+        764 ppm Cu (0.08%) and 5721.00 ppm Zn (0.57%) over 2m  
+                        (174m – 176m). 
+ 
+DDH S10-09 – 121 ppm Cu (0.01%) and 308 ppm Zn (0.03%) over 1m (14 –  
+                        15m). 
+        33 ppm Cu (0.00%) and 244 ppm Zn (0.02%) over 1m (68 –  
+
+     69m). 
+     27 ppm Cu (0.00%) and 311 ppm Zn (0.03%) over 1m (150m –  
+     151m). 
+
+ 
+DDH S10-10 – 60 ppm (0.01%) and 43.25 ppm Zn (0.00%) over 1m (43.25m –  
+
+
+
+                        44.25m). 
+    165 ppm Cu (0.02%) and 46.25 ppm Zn (0.00%) over 1m (46.25 –  
+                       47.25m). 
+    39 ppm Cu )0.00%) and 59.00 ppm Zn (0.01%) over 1m (59m –  
+                       60m). 
+    220 ppm Cu (0.02%) and 111 ppm Zn (0.01%) over 1m (111m –  
+                       112m). 
+   54 ppm Cu (0.01%) and 114 ppm Zn (0.01%) over 1m (114m –  
+                       115m). 
+   11.61 ppm Cu (0.00%) and 197 ppm zn (0.02%) over 1.29m  
+                       (152.71m – 154m) 
+ 
+ 
+ 
+ 
+
+
+
+Table 7  Summary of Drill Hole Results 2009-2010
+
+DDH GRID x GRID y Easting Northing From To Width Cu ppm Zn ppm Cu % Zn % Rx Type within Intervals
+
+S09-01 2+65S 14+00E 283899 5367693 76 79 3 140.66667 885 0.014067 0.0885 Amphibolite/Gabbro
+
+S09-01 2+65S 14+00E 283899 5367693 82 92 10 155.4 592.9 0.01554 0.05929 Mostly Graphite, some gabbro and amphibolite
+
+S09-01 2+65S 14+00E 283899 5367693 87 90 3 306.66667 1086.33333 0.030667 0.10863 Graphite
+
+S09-02 3+50S 14+00E 283891 5367599 186.5 194.5 8 160.425 952.5 0.016043 0.09525 Amphibolite,Felsic and graphite
+
+S09-02 3+50S 14+00E 283891 5367599 187.5 188.5 1 107 1288 0.0107 0.1288 Amphibolite
+
+S09-02 3+50S 14+00E 283891 5367599 190.9 192 1.1 613.8 4116.2 0.06138 0.41162 Graphite
+
+S09-03 4+00S 8+00E 283336 5367621 24 27 3 589.33333 2308.33333 0.058933 0.23083 Rhyolite
+
+S09-03 4+00S 8+00E 283336 5367621 26 27 1 764 6512 0.0764 0.6512 Rhyolite
+
+S09-03 4+00S 8+00E 283336 5367621 35 36 1 191 900 0.0191 0.09 Graphite
+
+S09-03 4+00S 8+00E 283336 5367621 38 39 1 219 2321 0.0219 0.2321 Graphite
+
+S09-03 4+00S 8+00E 283336 5367621 52.5 53.5 1 172 1875 0.0172 0.1875 Rhyolite
+
+S09-03 4+00S 8+00E 283336 5367621 56 60 4 146.5 519.25 0.01465 0.05193 Rhyolite
+
+S09-03 4+00S 8+00E 283336 5367621 131 132 1 467 80 0.0467 0.008 Banded Rhyolite
+
+S09-04 1+50S 22+00E 284737 5367815 156 163 7 403.28571 530 0.040329 0.053 Rhyolite to 161m then graphite to 163m
+
+S09-04 1+50S 22+00E 284737 5367815 159 162 3 808.66667 5451.66667 0.080867 0.54517 Rhyolite and Graphite
+
+S09-05 3+35S 22+00E 284732 5367631 109 121 12 288.33333 1708.75 0.028833 0.17088 Graphite, Flow Breccia & Felsic
+
+S09-05 3+35S 22+00E 284732 5367631 111 114 3 319 2311 0.0319 0.2311 Graphite & Flow Breccia
+
+S09-05 3+35S 22+00E 284732 5367631 115 119 4 453.5 2882.75 0.04535 0.28828 Flow Breccia
+
+S09-06 4+60S 28+00E 285374 5367526 63 64 1 124 1209 0.0124 0.1209 Rhyolite
+
+S09-07 N/A N/A 284727 5367576 156 176 20 111.3 569.6 0.01113 0.05696 Rhyolite with graphite from 167 - 171m
+
+S09-07 N/A N/A 284727 5367576 167 171 4 287 2309.25 0.0287 0.23093 Graphite
+
+S10-08 21+90E 0+20S 284730 5367941 162 183.61 21.61 505.16 3603.18091 0.050516 0.36032 Graphite
+
+S10-08 21+90E 0+20S 284730 5367941 170 183 13 653.15385 4483.30769 0.065315 0.44833 Graphite
+
+S10-08 21+90E 0+20S 284730 5367941 174 176 2 764 5721 0.0764 0.5721 Graphite
+
+S10-09 8+00E 2+00S 283356 5368189 14 15 1 121 308 0.0121 0.0308 Amphibolite
+
+S10-09 8+00E 2+00S 283356 5368189 68 69 1 33 244 0.0033 0.0244 Rhyolite
+
+S10-09 8+00E 2+00S 283356 5368189 150 151 1 27 311 0.0027 0.0311 Rhyolite
+
+S10-10 24+00E 2+85N 285424 5366551 43.25 44.25 1 60 43.25 0.006 0.00433 Rhyolite
+
+S10-10 24+00E 2+85N 285424 5366551 46.25 47.25 1 165 46.25 0.0165 0.00463 Rhyolite
+
+S10-10 24+00E 2+85N 285424 5366551 59 60 1 39 59 0.0039 0.0059 Rhyolite
+
+S10-10 24+00E 2+85N 285424 5366551 111 112 1 220 111 0.022 0.0111 Rhyolite
+
+S10-10 24+00E 2+85N 285424 5366551 114 115 1 54 114 0.0054 0.0114 Rhyolite
+
+S10-10 24+00E 2+85N 285424 5366551 152.71 154 1.29 11.61 196.9959 0.001161 0.0197 Rhyolite
+
+
+
+Item 14: Sampling Method and Approach 
+     
+ 
+Sampling Methodology 
+ 
+Rock cores and rock samples were submitted for chemical assaying at Accurrassay 
+laboratories (Thunder Bay, ON).  Core samples were split in half with a diamond saw 
+blade, one half was placed in a sample bag and the other in the core box for reference.  
+The majority of samples were at 1m intervals, the minmum sample was 0.4m and the 
+maximum sample was 1.59m.  All samples were processed, crushed, and sieved.  Soil 
+samples were submitted for chemical assaying at ActLabs (Thunder Bay, ON). 
+ 
+ 
+ 
+Item 15:  Sampling Preparation, Analysis, and Security 
+ 
+Core samples were split in half with a diamond saw blade, one half was placed in a 
+sample bag and the other in the core box for reference.   Once placed in the bag 
+sample bags were labelled by sample number as well a sample tag was placed in the 
+bag.  Samples were then taken to the lab by the onsite geologist and the remaining core 
+was stored in a secure area that cannot be entered without a key.  The core and rock 
+samples were processed for at Accurrassay laboratories in Thunder Bay, ON using 
+procedures ALFA1 and AL1CPMA; 67 core samples and 29 rock samples were 
+assayed for WR and MA; 305 core samples and 54 rock samples were analysed for 
+AUMA using 30g samples.   Also, 62 soil samples were submitted for chemical assaying 
+at Actlabs in Thunder Bay, ON;  62 samples were analysed using packages; Code 1A2-
+Tbay Au-Fire Assay AA and Code 1E3-Tbay Aqua Regia ICP(AQUAGEO).   
+ 
+ 
+ 
+Item 16:  Data Verification 
+ 
+
+ 
+Quality Control 
+
+Blanks, standards, and duplicates were submitted during sampling.  The blank is a 
+marble piece purchased at the local hardware store which was inserted every 20 
+samples. The standard OREAS 37 was provided by Analytical Solutions Ltd. and 
+contains Au, As, Cu, Fe, Mn, Pb, TI, Zn, and S.  A standard was submitted at the end of 
+every 20th
+
+ 
+
+ sample interval.  Also duplicate of assayed samples was done every 20 
+samples.  
+
+ Accurassay Lab took both duplicates and replicates of samples submitted.  Duplicates 
+were taken at approximately every 10 samples which took 2 cuts 
+
+
+
+taken off 1 sample.  Replicates were taken every 60 samples which split 1 sample 
+twice.  
+ 
+ 
+Item 17:  Adajacent Properties 
+ 
+Adajacent properties are not significant in evaluating the Sackville property. 
+ 
+ 
+Item 18:  Mineral Processing and Metallurgical Testing 
+ 
+This item is not applicable. 
+ 
+ 
+Item 19: Mineral Resources and Mineral Reserve Estimates 
+ 
+Mineral resources and reserves are not yet evident on the property. 
+ 
+Item 20:  Other Relevent Data and Information 
+ 
+The Sackville Property previously named Stares Property on adjacent claims was 
+previously compiled in a technical report by Terrence J. Bottrill (Bottril Geological 
+Services in September 2003).  
+ 
+ 
+Item 21:  Interpretation and Conclusions 
+ 
+The drilling program at the Sackville Property consisted of 10 drill holes completed in 
+two areas; Eastern and Western grid sections. It is interpreted that areas with magnetic 
+lows are underlain by felsic volcanic rocks (Figure 5). 
+ 
+Eastern Section 
+ 
+The five drill holes were drilled 030° and one drill hole at 330° to intersect NW-SE 
+trending IP anomalies defined by induced polarization survey.  Significant Zn 
+mineralization above 5000 ppm was intersected in two holes (S09-04 and S10-08).  The 
+mineralization over 5000 ppm was narrow (2-3m) bands except in hole S10-08 there 
+was an intersection of 13m over 4000 ppm Zn. 
+ 
+There are anomalous Zn values in several drill holes intersecting IP anomalies.  The 
+anomalies were caused by a significant graphitic zone that was abundant in 
+disseminated pyrite.   
+ 
+ 
+ 
+ 
+
+
+
+Western Section 
+ 
+Four holes were drilled at north-south, 270° and 030° strike (S09-01 to S09 – 03, and 
+S10-09).   These holes were drilled to intersect NW-SE trending IP anomalies as well as 
+a previously drilled hole with high silver mineralization as well as an area with 
+anomalous geochemical values from soil sampling.   
+ 
+The drill holes were low in silver however anomalous zinc was seen in S09-03 near the 
+previously drilled hole (764 ppm Cu (0.08%) and 6512 ppm Zn (0.65%) over 1m (26m – 
+27m)).  There was a lack of mineralization in S10 – 09 although soil sampling showed 
+otherwise.  This may be due to a river system to the north of the drill hole which the 
+mineralization leached out of and into the soil or that the drill hole did not cut the 
+mineralized zone.  
+ 
+Graphitic zones often act as a cap for a VMS deposit and can be found in close 
+proximity to a VMS deposit.  The bedrock source of the mineralized Boomer and Calvert 
+boulders is not yet found.  It is thought the felsic volcanic belt in the Sackville and Adrian 
+Townships is the source of the bedrock.  This source  coincides with  the ice direction of 
+190° where the boulders were discovered in the Aldina township. 
+ 
+Item 22:  Recommendations 
+ 
+Although there is a lack of most base metal mineralization on the eastern section of the 
+property grid there is significant Zn mineralization in select holes which requires a 
+detailed soil sampling program to be carried out over the eastern grid especially 
+focussing in those areas of anomalous IP anomalies underlain by felsic volcanic rocks 
+that have not yet been tested, areas near contacts between sedimentary, felsic, and 
+mafic rocks.  Also more soil sampling, a deeper drill hole should be done near hole S09-
+04 and S09-05 which intersected classic "mill rock".  Also, drilling should be carried out 
+to the south of drill hole S09 – 07.  This section shows the graphitic zone as well as 
+cherty sections throughout. 
+ 
+The western section of the grid was drilled very little.  It is recommended that a more 
+detailed soil sampling program be carried out in this area to determine areas of interest 
+for drilling focussing on the previously drilled hole with high silver values and the 
+anomalous IP anomalies underlain by felsic volcanic rocks that have not yet been 
+tested.   
+ 
+The cost of the proposed budget to carry out these recommendations is outlined in 
+Table 8. 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+TABLE 8 
+Proposed Budget 
+
+ 
+Phase 1 
+ 
+
+1.  Geochemical Soil Sampling Program (30 days) $200/day           $6,000  
+ 
+
+2. Supervision/geologist:  30 days at $500/day          $15,000 
+ 
+
+3. Diamond Drilling: 1000m BTW at $177/m        $177,000 
+ 
+4. Accommodation, Food, Trans:  30 days at $100/day          $3,000 
+ 
+5. Assaying:  500 soil spls at $25/spl                  $12,500 
+                          100 core spls at $35/spl                                                      $3,500 
+ 
+6. Reporting               $12,500 
+ 
+7. Contingency 10%             $22,950 
+
+ 
+ 
+
+      TOTAL       $252,450 
+ 
+ 
+
+
+
+Item 23:  References 
+ 
+Published Papers and Reports 
+ 
+Bajc, A. F., 1999a, Results of regional humus and till sampling in the eastern part of the 
+Shebandowan greenstone belt, northwestern Ontario; Ontario Geological Survey, Open File 
+Report 5993, 92 p. 
+ 
+Bajc, A. F. and Crabtree, D. C., 2001, Results of regional till sampling for kimberlite and base 
+metal indicator minerals, Shebandowan greenstone belt, northwestern Ontario; Ontario 
+Geological Survey, Open File Report 6046, 64 p. 
+ 
+Botrill, T.J., 2003, National Instrument 43 – 101 Report on Stares Calvert Project Adrian, Aldina, 
+Marks and Sackville Townships Shebandowan Belt Thunder Bay District, Ontario for RJK Explorations 
+Ltd. and GLR Resources Inc; p.1 - 25 
+ 
+Card, K. D, and Poulsen, K. Howard, 1998, Geology and mineral deposits of the Superior 
+Province of the Canadian Shield; Chapter 2 in Geology of the Precambrian Superior and 
+Grenville Provinces and Precambrian fossils in North America, (coord.) S. Lucas; Geological 
+Survey of Canada, Geology of Canada, No. 7, p. 13-94 (also Geological Society of America, The 
+Geology of North America, v. C-1); see p. 99-109 on Wawa Subprovince 
+ 
+Corfu, F., and Stott, G. M., 1986, U-Pb ages for late magmatism and regional deformation in 
+theShebandowan belt, Superior Province, Canada; Can. J. Earth Sc., vol. 23, p.1075-1082 
+ 
+Corfu, F., and Stott, G. M., 1998, Shebandowan greenstone belt, western Superior Province: U-
+Pb ages, tectonic implications, and correlations; Geol. Soc. America Bulletin, v.110, no. 11, p. 
+1467-1484, 9 figures, 1 table 
+ 
+Garret, Robert G., & Grunsky, Eric C., 2001, Weighted sums - knowledge based empirical 
+indices for use in exploration geochemistry; Geochemistry, Exploration, Environment, Analysis, 
+volume 1, 2001, pp.135-141;  
+ 
+Geological Society of London Ontario Geological Survey, 1991, Ontario airborne magnetic and 
+electromagnetic Surveys, processed data and derived products: Archaean and Proterozoic 
+"Greenstone" belts; Data Set 1021, Shebandowan, Aerodat 4 frequency helicopter survey 
+(Digital data processed for RJK by Burt Consulting Services) 
+ 
+Rogers, M. C. and Berger, B. R., 1995, Precambrian geology, Adrian, Marks, Sackville, Aldina 
+and Duckworth townships; Ontario Geological Survey, Report 295, 66p. 
+Santaguida, F., 2001a, Precambrian geology compilation series - Quetico sheet; Ontario 
+Geological Survey, Map 2663, scale 1:250,000 
+ 
+ 
+
+
+
+Santaguida, F., 2001b, Precambrian geology compilation series - Thunder Bay sheet; Ontario 
+Geological Survey, Map 2664, scale 1:250,000 Stares-Calvert Project, Shebandowan Belt, Northwest 
+Ontario 
+ 
+ 
+Schnieders, B. R., et al., 2000, Stares (Aldina) property, in B. R. Schnieders, et al., Ontario 
+Geological Survey Report of Activities, 1999, Resident Geologist Program, Thunder Bay South 
+Regional Resident Geologist Report: Thunder Bay South District; Ontario Geological Survey 
+Open File Report 6005, p. 6 
+ 
+Schnieders, B. R., et al., 2001, Calvert Float (Stares/Calvert Property, Aldina Township), in B. 
+R. Schnieders, et al., Ontario Geological Survey Report of Activities, 2000, Resident Geologist 
+Program, Thunder Bay South Regional Resident Geologist Report: Thunder Bay South District; 
+Ontario Geological Survey Open File Report 6049, p. 29-31 
+ 
+Schnieders, B. R., et al., 2002, Stares-Calvert Property, Aldina Township, in B. R. Schnieders, et 
+al., Ontario Geological Survey Report of Activities, 2001, Resident Geologist Program, Thunder 
+Bay South Regional Resident Geologist Report: Thunder Bay South District; Ontario Geological 
+Survey Open File Report 6081, p. 22-26 
+ 
+Williams, H. R., et al., 1991, Wawa Subprovince; p. 511-528 in Geology of Ontario, edited by P. 
+C. 
+ 
+Thurston, et al., Ontario Geological Survey, Special Volume 4, Part 1 
+Reports by or for the Companies Bloom, Lynda, 2002, Stares property; private report; Analytical 
+Solutions Ltd, Toronto, Ontario, 4 p. Plus attachments  
+ 
+Private Papers and Reports 
+ 
+Buhlmann, Eckhart, 2001, Stares / Calvert Property, Thunder Bay, Ontario; till geochemical 
+interpretation maps based on surveys by the OGS, 1998, 2000 and the Kasner Group of 
+Companies 2001; private report for GLR Resources Inc., 8 p. plus attachments 
+ 
+Clark, J. Robert, (~2000), Concepts and models for interpretation of Enzyme Leach data for 
+mineral and petroleum exploration; private report, Enzyme Laboratories Inc., Arvada, Colorado, 
+USA 
+ 
+Daigle, R. J., 1999, 1999 I.P. Survey - Stares property, for RJK Explorations Ltd and Greater 
+Lenora Resources Corp.; private report 
+ 
+Franklin, James, M., FRSC, 2000, Preliminary review and recommendations, Aldina base-metal-
+gold-silver property, RJK Explorations Ltd., Aldina township, Ontario; private report, 4 p. 
+ 
+Franklin, James, M., FRSC, 2001, Proposed drill holes, RJK Aldina property; private report, 
+Franklin Geoscience Ltd, 4 p. 
+ 
+
+
+
+Franklin, James, M., FRSC, 2001, Preliminary assessment of the lithogeochemistry of the Aldina 
+township base-metal-gold-silver property for RJK Explorations Ltd. and GLR Resources Inc.; 
+private report, Franklin Geoscience Ltd., 38 p. Stares-Calvert Project, Shebandowan Belt, Northwest 
+Ontario 
+ 
+Franklin, James, M., FRSC, 2002, Update report on lithogeochemistry and VMS potential, 
+Aldina township, for RJK Explorations Ltd.; private report, 2 p. plus attachments 
+ 
+Hill, Gregory T., 2002, Interpretation of expanded Enzyme Leach data for the GLR Resources 
+Stares-Calvert Project, Aldina grid soil survey; supplement to August 2nd report; private report 
+for GLR Resources; Enzyme Exploration Services Inc., and Actlabs Group company, 18 p. 
+ 
+Kristjansson, F. J., 1997, Glacial geology and drift prospecting - Aldina property; private report 
+for Cumberland resources Ltd., 8 p. plus attachments 
+ 
+Lambert, Gerard, 2000, Report on the induced polarization surveys, Aldina property, for RJK 
+Explorations Ltd, and Greater Lenora Resources Corp.; private report 
+ 
+Lambert, Gerard, 2001, Report on the detailed induced polarization and Mise-a-la-Masse 
+surveys, Aldina property, for RJK Explorations Ltd, and Greater Lenora Resources Corp.; 
+private report 
+ 
+Lewis, Pat, 1997, Aldina property (Aldina, Sackville, Adrian and Marks townships), diamond 
+drill program (January 16th-February 17th, 1997) NTS 52/A5, private report by Cumberland 
+Resources Ltd., 23 p. plus attachments 
+ 
+Maclean, D., 2000, Report on a trenching program at the Aldina property for RJK Explorations 
+Ltd, and Greater Lenora Resources Corp.; private report 
+ 
+Maclean, D., 2000, Report on the year 2000 trenching program at the Aldina project (Stares 
+option agreement) for RJK Explorations Ltd, and Greater Lenora Resources Corp.; private 
+report, 6 p. Plus attachments 
+ 
+Maclean, D., 2000, Report on diamond drilling program (January to March, 2000), Aldina 
+Project, (Stares Option), private report for RJK Explorations Ltd., and GLR Resources Inc., 14 p. 
+plus attachments in 2 volumes 
+ 
+Maclean, D., 2001, Report on diamond drilling program (November, 2000 -March, 2001), at the 
+Aldina Project, private report for RJK Explorations Ltd., and GLR Resources Inc., 2 volumes 
+ 
+Maclean, D., 2001, Report on drilling program (September - December, 2001), at the Aldina 
+Project, by RJK Explorations Ltd., and GLR Resources Inc., 23 p. plus attachments 
+ 
+
+
+
+Maclean, D., 2001, Report on the geophysical surveys (magnetometer and VLF surveys), Aldina 
+Project, for RJK Explorations Ltd., and GLR Resources Inc., 
+ 
+McCrindle, W., 1996, Soil geochemical survey - Aldina township property, for Cumberland 
+Resources Ltd., 10 p. plus attachments 
+ 
+Middaugh, R. D., 1997, Magnetometer and VLF-EM surveys, Aldina property, for Cumberland 
+Resources Ltd; private report by Phantom Explorations Ltd., 14 p. plus attachments 
+ 
+Poulsen, K. Howard, 2001, Assessment of the structural geology of the Aldina township zinc 
+prospect (Stares / Calvert property), Thunder Bay District, Ontario, Canada; private report for 
+RJK Explorations Ltd., and Greater Lenora Resources Corporation, 8 p. 
+ 
+Sinclair, Glen, 1996, Petrographic examination on nine rock samples from Aldina township, for 
+Cumberland resources Ltd., bound in Lewis, Pat, 1997; Vancouver Petrographics Ltd., 11 p. 
+ 
+Watson, Dave, 1997, Brief interpretation report of Aldina and Boreal grids, Crone Geophysics 
+and Exploration Ltd.; private report for Cumberland Resources Ltd., 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+
+TAMMY L. PERRY, BSC (HONS) 
+CONSULTING GEOLOGIST 
+
+63 DUTTON STREET 
+SITE 1 COMP 2 BOX 4 
+
+HAILEYBURY, ON 
+P0J 1K0 
+
+TEL: (705)648-0415 
+Email:jwtrconsulting@yahoo.ca 
+
+ 
+CERTIFICATE OF AUTHOR 
+
+ 
+I Tammy L. Perry, BSc (Hons) do hereby certify that: 
+ 
+
+1. I am currently employed as a consulting Geologist. 
+ 
+63 Dutton Street 
+Haileybury, ON 
+P0J 1K0 
+ 
+
+2. I graduated with a degree in Bachelor Science Honors from Memorial University 
+of Newfoundland and Labrador 2002. 
+
+ 
+3. I have worked as a geologist for a total of 5 years since graduation from 
+
+university.  I have been directly involved in exploration for base metals, gold, and 
+uranium in Canada. 
+ 
+
+4. That Fred J. Sharpley, P.Geo. is a qualified person set out in National Instrument 
+43 – 101 for the purpose of the Nl 43 – 101 report on the Sackville property. 
+ 
+ 
+ 
+
+Dated this 15 Day of June, 2010 in the Town of Kirkland Lake, Ontario. 
+ 
+
+ 
+"signed" 
+__________________ 
+Tammy L. Huard 
+BSc (Hons) 
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+FREDERICK J. SHARPLEY, P.Geo. (ON)  
+Consulting Geologist 
+
+3 Gov't Rd. East, Unit 10 
+P.O. Box 433 
+
+Kirkland Lake, ON  
+P2N 3J1 
+
+Tel/Fax: 705-567-2456 
+Email:fredsharpley@gmail.com 
+
+ 
+ 
+
+CERTIFICATE of AUTHOR 
+ 
+
+ 
+I, Frederick J. Sharpley, P.Geo. (ON) do hereby certify that: 
+ 
+I am currently employed as a Consulting Geologist. 
+  
+  3 Gov't Rd. East, Unit 10 
+  Kirkland Lake, ON 
+  P2N 3J1 
+ 
+I graduated with a degree in Bachelor of Arts and Science, B.A. (Sc) from the University 
+
+of Saskatchewan in 1959. 
+ 
+I am a member of the Association of Professional Geoscientist of Ontario (APGO), 
+
+Member No. 0249, a Member of the Prospectors and Developers Association of 
+Canada, a Member of the Ontario Prospectors Association, a Member of the 
+Northern Prospectors Association and a Member of the CIM, Cobalt Branch.  
+
+ 
+I have worked as a geologist continuously for a total of 51 years since graduation from 
+
+university. I have been directly involved in exploration for base metals, uranium, 
+gold and silver mainly in Canada but also in Mexico, Central America and Africa. 
+I also worked for five years as a mine geologist for Temagami Mining Company 
+Ltd. (a VMS copper mine). Recently I have worked for Opawica Explorations Inc. 
+on the Maybrun gold-copper deposit; for Pelangio Mines Inc. and Detour Gold 
+Corp. on the Detour gold deposit; for Wolfden and Sabina on the Rahill-Bonanza 
+gold deposit in Red Lake; and NFX on the West Bear Lake gold deposit in the 
+Larder Lake area.  
+
+ 
+I have read the definition of  "qualified person" set out in National Instrument 43-101 ("NI  
+
+43-101") and certify that by reason of my education, affiliation with a professional 
+association (as defined in NI 43-101) and past relevant work experience, I fulfill 
+the requirements to be a  "qualified person" for the purpose of  NI 43-101. 
+
+ 
+ 
+
+mailto:Email:sharpley@ntl.sympatico.ca�
+
+
+I am responsible for reviewing and outlining the technical report titled "TECHNICAL 
+REPORT ON THE SACKVILLE PROJECT, SACKVILLE AND ADRIAN 
+TOWNSHIPS, KAKABEKA FALLS AREA, THUNDER BAY MINING DIVISION, 
+ONTARIO FOR GLR RESOURCES INC. and RJK EXPLORATIONS LTD. dated 
+June 15, 2010, the "Technical Report" relating to the "Sackville" property. I visited 
+the "Sackville" property on May 28-29, 2010 and viewed the core. 
+
+ 
+This document is based on information supplied to me by GLR Resources Inc. 
+and RJK Explorations Ltd, various public documents and my personal 
+observations on the property on May 28-29, 2010. 
+ 
+
+7.        I am not aware of any material fact or material change with respect to the  
+subject matter of the Technical Report that is not reflected in the Technical     
+Report, the omission to disclose which makes the Technical Report misleading. 
+
+ 
+8.        I am independent of the issuer applying all tests in section 1.5 of National 
+ Instrument 43-101. 
+
+ 
+9.     I have read National Instrument 43-101 and Form 43-101F1, and the    
+
+    Technical Report has been prepared in compliance with that instrument    
+    and form.       
+
+ 
+10.  I consent to the filing of the Technical Report with any stock exchange and  
+           other Regulatory authority and any publication by them, including  
+           electronic publication in the public company files on their websites  
+           accessible by the public, of the Technical Report. 
+ 
+ 
+Dated this 15 Day of June, 2010 in the Town of Kirkland Lake, Ontario. 
+ 
+"signed and sealed" 
+__________________ 
+Frederick J. Sharpley 
+P.Geo. (ON) No. 0249 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX 
+ 
+
+FIGURES 4 - 20 
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+5367550N
+5367550N
+
+5367600N
+5367600N
+
+5367650N
+5367650N
+
+5367700N
+5367700N
+
+5367750N
+5367750N
+
+5367800N
+5367800N
+
+5367850N
+
+5367900N
+
+250El 250El
+
+300El 300El
+
+350El 350El
+
+400El 400El
+
+450El 450El
+
+Date: 11-Jun-10
+
+GLR RESOURCES INC.
+STARES PROPERTY
+
+Section DDH S09-01, S09-02
+Looking 270 Degrees West
+
+LEGEND
+
+0.0
+1/3
+
+.0
+0.0
+
+2/1
+0.0
+
+0.0
+9/3
+
+.0
+0.0
+
+6/1
+0.0
+
+Ov
+erb
+
+ur
+de
+
+n
+
+Am
+ph
+
+ibo
+lit
+
+e
+
+Ga
+bb
+
+ro
+
+0.0
+2/8
+
+.0
+
+0.1
+/8.
+
+0
+
+Ov
+erb
+
+urd
+en
+
+Am
+ph
+
+ibo
+lit
+
+e
+
+Gr
+ap
+
+hit
+ic 
+
+Fa
+ult
+
+Am
+ph
+
+ibo
+lit
+
+e
+
+Am
+ph
+
+ibo
+lite
+
+Ga
+bb
+
+ro
+Am
+
+ph
+ibo
+
+lit
+e
+
+S09-01
+
+S09-01
+150.0m
+
+S09-02
+
+S09-02
+248.0m
+
+Gr
+ap
+
+hit
+e
+
+Po
+ssi
+
+ble
+ Fe
+
+lsi
+cs
+
+Gr
+ap
+
+hit
+ic 
+
+Fa
+ult
+
+Am
+ph
+
+ibo
+lite
+
+ an
+d G
+
+ab
+br
+
+o
+
+0.05mm=1ppm
+
+Zn
+
+%Zn / metres
+
+%Cu / metres
+
+Cu
+
+0.1mm=1ppm
+
+S09-02
+283891mE, 5367599mN
+AZ = 360 DEG.
+DIP = -45
+
+S09-01
+283899mE, 5367693mN
+AZ = 360 DEG.
+DIP = -45
+
+SURFACE
+
+FIGURE 7
+
+50250m
+
+SCALE
+
+
+
+250El 250El
+
+300El 300El
+
+350El 350El
+
+400El 400El
+
+450El 450El
+
+Date: 11-Jun-10
+
+GLR RESOURCES INC.
+STARES PROPERTY
+
+Looking 310 Degrees West
+
+LEGEND
+0.05mm=1ppm
+
+Zn
+
+%Zn / metres
+
+%Cu / metres
+
+Cu
+
+0.1mm=1ppm
+
+FIGURE 8
+
+0.06/3.00.02/1.0
+
+0.02/1.0
+
+0.02/1.0
+
+0.01/4.0
+
+0.05/1.0
+
+0.23/3.00.09/1.0
+
+0.23/1.0
+
+0.19/1.0
+
+0.05/4.0
+
+0.01/1.0
+
+Overburden
+
+Rhyolite Porphyry
+
+Banded Rhyolite
+
+Ultra mafic
+
+S0
+9-0
+
+3
+
+S0
+9-
+
+03
+13
+
+7.0
+m
+
+Section DDH S09-03
+
+S09-03
+283336mE, 5367621mN
+AZ = 220 DEG.
+DIP = -45
+
+Graphite
+Rhyolite
+
+Rhyolite
+
+Amphibolite
+
+SURFACE
+
+50250m
+
+SCALE
+
+
+
+250El 250El
+
+300El 300El
+
+350El 350El
+
+400El 400El
+
+450El 450El
+
+Scale: 1: Date:1000 11-Jun-10
+
+GLR RESOURCES INC.
+STARES PROPERTY
+
+Looking 310 Degrees West
+
+LEGEND
+0.05mm=1ppm
+
+Zn
+
+%Zn / metres
+
+%Cu / metres
+
+Cu
+
+0.1mm=1ppm
+
+S09-04
+284737mE, 5367815mN
+AZ = 220 DEG.
+DIP = -45
+
+FIGURE 9
+
+0.04/7.15
+
+0.26/7.15
+
+Overburden
+
+Rhyolite
+
+Graphite
+
+S0
+9-
+
+04
+
+S0
+9-
+
+04
+
+Section DDH S09-04
+
+SURFACE
+
+16
+3.1
+
+5m
+50250m
+
+SCALE
+
+
+
+250El 250El
+
+300El 300El
+
+350El 350El
+
+400El 400El
+
+450El 450El
+
+Date: 11-Jun-10
+
+GLR RESOURCES INC.
+STARES PROPERTY
+
+Section DDH S09-05, S09-07
+Looking 300 Degrees West
+
+LEGEND
+0.05mm=1ppm
+
+Zn
+
+%Zn / metres
+
+%Cu / metres
+
+Cu
+
+0.1mm=1ppm
+
+FIGURE 10
+
+0.0
+3/1
+
+2.0
+
+0.1
+7/1
+
+2.0
+
+Ov
+erb
+
+ur
+de
+
+n
+
+Rh
+yo
+
+lite
+
+Rh
+yo
+
+lite
+
+Gr
+ey
+
+ ap
+ha
+
+nit
+ic 
+
+roc
+k
+
+Rh
+yo
+
+lite
+
+Gr
+ey
+
+ ap
+ha
+
+nit
+ic 
+
+roc
+k
+
+Bl
+ac
+
+k A
+ph
+
+an
+iti
+
+c R
+x
+
+Rh
+yo
+
+lite
+
+Bl
+ac
+
+k A
+ph
+
+an
+iti
+
+c R
+x
+
+Rh
+yo
+
+lit
+e
+
+Gr
+ap
+
+hit
+e
+
+Rh
+yo
+
+lite
+Gr
+
+ap
+hit
+
+e
+
+0.0
+1/2
+
+0.0
+
+0.0
+6/2
+
+0.0
+
+Ov
+erb
+
+urd
+en
+
+Rh
+yo
+
+lite
+
+Gr
+ap
+
+hit
+e
+
+Rh
+yo
+
+lite
+
+S09-05
+
+S09-05
+203.0m
+
+S09-07
+
+S09-07
+227.0m
+
+DIP = -45
+AZ = 30 DEG.
+284727mE, 5367576mN
+S09-07
+
+AZ = 30 DEG.
+284732mE, 5367631mN
+S09-05
+
+DIP = -45
+
+SURFACE
+
+Fl
+ow
+
+ B
+rec
+
+cia
+
+50250m
+
+SCALE
+
+
+
+250El 250El
+
+300El 300El
+
+350El 350El
+
+400El 400El
+
+450El 450El
+
+Scale: 1: Date:1000 11-Jun-10
+
+GLR RESOURCES INC.
+STARES PROPERTY
+
+Looking 300 Degrees West
+
+LEGEND
+0.05mm=1ppm
+
+Zn
+
+%Zn / metres
+
+%Cu / metres
+
+Cu
+
+0.1mm=1ppm
+
+FIGURE 11
+
+0.0
+1/1
+
+.0
+
+0.1
+2/1
+
+.0
+
+Ov
+erb
+
+urd
+en
+
+Rh
+yo
+
+lite
+Bl
+
+ac
+k A
+
+ph
+an
+
+itic
+ R
+
+x
+Po
+
+rp
+hy
+
+ry 
+Rh
+
+yo
+lit
+
+e
+
+Rh
+yo
+
+lite
+
+S09-06
+
+S09-06
+152.0m
+
+SURFACE
+
+S09-06
+285374mE, 5367526mN
+AZ = 30 DEG.
+DIP = -45
+
+Section DDH S09-06
+
+50250m
+
+SCALE
+
+
+
+250El 250El
+
+300El 300El
+
+350El 350El
+
+400El 400El
+
+450El 450El
+
+Scale: 1: Date:1000 11-Jun-10
+
+GLR RESOURCES INC.
+STARES PROPERTY
+
+Looking 315 Degrees West
+
+LEGEND
+0.05mm=1ppm
+
+Zn
+
+%Zn / metres
+
+%Cu / metres
+
+Cu
+
+0.1mm=1ppm
+
+FIGURE 12
+
+0.0
+5/2
+
+1.6
+
+0.3
+6/2
+
+1.6
+
+Ov
+erb
+
+ur
+de
+
+n
+
+Rh
+yo
+
+lit
+e
+
+Gr
+ap
+
+hit
+e
+
+Bl
+ac
+
+k A
+ph
+
+an
+iti
+
+c R
+x
+
+Rh
+yo
+
+lite
+ Po
+
+rp
+hy
+
+ry
+
+Bl
+ac
+
+k A
+ph
+
+an
+iti
+
+c R
+x
+
+Rh
+yo
+
+lit
+e
+
+Rh
+yo
+
+lite
+
+S10-08
+
+S10-08
+230.0m
+
+Gr
+ap
+
+hit
+e
+
+S10-08
+284730mE, 5367941mN
+AZ = 45 DEG.
+DIP = -45
+
+Section DDH S10-08
+
+SURFACE
+
+50250m
+
+SCALE
+
+
+
+250El 250El
+
+300El 300El
+
+350El 350El
+
+400El 400El
+
+450El 450El
+
+Scale: 1: Date:1000 11-Jun-10
+
+GLR RESOURCES INC.
+STARES PROPERTY
+
+Looking 315 Degrees West
+
+LEGEND
+0.05mm=1ppm
+
+Zn
+
+%Zn / metres
+
+%Cu / metres
+
+Cu
+
+0.1mm=1ppm
+
+FIGURE 13
+
+0.0
+1/1
+
+.0
+
+0.0
+3/1
+
+.0
+
+0.0
+2/1
+
+.0
+
+0.0
+3/1
+
+.0
+
+Ov
+erb
+
+urd
+en
+
+Da
+cit
+
+e -
+ A
+
+nd
+esi
+
+te
+
+Ul
+tra
+
+ma
+fic
+
+Rh
+yo
+
+lit
+e
+
+Ch
+ert
+
+Rh
+yo
+
+lit
+e
+
+S10-09
+
+S10-09
+160.0m
+
+Am
+ph
+
+ibo
+lit
+
+e
+
+SURFACE
+
+S10-09
+283356mE, 5368189mN
+AZ = 45 DEG.
+DIP = -45
+
+Section DDH S10-09
+
+50250m
+
+SCALE
+
+
+
+250El 250El
+
+350El 350El
+
+400El 400El
+
+450El 450El
+
+500El 500El
+
+Scale: 1: Date:1000 11-Jun-10
+
+GLR RESOURCES INC.
+STARES PROPERTY
+
+Looking 300 Degrees West
+
+LEGEND
+0.05mm=1ppm
+
+Zn
+
+%Zn / metres
+
+%Cu / metres
+
+Cu
+
+0.1mm=1ppm
+
+S10-10
+285424mE, 5366551mN
+AZ = 30 DEG.
+DIP = -45
+
+FIGURE 14
+
+0.0
+1/1
+
+.0
+0.0
+
+2/1
+.0
+
+0.0
+2/1
+
+.0
+0.0
+
+1/1
+.0
+
+0.0
+1/1
+
+.0
+
+0.0
+1/1
+
+.0
+0.0
+
+1/1
+.0
+
+0.0
+2/1
+
+.3
+
+Ov
+erb
+
+urd
+en
+
+Po
+rp
+
+hy
+ry
+
+ R
+hy
+
+oli
+te
+
+Ch
+ert
+
+Se
+dim
+
+en
+t
+
+Rh
+yo
+
+lite
+
+Ta
+lc
+
+Rh
+yo
+
+lit
+e
+
+M
+ud
+
+sto
+ne
+
+Rh
+yo
+
+lit
+e
+
+S10-10
+
+S10-10
+238.0m
+
+SURFACE
+
+Section DDH S10-10
+
+50250m
+
+SCALE
+
+
+
+
+
+
+
+
+
+
+
+SL10200N
+
+SL10225N
+SL10250N
+
+SL10275N
+SL10300N
+
+SL10325N
+SL10350N
+
+SL10375N
+SL10400N
+
+SL200EBL
+
+SL2025N
+
+SL2050N
+SL2075N
+
+SL2100N
+
+SL2125N
+SL2150N
+
+SL2425N
+SL2450N
+SL2475N
+
+SL2500N
+
+SL2525N
+
+SL2550N
+SL2575N
+SL2600N
+
+SL2625N
+SL2650N
+
+SL6200S
+SL6225S
+SL6250S
+
+SL6275S
+
+SL6300N
+
+SL6300S
+
+SL6325N
+
+SL6325S
+
+SL6350N
+
+SL6350S
+
+SL6375N
+
+SL6375S
+
+SL6400N
+
+SL6400S
+
+SL6425N
+SL6450N
+
+SL6475N
+SL6500N
+
+SL6525N
+SL6550N
+
+SL8150N
+
+SL8175N
+
+SL8200N
+SL8225N
+
+SL8250N
+SL8275N
+SL8300N
+SL8325N
+
+SL8350N
+
+424445342444524244451
+
+4219075
+
+L2
+40
+
+0N
+
+L2
+20
+
+0N
+
+L2
+00
+
+0N
+
+L1
+80
+
+0N
+
+L1
+60
+
+0N
+
+L1
+40
+
+0N
+
+L0
+
+L500SL500S
+
+L0
+
+L
+200E
+
+L
+400E
+
+L
+800E
+
+L
+600E
+
+L
+1800E
+
+L
+1600E
+
+L
+1400E
+
+L
+1200E
+
+L
+1000E
+
+L
+2800E
+
+L
+2600E
+
+L
+2400E
+
+L
+2200E
+
+L
+20 00E
+
+L1
+40
+
+0N
+
+L1
+60
+
+0N
+
+L1
+80
+
+0N
+
+L2
+60
+
+0N
+
+L2
+40
+
+0N
+
+L2
+20
+
+0N
+
+L2
+00
+
+0N
+
+L500N
+
+L
+2800E
+
+L
+2600E
+
+L
+2400E
+
+L
+2200E
+
+L500N
+
+L
+2000E
+
+L
+1800E
+
+L
+1600E
+
+L
+1400E
+
+L
+1200E
+
+L
+1000E
+
+L
+800E
+
+282500E
+282500E
+
+283000E
+283000E
+
+283500E
+283500E
+
+284000E
+284000E
+
+284500E
+284500E
+
+285000E
+285000E
+
+285500E
+
+286000E
+286000E
+
+5366500N
+
+5367000N 5367000N
+
+5367500N 5367500N
+
+5368000N 5368000N
+
+5368500N 5368500N
+
+GLR RESOURCES INC.
+
+SACKVILLE PROPERTY
+
+COPPER
+SOIL GEOCHEMISTRY
+
+JUNE 2010
+
+5366500N
+
+4219074
+
+17
+10
+
+8 14
+23
+
+46
+
+285500E12BL2600E
+BL2575E
+
+BL2550E
+BL2525E
+
+BL2500E
+BL2475E
+
+BL2450E
+
+30
+
+12
+
+22
+26
+
+62
+
+17
+
+11
+18
+20
+
+39
+
+19
+14
+
+10
+
+11
+28
+
+14
+
+11
+
+37
+13
+
+10
+
+10
+10
+
+10
+
+31
+12
+
+30
+
+43
+19
+
+31
+
+25
+
+19
+15
+
+34
+
+25
+
+16
+
+12
+
+35
+
+42
+
+31
+
+14
+8 
+26
+
+45
+24
+
+30
+
+21
+
+19
+19
+
+26
+21
+
+59
+83
+
+50
+10
+
+6 
+
+LEGEND
+SAMPLE #
+
+CU ppm
+1 UNIT = 1 PPM
+
+Figure 19
+
+W E 
+
+S 
+
+N 
+
+4244454
+
+SCALE
+
+250m125m0 
+
+
+
+424445342444524244451
+
+4219075
+
+L2
+40
+
+0N
+
+L2
+20
+
+0N
+
+L2
+00
+
+0N
+
+L1
+80
+
+0N
+
+L1
+60
+
+0N
+
+L1
+40
+
+0N
+
+L0
+
+L500SL500S
+
+L0
+
+L
+200E
+
+L
+400E
+
+L
+800E
+
+L
+600E
+
+L
+1800E
+
+L
+1600E
+
+L
+1400E
+
+L
+1200E
+
+L
+1000E
+
+L
+2800E
+
+L
+2600E
+
+L
+2400E
+
+L
+2200E
+
+L
+200 0E
+
+L1
+40
+
+0N
+
+L1
+60
+
+0N
+
+L1
+80
+
+0N
+
+L2
+60
+
+0N
+
+L2
+40
+
+0N
+
+L2
+20
+
+0N
+
+L2
+00
+
+0N
+
+L500N
+
+L
+2800E
+
+L
+2600E
+
+L
+2400E
+
+L
+2200E
+
+L500N
+
+L
+2000E
+
+L
+1800E
+
+L
+1600E
+
+L
+1400E
+
+L
+1200E
+
+L
+1000E
+
+L
+800E
+
+282500E
+282500E
+
+283000E
+283000E
+
+283500E
+283500E
+
+284000E
+284000E
+
+284500E
+284500E
+
+285000E
+285000E
+
+285500E
+
+286000E
+286000E
+
+5366500N
+
+5367000N 5367000N
+
+5367500N 5367500N
+
+5368000N 5368000N
+
+5368500N 5368500N
+
+GLR RESOURCES INC.
+
+SACKVILLE PROPERTY
+SOIL GEOCHEMISTRY
+
+JUNE 2010
+
+5366500N
+
+4219074
+
+285500E
+
+ZINC
+
+SL10200N
+
+SL10225N
+SL10250N
+
+SL10275N
+SL10300N
+
+SL10325N
+SL10350N
+
+SL10375N
+SL10400N
+
+SL200EBL
+
+SL2025N
+
+SL2050N
+SL2075N
+
+SL2100N
+
+SL2125N
+SL2150N
+
+SL2425N
+SL2450N
+SL2475N
+
+SL2500N
+
+SL2525N
+
+SL2550N
+SL2575N
+SL2600N
+
+SL2625N
+SL2650N
+
+SL6200S
+SL6225S
+SL6250S
+
+SL6275S
+
+SL6300N
+
+SL6300S
+
+SL6325N
+
+SL6325S
+
+SL6350N
+
+SL6350S
+
+SL6375N
+
+SL6375S
+
+SL6400N
+
+SL6400S
+
+SL6425N
+SL6450N
+
+SL6475N
+SL6500N
+
+SL6525N
+SL6550N
+
+SL8150N
+
+SL8175N
+
+SL8200N
+SL8225N
+
+SL8250N
+SL8275N
+SL8300N
+SL8325N
+
+SL8350N
+
+55
+88
+
+53
+59
+
+115
+
+62
+
+65
+75
+
+73
+54
+
+47
+61
+
+61
+
+47
+53
+
+46
+
+30
+
+57
+33
+
+25
+
+29
+40
+
+63
+
+53
+51
+
+58
+
+63
+31
+
+66
+49
+
+74
+72
+
+52
+
+42
+37
+
+65
+
+78
+
+55
+
+38
+
+42
+31
+43
+
+48
+147
+
+92
+
+65
+
+34
+36
+
+44
+43
+
+33
+17
+
+85
+11
+
+15
+
+5 
+8 
+
+5 6 
+2 
+
+6 
+5 
+
+BL2575E
+BL2600E
+
+BL2550E
+BL2500E
+
+BL2525E
+BL2475E
+
+BL2450E
+
+LEGEND
+SAMPLE #
+
+Zn ppm
+1 UNIT = 1 PPM
+
+Figure 19a
+
+4244454 W E 
+
+S 
+
+N 
+
+SCALE
+
+500m125m0 
+
+
+
+
+	Technical Report on Mining Claims
+	ADP12B2.tmp
+	TABLE 2 Property History
+	Item 9:  Geological Setting
+
+	ADP757F.tmp
+	Item 6: Property Description and Location
+
+	ADP863E.tmp
+	Item 6: Property Description and Location
+
+	ADP99BA.tmp
+	TABLE 2 Property History
+	Item 9:  Geological Setting
+
+
+
+
+'

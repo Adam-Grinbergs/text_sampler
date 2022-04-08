@@ -1,0 +1,3284 @@
+b"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - CMCruzr_AM_43-101Cerrado Verde_TechRpt_final.docx
+
+
+ 
+
+Cerrado Verde Potash Project, Brazil 
+
+Technical Report 
+
+Prepared by Coffey Mining Pty Ltd on behalf of: 
+
+Amazon Mining Holding Plc 
+
+Effective Date: 1 March 2010 
+
+Qualified Person:  
+
+Bernardo Viana,BSc (Geol), MAIG  
+
+Beau Nicholls BSc (Geol), MAIG 
+
+ 
+
+ 
+
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+DOCUMENT INFORMATION 
+
+Cerrado Verde Potash Project, Brazil – 360908 
+Technical Report – 1 March 2010 
+
+Author(s): Beau Nicholls Exploration Geologist BSc (Geo) MAIG 
+
+ Bernardo Viana Resource Geologist B Sc (Geol), MAIG 
+
+ Porfírio Cabaleiro 
+Rodriguez 
+
+Mining Engineer B Sc (Eng), MAIG 
+
+    
+
+Date: 1 March 2010 
+
+Project Number: 360908 
+
+Version / Status: v.01 /  
+
+Path & File Name: S:\BK-GE\Projetos-GCS\Amazon Mining\360908_Cerrado Verde Potash_Scoping Study_Nov2009\Report Preparation 
+
+Print Date: 16 April 2010 
+
+  
+
+Copies: Amazon Mining Holding Plc (2) 
+
+ Coffey Mining – Brazil (1) 
+
+ 
+ 
+
+ 
+Document Change Control 
+
+Version Description (section(s) amended) Author(s) Date 
+
+    
+
+    
+
+    
+
+ 
+ 
+
+ 
+Document Review and Sign Off 
+
+   
+Primary Author 
+Bernardo Viana  
+
+Supervising Principal 
+Porfirio Cabaleiro Rodriguez 
+
+ 
+ 
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 
+Technical Report – 1 March 2010 
+
+Table of Contents 
+
+ 
+
+1 Summary .......................................................................................................................................5 
+
+2 Introduction ..................................................................................................................................7 
+
+2.1 Scope of Work ...................................................................................................................7 
+
+2.2 Qualifications and Experience ...........................................................................................7 
+
+2.3 Independence ....................................................................................................................8 
+
+2.4 Principal Sources of Information .......................................................................................8 
+
+2.5 Abbreviations .....................................................................................................................9 
+
+3 Reliance on Other Experts ....................................................................................................... 10 
+
+4 Property Description and Location ......................................................................................... 11 
+
+4.1 Project Location .............................................................................................................. 11 
+
+4.2 Tenement Status ............................................................................................................ 12 
+
+4.3 Permits ........................................................................................................................... 13 
+
+4.4 Royalties and Agreements ............................................................................................. 14 
+
+4.5 Environmental Liabilities ................................................................................................. 14 
+
+5 Accessibility, Climate, Local Resources, Infrastructure and Physiography ...................... 15 
+
+5.1 Project Access ................................................................................................................ 15 
+
+5.2 Physiography and Climate ............................................................................................. 15 
+
+5.3 Local Infrastructure and Services ................................................................................... 15 
+
+6 History ........................................................................................................................................ 16 
+
+6.1 Exploration History ......................................................................................................... 16 
+
+6.2 Resource History ............................................................................................................ 16 
+
+6.3 Mining History ................................................................................................................. 16 
+
+7 Geological Setting ..................................................................................................................... 17 
+
+7.1 Regional Setting ............................................................................................................. 17 
+
+7.2 Project Geology .............................................................................................................. 19 
+
+8 Deposit Types ............................................................................................................................ 21 
+
+9 Mineralization ............................................................................................................................ 22 
+
+10 Exploration ................................................................................................................................. 23 
+
+11 Drilling ........................................................................................................................................ 25 
+
+11.1 Introduction ..................................................................................................................... 25 
+
+12 Sampling Method and Approach ............................................................................................. 27 
+
+12.1 Reverse Circulation (RC) Sampling ............................................................................... 27 
+
+12.2 Logging ........................................................................................................................... 27 
+
+12.3 Bulk Density .................................................................................................................... 27 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 
+Technical Report – 1 March 2010 
+
+13 Sample Preparation, Analyses and Security .......................................................................... 28 
+
+13.1 Sample Security ............................................................................................................. 28 
+
+13.2 Sample Preparation and Analysis .................................................................................. 28 
+
+13.3 Adequacy of Procedures ................................................................................................ 28 
+
+14 Data Verification ........................................................................................................................ 29 
+
+14.1 Introduction ..................................................................................................................... 29 
+
+14.2 Bureau Veritas Standards .............................................................................................. 29 
+
+14.3 Bureau Veritas Pulp Duplicates ...................................................................................... 29 
+
+14.4 Adequacy of Procedures ................................................................................................ 31 
+
+15 Adjacent Properties .................................................................................................................. 32 
+
+16 Mineral Processing and Metallurgical Testing ....................................................................... 33 
+
+17 Mineral Resource and Mineral Reserve Estimates ................................................................ 34 
+
+17.1 Introduction ..................................................................................................................... 34 
+
+17.2 Geological Modeling ....................................................................................................... 34 
+
+17.3 Block Model Development .............................................................................................. 37 
+
+17.4 Statistical Analysis .......................................................................................................... 37 
+
+17.5 Variography .................................................................................................................... 41 
+
+17.5.1 Introduction ............................................................................................................ 41 
+
+17.6 Grade Estimation ............................................................................................................ 43 
+
+17.7 Resource Reporting........................................................................................................ 46 
+
+17.7.1 Validation ............................................................................................................... 49 
+
+18 Other Relevant Data and Information ...................................................................................... 51 
+
+19 Interpretation and Conclusions ............................................................................................... 52 
+
+20 Recommendations .................................................................................................................... 52 
+
+20.1 Budget and Schedule ..................................................................................................... 52 
+
+21 References ................................................................................................................................. 53 
+
+22 Date and Signature Page .......................................................................................................... 54 
+
+23 Certificates of Authors .............................................................................................................. 55 
+
+ 
+ 
+
+List of Tables 
+
+ 
+Table 1 – Grade Tonnage Report 5 
+
+Table 2.5_1 – List of Abbreviations 9 
+
+Table 4.2_1 – Cerrado Verde Potash Project – Tenement Schedule 13 
+
+Table 11.1_1 – Summary Drilling Statistics 25 
+
+Table 17.3_1 – Block Model Summary 37 
+
+Table 17.4_1 – Summary Statistics – 2m Composites 38 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 
+Technical Report – 1 March 2010 
+
+Table 17.5.2_1– High Grade and Low Grade Mineralized Domain Variogram Models 42 
+
+Table 17.7_1 – Confidence Levels of Key Categorisation Criteria 46 
+
+Table 17.7_2 – Grade Tonnage Report 46 
+
+ 
+
+List of Figures 
+
+ 
+Figure 4.1_1 – Location Plan Cerrado Verde Potash Project 11 
+
+Figure 7.1_1 – Cerrado Verde Potash Project – Regional Setting 18 
+
+Figure 7.2_1 – Cerrado Verde Potash Project – Project Geology 20 
+
+Figure 9_1 – Cerrado Verde Potash Project – Portable XRF analysis 22 
+
+Figure 10_1 – Tenements drilled by Amazon 23 
+
+Figure 10_2 – Drillhole Location Plan 24 
+
+Figure 11.1_1 – RC Drill Rig 25 
+
+Figure 14.3_1 – Field Duplicates -  All sample data 29 
+
+Figure 17.2_1 – Vertical Sections Location 34 
+
+Figure 17.2_2– Cross Section (Section 4) 35 
+
+Figure 17.2_4– Low Grade Domain – 3D 35 
+
+Figure 17.2_5– High Grade Domain in 3 Dimensions 36 
+
+Figure 17.4_1 – Sample Length Distribution 37 
+
+Figure 17.4_2 – Basic statistics – 2m composite Low Grade K2O 39 
+
+Figure 17.4_3 – Basic statistics – 2m composite Low Grade K2O 40 
+
+Figure 17.6_1 – K2O % estimation steps – Plan View 45 
+
+Figure 17.7_1 – Block Model Domains Low Grade and High Grade 47 
+
+Figure 17.7_2  – Grade Tonnage Curve – Domain High Grade - Inferred Resource. 48 
+
+Figure 17.7_3 – Grade Tonnage Curve – Domain Low Grade - Inferred Resource. 48 
+
+Figure 17.7.1_1 – Comparative Statistics – High Grade Domain. 49 
+
+Figure 17.7.1_2 – Comparative Statistics – Low Grade Domain. 50 
+
+ 
+
+List of Appendices 
+
+ 
+Appendix A – Drill hole graphical logs 
+
+ 
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  5 
+
+1 SUMMARY 
+
+Coffey Mining Pty Ltd (Coffey Mining) has been commissioned by Amazon Mining Holding Plc (Amazon 
+
+Mining) to complete a resource estimate for the Cerrado Verde Potash Project in Brazil. 
+
+This report is prepared to comply with reporting requirements set forth in the Canadian National 
+
+Instrument 43-101 (NI 43-101). 
+
+The Cerrado Verde Potash Project is located in the Alto Paranaíba region of Minas Gerais State, Brazil.  
+
+The Patos de Minas village can be reached by vehicle from Belo Horizonte in 3 hours (300km), via a 
+
+good quality sealed road.  From Patos de Minas village the project is accessed via a number of 
+
+secondary gravel roads that connect the farming region.  The local vegetation shows relicts of the 
+
+primitive savanna ("cerrado") amid the extensive farming area which includes soya and coffee, and 
+
+industrial forests of eucalyptus and pine trees. 
+
+The Cerrado Verde Potash Project comprises 96 tenements, covering an aggregate area of 1,468km2.  
+
+25 of them (total area of 331Km2) are currently available into the DNPM (Brazilian National Mining 
+
+Department) but were requested by FVS Mineração Ltda.. The others 71 tenements (total area of 
+
+1,137Km2) are owned 100% by FVS Mineração Ltda., that is a subsidiary of Amazon Mining and no 
+
+associated royalties and agreements are in place. 
+
+The Verdete Slate is located on top of the Serra da Saudade Formation and underlies the Areado 
+
+sandstones.  Its apparent thickness varies from approximately 20m in the southernmost domain to over 
+
+50m in the northern half of the Serra da Saudade.  The units are oriented along a north south to north 
+
+northeast direction and are continuously exposed for over 120km within the Amazon Mining permits.  
+
+The Potash mineralization is associated with the Glauconite mineral which gives the Verdete Slate its 
+
+distinctive green colour.  Grab samples along the entire strike length range from 5% to 12% K2O.  The 
+
+potential tonnage is therefore very large. 
+
+A Reverse Circulation (RC) drilling program comprising 19 holes for a total of 997m was undertaken in 
+
+early 2010 by Amazon Mining and has targeted only a select portion of the regional Verdete Slate within 
+
+the Amazon tenements.  All holes were successful in intersecting the Verdete Slate. 
+
+Coffey Mining has estimated the Preliminary Mineral Resource for the Cerrado Verde Potash Project as 
+
+at 27 February 2010.  All grade estimations were completed using Ordinary Kriging ('OK') for Potash.  
+
+This estimation approach was considered appropriate based on review of a number of factors, including 
+
+the quantity and spacing of available data, the interpreted controls on mineralization, and the style of 
+
+mineralization.  The estimation was constrained with mineralization interpretations. 
+
+A total inferred resource of 160M t at 8.75% K2O has been determined (No cut-off applied) as shown in 
+
+the table below. 
+
+  
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  6 
+
+Table 1 
+Cerrado Verde Deposit –27 February 2010 
+
+Inferred Grade Tonnage Report 
+Ordinary Kriging Estimate 
+
+100mE x 100mN x 5mRL Selective Mining Unit 
+
+Domain Cut-Off Grade (% K2O) Million Tonnes Average Grade  (% K2O) 
+
+Low Grade 
+
+0 67.82 6.22 
+
+3 67.82 6.22 
+
+4 67.45 6.23 
+
+5 55.85 6.41 
+
+6 33.19 7.27 
+
+7 20.24 7.78 
+
+8 6.49 8.52 
+
+9 1.01 9.43 
+
+High Grade 
+
+0 92.74 10.61 
+
+7 92.74 10.61 
+
+8 92.20 10.63 
+
+9 86.55 10.76 
+
+10 64.39 11.17 
+
+11 35.71 11.61 
+
+12 8.24 12.33 
+
+Total Low Grade + High 
+Grade 
+
+0 160.56 8.75 
+
+ 
+Coffey Mining considers the Amazon Mining permits have demonstrated the potential to host a very 
+
+large tonnage of the glauconitic Verdete Slate unit, as demonstrated by the preliminary resource drilling 
+
+program and regional mapping and grab sampling. 
+
+Coffey Mining recommends that a preliminary economic assessment (PEA) be undertaken on the 
+
+Cerrado Verde Project prior to undertaking any additional resource definition. 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  7 
+
+2 INTRODUCTION 
+
+2.1 Scope of Work 
+
+Coffey Mining Pty Ltd (Coffey Mining) has been commissioned by Amazon Mining Holding Plc 
+
+(Amazon Mining) to complete a Resource Estimate for the Cerrado Verde Potash Project in 
+
+Brazil.   
+
+The Cerrado Verde Potash Project is located 300km from Belo Horizonte city, in Minas Gerais 
+
+State, Brazil. 
+
+This report is prepared to comply with reporting requirements set forth in the Canadian 
+
+National Instrument 43-101 (NI 43-101). 
+
+2.2 Qualifications and Experience 
+
+Coffey Mining is an international mining consulting firm specializing in the areas of geology, 
+
+mining and geotechnical engineering, metallurgy, hydrogeology, hydrology, tailings disposal, 
+
+environmental science and social and physical infrastructure. 
+
+The "qualified persons" (as defined in NI 43-101) for the purpose of this report are Mr. 
+
+Bernardo Viana and Mr. Beau Nicholls. 
+
+Mr. Viana is a professional resource geologist with 8 years experience in resource and mining 
+
+geology.  Mr. Viana is a member of the Australian Institute of Geoscientists (MAIG) and has 
+
+the appropriate relevant qualifications, experience and independence as defined in the 
+
+Canadian National Instrument 43-101.  Mr. Viana has not visited the Cerrado Verde Potash 
+
+Project.   
+
+Mr. Nicholls is a professional geologist with 15 years experience in exploration and mining 
+
+geology.  He is an associate consultant for Coffey Mining.  Mr. Nicholls is also a Member of 
+
+the Australian Institute of Geosciences (MAIG) and has the appropriate relevant qualifications, 
+
+experience and independence as defined in the Canadian National Instrument 43-101.  Mr 
+
+Nicholls visited the Cerrado Verde Potash Project between 10th and 11th July 2009. 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  8 
+
+2.3 Independence 
+
+Neither Coffey Mining, nor the authors of this report, have or have had previously any material 
+
+interest in Amazon Mining or related entities or interests.  Our relationship with Amazon 
+
+Mining is solely one of professional association between client and independent consultant.  
+
+This report is prepared in return for fees based upon agreed commercial rates and the 
+
+payment of these fees is in no way contingent on the results of this report. 
+
+2.4 Principal Sources of Information 
+
+In addition to site visits undertaken to the Cerrado Verde Potash Project, the authors of this 
+
+report have relied extensively on information provided by Amazon Mining, extensive 
+
+discussion with Amazon Mining, and studies completed by other internationally recognised 
+
+independent consulting and engineering groups.  A full listing of the principal sources of 
+
+information is included in Section 21 of this report and a summary is provided below: 
+
+� Persio Mandetta 2009 – Planejamento de Sondagem Exploratória. 
+
+� Luis A.M Da Costa et al, Sept 2008 – Potential of Potassium-Bearing Rock of the Cedro 
+
+do Abaeté Region, State of Minas Gerais, Brazil. 
+
+Coffey Mining has made all reasonable enquiries to establish the completeness and 
+
+authenticity of the information provided and identified, and a final draft of this report was 
+
+provided to Amazon Mining along with a written request to identify any material errors or 
+
+omissions prior to lodgement. 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  9 
+
+2.5 Abbreviations 
+
+A full listing of abbreviations used in this report is provided in Table 2.5_1 below. 
+
+ 
+
+Table 2.5_1 
+
+Cerrado Verde Potash Project 
+
+List of Abbreviations 
+ 
+
+ Description   Description 
+
+$ United States of America dollars  l/hr/m2 litres per hour per square metre 
+
+µ microns  M Million 
+
+3D three dimensional  M Metres 
+
+AAS atomic absorption spectrometer  Ma thousand years 
+
+Au Gold  MIK Multiple Indicator Kriging 
+
+bcm bank cubic metres  Ml Millilitre 
+
+CC correlation coefficient  Mm Millimetres 
+
+cfm cubic feet per minute  MMI mobile metal ion 
+
+CIC carbon in column  Moz million ounces 
+
+CIL carbon-in-leach  Mtpa million tonnes per annum 
+
+cm centimetre  N (Y) Northing 
+
+cusum cumulative sum of the deviations  NaCN sodium cyanide 
+
+CV coefficient of variation  NATA National Association of Testing Authorities 
+
+DDH diamond drillhole  NPV net present value 
+
+DTM digital terrain model  NQ2 size of diamond drill rod/bit/core 
+
+E (X) easting  ºC degrees centigrade 
+
+EDM electronic distance measuring  OK Ordinary Kriging 
+
+EV expected value  Oz troy ounce 
+
+g gram  P80 -75µ 80% passing 75 microns 
+
+g/m3 grams per cubic metre  PAL pulverise and leach 
+
+g/t grams per tonne  Ppb parts per billion 
+
+HARD half the absolute relative difference  Ppm parts per million 
+
+HDPE high density poly ethylene  Psi pounds per square inch 
+
+HQ2 size of diamond drill rod/bit/core  PVC poly vinyl chloride 
+
+hr hours  QC quality control 
+
+HRD half relative difference  Q-Q quantile-quantile 
+
+ICP-MS inductivity coupled plasma mass spectroscopy  RAB rotary air blast 
+
+ID Inverse Distance weighting  RC reverse circulation 
+
+ID2 Inverse Distance Squared  RL (Z) reduced level 
+
+IPS integrated pressure stripping  ROM run of mine 
+
+IRR internal rate of return  RQD rock quality designation 
+
+ISO International Standards Organisation  SD standard deviation 
+
+ITS Inchcape Testing Services  SGS Société Générale de Surveillance 
+
+kg kilogram  SMU simulated mining unit 
+
+K2O potash  T tonnes 
+
+km kilometres  t/m3 tonnes per cubic metre 
+
+km2 square kilometres    
+
+ 
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  10 
+
+3 RELIANCE ON OTHER EXPERTS 
+
+Neither Coffey Mining nor the authors of this report are qualified to provide comment on legal 
+
+issues associated with the Cerrado Verde Potash Project included in Section 4 of this report.  
+
+Assessment of these aspects has relied on information provided by Amazon Mining and has 
+
+not been independently verified by Coffey Mining. 
+
+Similarly, the authors of this report are not qualified to provide extensive comment on 
+
+hydrological and environmental issues associated with the properties referred to in this report.  
+
+Assessment of these aspects has relied heavily on information provided by Amazon Mining 
+
+and its consultants, along with reports previously prepared by other independent consultants.   
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  11 
+
+4 PROPERTY DESCRIPTION AND LOCATION 
+
+4.1 Project Location 
+
+The Cerrado Verde Potash Project is located in the Alto Paranaíba region of Minas Gerais 
+
+State, Brazil (Figure 4.1_1). 
+
+ 
+
+Figure 4.1_1 
+Location Plan of Cerrado Verde Potash Project 
+
+ 
+
+ 
+The boundaries of the concessions have not been surveyed as this is not a requirement of 
+
+Brazil's mining code.  The tenement boundaries are defined by UTM coordinates with the 
+
+datum of SAD69 (Centred around coordinates 394,525 East and 7,856,531 North). 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  12 
+
+4.2 Tenement Status 
+
+The Cerrado Verde Potash Project comprises 96 tenements, covering an aggregate area of 
+
+1,468km2 as shown in Table 4.2_1 and Figure 4.1_1.   
+
+ 
+
+Table 4.2_1 
+
+Cerrado Verde Potash Project 
+
+Tenement Schedule 
+ 
+
+Concession 
+Number 
+
+Year Type Holder 
+Area 
+(ha) 
+
+831005 2009 REQUERIMENTO DE PESQUISA FVS Mineração Ltda 1893.72 
+
+831006 2009 REQUERIMENTO DE PESQUISA FVS Mineração Ltda 1222.4 
+
+831007 2009 REQUERIMENTO DE PESQUISA FVS Mineração Ltda 237.36 
+
+831008 2009 REQUERIMENTO DE PESQUISA FVS Mineração Ltda 244.98 
+
+833248 2008 REQUERIMENTO DE PESQUISA FVS Mineração Ltda 1849.51 
+
+833249 2008 DISPONIBILIDADE FVS Mineração Ltda 1377.85 
+
+833250 2008 DISPONIBILIDADE FVS Mineração Ltda 1715.95 
+
+833251 2008 DISPONIBILIDADE FVS Mineração Ltda 1108.25 
+
+833252 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1993.71 
+
+833253 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1716.04 
+
+833254 2008 REQUERIMENTO DE PESQUISA FVS Mineração Ltda 1232.36 
+
+833254 2008 REQUERIMENTO DE PESQUISA FVS Mineração Ltda 18.98 
+
+833255 2008 DISPONIBILIDADE FVS Mineração Ltda 1915.38 
+
+833256 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1994.32 
+
+833257 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1993.84 
+
+833258 2008 DISPONIBILIDADE FVS Mineração Ltda 1994.34 
+
+833259 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1476.58 
+
+833260 2008 DISPONIBILIDADE FVS Mineração Ltda 1872.1 
+
+833261 2008 DISPONIBILIDADE FVS Mineração Ltda 1994.38 
+
+833262 2008 DISPONIBILIDADE FVS Mineração Ltda 1993.58 
+
+833263 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1844.23 
+
+833264 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1511.58 
+
+833265 2008 DISPONIBILIDADE FVS Mineração Ltda 1.53 
+
+833265 2008 DISPONIBILIDADE FVS Mineração Ltda 1390.29 
+
+833266 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1230.03 
+
+833267 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1663.21 
+
+833268 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 966.82 
+
+833269 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1771.42 
+
+833270 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1991.78 
+
+833271 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1524.17 
+
+833272 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1587.61 
+
+833273 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1994.32 
+
+833274 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1994.84 
+
+833275 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1994.06 
+
+833276 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1334.71 
+
+833277 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1992.24 
+
+833278 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1993.88 
+
+833279 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1952.53 
+
+833280 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1742.04 
+
+833281 2008 REQUERIMENTO DE PESQUISA FVS Mineração Ltda 164.86 
+
+833281 2008 REQUERIMENTO DE PESQUISA FVS Mineração Ltda 1384.4 
+
+833282 2008 DISPONIBILIDADE FVS Mineração Ltda 1047.73 
+
+833283 2008 DISPONIBILIDADE FVS Mineração Ltda 812.85 
+
+833284 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1468.97 
+
+833285 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1993.69 
+
+833286 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1943.82 
+
+833287 2008 DISPONIBILIDADE FVS Mineração Ltda 1773.51 
+
+833287 2008 DISPONIBILIDADE FVS Mineração Ltda 7.38 
+
+833288 2008 DISPONIBILIDADE FVS Mineração Ltda 1989.29 
+
+833289 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1928.55 
+
+833290 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1678.42 
+
+833291 2008 DISPONIBILIDADE FVS Mineração Ltda 977.78 
+
+833292 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1935.96 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  13 
+
+Concession 
+Number 
+
+Year Type Holder 
+Area 
+(ha) 
+
+833293 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1793.65 
+
+833294 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1492.78 
+
+833295 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1571.46 
+
+833296 2008 DISPONIBILIDADE FVS Mineração Ltda 1778.26 
+
+833297 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1985.37 
+
+833305 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1555.92 
+
+833306 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1712.36 
+
+833307 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1993.77 
+
+833308 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1990.91 
+
+833309 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1559.42 
+
+833310 2008 DISPONIBILIDADE FVS Mineração Ltda 1813.67 
+
+833310 2008 DISPONIBILIDADE FVS Mineração Ltda 4.78 
+
+833311 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1993.88 
+
+833312 2008 DISPONIBILIDADE FVS Mineração Ltda 1676.1 
+
+833312 2008 DISPONIBILIDADE FVS Mineração Ltda 1.54 
+
+833312 2008 DISPONIBILIDADE FVS Mineração Ltda 11.92 
+
+833313 2008 DISPONIBILIDADE FVS Mineração Ltda 1994.34 
+
+833314 2008 DISPONIBILIDADE FVS Mineração Ltda 1853.7 
+
+833315 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1992.07 
+
+833316 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1994.21 
+
+833317 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1551.02 
+
+833318 2008 DISPONIBILIDADE FVS Mineração Ltda 1994.16 
+
+833319 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1993.72 
+
+833320 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1886.15 
+
+833321 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1138.08 
+
+833322 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1992.7 
+
+833323 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1536.42 
+
+833324 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1932.31 
+
+833325 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1916.57 
+
+833326 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1920.21 
+
+833327 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1916.57 
+
+833328 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1790.21 
+
+833329 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 41.07 
+
+833330 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1464.51 
+
+833331 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1366.49 
+
+833332 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1854.81 
+
+833333 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1501.36 
+
+833334 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1914.94 
+
+833335 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1575.41 
+
+833336 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1662.51 
+
+833647 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1907.6 
+
+833648 2008 AUTORIZAÇÃO DE PESQUISA FVS Mineração Ltda 1784.49 
+
+833935 2008 REQUERIMENTO DE PESQUISA FVS Mineração Ltda 34.98 
+
+Total 146,880.5 
+
+Note 1 
+No extinction provision applies to Mining Concessions under Brazilvian legislation, as long as its titleholder complies with the 
+administrative obligations established by law in order to maintain its validity. 
+
+ 
+ 
+
+4.3 Permits 
+
+Amazon has acquired all the appropriate land owner and environmental permits to undertake 
+
+the drilling in permits 833,306/2008 and 833,280/2008.  
+
+No additional permits are required at the current stage of exploration 
+
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  14 
+
+4.4 Royalties and Agreements 
+
+The tenements are owned 100% by FVS Mineração Ltda., that is a subsidiary of Amazon 
+
+Mining and no associated royalties and agreements are in place. 
+
+4.5 Environmental Liabilities 
+
+Coffey Mining is not aware of any environmental liabilities associated with the project. 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  15 
+
+5 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE 
+
+AND PHYSIOGRAPHY 
+
+5.1 Project Access 
+
+Patos de Minas village can be reached by vehicle from Belo Horizonte in 3 hours, via a good 
+
+quality sealed road (BR-262).  From Patos de Minas village the project is accessed via a 
+
+number of secondary gravel roads that connect the farming region. 
+
+5.2 Physiography and Climate 
+
+Annual rainfall in the area averages between 1,300mm and 1,800mm, 84% of which falls 
+
+during the rainy season between October and March. December and January present the 
+
+most intense precipitation.  The annual average temperature is slightly above 20ºC. 
+
+The local vegetation shows relicts of the primitive savanna ("cerrado") amid the farming area 
+
+which includes soya and coffee, and industrial forests of eucalyptus and pine trees. The farms 
+
+are mainly confined to the fertile soil of the Mata da Corda Formation that underlines the flat 
+
+tops of the mountain range with altitude levels between 1,000m to 2,000m. 
+
+5.3 Local Infrastructure and Services  
+
+Belo Horizonte is the capital and also the largest city in the state, with a population in excess 
+
+of four (4) million.  It is the major centre for the Brazilian mining industry. A large commercial 
+
+airport with domestic and international flights services Belo Horizonte, which hosts several 
+
+state and federal government agencies and private businesses that provide services to the 
+
+mining industry. Skilled labour is readily available in Belo Horizonte and the local village of 
+
+Patos de Minas.  
+
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  16 
+
+6 HISTORY 
+
+6.1 Exploration History 
+
+The Verdete Slate has been known as a potential Potash resource since the 1960's 
+although only regional mapping has been undertaken in the permits held by Amazon 
+Mining. 
+
+6.2 Resource History 
+
+No historical resource estimates have been released. 
+
+6.3 Mining History 
+
+No historical mining of the Verdete slate has been undertaken. 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  17 
+
+7 GEOLOGICAL SETTING 
+
+7.1 Regional Setting 
+
+The regional geology is mainly underlain by Neoproterozoic and Cretaceous rock units, 
+which are partly covered by Cenozoic sandstones, lateritic sediments and soils.  The 
+oldest rocks, occurring in the southwestern portion of the region, are represented by 
+calcoschists and diamictites of the Ibiá Formation (Araxá Group) surrounded by the 
+Canastra Group (quartzites, phyllites and micaschists).   
+
+The sequence is followed by the Bambui Group, which comprises the marine deposits of 
+the Paraopeba Formation, the Santa Helena Formation and the Serra da Saudade 
+Formation, which is the host to the Verdete Slate unit.  
+
+  
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  18 
+
+ 
+
+Figure 7.1_1 
+Cerrado Verde Potash Project – Regional Setting 
+
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  19 
+
+7.2 Project Geology 
+
+The Verdete Slate is located on top of the Serra da Saudade Formation and underlies the 
+Areado sandstones.  Its apparent thickness varies from approximately 20m in the 
+southernmost domain to over 50m in the northern half of the Serra da Saudade and up to 
+80m at the northern end where it is covered by younger sediments.  
+
+The units are oriented along a north south to north northeast strike and are continuously 
+exposed for over 120km within the Amazon Mining permits. 
+
+  
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  20 
+
+ 
+
+Figure 7.2_1 
+Cerrado Verde Potash Project – Project Geology 
+
+ 
+
+ 
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  21 
+
+8 DEPOSIT TYPES 
+
+Normally, Glauconite is considered a diagnostic element indicative of continental shelf 
+marine depositional environments with slow rates of accumulation.  It develops as a 
+consequence of diagenetic alteration of sedimentary deposits, bio-chemical reduction and 
+subsequent mineralogical changes affecting iron-bearing micas such as biotite, and is 
+also influenced by the decaying process of organic matter degraded by bacteria in marine 
+animal shells.  Glauconite forms under reducing conditions in sediments. 
+
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  22 
+
+9 MINERALIZATION 
+
+The Potash mineralization is associated with the Glauconite mineral which gives the Verdete 
+
+Slate its distinctive green colour.  Glauconite is an iron potassium phyllosilicate (mica group) 
+
+mineral of characteristic green colour with very low weathering resistance. 
+
+The Verdete slate held within the Amazon tenements can be traced for the entire 120km strike 
+
+length with a potential width up to 500m wide.  Grab samples along the entire strike length 
+
+range from 5% to 12% K2O.  The potential tonnage is therefore very large, could reach the 
+
+magnitude of Billons of tons. 
+
+ 
+ 
+
+Figure 9_1 
+Cerrado Verde Potash Project – Analyzing with portable XRF unit 
+
+ 
+
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  23 
+
+10 EXPLORATION 
+
+Amazon Mining has completed remote sensing targeting exercise followed by regional 
+
+mapping and grab samples.  In addition, Amazon completed a preliminary survey using an 
+
+Innov-X portable XRF unit.  The portable XRF unit was then correlated to pulp standards and 
+
+showed good precision although returned a positive bias in the order of <1% K. 
+
+The Verdete Slate is distinctively green in colour and as such is very easy to identify in the 
+
+field and can be visually estimated based on green colour which represents the glauconitic 
+
+content. 
+
+A drilling program was undertaken in early 2010 and has targeted only a select portion of the 
+
+regional Verdete Slate within the Amazon tenements as shown in Figure 10_1 below.  Figure 
+
+10_2 shows the location of the drillholes completed by Amazon.  All holes were successful in 
+
+intersecting the Verdete Slate.   
+
+ 
+ 
+
+Figure 10_1 
+Tenements drilled by Amazon  
+
+ 
+
+ 
+  
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  24 
+
+ 
+ 
+
+Figure 10_2 
+
+Drillhole Location Plan 
+
+ 
+
+ 
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  25 
+
+11 DRILLING 
+
+11.1 Introduction 
+
+The principal methods used for exploration drilling at Cerrado Verde have been reverse 
+
+circulation drilling (RC).   
+
+ 
+ 
+
+Figure 11.1_1 
+
+RC Drill Rig 
+
+  
+
+  
+
+ 
+ 
+
+Table 11.1_1 summarises pertinent drilling statistics.  The main zone has been drilled at a 
+
+nominal spacing of 100m to 400m. 
+
+ 
+
+Table 11.1_1 
+
+Cerrado Verde Potash Project 
+
+Summary Drilling Statistics 
+ 
+
+Company/Year Drillholes Metres Contractor Drill Rig Diameter 
+
+Amazon Mining / 
+2010 
+
+19 997 
+Fuad Rassi Engenharia Indústria e 
+
+Comércio Ltda 
+Prominas R1-H 4.5" 
+
+ 
+
+All drillholes have been drilled vertical to an average of 52m deep.  No downhole surveys 
+
+have been completed due to the short vertical holes and scale of mineralization.  
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  26 
+
+Drillhole collars were surveyed by Amazon Mining surveyors using a portable GPS with 
+
+accuracy of +/-5m. 
+
+Accuracy of the survey measurements (downhole and surface) meets acceptable industry 
+
+standards for the style of mineralization. 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  27 
+
+12 SAMPLING METHOD AND APPROACH 
+
+12.1 Reverse Circulation (RC) Sampling 
+
+The samples were taken on 2m intervals and riffle split down to 3kg samples.  Sample 
+
+weights were not recorded but recoveries were reported as good. 
+
+12.2 Logging 
+
+Drill samples were sieved during drilling and a small sample of the chips was stored in chip 
+
+trays for future reference. 
+
+Basic weathering and lithologies were recorded by the geologists and entered into a digital 
+
+database. 
+
+12.3 Bulk Density 
+
+Amazon utilised a consulting group, ConcreSolo, to undertake Bulk Density measurements. 
+
+Coffey Mining has reviewed the methodology used by the company ConcreSolo, and noted 
+
+that the 22 samples measured the saturated Bulk Density of grab samples collected from 
+
+surface.   
+
+Coffey Mining considers that given the apparent leached zone in the first 10m of drilling that 
+
+down hole samples should be undertaken, to determine if there is any change in density with 
+
+depth. 
+
+Coffey Mining also considers that saturated bulk density measurements are not appropriate 
+
+for resource estimation.  Dry bulk density should be determined. 
+
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  28 
+
+13 SAMPLE PREPARATION, ANALYSES AND SECURITY 
+
+13.1 Sample Security 
+
+All samples following drilling were sent via an Amazon Mining vehicle to the Bureau Veritas 
+
+laboratory in Belo Horizonte for analysis.  All sample reject, pulps and chip trays are stored at 
+
+the Amazon Mining base in Belo Horizonte 
+
+13.2 Sample Preparation and Analysis 
+
+All samples have been prepared and analysed by Bureau Veritas in Belo Horizonte. 
+
+• The samples were received then dried, crushed to 2mm and riffle split 
+
+• Samples were analysed by XRF for Fe2O3, SiO2, Al2O3, CaO, MgO, MnO, TiO2, Na2O, 
+
+K2O, BaO, P2O5, Cr2O3, SrO and LOI. 
+
+Bureau Veritas insert duplicates, blanks and certified standards at a rate of 5% to maintain 
+
+their quality control. 
+
+13.3 Adequacy of Procedures 
+
+Coffey Mining considers the sample preparation, analysis and sample security to be of 
+
+acceptable standards. 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  29 
+
+14 DATA VERIFICATION 
+
+14.1 Introduction 
+
+Amazon did not carry out a proper QAQC program.  The current QAQC analysis is the internal 
+
+Bureau Veritas program. 
+
+5% of samples sent to the Bureau Veritas were then sent to SGS-Geosol in Belo Horizonte to 
+
+undertake an umpire sample. 
+
+Coffey Mining has reviewed the QAQC results returned by Bureau Veritas as follows 
+
+14.2 Bureau Veritas Standards 
+
+Table 14.2_1 
+
+Standards Utilized by Bureau Veritas 
+ 
+
+Standard  
+
+Expected 
+Value 
+K2O % 
+
+ 
+
++/-10% (EV) 
+ 
+
+Failed  
+No of 
+
+Analyses 
+Minimum 
+
+(%) 
+Maximum 
+
+(%) 
+Mean 
+(%)) 
+
+% 
+Within 
++/- 10 
+of EV 
+
+% 
+RSD 
+(from 
+EV) 
+
+% 
+Bias 
+(from 
+EV) 
+
+IPT 146   0.04 0.034 and 0.042 5 6 0 .07 0.05    
+
+IPT 53   12.1 10.89 and 13.31 0 6 11.95 12.61 12.18    
+
+IPT53+IPT146  6.07 5.46 and 6.67 0 6 5.84 6.36 6.07    
+
+Pulp Blank 0 <0.3 2 30       
+
+Erro! Indicador não definido. 
+With the exclusion of IPT146 (Which is less than the quoted detection limit for K2O) all blanks 
+
+and standards inserted by Bureau Veritas are within a 10% tolerance level.  
+
+14.3 Bureau Veritas Pulp Duplicates 
+
+A pulp duplicate was completed by Bureau Veritas every 20 samples.  The results of these 
+
+duplicates are shown in the Figure 14.3_1 below.  (Analysed using the Coffey Mining internal 
+
+QC Assure statistical software) 
+
+The results show excellent precision for K2O with 97% of the data being within 10% HARD 
+
+  
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  30 
+
+Figure 14.3_1 
+Field Duplicates -  All sample data (Includes NQ and HQ core 0.3 to 5m) 
+
+ 
+
+K2O ID
+
+SAMPLE A
+
+K2O ID
+
+SAMPLE B Units Result
+
+No. Pairs: 37 37 Pearson CC: 0.99
+Minimum: 0.07 0.02 g/t Spearman CC: 0.97
+Maximum: 13.50 12.71 g/t Mean HARD: 2.54
+Mean: 9.09 9.04 g/t Median HARD: 0.46
+Median 10.08 9.91 g/t
+Std. Deviation: 3.10 3.03 g/t Mean HRD: 1.65
+Coefficient of Variation: 0.34 0.34 Median HRD 0.09
+
+0
+
+20
+
+40
+
+60
+
+0.01 0.1 1 10 100
+
+H
+A
+R
+D
+ (
+%
+)
+
+Mean of Data Pair (g/t)
+
+Mean vs. HARD Plot
+(All Data)
+
+Mean HARD: 2.54 Median HARD: 0.46
+Precision: 10%
+
+0
+
+50
+
+100
+
+0 10 20 30 40 50 60 70 80 90 100
+
+H
+A
+R
+D
+ (
+%
+)
+
+Rank (%)
+
+Rank HARD Plot
+(All Data)
+
+Precision: 10%
+
+97.30% of data are within
+
+Precision limits
+
+0
+
+50
+
+100
+
+-1.0 0.0 1.0
+
+F
+r
+e
+q
+u
+e
+n
+c
+y
+ (
+%
+)
+
+HRD (/100)
+
+HRD Histogram
+
+(All Data)
+
+Mean HRD: 1.65 Median HRD: 0.09
+Precision: +/-10%
+
+-20
+
+0
+
+20
+
+40
+
+60
+
+0.01 0.1 1 10 100
+
+H
+R
+D
+ (
+%
+)
+
+Mean of Data Pair (g/t)
+
+Mean vs. HRD Plot
+
+(All Data)
+
+Mean HRD: 1.65 Median HRD: 0.09
+Precision: +/-10%
+
+0.001
+
+0.01
+
+0.1
+
+1
+
+10
+
+0.01 0.1 1 10 100
+
+A
+b
+s
+o
+lu
+t
+e
+ D
+if
+f
+e
+r
+e
+n
+c
+e
+ (
+g
+/
+t)
+
+Mean of Data Pair (g/t)
+
+T & H Precision Plot (Assay Pairs)
+
+(All Data)
+
+10% 20% 30% 50%
+
+0.01
+
+0.1
+
+1
+
+10
+
+1 10 100
+
+M
+e
+d
+ia
+n
+ A
+D
+ (
+g
+/
+t
+)
+
+Grouped Mean of Pair (g/t)
+
+T & H Precision Plot (Grouped Pairs)
+
+(All Data)
+
+10% 20% 30% 50%
+
+0
+
+5
+
+10
+
+15
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+
+K
+2
+O
+ I
+D
+ S
+A
+M
+P
+L
+E
+ B
+ (
+g
+/
+t
+)
+
+K2O ID SAMPLE A (g/t)
+
+Correlation Plot
+(All Data)
+
+P.CC= 0.99  S.CC= 0.97 Ref. Line
+y = 0.97x + 0.24
+
+0
+
+5
+
+10
+
+15
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+
+K
+2
+O
+ I
+D
+ S
+A
+M
+P
+L
+E
+ B
+ (
+g
+/
+t
+)
+
+K2O ID SAMPLE A (g/t)
+
+QQ Plot
+(All Data)
+
+Ref. Line y = 0.97x + 0.19
+
+Bureau Veritas - Pulp Duplicates
+(All Data)
+
+Printed: 13-Apr-2010 19:02:27 Data Imported: 13-Apr-2010 18:57:18 Page 1
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  31 
+
+14.4 Adequacy of Procedures 
+
+No Quality control data has been supplied by Amazon Mining.  Coffey Mining recommends 
+
+that Amazon Mining adopt a similar QAQC program as utilised by Bureau Veritas, which 
+
+includes the use of certified standards, blanks and pulp duplicates.  In addition Coffey Mining 
+
+would recommend that field duplicates which would require the resplitting of the reverse 
+
+Circulation field reject sample to be submitted at a rate of 5%. 
+
+The Bureau Veritas QAQC data shows good precision and accuracy.  
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  32 
+
+15 ADJACENT PROPERTIES 
+
+There are no advanced potash properties in the immediate vicinity of the Cerrado Verde 
+
+Project. 
+
+ 
+
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  33 
+
+16 MINERAL PROCESSING AND METALLURGICAL TESTING 
+
+Coffey Mining has not reviewed any metallurgical data related with the Cerrado Verde project.  
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  34 
+
+17 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES 
+
+17.1 Introduction 
+
+Coffey Mining has estimated the Preliminary Mineral Resource for the Cerrado Verde Potash 
+
+Project as at 27 February 2010.  All grade estimation was completed using Ordinary Kriging 
+
+('OK') for Potash.  This estimation approach was considered appropriate based on review of a 
+
+number of factors, including the quantity and spacing of available data, the interpreted 
+
+controls on mineralization, and the style of mineralization.  The estimation was constrained 
+
+with mineralization interpretations. 
+
+17.2 Geological Modeling 
+
+Based on grade information and geological observations from Coffey Mining and site based 
+
+Amazon geologists, 1 high grade domain and 1 low grade domain have been interpreted 
+
+using E-W oriented vertical sections. 
+
+Interpretation and digitising of all constraining boundaries has been undertaken on cross 
+
+sections orientated at 90º (drill line orientation).  The interpretation was completed using 
+
+8 vertical sections.  Figure 17.2_1 shows the vertical sections location.  The resultant digitised 
+
+boundaries have been used to construct wireframe defining the three-dimensional geometry 
+
+of each interpreted feature.  The interpretation and wireframe models have been developed 
+
+using the Gemcom Surpac mine planning software package. 
+
+As the drill holes collars were surveyed using a portable GPS the RL values of each one were 
+
+defined by Coffey draping those collars to the 3D topography surface. 
+
+ 
+Figure 17.2_1 
+
+Vertical Sections L- ocation 
+
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  35 
+
+For the purpose of the resource estimation, 2 mineralized domains were interpreted and 
+
+modelled to the Verdete slate which is characterised by the green glauconitic mineralization..  
+
+Cross section examples are shown in the figures below. 
+
+ 
+Figure 17.2_2 
+
+Cross Section (Section 4) 
+
+ 
+ 
+
+ 
+Figure 17.2_3 
+
+Cross Section (Section 5) 
+
+ 
+ 
+
+  
+
+The following figures below show the two domain wireframes interpreted in 3 dimensions 
+
+  
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  36 
+
+ 
+Figure 17.2_4 
+
+Low Grade Domain – 3 Dimensions 
+
+ 
+
+ 
+
+   
+ 
+
+Figure 517.2_5 
+
+High Grade Domain – 3 Dimensions  
+
+ 
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  37 
+
+17.3 Block Model Development 
+
+A three-dimensional block model was constructed for the Cerrado Verde deposit, covering all 
+
+the interpreted mineralization zones and including suitable additional waste material to allow 
+
+later pit optimisation studies.  The block model has been developed using Gemcom Surpac 
+
+Mine planning software. 
+
+A parent block size of 100mE x 100mN x 10mRL has been used for all materials with sub-
+
+blocking to 50mE x 50mN x 5mRL to allow adequate volume resolution.  To obtain a robust 
+
+flagging of the wireframe in the block model, a percent model technique was used which 
+
+calculates the percentage of the block inside the high grade wireframe.  This provides a more 
+
+accurate volume estimate.  Bulk density has been coded to the block model based on the 
+
+defined density values provided by Amazon. 
+
+The Table 17.3_1 below shows the summary of the block model created. 
+
+ 
+
+Table 17.3_1 
+
+Block Model Summary 
+ 
+
+ Y X Z 
+
+Minimum Coordinates 7,868,000 407,500 600 
+
+Maximum Coordinates 7,871,500 409,500 1,050 
+
+User Block Size 100 100 10 
+
+Min. Block Size 50 50 5 
+
+Rotation 0 0 0 
+
+ 
+
+17.4 Statistical Analysis 
+
+The drillhole database was composited to a 2m down hole composite intervals, recording.  The 
+
+2m composites were used for all statistical, geostatistical and grade estimation studies.  The 
+
+decision to use 2m composites was based the raw sample lengths of sampled intervals (Figure 
+
+17.4_1).  
+
+  
+
+
+
+Cerrado Verde Potash Project, Brazil – 360908
+
+ 
+
+ 
+
+Statistical analysis of the composite datasets was completed 
+
+grade domains.  Descriptive statistics are presented in Table
+
+ 
+
+ 
+
+ 
+
+High Grade Domain  
+
+Low Grade Domain 
+
+ 
+
+"Box and whisker" plots for the mineralized intervals were compiled for
+
+grade K2O in Figures 17
+
+ 
+
+C
+
+360908 
+
+Figure 17.4_1 
+
+Sample Length Distribution  
+
+Statistical analysis of the composite datasets was completed within the 
+
+Descriptive statistics are presented in Table 17.4_1. 
+
+Table 17.4_1 
+
+Summary Statistics – 2m Composites 
+
+ 
+
+Count 
+
+Minimum 
+
+Maximum 
+
+Mean 
+
+Std. Dev. 
+
+CV 
+
+Count 
+
+Minimum 
+
+Maximum 
+
+Mean 
+
+Std. Dev. 
+
+CV 
+
+"Box and whisker" plots for the mineralized intervals were compiled for
+
+7.4.2 and 17.4.3, respectively. 
+
+ 
+
+Coffey Mining Pty Ltd 
+
+Page:  38 
+
+ 
+
+the low grade and high 
+
+K2O (%) 
+
+244 
+
+7.09 
+
+13.02 
+
+10.95 
+
+1.09 
+
+0.09 
+
+174 
+
+3.31 
+
+10.74 
+
+6.62 
+
+1.69 
+
+0.26 
+
+"Box and whisker" plots for the mineralized intervals were compiled for high grade and low 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  39 
+
+ 
+Figure 17.4_2 
+
+Basic statistics – 2m composite High Grade K2O 
+
+ 
+
+ 
+
+Based on the statistical review a top cut was applied to low grade mineralization based on the 
+
+97.5 percentile which included only one high grade assay being reduced to 10.73% K2O. 
+
+ 
+
+  
+
+Alvo: CV
+
+Litologia: Verdete
+Variável: K2O (%)
+
+Número de Amostras: 244                  
+
+Mínimo Valor: 7.09
+Máximo Valor: 13.02
+
+N° Classes (Sturges): 9
+Intervalo (Sturges): 0.66                 
+
+2.5%: 8.45                 
+5.0%: 8.79                 
+25.0%: 10.34               
+Mediana: 11.15               
+75.0%: 11.70               
+95.0%: 12.38               
+97.5%: 12.73               
+
+Média: 10.95
+
+Variância: 1.18
+Desvio Padrão: 1.09
+
+Coef. de variação: 10%
+Range interquartil: 1.37
+
+Quantiles
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  40 
+
+ 
+Figure 17.4_3 
+
+Basic statistics – 2m composite Low Grade K2O 
+
+ 
+ 
+
+No top cut was applied to the high grade domain. 
+
+Alvo: CV
+
+Litologia: Verdete
+Variável: K2O (%)
+
+Número de Amostras: 174                  
+
+Mínimo Valor: 3
+Máximo Valor: 11
+
+N° Classes (Sturges): 8
+Intervalo (Sturges): 0.88                 
+
+2.5%: 3.97                 
+5.0%: 4.06                 
+25.0%: 5.16                 
+Mediana: 6.52                 
+75.0%: 7.88                 
+95.0%: 9.40                 
+97.5%: 10.11               
+
+Média: 6.62
+
+Variância: 2.88
+Desvio Padrão: 1.70
+
+Coef. de variação: 26%
+Range interquartil: 2.72
+
+Quantiles
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  41 
+
+17.5 Variography 
+
+17.5.1 Introduction 
+
+Variography is used to describe the spatial variability or correlation of an attribute.  The spatial 
+
+variability is traditionally measured by means of a variogram, which is generated by 
+
+determining the averaged squared difference of data points at a nominated distance (h), or lag 
+
+(Srivastava and Isaacs, 1989).  The averaged squared difference (variogram or γ(h)) for each 
+
+lag distance is plotted on a bivariate plot, where the X-axis is the lag distance and the Y-axis 
+
+represents the average squared differences (γ(h)) for the nominated lag distance. 
+
+Several types of variogram calculations are employed to determine the directions of the 
+
+continuity of the mineralization: 
+
+� Traditional variograms are calculated from the raw assay values. 
+
+� Log-transformed variography involves a logarithmic transformation of the assay data. 
+
+� Gausssian variograms are based on the results after declustering and a transformation to 
+
+a Normal distribution. 
+
+� Pairwise-relative variograms attempt to 'normalise' the variogram by dividing the 
+
+variogram value for each pair by their squared mean value. 
+
+� Correlograms are 'standardized' by the variance calculated from the sample values that 
+
+contribute to each lag. 
+
+Fan variography involves the graphical representation of spatial trends by calculating a range 
+
+of variograms in a selected plane and contouring the variogram values.  The result is a 
+
+contour map of the grade continuity within the domain. 
+
+The variography was calculated and modelled in the mining planning software, Gemcom Surpac 
+
+Software.  The rotations are tabulated as input into Gemcom Surpac Software (geological 
+
+convention), with X representing the bearing, Y representing dip and Z representing plunge.  Dip 
+
+and dip direction of major, semi-major and minor axes of continuity are also referred to in the 
+
+text. 
+
+Grade variography was generated to enable grade estimation via OK.  Interpreted anisotropy 
+
+directions correspond well with the modelled geology and overall geometry of the interpreted 
+
+domain. The results are show in Table 17.5.2_1. 
+
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  42 
+
+ 
+
+Table 17.5.2_1 
+
+Cerrado Verde Deposit 
+
+High Grade and Low Grade Mineralized Domain Variogram Models 
+ 
+
+K2O  
+Nugget 
+
+(C0) 
+
+Rotation Structure 1 Structure 2 
+
+Bearing Dip plunge 
+Sill 1 
+(C1) 
+
+Range (m) Sill 2 
+(C2) 
+
+Range (m) 
+
+Major Semi Major Minor Major Semi Major Minor 
+
+Low Grade 0.21 180 -10 0 0.34 200 100 16.53 1.20 400 200 33.06 
+
+High Grade 0.21 180 -10 0 0.34 200 100 16.53 1.20 400 200 33.06 
+
+ 
+ 
+
+
+
+Cerrado Verde Potash Project, Brazil – 360908
+Technical Report – 1 March 2010 
+
+17.6 Grade Estimation 
+
+Resource estimation for the 
+
+Kriging (OK) within the low grade 
+
+OK is the most commonly used type of kriging.  It assumes a constant but unknown mean.
+
+Typical ordinary kriging assumptions
+
+The typical assumptions for the practical application of
+
+• Intrinsic stationarity or wide sense stationarity of the field 
+
+• Enough observations to estimate the variogram. 
+
+The mathematical condition for applicability of ordinary kriging is:
+
+• The mean E[Z(x)] = 
+
+• The variogram γ(x,y) = E[(Z(x) 
+
+Ordinary Kriging equation
+
+The kriging weights of ordinary kriging fulfill the unbiasedness condition
+
+ 
+
+and are given by the ordinary kriging equation system:
+
+the additional parameter µ
+
+ to honor the unbiasedness condition.
+
+Ordinary kriging interpolation
+
+The interpolation by ordinary kriging is given by:
+
+C
+
+360908 
+
+Resource estimation for the Cerrado Verde mineralization was completed using 
+
+low grade and high grade mineralized domain. 
+
+OK is the most commonly used type of kriging.  It assumes a constant but unknown mean.
+
+Typical ordinary kriging assumptions 
+
+The typical assumptions for the practical application of ordinary kriging are:
+
+Intrinsic stationarity or wide sense stationarity of the field  
+
+Enough observations to estimate the variogram.  
+
+The mathematical condition for applicability of ordinary kriging is: 
+
+he mean E[Z(x)] = µ is unknown but constant  
+
+γ(x,y) = E[(Z(x) − Z(y))2] of Z(x) is known.  
+
+Ordinary Kriging equation 
+
+The kriging weights of ordinary kriging fulfill the unbiasedness condition 
+
+and are given by the ordinary kriging equation system: 
+
+l parameter µ is a Lagrange multiplier used in the minimization of the kriging error 
+
+to honor the unbiasedness condition. 
+
+interpolation 
+
+The interpolation by ordinary kriging is given by: 
+
+Coffey Mining Pty Ltd 
+
+Page:  43 
+
+mineralization was completed using Ordinary 
+
+OK is the most commonly used type of kriging.  It assumes a constant but unknown mean. 
+
+ordinary kriging are: 
+
+ 
+
+ 
+
+ is a Lagrange multiplier used in the minimization of the kriging error 
+
+
+
+Cerrado Verde Potash Project, Brazil – 360908
+Technical Report – 1 March 2010 
+
+Ordinary kriging error 
+
+The kriging error is given by:
+
+Properties of kriging (Cressie 1993, Chiles&Delfiner 1999, Wackernagel 1995)
+
+• The kriging estimation is unbiased: 
+
+• The kriging estimation honors the actually observed value: 
+
+• The kriging estimation 
+
+assumptions hold. However (e.g. Cressie 1993): 
+
+• As with any method: If the assumptions do not hold, kriging might be bad. 
+
+• There might be better nonlinear and/or biased methods. 
+
+• No properties are guaranteed, when the wrong variogram is used. However typically 
+
+still a 'good' interpolation is achieved. 
+
+• Best is not necessarily good: e.g. In case of no spatial dependence the kriging 
+
+interpolation is only as good as the arithmetic mean. 
+
+• Kriging provides 
+
+correctness of the variogram.
+
+Additional to the drilling samples, channel composites samples, from complementary 
+
+sampling campaign  were used, after a test of adequacy of support.
+
+The Figure below shows the estimation steps undertaken in the Cerrado Verde estimation.
+
+ 
+
+C
+
+360908 
+
+ 
+
+The kriging error is given by: 
+
+  
+
+Properties of kriging (Cressie 1993, Chiles&Delfiner 1999, Wackernagel 1995)
+
+The kriging estimation is unbiased: 
+
+The kriging estimation honors the actually observed value: 
+
+The kriging estimation  is the best linear unbiased estimator of Z(x) if the 
+
+assumptions hold. However (e.g. Cressie 1993):  
+
+any method: If the assumptions do not hold, kriging might be bad. 
+
+There might be better nonlinear and/or biased methods.  
+
+No properties are guaranteed, when the wrong variogram is used. However typically 
+
+still a 'good' interpolation is achieved.  
+
+est is not necessarily good: e.g. In case of no spatial dependence the kriging 
+
+interpolation is only as good as the arithmetic mean.  
+
+Kriging provides  as a measure of precision. However this measure relies on the 
+
+correctness of the variogram. 
+
+Additional to the drilling samples, channel composites samples, from complementary 
+
+sampling campaign  were used, after a test of adequacy of support. 
+
+The Figure below shows the estimation steps undertaken in the Cerrado Verde estimation.
+
+ 
+
+Coffey Mining Pty Ltd 
+
+Page:  44 
+
+Properties of kriging (Cressie 1993, Chiles&Delfiner 1999, Wackernagel 1995) 
+
+  
+
+  
+
+is the best linear unbiased estimator of Z(x) if the 
+
+any method: If the assumptions do not hold, kriging might be bad.  
+
+No properties are guaranteed, when the wrong variogram is used. However typically 
+
+est is not necessarily good: e.g. In case of no spatial dependence the kriging 
+
+as a measure of precision. However this measure relies on the 
+
+Additional to the drilling samples, channel composites samples, from complementary 
+
+The Figure below shows the estimation steps undertaken in the Cerrado Verde estimation. 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  45 
+Technical Report – 1 March 2010 
+
+Figure 17.6_1 
+K2O % estimation steps – Plan View. 
+
+ 
+
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  46 
+Technical Report – 1 March 2010 
+
+17.7 Resource Reporting 
+
+The grade estimates for all domains have been classified as Inferred based on the confidence 
+
+levels of the key criteria that were considered during the resource estimation.  Key criteria are 
+
+tabulated below. A summary of the estimated resources for the Cerrado Verde deposit is 
+
+provided in Table 17.7_1 below. 
+
+Table 17.7_1 
+
+Cerrado Verde Project 
+
+Confidence Levels of Key Categorisation Criteria 
+ 
+
+Items Discussion Confidence 
+
+Drilling Techniques Reverse Circulation drilling is Industry standard approach. High 
+
+Logging Standard nomenclature and apparent good quality. High 
+
+Drill Sample Recovery Good recovery recorded. High 
+
+Sub-sampling Techniques & 
+Sample Preparation 
+
+Sampling technique and preparation is to industry standards.  
+Bulk Density samples have been determined as saturated 
+samples (not industry standard procedure) 
+
+Low 
+
+Quality of Assay Data 
+No Amazon Mining QAQC data reviewed, Bureau Veritas 
+QAQC data returned good precision and accuracy 
+
+Low 
+
+Verification of Sampling and 
+Assaying 
+
+Umpire samples have not been taken 
+Low 
+
+Location of Sampling Points 
+Survey of all collars completed for most holes using portable 
+GPS. No downhole surveys but minimal deviation expected 
+with short vertical holes  
+
+Low 
+
+Data Density and Distribution Approximately 200m x 400m spaced drilling  Moderate 
+
+Audits or Reviews None N/A 
+
+Database Integrity 
+Assay hard copy sheets were randomly checked against the 
+digital database with no errors identified 
+
+High 
+
+Geological Interpretation Simple geology, two domains defined. High 
+
+Estimation and Modelling 
+Techniques 
+
+ Ordinary Kriging has been used to obtain estimates of K2O 
+% grade.  
+
+High 
+
+ 
+The Inferred resource has been classified based on blocks estimated until step 5 with a 
+
+maximum range of 1000m.  The total Inferred resource estimate is shown in Table 17.7_2 
+
+utilising different cut off grades.  The additional figures are different views of the model as 
+
+used in the validation process. 
+
+ 
+
+  
+  
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  47 
+Technical Report – 1 March 2010 
+
+Table 17.7_2 
+Cerrado Verde Deposit –27 February 2010 
+
+Inferred Grade Tonnage Report 
+Ordinary Kriging Estimate 
+
+100mE x 100mN x 5mRL Selective Mining Unit 
+
+Domain Cut-Off Grade (% K2O) Million Tonnes Average Grade  (% K2O) 
+
+Low Grade 
+
+0 67.82 6.22 
+
+3 67.82 6.22 
+
+4 67.45 6.23 
+
+5 55.85 6.41 
+
+6 33.19 7.27 
+
+7 20.24 7.78 
+
+8 6.49 8.52 
+
+9 1.01 9.43 
+
+High Grade 
+
+0 92.74 10.61 
+
+7 92.74 10.61 
+
+8 92.20 10.63 
+
+9 86.55 10.76 
+
+10 64.39 11.17 
+
+11 35.71 11.61 
+
+12 8.24 12.33 
+Total Low Grade + High 
+
+Grade 
+0 160.56 8.75 
+
+ 
+The resource estimate has been classified as inferred mainly due to the low confidence in the 
+
+Bulk Density determinations, data density of distribution and the limited QAQC program 
+
+provided by Amazon Mining.  The actual model shows relative homogeneity and is a simple 
+
+geological model. 
+
+ 
+Figure 17.7_1 
+
+Block Model Domains Low Grade and High Grade 
+
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  48 
+Technical Report – 1 March 2010 
+
+The Figure below shows the grade and tonnage curve for the high and low grade domains. 
+
+Figure 17.7_2 
+
+Grade Tonnage Curve – Domain High Grade - Inferred Resource 
+
+ 
+
+ 
+Figure 17.7_3 
+
+Grade Tonnage Curve – Domain Low Grade - Inferred Resource 
+
+ 
+
+ 
+ 
+
+-
+
+10.00
+
+20.00
+
+30.00
+
+40.00
+
+50.00
+
+60.00
+
+70.00
+
+80.00
+
+90.00
+
+100.00
+
+0.0 7.0 8.0 9.0 10.0 11.0 12.0
+
+Cut-off Grade (%) K2O
+
+T
+o
+
+n
+n
+
+e
+s
+ (
+
+M
+t)
+
+9.5
+
+10.0
+
+10.5
+
+11.0
+
+11.5
+
+12.0
+
+12.5
+
+A
+v
+
+e
+ra
+
+g
+e
+ (
+
+%
+) 
+
+K
+2
+O
+
+Tonnes (Mt) K2O (%) Grade (average) 
+
+-
+
+10.00
+
+20.00
+
+30.00
+
+40.00
+
+50.00
+
+60.00
+
+70.00
+
+80.00
+
+0.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0
+
+Cut-off Grade (%) K2O
+
+T
+o
+
+n
+n
+
+e
+s
+ (
+
+M
+t)
+
+-
+
+1.00
+
+2.00
+
+3.00
+
+4.00
+
+5.00
+
+6.00
+
+7.00
+
+8.00
+
+9.00
+
+10.00
+
+A
+v
+e
+ra
+
+g
+e
+ (
+
+%
+) 
+
+K
+2
+O
+
+Tonnes (Mt) Teor K2O (%) (average) 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  49 
+Technical Report – 1 March 2010 
+
+17.7.1 Validation 
+
+Validation of the grade estimate was completed with a comparative Nearest Neighbor 
+
+estimation.  Validation consists of a comparative statistical analysis over inferred results for 
+
+low grade and high grade mineralized intervals. In addition an interactive visual validation 
+
+utilizing the drill holes and the block model was completed in plan and cross section (Figures 
+
+17.7.1_1 to 17.7.1_2).  The visual validation of the OK model shows a good correlation, 
+
+considering the inferred level of resource classification, between the blocks estimated and the 
+
+original samples. 
+
+ 
+Figure 17.7.1_1 
+
+Comparative statistics % K2O  High Grade 
+
+ 
+
+Target
+Lithology
+Variable
+Resource
+
+Samples: 572 Samples: 572
+Minimum: 7.58           Minimum: 7.45           
+
+Maximum: 12.76         2.50% 8.57        Maximum: 13.02         2.50% 7.97         
+
+1° Quartil: 9.71        1° Quartil: 9.07         
+
+Mean: 10.54         Median: 10.74      Mean: 10.39         Median: 10.59       
+
+Variance: 1.04           3° Quartil: 11.19      Variance: 1.73           3° Quartil: 11.37       
+Std. Deviation: 1.02           97.5%: 12.48      Std. Deviation: 1.32           97.5%: 12.63       
+
+Quantiles Quantiles
+
+NN-Check
+
+K2O
+
+Cerrado Verde
+
+Correlation Q-Q Plot
+
+Cerrado Verde
+
+Inferred
+
+Ordinary Kriging
+
+High Grade
+
+9.95cm
+
+8.12cm
+
+9.95cm
+
+8.12cm
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  50 
+Technical Report – 1 March 2010 
+
+ 
+
+Figure 17.7.1_2 
+
+Comparative statistics % K2O  Low Grade 
+
+ 
+
+ 
+
+Target
+Lithology
+Variable
+Resource
+
+Samples: 428 Samples: 428
+Minimum: 3.42        Minimum: 3.31        
+
+Maximum: 9.75        2.50% 4.37        Maximum: 9.89        2.50% 3.92        
+
+1° Quartil: 5.15        1° Quartil: 4.41        
+
+Mean: 6.15        Median: 5.98        Mean: 5.80        Median: 5.36        
+
+Variance: 1.57        3° Quartil: 7.09        Variance: 2.49        3° Quartil: 6.76        
+Std. Deviation: 1.25        97.5%: 8.61        Std. Deviation: 1.58        97.5%: 9.38        
+
+Correlation Q-Q Plot
+
+Quantiles Quantiles
+
+K2O
+Inferred
+
+Ordinary Kriging NN-Check
+
+Cerrado Verde
+
+Cerrado Verde
+Low Grade
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  51 
+Technical Report – 1 March 2010 
+
+18 OTHER RELEVANT DATA AND INFORMATION 
+
+There is no other relevant data and information that Coffey Mining is aware of. 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  52 
+Technical Report – 1 March 2010 
+
+19 INTERPRETATION AND CONCLUSIONS 
+
+The pertinent observations and interpretations which have been developed in producing this 
+
+report are detailed in the sections above. 
+
+20 RECOMMENDATIONS 
+
+Coffey Mining recommends that a preliminary economic assessment (PEA) be undertaken on 
+
+the Cerrado Verde Project prior to undertaking any additional resource definition. 
+
+The current resource estimate confidence can be improved by  
+
+� Undertaking additional Bulk Density measurements on diamond core downhole. 
+
+� Improve the current surface topography 
+
+� Improve current internal quality control procedures 
+
+20.1 Budget and Schedule 
+
+The studies including predominantly metallurgical test work are budgeted at $1M in 2010 and 
+
+$1.5M in 2011.  This budget will allow Amazon to complete a Preliminary Economic 
+
+Assessment in 2010 and assuming positive results, progress to a Pre-feasibility Study by the 
+
+end of year 2010. 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  53 
+Technical Report – 1 March 2010 
+
+21 REFERENCES 
+
+Jose Valarelli et al – 1992 – Ardosias "Verdete" de CEdro do Abaete na Producao de Termofosfato Potassico 
+
+Fundido e sua Eficiencia Agronomica 
+
+Persio Mandetta 2009 – Planejamento de Sondagem Exploratoria. 
+
+Luis A.M Da Costa et al, Sept 2008 – Potential of Potassium-Bearing Rock of the Cedro do 
+
+Abaete Region, State of Minas Gerais, Brazil. 
+
+http://en.wikipedia.org/wiki/Glauconite  
+
+http://en.wikipedia.org/wiki/Kriging#Ordinary_kriging  
+
+ 
+
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  54 
+Technical Report – 1 March 2010 
+
+22 DATE AND SIGNATURE PAGE 
+
+The effective date of this Report is 1 March 2010. 
+
+  
+
+B Viana BSc (Geol)  , MAIG 
+
+Resource Geologist 
+Coffey Mining Pty Ltd 
+ 
+15 April 2010 
+ 
+
+ 
+
+  
+ 
+B Nicholls B.Sc Geol.  MAIG 
+Associate Consultant 
+Coffey Mining Pty Ltd 
+15 April 2010 
+
+10 April 2010 
+
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  55 
+Technical Report – 1 March 2010 
+
+23 CERTIFICATES OF AUTHORS 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  56 
+Technical Report – 1 March 2010 
+
+Certificate of Qualified Person 
+ 
+
+As primary author of the report entitled "Cerrado Verde Potash Project, Brazil, Technical Report" (the Report), 
+dated 1 March 2010, I hereby state: 
+ 
+
+1. I, Bernardo Viana, am an Associate Resource Geologist with the firm Coffey Mining Pty Ltd, 1162 Hay Street, 
+West Perth, Western Australia, Australia, do hereby certify that:- 
+
+2. I am a practising resource geologist and I am a Member of the AIG (Australasian Institute of Geoscientists). 
+
+3. I am a graduate of Federal University of Minas Gerais – Belo Horizonte and hold a Bachelor of Science 
+Degree in Geology (2002).  I have practiced my profession continuously since 2002. 
+
+4. I am a "qualified person" as that term is defined in National Instrument 43-101 (Standards of Disclosure for 
+Mineral Projects) (the "Instrument"). 
+
+5. I have not visited the property that is the subject of this Report. 
+
+6. I am responsible for Sections 12-20 of this report. 
+
+7. I hereby consent to the use of this Report and my name in the preparation of documents for a public filing 
+including a prospectus, an annual information filing, brokered or non-brokered financing(s), or for the 
+submission to any Provincial or Federal regulatory authority. 
+
+8. I am not aware of any material fact or material change with respect to the subject matter of the Report that is 
+not reflected in the Report, or the omission to disclose which makes the Report misleading. 
+
+9. I have read and understand National Instrument 43-101 and am considered independent of the issuer as 
+defined in Section 1.4. 
+
+10. I have read the National Instrument and Form 43-101F1 (the "Form") and the Study has been prepared in 
+compliance with the Instrument and the Form. 
+
+11. I have not received, nor do I expect to receive, any interest, directly or indirectly, in the Properties that are the 
+subject of this report and do not hold nor expect to receive securities of Amazon Mining Holding Plc. 
+
+ 
+Dated at Belo Horizonte, Brazil, on 1st March 2010. 
+ 
+ 
+
+ 
+ 
+Bernardo Viana BSc Geology MAIG
+
+Resource Manager - Brazil 
+Coffey Mining Pty Ltd 
+
+ 
+
+
+
+Coffey Mining Pty Ltd 
+
+Cerrado Verde Potash Project, Brazil – 360908 Page:  57 
+Technical Report – 1 March 2010 
+
+Certificate of Qualified Person 
+ 
+
+As co-author of the report entitled "Cerrado Verde Potash Project, Brazil, Technical Report" (the Report), dated 1 
+March 2010, I hereby state: 
+ 
+
+1. I, Beau Nicholls, Associate Consultant of Coffey Mining Pty Ltd, 1162 Hay Street, West Perth, Western 
+Australia, Australia, do hereby certify that:-: 
+
+2.  I am a practising geologist with 15 years of Mining and Exploration geological experience.  I have worked in 
+Australia, Eastern Europe, West Africa and currently Brazil.  I am a member of the Australian Institute of 
+Geoscientists ("MAIG"). 
+
+3. I am a graduate of Western Australian School of Mines – Kalgoorlie and hold a Bachelor of Science Degree in 
+Mineral Exploration and Mining Geology (1994).  I have practiced my profession continuously since 1995. 
+
+4. I am a "qualified person" as that term is defined in National Instrument 43-101 (Standards of Disclosure for 
+Mineral Projects) (the "Instrument"). 
+
+5. I visited the property that is the subject of this Report on 10th and 11th July 2009. 
+
+6. I am responsible for Sections 1-11 of this report. 
+
+7. I hereby consent to the use of this Report and my name in the preparation of documents for a public filing 
+including a prospectus, an annual information filing,, brokered or non-brokered financing(s), or for the 
+submission to any Provincial or Federal regulatory authority. 
+
+8. I am not aware of any material fact or material change with respect to the subject matter of the Report that is 
+not reflected in the Report, or the omission to disclose which makes the Report misleading and that as of the 
+date of this certificate, to the best of my knowledge, information and belief, the Report contains all scientific 
+and technical information that is required to be disclosed to make the Report not misleading. 
+
+9. I have read and understand National Instrument 43-101 and am independent of the issuer as defined in 
+Section 1.4 and prior to visiting Cerrado Verde I had no involvement in or knowledge of the property that is the 
+subject of this Report. 
+
+10. I have read the National Instrument and Form 43-101F1 (the "Form") and the Report has been prepared in 
+compliance with the Instrument and the Form. 
+
+11. I have not received, nor do I expect to receive, any interest, directly or indirectly, in the Property that is the 
+subject of this report and do not hold nor expect to receive securities of Amazon Mining Holding Plc. 
+
+Dated at Belo Horizonte, Brazil, on 1st March 2010. 
+
+ 
+
+ 
+Beau Nicholls B.Sc Geol MAIG 
+
+Associate Consultant  
+Coffey Mining Pty Ltd 
+
+ 
+
+
+
+ 
+
+ 
+
+Appendix A 
+Drill hole graphical logs 
+
+ 
+ 
+
+ 
+
+
+"

@@ -1,0 +1,3382 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - 07SIWASHREPORT.doc
+
+
+2007 UPDATE OF RESOURCE 
+SIWASH PROJECT 
+
+ELK PROPERTY 
+
+For
+
+Almaden Minerals Ltd. 
+
+By
+
+G.H. Giroux, P. Eng., MASc. 
+Giroux Consultants Ltd. 
+
+November 30, 2007 
+
+
+
+Page i 
+
+TABLE OF CONTENTS 
+
+Page
+
+1.0 SUMMARY AND CONCLUSIONS 1 
+2.0 INTRODUCTION AND TERMS OF REFERENCE  4  
+3.0 PROPERTY DESCRIPTION AND LOCATION 4  
+ 3.1 Location and Access 4  
+ 3.2 Claim Information 4 
+ 4.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFASTRUCTURE AND 
+ PHYSIOGRAPHY                                                                                                 8  
+ 5.0 HISTORY 8
+ 6.0 GEOLOGICAL SETTING 13 
+ 6.1 Regional Geology 13  
+ 6.2 Local Geology 13 
+ 6.3 Alteration 13 
+ 6.4 Structure 14 
+ 7.0 DEPOSIT TYPE 15 
+ 7.1 Geologic Model 15 
+ 8.0 MINERALIZATION 15 
+ 9.0 EXPLORATION 18  
+ 9.1 Surface and Underground Exploration 18 
+ 9.2 Mining Summary  19 
+ 9.3 2006 Exploration Program 22 
+10.0 DRILLING 23
+11.0 SAMPLING METHOD AND APPROACH 26 
+12.0 SAMPLE PREPARATION, ANALYSES AND SECURITY                             26 
+13.0 DATA VERIFICATION 27 
+ 13.1 2006 27
+14.0 ADJACENT PROPERTIES 38 
+15.0 MINERAL PROCESSING AND METALLURGICAL TESTING 39 
+16.0 MINERAL RESOURCE ESTIMATE 39 
+ 16.1 Statistics for Resource Estimation 39 
+ 16.2 Compositing 46 
+ 16.3 Semivariogram Analysis 48 
+
+16.4 Block Model Estimation 49 
+ 16.5 Specific Gravity 50 
+ 16.6 Classification 51 
+17.0  OTHER RELEVANT DATA AND INFORMATION 56 
+18.0 INTERPRETATION AND CONCLUSIONS 56  
+19.0 RECOMMENDATIONS 56 
+20.0 BIBLIOGRAPHY 57 
+21.0 DATE AND SIGNATURE PAGE 58  
+22.0 CERTIFICATE 60 
+
+
+
+Page ii 
+
+FIGURES
+
+ 1 Property Location and Regional Geology Map 6 
+ 2 Elk Property Claim Map 7  
+ 3 Geologic Model showing drill holes and Veins to be estimated 16 
+ 4 Location of Main Mineralized Veins on the Elk Property 18 
+ 5 Current and proposed underground development 21 
+ 6 Plot of assay value vs. geochemical value for duplicate samples 28 
+ 7 Plot of % variability vs the average grade of 1014 samples 28 
+ 8 Duplicate sample variability 29 
+ 9 % variability vs mean ppb gold  33 
+10 % variability vs  mean g/t gold  33 
+11 Acme – Chemex Check Samples 37 
+12 Acme – Chemex Check Assay sample Variability 37 
+13 Elk Property – 2006 Drill Holes 40 
+14 Lognormal Cumulative Probability Plot for Gold Assays – B Veins 42 
+15 Lognormal Cumulative Probability Plot for Gold Assays – WD Veins 43 
+16 Lognormal Cumulative Probability Plot for Gold Assays – Other Veins                          44 
+17 Lognormal Cumulative Probability Plot for Gold Assays – Waste          45 
+18 Comparison of Measured Specific Gravity to Calculated            50  
+
+TABLES
+Table 1: List of Claims 5 
+Table 2: Summary of Exploration Work Completed from 1986 to 2000 18 
+Table 3: Siwash B Vein Gold Production Summary 22 
+Table 4: List of drill holes completed during 2005 Field Season 23 
+Table 5: List of drill holes completed during 2006 Field Season 25 
+Table 6: Elk Drill Duplicate Sample Summary, 2006 30 
+Table 7: Elk Blank Sample Analytical Summary 31 
+Table 8: Elk Drill Sample Rerun Summary 34 
+Table 9: Elk 2006 Drill Sample Standard Summary 35 
+Table 10: Elk Drill Check Sample Summary 38 
+Table 11: Summary of Statistics for Gold in all Modelled Veins 41 
+Table 12: Summary of overlapping gold populations in B Veins 42 
+Table 13: Summary of overlapping gold populations in WD Veins 43 
+Table 14: Summary of overlapping gold populations in Other Veins 44 
+Table 15: Summary of overlapping gold populations in Waste 45 
+Table 16: Summary of Statistics for Uncapped and Capped gold in all Veins 46 
+Table 17: Summary of Statistics for 0.5 m Gold Composites in all Veins 47 
+Table 18: Summary of Semivariogram Parameters for B Veins and WD Vein 48 
+Table 19: Semivariogram parameters for Three Dimensional Kriging Runs for Gold 49 
+Table 20: Resource of Mineralized Portions of veins Above the 1580 m Level 53 
+Table 21: Resource of Mineralized Portions of veins Below the 1580 m Level 54 
+Table 22: Resource of Diluted Whole Blocks of veins Above the 1580 m Level 55 
+Table 23: Resource of Diluted Whole Blocks of veins Below the 1580 m Level 55 
+
+
+
+Page 1 
+
+1.0 SUMMARY AND CONCLUSIONS 
+
+ This report documents the update to the mineral resource on the Elk property 
+based on additional 2006 diamond drilling.  Sections of a previously 43-101 
+compliant resource report, dated April 6 2006, amended March 15, 2007, 
+dealing with parts of the project that have not changed are repeated here in 
+their entirety for completeness. 
+
+ The Elk property owned by Almaden Minerals Ltd. ('Almaden') is located 40 
+km west of Okanagan Lake approximately midway between Merritt and 
+Peachland.  Access to the claims is via the Okanagan Connector (HWY 97C), 
+east from Merritt for 55 km to the Elkhart interchange at Elkhart Lodge. 
+
+ The property consists of 18 contiguous mineral claims and one mining lease 
+covering 12,277 hectares. The 4 post, 2 post and fractional claims were 
+converted to the computer based MTO claim cells in 2005. 
+
+ The property was first discovered in the early 1900's when several short adits 
+were excavated exploring narrow quartz veins hosting lead-zinc-silver-gold 
+mineralization.  The area was staked by several companies in the 1960's and 
+70's when the near by Brenda Mine was being developed.  The current 
+property was staked in 1986 by Cordilleran Engineering Ltd. for Fairfield 
+Minerals Ltd. after discovering gold-bearing pyritic quartz veins by 
+prospecting in clear-cut logged areas.  Prospecting, soil and stream 
+geochemistry, geophysics, trenching and drilling have since discovered a 
+number of gold bearing quartz veins.  From 1992 to 1994 a total of 14,720 
+tonnes have been mined from the Siwash North open pit, on the B vein, 
+recovering a total of 1,481,000 grams (47,600 ozs) of gold.  A decline 985 m 
+in length was developed on the Siwash B vein and several areas were test 
+mined between 1993 and 1995 producing an additional 120,000 grams (3,860 
+ozs) of gold from 1,780 tonnes of material mined. 
+
+ The Elk property is underlain by Upper Triassic volcanics and sediments of 
+the Nicola Group and by Middle Jurassic granites and granodiorites of the 
+Osprey Lake Batholith.  Gold-silver mineralization is hosted primarily by pyritic 
+quartz veins and stringers within altered granite and in some cases volcanic 
+rocks.  To date a total of eight mineralized vein systems have been 
+discovered on the property.  Of these two main veins the Siwash North B Vein 
+and WD Veins have been extensively diamond drilled.  The Siwash North B 
+vein has been drill tested and mined by both open pit and underground 
+methods over 950 m strike length.  The dip is a shallow -20o near surface and 
+steepens to -60o at depth.  The WD vein is more or less parallel to the B vein 
+about 150 m to the north.  Drilling has followed the WD vein for 600 m along 
+strike and 350 m down dip. 
+
+
+
+Page 2 
+
+ The 2006 exploration program on the Elk claims consisted of diamond drilling, 
+core logging and sampling.  A total of 8,873 metres of NQ diamond drilling in 
+58 holes was carried out in the Siwash North area to further test the WD, B 
+and in the Siwash East area to test mineralization exposed by trenching.  
+Excavator trenching was undertaken in the Elusive Creek area and a soil 
+sample survey was carried out on the new claims on the northwest side of the 
+property.
+
+ Giroux Consultants Ltd. has been retained to provide an update to the 
+resource present on the Elk Property. Giroux last visited the property and 
+examined drill core, on July 11, 2007. 
+
+ Quality assurance and quality control on the property has changed with time.  
+Prior to 2000 the entire core was shipped for assay.  At Acme about one out 
+of every 20 samples was re-assayed. In addition a limited amount of check 
+assays were shipped to Chemex for reanalysis.  From 2000 to 2006 every 
+twentieth sample was duplicated by taking a quarter split and assigning it the 
+next sequential sample number.   Blank samples were submitted to the lab at 
+the same frequency as the duplicates. The blanks were taken from unaltered 
+granodiorite core that contained no quartz veining.  In addition Acme routinely 
+re-assays splits from pulps and rejects.  During the 2003 to 2006 drill 
+programs a set of prepared standards obtained from CDN Resource 
+Laboratories was introduced into the assay stream.  The results of the QA\QC 
+program instituted on the Elk property has shown reasonable reproducibility, 
+no analytical or sampling bias and large random errors consistent with high 
+grade gold deposits. 
+
+ Gold assays were examined using graphical and statistical techniques and as 
+a result capped at 302 g Au/t (8.8 oz/t).  A total of 12 assays were capped.  
+For this update a different approach was applied to the resource estimate.  
+Almaden geologists modeled a total of 25 separate mineralized structures on 
+cross sections and combined these sections to from three dimensional solids.  
+The mineralized solids were grouped geographically into 3 vein sets: B-Veins, 
+WD-Veins and Other veins not related to B or WD.  Composites were formed 
+at 0.5 m intervals that honoured the solid boundaries.  Semivariograms were 
+produced for structures with sufficient data to model.  A block model 
+consisting of blocks 10 m E-W, 2.5 m N-S and 5 m vertical was superimposed 
+over the solids with blocks coded for the percentage of each solid present.  
+Gold grade was interpolated into each block with some proportion of 
+mineralized structure present by ordinary kriging.  Blocks were classified as 
+measured, indicated or inferred based on semivariogram parameters.  
+Results were presented as grade-tonnage tables for the mineralized portion 
+of the blocks.  This resource represents the mineral present if one could mine 
+to the limits of the three dimensional solids.  No external dilution has been 
+applied.
+
+
+
+Page 3 
+
+ At a 1 g/t cutoff the 2007 updated resource is as follows: 
+
+MEASURED INDICATED 
+Grade>Cutoff Grade>Cutoff Au
+
+Cutoff
+(g/t)
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+1.00 320,000 11.585 119,200 581,000 8.952 167,200
+MEASURED PLUS INDICATED INFERRED
+
+Grade>Cutoff Grade>Cutoff Au
+Cutoff
+(g/t)
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+1.00 902,000 9.887 286,700 826,000 7.949 211,100
+
+ Recommendations are made to proceed to a preliminary scoping study using 
+current metal prices and mining costs to determine the economics of this 
+project.
+
+
+
+Page 4 
+
+2.0 INTRODUCTION AND TERMS OF REFERENCE 
+
+This report on the Mineral Resource on the Elk Property, Siwash Project was completed 
+at the request of Almaden Minerals Ltd.  The purpose of this study was to update the 
+mineral resource for the Siwash North B Vein and WD vein, using the additional drill 
+hole information collected in 2006. 
+
+The report is based on the available data and literature supplied by Almaden.  The 
+property was last visited on July 11, 2007 by G. Giroux where drill core and surface 
+outcrops were examined.  No samples of core or trenches were taken during this site 
+visit.
+
+3.0 PROPERTY DESCRIPTION AND LOCATION 
+
+3.1 Location and Access  
+
+The Elk property is located 40 km west of Okanagan Lake in southern British Columbia, 
+approximately midway between the towns of Merritt and Peachland, within the 
+Similkameen Mining Division (see Figure 1).   
+
+The Centre of the Property is located at latitude 49o 50' N and longitude 120 o 19' W.  
+The property straddles the NTS map sheets 082E071, 092H078 to 80 and 092H089. 
+
+Access to the claims is excellent, by following the Okanagan Connector (HWY 97C) 
+east from Merritt for 55 km to the Elkhart interchange.  If approaching from the east the 
+same Highway would be followed some 55 km west from Peachland.  This highway 
+passes through the northern most claims in the property (see Figure 2).  From the 
+Elkhart interchange gravel roads and trails provide access to most parts of the claim 
+block.
+
+    
+3.2 Claim Information 
+
+The Elk property consists of 18 contiguous mineral claims and one mining lease 
+covering 12,277 hectares (Table 1).  Initial staking was undertaken in November 1988 
+(160 units) with additions in early 1987 (60 units), 1988 (32 units) and 1989 (199 units).  
+A block comprising 72 units was optioned from Mr. Donald Agur of Summerland, B.C. in 
+October, 1988. Claim acquisition and subsequent work were conducted by Cordilleran 
+Engineering Ltd. for Fairfield Minerals Ltd. until April 1995 when Fairfield assumed 
+operations. Placer Dome Inc. entered into an option agreement on the property in 
+March 1988 and withdrew in March 1991. Fairfield Minerals merged with Almaden 
+Resources Corporation in February 2002 and the claims were transferred to the 
+amalgamated company Almaden Minerals Ltd.  The claims are 100% owned by 
+
+
+
+Page 5 
+
+Almaden Minerals Ltd. with the exception of the Agur Option block (72 units) on the 
+south side of the property, which is subject to 1% NSR from production.
+
+The 4 post, 2 post and fractional claims were converted to the computer based 
+MTO claim cells in 2005.
+
+Table 1: 
+ List of Claims 
+
+CLAIM TYPE 
+NO
+
+UNITS
+RECORD 
+
+NO
+EXPIRY
+DATE BCGS HECTARES 
+
+ELK06A Cell 24 524944 1/12/2011 092H089/88 500.07
+ELK06B Cell 24 524945 1/12/2011 092H089/88 499.90
+ELK06C Cell 24 524946 1/12/2011 092H089/88 499.73
+ELK06D Cell 24 524947 1/12/2011 092H089/88 499.56
+ELK06E Cell 24 524948 1/12/2011 092H089 499.56
+ELK06F Cell 24 524949 1/12/2011 092H089 499.73
+ELK06G Cell 13 524950 1/12/2011 092H089 270.75
+ELK06H Cell 13 524952 1/12/2011 092H089/99 520.33
+ELK06I Cell 24 524954 1/12/2011 092H099/98 499.43
+ELK05A Cell 1 516781 1/12/2016 092H089 20.85
+ELK05B Cell 2 517116 1/12/2016 092H089 41.65
+No Name Cell 1 517045 1/12/2016 092H079 20.86
+
+NoNameConv Cell 25 516717 1/12/2016 092H089 520.57
+NoNameConv Cell 30 516725 1/12/2016 092H089 624.98
+NoNameConv Cell 25 516727 1/12/2016 092H089 521.05
+NoNameConv Cell 25 516731 1/12/2016 092H089/79 521.26
+NoNameConv Cell 71 516732 1/12/2016 092H079 1,481.07
+NoNameConv Cell 45 516733 1/12/2016 092H089 938.03
+NoNameConv Cell 30 516739 1/12/2016 092H089 624.69
+NoNameConv Cell 70 516740 1/12/2016 092H089 1,458.28
+NoNameConv Cell 8 516743 1/12/2016 092H089 166.61
+NoNameConv Cell 61 516750 1/12/2016 092H089 1,271.49
+NoNameConv Cell 57 516755 1/12/2016 092H079/89 1,188.84
+NoNameConv Cell 49 516757 1/12/2016 092H079/89 1,021.84
+NoNameConv Cell 54 516759 1/12/2016 092H089/88 1,125.59
+NoNameConv Cell 30 516761 1/12/2016 092H089 625.03
+NoNameConv Cell 5 519105 1/12/2016 092H079 104.30
+
+SIWASH
+NORTH lease 1 308695 9/14/2008 092H089 
+
+     Total Area: 16,566.05
+
+
+
+P
+ag
+
+e 
+6 
+
+Fi
+gu
+
+re
+ 1
+
+: P
+ro
+
+pe
+rt
+
+y 
+Lo
+
+ca
+tio
+
+n 
+an
+
+d 
+R
+
+eg
+io
+
+na
+l G
+
+eo
+lo
+
+gy
+ M
+
+ap
+ 
+
+
+
+Page 7 
+
+Figure 2:  Elk Property Claim Map
+
+
+
+Page 8 
+
+3.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, 
+INFASTRUCTURE AND PHYSIOGRAPHY 
+
+The Elk property is located within the Trepanege Plateau highlands on heavily forested 
+hilly terrain.  Elevations range from 1300 to 1750 m above sea level.  The area is 
+blanketed by a layer of glacial till, of varying thickness and as a result outcrop is scarce.
+
+Forest cover consists mainly of lodge pole pine with some balsam, sub-alpine fir and 
+spruce.  Alders are confined to along streams and in marshes.
+
+The climate in the claim area is common to the Okanagan Highlands ecosection with 
+moderately short warm summers and cold winters.  Temperatures range from 13o to 18o
+C in the summer months of July to September and -5 o to -12 o C in the winter months of 
+December to February.  Precipitation averages about 500 mm per year with the wettest 
+months of June and December averaging about 60 mm. 
+
+The main industries within the area are cattle ranching and logging.  Recreational 
+fishing is available on small lakes within the area.  The dense forest cover also supports 
+hunting of deer, moose and game birds. 
+
+The Okanagan Connector (Highway 97C) crosses the northern limit of the claims and 
+provides excellent access to both the coast and the interior.  A single phase power line 
+ends at Elkhart Lodge two kilometres from the mine site.  The major city of Kelowna is 
+located 70 km east of the property and has a large labour force, airport, supplies and 
+equipment. 
+
+5.0 HISTORY 
+
+The history for this property has been summarized well in the assessment reports 
+submitted by W. Jakubowski (Jakubowski, 2005) and is reproduced here.  
+
+"During the first half of the 20th century the El Paso adit was driven into volcanic rocks in 
+the area currently covered by the claim with tenure number 516759.  Quartz vein-hosted 
+lead-zinc-silver-gold mineralization was encountered.  No production of ore was 
+achieved.
+
+Between 1955 and 1995 Don Agur of Summerland, B.C. prospected and trenched the 
+north and west parts of the present Elk property area, as well as to the south along 
+Siwash Creek. 
+
+Phelps Dodge Corporation of Canada Ltd. carried out copper exploration during 1972 
+which included mapping and soil geochemistry in the area of the present claims with 
+tenure #'s 516759 and 516757. 
+
+Utah Mines Ltd. conducted mapping, geochemistry, IP geophysics and trenching to 
+evaluate copper mineralization on their Siwash claim group which, in part, covered the 
+present tenure # 516759. 
+
+
+
+Page 9 
+
+Brenda Mines Ltd. worked on the Siwash claim group, which included the area now 
+comprising the southern part of the Elk property.  A rigorous copper exploration program 
+including mapping, soil geochemistry, geophysics, trenching and diamond drilling was 
+undertaken between 1979 and 1981.  Work was done on the area currently covered by 
+the claims with tenure #'s 516755, 516757 and 516759. 
+
+Exploration for molybdenum was undertaken by Cominco Ltd. during 1980, on the 
+claims with tenure #'s 516727, 516731, 516733 and 516740. Work included geological 
+mapping and soil geochemistry. 
+
+No significant discoveries resulted from any of the above programs. 
+
+The Elk 1 to 27 claims (present claim tenure #'s 516733, 516740, 516743, and 516759) 
+were staked in November 1986 by Cordilleran Engineering Ltd. for Fairfield Minerals Ltd. 
+to cover new showings of gold-silver mineralization hosted in pyritic quartz veins cutting 
+a granite batholith and andesite dykes.  Preliminary hand trenching and soil sampling 
+were conducted. 
+
+During 1987, widespread and detailed grid soil sampling programs were undertaken to 
+define areas anomalous in gold.  Nine trenches, totalling 1528m, were excavated in two 
+areas (Discovery and South Showings) to test soil geochemical targets, and exposed 
+quartz veins and altered breccias hosted in granite.  IP, magnetometer and VLF-EM 
+geophysical surveys were carried out over the trenched areas.  The Elk 28 to 30 claims 
+(present claim tenure #'s 516740, 516759, and 516761) were staked in September 1987 
+to acquire ground along projections of favourable geochemical trends. 
+
+The 1988 program included collection of 2246 soil samples on the claims acquired in 
+1987 and trenching in Siwash North and Elusive Creek areas.  Four kilometres of road 
+was constructed for access and eleven trenches totalling 2884 metres which exposed 
+quartz vein-hosted gold mineralization were mapped and sampled.  The Elk 31 to 37 
+claims (present claim tenure #'s 516732, 516757, 516759, and 516755) were staked to 
+cover adjacent favourable areas. 
+
+During the 1989 field season, the Elk 38 to 73 claims (present claim tenure #'s 516727, 
+516731, 516732, 516755, and 516781) were staked to cover projections of anomalous 
+soil geochemical trends.  Fifty line-km of VLF-EM and magnetometer surveys were 
+carried out in the Siwash Lake and Siwash North areas and 4865 soil samples were 
+collected on the new claims.  A total of 56.25 km of baseline was cut to provide control 
+for soil sampling and geophysical surveys.  In the South Showing, Siwash North and 
+Siwash Lake areas 2223 linear metres of bedrock were exposed in 25 trenches.  The 
+high grade gold bearing quartz vein system in the Siwash North area was further 
+delineated over a strike length of 750m.  Twelve diamond drill holes (752m) tested the 
+down dip continuity of this system.  The drill core was logged, split sampled and 
+photographed.  Samples were shipped to Acme Analytical Labs for assay and analysis.  
+All diamond drill core has been stored on site. 
+
+During 1990 5168.34m of HQ diamond drilling in 58 holes was carried out in the Siwash 
+North area on 50 m grid spacing.  Quartz vein hosted gold mineralization in the Siwash 
+North area was further exposed by seven trenches and three stripped areas totalling 544 
+linear metres. Diamond drilling in the Siwash Lake area consisted of 259.08m of HQ 
+core in four drill holes (SLD90-56 to 59).  Six trenches and one stripped area totalling 
+
+
+
+Page 10 
+
+607 linear metres of bedrock exposure were excavated in the Siwash Lake area. Soil 
+sampling on the northern Elk claims was concentrated in the Siwash Lake area where 
+250 fill-in samples were collected around anomalous coarse grid stations.  One 
+thousand two hundred and fifty-four grid soil samples were collected on southern Elk 
+claims.  Magnetometer and VLF-EM surveys (50 line km) were carried out on the Agur 
+Option area on flagged lines 100m apart.  
+
+Exploration on the Elk claims during the 1991 field season consisted of diamond drilling, 
+trenching and aerial photography.  Thirty seven new holes were drilled and two were 
+deepened for a total of 6608.38m in the Siwash North area to test down dip and on-
+strike continuity of quartz vein-hosted gold mineralization discovered by previous work.  
+The drill core was logged at 1:50 and 1:100 scales, photographed and sampled.  Five 
+hundred and ninety eight samples were taken and sent to Acme Analytical Labs for gold 
+assay and analysis.  One trench was dug in the End Zone, 200m southwest of Siwash 
+Lake, to further expose a quartz vein discovered by trenching in 1990.  The vein is 
+continuous across the entire length of the 45m trench.  Thirty two rock chip samples 
+were collected and sent to Acme for gold assay and analysis. 
+
+An area four by eight kilometres centered over the Siwash North area was aerially 
+photographed in colour and black and white, at 1:8,000 and 1:15,000 scales. 
+
+During 1992, a bulk sample was extracted from an open pit on the Siwash vein in the 
+Siwash North area.  It totalled 2,040 tonnes (2240 tons) and averaged 137.7 g/t (4.016 
+oz/t) gold.   A small crushing/sampling plant was installed for grade control.   
+The bulk sample was shipped to Noranda's Horne smelter in Rouyn-Noranda, PQ for 
+metallurgical testing and smelting. 
+
+A total of 79 reverse-circulation holes were drilled in September and October to test for 
+further open pitable reserves.  A total of 223 reverse circulation chip samples were 
+shipped to Acme Analytical Labs for assay and analysis. 
+
+In 1993 open pit mining continued with the extraction of 3,387 tonnes (3733 tons) of bulk 
+sample material grading 105.6 g/t (3.080 oz/t) Au.  Eleven reverse-circulation drill holes 
+totalling 942 metres tested the vein to the south and east of the open pit.  The material 
+was crushed on site to minus 6 inches and then shipped to ASARCO's smelter in 
+Helena, Montana. 
+
+A portal was collared on June 28 and 480 metres of decline was driven at -15 percent to 
+access high-grade shoots.  Two vein drifts were developed for test mining, the 1570 
+level on the steeply dipping limb of the vein, and the 1611 level immediately down dip 
+from the central core of the open pit on the flat dipping limb.  Drifting on the 1570 level 
+produced about 140 tonnes (154 tons) of ore grading 38 g/t (1.108oz/t), whereupon the 
+drift was abandoned and refilled due to poor ground conditions.  Three raises at 5 metre 
+centres, totalling 36 metres in length, were driven up dip from the 1611 level drift. 
+Following development of the raises, the quartz vein was stoped from the pillars 
+producing about 315 tonnes (347 tons) of ore grading approximately 70 g/t (2.042 oz/t ) 
+Au.
+
+In 1994 the Company received a small mine permit, the open pit was expanded and 
+9,180 tonnes (10,119 tons) of ore grading 91.5 g/t  (2.669 oz/t) were extracted.  
+Underground, the 1611 level drift was extended to the west.  Five raises were added and 
+
+
+
+Page 11 
+
+the existing ones lengthened to the 1620m elevation.  Approximately 1,200 tonnes (1323 
+tons) of quartz vein material grading about 78 g/ton (2.275 oz/t) Au was extracted.  An 
+underground diamond drilling program was carried out between April 7 and May 31, with 
+5,011m of core drilled in 84 holes from the existing decline to define ore reserves.  A 
+total of 448 core samples were collected. 
+
+Further underground development was undertaken on completion of the open pit, with 
+the main decline being extended 330 metres.  A second decline branched east from the 
+main ramp, for a length of 185 metres.  Test mining was carried out on two levels.  A 
+longhole stoping test on the 1584 level produced 95 tonnes (105 tons) at 16.5 g/t 
+(0.481oz/t) from drifting on the ore.  Longhole blasting produced excessive dilution and 
+most of the material remains in the stope.  On the 1589 level, a shrinkage stope test was 
+undertaken.  Stoping proceeded about 6 metres up dip along the 30 metre length of the 
+drift.  About 105 tonnes (116 tons) at 15 g/t (0.438 oz/t) Au were hauled to surface.  
+However, much of the material remains in the stope. 
+
+Exploration on the Elk claims in 1995 consisted almost entirely of diamond drilling.  Two 
+hundred and seventeen underground diamond drill holes (7,612 m) were drilled from the 
+decline ramp in the vein footwall, between April 13 and August 12, to test grade and 
+continuity of the mineralized zone.   A total of 918 core samples were collected from 
+underground holes and sent to Acme Analytical Laboratories for gold assay and 
+analysis.
+
+Surface diamond drilling was undertaken between June 21 and September 22.  In the 
+Siwash North area, 70 holes were drilled (4,645 metres).  In the Lake Zone area, 7 holes 
+(477m) were completed.  Two holes (102m) were drilled on the Great Wall Zone, and 
+four holes on the End Zone (187m).  Six holes were drilled on Discovery Showing and 
+nine holes on the South Showing areas (397m and 481m respectively).  In all, 6289 
+metres were drilled in 98 surface holes.  A total of 581 core samples were collected and 
+sent to Acme Analytical Labs for assay and analysis. 
+
+A small trench measuring about 10m along strike and 4m wide was dug at the Great 
+Wall Zone to test the grade of a quartz vein encountered during road construction.  A ten 
+centimetre vein trending 55 degrees and dipping 60 degrees to the south was exposed. 
+Two 0.5m square panel samples were taken across the vein and returned grades of 
+0.51g/t (0.015 oz/t)and 0.99 g/t (0.029 oz/t) Au. A total of 38 soil geochemical samples 
+were taken to the east of the clear-cut in the Siwash North area.  Prospecting in areas of 
+anomalous samples uncovered quartz vein float which assayed 47.35 g/t (1.381 oz/t) 
+Au. Two test pits were dug in the southern South Showing area.   
+
+The 1996 program consisted of 6,946.34m of NQ diamond drilling in 88 holes.  Five 
+holes were drilled in the Siwash North Deep B area (1120.14m).  The mineralized 
+structure was intersected in all holes.  The proposed Phase 5.5 open pit, east of the 
+existing pit, was detail drilled with 1997.02m of NQ core in 38 holes.  This allowed the 
+definition of an indicated resource of 503,000gm Au (16,200 oz) for the area of the 
+proposed pit. The WD zone, located 200m north of the Siwash B zone structure, was 
+tested with 25 holes in 2308.84m resulting in an inferred resource block of 569,000 gm 
+Au (18,290 oz). The source of the anomalous soil geochemistry in the East Slope area 
+was evaluated with 9 holes (564.39m) with poor results.  Four holes (399.08m) were 
+drilled to test the source of the anomalous soil geochemistry and VLF conductor in the 
+Gold Creek East area.  Numerous small veins with poor to moderate values were 
+
+
+
+Page 12 
+
+intersected.  The source of the anomalous soil geochemistry in the Gold Creek West 
+area was evaluated with 7 NQ holes (556.87m).  A mineralized quartz vein was 
+intersected with 11.8 g/t (0.381 oz) over a true width of 0.5m.  A total of 1161 core 
+samples were sent to Acme Analytical Laboratories for gold analysis.  The area 
+immediately to the south and east of the Siwash North drill grid was detail soil sampled 
+at 25 X 50m spacing for a total of 367samples. 
+
+Reclamation and site cleanup was undertaken during 1997.  The overburden cover was 
+completed on the East waste dump and much of the mine equipment was transported to 
+Savona, B.C. for storage or sale.   Limited prospecting, sampling and environmental 
+monitoring were carried out between 1997 and 1999 on the Elk property. 
+
+During 2000 twelve NQ diamond drill holes (1414m) tested the WD, B Zone and Gold 
+Creek vein systems. Four holes were drilled into the WD zone to expand the then 
+current 18,000 oz inferred resource block.  The WD veins were intersected in all holes 
+close to the projected depths with grades up to 41.03 g/t Au over a true width of 0.50m.  
+The area of the proposed Phase 5.5 open pit located about 200m to the east of the 
+existing pit had been drilled extensively to establish a resource estimate for pit planning 
+purposes.  Three holes were drilled on the east side of the proposed pit to increase the 
+sample density. The Gold Creek West vein, located approximately 450m southwest of 
+the existing open pit, was first drilled in 1996.  Five holes were drilled to test the vein 
+continuity at 50m intervals between sections 1700E and 1890E.  The vein was 
+intersected at the projected location with grades up to 16.55g/t Au over a true width of 
+0.50m.  The vein steepens from about -30o on sections 1750E and 1700E to -60o on 
+section 1840E and east.  The exploration field camp located on Camp Creek that was 
+used from 1987 to 1996 was completely disassembled.  
+
+A trenching program was carried out in the Siwash East area during October of 2001.  A 
+total of six trenches with a cumulative length of 202 meters located the source of 
+mineralized quartz float discovered by prospecting.  The trenches exposed narrow 
+quartz veins adjacent to an east-west trending andesite dyke with grades of up to 21.7 
+g/t Au from a 0.5 by 0.5 meter panel sample. 
+
+During the 2002 field season twenty six NQ diamond drill holes (4496m) tested the WD, 
+B Zone, Gold Creek West and Bullion Creek vein systems. Seven holes were drilled into 
+the WD zone to determine the extent of the known shoot.  The WD veins were 
+intersected in all holes close to the projected depths with grades up to 91.22 g/t Au over 
+a true width of 0.50m.  Eleven holes were drilled into the Deep B shoot located 
+immediately below the existing underground development to fill-in the drill spacing to 
+less than 25 meters and to define the perimeter of the known mineralization.  Two holes 
+were drilled on the west side of the existing open pit to help determine the feasibility of a 
+pit expansion to the west. The Gold Creek West vein located approximately 450m 
+southwest of the existing open pit was tested with four holes in two 50 meter step-outs to 
+the west of the existing grid.  Two holes were drilled into the Bullion Creek structure 
+located 700 meters to the north of the open pit to test a geochemical anomaly. 
+
+In 2003, a total of 6570 meters of NQ diamond drilling in 30 holes was carried out in the 
+Siwash North area to further test the WD zone.  A sub parallel vein, the WD2 vein, was 
+intersected about 30m below the WD vein on the west side of the grid and found to 
+contain significant gold grades." 
+
+
+
+Page 13 
+
+ 6.0 GEOLOGICAL SETTING  
+
+6.1 Regional Geology (taken from King and Minfile Database) 
+
+The Elk property, located within the Intermontane tectonic belt of south-central British 
+Columbia, is underlain by Upper Triassic volcanics and sediments of the Nicola Group 
+and by Middle Jurassic granites and granodiorites of the Osprey Lake batholith (see 
+Figure 1).  The contact between the Nicola and Osprey Lake batholith trends NNE 
+across the western part of the claim block.  Early Tertiary quartz feldspar porphyry 
+dykes and stocks from the Otter Intrusives occur within the property.  Breccias 
+consisting of rounded volcanic, dioritic and granite fragments in a granitic matrix cross 
+cut Nicola, Osprey Lake and Otter rocks.  The breccia units, which may be parts of 
+major fault structures, form elongate bodies 5 to 30 metres wide striking north-easterly.  
+The youngest units mapped on the property are andesite dykes which cut all of the 
+above lithologies. 
+
+6.2 Local Geology  
+
+Nicola Group lithologies mapped on the Elk property consist of dark greyish green 
+massive, basaltic andesite (some porphyritic containing pyroxene and/or amphibole 
+phenocrysts and some containing 0.5 mm laminae of sand-sized black grains); pale 
+grey-green siliceous laminated tuff; and brownish green to pale green agglomerates 
+containing fragments from 5-50 cm in size.
+
+The Osprey Lake batholith is composed of pinkish grey, medium to coarse-grained, 
+equagranular quartz monzonite to granodiorite.  Pink, sugary textured aplite dykes often 
+cut the quartz monzonite.  Less common quartz diorite stocks, thought to be related to 
+the batholith, and dykes of quartz monzonite and hornblende-biotite-quartz monzonite 
+occur locally.
+
+The Otter Intrusions are made up of quartz feldspar porphyry, feldspar porphyry and 
+quartz-biotite-feldspar dykes and stocks. 
+
+The younger andesite dykes are dark greyish green, fine grained and vary in thickness 
+from 30 cm to 5 metres.  Mineralization appears to be spatially associated with these 
+(Tertiary?) andesite dykes which are locally cut by quartz veins. 
+
+6.3 Alteration 
+
+The Nicola volcanics and sediments are occasionally silicified, carbonatized or epidote 
+altered.  Within the Osprey Lake batholith alteration consists of weak to strong 
+propylitic, argillic, phyllic and silicic assemblages.  The Otter quartz feldspar porphyry is 
+extensively clay altered while the andesite dykes are commonly muscovite-altered with 
+brown weathering. 
+
+Stronger alteration generally accompanies higher gold grades.  The following types of 
+alteration have been recognized in the granitic rocks found on the Elk property, namely:  
+
+
+
+Page 14 
+
+ propylitic – light green with biotite and hornblende altered to chlorite and 
+plagioclase saussuritized.  In volcanics the colour is generally olive green and the 
+rocks are soft. 
+
+ argillic – bleached rock with plagioclase white and clay altered and potassium 
+feldspar slightly altered.  Volcanics are bleached to light green or grey. 
+
+ sericitic – pale green with a micaceous sheen with plagioclase altered to sericite.  
+This style of alteration is often associated with quartz veins and appears to be 
+the lowest grade alteration associated with gold mineralization. 
+
+ potassium feldspar stable phyllic – light pink green or yellowish with potassium 
+feldspar fresh, pink and blocky.  Plagioclase and mafic minerals are altered to 
+fine-grained quartz-sericite-pyrite.  This style of alteration is often associated with 
+gold mineralization in veins. 
+
+ phyllic – generally grey, fine-grained quartz-sericite-pyrite alteration usually 
+associated with gold bearing quartz veins. 
+
+ advanced argillic – often sheared and white in colour with most or all feldspar 
+destroyed and quartz free-floating.  Often associated with quartz veins.  Volcanic 
+rocks are white or blue in colour. 
+
+ silicic – quartz veining or replacement with moderate conchoidal fractures. 
+
+There is a strong symmetrical zoning reported for alteration surrounding quartz veins, 
+ranging outward from vein  to advanced argillic to phyllic to potassium feldspar stable 
+phyllic to argillic to propylitic. 
+
+Locally and apparently unrelated to mineralization potassic alteration, skarnification and 
+silicification are evident. 
+
+6.4 Structure 
+
+The Nicola volcanics and sediments on the west side of the Elk property dip 
+approximately 60o W and form the east limb of a syncline trending roughly north-south 
+and with axis about 5 km west of the property. The contact between Nicola volcanics 
+and Osprey Lake granodiorite trends NNE and dips irregularly and moderately to the 
+east.
+
+Several prominent linear features occupied by Siwash Creek, Elusive Creek and an 
+unnamed creek trend north to northeast. Subtle east-northeast lineaments interpreted 
+from air photographs are thought to be vein structures occurring within the granitic rocks 
+of the Osprey Lake Batholith. 
+
+A fracture/fault system striking 60o to 80o and dipping from 20o to 75o to the southeast 
+controls the predominant Siwash North Vein System made up of the WD, B, A, E and X 
+veins.  A second fracture set located about 400 metres southwest of the Siwash North 
+system strikes 110o to 160o and dips 45o to 60o southwest, hosts the Gold Creek West 
+Zone.
+
+
+
+Page 15 
+
+Peter Lewis examined exposures of the Siwash North vein in the open pit area and 
+concluded the veins could be divided into three segments (Lewis, 2000).  The western 
+most segment consists of sub-parallel, southeast dipping, en-echelon veins 
+concentrated within a 10 m wide zone.  The central segment consists of a single south-
+dipping structure.  The eastern segment consists of several sub-parallel splays.  Both 
+the western and central segments dip to the south at shallow angles near surface 
+(about 20o) and steepen abruptly to 60o to 70o below the open pit or below 1625 
+elevation.  Veins in the eastern segment have consistent moderate dips. 
+
+7.0 DEPOSIT TYPE 
+
+Gold mineralization found on the Elk property occurs within narrow, structurally 
+controlled pyritic gold-silver bearing quartz veins with characteristics similar to 
+mesothermal deposits.  Mesothermal deposits are defined by Park and MacDiarmid 
+(Park and MacDiarmid, 1964) as deposits formed at moderate temperatures (200-300o
+C) and pressures.
+
+Fluid inclusion studies (Geiger, 2000) indicate a lithostatic pressure of 2.5 kilo bars and 
+a minimum temperature of formation of 250o C which would be indicative of a depth of 
+approximately 7 km.
+
+The veins occur in granitic rocks near the contact between a major batholith and 
+basaltic volcanic rocks.  The gold-silver mineralization is thought to be Tertiary in age 
+and associated with the intrusion of the Tertiary Otter dykes and stocks. 
+
+7.1 Geologic Model 
+
+The geological block model for Siwash was based on the structural interpretation of the 
+various veins (see Figure 3).  The main Siwash North B vein system was modeled using 
+the recorded structure as a guide.  The RBF fault was used to separate the vein into a 
+western segment striking more or less grid east-west and an eastern segment (B East) 
+striking N 60o E dipping about 20o S.  The western segment was further subdivided into 
+a near surface flat dipping (20o S) segment labelled B Flat which extends from surface 
+down to 1610 elevation and a more steeply dipping segment below 1610 elevation 
+dipping about 60o S labelled B Steep. 
+
+8.0 MINERALIZATION  
+
+Gold-silver mineralization on the Elk property is hosted primarily by pyritic quartz veins 
+and stringers within altered granite and in some cases volcanic rocks.  Cross cutting 
+relationships have indicated the veins are Tertiary in age and quite possibly related to 
+the Tertiary Otter Intrusions.   
+
+
+
+P
+ag
+
+e 
+16
+
+ 
+
+Fi
+gu
+
+re
+ 3
+
+: G
+eo
+
+lo
+gi
+
+c 
+M
+
+od
+el
+
+ s
+ho
+
+w
+in
+
+g 
+dr
+
+ill
+ h
+
+ol
+es
+
+ a
+nd
+
+ V
+ei
+
+ns
+ to
+
+ b
+e 
+
+es
+tim
+
+at
+e
+
+
+
+Page 17 
+
+Gold occurs primarily as fine grained native gold (less than 50 microns) in fine flakes 
+within quartz, in quartz-pyrite stockworks and in fractures within veins.  Gold is closely 
+associated with pyrite with minor minerals such as chalcopyrite, sphalerite, galena, 
+tetrahedrite and pyrrhotite sometimes present. 
+
+Gangue mineralogy consists of quartz and altered wall rock clasts with minor amounts 
+of ankerite, calcite, barite and fluorite occurring locally. 
+
+To date eight mineralized vein systems have been identified by either drilling, trenching 
+or prospecting on the Siwash (Elk) Property.  These systems have been discussed in 
+detail in King, 2001 and will not be reproduced here.  The two main veins systems for 
+which a resource has been calculated are the Siwash North and WD veins (see Figure 
+4).
+
+The Siwash North B Vein is the most significant vein on the property at this time and 
+has been drill tested and mined by both open pit and underground methods.  This vein 
+has been traced over 950 m of strike length along a north-easterly direction and ranges 
+in width from 0.1 to 3 m in true width.  The dip is shallow averaging about 20o near 
+surface and below about 1610 elevation the dip steepens to from 60 to 75o.   The vein 
+begins near the volcanic/granodiorite contact and extends eastward in granodiorite as a 
+more or less discrete vein.  As the vein approaches and crosses the granodiorite/quartz 
+monzonite contact it splits into a number of splays labelled Ba, Bb, Bc etc. 
+
+A number of individual ore shoots have been delineated by extensive diamond drilling, 
+both from surface and underground.  The most prominent of these shoots has been 
+called the Mother Shoot and is located near the western end of the Siwash North B Vein 
+within the granodiorite.  This Mother Shoot is about 200 m in length and has been 
+mined near surface in an open pit and tested at depth by underground development.
+
+Along strike several other veins numbered A, C, D, E, F and X have been identified over 
+short intervals but are not considered in this resource estimate. 
+
+The second vein of interest is the WD vein located roughly parallel to the B vein some 
+140 m north.  This structure has been trace over 600 m along strike and 350 m down 
+dip by surface diamond drilling.  True widths vary from .3 to 1.2 m.  A second lower vein 
+labelled WD2 or WDb has been identified on a number of sections but at this time is still 
+too discontinuous to estimate. 
+
+
+
+Page 18 
+
+Figure 4: Location of Main Mineralized Veins on the Elk Property 
+
+9.0 EXPLORATION 
+
+9.1 Surface and Underground Exploration 
+
+The various exploration programs completed on this property from 1986 to 2000 have 
+been described in detail by L. King (King, 2001) and are not reproduced here.  The 
+following table contains a summary of the kind and amount of exploration completed up 
+to 2000.  In 2004 property work consisted of minor trenching and road building, 15.8 km. 
+of magnetometer survey and 44 NQ diamond drill holes totalling 10,265 m. During 2005 
+additional roads were constructed and 36 NQ diamond drill holes were completed 
+totalling 8,395 m. 
+
+Table 2: 
+ Summary of Exploration Work Completed from 1986 to 2005 
+
+Type of Work Year Amount of Work 
+Geochemical Soil Surveys 1986-1996 17,400 Samples taken 
+Litho Geochemical Samples 1987-1992 5,728 Samples taken 
+Metallurgical Samples 1990 4 taken 
+Geological Mapping 1997-98, 1990, 1992 4,110 hectares mapped 
+Trenching 1986-1996 
+
+2001
+2004
+
+7,905 metres 
+202 metres 
+20 metres 
+
+Road Building 1987-88, 1990-91 
+2004
+
+14.9 km of road built 
+500 metres 
+
+
+
+Page 19 
+
+2005 350 metres 
+Legal Surveys 1990-92 1,824 km 
+Geophysical Surveys 1987, 1989 
+
+2004
+Mag. 105 km, IP 4.5 km 
+Mag. 15.8 km 
+
+ 1992 UTEM 1.8 km 
+Diamond Drilling 1989-91, 1994-96 610 holes 37,464 m 
+ 2000 
+
+2002
+2003
+2004
+2005
+
+12 holes 1,414 m 
+26 NQ holes 4,996 m 
+30 NQ holes  6,570 m 
+44 NQ holes  10,265 m 
+36 NQ holes 8,395 m 
+
+Reverse Circulation Drilling 1992, 1993 90 holes 3,626 m 
+Underground Exploration & 
+Development 
+
+1993-1995 1,658 m 1,960 tons mined, 3,860 oz Au 
+Produced 
+
+Open Pit Bulk Sampling & Limited 
+Mining
+
+1992-1994 480,000 m3 waste 16,230 tons mined 
+47,600 oz Au produced 
+
+Reclamation 1989 15 hectares 
+   
+From King, 2001 and Assessment Reports 16644, 18511, 19489, 19835, 21443, 22368 
+
+9.2 Mining Summary (Jakubowski, 2000) 
+
+During 1992 a small open pit (Bulk Sample) was excavated to mine the near surface 
+exposure of the Siwash B vein.  In this area the vein is shallow dipping with high gold 
+grades and an average thickness of 0.3 m.  The mining procedure was highly selective 
+and tightly controlled using small equipment.  The bulk sample totalled 2,040 tonnes 
+(2240 tons) and averaged 137.7 g/t (4.016 oz/t) gold.   A small crushing/sampling plant 
+was installed to provide grade control.  Ore was shipped to Noranda's Horne smelter in 
+Rouyn-Noranda, Quebec for metallurgical testing and smelting. 
+
+In 1993 open pit mining continued with the extraction of 3,387 tonnes (3733 tons) of 
+bulk sample material grading 105.6 g/t (3.080 oz/t) Au.  The material was crushed on 
+site to minus 6 inches and then shipped to ASARCO's smelter in Helena, Montana. 
+
+In 1994, the Company received a mining permit and the open pit was expanded and 
+9,180 tonnes (10,119 tons) of ore grading 91.5 gm/t (2.669 oz/t) were extracted. 
+
+From 1992 to 1994 a total of 14,720 tonnes of vein material was mined from the top 40 
+metres of the B Vein producing 1,481,000 gms (47,600 ozs) of gold.  A total of about 
+1.25 million tonnes of waste was taken from the hanging wall of the vein to allow 
+extraction.  The average grade of mined vein material was 100.6 g/t (2.93 oz/ton) gold. 
+
+In 1993 a program of underground development was initiated to test both the shallow 
+and more steeply dipping portions of the B Vein.  A decline, 985 m in length was driven 
+at -15o in the footwall of the B Vein to access high grade gold shoots. Two vein drifts 
+were developed for test mining, one on the 1570 level to access the steeply dipping limb 
+of the vein, and a second on the 1611 level immediately down dip from the central core 
+of the open pit on the flat dipping limb. Drifting on the 1570 level produced about 140 
+tonnes (154 tons) of ore grading 36 gm Au/t (1.1 oz/t), whereupon the drift was 
+abandoned and refilled due to poor ground conditions. Three raises at 5 metre centres, 
+totaling 36 metres in length were driven up dip off the 1611 level drift. Following 
+
+
+
+Page 20 
+
+development of the raises, the quartz vein was stoped from the pillars producing about 
+315 tonnes (347 tons) of ore grading approximately 70 gm/t (2.042 oz/t) Au. A total of 
+175 m of drifting on veins was completed on four levels.
+
+During 1994, the 1611 level drift was extended to the west. Five raises were added and 
+the existing ones lengthened to the 1620m elevation. Approximately 1,200 tonnes (1323 
+tons) of quartz vein material, grading about 78 gm/t (2.275 oz/ton) Au, were extracted.  
+An underground diamond drilling program was carried out between April 7 and May 31, 
+with 5,000 m of core drilled in 84 holes from the existing decline to define ore reserves. 
+A total of 448 core samples were collected. 
+
+Further underground development was undertaken on completion of the open pit, with 
+the main decline extended 330 metres.  A second decline branched east from the main 
+ramp, for a length of 185 metres. Test mining was carried out on two levels.  A longhole 
+stoping test on the 1584 level produced 95 tonnes (105 tons) at 16.5 gm/t (0.48 oz/ton) 
+from drifting on the ore.  Longhole blasting produced excessive dilution and most of the 
+material remains in the stope.  On the 1589 level, a shrinkage stope test was 
+undertaken. Stoping was completed about 6 metres up dip along the 30 metre length of 
+the drift.  About 105 tonnes (116 tons) at 15 gm/t (0.438 oz/t) Au were hauled to 
+surface, however, much of the material remains in the stope. 
+
+In 1995 a mining engineer, J. McCormack was retained to summarize the Reserves and 
+Project Economics of the Siwash Gold Mine.  He concluded that the test mining showed 
+the hanging wall ground conditions within 1.5 to 2 m of the vein are poor due to 
+extensive faulting, jointing and intense alteration.  As a result all underground openings 
+require substantial support during mining operations.  McCormack recommended panel 
+stoping for flatter lying ore bodies and conventional cut and fill for steeply dipping veins.  
+McCormack further concluded that concern over ground conditions, vein continuity and 
+a limited reserve made committing to an underground production program risky at that 
+time.  A summary of the mining production is reproduced from the report by J. 
+McCormack, 1995 as Table 3 and a plan is shown as Figure 5. 
+
+
+
+P
+ag
+
+e 
+21
+
+ 
+
+A
+pr
+
+il,
+ 2
+
+00
+4 
+
+   
+   
+
+   
+   
+
+   
+   
+
+   
+   
+
+   
+ F
+
+ig
+ur
+
+e 
+5
+
+C
+U
+
+R
+R
+
+E
+N
+
+T
+ A
+
+N
+D
+
+ P
+R
+
+O
+P
+
+O
+S
+
+E
+D
+
+U
+N
+
+D
+E
+
+R
+G
+
+R
+O
+
+U
+N
+
+D
+ D
+
+E
+V
+
+E
+LO
+
+P
+M
+
+E
+N
+
+T
+S
+
+ca
+le
+
+ 1
+: 2
+
+,0
+00
+
+
+
+Page 22 
+
+Table 3: 
+ Siwash B Vein Gold Production Summary 
+
+Date Mining Method Tons
+Mined
+
+Tonnes
+Mined
+
+Ounces
+Mined
+
+Grams 
+Mined
+
+Average
+Grade in g/t 
+
+1992 Open Pit 2,250 2,041 9,000 279,931 137 
+1993 Open Pit 3,735 3,388 11,500 357,690 106 
+  Underground 450 408 800 24,883 61 
+1994 Open Pit 10,120 9,181 27,000 839,794 91 
+  Underground 1,290 1,170 2,950 91,755 78 
+1995 Landing Cleanup 125 113 100 3,110 27 
+  Underground 220 200 110 3,421 17 
+          
+  Open Pit Total 16,230 14,724 47,600 1,480,526 101 
+  Underground Total 1,960 1,778 3,860 120,059 68 
+
+Grand Total 18,190 16,502 51,460 1,600,585 97
+
+Production from 1992 was shipped to the Horne smelter in Rouyn Noranda, Quebec 
+and the production from 1993 on was shipped to the Asarco smelter at Helena, 
+Montana for processing as a high grade silica flux. 
+
+9.3 2006 Exploration Program 
+
+The 2006 exploration program on the Elk claims consisted of diamond drilling, core 
+logging and sampling.  A total of 8873 meters of NQ diamond drilling in 58 holes was 
+carried out in the Siwash North area to further test the WD, B and in the Siwash East 
+area to test mineralization exposed by trenching.  Excavator trenching was undertaken 
+in the Elusive Creek area and a soil sample survey was carried out on the new claims 
+on the northwest side of the property. The trenching and soil sampling programs are 
+not described in this report.
+
+
+
+Page 23 
+
+10.0 DRILLING 
+
+Drilling completed prior to 2005 has been summarized in previous reports see Giroux, 
+2004.    The 2005 exploration program on the Elk claims consisted of diamond drilling, 
+core logging and sampling.   A total of 8,395 meters of NQ diamond drilling in 36 holes 
+was carried out in the Siwash North area to further test the WD, B and Siwash Lake 
+zones.  A field camp was built approximately two kilometers south of the mine site to 
+house the crew during the drill program.  
+
+Table 4: 
+ Listing of drill holes completed during the 2005 Field Season 
+
+ELK PROPERTY 2005 DRILL SUMMARY    
+ DATE DATE   COLLAR COLLAR COLLAR  
+
+HOLE NO START  FINISH ZONE SECTION  NORTH  EAST  ELEV DEPTH 
+SLD05436 29-Sep-05  30-Sep-05 SL 2460E 2477.06 2460.3 1643.8 117.96 
+SLD05437 30-Sep-05  01-Oct-05 SL 2260E 2515.62 2260.6 1675.33 86.87 
+SLD05438 01-Oct-05  02-Oct-05 SL 2260E 2487.09 2265.3 1675.94 121.01 
+SLD05439 02-Oct-05  04-Oct-05 SL 2210E 2502.38 2215.3 1672.58 68.58 
+SLD05440 02-Oct-05  06-Oct-05 SL 2210E 2478.18 2218.7 1671.51 114.91 
+SND05410 17-Jun-05  20-Jun-05 DpB 2040E 3207 2039.9 1656.64 241.4 
+SND05411 20-Jun-05  23-Jun-05 DpB 2040E 3206.74 2040 1656.56 289.56 
+SND05412 24-Jun-05  28-Jun-05 DpB 2040E 3172.08 2039.8 1652.57 334.37 
+SND05413 28-Jun-05  02-Jul-05 WD 2160E 3430.14 2162.3 1644.42 294.74 
+SND05414 02-Jul-05  08-Jul-05 WD 2160E 3429.33 2164.6 1644.44 228.3 
+SND05415 08-Jul-05  14-Jul-05 WD 2210E 3418.97 2209.9 1639.4 302.67 
+SND05416 15-Jul-05  18-Jul-05 WD 2110E 3433.14 2109.7 1650.39 179.22 
+SND05417 18-Jul-05  22-Jul-05 WD 2395E 3443.9 2397.6 1629.46 288.04 
+SND05418 22-Jul-05  27-Jul-05 WD 2445E 3414.77 2445.3 1634.23 322.17 
+SND05419 28-Jul-05  07-Aug-05 WD 2445E 3456.42 2445 1636.47 291.69 
+SND05420 07-Aug-05  09-Aug-05 WD 2495E 3515.09 2494 1642.47 204.52 
+SND05421 09-Aug-05  13-Aug-05 WD 2495E 3476.32 2494.5 1643 270.36 
+SND05422 13-Aug-05  19-Aug-05 WD 2495E 3452.49 2494.9 1643.3 309.37 
+SND05423 19-Aug-05  24-Aug-05 DpB 2140E 3106.88 2139.8 1642.01 342.9 
+SND05424 24-Aug-05  29-Aug-05 DpB 2140E 3106.71 2139.8 1641.99 364.24 
+SND05425 29-Aug-05  01-Sep-05 WD 2545E 3541.35 2544.8 1643.47 188.06 
+SND05426 01-Sep-05  06-Sep-05 WD 2545E 3403.65 2545 1648.65 330.86 
+SND05427 06-Sep-05  08-Sep-05 WD 2545E 3451.85 2544.6 1648.61 299.31 
+SND05428 08-Sep-05  14-Sep-05 WD 2595E 3421.12 2594.3 1652.12 289.26 
+SND05429 15-Sep-05  16-Sep-05 WD 2595E 3470.82 2594.5 1650.02 227.08 
+SND05430 16-Sep-05  17-Sep-05 WD 2595E 3533.06 2594.3 1641.68 151.49 
+SND05431 18-Sep-05  19-Sep-05 WD 2645E 3546.9 2645.3 1639.04 150.88 
+SND05432 19-Sep-05  20-Sep-05 WD 2695E 3544.37 2695.6 1639.89 153.93 
+SND05433 21-Sep-05  22-Sep-05 WD 2695E 3487.58 2695.3 1646.52 224.64 
+SND05434 22-Sep-05  25-Sep-05 WD 2695E 3439.34 2694.5 1649.9 262.13 
+SND05435 25-Sep-05  28-Sep-05 WD 2645E 3374.78 2643.7 1650.91 320.65 
+SND05441 06-Oct-05  09-Oct-05 DpB 1990E 3198.08 1989.9 1656.29 252.07 
+SND05442 09-Oct-05  12-Oct-05 DpB 1990E 3197.93 1989.9 1656.22 179.83 
+SND05443 12-Oct-05  15-Oct-05 WD 2745E 3448.33 2743.9 1645.37 247.8 
+SND05444 15-Oct-05  17-Oct-05 WD 2745E 3495.55 2743.2 1639.96 201.78 
+SND05445 17-Oct-05  19-Oct-05 WD 2745E 3552.23 2743.9 1634.05 142.34 
+       Total: 8394.99 
+
+
+
+Page 24 
+
+The 2006 drill program is described by Jakubowski  
+
+"Selected assay results listed below in Table 5.  Seventeen holes were drilled into the B 
+and Deep B (B zone below 1400m elevation) zones between 2040E and 2520E to 
+extend the known mineralization down dip and along strike.
+
+Thirty seven holes were drilled into the WD zone to define the near surface vein and 
+gold grade continuity. 
+
+The Siwash East area mineralization exposed by trenching was tested with four holes 
+on a fifty meter grid. 
+
+The B zone was intersected at or near the projected location in all holes.  The Deep B 
+zone (the B zone below 1400m elevation) was intersected at the projected locations and 
+appears to flatten at depth to -30 degrees (sections 2040E and 2140E).  The Deep C 
+vein, defined on section 2140E in 2005, was found not to be continuous to depth. The 
+2006 drilling confirms the southwest trend of the Deep B high grade shoot between 
+sections 2040E and 2140E and remains open at depth.
+
+The B zone between 2260E and 2520E also flattens in dip at depth to -25 degrees.  
+Numerous low grade quartz stringers were intersected over wide intervals below the B 
+zone.
+
+The WD zones to the west of the north-northwest trending RB fault were tested by 12 
+holes between 2135E and 2285E.  All the holes intersected the WD system, which is 
+made up of two to four sub-parallel veins (WD, WD2, WD3, WD4) dipping 45 degrees to 
+the south over a twenty to forty meter width.  Twenty five holes were drilled to the east 
+of the RB fault between 2320E and 2720E all of which intersected the WD veins at the 
+projected locations. 
+
+The WD vein system dips about -55 degrees to the south on the east side of the RB 
+fault and flattens to about -25 degrees above the 1580m elevation. The WD vein system 
+is made up of two to three sub parallel veins: the WD vein which occasionally splits into 
+two closely spaced veins (WDa and WDb) and the WD2 about 25m below.  All holes 
+intersected the veins at the targeted locations.
+
+Four holes were drilled into the Siwash East zone on two fences fifty meters apart 
+between 4100E and 4150E.  They were targeted to intersect mineralized quartz veins 
+50 meters down-dip from veins exposed on surface.  The veins occur adjacent to an 
+andesite dyke that trends about 65 degrees and dips -65 degrees to the south. The 
+veins are discontinuous and have been noted on the north side of the dyke that splits 
+and varies in width from one to three meters.  The drill holes intersected mineralized 
+quartz veins in all four holes but no significant grades were returned." 
+
+
+
+Page 25 
+
+Table 5: 
+ Listing of drill holes completed during the 2006 Field Season 
+
+HOLE NO FROM TO INT TW  GEOLOGY ZONE 
+**AU 
+OZ/T**
+
+**AG 
+OZ/T**
+
+SG
+CALC 
+
+SND06451 20.49 20.79 0.30 0.30  Y5QV  0.418 0.087 2.64 
+SND06453 168.12 168.42 0.30 0.26  Y2QV  0.591 2.712 2.64 
+SND06454 184.18 184.48 0.30 0.30  Y5QV  2.248 5.337 2.93 
+SND06456 178.15 178.45 0.30 0.28  Y4QV  1.149 3.092 2.77 
+SND06456 181.19 181.49 0.30 0.23  Y5QV  0.259 0.379 2.80 
+SND06459 181.25 181.55 0.30 0.28  Y1QV B 0.316 0.700 2.63 
+SND06460 201.57 201.87 0.30 0.28  Y5GG  0.230 1.196 2.73 
+SND06461 213.65 213.95 0.30 0.30  Y1QV  0.201 0.087 2.65 
+SND06461 58.52 58.82 0.30 0.28  Y2ST  0.547 0.146 2.58 
+SND06462 299.31 299.81 0.50 0.48  Y2QV B 2.125 0.642 2.81 
+SND06462 299.31 299.81 0.50 0.48  Y2QV B 2.125 0.642 2.81 
+SND06463 153.38 153.68 0.30 0.26  Y1GG  0.228 0.175 2.76 
+SND06463 328.99 329.49 0.50 0.47  Y3QV B 0.724 1.167 2.77 
+SND06463 329.49 329.99 0.50 0.43  Y1QV  0.618 0.467 2.62 
+SND06464 139.03 139.28 0.25 0.22  Y2GG  0.403 0.204 2.58 
+SND06467 88.92 89.26 0.34 0.31  Y3QV WDa 1.158 2.100 3.03 
+SND06467 91.45 91.91 0.46 0.25  Y2QV WDb 0.342 0.671 2.70 
+SND06468 190.88 191.28 0.40 0.26  Y1QV  0.214 0.146 2.71 
+SND06468 194.24 194.94 0.70 0.35  Y4QV WD4 0.261 0.525 2.79 
+SND06468 120.67 121.27 0.60 0.23  Y1QV WD 0.525 1.896 2.78 
+SND06469 25.72 26.18 0.46 0.45  Y3QV WD 0.325 1.837 2.77 
+SND06470 81.55 81.85 0.30 0.26  Y2QV  0.448 0.437 2.63 
+SND06471 86.58 86.91 0.33 0.32  Y3QV WD2 0.421 0.437 2.70 
+SND06472 102.90 103.20 0.30 0.29  Y3QV  0.750 0.554 2.74 
+SND06472 43.03 43.63 0.60 0.52  VGQV WD 2.232 7.233 2.65 
+SND06473 112.75 113.08 0.33 0.23  Y3QV WD2 0.442 0.962 2.85 
+SND06473 143.37 143.67 0.30 0.24  Y3QV WD3 0.394 0.175 2.66 
+SND06475 129.10 129.51 0.41 0.35  Y2QV WDb 0.361 1.721 2.82 
+SND06476 80.86 81.16 0.30 0.30  Y3ST  0.269 0.058 2.60 
+SND06477 26.31 26.70 0.39 0.30  Y3QV WD 0.888 1.721 2.69 
+SND06478 7.25 7.55 0.30 0.30  Y2ST  0.211 0.087 2.58 
+SND06478 92.57 93.07 0.50 0.29  Y2QV  0.907 1.575 2.75 
+SND06479 63.43 63.73 0.30 0.23  Y2QV WD 0.252 0.554 2.71 
+SND06481 63.53 63.83 0.30 0.25  Y1QV  3.525 1.575 2.61 
+SND06486 45.03 45.33 0.30 0.27  Y2QV  0.904 1.662 2.74 
+SND06487 83.58 84.23 0.65 0.44  Y3QV WD 0.352 2.333 3.06 
+SND06488 107.61 107.91 0.30 0.26  Y5ST  0.272 0.292 2.70 
+SND06492 62.30 62.60 0.30 0.27  QVGG  0.201 0.117 2.76 
+SND06493 74.78 75.40 0.62 0.34  QVGG WD 0.311 0.904 3.11 
+SND06499 114.06 114.44 0.38 0.25  Y5QV WD 1.438 2.800 4.03 
+SND06501 173.72 174.07 0.35 0.32  Y2QV WD3 0.378 0.787 2.92 
+SND06502 42.66 42.96 0.30 0.26  Y2QV  0.370 0.262 2.58 
+SND06503 71.02 71.32 0.30 0.30  Y2QV  0.244 0.525 2.65 
+SND06503 75.28 75.58 0.30 0.29  Y1QV  0.204 0.817 2.67 
+
+
+
+Page 26 
+
+11.0 SAMPLING METHOD AND APPROACH 
+
+The drilling and sampling at Siwash has been completed under the supervision of 
+Qualified Person Wojtek Jakubowski since 1987.  Sections covering sampling methods 
+and analytical procedures have been taken from Jakubowski, 2000.  These procedures 
+have been continued on all drill programs up to and including 2006. 
+
+Drill sites were leveled and prepared using an excavator or tractor and sumps were dug 
+to contain cuttings. The skid mounted drill was moved between sites using a tractor. 
+Water was pumped to the drill from Bullion Creek, Gold Creek and the open pit.
+
+Upon receipt, the core was washed, footage blocks converted to metres, and the 
+recovery, RQD (rock quality determination), hardness, and degree of breakage were 
+measured.  All core was photographed at four boxes to the frame, and selected 
+intervals were photographed at five frames per core box. The geology, geotechnical 
+information, and sample intervals were logged onto hand-held HP200LX palm-top 
+computers, and were later down-loaded onto a desktop computer.
+
+All samples were split and every twentieth sample was quartered for duplicate analysis 
+as part of the quality control process. Samples were shipped to Acme Analytical 
+Laboratories Ltd. in Vancouver, B.C. and assayed or analyzed for gold. Thirty element 
+ICP analysis was also performed on samples containing quartz vein.  
+
+Specific gravity measurements using a scale were made on selected mineralized zones.  
+Drill hole orientations were measured at surface with a transit or Brunton compass, and 
+downhole with a Sperry Sun single shot camera (1989-2003) and with an Icefield down 
+hole survey tool (2004-2005). On completion of the hole, the casing was removed and 
+replaced with a section of 2.5 inch diameter PVC pipe.  The drill hole collar locations 
+were surveyed relative to pre-established control points using an EDM and theodolite.
+
+12.0 SAMPLE PREPARATION, ANALYSES AND SECURITY 
+
+As in previous drill campaigns drill core samples were shipped to Acme Analytical 
+Laboratories in Vancouver for gold analysis.  Sample preparation and analysis methods 
+varied based on material sampled. All samples were split and every twentieth sample 
+was quartered for quality control purposes.
+
+Samples that were expected to have significant gold content were split and half the core 
+was submitted to the lab, in contrast to previous years when the entire core was 
+assayed.  Typically, this material consisted of quartz vein with or without wall rock, at 
+least 10 to 1 cm thick with a minimum of 10% sulphide (or traces of visible gold). These 
+samples were crushed in their entirety to -3/16" and coarse pulverized to -1/16".  Two kg 
+of the -1/16" material was split out and pulverized to 99% finer than -150 mesh and 
+sieved on a 150 mesh screen.  One Assay Ton (1 AT) of the -150 mesh fraction was 
+assayed for gold and silver, and was combined with the weighted result of gold and 
+silver fire assays of the entire coarse fraction, to give total gold and silver values.  ICP 
+analysis for 35 elements was also carried out on a 0.50 gm sample of -100 mesh 
+
+
+
+Page 27 
+
+material. This technique is referred to as the Sieve and Assay method. Selected high 
+grade intercepts were checked by re-sampling from the reject and assaying for gold by 
+the same method.
+
+Samples which were expected to be of lower grade were comprised of half the core split 
+along its length. This material usually consisted of quartz vein material less than I0 cm 
+thick with less than 10% sulphide, and/or wall rock.  At the lab the entire sample was 
+crushed to -3/16", then 2 kg were split out and coarse pulverized to -1/16".   A 250 gm 
+split was then taken and pulverized to -100 mesh.  A one-assay ton (1 AT) sample was 
+fire assayed for gold and silver. Thirty-five element ICP analysis was usually carried out.  
+Higher grade intercepts were re-assayed using the Sieve and Assay method described 
+above.
+
+Samples that were not expected to carry high gold values, typically stringers with 
+varying sulfide in alteration, or material of scientific interest, were split in half prior to 
+shipping. After shipment to the lab the entire sample was crushed to -3/16", 250 gm of 
+sample split out and pulverized to -100 mesh.  A 20 gm sample of the -100 mesh 
+material was analyzed for Au by ICP-MS using acid extraction.  Samples that returned 
+higher than expected values were assayed using the next higher confidence sampling 
+procedure. These assays generally returned values lower than the originals. This may 
+be due to the larger sample size reducing the nugget effect.
+
+13.0 DATA VERIFICTION 
+
+Data verification programs completed prior to 2006 have been described in earlier 43-
+101 reports (see Giroux, 2006). 
+
+13.1 2006 
+
+The QA/QC program used in 2006 is described by Qualified Person, Jakubowski who 
+supervised it.
+
+"All drill core samples were split in order to leave half of the sample for future check 
+sampling or inspection.  Samples from the first sixteen holes were variably sent for 
+G1DX, 3A or G6 analysis. Beginning with drill hole SND06-462, all samples were sent 
+for G1DX and G6 analysis.  A large number of comparative gold results were 
+generated. A direct comparison is shown on Figure 6.  The overall correlation appears 
+to be fairly good, particularly below 10g/t.  Above that level scatter increases, which can 
+be attributed to nugget effect at higher grades. The plot of % Variability vs Average 
+Grade (Figure 7) indicates that the variability between values at the lower end of the 
+scale (<10g/t) is much greater than that for values at the higher end.
+
+
+
+Page 28 
+
+Assay vs geochem
+
+0.000
+
+10.000
+
+20.000
+
+30.000
+
+40.000
+
+50.000
+
+60.000
+
+70.000
+
+80.000
+
+0 10 20 30 40 50 60 70 80 90
+
+Assay, g/t
+
+G
+eo
+
+ch
+em
+
+, g
+/t
+
+Figure 6:  Plot of assay value vs geochemical value for duplicate samples, N = 1014 
+
+Variability vs Average g/t
+
+0.0
+
+50.0
+
+100.0
+
+150.0
+
+200.0
+
+250.0
+
+0.000 10.000 20.000 30.000 40.000 50.000 60.000 70.000 80.000 90.000
+
+Average Grade g/t
+
+%
+ V
+
+ar
+ia
+
+bi
+lit
+
+y
+
+Figure 7:  Plot of % variability vs the average grade of 1014 samples 
+
+
+
+Page 29 
+
+Half of every thirtieth sample was given the next sequential sample number and sent to 
+the laboratory as a duplicate.  All of these samples were analyzed using a wet chemical 
+technique and most were submitted for fire assay.  The results are presented in Table 6 
+and Figure 8.  The variability between wet geochemical results ranges from 2.8% to 
+197.1% (mean 72.5%) while for fire assay results on the same samples the variability 
+ranges from 0% to 178.9% (mean 46.8%). All but one fire assay pair have variabilities 
+less than 110%. This range in variabilities indicates that there is a strong nugget effect.
+
+     ELK DRILL DUPLICATE SAMPLE SUMMARY, 2006
+
+0.0
+
+50.0
+
+100.0
+
+150.0
+
+200.0
+
+250.0
+
+0 5000 10000 15000 20000 25000 30000
+Ave ppb Au
+
+%
+ V
+
+ar
+ia
+
+b
+ili
+
+ty
+
+Figure 8:     Duplicate sample variability 
+
+
+
+Page 30 
+
+Table 6 
+ELK DRILL DUPLICATE SAMPLE SUMMARY, 2006
+
+          
+        Wet Geochemical           Fire Assay   
+
+Original Duplicate Sample Duplicate    Sample Duplicate    
+sample sample Au  Au  Mean Variability AU FA AU FA Mean  Variability 
+number number ppb ppb Au % gm/t gm/t Au % 
+
+SED446-11 SED446-12 8.2 9.3 8.75 12.6      
+SED447-5 SED447-6 22.1 27.4 24.75 21.4      
+SED449-4 SED449-5 268.7 240.1 254.4 11.2      
+SND450-20 SND450-21 6874.3 1382.6 4128.45 133.0 2.95 4.27 3.61 36.6 
+SND450-40 SND450-41 239.7 616.9 428.3 88.1 0.75 0.75 0.75 0.0 
+SND451-10 SND451-11 116 1188 652 164.4      
+SND452-10 SND452-11 79.8 77 78.4 3.6      
+SND453-8 SND453-9 16.1 5.5 10.8 98.1      
+SND454-1 SND454-2 3.6 4.3 3.95 17.7      
+SND454-19 SND454-20 352.1 301.3 326.7 15.5      
+SND456-7 SND456-8 27.4 26.5 26.95 3.3      
+SND457-14 SND457-15 208.4 382.1 295.25 58.8 0.27 0.93 0.6 110.0 
+SND458-10 SND458-11 40.5 26.9 33.7 40.4      
+SND458-40 SND458-41 28.4 76.5 52.45 91.7 0.03 0.04 0.035 28.6 
+SND459-19 SND459-20 31.7 22 26.85 36.1      
+SND460-11 SND460-12 30.1 17.3 23.7 54.0      
+SND460-41 SND460-42 143.6 729.6 436.6 134.2 0.45 1.1 0.775 83.9 
+SND461-18 SND461-19 87.6 79.4 83.5 9.8      
+SND462-16 SND462-17 878.9 240.3 559.6 114.1 0.66 1.46 1.06 75.5 
+SND463-12 SND463-13 165.3 187.4 176.35 12.5 0.29 0.22 0.255 27.5 
+SND464-3 SND464-4 124.2 179.5 151.85 36.4 0.18 0.17 0.175 5.7 
+SND465-4 SND465-5 1.7 0.25 0.975 148.7      
+SND466-10 SND466-11 3.7 2 2.85 59.6      
+SND467-21 SND467-22 593.3 4.3 298.8 197.1      
+SND468-20 SND468-21 11.3 53.3 32.3 130.0 0.04 0.11 0.075 93.3 
+SND469-6 SND469-7 2796.6 8760.2 5778.4 103.2 3.28 8.31 5.795 86.8 
+SND472-19 SND472-20 7.9 5.3 6.6 39.4 0.03 0.01 0.02 100.0 
+SND473-1 SND473-2 249.2 112.9 181.05 75.3 0.36 0.28 0.32 25.0 
+SND474-16 SND474-17 29.1 95.8 62.45 106.8 0.05 0.03 0.04 50.0 
+SND478-16 SND478-17 13.7 34.7 24.2 86.8 0.02 0.03 0.025 40.0 
+SND479-8 SND479-9 12311.5 35929.7 24120.6 97.9 21.33 54.95 38.14 88.1 
+SND478-3 SND478-4 1782 1833.3 1807.65 2.8 5.01 5.16 5.085 2.9 
+SND480-12 SND480-13 803.6 645.5 724.55 21.8 1.09 1.04 1.065 4.7 
+SND484-2 SND484-3 19472.5 2914.7 11193.6 147.9 3.25 5.32 4.285 48.3 
+SND486-7 SND486-8 12.3 9.9 11.1 21.6 0.04 0.03 0.035 28.6 
+SND488-23 SND488-24 1514 387.3 950.65 118.5 0.69 0.59 0.64 15.6 
+SND491-2 SND491-3 2243 306.6 1274.8 151.9 1.04 0.88 0.96 16.7 
+SND492-13 SND492-14 53.8 36.9 45.35 37.3 0.09 0.12 0.105 28.6 
+SND493-11 SND493-12 10.5 3.8 7.15 93.7 0.01 0.01 0.01 0.0 
+SND494-10 SND494-11 5.4 5.9 5.65 8.8 0.02 0.03 0.025 40.0 
+SND496-19 SND496-20 35.6 23 29.3 43.0 0.04 0.03 0.035 28.6 
+SND498-18 SND498-19 80 125.2 102.6 44.1 0.13 0.18 0.155 32.3 
+SND499-5 SND499-6 14.5 8.5 11.5 52.2 0.03 0.02 0.025 40.0 
+SND500-20 SND500-21 23.6 7.4 15.5 104.5 0.03 0.01 0.02 100.0 
+SND501-16 SND501-17 3.4 66.7 35.05 180.6 0.005 0.09 0.0475 178.9 
+SND502-13 SND502-14 23725.1 11435.4 17580.25 69.9 47.45 37.83 42.64 22.6 
+SND503-12 SND503-13 290.9 984.9 637.9 108.8 0.79 0.69 0.74 13.5 
+            
+      Average variability 72.5       46.8 
+
+
+
+Page 31 
+
+Blank samples were submitted to the laboratory with the same frequency as the 
+duplicates. The blank samples were taken from unaltered granodiorite or quartz 
+monzonite core that contained no quartz veining.  The purpose of including blanks in the 
+sample stream was to confirm that no contamination occurred in the sampling or 
+analysis procedures. One sample, SED06449-6, had a marginally higher value (76.5ppb 
+Au) but it is not significant.  The results for all the blank samples analyzed since 2000 
+are shown in Table 7. 
+
+Table 7 
+ELK BLANK SAMPLE ANALYTICAL SUMMARY 
+
+         
+Sample Au   Sample Au   Sample Au Au   Sample Au Au 
+number ppb   number ppb   number ppb g/t   number ppb g/t 
+
+SND00298-21 0.8 SND03358-11 62.3 SND05418-53 0.9  SND06461-20 3 0.01 
+
+SND00298-41 4.4 SND03358-31 16.1 SND05419-17 1.2  SND06462-18 2 0.01 
+
+SND00299-20 0.9 SND03359-8 2 SND05419-37 5.1  SND06463-14 1.1 0.01 
+
+SND00299-40 2.9 SND03361-4 17.9 SND05420-20 2.5  SND06464-5 1 <.01 
+
+SND00300-7 3.7 SND03362-7 14.7 SND05420-40 1.9  SND06465-6 3.2 0.02 
+
+SND00301-8 8.9 SND03364-9 5.6 SND05421-23 7.5  SND06466-12 0.25 <.01 
+
+SND00302-6 36.6 SND03365-9 17.7 SND05421-3 6.1  SND06467-23 0.8 0.01 
+
+SND00303-11 0.5     SND05421-43 4.9  SND06468-22 3 <.01 
+SND00304-6 9.8 SND04366-21 9.2 SND05421-63 6.3  SND06469-8 14.3 0.03 
+
+SND00308-5 0.4 SND04367-13 4.0 SND05421-83 2.5  SND06472-21 2.5 <.01 
+
+SND00309-18 0.3 SND04368-12 18.2 SND05422-11  0.00 SND06473-3 21.5 0.01 
+
+    SND04369-12 0.5 SND05422-31  0.07 SND06474-18 2.8 <.01 
+SND02310-21 5.3 SND04371-28 4.5 SND05422-51  0.00 SND06478-18 0.5 0.01 
+
+SND02311-27 3.8 SND04371-9 <0.5 SND05423-17 8.2  SND06479-10 43.7 0.05 
+
+SND02311-47 3.3 SND04373-17 0.7 SND05423-37 1.3  SND06478-5 8 0.02 
+
+SND02312-12 12.0 SND04373-38 8.1 SND05424-20 3.9  SND06480-14 4.8 <.01 
+
+SND02313-18 6.2 SND04375-16 4.5 SND05425-10 86.9  SND06484-4 1 <.01 
+
+SND02315-7 5.2 SND04375-36 <0.5 SND05426-25 8.8  SND06486-9 0.7 0.01 
+
+SND02317-4 14.0 SND04375-56 3.8 SND05426-45  0.00 SND06488-25 13.7 <.01 
+
+SND02318-4 7.1 SND04377-4 2.6 SND05426-5 9.0  SND06491-4 1.8 <.01 
+
+SND02319-5 1.6 SND04379-9 0.5 SND05427-23  0.00 SND06492-15 1.3 <.01 
+
+SND02321-4 0.2 SND04380-23 0.6 SND05427-3 1.7  SND06493-13 3.3 0.01 
+
+SND02323-7 1.4 SND04380-3 <0.5  SND05427-43 3.2  SND06494-12 0.25 <.01 
+
+SND02325-5 7.7 SND04381-11 <0.5  SND05428-11  0.00 SND06496-21 0.25 0.01 
+
+SND02325-27 0.1 SND04381-31 1.2  SND05428-31 1.0  SND06498-20 4.3 0.01 
+
+SND02326-7 4.9 SND04382-13 11.0  SND05429-29 2.0  SND06499-7 2.1 0.01 
+
+SND02327-11 5.6 SND04382-33 1.3  SND05429-49  0.00 SND06500-22 10.1 0.03 
+
+SND02329-7 1.3 SND04383-12 1.2  SND05429-9  0.00 SND06501-18 1.2 <.01 
+
+SND02330-5 4.6 SND04384-13 1.0  SND05430-14 1.0  SND06502-15 5.4 <.01 
+
+SND02331-14 1.3 SND04385-12 0.9  SND05431-27 3.0  SND06503-14 2.4 0.01 
+
+SND02332-7 3.4 SND04386-7 <0.5  SND05431-7  0.03     
+
+SND02332-27 15.9 SND04387-21 0.8  SND05432-18  0.00      
+SND02334-6 1.0 SND04388-23 0.8  SND05433-14 12.2       
+SND02334-26 3.6 SND04388-3 4.0  SND05433-34 11.3       
+SND02335-5 12.0 SND04389-7 2.3  SND05434-13  0.00      
+SND02335-25 1.6 SND04390-9 9.0  SND05434-33 7.8       
+
+
+
+Page 32 
+
+   SND04391-9 3.0  SND05435-29 8.1       
+SND03337-28 9.8 SND04392-11 <0.5  SND05435-9 5.6       
+SND03337-7 9.6 SND04393-15 2.0  SND05441-9 0.7       
+SND03338-29 1 SND04395-19 2.2  SND05443-13  0.00      
+SND03338-9 75 SND04396-9 19.6  SND05444-25  0.00      
+SND03339-20 3.8 SND04398-14 <0.5  SND05444-5  0.00      
+SND03339-41 0.5 SND04402-5 3.6  SND05445-14  0.03      
+SND03339-60 5.2 SND04403-8 7.5          
+SND03341-5 <0.5 SND04405-13 1.8  SED06446-13 0.8       
+SND03342-24 2.2 SND04408-4 2.1  SED06447-7 2.3       
+SND03342-4 35 SND04409-8 1.4  SED06449-6 76.5       
+SND03343-16 3.9     SND06450-22 1.4       
+SND03345-5 5.4 SLD05436-7 0.7  SND06450-42 0.25       
+SND03346-10 416.2 SLD05437-9 0.8  SND06451-12 2.1 <.01      
+SND03347-12 11.7 SLD05439-8 0.5  SND06452-12 0.25 0.01      
+SND03349-11 5 SND05411-7 6.0  SND06453-10 4.8       
+SND03349-31 1.9 SND05412-10 1.3  SND06454-3 1.1       
+SND03351-16 2.3 SND05413-11 1.7  SND06454-21 1.8       
+SND03351-36 9.7 SND05415-28 8.4  SND06456-9 2.6       
+SND03352-4 0.7 SND05415-9 1.4  SND06457-16 4.4 0.01      
+SND03354-15 1.5 SND05417-12 1.1  SND06458-12 2.9 0.01      
+SND03354-35 3 SND05417-32 2.1  SND06458-42 3.2 <.01      
+SND03355-13 7 SND05417-53 5.6  SND06459-21 6 <.01      
+SND03355-33 0.3 SND05418-13 6.5  SND06460-13 2 0.01      
+SND03356-20 10.5 SND05418-33 1.1   SND06460-43 1 0.01        
+NOTE: <0.5, <0.01 indicate below the detection limit for the methods used.       
+                        
+
+Acme Analytical Laboratories routinely re-sampled and re-analyzed pulps and rejects as 
+part of their analytical procedure.  The results for 2006 are given in Table 8 and Figures 
+9 and 10.  The average variability of the wet geochemical numbers is twice that of the 
+assay numbers (88% vs 42%) but the variability amongst all the numbers (six analyses 
+per sample) is 112.5%.  The range in percent variability among the wet geochemical 
+numbers is 0.6% to 275.7%, while that for the fire assay numbers is narrower, 4.62% to 
+133.33%.  High variability numbers indicate a strong nugget effect, particularly in 
+samples analyzed by fire assay.  The high variability among all the results and in the 
+wet geochemical results is probably due to the difference in sample weight – 0.5gm for 
+wet geochemical analysis vs 30gm for fire assay. 
+
+
+
+Page 33 
+
+Rerun Summary, Wet Chemical
+
+0.00
+
+50.00
+
+100.00
+
+150.00
+
+200.00
+
+250.00
+
+300.00
+
+0.0 1000.0 2000.0 3000.0 4000.0 5000.0 6000.0 7000.0
+
+Mean ppb Au
+
+%
+ V
+
+ar
+ia
+
+bi
+lit
+
+y
+
+Figure 9:  % variability vs mean ppb gold, samples chosen by Acme, N = 41 (See Table 8). 
+
+Rerun Summary, Fire Assay
+
+0.00
+
+20.00
+
+40.00
+
+60.00
+
+80.00
+
+100.00
+
+120.00
+
+140.00
+
+0.00 1.00 2.00 3.00 4.00 5.00 6.00 7.00
+
+Mean g/t Au
+
+%
+ V
+
+ar
+ia
+
+bi
+lit
+
+y
+
+Figure 10:  % variability vs mean g/t gold, samples chosen by Acme, N = 41 (See Table 8). 
+
+
+
+Page 34 
+
+Table 8
+ELK DRILL SAMPLE RERUN SUMMARY, 2006
+
+                        
+
+    Wet Geochemical Analysis     Fire Assay     
+Sample  Au  Au  Au  Au Variability Au Au Au Au Variability Report 
+number ppb ppb ppb ppb % g/t g/t g/t g/t % Number 
+
+  X XRE XRRE average   X XRE XRRE average     
+SED449-5 240.1 235.3 245.7 240.4 4.33      A604663 
+SND450-6 165.9 138.6 113.9 139.5 37.28      A603973 
+SND450-33 132.2 130.1 214.0 158.8 52.84      A603973 
+SND451-21 283.0 241.9 212.9 245.9 28.50 0.22 0.21 0.22 0.22 4.62 A603972 
+SND452-4 832.1 1335.8 1807.2 1325.0 73.59 1.16 1.17 1.23 1.19 5.90 A604662 
+SND453-9 5.5 6.6 5.3 5.8 22.41      A604785 
+SND453-21 773.8 723.7 3853.4 1783.6 175.47 1.15 2.21 4.32 2.56 123.83 A604784 
+SND456-3 11.3 9.9 15.1 12.1 42.98      A605486 
+SND457-3 17.4 9.2 6.6 11.1 97.59 0.02 0.03 0.01 0.02 100.00 A605485 
+SND458-9 42.6 126.6 157.9 109.0 105.75 0.09 0.09 0.10 0.09 10.71 A605705 
+SND459-12 4.1 12.0 3.4 6.5 132.31      A605707 
+SND459-37 738.2 733.8 736.0 736.0 0.60 0.65 0.66 0.74 0.68 13.17 A605705 
+SND460-26 667.6 470.7 530.9 556.4 35.39 0.92 1.03 0.83 0.93 21.58 A605820 
+SND461-2 143.8 223.6 205.4 190.9 41.79      A605821 
+SND461-4 9.0 4.0 19.9 11.0 144.98 0.05 0.03 0.04 0.04 50.00 A605820 
+SND462-15 6.0 4.1 2.7 4.3 77.34 0.01 0.01 0.01 0.01 0.00 A606169 
+SND463-29 14.6 24.4 6.7 15.2 116.19 0.05 0.04 0.02 0.04 81.82 A606863 
+SND464-23 202.8 29.5 30.6 87.6 197.76 0.08 0.06 0.12 0.09 69.23 A607101 
+SND465-22 0.3 1.8 0.3 0.8 202.17      A607101 
+SND467-26 4.1 2.8 0.3 2.4 161.54 0.01 0.01 0.02 0.01 75.00 A607101 
+SND468-26 63.4 46.4 55.6 55.1 30.83 0.09 0.09 0.07 0.08 24.00 A607101 
+SND468-37 7208.5 5853.5 2116.0 5059.3 100.66 5.45 5.01 5.54 5.33 9.94 A607467 
+SND471-5 10.2 12.7 31.4 18.1 117.13 0.04 0.03 0.11 0.06 133.33 A607467 
+SND472-24 40.0 16.1 84.4 46.8 145.84 0.1 0.08 0.09 0.09 22.22 A607467 
+SND473-7 0.3 0.3 1.7 0.7 197.73      A607467 
+SND475-1 213.9 247.7 99.5 187.0 79.24 0.18 0.15 0.15 0.16 18.75 A607467 
+SND476-10 2150.2 1272.2 2520.5 1981.0 63.01 1.32 2.52 1.38 1.74 68.97 A607467 
+SND479-12 54.2 65.3 132.5 84.0 93.21 0.14 0.16 0.17 0.16 19.15 A608069 
+SND480-18 1102.2 1066.0 594.2 920.8 55.17 1.4 1.46 1.26 1.37 14.56 A608069 
+SND481-12 475.0 969.3 363.1 602.5 100.62 0.7 0.70 0.42 0.61 46.15 A608069 
+SND486-12 308.0 126.0 170.8 201.6 90.28 0.21 0.19 0.21 0.20 9.84 A608069 
+SND489-2 5374.4 4219.6 4834.4 4809.5 24.01 5.17 5.46 5.43 5.35 5.42 A608069 
+SND491-12 7.4 21.9 23.1 17.5 89.89 0.02 0.02 0.04 0.03 75.00 A608069 
+SND492-29 362.4 285.2 377.3 341.6 26.96 1.27 1.60 1.06 1.31 41.22 A608069 
+SND493-16 37.0 48.6 56.1 47.2 40.44 0.07 0.08 0.06 0.07 28.57 A608299 
+SND496-14 269.5 251.6 219.4 246.8 20.30 0.33 0.40 0.31 0.35 25.96 A608299 
+SND498-12 11.4 17.9 51.9 27.1 149.63 0.06 0.05 0.09 0.07 60.00 A608299 
+SND500-10 75.4 75.3 115.2 88.6 45.02 0.2 0.11 0.13 0.15 61.36 A608299 
+SND500-37 41.6 28.0 36.0 35.2 38.64 0.02 0.02 0.03 0.02 42.86 A608299 
+SND502-15 5.4 2.5 120.5 42.8 275.70      A608299 
+SND503-19 4802.3 3550.6 9213.0 5855.3 96.71 6.45 5.31 7.51 6.42 34.25 A608299 
+      Sum 3631.82    Sum 1297.41   
+      Average Variability 88.6   Average Variability 41.9   
+
+NOTES: Samples were chosen by Acme               
+  X = Original analysis          
+  XRE = Analysis of second cut of original pulp        
+  XRRE = Analysis of pulp prepared from reject material of X      
+
+  Variability = Max sample value-Min sample value/Average of all sample values     
+
+
+
+Page 35 
+
+Standard pulp samples were introduced into the sample stream, by both Almaden 
+Minerals Ltd. and Acme, to check the consistency of the assay laboratory procedures.  
+Almaden used three standards (9.78+/- 0.53 g/t, 33.5 +/- 1.7 g/t and 35.25 +/- 1.21 g/t) 
+during 2006, purchased from CDN Resource Laboratories Ltd. of Delta, BC.  Initially, a 
+fifteen gram aliquot of one of these standards was submitted to Acme with each blank 
+and duplicate sample.  This was later increased to 30 grams. The results are tabulated 
+in Table 9.  The mean of 26 wet chemical values for the 9780ppb pulp is 8416.7ppb, 
+and the variability between these values is 65.4%. For the 23 assay values for the same 
+pulp the mean is 9.83g/t, and the variability is 19.74%. In general, the wet geochemical 
+results (0.5gm sample) deviated from the mean much more than the fire assay results 
+(15 to 30gm sample), probably because of the much smaller sample size.  
+
+Table 9 
+ELK 2006 DRILL SAMPLE STANDARD SUMMARY
+
+              Report 
+
+Sample# Au ppb Deviation 
+Au 
+
+gm/t Deviation Assay/Analysis Au Standard Number 
+
+SED06446-14 9619.4 0.00%     Wet Geochem 9.78+-.53 gm/t A603973 
+
+SED06447-8 9627.1 0.00%     Wet Geochem 9.78+-.53 gm/t A603973 
+
+SED06449-7 33684.2 0.00%     Wet Geochem 33.5+-1.7gm/t A604785 
+
+SND06450-23 36435.0 3.51% 34.28 0.00% Wet chem/FA 33.5+-1.7gm/t A603972 
+
+SND06450-43 7078.2 23.48% 8.78 5.08% Wet chem/FA 9.78+-.53 gm/t A603972 
+
+SND06451-13 7728.2 16.45% 9.19 0.65% Wet chem/FA 9.78+-.53 gm/t A603972 
+
+SND06452-13 34204.4 0.00% 35.79 1.68% Wet chem/FA 33.5+-1.7gm/t A604784 
+
+SND06453-11 9138.1 1.21% 10.09 0.00% Wet chem/FA 9.78+-.53 gm/t A604784 
+
+SND06454-22 34290.2 0.00%     Wet Geochem 33.5+-1.7gm/t A604785 
+
+SND06454-4 33433.5 0.00%     Wet Geochem 33.5+-1.7gm/t A604785 
+
+SND06456-10 11571.4 12.23%     Wet Geochem 9.78+-.53 gm/t A605486 
+
+SND06457-17 10518.0 2.02% 10.25 0.00% Wet chem/FA 9.78+-.53 gm/t A605485 
+
+SND06458-13 8075.1 12.70% 9.23 0.22% Wet chem/FA 9.78+-.53 gm/t A605705 
+
+SND06458-43 34309.0 0.00% 33.76 0.82% Wet chem/FA 35.25 +-1.21 gm/t A605705 
+
+SND06459-22 9087.7 1.75% 10.12 0.00% Wet chem/FA 9.78+-.53 gm/t A605705 
+
+SND06460-14 6523.5 29.48% 10.22 0.00% Wet chem/FA 9.78+-.53 gm/t A605820 
+
+SND06460-44 28728.3 15.60% 35.07 0.00% Wet chem/FA 35.25 +-1.21 gm/t A605820 
+
+SND06461-21 32161.4 5.52% 36.24 0.00% Wet chem/FA 35.25 +-1.21 gm/t A605820 
+
+SND06462-19 11216.7 8.79% 9.93 0.00% Wet chem/FA 9.78+-.53 gm/t A606169 
+
+SND06463-15 7997.9 13.54% 10.41 0.97% Wet chem/FA 9.78+-.53 gm/t A606863 
+
+SND06464-6 41864.8 14.82% 33.29 2.20% Wet chem/FA 35.25 +-1.21 gm/t A607101 
+
+SND06465-7 6597.7 28.67% 9.89 0.00% Wet chem/FA 9.78+-.53 gm/t A607101 
+
+SND06466-13 32908.2 3.32% 34.21 0.00% Wet chem/FA 35.25 +-1.21 gm/t A607101 
+
+SND06467-24 6906.4 25.34% 9.62 0.00% Wet chem/FA 9.78+-.53 gm/t A607101 
+
+SND06468-23 27652.0 18.77% 33.78 0.76% Wet chem/FA 35.25 +-1.21 gm/t A607467 
+
+SND06469-9 33668.1 1.09% 38.80 6.42% Wet chem/FA 35.25 +-1.21 gm/t A607467 
+
+SND06472-22 6842.6 26.03% 9.85 0.00% Wet chem/FA 9.78+-.53 gm/t A607467 
+
+SND06473-4 11505.9 11.60% 9.57 0.00% Wet chem/FA 9.78+-.53 gm/t A607467 
+
+SND06474-19 29879.9 12.22% 38.75 6.28% Wet chem/FA 35.25 +-1.21 gm/t A607467 
+
+SND06478-6 7732.5 16.41% 9.69 0.00% Wet chem/FA 9.78+-.53 gm/t A607467 
+
+
+
+Page 36 
+
+SND06479-11 7202.9 22.13% 9.90 0.00% Wet chem/FA 9.78+-.53 gm/t A608069 
+
+SND06480-15 8451.7 8.63% 10.72 3.98% Wet chem/FA 9.78+-.53 gm/t A608069 
+
+SND06484-5 6603.5 28.61% 9.94 0.00% Wet chem/FA 9.78+-.53 gm/t A608069 
+
+SND06486-10 33561.7 1.41% 32.19 5.43% Wet chem/FA 35.25 +-1.21 gm/t A608069 
+
+SND06488-26 7615.7 17.67% 9.71 0.00% Wet chem/FA 9.78+-.53 gm/t A608069 
+
+SND06491-5 31331 7.96% 31.30 8.05% Wet chem/FA 35.25 +-1.21 gm/t A608069 
+
+SND06492-16 38015.8 4.27% 37.86 3.84% Wet chem/FA 35.25 +-1.21 gm/t A608069 
+
+SND06493-14 6280.5 32.10% 9.90 0.00% Wet chem/FA 9.78+-.53 gm/t A608299 
+
+SND06494-13 10410.6 0.98% 10.32 0.10% Wet chem/FA 9.78+-.53 gm/t A608069 
+
+SND06496-22 8845.9 4.37% 9.28 0.00% Wet chem/FA 9.78+-.53 gm/t A608299 
+
+SND06498-21 34458.6 0.00% 35.54 0.00% Wet chem/FA 35.25 +-1.21 gm/t A608299 
+
+SND06499-8 41623.4 14.16% 34.00 0.12% Wet chem/FA 35.25 +-1.21 gm/t A608299 
+
+SND06500-23 11784.1 14.30% 9.14 1.19% Wet chem/FA 9.78+-.53 gm/t A608299 
+
+SND06501-19 6541.4 29.28% 10.07 0.00% Wet chem/FA 9.78+-.53 gm/t A608299 
+
+SND06502-16 8837.6 4.46% 10.52 2.04% Wet chem/FA 9.78+-.53 gm/t A608299 
+
+SND06503-15 39915.1 9.48% 38.44 5.43% Wet chem/FA 35.25 +-1.21 gm/t A608299 
+
+Average  10.96%  1.38%     
+          
+NOTE: The deviation from a standard value was derived as follows: If the analytical result fell within the range of the 
+  standard value  plus or minus the error  (34.04-36.46 gm/t or 9.22-10.28 gm/t) a zero deviation was assigned. 
+  For the results above the upper limit or below the lower limit the percent deviation was calculated. 
+
+Standards provided by:CDN Resource Laboratories Ltd. Delta,  B.C.
+
+A number of samples were selected for check assaying by ALS Chemex laboratories in 
+Vancouver.  The pulps were sent from Acme to Chemex and assayed for gold.  The 
+samples were then re-numbered and returned to Acme for re-assay.  Figure 11 
+indicates that, with two exceptions, Acme's repeatability is satisfactory. Examination of 
+Figure 12 shows that there is more variability in the 2006 results (6 of 13 results with > 
+50% variability) than in previous years (7 of 67 results with > 50% variability). 
+
+
+
+Page 37 
+
+Acme Assay1 vs Assay2
+
+0.00
+
+10.00
+
+20.00
+
+30.00
+
+40.00
+
+50.00
+
+60.00
+
+70.00
+
+80.00
+
+0.00 10.00 20.00 30.00 40.00 50.00 60.00 70.00 80.00 90.00
+
+Assay 1, g/t
+
+A
+ss
+
+ay
+ 2
+
+, g
+/t
+
+Figure 11:  Acme  - Chemex check assays 
+
+Assay Variability, 2003 - 2005 vs 2006
+
+0%
+
+50%
+
+100%
+
+150%
+
+200%
+
+250%
+
+0 20 40 60 80 100 120
+Average Au gm/t
+
+%
+ V
+
+ar
+ia
+
+b
+lil
+
+ty
+
+2003 - 2005 Data
+2006 Data
+
+Figure 12:   Acme  -  Chemex check assay sample variability. 
+
+
+
+Page 38 
+
+Table 10
+ELK DRILL CHECK SAMPLE SUMMARY 
+
+  Fire Assay     
+  Acme Chemex Acme Blind    Avg Au gm/t 
+SAMPLE # Au gm/t Au gm/t Rerun Au gm/t Average % Variablility x % Var 
+SND06453-17 17.62 5.34 2.80 8.59 172.6% 14.82 
+SND06454-16 77.63 69.80 72.18 73.20 10.7% 7.83 
+SND06478-13 29.65 30.30 28.79 29.58 5.1% 1.51 
+SND06487-5 11.62 13.60 12.90 12.71 15.6% 1.98 
+SND06492-23 0.28 0.29 0.19 0.25 39.5% 0.10 
+SND06502-11 3.39 2.74 5.03 3.72 61.6% 2.29 
+SND06502-14 25.11 11.85 11.66 16.21 83.0% 13.45 
+SND06502-25 3.26 3.26 3.23 3.25 0.9% 0.03 
+SND06503-6 3.66 7.04 5.88 5.53 61.2% 3.38 
+SND06503-11 8.36 7.08 7.49 7.64 16.7% 1.28 
+SND06503-13 0.69 1.45 1.69 1.28 78.3% 1.00 
+SND06503-17 2.87 1.78 5.86 3.50 116.5% 4.08 
+SND06503-19 6.45 5.47 5.66 5.86 16.7% 0.98 
+          
+          
+          
+
+SND06453-17 
+Average of 29.79, 5.45 g/t = 
+17.62       
+
+SND06454-16 Average of 100.51, 68.82, 63.56 g/t = 77.63      
+
+SND06502-14 
+Average of 37.83, 12.39 g/t = 
+25.11       
+
+SND06503-6 Average of 6.58, 5.18 g/t = 5.88       
+             
+
+The results from the QA/QC tests indicate no analytical bias from the laboratories, no 
+contamination and in general large random errors attached to duplicate samples.  
+These large errors are to be expected in this style of mineralization where nugget 
+effects are extreme.  These tests explain why the sampling procedure at Siwash has 
+developed over the years with lower precision geochemical ICP analysis for gold at 
+lower levels, fire assay analysis for higher grade mineralization and metallic screen 
+analysis for the samples with highest gold grades.  The results of these tests combined 
+with the production history for this property indicate the data base is of sufficient quality 
+to produce a reliable resource estimate. 
+
+14.0 ADJACENT PROPERTIES 
+
+There are no adjacent properties of interest to this project. 
+
+
+
+Page 39 
+
+15.0 MINERAL PROCESSING AND METALLURGICAL TESTING 
+
+Since 1990 a number of companies have completed preliminary metallurgical test on 
+Siwash samples including: 
+ - 1990 – Placer Dome Inc. completed gravity and cyanidation testing 
+ - 1992 – Brenda Mines Ltd. carried out gravity, flotation, cyanidation, acid-
+
+base accounting and ICP analysis of the tails 
+- 1992 – Bacon & Donaldson carried out gravity, flotation, cyanidation and 
+acid base accounting 
+
+ - 1993 – McGill University completed gravity testing 
+
+R.M. Samuels summarized the metallurgical tests in a 1993 report (Samuels, 1993) to 
+Fairfield Minerals as follows: 
+
+ "The test results showed that the ore is free-milling and the gold is readily 
+amenable to  recovery by gravity/flotation or gravity/cyanidation processes.  Recoveries 
+in excess of  95% are predicted with recoveries of 99.5% achieved from a composite 
+sample using a gravity/flotation circuit.  There are no deleterious elements in sufficient 
+quantity to cause environmental or marketing problems and waste rock products are 
+non-acid generating. 
+
+The ore is of medium hardness with a work index of 10.9 kwh/ton.  Silver 
+recoveries were 98.8% from gravity/flotation circuits and would be a viable by-product at 
+silver to gold rations of 1:1.  Limited test work on tailings showed poor settling rates 
+which may increase the operation costs." 
+
+Samuels recommended treatment of the ore by a gravity/flotation circuit. 
+
+16.0 MINERAL RESOURCE ESTIMATE   
+
+16.1 Statistics for Resource Estimation 
+
+The 2007 update on the Elk Property resource included the 54 diamond drill holes 
+completed in 2006 (from SND06450 to SND06503) (see Figure 13).  The total number 
+of holes in the data base was 853.  For the 2007 resource update a new geologic model 
+was developed by Almaden geologists, with 25 separate structures modelled.  The 
+individual statistics for each structure are shown below in Table 11. 
+
+
+
+F
+ig
+
+ur
+e 
+
+13
+:  
+
+E
+lk
+
+ P
+ro
+
+pe
+rt
+
+y 
+- 
+
+20
+06
+
+ D
+ril
+
+l H
+ol
+
+es
+P
+
+ag
+e 
+
+40
+
+
+
+Page 41 
+
+Table 11: 
+Summary of statistics for gold in all modelled veins 
+
+Vein Code Number Mean 
+Au (oz/t)
+
+Stand.
+Dev. 
+
+Minimum Maximum Coefficient 
+Of Variation
+
+WD 30 169 0.260 0.652 0.0005 5.256 2.50
+WD2 31 24 0.149 0.344 0.0005 1.603 2.31
+WD3 32 36 0.214 0.397 0.0010 1.417 1.85
+WD4 33 18 0.125 0.158 0.0010 0.487 1.26
+WD4A 34 7 0.286 0.337 0.0020 0.955 1.17
+WD4B 35 4 0.833 1.009 0.1120 2.553 1.21
+WDA 36 29 0.128 0.272 0.0005 1.158 2.13
+WDB 37 69 0.134 0.227 0.0005 0.944 1.69
+WDC 38 1 0.248  
+A 39 34 0.100 0.155 0.0010 0.527 1.56
+B 40 1,361 0.478 1.739 0.0005 34.305 3.64
+BM1 41 174 0.193 0.473 0.0010 4.426 2.45
+BM2 42 34 0.134 0.181 0.0010 0.690 1.35
+BM3 44 14 0.440 0.678 0.0010 2.248 1.54
+BM5 45 2 0.113 0.112 0.0010 0.224 0.99
+BM6 46 37 0.108 0.217 0.0010 1.021 2.01
+BM7 47 9 0.128 0.142 0.0010 0.442 1.10
+BB 48 10 0.463 1.170 0.0010 3.966 2.53
+X 50 106 0.166 0.434 0.0010 2.957 2.61
+D 51 47 0.164 0.271 0.0010 1.034 1.65
+DPC 52 2 0.002 0.001 0.0010 0.002 0.33
+E 53 16 0.019 0.061 0.0010 0.253 3.22
+PC 54 24 0.218 0.776 0.0010 3.920 3.56
+PC2 55 6 0.383 0.741 0.0010 2.031 1.94
+C 56 65 0.082 0.269 0.0005 1.981 3.27
+WASTE 99 10,538 0.032 0.276 0.0005 11.72 8.60
+
+For the purpose of statistical review and determining capping levels the veins were 
+combined in the following groups:  
+
+  WD veins (Codes 30 to 38)  
+B veins (Codes 40 to 48)
+Remaining Veins (Codes 39, 50 to 56) 
+Waste (Code 99) 
+
+Lognormal cumulative frequency plots were produced for each group of veins.
+
+
+
+Page 42 
+
+.
+
+Figure 14: Lognormal Cumulative Probability Plot for gold assays – B Veins 
+
+A total of 6 overlapping lognormal gold populations were found within the B Vein 
+system.  Table 12 summarizes the parameters for these populations. Population 1 is 
+considered erratic high grade and can be capped at 2 standard deviations above the 
+mean of population 2.  A total of 2 assays were capped at 19.8 oz Au/t (679 g Au/t). 
+
+Table 12: 
+ Summary of overlapping gold populations in B Veins 
+
+Population Mean Au 
+(oz/ton)
+
+Mean Au
+(g/t)
+
+Percentage Number of Samples 
+
+1 29.77 1020.7 0.13 % 2  
+2 13.45 461.1 0.38 % 6  
+3 4.96 170.1 1.32 % 22 
+4 1.02 35.0 12.20 % 200  
+5 0.07 2.4 58.47 % 960  
+6 0.002 0.07 27.50 % 451 
+
+
+
+Page 43 
+
+A similar procedure for gold in the WD veins also shows 6 overlapping lognormal 
+populations in Figure 15. 
+
+Figure 15: Lognormal Cumulative Probability Plot for gold assays – WD Veins 
+
+Table 13: 
+ Summary of overlapping gold populations in WD Veins 
+
+Population Mean Au 
+(oz/ton)
+
+Mean Au
+(g/t)
+
+Percentage Number of Samples 
+
+1 4.20 144.0 0.85 %  3 
+2 2.75 94.3 0.72 % 3  
+3 1.39 47.7 3.05 % 11 
+4 0.61 20.9 11.75 % 42  
+5 0.14 4.8 24.36 % 87  
+6 .007 0.24 59.27 % 211  
+
+Population 1 could be considered erratic and should be capped at 2 standard deviations 
+above the mean of population 2.  A total of 2 samples were capped at 3.1 oz Au/t (106 g 
+Au/t).
+
+
+
+Page 44 
+
+All other veins including the A, X, D, DPC, E, PC, Pc2 and C veins were combined and 
+again showed multiple overlapping lognormal populations for gold in Figure 16. 
+
+Figure 16: Lognormal Cumulative Probability Plot for gold assays – Other Veins 
+
+Table 14: 
+ Summary of overlapping gold populations in Other Veins 
+
+Population Mean Au 
+(oz/ton)
+
+Mean Au
+(g/t)
+
+Percentage Number of Samples 
+
+1 3.97 136.1 0.68 % 2  
+2 2.17 74.4 1.19 % 4  
+3 1.04 35.7 3.03 % 9  
+4 0.46 15.8 5.83 % 17  
+5 0.22 7.5 7.77 % 23  
+6 0.07 2.4 20.11 % 61  
+7 0.003 0.1 61.40 % 184 
+
+
+
+Page 45 
+
+For this combination of other veins a capping level of 2 standard deviations above the 
+mean of population 3 was used to mitigate the spreading of high values.  A total of 10 
+gold assays were capped at 1.0 oz Au/t (34.3 g Au/t). 
+
+All other assays not included in the Veins mentioned above and located outside the 
+mineralized solids were grouped together and classed as waste. 
+
+Figure 17: Lognormal Cumulative Probability Plot for gold assays – Waste 
+
+Table 15: 
+ Summary of overlapping gold populations in Waste 
+
+Population Mean Au 
+(oz/ton)
+
+Mean Au
+(g/t)
+
+Percentage Number of Samples 
+
+1 8.89 304.8 0.06 %  6 
+2 3.11 106.6 0.12 % 13  
+3 1.68 57.6 0.25 % 26  
+4 0.51 17.5 1.18 % 124  
+5 0.04 1.4 15.59 % 1,643  
+6 0.002 0.07 82.80 % 8,726 
+
+
+
+Page 46 
+
+For assays in waste a cap of 2 standard deviations above the mean of population 5 was 
+selected to stop the spread of extremely high grades in the waste blocks.  A total of 243 
+assays outside the mineralized solids were capped at 0.32 oz Au/t (11 g Au/t). 
+
+The results of capping are shown in Table 16. 
+
+Table 16: 
+Summary of statistics for Uncapped and Capped gold in all Vein Groups 
+
+Vein Codes Number Mean
+Au
+
+(oz/t) 
+
+Stand.
+Dev. 
+
+Minimum Maximum Coefficient 
+Of
+
+Variation
+B veins Uncapped 40-48 1,641 0.429 1.600 0.0005 34.31 3.72
+B veins Capped 40-48 1,641 0.416 1.375 0.0005 19.80 3.30
+WD veins Uncapped 30-38 357 0.213 0.512 0.0005 5.26 2.40
+WD veins Capped 30-38 357 0.206 0.455 0.0005 3.10 2.21
+Other Veins 
+Uncapped 
+
+39, 50-
+56
+
+300 0.140 0.399 0.0005 3.92 2.86
+
+Other Veins Capped 39, 50-
+56
+
+300 0.110 0.229 0.0005 1.00 2.08
+
+Waste Uncapped 99 12,430 0.035 0.279 0.0005 11.72 7.96
+Waste Capped 99 12,430 0.018 0.054 0.0005 0.320 3.06
+
+16.2 Compositing 
+
+Drill holes were compared to the various mineralized vein solids and the point at which 
+holes entered and left each solid was recorded.  Uniform down hole composites 0.5 m 
+in length were formed to honour the mineralized solid boundaries.  Composites less 
+than 0.25 m at the edge of solids were combined with the closest composite to form a 
+uniform support of 0.5 ± 0.25 m.  A summary of the gold statistics from the composited 
+veins is shown as Table 17.  Where veins were modelled but not assayed a value of 
+0.0005 oz/t was inserted.  As a result the number of composites increases and average 
+grades drop from individual assays. 
+
+The WD and WDA veins were combined for modelling.
+
+
+
+Page 47 
+
+Table 17: 
+Summary of statistics for 0.5 m Gold Composites in all modelled veins 
+
+Vein Code Number Mean
+Au (oz/t)
+
+Stand.
+Dev. 
+
+Minimum Maximum Coefficient 
+Of Variation
+
+WD 30 449 0.100 0.337 0.0010 3.100 3.38
+WD2 31 118 0.035 0.170 0.0010 1.603 4.82
+WD3 32 133 0.059 0.217 0.0010 1.417 3.65
+WD4 33 36 0.061 0.105 0.0010 0.373 1.73
+WD4A 34 19 0.120 0.247 0.0005 0.955 2.06
+WD4B 35 12 0.300 0.697 0.0005 2.553 2.32
+WDB 37 149 0.064 0.153 0.0010 0.816 2.39
+A 39 103 0.032 0.083 0.0005 0.442 2.62
+B 40 2,536 0.883 1.642 0.0010 19.80 1.86
+BM1 41 386 0.086 0.313 0.0010 4.426 3.64
+BM2 42 107 0.031 0.081 0.0005 0.488 2.64
+BM3 44 82 0.064 0.259 0.0010 1.791 4.00
+BM6 46 170 0.027 0.104 0.0010 0.878 3.82
+BM7 47 14 0.074 0.101 0.0010 0.295 1.38
+BB 48 35 0.655 1.131 0.0005 4.188 1.73
+X 50 208 0.055 0.150 0.0010 0.985 2.71
+D 51 62 0.142 0.264 0.0005 1.000 1.85
+E 53 71 0.005 0.029 0.0005 0.245 6.32
+PC 54 55 0.036 0.087 0.0005 0.471 2.41
+PC2 55 10 0.124 0.297 0.0005 1.000 2.40
+C 56 150 0.035 0.105 0.0005 0.860 2.99
+Waste 99 100,759 0.003 0.015 0.0010 0.320 5.57
+
+Note – Vein B (Code 40) includes samples from open pit and underground. 
+
+
+
+Page 48 
+
+16.3 Semivariogram Analysis 
+
+Pairwise relative semivariograms for gold were produced for the veins with enough 
+information to model.  The B Vein (Code 40) was subdivided into a flat near surface 
+zone and a deeper more steeply dipping zone based on a composites north location.  
+Composites coded 40 were part of the flat zone if north of 3350 N and part of the steep 
+zone if  3350 N.  Vein BM1 (Code 41) also had sufficient data to model.  The WD and 
+WDA veins (Code 30) also had sufficient data to model.  Finally gold composites not 
+included in any of the mineralized solids were modelled as waste.  In all veins 
+anisotropy was demonstrated and nested spherical models fit to the data. In each case 
+the best continuity was along strike and down dip.  For the across dip direction there 
+was insufficient data to determine a model so a nominal 2.5 and 5.0 m were used for 
+ranges.  Within waste a single isotropic nested spherical model was applied.    
+
+Table 18: 
+Summary of Semivariogram parameters for B veins and WD vein 
+
+Vein Variable Direction Nugget
+Effect 
+
+Co
+
+Short
+Structure
+
+C1
+
+Long
+Structure 
+
+C2
+
+Short
+Range
+a1 (m)
+
+Long
+Range
+a2 (m) 
+
+Az. 030 Dip 0 0.20 0.40 0.40 20.0.0 100.0
+Az 120 Dip -20 0.20 0.40 0.40 20.0 100.0
+
+B Vein Code 40 
+Flat
+
+Au
+
+Az. 300 Dip -70 0.20 0.40 0.40 2.5 5.0
+Az. 090 Dip 0 0.38 0.70 0.19 10.0 80.0
+Az 180 Dip -60 0.38 0.70 0.19 8.0 50.0
+
+B Vein Code 40 
+Steep
+
+Au
+
+Az 0 Dip -30 0.38 0.70 0.19 2.5 5.0
+Az 90 Dip 0 0.05 0.70 0.35 12.0 60.0
+Az 180 Dip -60 0.05 0.70 0.35 8.0 32.0
+
+BM1 Vein Code 41 Au 
+
+Az 0 Dip -30 0.05 0.70 0.35 2.5 5.0
+Az 80 Dip 0 0.05 0.70 0.25 30.0 60.0
+Az 170 Dip -58 0.05 0.70 0.25 30.0 50.0
+
+WD Vein Code 30 Au 
+
+Az 350 Dip -32 0.05 0.70 0.25 2.5 5.0
+Waste Au Omni Directional 0.10 0.10 0.10 28.0 40.0
+
+The remaining veins were assigned one of the above models based on their geographic 
+position, strike and dip.  Veins 31 to 37 used the WD model.  Veins 39, 47, 50-53 and 
+56 used the B vein (code 40) flat model.  Veins 42, 44, 48, 54 and 55 used the B vein 
+(code 40) steep model.  Vein 46 used the B vein Flat model north of 3350 N and the B 
+vein Steep model south of 3350 N. 
+
+
+
+Page 49 
+
+16.4 Block Model Estimation  
+
+Interpolation of gold grades into blocks was completed using ordinary kriging.  Blocks 
+were estimated if they contained any percentage of vein material.  The semivariogram 
+and search ellipse varied according to the vein being estimated (see Table 9).  A 
+separate kriging run was completed for each vein using only the composites within that 
+vein.  Pass 1 required a minimum of 4 composites to make an estimate.  Passes 2 to 4 
+required finding only 2 composites, to make an estimate.  In all cases the maximum 
+number of composites allowed was 12 and if more than 12 were found the closest 12 
+were used.  The orientation and dimensions of the search ellipses were determined by 
+the appropriate semivariograms.  For Pass 1 the dimensions were equal to ¼ of the 
+semivariogram ranges in each direction.  Pass 2 used ½ the range, Pass 3 used the full 
+range and Pass 4 used twice the range. 
+
+After the grades for vein material was estimated all blocks containing some proportion 
+of vein but less than 100% were re-estimated for dilution. The waste proportion of the 
+block was estimated from all composites lying outside the veins.  Using this approach a 
+reasonable grade for dilution could be established, based on the assays closest to the 
+block.  In some cases, high gold grades sit outside the modelled veins and are included 
+in this waste estimate. 
+
+Table 19: 
+ Search parameters for 3 Dimensional Kriging Runs for Gold 
+
+Zone Pass Direction Dist.
+(m)
+
+Direction Dist.
+(m)
+
+Direction Dist.
+(m)
+
+1 Az 80 Dip 0 15 Az 170 Dip -58 12.5 Az 350 Dip -32 2.5 
+2 Az 80 Dip 0 30 Az 170 Dip -58 25 Az 350 Dip -32 5 
+3 Az 80 Dip 0 60  Az 170 Dip -58 50 Az 350 Dip -32 10 
+
+WD Veins 
+Codes 30 - 38 
+
+4 Az 80 Dip 0 120 Az 170 Dip -58 100 Az 350 Dip -32 20 
+1 Az 30 Dip 0 25  Az 120 Dip -20 25 Az 300 Dip -70 2.5 
+2 Az 30 Dip 0 50 Az 120 Dip -20 50 Az 300 Dip -70 5 
+3 Az 30 Dip 0 100 Az 120 Dip -20 100 Az 300 Dip -70 10 
+
+B Veins Flat 
+Codes 40, 46, 47 
+Other Flat Veins 
+Codes 39, 50-53, 56 4 Az 30 Dip 0 200 Az 120 Dip -20 200 Az 300 Dip -70 20 
+
+1 Az 90 Dip 0 20 Az 180 Dip -60 12.5 Az 0 Dip -30 2.5 
+2 Az 90 Dip 0 40 Az 180 Dip -60 25 Az 0 Dip -30 5 
+3 Az 90 Dip 0 80 Az 180 Dip -60 50 Az 0 Dip -30 10 
+
+B Veins Steep 
+Codes 40, 42,44,46, 48 
+Other Steep Veins 
+Codes 54, 55 4 Az 90 Dip 0 160 Az 180 Dip -60 100 Az 0 Dip -30 20 
+
+1 Az 90 Dip 0 15 Az 180 Dip -60 8 Az 0 Dip -30 2.5 
+2 Az 90 Dip 0 30 Az 180 Dip -60 16 Az 0 Dip -30 5 
+3 Az 90 Dip 0 60 Az 180 Dip -60 32 Az 0 Dip -30 10 
+
+B Vein Code 41 
+
+4 Az 90 Dip 0 120 Az 180 Dip -60 64 Az 0 Dip -30 20 
+1 Omni. Dir. 10     
+2 Omni. Dir. 20     
+3 Omni Dir. 40     
+
+Waste Code 99 
+
+4 Omni Dir. 80     
+
+
+
+Page 50 
+
+16.5 Specific Gravity 
+
+Specific gravities were assumed to be 2.75 for sulphide ore, 2.5 for oxide ore, or were 
+calculated from the Fe, Pb, Cu, Zn contents of the samples when these element 
+analyses were available. The specific gravities of 30 mineralized samples were also 
+measured at the exploration site with a scale using weights in air and water.  A 
+comparison of the measured specific gravities with the calculated is shown as Figure 
+18.  There is good agreement (correlation coefficient of 0.661) and no bias indicated 
+with samples scattering on either side of the equal value line. 
+
+Each intersection in the 2D approach and each one metre composite in the 3D 
+approach had an assigned specific gravity.  Inverse distance squared was used to 
+interpolate specific gravity into each block in both models. 
+
+SG CALC
+
+2.00
+
+2.50
+
+3.00
+
+3.50
+
+4.00
+
+2.00 2.50 3.00 3.50 4.00
+
+Measured SG
+
+C
+al
+
+cu
+la
+
+te
+d
+
+S
+G
+
+Figure 18: Comparison of Measured specific gravity to calculated 
+
+
+
+Page 51 
+
+16.6 Classification 
+
+16.61 Introduction 
+
+Based on the study herein reported, delineated mineralization of the Elk Project is 
+classified as a resource according to the following definition from National Instrument 
+43-101 and CIM (2005): 
+
+"In this Instrument, the terms "mineral resource", "inferred mineral resource", 
+"indicated mineral resource" and "measured mineral resource" have the meanings 
+ascribed to those terms by the Canadian Institute of Mining, Metallurgy and 
+Petroleum, as the CIM Definition Standards on Mineral Resources and Mineral 
+Reserves adopted by CIM Council, as those definitions may be amended." 
+
+The terms Measured, Indicated and Inferred are defined by CIM (2005) as follows: 
+
+"A Mineral Resource is a concentration or occurrence of diamonds, natural 
+solid inorganic material, or natural solid fossilized organic material including 
+base and precious metals, coal and industrial minerals in or on the Earth's 
+crust in such form and quantity and of such a grade or quality that it has 
+reasonable prospects for economic extraction.  The location, quantity, grade, 
+geological characteristics and continuity of a Mineral Resource are known, 
+estimated or interpreted from specific geological evidence and knowledge." 
+
+"The term Mineral Resource covers mineralization and natural material of 
+intrinsic economic interest which has been identified and estimated through 
+exploration and sampling and within which Mineral Reserves may 
+subsequently be defined by the consideration and application of technical, 
+economic, legal, environmental, socio-economic and governmental factors.  
+The phrase 'reasonable prospects for economic extraction' implies a 
+judgement by the Qualified Person in respect of the technical and economic 
+factors likely to influence the prospect of economic extraction.  A Mineral 
+Resource is an inventory of mineralization that under realistically assumed 
+and justifiable technical and economic conditions might become economically 
+extractable.  These assumptions must be presented explicitly in both public 
+and technical reports." 
+
+Inferred Mineral Resource 
+"An 'Inferred Mineral Resource' is that part of a Mineral Resource for 
+
+which quantity and grade or quality can be estimated on the basis of 
+geological evidence and limited sampling and reasonably assumed, but not 
+verified, geological and grade continuity.  The estimate is based on limited 
+information and sampling gathered through appropriate techniques from 
+locations such as outcrops, trenches, workings and drill holes." 
+
+"Due to the uncertainty that may be attached to Inferred Mineral 
+Resources, it cannot be assumed that all or any part of an Inferred Mineral 
+Resource will be upgraded to an Indicated or Measured Mineral Resource as 
+a result of continued exploration.  Confidence in the estimate is insufficient to 
+allow the meaningful application of technical and economic parameters or to 
+
+
+
+Page 52 
+
+enable an evaluation of economic viability worthy of public disclosure.  
+Inferred Mineral Resources must be excluded from estimates forming the 
+basis of feasibility or other economic studies." 
+
+Indicated Mineral Resource 
+"An 'Indicated Mineral Resource' is that part of a Mineral Resource for 
+
+which quantity, grade or quality, densities, shape and physical characteristics, 
+can be estimated with a level of confidence sufficient to allow the appropriate 
+application of technical and economic parameters, to support mine planning 
+and evaluation of the economic viability of the deposit.  The estimate is based 
+on detailed and reliable exploration and testing information gathered through 
+appropriate techniques from locations such as outcrops, trenches, pits, 
+workings and drill holes that are spaced closely enough for geological and 
+grade continuity to be reasonably assumed." 
+
+"Mineralization may be classified as an Indicated Mineral Resource by the 
+Qualified Person when the nature, quality, quantity and distribution of data are 
+such as to allow confident interpretation of the geological framework and to 
+reasonably assume the continuity of mineralization.  The Qualified Person 
+must recognize the importance of the Indicated Mineral Resource category to 
+the advancement of the feasibility of the project.  An Indicated Mineral 
+Resource estimate is of sufficient quality to support a Preliminary Feasibility 
+Study which can serve as the basis for major development decisions." 
+
+Measured Mineral Resource 
+"A 'Measured Mineral Resource' is that part of a Mineral Resource for 
+
+which quantity, grade or quality, densities, shape, and physical characteristics 
+are so well established that they can be estimated with confidence sufficient 
+to allow the appropriate application of technical and economic parameters, to 
+support production planning and evaluation of the economic viability of the 
+deposit.  The estimate is based on detailed and reliable exploration, sampling 
+and testing information gathered through appropriate techniques from 
+locations such as outcrops, trenches, pits, workings and drill holes that are 
+spaced closely enough to confirm both geological and grade continuity." 
+
+"Mineralization or other natural material of economic interest may be 
+classified as a Measured Mineral Resource by the Qualified Person when the 
+nature, quality, quantity and distribution of data are such that the tonnage and 
+grade of the mineralization can be estimated to within close limits and that 
+variation from the estimate would not significantly affect potential economic 
+viability.  This category requires a high level of confidence in, and 
+understanding of, the geology and controls of the mineral deposit." 
+
+
+
+Page 53 
+
+16.62 Results  
+
+The geologic continuity at Siwash is excellent with the main B and WD veins clearly 
+identified in all drill holes and at predicted locations in almost all cases.  The geologic 
+continuity for the minor veins and vein splays is not as consistent with some veins 
+pinching and disappearing from section to section.  Grade continuity can be quantified 
+by semivariogram analysis with the directions and distances of maximum gold continuity 
+determined for each vein. 
+
+Classification of individual kriged blocks was based on a measure of the grade 
+continuity, namely the semivariograms.  Blocks estimated during pass one with search 
+ellipse limited to ¼ the semivariogram range, were classed measured.  Those estimated 
+during pass 2 at ½ the range were classed as indicated.  All others were classed as 
+inferred.
+
+The results are presented as grade-tonnage tables for the mineralized portion of the 
+blocks.  In other words the resource available if one could mine to the 3D Solid 
+boundaries.  The resource is summarized at a series of possible open pit cutoffs below 
+in Table 20 for all blocks above the 1580 level that might be accessible to an open pit 
+and at some underground cutoffs in Table 21 for all blocks below the 1580 level that 
+might be accessible to underground extraction. 
+
+Table 20: 
+Resource of Mineralized Portions of veins above the 1580 m Level that might be 
+
+extracted by Open Pit Methods 
+
+MEASURED INDICATED 
+Grade>Cutoff Grade>Cutoff Au
+
+Cutoff
+(g/t)
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+0.50 240,000 10.48 80,800 264,000 5.62 47,700
+1.00 217,000 11.49 80,200 228,000 6.39 46,800
+1.50 192,000 12.82 79,100 196,000 7.23 45,600
+2.00 172,000 14.08 77,800 169,000 8.13 44,200
+2.50 158,000 15.17 77,100 152,000 8.78 42,900
+3.00 143,000 16.41 75,500 133,000 9.66 41,300
+
+MEASURED PLUS INDICATED INFERRED
+Grade>Cutoff Grade>Cutoff Au
+
+Cutoff
+(g/t)
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+0.50 504,000 7.93 128,500 84,000 4.34 11,700
+1.00 445,000 8.88 127,000 70,000 5.06 11,400
+1.50 388,000 9.99 124,700 58,000 5.87 10,900
+2.00 341,000 11.14 122,100 48,000 6.68 10,300
+2.50 310,000 12.04 120,000 38,000 7.88 9,600
+3.00 276,000 13.17 116,900 32,000 8.77 9,000
+
+
+
+Page 54 
+
+Table 21: 
+Resource of Mineralized Portions of veins below the 1580 m Level that might be 
+
+extracted by Underground Methods 
+
+MEASURED INDICATED 
+Grade>Cutoff Grade>Cutoff Au
+
+Cutoff
+(g/t)
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+3.00 75,000 15.50 37,400 249,000 14.27 114,200
+4.00 66,000 17.22 36,500 222,000 15.59 111,300
+5.00 58,000 19.04 35,500 193,000 17.24 106,900
+6.00 52,000 20.41 34,100 170,000 18.83 102,900
+7.00 49,000 21.33 33,600 150,000 20.48 98,800
+8.00 44,000 22.80 32,300 131,000 22.39 94,300
+
+MEASURED PLUS INDICATED INFERRED
+Grade>Cutoff Grade>Cutoff Au
+
+Cutoff
+(g/t)
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+3.00 324,000 14.55 151,600 496,000 11.54 184,000
+4.00 288,000 15.96 147,800 428,000 12.82 176,400
+5.00 251,000 17.65 142,400 364,000 14.28 167,100
+6.00 222,000 19.20 137,100 316,000 15.61 158,600
+7.00 199,000 20.69 132,400 276,000 16.95 150,400
+8.00 175,000 22.49 126,500 244,000 18.17 142,500
+
+The same resource can be tabulated with dilution applied for mining an entire block (10 
+m x 2.5 m x 5 m).  The results are summarized for material above the 1580 level in 
+Table 22 and below the 1580 level in Table 23.   
+
+The actual tonnes and grade for both possible mining scenarios is probably between 
+these two estimates.  Certainly some dilution will occur but probably not the entire block. 
+
+
+
+Page 55 
+
+Table 22: 
+Resource from Diluted Whole Blocks of veins above the 1580 m Level that might be 
+
+extracted by Open Pit Methods 
+
+MEASURED INDICATED 
+Grade>Cutoff Grade>Cutoff Au
+
+Cutoff
+(g/t)
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+0.50 748,000 3.70 88,900 1,064,000 1.53 52,300
+1.00 530,000 4.92 83,800 503,000 2.45 39,600
+1.50 411,000 5.98 79,000 307,000 3.24 32,000
+2.00 331,000 7.02 74,700 221,000 3.83 27,200
+2.50 273,000 8.02 70,400 161,000 4.41 22,800
+3.00 241,000 8.73 67,600 122,000 4.93 19,400
+
+MEASURED PLUS INDICATED INFERRED
+Grade>Cutoff Grade>Cutoff Au
+
+Cutoff
+(g/t)
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+0.50 1,812,000 2.42 141,200 381,000 1.21 14,800
+1.00 1,033,000 3.71 123,300 139,000 2.11 9,400
+1.50 718,000 4.81 111,000 76,000 2.86 7,000
+2.00 551,000 5.74 101,700 52,000 3.39 5,700
+2.50 435,000 6.68 93,500 30,000 4.20 4,100
+3.00 364,000 7.45 87,200 21,000 4.80 3,200
+
+Table 23: 
+Resource from Diluted Whole Blocks of veins below the 1580 m Level that might be 
+
+extracted by Underground Methods 
+
+MEASURED INDICATED 
+Grade>Cutoff Grade>Cutoff Au
+
+Cutoff
+(g/t)
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+3.00 142,000 7.38 33,700 336,000 6.96 75,200
+4.00 103,000 8.84 29,300 227,000 8.67 63,200
+5.00 79,000 10.19 25,900 165,000 10.26 54,400
+6.00 59,000 11.81 22,400 132,000 11.44 48,600
+7.00 47,000 13.12 19,800 103,000 12.85 42,600
+8.00 37,000 14.70 17,500 81,000 14.31 37,300
+
+MEASURED PLUS INDICATED INFERRED
+Grade>Cutoff Grade>Cutoff Au
+
+Cutoff
+(g/t)
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+3.00 478,000 7.09 108,900 457,000 4.96 72,900
+4.00 330,000 8.72 92,500 251,000 6.21 50,100
+5.00 244,000 10.24 80,300 150,000 7.39 35,600
+6.00 191,000 11.56 71,000 100,000 8.35 26,800
+7.00 150,000 12.94 62,400 59,000 9.64 18,300
+8.00 118,000 14.43 54,700 40,000 10.68 13,700
+
+
+
+Page 56 
+
+17.0 OTHER RELEVANT DATA AND INFORMATION 
+
+There is no other relevant data at this time. 
+
+18.0 INTERPRETATION AND CONCLUSIONS 
+
+Based on additional diamond drilling on the Elk Property completed in 2006 the 
+resource present was re-estimated using geostatistical procedures.   
+
+For this update a different approach was applied to the resource estimate.  Almaden 
+geologists modeled a total of 25 separate mineralized structures on cross sections and 
+combined these sections to from three dimensional solids.  The mineralized solids were 
+grouped geographically into 3 vein sets: B-Veins, WD-Veins and Other veins not related 
+to B or WD.  Composites were formed at 0.5 m intervals that honoured the solid 
+boundaries.  Semivariograms were produced for structures with sufficient data to model.  
+A block model consisting of blocks 10 m E-W, 2.5 m N-S and 5 m vertical was 
+superimposed over the solids with blocks coded for the percentage of each solid 
+present.  Gold grade was interpolated into each block with some proportion of 
+mineralized structure present by ordinary kriging.  Blocks were classified as measured, 
+indicated or inferred based on semivariogram parameters.  Results are summarized 
+below at the various categories for the mineralized portion of the blocks.  This resource 
+represents the mineral present if one could mine to the limits of the three dimensional 
+solids.  No external dilution has been applied.  The resource is tabulated for a 1 g/t Au 
+cutoff.
+
+MEASURED INDICATED 
+Grade>Cutoff Grade>Cutoff Au
+
+Cutoff
+(g/t)
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+1.00 320,000 11.585 119,200 581,000 8.952 167,200
+MEASURED PLUS INDICATED INFERRED
+
+Grade>Cutoff Grade>Cutoff Au
+Cutoff
+(g/t)
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+Tonnes> Cutoff 
+(tonnes) Au (g/t) Contained Ozs. 
+
+1.00 902,000 9.887 286,700 826,000 7.949 211,100
+
+19.0 RECOMMENDATIONS 
+
+Based on the results estimated for the Elk Vein Resource a preliminary economic 
+assessment should be completed using reasonable metal prices and mining costs to 
+determine the economic viability of this project.  This estimate is estimated to cost about 
+$50,000.
+
+
+
+Page 57 
+
+20.0 BIBLIOGRAPHY 
+
+   (2004) – Minfile 092HNE096 Database Geologic Survey Branch Ministry of Energy & Mines. 
+
+EMPR Assessment Reports: 4525, 16644, 18511, 19489, 19835, 21443, and 22368 
+
+Geiger A. (2000) – 'A Fluid Inclusion Study and Geostatistical Analyses of Vein Mineralization in 
+ the Siwash North Study Area, South-Central British Columbia'; Bachelor of Applied 
+ Science Thesis, University of British Columbia 
+
+Giroux, G.H. (2004) – '2004 Update of Resource, Siwash Project Elk Property for Almaden 
+Minerals Ltd.", 43-101 Compliant Report posted to SEDAR 
+
+Giroux, G.H., W. Jakubowski (2007) – '2006 Update of Resource, Siwash Project Elk Property 
+for Almaden Minerals Ltd.", 43-101 Compliant Report posted to SEDAR, April 6, 2006 
+amended March 15, 2007. 
+
+Jakubowski, W., (1989) – 'Geochemical and Trenching Report on the Elk property, South Area, 
+ Similkameen Mining Division, British Columbia'; Assessment Report 19489 by 
+ Cordilleran Engineering Ltd. for Fairfield Minerals Ltd. 
+
+Jakubowski, W., (1989) – 'Geological Geochemical, Geophysical and Prospecting Report on the 
+ Elk property, Similkameen Mining Division, British Columbia'; Assessment Report 
+ by Cordilleran  Engineering Ltd. for Fairfield Minerals Ltd. 
+
+Jakubowski, W., (1989) – 'Geological Geochemical and Trenching Report on the Elk property,
+ Similkameen Mining Division, British Columbia'; Assessment Report 18511 by 
+ Cordilleran Engineering Ltd. for Fairfield Minerals Ltd. 
+
+Jakubowski, W., (1991) – 'Drilling and Trenching Report on the Elk property, South Area, 
+ Similkameen Mining Division, Siwash Lake Area, British Columbia'; Assessment  Report 
+ 21443 by Cordilleran  Engineering Ltd. for Fairfield Minerals Ltd. and Placer Dome Inc. 
+
+Jakubowski, W., (1992) –'Elk property, Siwash North Gold Deposit, 1992 Reserve Calculations'; 
+ Cordilleran Engineering Ltd. Internal Report for Fairfield Minerals Ltd. 
+
+Jakubowski, W., (1992) – 'Drilling and Trenching Report on the Elk property, South Area, 
+ Similkameen Mining Division, Siwash Lake Area, British Columbia';  Assessment  Report 
+ 22368 by Cordilleran  Engineering Ltd. for Fairfield Minerals Ltd. and Placer Dome Inc. 
+
+Jakubowski, W., (1993) – 'Reverse Circulation Drilling Report on the Elk property,
+ Similkameen Mining Division, British Columbia'; Assessment Report by Cordilleran 
+ Engineering Ltd. 
+
+Jakubowski, W., (1995) – 'Diamond Drilling Report Siwash Gold Mine Area, Elk property,
+ Similkameen Mining Division, Siwash Lake Area, British Columbia', Assessment Report 
+ for Fairfield Minerals Ltd. 
+
+Jakubowski, W., (1996) – 'Diamond Drilling Report Siwash Gold Mine Area, Elk property,
+ Similkameen Mining Division, Siwash Lake Area, British Columbia', Assessment  Report 
+ for Fairfield Minerals Ltd. 
+
+
+
+Page 58 
+
+Jakubowski, W., Conroy, P., (1996) – 'Diamond Drilling Report Siwash Gold Mine Area, Elk 
+ property, Similkameen Mining Division, Siwash Lake Area, British Columbia'; 
+ Assessment Report 24374 for Fairfield Minerals Ltd. 
+
+Jakubowski, W., (1999) – 'Geochemical Report, Elk property, Similkameen Mining Division, 
+ Siwash Lake Area, British Columbia', Assessment  Report for Fairfield Minerals Ltd. 
+
+Jakubowski, W., (2000) – 'Diamond Drilling Report Siwash Gold Mine Area, Elk property,
+ Similkameen Mining Division, Siwash Lake Area, British Columbia'; Assessment  Report 
+ 26416 for Fairfield Minerals Ltd. 
+
+Jakubowski, W., (2002) – '2002 Diamond Drilling Report Siwash Gold Mine Area, Elk property,
+ Similkameen Mining Division, Siwash Lake Area, British Columbia'; Assessment  Report 
+ 27150 for Almaden Minerals Ltd. and Wheaton River Minerals Ltd. 
+
+King, H.L. (2001) – 'Geological Report on Elk Property Similkameen Mining Division British 
+ Columbia'; A private Report for Fairfield Minerals Ltd., August 31, 2001, 107 p. 
+
+Lewis, P. (2000) – 'Structural Analysis of the Siwash Mine and Exploration Implications for the 
+ Elk Property, Similkameen Mining Division, British Columbia'; A private report. 
+
+McCormack, J. (1995) – 'Summary of Ore Reserves and Project Economics for the Siwash Gold 
+ Mine'; Private Report for Fairfield Minerals Ltd.  
+
+Park, C.F. and R.A. MacDiarmid (1964) – 'Ore Deposits'; W. H. Freeman and Company 
+ Publishers, 1964, 475 pages  
+
+Roscoe, W., (1995) – 'Reserve Estimates and Economic Review of the Siwash Gold Mine, 
+ Southern British Columbia'; Private Report by Roscoe Postle Associates Inc. for Fairfield 
+ Minerals Ltd. 
+
+Samuels, R.M., (1993) 'Compilation of Metallurgical Results, Siwash North Gold Deposit'; 
+ Private Report for Fairfield Minerals Ltd. 
+
+
+
+Page 59 
+
+21.0 DATE AND SIGNATURE PAGE 
+
+Respectfully submitted 
+
+"G. H. Giroux"
+
+___________________________
+G. H. Giroux, P.Eng.  MASc 
+Giroux Consultants Ltd. 
+
+November 30, 2007 
+
+
+
+Page 60 
+
+22.0  CERTIFICATES 
+
+I, G.H. Giroux, of 982 Broadview Drive, North Vancouver, British Columbia, do hereby certify that: 
+
+ 1) I am a consulting geological engineer with an office at #1215 - 675 West Hastings Street, 
+Vancouver, British Columbia.  
+
+ 2) I am a graduate of the University of British Columbia in 1970 with a B.A. Sc. and in 1984 
+with a M.A. Sc., both in Geological Engineering. 
+
+ 3) I am a member in good standing of the Association of Professional Engineers and 
+Geoscientists of the Province of British Columbia. 
+
+ 4) I have practised my profession continuously since 1970.  I have had over 30 years 
+experience calculating mineral resources.  I have previously completed resource 
+estimations on a wide variety of base and precious metal deposits including many narrow 
+vein deposits similar to those explored for at Siwash.  
+
+ 5) I have read the definition of Aqualified person@ set out in National Instrument 43-101 and 
+certify that by reason of education, experience, independence and affiliation with a 
+professional association, I meet the requirements of an Independent Qualified Person as 
+defined in draft National Policy 43-101. 
+
+6) This report titled 2007 Update of Resource Siwash Project and dated November 30, 
+2007 ("Technical Report") is based on a study of the data and literature available on the 
+Siwash Project. I am responsible the total report preparation and Resource Estimation 
+Sections of the Technical Report, completed in Vancouver during 2007.  The latest site visit 
+to examine drill core and outcrops was completed on July 11, 2007. 
+
+ 7) I have previously worked on this property and completed a 43-101 compliant resource 
+report on May 28, 2004 and April 6, 2006 amended March 15, 2007. 
+
+ 8) As of the date of this certificate, to the best of my knowledge, information and 
+belief, the technical report contains all scientific and technical information that is 
+required to be disclosed to make the technical report not misleading. 
+
+ 9) I am independent of the issuer applying all of the tests in section 1.4 of National Instrument 
+43-101. 
+
+10) I have read National Instrument 43-101 and Form 43-101F1, and the Technical Report has 
+been prepared in compliance with that instrument and form. 
+
+Dated this 30th day of October, 2007 
+
+"G. H. Giroux" 
+
+G. H. Giroux, P.Eng., MASc. 
+
+
+'

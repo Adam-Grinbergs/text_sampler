@@ -1,0 +1,6847 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NI_43-101_Massicotte - rev hdn
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 1 
+
+       
+NI 43-101 TECHNICAL REPORT PERTAINING TO: 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+MASSICOTTE PROPERTY 
+ 
+ 
+
+Northwestern Quebec 
+ 
+
+Selbaie and Matagami Mining Camp 
+ 
+ 
+ 
+
+December 21, 2012 
+
+Modified on April 10, 2013 
+
+ 
+
+Prepared for Canadian Metals Inc. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Prepared by: Donald Théberge, Eng., P.Eng., M.B.A. 
+
+  
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 2 
+
+DATE AND SIGNATURE PAGE 
+ 
+I, Donald Théberge, Eng., M.B.A., do hereby certify that: 
+
+ 
+
+a) I am registered under the name Solumines, and my place of business is located at  
+
+54 De La Vigie, Lévis, Province of Quebec, G6V 5W2; 
+
+ 
+
+b) I am the qualified person, responsible for the preparation of all the sections of the technical 
+
+report entitled "NI 43-101 Technical Report Pertaining to Massicotte Property, 
+
+Northwestern Quebec, Selbaie and Matagami Mining Camp.  Prepared for Canadian 
+
+Metals Inc." dated December 21, 2012 and modified on April 10, 2013; 
+
+ 
+
+c) I graduated with a degree in geological engineering from the University du Québec à 
+
+Chicoutimi in 1978.  I obtained a Master of Business Administration (M.B.A.) from Laval 
+
+University in 1994.  I am a member in good standing of the Ordre des Ingénieurs du Québec 
+
+(No. 32368) and the Professional Engineers of Ontario (licence #100166433).  I have worked 
+
+as a geological engineer since my graduation in 1978.  My relevent experience for the 
+
+Massicotte project was acquired during my years working as a project geologist for Serem 
+
+(1978-1981), as a senior geologist for Agnico-Eagle (1982-1989) and as a technical inspector 
+
+for the C.E.I.P. program of Natural Resources Canada (1989-1990), and during the course of 
+
+many mandates for junior exploration companies; 
+
+ 
+
+d) I visited the property on October 2, 2012.  One day was required for the visit.  I used the old 
+
+Selbaie Mine road and logging roads to check for outcrops on the different claim blocks.  
+
+However, due to the thick overburden in this area, I saw no outcrops, excepted along the 
+
+Harricana River at the junction with the Selbaie road bridge. 
+
+ 
+
+e)  I am responsible for all the sections of the technical report; 
+
+ 
+
+f)  I am independent of the issuer in accordance with Section 1.5 of NI 43-101; 
+
+ 
+
+g) I have read the definition of "qualified person" set out in Regulation 43-101 respecting 
+
+standards of disclosure for mineral project, and certify that by reason of my education, 
+
+affiliation with a professional association (as defined in Regulation 43-101) and past relevant 
+
+work experience, I fulfill the requirements to be a "qualified person" for the purposes of 
+
+Regulation 43-101; 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 3 
+
+ 
+
+h) I have read National Instrument 43-101 and Form 43-101F1, and the Technical Report has 
+
+been prepared in compliance with that Instrument and Form; 
+
+ 
+
+i) As of April 10, 2013, to the best of my knowledge, information and belief, the Technical 
+
+Report contains all the scientific and technical information that is required to be disclosed to 
+
+make the Technical Report not misleading. 
+
+ 
+
+Dated this April 10, 2013 
+
+ 
+________________________ 
+
+Donald Théberge, Eng., P.Eng., M.B.A. 
+
+ 
+ 
+ 
+  
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 4 
+
+ 
+
+TABLE OF CONTENTS 
+ 
+
+DATE AND SIGNATURE PAGE .................................................................................................................. 2 
+ILLUSTRATIONS .......................................................................................................................................... 6 
+1.0) SUMMARY ............................................................................................................................................. 7 
+2.0) INTRODUCTION .................................................................................................................................. 11 
+
+2.1) RECIPIENT .......................................................................................................................................... 11 
+2.2) OBJECTIVES ....................................................................................................................................... 11 
+2.3) SOURCE OF DATA AND INFORMATION ................................................................................................... 11 
+2.4) SCOPE OF THE PERSONAL INSPECTION BY THE QUALIFIED PERSON ....................................................... 11 
+2.5) UNITS USED IN THIS REPORT .............................................................................................................. 11 
+
+3.0) RELIANCE ON OTHER EXPERTS ..................................................................................................... 12 
+4.0) PROPERTY DESCRIPTION AND LOCATION ................................................................................... 12 
+
+4.1) AREA ................................................................................................................................................. 12 
+4.2) LOCATION ........................................................................................................................................... 12 
+4.3) TYPE OF MINERAL TENURE .................................................................................................................. 12 
+4.4) NATURE AND EXTENT OF THE ISSUER'S TITLES ..................................................................................... 15 
+4.5) PROPERTY BOUNDARIES ..................................................................................................................... 15 
+4.6) LOCATION OF THE MINERALIZED ZONES ............................................................................................... 15 
+4.7) ROYALTIES ......................................................................................................................................... 16 
+4.8) ENVIRONMENTAL LIABILITIES ............................................................................................................... 16 
+4.9) REQUIRED PERMITS ............................................................................................................................ 16 
+
+5.0) PHYSIOGRAPHY, ACCESSIBILITY, INFRASTRUCTURE AND CLIMATE ...................................... 16 
+5.1) TOPOGRAPHY, ELEVATION, VEGETATION AND DRAINAGE ...................................................................... 16 
+5.2) ACCESSIBILITY .................................................................................................................................... 17 
+5.3) INFRASTRUCTURE ............................................................................................................................... 17 
+5.4) CLIMATE ............................................................................................................................................. 17 
+
+6.0) HISTORY ............................................................................................................................................. 18 
+6.1) GEOLOGICAL WORK BY THE QUEBEC GOVERNMENT .............................................................................. 18 
+6.2) BY MINING AND/OR EXPLORATION COMPANIES ..................................................................................... 18 
+
+7.0) GEOLOGICAL SETTING AND MINERALIZATION ............................................................................ 28 
+7.1) GENERAL GEOLOGICAL SETTING ......................................................................................................... 28 
+7.2) REGIONAL AND PROPERTY GEOLOGY ................................................................................................... 29 
+7.4) MINERALIZATION ................................................................................................................................. 31 
+
+8.0) DEPOSIT TYPES ................................................................................................................................. 31 
+9.0) EXPLORATION ................................................................................................................................... 32 
+10.0) DRILLING .......................................................................................................................................... 32 
+
+10.1) BY CANADIAN METALS ...................................................................................................................... 32 
+10.2) HISTORICAL DRILLING ........................................................................................................................ 32 
+
+11.0) SAMPLE PREPARATION, ANALYSES AND SECURITY ............................................................... 32 
+12.0) DATA VERIFICATION ....................................................................................................................... 32 
+
+ITEMS 13 TO 22 ......................................................................................................................................... 33 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 5 
+
+23.0) ADJACENT PROPERTIES ............................................................................................................... 33 
+24.0) OTHER RELEVANT DATA AND INFORMATION ............................................................................ 34 
+25.0) INTERPRETATION AND CONCLUSIONS ....................................................................................... 34 
+26.0) RECOMMENDATIONS ...................................................................................................................... 35 
+27.0) REFERENCES ................................................................................................................................... 37 
+
+27.1) MRNFQ REPORTS ........................................................................................................................... 37 
+27.2) ASSESSMENT REPORTS .................................................................................................................... 39 
+27.3) SEDAR REPORTS .............................................................................................................................. 40 
+27.4) GEOSCIENTIFIC PAPERS .................................................................................................................... 41 
+
+ 
+
+List of Figures 
+
+Figure 1: Location Map ........................................................................................................................ 13 
+Figure 2: Claims Map ........................................................................................................................... 14 
+Figure 3: Airborne EM Input Anomalies ............................................................................................... 19 
+Figure 4: Residual Total Magnetic Field and Megatem Anomalies ..................................................... 20 
+Figure 5: Evaluation of the Volcanogenic Massive Sulphide potential, Noranda-Type ....................... 21 
+Figure 6: Historical Drilling ................................................................................................................... 27 
+Figure 7: General Geology ................................................................................................................... 28 
+Figure 8: Regional and Property Geology ............................................................................................ 30 
+
+ 
+ 
+
+List of Tables 
+
+Table 1: Claims .................................................................................................................................... 15 
+Table 2: General terms of the option agreement ................................................................................. 15 
+Table 3: NSR ....................................................................................................................................... 16 
+Table 4: Historical Drilling .................................................................................................................... 25 
+Table 5: Budget .................................................................................................................................... 36 
+
+ 
+ 
+
+List of Schedules 
+
+Schedule 1: Claims Description 
+
+ 
+
+  
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 6 
+
+ILLUSTRATIONS 
+ 
+
+ 
+
+ 
+ 
+
+General view of the Selbaie road used to access the property 
+
+ 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 7 
+
+1.0) SUMMARY 
+ 
+
+The property is located in NTS sheet 32E/09, 32E/15, and 32E/16.  It covers parts of Gaudet, 
+
+Beschefer, Bapst, Ste-Hélène, Aloigny, La Gauchetière, Desmazures and Joutel townships.  It is 
+
+made of 484 map-designated cells totalling 26,839,7 ha or 268,39 km2.  The property has been 
+
+divided into five blocks called Blocks A to E.  Expiry dates range from January 10, 2014, to August 
+
+13, 2014.  Exploration work in the amount of $580,100 will be required on the next renewal, along 
+
+with $26,230.50 in mining duties, to keep the claims in good standing. 
+
+ 
+
+The property was acquired pursuant to two purchase agreements entered into on August 31, 2012, 
+
+one with 9248-7792 Québec inc, 9257-1256 Québec inc., and Glenn Griesbach for Blocks A, B, C 
+
+and D, and the other with China Metal Group for Block E.  Neither purchase required any cash 
+
+payment, but rather issuance of a total of 1.8M common shares of Canadian Metals for a 100% 
+
+interest.  The entire property is subject to a 2% NSR.  One percent (1%) of the NSR can be bought 
+
+back for $1M for Blocks A, B, C, and D and $500,000 for Block E.   
+
+ 
+
+To the knowledge of the author, there are no environmental liabilities pertaining to the Massicotte 
+
+property.  The only permit required to perform ground exploration, mainly drilling, is the usual forestry 
+
+management permit.  The company must also respect all the environmental laws applicable to the 
+
+type of work done.   
+
+ 
+
+The property is easily accessible via the Selbaie Mine road and several old logging roads.  All-terrain 
+
+vehicles or helicopter support is required to access certain areas of the property.  The town of 
+
+Matagami is located about 45 km east of the property as the crow flies.  Services and equipment not 
+
+available at Matagami can be obtained from Amos, Val-d'Or or Rouyn-Noranda.   
+
+ 
+
+The first work on the property took place in 1948, with ground geophysical and geological surveys.  
+
+These kinds of surveys plus airborne EM and Mag surveys prevailed until 1959, when the first drilling 
+
+was done by Selco.  From 1959 to 2003, no fewer than 15 companies, sometimes with their partners, 
+
+drilled and reported at least 96 holes for a total of 18,460 m or 60,459 feet.  Some holes, mainly on 
+
+Block E, revealed alterations typical of volcanogenic massive sulphide (VMS) deposits.  One hole 
+
+drilled on Block C revealed anomalous gold values in the order of 226 ppb Au/7.5 m, and anomalous 
+
+gold values over 88 m in sericitized and carbonatized intermediate volcanic rocks. 
+
+ 
+
+Geologically, the property is located in the Abitibi sub-province.  It is underlain by a mix of volcanic 
+
+and sedimentary rocks, cut by syn to late tectonic intrusives, and Proterozoic diabase dykes.  Two 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 8 
+
+kinds of sedimentary rocks have been identified, the first made of conglomerate, mudstone and 
+
+siltstone and the second, which is less important in term of quantity, composed of iron formation, 
+
+argillite and pyroclastites.  The sediments usually strike roughly E-W, excepted in the north part of 
+
+the area, where they divide into two volcanic domains with a SE-NW orientation.   
+
+ 
+
+The volcanites range very widely in composition.  They vary from rhyolitic to komatiitic.  The 
+
+komatiites occur mainly in the south part of the area, and form in part the Cartwright Hills.  In the 
+
+north part of the area, intermediate to mafic flows dominate, with felsic flows locally.  There is no 
+
+well-defined mineralized zone with estimated resources on the property.  However, several 
+
+anomalous gold values have been obtained in historical drill holes, along with massive sulphide 
+
+(pyrite-pyrrhotite) intersections. 
+
+ 
+
+Two main types of orebodies should be considered for the exploration model on the Massicotte 
+
+property: 
+
+− Massive sulphide (VMS) deposits of the Matagami / Selbaie type; 
+
+− Gold deposits of the Douay, or Casa Berardi type, associated with shear zones in 
+
+volcanics/sediments. 
+
+ 
+
+The rock alterations already described in historical drilling, mainly on Block E, are typical of 
+
+volcanogenic massive sulphide deposits.  Alterations typical of VMS orebodies like sericite alteration, 
+
+chlorite alteration in felsic rocks, the presence of chert, and felsic agglomerate have been reported 
+
+on the property.  Several intersections of massive sulphide in the form of pyrite and pyrrhotite further 
+
+show the potential of the Massicotte property for this kind of orebody.  VMS examples surrounding 
+
+the property are the Selbaie Mine located approximately 15 to 20 km W of Block E, Phelps Dodge, 
+
+Caber and Caber North, located from 2 to 6 km E of Blocks C and D.  
+
+ 
+
+The second type of deposit to consider is the Douay / Casa Berardi type.  The Douay deposit is 
+
+located about 3 km E of the two claims that are part of the D block to the south. The Douay deposit is 
+
+hosted in felsic to mafic rocks, associated with a deformation zone and showing a strong carbonate-
+
+sericite alteration.  Casa Berardi type deposits are characterized by gold mineralization in quartz 
+
+veins, associated with a shear zone along a volcanic-sedimentary contact. 
+
+ 
+
+Canadian Metals has not initiated any exploration work since it acquired the property.  The author 
+
+cannot comment on sample preparation, analyses or security as these are not described in historical 
+
+reports.  It was also impossible to verify the historical data, as the old drill core is lost or impossible to 
+
+verify.  However, the author is of the opinion that the data used in the preparation of this report is 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 9 
+
+generally reliable.  At present, there are no adjacent properties that could have a material impact on 
+
+Massicotte property. 
+
+ 
+
+Orebodies observed in the area are all VMS-type deposits.  Many holes drilled on the property show 
+
+typical rocks and/or alteration associated with VMS-type deposit.  Anomalous zinc values such as 
+
+1,863 ppm/4.5 m and 1869 ppm/2.1 m have been reported on Block A. On Block E, several sections 
+
+of massive pyrite were observed along with rhyolite, chert and agglomerate.  Rhyolite with chlorite 
+
+and sericite schist was reported close to the contact with sedimentary rocks.  
+
+ 
+
+Anomalous gold values have been reported on Block C.  This is particularly interesting in Hole 237-
+
+90-04, which returned 226 ppb Au/7.5 m.  In this hole drilled by Total Energold in 1990, all the 
+
+andesite and intermediate agglomerate units extending from 65.5 to 153.5 m are anomalous for gold 
+
+and associated with sericite and carbonate alterations with 1-2% pyrite and pyrrhotite.  On the east 
+
+part of Block C, anomalous copper values in the order of 0.17%/3 m and 0.16%/3 m have been 
+
+reported. 
+
+ 
+
+In conclusion, two main targets become apparent on the property in light of the currently-available 
+
+information: massive sulphide deposits, mainly on Block E and C, and gold deposits on Block C.   
+
+ 
+Because of the deep overburden, a systematic geological survey is not recommended, excepted in 
+
+the area where the Selbaie road crosses the Harricana River. A two-phase exploration program is 
+
+suggested and has been adapted to the deep overburden.  In Phase I, a deep penetrating helicopter-
+
+borne survey EM and magnetic survey is recommended.  This survey should be done systematically 
+
+on flight lines 200 m apart.  This would be useful for locating massive sulphides and shear zones.  A 
+
+computerized geological compilation is also recommended to complement the information provided 
+
+by the airborne survey, including the main historical ground geophysical surveys, the drill holes, 
+
+including the gold and base metals assays and, when available, the lithogeochemical analyses, to 
+
+locate areas that show typical VMS alteration. 
+
+ 
+
+Phase II will include ground follow-up on anomalous zones generated by the airborne survey and 
+
+geological compilation.  This follow-up would include line cutting, deep penetrating EM surveys, or IP 
+
+if judged preferable, and approximately 3,000 m of drilling to test these anomalies. 
+
+ 
+
+The budget to complete both Phases I and II is shown on next page. 
+
+ 
+
+ 
+
+ 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 10 
+
+Budget 
+
+ 
+
+Phase I:Airborne Survey, Compilation  
+      
+Work Quantity Unit Unit cost Total  
+Program preparation  3 days $800 $2 400  
+Helicopter borne Survey      
+Mobilization - demobilization   $13 000 $13 000  
+Survey 800 km $140 $112 000  
+Compilation    $40 000  
+Geology, field verification    $15 000  
+Report at the end of Phase I, and 
+filing for statutory purposes    $10 000  
+Contingencies 12%    $23 088  
+
+ Total Phase I $215 488 
+
+      
+Phase II: Ground surveys and drilling  
+
+Program preparation  5 days $800 $4 000  
+Line cutting, and ground surveys, 
+provision of $75,000    $75 000  
+Diamond drilling (150$/m all 
+inclusive) 3000 m $150 $450 000  
+Report at the end of Phase 2, and 
+filing for statutory purposes    $15 000  
+Contingencies (average of 12%)    $65 280  
+ Total Phase II $609 280 
+
+Total Phase I and II $824 768 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 11 
+
+2.0) INTRODUCTION 
+ 
+
+2.1) RECIPIENT 
+
+ 
+
+This technical report on the Massicotte property has been prepared at the request of Canadian 
+
+Metals Inc. (''Canadian''). 
+
+ 
+
+2.2) OBJECTIVES 
+
+ 
+
+This report describes the scientific and technical information concerning the exploration activities, 
+
+both historical and recent, carried out on the Massicotte property. 
+
+ 
+
+2.3) SOURCE OF DATA AND INFORMATION 
+
+ 
+
+This report is based on the documentation provided by Canadian and the statutory work filed with the 
+
+Quebec Ministry of Natural Resources and Wildlife (MRNFQ).  A complete and detailed list of the 
+
+documentation used is given in Item 23.0, "References". 
+
+ 
+
+2.4) SCOPE OF THE PERSONAL INSPECTION BY THE QUALIFIED PERSON 
+
+ 
+
+The author visited the property on October 2, 2012.  One day was required for the visit.  The author 
+
+used the old Selbaie Mine road and logging roads to check for outcrops on the different claim blocks.  
+
+However, due to the thick overburden in this area, no outcrops were observed, excepted along the 
+
+Harricana River at the junction with the Selbaie road bridge. 
+
+ 
+
+2.5) UNITS USED IN THIS REPORT  
+
+ 
+
+Unless otherwise indicated, the units used in this report are in the metric system, amounts are in 
+
+Canadian dollars, and coordinates are in the UTM system, Nad 83, Zone 17.  
+
+ 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 12 
+
+3.0) RELIANCE ON OTHER EXPERTS 
+ 
+
+The author did not rely on other experts for the preparation of this report.  Donald Théberge, Eng., 
+
+M.B.A., is the person responsible for all the sections of this technical report. . 
+
+ 
+
+4.0) PROPERTY DESCRIPTION AND LOCATION  
+ 
+
+4.1) AREA 
+
+ 
+
+The property is made up of five claim blocks totalling 484 map-designated cells, for 26,839.7 ha.  
+
+ 
+
+4.2) LOCATION 
+
+ 
+
+The property extends for more 50 km in a NW-SE direction, and covers parts of Desmazures, 
+
+Aloigny, La Gauchetière, Ste-Hélène, Joutel, Bapst, Beschefer, Gaudet and Joutel townships. The 
+
+south boundary of the property is located approximately 25 km NNE of the ghost town of Joutel.  The 
+
+north boundary of the property is situated 50 km farther to the NW.  Geographically, the property is 
+
+situated in NTS1 sheet 32E09, 32E15 and 32E16 and centered on UTM coordinates 683,000E / 
+
+5,517,000N.  The property location is shown in Figure 1, "Location Map". 
+
+ 
+
+4.3) TYPE OF MINERAL TENURE 
+
+ 
+
+The Massicotte property consists of five claim blocks made up of 484 map-designated cells. 
+
+Exploration work in the amount of $580,100 is required to keep the claims in good standing; 
+
+however, there is no accrued work registered on the claims. Mining duties of $26,230.50 will be due 
+
+on claim renewal. The claims are described in Appendix 1, "Claims Description", and illustrated in 
+
+Figure 2, "Claims Map".  Table 1 describes the expiry date, accumulated work, required work and 
+
+mining duties for each claim block. 
+
+ 
+
+                                                   
+1 NTS: National Topographic System  
+
+
+
+
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 15 
+
+TABLE 1: CLAIMS 
+
+Block Cells Expiry date Area (ha) 
+Accumulated 
+
+work 
+Required 
+work 
+
+Mining 
+rights 
+
+A 111 From January 10, 2014 to  June 21, 2014 6,159.88 $0 $133,200 $6,021.75 
+B 54 From May 15, 2014 to July 18, 2014 2,999.96 $0 $64,800 $2,929.50 
+C 90 From March 28, 2014 to August 13, 2014 4,929.30 $0 $107,300 $4,856.00 
+D 148 From March 28, 2014 to June 21, 2014 8,246.88 $0 $177,600 $8,029.00 
+E (China) 81 From March 14, 2014 to May 14, 2014 4,503.68 $0 $97,200 $4,293 
+
+Total 484 
+ 
+
+26,839.7 $0 $580,100 $26,230.50 
+ 
+In February 2013, 18 claims expiring in 2013 have been harmonized and their expiry date is now 
+
+fixed on June 21, 2014.  They are shown in yellow on schedule 1. 
+
+ 
+
+4.4) NATURE AND EXTENT OF THE ISSUER'S TITLES  
+
+ 
+The property was acquired pursuant to two purchase agreements signed on August 31, 2012, 
+
+the first signed jointly with 9248-7792 Québec inc., 9257-1256 Québec inc. and Glenn 
+
+Griesbach, and the second with China Global Mining Group.  The general terms of the 
+
+agreements are summarized in Table 2 below.  
+
+ 
+TABLE 2: GENERAL TERMS OF THE OPTION AGREEMENT 
+
+Seller Cash ($) Common Shares Claim Block 
+9248-7792 Québec inc $0 600,000 A, B, C, D  
+9257-1256 Québec inc $0 400,000 A, B, C, D 
+Glenn Griesbach $0 500,000 A, B, C, D 
+China Global Mining Group $0 300,000 E 
+Total  $0 1,800,000  
+
+ 
+
+4.5) PROPERTY BOUNDARIES 
+
+ 
+The property boundaries have not been surveyed.  They are already defined by the NTS system 
+
+coordinates. 
+
+ 
+
+4.6) LOCATION OF THE MINERALIZED ZONES 
+
+ 
+There are no known mineralized zones with estimated resources on the Massicotte property. 
+
+ 
+
+ 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 16 
+
+4.7) ROYALTIES 
+
+ 
+The sellers retain a 2% net smelter return (NSR) royalty; 1% of this NSR can be bought back by 
+
+Canadian Metals for $1M for Blocks A, B, C and D and for $500,000 for Block E.  Each seller's 
+
+portion of NSR and amount payable to buy back the 1% is described in Table 3, "NSR". 
+TABLE 3: NSR  
+
+Seller NSR (total 2%) divided 
+between the sellers 
+
+1% can be bought 
+back 
+
+Amount to 
+pay to buy 
+
+back the NSR 
+
+Claim Block 
+
+9248-7792 0,6% 0,3% $300,000 A, B, C, D 
+9257-1256 0,4% 0,2% $200,000 A, B, C, D 
+Glenn Griesbach 1% 0,5% $500,000 A, B, C, D 
+China Global 
+Mining Group 
+
+2% 1% $500,000 E 
+
+ 
+
+4.8) ENVIRONMENTAL LIABILITIES 
+
+ 
+
+To the knowledge of the author, there are no environmental liabilities pertaining to the Massicotte 
+
+property.  
+
+ 
+
+4.9) REQUIRED PERMITS 
+
+ 
+
+The only permit required to pursue exploration work on the property is the usual permit for forestry 
+
+management.  The company must also respect all the environmental laws applicable to the type of 
+
+work done. 
+
+ 
+
+5.0) PHYSIOGRAPHY, ACCESSIBILITY, INFRASTRUCTURE AND CLIMATE 
+ 
+
+5.1) TOPOGRAPHY, ELEVATION, VEGETATION AND DRAINAGE 
+
+ 
+The property shows a relatively flat topography, with a maximum elevation difference of 10 m 
+
+between the highest and lowest points.  The average elevation is approximately 260 m above sea 
+
+level.  Like much of the area, the property is covered by a mix of swamp and forest of spruce, birch 
+
+and alder.  Based on historical drilling, overburden thickness varies from 0 to a vertical depth of 
+
+approximately 80 m. 
+
+ 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 17 
+
+5.2) ACCESSIBILITY 
+
+ 
+The property is easily accessible via Route 109, which connects the town of Amos to the town of 
+
+Matagami.  About 130 km north of Amos, the route turns left onto the road leading to the now 
+
+dismantled town of Joutel, and then right just east of the Harricana River onto the old Selbaie Mine 
+
+road, now called the Villebois road.  This road is paved up to the Harricana River where it becomes a 
+
+gravel road leading to the now abandoned Selbaie Mine site.  This road crosses the B and E claim 
+
+blocks, and is in the immediate vicinity of Blocks A, C and D.   
+
+ 
+
+All terrain vehicles and/or helicopter support will be required to access parts of each claim blocks.  
+
+Several old logging have been observed, mainly on Blocks A, B and E.  For geological surveys and 
+
+drilling, a camp will be required to optimize the field work.   
+
+ 
+
+5.3) INFRASTRUCTURE 
+
+ 
+
+There is no mining infrastructure on the property.  Matagami, with a population of 2,000, located 45 
+
+km east of the property as the crow flies or about 100 km by road, may provide some of the services 
+
+and equipment required for the exploration programs.  Any services and equipment not readily 
+
+available in Matagami can be found in Amos, Val-d'Or or Rouyn-Noranda, 150 km S, 225 km SSE 
+
+and 260 km SSW, respectively. 
+
+ 
+
+5.4) CLIMATE 
+
+ 
+
+The area lies at the limit between the subarctic and humid continental climates.  This climatic zone is 
+
+characterized by long cold winters and short cool summers.  Daily average temperatures range from 
+
+-20ºC in January to +16ºC in July.  Break-up usually occurs in early April and freeze-up in November.  
+
+These are normal conditions for the Abitibi region, where exploration work is usually conducted year 
+
+round. 
+
+ 
+
+  
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 18 
+
+6.0) HISTORY 
+ 
+
+No resources have ever been estimated on the property, nor has production ever taken place. 
+
+ 
+
+6.1) GEOLOGICAL WORK BY THE QUEBEC GOVERNMENT 
+
+The first work by the Quebec Government dates back to 1901 and consisted of a large-scale 
+
+reconnaissance survey between the Lac St-Jean and Baie James areas.  The next survey was 
+
+produced by Longley about 40 years later in the Matagami and Grasset Lake area.  The most 
+
+interesting work really began around 1973, with airborne EM Input and magnetic surveys that 
+
+delineated the conductive zones. These airborne surveys culminated in 2008 with the release of a 
+
+Megatem and magnetic survey by the Quebec Ministry of Natural Resources.  Unfortunately, this 
+
+survey covered only part of the Massicotte property.  Airborne EM Input anomalies have been 
+
+compiled and are illustrated in Figure 3.  The Megatem survey is illustrated in Figure 4. 
+
+ 
+
+During the 1980s, several geochemical surveys were completed by Beaumier, and only isolated 
+
+anomalies were identified on the property.  In 1986-87, Lacroix mapped the area, including mainly 
+
+the west part of the property.  Unfortunately, very few outcrops were discovered.  Finally, from 2005 
+
+to 2012, large-scale studies to assess the potential for orogenic gold deposit, massive sulphide 
+
+(VMS) type orebodies and Cu, Au, Mo porphyry deposits were undertaken.  They revealed high 
+
+potential for VMS-type deposits over the A, E and D blocks.  Figure 5, "Evaluation of the 
+
+volcanogenic massive sulphides potential, Noranda type", shows a typical VMS-type deposit. 
+
+ 
+
+6.2) BY MINING AND/OR EXPLORATION COMPANIES 
+
+ 
+
+The first exploration work on the property and in its immediate vicinity was reported around 1948, 
+
+with a magnetic and geological survey by Anglo-Huronian Ltd.  From 1948 to 1959, the only 
+
+exploration work reported consisted of ground and airborne geophysical and geological surveys. 
+
+From 1959 to 2003, 96 holes totalling 18,460 m or 60,459' were drilled on the property, along with 
+
+some deep penetrating EM surveys.  The most relevant work is described more in detail below. 
+
+ 
+
+Selco Exploration Ltd., Selco Mining, Mine Selbaie, Les Métaux Billiton: 
+
+Over the years, Selco Exploration became Selco Mining, and then following the discovery of the 
+
+Selbaie mine, Selco proceeded with the exploration work and finally, Billiton Metals acquired the 
+
+Selbaie  
+
+
+
+
+
+
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 22 
+
+mine and its surrounding exploration properties, and exploration resumed under the name Les 
+
+Métaux Billiton.  Drilling first took place in 1959 with one 115-m hole.  Selco Mining resumed drilling 
+
+in 1974, with four holes; one of these, Hole G-33-1, returned 70% sulphides over 0.6 m.  No assays 
+
+were recorded for these holes.  From 1995 to 1997, Les Métaux Billiton drilled 11 holes on the 
+
+Massicotte property.  A gold value of 408 ppb was obtained from Hole 1172-97-17, drilled on Block 
+
+E. 
+
+ 
+
+Noranda Exploration, Matagami Lake Mines: 
+
+At about the same time as Selco, from 1959 to 1965, Noranda Exploration drilled nine holes, all on 
+
+the actual Block C of the Massicotte property.  Low copper assays of less than 0.2% Cu were 
+
+obtained.  Hole MS-8 revealed 60% pyrite over 1 m.  Several years later, in 1976, Matagami Lake 
+
+Mines drilled four holes, including Hole #1 drilled on block E, which cut a chloritic rhyolite and iron 
+
+formation.  From 1981 to 1985, Noranda Exploration drilled three holes and a gold value of 0.4 g/t 
+
+over 1.5 m was obtained from Hole #G-81-1. 
+
+ 
+
+Pennaroya Canada Ltd. 
+
+In 1968, Pennaroya Canada Ltd. completed ground Mag and EM surveys on parts of the E block.  
+
+The year after, in 1969, Pennaroya drilled two holes totalling 312.5 m.  Unfortunately, no assays are 
+
+reported on the logs. 
+
+ 
+
+Phelps Dodge 
+
+From 1972 to 1974, following an airborne EM survey and ground geophysical surveys (IP, EM and 
+
+Mag), Phelps Dodge drilled 10 holes for a total of 1,372.2 m, on Blocks C and D, located just west of 
+
+the Phelps Dodge discovery2 in the Matagami mining camp.  However, for almost all the holes, no 
+
+assay results are reported. 
+
+ 
+
+Kenn Development Corp. 
+
+From 1974 to 1976, Kennco drilled six holes, with three of them on Block B (534.3m) and three on 
+
+Block E (725.2 m), for a total of 1,259.5 m.  The most interesting geology was intersected on Block E, 
+
+in Holes B-5, 6 and 7, with chert, rhyolite-chlorite-sericite schist and agglomerate.  Short sections of 
+
+massive pyrite were also reported.  These three holes were drilled close to the contact with 
+
+sedimentary rocks.  No anomalous results are reported. 
+
+ 
+
+ 
+
+                                                   
+2 Phelps Dodge: 2Mt @ 4.06% Zn, 0.93% Cu and 16.8 g/t Ag.  Historical resources, not NI 43-101.  Source: the 
+Quebec government's Sigeom website. 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 23 
+
+Falconbridge Nickel Mines Ltd. 
+
+Also in the mid-1970s, and more precisely in 1976, Falconbridge Nickel Mines Ltd. drilled seven 
+
+holes totalling 1,183 m, all on Block E.  Here too, favourable geology in the form of rhyolite, chert, 
+
+agglomerate and sections of massive pyrite were intersected.  No anomalous results were obtained. 
+
+ 
+
+Amoco Canada Ltd 
+
+In 1978, Amoco Canada drilled five holes for 888 m on Block C.  The best intersections were 60% 
+
+pyrite over 2.7 m in Hole MQ-78-18-1 and 80% pyrite over 2.8 m in Hole MQ-78-18-2.  Graphitic 
+
+argillite is also reported.  Several slightly anomalous zinc values (less than 0.5%) were reported. 
+
+ 
+
+Canadian Nickel Company 
+
+In 1978, Canadian Nickel and Soquem completed a ground EM and Mag survey and one drill hole on 
+
+Block D.  No anomalous values were obtained.  Two years later, in 1980, Canadian Nickel drilled 
+
+three holes for a total of 366.1 m, all on Block C.  Unfortunately, no assays were reported. 
+
+ 
+
+Teck Explorations Ltd. 
+
+From 1982 to 1984, Teck Explorations Ltd. drilled eight holes, four of them on Block C and the other 
+
+four on Block E, for a total of 1,014.6 m.  The EM conductors were usually explained by graphitic 
+
+argillite and/or short sections of massive sulphides (pyrite-pyrrhotite).  None of these holes revealed 
+
+anomalous gold or base metal values. 
+
+ 
+
+Noramco Explorations Ltd. 
+
+In 1987, Noramco Explorations Inc. and its partners drilled five holes on Block B.  The holes cut 
+
+mainly graphitic shears.  Two anomalous gold values were obtained, including 150 ppb Au over 1.5 
+
+m in Hole 1454-002 associated with a network of quartz carbonates veinlets and250 ppb over 1.5 m 
+
+in the same kind of environment, in Hole1432-085. 
+
+ 
+
+Société d'Explorations Min. Mazarin I 
+
+Also in 1987, Mazarin did EM and Mag surveys, followed by one drill hole, on Block C.  This drill hole 
+
+cut mainly a sequence of sedimentary rocks with graphitic sections.  No anomalous gold or base 
+
+metal values were reported. 
+
+ 
+
+Bresea Resources and its partners 
+
+In 1988, Bresea drilled two holes on Block D.  The EM conductor in one of the holes was explained 
+
+by graphitic shale; the other one remains unexplained.  The holes cut a sequence of volcanic and 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 24 
+
+sedimentary rocks.  Very few assays were taken and no anomalous gold results were obtained.  
+
+Base metals were not assayed for. 
+
+ 
+
+Total Energold 
+
+In 1990-1991, Total Energold Corp. completed ground geophysics (EM and Mag) and four drill holes 
+
+on Block C.  The EM conductors in each of these holes were explained by sections of graphitic 
+
+argillite, sometimes with 15-20% pyrite and pyrrhotite.  Anomalous gold values were obtained in Hole 
+
+237-90-01, with 226 ppb over 7.5 m, including up to 485 ppb Au over 1.5 m, associated with 
+
+sericitized and carbonatized andesite with 1-2% finely disseminated pyrite and pyrrhotite.  In fact, in 
+
+this hole, all the andesite and intermediate agglomerate units extending from 65.5 m to 153.5 m are 
+
+anomalous for gold. 
+
+ 
+
+Cameco Corp. 
+
+In 1992-1993, Cameco Corp. did ground and EM and Mag surveys, followed by two drill holes 
+
+totalling 544 m, on Block E.  EM conductors were explained by short sections of graphite and pyrite.  
+
+The  best gold value obtained was 66 ppb Au over 1.5 m in Hole BA 93-09. 
+
+ 
+
+Serem Gatro Canada 
+
+From 1992 to 1994, Serem Gatro Canada Inc. completed EM, Mag, IP and Pulse-EM (DeepEM) 
+
+ground surveys, followed by six drill holes, all on Block A.  EM conductors were usually explained by 
+
+graphite and/or pyrite intersections.  The best results were 1,863 ppm Zn and 257 ppm Cu over 4.5 
+
+m in Hole 93GA-A-01 and 1,869 ppm Zn and 419 ppm Cu over 2.1 m in Hole 93GA-A-04.  A strong 
+
+edge Pulse-EM anomaly was discovered in Hole 94GA-A-05, in the extension of the graphitic 
+
+conductor. 
+
+ 
+
+Mines D'Or Virginia, Noranda Exploration Inc. 
+
+In 2003, Mines d'Or Virginia and Noranda Explorations Inc. drilled one hole on Block C.  The EM 
+
+anomaly was explained by 2 to 25% pyrrhotite with traces of pyrite, located in the brecciated facies of 
+
+massive lava flows.  No anomalous results were obtained. 
+
+ 
+
+Table 4 on the next page give a summary of the technical parameters of historical drilling on the 
+
+property.  Figure 6 shows the position of historical drill holes on the property. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Table 4: Historical Drilling
+
+Block DDH(# GM(# Title(# Claim(Holder Year Township Zone East North Az(at(collar dip(at(collar Overburden((m) Length((m) Remarks
+C 2 GM%18822 2338974 SELCO%EXPL%CO%LTD 1959 Ste7Hélène 17 692036 5517645 180 52 56 115
+C K7J71 GM%101937B 2314018 NORANDA%EXPL%CO%LTD 1959 STE7HELENE 17 698659 5518915 360 90 29 153 0,17%Cu/3
+C K7J73 GM%101937B 2314018 NORANDA%EXPL%CO%LTD 1959 STE7HELENE 17 698679 5518493 360 90 39 162
+C K7J72 GM%101937B 2314018 NORANDA%EXPL%CO%LTD 1959 STE7HELENE 17 698684 5518810 360 90 23 145 0,16%Cu/3
+C K7J75 GM%101937B 2314018 NORANDA%EXPL%CO%LTD 1959 STE7HELENE 17 698857 5518945 180 45 9 122
+C K7J76 GM%101937B 2314018 NORANDA%EXPL%CO%LTD 1959 STE7HELENE 17 699063 5519075 180 50 9 49
+C K7J77 GM%101937B 2314018 NORANDA%EXPL%CO%LTD 1959 STE7HELENE 17 699065 5519073 360 50 16 126
+C K7J712 GM%12505 2314018 NORANDA%EXPL%CO%LTD 1962 Ste7Hélène 17 698940 5518899 360 45 26,8 152,4 No%assays
+C K7J710 GM%12505 2314019 NORANDA%EXPL%CO%LTD 1962 Ste7Hélène 17 699143 5518656 180 50 16,5 168 No%assays
+C MS78 GM%17240 2339779 NORANDA%EXPL%CO%LTD 1965 Ste7Hélène 17 699753 5518042 360 60 41 124 60%PY/1
+E HA72071 GM%23916 2344859 PENARROYA%CANADA%LTEE 1969 Bapst 17 673388 5520479 65 48 67,7 190,5 No%assays
+E HA71272 GM%23916 2344859 PENARROYA%CANADA%LTEE 1969 Bapst 17 673731 5520428 260 45 44,2 122 No%assays
+D 12175 GM%29673 2347885 PHELPS%DODGE%CORP%OF%CAN%LTD 1972 Aloigny 17 699972 5507842 360 55 60 122
+D 121729 GM%29673 2338967 PHELPS%DODGE%CORP%OF%CAN%LTD 1973 Ste7Hélène 17 695933 5515520 180 65 61 168,3 No%assays%indicated
+D 12179 GM%29673 2338871 PHELPS%DODGE%CORP%OF%CAN%LTD 1973 Aloigny 17 698717 5510207 360 50 31,7 151,5 No%assays%indicated
+D 121727 GM%29673 2314018 PHELPS%DODGE%CORP%OF%CAN%LTD 1973 Ste7Hélène 17 699115 5518295 360 50 22,9 112,2 No%assays%indicated
+D 12178A GM%29673 2347893 PHELPS%DODGE%CORP%OF%CAN%LTD 1973 Aloigny 17 699345 5508816 360 60 39,6 106,7 No%assays%indicated
+D 12174 GM%29673 2347893 PHELPS%DODGE%CORP%OF%CAN%LTD 1973 Aloigny 17 699349 5508377 360 55 49,4 118,6 No%assays%indicated
+D 121710 GM%29673 2339392 PHELPS%DODGE%CORP%OF%CAN%LTD 1973 Aloigny 17 700433 5510744 15 60 41,5 152,4 No%assays%indicated
+D 121711 GM%29673 2345728 PHELPS%DODGE%CORP%OF%CAN%LTD 1973 Aloigny 17 700455 5511087 15 50 55,8 138,7 No%assays%indicated
+B 2 GM%31506 2338045 KENN%DEV%CORP 1974 Bapst 17 676466 5519576 180 65 101,8 177
+C G73171 GM%30894 2338831 SELCO%MINING%CORP%LTD 1974 Ste7Hélène 17 687205 5516293 180 50 27,4 99,7 No%assays%given
+C G73071 GM%30893 2338956 SELCO%MINING%CORP%LTD 1974 Ste7Hélène 17 689232 5515084 180 50 62,2 108,5 Argilite%with%nodular%pyrite
+C G73371 GM%30895 2338974 SELCO%MINING%CORP%LTD 1974 Ste7Hélène 17 692151 5517706 360 50 41,2 110,4 70%SF/0,6
+D G72771 GM%30891 2345001 SELCO%MINING%CORP%LTD 1974 Ste7Hélène 17 698958 5514846 180 50 64,3 106,7 No%assays
+D 121736 GM%31714 2347876 PHELPS%DODGE%CORP%OF%CAN%LTD 1974 Aloigny 17 699406 5506599 195 55 34,7 123,1
+D 121734 GM%31714 2345736 PHELPS%DODGE%CORP%OF%CAN%LTD 1974 Desmazures 17 706459 5511643 360 60 35,3 178,7
+B 3 GM%31506 2345237 KENN%DEV%CORP 1975 Bapst 17 677548 5521230 180 65 42,7 146,6
+B 4 GM%31506 2345237 KENN%DEV%CORP 1975 Bapst 17 677549 5521230 180 60 44,8 210,7
+A HE77674 GM%32242 2344843 MATTAGAMI%LAKE%MINES%LTD 1976 Beschefer 17 669679 5519817 360 50 52,4 162,5
+A HE77676 GM%32242 2344846 MATTAGAMI%LAKE%MINES%LTD 1976 Bapst 17 670998 5519232 180 50 21,3 93
+A HE77675 GM%32242 2344855 MATTAGAMI%LAKE%MINES%LTD 1976 Bapst 17 671081 5520344 360 50 47 153
+E 1 GM%32681 2344865 NORANDA%EXPL%CO%LTD 1976 Bapst 17 671818 5521387 20 55 53,3 137,2 Chloritic%rhyolite%+%iron%formation
+
+E 76671 GM%32673 2344850
+CLAIMS%DAYKIN,FALCONBRIDGE%NICKEL%MINES%
+LTD 1976 Bapst 17 673585 5519537 180 50 47,3 139,3
+
+Rhyolite,%felsic%agglomerate,%sulphides%+%
+graphite
+
+E 76672 GM%32673 2338041
+CLAIMS%DAYKIN,FALCONBRIDGE%NICKEL%MINES%
+LTD 1976 Bapst 17 674248 5519419 180 55 22,8 256,1 Chert,%rhyolite,%massive%py%over%1%m.
+
+E 76673 GM%32673 2338042
+CLAIMS%DAYKIN,FALCONBRIDGE%NICKEL%MINES%
+LTD 1976 Bapst 17 674793 5519659 180 55 68,6 168,9 Rhyolite%+%chert
+
+E B75 GM%32492 2338058 KENN%DEV%CORP,KENNCO%EXPLS%[CANADA]%LTD 1976 Bapst 17 675104 5521774 183 65 68,9 298 Rhyolite,%chert%massive%py
+E B76 GM%32492 2345231 KENN%DEV%CORP,KENNCO%EXPLS%[CANADA]%LTD 1976 Bapst 17 677492 5520398 180 65 83,2 198,2 Rhyolite%+%felsic%agglomerate
+E B77 GM%32492 2338048 KENN%DEV%CORP,KENNCO%EXPLS%[CANADA]%LTD 1976 Bapst 17 678244 5520024 180 65 72 229 Chlorite%schist,%sericite%schist,%rhyolite
+
+E 76676 GM%32673 2338040
+CLAIMS%DAYKIN,FALCONBRIDGE%NICKEL%MINES%
+LTD 1976 Bapst 17 679329 5518947 200 70 53,4 178,7 Sulphides%+%graphite
+
+E 76677 GM%32673 2338040
+CLAIMS%DAYKIN,FALCONBRIDGE%NICKEL%MINES%
+LTD 1976 Bapst 17 679360 5518608 200 70 53,4 186
+
+E 76675 GM%32673 2338064
+CLAIMS%DAYKIN,FALCONBRIDGE%NICKEL%MINES%
+LTD 1976 Bapst 17 680109 5519228 200 60 31,7 125 Rhyolite%+%chert
+
+E 76678 GM%33450 2344850 FALCONBRIDGE%NICKEL%MINES%LTD 1977 Bapst 17 673518 5519360 180 50 18,3 129 80%PY/1,5
+C MQ77872371 GM%36101 2338955 AMOCO%CANADA%PETROLEUM%CO%LTD 1978 Ste7Hélène 17 688539 5515229 180 55 63 121
+C MQ77872373 GM%36101 2338955 AMOCO%CANADA%PETROLEUM%CO%LTD 1978 Ste7Hélène 17 688864 5515471 180 55 70 107
+C MQ77872372 GM%36101 2338956 AMOCO%CANADA%PETROLEUM%CO%LTD 1978 Ste7Hélène 17 689059 5515247 180 55 73 366
+C MQ77871871 GM%36101 2345007 AMOCO%CANADA%PETROLEUM%CO%LTD 1978 Ste7Hélène 17 698901 5515780 180 60 37 109 60%PY/2,7
+C MQ77871872 GM%36101 2345007 AMOCO%CANADA%PETROLEUM%CO%LTD 1978 Ste7Hélène 17 699114 5515837 180 60 35 185 80%PY/2,8
+D 5444070 GM%33952 2348513 CANADIAN%NICKEL%CO%LTD,SOQUEM 1978 7 17 699998 5492168 45 55 43,9 112,8
+C 46882 GM%36440 2338949 CANADIAN%NICKEL%CO%LTD 1980 Ste7Hélène 17 695611 5514839 200 55 12,2 183,2
+C 46883 GM%36440 2351188 CANADIAN%NICKEL%CO%LTD 1980 Ste7Hélène 17 696552 5517652 215 55 34,15 94,5
+C 46881 GM%36440 2351188 CANADIAN%NICKEL%CO%LTD 1980 Ste7Hélène 17 696687 5517508 180 55 21,3 88,4
+A G78171 GM%42429 2350471 EXPLORATIONS%NORANDA%LTEE 1981 Gaudet 17 658072 5529074 360 60 72,5 183 0,4g/tAu/1,5
+
+
+
+Table 4: Historical Drilling
+
+Block DDH(# GM(# Title(# Claim(Holder Year Township Zone East North Az(at(collar dip(at(collar Overburden((m) Length((m) Remarks
+E GB7671 GM%40491 2338043 TECK%EXPLS%LTD 1982 Bapst 17 675229 5519737 185 60 70,7 172,5 Massive%pyrite,%graphite,%felsic%pyroclastites
+C SU371 GM%40493 2338939 TECK%EXPLS%LTD 1982 Ste7Hélène 17 689578 5514406 360 60 45,1 102,7
+C SU571 GM%40493 2338974 TECK%EXPLS%LTD 1982 Ste7Hélène 17 692298 5517816 360 60 29,5 114
+C 1167%SU7272 GM%40492 2338832 TECK%EXPLS%LTD 1983 Bapst 17 683059 5516773 200 60 54,6 144,5 Graphite%+%pyrite
+E GB%474 GM%41438 2338065 TECK%EXPLS%LTD 1984 Bapst 17 680958 5518799 200 55 28 91,4 Graphite%+%pyrite
+E GB%476 GM%41438 2338062 TECK%EXPLS%LTD 1984 Bapst 17 681294 5518329 200 60 34,4 115,5
+E GB%475 GM%41438 2338062 TECK%EXPLS%LTD 1984 Bapst 17 681408 5518465 200 55 22,5 160 Graphite%+%pyrite
+C SU%572 GM%41730 2338976 TECK%EXPLS%LTD 1984 Ste7Hélène 17 693748 5517339 150 60 29,5 114
+D DEM78571 GM%42370 2342769 EXPLORATIONS%NORANDA%LTEE 1985 Desmazures 17 702372 5509937 360 55 63,4 178,7
+
+B 1454702 GM%47607 2345073
+EXPLORATION%MIN%GOLDEN%DAY%INC,%
+EXPLORATIONS%NORAMCO%INC 1987 Bapst 17 670342 5525784 180 60 70 209
+
+B 1454701 GM%47607 2345073
+EXPLORATION%MIN%GOLDEN%DAY%INC,%
+EXPLORATIONS%NORAMCO%INC 1987 Bapst 17 670364 5526103 360 60 65,4 263
+
+B H714327084 GM%47614 2344845
+EXPL%MIN%GOLDEN%TRIANGLE%INC,%EXPLORATIONS%
+NORAMCO%INC 1987 Beschefer 17 670753 5519164 180 50 19,4 315
+
+B H714327085 GM%47614 2344846
+EXPL%MIN%GOLDEN%TRIANGLE%INC,%EXPLORATIONS%
+NORAMCO%INC 1987 Beschefer 17 670890 5520000 360 50 56 324
+
+B H714327086 GM%47614 2344855
+EXPL%MIN%GOLDEN%TRIANGLE%INC,%EXPLORATIONS%
+NORAMCO%INC 1987 Beschefer 17 671075 5520679 360 50 43 251
+
+C S8771 GM%46724 2338941 SOCIETE%EXPL%MINIERE%MAZARIN%I 1987 Ste7Hélène 17 690290 5514812 360 50 43 408,7
+
+D MD788714B GM%47196 2347896
+CLAIMS%KING,MARSTAN%EXPLORERS%LTD,%AYREX%
+RESOURCES%LTD.,%BRESEA%RESOURCES%LTD 1988 Desmazures 17 702490 5508360 17 60 41,4 151,8
+
+D MD788712 GM%47196 2347897
+CLAIMS%KING,MARSTAN%EXPLORERS%LTD,%AYREX%
+RESOURCES%LTD.,%BRESEA%RESOURCES%LTD 1988 Desmazures 17 702634 5508632 17 60 23,5 167
+
+D DM3788702 GM%47252 2342770 NORANDA%INC,%RESSOURCES%AUDREY%INC. 1988 Desmazures 17 702868 5509921 325 50 29,9 328
+
+B BST71 GM%49889 2345231
+EXPLORATION%KENNCO%[CANADA],%RESSOURCES%
+BP%Canada%LTÉE 1990 Bapst 17 677759 5520561 210 60 60 282 Rhyoite%tuff,%chlorite%schist,%QFP,%graphite
+
+C 237790704 GM%50635 2338831 TOTAL%ENERGOLD%CORP 1990 Ste7Hélène 17 687072 5516437 135 50 28 234 226%ppbAu/7.5%m
+C 237790703 GM%50635 2338953 TOTAL%ENERGOLD%CORP 1990 Ste7Hélène 17 687798 5515462 200 50 28 245
+C 237790701 GM%50635 2338954 TOTAL%ENERGOLD%CORP 1990 Ste7Hélène 17 687973 5515675 210 50 38 248
+C 237790702 GM%50635 2338955 TOTAL%ENERGOLD%CORP 1990 Ste7Hélène 17 688953 5515427 190 50 61 197
+
+E BA93709 GM%52228 2338039
+PETRO7GASPE%INC,SOCIETE%EXPL%MINIERE%
+MAZARIN%I,%CAMECO%CORP. 1992 Bapst 17 679135 5518658 180 60 61,6 280 66%ppb%Au/1.5%m
+
+A 937GA7A703 GM%52293 2330201 SEREM%Gatro%Canada%Inc 1993 Bapst 17 662680 5530882 35 50 104,2 215,8
+A 937GA7A701 GM%52293 2316975 SEREM%Gatro%Canada%Inc 1993 Bapst 17 666152 5528151 35 50 65,8 337,7 1863%ppm%Zn,%257%ppm%Cu/4.5%m
+A 937GA7A704 GM%52293 2316978 SEREM%Gatro%Canada%Inc 1993 Bapst 17 666482 5528267 215 50 67,2 289 1869%ppm%Zn,%410%ppm%Cu/2.1%m
+
+E BA93708 GM%52228 2338064
+PETRO7GASPE%INC,SOCIETE%EXPL%MINIERE%
+MAZARIN%I,%CAMECO%CORP 1993 Bapst 17 680338 5518534 180 60 25 264
+
+A 947GA7A706 GM%52502 2330198 SEREM%GATRO%CANADA%INC 1994 Gaudet 17 665420 5528699 215 50 68 245
+A 947GA7A707 GM%52502 2316977 SEREM%GATRO%CANADA%INC 1994 Gaudet 17 666080 5529028 35 50 33,5 326
+A 947GA7A705 GM%52502 2316978 SEREM%GATRO%CANADA%INC 1994 Gaudet 17 666506 5528418 215 50 74 430,5 Strong%Pulse7EM%edge%anomaly
+A SG372 GM%54389 2316982 LES%METAUX%BILLITON%CANADA%INC 1995 Gaudet 17 662732 5531554 35 50 41,4 301 1,7g/tAg/1%255ppmCu/1
+
+A SG371 GM%54389 2316982 LES%METAUX%BILLITON%CANADA%INC 1995 Gaudet 17 662792 5530949 215 50 34 261
+134ppbAu/1,4;%5,6g/tAg/1,4;%
+852ppmZn/1,4
+
+A SG375 GM%54389 2316978 LES%METAUX%BILLITON%CANADA%INC 1995 Gaudet 17 666432 5528389 215 52 66 450 0,27%Zn/0,5%0,25%Zn/0,5
+A SG376 GM%54389 2345079 LES%METAUX%BILLITON%CANADA%INC 1995 Gaudet 17 667032 5527949 215 52 49,2 387
+E 1172795706 GM%53922 2344843 LES%METAUX%BILLITON%CANADA%INC,SOQUEM 1995 Bischefer 17 669666 5519942 360 50 81,7 318
+E 1172795707 GM%53922 2344847 LES%METAUX%BILLITON%CANADA%INC,SOQUEM 1995 Bischefer 17 671687 5519476 360 50 49,1 290,3
+E B2471 GM%54352 2345238 LES%METAUX%BILLITON%CANADA%INC 1996 Beschefer 17 669192 5522225 125 50 28,3 211,5
+C B2272 GM%54351 2345006 LES%METAUX%BILLITON%CANADA%INC 1996 Ste%Hélène 17 698237 5516271 180 50 40,5 240
+C B2273 GM%54351 2345002 LES%METAUX%BILLITON%CANADA%INC 1996 Ste%Hélène 17 699713 5515199 180 50 48 201
+E 117279677A GM%53922 2344847 LES%METAUX%BILLITON%CANADA%INC,SOQUEM 1996 Bischefer 17 671687 5519476 346 36 126,8 wedge%in%%95707%at%173,7%m%EOH%at%300,5
+E 1172797717 GM%56312 2344848 LES%METAUX%BILLITON%CANADA%INC,SOQUEM%INC 1997 BAPST 17 672120 5519300 360 50 65 279 408%ppb%Au%/%1,2%m
+C STH704703701 GM%60783 2338830 MINES%D'OR%VIRGINIA%INC,NORANDA%INC 2003 STE7HELENE 17 686068 5516612 310 55 39,5 225
+
+96%holes 18459,9
+
+
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 28 
+
+7.0) GEOLOGICAL SETTING AND MINERALIZATION 
+ 
+
+7.1) GENERAL GEOLOGICAL SETTING 
+
+ 
+The Massicotte property is located in the center-west part of Superior Province, which itself lies at the 
+
+heart of the Canadian Shield.  Superior Province extends from Manitoba to Quebec, and is mainly 
+
+made up of Archean rocks.  The general metamorphism is at the greenschist facies, except in the 
+
+vicinity of intrusive bodies, where it can go to the amphibolite-to-granulite facies.  In Quebec, the 
+
+eastern extremity of Superior Province has been classified into the following sub-provinces, from 
+
+south to north: Pontiac, Abitibi, Opatica, Nemiscau, Opinaca, La Grande, Ashuanipi, Bienville and 
+
+Minto.3  According to Card and Ciesielski (1986), the area covered by the property is located in the 
+
+Abitibi sub-province.  Figure 7, "Regional Geology", shows the position of the property within 
+
+Superior Province. 
+
+ 
+FIGURE 7: GENERAL GEOLOGY 
+
+ 
+                                                   
+3 Classification by Hocq, M., in Géologie du Québec, MM 94-01 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 29 
+
+7.2) REGIONAL AND PROPERTY GEOLOGY 
+
+The whole area is underlain by a mix of volcanic and sedimentary rocks, cut by syn to late tectonic 
+
+intrusives, and Proterozoic diabase dykes.  Two kinds of sedimentary rocks have been recognized.  
+
+The first is made up of conglomerate, mudstone and siltstone, and the second, which is less 
+
+significant in term of quantity, is composed of iron formation, argillite and pyroclastites.  The 
+
+sediments usually strike roughly E-W, excepted in the north part of the area, where they divide two 
+
+volcanic domains with a SE-NW orientation.   
+
+ 
+
+The volcanic rocks show a very wide range in composition, varying from rhyolitic to komatiitic.  The 
+
+komatiites occur mainly in the south part of the area, and form in part the Cartwright Hills.  In the 
+
+north part of the area, intermediate to mafic flows dominate, with locally felsic flows. 
+
+ 
+
+One main felsic intrusive occupies the NW part of the area.  This is an important feature, as the 
+
+Selbaie Mine is located in close proximity to the W.  This intrusive can probably be considered as the 
+
+heat source for the hydrothermal system responsible for the mineralization at the Selbaie Mine. 
+
+ 
+
+Many gabbro sills cross the area.  They strike generally E-W, excepted in the west part of the area, 
+
+where their orientation is often the same as the sedimentary unit of the second type.  Late diabase 
+
+dykes cut all the rock sequence in a NE-SW and N-S direction.  The area is cut by two main fault 
+
+systems, the first oriented NNW-SSE and showing a close relationship to the Phelps Dodge, Caber 
+
+and Caber North deposits, and the second oriented NE-SW. 
+
+ 
+
+The property is underlain by all the geological units previously described.  Block A covers the east 
+
+part of the main NW intrusive, which in this area is in contact with sedimentary and volcanic rocks.  
+
+Block B covers the contact between sedimentary and volcanic rocks. Block E is in the extension of 
+
+Blocks A and B, and also covers the contact between the volcanic rocks and sediments, which is 
+
+marked here by a pyroclastic horizon. 
+
+ 
+
+Blocks C and D host mainly volcanic rocks that contain a wide band of sediments in the south part of 
+
+Block D.  Two claims that are part of Block D are located about 10 km to the south, in the western 
+
+strike of the Douay deposit.  Regional and property geology are illustrated in Figure 8 on the next 
+
+page. 
+
+  
+
+
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 31 
+
+7.4) MINERALIZATION 
+
+ 
+
+There is no well-defined mineralized zone with estimated resources on the property.  However, 
+
+several anomalous gold values have been obtained in historical drill holes, along with massive 
+
+sulphide (pyrite-pyrrhotite) intersections. 
+
+ 
+
+8.0) DEPOSIT TYPES 
+ 
+
+Two main types of orebodies should be considered for the exploration model on the Massicotte 
+
+property: 
+
+− Massive sulphide (VMS) deposits of the Matagami / Selbaie type; 
+
+− Gold deposits of the Douay, or Casa Berardi type, associated with shear zones in 
+
+volcanics/sediments. 
+
+ 
+
+The rock alterations already described in historical drilling, mainly on Block E, are typical of 
+
+volcanogenic massive sulphide deposits.  Alterations typical of VMS orebodies, like sericite 
+
+alteration, chlorite alteration in felsic rocks, the presence of chert, and felsic agglomerate have been 
+
+reported on the property.  Several intersections of massive sulphide in the form of pyrite and 
+
+pyrrhotite further show the potential of the Massicotte property for this kind of orebody.  VMS 
+
+examples surrounding the property are the Selbaie Mine, located approximately 15 to 20 km W of 
+
+Block E, and Phelps Dodge, Caber, and Caber North, which are located from 2 to 6 km east of 
+
+Blocks C and D.  Production and resources are described in Item 23, "Adjacent Properties".  
+
+ 
+
+Also in the VMS category, the Agnico-Eagle (Joutel) type gold-enriched VMS must also be 
+
+considered.  Agnico is actually unique in the sense that gold was the only economic mineral, but this 
+
+kind of orebody may occur on the Massicotte property. 
+
+ 
+
+The second type of deposit to consider is the Douay / Casa Berardi type.  The Douay deposit is 
+
+located about 3 km E of the two claims that are part of the D Block to the south.  From a geological 
+
+standpoint, the Douay deposit is hosted in felsic to mafic rocks associated with a deformation zone 
+
+and showing a strong carbonate-sericite alteration.  Casa Berardi type deposits are characterized by 
+
+gold mineralization in quartz veins, associated with a shear zone along a volcanic-sedimentary 
+
+contact. 
+
+ 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 32 
+
+In conclusion, the best model to consider for the exploration of the property is the volcanogenic 
+
+massive sulphide deposit of the Selbaie / Noranda type.  However, if strong carbonate-sericite 
+
+alterations are discovered, the Douay-type deposit should also be considered.  The Casa Berardi 
+
+type of deposit should be considered mainly in sedimentary rocks.  In this area, the thick overburden 
+
+is an additional challenge.  Historical drill holes on the property revealed an average of 30-35 m of 
+
+overburden, and up to 104 m (at -50º) on Block A.  Outcrops can only be observed along the 
+
+Harricana River in the vicinity of the Selbaie road bridge. 
+
+ 
+
+9.0) EXPLORATION 
+ 
+
+Canadian Metals has not undertaken any exploration work since acquiring the property. 
+
+ 
+
+10.0) DRILLING 
+ 
+
+10.1) BY CANADIAN METALS 
+
+Canadian Metals has not done any drilling since acquiring the property.   
+
+10.2) HISTORICAL DRILLING 
+
+Historical drilling is described in detail in Item 6.2, "Historical exploration work by mining and/or 
+
+exploration companies". 
+
+ 
+
+11.0) SAMPLE PREPARATION, ANALYSES AND SECURITY 
+ 
+
+Canadian Metals did not perform any sampling on the property. Sampling is reported in historical 
+
+reports, mainly in drill holes.  However, almost all these report were written in accordance with 
+
+common practice of the time, before NI 43-101 came into effect, and sample preparation, analyses 
+
+and security are not described.  Sometimes assays are not even reported. 
+
+ 
+
+12.0) DATA VERIFICATION 
+ 
+
+It is impossible to verify the historical data.  Only the old reports can be consulted, and they are 
+
+usually incomplete by today's standards.  Furthermore, the drill core from historical drilling is lost or 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 33 
+
+impossible to verify.  The author had to rely on the reported exploration work alone.  However, the 
+
+author is of the opinion that the data used in this report is reliable. 
+
+ 
+
+ITEMS 13 TO 22 
+
+ 
+
+Items 13 to 22 refer to properties at the development stage and do not apply to the Massicotte 
+
+property.  They are entitled as follows: 
+
+13.0) Mineral Processing and Metallurgical Testing; 
+
+14.0) Mineral Resource Estimates; 
+
+15.0) Mineral Reserve Estimate; 
+
+16.0) Mining Method; 
+
+17.0) Recovery Methods; 
+
+18.0) Project Infrastructure; 
+
+19.0) Market Studies and Contracts; 
+
+20.0) Environmental Studies, Permitting and Social or Community Impact; 
+
+21.0) Capital and Operating Costs; 
+
+22.0) Economic Analysis. 
+
+ 
+
+23.0) ADJACENT PROPERTIES 
+ 
+
+Actually there are no adjacent properties that could have a material impact on the Massicotte 
+
+property.  However, four VMS deposits are located in the vicinity of the property:  Phelps Dodge, 
+
+Caber and Caber North are located 2 to 6 km east of Blocks C and D, and the Selbaie Mine is 
+
+approximately 15 to 20 km west of Block E.  
+
+ 
+
+Just as a reminder, estimated resources for Caber, Caber North and Phelps Dodge are as follows: 
+
+Caber (NI 43-101-compliant, Scott Wilson RPA, 2007) 
+
+Category Tonnes Zn (%) Cu (%) Ag (g/t) Au (g/t) Pb (%) 
+
+Indicated 494,000 10.9 1.1 11 0.15 0.01 
+
+Inferred 171,000 8.4 1.3 11 0.17 0.01 
+
+Caber North (NI 43-101-compliant, Scott Wilson RPA, 2007) 
+
+Category Tonnes Zn (%) Cu (%) Ag (g/t) Au (g/t) Pb (%) 
+
+Inferred 2,610,000 4.3 1.6 21   
+
+ 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 34 
+
+Phelps Dodge (unclassified historical resources, source MRNFQ, Sigeom) 
+
+Category Tonnes Zn (%) Cu (%) Ag (g/t) Au (g/t) Pb (%) 
+
+Not classified 2,000,000 4.06 0.93 16.8   
+
+ 
+
+The Selbaie Mine produced Ag, Au, Cu and Zn from three zones, A1, A2 and B.  Tonnage and grade 
+
+are summarized hereafter. 
+
+ 
+
+Selbaie Mine: production 
+
+ Tonnes Ag (g/t) Au (g/t) Cu % Zn % 
+
+B zone 3,061,125 39.43 1.23 4.49 0.8 
+
+A2 zone 8,852,320 16.8 0.79 2.26 1.24 
+
+A1 zone 41,153,936 42.99 0.65 1.06 2.04 
+
+ 
+
+Please note that the qualified person has been unable to verify the information on Phelps Dodge, and 
+
+was involved in the prefeasibility study on Caber and Caber North, on behalf of Metco Resources Inc. 
+
+The information is not necessarily indicative of the mineralization on the property. 
+
+ 
+
+24.0) OTHER RELEVANT DATA AND INFORMATION 
+ 
+
+All the relevant data and information has been given in the preceding items. 
+
+ 
+
+25.0) INTERPRETATION AND CONCLUSIONS 
+ 
+
+The Massicotte property covers a vast area of 268.39 km2.  It is underlain by several different 
+
+geological units, mainly made up of sediments and volcanic rocks intruded by gabbroic sills, and in 
+
+the NW corner, by a granitic to granodioritic intrusion.  Volcanic composition ranges from rhyolitic to 
+
+basaltic.  There are almost no outcrops on the property and the geology has to be extrapolated from 
+
+diamond drilling and airborne surveys. 
+
+ 
+
+Orebodies observed in the area are all VMS-type deposits; they are known as Caber, Caber North 
+
+and Phelps Dodge to the east of the property, and the Selbaie Mine to the west.  Many holes drilled 
+
+on the property show typical rocks and/or alteration associated with VMS-type deposits.  Anomalous 
+
+zinc values, like 1,863 ppm over 4.5 m and 1,869 ppm over 2.1 m have been reported on Block A. 
+
+On Block E, several sections of massive pyrite were observed along with rhyolite, chert and 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 35 
+
+agglomerate.  Rhyolite with chlorite and sericite schist was reported close to the contact with 
+
+sedimentary rocks.  
+
+ 
+
+Anomalous gold values have been reported on Block C.  This is particularly interesting in Hole 237-
+
+90-04, which returned 226 ppb Au over 7.5 m.  In this hole drilled by Total Energold in 1990, all the 
+
+andesite and intermediate agglomerate units from 65.5 to 153.5 m are anomalous for gold and 
+
+associated with sericite and carbonate alterations with 1-2% pyrite and pyrrhotite.  On the east part of 
+
+Block C, anomalous copper values in the order of 0.17% over 3 m and 0.16% over 3 m have been 
+
+reported. 
+
+ 
+
+In conclusion, two main targets become apparent on the property in light of the information actually 
+
+available: first, massive sulphide deposits mainly on Blocks E and C, and second, gold deposit on 
+
+Block C.  This picture may change as more information becomes available. 
+
+ 
+
+26.0) RECOMMENDATIONS 
+ 
+
+Because of the deep overburden, a systematic geological survey is not recommended, excepted in 
+
+the area where the Selbaie road crosses the Harricana River. A two-phase exploration program is 
+
+suggested and has been adapted to the deep overburden.  In Phase I, a deep-penetrating helicopter-
+
+borne EM and magnetic survey is recommended.  This survey should be done systematically on 
+
+flight lines 200 m apart.  It will be useful for locating massive sulphides and shear zones.  To 
+
+complement the information provided by the airborne survey, a computerized geological compilation 
+
+should be done, including the main historical ground geophysical surveys, the drill holes including 
+
+gold and base metal assays and, when available, the lithogeochemical analyses, to locate areas that 
+
+show typical VMS alterations. 
+
+ 
+
+Phase II would include ground follow-up on the anomalous zones generated by the airborne survey 
+
+and geological compilation.  This follow-up would include line cutting, deep-penetrating EM surveys, 
+
+or IP if deemed preferable, and approximately 3,000 m of drilling to test these anomalies. 
+
+ 
+
+The budget for both Phases I and II is given on next page. 
+
+  
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 36 
+
+TABLE 5: BUDGET 
+
+Phase I:Airborne Survey, Compilation  
+      
+Work Quantity Unit Unit cost Total  
+Program preparation  3 days $800 $2 400  
+Helicopter borne Survey      
+Mobilization - demobilization   $13 000 $13 000  
+Survey 800 km $140 $112 000  
+Compilation    $40 000  
+Geology, field verification    $15 000  
+Report at the end of Phase I, and 
+filing for statutory purposes    $10 000  
+Contingencies 12%    $23 088  
+
+ Total Phase I $215 488 
+
+      
+Phase II: Ground surveys and drilling  
+
+Program preparation  5 days $800 $4 000  
+Line cutting, and ground surveys, 
+provision of $75,000    $75 000  
+Diamond drilling (150$/m all 
+inclusive) 3000 m $150 $450 000  
+Report at the end of Phase 2, and 
+filing for statutory purposes    $15 000  
+Contingencies (average of 12%)    $65 280  
+ Total Phase II $609 280 
+
+Total Phase I and II $824 768 
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 37 
+
+27.0) REFERENCES 
+ 
+
+27.1) MRNFQ REPORTS  
+
+ 
+O'Sullivan, Henry., 1901: Deuxième rapport sur l'étendue de pays, situé entre le Lac St-Jean et la 
+Baie James.  MInistère de la Colonisation du Québec.  AP190101. 
+ 
+Longley, W, W., 1943: Kitchigama lake property, Abitibi territory.  Geological report 12., RG 146 (A). 
+ 
+Questor Surveys Ltd., 1973: Levé aérien par Input MK VI.  Région de la Rivière Turgeon.  MRNFQ, 
+DP 760 
+ 
+Questor Surveys Ltd., 1976: Airborne Input MK VI survey, Geologic Compilation, Joutel-Poirier area.  
+MRNFQ, DP 430. 
+ 
+Beaumier, M., 1983: Pédogéochimie de la région de Brouillan, MERQ, DP 83-10. 
+ 
+MInistère de l'Énergie et des Ressources du Québec, 1983: Stratigraphie des ensembles volcano-
+sédimentaires archéens de l'Abitibi: État des connaissances.  DV 83-11 
+ 
+Les Relevés Géophysiques inc., 1982: Rivière Turgeon, Joutel – Poirier, carte magnétique du champ 
+total.  MERQ, DP 83-14. 
+ 
+Questor Surveys Ltd., Les Relevés Géophysiques inc., 1983: Carte des anomalies Input, region Lac 
+Grasset.  MERQ. DP 84-26. 
+ 
+Kenting Earth Sciences Ltd., Les Relevés Géophysiques inc., 1984: Levé gradiométrique région de 
+Matagami (32E09).  MERQ., DV 85-14. 
+ 
+Kenting Earth Sciences Ltd., Les Relevés Géophysiques inc., 1984: Levé gradiométrique région de 
+Matagami (32E15).  MERQ., DV 85-16. 
+ 
+Kenting Earth Sciences Ltd., Les Relevés Géophysiques inc., 1984: Levé gradiométrique région de 
+Matagami (32E16).  MERQ., DV 85-17. 
+ 
+Beaumier, M., et al., 1985: Projet Harricana – Grasset, cartes géologiques, feuille lac Matagami – 
+îles Bancroft (parties).  MRNF., ET 85-08. 
+ 
+Beaumier, M., 1985: L'or dans l'humus région de Brouillan.  Données complémentaires au DP 83-10.  
+MERQ., MB 85-58. 
+ 
+Lacroix, S., 1986: Géologie de la region Harricana – Grasset.  MERQ, DP 86-11. 
+ 
+Lacroix, S., 1986: Le district minier de Casa-Bérardi: Cycles volcaniques et/ou une autre faille de 
+Cadillac.  MERQ., MB 86-63. 
+ 
+Dion, D.J., Church, H., LAcroix, S., 1987: Levé de sismique refraction dans la region de Harrican-
+Turgeon.  MERQ., DP 87-11. 
+ 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 38 
+
+Beaumier, M., Henry, J., 1987: Aires d'intérêt géochimique – Abitibi- Témiscamingue.  MERQ., DV 
+87-22. 
+ 
+Lacroix, S., 1988: Géologie de la région de Harricana – Grasset, (demie-ouest)., MERQ., DP 87-13. 
+ 
+Lacroix, S., et al., 1989: Vers une image régionale du sillon Harricana-Turgeon (Matagami – Joutel – 
+Casa-Bérardi).  PRO 89-04. 
+ 
+Piché, M., 1993: Étude de l'altération des roches volcaniques encaissantes à la mine Selbaie, canton 
+de Brouillan – comté d'Abitibi – oust.  MRNFQ., MB 93-52. 
+ 
+Lacroix, S., 1994: Géologie de la partie oust du sillon Harricana – Turgeon, Abitibi.  MRNQ., MB 94-
+54. 
+ 
+Lacroix, S., 1994: Géologie de la partie oust du sillon Harricana-Turgeon, Abitibi.  Annexe I, analyses 
+lithogéochimiques.  MRNFQ., MB 94-61. 
+ 
+Moorhead, J., Girard, R., Boudreau, M. A., 1996: Anomalies aéromagnétiques circulaires 
+possiblement reliées à des intrusions de kimberlite dnas le nord-ouest québécois.  MRNFQ., MB 93-
+49. 
+ 
+Beaumier, M., Leduc, M., 1995: Géochimie des sols humiques région de la rivière Harricana (SNRC 
+32E). MB 95-55. 
+ 
+Daigneault, R., 1996: Couloirs de deformation de la sous-province de l'Abitibi.  MB 96-33. 
+ 
+Lamothe, D., 2000:Évaluation du potential minéral – sulfures massifs volcanogènes (type Noranda), 
+32E, Joutel.  SI-32E-PPO-001. 
+ 
+Lamothe. D., et al., 2005: Évaluation du potential en minéralisation de type sulfures massifs 
+volcanogènes (SMV) pour l'Abitibi.  MRNFQ., EP 2005-01. 
+ 
+Lamothe, D., Harris, J.R., 2006: Évaluation du potential en minéralisations de type or orogénique des 
+roches archéennes de l'Abitibi.  MRNFQ., EP 2006-01. 
+ 
+L'Abbé, J.Y., Pilote, P., Lamothe, D., 2006: Évaluation du potential mineral pour les gîtes 
+porphyriques de Cu, Au, Mo, de l'Abitibi.  MRNFQ., EP 2006-03. 
+ 
+Sanders Geophysics, Commission Géologique du Canada, 2008: Anomalie de Bouguer et dérivée 
+première vertical de l'anomalie de Bouguer, Collines Gaudet (32E15) et Lac Grasset (32E16).  
+MRNFQ, DP 2008-12 
+ 
+Noranda Exploration, Mines d'Or Virginia., 2008: Cartes géophysiques couleurs, 32E15.  MRNFQ., 
+DP 2008-26. 
+ 
+Noranda Exploration, Mines d'Or Virginia., 2008: Cartes géophysiques couleurs, 32E16.  MRNFQ., 
+DP 2008-27. 
+ 
+Goutier, J., Melançon, M., 2010: Compilation géologique de la sous-province de l'Abitibi (version 
+préliminaire).  RP 2010-04. 
+ 
+Lamothe, D., 2012: Volcanogenic massive sulphide potential in the Abitibi.  2011 version.  MRNFQ., 
+EP 2011-02. 
+ 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 39 
+
+ 
+
+27.2) ASSESSMENT REPORTS  
+
+ 
+Rocheblave, B., 1968: Magnétisme au sol, (zone III), permis Harricana.  Pennaroya Canada Ltd., GM 
+23914. 
+ 
+Hansen, J.E., 1968 : Report on an electromagnetic ground survey on the Harricana River property.  
+Pennaroya Canada Ltd., GM 23915. 
+ 
+Pennaroya Ltd., 1969: Sondage # HA-20-1 et HA-20-2.  Pennaroya Canada Ltée..  GM 23916. 
+ 
+Bell, R.A., Misener, D.J., Woolham, R.W., 1974: Assessment report geophysics, project 121, 
+Samson River.  GM 29674. 
+ 
+Fleming, H.W., Jones, R.A., 1974: Diamond drill record.  Kenn Dev. Corp.  GM 31506. 
+ 
+Baldwin, L.A., Busch, D.J., Clarke, P.J., Nielsen, F.W., Ogryzlo, P., Sylvestre, V., 1975: Airborne 
+electromagnetic survey, Matagami area.  Phelps Dodge Corp of Canada Ltd., GM 31714. 
+ 
+Fleming, H.W., 1976: Diamond drill record, Bapst twp property.  Kennco Expl. Canada Ltd., GM 
+32492. 
+ 
+Cloutier, J.P., 1976: Diamond drill record, Bapst claims, West Group.  Falconbridge Nickel Mines 
+Ltd., GM 32673. 
+ 
+McFarlane, R.L., 1976: Diamond drill core log, Bapst-1-74 property.  Noranda Explorations Co. Ltd., 
+GM 32681. 
+ 
+Zaveziczky, O., 1976: Diamond drill report, Harricana River project – East Group.  Matagami Lake 
+Mines Ltd., GM 32242. 
+ 
+Cloutier, J.P., 1977: Drilling report and compilation, Bapst claim groups.  Falconbridge Nickel Mines 
+Ltd., GM 33450. 
+ 
+Duncan, C., Gereghty, G.J., Manson, W.O., 1978: Magnetic and electromagnetic survey results.  
+Canadian Nickel company Ltd., and Soquem.  GM 33952. 
+ 
+McIsaac, B., 1978: Diamond drill hole record, Matagami property.  Amoco Canada Petroleum Co. 
+Ltd., GM 36101. 
+ 
+MsIntosh, J.A., 1978: Diamond drill record, Amoco Canada property.  MRNFQ.  Amoco Canada 
+Petroleum.  GM 36102.  
+ 
+Duncan, C., Hannila, J.J., 1980: Diamond drilling.  Canadian Nickel Co. Ltd., GM 36440. 
+ 
+Thorsen, K., 1982: Diamond drill logs, Gaudet-Beschefer property.  Teck Expls. Ltd., GM 40491. 
+ 
+Fox, J., O'Connell J.G., 1982: Diamond drill log, Subercase property.  Teck Expls. Ltd., GM 40493. 
+ 
+Fox, J., Thorsen, K., 1983: Diamond drill log, Gaudet-Beschefer property.  Teck Expls. Ltd., GM 
+40492. 
+ 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 40 
+
+Hughes, T.N.J., Fox, J., 1984: Diamond drill log, Gaudet-Beschefer property.  Teck Expls. Ltd., GM 
+41438. 
+ 
+Hughes, T., 1984: Diamond drill log, Subercase property.  Teck Expls. Ltd., GM 41730. 
+ 
+Des Rivières, J., 1985: Compilation et géochimie sur la propriété Gaudet I.  Explorations Noranda 
+inc., GM 42429. 
+ 
+Berdusco, B.J., Janzen, J., Simard, R., 1987: Diamond drill log, Lac Dumais (P-1454) property.  
+Explorations Min. Golden Day inc., Explorations Noramco inc., GM 47607. 
+ 
+Berdusco, B.J., Simard, R., Janzen, J., 1987: Diamond drill log, Angle River property (P-1432) 
+property.  Explorations Min. Golden Triangle, Explorations Noramco inc., GM 47614. 
+ 
+Bordusco, B.J., Janzen, J., Simard, R., 1987: Diamond drill log, lac Dumais (P.1454) property.  
+Exploration Noramco inc., GM 47607. 
+ 
+Lahaye, R., 1988: Diamond drilling record, Desmazures twp property.  Ayrex Resources Ltd, Bresea 
+Resources Ltd GM 47196. 
+ 
+Zabez, B., 1990: Drill record, Bapst project.  Explorations Kennco Canada Ltd., Ressources BP 
+Canada Ltd.  GM 49889. 
+ 
+Kenwood, J., 1991: Summary report, November 1990 – February 1991, geophysics and diamond 
+drilling program, Ste-Hélène property.  Total Energold Corp.  GM 50635. 
+ 
+Koziol, M., Matthews, R., 1993:  Report on 1993 ground geophysics and diamond drilling program, 
+Bapst and Ste-Hélène projects.   Petro-Gaspé inc., Soc.  Expl.  Min.  Mazarin I.  GM 52228. 
+ 
+De Corta, H., 1993: Campagne de forage, propriété Gaudet A, SEREM Gatro Canada inc., GM 
+52293. 
+ 
+De Corta, H., 1994: Campagne de forage, propriété Gaudet A, hiver 1994.  SEREM Gatro inc.  GM 
+52502. 
+ 
+Verschelden, R., 1997: Rapport de la champagne de forage, janvier – février- mars 1997.  Soquem, 
+projet Beschefer.  GM 56312. 
+ 
+Lapointe, S., Dessureault, M., 2004: Rapport d'exploration minière projet Megatem  JVI, blocs de 
+Matagami Ouest et de Selbaie Ouest.  Mines d'Or Virginia inc., Noranda inc.  GM 60783. 
+ 
+Salmon, B., Lavigne, M., Gauthier, J., 2007: Preafeasibility study on the Caber Deposit – Technical 
+Report on the Caber and Caber North Deposits, Matagami, Québec.  Prepared for Metco Resources 
+Inc., by Scott Wilson Roscoe Postle Associates inc., and Genivar, Limited Partnership.  Metco 
+Resources internal report, unpublished. 
+ 
+
+27.3) SEDAR REPORTS 
+
+ 
+Salmon, B., Lecuyer, N.L., Live, P., 2011: Technical report on the Casa Berardi Mine, northwestern 
+Quebec, Canada.  Aurizon Mines Ltd. 
+ 
+
+
+
+CANADIAN METALS INC.                                            NI 43-101 TECHNICAL REPORT, MASSICOTTE PROPERTY 
+
+SOLUMINES 41 
+
+27.4) GEOSCIENTIFIC PAPERS 
+
+ 
+
+Jebrak, M., Marcoux, E., 2008: Géologie des Ressources Minérales.  Ressources Naturelles et 
+Faune Québec, éditeur. 
+ 
+Galley, A.G., Hannington, M.D., and Jonasson, I.R., 2007: Volcanogenic Massive sulphide 
+Deposits, in Goodfellow, W.D., ed., Mineral Deposits of Canada: A Synthesis of Major Deposit 
+Types, District Metallogeny, the Evoluation of Geological Provinces, and Exploration Methods: 
+Geological Association of Canada, MineraL Deposits Division, Special Publication No 5., pp 141-161. 
+ 
+Franklin, J.M., 1996: Gîtes de sulfures massifs à métaux communs associés à des roches 
+volcaniques; dans Géologie des types de gîtes minéraux du Canada, rev., par O.R Eckstrand, W.D. 
+Sinclair, et R.I Thorpe.  Commission géologique duCanada, géologie du Canada, no 8. 
+ 
+Robert, F., 1996: Quartz-carbonate vein gold, in Eckstrand, O.R., Sinclair, W.D.T., and Thorpe, R.I., 
+eds., Geology of Canadian Mineral Deposit Types: Geological Survey of Canada, Geology of 
+Canada No. 8; (see also The Geology of North America, vol P-1, Geological Society of America). 
+ 
+Dubé, B., and Gosselin, P., 2007: Greenstone-hosted quartz-carbonates vein deposits, in 
+Goodfellow, W.D., ed., Mineral Deposits of Canada: Mineral Deposits of Canada: A Synthesis of 
+Major Deposit Types, District Metallogeny, the Evolution of Geological Provinces, and Exploration 
+Methods: Geological Association of Canada, Mineral Deposits Division, Special Publication No 5, p 
+49-73. 
+ 
+Beakhouse, G.P. 2007:  Structurally controlled, magmatic hydrothermal model for Archean lode gold 
+deposits: a working hypothesis; Ontario Geological Survey, Open File Report 6193, 133 p. 
+ 
+Percival, J.A, 2007: Geology and metallogeny of the Superior Province, Canada, in Goodfellow, 
+W.D., ed., Mineral Deposits of Canada: A Synthesis of Major Deposit Types, District Metallogeny, the 
+Evolution of Geological Provinces, and Exploration Methods: Geological Association of Canada, 
+Mineral Deposits Division, Special Publication No 5, p 903-928. 
+ 
+Robert, F., Brommecker, R., Bourne, B.T., Dobak, P.J., McEwan, C.J., Rowe, R.R., Zhou, X, 
+2007: Models and Exploration Methods for Major Gold Deposits.  In Proceedings of Exploration 07: 
+Fifth Decennial International Conference on Mineral Exploration, edited by Milkreit, 2007 pp 691-711. 
+ 
+
+
+
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+
+SCHEDULE 1 
+ 
+
+CLAIMS, TOTAL  BLOCK A TO E 
+ 
+ 
+
+  Area (ha) 
+Accumulated 
+
+work 
+Required 
+
+work 
+Mining 
+rights 
+
+Total  
+484 
+cells 26,839.7 $0 $580,100 $26,230.50 
+
+ 
+
+
+
+Liste de claims Massicotte
+
+Block NTS	
+  Sheet Title	
+  type Title	
+  # Expiry	
+  date Area	
+  (Ha)
+Accumulated	
+  
+
+work
+Required	
+  
+work
+
+Mining	
+  
+duties Claim	
+  Holder Constraint
+
+A NTS	
+  32E15 CDC 2316975 21-­‐Jun-­‐14 55,51 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2316976 21-­‐Jun-­‐14 55,51 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2316977 21-­‐Jun-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2316978 21-­‐Jun-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2316979 21-­‐Jun-­‐14 55,44 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2316980 21-­‐Jun-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2316981 21-­‐Jun-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2316982 21-­‐Jun-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2329907 10-­‐Jan-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2330171 12-­‐Jan-­‐14 55,54 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2330172 12-­‐Jan-­‐14 55,54 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2330173 12-­‐Jan-­‐14 55,53 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2330174 12-­‐Jan-­‐14 55,53 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2330175 12-­‐Jan-­‐14 55,53 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2330176 12-­‐Jan-­‐14 55,53 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330177 12-­‐Jan-­‐14 55,53 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330178 12-­‐Jan-­‐14 55,53 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330179 12-­‐Jan-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2330180 12-­‐Jan-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2330181 12-­‐Jan-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330182 12-­‐Jan-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330183 12-­‐Jan-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330184 12-­‐Jan-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330185 12-­‐Jan-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330186 12-­‐Jan-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330187 12-­‐Jan-­‐14 55,51 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2330188 12-­‐Jan-­‐14 55,51 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330189 12-­‐Jan-­‐14 55,51 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330190 12-­‐Jan-­‐14 55,51 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330191 12-­‐Jan-­‐14 55,51 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330192 12-­‐Jan-­‐14 55,51 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330193 12-­‐Jan-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330194 12-­‐Jan-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330195 12-­‐Jan-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330196 12-­‐Jan-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2330197 12-­‐Jan-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2330198 12-­‐Jan-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2330199 12-­‐Jan-­‐14 55,49 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330200 12-­‐Jan-­‐14 55,49 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2330201 12-­‐Jan-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2344159 9-­‐May-­‐14 55,51 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2344183 10-­‐May-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2344184 10-­‐May-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2344185 10-­‐May-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2344186 10-­‐May-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2344187 10-­‐May-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2345071 15-­‐May-­‐14 55,53 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+
+
+
+Liste de claims Massicotte
+
+Block NTS	
+  Sheet Title	
+  type Title	
+  # Expiry	
+  date Area	
+  (Ha)
+Accumulated	
+  
+
+work
+Required	
+  
+work
+
+Mining	
+  
+duties Claim	
+  Holder Constraint
+
+A NTS	
+  32E15 CDC 2345072 15-­‐May-­‐14 55,53 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2345075 15-­‐May-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2345076 15-­‐May-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2345079 15-­‐May-­‐14 55,51 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2345080 15-­‐May-­‐14 55,51 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2345082 15-­‐May-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2345083 15-­‐May-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2345314 16-­‐May-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2345316 16-­‐May-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2345317 16-­‐May-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2345319 16-­‐May-­‐14 55,46 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346312 23-­‐May-­‐14 55,53 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346313 23-­‐May-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346314 23-­‐May-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346315 23-­‐May-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346316 23-­‐May-­‐14 55,51 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346317 23-­‐May-­‐14 55,51 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346318 23-­‐May-­‐14 55,51 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346319 23-­‐May-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346320 23-­‐May-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346321 23-­‐May-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346322 23-­‐May-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346323 23-­‐May-­‐14 55,49 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346324 23-­‐May-­‐14 55,49 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346325 23-­‐May-­‐14 55,49 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346326 23-­‐May-­‐14 55,49 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346327 23-­‐May-­‐14 55,49 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346328 23-­‐May-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346329 23-­‐May-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346330 23-­‐May-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346331 23-­‐May-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346332 23-­‐May-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346333 23-­‐May-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346334 23-­‐May-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346335 23-­‐May-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346336 23-­‐May-­‐14 55,48 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2346337 23-­‐May-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346338 23-­‐May-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346339 23-­‐May-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346340 23-­‐May-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346341 23-­‐May-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346342 23-­‐May-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346343 23-­‐May-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346344 23-­‐May-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2346345 23-­‐May-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+A NTS	
+  32E15 CDC 2346346 23-­‐May-­‐14 55,46 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346347 23-­‐May-­‐14 55,46 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+
+
+
+Liste de claims Massicotte
+
+Block NTS	
+  Sheet Title	
+  type Title	
+  # Expiry	
+  date Area	
+  (Ha)
+Accumulated	
+  
+
+work
+Required	
+  
+work
+
+Mining	
+  
+duties Claim	
+  Holder Constraint
+
+A NTS	
+  32E15 CDC 2346348 23-­‐May-­‐14 55,46 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346349 23-­‐May-­‐14 55,46 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346350 23-­‐May-­‐14 55,46 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346531 23-­‐May-­‐14 55,46 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346532 23-­‐May-­‐14 55,46 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2346533 23-­‐May-­‐14 55,46 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2350467 10-­‐Jun-­‐14 55,51 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2350468 10-­‐Jun-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2350469 10-­‐Jun-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2350470 10-­‐Jun-­‐14 55,49 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2350471 10-­‐Jun-­‐14 55,49 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2350472 10-­‐Jun-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2350473 10-­‐Jun-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2350474 10-­‐Jun-­‐14 55,47 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2351558 13-­‐Jun-­‐14 55,5 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2351559 13-­‐Jun-­‐14 55,49 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+A NTS	
+  32E15 CDC 2352137 20-­‐Jun-­‐14 55,49 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+
+111 6159,88 $0 $133	
+  200 $6	
+  021,75
+
+Block NTS	
+  Sheet Title	
+  type Title	
+  # Expiry	
+  date Area	
+  (Ha)
+Accumulated	
+  
+
+work
+Required	
+  
+work
+
+Mining	
+  
+duties Claim	
+  Holder Constraint
+
+B NTS	
+  32E15 CDC 2322165 21-­‐Jun-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2326622 21-­‐Jun-­‐14 55,53 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345064 15-­‐May-­‐14 55,54 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345065 15-­‐May-­‐14 55,54 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345066 15-­‐May-­‐14 55,54 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+B NTS	
+  32E15 CDC 2345067 15-­‐May-­‐14 55,54 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+B NTS	
+  32E15 CDC 2345068 15-­‐May-­‐14 55,54 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+B NTS	
+  32E15 CDC 2345069 15-­‐May-­‐14 55,54 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+B NTS	
+  32E15 CDC 2345070 15-­‐May-­‐14 55,54 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345073 15-­‐May-­‐14 55,53 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345074 15-­‐May-­‐14 55,53 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345077 15-­‐May-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345078 15-­‐May-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345084 15-­‐May-­‐14 55,56 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345085 15-­‐May-­‐14 55,56 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345086 15-­‐May-­‐14 55,56 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345087 15-­‐May-­‐14 55,56 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345088 15-­‐May-­‐14 55,56 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+B NTS	
+  32E15 CDC 2345089 15-­‐May-­‐14 55,56 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+B NTS	
+  32E15 CDC 2345090 15-­‐May-­‐14 55,56 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+B NTS	
+  32E15 CDC 2345091 15-­‐May-­‐14 55,55 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345092 15-­‐May-­‐14 55,55 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345093 15-­‐May-­‐14 55,55 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345094 15-­‐May-­‐14 55,55 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+B NTS	
+  32E15 CDC 2345095 15-­‐May-­‐14 55,55 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+B NTS	
+  32E15 CDC 2345096 15-­‐May-­‐14 55,55 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+
+Total	
+  Block	
+  A
+
+
+
+Liste de claims Massicotte
+
+Block NTS	
+  Sheet Title	
+  type Title	
+  # Expiry	
+  date Area	
+  (Ha)
+Accumulated	
+  
+
+work
+Required	
+  
+work
+
+Mining	
+  
+duties Claim	
+  Holder Constraint
+
+B NTS	
+  32E15 CDC 2345097 15-­‐May-­‐14 55,54 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345098 15-­‐May-­‐14 55,54 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345099 15-­‐May-­‐14 55,54 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345100 15-­‐May-­‐14 55,54 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345101 15-­‐May-­‐14 55,53 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345102 15-­‐May-­‐14 55,53 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345103 15-­‐May-­‐14 55,53 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345231 16-­‐May-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345232 16-­‐May-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345233 16-­‐May-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345234 16-­‐May-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345235 16-­‐May-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345236 16-­‐May-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345237 16-­‐May-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345238 16-­‐May-­‐14 55,57 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345239 16-­‐May-­‐14 55,57 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345240 16-­‐May-­‐14 55,57 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+B NTS	
+  32E15 CDC 2345241 16-­‐May-­‐14 55,57 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345242 16-­‐May-­‐14 55,57 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345243 16-­‐May-­‐14 55,57 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345251 16-­‐May-­‐14 55,52 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345455 16-­‐May-­‐14 55,57 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2345456 16-­‐May-­‐14 55,57 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2355565 18-­‐Jul-­‐14 55,57 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2355566 18-­‐Jul-­‐14 55,57 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2355567 18-­‐Jul-­‐14 55,56 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2355568 18-­‐Jul-­‐14 55,55 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+B NTS	
+  32E15 CDC 2355569 18-­‐Jul-­‐14 55,55 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+
+54 2999,96 $0 $64	
+  800 $2	
+  929,50
+
+Block NTS	
+  Sheet Title	
+  type Title	
+  # Expiry	
+  date Area	
+  (Ha)
+Accumulated	
+  
+
+work
+Required	
+  
+work
+
+Mining	
+  
+duties Claim	
+  Holder Constraint
+
+C NTS	
+  32E16 CDC 2314018 21-­‐Jun-­‐14 55,25 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2314019 21-­‐Jun-­‐14 51,86 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2328069 21-­‐Jun-­‐14 23,88 $0 $500 $27,75 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2328070 21-­‐Jun-­‐14 40,01 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338827 28-­‐Mar-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338828 28-­‐Mar-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338829 28-­‐Mar-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338830 28-­‐Mar-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338831 28-­‐Mar-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338832 28-­‐Mar-­‐14 55,63 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338833 28-­‐Mar-­‐14 55,63 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338834 28-­‐Mar-­‐14 55,63 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338835 28-­‐Mar-­‐14 55,63 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338836 28-­‐Mar-­‐14 55,63 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338837 28-­‐Mar-­‐14 55,63 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+
+Total	
+  Block	
+  B
+
+
+
+Liste de claims Massicotte
+
+Block NTS	
+  Sheet Title	
+  type Title	
+  # Expiry	
+  date Area	
+  (Ha)
+Accumulated	
+  
+
+work
+Required	
+  
+work
+
+Mining	
+  
+duties Claim	
+  Holder Constraint
+
+C NTS	
+  32E16 CDC 2338838 28-­‐Mar-­‐14 55,63 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338938 28-­‐Mar-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338939 28-­‐Mar-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338940 28-­‐Mar-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338941 28-­‐Mar-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338942 28-­‐Mar-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338943 28-­‐Mar-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338944 28-­‐Mar-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338945 28-­‐Mar-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338946 28-­‐Mar-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338947 28-­‐Mar-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338948 28-­‐Mar-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338949 28-­‐Mar-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338950 28-­‐Mar-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338951 28-­‐Mar-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338952 28-­‐Mar-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338953 28-­‐Mar-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338954 28-­‐Mar-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338955 28-­‐Mar-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338956 28-­‐Mar-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338957 28-­‐Mar-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338958 28-­‐Mar-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338959 28-­‐Mar-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338960 28-­‐Mar-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338961 28-­‐Mar-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338962 28-­‐Mar-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338963 28-­‐Mar-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338964 28-­‐Mar-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338965 28-­‐Mar-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338966 28-­‐Mar-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338967 28-­‐Mar-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338968 28-­‐Mar-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338969 28-­‐Mar-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338970 28-­‐Mar-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338971 28-­‐Mar-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338972 28-­‐Mar-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338973 28-­‐Mar-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338974 28-­‐Mar-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338975 28-­‐Mar-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338976 28-­‐Mar-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2338977 28-­‐Mar-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2339776 29-­‐Mar-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2339777 29-­‐Mar-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2339778 29-­‐Mar-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2339779 29-­‐Mar-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2339780 29-­‐Mar-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2344999 14-­‐May-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+
+
+
+Liste de claims Massicotte
+
+Block NTS	
+  Sheet Title	
+  type Title	
+  # Expiry	
+  date Area	
+  (Ha)
+Accumulated	
+  
+
+work
+Required	
+  
+work
+
+Mining	
+  
+duties Claim	
+  Holder Constraint
+
+C NTS	
+  32E16 CDC 2345000 14-­‐May-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345001 14-­‐May-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345002 14-­‐May-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345003 14-­‐May-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345004 14-­‐May-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345005 14-­‐May-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345006 14-­‐May-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345007 14-­‐May-­‐14 55,66 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345008 14-­‐May-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345009 14-­‐May-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345010 14-­‐May-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345011 14-­‐May-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345012 14-­‐May-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345013 14-­‐May-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345014 14-­‐May-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345015 14-­‐May-­‐14 55,65 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345016 14-­‐May-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345017 14-­‐May-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345018 14-­‐May-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345773 21-­‐May-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345774 21-­‐May-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345775 21-­‐May-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345776 21-­‐May-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345777 21-­‐May-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2345778 21-­‐May-­‐14 55,67 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2351188 12-­‐Jun-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2351189 12-­‐Jun-­‐14 55,64 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+C NTS	
+  32E16 CDC 2360587 13-­‐Aug-­‐14 27,81 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+
+90 4929,3 $0 $107	
+  300 $4	
+  856,00
+
+Block NTS	
+  Sheet Title	
+  type Title	
+  # Expiry	
+  date Area	
+  (Ha)
+Accumulated	
+  
+
+work
+Required	
+  
+work
+
+Mining	
+  
+duties Claim	
+  Holder Constraint
+
+China NTS	
+  32E15 CDC 2335744 14-­‐Mar-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2335745 14-­‐Mar-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2335746 14-­‐Mar-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338021 25-­‐Mar-­‐14 55,62 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2338022 25-­‐Mar-­‐14 55,62 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2338023 25-­‐Mar-­‐14 55,62 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2338024 25-­‐Mar-­‐14 55,62 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338025 25-­‐Mar-­‐14 55,62 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338026 25-­‐Mar-­‐14 55,62 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338027 25-­‐Mar-­‐14 55,62 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338028 25-­‐Mar-­‐14 55,62 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338029 25-­‐Mar-­‐14 55,62 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338030 25-­‐Mar-­‐14 55,62 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338031 25-­‐Mar-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2338032 25-­‐Mar-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+
+Total	
+  Block	
+  C
+
+
+
+Liste de claims Massicotte
+
+Block NTS	
+  Sheet Title	
+  type Title	
+  # Expiry	
+  date Area	
+  (Ha)
+Accumulated	
+  
+
+work
+Required	
+  
+work
+
+Mining	
+  
+duties Claim	
+  Holder Constraint
+
+China NTS	
+  32E15 CDC 2338033 25-­‐Mar-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338034 25-­‐Mar-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338035 25-­‐Mar-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338036 25-­‐Mar-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338037 25-­‐Mar-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338038 25-­‐Mar-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338039 25-­‐Mar-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338040 25-­‐Mar-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338041 25-­‐Mar-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2338042 25-­‐Mar-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338043 25-­‐Mar-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338044 25-­‐Mar-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338045 25-­‐Mar-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338046 25-­‐Mar-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338047 25-­‐Mar-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338048 25-­‐Mar-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338049 25-­‐Mar-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338050 25-­‐Mar-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338051 25-­‐Mar-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338052 25-­‐Mar-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338053 25-­‐Mar-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338054 25-­‐Mar-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338055 25-­‐Mar-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338056 25-­‐Mar-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338057 25-­‐Mar-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338058 25-­‐Mar-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2338059 25-­‐Mar-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E16 CDC 2338060 25-­‐Mar-­‐14 55,62 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E16 CDC 2338061 25-­‐Mar-­‐14 55,62 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E16 CDC 2338062 25-­‐Mar-­‐14 55,62 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E16 CDC 2338063 25-­‐Mar-­‐14 55,62 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E16 CDC 2338064 25-­‐Mar-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E16 CDC 2338065 25-­‐Mar-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344833 14-­‐May-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344834 14-­‐May-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344835 14-­‐May-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344836 14-­‐May-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344837 14-­‐May-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344838 14-­‐May-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344839 14-­‐May-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344840 14-­‐May-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2344841 14-­‐May-­‐14 55,61 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2344842 14-­‐May-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344843 14-­‐May-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344844 14-­‐May-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344845 14-­‐May-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344846 14-­‐May-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+
+
+
+Liste de claims Massicotte
+
+Block NTS	
+  Sheet Title	
+  type Title	
+  # Expiry	
+  date Area	
+  (Ha)
+Accumulated	
+  
+
+work
+Required	
+  
+work
+
+Mining	
+  
+duties Claim	
+  Holder Constraint
+
+China NTS	
+  32E15 CDC 2344847 14-­‐May-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344848 14-­‐May-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2344849 14-­‐May-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2344850 14-­‐May-­‐14 55,6 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2344851 14-­‐May-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344852 14-­‐May-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344853 14-­‐May-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344854 14-­‐May-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344855 14-­‐May-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344856 14-­‐May-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2344857 14-­‐May-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2344858 14-­‐May-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2344859 14-­‐May-­‐14 55,59 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2344860 14-­‐May-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344861 14-­‐May-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344862 14-­‐May-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344863 14-­‐May-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+China NTS	
+  32E15 CDC 2344864 14-­‐May-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+China NTS	
+  32E15 CDC 2344865 14-­‐May-­‐14 55,58 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.) Affected	
+  by:	
+  Protected	
+  area	
+  project
+
+81 4503,68 $0 $97	
+  200 $4	
+  394,25
+
+Block NTS	
+  Sheet Title	
+  type Title	
+  # Expiry	
+  date Area	
+  (Ha)
+Accumulated	
+  
+
+work
+Required	
+  
+work
+
+Mining	
+  
+duties Claim	
+  Holder Constraint
+
+D NTS	
+  32E09 CDC 2318425 21-­‐Jun-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2318426 21-­‐Jun-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2322161 21-­‐Jun-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2322162 21-­‐Jun-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338859 28-­‐Mar-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338860 28-­‐Mar-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338861 28-­‐Mar-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338862 28-­‐Mar-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338863 28-­‐Mar-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338864 28-­‐Mar-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338865 28-­‐Mar-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338866 28-­‐Mar-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338867 28-­‐Mar-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338868 28-­‐Mar-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338869 28-­‐Mar-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338870 28-­‐Mar-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338871 28-­‐Mar-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338872 28-­‐Mar-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338885 28-­‐Mar-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338886 28-­‐Mar-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338887 28-­‐Mar-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338888 28-­‐Mar-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338889 28-­‐Mar-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338890 28-­‐Mar-­‐14 55,7 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+
+	
+  Total	
+  Block	
+  China
+
+
+
+Liste de claims Massicotte
+
+Block NTS	
+  Sheet Title	
+  type Title	
+  # Expiry	
+  date Area	
+  (Ha)
+Accumulated	
+  
+
+work
+Required	
+  
+work
+
+Mining	
+  
+duties Claim	
+  Holder Constraint
+
+D NTS	
+  32E09 CDC 2338891 28-­‐Mar-­‐14 55,7 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338892 28-­‐Mar-­‐14 55,7 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338893 28-­‐Mar-­‐14 55,69 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338894 28-­‐Mar-­‐14 55,69 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338895 28-­‐Mar-­‐14 55,68 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338896 28-­‐Mar-­‐14 55,68 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2338897 28-­‐Mar-­‐14 55,68 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2339018 28-­‐Mar-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2339388 29-­‐Mar-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2339389 29-­‐Mar-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2339390 29-­‐Mar-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2339391 29-­‐Mar-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2339392 29-­‐Mar-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342697 29-­‐Apr-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342706 29-­‐Apr-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342707 29-­‐Apr-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342708 29-­‐Apr-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342709 29-­‐Apr-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342710 29-­‐Apr-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342711 29-­‐Apr-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342712 29-­‐Apr-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342713 29-­‐Apr-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342714 29-­‐Apr-­‐14 55,7 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342715 29-­‐Apr-­‐14 55,69 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342716 29-­‐Apr-­‐14 55,68 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342763 29-­‐Apr-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342764 29-­‐Apr-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342765 29-­‐Apr-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342766 29-­‐Apr-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342767 29-­‐Apr-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342768 29-­‐Apr-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342769 29-­‐Apr-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342770 29-­‐Apr-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342771 29-­‐Apr-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342772 29-­‐Apr-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342773 29-­‐Apr-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342774 29-­‐Apr-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342775 29-­‐Apr-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342776 29-­‐Apr-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342777 29-­‐Apr-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342778 29-­‐Apr-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342779 29-­‐Apr-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342780 29-­‐Apr-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342781 29-­‐Apr-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342782 29-­‐Apr-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342783 29-­‐Apr-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2342784 29-­‐Apr-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+
+
+
+Liste de claims Massicotte
+
+Block NTS	
+  Sheet Title	
+  type Title	
+  # Expiry	
+  date Area	
+  (Ha)
+Accumulated	
+  
+
+work
+Required	
+  
+work
+
+Mining	
+  
+duties Claim	
+  Holder Constraint
+
+D NTS	
+  32E09 CDC 2345280 16-­‐May-­‐14 55,76 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345281 16-­‐May-­‐14 55,76 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345727 21-­‐May-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345728 21-­‐May-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345729 21-­‐May-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345730 21-­‐May-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345731 21-­‐May-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345732 21-­‐May-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345733 21-­‐May-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345734 21-­‐May-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345735 21-­‐May-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345736 21-­‐May-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345737 21-­‐May-­‐14 55,71 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345738 21-­‐May-­‐14 55,7 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345739 21-­‐May-­‐14 55,7 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345740 21-­‐May-­‐14 55,7 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345741 21-­‐May-­‐14 55,7 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345742 21-­‐May-­‐14 55,7 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345743 21-­‐May-­‐14 55,7 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345744 21-­‐May-­‐14 55,7 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345745 21-­‐May-­‐14 55,7 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345746 21-­‐May-­‐14 55,7 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345747 21-­‐May-­‐14 55,7 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345748 21-­‐May-­‐14 55,69 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345749 21-­‐May-­‐14 55,69 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345750 21-­‐May-­‐14 55,69 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345751 21-­‐May-­‐14 55,69 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345752 21-­‐May-­‐14 55,69 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345753 21-­‐May-­‐14 55,69 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345754 21-­‐May-­‐14 55,69 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345755 21-­‐May-­‐14 55,68 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345756 21-­‐May-­‐14 55,68 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345757 21-­‐May-­‐14 55,68 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345758 21-­‐May-­‐14 55,68 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345759 21-­‐May-­‐14 55,68 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2345760 21-­‐May-­‐14 55,68 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347871 30-­‐May-­‐14 55,75 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347872 30-­‐May-­‐14 55,75 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347873 30-­‐May-­‐14 55,75 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347874 30-­‐May-­‐14 55,75 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347875 30-­‐May-­‐14 55,75 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347876 30-­‐May-­‐14 55,75 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347877 30-­‐May-­‐14 55,75 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347878 30-­‐May-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347879 30-­‐May-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347880 30-­‐May-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347881 30-­‐May-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+
+
+
+Liste de claims Massicotte
+
+Block NTS	
+  Sheet Title	
+  type Title	
+  # Expiry	
+  date Area	
+  (Ha)
+Accumulated	
+  
+
+work
+Required	
+  
+work
+
+Mining	
+  
+duties Claim	
+  Holder Constraint
+
+D NTS	
+  32E09 CDC 2347882 30-­‐May-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347883 30-­‐May-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347884 30-­‐May-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347885 30-­‐May-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347886 30-­‐May-­‐14 55,75 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347887 30-­‐May-­‐14 55,75 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347888 30-­‐May-­‐14 55,75 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347889 30-­‐May-­‐14 55,75 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347890 30-­‐May-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347891 30-­‐May-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347892 30-­‐May-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347893 30-­‐May-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347894 30-­‐May-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347895 30-­‐May-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347896 30-­‐May-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347897 30-­‐May-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347898 30-­‐May-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347899 30-­‐May-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347900 30-­‐May-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347901 30-­‐May-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347902 30-­‐May-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347903 30-­‐May-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347904 30-­‐May-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2347905 30-­‐May-­‐14 55,72 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2348505 31-­‐May-­‐14 55,91 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2348513 31-­‐May-­‐14 55,91 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2349560 5-­‐Jun-­‐14 55,75 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2349562 5-­‐Jun-­‐14 55,74 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2349563 5-­‐Jun-­‐14 55,75 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+D NTS	
+  32E09 CDC 2350820 11-­‐Jun-­‐14 55,73 $0 $1	
+  200 $54,25 Les	
+  métaux	
+  canadiens	
+  inc.(Canadian	
+  Metals	
+  inc.)
+
+148 8246,88 $0 $177	
+  600 $8	
+  029,00
+
+484 26839,7 $0 $580	
+  100 $26	
+  230,50
+Yellow:	
+  claims	
+  with	
+  expiry	
+  date	
+  harmonized
+
+Total	
+  all	
+  blocks
+
+Total	
+  Block	
+  D
+
+
+'

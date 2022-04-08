@@ -1,0 +1,5484 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Coosa Technical Report Amended September 5 2013.docx
+
+
+ 
+
+ 
+
+ 
+
+TECHNICAL REPORT 
+
+ALABAMA GRAPHITE CORP. 
+
+COOSA PROJECT 
+
+ 
+
+AMENDED REPORT DATE: SEPTEMBER 5, 2013 
+
+EFFECTIVE DATE: JULY 16, 2013 
+
+ 
+
+PREPARED BY 
+
+METAL MINING CONSULTANTS INC. 
+
+SCOTT E. WILSON, C.P.G. 
+
+STEWART D. REDWOOD, F.I.M.M.M. 
+
+ 
+
+Metal Mining Consultants Inc 
+
+9137 S. Ridgeline Blvd., Ste 140 
+
+Highlands Ranch, CO 80129 
+
+Phone: (720) 348-1646 
+
+Fax: (303) 790-1872 
+
+www.metalminingconsultants.com 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page II 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+DATE AND SIGNATURE PAGE 
+
+The effective date of this technical report, entitled "Technical Report, Alabama Graphite Corp., Coosa 
+
+Project." is July 16, 2013. 
+
+Dated September 5, 2013 
+
+ 
+
+___________________________       
+
+Scott Wilson, CPG 
+
+ 
+
+DatedSeptember 5, 2013 
+
+ 
+
+___________________________             
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page III 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+AUTHOR'S CERTIFICATE 
+
+I, Scott E. Wilson, of Highlands Ranch, Colorado, do hereby certify: 
+
+1. I am currently employed as President by Metal Mining Consultants Inc., 9137 S. Ridgeline Blvd., 
+
+Suite 140, Highlands Ranch, Colorado 80129. 
+
+2. I  graduated with  a  Bachelor  of  Arts  degree  in  Geology  from  the  California  State  University, 
+
+Sacramento in 1989. 
+
+3. I am a Certified Professional Geologist and member of  the American  Institute of Professional 
+
+Geologists  (CPG  #10965)  and  a  Registered  Member  (#4025107)  of  the  Society  for  Mining, 
+
+Metallurgy and Exploration, Inc. 
+
+4. I have been employed as either a geologist or an engineer continuously for a total of 24 years.  
+
+My  experience  included  resource  estimation,  mine  planning  geological  modeling  and 
+
+geostatistical evaluations of numerous projects throughout North and South America. 
+
+5. I have read the definition of "Qualified Person" set out  in National  Instrument 43‐101 ("NI 43‐
+
+101) and certify  that by  reason of my education, affiliation with a professional association  (as 
+
+defined  in  NI  43‐101)  and  past  relevant work  experience,  I  fulfill  the  requirements  to  be  a 
+
+"Qualified Person" for the purposes of NI 43‐101. 
+
+6. I did not make a personal  inspection on  the property  for personal reasons and  I relied on  the 
+
+expertise of my colleague and coauthor, Dr. Stewart Redwood, who made apersonal inspection 
+
+of the project twice during the preparation of the technical information used in this report. 
+
+7. I am responsible for the oversight and preparation of all sections of the report "Technical Report 
+
+–Alabama Graphite Corp., Coosa Project" amended report dateSeptember 5, 2013. 
+
+8. As of the date of the report, to the best of my knowledge, information and belief, the technical 
+
+report contains all scientific and technical  information that  is required to be disclosed to make 
+
+the technical report not misleading. 
+
+9. That  I have read NI 43‐101 and Form 43‐101F1, and that this technical report was prepared  in 
+
+compliance with NI 43‐101. 
+
+10. I am independent of the issuer applying all of the tests in Section 1.5 of NI 43‐101. 
+
+11. I  consent  to  the  filing of  the Technical Report with  any  stock exchange  and other  regulatory 
+
+authority and any publication by  them,  including electronic publication  in  the public company 
+
+files on their websites accessible by the public, of the Technical Report. 
+
+Dated September 5, 2013 
+
+ 
+
+_____________________________ 
+
+Scott E. Wilson 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page IV 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page V 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+AUTHOR'S CERTIFICATE 
+
+I, Stewart D. Redwood, FIMMM, hereby certify that: 
+
+1. I am a Consulting Geologist with address at P.O. Box 0832‐1784, World Trade Center, Panama 
+
+City, Republic of Panama. 
+
+2. I am a co‐author of the technical report titled "Technical Report, Alabama Graphite Corp., Coosa 
+
+Project" (the Technical Report) amended report dateSeptember 5, 2013. 
+
+3. I  graduated  from Glasgow University with  a  First Class Honors Bachelor of  Science degree  in 
+
+Geology in 1982, and from Aberdeen University with a Doctorate in Geology in 1986. 
+
+4. I am a Fellow of The Institute of Materials, Minerals and Mining, Number 47017. 
+
+5. I  have more  than  30  years'  experience  as  a  geologist working  in mineral  exploration, mine 
+
+geology, mineral  resource and  reserve estimations and  feasibility studies on projects  in North 
+
+America, Latin America, the Caribbean, Europe, Africa, Asia and Australia. 
+
+6. I have  read  the definition of "Qualified Person" set out  in National  Instrument 43‐101  (NI 43‐
+
+101) and certify that by reason of my education, affiliation with a professional organization (as 
+
+defined  in  NI  43‐101)  and  past  relevant work  experience,  I  fulfill  the  requirements  to  be  a 
+
+"Qualified Person" for the purposes of NI 43‐101. 
+
+7. I made a personal inspection of the Coosa Project on February 21‐22, 2013 for 2 days.  
+
+8. I am responsible for sections 1, 3‐8, 11, 12 and 23‐27 of the Technical Report. 
+
+9. I am independent of the Alabama Graphite Corp. applying all of the tests in Section 1.5 of NI 43‐
+
+101.  
+
+10. My  only  prior  involvement  with  the  property  was  to  advise  Alabama  Graphite  Corp.  about 
+
+sampling, analyses and QAQC for the drill program in October 2012. 
+
+11. I  have  read NI  43‐101  and  the  Technical  Report  has  been  prepared  in  compliance with  that 
+
+instrument. 
+
+12. As  of  the  date  of  this  certificate,  to  the  best  of my  knowledge,  information  and  belief,  the 
+
+Technical Report contains all scientific and technical information that is required to be disclosed 
+
+to make the Technical Report not misleading. 
+
+13. I  consent  to  the  filing of  the Technical Report with  any  stock exchange  and other  regulatory 
+
+authority and any publication by them, including electronic publication in the company files on 
+
+their websites accessible by the public, of the Technical Report. 
+
+Dated September 5, 2013 
+
+ 
+
+__________________________________ 
+
+Stewart D. Redwood 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page VI 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+Table of Contents 
+
+1  Summary .......................................................................................................................................1 
+
+1.1  Introduction ..................................................................................................................................1 
+
+1.2  Geology and Mineralization..........................................................................................................1 
+
+1.3  Drilling ...........................................................................................................................................2 
+
+1.4  Indicated Mineral Resource ..........................................................................................................3 
+
+1.5  Inferred Mineral Resource ............................................................................................................3 
+
+1.6  Recommendations ........................................................................................................................3 
+
+2  Introduction and terms of reference ............................................................................................4 
+
+2.1  Purpose of Technical Report .........................................................................................................4 
+
+2.2  Terms of Reference.......................................................................................................................4 
+
+2.2.1  Abbreviations ........................................................................................................................4 
+
+2.2.2  Common Units ......................................................................................................................4 
+
+2.2.3  Common Chemical Symbols..................................................................................................5 
+
+2.2.4  Common Acronyms...............................................................................................................5 
+
+3  Reliance on Other Experts ............................................................................................................6 
+
+4  Property Description and Location ...............................................................................................7 
+
+4.1  Coosa Property Location...............................................................................................................7 
+
+4.2  Coosa Mineral Tenure...................................................................................................................9 
+
+4.2.1  Ownership.............................................................................................................................9 
+
+4.2.2  Royalties..............................................................................................................................19 
+
+4.2.3  Legal Access and Surface Rights..........................................................................................19 
+
+4.2.4  Environmental Regulations and Liabilities..........................................................................19 
+
+4.2.5  Other ...................................................................................................................................19 
+
+5  Access, Climate, Infrastructure and Physiography .....................................................................20 
+
+5.1  Access and Infrastructure ...........................................................................................................20 
+
+5.2  Physiography...............................................................................................................................21 
+
+5.3  Climate ........................................................................................................................................23 
+
+6  History.........................................................................................................................................24 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page VII 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+6.1  The Alabama Graphite belt .........................................................................................................24 
+
+6.2  Coosa History ..............................................................................................................................30 
+
+7  Geological Setting and Mineralization ........................................................................................33 
+
+7.1  Regional Geology ........................................................................................................................ 33 
+
+7.2  Alabama Graphite Belt................................................................................................................35 
+
+7.3  Coosa Geology & Mineralization.................................................................................................38 
+
+8  Deposit Types..............................................................................................................................42 
+
+9  Exploration ..................................................................................................................................43 
+
+10  Drilling .........................................................................................................................................47 
+
+11  Sample Preparation, Analysis and Security.................................................................................58 
+
+11.1  Channel Samples 2012................................................................................................................58 
+
+11.2  Sample Security .........................................................................................................................58 
+
+11.3  Sample Preparation .................................................................................................................... 59 
+
+11.4  Analysis .......................................................................................................................................59 
+
+11.5  SpecifIc Gravity............................................................................................................................60 
+
+11.6  Quality Assurance and Quality Control (QA‐QC).....................................................................60 
+
+11.6.1  Certified Standard Reference Materials (CSRM).................................................................61 
+
+11.6.2  Blanks ..................................................................................................................................63 
+
+11.6.3  Field Duplicates ...................................................................................................................64 
+
+11.6.4  Check Analyses....................................................................................................................67 
+
+11.6.5  Replicate Analyses ..............................................................................................................67 
+
+11.6.6  onclusions and Recommendations .....................................................................................69 
+
+12  Data Verification .........................................................................................................................70 
+
+13  Mineral Proccessing and Mettalurgical Testing..........................................................................72 
+
+14  Coosa mineral Resource Estimates .............................................................................................73 
+
+14.1  Coosa Resource...........................................................................................................................74 
+
+14.1.1  Coosa Estimation procedures .............................................................................................74 
+
+14.1.2  Database for Geologic Model .............................................................................................74 
+
+14.1.3  Topographic Data................................................................................................................79 
+
+14.1.4  Geologic boundaries ...........................................................................................................80 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page VIII 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+14.1.5  DrillHole Compositing and Statistics ...................................................................................84 
+
+14.1.6  Block Model ........................................................................................................................87 
+
+14.1.7  Grade Estimation Parameters.............................................................................................88 
+
+14.1.8  Density ................................................................................................................................88 
+
+14.1.9  Resource Classification........................................................................................................89 
+
+14.1.10  NI 43‐101 Mineral Resource ...........................................................................................93 
+
+14.1.11  Block Model Validation ...................................................................................................95 
+
+15  Adjacent Properties ....................................................................................................................97 
+
+16  Other Relevant Data and Information ........................................................................................98 
+
+17  Interpretations and Conclusions.................................................................................................99 
+
+18  Recommendations ....................................................................................................................101 
+
+19  References ................................................................................................................................102 
+
+List of Tables 
+
+Table 1.1 Coosa Project Indicated Mineral Resources..................................................................................3 
+
+Table 1.2Coosa Project Inferred Mineral Resource ......................................................................................3 
+
+Table 4.1 List of mineral rights in the Coosa Project, Coosa County, Alabama ..........................................15 
+
+Table 5.1 Access from Birmingham to Coosa Project .................................................................................21 
+
+Table 6.1  Alabama Graphite Production 1913‐1920 (Clemmer et al., 1941) ............................................27 
+
+Table 7.1 Relationship of graphite grade and pegmatite abundance ........................................................39 
+
+Table 10.1 Coosa Project Sonic and Core Drill Hole Collar Data.................................................................48 
+
+Table 10.2 Significant Intercepts from the 2012 Sonic and Core Drilling ...................................................50 
+
+Table 11.1 List of CANMET CSRM used for carbon by ALS Minerals ..........................................................61 
+
+Table 14.1 Coosa Block Model Framework.................................................................................................87 
+
+Table 14.2 Coosa Estimation Parameters ...................................................................................................88 
+
+Table 14.3 Rock Types and Corresponding Density Values ........................................................................88 
+
+Table 14.4 Resource Pit Parameters ...........................................................................................................89 
+
+Table 14.5 Coosa Project Indicated Mineral Resources, July 16th, 2013 ...................................................93 
+
+Table 14.6 Coosa Project Inferred Mineral Resources, July 16th, 2013 .....................................................93 
+
+Table 18.1 2013 Exploration Program Costs.............................................................................................101 
+
+List of Figures 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page IX 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Figure 4.1 Location map of the Coosa Project ..............................................................................................8 
+
+Figure 4.2 Map of the mineral rights of the Coosa Project.........................................................................12 
+
+Figure 4.3 Detailed map of mineral rights and drill hole locations, Coosa Project ....................................13 
+
+Figure 5.1 Access map to the Coosa Project drill grid.................................................................................20 
+
+Figure 5.2 Overview of  the physiography of  the drill grid  looking  southwest  from near hole AGC‐011, 
+
+showing dissected pediplain and pine forest .............................................................................................22 
+
+Figure 5.3 Physiography, access and land use – pine forest and forest road at drill pad AGC‐010 ...........23 
+
+Figure  6.1  Historic  map  of  the  Alabama  Graphite  Belt  (Cameron  &  Weiss,  1960,  after  Pallister  & 
+
+Thoenen, 1948) showing the location of the Coosa Project.......................................................................24 
+
+Figure 6.2 Historic map of  the graphite mines of Area C  in  the SW part of  the Alabama Graphite Belt 
+
+(Cameron & Weiss, 1960, after Pallister & Thoenen, 1948) showing the location of the Coosa Project ..25 
+
+Figure 6.3 Crucible Flake Graphite Mill, Haile Mines, Inc., Clay County in the 1940s (Pallister & Thoenen, 
+
+1948) ...........................................................................................................................................................28 
+
+Figure 6.4 The Ceylon Graphite Co. mill, Coosa County, in the 1940s (Pallister & Thoenen, 1948) ..........29 
+
+Figure 6.5 The Ceylon Graphite Co. pit, Coosa County, in the 1940s (Pallister & Thoenen, 1948) ............29 
+
+Figure 6.6 The Alabama Flake Graphite Company mill, Clay County, in 1945 (Gisler, 1945) .....................30 
+
+Figure 6.7 Location map of the historic Fixico mine and the Coosa Project drill holes..............................31 
+
+Figure 7.1 Geological map of Alabama (Alabama Geological Survey) ........................................................33 
+
+Figure 7.2 The geology of the southern part of the Alabama Graphite Belt (based on Alabama Geological 
+
+Survey map at 1:250,000 scale), showing location of Coosa Project .........................................................35 
+
+Figure 7.3 Biotite‐graphite  schist with  sillimanite(?) and disseminated pyrrhotite and pyrite  (logged as 
+
+QGS/QMBGS). From 5 ft sample @ 3.26% Cg (AGC‐F05‐140.5 ft) .............................................................40 
+
+Figure 7.4 Graphite schist with folded pegmatites and pyrrhotite (logged as QMBGS). From 5 ft sample 
+
+of 1.73% Cg (AGC‐D05‐200 ft).....................................................................................................................40 
+
+Figure  7.5  High  grade  coarse  graphite  in  sheared  pegmatite  in  biotite‐graphite  schist  (logged  as 
+
+QGS/QMBGS), from 5 ft sample @ 4.56% Cg (ACG‐F05‐134 ft) .................................................................40 
+
+Figure 7.6 Graphite schist with green roscoelite (vanadium‐muscovite), drill pad of hole AGC‐010 ........41 
+
+Figure 9.1 Coosa Project Channel Sample Locations ..................................................................................45 
+
+Figure 10.1 Drill collar for hole AGC‐E04 ....................................................................................................47 
+
+Figure 10.2 Plan Map of Coosa Project Drill Hole Collars ...........................................................................55 
+
+Figure 10.3 Cross Section of the North Fence ............................................................................................56 
+
+Figure 11.1 The AGC core warehouse and field office in Sylacauga...........................................................59 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page X 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Figure 11.2 Plot of results on internal laboratory CSRM NBM‐1................................................................61 
+
+Figure 11.3 Plot of results of internal laboratory CSRM MA‐1b .................................................................62 
+
+Figure 11.4 Plot of results of internal CSRM DS‐1 ......................................................................................62 
+
+Figure 11.5 Plot of results of internal SCRM STSD‐3...................................................................................63 
+
+Figure 11.6 Scatter plot of coarse diorite blanks (n=221)...........................................................................64 
+
+Figure 11.7 Scatter plot of field (core) duplicates ......................................................................................66 
+
+Figure 11.8 Plot of mean versus relative difference for field (core) duplicate samples.............................66 
+
+Figure 11.9 Scatter plot of replicate analyses of hole AGC‐03C (n=94)......................................................67 
+
+Figure 11.10 Scatter plot of replicate analyses of Cg for whole drill program (n=436)..............................68 
+
+Figure 11.11 Plot of mean vs. relative difference of Cg for replicate samples (n = 436)............................69 
+
+Figure 14.1 Plan View of Coosa Drilling ......................................................................................................76 
+
+Figure 14.2 Isometric View of Coosa Project Drilling..................................................................................77 
+
+Figure 14.3 Triangulation of LiDAR Surface ................................................................................................79 
+
+Figure 14.4 Coosa Geologic Shapes in Cross Section, North Fence ............................................................80 
+
+Figure 14.5 Isometric View of Coosa Geologic Boundaries ........................................................................81 
+
+Figure 14.6 Triangulations of Coosa QGS and QMBGS Boundary...............................................................82 
+
+Figure 14.7 Triangulations of the QGBS Boundary .....................................................................................83 
+
+Figure 14.8 Distribution of Composite Sample Lengths .............................................................................85 
+
+Figure 14.9 Distribution of Composite Graphitic Carbon Values................................................................86 
+
+Figure 14.10 Resource Classification Domains ...........................................................................................91 
+
+Figure 14.11 Block Model Validation ..........................................................................................................95 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 1 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+1 SUMMARY 
+
+1.1 INTRODUCTION 
+
+At the request of Alabama Graphite Corp. ("AGC" or the "Company"; CNSX: ALP), this technical report 
+
+has been prepared by Metal Mining Consultants  and  Stewart Redwood on  the Coosa Project, Coosa 
+
+County, Alabama.   The purpose of this report  is to provide AGC and  its  investors with an  independent 
+
+opinion of the technical aspects and mineral resources at Coosa.  This report conforms to the standards 
+
+specified in Canadian Securities Administrators' National Instrument 43‐101. 
+
+AGC acquired the Coosa project in 2012 based on the geologic setting.  The Coosa Project is located 50 
+
+miles  (80  km)  south‐southeast  of  Birmingham,  Alabama,  USA.    Access  to  the  project  is  by  driving 
+
+southeast  from Birmingham Airport on Highway US 280  for about 52 miles  (84 km)  to Sylacauga. The 
+
+Coosa Project mineral tenure comprises mineral rights leased by AGC totaling 41,964 acres (16,982 ha) 
+
+or 65.6 square miles. 
+
+AGC's  subsidiary,  Alabama  Graphite  Co.  Inc.  (Alabama Graphite),  a  company  registered  in  Alabama, 
+
+entered  into  a Mining  Lease  Agreement  And  Option  with  Eugenia W.  Dean,  Birmingham,  Alabama 
+
+pursuant to which  it: (a)  leased the mineral rights  in respect to an area with the potential for graphite 
+
+comprising  14,020.86  acres  (5,674  ha)  in  township  22N,  range  17E,  Coosa County, Alabama;  and  (b) 
+
+received an option of  first  refusal  to  lease  the mineral  rights  to adjacent areas  comprising 30,756.52 
+
+acres  (12,447  ha).  On  November  5,  2012,  Alabama  Graphite  exercised  the  option  and  leased  an 
+
+additional 27,943.52 acres (11,308 ha) of the remaining available acres under the same terms as in the 
+
+initial agreement. The total property under lease is now 41,964.38 acres (16,982 ha).The mineral rights 
+
+are patents of private land issued between 1842 and 1860 (for those with title opinion).  
+
+1.2 GEOLOGY AND MINERALIZATION 
+
+The  Coosa  Project  is  located  at  the  southern  end  of  the  Appalachian mountain  range,  a  northeast 
+
+trending belt of folded and metamorphosed rocks of Neoproterozoic to Lower Paleozoic age. These are 
+
+covered by the Coastal Plain Sediments of Cretaceous and younger age in the southern half of Alabama.  
+
+The rocks of the southwestern end of the Appalachians are generally separated into four physiographic 
+
+and geologic provinces which are, from northwest to southeast: the Interior Low Plateau province, the 
+
+Appalachian Plateau province, the Valley and Ridge province, and the Piedmont province. The Alabama 
+
+Graphite Belt is located in the Northern Piedmont. 
+
+The Northern Piedmont has three structural blocks: the Talladega block on the northwest side with low 
+
+grade greenschist  facies metasedimentary and metavolcanic  rocks;  the  central Coosa block with high 
+
+grade, upper greenschist to kyanite and sillimanite grade metamorphic rocks and abundant pegmatite 
+
+and  small  granitoid bodies;  and  the  Tallapoosa block on  the  southeast  side of high  grade, middle  to 
+
+upper  amphibolite  facies metasedimentary  rocks  metavolcanic  and metamorphosed  ultramafic  and 
+
+mafic rocks with large areas of quartz diorite to granitic plutonic rocks. 
+
+Within  the Coosa block  lies  the Wedowee Group which contains  the Higgins Ferry Formation which  is 
+
+the host for the Coosa Project.   The Higgins Ferry Formation is defined as an interbedded sequence of at 
+
+least three major lithologic units: coarse to fine grained biotite‐feldspar‐quartz gneiss, sericite‐feldspar‐
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 2 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+muscovite  schist,  (±biotite)‐(±garnet)‐muscovite  schist,  biotite‐garnet‐feldspar  gneiss;  (±roscoelite)‐
+
+graphite‐quartz schists, graphitic quartzite; and garnet quartzite and garnetiferous altered mafic rocks. 
+
+Locally there are a few thin actinolite‐chlorite‐hornblende amphibolite and pyroxenite bodies. Kyanite, 
+
+sillimanite  and  sericite  porphyroblasts  common  in  more  aluminous  units,  and  there  are  scattered 
+
+pegmatites.  
+
+The local Coosa Project geology has been further broken down into four main lithologies: 
+
+Quartz‐muscovite‐biotite‐graphite  schist  (QMBGS):This  schist  is medium  to  coarse grained  in  texture 
+
+and  is characterized by  large porphyroblasts of muscovite.   The color varies from medium gray to dark 
+
+gray‐green.    It  is moderately  foliated and  commonly  contorted, with  lenticular pegmatites parallel  to 
+
+foliation.  Pyrite and pyrrhotite are common accessory minerals as large disseminated grains.  Sillimanite 
+
+fibers have been observed.  Graphite flakes are generally coarse in this unit although the average carbon 
+
+content is generally <1% Cg. 
+
+Quartz‐graphite  schist  (QGS):This  schist  is both  finer  grained  and better  laminated  than  the QMBGS 
+
+unit.   The color varies  from dark gray  to black.   Contorted  foliation and pegmatites are  less common.  
+
+Pyrite  and  pyrrhotite  are  both  finer  grained  and more  abundant  than  in  the QMBGS  unit  and  form 
+
+laminae parallel to foliation.  Graphite is more abundant in this unit with grades >1% Cg. 
+
+Mixed  QMBGS/QGS  (INT):  –  The  QMBGS  and  QGSarecommonly  interbedded  at  a  centimeter  scale 
+
+forming a mixed unit with graphite grades >1% Cg.   
+
+Quartz‐biotite‐garnet  schist  (QBGS):This unit  is  subordinate  to both  the QMBGS and QGS units.    It  is 
+
+medium grained and medium  to dark gray‐green  in color. The garnets are usually  fine grained with a 
+
+diameter  of  about  1 mm,  but  in  places  are  up  to  5  to  10 mm.  The  garnets  are  light  pink  in  color, 
+
+suggesting  a high manganese  (spessartine)  content.    Foliation  is  irregular with  abundant pegmatites.  
+
+Pyrite is sparse. Graphite is sparse and grades are <1% Cg. 
+
+1.3 DRILLING 
+
+Alabama  Graphite  has  conducted  two  drilling  programs  at  the  Coosa  project  totaling  20,345.4  feet 
+
+(6,201.3) of drilling.  The first program consisted of two northwesterly trending fences of six holes each 
+
+for  a  total  of  6,003  feet  (1,829.7  m)  (AGC‐001  through  AGC‐012).    All  fence  holes  were  drilled 
+
+perpendicular  to  the  stratified  graphite  horizons  to  gain  information  regarding  the  stratigraphy  and 
+
+graphite  distribution.  The  two  fences  were  approximately  1mile  (1.6  km)  apart  with  hole  spacing 
+
+averaging 500 ft (152.4 m) and drilled to a nominal depth of 500ft (152.4 m).   
+
+The second drilling programs consisted of 57 vertical holes drilled on a 200ft x 200ft (61 m x 61 m) grid 
+
+for a total of 14,342.4 feet (4,371.6 m).  The grid drilling was a combination of sonic core and HQ core.  
+
+Sonic  collars were  drilled  to  increase  recovery  in  the weathered  zones  near  the  surface.   Of  the  57 
+
+vertical grid holes, 44 of them were drilled with the sonic drill for a total of 1,523.5 feet (464.4 m). 
+
+The  two drill programs  identified a higher grade quartz‐graphite‐schist  (QGS) bound by a  lower grade 
+
+quartz‐muscovite‐biotite‐graphite‐schist  (QMBGS)  and  a  graphite  barren  quartz‐biotite‐garnet‐schist 
+
+(QBGS). 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 3 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+1.4 INDICATED MINERAL RESOURCE 
+
+The  following  table sets out  the  Indicated Resources  for  the Coosa Project at a 2% cutoff grade.   The 
+
+resource was  based  on  technical  information made  available  to  Scott  E. Wilson  C.P.G.   Mr. Wilson 
+
+supervised the preparation of this Mineral Resource Statement. 
+
+Table 1.1Coosa Project Indicated Mineral Resources 
+
+Indicated Resource 
+
+Cutoff %  Tons  C%  C Tons 
+
+2  38,159,000  2.6  992,134 
+
+ 
+
+1.5 INFERRED MINERAL RESOURCE 
+
+Table 1.2Coosa Project Inferred Mineral Resource 
+
+Inferred Resource 
+
+Cutoff %  Tons  C%  C Tons 
+
+2  26,992,000  2.87  774,670 
+
+1.6 RECOMMENDATIONS 
+
+Based  on  the  exploration  and  results  from  the  Coosa  Project  to  date,  the  Author's  recommend  the 
+
+Coosa  Project  is  of  sufficient merit  to warrant  further  exploration.    A  regional  exploration  program 
+
+(mapping and surface sampling), geophysical survey, an exploration drilling program totaling 12,000 feet 
+
+(3,657.6 m)  and metallurgical  tests  are  recommended  for  the  Coosa  Project.    Costs  to  execute  this 
+
+program are estimated to total US$ 1,450,000. 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 4 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+2 INTRODUCTION AND TERMS OF REFERENCE 
+
+2.1 PURPOSE OF TECHNICAL REPORT 
+
+At the request of Daniel Spine, President and CEO of AGC, this technical report has been prepared by 
+
+Metal Mining Consultants  Inc.("MMC") on  the Coosa Project  (the  "Project"), Coosa County, Alabama, 
+
+USA.The purpose of this report is to provide AGC and its investors with an independent opinion on the 
+
+technical  aspects  and mineral  resources  at  the  Project.  This  technical  report  documents  a mineral 
+
+resource statement for the Project prepared by MMC. The report has been prepared according to the 
+
+guidelines of  the Canadian Securities Administrators' National  Instrument 43‐101 and Form 43‐101F1 
+
+while the mineral resource statement reported herein has been prepared  in conformity with generally 
+
+accepted  CIM  "Estimation  of Mineral  Resources  and Mineral  Reserves  Best  Practice  Guidelines."The 
+
+information in the report is current as ofJuly 16, 2013. 
+
+This  report  describes  the  property  geology,  mineralization,  exploration  activities  and  exploration 
+
+potential based on compilations of published and unpublished data and maps, geological reports and a 
+
+field examination by the authors.  The authors have been provided with documents, maps, reports and 
+
+analytical results by AGC.   This report  is based on the  information provided, field observations and the 
+
+authors' familiarity with mineral occurrences and deposits in the United States and worldwide. 
+
+Dr. Stewart Redwood visited  the Projectto carry out a property  inspection on February 21‐22  for  two 
+
+days.    Mr.  Wilson  was  unable  to  make  a  site  visit  of  the  property  due  to  conflicting  business 
+
+arrangements.  Mr. Wilson relied on his colleague and coauthor, Dr. Redwood, and Mr. Scott Burkett, an 
+
+employee of MMC, for the site visit. 
+
+This  report was prepared by  Scott  E. Wilson, MMC,  and  Stewart D. Redwood,  and  the  authors have 
+
+participated in all aspects of this report.  There is no affiliation between the authors and AGC except that 
+
+of independent consultant/client relationship. 
+
+2.2 TERMS OF REFERENCE 
+
+The  terms  of  reference  were  to  prepare  a  resource  estimate  and  Technical  Report  as  defined  in 
+
+Canadian  Securities  Administrators' National  Instrument  43‐101,  Standards  of Disclosure  for Mineral 
+
+Projects, and in compliance with Form 43‐101F1 (Technical Report) and Companion Policy 43‐101CP. 
+
+2.2.1 ABBREVIATIONS 
+
+ft ..............................................................................................................................................   feet 
+
+mi.............................................................................................................................................   mile(s) 
+
+g/t ............................................................................................................................................   grams/ton 
+
+ac .............................................................................................................................................   Acres 
+
+oz .............................................................................................................................................   ounces 
+
+Cg .............................................................................................................................................   graphitic carbon 
+
+2.2.2 COMMON UNITS 
+
+Pound.......................................................................................................................................   lb 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 5 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Kilo (thousand).........................................................................................................................   k 
+
+Less than..................................................................................................................................   < 
+
+Million......................................................................................................................................   M 
+
+Parts per billion........................................................................................................................   ppb 
+
+Parts per million.......................................................................................................................   ppm 
+
+Percent.....................................................................................................................................   % 
+
+Square foot ..............................................................................................................................   ft2 
+
+Square inch ..............................................................................................................................   in2 
+
+Square meter ...........................................................................................................................   m2 
+
+Ton...........................................................................................................................................   t 
+
+Tons per day ............................................................................................................................   tpd 
+
+Tons per hour...........................................................................................................................   tph 
+
+Tons per year ...........................................................................................................................   tpy 
+
+2.2.3 COMMON CHEMICAL SYMBOLS 
+
+Calcium carbonate ...................................................................................................................   CaCO3 
+
+Carbon 
+
+Copper .............................................................................................................................. …Cu 
+
+C 
+
+Cyanide ....................................................................................................................................   CN 
+
+Gold .........................................................................................................................................   Au 
+
+Hydrogen .................................................................................................................................   H 
+
+Iron ..........................................................................................................................................   Fe 
+
+Lead .........................................................................................................................................   Pb 
+
+Silver ........................................................................................................................................   Ag 
+
+Sodium.....................................................................................................................................   Na 
+
+Sulfur .......................................................................................................................................   S 
+
+Zinc ..........................................................................................................................................   Zn 
+
+2.2.4 COMMON ACRONYMS 
+
+CIM ..........................................................................................................................................   Canadian Institute of 
+
+Mining, Metallurgy 
+
+and Petroleum 
+
+Engineers 
+
+ISO............................................................................................................................................   International 
+
+Standards 
+
+Organization 
+
+NPI ...........................................................................................................................................   Net profit interest 
+
+NSR ..........................................................................................................................................   Net Smelter return 
+
+RQD..........................................................................................................................................   Rock quality 
+
+designation 
+
+RC or RVC .................................................................................................................................   Reverse circulation  
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 6 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+3 RELIANCE ON OTHER EXPERTS 
+
+The authors have relied on information supplied by the Law Office of John Foster Tyra, PC, Tuscaloosa, 
+
+Alabama, as the legal counsel to AGC, for information about the mining titles described in Section 4.2.1 
+
+of this report in reports to AGC dated July 17, 2012 ("Preliminary Mining Title Opinion") and October 26, 
+
+2012  ("Alabama Graphite Option"). The authors have not  carried out  independent verification of  the 
+
+mineral rights.  
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 7 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+4 PROPERTY DESCRIPTION AND LOCATION 
+
+4.1 COOSA PROPERTY LOCATION 
+
+The Coosa Graphite Project is located in the western part of Coosa County, State of Alabama, USA. The 
+
+property covers parts of townships T. 21N., T. 22 N., T. 23N. and T. 24N. and ranges R. 16E., R. 17E., R. 
+
+18E. and R. 19E. The western boundary is approximately the Coosa River. The center of the drill grid is at 
+
+32°54'30''N, 86°24'00"W. The location is shown in Figure 4.1. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 8 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Figure 4.1 Location map of the Coosa Project 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 9 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+4.2 COOSA MINERAL TENURE 
+
+4.2.1 OWNERSHIP 
+
+The Coosa Project mineral tenure comprises mineral rights  leased by AGC totaling41,964 acres (16,982 
+
+ha) or 65.6 square miles. 
+
+On August 1, 2012, AGC's subsidiary, Alabama Graphite Co. Inc. ("Alabama Graphite"), a company 
+
+registered in Alabama, entered into a Mining Lease Agreement And Option with Eugenia W. Dean, 
+
+Birmingham, Alabama pursuant to which it: (a) leased the mineral rights in respect to an area with the 
+
+potential for graphite comprising 14,020.86 acres (5,674 ha) in township 22N, range 17E, Coosa County, 
+
+Alabama; and (b) received an option of first refusal to lease the mineral rights to adjacent areas 
+
+comprising 30,756.52 acres (12,447 ha). On November 5, 2012, Alabama Graphite exercised the option 
+
+and leased an additional 27,943.52 acres (11,308 ha) of the remaining available acres under the same 
+
+terms as in the initial agreement. The total property under lease is now 41,964.38 acres (16,982 
+
+ha).Maps of the mineral rights are shown in Figure 4.2 and Figure 4.3, and a list of the mineral rights is 
+
+given in Table 4.1. 
+
+Under the terms of the agreement, the lease is for successive renewable 5‐year terms (not to exceed 70 
+
+years) in consideration of an initial cash payment of $30,000 and annual advance royalty payments of 
+
+US$10,000, starting on July 1, 2015. Alabama Graphite also paid $1,000 for the Option and is required to 
+
+make annual payments of $1,000 to keep the Option in good standing. Alabama Graphite made a 
+
+payment of $48,537 on November 5, 2012 to exercise the option as an initial 3 year payment through 
+
+November 4, 2015, and issued 25,000 shares to the lessor. 
+
+Alabama  Graphite  is  also  obliged  to  pay  the  lessor  a  net  smelter  returns  royalty  of  2%  from  the 
+
+commercial production and sale of graphite  from  the properties, as well as  royalties  for any precious 
+
+metals,  mica,  iron,  magnetite,  manganese,  calcium  carbonate,  copper,  tantalum  and  rare  earths 
+
+commercially produced and sold from the properties.  
+
+In connection with entering  into the Mining Lease Agreement and Option, Alabama Graphite engaged 
+
+Charles Merchant  ("Merchant"), an arm's  length party, as an  independent contractor  to assist  it with 
+
+establishing  its  graphite  operations  in Alabama. As  consideration  for  his  services,  the  Company  paid 
+
+Merchant  the  cash  sum of US$320,000 and  is  to  issue 500,000 common  shares of  the Company  (the 
+
+"Finder's Shares") to him once Alabama Graphite has secured the surface rights to the Coosa Graphite 
+
+Property.  
+
+Alabama  Graphite  is  obliged  to  pay Merchant  an  additional  US$100,000  upon  receipt  by  Alabama 
+
+Graphite of  a bankable  feasibility  study  in  respect of  the  Leased  Property  and  a  further US$150,000 
+
+upon full permitting of the Leased Property. The Company  is also obliged to pay Merchant net smelter 
+
+royalties  of  up  to  US$150,000  if  and  when  graphite  mining  operations  commence  on  the  Leased 
+
+Property.  
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 10 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+The mineral  rights are patents of private  land  issued between 1842 and 1860  (for  the  four with  title 
+
+opinion). The surface land rights were subsequently sold separately from the mineral rights and are now 
+
+held  by  a  different  owner.  The  ownership  of  the mineral  rights  is  a matter  of  public  record  in  the 
+
+Probate Records of Coosa County, Alabama. The authority  for the State of Alabama non‐fuel minerals 
+
+surface mining is the Alabama Department of Labor, Mining Division. No assessment work is required to 
+
+hold mineral  rights on private  land.The mineral  rights were granted  in perpetuity. The Coosa mineral 
+
+rights are identified by their township, range, section and, where relevant, quarters, in the same manner 
+
+as  land  rights, and do not have an  identification number or name.   The mineral  rights have not been 
+
+surveyed. 
+
+The mineral rights are patents of private  land that were  issued before the  introduction of the General 
+
+Mining Law of 1872, which governs mining on Federal public  lands, hence this  law  is not applicable to 
+
+the Coosa Project and the mineral rights are not held as either patented or unpatented lode claims. Thus 
+
+the mineral rights do not have claim names and are not defined by metes and bounds.  
+
+Townships, ranges, sections and quarters are numbered as follows in the United States: 
+
+ Township measures the distance north or south of a base  line which  is a designated parallel. A 
+township  usually measures  6 miles.  The  first  6 miles  north  of  the  base  line  is  township  one 
+
+north, written T.1 N.  
+
+ Range measures  east  or  west  from  the  principal meridian  which  is  a  designated meridian. 
+Ranges are also usually 6 miles in size. The first 6 miles west of the principal meridian iswritten 
+
+rangeone west, R. 1 W.  
+
+ Townships are  subdivided  into  sections. Each  township  is 6 miles by 6 miles and  contains 36 
+sections of 1 mile by 1 mile. The northeast corner is section 1. They are numbered to the west in 
+
+the north row, then to the east in the second row, and so on in a snake‐like pattern. 
+
+ Sections  are  subdivided  into  northeast,  northwest,  southeast  and  southwest  quarters  of  160 
+acres, for example NW ¼ (northwest quarter). There are further subdivided into quarters of 40 
+
+acres and are designated by the smallest quarter followed by the  largest quarter, for example, 
+
+NE ¼, SW ¼ means the northeast quarter of the southwest quarter). 
+
+The drilling carried out by AGC is on the mineral rights of township 22 N., range 17 E, sections 5, 7 and 8. 
+
+John Foster Tyra, PC, Tuscaloosa, Alabama, carried out a title search in the public records in the Office of 
+
+the Probate Judge of Coosa County and delivered a title opinion on sections 5, 7, 8 and 9, township 22 N, 
+
+range 17 E  in reports to AGC dated July 17, 2012 ("Preliminary Mining Title Opinion") and October 26, 
+
+2012 ("Alabama Graphite Option"). 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 11 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 12 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+Figure 4.2 Map of the mineral rights of the Coosa Project 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 13 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+Figure 4.3 Detailed map of mineral rights and drill hole locations, Coosa Project 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 14 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 15 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Table 4.1 List of mineral rights in the Coosa Project, Coosa County, Alabama 
+
+Area 
+Township  Range  Section  Quarter 
+
+(acres) 
+
+T. 21 N.  R. 16 E.  Section 12   SW1/4 NE1/4, NW1/4, S1/2 SW1/4, NW1/4 SE1/4, S1/2 SE1/4  400 
+
+T. 21 N.  R. 17 E.  Section 01   E1/2 NE1/4, NW1/4 SE 1/4  120 
+
+T. 21 N.  R. 17 E.  Section 06   NE1/4  160 
+
+T. 21 N.  R. 17 E.  Section 07   SE1/4 SE1/4  40 
+
+T. 21 N.  R. 17 E.  Section 08  
+SW1/4 NE1/4, SE1/4 NW1/4, E1/2 NE1/4 SW1/4, SE1/4 SW1/4, 
+W1/2 SE1/4 
+
+220 
+
+T. 21 N.  R. 17 E.  Section 11   NE1/4  160 
+
+T. 21 N.  R. 17 E.  Section 27   SE1/4 SE1/4  40 
+
+T. 21 N.  R. 17 E.  Section 33   SW1/4 NW1/4, fractional NW1/4 SW1/4  69 
+
+T. 21 N.  R. 18 E.  Section 02  
+NW1/4 NW1/4; ALSO 10 acres off the East side of the NE1/4 
+NW1/4; ALSO all that part of the NW1/4 NE1/4 lying North of the 
+creek Containing 20 acres, more or less 
+
+70 
+
+T. 21 N.  R. 18 E.  Section 03   SW1/4 NE1/4, N1/2 NW1/4  120 
+
+T. 21 N.  R. 18 E.  Section 04  
+A tract of land on the East side of the NE1/4 NE1/4, Containing 6.5 
+acres, more or less 
+
+6.5 
+
+T. 21 N.  R. 18 E.  Section 05   N1/2 SE1/4  80 
+
+T. 21 N.  R. 18 E.  Section 07   SE1/4 NE1/4, NE1/4 SE1/4, SW1/4 SW1/4  120 
+
+T. 21 N.  R. 18 E.  Section 09   SE1/4 NE1/4, NW/4 NW1/4, NE1/4 SW1/4  120 
+
+T. 21 N.  R. 18 E.  Section 17   NE1/4 SW1/4  40 
+
+T. 21 N.  R. 18 E.  Section 21   NW1/4 NW1/4  40 
+
+T. 22 N.  R. 16 E.  Section 01   All  640 
+
+T. 22 N.  R. 16 E.  Section 02   All  640 
+
+T. 22 N.  R. 16 E.  Section 03   E1/2 NW1/4, SE1/4 SE1/4  120 
+
+T. 22 N.  R. 16 E.  Section 04  
+NE1/4 NE1/4, S1/2 NE1/4, NW1/4 NW1/4, N1/2 SW1/4 NW1/4, 
+E1/2 SW1/4, SW1/4 SW1/4, SE1/4 
+
+460.1 
+
+T. 22 N.  R. 16 E.  Section 05   NE1/4  160 
+
+T. 22 N.  R. 16 E.  Section 08   Lot A  14.1 
+
+T. 22 N.  R. 16 E.  Section 09   N1/2, SE1/4, E1/2 SW1/4  554.2 
+
+T. 22 N.  R. 16 E.  Section 10   N1/2, N1/2 SW1/4, NW1/4 SE1/4, NE1/4 SE1/4  481.1 
+
+T. 22 N.  R. 16 E.  Section 11   S1/2 NW1/4, S1/2 SW1/4, NW1/4 SW1/4  200 
+
+T. 22 N.  R. 16 E.  Section 12   N1/2, SW1/4  480 
+
+T. 22 N.  R. 16 E.  Section 13   All  641.2 
+
+T. 22 N.  R. 16 E.  Section 14   All  640 
+
+T. 22 N.  R. 16 E.  Section 15   S1/2, S1/2 NW1/4, NE1/4 NE1/4  440.5 
+
+T. 22 N.  R. 16 E.  Section 16   All of fractional N1/2  196.7 
+
+T. 22 N.  R. 16 E.  Section 22   NE1/4, S1/2 NW1/4, NE1/4 NW1/4, all of fractional S1/2  580 
+
+T. 22 N.  R. 16 E.  Section 23   All of fractional S1/2  318.3 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 16 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Area 
+Township  Range  Section  Quarter 
+
+(acres) 
+
+T. 22 N.  R. 16 E.  Section 24   All  640 
+
+T. 22 N.  R. 16 E.  Section 25  
+
+N1/2 NE1/4, NW1/4, E1/2 SE1/4; also 10 acres in the Northeast 
+Corner of the NW1/4 SW1/4; also a fractional part containing 250 
+acres, more or less, as described in that certain deed from the 
+trustees under the last will and testament of John R. Hegeman to 
+Charles A. Dean, dated November 11, 1929, and recorded in Deed 
+Book 6, page 582, in the land records of the Probate Judge's Office, 
+Coosa County, Alabama. 
+
+580 
+
+T. 22 N.  R. 16 E.  Section 36   E1/2  320 
+
+T. 22 N.  R. 17 E.  Section 01  NW1/4 NW1/4  40 
+
+T. 22 N.  R. 17 E.  Section 02  SE1/4 NE1/4, N1/2 NW1/4, N1/2 SE1/4  200 
+
+T. 22 N.  R. 17 E.  Section 03  All  640 
+
+T. 22 N.  R. 17 E.  Section 04  NW1/4 NE1/4, E1/2 SE1/4, E1/2 NW1/4, E1/2 SW1/4  280 
+
+T. 22 N.  R. 17 E.  Section 05  All  640.96 
+
+T. 22 N.  R. 17 E.  Section 06  All  640 
+
+T. 22 N.  R. 17 E.  Section 07  All  640 
+
+T. 22 N.  R. 17 E.  Section 08  All  640 
+
+T. 22 N.  R. 17 E.  Section 09  All  640 
+
+T. 22 N.  R. 17 E.  Section 10  All, except E1/2 SE1/4 SW1/4  620 
+
+T. 22 N.  R. 17 E.  Section 11  All, except E1/2 NW1/4  560 
+
+T. 22 N.  R. 17 E.  Section 12  W1/2 except 8 acres in the SE corner of the SE1/4 SW1/4  312 
+
+T. 22 N.  R. 17 E.  Section 13  E1/2 NW1/4  80 
+
+T. 22 N.  R. 17 E.  Section 14  W1/2 NW1/4, SW1/4, W1/2 SE1/4, NE1/4 SE1/4  360 
+
+T. 22 N.  R. 17 E.  Section 15   NE1/4, SW1/4, N1/2 SE1/4, SE1/4 SE1/4  440 
+
+T. 22 N.  R. 17 E.  Section 17   All  640 
+
+T. 22 N.  R. 17 E.  Section 18   SW1/4, NE1/4 SE1/4, W1/2 NW1/4 SE1/4, S1/2 SE1/4  300 
+
+T. 22 N.  R. 17 E.  Section 19   All  640 
+
+T. 22 N.  R. 17 E.  Section 20   N1/2, N1/2 S1/2  480 
+
+T. 22 N.  R. 17 E.  Section 21   NE1/4 NE1/4, S1/2 NE1/4, NW1/4 NW1/4, S1/2 NW1/4, S1/2  560 
+
+T. 22 N.  R. 17 E.  Section 22   All  642 
+
+T. 22 N.  R. 17 E.  Section 23   N1/2, ALSO the South 15 acres of the SE1/4 SE1/4  335 
+
+T. 22 N.  R. 17 E.  Section 24   SE1/4 SE1/4  40 
+
+T. 22 N.  R. 17 E.  Section 25   All, except SW1/4 SE1/4  600 
+
+T. 22 N.  R. 17 E.  Section 26   N1/2, SW1/4, W1/2 SE1/4, all NE1/4 SE1/4 North of Hatchett Creek  580 
+
+T. 22 N.  R. 17 E.  Section 27   N1/2 NE1/4, S1/2 NW1/4, SW1/4, W1/2 SE1/4, SE1/4 SE1/4  440.9 
+
+T. 22 N.  R. 17 E.  Section 31   All  640 
+
+T. 22 N.  R. 17 E.  Section 32   All  640 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 17 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Area 
+Township  Range  Section  Quarter 
+
+(acres) 
+
+T. 22 N.  R. 17 E.  Section 33   N1/2, SW1/4, NW1/4 SE1/4, SE1/4 SE1/4  560 
+
+T. 22 N.  R. 17 E.  Section 34   S1/2 NW1/4, NE1/4 SW1/4  120 
+
+T. 22 N.  R. 17 E.  Section 35   NW1/4 NE1/4, NE1/4 NW1/4 except 10 acres off the West side  70 
+
+T. 22 N.  R. 18 E.  Section 09   SW1/4 SE1/4, E1/2 SE1/4  120 
+
+T. 22 N.  R. 18 E.  Section 10   N1/2 SW1/4  80 
+
+T. 22 N.  R. 18 E.  Section 15   NW1/4 NW1/4  40 
+
+T. 22 N.  R. 18 E.  Section 16   NE1/4 NW1/4, W1/2 W1/2  200 
+
+T. 22 N.  R. 18 E.  Section 17   SW1/4 NE1/4, SE1/4, S1/2 SW1/4  280 
+
+T. 22 N.  R. 18 E.  Section 18   S1/2 SE1/4 SE1/4  20 
+
+T. 22 N.  R. 18 E.  Section 19  
+NE1/4 NE1/4, S1/2 NE1/4, S1/2 NW1/4, SW1/4, N1/2 SE1/4; ALSO 
+25 acres lying South of Hatchett Creek in the NE1/4 NW1/4; ALSO 
+20 acres lying East of Cox Mill Road in the SE1/4 SE1/4 
+
+485 
+
+T. 22 N.  R. 18 E.  Section 20  
+
+N1/2 NE1/4; SW1/4 NE1/4 less 10 acres in the Southwest corner 
+thereof; E1/2 NW1/4 less 2 acres now or formerly owned by J.D. 
+Hardy, and less 10 acres East of the Old Road in the Southeast 
+corner of the SE1/4 NW1/4; W1/2 NE1/4 SW1/4 less 1 acre at the 
+church; 5 acres in the Northwest corner of the NE1/4 SE1/4; W1/2 
+W1/2 
+
+362 
+
+T. 22 N.  R. 18 E.  Section 21   NW1/4 NW1/4  40 
+
+T. 22 N.  R. 19 E.  Section 07  
+NE1/4 SE1/4 except 15 acres now or formerly owned by G.W. 
+Miller 
+
+25 
+
+T. 23 N.  R. 16 E.  Section 03   S1/2, SE1/4 NW1/4  360 
+
+T. 23 N.  R. 16 E.  Section 04   E1/2, NW1/4, N1/2 SW1/4, N1/2 S1/4 SW1/4  600 
+
+T. 23 N.  R. 16 E.  Section 05   All  643 
+
+T. 23 N.  R. 16 E.  Section 07   Lot A  42 
+
+T. 23 N.  R. 16 E.  Section 08   NE1/4, NW1/4 less 13 acres covered by waters of the Coosa River  307 
+
+T. 23 N.  R. 16 E.  Section 10   W1/2 W1/2  160 
+
+T. 23 N.  R. 16 E.  Section 11  
+W1/2 NE1/4, NE1/4 NW1/4, S1/2 NW1/4, NW1/4 SW1/4, SE1/4 
+SW1/4, S1/2 SE1/4 
+
+361 
+
+T. 23 N.  R. 16 E.  Section 13   S1/2 NW1/4, NW1/4 NW1/4, W1/2 NE1/4 NW1/4, SW1/4  300 
+
+T. 23 N.  R. 16 E.  Section 14   All  641 
+
+T. 23 N.  R. 16 E.  Section 15   All  641.1 
+
+T. 23 N.  R. 16 E.  Section 16  
+NE1/4 NE1/4, SW1/4 NW1/4, W1/2 SW1/4, SE1/4 SW1/4, S1/2 
+SE1/4 
+
+280 
+
+T. 23 N.  R. 16 E.  Section 17  
+NE1/4 SW1/4, S1/2 S1/2 except that part covered by the waters of 
+the Coosa River 
+
+193 
+
+T. 23 N.  R. 16 E.  Section 20   W1/2 NE1/4, N1/2 NW1/4, SE1/4 NW1/4, E1/2 SE1/4  280 
+
+T. 23 N.  R. 16 E.  Section 21   All, except 10 acres in the Southwest corner of the NW1/4 NW1/4  630 
+
+T. 23 N.  R. 16 E.  Section 22   All  640 
+
+T. 23 N.  R. 16 E.  Section 23   W1/2, W1/2 E1/2, NE1/4 NE1/4, SE1/4 SE1/4  560 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 18 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Area 
+Township  Range  Section  Quarter 
+
+(acres) 
+
+T. 23 N.  R. 16 E.  Section 24   SW1/4, NW1/4 NW1/4  200 
+
+T. 23 N.  R. 16 E.  Section 25   All  640 
+
+T. 23 N.  R. 16 E.  Section 26  
+E1/2 NW1/4, NW1/4 NW1/4, 5 acres in the SW1/4 NW1/4, SE1/4 
+NE1/4, NE1/4 SE1/4, SW1/4 
+
+365.5 
+
+T. 23 N.  R. 16 E.  Section 27  
+NW1/4, W1/2 NE1/4, NW1/2 NE1/4 NE1/4 (the Northwest half of 
+NE1/4 NE1/4) 
+
+260 
+
+T. 23 N.  R. 16 E.  Section 28  
+S1/2 NE1/4, NE1/4 NE1/4, W1/2 NW1/4, the North 30 acres of the 
+NE1/4 NW1/4, S1/2 
+
+531.5 
+
+T. 23 N.  R. 16 E.  Section 29   All  641.6 
+
+T. 23 N.  R. 16 E.  Section 31   All of fractional section  10 
+
+T. 23 N.  R. 16 E.  Section 32   All of fractional section  620.32 
+
+T. 23 N.  R. 16 E.  Section 33   NW1/4, NW1/4 SW1/4, W1/2 NE1/4 SW1/4  220 
+
+T. 23 N.  R. 16 E.  Section 34  
+E1/2 NE1/4, N1/2 SE1/4, SE1/4 SE1/4, all of the SW/14 NE1/4 lying 
+East of Clay Creek 
+
+230.8 
+
+T. 23 N.  R. 16 E.  Section 35  
+SW1/4 NE1/4, NW1/4, N1/2 SW1/4, SW1/4 SW1/4, NW1/4 SE1/4, 
+S1/2 SE1/4 SE1/4 
+
+380 
+
+T. 23 N.  R. 16 E.  Section 36   All  640 
+
+T. 23 N.  R. 17 E.  Section 18   E1/2 SE1/4  80 
+
+T. 23 N.  R. 17 E.  Section 19   S1/2, NW1/4 NE1/4  360 
+
+T. 23 N.  R. 17 E.  Section 20   S1/2  320 
+
+T. 23 N.  R. 17 E.  Section 28  
+N1/2 N1/2, SW1/4 NE1/4, SE1/4 NW1/4, N1/2 SE1/4, SE1/4 SE1/4 
+E1/2 SW1/4, SW1/4 SW1/4 
+
+481 
+
+T. 23 N.  R. 17 E.  Section 29   All  641 
+
+T. 23 N.  R. 17 E.  Section 30   All  640 
+
+T. 23 N.  R. 17 E.  Section 31   All  640 
+
+T. 23 N.  R. 17 E.  Section 32   All  640 
+
+T. 23 N.  R. 17 E.  Section 33   NE1/4 NE1/4, NW1/4, SW1/4, S1/2 SE1/4, NE1/4 SE1/4  480 
+
+T. 23 N.  R. 17 E.  Section 34   SW1/4 SW1/4, SE1/4 SE1/4  80 
+
+T. 23 N.  R. 18 E.  Section 32   W1/2 NW1/4, NE1/4 NW1/4  120 
+
+T. 23 N.  R. 19 E.  Section 20   NW1/4 SW1/4  40 
+
+T. 24 N.   R. 16 E.  Section 32  
+NW1/4 NE1/4, S1/2 NE1/4, E1/2 NW1/4, SW1/4, N1/2 SE1/4, 
+SE1/4 SE1/4 
+
+480 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 19 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+4.2.2 ROYALTIES 
+
+A 2% NSR royalty is payable by AGC to the lessor from the commercial production and sale of graphite 
+
+from  the properties,  as well  as  royalties  for  any precious metals, mica,  iron, magnetite, manganese, 
+
+calcium  carbonate,  copper,  tantalum  and  rare  earths  commercially  produced  and  sold  from  the 
+
+properties.  
+
+A NSR of 0.5% up  to a  total of US$150,000  is also payable  to Merchant  if and when graphite mining 
+
+operations commence on the Leased Property.  
+
+4.2.3 LEGAL ACCESS AND SURFACE RIGHTS 
+
+AGC has negotiated a Surface UseAgreement with the holder of the surface rights  in an area of 3,481 
+
+acres (1,409 ha), Headwaters InvestmentsCorporation, Atlanta, Georgia the first period of which extends 
+
+until  September  1,  2013.  This  covers  the  area  of  the  drill  grid  and  allows  the  company  to  carry  out 
+
+exploration including sampling, trenching and drilling. A payment of $53,000 was made plus a guarantee 
+
+of  $20,000  placed  in  escrow.  The  payments  were  based  on  the  amount  of  anticipated  surface 
+
+disturbance.This  provides  unrestricted  access  to  the  Property  with  the  stipulation  that  AGC  is 
+
+responsible for reclamation of any surface disturbance caused by its exploration activities. 
+
+Headwater Investments Corp. has fee simple ownership of the surface rights. They are required to pay 
+
+an annual property tax of US$1.13 per acre. The property taxes have been paid  in full to date and the 
+
+property is in good standing. 
+
+4.2.4 ENVIRONMENTAL REGULATIONS AND PERMITS FOR EXPLORATION 
+
+Exploration, road access and drilling at the Coosa Project  is subject to environmental permits from the 
+
+Alabama  Department  of  Environmental  Management  (ADEM)  including  a  Construction  storm 
+
+waterpermit under  the National Pollutant Discharge Elimination System  (NPDES), and General Permit 
+
+number ALR1000000 authorizing discharges. A Construction Best Management Practices Plan (CBMPP) 
+
+was prepared for storm water management, erosion and sediment control. 
+
+4.2.5 OTHER 
+
+MMC knows of no other known significant factors and risks that may affect access, title or the right or 
+
+ability to perform work on the property. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 20 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+5 ACCESS, CLIMATE, INFRASTRUCTURE AND PHYSIOGRAPHY 
+
+5.1 ACCESS AND INFRASTRUCTURE 
+
+The  Coosa  Project  is  located  in  western  Coosa  County,  State  of  Alabama,  USA.  The  property 
+
+encompasses  portions  of  townships  T21N,  T22N,  T23N  and  T24N  and  ranges  R16E,  R17E,  R18E  and 
+
+R19E.  The western  boundary  is  approximately  the  Coosa  River.  The  center  of  the  drill  grid  on  the 
+
+property is at 32°54'30'' N, 86°24'00" W. The location and access are shown onFigure 5.1. 
+
+Figure 5.1 Access map to the Coosa Project drill grid 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 21 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+The  project  is50  miles  (80  km)  south‐southeast  of  Birmingham  (population  1.1  million  in  the 
+
+metropolitan area). Access to the project  is by driving southeast from Birmingham Airport on Highway 
+
+US 280 for about 52 miles (84 km) to Sylacauga(population 12,749) which  is the closest small city with 
+
+hotels and services.AGC has its field office and core store here. It is called the "Marble City" due to large 
+
+marble quarries and processing facilities nearby. The access route is given in Table 5.1. The driving time 
+
+from Birmingham to the project  is about 90 to 120 minutes, and from Sylacauga to the property  is 45 
+
+minutes to an hour.  
+
+Table 5.1 Access from Birmingham to Coosa Project 
+
+From   To   Highway 
+Distance 
+(miles) 
+
+Distance 
+(km) 
+
+Birmingham Airport  Sylacauga  US 280  52  84 
+
+Sylacauga  turn west  US 231  8  13 
+
+continue to  Weogufka  County Road 56  7  11 
+
+Weogufka  Mt. Moriah Church  County Road 29  7  11 
+
+Mt. Moriah Church  Mt. Moriah Cemetery     0.25  0.4 
+
+Mt. Moriah Cemetery  Drill grid  Forest roads  3  5 
+
+ Total        77.25  124.4 
+
+The nearest major airport with scheduled flights is at Birmingham, and there is an airfield at Sylacauga. 
+
+The property is close to centers of population which could supply the workforce and logistical needs of a 
+
+graphite mine.   The area within 10 miles (16km) of the property  is very sparsely populated, so a mine 
+
+would directly affect very  few people. Mining has been a  traditional  industry  in  the area, and marble 
+
+quarries are still active.  
+
+There  is  no  infrastructure  in  the  immediate  area  of  the  property,  other  than  a  network  of  well‐
+
+maintained logging access roads.  An electrical transmission line occurs about 1 mile (1.6 km) west of the 
+
+drill grid. Water  is abundant  in small streams and  in Mitchell Lake, a  large  impoundment on the Coosa 
+
+River at the westernedge of the property.   
+
+5.2 PHYSIOGRAPHY 
+
+The property is located in an area of ridges and valleys with elevations of approximately 350to 1200 feet 
+
+(107 to 370m). The area of the drill grid  is a peneplain surface dipping gently south at an elevation of 
+
+600 to 700 feet (183 to 213 m), and incised by a meandering river system to give a local relief of up to 
+
+300 feet (91m). The elevations of the drill collars vary from about 351 to 670 feet (107 to 204 m). 
+
+The land use is forestry withthick mixed hardwoods and pines, and significant areas of pine plantations 
+
+which  are  harvested  every  20  to  25  years.  There  are  clearings  at  towns  and  for  agriculture. Due  to 
+
+extensive weathering, natural outcrops are sparse and most useful exposures are  in road cuts, stream 
+
+drainages or old mine workings.  
+
+The Weogufka Creek  runs  from northeast  to  southwest on  the north  side of  the drill  grid,  and  joins 
+
+Swamo Creek, the Coosa River and the Mitchell Lake dam. This is a tributary of the Alabama River which 
+
+flows southwest, becomes the Mobile River, and flows into the Gulf of Mexico at Mobile. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 22 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Figure 5.2 Overview of the physiography of the drill grid looking southwest from near hole AGC‐011, 
+
+showing dissected peneplain and pine forest 
+
+ 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 23 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+5.3 CLIMATE 
+
+The  climate  zone  of  Alabama  is  classified  as  humid  subtropical  (Cfa)  under  the  Koppen  Climate 
+
+Classification, and subtropical moist forest in the Holdridge Life Zones Climate Classification. 
+
+The nearest climatic data available is for Sylacauga which has an average temperature of 60.9°F (16.1°C), 
+
+and  annual  average high of 74.4°F  (23.6°C)  and  annual  average  low of 47.4°F  (8.6°C).  The maximum 
+
+average high  is 91°F  (33°C)  in  July and August, and  the  lowest average  low  is 30°F  (‐1°C)  in  January.  
+
+Average annual precipitation  is 54.9  inches  (140  cm).  It  rains all year with  the wettest months being 
+
+November  to March.  Snow  is  rare.  It  is  humid  in  the  summer.The  state  is  prone  to  tropical  storms, 
+
+hurricanes, thunderstorms and tornadoes. 
+
+ 
+
+Figure 5.3 Physiography, access and land use – pine forest and forest road at drill pad AGC‐010 
+
+ 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 24 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+6 HISTORY 
+
+6.1 THE ALABAMA GRAPHITEBELT 
+
+The following sections 6.1 and6.2 describe the history of graphite mining and exploration in the Alabama 
+
+Graphite Belt and  is provided for background  information on the regional setting of the Coosa Project. 
+
+The information is taken from published sources as summarized byPallister& Thoenen (1948) and Durgin 
+
+(2013). These are not necessarily an indication of the mineralization that occurs on the Coosa Project.  
+
+The Alabama Graphite Belt is a 70 mile (112 km) long, northeast‐trending belt in Clay, Coosa and Chilton 
+
+Counties,  shown  in  a  historic map  in  Figure  6.1. Most  of  the  historical mines were  in  the  northeast 
+
+segment around Ashland, Clay County  (Area A of Pallister & Thoenen, 1948), about 18 miles  (29 km) 
+
+long, separated by an 11 mile (18 km) gap from the 40 mile (64 km) long, southwest segment extending 
+
+from Goodwater, Coosa County, to Verbena, Chilton County (Areas B and C). The geology of the graphite 
+
+deposits at Ashland was described by Brown (1925). The Coosa Project occurs beside the historic Fixico 
+
+mine in the southwestern part of the belt (Area C), shown in a historic map in Figure 6.2.  
+
+Figure 6.1 Historic map of the Alabama Graphite Belt (Cameron & Weiss, 1960, after Pallister & 
+
+Thoenen, 1948) showing the location of the Coosa Project 
+
+ 
+
+ 
+
+COOSA PROJECT 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 25 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+Figure 6.2 Historic map of the graphite mines of Area C in the SW part of the Alabama Graphite 
+
+Belt(Cameron & Weiss, 1960, after Pallister & Thoenen, 1948)showing the location of the Coosa 
+
+Project 
+
+ 
+
+The presence of graphitic schists in Alabama was recognized by M. Tuomey before the Civil War (1861‐
+
+65;  Jones, 1929).   Dr. Gessner, employed by  the Confederate government  to  recover  sulfur  from  the 
+
+pyrite deposit at Pyriton, is credited with the first discovery of flake graphite in Alabama (Clemmer et al., 
+
+1941).  The first attempt at development was in 1888, but an experimental mill using water for flotation 
+
+was  unsuccessful.    The  first  commercial  graphite  operation  was  in  1899  when  the  Allen  Graphite 
+
+Company built a mill using a patented oil  flotation process and produced  the  first  refined graphite  in 
+
+Alabama, at a mill near the Quenelda deposits in Clay County. 
+
+Shortly after that, the Fixico Mine in Coosa County, adjacent to the Coosa Project, and the Dixie Mine in 
+
+Chilton  County  began  operations.    By  1906  there were  several mines  in  operation  and  by  1913  the 
+
+graphite industry was well established in central Alabama.  World War I caused the disruption of foreign 
+
+graphite  imports,  leading  to significantly higher prices and  the Alabama graphite  industry boomed. By 
+
+1918  there were  25  flotation  plants  operating  in  the  district with  a  total  production  in  1918  of  7.8 
+
+million pounds (3.5 million kg) of graphite (Pallister& Thoenen, 1948).   
+
+COOSA PROJECT 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 26 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+However, the end of the war and the resumption of foreign imports depressed prices and the Alabama 
+
+graphite industry dwindled to 7 operating plants in 1920. In 1929 the last two mines in the district, the 
+
+Ceylon Graphite Company in Coosa County and the Superior Flake Plant in Clay County, were closed. 
+
+At  the  start  of World War  II  in  1939,  C.  J.  Johnson  rebuilt  the mill  at  the  Ceylon Mine  and  began 
+
+production of flake graphite on a small scale.  In 1940, as a result of the interruption of graphite imports 
+
+from Madagascar, the US Bureau of Mines made a preliminary survey of the Alabama graphite deposits 
+
+to  determine  the  viability  of  resumption  of mining, with  a  report  by  Clemmer  etal.  (1941).    As  the 
+
+demand  for  graphite  rose,  the  War  Production  Board,  the  Metals  Reserve  Company  and  the 
+
+reconstruction  Finance Corporation  (all  federally  funded)  turned  their attention  to  the district, and a 
+
+detailed  study of  the district was  carried out between 1942  and 1944 which  resulted  in  a  report by 
+
+Pallister & Thoenen  (1948).   A  field  laboratory was established  in Ashland with  the  capacity  for pilot 
+
+crushing‐milling‐flotation testing and graphite analyses.  In 1943 the Crucible Flake mill of Haile Mines, 
+
+Inc. and  the Alabama Flake Graphite Co. plant  (Gisler, 1943) began  to produce, and  the  three plants 
+
+produced 8.1 million pounds  (3.7 million kg) of graphite, with Alabama again  ranking  first  in graphite 
+
+production in the US. The Crucible Flake mill was closed at the end of 1943, leaving only two producers 
+
+in the district. 
+
+A  thorough  review was made  of  all  the  known  graphite  producing  areas  in  the  district  in  1942‐44 
+
+(Pallister& Thoenen, 1948). The graphitic depositswere  found  to contain  significant amounts of green 
+
+vanadium‐bearing mica  (roscoelite).   A  total  of  11 mining  areas  including  49  graphite  deposits were 
+
+mapped and studied  in detail  for graphite and vanadium. More than 9 miles  (14.5km) of access roads 
+
+were built; 17,930 feet (5,457m) of bulldozer trenches, 2,670 feet of power scoop trenches, 5,234 feet 
+
+(1,596m)  of  hand  trenches  and  3,279  feet  (1,000m)  of  existing  trenches  were  dug  and  sampled.  
+
+Diamond drilling totaled 5,453 feet (1,662m)  in 84 holes (Pallister & Thoenen, 1948). This resulted  in a 
+
+historicalmineral  resource  estimateof  25,910,000  tons  inall  classes.  This  included  11,059,000  tons  of 
+
+"measured weathered ore reserves", 3,351,000 tons of "inferred weathered ore", and 11,500,000 tons 
+
+of  "unweathered  ore"  in  "measured",  "indicated"  and  "inferred"  categories,  with  an    average 
+
+recoverable  grade  in  the  "measured weathered ore"  estimated  at  3%  graphite  (Pallister &  Thoenen, 
+
+1948,  p.  77).  These  estimates  are  historical  in  nature  as  they  predate  the  introduction  of  the  CIM 
+
+standards and NI 43‐101, and are quoted  for  information purposes only. These are mineral  resource 
+
+estimates  rather  than mineral  reserve estimates. The assumptions, parameters and methods used  to 
+
+make these estimates are not stated in the original publication. The historical resources include multiple 
+
+deposits  throughout  the Alabama Graphite District. They were made  to evaluate  the potential of  the 
+
+whole  district.  A  qualified  person  has  not  done  sufficient work  to  classify  the  historical  estimate  as 
+
+current mineral resources or mineral reserves, and the Company  is not treating the historical resource 
+
+estimate as current mineral resources or mineral reserves. 
+
+After World War  II, production again declined rapidly due to the resumption of  imports and decline  in 
+
+prices.  By 1950 only the Pocahontas Mine near Ashland and the Bama Mine inChilton County were still 
+
+in production, and they closed  in 1953.   The Alabama graphite  industry has been  idle since that time.  
+
+The processing plants have all been dismantled, burned down or overgrown, and the graphite workings 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 27 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+are hidden under more  than 60 years vegetation. With  the current  resurgence of  interest  in graphite 
+
+deposits, attention is being turned again to the central Alabama graphite district. 
+
+Historic production  figures are  incomplete. There  is  little data  for the period 1898 to 1912.   The Allen 
+
+Graphite Company  in1899  "was able  to produce  several hundred  tons of graphite"  (Jones, 1929).    In 
+
+1917‐19 Alabama ranked first  in production of flake graphite  in the USA, and again  in 1943 (Pallister& 
+
+Thoenen, 1948). Graphite production between 1913 and 1920 is shown in Table 6.1. 
+
+Table 6.1Alabama Graphite Production 1913‐1920 (Clemmer et al., 1941) 
+
+Year 
+No. 
+
+Producers 
+Pounds produced Value $ 
+
+1913  3  2,020,910  87,336 
+
+1914  3  2,410,200  118,000
+
+1915  4  3,374,800  204,572
+
+1916  4  5,226,940  492,407
+
+1917  14  6,223,095  719,575
+
+1918  30  7,795,475  999,152
+
+1919  10  3,569,030  272,413
+
+1920  7  4,894,648  306,977
+
+ 
+
+Between 1920 and 1929 production figures are not available.   In 1929 three mills produced 3.5 million 
+
+pounds (1.6 million kg) of graphite, but all were closed by 1930.    In 1943 a total of 8.1 million pounds 
+
+(3.7 million kg) were produced, and two mills continued to produce until 1953.  Production statistics are 
+
+unavailable. 
+
+Mineable grade graphite bodies were greatly elongated along strike and were referred to as "leads", and 
+
+often included selvages of waste rock.  Cameron & Weiss (1960, p 263) described the leads as follows: 
+
+"The total length of some of the larger leads may be measureable in miles, but the full length of a lead is 
+
+not necessarily ore, for there is much variation in graphite content both along and across strike.  A typical 
+
+section  shows  alternating  layers  of  rocks  of  low  graphite  content,  of  high  graphite  content,  and  of 
+
+intermediate graphite content. The individual layers range from fractions of an inch (less than 1 cm) to 10 
+
+feet (3 m)  in thickness, with aggregate thickness  in some cases greater than 100 feet (30 m). Exposures 
+
+outside the mine workings are poor and none of the individual leads is exposed. The Pocahontas lead was 
+
+traced by trenching along strike for about 4000 feet (1220 m) and Brown (1925) reported that he was able 
+
+to trace a lead on the Griesemer property for a like distance." 
+
+Two good examples of mines in the Ashland area are the Quenelda mine and the Pocahontas mine.  At 
+
+the Quenelda there were 7 pits spaced along the strike of the leads for about 2000 feet (610m). The pits 
+
+were almost entirely in weathered mineralizationalong two leads 20 to 40 feet (6.1 to 12.2m) apart. The 
+
+southeast lead was 40 to 65 feet (12.2 to 19.8m) thick and the northwest lead was 50 to 80 feet (15.2 to 
+
+24.4m) thick.  The strike was N55‐7°5E and the dip is 55‐85° to the southeast.  Graphite grades averaged 
+
+about 3%. 
+
+The Pocahontas mine of the Alabama Flake Graphite Company was one of the  last operating mines  in 
+
+Alabama. The workings were  three parallel open  cuts  in which  the  leads were approximately 50  feet 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 28 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+(15.2m) wide and several hundred feet (a few hundred m) long. The depth of weathering could exceed 
+
+80 feet  (24.4m).   Pallister & Thoenen  (1948)  indicated that the  lead was shown to extend for another 
+
+2400 feet (732m) southwest from the third cut. The gradewas reported to average 4 to 5% graphite  in 
+
+later years. 
+
+The  two most  significant mines  in  the  southwestern portion of  the Alabama Graphite Belt were  the 
+
+Ceylon  and Bama mines.  The  Ceylon  deposit  is  located  about  8 miles  (12.9km) west  of  the  town  of 
+
+Goodwater. One of  the  largest mines  in  the district,  it operated  from 1916  to 1929 and  from 1939  to 
+
+1947.  The principal working developed during the later period was 925 feet (282m) long, up to 300 feet 
+
+(91m) wide and up to 70 feet (21.3m) deep on a series of  leads striking N45°E and dipping 55°SE. The 
+
+grade ranged from 2 to 6% graphite and averaged 3%.   
+
+The Bama mine  in Chilton County near  the southwest end of  the graphite beltoperated  from 1925  to 
+
+1930 when the mill burned down. The main pit was 625 feet (190m) long, 150 feet (45.7m) wide and 40 
+
+to 80 feet (12.2 to 24.4m) deep.   Two smaller pits about 200 feet (61m)  long were mined along strike 
+
+between the main pit and the mill. The deposits trend N20‐25°W and dip 50‐60°S, due to the presence 
+
+of a large fold.  
+
+Figure 6.3Crucible Flake Graphite Mill, Haile Mines, Inc., Clay County in the 1940s (Pallister & 
+
+Thoenen, 1948) 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 29 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+ 
+
+Figure 6.4 The Ceylon Graphite Co. mill, Coosa County, in the 1940s (Pallister & Thoenen, 1948) 
+
+ 
+
+ 
+
+Figure 6.5 The Ceylon Graphite Co. pit, Coosa County, in the 1940s (Pallister & Thoenen, 1948) 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 30 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+ 
+
+Figure 6.6 The Alabama Flake Graphite Company mill, Clay County, in 1945 (Gisler, 1945) 
+
+ 
+
+ 
+
+6.2 COOSA HISTORY 
+
+The Fixico Mine was located about 0.5 mi (850 m) southeast of the Coosa Project drill grid and operated 
+
+from 1902 to 1908. The location is shown inFigure 6.7. There is no record of the amount of graphite and 
+
+grade  produced.  AGC  geologists  have  located  the  old  wooden  dam  described  below,  and  report 
+
+overgrown  pits  on  the  west  side  of  the  creek.  They  sampled  the  pits  recently  but  results  are  not 
+
+available yet. The mine was described by Pallister & Thoenen (1948, p. 72‐3): 
+
+"The Fixico graphite mine, named for the Indian chief Fixico, who lived near the mine, is now owned by C. 
+
+A. Dean (Alexander City, Ala.). It is in the southern part of sec. 8, T. 22 N., R. 17 E., 11 miles west of 
+
+Rockford. C. F. Whoolock, who first used a "flotation" process to separate graphite in 1898 at the A. A. 
+
+Allen plant in Clay County, operated the Fixico mine with his son Kennard. About 1902, they built a log 
+
+dam, which is still intact, a mill, and houses for their employees and operated the mine until about 1908. 
+
+It is thus probably the oldest mine in Coosa County. 
+
+"The graphitic schist that was mined is exposed on the western slope of a tributary of Hatchett Creek, the 
+
+backwater of which, caused by the Mitchell Dam, is not far from the property. The western slope rises for 
+
+over 100 feet (30 m) above the creek level, and the pits open off a small cross valley. Mine pits were 
+
+opened at various levels and running at angles from northeast through west to southwest. The largest pit 
+
+is about 10 feet (3 m) above the creek and extends northeast for a distance of 150 feet (45 m). It is 75 feet 
+
+(23 m) wide and 50 feet (15 m) deep at the face. Sample A‐73 was taken across 40 feet (12 m) of this face. 
+
+A short distance to the northwest are two parallel pits each 100 feet long (30 m), 25 to 30 feet (8 to 9 m) 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 31 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+wide, and 30 feet deep (9 m) with a narrow "horse" between them. The floor of these pits is 40 feet (12 
+
+m) higher than the floor of the largest pit. Sample A‐74 was taken across 25 feet (8 m) of the face of the 
+
+southeast of these two pits. Four additional pits cut across the top of the slope towards the west, and two 
+
+more extend southwest at a lower level opposite the northeast pits. 
+
+"The schist has a general N45°E strike and 45°SE dip. The beds of graphitic schist extend for 150to 200 
+
+feet (46 to 61 m) in thickness, with barren layers between the schist beds. The country to the northeast 
+
+rises for 400 to 500 feet (122 to 152 m) before it drops off, giving room for large possible reserves." 
+
+Sample A‐73 had a grade of 119.04 pounds per  ton graphite  (5.95% Cg), with 23.08  lb/t  (1.15%) +50 
+
+mesh, 46.84 lb/t (2.34%) ‐50+100 mesh, and 49.12 lb/t (2.46%) ‐100 mesh. Sample A‐74 had a grade of 
+
+50.92  lb/t  (2.55%) with 5.56  lb/t  (0.28%) +50 mesh, 18.04  lb/t  (0.90%)  ‐50+100 mesh, and 27.32  lb/t 
+
+(1.37%) ‐100 mesh (Pallister & Thoenen (1948, p. 72‐3).  
+
+Sample A‐73 gave 8.3% mica concentrate with a grade of 0.31% V2O5, and sample A‐74 gave 8.8% mica 
+
+concentrate with 0.08% V2O5(Pallister & Thoenen (1948, p. 72‐3). 
+
+Figure 6.7 Location map of the historic Fixico mine and the Coosa Project drill holes 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 32 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+The  long and complicated history of ownership of  the mineral and  surface  rights  is detailed  in a  title 
+
+opinion made by John Foster Tyra, PC, Tuscaloosa, Alabama, for sections 5, 7, 8 and 9, township 22 N, 
+
+range 17 E, where AGC has carried out exploration, in reports to AGC dated July 17, 2012 ("Preliminary 
+
+Mining Title Opinion") and October 26, 2012  ("Alabama Graphite Option"). A brief  summary  is given 
+
+here. The mineral and surface rights of these four sections are patents of private  land  issued between 
+
+1842 and 1860. Most of them were acquired by the Fixico Mining Company  in 1901‐02. Several other 
+
+companies and individuals owned other parts. Following bankruptcyof Fixico in 1910, their mineral and 
+
+surface rights were acquired by John R. Hegeman. In 1929 the mineral rights were acquired by Charles A. 
+
+Dean (senior). He acquired more mineral rights over the years and on his death in 1952, they passed to 
+
+multiple heirs who sold a half interest to Robert A. Russell. In 1980 Charles A. Dean, Junior, acquired all 
+
+of the mineral rights from the other Dean heirs and the Russell heirs. On the death of Charles A. Dean, 
+
+Junior, the mineral rights were inherited by his wife, Eugenia W. Dean, in 2008, the current owner. 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 33 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+7 GEOLOGICAL SETTING AND MINERALIZATION 
+
+7.1 REGIONAL GEOLOGY 
+
+The  Coosa  Project  is  located  at  the  southern  end  of  the  Appalachian mountain  range,  a  northeast 
+
+trending belt of folded and metamorphosed rocks of Neoproterozoic to Lower Paleozoic age. These are 
+
+covered by  the onlap Coastal Plain Sediments of Cretaceous and younger age  in  the  southern half of 
+
+Alabama. The geology of Alabama  is  shown  in Figure 7.1.   The  rocks of  the  southwestern end of  the 
+
+Appalachians are generally  separated  into  four physiographic and geologic provinces which are,  from 
+
+northwest to southeast: the Interior Low Plateau province, the Appalachian Plateau province, the Valley 
+
+and Ridge province, and the Piedmont province. The Alabama Graphite Belt  is  located  in the Northern 
+
+Piedmont. 
+
+Figure 7.1 Geological map of Alabama (Alabama Geological Survey) 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 34 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+The regional geology is described by Raymond et al. (1988) in "Alabama Stratigraphy". The Interior Low 
+
+Plateau  is a Paleozoic  limestone plateau of moderate relief. The Appalachian Plateau  is underlain by a 
+
+thick  series of  carbonates overlain by  sandstones and  shales of Cambrian  to Pennsylvanian age.   The 
+
+rocks  have  open  folding  and  are  moderately  dissected  resulting  in  sandstone  and  shale  synclinal 
+
+plateaus and, in the eastern part, three linear anticlinal limestone valleys. The Valley and Ridge Province 
+
+is  a  fold‐thrust  belt, with  east‐dipping  thrusts,  of  carbonates,  sandstones  and  shales  of  Cambrian  to 
+
+Pennsylvanian  age,  similar  to  the  stratigraphy  of  the  Appalachian  and  Interior  Low  Plateaus.  It  is 
+
+separated  from  the Appalachian  Plateau  by  a  large  scale  east‐dipping  thrust  fault,  and  consists  of  a 
+
+series of subparallel ridges and valleys.  
+
+The  Piedmont  Province  is  formed  of  Neoproterozoic  to  early  Paleozoic  metamorphic  rocks.  The 
+
+metamorphic grade  increases across  the Piedmont  from  lower greenschist  facies  in  the northwest  to 
+
+high grade migmatite facies  in the southeast. It  is divided  into three  lithotectonic provinces which are, 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 35 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+from northwest to southeast: Northern Piedmont, Inner Piedmont and Southern Piedmont, bounded by 
+
+major  faults.  The  physiography  of  the Northern  Piedmont  is  characterized  by  prominent  ridges with 
+
+peaks up to 2,407 ft (734 m), becoming lower to the southeast. The Inner and Southern Piedmonts have 
+
+much more subdued topography. 
+
+The Northern Piedmont has three structural blocks: the Talladega block on the northwest side with low 
+
+grade greenschist  facies metasedimentary and metavolcanic  rocks  (marble, phyllite,  sandstone, chert, 
+
+quartzite,  greenstones);  the  central  Coosa  block with  high  grade,  upper  greenschist  to  kyanite  and 
+
+sillimanite grade metamorphic rocks (phyllite, schist, graphite schist, gneiss, migmatitic gneiss, quartzite, 
+
+amphibolites), including the Alabama Graphite Belt, and abundant pegmatite and small granitoid bodies; 
+
+and  the  Tallapoosa  block  on  the  southeast  side  of  high  grade, middle  to  upper  amphibolite  facies 
+
+metasedimentary  rocks  (phyllite,  gneiss), metavolcanic  (amphibolite)  and metamorphosed  ultramafic 
+
+and mafic rocks (pyroxenite, gabbro), with large areas of quartz diorite to granitic plutonic rocks. 
+
+The  Inner Piedmont  includes  two groups of high grade metamorphic rocks,  including schists, gneisses 
+
+and amphibolites, the Dadeville (schist, amphibolite, gneiss, granitic gneiss) and Opelika (schist, gneiss) 
+
+complexes, with pyroxenite lenses and deformed granites. 
+
+The Southern Piedmont occupies  the  southeastern  corner of  the  region.    It  is also underlain by high 
+
+grade metamorphic rocks of the Pine Mountain, Wacoochee and Uchee complexes.  The Pine Mountain 
+
+Block  contains  quartzite,  quartzitic  schists  and  dolomitic marble.    The Wacoochee  is  largely  granitic 
+
+gneiss and  feldspathic muscovite‐biotite schist.   The Uchee contains a dioritic gneiss and a  leucocratic 
+
+quartz diorite.  Folding is much less evident there. 
+
+7.2 ALABAMA GRAPHITE BELT 
+
+The Alabama Graphite  Belt  is  located  in  the  Coosa  Block  of  the Northern  Piedmont  province  in  the 
+
+Higgins Ferry and Poe Bridge Mountains Groups of schists. 
+
+The Coosa Block is divided into two salients by the Enitachopco Fault, each with similar lithological units 
+
+and comparable structural and metamorphic styles. The northeast salient is divided into the Poe Bridge 
+
+Mountain Group to the northwest and the Mad Indian Group to the southeast. The southwest salient is 
+
+divided  into  the  Wedowee  Group,  the  Higgins  Ferry  Group,  and  the  Hatchet  Creek  Group.  The 
+
+stratigraphy was  defined  by mapping  by  the Alabama Geological  Survey  in  the  late  1960s  and  early 
+
+1970s (unpublished maps by Neathery, 1969, 1970, 1972 ‐ not seen) and is described in publications by 
+
+Neathery (1975), Tull (1975) and Neathery & Tull (1975). These maps were used to compile a geological 
+
+map  at  1:250,000  scale  published  in  1988  (Osborne  et  al.,  1988),  which  is  this  the  only  published 
+
+geological map of the area. 
+
+Figure 7.2 The geology of the southern part of the Alabama Graphite Belt (based on Alabama 
+Geological Survey map at 1:250,000 scale), showing location of Coosa Project 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 36 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+The Wedowee Group  is  formed of a thick sequence of quartz‐graphite‐sericite phyllite to  fine‐grained 
+
+schist and  chlorite‐sericite phyllite  to  fine grained  schist. The Poe Bridge Mountain and Higgins Ferry 
+
+Groups  contain  distinctive  interbedded  sequences  of  interlayered  coarse  grained,  commonly 
+
+retrograded graphitic feldspathic mica schist, graphitic and garnetiferous quartzite, garnet mica schist, 
+
+fine grained biotite gneiss (metagraywacke), and quartzite. There are two major amphibolite sequences 
+
+associated with  these groups,  the Ketchepedrakee Amphibolite with  the Poe Bridge Mountain Group, 
+
+and  the Mitchell Dam Amphibolite with  the Higgins Ferry Group. Chemically  these  resemble  tholeiitic 
+
+basalts, suggesting formation in a back‐arc basin. Highly manganiferous exhalites are associated with the 
+
+amphibolites. The Mad  Indian and Hatchet Creek Groups are much more homogenous  in composition 
+
+and  consist  of  feldspathic  garnet‐quartz‐muscovite  schist,  minor  biotite‐(garnet)  schist  and  gneiss, 
+
+micaceous  quartzite, migmatitic  gneiss  and  rare  amphibolite.  The  two  sequences  contain  abundant 
+
+pegmatite and small granitoid bodies. The Coosa Block has a polyphase deformational history with at 
+
+least four fold phases defined by Tull (1975). The metamorphic grade ranges from kyanite to sillimanite, 
+
+with  local  areas  of  retrograde  upper  greenschist  facies mineral  assemblages.  Hornblende  from  the 
+
+Mitchell Dam Amphibolite near the Coosa River gave a K‐Ar date of 348 Ma (Lower Mississippian), which 
+
+is interpreted as the age of metamorphism (Russell, 1975). 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 37 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+The stratigraphic description of  the Higgins Ferry Group  is an  interbedded sequence of at  least  three 
+
+major lithologic units:  
+
+ coarse  to  fine  grained  biotite‐feldspar‐quartz  gneiss,  sericite‐feldspar‐muscovite  schist, 
+(±biotite)‐(±garnet)‐muscovite schist, and biotite‐garnet‐feldspar gneiss;  
+
+ (±roscoelite)‐graphite‐quartz schists and graphitic quartzite;  
+
+ garnet quartzite and garnetiferous altered mafic rocks.  
+
+Locally there are a few thin actinolite‐chlorite‐hornblende amphibolite and pyroxenite bodies (Mitchell 
+
+Dam  Amphibolite).  Kyanite,  sillimanite  and  sericite  porphyroblasts  are  common  in more  aluminous 
+
+units. There are scattered pegmatites. (Neathery, 1975; Raymond et al., 1988). 
+
+The Alabama Graphite Belt is 70 miles (112 km) long and covers the Higgins Ferry Group and equivalent 
+
+Poe Bridge Mountain Group, with an 11 mile (18 km) gap between the two where they are faulted out. 
+
+The belt varies from 10 to 2 miles (16 to 3.2 km) wide, with an average of 4 to 5 miles (6.4 to 8 km). Up 
+
+to 10 distinct bands of graphitic schist were mapped within the Higgins Ferry Group by Neathery ( 1975). 
+
+The  individual mapped graphitic schist bands vary from a few hundred feet (tens of meters) up to one 
+
+mile  (1.6km)  in width, with  continuity  for up  to 15 miles  (24km) or more along  strike.   Short narrow 
+
+bands are shown as less than a mile (1.6km) long.   
+
+The most  common  composition  of  the  graphitic  schist‐bearing  belts  is  biotitic‐feldspathic‐muscovite 
+
+schists and gneisses.  Pegmatite dikes are common, ranging from a few up to several feet (a few meters) 
+
+in width to a numerous dikelets less than an inch (2.5 cm) wide.  The graphite deposits are within wide 
+
+bands  of  graphite‐roscoelite‐quartz‐muscovite  schists  and  graphitic micaceous  quartzites.    Graphite 
+
+deposits of potentially economic  grades occur  as discontinuous elongated  lenses within  these  zones.  
+
+Coarser  graphite  flakes  are  often  spatially  associated with  the margins  of  the  pegmatites.    Garnet‐
+
+bearing biotitic schists are commonly present as well.   
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 38 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+7.3 COOSA GEOLOGY&MINERALIZATION 
+
+The main schist compositions and logging units defined by AGC are: 
+
+Quartz‐muscovite‐biotite‐graphite  schist  (QMBGS):This  schist  is medium  to  coarse grained  in  texture 
+
+and  is characterized by  large porphyroblasts of muscovite.   The color varies from medium gray to dark 
+
+gray‐green.    It  is moderately  foliated and  commonly  contorted, with  lenticular pegmatites parallel  to 
+
+foliation.  Pyrite and pyrrhotite are common accessory minerals as large disseminated grains.  Sillimanite 
+
+fibers have been observed.  Graphite flakes are generally coarse in this unit although the average carbon 
+
+content is generally  less than 1% Cg. 
+
+Quartz‐graphite schist (QGS):This schist is both finer grained and better laminated than the QMBGSunit.  
+
+The color varies from dark gray to black.   Contorted foliation and pegmatites are  less common.   Pyrite 
+
+and pyrrhotite are both  finer grained and more abundant  than  in  the QMBGS unit and  form  laminae 
+
+parallel to foliation.  Graphite is more abundant in this unit with grades higher than 1% Cg. 
+
+Mixed  QMBGS/QGS  (INT):  –  The  QMBGS  and  QGSarecommonly  interbedded  at  a  centimeter  scale 
+
+forming a mixed unit with graphite grades higher than 1% Cg.   
+
+Quartz‐biotite‐garnet  schist  (QBGS):This unit  is  subordinate  to both  the QMBGS and QGS units.    It  is 
+
+medium grained and medium  to dark gray‐green  in color. The garnets are usually  fine grained with a 
+
+diameter  of  about  1 mm,  but  in  places  are  up  to  5  to  10 mm.  The  garnets  are  light  pink  in  color, 
+
+suggesting  a high manganese  (spessartine)  content.    Foliation  is  irregular with  abundant pegmatites.  
+
+Pyrite is sparse. Graphite is sparse and grades are less than 1% Cg.  
+
+In the authors' revision of core,  it was found that the contacts between the major schist units are not 
+
+clear,  and  that  the  graphite  grade  could  not  be  estimated  visually.  The  dominant  fabric  is  a  strong 
+
+schistosity which  is  affected  by  open,  upright  folds  seen  in  outcrop,  and  by  less  common,  tight  to 
+
+isoclinal folds seen in drill core. 
+
+An interpretative geological model was constructed on sections and in Vulcan from the drill hole data to 
+
+constrain  the  block modeling  process  for  resource  estimation.  The  quartz‐graphite  schist  (QGS)  and 
+
+intermediate quartz‐graphite schist to quartz‐muscovite‐biotite‐graphite schist (INT) were modeled as a 
+
+single  lithological  unitwith  a  strike  length  of  5,980ft  (1,823 m)  and  a  true width  of  1,200ft  (366 m).  
+
+These  generally  have  grades>1%  Cg.  They  include  some  quartz‐muscovite‐biotite‐graphite  schist 
+
+(QMBGS). They are overlain and underlain by QMBGS. This usually has gradeof <1% Cg, although locally 
+
+it can have higher grades. The contacts dip about 45° east to the southeast. Two lenses of intermediate 
+
+quartz‐graphite schist (INT) were modeled in the footwall of the main unit in the southwest part of the 
+
+grid, and pinch out  to  the northeast. These are parallel  to  the main  footwall  contact and give added 
+
+confidence to the attitude of the footwall contact and the geological model. Some quartz‐graphite schist 
+
+(QGS) and intermediate quartz‐graphite schist (INT) intersections in the isolated holes in the southwest 
+
+part of  the grid  (AGC‐001, AGC‐002, AGC‐A04) were not modeled due  to  lack of nearby drill holes  for 
+
+correlation, and in order to avoid forcing grade where there is no information. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 39 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Short  intersections of quartz‐biotite‐garnet schist  (QBGS) were modeled as  lenses coalescing at depth 
+
+within the graphite schist domain. The QBGS has <1% Cg. There is a separate QBGS unit at the SE end of 
+
+the North Fence of drill holes which lies above graphite schist and cannot be correlated with the QBGS 
+
+lenses within  the drill grid, hence  it has been modeled as a  separate,  structurally higher unit. This  is 
+
+overlain by  a  second,  structurally higher  graphite  schist unit which was  intersected  in hole AGC‐007. 
+
+Additional drilling  is required between the drill grid and the North Fence of drill holes to complete the 
+
+geological model and to infill the resource. 
+
+The strike of the lithological boundaries is NE, with an inflection to N‐S in the southern part of the grid. 
+
+This is interpreted to be a secondary fold rather than a fault offset. The schistosity measured on surface 
+
+and  in  drill  core  generally  has  a  variable  dip  of  15  to  30°  to  the  SE  and  E  and  is  lower  than  the 
+
+interpreted  lithological contacts. This suggests  that  the graphite schist  is on  the  lower  limb of a semi‐
+
+recumbent anticline with an axial planar cleavage and axis that dip at about 30° SE. 
+
+Pegmatites  (PEG) occur as narrow, centimeter‐scale white bodies which are commonly parallel  to  the 
+
+schistosity and in some cases show tight folding or are boudinaged. Some pegmatites cross cut lithology 
+
+and  foliation.  The  pegmatites  include  metamorphic  quartz  veins  and  true,  coarse‐grained  quartz‐
+
+feldspar‐biotite pegmatites. In core there is often a concentration of coarse grained graphite in schist at 
+
+the margins of the pegmatites. The pegmatites are rarely wide enough to be logged as a lithological unit 
+
+(the  only  pegmatite  actually  logged  is  8.1  ft  (2.5 m)  wide).  AGC  logged  the  relative  abundance  of 
+
+pegmatite  in  each  sample  in order  to determine whether  there  is  a  relationship between pegmatite 
+
+abundance  and  grade.  The  average  graphite  grade  shows  a  decrease  with  increase  in  pegmatite, 
+
+therefore pegmatite is shown to dilute grade. This is shown inTable 7.1. The relationship between flake 
+
+size and pegmatite needs to be evaluated by sieve tests. 
+
+Table 7.1 Relationship of graphite grade and pegmatite abundance 
+
+Pegmatite Abundance  Pegmatite %  Average Ct %  Number samples 
+
+0  0‐1  2.41  450 
+
+1  1‐25  1.85  2444 
+
+2  25‐75  1.59  508 
+
+3  75‐100  1.51  108 
+
+Graphite flakes occur as part of the rock forming minerals in the schists. They are often associated with 
+
+disseminated pyrrhotite and minor pyrite. In places the green vanadium‐bearing muscovite, roscoelite, 
+
+occurs.Minor late stage, straightcubic pyrite veinletsup to 10 mm wide with smectite clay cross cut the 
+
+schistosity and pegmatites. 
+
+Graphite  ores  mined  historically  were  almost  entirely  from  the  weathered  zone,  partly  because 
+
+weathering is deep here, and partly because the weathered rock could be gently crushed, liberating the 
+
+graphite without significantly reducing the size of the larger flakes. 
+
+No multielement analyses have been carried out by AGC. The authors carried out a multielement scan 
+
+on 10 check samples (the analytical procedure  is described  in Section 12). These gave 7 to 278 ppm V, 
+
+and weak anomalies of Ag (89 to 1242 ppb), Zn (24.8 to 1358.7 ppm) and Mo (3.01 to 42.90 ppm). 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 40 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Figure 7.3 Biotite‐graphite schist with sillimanite(?) and disseminated pyrrhotite and pyrite (logged as 
+
+QGS/QMBGS). From 5 ft sample @ 3.26% Cg (AGC‐F05‐140.5 ft) 
+
+ 
+
+Figure 7.4 Graphite schist with folded pegmatites and pyrrhotite (logged as QMBGS). From 5 ft sample 
+
+of 1.73% Cg (AGC‐D05‐200 ft) 
+
+ 
+
+Figure 7.5 High grade coarse graphite in sheared pegmatite in biotite‐graphite schist (logged as 
+
+QGS/QMBGS), from 5 ft sample @ 4.56% Cg (ACG‐F05‐134 ft) 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 41 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+ 
+
+Figure 7.6 Graphite schist with green roscoelite (vanadium‐muscovite), drill pad of hole AGC‐010 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 42 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+8 DEPOSIT TYPES 
+
+Graphite deposits occur in three forms: flake graphite, vein graphite and amorphous graphite. These are 
+
+summarized by Mitchell (1993): 
+
+"Graphite  generally  occurs  as  a  result  of  metamorphism  (regional  or  contact)  of  organic  matter  in 
+
+sediments. Flake graphite is assumed to be derived from fine‐grained sediments rich in organic matter. As 
+
+metamorphic grade  increases, carbonaceous material converts to "amorphous" graphite. Flake graphite 
+
+forms from its amorphous precursor at or beyond amphibolite grade metamorphism (Landis, 1971). Vein 
+
+graphite  is assumed  to  form by partial volatilization of graphite and subsequent recrystallization during 
+
+regional granulite and/or charnockite facies metamorphism. Amorphous graphite is generally considered 
+
+to have originated by thermal or regional metamorphism of coal or carbonaceous sediments. 
+
+"Positive  vanadium  and  nickel  anomalies  and  negative  boron  anomalies  are  possible  signatures  for 
+
+graphite  if  geochemical  survey  data  are  available.  The  presence  of  sulphides  and  trace  amounts  of 
+
+uranium may be an indicator." 
+
+Landis  (1971)  tentatively  concluded  that  graphite  formation  is  primarily  dependent  on metamorphic 
+
+temperature  and  forms  above  400°C,  with  pressure  and  variation  in  starting  material  constituting 
+
+secondary controls. 
+
+The  Coosa  graphite  deposits  are  flake  graphite  deposits  in  high  grade metamorphic  rocks.  They  are 
+
+associated with anomalous vanadium, including the vanadium‐mica roscoellite. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 43 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+9 EXPLORATION 
+
+Since acquiring  the Coosa project  in 2012, Alabama Graphite has conducted  several  surface  sampling 
+
+campaigns. Due to the lack of outcrop and dense forest, the exploration technique used has been rock 
+
+sampling  in channels mainly along road cuttings. Based on the  initial results from the surface samples, 
+
+AGC planned and executed two drill programs in 2012 totaling 69 drill holes.   
+
+The area covered by AGC channel sampling to dateis approximately 6 miles by 3 miles (9.7 by 4.8 km, 
+
+Figure 9.1).  Due to the lack of rock outcrop and dense vegetation, sample locations and spacing are not 
+
+systematic.  Samples are typically collected along road cuts where bed rock is exposed.  Small trenches 
+
+are excavating by hand with a pick axe and shovel, and range from 2‐3 inches (5‐8 cm) in depth and 5‐35 
+
+feet  (1.5‐10.7 m)  in  length.   The  trenches are  typically  cut perpendicular  to  the bed  rock  foliation  to 
+
+provide a representative sample of the outcrop and expose structural features such as foliation.   
+
+Before  the sample  is collected, a GPS  is used  to  record  the  location of  the  start of  the  trench and all 
+
+measurements are recorded in a field notebook which is later tabulated into an Excel database.Material 
+
+collected from the trench is placed in a sample bag and labeled. 
+
+A  total of 228  channel  samples were  collected  in 2012. The  first batch of 113  samples hadunreliable 
+
+analysesand the results were discarded, as described in section 11.1. The analyses of the second batch 
+
+of 115 samples are considered to be reliable. A new program of channel sampling is being carried out in 
+
+2013 subsequent to the completion of drilling. To date 303 samples have been collected but no results 
+
+are available yet. The channel sample locations are shown on a map in Figure 9.1. 
+
+No  geophysical  surveys have been  carried out.  Since  graphite  is  an  excellent  conductor,  an  airborne 
+
+electromagnetic survey is recommended as a very rapid way of exploring AGC's large land package. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 44 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 45 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Figure 9.1 Coosa Project Channel Sample Locations 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 46 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 47 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+10 DRILLING 
+
+Alabama Graphite has conducted two drilling programs at the Coosa project for a total of 69 drill holes.  
+
+The  first  program  started  on  September  27,  2012  and  October  23,  2102  and  consisted  of  two 
+
+northwesterly  trending  fences of six holes each  for a  total of 6,003  feet  (1,829.7 m, AGC‐001  through 
+
+AGC‐012).   All fence holes were drilled at an  inclination of ‐50° perpendicular to the stratified graphite 
+
+horizons to gain  information regarding the stratigraphy and graphite distribution. The two fences were 
+
+approximately 1mile apart with hole  spacing averaging 500  ft  (152.4 m).   The  fence holes were  core 
+
+holes of HQ diameter (2.5 in / 6.4 cm diameter) and were drilled to a nominal depth of 500ft (152.4 m, 
+
+Table 10.1).   
+
+The  second  drilling  programs  started  on  October  23,  2013  and  ended  onDecember  21,  2012  and 
+
+consisted of 57  vertical holes drilled on  a 200ft  x 200ft  (61m  x61m)  grid  for  a  total of 14,342.4  feet 
+
+(4,371.6 m).  The grid drilling was a combination of sonic core and HQ core.  AGC had problems with low 
+
+core  recovery  (<50%)  in  the upper weathered material  so  a  sonic drill was used  to drill  through  the 
+
+weathered zone and set casing for the HQ core drill.  This method proved to be very effective due to the 
+
+near 100% recovery from the sonic drill.  Of the 57 vertical grid holes, 44 of them were drilled with the 
+
+sonic drill for a total of 1,523.5 feet (464.4 m, Table 10.1).   
+
+The  two drill programs  identified a higher grade quartz‐graphite‐schist  (QGS) bound by a  lower grade 
+
+quartz‐muscovite‐biotite‐graphite‐schist  (QMBGS)  and  a  graphite  barren  quartz‐biotite‐garnet‐schist 
+
+(QBGS).    Figure  10.3  is  a  cross  sectionof  the  north  fence  displaying  the  drill  hole  traces  with 
+
+lithologiesand correlating graphite assay (%) and a simplified interpretation made by AGC. 
+
+Downhole surveys were taken by the drilling company with a Reflex  Instrument's EZ Shot Survey tool.  
+
+Angled fence holes were surveyed at a midway depth of 250ft 76.2 m) and again at the end of the hole 
+
+(~500ft / ~152.4 m) while the vertical grid holes were only surveyed at the end. 
+
+Drill  collars  are  cemented  and marked  by  a wooden  stake with  the  hole  number  and  flagging  tape 
+
+(Figure 10.1).   Collar  locations are also surveyed with a high precision 2005 Tremble GeoXM GPS unit.  
+
+The exact locationsare recorded in NAD83 UTM Zone 16N and displayed on a plan map in Figure 10.2. 
+
+Figure 10.1 Drill collar for hole AGC‐E04 
+
+ 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 48 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Table 10.1 Coosa Project Sonic and Core Drill Hole Collar Data 
+
+Hole ID 
+UTM 
+Easting 
+
+UTM 
+Northing 
+
+Elevation 
+(m) 
+
+Azimuth 
+(degrees) 
+
+Inclination 
+(degrees) 
+
+Sonic Pre‐
+Collar Length 
+
+(ft) 
+
+Length 
+(ft) 
+
+AGC‐001  555202  3641504  137  325  ‐55  NA  500 
+
+AGC‐002  555314  3641431  141  325  ‐55  NA  503 
+
+AGC‐003  555427  3641330  152  325  ‐55  NA  500 
+
+AGC‐004  555519  3641229  168  325  ‐55  NA  500 
+
+AGC‐005  555629  3641120  183  325  ‐55  NA  500 
+
+AGC‐006  555746  3641052  180  325  ‐55  NA  500 
+
+AGC‐007  556410  3641694  234  325  ‐55  NA  500 
+
+AGC‐008  556382  3641834  218  325  ‐55  NA  500 
+
+AGC‐009  556271  3641903  210  325  ‐55  NA  500 
+
+AGC‐010  556252  3642048  222  325  ‐55  NA  500 
+
+AGC‐011  556177  3642194  210  325  ‐55  NA  500 
+
+AGC‐012  556062  3642276  188  325  ‐55  NA  500 
+
+AGC‐A04  555386  3641661  142  0  ‐90  25  279.5 
+
+AGC‐B07  555528  3641794  145  0  ‐90  39  39 
+
+AGC‐B08  555560  3641842  148  0  ‐90  32.5  250 
+
+AGC‐B09  555588  3641898  155  0  ‐90  39  46 
+
+AGC‐C03  555458  3641542  144  0  ‐90  NA  256 
+
+AGC‐C04  555489  3641601  147  0  ‐90  25  250 
+
+AGC‐D03  555510  3641513  146  0  ‐90  NA  256 
+
+AGC‐D04  555539  3641569  152  0  ‐90  30  250 
+
+AGC‐D05  555572  3641615  151  0  ‐90  39  254 
+
+AGC‐E01  555509  3641379  149  0  ‐90  34  256 
+
+AGC‐E02  555534  3641426  151  0  ‐90  34  237 
+
+AGC‐E03  555559  3641483  145  0  ‐90  NA  287 
+
+AGC‐E04  555600  3641545  153  0  ‐90  35  256.5 
+
+AGC‐E05  555626  3641586  157  0  ‐90  39  256 
+
+AGC‐E06  555656  3641643  164  0  ‐90  NA  252 
+
+AGC‐E07  555675  3641692  159  0  ‐90  NA  305 
+
+AGC‐E08  555712  3641746  169  0  ‐90  25  276 
+
+AGC‐E09  555744  3641796  176  0  ‐90  25  264 
+
+AGC‐F01  555563  3641356  158  0  ‐90  49  256 
+
+AGC‐F02  555589  3641394  164  0  ‐90  29  303 
+
+AGC‐F03  555613  3641453  155  0  ‐90  29  255 
+
+AGC‐F04  555654  3641507  149  0  ‐90  NA  256.4 
+
+AGC‐F05  555673  3641556  156  0  ‐90  45  250 
+
+AGC‐F06  555711  3641619  165  0  ‐90  30  249 
+
+AGC‐F07  555740  3641669  166  0  ‐90  40  265 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 49 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Hole ID 
+UTM 
+Easting 
+
+UTM 
+Northing 
+
+Elevation 
+(m) 
+
+Azimuth 
+(degrees) 
+
+Inclination 
+(degrees) 
+
+Sonic Pre‐
+Collar Length 
+
+(ft) 
+
+Length 
+(ft) 
+
+AGC‐F08  555768  3641717  173  0  ‐90  35  256 
+
+AGC‐F09  555798  3641775  169  0  ‐90  NA  256 
+
+AGC‐G01  555611  3641319  166  0  ‐90  59  302 
+
+AGC‐G02  555641  3641373  170  0  ‐90  49  266 
+
+AGC‐G03  555668  3641416  160  0  ‐90  39  276 
+
+AGC‐G04  555695  3641477  154  0  ‐90  34  272.5 
+
+AGC‐G05  555718  3641523  154  0  ‐90  25  276 
+
+AGC‐G06  555764  3641588  165  0  ‐90  NA  286 
+
+AGC‐G07  555790  3641637  165  0  ‐90  NA  257 
+
+AGC‐G08  555821  3641689  171  0  ‐90  NA  256 
+
+AGC‐G09  555855  3641741  171  0  ‐90  25  250 
+
+AGC‐H01  555664  3641290  181  0  ‐90  59  260 
+
+AGC‐H02  555689  3641351  168  0  ‐90  49  252 
+
+AGC‐H03  555722  3641391  165  0  ‐90  39  274 
+
+AGC‐H04  555741  3641444  164  0  ‐90  59  273 
+
+AGC‐H05  555782  3641490  157  0  ‐90  40  256 
+
+AGC‐H06  555811  3641549  173  0  ‐90  25  264.5 
+
+AGC‐H07  555846  3641606  180  0  ‐90  30  256 
+
+AGC‐H08  555878  3641660  180  0  ‐90  25  254 
+
+AGC‐H09  555907  3641711  175  0  ‐90  20  305 
+
+AGC‐I01  555713  3641262  180  0  ‐90  40  291 
+
+AGC‐I02  555743  3641306  173  0  ‐90  30  253 
+
+AGC‐I03  555775  3641364  182  0  ‐90  60  256 
+
+AGC‐I04  555806  3641414  170  0  ‐90  20  296 
+
+AGC‐I05  555828  3641468  162  0  ‐90  15  256 
+
+AGC‐I06  555861  3641524  165  0  ‐90  10  261 
+
+AGC‐I07  555887  3641576  170  0  ‐90  23  285 
+
+AGC‐I08  555928  3641629  177  0  ‐90  NA  265 
+
+AGC‐I09  555957  3641681  175  0  ‐90  NA  256 
+
+AGC‐J01  555769  3641227  182  0  ‐90  40  253 
+
+AGC‐J03  555823  3641331  191  0  ‐90  30  30 
+
+AGC‐J09  556011  3641652  191  0  ‐90  NA  257 
+
+Totals            1,523.5  20,414.4
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 50 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+Table 10.2Significant Intercepts from the 2012 Sonic and Core Drilling 
+
+Drill Hole  Area   From  To   Width   Total Depth   C(g) % 
+
+AGC‐12‐001C 
+SW Stratigraphic 
+
+Fence  0 m   10.67 m  10.67 m  152.4 m  2.51 
+
+   77.72 m  121.92 m  44.2 m     2.48 
+
+AGC‐12‐002C 
+SW Stratigraphic 
+
+Fence  No Significant Intercepts  153.31 m    
+
+AGC‐12‐003C 
+SW Stratigraphic 
+
+Fence  21.34 m  45.72 m  24.38 m  152.4 m  2.32 
+
+AGC‐12‐004C 
+SW Stratigraphic 
+
+Fence  No Significant Intercepts  152.4 m    
+
+AGC‐12‐005C 
+SW Stratigraphic 
+
+Fence  0 m   59.44 m   59.44 m  152.4 m  3 
+
+      115.82 m  121.92 m  9.14 m     3.79 
+
+      137.16 m  152.4 m  15.24 m     2.77 
+
+AGC‐12‐006C 
+SW Stratigraphic 
+
+Fence  0 m   57.91 m  57.91 m  152.4 m  2.75 
+
+AGC‐12‐007C  NE Stratigraphic Fence  36.58 m  83.82 m  47.24 m  152.4 m  2.87 
+
+Including  45.72 m  51.82 m  6.1 m     4.62 
+
+AGC‐12‐009C  NE Stratigraphic Fence  27.43 m  152.4 m  124.97 m 152.4 m  2.97 
+
+Including  28.56 m  38.1 m  9.14 m     3.55 
+
+Including  92.96 m  112.78 m  19.81 m     3.78 
+
+AGC‐H05C  Resource Grid  35'  185'  150'  256'  2.02 
+
+Including  35'  70'  35'     2.66 
+
+Including  140'  185'  45'     2.52 
+
+AGC‐H06C  Resource Grid  45'  255'  210'  264.5'  2.39 
+
+Including  45'  125'  80'     2.57 
+
+Including  180  255'  75'     2.91 
+
+AGC‐H07C  Resource Grid  46'  256'  210'  256'  2.32 
+
+Including  46'  100'  54'     2.73 
+
+Including  110'  145'  35'     2.64 
+
+Including  185'  256'  71'     2.61 
+
+AGC‐H08C  Resource Grid  45'  245'  200'  254'  2.23 
+
+Including  45'  105'  60'     2.36 
+
+Including  155'  245'  90'     2.63 
+
+AGC‐H09C  Resource Grid  35'  205'  170'  305'  2.18 
+
+AGC‐G05C  Resource Grid  40'  276'  236'  276'  3.01 
+
+AGC‐A04C  Resource Grid  No Significant Intercepts  279.5'    
+
+AGC‐C04C  Resource Grid  No Significant Intercepts  250'    
+
+AGC‐E05C  Resource Grid  90'  256'  166'  256'  2.42 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 51 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Drill Hole  Area   From  To   Width   Total Depth   C(g) % 
+
+AGC‐F05C  Resource Grid  50'  240'  190'  250'  2.59 
+
+AGC‐G07C  Resource Grid  40'  205'  165'  257'  2.21 
+
+Including  85'  105'  20'     2.59 
+
+Including  125'  200'  75'     2.63 
+
+AGC‐G09C  Resource Grid  40'  200'  160'  250'  2.12 
+
+Including  40'  85'  45'     3.17 
+
+Including  165'  180'  15'     4.14 
+
+AGC‐008C  NE Stratigraphic Fence  No Significant Intercepts  500'    
+
+AGC‐12‐010C  NE Stratigraphic Fence  55'  500'  445'  500'  2.89 
+
+AGC‐12‐011C  NE Stratigraphic Fence  20'  500'  480'  500'  2.85 
+
+Including  220'  235'  15'     4.74 
+
+AGC‐12‐012C  NE Stratigraphic Fence  50'  135'  85'  500'  3.75 
+
+Including  70'  95'  25'     5.56 
+
+AGC‐D05C  Resource Grid  No Significant Intercepts  254'    
+
+AGC‐E01C  Resource Grid  34.5'  60'  25.5'  256'  1.87 
+
+AND  230'  256'  26'     3.01 
+
+AGC‐E06C  Resource Grid  50'  252'  202'  252'  2.99 
+
+AGC‐G01C  Resource Grid  59'  275'  216'  302'  2.55 
+
+Including  59'  90'  31'     2.81 
+
+Including  110'  275'  165'     2.75 
+
+AGC‐H01C  Resource Grid  76'  255'  179'  260'  2.67 
+
+Including  230'  245'  15'     6.25 
+
+AGC‐I01S  Resource Grid  0'  40'  40'  40'  2.09 
+
+AGC‐I02S  Resource Grid  0'  30'  30'  30'  2.26 
+
+AGC‐I03S  Resource Grid  0'  60'  60'  60'  2.56 
+
+AGC‐I04S  Resource Grid  0'  20'  20'  20'  2.34 
+
+AGC‐I05S  Resource Grid  0'  15'  15'  15'  1.11 
+
+AGC‐I06S  Resource Grid  0'  10'  10'  10'  1.31 
+
+AGC‐I07S  Resource Grid  0'  23'  23'  23'  1.56 
+
+AGC‐E02C  Resource Grid  190'  210'  20'  237'  2.26 
+
+AGC‐E08C  Resource Grid  25'  270'  245'  276'  2.9 
+
+AGC‐F04C  Resource Grid  45'  100'  55'  256'  2.35 
+
+AND  185'  256'  71'  AND  2.69 
+
+AGC‐F07C  Resource Grid  40'  265'  225'  265'  2.7 
+
+AGC‐F08C  Resource Grid  60'  250'  190'  256'  2.6 
+
+AGC‐H02C  Resource Grid  55'  195'  140'  252'  3.33 
+
+Including  90'  115'  25'     4.24 
+
+AGC‐H04C  Resource Grid  59'  245'  186'  272'  2.71 
+
+Including  59'  75'  16'     4.91 
+
+AGC‐E03C  Resource Grid  110'  170'  60'  287'  2.66 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 52 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Drill Hole  Area   From  To   Width   Total Depth   C(g) % 
+
+AGC‐F02C  Resource Grid  215'  280'  65'  303'  1.76 
+
+AGC‐F03C  Resource Grid  100'  255'  155'  255'  2.31 
+
+Including  225'  255'  30'     3.06 
+
+AGC‐F06C  Resource Grid  65'  130'  65'  249'  2.92 
+
+AND  175'  220'  45'     2.88 
+
+AGC‐F09C  Resource Grid  60'  120'  60'  256'  2.5 
+
+AGC‐G03C  Resource Grid  39'  276'  237'  276'  2.9 
+
+AGC‐G04C  Resource Grid  34'  55'  21'  272'  2.99 
+
+AND  105'  272'  167'     2.83 
+
+AGC‐G08C  Resource Grid  65'  190'  125'  256'  1.99 
+
+Including  70'  100'  30'     2.97 
+
+AGC‐G01S  Resource Grid  0'  59'  59'  59'  3.3 
+
+AGC‐G02S  Resource Grid  0'  49'  49'  49'  2.96 
+
+AGC‐G03S  Resource Grid  0'  39'  39'  39'  2.51 
+
+AGC‐G04S  Resource Grid  0'  34'  34'  34'  2.26 
+
+AGC‐G05S  Resource Grid  0'  25'  25'  25'  1.43 
+
+AGC‐G09S  Resource Grid  0'  25'  25'  25'  3.31 
+
+AGC‐H01S  Resource Grid  0'  69'  69'  69'  3.36 
+
+AGC‐H02S  Resource Grid  0'  49'  49'  49'  2.29 
+
+AGC‐H03S  Resource Grid  0'  39'  39'  39'  3.87 
+
+AGC‐H04S  Resource Grid  0'  59'  59'  59'  3.5 
+
+AGC‐H05S  Resource Grid  0'  40'  40'  40'  1.95 
+
+AGC‐H06S  Resource Grid  0'  25'  25'  25'  2.27 
+
+AGC‐H07S  Resource Grid  0'  30'  30'  30'  2.5 
+
+AGC‐H08S  Resource Grid  0'  25'  25'  25'  2.19 
+
+AGC‐H09S  Resource Grid  0'  20'  20'  20'  1.93 
+
+AGC‐J01S  Resource Grid  0'  40'  40'  40'  1.48 
+
+AGC‐J03S  Resource Grid  0'  30'  30'  30'  3.09 
+
+AGC‐B08C  Resource Grid  No Significant Intercepts  250'    
+
+AGC‐B09C  Resource Grid  No Significant Intercepts  49'    
+
+AGC‐C03C  Resource Grid  No Significant Intercepts  256'    
+
+AGC‐D03C  Resource Grid  No Significant Intercepts  256'    
+
+AGC‐D04C  Resource Grid  No Significant Intercepts  250'    
+
+AGC‐E04C  Resource Grid  36'  85'  49'  256.5'  3.08 
+
+AND  220'  250'  30'     2.2 
+
+AGC‐E07C  Resource Grid  23'  305'  282'  305'  2.7 
+
+AGC‐E08C  Resource Grid  25'  270'  245'  276'  2.9 
+
+AGC‐E09C  Resource Grid  75'  264'  189'  264'  2.99 
+
+AGC‐I01C  Resource Grid  40'  115'  75'  291'  2.62 
+
+AND  135'  230'  95'     2.35 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 53 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Drill Hole  Area   From  To   Width   Total Depth   C(g) % 
+
+AGC‐I02C  Resource Grid  30'  120'  90'  253'  2.78 
+
+AGC‐I03C  Resource Grid  130'  190'  60'  256'  2.59 
+
+AGC‐I04C  Resource Grid  245'  280'  35'  296'  2.82 
+
+AGC‐I05C  Resource Grid  85'  200'  115'  256'  2.39 
+
+AGC‐I06C  Resource Grid  35'  215'  180'  261'  2.32 
+
+Including  70'  105'  35'     3.41 
+
+AGC‐I07C  Resource Grid  165'  245'  80'  285'  3.02 
+
+AGC‐I08C  Resource Grid  45'  215'  170'  265'  2.64 
+
+AGC‐I09C  Resource Grid  50'  250'  200'  256'  3.1 
+
+AGC‐J01C  Resource Grid  60'  110'  50'  253'  2.52 
+
+AND  155'  205'  50'     2.33 
+
+AGC‐J09C  Resource Grid  36'  70'  34'  257'  2.5 
+
+AND  170'  210'  40'     2.35 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 54 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 55 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Figure 10.2 Plan Map of Coosa Project Drill Hole Collars 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 56 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Figure 10.3 Cross Section of the North Fence 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 57 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 58 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+11 SAMPLE PREPARATION, ANALYSISAND SECURITY 
+
+11.1 CHANNEL SAMPLES 2012 
+
+AGC  initially used Mineral Labs,  Inc. of Salyersville, Kentucky and SGS at Lakefield, Ontario  for sample 
+
+preparation and carbon analyses of trench channel samples in 2012 and the first drill hole, AGC‐001C,as 
+
+described in a previous NI 43‐101 report by Durgin (2013). Both of these laboratories are independent of 
+
+AGC.  
+
+The  first  batch  of  113  channel  samples  was  prepared  by  Mineral  Labs  Inc.  at  their  laboratory  in 
+
+Birminghamand analyzed  for carbon by  the  loss on  ignition method at  their  laboratory  in Salyersville. 
+
+These  results  were  subsequently  found  to  be  erroneous  and  too  high,  and  were  discarded.  The 
+
+laboratory had discarded the sample pulps and rejects so that  it was not possible to reanalyzethem at 
+
+another laboratory.  
+
+The second batch of 115 channel samples was prepared andanalyzed for carbon by the LECO method by 
+
+SGS at  Lakefield, and were  shown  to be  reliable by  check analyses at ALS Minerals.The  sample pulps 
+
+were  also  analyzed  at Mineral  Labs,  and  comparison with  the  other  laboratories  showed  that    the 
+
+Mineral Labs assays were unreliable. 
+
+Core  from  the  first  drill  hole,  AGC‐001C,  was  submitted  to  SGS  at  their  laboratory  in  Birmingham, 
+
+Alabama  for preparation. The pulps were  sent  to SGS Lakefield  for carbon analysis. The marble blank 
+
+samples  were  reported  to  contain  greater  than  11%  Cg  as  a  result  of  inadequate  acid  removal  of 
+
+carbonatecarbon  prior  to  the  LECO  analysis.  In  addition  it  was  found  that  the  sample  preparation 
+
+laboratoryin Birmingham had only prepared a  few pieces of  corefrom each bag  instead of  the entire 
+
+sample.The SGS analyses of hole AGC‐001C were not used. 
+
+The unprepared  samples,  rejects and pulps were  retrieved  from  the  two  laboratories,  recombined by 
+
+AGC, and submitted to ALS Minerals for preparation and analysis.  
+
+All drill  core  samples have been prepared and analyzed by ALS Minerals, and  the  rest of  this  section 
+
+describes the ALS Minerals sample preparation and analysis. 
+
+11.2 SAMPLE SECURITY 
+
+Core and samples are stored  in a secure warehouse rented by AGC  in Sylacauga, Alabama 20 mi (32.5 
+
+km) NNE of  the project  that also has  facilities  for  the  field office, core  logging, core cutting and  core 
+
+sampling. Core is stored in waxed card boxes on wooden pallets by hole number. Sonic core is stored in 
+
+long plastic boxes. Pallets are moved by fork lift truck. 
+
+Core is collected from the drill rig by an AGC field helper and brought to the warehouse by an AGC truck, 
+
+where it is logged, photographed and sampled. Diamond core is cut lengthwise by diamond saw in the 
+
+warehouse, and one‐half  core  is put  in a plastic or  cloth bag with a  consecutive  sample number  tag, 
+
+sample number  in  indelible marker, and sealed with a cable tie. The remaining half‐core  is returned to 
+
+the core box and stored in the warehouse for reference. The sample number is marked in the core box 
+
+by a sample number tag. Sonic core is cut lengthwise with a knife and sampled, numbered and stored in 
+
+the same way as diamond core. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 59 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Samples are put  in wooden crates, each holding about 1,000  lbs (454 kg), on a double wooden pallet. 
+
+The sample crates are covered but not sealed. They are transported by a UPS courier truck to the ALS 
+
+Minerals laboratory in Elko, Nevada for sample preparation and analysis. The coarse sample rejects and 
+
+pulps are back‐shipped in the same crates by UPS from ALS Minerals to the AGC warehouse in Sylacauga 
+
+for storage. 
+
+Figure 11.1 The AGC core warehouse and field office in Sylacauga 
+
+ 
+
+11.3 SAMPLE PREPARATION 
+
+Core  samples were prepared by ALS Minerals at  their  laboratory  in Elko, Nevada. ALS Minerals  is  ISO 
+
+9000:2008 registered and ISO 17025 accredited in North America. It is independent of AGC. The sample 
+
+preparation procedure was to log the samples into the tracking system and add a bar code label (code 
+
+LOG‐22), weight the samples  (code WEI‐21), dry them at high  temperature of up to 120°C  (code DRY‐
+
+21), fine crush by jaw crusher to better than 70% passing ‐2 mm (code CRU‐31), split off 1000 g using a 
+
+riffle splitter  (code SPL‐21), and pulverize the 1000 g split to better than 85% passing 75 microns (200 
+
+mesh)  in a  ring and puck  style grinding mill  (code PUL‐32). The entire  sample preparation method  is 
+
+referred to by ALS Minerals as code PREP‐31B. 
+
+11.4 ANALYSIS 
+
+ALS Minerals then shipped the sample pulps to their laboratory in Vancouver, Canada for analysis. A 1 g 
+
+subsample of the sample pulp was analyzed for total carbon by sample combustion in a LECO induction 
+
+furnace  at  high  temperature  which  generates  carbon  dioxide  which  is  quantitatively  detected  by 
+
+infrared spectroscopy and reported as percent carbon, with a range of detection of 0.01%‐50% (code C‐
+
+IR07). Inorganic carbon (carbonate) was analyzed by carbon dioxide (CO2) coulometery, with a range of 
+
+detection of 0.2%‐15% CO2 (code C‐GAS05). The procedure is to acidify the sample with perchloric acid 
+
+(HClO4)  in a heated reaction vessel to evolve free carbon dioxide. This  is subsequently transferred to a 
+
+CO2  coulometer  using  a  carbon‐free  gas, where  the  CO2  is  quantitatively  absorbed  and  reacts with 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 60 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+monoethanolamine  in  the  presence  of  an  indicator  that  fades  in  color  with  increasing  CO2 
+
+concentration. The color change is detected by a photo‐cell and is used to determine the amount of CO2 
+
+in  the  sample. Carbon  is  calculated  from  carbon dioxide and  the  results are  rounded  to  two decimal 
+
+points and one decimal point  respectively. Check  calculations often  show variation of ±0.01%  carbon 
+
+due to rounding. Twenty three percent of samples (886 out of 3835 samples) contain inorganic carbon 
+
+with values ranging from 0.05% to 1.69%, of which 1.5% (59 samples) contain greater than or equal to 
+
+0.2%. 
+
+The sample weight and results for C (C‐IR07), C (C‐GAS05) and CO2 (C‐GAS05) are reported to AGC on 
+
+Excel spreadsheets and  in Certificates of Analysis  in secure Adobe Acrobat  file  format,  transmitted by 
+
+email and available on a secure internet sample tracking site called Webtrieve™. 
+
+Graphite carbon was calculated by AGC by subtracting inorganic carbon from total carbon. This assumes 
+
+that  the only other  form of  carbon present  in  the  samples, other  than graphite  carbon,  is  contained 
+
+within carbonates.  
+
+The  secondary  laboratory  used  for  replicate  analyses  was  Activation  Laboratories  Ltd.  (Actlabs)  in 
+
+Ancaster, Ontario, Canada. Actlabs  is  ISO 9000:2008  registered  and  ISO 17025  accredited,  as well  as 
+
+accredited to CAN‐P‐1579, specific to mineral analysis laboratories. It is independent of AGC. No further 
+
+sample preparation was required for the sample pulps. Graphitic carbon was analyzed on a 0.5 g sample 
+
+in an Eltra resistance or induction furnace with measurement by infrared spectrometer (code 5D‐C). The 
+
+sample is subjected to a multistage furnace treatment to remove all forms of carbon with the exception 
+
+of graphitic carbon, with no acid digestion  required. The  sample  is heated  to 1000°C  in nitrogen  in a 
+
+resistance or  induction  furnace  to burn off CO2  in carbonate and any organic carbon,  leaving graphite 
+
+carbon  behind.  The  residue  is  then  combusted  in  an  oxygen  environment  to  oxidize  the  graphite  to 
+
+determine the graphite content. The  laboratory report graphite carbon (C‐Graph) with a  lower  limit of 
+
+detection of 0.05%.  
+
+11.5 SPECIFIC GRAVITY 
+
+A total of 263 specific gravity measurements were carried out by ALS Mineralsat their laboratory in Elko, 
+
+Nevada on 3 to 5 inch (7.6 to 12.7 cm)samples of split core sampled by AGC from several holes around 
+
+the grid in order to select different rock types. The specific gravity was determined after wax coating the 
+
+sample (method OA‐GRA08n). 
+
+11.6 QUALITY ASSURANCE AND QUALITY CONTROL (QA‐QC) 
+
+AGC  have  a  comprehensive QA‐QC  program  that meets  the  best  practices  guidelines  currently  used 
+
+within the industry. 
+
+The company inserted 1 coarse blank in every 20 samples, and took 1 field (core) duplicate in every 20 
+
+samples, giving about 10% QC samples. No certified standard reference materials (CSRM) are available 
+
+commercially  for  graphite  carbon,  so  it was  not  possible  to  carry  out  an  independent  control,  and 
+
+instead  the  laboratory's  internal  CSRM  data  were  plotted.  Replicate  analyses  at  a  second  certified 
+
+laboratory were carried out of a complete hole at the start of the drill program, and after the end of the 
+
+drill program replicate analyses were carried of 11.4% of all samples at the second laboratory.  
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 61 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+11.6.1 CERTIFIED STANDARD REFERENCE MATERIALS (CSRM) 
+
+No CSRM are available commercially for graphite in order to maintain an independent control.In lieu of 
+
+independent CSRM control, the  internal standards used by the  laboratory, ALS Minerals, were plotted. 
+
+Four CSRM with a range of carbon grades were used routinely, and the recommended values and 95% 
+
+certainty  limits,  as  supplied  by  ALS  Minerals,  are  shown  in  Table  11.1.  These  samples  were 
+
+manufactured  by  CANMET Mining  and Mineral  Services  Laboratories, Ottawa,  Canada  as  part  of  the 
+
+Canadian Certified Reference Materials Project (CCRMP). These samples are certified for other elements 
+
+and carbon  is uncertified and  is given as an "informational value", "provisional value" or "approximate 
+
+value". Plots of the results of total carbon analyses by sample (time) are shown  in Figure 11.2toFigure 
+
+11.5. The results are within the upper and lower confidence limits and show no trends or drift with time, 
+
+and indicate that the analyses have good precision and accuracy.  
+
+Table 11.1List of CANMET CSRM used for carbon by ALS Minerals 
+
+CSRM 
+Ct% Lower 
+
+Limit 
+Ct% Rec 
+Value 
+
+Ct% Upper 
+Limit 
+
+NBM‐1  0.75  0.79  0.83 
+
+MA‐1b  2.34  2.44  2.54 
+
+DS‐1  3.01  3.13  3.25 
+
+STSD‐3  8.09  8.40  8.71 
+
+ 
+
+Figure 11.2Plot of results on internal laboratory CSRM NBM‐1 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 62 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+Figure 11.3Plot of results of internal laboratory CSRM MA‐1b 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 11.4Plot of results of internal CSRM DS‐1 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 63 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+Figure 11.5Plot of results of internal SCRM STSD‐3 
+
+ 
+
+ 
+
+11.6.2 BLANKS 
+
+Coarse blanks were inserted in the drill samples at approximately one every 100 ft (30 m), which equals 
+
+one in every twentieth sample (about 5%). 
+
+Local marble was initially used as a blank but reported high C in Leco analyses because of problems with 
+
+incomplete dissolution of carbonate. The blank was then changed to diorite  in the form of coarse rock 
+
+chips of 1  to 2  inch  (2.5  to 5.08 cm) size bought as  landscape  rock  from  the  local Home Depot store. 
+
+Neither of these samples were analyzed previously for carbon or other elements. The diorite blank was 
+
+introduced together with the marble blank from hole AGC‐002C, and diorite was used exclusively from 
+
+hole AGC‐007C onwards. A total of 18 marble blanks and 221 diorite blanks were analyzed out of a total 
+
+of 3856 unknown drill  samples  in  the database  (6.2%  total blanks  including 5.7% diorite blanks; note 
+
+that the total unknown samples analyzed was higher and some have been eliminated from the database 
+
+due  to  overlap  between  core  samples  and  sonic  samples).  The  diorite  blanks  are  plotted  in  Figure 
+
+11.6with reference lines at the lower limit of detection (0.01%), and five and ten times the lower limit of 
+
+detection. Eleven  samples  (5%) are greater  than 0.10%,  including 4  samples  (1.8%) above 0.20 % Cg, 
+
+with values of 0.23%, 0.37%, 1.35% and 1.91% Cg, which may be  contamination  in  the  lower  sample 
+
+values (there are high grade samples on either side of both), or a sample switches or mislabeling in the 
+
+case of the two high grade values.  
+
+The  blank  results  are  acceptable  and  show  no  systematic  cross  contamination  of  carbon  between 
+
+samples during sample preparation, or contamination during analysis. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 64 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+ 
+
+Figure 11.6Scatter plot of coarse diorite blanks (n=221) 
+
+ 
+
+Samples below detection limit replaced by half of detection limit. 
+
+11.6.3 FIELD DUPLICATES 
+
+One field (core) duplicate was collected every 100 ft (30 m) approximately, which equals one  in every 
+
+twentieth sample (about 5%). 
+
+Field (core) duplicates were taken by cutting the normal half core sample  lengthwise to give two one‐
+
+quarter  core  samples which were  submitted  for analysis as original and  subsequent duplicate. These 
+
+samples  are  half  of  the  weight  of  normal  half‐core  samples  which  may  thus  introduce  greater 
+
+inhomogeneity than average. A total of 160 pairs of field duplicates were analyzed out of a total of 3856 
+
+unknown drill  samples  (4.1%).  They  are  shown  in  a  scatter plot  in  Figure  11.7and  in  a plot of mean 
+
+versus relative difference  inFigure 11.8. This shows that 89% of the duplicates are within ±20% of the 
+
+average. The overall correlation  is close to unity with scatter distributed evenly on either side (47% of 
+
+duplicates are greater than the original, and 50% are lower than the average), interpreted as geological 
+
+heterogeneity plus possible sampling effects, but there is no systematic bias. The average of the original 
+
+samples is 1.86% Cg, and the duplicates is 1.86% Cg, with a relative difference of ‐0.23%.  
+
+It  is  concluded  that  the duplicate  samples  show geological variability, which  is expected  to be higher 
+
+than  in normal  samples due  to  the  duplicates being half  the  normal  sample weight, but  there  is no 
+
+systematic bias, and the relative difference of the average grade of all originals and duplicates  is zero, 
+
+i.e. the average values are almost identical. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 65 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 66 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+Figure 11.7Scatter plot of field (core) duplicates 
+
+ 
+
+ 
+
+ 
+
+Figure 11.8Plot of mean versus relative difference for field (core) duplicate samples 
+
+ 
+
+One sample of 200%, 0.03% Cg not shown for clarity. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 67 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+11.6.4 CHECK ANALYSES 
+
+No check analyses of coarse rejects were carried out at a second laboratory. 
+
+11.6.5 REPLICATE ANALYSES 
+
+AGC carried out replicate analyses of a complete drill hole early in the drill program, and of about 11.4% 
+
+of samples from all drill holes after the end of the drill program. 
+
+AGC  reanalyzed all  samples  from hole AGC‐03C at a  second  laboratory  in  the early  stages of  the drill 
+
+program. The preparation was carried out by a  local  laboratory which split  the sample pulp  into  two, 
+
+hence  these  are  replicate  analyses  (same  pulp).  One  pulp  was  sent  to  the  prime  laboratory,  ALS 
+
+Minerals,  and  the  second  sent  to  the  second  laboratory,  Actlabs.  A  scatter  plot  of  the  two  sets  of 
+
+analyses is shown in Figure 11.9 and shows a good correlation, with some scatter about the mean above 
+
+1%  Cg.  The  average  grade  of  the  original  analyses  is  1.03%  Cg  versus  the  1.01%  for  the  replicate 
+
+analyses, a difference of 0.02% Cg, and a relative difference of 1.9%. 
+
+Figure 11.9Scatter plot of replicate analyses of hole AGC‐03C (n=94) 
+
+ 
+
+AGC sent 438 sample pulps from the whole drill program to Actlabs for replicate analyses. Samples were 
+
+selected by taking every tenth sample. This represents 11.3% of the total of 3856 unknown drill samples. 
+
+One replicate sample was a marble blank which had originally given an unreliable analysis and so it was 
+
+eliminated, leaving 437 samples to plot. A scatter plot of the original and replicate analyses is shown in 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 68 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Error!  Reference  source  not  found.Figure  11.10  and  shows  a  close  correlation  between  the  two 
+
+laboratories, with some scatter in the 1‐2% range, and a possible slight high bias at Actlabs above 2.0% 
+
+Cg.  The  average  grade  of  the  original  analyses  is  1.85%  Cg  and  the  average  grade  of  the  replicate 
+
+analyses is also 1.86%, with a relative difference of ‐0.8%.  
+
+A  plot  of  the mean  versus  relative  difference  is  shown  in  Error! Reference  source  not  found.Figure 
+
+11.11. This shows that the majority of the samples (95.0%) have  less than ±20% relative difference,  in 
+
+other words the reproducibility is very good. Samples with a high relative difference along the x‐axis are 
+
+a data artifact close to or below the lower limit of detection (LLD): Actlabs has a LLD of 0.05% Cg, with 8 
+
+samples below  this which were converted  to half of  the LLD  to plot, whereas ALS has a  lower LLD of 
+
+0.01% with 2 samples below the LLD. The plot also shows a slight trend for the original ALS analyses to 
+
+be higher than the replicates below about 1.5% Cg, with more scatter, whereas the Actlabs analyses are 
+
+slightly higher than the originals above 3% Cg. These slight systematic differences are interpreted to be 
+
+inter‐laboratory  differences which may  be  due  to  differences  such  as  analytical  procedure,  reagents 
+
+used  and  instrument  calibration.  The  small  differences  are  not  considered  to  be  significant  and  no 
+
+adjustments to the original data are recommended. Overall the data shows very good reproducibility. 
+
+Figure 11.10Scatter plot of replicate analyses of Cg for whole drill program (n=436). 
+
+ 
+
+8 values <0.05% Cg in Actlabs replaced by 0.5*LLD (0.025% Cg) and 2 values <0.01% Cg in ALS Minerals replaced by 
+
+0.5*LLD (0.005% Cg). 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 69 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+Figure 11.11Plot of mean vs. relative difference of Cg for replicate samples (n = 436) 
+
+ 
+
+8 values <0.05% Cg in Actlabs replaced by 0.5*LLD (0.025% Cg) and 2 values <0.01% Cg in ALS Minerals replaced by 
+
+0.5*LLD (0.005% Cg). 
+
+11.6.6 CONCLUSIONS AND RECOMMENDATIONS 
+
+The authors conclude  that AGC uses QA‐QC procedures  that meet current  industry standard practice, 
+
+and that the results of the QA‐QC show that the sampling and analytical data are reliable. The analyses 
+
+for Cg show good reproducibility within and between laboratories. The following recommendations are 
+
+made for QAQC for future sampling and drill programs: 
+
+ Prepare internal standards for Cg using coarse core rejects from the project with values to 
+monitor high grades, average grades and cut‐off grades using a certified laboratory. 
+
+ Carry out graphite carbon analyses directly rather than calculating graphite carbon from total 
+carbon and inorganic carbon. 
+
+11.7 AUTHOR'S OPINION 
+
+The  authors  conclude  that  sampling,  sample  security,  sample  preparation  and  analyses  have  been 
+
+carried out  in accordance with best current  industry standard practices and are suitable for estimation 
+
+of mineral resources and  to plan  further exploration. Sampling and analyses  include quality assurance 
+
+and quality control procedures. 
+
+ 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 70 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+12 DATA VERIFICATION 
+
+The  authors  verified  the  data  used  upon  in  this  report  by  visiting  the  property  and  confirming  the 
+
+geology and mineralization, and by review of the QA‐QC, the laboratory certificates and the database. In 
+
+addition a number of check samples were sent for analysis at an independent laboratory. 
+
+MMC requested splits of ten random coarse reject drill core samples for analysis at a second laboratory. 
+
+AGC  took a split  from  the coarse  reject by  rolling  the sample bag, pouring  the sample  into a 5 gallon 
+
+bucket, stirring the sample, then taking a scoop from the top. 
+
+The samples were shipped by AGC to MMC, and by MMC to Acme Analytical Laboratories (Vancouver) 
+
+Ltd., Vancouver, part of the Acme Labs group. Acme is independent of AGC and MMC. The samples were 
+
+crushed to 80% passing 2 mm (10 mesh), homogenized, riffle split and 250 g pulverized to 85% passing 
+
+minus  200 mesh  (75 microns)  (method  code  R200‐250).  A  0.2  g  split was  analyzed  for  graphite  by 
+
+ignition  to 600°C  for 1 hour, hydrochloric acid  leach  (to  remove carbonates), and Leco analysis of  the 
+
+residue (method code 2A09). Another 15 g split was analyzed for multielements by aqua regia digestion 
+
+and  inductively  coupled plasma mass  spectrometer  (ICP‐MS) analysis  (method  code Ultratrace 1F02). 
+
+One blank sample was inserted for QC and returned a satisfactory value below the detection limit. 
+
+The  check  samples  consistently  give  lower  grades  than  the  original  samples.  The  check  samples  are 
+
+between 10.3% and 22.0%  lower  than  the original samples  for  individual samples, with an average of 
+
+14.0% lower (originals average 1.69% Cg, checks average 1.46% Cg, difference ‐0.23%).  
+
+In order to check this, a second batch of 20 samples was sent directly from AGC to Acme. The samples 
+
+comprise both the coarse rejects and pulps of 10 samples. A plot of the Acme results for sample pulps 
+
+against  new  pulps  prepared  from  coarse  rejects  shows  a  good  correlation  indicating  good  precision. 
+
+However, the Acme pulps are consistently  lower than ALS analyses with average of 0.83% Cg vs 1.20% 
+
+Cg, with an average difference of 30% lower, and variation of individual samples from 17% to 58% lower. 
+
+For new pulps prepared from coarse rejects, the average  is 0.88% Cg vs 1.20% Cg  in the originals, with 
+
+an average difference of 26% lower, and variation of individual samples from 2% to 60% lower. 
+
+The trend lines and averages are significantly different between Batches 1 and 2. This indicates different 
+
+accuracy between the two batches and indicates that the issue is an analytical problem at Acme. 
+
+For all samples the average of check analyses is 22% lower (average originals 1.36% Cg, checks 1.6% Cg, 
+
+range of individual samples 2% to 60% lower, median 25%). 
+
+It is concluded from the check samples that: 
+
+ The check samples confirm the presence of graphite carbon in the samples in amounts 
+proportional to the original analyses; 
+
+ The amount of graphite carbon in the check samples is consistently lower than in the originals. 
+This is interpreted to be an analytical issue at Acme. 
+
+ The extensive QAQC data collected during the drilling program and described in Section 11.3 of 
+this report shows that the original ALS analyses are reliable. In particular, the large number of 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 71 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+replicate samples analyzed at different stages of the drill program at another independent 
+
+laboratory, Actlabs, show a very good correlation. 
+
+ The check sampling was not carried out for QAQC. The issue needs to investigated with Acme 
+before carrying out any further analyses at that lab. 
+
+The authors conclude that: 
+
+ Sampling, sample security, sample preparation and analyses have been carried out in 
+accordance with best current industry standard practices and are suitable for estimation of 
+
+mineral resources and to plan further exploration; 
+
+ The exploration programs are well planned and executed and supply sufficient information to 
+plan further exploration; 
+
+ Sampling and analyses include quality assurance and quality control procedures. 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 72 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+13 MINERAL PROCCESSING AND METALURGICAL TESTING 
+
+No metallurgical testing has been carried out on the Coosa Project. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 73 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+14 COOSAMINERAL RESOURCE ESTIMATES 
+
+This Mineral  Resource  statement  describes  the mineral  resource  evaluation  prepared  for  the  Coosa 
+
+Project in accordance with the Canadian Securities Administrators' National Instrument 43‐101. 
+
+The estimate is based on 20,414.4 feet (6,222.3 m) of drilling (both sonic and core) from 69 exploration 
+
+holes.  The resource estimation work was completed by Scott Wilson, CPG, (AIPG Membership Number 
+
+10965) an appropriate "independent qualified person" as this term is defined in National Instrument 43‐
+
+101. 
+
+This  section  describes  the  resource  estimation  methodology  and  summarizes  the  key  assumptions 
+
+considered by MMC.  In  the opinion of MMC,  the  resource evaluation  reported herein  is a  reasonable 
+
+representation of the global carbon mineral resources found in the Coosa Project at the current level of 
+
+sampling.  The  mineral  resources  have  been  estimated  in  conformity  with  generally  accepted  CIM 
+
+"Estimation of Mineral Resource and Mineral Reserves Best Practices" guidelines and are  reported  in 
+
+accordance with the Canadian Securities Administrators' National Instrument 43‐101. Mineral resources 
+
+are not mineral reserves and have not demonstrated economic viability. There is no certainty that all or 
+
+any part of the mineral resource will be converted into mineral reserve. 
+
+The database used to estimate the Coosa Project mineral resources was audited by MMC.   MMC  is of 
+
+the opinion that the current drilling  information  is sufficiently reliable to  interpret with confidence the 
+
+boundaries  of  mineralization  and  that  the  assay  data  are  sufficiently  reliable  to  support  mineral 
+
+estimation. 
+
+Vulcan  Software  Version  8.1  was  used  to  construct  the  geological  solids,  prepare  assay  data  for 
+
+geostatistical  analysis,  construct  the  block  models,  estimate  carbon  grades  and  tabulate  mineral 
+
+resources. 
+
+Grades were  estimated using  Inverse Distance  estimation  techniques.    These  resources  a  reasonable 
+
+representation of the graphite found at the Coosa Project given the current level of sampling. 
+
+The Coosa Mineral Resources are not materially affected by any known environmental, permitting, legal, 
+
+title,  taxation,  socio‐economic, political or other  relevant  issues.   The estimates of Mineral Resources 
+
+and Mineral  Reserves  may  be  materially  affected  if  mining,  metallurgical,  or  infrastructure  factors 
+
+change from those currently anticipated at the Coosa Project. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 74 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+14.1 COOSARESOURCE 
+
+14.1.1 COOSA ESTIMATION PROCEDURES 
+
+The modeling  for Coosa Project was undertaken using Vulcan Software.   All exploration  sampling has 
+
+been used in the geological modeling process. 
+
+The drill hole database was desurveyed, transformed and validated  in the Vulcan software, which was 
+
+then used for the Mineral Resource modeling. The statistics have been completed using a combination 
+
+of Vulcan and Microsoft Excel. Compilation of the final model was undertaken in Vulcan. 
+
+Vulcan  software  in  common  with  other  mining  software  systems  and  relies  on  a  block  modeling 
+
+approach to represent deposit as a series of 3‐D blocks to which grade attributes, and virtually any other 
+
+attributes can be assigned. The software provides numerous means by which attributes can be assigned, 
+
+and  optimization  routines  are  provided  that  allow  block  splitting,  such  that  complex  deposit  outline 
+
+details are not lost or smoothed out by regular size blocks.The approach used to build the final model is 
+
+described briefly below. 
+
+14.1.2 DATABASE FOR GEOLOGIC MODEL 
+
+Drill  hole  data  for  the  Coosa  Project  is  logged  in  the  field  and  entered  and  maintained  in  Excel 
+
+spreadsheets  by  Alabama  Graphite.    Drill  hole  logs  are  manually  reviewed  for  discrepancies  and 
+
+inconsistencies.  
+
+Alabama Graphite provided MMC with a drillhole database in the form of Microsoft Excel spreadsheets 
+
+which contained collar  locations, surveys, assays and  lithology data.   MMC has validated the database 
+
+and has certified the data to be clean and error free.   The drillhole database has been converted to a 
+
+Vulcan® Isis database with the identifier of "AGC_2013.dhd.isis"– a naming convention that works with 
+
+Vulcan Software.   The database contains 69 unique drillholes  that contain  the graphitic carbon assays 
+
+used  in  this  resource estimation analysis.   Twelve of  the 69 holes are angled holes  that were drilled 
+
+perpendicular to the known dip of the graphitic horizon.  The remaining 57 holes are vertical holes that 
+
+were drilled on a 200ft x 200ft (61 m x 61 m) grid in the area of known mineralization. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 75 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 76 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Figure 14.1 Plan View of Coosa Drilling 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 77 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Figure 14.2 Isometric View of Coosa Project Drilling 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 78 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 79 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+14.1.3 TOPOGRAPHIC DATA 
+
+Alabama Graphite  Corp.  contracted  Perry  Remote  Sensing,  LLC  (PRS)  to  purchase  a  precision  digital 
+
+elevation model (DEM) data for 56.5 sq miles (91 sq km) of the project area.  The DEM data was used to 
+
+make a triangulation surface in Vulcan which is used to code the block model with blocks that are in the 
+
+ground.  Drill hole collars were also registered to this surface.  (Figure 14.3). 
+
+Figure 14.3 Triangulation of LiDAR Surface 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 80 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+14.1.4 GEOLOGIC BOUNDARIES 
+
+For  the  Coosa  deposit,  geologic  shapes  were  created  using  Vulcan.    Geologic  boundaries  were 
+
+constructed using by a series of wireframes that were digitized on section.  Shapes were created for the 
+
+QGS,  QMBGS  and  QBGS  rock  types.    In  Vulcan,  these  triangulations  were  used  to  constrain  the 
+
+estimation appropriately within each geologic boundary.   Figure 14.4  illustrates a typical cross section 
+
+through the Coosa deposit and Figure 14.5 displays all of the geologic boundaries from an isometric view 
+
+point. 
+
+Figure 14.4 Coosa Geologic Shapes in Cross Section, North Fence 
+
+ 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 81 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Figure 14.5 Isometric View of Coosa Geologic Boundaries 
+
+ 
+
+14.1.4.1 QGS AND QMBGS BOUNDARY 
+
+The QGS (Quartz‐Graphite‐Schist)surfaces and solids were created in Vulcan and were interpreted from 
+
+data  in the drillhole database data foliation measurements collected  in the field.   Based on the drilling 
+
+and  geologic  interpretation,  the  QGS  boundary  represents  known  high  grade  graphitic  schist  and 
+
+intermediate  (INT)  QGS  to  QMBGS  (Quartz‐Muscovite‐Biotite‐Graphite‐Schist),  which  was  defined 
+
+through the drilling.  The QGS boundary was used to constrain the grade estimation within this graphite 
+
+rich zone and limit the influence of graphite grades in the surrounding lower grade QMBGS.Figure 14.6 
+
+illustrates the triangulations that were used to flag the geologic block model and constrain the resource 
+
+estimation.   
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 82 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Figure 14.6 Triangulations of Coosa QGS and QMBGS Boundary 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 83 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+14.1.4.2 QBGS BOUNDARY 
+
+The QBGS (Quartz‐Biotite‐Garnet‐Schist) boundary was created using Vulcan and was derived from the 
+
+drill hole database.   This boundary represents a  lithological unit that has a  lower carbon content.   The 
+
+QBGS solids were constructed in areas with supported drill hole data.  The solids were not extrapolated 
+
+to great distances because of the unknown nature of the lithology.  The drill holes located in the grid did 
+
+not cross or fully penetrate the QBGS.  This boundary was used to constrain the grade estimation.Figure 
+
+14.7 illustrates the geologic relationship between the QGS, QMBGS and the QBGS. 
+
+Figure 14.7 Triangulations of the QGBS Boundary 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 84 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+14.1.5 DRILLHOLE COMPOSITING AND STATISTICS 
+
+Drill hole assays for Coosa were composited using ten foot down the hole composite lengths.  A total of 
+
+1,862 x10 foot (3.05 m) composites were constructed. Intervals with missing assays were ignored and a 
+
+new  composite  was  generated  at  that  point.    Codes  were  assigned  based  on  the  location  of  the 
+
+composite  centroid  relative  to  the  geologic  triangulations  and  were  utilized  during  the  estimation 
+
+process.   Basic statistics were compiled and analyzed on the composites which  include; distribution of 
+
+composite lengths and carbon values.(Figure 14.8 andFigure 14.9). 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 85 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Figure 14.8 Distribution of Composite Sample Lengths 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 86 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Figure 14.9 Distribution of Composite Graphitic Carbon Values 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 87 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+14.1.6 BLOCK MODEL 
+
+The  resource model  for Coosa was constructed with Vulcan  software using a block model.   All of  the 
+
+required  information  about  the  deposit  is  stored  in  each  individual  block.    This  includes  estimated 
+
+characteristics of carbon, and statistical characteristics such as number of samples used in an estimate, 
+
+distances to the nearest sample, number of drill holes used, etc..  Geologic triangulations were also used 
+
+to  identify  the  rock  type of each block. Geologic  codes  stored  in  the block model were  also used  to 
+
+assign the density within specific geologic boundaries.   Table 14.1outlines the framework of the Coosa 
+
+block model.   
+
+For Coosa, blocks bound  inside the QGS, QBGS and QMBGS geologic triangulation were estimated only 
+
+using samples also within these boundaries.  Samples within the QGS were not used to estimate grade 
+
+within the QMBGS or QBGS.   For example: only samples  flagged  in QGS were used to estimate blocks 
+
+within QGS and only samples flagged QMBGS were used to estimate blocks within QMBGS . 
+
+Table 14.1 Coosa Block Model Framework 
+
+   East  North  Elevation
+
+Block Model Reference Point  1,824,000 11,944,350  ‐100 
+
+Number of Blocks  110  84  110 
+
+Parent Block Size Feet  50  50  10 
+
+Sub‐Block Size in Feet  10  10  10 
+
+Orientation (absolute bearing of x axis around Z axis)  30 degrees 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 88 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+14.1.7 GRADE ESTIMATION PARAMETERS 
+
+Inverse distanced squared grade estimation methodology was used to estimate graphitic carbon grades 
+
+for Coosa. Table 14.2 below outlines the grade estimation parameters used.   
+
+Table 14.2 Coosa Estimation Parameters 
+
+Coosa Estimation Parameters 
+
+Estimation Type  Inverse Distance Squared (ID2)   
+
+  Bearing  Plunge  Dip 
+
+Search Ellipsoid  215  0  40 
+
+  Major Axis 
+Semi‐Major 
+
+Axis 
+Minor 
+Axis 
+
+Search Distance (ft)  250  250  50 
+
+  Min  Max 
+
+Samples  3  20 
+
+Limit of Samples per Drillhole  4   
+
+ 
+
+14.1.8 DENSITY 
+
+A total of 263 specific gravity measurements were used to define the density of each lithology block in 
+
+the model.   Table 14.3 displays  the  rock  types and number of  samples used  to calculate  the average 
+
+density used in the model. 
+
+Table 14.3 Rock Types and Corresponding Density Values 
+
+Rock 
+Type 
+
+Rock 
+Code 
+
+Sample 
+Count 
+
+Average 
+(g/cm3) 
+
+Average 
+(lb/ft3) 
+
+QGS/MIX  1  160  2.71 0.085 
+
+QMBGS  2  53  2.69 0.084 
+
+QBGS  3  17  2.87 0.090 
+
+PEG  NA  33  2.65 0.083 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 89 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+14.1.9 RESOURCE CLASSIFICATION 
+
+14.1.9.1 RESOURCE PIT PARAMETERS 
+
+The Coosa resource was constrained to a Whittle optimized pit to demonstrate reasonable prospects of 
+economic extraction.  The block model was exported from Vulcan and then imported into Whittle.  Input 
+parameters  were  based  on  publically  available  graphite  project  costs.    Table  14.4  outlines  the 
+parameters used for Whittle pit optimization. 
+
+Table 14.4 Resource Pit Parameters 
+
+Resource Pit Parameters 
+
+Parameter  Unit  Value 
+
+Mining Cost  USD/ton mined   $          2.00  
+
+Processing Cost  USD/ton Processed   $        10.00  
+
+G&A  USD/ton Processed   $          1.00  
+
+Total Processing Cost  USD/ton Processed   $        13.00  
+
+       
+
+Graphite Selling Price  USD/ton   $  1,450.00  
+
+       
+
+Pit Slopes  °  60° 
+
+Graphite Recovery  %  90% 
+
+ 
+
+14.1.9.2 MEASURED, INDICATED AND INFERRED CLASSIFICATION 
+
+The Coosa Project resource was classified as Indicated Mineral Resources or InferredMineral Resources.  
+
+The QP  (Scott E. Wilson) does not believe  the company has obtained adequate  information  regarding 
+
+metallurgy and graphite  flake size  to classify any part of  the resource as Measured Mineral Resource.  
+
+The  grid  holes  demonstrated  adequate  spacing  and  continuity  of  graphite  grade  to  be  classified  as 
+
+indicated.   Resource blocks estimated  from  the  two  fence holesdemonstrate  reasonable prospects of 
+
+economic extraction however warrant addition drilling,  to prove grade continuity within  the graphitic 
+
+schist, before they can be upgraded from the Inferred to the Indicated Mineral classification 
+
+Resource blocks were  flagged using  triangulations  that  represent  the  zones described  above.    Figure 
+
+14.10displays the Indicated and Inferred domains that were used to flag the block model. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 90 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 91 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Figure 14.10 Resource Classification Domains 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 92 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 93 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+14.1.10 NI 43‐101 MINERAL RESOURCE 
+
+14.1.10.1 INDICATED RESOURCE 
+
+The  July 16, 2013 Coosa Project  Indicated Mineral Resources  in Table 14.5 are reported at a graphitic 
+
+carbon cutoff grade of 2%.   The resources are based on 20,414.4 feet (6,222.3 m) of drilling  in 69 drill 
+
+holes as of April 2, 2013. Mineral Resources that are not Mineral Reserves do not have demonstrated 
+
+economic viability. 
+
+ 
+
+Table 14.5 Coosa Project Indicated Mineral Resources, July 16th, 2013 
+
+Indicated Resource 
+
+Cutoff %  Tons  C%  C Tons 
+
+2  38,159,000  2.6  992,134 
+
+ 
+
+14.1.10.2 INFERRED RESOURCE 
+
+Inferred mineral  resources  represent  that material  that MMC  considers  to  be  too  speculative  to  be 
+
+included  in economic evaluations at this point.   Additional drilling will be required to convert  Inferred 
+
+Mineral  resources  to Measured or  Indicated Mineral Resources.   Table 14.6lists  the  Inferred Mineral 
+
+Resources for the Coosa Project and is reported at a graphitic carbon cutoff grade of 2%.   
+
+ 
+
+Table 14.6 Coosa Project Inferred Mineral Resources, July 16th, 2013 
+
+Inferred Resource 
+
+Cutoff %  Tons  C%  C Tons 
+
+2  26,992,000  2.87  774,670 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 94 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 95 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+14.1.11 BLOCK MODEL VALIDATION 
+
+Statistical  and  visual  checks were  performed  by MMC  of  the  estimated  block model  to  ensure  there were  no  discrepancies  in  the  grade 
+
+estimation routines and to ensure the geometry of mineralization meets the configuration that the geologists expected(Figure 14.11). 
+
+Figure 14.11 Block Model Validation 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 96 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 97 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+15 ADJACENT PROPERTIES 
+
+There are no adjacent properties to Coosa that have published NI 43‐101 technical reports as of the date 
+
+of this report.
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 98 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+16 OTHER RELEVANT DATA AND INFORMATION 
+
+The authors are not aware of any other information that would aid in the understanding of the Coosa 
+
+Project. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 99 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+17 INTERPRETATIONS AND CONCLUSIONS 
+
+The Coosa Project  is  located within  the Alabama Graphite Belt  that has  a  known history of  graphite 
+
+producing  mines  in  Coosa  County,  Alabama.    The  Alabama  Graphite  Belt  is  associated  with  the 
+
+southernmost part of  the metamorphosed and  folded belt of  the Appalachian Mountains. The Coosa 
+
+Project  is  hosted  in  the  Higgins  Ferry  Group  which  contains  bands  of  graphitic  schist  that  exhibit 
+
+continuity for up to 15 miles (24.1 km) or more along strike. Within the Coosa Project property, only one 
+
+graphitic schist belt has been explored in detail, however surface sampling has indicated the presence of 
+
+additional belts with resource potential. 
+
+Exploration results at the Coosa Project has defined a graphitic schist band with a strike length of 5,980 
+
+feet (1,822.7 m) with a true width of 1,200 feet (365.8 m).  Graphitic material is present in two types of 
+
+schist,  quartz‐graphite  schist  (QGS)  and  intermediate QGS  to  quartz muscovite‐biotite‐graphite‐schist 
+
+(INT), that generally have grades > 1% Cg.   The graphitic rich band  is overlain and underlain by quartz‐
+
+biotite‐graphite‐schist  (QMBGS).    This  usually  has  grade  <1%  Cg  but with  locally  higher  grades.    The 
+
+graphitic schist band has not been fully tested along strike and remains open in both directions.  
+
+MMC  and  Stewart  Redwood  reviewed  pertinent  data  from  Coosa  regarding  exploration  data  and 
+
+methods and resource estimates.  The resource prepared by MMC for Alabama Graphite's Coosa Project 
+
+is  in  accordance  with  Canadian  National  Instrument  43‐101  as  set  forth  in  the  CIM  standards  on 
+
+Resources  and  Reserves, Definitions  and Guidelines  (2005).   MMC  and  Stewart  Redwood  completed 
+
+their  review  of  the  project  in  preparation  for  this  Technical  Report.   MMC  and  Stewart  Redwood 
+
+conclude: 
+
+ Assaying and drill hole surveys have been carried out in accordance with best industry 
+standard practices and are suitable to support resource estimates. 
+
+ Sampling and assaying includes quality assurance procedures, including submission of 
+blanks and coarse reject duplicates and execution of check assays by a second 
+
+laboratory. 
+
+ The Coosa Project resource model was developed using industry accepted methods. 
+
+ Mineral Resources are classified as Indicated and Inferred Mineral Resources.  Resource 
+classification criteria are appropriate in terms of the confidence in grade estimates and 
+
+geological continuity and meet the requirements of National Instrument 43‐101 and 
+
+CIM Standards on Resources and Reserves, Definitions and Guidelines (2005). 
+
+ The Coosa Project is a property of Merit and has enough mineral potential that future 
+exploration is warranted.  The property has merit and potential for mineable graphite 
+
+and should be explored in more detail. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 100 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ MMC and Stewart Redwood met their objectives for Alabama Graphite regarding the 
+Coosa Project. 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 101 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+18 RECOMMENDATIONS 
+
+Based on  the  favorable exploration  results  to date,  the Coosa Project  is of sufficient merit  to warrant 
+
+further exploration.    In order  to evaluate  the mineral and economic potential of  the Coosa Project, a 
+
+regional  exploration  program  (mapping  and  surface  sampling),  geophysical  survey,  an  exploration 
+
+drilling program totaling 12,000 feet (3,657.6 m) and metallurgical tests for a total estimated cost of US$ 
+
+1.45 M is recommended.  Table 18.1presents the costs for the program. 
+
+ 
+
+Table 18.1 2013 Exploration Program Costs 
+
+2013 Exploration Program  Cost 
+
+Regional Exploration (Mapping and Surface Sampling)   $        35,000  
+
+Geophysics (EM Survey)   $     150,000  
+
+Earth Moving and Pad Construction   $     100,000  
+
+Exploration Drilling   $     600,000  
+
+Assays (Surface and Core Samples)   $     190,000  
+
+Environmental and Reclamation   $        75,000  
+
+Metallurgical Tests   $     300,000  
+
+Project Total ($ USD)  $  1,450,000  
+
+ 
+
+Specific recommendations for future drilling to infill and extend the resource are as follows: 
+
+ Complete grid  line  J and drill additional  lines K and more  if  required  to close off  the graphite 
+schist and resource to the SE. 
+
+ Extend the grid NE to the North Fence to add to the resource. 
+ Extend the grid SW to the South Fence to infill the resource. 
+
+Recommendations for analysis and QA‐QC are as follows: 
+
+ It  is  recommended  that  internal  standards  be  prepared  by  a  certified  laboratory  for  future 
+sampling and drilling programs, and  that  the preparation and analyses be started soon as this 
+
+takes several months to carry out. These should be made using coarse drill core rejects from the 
+
+Coosa Project with values to monitor high grades, average grades and cut‐off grades. 
+
+ Carry out graphite carbon analyses directly  rather  than calculating graphite carbon  from  total 
+carbon and inorganic carbon. 
+
+ 
+
+ 
+
+ 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 102 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+ 
+
+19 REFERENCES 
+
+Brown, J. S., 1925. Graphite Deposits of Ashland, Alabama. Economic Geology, vol. 20, p. 208‐248. 
+
+Cameron, E.N. & Weiss, P.L., 1960. Strategic Graphite Survey.USGeological Survey BulletinNo. 1082E. 
+
+Clemmer,  J.B.,  Smith,  R.W.,  Clemmons,  B.H.  &  Stacy,  R.H.,  1941.  Flotation  of Weathered  Alabama 
+
+Graphite Schists for Crucible Flake.Alabama Geological Survey, BulletinNo. 49, 101 p. 
+
+Durgin, D.,  2012.  Technical  Report,  Coosa Graphite  Project,  Coosa  County, Alabama, USA. NI  43‐101 
+
+Technical Report  for Alabama Graphite Corp.  (formerly Keymark Resources  Inc.), August 22, 2012, 
+
+40 p. 
+
+Durgin, D., 2013. Updated Technical Report, Coosa Graphite Project, Coosa County, Alabama, USA. NI 
+
+43‐101 Technical Report for Alabama Graphite Corp., February 25, 2013, 54 p. 
+
+Gisler, H. J., 1945. Alabama Flake Graphite Company. Deco Trefoil, March 1945, p. 5‐12. 
+
+Jones, W.B., 1929. Summary Report on Graphite in Alabama.Alabama Geological Survey, Circular No. 9. 
+
+Landis,  C.  A.,  1971.  Graphitization  of  dispersed  carbonaceous  material  in  metamorphic  rocks. 
+
+Contributions to Mineralogy and Petrology, vol. 30, p. 34‐45. 
+
+Mitchell, D.  J., 1993.  Industrial Minerals  Laboratory Manual: Flake Graphite. British Geological Survey 
+
+Technical ReportNo. WG/92/30, 35 p. 
+
+Neathery, T.L., 1969. Geologic Map of Clay County, Alabama. Alabama Geological Survey, unpublished 
+
+map (not seen). 
+
+Neathery, T.L., 1970. Geologic Map of Coosa County, Alabama. Alabama Geological Survey, unpublished 
+
+map (not seen). 
+
+Neathery,  T.L.,  1972.  Geologic  Map  of  Chilton  County,  Alabama.  Alabama  Geological  Survey, 
+
+unpublished map (not seen). 
+
+Neathery, T. L., 1975. Rock units in the high‐rank belt of the Northern Alabama Piedmont. In Neathery & 
+
+Tull, 1975, p. 17‐22. 
+
+Neathery,  T.L. &  Tull,  J.F.  (eds), 1975. Geologic Profiles of  the Northern Alabama Piedmont.Alabama 
+
+Geological Society Guidebook, 13
+th
+ Annual Field Trip, December 5‐6, 1975. 
+
+Osborne,  E.W.,  Szabo,  M.W.,  Neathery,  T.L.&  Copeland,  C.W.,  1988.  Geologic  Map  of  Alabama, 
+
+Northeast Sheet.Geological Survey of Alabama, Special MapNo. 220, 1:250,000 scale. 
+
+Pallister, H.D. & Thoenen,  J.R., 1948.  Flake Graphite  and Vanadium  Investigations  in Clay, Coosa  and 
+
+Chilton Counties, Alabama.US Bureau of Mines, Report of InvestigationsNo. 4366, 84 p. 
+
+Raymond,  D.  E.,  Osborne,  W.  E.,  Copeland,  C.  W.  &  Neathery,  T.  L.,  1988.  Alabama  Stratigraphy. 
+
+Geological Survey of Alabama, Circular No. 140, 97 p. 
+
+
+
+Alabama Graphite Corp.  
+Technical Report – Coosa Project    Page 103 
+
+ 
+
+ 
+Metal Mining Consultants Inc.    Coosa Technical Report 
+August 30, 2013    sew 
+
+Russell, G. S., 1975. Geochronologic  Investigations  in  the Northern Alabama Piedmont.  In Neathery & 
+
+Tull, 1975, p. 87‐97. 
+
+Tull, J. F., 1975. Structural and metamorphic features of the Northern Alabama Piedmont. In Neathery & 
+
+Tull, 1975, p. 63‐86. 
+
+
+'

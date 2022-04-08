@@ -1,0 +1,5544 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - NI 43-101 McIlvenna Bay Final.doc
+
+
+Chester M. Moore, 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ i
+
+TABLE OF CONTENTS 
+PAGE 
+
+1 SUMMARY.................................................................................................................. 1-1 
+Technical Summary ................................................................................................... 1-3 
+
+2 INTRODUCTION AND TERMS OF REFERENCE .................................................. 2-1 
+
+3 RELIANCE ON OTHER EXPERTS ........................................................................... 3-1 
+
+4 PROPERTY DESCRIPTION AND LOCATION........................................................ 4-1 
+
+5 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND 
+PHYSIOGRAPHY........................................................................................................... 5-1 
+
+6 HISTORY ..................................................................................................................... 6-1 
+
+7 GEOLOGICAL SETTING ........................................................................................... 7-1 
+Regional Geology ...................................................................................................... 7-1 
+Local Geology............................................................................................................ 7-4 
+Property Geology ....................................................................................................... 7-5 
+
+8 DEPOSIT TYPES......................................................................................................... 8-1 
+
+9 MINERALIZATION .................................................................................................... 9-1 
+
+10 EXPLORATION....................................................................................................... 10-1 
+
+11 DRILLING................................................................................................................ 11-1 
+
+12 SAMPLING METHOD AND APPROACH............................................................ 12-1 
+
+13 SAMPLE PREPARATION, ANALYSES AND SECURITY ................................. 13-1 
+Cameco (1988-1991) ............................................................................................... 13-1 
+Foran Mining Corporation (1998-2000) .................................................................. 13-1 
+Specific Gravity Determinations.............................................................................. 13-3 
+
+14 DATA VERIFICATION .......................................................................................... 14-1 
+
+15 ADJACENT PROPERTIES ..................................................................................... 15-1 
+
+16 MINERAL PROCESSING AND METALLURGICAL TESTING......................... 16-1 
+
+17 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES.................... 17-1 
+SUMMARY............................................................................................................. 17-1 
+Resource Database and Validation .......................................................................... 17-2 
+Cut-off Grade ........................................................................................................... 17-3 
+Geological Interpretation and 3D Solids.................................................................. 17-3 
+Assay Statistics ........................................................................................................ 17-3 
+Cutting High Grade Values...................................................................................... 17-9 
+Compositing............................................................................................................. 17-9 
+Density ................................................................................................................... 17-10 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ ii
+
+Variography, Kriging Parameters and block model .............................................. 17-10 
+Calculation of nsr values........................................................................................ 17-15 
+Classification of Mineral Resources ...................................................................... 17-16 
+Summary of Mineral Resource Estimate ............................................................... 17-17 
+Mineral Resource Validation ................................................................................. 17-19 
+Comparison with Foran 2000 Resource Estimate.................................................. 17-20 
+
+18 OTHER RELEVANT DATA AND INFORMATION ............................................ 18-1 
+
+19 INTERPRETATION AND CONCLUSIONS.......................................................... 19-1 
+
+20 RECOMMENDATIONS.......................................................................................... 20-1 
+
+21 REFERENCES ......................................................................................................... 21-1 
+
+22 SIGNATURE PAGE ................................................................................................ 22-1 
+
+23 CERTIFICATE OF QUALIFICATIONS................................................................. 23-1 
+
+24 APPENDIX 1............................................................................................................ 24-1 
+Analytical Procedures, TSL Assayers...................................................................... 24-1 
+
+25 APPENDIX 2............................................................................................................ 25-1 
+Metallurgical Test Work .......................................................................................... 25-1 
+ 
+
+LIST OF TABLES 
+PAGE 
+
+Table 1-1   Recommended Program and Budget for the Period, Nov 1/06 to Feb 28/07 1-3 
+Table 1-2   June 14, 2000 Block Model Resource Estimate............................................ 1-5 
+Table 1-3   McIlvenna Bay Mineral Resources ............................................................. 1-14 
+Table 4-1   Claim Status - Hanson Lake Property ........................................................... 4-2 
+Table 6-1   June 14, 2000  Block Model Resource Estimate........................................... 6-3 
+Table 14-1   Assays of Samples Collected From Drill Holes ........................................ 14-1 
+Table 17-1   McIlvenna Bay Mineral Resources ........................................................... 17-2 
+Table 17-2   Summary of Resource Assay Records by Zone ........................................ 17-4 
+Table 17-3   Statistics of Drill Hole Composites by Zone........................................... 17-10 
+Table 17-4   Kriging Parameters .................................................................................. 17-15 
+Table 17-5   NSR Parameters....................................................................................... 17-16 
+Table 17-6   Mineral Resource Estimate...................................................................... 17-18 
+Table 17-7   Comparison of Indicated Resource Estimate of Kriging and Inverse Distance 
+Methods........................................................................................................................ 17-20 
+Table 17-8   Comparison with Foran Mining 2000 Resource Estimate ...................... 17-21 
+Table 20-1   Recommended Program and Budget for the Period, Nov 1/06 to Feb 28/07
+........................................................................................................................................ 20-1 
+
+ 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ iii
+
+LIST OF FIGURES 
+PAGE 
+
+Figure 4-1   Location Map ............................................................................................... 4-4 
+Figure 4-2   Property Map................................................................................................ 4-5 
+Figure 7-1   Regional Geology......................................................................................... 7-3 
+Figure 7-2   Stratigraphic Column of the McIlvenna Bay Deposit Area ....................... 7-10 
+Figure 7-3   Cross Section of Deposit 9700 E (Looking West) ..................................... 7-11 
+Figure 17-1   Cross Section Showing Outline of Zones and Drill Holes....................... 17-5 
+Figure 17-2   Cross Section Showing Outline of Zones and Drill Holes....................... 17-6 
+Figure 17-3   3D View Showing Outline of 3D Mineralized Zones.............................. 17-7 
+Figure 17-4   3D Outline of indicated and Inferred Resources...................................... 17-8 
+Figure 17-5   3D Semi-Variogram MS/SMS Zone - Cu.............................................. 17-12 
+Figure 17-6   3D Semi-Variogram MS/SMS Zone - Zn .............................................. 17-13 
+Figure 17-7   3D Semi-Variogram Stringer Zone - Cu................................................ 17-14 
+Figure 20-1   Vertical Longitudinal Section; Drill Hole Locations ............................... 20-2 
+
+ 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 1-1
+
+1 SUMMARY 
+Scott Wilson Roscoe Postle Associates Inc. (Scott Wilson RPA) was retained by Bob 
+
+Nylen, President and CEO of Foran Mining Corporation (Foran), to prepare an 
+
+independent Technical Report on the McIlvenna Bay Project, near Hanson Lake in 
+
+northeastern Saskatchewan.  The purpose of this report is to provide an updated technical 
+
+report and a mineral resource estimate for the property.  This Technical Report conforms 
+
+to National Instrument 43-101 Standards of Disclosure for Mineral Projects (NI 43-101).  
+
+Scott Wilson RPA visited the property on September 26, 2006 and spent September 27-
+
+29 in the Foran facilities in Saskatoon looking at data and drill core from a number of 
+
+holes. 
+
+ 
+
+Foran is involved in the acquisition, exploration and development of mineral 
+
+properties and is currently focused on the development of their gold and base metal 
+
+properties located in northern Manitoba and Saskatchewan.  This report deals with the 
+
+McIlvenna Bay Project, a Zn-Cu volcanogenic massive sulphide deposit which is at the 
+
+advanced exploration stage. The major asset of the property is a large body of Cu-Zn 
+
+mineralization for which there is an historic resource estimate that is not compliant with 
+
+NI 43-101. 
+
+ 
+
+In 1990, Scott Wilson RPA, then known as Roscoe Postle Associates Inc. (RPA), did 
+
+a resource estimate on this property for Billiton Metals Canada Inc.  
+
+ 
+CONCLUSIONS 
+
+A significant mineral resource has been estimated for the McIlvenna Bay property as 
+
+summarized in Table 1-3.  Indicated resources total 6,671,000 t at a grade of 0.87% Cu, 
+
+6.51% Zn, and 26.0 g/t Ag.  Inferred resources total 6,000,000 t at a grade of 0.83% Cu, 
+
+5.89% Zn, and 24.8 g/t Ag.  These numbers differ from the historic resource estimation 
+
+by Foran in 2000. Due to the more erratic nature of the copper mineralization in the 
+
+copper stringer zone, the use of an arbitrary cut-off grade for interpretation was not 
+
+appropriate.  The geological boundaries and entire intersection in each drill hole in this 
+
+zone were used instead.  As well, a minimum width of three metres was imposed on all 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 1-2
+
+zones where the previous interpretation included the occasional narrow intersection for 
+
+the sake of continuity. 
+
+ 
+
+The higher cut-off value used by Scott Wilson RPA eliminates much of the Copper 
+
+Stringer zone from either category. 
+
+ 
+
+More fill in diamond drilling is required to upgrade the mineral resources and to trace 
+
+their extension down plunge to the northwest. 
+
+ 
+
+Given the advanced stage of this project, it would be reasonable to carry out a 
+
+preliminary assessment/scoping study after the completion of the next phase of drilling. 
+
+ 
+RECOMMENDATIONS 
+
+A nine hole, 9,600 m drilling program is recommended as outlined in the budget in 
+
+Table 1-1. The pierce points of the proposed holes are shown on the Longitudinal 
+
+Section, Figure 20-1. The purpose of the drilling is to tighten up drill hole spacings so 
+
+that the mineral resources might be upgraded and to explore the down plunge extension 
+
+of the McIlvenna Bay sulphide deposit (to the northwest). Upon completion of the 
+
+proposed drilling, the current mineral resource estimate should be updated and a 
+
+preliminary assessment/scoping study carried out. 
+
+ 
+
+Contingent on the results of the preliminary assessment, a Phase 2 drilling program 
+
+should be considered to acquire mineralized material for metallurgical test work. 
+
+ 
+
+Scott Wilson RPA recommends that a rigorous program of QA/QC be instituted for 
+
+the next phase of drilling. 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 1-3
+
+TABLE 1-1   RECOMMENDED PROGRAM AND BUDGET FOR THE 
+PERIOD, NOV 1/06 TO FEB 28/07  
+
+Foran Mining Corporation- McIlvenna Bay Project 
+ 
+
+Item Expenditure, C$ 
+Salaries/ Supervision 141,000
+Field Office Rental/ Communications 30,000
+Transportation 9,000
+
+Diamond Drilling: Confirmation/infill drill program 
+    9 DDH = 9,600 m @ C$100/m 
+
+ 
+960,000 
+
+Camp Costs 
+ 
+
+45,000
+Camp setup 25,000
+ATV Rental – $800/mo x 3 mo. 2,400
+Borehole survey equipment – purchase 20,000
+Assaying 600 samples x $30/sample 18,000
+Core Logging Software Purchase 20,000
+ 
+Scoping Study 150,000
+Contingency  142,000
+TOTAL Phase 1 1,562,000
+
+ 
+
+ 
+
+TECHNICAL SUMMARY 
+PROPERTY DESCRIPTION, LOCATION, LAND TENURE 
+
+The McIlvenna Bay deposit occurs within Foran's Hanson Lake property which 
+
+comprises 26 claims totaling 12,950 ha. Located approximately one kilometre south of 
+
+Hanson Lake, Saskatchewan, the property is also approximately 375 km northeast of 
+
+Saskatoon and 65 km west-southwest of Flin Flon, Manitoba. The McIlvena Bay deposit 
+
+is located within NTS sheet 63L10 and the plan projection of the deposit is centered on 
+
+UTM 640,600 E and 6,056,800 N (NAD 83, Zone 13).  The corresponding geographic 
+
+coordinates are 102o50' W and 54o38" N.   
+
+ 
+
+The claims are all in good standing and are held in the name of Foran Mining 
+
+Corporation. 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 1-4
+
+On January 25, 2005, Foran announced that it had entered into a definitive agreement 
+
+with Cameco Corporation (Cameco) and Billiton Metals Canada Inc (BHP Billiton), 
+
+collectively the Hanson Lake Joint Venture, which allowed Foran to acquire a 100% 
+
+interest in the Hanson Lake property (McIlvenna Bay Cu-Zn deposit).  Foran would 
+
+acquire 100% of the Hanson Lake property by:  
+
+ i) paying C$1,500,000 to the Hanson Lake Joint Venture  
+ ii) paying a further C$2,000,000 to the Hanson Lake Joint Venture before May 
+
+31, 2006; and  
+
+ iii) providing the Hanson Lake Joint Venture with a 1% Net Smelter Return 
+(NSR), with a buy-out provision in favour of Foran for the purchase of the whole 
+NSR for Cdn.$1,000,000 at any time.  
+
+ 
+
+In subsequent agreements with Copper Reef Mines Ltd., newly named Copper Reef 
+
+Mining Corporation (Copper Reef), a private company organized under the laws of 
+
+Manitoba, Foran organized the finances to fulfill the terms of the agreement with the 
+
+Hanson Lake Joint Venture. As a result, Copper Reef has been assigned a 25% interest in 
+
+the property, Foran retains a 75% interest and the two have entered into a joint venture 
+
+for the purpose of developing the property. 
+
+ 
+
+The property, which is accessible by an all weather road, has no infrastructure other 
+
+than a camp building and a core storage yard. 
+
+ 
+HISTORY 
+
+In 1987, Cameco flew a Mark VI helicopter INPUT survey over the area south of 
+
+Hanson Lake, with flight lines oriented NE-SW.  The survey delineated a 1,200 m long 
+
+INPUT anomaly, striking east-south-east, 1 km south of McIlvenna Bay. 
+
+ 
+
+In January 1988, a ground magnetometer and HLEM survey defined the anomaly and 
+
+six holes were subsequently drilled into what is now the McIlvenna Bay deposit. From 
+
+1989 to 1991, an additional 61 drill holes were completed.  Fifty-six of the holes were 
+
+drilled to test the deposit, of which only five failed to intersect economically significant 
+
+mineralization.  In 1991, Cameco suspended exploration activities at the Hanson Lake 
+
+property and it remained idle until optioned in 1998 by Foran Mining Corporation. 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 1-5
+
+As of May 31, 2000, Foran drilled 59 additional holes totaling 33,350 m into the 
+
+property, with 57 holes directly testing the deposit.  The first 44 holes were drilled with 
+
+the objective of upgrading the quality of the resource to a depth of 580 m from the 
+
+Inferred Resource Category to the Indicated Resource Category.  The last 15 holes were 
+
+drilled below the plunge line and down plunge of the deposit and extended the deposit an 
+
+additional 300 m vertically below the plunge of the previous resource base. 
+
+ 
+
+The most recent estimate, with the largest drill database, was completed by R. 
+
+Lemaitre of M'Ore Exploration Services in June 2000, after the completion of Foran's 
+
+44-hole infill drilling program. This block model resource estimate was based on a total 
+
+of 63,344 m of diamond drilling from 124 holes, of which 33,350 m of drilling was 
+
+completed by Foran between December 1998 and May 2000. Cut-off grades of 1.5% 
+
+copper or 4.0% zinc were used. The area between L93+00E and L103+50E and above the 
+
+580 m vertical depth was deemed to have been drilled at sufficient intersection spacings 
+
+to be classified as an Indicated Resource.  The remainder of the mineralization delineated 
+
+to a maximum depth of 1,230 m vertical is classified as Inferred Resources. Estimated 
+
+resources are listed in Table 1-2. 
+
+ 
+
+TABLE 1-2   JUNE 14, 2000 BLOCK MODEL RESOURCE ESTIMATE 
+Foran Mining Corporation – McIlvenna Bay Project  
+
+ 
+
+Headings 
+Tonnage 
+(metric 
+tonnes) 
+
+Au 
+(g/t) 
+
+Ag 
+(g/t) 
+
+Cu 
+(%) 
+
+Zn 
+(%) 
+
+Pb 
+(%) 
+
+Lens 2, Upper West, Lens 3 
+Indicated 6,907,364 0.51 24.17 0.89 6.59 0.45 
+
+Lens 2, Upper West, Lens 3 
+Inferred 7,602,473 0.40 23.28 0.93 5.61 0.35 
+
+Copper Stringer Zone 
+Indicated 4,363,067 0.67 12.15 1.82 0.32 0.03 
+
+Copper Stringer Zone 
+Inferred 7,463,827 0.60 12.75 1.80 0.65 0.05 
+
+Lens 4 
+Inferred 328,092 0.74 10.44 1.77 0.94 0.04 
+
+ 
+
+This resource estimate was independently audited by Watts, Griffis, and McOuat who 
+
+overall, concurred with the block modelling results and concluded that the modelling 
+
+procedures and categorization were completed according to industry standards. 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 1-6
+
+Scott Wilson RPA has also closely reviewed the previous Foran resource estimate and 
+
+agrees that, except for the Copper Stringer zone, the block modelling methodology, 
+
+results and classification are acceptable and comply with industry standards. 
+
+ 
+REGIONAL GEOLOGY 
+
+The Hanson Lake property is located on the western edge of the Early Proterozoic 
+
+Flin Flon Greenstone Belt (FFGB) which extends from north central Manitoba into 
+
+northeastern Saskatchewan. The FFGB forms part of the Reindeer Zone, a subdivision of 
+
+the Trans-Hudson Orogen, a continental-scale tectonic event which occurred 
+
+approximately between 1.84 Ga and 1.80 Ga as a result of the collision between the 
+
+Superior and Hearne Archean Cratons. 
+
+ 
+
+The FFGB is composed of structurally juxtaposed volcanic and sedimentary 
+
+assemblages that were emplaced in a variety of tectonic environments. The major 1.92-
+
+1.88 Ga components include aerially significant juvenile arc and juvenile ocean-floor 
+
+rocks, and minor ocean plateau/ocean island basalt. The juvenile arc assemblage 
+
+comprises tholeiitic, calc-alkaline, and lesser shoshonitic and boninitic rocks similar in 
+
+major and trace element geochemistry to modern intra-oceanic arcs. Ocean-floor basalt 
+
+sequences are exclusively tholeiitic, and are geochemically similar to modern N- and E- 
+
+type MORBs erupted in back-arc basins. Evolved arc assemblages and Archean crustal 
+
+slices are present within the FFGB as minor components. 
+
+ 
+
+As currently viewed, the Flin Flon Greenstone Belt contains eight geographically-
+
+separate juvenile island arc volcanic assemblages (blocks), each of which is 20 km to 50 
+
+km across.  From east to west, they are known as the Snow Lake, Four Mile Island, 
+
+Sheridon, Flin Flon, Birch Lake, West Amisk, Hanson Lake, and Northern Lights 
+
+Assemblages. These assemblages are separated by major structural features and/or areas 
+
+of differing tectonostratigraphic origin.  It is unclear whether the eight juvenile arc 
+
+sequences represent different island arcs, or segments of a larger continuous arc.  Within 
+
+the belt, each tectonostratigraphic block has been broken into several sub-blocks, usually 
+
+bounded by local to regional fault systems.  Correlation of stratigraphy between sub-
+
+blocks is difficult to impossible to determine. 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 1-7
+
+The exposed portion of the FFGB is approximately 250 km in an EW direction by 75 
+
+km NS.  To the north, it is in tectonic contact with gneissic metasedimentary, 
+
+metavolcanic and plutonic rocks of the Kisseynew Domain. To the south, it is overlain by 
+
+flat lying to southerly dipping Ordovician platformal cover rocks.  
+
+ 
+LOCAL GEOLOGY 
+
+The Hanson Lake Block, the host terrain of the McIlvenna Bay Deposit, is bound to 
+
+the east by the Sturgeon-Weir Shear Zone and to the west by the Tabbernor Fault Zone.  
+
+The block extends an unknown distance to the south beneath a nearly flat-lying cover of 
+
+Ordovician sandstones of the Winnipeg Formation, and dolomites of the Red River 
+
+Formation.  
+
+ 
+
+In the Hanson Lake area, north of the Paleozoic margin, the exposed Proterozoic 
+
+rocks of the Hanson Lake Block are dominated by juvenile island arc, felsic to 
+
+intermediate metavolcanic rocks, with subordinate amounts of mafic volcanics, minor 
+
+intermediate volcanics, and greywackes.  Oxide facies iron formations are not commonly 
+
+exposed but their presence has been confirmed by diamond drilling.  The sequence has 
+
+been intruded by various felsic intrusions, some of which are believed to be subvolcanic 
+
+intrusions.  Abundant diorite and gabbro plugs and dykes cut the sequence as well as 
+
+minor ultramafic intrusions. The supracrustal rocks generally dip moderately to steeply 
+
+east to north-east.  South of Hanson Lake, the Proterozoic sequence is poorly understood 
+
+because of the unconformably overlying Paleozoic sedimentary rocks.  The McIlvenna 
+
+Bay Deposit projects to sub-surface under the sedimentary cover.  
+
+ 
+
+At least two distinct folding events, both having northerly trending fold axes, have 
+
+influenced the stratigraphy in the Hanson Lake Area. Peak regional metamorphism 
+
+probably reached upper amphibolite facies. At the McIlvenna Bay Deposit, the host rocks 
+
+exhibit a greenschist metamorphic facies which is probably a retrograde event after a 
+
+previous amphibolite grade since relict cordierite, anthophyllite, garnet and andalusite are 
+
+commonly observed in the VMS alteration package. U-Pb age dating of a quartz-feldspar 
+
+porphyry (a possible subvolcanic intrusion) which intruded the supracrustal sequence 
+
+yielded a date of 1888 ± 12 Ma.   
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 1-8
+
+PROPERTY GEOLOGY 
+Lacking any outcrop in the area of the deposit, the property geology  has been 
+
+interpreted from the drill core record with help from geophysical surveys. 
+
+ 
+
+The stratigraphy of the deposit area, divided into six formations, has been defined 
+
+over a two kilometre strike length by a total of 124 drill holes. The lowest formation 
+
+intersected by drilling both structurally and stratigraphically is the McIlvenna Bay 
+
+Formation. This is comprised of a minimum 200 m thickness of variably altered felsic 
+
+volcanics, volcaniclastics and/or volcanic-derived sediments of rhyolitic composition. 
+
+The massive and semi-massive sulphide deposits are part of this formation. The 
+
+McIlvenna Bay Formation is overlain to the north by the Cap Tuffite Formation, a 
+
+sequence of intercalated felsic volcanic and cherty metasediments which have been 
+
+intruded by sills and dykes of the Davies Gabbro (described below).  The unit ranges 
+
+from 35 m to 55 m thick, is finely banded to finely laminated and ranges from white to 
+
+cream to grey-green in colour. An east to west zonation is observed in the Cap Tuffite 
+
+from cherty-dominated in the east to rhyolitic-dominated in the west. Stratigraphically 
+
+overlying the Cap Tuffite is the Koziol Iron Formation, a long continuous exhalative 
+
+horizon traceable in drill core and by geophysics over several kilometres and as such, an 
+
+excellent stratigraphic marker horizon.  The unit is a true oxide-facies iron formation that 
+
+ranges from 0.1 m to 25 m true thickness and is composed of 1 cm to 5 cm thick bands of 
+
+fine-grained chert, interbedded with 1 mm to 50 mm massive magnetite bands and 1 cm 
+
+to 1 m thick massive grunerite±garnet±magnetite ±chlorite  bands.  Overlying the Koziol 
+
+Formation is the Rusk Formation, a thick package of massive and calcite-altered mafic 
+
+volcanic rocks that are approximately 100 m thick.  The mafic rocks are likely massive 
+
+flows, although the thickness of individual flow units cannot be determined from drill 
+
+core. Topping the Rusk Formation is another exhalative horizon, the HW-A Formation 
+
+which ranges from 1 cm to 5 m thick and shows a transition from west to east from 
+
+oxide-facies iron formation to massive sphalerite-pyrite. Overlying the iron formation 
+
+portion is a 1 m to10 m thick massive mafic volcanic unit. Overlying the 10 cm to 75 cm 
+
+thick sphalerite-pyrite layer is a 5 m to 15 m thick massive, grey, felsic volcanic unit.  
+
+Overlying the HW-A Formation is +400 m thick Upper Sequence, a bimodal package of 
+
+volcanic units that have been difficult to correlate from hole to hole.  Approximately 45% 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 1-9
+
+of the unit is composed of aphanitic, grey, felsic volcanic, and 50% fine-grained mafic 
+
+volcanic rocks.  Some of the mafic units may be gabbroic intrusions.  Approximately 5% 
+
+of the unit is composed of greywackes and at least two additional oxide-facies iron 
+
+formation horizons.  The Davies Gabbro, a plug up to 100 m thick east of the deposit, 
+
+extends westward toward the centre of the sulphide body where it narrows into a series of 
+
+thin dykes.  The gabbro appears to be a series of sills that have intruded along the 
+
+bedding planes of the Cap Tuffite Formation.  The gabbro plug plunges along an axis 
+
+parallel to the sulphide body and appears to exert some sort of control over the limits of 
+
+mineralization along the bottom plunge line of the deposit. 
+
+ 
+STRUCTURE 
+
+Stratigraphy in the deposit area strikes between 275o and 295o and dips to the north at 
+
+65o-70o, although in selected areas it dips vertically.  The deposit has the same orientation 
+
+as the stratigraphy and also plunges at approximately 45o to the northwest.  Rocks in the 
+
+host stratigraphy are massive to strongly foliated, the intensity of which depends on the 
+
+competency of each individual unit and the degree of alteration. 
+
+ 
+
+Two phases of folding of the host stratigraphy have been observed in the drill core 
+
+and are believed to correspond to the regional F2 and F3 folding events. 
+
+ 
+
+Evidence of faulting has been documented in drill core but it is difficult to determine 
+
+the orientation, scale, or continuity of most faults between drill holes with the present 
+
+level of information. 
+
+ 
+DEPOSIT TYPE AND MINERALIZATION 
+
+The target deposit on the McIlvenna Bay property is a volcanogenic massive sulphide 
+
+(VMS) deposit, a synvolcanic accumulation of sulphide minerals that occur in geological 
+
+environments characterized by submarine volcanic rocks.   
+
+ 
+
+The McIlvenna Bay deposit consists of structurally modified, strataform, 
+
+volcanogenic, polymetallic massive sulphide mineralization and associated stringer zone 
+
+mineralization.  The sulphides contain copper and zinc, with low lead and silver and gold 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 1-10
+
+values. The deposit has undergone strong deformation and upper greenschist to 
+
+amphibolite facies metamorphism.  The sulphide lenses are now attenuated down the 
+
+plunge to the northwest. 
+
+ 
+
+The McIlvenna Bay deposit is comprised of five different zones and includes three 
+
+distinct styles of mineralization.  The five zones identified are the Lens 2, the Upper 
+
+West, Lens 3, Lens 4, and the Copper Stringer Zone.  The three different styles of 
+
+mineralization are massive sulphides, semi-massive sulphides, and copper stringers.  
+
+Each style is mineralogically and texturally distinct. 
+
+ 
+
+The Lens 2 Massive Sulphide is by far the largest and most significant massive 
+
+sulphide zone in the McIlvenna Bay deposit.  It has a strike length of 400 m to 550 m, 
+
+ranges in true thickness from 0.40 m to 16.75 m and has an average thickness of 5.55 m.  
+
+The zone plunges approximately 45o to the north and strikes at 295o with an average dip 
+
+of 68o.  The zone has been defined from the top of the Proterozoic sequence at a vertical 
+
+depth of 35 m down to a depth of 1,230 m and remains open down plunge. 
+
+ 
+
+The Upper West Zone is a relatively copper-gold-enriched semi-massive sulphide 
+
+unit found as a long strip that lies parallel to and along the top of the plunge line of the 
+
+Lens 2 Massive Sulphide. It has a strike length of 150 m to 300 m and has been 
+
+delineated between the vertical depths of 35 m and 1,230 m. It varies from 2.80 m to 
+
+10.60 m true thickness and averages 4.81 m true thickness. The zone remains open down 
+
+plunge below the 1,230 m level. This zone also appears to be one continuous sheet and is 
+
+relatively more copper and gold-rich compared to the Lens 2 Massive Sulphide.   
+
+ 
+
+The Lens 3 Massive Sulphide is a discontinuous and generally very thin massive and 
+
+semi-massive sulphide horizon that is located 10 m to 30 m above the Lens 2 and Upper 
+
+West horizon.  The zone has a strike length of 100 m to 350 m and plunges parallel to the 
+
+underlying mineralized zones. The true thickness of the zone ranges from 0.18 m to 6.65 
+
+m and averages 2.39 m. 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 1-11
+
+The Lens 4 mineralized zone is located approximately 40 m to 50 m below the Upper 
+
+West Zone of the Lens 2 horizon, roughly between coordinates 9300E and 9500E.  The 
+
+zone was intersected in four holes, HA-26, MB-99-107, MB-99-108, and MB-99-118.  In 
+
+hole 107, a large semi-massive interval was intersected, with mineralogy, texture and 
+
+grades similar to that of the Upper West Zone.  The zone is underlain by a thick copper 
+
+stringer zone.   
+
+ 
+
+The Copper Stringer Zone underlies and is in contact with the Upper West Zone and 
+
+the western half of the Lens 2 Massive Sulphide.  The zone is wedge-shaped with the 
+
+blunt edge running parallel to the plunge of, and underlying the Upper West Zone.  The 
+
+wedge terminates near the central axis of the Lens 2 Massive Sulphide. The zone is 
+
+thickest underlying the Upper West Zone, where it is considered to be the proximal 
+
+hydrothermal feeder zone for the hydrothermal system which deposited the massive 
+
+sulphides.  Stringer mineralization in this area is hosted in chlorite-altered rock.  To the 
+
+east, immediately underlying the Lens 2 Massive Sulphides, the stringer mineralization is 
+
+hosted in fine fracture networks in silicified and sericitized rock. The zone, which 
+
+contains multiple narrow stringers, has been delineated between the vertical depths of 35 
+
+m and 1,230 m.  The best portion of this zone has a strike length of 300 m to 600 m and 
+
+ranges from 0.57 m to 48.30 m true thickness, averaging 8.08 m.  The stringer zone 
+
+remains open to the west and down plunge below the 930 m level. 
+
+ 
+
+The most interesting feature of the deposit is the fact that the Upper West Zone 
+
+remains open down plunge, and likely, both it and the plumbing system underlying it will 
+
+continue at depth.  This possibility should be tested by additional drilling. 
+
+ 
+DRILLING 
+
+Cameco and Foran employed similar drilling procedures on the McIlvenna Bay 
+
+Project. The top of the holes from surface down through the Paleozoic cover sequence 
+
+was drilled with HQ rods.  The drill string was reduced to NQ for drilling below the 
+
+Proterozoic regolith.  This same procedure was employed by Cameco during their drilling 
+
+program.  All but a handful of the Cameco holes, and all of the Foran holes still have 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 1-12
+
+their HQ rod string in the hole allowing one to locate the holes on surface and to re-enter 
+
+them if necessary. 
+
+ 
+
+Down hole surveying of Cameco holes HA-60 through HA-65 was completed using 
+
+acid tests only.  Holes HA-01 through HA-17, and HA-66 and HA-67 were completed 
+
+using Tropari and acid test measurements.  All other Cameco holes were surveyed using 
+
+the Techdel International Light-Log system. 
+
+ 
+
+Down hole surveying on all of the Foran holes was done using a combination of 
+
+Tropari measurements and acid tests.  Due to the presence of magnetic rocks in the 
+
+stratigraphy, especially the iron formations, Tropari azimuths were sometimes inaccurate 
+
+and were occasionally ignored in order to get reasonably accurate hole locations.  Tropari 
+
+measurements were taken at approximately 75 m intervals, acid tests were taken every 50 
+
+m. The use of Tropari measurements was considered acceptable for the shorter holes as 
+
+the influence of the one or two iron formation horizons intersected in such holes could be 
+
+eliminated by careful analysis of the Tropari data and logging of the core. However, the 
+
+Tropari instrument was totally inadequate as a surveying tool for the deep, step out holes 
+
+67, 111, 120A, 122, 122W1, 124, and 125. Foran concluded that the locations of the 
+
+intersections of these holes have an estimated error of ±50 m in the east-west direction 
+
+and ±25 m in the vertical direction. A resurvey of many, or all, of the holes with a non-
+
+magnetic down hole instrument may be warranted in the future. 
+
+ 
+SAMPLING METHOD, SAMPLE PREPARATION, ANALYSES, SECURITY AND DATA 
+VERIFICATION 
+
+For all Foran drill holes, assay samples were generally taken on 1.0 m intervals and 
+
+all sample boundaries respected the geological contacts. Samples smaller than 1.0 m long 
+
+were taken when necessary to respect such conditions.  Samples as large as 1.5 m long 
+
+were taken in weakly mineralized copper stringer zone estimated to contain less than 1% 
+
+copper. 
+
+ 
+
+All samples were cut in half by diamond saw and one half of the core was submitted 
+
+for assay analysis.  Metal tags with the sample numbers inscribed were stapled into the 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 1-13
+
+box marking the sample boundaries.  Boundary limits were also marked on the core box 
+
+itself to limit any sampling errors.  The unsampled half of the core was kept intact in the 
+
+core box and stored. 
+
+ 
+
+Assays taken during the Cameco program were also taken on 1.0 m intervals.  
+
+However, sample boundaries did not respect the Cameco-logged geological contacts in 
+
+several holes. 
+
+ 
+
+Statistics on percentage core recovery are not available for either the Foran or 
+
+Cameco drilling campaigns.  From Scott Wilson RPA's examination of core stored in the 
+
+field and in the Saskatoon storage facility, we would estimate that there was perhaps 95% 
+
+to 98% core recovery, at least in the mineralized sections. Hence the sawed/sampled 
+
+material sent for assay should be an accurate reflection of one half of the core and should 
+
+be free of any bias because of the competent nature of the core produced. 
+
+ 
+
+The true thickness of any mineralized intercept can only be estimated on those 
+
+sections where the density of drilling is sufficient to determine the boundaries of the 
+
+mineralized zone(s). 
+
+ 
+
+For the Cameco work, little information is available for security measures employed, 
+
+quality control or quality assurance procedures, and who actually prepared the samples. 
+
+The samples of sawn core were sent mostly to TSL Assayers in Saskatoon for preparation 
+
+and analyses. The split halves were assayed by standard Atomic Absorption techniques 
+
+for zinc, copper, silver, and lead and by fire assay/atomic absorption finish for gold. 
+
+ 
+
+The bulk of the assaying and all sample preparation from the Foran drilling programs 
+
+were also done at TSL Assayers. One in ten samples was check assayed at the 
+
+Saskatchewan Research Council. The QA/QC procedures used by Foran were not as 
+
+rigorous as one might expect in a current program. Nonetheless, Scott Wilson RPA 
+
+believes that the work was done in accordance with the best practices of the time and that 
+
+the results should be reliable. 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 1-14
+
+Scott Wilson RPA selected ten samples of quarter split drill core for duplicate 
+
+analyses. With the exception of the copper value for one sample, there was reasonably 
+
+good correlation between the duplicate assays and the original Foran assays.  
+
+ 
+
+A comparison of analyses as quoted on original assay certificates to the numbers 
+
+listed in drill logs for specific assay intervals did not locate any serious errors in 
+
+transcription. 
+
+ 
+MINERAL RESOURCE ESTIMATE 
+
+Scott Wilson RPA prepared a mineral resource estimate of the McIlvenna Bay deposit 
+
+using digital drill hole data provided by Foran. Scott Wilson RPA interpreted a set of 
+
+cross sections, and also used long sections and plans to construct 3D wireframes of the 
+
+mineralized zones. Variogram parameters were determined separately for each 
+
+mineralized zone.  A block model was interpolated using the kriging and inverse distance 
+
+methods and a mineral resource for copper, zinc, and silver was estimated (Table 1-3).   
+
+ 
+
+TABLE 1-3   MCILVENNA BAY MINERAL RESOURCES 
+Foran Mining Corporation - McIlvenna Bay Project 
+
+ 
+NSR Cut-
+
+off 
+Category  Zone Tonnes 
+
+(000) 
+Cu 
+% 
+
+Zn 
+% 
+
+Ag 
+(g/t) 
+
+NSR 
+($) 
+
+$50  Indicated Lens 2 Massive 4,763 0.27 7.26 23.0 75.33
+  Upper West 1,336 2.64 4.77 41.5 79.25
+  Cu Stringer 109 3.42 1.62 24.6 57.48
+  Lens 3 410 1.32 4.92 12.5 64.83
+  Lens 4 53 1.43 5.58 10.4 72.71
+  Total 6,671 0.87 6.51 26.0 75.16
+ Inferred Lens 2 Massive 3,700 0.35 6.63 26.9 70.0
+  Upper West 2,200 1.67 4.63 21.1 66.2
+  Cu Stringer 0   
+  Lens 3 100 0.39 6.47 29.3 69.0
+  Lens 4 0   
+  Total 6,000 0.83 5.89 24.8 68.6
+
+ 
+
+Using long term metal prices, the in-situ Cu and Zn percent values in each block of 
+
+the block model were converted to US$ amounts.  These cash values for Cu and Zn were 
+
+then converted to a NSR (Net Smelter Return) using ratios of in-situ values to NSR 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 1-15
+
+values for each metal.  The ratios were calculated using the parameters listed, with the Zn 
+
+ratio equal to 0.45 and the copper ratio equalling 0.55.  Silver and gold do not contribute 
+
+any significant value to the NSR and were not included in the calculations. 
+
+ 
+
+Scott Wilson RPA classified the mineral resources at McIlvenna Bay in the block 
+
+model into indicated and inferred categories based on drill hole spacing and apparent 
+
+geological and grade continuity of the mineralized zones.  Indicated mineral resources are 
+
+located between L93+00E and L104+00E above the 2,750 m elevation.  Drill hole 
+
+spacing in this area varies from 40 m to 80 m, on 50 m sections.  Inferred mineral 
+
+resources exist below and to the west of the indicated resources along the plunge of the 
+
+deposit.  Drilling in this area is much more irregularly spaced both on and between 
+
+sections. 
+
+ 
+
+There are no mineral reserves estimated at McIlvenna Bay at this time. 
+
+ 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 2-1
+
+2 INTRODUCTION AND TERMS OF 
+REFERENCE 
+
+Scott Wilson Roscoe Postle Associates Inc. (Scott Wilson RPA) was retained by Bob 
+
+Nylen, President and CEO of Foran Mining Corporation (Foran), to prepare an 
+
+independent Technical Report on the McIlvenna Bay Project, near Hanson Lake in 
+
+northeastern Saskatchewan.  The purpose of this report is to provide an updated technical 
+
+report and a resource estimate for the property.  This Technical Report conforms to 
+
+National Instrument 43-101 Standards of Disclosure for Mineral Projects (NI 43-101).  
+
+Scott Wilson RPA visited the property on September 26, 2006 and spent September 27-
+
+29 in the Foran facilities in Saskatoon looking at data and drill core from a number of 
+
+holes. 
+
+ 
+
+Foran is involved in the acquisition, exploration, and development of mineral 
+
+properties and is currently focused on the development of their gold and base metal 
+
+properties located in northern Manitoba and Saskatchewan.  This report deals with the 
+
+McIlvenna Bay Project, a Zn-Cu volcanogenic massive sulphide deposit, which is at the 
+
+advanced exploration stage. The major asset of the property is a large body of Cu-Zn 
+
+mineralization for which there is a historic resource estimate that is not compliant with NI 
+
+43-101. 
+
+ 
+
+In 1990, Scott Wilson RPA, then known as Roscoe Postle Associates Inc. (RPA), did 
+
+a resource estimate on this property for Billiton Metals Canada Inc.  
+
+ 
+
+SOURCES OF INFORMATION 
+A site visit was carried out by R. Barry Cook, Associate Geologist with Scott Wilson 
+
+RPA, on September 26, 2006.  Mr. Cook was driven from Saskatoon to the property 
+
+where the core storage yard and the camp building were inspected.  The core is all stored 
+
+outside, is well labeled and in remarkably good condition. Pictures were taken of the site. 
+
+September 27-29 were spent in the Foran office and storage facility in Saskatoon, looking 
+
+at data and drill core from a number of holes. 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 2-2
+
+Discussions were held with personnel from Foran, namely, Brad Summach, Director, 
+
+and Bob Nylen, President and CEO. The scope and nature of this report and future work 
+
+on the property were discussed with Bob Nylen. 
+
+ 
+
+R. Barry Cook is responsible for all Items of this report except for Item 17. William 
+
+E. Roscoe wrote Item 17 and collaborated on all the other Items.  
+
+ 
+
+The documentation reviewed, and other sources of information, are listed at the end 
+
+of this report in Item 21 References. 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 2-3
+
+LIST OF ABBREVIATIONS 
+Units of measurement used in this report conform to the SI (metric) system.  All 
+
+currency in this report is US dollars (US$) unless otherwise noted. 
+
+µ micron kPa kilopascal 
+°C degree Celsius kVA kilovolt-amperes 
+°F degree Fahrenheit kW kilowatt 
+µg microgram kWh kilowatt-hour 
+A ampere L litre 
+a annum L/s litres per second 
+bbl barrels m metre 
+Btu British thermal units M mega (million) 
+C$ Canadian dollars m2 square metre 
+cal calorie m3 cubic metre 
+cfm cubic metres per minute min minute 
+cm centimeter MASL metres above sea level 
+cm2 square centimeter mm millimetre 
+d day mph miles per hour 
+dia. diameter MVA megavolt-amperes 
+dmt dry metric tonne MW megawatt 
+dwt dead-weight ton MWh megawatt-hour 
+ft foot m3/h cubic metres per hour 
+ft/s foot per second opt, oz/st ounce per short ton 
+ft2 square foot oz Troy ounce (31.1035g) 
+ft3 cubic foot oz/dmt ounce per dry metric tonne 
+g gram ppm part per million 
+G giga (billion) psia pound per square inch absolute 
+Gal Imperial gallon psig pound per square inch gauge 
+g/L gram per litre RL relative elevation 
+g/t gram per tonne s second 
+gpm Imperial gallons per minute st short ton 
+gr/ft3 grain per cubic foot stpa short ton per year 
+gr/m3 grain per cubic metre stpd short ton per day 
+hr hour t metric tonne 
+ha hectare tpa metric tonne per year 
+hp horsepower tpd metric tonne per day 
+in inch US$ United States dollar 
+in2 square inch USg United States gallon 
+J joule USgpm US gallon per minute 
+k kilo (thousand) V volt 
+kcal kilocalorie W watt 
+kg kilogram wmt wet metric tonne 
+km kilometre yd3 cubic yard 
+km/h kilometres per hour yr year 
+km2 square kilometre   
+ 
+
+  
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 3-1
+
+3 RELIANCE ON OTHER EXPERTS 
+This report has been prepared by Scott Wilson Roscoe Postle Associates Inc. (Scott 
+
+Wilson RPA) for Foran Mining Corporation (Foran).  The information, conclusions, 
+
+opinions, and estimates contained herein are based on: 
+
+• Information available to Scott Wilson RPA at the time of preparation of this 
+report, 
+
+ 
+• Assumptions, conditions, and qualifications as set forth in this report, and 
+ 
+• Data, reports, and other information supplied by Foran and other third party 
+
+sources. 
+ 
+For the purpose of this report, Scott Wilson RPA has relied on ownership information 
+
+provided by Foran.  Scott Wilson RPA has not researched property title or mineral rights 
+
+for the McIlvenna Bay project and expresses no legal opinion as to the ownership status 
+
+of the property.   
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 4-1
+
+4 PROPERTY DESCRIPTION AND LOCATION 
+The McIlvenna Bay deposit occurs within Foran's Hanson Lake property located 
+
+approximately one kilometre south of Hanson Lake, Saskatchewan.  The property is also 
+
+approximately 375 km northeast of Saskatoon and 65 km west-southwest of Flin Flon, 
+
+Manitoba. The McIlvena Bay deposit is located within NTS sheet 63L10 and the plan 
+
+projection of the deposit is centered on UTM coordinates 640,600 E and 6,056,800 N 
+
+(NAD 83, Zone 13).  The corresponding geographic coordinates are 102o50' W and 
+
+54o38" N.  The McIlvenna Bay sulphide deposit is located well within the property 
+
+boundaries. 
+
+ 
+
+LAND TENURE 
+The Foran Hanson Lake property is comprised of 26 claims totaling 12,950 ha 
+
+(Figure 4-2). A tabulation of the relevant claim information is listed in Table 4-1. The 
+
+claims are listed in the name of Foran Mining Corporation and are kept in good standing 
+
+at the discretion of Foran.  
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 4-2
+
+TABLE 4-1   CLAIM STATUS - HANSON LAKE PROPERTY 
+Foran Mining Corporation– McIlvenna Bay Project 
+
+ 
+Disposition Number 
+
+Claims 
+Work 
+
+Requirement 
+Excess 
+Credits Hectares 
+
+Anniversary 
+Date 
+
+S-100671 2,500.00 47,500.00 100.00 Oct 19, 2006 
+CBS 9314 14,875.00 246,384.89 595.00 Dec 01, 2006 
+CBS 9315 29,250.00 411,694.32 1,170.00 Dec 01, 2006 
+CBS 9317 16,750.00 207,163.10 670.00 Dec 01, 2006 
+CBS 9318 12,500.00 154,599.32 500.00 Dec 01, 2006 
+S-101727 132,900.00 1,470,609.06 5,316.00 Jan 08, 2007 
+CBS 3693 2,875.00 54,625.00 115.00 Feb 22, 2007 
+CBS 8460 6,250.00 118,750.00 250.00 Mar 14, 2007 
+S- 98827 400.00 7,160.99 16.00 Apr 07, 2007 
+S- 98828 400.00 7,160.99 16.00 Apr 07, 2007 
+CBS 4909 44,325.00 645,536.30 1,773.00 Apr 14, 2007 
+S-100669 15,200.00 273,600.00 608.00 Apr 24, 2007 
+S- 95733 400.00 6,744.99 16.00 May 01, 2007 
+S- 95734 400.00 6,744.99 16.00 May 01, 2007 
+S- 95735 400.00 6,744.99 16.00 May 01, 2007 
+S- 95736 400.00 6,744.99 16.00 May 01, 2007 
+S- 95737 400.00 6,744.99 16.00 May 01, 2007 
+S- 95740 400.00 4,829.99 16.00 May 01, 2007 
+S- 95741 400.00 4,829.99 16.00 May 01, 2007 
+S- 95742 400.00 4,829.99 16.00 May 01, 2007 
+S- 95743 400.00 4,829.99 16.00 May 01, 2007 
+S- 95744 400.00 4,829.99 16.00 May 01, 2007 
+S- 95745 400.00 4,829.99 16.00 May 01, 2007 
+S- 97903 400.00 7,200.00 16.00 Jun 12, 2007 
+CBS 3692 8,750.00 157,500.00 350.00 Jun 20, 2007 
+CBS 6130 31,975.00 607,525.00 1,279.00 Dec 01, 2007 
+Claims: 26 323,750.00 4,479,713.86 12,950.00  
+
+ 
+
+On January 25, 2005, Foran announced that it had entered into a definitive agreement 
+
+with Cameco and Billiton Metals Canada Inc. (BHP Billiton), collectively the Hanson 
+
+Lake Joint Venture, which allowed Foran to acquire a 100% interest in the Hanson Lake 
+
+property (including the McIlvenna Bay Cu-Zn deposit).  Foran would acquire 100% of 
+
+the Hanson Lake property by:  
+
+ i) paying C$1,500,000 to the Hanson Lake Joint Venture;  
+ ii) paying a further C$2,000,000 to the Hanson Lake Joint Venture before May 
+
+31, 2006; and  
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 4-3
+
+ iii) providing the Hanson Lake Joint Venture with a 1% Net Smelter Return 
+(NSR), with a buy-out provision in favour of Foran for the purchase of the whole 
+NSR for C$1,000,000 at any time.  
+
+ 
+Foran agreed to assign its interest in the Property Option Agreement between Foran, 
+
+Cameco, and BHP Billiton to Copper Reef Mines Ltd., newly named Copper Reef 
+
+Mining Corporation (Copper Reef), a private company organized under the laws of 
+
+Manitoba. Copper Reef had funded the initial $1.5 million payment and agreed to issue to 
+
+Foran 5,500,000 common shares of Copper Reef.  Subject to regulatory approval, Foran 
+
+also agreed to subscribe for 2,500,000 units of Copper Reef at a price of $0.20 per unit, 
+
+which gave Foran a 48.41% equity interest in Copper Reef. Copper Reef is a private 
+
+company organized under the laws of the Province of Manitoba.  
+
+ 
+
+In a subsequent event, Foran and Copper Reef were in dispute regarding the 
+
+assignment agreement concerning the Property Option Agreement for the McIlvenna Bay 
+
+deposit. This matter was resolved on May 24, 2006 and, under the settlement agreement, 
+
+Foran made the final payment of $2,000,000 for the McIlvenna Bay Project, prior to May 
+
+31, 2006. Foran's $1,500,000 payment to the Hanson Lake Joint Venture on behalf of 
+
+Copper Reef (Foran contributed $500,000 to Copper Reef for that payment on January 
+
+25, 2005) stays in the project. Foran gave Copper Reef a 25% interest in the claims, 
+
+retained 75% for itself, and entered into a joint venture agreement with Copper Reef in 
+
+which Foran is the operator. Foran will retain approximately 25% of shares of Copper 
+
+Reef, and is able to maintain that percentage through participation in future Copper Reef 
+
+fund raising. The original 1% NSR in favour of the original Hanson Lake Joint Venture 
+
+remains the responsibility of the current Foran-Copper Reef joint venture. 
+
+ 
+
+In order to carry out a diamond drilling program through the coming winter, Foran 
+
+has applied for and received a Temporary Work Camp Permit, a Surface Exploration 
+
+Permit, and an Aquatic Habitat Protection Permit. 
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 5-1
+
+5 ACCESSIBILITY, CLIMATE, LOCAL 
+RESOURCES, INFRASTRUCTURE AND 
+PHYSIOGRAPHY 
+ACCESSIBILITY 
+
+The McIlvenna Bay Project is located one kilometre south of Hanson Lake, 
+
+Saskatchewan, and approximately 95 km by road west of Flin Flon, Manitoba (Figure 4-
+
+1).  The deposit is located five kilometres southeast of the Western Nuclear (or Hanson 
+
+Lake) Mine, a former producer located on the western shore of Hanson Lake.  The 
+
+McIlvenna site is accessible via an 18 km long all weather gravel road which connects to 
+
+Saskatchewan Provincial Highway #106. 
+
+ 
+
+The mining town of Flin Flon, population 6,000, is the largest commercial/residential 
+
+centre in the area. Flin Flon is a railhead on the Hudson Bay railway. Electrical power 
+
+would be available from Saskatchewan Power Corporation at Creighton, Saskatchewan. 
+
+ 
+
+CLIMATE 
+The climate in the Hanson Lake area is continental, with cold winters and moderate to 
+
+warm summers. The area is classified as having a subhumid high boreal ecoclimate. The 
+
+mean temperatures for January and July are -21oC and 18oC, respectively. Temperature 
+
+ranges from -40oC in the winter to 30oC in the summer can be expected. Annual 
+
+precipitation averages about 350 mm of rain and 1,450 mm of snow. There are on 
+
+average 119 frost-free days per year. Lake ice thaws in April and returns in November. 
+
+ 
+
+LOCAL RESOURCES 
+The Flin Flon-Creighton area has a mining history dating back to the 1920s. Road and 
+
+rail access is good. General labour, experienced mining professionals and a variety of 
+
+contractors are available in the area. Local communities are supportive of mining. 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 5-2
+
+INFRASTRUCTURE 
+The only infrastructure on the property is an Atco-type office unit and a core storage 
+
+yard. 
+
+ 
+
+Water for a mining/milling operation could be drawn from one of the local lakes. 
+
+Tailings impoundment areas would have to be constructed locally where there is the 
+
+advantage of the natural alkaline buffering capacity of bedrock dolomite. 
+
+ 
+
+PHYSIOGRAPHY  
+The property is located within the Boreal Shield Ecozone and is covered with shield-
+
+type boreal forest.  Topography is flat lying with occasional sharp dolomite cliffs and 
+
+ridges up to 20 m high.  Soil thickness on the limestone ridges is minimal, with 
+
+occasional rock exposure, and the vegetation is dominated by larger conifer and poplar 
+
+trees.  Below the cliffs are poorly drained muskeg swamps with scattered tamarack and 
+
+black spruce. Throughout the surrounding area, there are numerous lakes and ponds of 
+
+various sizes. 
+
+ 
+
+McIlvenna Bay of Hanson Lake is at an elevation of approximately 318 m. The base 
+
+station on the survey grid over the deposit is at an elevation of 325.13 m. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 6-1
+
+6 HISTORY 
+In 1957, the Parrex Mining Syndicate tested an electromagnetic (EM) conductor 
+
+delineated under a small bay on the western side of Hanson Lake and intersected 
+
+impressive Zn-Pb massive sulphide mineralization which led to the development of the 
+
+Hanson Lake (Western Nuclear) Mine.  The mine operated between 1967 and 1969 and 
+
+produced 162, 200 tons of ore averaging 9.99% Zn, 5.83% Pb, 0.51% Cu, and 4.0 oz/t Ag 
+
+prior to being shut down.  An undisclosed tonnage of unmined resource exists below the 
+
+workings of the mine. 
+
+ 
+In 1976, the Saskatchewan Mineral Development Corporation (SMDC), the 
+
+provincial government exploration vehicle that eventually became Cameco Corporation, 
+
+acquired a large exploration lease centered on Hanson Lake.  The permit area covered 
+
+much of the exposed portion of the Hanson Lake Block (see Item 7 Geological Setting) 
+
+and extended several kilometres south of the present Hanson Lake Property. In 1977, 
+
+SMDC flew an Aerodat helicopter-borne EM survey across much of the permit area with 
+
+lines oriented east-west. 
+
+ 
+From 1978 to 1988, Cameco tested selected Aerodat EM anomalies with ground 
+
+follow-up exploration programs consisting of grid establishment, geological mapping (in 
+
+the exposed portions of the belt), and ground geophysical surveys which included 
+
+Horizontal Loop EM (HLEM), Time-Domain EM (TEM), and Surface Pulse EM 
+
+surveys.  Diamond drilling led to the discovery of three new showings, the Miskat Zone 
+
+(Cu), the Grid B occurrence (Zn), and the Zinc Zone (Zn).   
+
+ 
+
+In 1985, the Granges-Troymin joint venture discovered the Balsam Zone, a VMS 
+
+deposit located under the Paleozoic cover, approximately 8 km southeast of Hanson 
+
+Lake. This prompted Cameco to re-evaluate their existing airborne EM data between the 
+
+new discovery and Hanson Lake and resulted in a decision to conduct a Mark VI 
+
+helicopter INPUT survey over the area south of Hanson Lake, with flight lines oriented 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 6-2
+
+NE-SW.  The survey delineated a 1,200 m long INPUT anomaly, striking east-southeast, 
+
+one kilometre south of McIlvenna Bay. 
+
+ 
+In January, 1988, a ground magnetometer and HLEM survey defined the anomaly and 
+
+six holes were subsequently drilled into what is now the McIlvenna Bay deposit. From 
+
+1989 to 1991, an additional 61 drill holes were completed.  Fifty-six of the holes were 
+
+drilled to test the deposit, of which only five failed to intersect economically significant 
+
+mineralization.  In 1991, Cameco suspended exploration activities at the Hanson Lake 
+
+property after a corporate decision was made not to explore for base metals.  The 
+
+property remained idle until optioned in 1998 by Foran. 
+
+ 
+
+As of May 31, 2000, Foran drilled 59 additional holes totaling 33,350 m into the 
+
+property, with 57 holes directly testing the deposit.  The first 44 holes were drilled with 
+
+the objective of upgrading the quality of the resource to a depth of 580 m from the 
+
+inferred resource category to the indicated resource category.  This was completed by 
+
+August 31, 1999, and a subsequent mineral resource estimate was prepared by M'Ore 
+
+Exploration Services.  The last 15 holes were drilled below the plunge line and down 
+
+plunge of the deposit and extended the deposit an additional 300 m vertically below the 
+
+plunge of the previous resource base. 
+
+ 
+
+Mineral resource evaluations of the McIlvenna Bay deposit have been completed on 
+
+seven separate occasions through the history of the project.  Cameco completed three 
+
+separate internal mineral resource estimates between 1989 and 1993 and another estimate 
+
+in 1990, which was prepared by their Engineering and Project Division as part of a 
+
+feasibility study.  J.H. Reedman & Associates of Winnipeg completed an independent 
+
+evaluation on behalf of Cameco in September 1993.  Upon signing of the option to 
+
+purchase agreement, M.D. Rusk of Geosight Consulting Canada completed an estimate 
+
+on behalf of Foran in May 1998, prior to the commencement of Foran's drill program.  
+
+ 
+
+The most recent estimate, with the largest drill database, was completed by R. 
+
+Lemaitre of M'Ore Exploration Services in June 14, 2000, after the completion of 
+
+Foran's 44-hole infill drilling program.  This block model resource estimate was based on 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 6-3
+
+a total of 63,344 m of diamond drilling from 124 holes, of which 33,350 m of drilling 
+
+was completed by Foran between December 1998 and May 2000.  Cut-off grades of 1.5% 
+
+copper or 4.0% zinc were used.  The area between L93+00E and L103+50E and above 
+
+the 580 m vertical depth was deemed to have been drilled at sufficient intersection 
+
+spacings to be classified as an indicated resource.  The remainder of the mineralization 
+
+delineated to a maximum depth of 1,230 m vertical is classified as inferred resources. 
+
+Estimated resources are listed in Table 6-1. 
+
+ 
+
+TABLE 6-1   JUNE 14, 2000  BLOCK MODEL RESOURCE ESTIMATE 
+Foran Mining Corporation – McIlvenna Bay Project  
+
+ 
+
+Headings 
+Tonnage 
+(metric 
+tonnes) 
+
+Au 
+(g/t) 
+
+Ag 
+(g/t) 
+
+Cu 
+(%) 
+
+Zn 
+(%) 
+
+Pb 
+(%) 
+
+Lens 2, Upper West, Lens 3 
+Indicated 6,907,364 0.51 24.17 0.89 6.59 0.45 
+
+Lens 2, Upper West, Lens 3 
+Inferred 7,602,473 0.40 23.28 0.93 5.61 0.35 
+
+Copper Stringer Zone 
+Indicated 4,363,067 0.67 12.15 1.82 0.32 0.03 
+
+Copper Stringer Zone 
+Inferred 7,463,827 0.60 12.75 1.80 0.65 0.05 
+
+Lens 4 
+Inferred 328,092 0.74 10.44 1.77 0.94 0.04 
+
+ 
+
+This resource estimate was independently audited by Watts, Griffis, and McOuat 
+
+who, overall, concurred with the block modelling results and concluded that the 
+
+modelling procedures and categorization were completed according to industry standards 
+
+(Kociumbas, 2000). 
+
+ 
+
+Scott Wilson RPA has also closely reviewed the previous Foran resource estimate and 
+
+agrees that, except for the Copper Stringer zone, the block modelling methodology, 
+
+results and classification are acceptable and comply with industry standards. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 7-1
+
+7 GEOLOGICAL SETTING 
+REGIONAL GEOLOGY 
+
+The Hanson Lake property is located on the western edge of the Early Proterozoic 
+
+Flin Flon Greenstone Belt (FFGB) which extends from north central Manitoba into 
+
+northeastern Saskatchewan. The FFGB forms part of the Reindeer Zone, a subdivision of 
+
+the Trans-Hudson Orogen, a continental-scale tectonic event which occurred 
+
+approximately between 1.84Ga and 1.80 Ga (Syme et al., 1999) as a result of the collision 
+
+between  the Superior and Hearne Archean Cratons. 
+
+ 
+
+The FFGB is composed of structurally juxtaposed volcanic and sedimentary 
+
+assemblages that were emplaced in a variety of tectonic environments. The major 1.92-
+
+1.88 Ga components include aerially significant juvenile arc and juvenile ocean-floor 
+
+rocks, and minor ocean plateau/ocean island basalt. The juvenile arc assemblage 
+
+comprises tholeiitic, calc-alkaline, and lesser shoshonitic and boninitic rocks similar in 
+
+major and trace element geochemistry to modern intra-oceanic arcs. Ocean-floor basalt 
+
+sequences are exclusively tholeiitic, and are geochemically similar to modern N- and E- 
+
+type MORBs erupted in back-arc basins. Evolved arc assemblages and Archean crustal 
+
+slices are present within the FFGB as minor components. 
+
+ 
+
+Collectively, these tectonostratigraphic assemblages were juxtaposed in an 
+
+accretionary complex at ca. 1.88-1.87 Ga, presumably as a result of arc-arc collisions. 
+
+The collage was basement to 1.87-1.83 Ga, post-accretion arc magmatism, expressed as 
+
+voluminous calc-alkaline plutons and rarely preserved calc-alkaline to alkaline volcanic 
+
+rocks. Unroofing of the accretionary collage and deposition of continental alluvial-fluvial 
+
+sedimentary rocks (Missi Group) and marine turbidites (Burntwood Group) occurred ca. 
+
+1.85-1.84 Ga, coeval with the waning stages of post-accretion arc magmatism. The 
+
+sedimentary suites were imbricated with volcanic assemblages in the eastern FFGB 
+
+during 1.85-1.82 Ga juxtaposition of the supracrustal rocks along pre-peak metamorphic 
+
+structures.  
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 7-2
+
+As currently viewed, the FFGB contains eight geographically separate juvenile island 
+
+arc volcanic assemblages (blocks), each being 20 km to 50 km across.  From east to west, 
+
+they are known as the Snow Lake, Four Mile Island, Sheridon, Flin Flon, Birch Lake, 
+
+West Amisk, Hanson Lake, and Northern Lights Assemblages (Zwanzig et al, 1997 and 
+
+Maxeiner et al., 1999).  These assemblages are separated by major structural features 
+
+and/or areas of differing tectonostratigraphic origin.  It is unclear whether the eight 
+
+juvenile arc sequences represent different island arcs, or segments of a larger continuous 
+
+arc (Syme et al., 1999). Within the belt, each tectonostratigraphic block has been broken 
+
+into several sub-blocks, usually bounded by local to regional fault systems.  Correlation 
+
+of stratigraphy between sub-blocks is difficult to impossible to determine. 
+
+ 
+
+The exposed portion of the FFGB is approximately 250 km in an EW direction by 75 
+
+km NS. Although it has an apparent easterly trend, this is an artefact of the belt's tectonic 
+
+contact with gneissic metasedimentary, metavolcanic, and plutonic rocks to the north 
+
+(Kisseynew Domain) and the east-trending trace of Phanerozoic platformal cover rocks to 
+
+the south. In reality, the FFGB extends hundreds of kilometres to the south-southwest 
+
+beneath a thin cover of essentially flat-lying, Phanerozoic sedimentary rocks.  
+
+ 
+
+By Early Ordovician time the area of northern Saskatchewan and Manitoba had been 
+
+effectively peneplaned and a regolith was developed on exposed rocks. Inundation by the 
+
+Ordovician ocean initiated the deposition of the Phanerozoic cover sequence which, in 
+
+the McIlvenna Bay area, is now represented by the basal Winnipeg Formation sandstone 
+
+overlain by the Red River Formation dolomite. 
+
+ 
+
+In the general Flin Flon area, the predominant direction for the Late Wisconsinan ice-
+
+flow indicators is south-southwest indicating that the ice was flowing from a Keewatin 
+
+dispersal centre. The resulting tills are thin and generally reflect local bedrock lithologies 
+
+(McMartin et al, 1999). 
+
+ 
+
+ 
+
+
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 7-4
+
+LOCAL GEOLOGY 
+
+The Hanson Lake Block, the host terrain of the McIlvenna Bay deposit, is bound to 
+
+the east by the Sturgeon-Weir Shear Zone and to the west by the Tabbernor Fault Zone.  
+
+The block extends an unknown distance to the south beneath a nearly flat lying cover of 
+
+Ordovician sandstones of the Winnipeg Formation, and dolomites of the Red River 
+
+Formation. To the north, the block is bound by the Kisseynew Domain, a gneissic 
+
+metasedimentary belt and the Attitti Complex.  The east end of the block hosts the 
+
+Hanson Lake Pluton, a large compositionally variable granodiorite to pyroxenite 
+
+intrusion.   
+
+ 
+
+In the Hanson Lake area, north of the Paleozoic margin, the exposed Proterozoic 
+
+rocks of the Hanson Lake Block are dominated by juvenile island arc, felsic to 
+
+intermediate metavolcanic rocks, with subordinate amounts of mafic volcanics, minor 
+
+intermediate volcanics, and greywackes.  Oxide facies iron formations are not commonly 
+
+exposed but their presence has been confirmed by diamond drilling.  Long continuous 
+
+magnetic trends suggest that the distribution of iron formations is very wide spread in the 
+
+area south of Hanson Lake.  The sequence has been intruded by various felsic intrusions, 
+
+some of which are believed to be subvolcanic intrusions.  Abundant diorite and gabbro 
+
+plugs and dykes cut the sequence, as well as minor ultramafic intrusions (Koziol et al., 
+
+1991).  The supracrustal rocks generally dip moderately to steeply east to northeast.  
+
+South of Hanson Lake, the Proterozoic sequence is poorly understood because of the 
+
+unconformably overlying Paleozoic sedimentary rocks.  The McIlvenna Bay deposit 
+
+projects to subsurface under the sedimentary cover (Lemaitre, 2000). 
+
+ 
+
+At least two distinct folding events, both having northerly trending fold axes, have 
+
+influenced the stratigraphy in the Hanson Lake Area.  Peak regional metamorphism in the 
+
+areas west and north of Hanson Lake reached upper amphibolite facies as observed by the 
+
+partial melting of the granodiorite-tonalite assemblage in the Jackpine and Tulabi Lake 
+
+areas. At the McIlvenna Bay deposit, the Proterozoic sequence exhibits a greenschist 
+
+metamorphic facies as the deposit alteration assemblages are dominated by sericite and 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 7-5
+
+chlorite. The greenschist facies is probably a retrograde event after a previous 
+
+amphibolite grade since relict cordierite, anthophyllite, garnet and andalusite are 
+
+commonly observed in the VMS alteration package (Lemaitre, 2000). U-Pb ages of 
+
+supracrustal rocks in the block constrain the metamorphic event between 1808 and 1804 
+
+Ma (Maxeiner et al., 1999). U-Pb age dating of a quartz-feldspar porphyry (a possible 
+
+subvolcanic intrusion) which intruded the supracrustal sequence yielded a date of 1888 ± 
+
+12 Ma.   
+
+ 
+
+PROPERTY GEOLOGY 
+
+Lacking any outcrop in the area of the deposit, the property geology has been 
+
+interpreted from the drill core record with help from geophysical surveys. The discussion 
+
+below is extracted from Lemaitre (2000). 
+
+ 
+
+The stratigraphy of the deposit area, divided into six formations (Figure 7-2), has 
+
+been defined over a two kilometre strike length by a total of 124 drill holes. The lowest 
+
+formation intersected by drilling both structurally and stratigraphically is the McIlvenna 
+
+Bay Formation (Figure 7-3), the host of the McIlvenna Bay deposit.  The McIlvenna 
+
+Bay Formation is overlain to the north by the Cap Tuffite Formation.  The McIlvenna 
+
+Bay Formation and the Cap Tuffite Formation may be genetically related but have been 
+
+separated as they are temporally distinct, as demonstrated by the positioning of the 
+
+McIlvenna Bay massive sulphide deposit between these two units, an obvious exhalative 
+
+horizon (and hence a period of clastic and volcano-sedimentary quiescence).  Overlying 
+
+the Cap Tuffite Formation is the Koziol Iron Formation, a long and distinctive marker 
+
+formation traceable for several kilometres along strike by mapping and geophysics.  
+
+Topping the Koziol Iron Formation is the Rusk Formation, a thick package of mafic 
+
+volcanics.  The Rusk Formation in turn is overlain by the thin HW-A Formation, an 
+
+exhalative massive sulphide horizon which grades laterally into iron formation.  Capping 
+
+the HW-A Formation is a thick unsorted bimodal package of mafic and felsic volcanics 
+
+and mafic intrusions and minor iron formations tentatively called the Upper Sequence 
+
+which may be thickened due to folding and faulting.  The stratigraphic package has been 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 7-6
+
+cut by several different intrusions, the largest of which is the Davies Gabbro, a sill-like 
+
+plug found within the Cap Tuffite Formation.  The basement geology is unconformably 
+
+overlain by the relatively flat lying to shallowly south-dipping Ordovician dolomites and 
+
+sandstones of the Red River and Winnipeg Formations which have an average total 
+
+thickness between 20 m and 30 m. 
+
+ 
+
+The McIlvenna Bay Formation, the host formation of the sulphide deposit, is known 
+
+only to the extent it has been drilled below the footwall of the deposit. The formation is at 
+
+least 200 m thick (true thickness) and is comprised of massive and semi-massive 
+
+sulphides, variably altered felsic volcanics, volcaniclastics and/or volcanic-derived 
+
+sediments of rhyolitic composition. 
+
+ 
+
+Overlying the mineralized horizons of the McIlvenna Bay Formation is the Cap 
+
+Tuffite Formation, a sequence of intercalated felsic volcanic and cherty metasediments 
+
+which have been intruded by sills and dykes of the Davies Gabbro (described below).  
+
+The unit ranges from 35 m to 55 m thick, is finely banded to finely laminated, and ranges 
+
+from white to cream to grey-green in colour.  Sections of the formation range from very 
+
+finely laminated, bleached chert to 1 cm to 10 cm thick banded, fine-grained, aphantic 
+
+rhyolitic tuff.  Discrete contacts between the units are nebulous.  Instead, wide transitions 
+
+are observed from one end member to the other.  It is believed that the formation 
+
+represents a sequence of redeposited, water-lain, distal volcaniclastics and chert. An east 
+
+to west zonation is observed in the Cap Tuffite from cherty-dominated in the east to 
+
+rhyolitic-dominated in the west. 
+
+ 
+
+Stratigraphically overlying the Cap Tuffite is the Koziol Iron Formation, a long, 
+
+continuous exhalative horizon traceable in drill core and by geophysics over several 
+
+kilometres and, as such, an excellent stratigraphic marker horizon.  The unit is a true 
+
+oxide-facies iron formation that ranges from 0.1 m to 25 m true thickness and is 
+
+composed of 1 cm to 5 cm thick bands of fine-grained chert, interbedded with 1 mm to 50 
+
+mm massive magnetite bands and 1 cm to 1 m thick massive grunerite±garnet±magnetite 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 7-7
+
+±chlorite  bands.  Occasional pyrite and/or pyrrhotite are observed in selected bands. 
+
+Near the base of the iron formation is a one metre thick bed of graphitic chert. 
+
+ 
+
+Overlying the Koziol Formation is the Rusk Formation, a thick package of massive 
+
+and calcite-altered mafic volcanic rocks that are approximately 100 m thick.  The mafic 
+
+rocks are likely massive flows, although the thickness of individual flow units cannot be 
+
+determined from drill core.  No distinct flow tops or pillow structures have been 
+
+observed.  However, patchy 1 mm to 2 mm diameter white to pink rounded feldspar 
+
+amygdules have been noted locally. 
+
+ 
+
+Topping the Rusk Formation is another exhalative horizon, the HW-A Formation 
+
+which ranges from 1 cm to 5 m thick and shows a transition from west to east from 
+
+oxide-facies iron formation to massive sphalerite. From the centre of the McIlvenna 
+
+deposit and to the west, the HW-A Formation is an oxide-facies iron formation identical 
+
+to that of the Koziol Formation.  Overlying the iron formation is a 1 m to 10 m thick 
+
+massive mafic volcanic unit. From the centre of the deposit and to the east, the unit is 
+
+comprised of either a thin pyrite band or massive sphalerite-pyrite from 10 cm to 75 cm 
+
+thick.  Overlying this portion of the unit is a thin 5 m to15 m thick massive, grey, felsic 
+
+volcanic unit.   
+
+ 
+
+Overlying the HW-A Formation is +400 m thick Upper Sequence, a bimodal 
+
+package of volcanic units that have been difficult to correlate from hole to hole.  
+
+Approximately 45% of the unit is composed of aphanitic, grey, felsic volcanic, and 50% 
+
+fine-grained mafic volcanic rocks.  Some of the mafic units may be gabbroic intrusions.  
+
+Approximately 5% of the unit is composed of greywackes and at least two additional 
+
+oxide-facies iron formation horizons.  Individual members of the formation are difficult 
+
+to trace between drill holes as the existing drill holes that are collared far enough to the 
+
+north to intersect the Upper Sequence are sparse and generally widely spaced.  The Upper 
+
+Sequence is not yet defined to the extent that it could be broken down into formational 
+
+units. The down plunge drilling program has discovered that the Upper Sequence may be 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 7-8
+
+the core of a regional synclinal structure and that the bimodal sequence may be 
+
+structurally repeated by both folding and faulting (Lemaitre, 2000). 
+
+ 
+
+The Davies Gabbro, a plug up to 100 m thick east of the deposit extends westward 
+
+toward the centre of the sulphide body where it narrows into a series of thin dykes.  The 
+
+gabbro appears to be a series of sills that have intruded along the bedding planes of the 
+
+Cap Tuffite Formation.  The gabbro plug plunges along an axis parallel to the sulphide 
+
+body and appears to exert some sort of control over the limits of mineralization along the 
+
+bottom plunge line of the deposit. The unit ranges from fine-grained to very coarse 
+
+grained; the grain size appears to be directly related to the unit thickness.  Chilled 
+
+margins have been observed on the thicker dykes.  It appears that the gabbro intruded 
+
+along the bedding planes of the wet, cherty banded sediments of the Cap Tuffite.  
+
+ 
+
+STRUCTURE 
+Stratigraphy in the deposit area strikes between 275o and 295o and dips to the north at 
+
+65o-70o, although in selected areas it dips vertically.  The deposit has the same orientation 
+
+as the stratigraphy and also plunges at approximately 45o to the northwest.  Rocks in the 
+
+host stratigraphy are massive to strongly foliated, the intensity of which depends on the 
+
+competency of each individual unit and the degree of alteration. 
+
+ 
+
+Two phases of folding of the host stratigraphy have been observed in the drill core 
+
+and are believed to correspond to the regional F2 and F3 folding events.  The first phase 
+
+(regional F2) was responsible for the development of the dominant observed structural 
+
+fabric, a foliation oriented at approximately 280o/65o (parallel to stratigraphy).  The 
+
+foliation is well developed in the least competent stratigraphic units, particularly the 
+
+footwall altered rocks.  Isoclinal folding of the iron formation, observed in several drill 
+
+holes, has a plunge that is estimated to be approximately 45o to the west or west-north-
+
+west, which is roughly parallel to the plunge of the deposit.  A strong crenulation 
+
+(regional F3 event) of the foliation is developed in portions of the footwall alteration 
+
+zone.  The plunge of the crenulation is much flatter, usually less than 25o, and trends 
+
+either northwest or northeast.  This trend and plunge of the crenulation appears to be 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 7-9
+
+parallel to the fold axis of gentle to open folds observed in banded felsic volcano-
+
+sedimentary units both above and below the deposit and may be responsible for the broad 
+
+warping of the stratigraphy observed in the magnetic maps between the Hanson Lake and 
+
+the south end of McIlvenna Bay (Lemaitre, 2000). 
+
+ 
+
+Evidence of faulting has been documented in drill core.  However, it is difficult to 
+
+determine the orientation, scale, or continuity of most faults between drill holes with the 
+
+present level of information.  The deep drilling program outlined a large fault structure 
+
+that strikes east-northeast and dips steeply to the north.  This fault appears to truncate the 
+
+northern limb of the regional F2 synclinal structure discussed above.  The fault is well to 
+
+the north of the deposit and likely would not impact on the mineralized horizon above the 
+
+1,800 m vertical depth (Lemaitre, 2000). 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 8-1
+
+8 DEPOSIT TYPES 
+The target deposit on the McIlvenna Bay property is a volcanogenic massive sulphide 
+
+(VMS) deposit, a synvolcanic accumulation of sulphide minerals that occur in geological 
+
+environments characterized by submarine volcanic rocks.  In Canada, these deposits are 
+
+commonly found in Precambrian through Mesozoic volcano-sedimentary greenstone 
+
+belts in an extensional arc environment such as a rift or caldera.    The associated 
+
+volcanic rocks are commonly relatively primitive (tholeiitic to transitional), bimodal and 
+
+submarine in origin (Galley et al., 2005).  The spatial relationship of VMS deposits to 
+
+synvolcanic faults, rhyolite domes or paleotopographic depressions, caldera rims or 
+
+subvolcanic intrusions suggests that the deposits were closely related to particular and 
+
+coincident hydrologic, topographic, and geothermal features on the ocean floor (Lydon, 
+
+1990). 
+
+ 
+
+VMS deposits are exhalative deposits, formed through the focused discharge of hot, 
+
+metal-rich hydrothermal fluids.  These deposits commonly occur in clusters which form a 
+
+VMS camp.  In many cases, it can be demonstrated that the sub-seafloor fluid convection 
+
+system was apparently driven by large, 15 km to 25 km long, mafic to composite, high 
+
+level subvolcanic intrusions.  The distribution of synvolcanic faults relative to the 
+
+underlying intrusion determines the size and areal morphology of the camp alteration 
+
+system and ultimately the size and distribution of the VMS deposit cluster.  These fault 
+
+systems, which act as conduits for volcanic feeder systems and hydrothermal fluids, may 
+
+remain active through several cycles of volcanic and hydrothermal activity.  This can 
+
+result in several periods of VMS formation at different stratigraphic levels (Galley et al., 
+
+2005). 
+
+ 
+
+The idealized, undeformed and unmetamorphosed Archean VMS deposit, as 
+
+exemplified by the Matagami deposits, typically consists of a concordant lens of massive 
+
+sulphides, composed of 60% or more sulphide minerals (pyrite-pyrrhotite-sphalerite-
+
+chalcopyrite with associated magnetite), that is stratigraphically underlain by a discordant 
+
+stockwork or stringer zone of vein-type sulphide mineralization (pyrite-pyrrhotite-
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 8-2
+
+chalcopyrite and magnetite) contained in a pipe of hydrothermally altered rock (Sangster 
+
+and Scott, 1976).  The upper contact of the massive sulphide lens with hanging wall rocks 
+
+is usually extremely sharp, while the lower contact is gradational into the stringer zone.  
+
+A single deposit or mine may consist of several individual massive sulphide lenses and 
+
+their underlying stockwork zones.  It is thought that the stockwork zone represents the 
+
+near-surface channel ways of a submarine hydrothermal system and the massive sulphide 
+
+lens represents the accumulation of sulphides precipitated from the hydrothermal 
+
+solutions, on the sea floor, above and around the discharge vent (Lydon, 1990).  VMS 
+
+deposits are commonly divided into Cu-Zn, Zn-Cu, and Zn-Pb-Cu groups according to 
+
+their contained ratios of these three metals (Galley et al., 2005). 
+
+ 
+
+Most Canadian VMS deposits are characterized by discordant stockwork vein 
+
+systems or pipes that, unless transposed by structure, commonly underlie the massive 
+
+sulphide lenses, but may also be present in the immediate hanging wall strata.  These 
+
+pipes, comprised of inner chloritized cores surrounded by an outer zone of sericitization, 
+
+occur at the centre of more extensive, discordant alteration zones.  The alteration zones 
+
+and pipe systems often host stringer chalcopyrite-pyrite/pyrrhotite±Au and may extend 
+
+vertically below a deposit for several hundred metres or may continue above the deposit 
+
+for tens to hundreds of metres as a discordant alteration zone (Ansil and Noranda 
+
+deposits).  In some cases, the proximal alteration zone and attendant stockwork/pipe vein 
+
+mineralization connects a series of stacked massive sulphide lenses (Amulet, Noranda, 
+
+LaRonde, and Bousquet deposits), representing synchronous and/or sequential phases of 
+
+ore formation during successive breaks in volcanic activity (Galley et al., 2005). 
+
+ 
+
+The McIlvenna Bay deposit consists of structurally modified, strataform, 
+
+volcanogenic, polymetallic massive sulphide mineralization and associated stringer zone 
+
+mineralization.  The sulphides contain copper and zinc, with low lead and silver and gold 
+
+values.   
+
+ 
+
+The McIlvenna Bay sulphide deposit (Figure 7-3) has undergone strong deformation 
+
+and upper greenschist to amphibolite facies metamorphism.  The massive sulphide lenses 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 8-3
+
+are now attenuated down the plunge to the northwest.  Typical aspect ratios of length 
+
+down-plunge to width exceed 10:1. The extent of remobilization of sulphides within the 
+
+deposit is uncertain.  
+
+ 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 9-1
+
+9 MINERALIZATION 
+The McIlvenna Bay deposit is comprised of five different zones and includes three 
+
+distinct styles of mineralization.  The five different zones identified are the Lens 2, the 
+
+Upper West, Lens 3, Lens 4 and the Copper Stringer Zones.  The three different styles of 
+
+mineralization are massive sulphides, semi-massive sulphides, and copper stringers.  
+
+Each style is mineralogically and texturally distinct. 
+
+ 
+
+The Lens 2 Massive Sulphide (Figure 7-3) is by far the largest and most significant 
+
+massive sulphide zone in the McIlvenna Bay deposit.  It has a strike length of 400 m to 
+
+550 m, ranges in true thickness from 0.40 m to 16.75 m and has an average thickness of 
+
+5.55 m.  The zone plunges approximately 45o to the north and strikes at 295o with an 
+
+average dip of 68o.  The zone has been defined from the top of the Proterozoic sequence 
+
+at a vertical depth of 35 m down to a depth of 1,230 m and remains open down plunge. 
+
+The zone appears to be continuous both along strike and down dip. The assemblage 
+
+pyrite-sphalerite suggests that this zone could have been deposited off the flank of a 
+
+hydrothermal vent.  
+
+ 
+
+The Upper West Zone is a relatively copper-gold-enriched semi-massive sulphide 
+
+unit found as a long strip that lies parallel to and along the top of the plunge line of the 
+
+Lens 2 Massive Sulphide. It is believed to be on the same stratigraphic horizon as, and 
+
+laterally continuous with, the Lens 2 Massive Sulphide, with a 25 m to 50 m wide 
+
+transition zone between the two. The Upper West Zone has a strike length of 150 m to 
+
+300 m and has been delineated between the vertical depths of 35 m and 1,230 m. It varies 
+
+from 2.80 m to 10.60 m true thickness and averages 4.81 m true thickness. The zone 
+
+remains open down plunge below the 1,230 m level. This zone also appears to be one 
+
+continuous sheet and is relatively more copper and gold-rich compared to the Lens 2 
+
+Massive Sulphide.   
+
+ 
+
+The Lens 3 Massive Sulphide is a discontinuous and generally very thin massive and 
+
+semi-massive sulphide horizon that is located 10 m to 30 m above the Lens 2 and Upper 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 9-2
+
+West horizon.  The zone has a strike length of 100 m to 350 m and plunges parallel to the 
+
+underlying mineralized zones. The true thickness of the zone ranges from 0.18 m to 6.65 
+
+m and averages 2.39 m. The zone is dominated by massive sulphides although semi-
+
+massive sulphides and typical copper stringer mineralization have been observed in 
+
+certain holes.  The zone is occasionally underlain by weak copper stringer mineralization. 
+
+The majority of the zone is comprised of sub-economic grade massive sulphides over 
+
+widths of less than 3.0 m.  Pods within the zone obtain threshold economic grades that 
+
+exceed the minimum mining width, the largest of which has a strike length of 250 m and 
+
+a dip extent of 50 m.     
+
+ 
+
+The Foran infill drilling program discovered the Lens 4 mineralized zone located 
+
+approximately 40 m to 50 m below the Upper West Zone of the Lens 2 horizon, roughly 
+
+between coordinates 9300E and 9500E.  The zone was intersected in four holes, HA-26, 
+
+MB-99-107, MB-99-108, and MB-99-118.  In hole 107, a large semi-massive interval 
+
+was intersected with mineralogy, texture, and grades similar to that of the Upper West 
+
+Zone.  The zone was underlain by a thick copper stringer zone.  Copper stringer style 
+
+mineralization was also intersected in HA-26, MB-99-108, and MB-99-118.  Extension 
+
+of existing holes below and east of hole 107 failed to intersect the Lens 4 Mineralized 
+
+Zone.  The extent of the mineralization associated with this zone is not fully understood 
+
+but it remains open down plunge to the northwest. 
+
+ 
+
+The Copper Stringer Zone underlies and is in contact with the Upper West Zone and 
+
+the western half of the Lens 2 Massive Sulphide.  The zone is wedge-shaped with the 
+
+blunt edge running parallel to the plunge of, and underlying the Upper West Zone.  The 
+
+wedge terminates near the central axis of the Lens 2 Massive Sulphide. The zone is 
+
+thickest underlying the Upper West Zone, where it is considered to be the proximal 
+
+hydrothermal feeder zone for the hydrothermal system which deposited the massive 
+
+sulphides.  Stringer mineralization in this area is hosted in chlorite-altered rock.  To the 
+
+east, immediately underlying the Lens 2 Massive Sulphides, the stringer mineralization is 
+
+hosted in fine fracture networks in silicified and sericitized rock. The zone has been 
+
+delineated between the vertical depths of 35 m and 1,230 m.  The best mineralized 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 9-3
+
+portion (>1.5% Cu) lies within a much larger envelope of sub-economic grade copper 
+
+stringer mineralization.  The portion exceeding minimum grade requirements is fairly 
+
+continuous, with minor gaps or holes.  This portion has a strike length of 300 m to 600 m 
+
+and ranges from 0.57 m to 48.30 m true thickness, averaging 8.08 m.  The stringer zone 
+
+remains open to the west and down plunge below the 930 m level. 
+
+ 
+
+Massive sulphides are typical of Lens 2 and Lens 3 horizons.  This style of 
+
+mineralization is composed of 70% to 80% medium-sized and subrounded pyrite grains 
+
+resembling 'buckshot'.  Sphalerite is hosted as fine-grained and sometimes feathery 
+
+minerals located in the interstices of the pyrite grains ranging from 5% to 25% of the total 
+
+unit.  The sphalerite is generally dark to medium-brown in colour. Faint banding of the 
+
+massive sulphides is occasionally apparent.  Up to 10% fine-grained grey quartz, and 
+
+occasionally fine calcite, are also observed in the interstices. Subangular to subrounded 
+
+inclusions or fragments of massive black chlorite ranging from 2 mm to 50 mm in 
+
+diameter comprise 10% of the unit.  Patchy but common rounded chert fragments ranging 
+
+from 1 cm to 3 cm in diameter can constitute up to 20% of the unit locally.  Such chert, 
+
+when present, is often surrounded by 1 cm to 3 cm thick zones of enhanced, pale brown 
+
+sphalerite.  
+
+ 
+
+The semi-massive sulphides are typical of the Upper West Zone and Lens 4, and 
+
+selected parts of Lens 3.  The semi-massive sulphides range from 20% to 60% sulphides 
+
+which are found as veinlets, veins, and pods within strongly chlorite-altered rock.  The 
+
+sulphide portion tends to be either sphalerite or chalcopyrite-dominant, with less than 
+
+20% fine-grained pyrite.  Sphalerite-dominant portions are generally comprised of 
+
+reddish or pale brown to blonde sphalerite indicative of zinc-rich and iron-poor 
+
+sphalerite.  Individual veins or pods have been documented to contain up to 56% zinc.  
+
+Less common are the chalcopyrite-dominant intervals which are composed of 80% 
+
+chalcopyrite over narrow widths. Veining and replacement textures are common in the 
+
+semi-massive sulphides. 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 9-4
+
+The copper stringer mineralization is generally confined to the area below the Upper 
+
+West and Lens 2, but has been observed as part of the Lens 4 Zone and sometimes is 
+
+found underlying the Lens 3 Zone.  The nature of the stringer zone mineralization varies 
+
+according to the host altered rock.  Chlorite alteration-hosted copper stringer 
+
+mineralization is comprised of chalcopyrite and pyrrhotite, with occasional pyrite, and is 
+
+found in veinlets and pods cutting the chlorite alteration.  Sericite-quartz altered copper 
+
+stringer zones tend to be comprised exclusively of chalcopyrite which lines fine, hairline 
+
+fractures within the strongly silicified host, and as 5 cm to 10 cm long semi-massive pods 
+
+containing angular to rounded host rock fragments.  These pods and fractures appear to 
+
+be late brittle features and suggest that the chalcopyrite was remobilized into fractured 
+
+rock possibly during deformational events.  This latter style of copper stringer 
+
+mineralization typically lies as a subordinate unit beneath the Lens 2 Massive Sulphides. 
+
+ 
+
+The sulphide mineralogy and the size of the alteration package suggest the presence 
+
+of a proximal vent environment along the entire top plunge line of the McIlvenna Bay 
+
+deposit which is represented by the Upper West Zone.  The location of the Lens 3 and 
+
+Lens 4 zones respectively overlying and underlying the Upper West Zone is not a 
+
+coincidence and may represent additional smaller hydrothermal pulses at different 
+
+stratigraphic timelines.   
+
+ 
+
+An interesting feature of the deposit is the fact that the Upper West Zone remains 
+
+open down plunge and, likely, both the zone and the plumbing system underlying it will 
+
+continue at depth.  This possibility should be tested by additional drilling. 
+
+ 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 10-1
+
+10 EXPLORATION 
+As described in Item 6 History, the last exploration on the property was done in 2000. 
+
+A program that could be carried out by Foran as the next phase of work is described in 
+
+Item 20 Recommendations 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 11-1
+
+11 DRILLING 
+Cameco and Foran employed similar drilling procedures on the McIlvenna Bay 
+
+Project. The top of the holes from surface down through the Paleozoic cover sequence 
+
+was drilled with HQ rods.  The drill string was reduced to NQ for drilling below the 
+
+Proterozoic regolith.  This same procedure was employed by Cameco during their drilling 
+
+program.  All but a handful of the Cameco holes, and all of the Foran holes still have 
+
+their HQ rod string in the hole allowing one to locate the holes on surface and to re-enter 
+
+them if necessary. 
+
+ 
+
+Down hole surveying of Cameco holes HA-60 through HA-65 was completed using 
+
+acid tests only.  Holes HA-01 through HA-17, and HA-66 and HA-67 were completed 
+
+using Tropari and acid test measurements.  All other Cameco holes were surveyed using 
+
+the Techdel International Light-Log system. 
+
+ 
+Down hole surveying on all of the Foran holes was done using a combination of 
+
+Tropari measurements and acid tests.  Due to the presence of magnetic rocks in the 
+
+stratigraphy, especially the iron formations, Tropari azimuths were sometimes inaccurate 
+
+and were occasionally ignored in order to get reasonably accurate hole locations.  Tropari 
+
+measurements were taken at approximately 75 m intervals, and acid tests were taken 
+
+every 50 m. The use of Tropari measurements was considered acceptable for the shorter 
+
+holes as the influence of the one or two iron formation horizons intersected in such holes 
+
+could be eliminated by careful analysis of the tropari data, logging of the core, and 
+
+magnetic susceptibility measurements of the core from area around the survey location.  
+
+However, the Tropari instrument was totally inadequate as a surveying tool for the deep, 
+
+step out holes 67, 111, 120A, 122, 122W1, 124, and 125.  Stratigraphy in this area 
+
+appears to be isoclinally folded with the nose area in the vicinity of the collars of 122, 
+
+124, and 125. 
+
+ 
+
+Foran concluded that the locations of the intersections of holes 67, 111, 120A, 122, 
+
+122W1, 124, and 125 have an estimated error of ±50 m in the east-west direction and ±25 
+
+m in the vertical direction (Lemaitre, 2000). Thus the location of each hole will have a 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 11-2
+
+direct impact on a resource estimate. A resurvey of many, or all, of the holes with a non-
+
+magnetic down hole instrument may be warranted in the future. 
+
+ 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 12-1
+
+12 SAMPLING METHOD AND APPROACH 
+For all Foran drill holes, assay samples were generally taken on 1.0 m intervals and 
+
+all sample boundaries respected the geological contacts.  Samples smaller than 1.0 m long 
+
+were taken when necessary to respect such conditions.  Samples as large as 1.5 m long 
+
+were taken in weakly mineralized copper stringer zone estimated to contain less than 1% 
+
+copper. 
+
+ 
+
+All samples were cut by diamond saw and one half of the core was submitted for 
+
+assay analysis.  Metal tags with the sample numbers inscribed were stapled into the box 
+
+marking the sample boundaries.  Boundary limits were also marked on the core box itself 
+
+to limit any sampling errors.  The unsampled half of the core was kept intact in the core 
+
+box and stored. 
+
+ 
+
+Samples for whole rock geochemistry and ICAP analysis were taken from every 
+
+major unit in every Foran drill hole and relogged Cameco hole.  A short (<30 cm long) 
+
+sample of the entire core was removed from the box and sent for analysis.  A wooden 
+
+marker with the sample number written on it was placed in the box where the sample was 
+
+taken to mark the sample location. 
+
+ 
+
+Assays taken during the Cameco program were also taken on 1.0 m intervals.  
+
+However, sample boundaries did not respect the Cameco-logged geological contacts in 
+
+several holes and thus individual samples often crossed the hanging wall-mineralized 
+
+zone contacts or the massive/semi-massive sulphide-stringer zone contacts.  This 
+
+discrepancy could not be resolved during the relogging program because all but two of 
+
+the massive and semi-massive sulphide intersections of these holes were removed by 
+
+Cameco from the racks and used as feed for two metallurgical tests. 
+
+ 
+
+Statistics on percentage core recovery are not available for either the Foran or 
+
+Cameco drilling campaigns. From Scott Wilson RPA's examination of core stored in the 
+
+field and in the Saskatoon storage facility we would estimate that there was perhaps 95% 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 12-2
+
+to 98% core recovery, at least in the mineralized sections. Hence the sawed/sampled 
+
+material sent for assay should be an accurate reflection of one half of the core and should 
+
+be free of any bias because of the competent nature of the core produced. 
+
+ 
+
+The true thickness of any mineralized intercept can only be estimated on those 
+
+sections where the density of drilling is sufficient to determine the boundaries of the 
+
+mineralized zone(s). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 13-1
+
+13 SAMPLE PREPARATION, ANALYSES AND 
+SECURITY 
+
+This section describes, to the best of our knowledge, the historical procedures 
+
+employed initially by Cameco and later by Foran. 
+
+ 
+
+CAMECO (1988-1991) 
+
+Little information is available for security measures employed, quality control or 
+
+quality assurance procedures and who actually prepared the samples. The samples of 
+
+sawn core were initially sent to TSL Assayers in Saskatoon (TSL). Each sample was 
+
+crushed to a minimum of 60% passing -10 mesh and was split, with the rejects being 
+
+stored at TSL's lab.  A split portion, approximately 250 grams, was pulverized to 90% 
+
+passing –150 mesh.  The split halves were assayed by standard Atomic Absorption 
+
+techniques for zinc, copper, silver, and lead and by fire assay/atomic absorption finish for 
+
+gold.  When the initial assay samples exceeded 1% zinc, 1% copper, or 1 g/t gold, the 
+
+sample was re-analyzed.  Samples from HA-01 to HA-06 were assayed at TSL.  The 
+
+remainder of the samples from HA-07 through HA-67 were assayed at Eco-Tech 
+
+Laboratories in Creighton, Saskatchewan (Eco-Tech).  A total of 152 check assays were 
+
+performed at TSL, Bondar-Clegg (Ottawa), and Terramin Laboratories (Calgary).  
+
+Cameco was pleased with the Eco-Tech results and believed that TSL returned somewhat 
+
+lower values for zinc and, to a lesser extent, copper during check assays (MRDI, 1998). 
+
+ 
+
+FORAN MINING CORPORATION (1998-2000) 
+
+The bulk of the assaying from the Foran drilling programs was done at TSL.  Once 
+
+sawn, individual samples were packaged in individual plastic sample bags, which were 
+
+sealed with packing tape, boxed, and taken directly by a Foran representative from the 
+
+field to Creighton, Saskatchewan.  The boxes were shipped via bus to Saskatoon where a 
+
+representative from TSL collected the boxes and brought them to the lab. 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 13-2
+
+At TSL, each sample was crushed to a minimum of 60% passing –10 mesh and then 
+
+split, with the rejects being stored at TSL.  A split portion, approximately 250 grams, was 
+
+pulverized to 90% passing –150 mesh. All samples were analyzed for copper, zinc, lead, 
+
+gold, and silver, while samples from holes MB-99-78 through 125 were also analyzed for 
+
+iron and sulphur.  All samples were also analyzed by a 31-element ICAP scan that was 
+
+completed at the TSL laboratory in Vancouver, British Columbia. Copper, lead, zinc and 
+
+silver analyses were done by Atomic Absorption Spectrophotometry, while the gold was 
+
+determined by standard Fire Assay procedures. 
+
+ 
+
+One in ten samples assayed by TSL was shipped to the Saskatchewan Research 
+
+Council's Geoanalytical Services Laboratory in Saskatoon (SRC) for check assaying.  In 
+
+the case of a discrepancy between the original and check assay results, the sample was 
+
+rechecked by XRAL Laboratories in Toronto to determine the most accurate result.  In 
+
+their signed assay reports, TSL included the analytical results of all internal repeat 
+
+samples (duplicates) and TSL in-house or Certified Reference Material standard samples 
+
+inserted into the assaying sequence.  Foran's experience was that for most elements, TSL 
+
+assayed very slightly lower (<10% difference) than the corresponding assay done at the 
+
+SRC.  Generally, zinc, lead and silver assays were less than 10% lower at TSL than at 
+
+SRC, copper assays were less than 5% lower, and gold results were comparable 
+
+(Lemaitre, 2000). 
+
+ 
+
+During the time periods noted, it is not known what the certifications were for the 
+
+various laboratories mentioned. The analytical procedures employed by TSL are listed in 
+
+Appendix 1. 
+
+ 
+
+The QA/QC procedures used by Foran were not as rigorous as one might expect in a 
+
+current program. Nonetheless, Scott Wilson RPA believes that the work was done in 
+
+accordance with the best practices of the time and that the results should be reliable. 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 13-3
+
+SPECIFIC GRAVITY DETERMINATIONS 
+
+From hole MB-99-87 to MB-99-125, Foran had specific gravity determinations of 
+
+each sample done by TSL using the weight in water – weight in air method on the intact 
+
+core sample.  Holes MB-99-78 to MB-99-86 did not have any specific gravity 
+
+determinations but did have iron and sulphur analytical data.  Holes prior to MB-99-78 do 
+
+not have any specific gravity determinations or any sulphur analytical data. 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 14-1
+
+14 DATA VERIFICATION 
+On September 28, 2006, R. Barry Cook selected and marked out ten samples of sawn 
+
+core for duplicate analysis.  The specified intervals were quarter split by a technician 
+
+under supervision by Mr. Cook, who then bagged, tagged, and sealed the samples in 
+
+plastic bags. The bags of samples were packed in a box and shipped by courier to the 
+
+Scott Wilson RPA offices in Toronto.  From there they were forwarded by courier to the 
+
+SGS laboratory in Don Mills, Ontario.  Table 14-1 indicates the relevant sample 
+
+information and assay results. 
+
+ 
+
+Considering the nature of sulphide material sampled, the duplicate analyses 
+
+correspond reasonably well to the original Foran analyses. The only glaring discrepancy 
+
+is highlighted in the table indicating the Scott Wilson RPA value of 2.49% for the Foran 
+
+sample number 0805 compared to the original value of 0.39%. Scott Wilson RPA has no 
+
+explanation for this difference except for possible inhomogeneity in the core sample. 
+
+ 
+
+Scott Wilson RPA also compared analyses as quoted on original assay certificates to 
+
+the numbers listed in drill logs for specific assay intervals. The assays for Cu, Zn, Pb, Au 
+
+and Ag for 162 samples from six different drill holes were checked without locating any 
+
+serious errors in transcription. The few discrepancies noted were in fact only differences 
+
+in the second decimal place. 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE 14-1   ASSAYS OF SAMPLES COLLECTED FROM DRILL HOLES 
+Foran Mining Corporation – McIlvenna Bay Project 
+
+ 
+ Scott Wilson RPA Sampling Original Foran Results 
+
+Drill Hole From (m) 
+To 
+(m) 
+
+Sample 
+Number Sample Description
+
+Cu 
+(%) 
+
+Zn 
+(%) 
+
+Au 
+ppb 
+
+Ag 
+g/t 
+
+Sample 
+Number 
+
+Cu 
+% 
+
+Zn 
+% 
+
+Ag 
+g/t 
+
+Au 
+g/t 
+
+MB-99-101 266.69 267.62 71251 Quarter split core 2.49 8.61 896 16.8 0805 0.39 7.70 16 0.41 
+
+MB-99-101 286.00 287.00 71252 Quarter split core 0.6 0.03 132 2.9 0824 0.61 0.03 2.8 0.17 
+
+MB-99-98 245.68 247.47 71253 Quarter split core 5.6 1.03 542 81.4 0741 5.19 0.89 73 0.55 
+
+MB-99-98 250.84 251.46 71254 Quarter split core 5.33 0.61 549 34.7 0747 4.55 0.65 29 0.72 
+
+MB-99-97 114.20 115.38 71255 Quarter split core 0.3 0.11 69 2.6 0715 0.27 0.05 2 0.03 
+
+MB-99-97 151.28 152.00 71256 Quarter split core 1.84 5.08 1,020 82.6 0723 1.45 5.12 74 0.74 
+
+MB-99-86 167.00 168.13 71257 Quarter split core 0.2 10.2 83 4.3 0066 0.2 11 4 0.14 
+
+MB-99-86 150.53 151.92 71258 Quarter split core 0.26 4.82 105 4 0059 0.23 4.09 3.2 0.1 
+
+MB-99-78 753.00 754.00 71259 Quarter split core 0.26 2.01 81 3.4 0227 0.27 1.74 3.0 0.07 
+
+MB-99-78 746.31 747.06 71260 Quarter split core 2.43 0.42 1,580 17.8 0220 2.66 0.82 19 1.38 
+
+ 
+ 
+
+w
+w
+
+w
+.rpacan.com
+
+ 
+SC
+
+O
+T
+
+T
+ W
+
+IL
+SO
+
+N
+ R
+
+P
+A
+
+ 
+w
+
+w
+w
+
+.scottw
+ilson.com
+
+ 
+  
+
+14-2
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 15-1
+
+15 ADJACENT PROPERTIES 
+There are no properties to report on in this section. 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 16-1
+
+16 MINERAL PROCESSING AND 
+METALLURGICAL TESTING 
+
+Cameco conducted a feasibility study on the McIlvenna Bay sulphide deposit in 1990. 
+
+As part of the process, they sent 339 kg of sulphide mineralization to Cominco 
+
+Engineering Services Ltd. (CESL) at Trail, British Columbia, for metallurgical testing. 
+
+The mineralization was the remaining half of the split core from their sulphide 
+
+intersections. As such, the material tested should have been representative of the 
+
+McIlvenna Bay deposit as it was known at the time. The sulphides were described as 
+
+being from the A, B, and C Zones, which, in the current Foran terminology, Scott Wilson 
+
+RPA interpret as being the Lens 2, Upper West, and Copper Stringer zones, respectively. 
+
+ 
+
+A summary of the CESL metallurgical test work is quoted below. A more complete 
+
+description is found in Appendix 2. 
+
+ 
+
+SUMMARY 
+The Hanson Lake 'A' zone sample contains approximately 12% sphalerite in 65% 
+
+pyrite with a mesh of liberation of about 50 microns (270 mesh). There is also present up 
+
+to 1% chalcopyrite, which must be separated in order to produce a readily saleable zinc 
+
+concentrate. 
+
+ 
+
+A zinc concentrate grading approximately 54% Zn at a recovery of around 90% can 
+
+be produced from the 'A' zone by careful, slow flotation. Three stages of zinc cleaning are 
+
+required. The zinc concentrate is favourably low in magnesia, silica and minor element 
+
+impurities, with the exception of mercury at 200 ppm. 
+
+ 
+
+One flotation test was run using Hanson Lake water. There was no significant 
+
+difference between this test and a similar test run using normal Trail water. 
+
+ 
+
+The copper impurity cleans up readily to produce a saleable grade copper concentrate 
+
+carrying significant gold and silver values. 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 16-2
+
+ 
+The tailings may be treated by single stage cycloning to produce a sand product 
+
+potentially suitable for mine backfilling. The weight recovery to the sand product is 
+
+approximately 75%. 
+
+ 
+
+The tailings product remained stable over a four week testing period. It maintains a 
+
+pH of 7.3 to 7.4 with favourably low copper, zinc and iron in solution. 
+
+ 
+
+Preliminary testing of material from the high-copper 'C' section of the deposit shows 
+
+that a high grade copper concentrate may be produced at good recovery. 
+
+ 
+
+Preliminary testing of material from the mixed copper-zinc 'B' zone of the deposit 
+
+shows significant cross-contamination between copper and zinc. It is concluded that a 
+
+significant metallurgical testing program will be required to develop an optimum 
+
+metallurgy for this material. 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 17-1
+
+17 MINERAL RESOURCE AND MINERAL 
+RESERVE ESTIMATES 
+SUMMARY 
+
+Scott Wilson RPA has prepared a mineral resource estimate of the McIlvenna Bay 
+
+deposit using digital drill hole data provided by Foran.  Scott Wilson RPA interpreted a 
+
+set of cross sections, and also used long sections and plans to construct 3D wireframes of 
+
+the mineralized zones. Variogram parameters were determined separately for each 
+
+mineralized zone.  A block model was interpolated using the kriging and inverse distance 
+
+methods and a mineral resource for copper, zinc, and silver was estimated (Table 17-1).   
+
+ 
+
+Using long term metal prices, the in-situ Cu and Zn percent values in each block of 
+
+the block model were converted to US$ amounts.  These cash values for Cu and Zn were 
+
+then converted to a NSR (Net Smelter Return) using ratios of in-situ values to NSR 
+
+values for each metal.  The ratios were calculated using the parameters listed, with the Zn 
+
+ratio equal to 0.45 and the copper ratio equalling 0.55.  Silver and gold do not contribute 
+
+any significant value to the NSR and were not included in the calculations. 
+
+ 
+
+Scott Wilson RPA classified the mineral resources at McIlvenna Bay in the block 
+
+model into indicated and inferred categories based on drill hole spacing and apparent 
+
+geological and grade continuity of the mineralized zones.  Indicated mineral resources are 
+
+located between L93+00E and L104+00E above the 2,750 m elevation.  Drill hole 
+
+spacing in this area varies from 40 m to 80 m, on 50 m sections.  Inferred mineral 
+
+resources exist below and to the west of the indicated resources along the plunge of the 
+
+deposit.  Drilling in this area is much more irregularly spaced both on and between 
+
+sections. 
+
+ 
+
+There are no mineral reserves estimated at McIlvenna Bay at this time. 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 17-2
+
+TABLE 17-1   MCILVENNA BAY MINERAL RESOURCES 
+Foran Mining Corporation - McIlvenna Bay Project 
+
+ 
+NSR Cut-
+
+off 
+Category  Zone Tonnes 
+
+(000) 
+Cu 
+% 
+
+Zn 
+% 
+
+Ag 
+(g/t) 
+
+NSR 
+($) 
+
+$50  Indicated Lens 2 Massive 4,763 0.27 7.26 23.0 75.33
+  Upper West 1,336 2.64 4.77 41.5 79.25
+  Cu Stringer 109 3.42 1.62 24.6 57.48
+  Lens 3 410 1.32 4.92 12.5 64.83
+  Lens 4 53 1.43 5.58 10.4 72.71
+  Total 6,671 0.87 6.51 26.0 75.16
+ Inferred Lens 2 Massive 3,700 0.35 6.63 26.9 70.0
+  Upper West 2,200 1.67 4.63 21.1 66.2
+  Cu Stringer 0   
+  Lens 3 100 0.39 6.47 29.3 69.0
+  Lens 4 0   
+  Total 6,000 0.83 5.89 24.8 68.6
+
+ 
+
+RESOURCE DATABASE AND VALIDATION 
+
+Scott Wilson RPA received header, survey, assay, lithology and composite data from 
+
+Foran in an older Gemcom (Gemcom GDE v4.x) database.  The database comprised 126 
+
+collar records and 1,658 survey records with 62,698 m of drilling for an average drill hole 
+
+length of 498 m.  The latest drill hole included in the database is MB 00-124.  The 
+
+Gemcom database comprises 3,261 assay records totalling of 3,569 m of assays for an 
+
+average interval length of 1.09 m.  Drilling by Foran accounts for 1,580 assay records, 
+
+while Cameco drilling accounts for 1,681 assay records.  
+
+ 
+
+The Scott Wilson RPA Gemcom database comprises 4,105 records of geology entries 
+
+with descriptions for distance from, distance to, and rock type. 
+
+ 
+
+A variety of validation queries and routines were run in Gemcom to help identify data 
+
+entry errors.  The original Gemcom database was found to be in good shape and no 
+
+significant problems were noted.  Scott Wilson RPA also verified a number of data 
+
+records with original assay certificates and drill logs.  No significant discrepancies were 
+
+identified.   
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 17-3
+
+CUT-OFF GRADE 
+
+Scott Wilson RPA reviewed the cut-off grades and interpretation done by M'Ore 
+
+Exploration Services for Foran in 1999 and 2000.  Cut-off grades of 1.5% Cu and/or 
+
+4.0% Zn were used to define the main mineralized zones.  Scott Wilson RPA found this 
+
+methodology produced good results in terms of outlining potentially economic material, 
+
+especially in the massive and semi-massive zones.   However, due to the more erratic 
+
+nature of the copper mineralization in the copper stringer zone, the use of an arbitrary 
+
+cut-off grade for interpretation was not appropriate.  The geological boundaries and entire 
+
+intersection in each drill hole in this zone were used instead.  As well, a minimum width 
+
+of three metres was imposed on all zones where the previous interpretation included the 
+
+occasional narrow intersection for the sake of continuity. 
+
+ 
+
+GEOLOGICAL INTERPRETATION AND 3D SOLIDS 
+
+Diamond drill hole traces with Cu, Zn, Au, and Ag grades and lithology, were plotted 
+
+on grid north-south cross sections, and east-west longitudinal drill sections. The cross 
+
+sections were spaced 50 m apart.  The geological and grade continuity was checked using 
+
+the plotted longitudinal drill sections plus plan views on screen.  The down hole distances 
+
+for each drill hole intersection of the mineralized envelopes were used to provide a 
+
+guideline to create 3D rings, tie lines, and ultimately 3D solids for each of the 
+
+mineralized envelopes.   
+
+ 
+
+Figures 17-1 to 17-3 provide examples of the outlines of interpreted wireframes in 
+
+cross section and long section.  Figure 17-4 outlines the areas which have been classified 
+
+as Indicated and Inferred. 
+
+ 
+
+ASSAY STATISTICS 
+
+Scott Wilson RPA tagged those assays to be included in the resource estimation.  A 
+
+total of 3,261 assays were identified within the area to be estimated.  Basic statistics for 
+
+uncut Cu and Zn on a zone by zone basis are given in Table 17-2.   
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 17-4
+
+ 
+
+TABLE 17-2   SUMMARY OF RESOURCE ASSAY RECORDS BY ZONE 
+Foran Mining Corporation - McIlvenna Bay Project 
+
+ 
+ Cu (%) Zn (%) 
+
+Lens 2 Massive Sulphides (n=471) 
+Mean 0.24 7.16 
+
+Standard Deviation 0.31 4.38 
+
+Coef. of Variation 1.31 0.61 
+
+Maximum 1.90 56.0 
+
+Upper West (n=168) 
+
+Mean 2.40 4.44 
+
+Standard Deviation 2.25 5.41 
+
+Coef. of Variation 0.94 1.22 
+
+Maximum 19.6 25.2 
+
+Cu Stringer Zone (n=734) 
+
+Mean 1.56 0.14 
+
+Standard Deviation 1.28 0.62 
+
+Coef. of Variation 0.82 1.95 
+
+Maximum 10.25 9.65 
+ 
+
+
+
+
+
+
+
+Foran Mining Corporation
+McIlvenna Bay
+
+3D View looking South-west
+Lens Wireframes
+
+SCOTT WILSON RPA
+GEOLOGICAL AND MINING CONSULTANTS
+
+55 University Avenue, Suite 501
+Toronto, Ontario  M5J 2H7
+
+SC
+O
+
+T
+T
+
+ W
+IL
+
+SO
+N
+
+ R
+P
+
+A
+
+Figure 17-3
+
+w
+w
+w
+.rpacan.com
+
+w
+w
+w
+.scottw
+
+ilson.com
+
+Lens 3
+
+Lens 4
+
+Cu Stringer Zone
+
+Lens 2
+
+Upper West Zone
+
+1
+7
+-7
+
+
+
+F
+or
+
+an
+ M
+
+in
+in
+
+g 
+C
+
+or
+po
+
+ra
+ti
+
+on
+M
+
+cI
+lv
+
+en
+na
+
+ B
+a y
+
+3D
+ V
+
+ie
+w
+
+ lo
+ok
+
+in
+g 
+
+So
+ut
+
+h-
+w
+
+es
+t
+
+B
+lo
+
+ck
+ M
+
+od
+el
+
+ R
+es
+
+ou
+rc
+
+e 
+C
+
+la
+ss
+
+if
+ic
+
+at
+io
+
+n
+
+S
+C
+
+O
+TT
+
+ W
+IL
+
+S
+O
+
+N
+ R
+
+P
+A
+
+G
+E
+
+O
+LO
+
+G
+IC
+
+A
+L 
+
+A
+N
+
+D
+ M
+
+IN
+IN
+
+G
+ C
+
+O
+N
+
+S
+U
+
+LT
+A
+
+N
+T
+
+S
+55
+
+ U
+ni
+
+ve
+rs
+
+ity
+ A
+
+ve
+nu
+
+e,
+ S
+
+ui
+te
+
+ 5
+01
+
+T
+or
+
+on
+to
+
+, O
+nt
+
+ar
+io
+
+  M
+5J
+
+ 2
+H
+
+7
+
+SCOTT WILSON RPA
+
+F
+ig
+
+ur
+e 
+
+17
+-4
+
+www.rpacan.com
+www.scottwilson.com
+
+In
+di
+
+ca
+te
+
+d
+
+In
+fe
+
+rr
+ed
+
+R
+es
+
+ou
+rc
+
+e 
+C
+
+la
+ss
+
+.
+
+17-8
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 17-9
+
+CUTTING HIGH GRADE VALUES 
+
+Erratic high grade assays can have a large and disproportionate effect in the 
+
+estimation of the average grade of a deposit.  Graphs were prepared to show the 
+
+distribution of uncut metal values for each mineralized zone.  Scott Wilson RPA's 
+
+interpretation of these graphs suggested minor cutting was necessary.  Cu assays were cut 
+
+to 10.0% Cu (four assays in total) and Zn assays were cut to 25% Zn (four assays in 
+
+total). 
+
+ 
+
+COMPOSITING 
+
+Scott Wilson RPA composited drill hole assays to 1.0 m down hole within each 
+
+mineralized zone and for all assays outside the zones.  Composites less then 0.25 m long 
+
+were excluded from the composite database.  Table 17-3 summarizes statistics of the cut 
+
+Cu and Zn composite assays for each zone.    
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 17-10
+
+TABLE 17-3   STATISTICS OF DRILL HOLE COMPOSITES BY ZONE 
+Foran Mining Corporation - McIlvenna Bay Project 
+
+ 
+ Cu (%) Zn (%) 
+
+Massive Sulphides (n=471) 
+
+Mean 0.25 7.13 
+
+Standard Deviation 0.31 3.23 
+
+Coef. of Variation 1.25 0.45 
+
+Maximum 1.90 20.4 
+
+Semi-Massive Sulphides (n=168) 
+
+Mean 2.24 4.18 
+
+Standard Deviation 1.65 4.93 
+
+Coef. of Variation 0.74 1.17 
+
+Maximum 9.46 22.2 
+
+Cu Stringer Zone (n=734) 
+
+Mean 1.52 0.31 
+
+Standard Deviation 1.14 0.59 
+
+Coef. of Variation 0.75 1.89 
+
+Maximum 8.21 9.65 
+ 
+
+DENSITY 
+
+Scott Wilson RPA received density data for the drill hole intersections within each 
+
+selected wireframe.  A total of 3,261 records were used, with density ranging from 1.3 to 
+
+4.6 for an unweighted average density of 2.97. Density was interpolated throughout the 
+
+block model using the inverse distance squared method.  
+
+ 
+
+VARIOGRAPHY, KRIGING PARAMETERS AND BLOCK 
+MODEL 
+
+Scott Wilson RPA developed variograms for Cu, Zn, and Ag composites for each 
+
+mineralized zone.  Down hole variograms modeled well while directional variograms 
+
+were less obvious on a single variogram basis (Figures 17-5 to 17-7).  However, after 
+
+examination of numerous variograms at various lag distances and directions, some 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 17-11
+
+consistencies were identified that reflected the geology of the deposit and the kriging 
+
+parameters outlined in Table 17-4 were chosen.  Single and double structure spherical 
+
+models were used with nugget effect derived from the down hole variograms.  Search 
+
+parameters were chosen so that all blocks within the mineralized envelopes had grades 
+
+interpolated. 
+
+ 
+
+Zones 3 and 4 were interpolated using inverse distance squared methodology with the 
+
+same search parameters as the other zones. 
+
+ 
+
+
+
+
+
+
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 17-15
+
+ 
+
+TABLE 17-4   KRIGING PARAMETERS 
+Foran Mining Corporation - McIlvenna Bay Project 
+
+ 
+  Lens 2/Upper West Cu Stringer 
+  Cu Zn Ag Cu Ag 
+
+NUGGET  0.06 1.60 100 0.35 25 
+SILL Along Plunge 1.10 9.5/4.7 1,106 1.30 115 
+
+ Across Plunge 1.50 14.4 1,106 0.80 115 
+ Normal to Plunge 0.60 9.4 430 0.75 37 
+
+RANGE (m) Along Plunge 330 120/300 220 140 140 
+ Across Plunge 200 140 250 100 140 
+ Normal to Plunge 2.2 3.4 2.8 2.6 2.6 
+
+  
+   Search Ellipsoid Samples Used 
+
+ Range x 400 m   Minimum 2 
+  y 200 m   Maximum 12 
+  z 40 m   Max/Hole 4 
+ Rotation z0o     
+  x -65o     
+  z -45o     
+       
+
+ 
+
+CALCULATION OF NSR VALUES 
+
+Net Smelter Return (NSR) is the estimate of the value in any specific tonnage of 
+
+mineralized material that would be received by the mine owner after paying costs for 
+
+mining and milling.  It is essentially the revenue that is received for each tonne of 
+
+concentrate that leaves the property.  The NSR considers all transportation, smelting and 
+
+refining, penalties, transportation and insurance that each tonne of concentrate would 
+
+incur. 
+
+ 
+
+Using the metal prices listed in Table 17-5, the in-situ Cu and Zn percent values in 
+
+each block of the block model were converted to US$ amounts.  These cash values for Cu 
+
+and Zn were then converted to an NSR using ratios of in-situ values to NSR values for 
+
+each metal.  The ratios were calculated using the parameters listed with the Zn ratio equal 
+
+to 0.45 and the copper ratio equalling 0.55.  Silver and gold do not contribute any 
+
+significant value to the NSR and were not included in the calculations. 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 17-16
+
+ 
+
+TABLE 17-5   NSR PARAMETERS 
+Foran Mining Corporation - McIlvenna Bay Project 
+
+ 
+Parameter Value 
+
+Commodity Prices (US$)  
+
+Copper $1.50 
+
+Zinc $0.70 
+
+  
+
+Concentrate Factors  
+
+Cu Concentrate Grade 28% 
+
+Zn Concentrate Grade 50% 
+
+Cu Con Treatment Charge ($/dmt Con) $80 
+
+Zn Con Treatment Charge ($/dmt con) $210 
+
+  
+
+Transportation Costs  
+
+Total Cu Con Transport Costs $115 
+
+Total Zn Con Transport Costs $5.26 
+
+  
+
+Recoveries  
+
+Copper 81% 
+
+Zinc 72% 
+ 
+
+CLASSIFICATION OF MINERAL RESOURCES 
+
+Scott Wilson RPA classified the mineral resources at McIlvenna Bay in the block 
+
+model into indicated and inferred categories based on drill hole spacing and apparent 
+
+geological and grade continuity of the mineralized zones.  The classification 
+
+methodology used was the same as developed by Foran.  It quite acceptably accounts for 
+
+geological characteristics and continuity. 
+
+ 
+
+Indicated mineral resources are located between L93+00E and L104+00E above the 
+
+2,750 elevation.  Drill hole spacing in this area varies from 40 m to 80 m, on 50 m 
+
+sections.  Inferred mineral resources exist below and to the west of the indicated 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 17-17
+
+resources along the plunge of the deposit.  Drilling in this area is much more irregularly 
+
+spaced both on and between sections. 
+
+ 
+
+SUMMARY OF MINERAL RESOURCE ESTIMATE 
+
+Table 17-6 lists the mineral resources by zone and category at several NSR cut-offs.  
+
+Scott Wilson RPA recommends that the mineral resource estimate be reported at an NSR 
+
+cut-off of $50.   
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 17-18
+
+ 
+Notes: 
+
+1. CIM definitions were followed for mineral resources. 
+2. Mineral resources are estimated using long-term prices of US$1.50 for Cu and US$0.70 
+
+for Zn. 
+3. A minimum mining width of 3.0 metres was used. 
+4. Totals may not add correctly due to rounding. 
+
+TABLE 17-6   MINERAL RESOURCE ESTIMATE 
+Foran Mining Corporation – McIlvenna Bay Project 
+
+ 
+NSR Cut-
+
+off Category  Zone 
+Tonnes 
+
+(000) %Cu %Zn Ag (g/t) NSR ($) 
+$40  Indicated Lens 2 4,921 0.28 7.16 23.1 74.39 
+
+  Upper West 1,442 2.61 4.55 40.2 76.81 
+  Cu Stringer 292 3.10 1.16 23.6 49.07 
+  Lens 3 573 1.34 4.34 12.6 59.24 
+  Lens 4 76 1.51 4.60 10.6 63.92 
+  Total 7,304 0.95 6.16 25.5 72.56 
+ Inferred Lens 2 3,942 0.35 6.47 26.7 68.4 
+  Upper West 2,464 1.71 4.41 21.0 64.4 
+  Cu Stringer 37 2.69 1.04 31.1 42.9 
+  Lens 3 191 0.34 5.73 23.0 60.9 
+  Lens 4 0         
+  Total 6,634 0.87 5.65 24.5 66.5 
+
+$50  Indicated Lens 2 4,763 0.27 7.26 23.0 75.33 
+  Upper West 1,336 2.64 4.77 41.5 79.25 
+  Cu Stringer 109 3.42 1.62 24.6 57.48 
+  Lens 3 410 1.32 4.92 12.5 64.83 
+  Lens 4 53 1.43 5.58 10.4 72.71 
+  Total 6,671 0.87 6.51 26.0 75.16 
+ Inferred Lens 2 3,700 0.35 6.63 26.9 70.0 
+  Upper West 2,200 1.67 4.63 21.1 66.2 
+  Cu Stringer 0     
+  Lens 3 100 0.39 6.47 29.3 69.0 
+  Lens 4 0     
+  Total 6,000 0.83 5.89 24.8 68.6 
+
+$60  Indicated Lens 2 4,133 0.26 7.59 23.3 78.34 
+  Upper West 1,084 2.65 5.31 44.9 84.81 
+  Cu Stringer 28 3.52 2.31 27.6 65.59 
+  Lens 3 266 1.02 5.80 11.5 69.85 
+  Lens 4 33 1.09 7.19 8.62 84.55 
+  Total 5,544 0.79 7.03 26.9 79.17 
+ Inferred Lens 2 2,800 0.30 7.15 26.7 74.6 
+  Upper West 1,600 1.62 5.13 22.0 70.5 
+  Cu Stringer 0     
+  Lens 3 100 0.41 6.97 31.1 74.2 
+  Lens 4 0     
+  Total 4,500 0.77 6.43 25.1 73.1 
+
+$70  Indicated Lens 2 2,993 0.24 8.10 24.4 83.3 
+  Upper West 791 2.67 6.00 48.9 91.9 
+  Cu Stringer 6 3.12 3.47 30.0 72.3 
+  Lens 3 119 0.77 6.69 11.1 75.8 
+  Lens 4 23 1.03 8.16 8.63 93.4 
+  Total 3,932 0.75 7.63 28.8 84.8 
+ Inferred Lens 2 2,100 0.29 7.45 26.2 77.4 
+  Upper West 600 1.58 6.06 21.5 79.2 
+  Cu Stringer 0     
+  Lens 3 100 0.41 7.14 29.0 75.8 
+  Lens 4 0     
+  Total 2,800 0.57 7.14 25.3 77.7 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 17-19
+
+MINERAL RESOURCE VALIDATION 
+
+Scott Wilson RPA applied three methods to validate the block model mineral 
+
+resource including: visual inspection, block statistics versus composite statistics 
+
+comparison, and a comparison with results from an alternative interpolation algorithm.   
+
+ 
+
+The block grades were visually compared with the composite grades on sections and 
+
+plans and were found to have good overall correlation.  It is noted that the grade 
+
+interpolation profiles should be reviewed and revised when new data become available.  
+
+ 
+
+The composite assays within the Len 2 massive zone average 0.25% Cu and 7.13% 
+
+Zn.  This compares to the overall average block grade (at a zero cut-off) of 0.31% Cu and 
+
+6.78% Zn.  In the Upper West the composites average 2.24% Cu and 4.18% Zn, while the 
+
+blocks average 1.97% Cu and 4.10% Zn.  It is Scott Wilson RPA's opinion that the 
+
+difference in the two estimates are within acceptable limits. 
+
+ 
+
+In addition to the kriging interpolation method, Scott Wilson RPA estimated the 
+
+mineral resource at McIlvenna Bay using the Inverse Distance method to the power of 
+
+two.  Table 17-7 lists the results.  It is Scott Wilson RPA's opinion that the difference in 
+
+the two estimates are well within acceptable limits. 
+
+ 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 17-20
+
+TABLE 17-7   COMPARISON OF INDICATED RESOURCE ESTIMATE OF 
+KRIGING AND INVERSE DISTANCE METHODS 
+
+Foran Mining - McIlvenna Bay Project 
+ 
+
+NSR 
+Cut-off Category Method Zone 
+
+Tonnes 
+('000) Cu (%) Zn (%) Ag (g/t) 
+
+$50 Indicated Kriging Lens 2 4,763 0.27 7.26 23.0 
+   Upper West 1,336 2.64 4.77 41.5 
+   Cu Stringer 109 3.42 1.62 24.6 
+   Total 6,208 0.84 6.63 27.0 
+ Indicated ID2 Lens 2 4,763 0.26 7.29 22.7 
+   Upper West 1,336 2.62 4.89 43.15 
+   Cu Stringer 109 3.72 1.62 27.2 
+   Total 6,208 0.83 6.67 27.2 
+   %Difference  1.2 0.6 0.7 
+
+ 
+
+COMPARISON WITH FORAN 2000 RESOURCE ESTIMATE 
+
+Scott Wilson RPA compared the results of the current estimate with the Foran NSR 
+
+estimate completed in 2000.  The comparison in Table 17-8 shows that the two estimates 
+
+are very similar for the indicated category above cut-off grade.  The tonnages are 
+
+essentially the same, while the Scott Wilson RPA Cu grades have decreased slightly.  The 
+
+decrease in the Cu grades can be partly explained by the inclusion of some lower grade 
+
+material when the Lens 2 and Upper West zone solids are adjusted to the minimum 
+
+mining width of three metres. 
+
+ 
+
+The Copper Stringer Zone does not appear in the Scott Wilson RPA resource estimate 
+
+because of the cut-off used. 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 17-21
+
+ 
+
+TABLE 17-8   COMPARISON WITH FORAN MINING 2000 
+RESOURCE ESTIMATE 
+
+Foran Mining Corporation - McIlvenna Bay Project 
+ 
+
+Category Estimate Zone Tonnes 
+('000) 
+
+Cu (%) Zn (%) Ag (g/t) 
+
+Indicated Scott 
+Wilson 
+
+Lens 2 4,763 0.27 7.26 23.0 
+
+  Upper West 1,336 2.64 4.77 41.5 
+  Total 6,099 0.79 6.71 27.1 
+
+Indicated Foran Lens 2 4,728 0.31 7.44 23.8 
+  Upper West 1,529 2.68 5.14 39.6 
+  Total 6,257 0.89 6.88 27.7 
+  %Difference -158 -12.6 -2.5 -2.2 
+
+ 
+ 
+
+ 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 18-1
+
+18 OTHER RELEVANT DATA AND 
+INFORMATION 
+
+There is nothing to report in this section. 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 19-1
+
+19 INTERPRETATION AND CONCLUSIONS 
+A significant mineral resource has been estimated for the McIlvenna Bay property as 
+
+summarized in Table 17-1.  Indicated resources total 6,671,000 t at a grade of 0.87% Cu, 
+
+6.51% Zn, and 26.0 g/t Ag.  Inferred resources total 6,000,000 t at a grade of 0.83% Cu, 
+
+5.89% Zn, and 24.8 g/t Ag.  These numbers differ from the historic resource estimation 
+
+by Foran in 2000 largely because the higher cut off used by Scott Wilson RPA eliminates 
+
+much of the Copper Stringer zone from either category. 
+
+ 
+
+More fill-in diamond drilling is required to upgrade the mineral resources and to trace 
+
+their extension down plunge to the northwest. 
+
+ 
+
+Given the advanced stage of this project, it would be reasonable to carry out a 
+
+preliminary assessment/scoping study after the completion of the next phase of drilling. 
+
+ 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 20-1
+
+20 RECOMMENDATIONS 
+A nine hole, 9,600 m drilling program is recommended as outlined in the budget in 
+
+Table 20-1. The pierce points of the proposed holes are shown on the Longitudinal 
+
+Section, Figure 20-1. The purpose of the drilling is to tighten up drill hole spacings so 
+
+that mineral resources might be upgraded and to explore the down plunge extension of 
+
+the McIlvenna Bay sulphide deposit (to the northwest). Upon completion of the proposed 
+
+drilling, the current resource estimate should be updated and a preliminary 
+
+assessment/scoping study carried out. 
+
+ 
+
+Contingent on the results of the preliminary assessment, a Phase 2 drilling program 
+
+should be considered to acquire mineralized material for metallurgical test work. 
+
+ 
+
+Scott Wilson RPA recommends that a rigorous program of QA/QC be instituted for 
+
+the next phase of drilling. 
+
+ 
+
+TABLE 20-1   RECOMMENDED PROGRAM AND BUDGET FOR THE 
+PERIOD, NOV 1/06 TO FEB 28/07  
+
+Foran Mining Corporation- McIlvenna Bay Project 
+ 
+
+Item Expenditure, C$ 
+Salaries/ Supervision 141,000
+Field Office Rental/ Communications 30,000
+Transportation 9,000
+
+Diamond Drilling: Confirmation/infill drill program 
+    9 DDH = 9,600 m @ C$100/m 
+
+ 
+960,000 
+
+Camp Costs 
+ 
+
+45,000
+Camp setup 25,000
+ATV Rental – $800/mo x 3 mo. 2,400
+Borehole survey equipment – purchase 20,000
+Assaying 600 samples x $30/sample 18,000
+Core Logging Software Purchase 20,000
+ 
+Scoping Study 150,000
+Contingency  142,000
+TOTAL Phase 1 1,562,000
+
+ 
+
+
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 21-1
+
+21 REFERENCES 
+Galley,A., Hannington,M., and Jonasson, I., 2006. Volcanogenic Massive Sulfide 
+
+Deposits; Consolidation and Synthesis of Mineral Deposits Knowledge web site, 
+Geological Survey of Canada 
+
+ (http://gsc.nrcan.gc.ca/mindep/synth_dep/vms/index_e.php.).  
+ 
+Kociumbas, M., 2000: WGM Review of Resource Estimate for the McIlvenna Bay 
+
+Deposit; unpublished internal report to Foran Mining Corp., 7 p. 
+ 
+Koziol, M., Bell, D., and Wasyliuk, K., 1991:  Cameco Corporation, Hanson Lake 
+
+Project, Winter  1991 Diamond Drilling Program Groups 44830 & 44925, Northern 
+Mining District, Saskatchewan, NTS 63L/10, Internal Cameco report, May 1991, 3v. 
+
+ 
+ 
+Lemaitre, Roger, 2000: Resource Estimates of the McIlvenna Bay Deposit, July 2000: 
+
+Hanson Lake, Saskatchewan; internal report, Foran Mining Corporation. 51 p, plus 6 
+Appendices. 
+
+ 
+Lydon, J.W. 1990: Volcanogenic Massive Sulphide Deposits Part 1: A Descriptive 
+
+Model; in Roberts, R.G. and Sheahan, P.A., eds., Ore Deposit Models, Geoscience 
+Canada, Reprint Series 3, p 145-154. 
+
+ 
+Maxeiner, R.O., Sibbald, T.I., William L.S., Heaman, L.M., and Watters B.R., 1999:  
+
+Lithogeochemistry of volcano-plutonic assemblages of the southern Hanson Lake 
+Block and southeastern Glennie Domain, Trans-Hudsonian Orogen:  evidence for a 
+single island arc complex, Canadian Journal of Earth Sciences, v. 36, pp 209-225. 
+
+ 
+McMartin, I., Henderson, P.J. and Neilson, E., 1999: Impact of a base metal smelter on 
+
+the geochemistry of soils in the Flin Flon region, Manitoba and Saskatchewan; 
+Canadian Journal of Earth Science, Vol. 35, pp 141-160. 
+
+ 
+MRDI, 1998: Hanson Lake Due Diligence and Scoping Study L313A-2000-01, for Foran 
+
+Mining Corporation, Report prepared by MRDI, Saskatoon, Saskatchewan, April 
+1998, 164 p. 
+
+ 
+Sangster, D.F. and Scott, S.D.,1976. Precambrian, strata-bound, massive Cu-Zn-Pb 
+
+sulphide ores of North America: in Wolf, K.H., ed., Handbook of Stratabound and 
+Strataform Ore Deposits: Elsevier Scientific Publishing Co., Amsterdam, v. 6, p 130-
+221. 
+
+ 
+Syme, E.C., Lucas, S.B., Bailes, A.H., and Stern, R.A., 1999: Contrasting arc and 
+
+MORB-like assemblages in the Paleoproterozoic Flin Flon Belt, Manitoba and the 
+role of intra-arc extension in localizing volcanic-hosted massive sulphide deposits, 
+Canadian Journal of Earth Sciences, Vol. 36, No 11, pp 1767-1788. 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 21-2
+
+Zwantzig, H.V. and Schledewitz, D.C. 1997: Geological Compilation of Parts of the Flin 
+Flon terrane and Kisseynew gneisses, Trans-Hudson Orogen, Maniroba. GAC-MAC 
+Annual Meeting Abstract Volume, 22: A163. 
+
+ 
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 22-1
+
+22 SIGNATURE PAGE 
+This report titled "Technical Report on the McIlvenna Bay Project, Saskatchewan" 
+
+and dated November 27, 2006 was prepared and signed by the following authors: 
+
+ 
+ 
+ 
+ 
+       (Signed & Sealed) 
+ 
+Dated at Toronto, Ontario     
+November 27, 2006    R. Barry Cook, M.Sc., P.Eng. 
+       Associate Geologist   
+
+  
+ 
+ 
+ 
+       (Signed & Sealed) 
+ 
+Dated at Toronto, Ontario     
+November 27, 2006    Chester M. Moore, P.Eng. 
+        Principal Geologist 
+ 
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 23-1
+
+23 CERTIFICATE OF QUALIFICATIONS 
+R. BARRY COOK 
+
+I, R. Barry Cook, P.Eng., as an author of this report entitled "Technical Report on the 
+McIlvenna Bay Project, Saskatchewan" prepared for Foran Mining Corporation and dated 
+November 27, 2006, do hereby certify that: 
+
+ 
+1. I am Associate Geologist with Scott Wilson Roscoe Postle Associates Inc. of Suite 
+
+501, 55 University Ave., Toronto, ON, M5J 2H7. 
+ 
+2. I am a graduate of Queen's University, Kingston, Ontario, Canada, in 1962 with a 
+
+Bachelor in Science degree in Geological Engineering and in 1964 with a Master of 
+Science degree in Geological Engineering. 
+
+ 
+3. I am registered as a Professional Engineer in the Province of Ontario (Reg. # 
+
+9202011) and as a Professional Engineer/Professional Geologist in the Northwest 
+Territories (Reg. # L797).  I have worked as a professional geologist for a total of 42 
+years since my graduation.  My relevant experience for the purpose of the Technical 
+Report is: 
+
+ 
+• Exploration Manager, Eastern Canada, with a major Canadian mining company, 
+
+with a mandate to find and acquire mineral deposits 
+• Experience on numerous volcanogenic massive sulphide (VMS) exploration 
+
+projects in Canada 
+• Attendance at numerous short courses and conferences and on field trips 
+
+concerning VMS camps and individual deposits 
+• Surface and/or underground visits to most of the significant VMS deposits in 
+
+Canada 
+ 
+
+4. I have read the definition of "qualified person" set out in National Instrument 43-101 
+("NI43-101") and certify that by reason of my education, affiliation with a 
+professional association (as defined in NI43-101) and past relevant work experience, I 
+fulfill the requirements to be a "qualified person" for the purposes of NI43-101. 
+
+ 
+5. I visited the McIlvenna Bay property on September 26, 2006. 
+ 
+6. I am responsible for preparation of Items 3 through 16 and 18, and contributed to 
+
+Items 1, 2, 19, and 20 of the Technical Report. 
+ 
+
+7. I am independent of the Issuer applying the test set out in Section 1.4 of National 
+Instrument 43-101. 
+
+ 
+8. I have had no prior involvement with the property that is the subject of the Technical 
+
+Report. 
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 23-2
+
+9. I have read National Instrument 43-101, and the Technical Report has been prepared 
+in compliance with National Instrument 43-101 and Form 43-101F1. 
+
+ 
+10. To the best of my knowledge, information, and belief, the Technical Report contains 
+
+all scientific and technical information that is required to be disclosed to make the 
+technical report not misleading. 
+
+ 
+ 
+ 
+ 
+ 
+Dated 27th day of November, 2006 
+ 
+ 
+ 
+(Signed & Sealed) 
+ 
+R. Barry Cook, M.Sc., P.Eng. 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 23-3
+
+CHESTER M. MOORE 
+I, Chester M. Moore, P.Eng., as an author of this report entitled Technical Report on 
+
+the McIlvenna Bay Project, Saskatchewan" prepared for Foran Mining Corporation and 
+dated November 27, 2006, do hereby certify that: 
+
+ 
+1. I am Principal Geologist with Scott Wilson Roscoe Postle Associates Inc. of Suite 
+
+501, 55 University Ave Toronto, ON, M5J 2H7. 
+ 
+
+2. I am a graduate of the University of Toronto, Toronto, Ontario, Canada in 1972 with 
+a Bachelor of Applied Science degree in Geological Engineering. 
+ 
+
+3. I am registered as a Professional Engineer in the Province of Ontario (Reg. # 
+32455016).  I have worked as a geologist for a total of 34 years since my graduation.  
+My relevant experience for the purpose of the Technical Report is: 
+• Mineral Resource and Reserve estimation, feasibility studies, due diligence, 
+
+corporate review and audit on exploration projects and mining operations world 
+wide 
+
+• Various advanced exploration and mine geology positions at base metal and gold 
+mining operations in Ontario, Manitoba and Saskatchewan 
+
+• Director, Mineral Reserve Estimation and Reporting at the corporate offices of a 
+major Canadian base metal producer 
+
+ 
+4. I have read the definition of "qualified person" set out in National Instrument 43-101 
+
+(NI43-101) and certify that by reason of my education, affiliation with a professional 
+association (as defined in NI43-101) and past relevant work experience, I fulfill the 
+requirements to be a "qualified person" for the purposes of NI43-101. 
+ 
+
+5. I have not visited the project site. 
+ 
+
+6.  I am responsible for preparation of Item 17 of the Technical Report. 
+ 
+
+7. I am independent of the Issuer applying the test set out in Section 1.4 of National 
+Instrument 43-101. 
+ 
+
+8. I have had no prior involvement with the property that is the subject of the Technical 
+Report. 
+ 
+
+9. I have read National Instrument 43-101, and the Technical Report has been prepared 
+in compliance with National Instrument 43-101 and Form 43-101F1. 
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 23-4
+
+10. To the best of my knowledge, information, and belief, the Technical Report contains 
+all scientific and technical information that is required to be disclosed to make the 
+technical report not misleading. 
+ 
+ 
+ 
+ 
+ 
+Dated 27th day of November, 2006. 
+ 
+ 
+(Signed & Sealed) 
+ 
+Chester M. Moore, P.Eng. 
+
+ 
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 24-1
+
+24 APPENDIX 1 
+ANALYTICAL PROCEDURES, TSL ASSAYERS 
+
+GOLD 
+Gold samples were assayed using standard Fire Assay procedures.  Samples were 
+
+fused with a flux mixture of litharge, soda, borax, silica, and fluorospar.  The resulting 
+lead button containing the gold was cupelled and subsequently dissolved in aqua regia 
+and analyzed by Atomic Absorption Spectrophotometry.  If the resulting sample 
+exceeded 3 g/t gold, a gravimetric assay was then done on the sample in which the fused 
+cupelled lead button was instead parted by dilute nitric acid and the gold decanted with 
+deionized water, dried, annealed and weighted on a microbalance. 
+ 
+
+SILVER 
+Silver analyses were completed on 4.00 grams of pulverized rock which was digested 
+
+with 3:1 HCl/HNO3 and then diluted with 1:1 HCl.  The resulting solution was analyzed 
+by Atomic Absorption Spectrophotometry. 
+ 
+
+COPPER, LEAD, ZINC 
+Copper, lead, and zinc analyses were determined from 0.500 grams of the pulverized 
+
+rock, digested with 3:1 HCl/HNO3.  The resulting solution was diluted and analyzed by 
+Atomic Absorption Spectrophotometry. 
+ 
+
+IRON, SULPHUR 
+Iron was analyzed by digesting a 1 gram pulverized portion by 3:1 HCl/HNO3.  The 
+
+resulting solution was diluted and analyzed by Atomic Absorption Spectrophotometry.  
+Sulphur was analyzed using a Leco SC-12 IR Detection System. 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 25-1
+
+25 APPENDIX 2 
+ 
+
+METALLURGICAL TEST WORK 
+
+BY 
+ 
+
+COMINCO ENGINEERING SERVICES LTD. 
+ 
+ 
+ 
+ 
+NOTE 
+ 
+
+In this 1990 document, reference is made to mineralization from Hanson Lake A, B, 
+
+and C Zones. Using the current Foran terminology Scott Wilson RPA believe that this 
+
+will refer to the Lens 2, Upper West, and Copper Stringer Zones, respectively. 
+
+ 
+
+ 
+
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 25-2
+
+COMINCO LTD./Technical Research 
+Mineral Treatment Research 
+ 
+
+INTERIM PROGRESS REPORT NO. 90PR29 
+ 
+
+Hanson Lake Project - Metallurgical Studies 'A' Zone 
+Sample 
+
+ 
+ 
+INTRODUCTION 
+Cominco Engineering Services Ltd. has been contracted by CAMECO's Mine 
+
+Development Division to provide consulting metallurgical services on the Hanson Lake 
+project, located in north-eastern Saskatchewan. 
+
+ 
+The test work reported herein includes the following: 
+ 
+
+• Flotation test work to define grades, recoveries, flotation residence 
+times and reagent requirements for the production of separate zinc and 
+copper concentrates from the 'A' zone of the deposit. 
+
+• Minor element analysis of zinc and copper concentrates produced from 
+the 'A' zone of the Hanson Lake deposit. 
+
+• Preliminary flotation test work on samples provided by CAMECO 
+from the 'B' and 'c' zones of the deposit. 
+
+• Preliminary filtration test data on zinc concentrate. 
+• Percolation test data on flotation tailings produced using various 
+
+procedures for partial desliming. 
+• Settling test data on tailings, slime and talc tailing products. 
+• Tailings pond simulation data for heavy metal pickup. 
+
+ 
+ 
+ 
+December 10, 1990 
+ 
+MJF/sj 
+ 
+LIMITED DISTRIBUTION: Technical Research: CAS/PJMcI MJF 
+     Patents' Licensing: SRG/TWW RJT(2) 
+     CESL (Vancouver): LPS 
+/ inthanl. mj f 
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 25-3
+
+SUMMARY 
+The Hanson Lake 'A' zone sample contains approximately 12% sphalerite in 65% 
+
+pyrite with a mesh of liberation of about 50 microns (270 mesh). There is also present up 
+to 1% chalcopyrite which must be separated in order to produce a readily saleable zinc 
+concentrate. 
+
+ 
+A zinc concentrate grading approximately 54% Zn at a recovery of around 90% can 
+
+be produced from the 'A' zone by careful, slow flotation. Three stages of zinc cleaning are 
+required. The zinc concentrate is favourably low in magnesia, silica and minor element 
+impurities, with the exception of mercury at 200 ppm. 
+
+ 
+One flotation test was run using Hanson Lake water. There was no significant 
+
+difference between this test and a similar test run using normal Trail water. 
+ 
+The copper impurity cleans up readily to produce a saleable grade copper concentrate 
+
+carrying significant gold and silver values. 
+ 
+The tailings may be treated by single stage cycloning to produce a sand product 
+
+potentially suitable for mine backfilling. The weight recovery to the sand product is 
+approximately 75%. 
+
+ 
+The tailings product remained stable over a four week testing period. It maintains a 
+
+pH of 7.3 to 7.4 with favourably low copper, zinc and iron heavy metals in solution. 
+ 
+Preliminary testing of material from the high-copper 'C' section of the deposit shows 
+
+that a high grade copper concentrate may be produced at good recovery. 
+ 
+Preliminary testing of material from the mixed copper-zinc 'B' zone of the deposit 
+
+shows significant cross-contamination between copper and zinc. It is concluded that a 
+significant metallurgical testing program will be required to develop an optimum 
+metallurgy for this material. 
+
+ 
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 25-4
+
+DETAILS 
+1. Test Samples 
+The following Hanson Lake project samples were received from CAMECO on July 
+
+30, 1990: 
+ 
+ 
+
+ Wt. kg Cu Pb Zn Fe 
+
+"A" Zone 220 0.28 0.5 6.3 28.2 
+"B" Zone 62 2.6 0.37 2.7 17.9 
+"C" Zone 57 2.3 0.03 0.37 9.0 
+
+ 
+The as-received sample was delivered as -0.5 cm crushed reject material. It was stage 
+
+crushed to pass 7 mesh using a Denver 6" rolls crusher. The -7 mesh individual samples 
+were blended by riffling, split into 2 kg test samples and stored in sealed, polyethylene 
+buckets until required for testing. 
+
+ 
+ 
+2. Expected Metallurgy 
+Two locked cycle tests were completed on the' A' zone sample. Neither test 
+
+duplicated the desired metallurgy. The first test left the zinc scavenger circuit open 
+circuited. The second test gave relatively poor zinc-iron selectivity due the use of higher 
+reagent levels in an attempt to achieve faster flotation kinetics. 
+
+ 
+The expected range of concentrate grades and recoveries is shown in the following 
+
+two tables with open and closed zinc scavenger cleaner tailings, respectively. The 
+flotation circuit used in the first locked cycle test is shown in Figure 1 (Appendix B). 
+
+ 
+TABLE 1 
+
+  Assays Distribution 
+Product wt.% Cu Zn Fe Cu Zn Fe 
+        
+Talc Con 2.34 0.18 3.69 12.8 1.46 1.17 0.96
+Copper Con 0.1 20.8 4.52 25.4 7.22 0.06 0.08
+Zinc Con 12.1 1.9 53.5 10 80.05 87.81 3.89
+Tails 85.4 0.04 0.95 34.8 11. 27 10.97 95.07
+Calc'd Feed 100 0.29 7.39 31.2    
+ 
+Zinc 3rd cleaner concentrate and zinc scavenger concentrates are combined. 
+
+Scavenger cleaner tailings go to final tailings. 
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 25-5
+
+TABLE 2 
+
+  Assays Distribution 
+
+Product wt.% Cu Zn Fe Cu Zn Fe 
+        
+Feed 100 0.29 7.3 31.2    
+Talc Prefloat 1. 75 0.2 2.22 13.7 1. 24 0.53 0.77
+Copper Con 0.25 25.6 4.87 3.52 22.74 0.17 0.03
+Zinc Con 12.6 1. 63 54.5 7.77 72.98 94.15 3.16
+Tails 85.4 0.01 0.44 34.8 3.03 5.15 96.03
+     100 100 100 
+ 
+By simulation, the following changes were made: 
+1. Zinc scavenger cleaner concentrate recycled to zinc 2nd cleaner feed. 
+2. Zinc scavenger cleaner tailings recycled to zinc rougher feed. 
+ 
+These data show that with careful zinc roughing and cleaning a zinc concentrate 
+
+grading 54% zinc and 1% copper should be produced at a recovery between 89% and 
+94%. The recovery value of 89% assumed by CAMECO in their feasibility estimate is 
+considered to be realistically attainable with careful flotation practice. 
+
+ 
+ 
+3. Flotation Residence Time 
+In order to achieve high zinc/ iron selectivity, a slow zinc rougher-scavenger flotation 
+
+step is required. Residence times used in the bench scale locked cycle test are shown in 
+Table 3. 
+
+ 
+TABLE 3 
+
+ 
+Step Time (min.) 
+
+Aeration 15 
+Talc Prefloat 15 
+Cu Conditioning 2 
+Cu Roughing 15 
+Cu 1st Cleaner 15 
+Cu 2nd Cleaner 12 
+Zinc Roughing 45 
+Zinc Scavenger 15 
+Zinc 1st Cleaner 9 
+Zinc 2nd Cleaner 9 
+Zinc 3rd Cleaner 9 
+Zinc Scav 1st Cleaner 12 
+Zinc Scav 2nd Cleaner 10 
+
+  * Aeration and Talc Prefloat step may be combined 
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 25-6
+
+4. Recycle Rates 
+Recycle rates for each stage of zinc flotation from the first locked cycle test are 
+
+shown in Table 4. It is often found that actual plant cleaner stage recycles are higher than 
+is observed in bench locked cycle testing. For the purposes of detailed mill design, an 
+allowance for up to three times the observed bench test recycles should be made. 
+
+ 
+TABLE 4 
+
+Recycle Rates - Zinc Circuit (From LCT #1) 
+ 
+    Zinc Rougher  108% 
+    Zinc 1st Cleaner 138% 
+    Zinc 2nd Cleaner 122% 
+    Zinc 3rd Cleaner 100% 
+ 
+    Recycle Rate = Stage Feed + Recycles  
+       Stage Feed 
+ 
+ 
+5. Reagent Balance 
+The reagent balance for the Hanson Lake 'A' zone sample is shown in Table 5. 
+ 
+
+TABLE 5 
+Reagent Balance 
+
+ 
+      Rate 
+      kgLt      
+   Na2S2O5  0.15  To grind 
+   Amyl Xanthate 0.17  To each flotation stage 
+   Copper Sulphate 0.5  To each zinc flotation stage 
+   MIBC   0.023  As required 
+   Lime   0.5  To zinc cleaners 
+ 
+ 
+6. Open Circuit Flotation Tests 'A' Zone Sample 
+Thirty-six open flotation tests were carried out on the 'A' zone sample. The purpose of 
+
+these tests was to evaluate alternative reagent schemes for optimization of zinc flotation 
+grade and recovery. One other test (HL001B05) was carried out using water from Hanson 
+Lake. No significant change in metallurgy was observed (Figure 3). A compilation of 
+these tests is included as Appendix A. 
+
+ 
+7. Locked Cycle Testing 'A' Zone Sample 
+ 
+Two locked cycle tests were completed on the 'A' zone sample. 
+ 
+Details of these tests are included as Appendix B. 
+ 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 25-7
+
+8. Concentrate Minor Elements Analysis 
+The final zinc concentrate from locked cycle Test 1 and combined copper concentrates 
+from the two locked cycle tests were assayed according to standard classical and 
+instrumental techniques for payable and deleterious minor elements. The results from 
+these analyses are given in Appendix C. 
+
+ 
+ 
+9. Zinc Concentrate Filtration Testing 
+Pressure filtration testing was completed on zinc concentrate produced from the first 
+
+locked cycle test using a LAROX Model lA pressure filter with a filtration area of 50 
+cm2. A best concentrate moisture of 7% was achieved using an air blow of 7 minutes and 
+a cake dry weight loading of 15 kg/m2. Test details are given in Appendix D. Test results 
+show high variability due to the poor sample handling characteristics of the small filter. 
+
+ 
+Pressure filtration design data would require a sample of several kilograms tested 
+
+using the Larox 0.1 m2 test unit available through Larox or the equivalent unit available 
+through Ingersol Rand, the Canadian representative for the competing Lasta filter. Filtra 
+Systems also provide testing facilities for the Vertipress Filter. 
+
+ 
+ 
+10. Tailinqs Sand Backfill 
+ 
+Flotation tailings from the locked cycle test were classified through one pass of a 1" 
+
+Mozley cyclone operating at 67 kPa. A sands weight recovery of 75% was achieved. The 
+sands gave a percolation rate of 4.5 cm/hr using a 2.5 cm diameter by 30 cm column 
+packed by gravity flow into the column. 
+
+ 
+The slimes were settled without flocculation to give the settling curve shown in 
+
+Figure 5. Slimes weight was 100 g to give a terminal density of 500 g/L. 
+ 
+Details of the cycle backfill separation are given in Appendix E. 
+ 
+ 
+11. Tailings Filtration 
+Testing was also carried out for a paste backfill separation. Tailings were deslimed by 
+
+multiple bucket decantation and the resultant sands filtration characteristics determined 
+by vacuum filter leaf testing. A filtration rate of approximately 300 kg/m2/hr was 
+achieved after desliming using a 30 cfm cloth. Details are given in Appendix F. 
+
+ 
+ 
+12. Tailings Stability Testing 
+ 
+Tailings produced from flotation test HL001B32 was used for a tailings pond 
+
+simulation. After completion of the test and sampling the tailings for moisture and 
+analysis, the tailings filter cake was repulped in the rougher tailings filtrate and allowed 
+to stand. The results of pH, zinc, copper and iron are shown in Figure 8 (Appendix G). 
+These results are favourable. 
+
+
+
+  www.rpacan.com 
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 25-8
+
+13. Preliminary Flotation Testing - Hanson Lake Zone 'B' Sample 
+ 
+Two flotation tests have been completed on the Hanson Lake 'B' zone sample. These 
+
+show recovery of 73% of the copper to the copper concentrate together with 14% of the 
+zinc. Overall recovery of the zinc was poor with 27% of the zinc in the tailings. These 
+results are included as Appendix H. 
+
+ 
+These tests suggest that obtaining saleable concentrates at good recoveries from the B 
+
+zone material will be a challenge and should not be taken as given in the project financial 
+plan. 
+
+ 
+ 
+14. Preliminary Flotation Testinq - Hanson Lake Zone 'C' Sample 
+ 
+Three flotation tests have been completed on the Hanson Lake 'C' zone sample. These 
+
+show good copper recovery (95%) to the copper concentrate with only minor 
+contaminating zinc. Good copper metallurgy should be expected with this material, based 
+on the limited amount of test work to date. These results are included as Appendix I. 
+
+ 
+ 
+15. Calculated Metallurgical Balance - project Phase II 
+ 
+As estimated metallurgical balance was prepared based on the treatment of equal 
+
+proportions of zone A and zone C feed. A simple linear combination model was assumed 
+based on the absence of alteration observed in the samples provided by CAMECO. The 
+results of this balance are included as Appendix J. 
+
+ 
+ 
+ 
+Signed 
+ 
+ 
+M.J. Fairweather 
+Group Leader 
+Mineral Treatment Research 
+ 
+
+
+'

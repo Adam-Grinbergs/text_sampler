@@ -1,0 +1,4165 @@
+b"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technical Report on the Namibplaas Deposit, Namibia – September 2011
+
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+J_1272 
+
+Principal Author: 
+
+Michael Andrew BSc (Geology), MAusIMM 
+
+Contributor: 
+
+Dr Roger Laine (Forsys Metals Corp) PhD, P.Geo 
+
+Principal Reviewer: 
+
+Ian Glacken FAusIMM (CP), CEng 
+
+ 
+
+October 2011 
+
+Forsys Metals Corp 
+Technical Report on the Namibplaas Deposit, Namibia – September 2011 
+
+
+
+ 
+
+Technical Report on the Namibplaas Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | ii 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Doc Ref: 
+
+111024_Optiro_forsys_43-101 
+
+Print Date:   17 October 2011 
+
+ 
+
+Number of copies: 2 
+
+Optiro:   1 
+
+Forsys Metals Corp:   1 
+
+Perth Office 
+
+Level 4, 50 Colin Street 
+
+West Perth   WA  6005 
+
+ 
+
+PO Box 1646 
+
+West Perth   WA   6872 
+
+Australia 
+
+ 
+
+Tel: +61 8 9215 0000 
+
+Fax: +61 8 9215 0011 
+
+ 
+
+Optiro Pty Limited 
+
+ABN: 63 131 922 739 
+
+www.optiro.com 
+
+Principal 
+
+Author: 
+
+Michael Andrew 
+
+BSc (Geology), 
+
+MAusIMM 
+
+ 
+
+Signature: 
+
+ 
+
+  Date: 17 October 2011 
+
+Contributors: Dr Roger Laine (Forsys Metals Corp.) Ph.D., P.Geo 
+
+Principal 
+
+Reviewer: 
+
+Ian Glacken 
+
+FAusIMM (CP), 
+
+CEng 
+
+ 
+
+Signature: 
+
+ 
+
+  Date: 17 October 2011 
+
+Important Information: 
+
+This Report is provided in accordance with the proposal by Optiro Pty Ltd ("Optiro") to Forsys Metals Corp and the terms 
+
+of Optiro's Consulting Services Agreement ("the Agreement").  Optiro has consented to the use and publication of this 
+
+Report by Forsys Metals Corp for the purposes set out in Optiro's proposal and in accordance with the Agreement.  Forsys 
+
+Metals Corp may reproduce copies of this entire Report only for those purposes but may not and must not allow any 
+
+other person to publish, copy or reproduce this Report in whole or in part without Optiro's prior written consent.  
+
+Unless Optiro has provided its written consent to the publication of this Report by Forsys Metals Corp for the purposes of 
+
+a transaction, disclosure document or a product disclosure statement issued by Forsys Metals Corp pursuant to the 
+
+Corporations Act, then Optiro accepts no responsibility to any other person for the whole or any part of this Report and 
+
+accepts no liability for any damage, however caused, arising out of the reliance on or use of this Report by any person 
+
+other than Forsys Metals Corp.  While Optiro has used its reasonable endeavours to verify the accuracy and completeness 
+
+of information provided to it by Forsys Metals Corp and on which it has relied in compiling the Report, it cannot provide 
+
+any warranty as to the accuracy or completeness of such information to any person.  
+
+  
+
+http://www.optiro.com/
+
+
+ 
+
+Technical Report on the Namibplaas Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | iii 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Technical Report – Namibplaas Deposit, Namibia 
+ 
+
+Resource estimate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Prepared for 
+ 
+ 
+
+Forsys Metals Corp. 
+ 
+ 
+ 
+ 
+ 
+
+Authors 
+
+Michael Andrew Principal Consultant, Optiro Pty Ltd BSc (Geology), Grad. Dip. Geostats, 
+
+MAusIMM 
+
+Ian Glacken Principal Consultant, Optiro Pty Ltd BSc Hons (Geology), MSc (Mining Geology), 
+MSc (Geostatistics), Grad. Dip. Comp, DIC, 
+
+FAusIMM (CP), CEng, MIMMM 
+
+Dr Roger Laine Chief Geologist, Forsys Metals Corp. Ph.D., P.Geo 
+
+ 
+ 
+ 
+
+Date of report:   October 2011 
+  
+
+
+
+ 
+
+Technical Report on the Namibplaas Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | iv 
+ 
+
+ 
+
+TABLE OF CONTENTS 
+
+ 
+
+1. SUMMARY.................................................................................................. 7 
+
+2. INTRODUCTION .......................................................................................... 9 
+
+3. RELIANCE ON OTHER EXPERTS .................................................................. 10 
+
+4. PROPERTY DESCRIPTION AND LOCATION .................................................. 11 
+
+5. ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE 
+
+AND PHYSIOGRAPHY ................................................................................ 12 
+
+6. HISTORY ................................................................................................... 14 
+
+7. GEOLOGICAL SETTING ............................................................................... 15 
+
+8. DEPOSIT TYPE ........................................................................................... 24 
+
+9. MINERALISATION ..................................................................................... 25 
+
+10. EXPLORATION .......................................................................................... 26 
+
+11. DRILLING .................................................................................................. 28 
+
+12. SAMPLING METHOD AND APPROACH ....................................................... 30 
+
+13. SAMPLE PREPARATION, ANALYSES AND SECURITY .................................... 32 
+
+14. DATA VERIFICATION ................................................................................. 33 
+
+15. ADJACENT PROPERTIES ............................................................................. 35 
+15.1. VALENCIA URANIUM DEPOSIT ............................................................................................ 35 
+
+15.1.1. GEOLOGY .................................................................................................................................. 35 
+
+15.1.2. RESOURCES AND RESERVES ...................................................................................................... 35 
+
+15.2. RÖSSING URANIUM MINE ................................................................................................... 36 
+
+15.2.1. GEOLOGY .................................................................................................................................. 36 
+
+
+
+ 
+
+Technical Report on the Namibplaas Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | v 
+ 
+
+15.2.2. OPERATIONAL INFORMATION .................................................................................................. 36 
+
+16. MINERAL PROCESSING AND METALLURGICAL TESTING ............................. 37 
+
+17. MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES ......................... 38 
+17.1. SUMMARY .......................................................................................................................... 38 
+
+17.1.1. MINERAL RESOURCE ESTIMATE ............................................................................................... 38 
+
+17.1.2. MINERAL RESERVE ESTIMATE ................................................................................................... 38 
+
+17.2. DISCLOSURE ........................................................................................................................ 38 
+
+17.2.1. KNOWN ISSUES THAT MATERIALLY AFFECT MINERAL RESOURCES ......................................... 38 
+
+17.3. ASSUMPTIONS, METHODS AND PARAMETERS – OPTIRO RESOURCE ESTIMATE ................. 38 
+
+18. OTHER RELEVANT DATA AND INFORMATION ............................................ 48 
+
+19. INTERPRETATION AND CONCLUSIONS ....................................................... 49 
+19.1. MINERAL RESOURCE ESTIMATE .......................................................................................... 49 
+
+20. RECOMMENDATIONS ............................................................................... 50 
+20.1. GEOLOGY AND RESOURCE ESTIMATION ............................................................................. 50 
+
+21. REFERENCES ............................................................................................. 51 
+
+22. CERTIFICATES ........................................................................................... 52 
+
+ 
+
+TABLES 
+
+Table 1.1 Summary of Namibplaas Uranium Inferred Mineral Resource, September 2011...................... 8 
+
+Table 4.1 Boundary coordinates EPL 3638 ............................................................................................... 11 
+
+Table 7.1 Stratigraphic column of the Southern Central Zone of Damaran Sequence (after 
+
+Jacob et al., 1986) modified to make room for Valencia Uranium observations ...................... 19 
+
+Table 7.2  Characteristic features of the sheeted leucogranites as described by Nex and 
+
+Kinnaird (1995) are ................................................................................................................... 22 
+
+Table 14.1 Drill core inspected, July 2011 .................................................................................................. 33 
+
+Table 14.2 Optiro resample material ......................................................................................................... 34 
+
+Table 15.1 Summary of Valencia Uranium Deposit Mineral Resources, estimated at the 
+
+anticipated SMU scale as at November 2009 ........................................................................... 35 
+
+Table 15.2 Summary of Valencia Uranium Deposit Reserves, with cut-off grades of 67 ppm and 
+
+100 ppm as at November 2009 ................................................................................................ 35 
+
+Table 17.1 Summary of Namibplaas Uranium Inferred Mineral Resource, September 2011.................... 38 
+
+Table 17.2 Variogram parameters used in categorical modelling of GRT .................................................. 40 
+
+Table 17.3 Model extents .......................................................................................................................... 41 
+
+Table 17.4 Variogram parameters used in modelling of assay data .......................................................... 45 
+
+Table 17.5 Summary of Namibplaas Uranium Inferred Mineral Resource, September 2011.................... 47 
+
+
+
+ 
+
+Technical Report on the Namibplaas Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | vi 
+ 
+
+ 
+
+FIGURES 
+
+Figure 4.1 Location of the perimeter of EPL 3638 and its relation to the Valencia deposit 
+
+(sourced from Colin Christian & Associates) ............................................................................ 11 
+
+Figure 5.1 Location of Namibplaas project within Namibia ...................................................................... 12 
+
+Figure 7.1 The Damara Orogen between the Congo and Kalahari Cratons modified from Miller 
+
+and Hoffman (1981) by Oliver (1994)...................................................................................... 15 
+
+Figure 7.2 Damara Orogen showing different zones of the NE trending branch and locations of 
+
+uranium anomalous areas (after Miller, 1983a). ....................................................................... 16 
+
+Figure 7.3 Southern Central Zone of the Damara Orogeny showing the locations of primary U 
+occurrence at Rössing, Valencia, Ida Dome, Hildenhof Goanikontes and Namibplaas 
+
+and a secondary deposit at Langer Heinrich. ............................................................................ 17 
+
+Figure 7.4 Namibplaas, ground scintillometer survey over the NGS airborne uranium anomalies ........... 18 
+
+Figure 7.5 Geology of Namibplaas Area B (Laine et al, 2011) ................................................................. 20 
+
+Figure 11.1 Drillhole location plan .............................................................................................................. 28 
+
+Figure 14.1 Optiro reading adjacent to drillhole NAPD-077 ....................................................................... 33 
+
+Figure 14.2 Optiro reading drillhole NA24-011 ~ 56m downhole depth ..................................................... 34 
+
+Figure 17.1 GRT lithological modelled variograms ...................................................................................... 40 
+
+Figure 17.2 Plan view of 3d block model coloured by NLITH ...................................................................... 41 
+
+Figure 17.3 Plan view of block model coloured by NLITH at RL 700 ........................................................... 42 
+
+Figure 17.4 Correlation between probe data and assayed U3O8................................................................. 43 
+
+Figure 17.5 Log histogram of U3O8 data ...................................................................................................... 43 
+
+Figure 17.6 Normal scores modelled variogram for 1.5 m composite assay data ...................................... 44 
+
+Figure 17.7 Trend validation plot – U3O8 grades – by Easting, Northing and RL........................................ 46 
+
+ 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 7 
+ 
+
+1. SUMMARY 
+
+This Technical Report describes the Namibplaas uranium project, a mineral exploration and 
+development project located in the Republic of Namibia (Namibia).  Optiro Pty Ltd (Optiro) was 
+engaged by Valencia Uranium Pty Ltd (VUL) to complete a resource estimate in 2011.  On 15 
+September 2011, Forsys Metals Corp (Forsys) disclosed the update of the resource estimate, thus 
+triggering this Technical Report which has been prepared in compliance with the requirements of 
+Form F1 of National Instrument (NI) 43-101.  As part of this study an updated Mineral Resource 
+estimate has been completed which has been reported in compliance with the Canadian Institute of 
+Mining, Metallurgy and Petroleum (CIM) Mineral Resource and Mineral Reserve standard definitions 
+(CIM, 2005) that are referred to in NI43-101, Standards of Disclosure for Mineral Projects.  
+ 
+Dunefield Mining Company Pty Limited (Dunefield), a subsidiary company (70%) of Forsys Metals 
+Corporation (Forsys) and Gold Enterprises Limited (30%), was awarded an exclusive prospecting 
+license (EPL) 3638 for nuclear fuel over a portion of the farm Namibplaas 93, which is located 
+approximately 75 km south-west of the town of Usakos in central-west Namibia.  EPL3638 covers a 
+total surface area of 1,742ha.  VUL, of which Forsys holds 100%, is the operator for Dunefield. 
+ 
+Uranium mineralisation occurs within leucocratic alkali granites (alaskites) that were emplaced 
+within the metasedimentary rocks of the Damara Supergroup in the closure of an antiformal 
+structure that plunges 45° to the south.  The Namibplaas uranium project was explored by the 
+Trekkopje Exploration and Mining Company Pty Ltd between the late 1970s and early 1980s.  
+Trekkopje drilled 1665.9 m of diamond core drilling (DDH) during this time.  
+ 
+In 2010 a major drill programme was started which is still ongoing.  To date 33 Diamond drill (DD) 
+holes have been completed for 8,527.3 m.  Subsequently 1663 samples were cut and sent for 
+uranium (U) and thorium (Th) analysis; the aim was to establish a correlation between radiometric 
+(downhole probe) readings and chemical assays.  In the end 566 samples from leucogranites were 
+used and about 73 mineralized intervals were used to derive this correlation.  VUL started drilling PD 
+holes in, In 2008 percussion drilling was started (2008, 9 holes for 2,074m and 2009, 8 holes for 
+1,632m) and to the end of July 2011, Dunefield had drilled 288 percussion (PD) holes for 63,093.7 m; 
+most holes are inclined at 60 degrees and oriented perpendicular to the stratigraphy of Nosib and 
+Swakop Groups of metasediments, that is, N45E. 
+ 
+Optiro's Qualified Person visited the project area between 24 July and26 July 2011.  The Namibplaas 
+project contains an alaskite hosted uranium deposit similar to the Valencia deposit, located 7 km to 
+the southwest.  The main zone of mineralisation is approximately 700 m wide, 2000 m long and 200 
+m thick and occurs from surface down to a depth of 380 m.  This resource estimate was generated 
+by ordinary kriging methods using a mixture of 1.5m DD assays together with composited data 
+derived from downhole geophysical probing of PD drillholes.  A bulk density value of 2.63 t/m
+
+3
+was 
+
+applied for the tonnage estimation.  No variation of bulk density by rock type has been applied in 
+this phase of work.  In the next phase of work it is recommended that wireframe solids for the 
+individual rock types be refined and additional bulk density determinations be completed with an 
+improved spatial analysis, so that appropriate density values can be assigned by rock type. 
+ 
+The Mineral Resource estimate is presented in Table 1.1 at a range of cut-off grades.  The resource 
+was classified as Inferred, in accordance with the guidelines of the CIM Standards. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 8 
+ 
+
+Table 1.1 Summary of Namibplaas Uranium Inferred Mineral Resource, September 2011 
+
+Cut-off Grade Tonnes Grade U3O8 
+
+ppm Mt ppm Mlbs 
+
+80 169 110 41 
+
+100 88 130 25 
+
+120 43 152 14 
+
+ 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 9 
+ 
+
+2. INTRODUCTION 
+
+This Technical Report has been prepared by Optiro for VUL a Namibian company, which is a 100% 
+owned subsidiary of Forsys Metals Corp, a Canadian mineral exploration company listed on the 
+Toronto Stock Exchange, in compliance with the disclosure requirements of the Canadian National 
+Instrument 43-101 (NI43-101).  The Namibplaas property, located in Namibia, is a project operated 
+by VUL.  The Qualified Person for this Technical Report is Mr. Michael Andrew.  Mr. Andrew is an 
+employee of Optiro and undertook a site inspection between 24 and 26 July 2011. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 10 
+ 
+
+3. RELIANCE ON OTHER EXPERTS 
+
+There has been no reliance on experts who are not Qualified Persons in the preparation of this report. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 11 
+ 
+
+4. PROPERTY DESCRIPTION AND LOCATION 
+
+Dunefield Mining Company (Pty) Limited, a subsidiary company (70%) of Forsys Metals Corporation 
+(FSY) and Gold Enterprises Limited (30%), was awarded an exclusive prospecting license (EPL) 3638 
+for nuclear fuel over a portion of the farm Namibplass 93, which is located approximately 75 km 
+south-west of the town of Usakos in central-west Namibia. 
+ 
+Valencia Uranium (Pty) Limited (VUL), of which FSY holds 100%, is the operator for Dunefield.  The 
+EPL covers 1740 Ha.  The boundaries of the EPL are detailed in Table 4.1 in  longtitude and latitude , 
+and the location is shown in Figure 4.1.  The EPL was first granted in November 2006.  The first 
+renewal was granted in 2007 and expired in 2009.  The third renewal was presented in July 2009 and 
+approved.  The Renewal Application was handed in on August 5, 2011, requesting another period of 
+2 years. 
+ 
+An access agreement was signed in April 2008 with the farm owner, Eric Meyer, and an 
+Environmental Management Plan (EMP) was conducted in October 2008 by Colin Christian & 
+Associates (CC) and approved by the Ministry of Environment and Tourism (MET) on 11  December 
+2008. 
+
+Table 4.1 Boundary coordinates EPL 3638 
+
+Point Longitude Latitude Point Longitude Latitude 
+
+1 15.24122697 -22.30105521 3 15.30613676 -22.29588070 
+
+2 15.29048586 -22.26535988 4 15.30077411 -22.31163411 
+
+Figure 4.1 Location of the perimeter of EPL 3638 and its relation to the Valencia deposit (sourced from Colin Christian & 
+Associates)
+
+ 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 12 
+ 
+
+5. ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, 
+
+INFRASTRUCTURE AND PHYSIOGRAPHY 
+
+The Namibplaas project area is accessed from Windhoek, the capital of Namibia, via a sealed 
+highway for approximately 160 km to the town of Usakos (Figure 5.1).  Access is through a gravel 
+road, constructed by VUL from the B2 Highway which links Swakopmund, on the coast, to 
+Okahandja, where it joins the B1 highway which goes to Windhoek. The new road turn-off is located 
+69 Km of Swakopmund heading east. The gravel road is 28 km to the Valencia camp.  The town of 
+Usakos may also be accessed from the port of Walvis Bay, the only deep water harbour in Namibia, 
+via the town of Swakopmund by 176 km of sealed highway.  .  
+
+Figure 5.1 Location of Namibplaas project within Namibia 
+
+ 
+
+Windhoek and Walvis Bay have international airports with daily flights to many other African and 
+European destinations.  Windhoek and Walvis Bay are also linked by rail.  The climate of the project 
+area and region is desert, with annual rainfall of between 14 mm and 150 mm, ocurring mostly in 
+late summer, the period February through to March (Labuschagne, 1979).  Rainfall of short duration 
+and high intensity may occur.  Vegetation is sparse, with stunted grasses and small trees.  The 
+
+Namibplass 
+
+Namibplass Project 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 13 
+ 
+
+topography is fairly rugged with an average elevation of 725 m above mean sea level with 
+approximately a 40 m elevation range around the deposit.  Temperatures recorded in the area range 
+between 4°C and 40°C (Berning, 1986).  The operating season is 12 months of the year.  Water is 
+mainly found only as sub-flow beneath the streambeds of the larger streams, e.g. the Khan River 4.5 
+km to the north.  In some cases, dissolved salts render the water non-potable.  Potable water was 
+obtained from a borehole at the Valencia farmhouse, which is situated 11.5 km to the south-east 
+(Labuschagne, 1979).  VUL drilled and obtains water from four boreholes, one now equipped with a 
+windmill.  Potable water for human consumption is sourced from a borehole and treated by reverse 
+osmosis, which is 1.2 km south-west of the VU camp.  The nearest regional power line is 20 km to 
+the north and no electrical power is available within the project area. VUL has two diesel generators 
+on site providing power to the camp. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 14 
+ 
+
+6. HISTORY 
+
+This section summarises the ownership history of the Namibplaas project based on the available 
+information.  Any missing periods in the ownership history are not considered by Optiro to be of 
+material significance to the current ownership situation.  No information regarding ownership of 
+prospecting licences for the Namibplaas project area prior to 1972 was available for review by 
+Optiro.   
+ 
+Gold Fields of South Africa Limited (GFSA) was granted the Prospecting Grant M46/3/499 in October 
+1972. This grant covered portions of the farms Vergernoeg 92 (19852 ha), Namifontein 91 (292 ha), 
+Namibplaas 93 (660 ha), Valencia 122 (2085 ha) and Trekkopje 120 (5150 ha).  In total 28039 ha was 
+included in the prospecting grant.  The grant was valid for a period of two years, and could be 
+renewed if application was made three months prior to its expiry.  In June 1973 GFSA ceded the 
+grant to Trekkopje Exploration and Mining Company (Pty) Ltd (Trekkopje Exploration), a wholly 
+owned subsidiary of Gold Fields Mining and Development Ltd.  Optiro understands that Trekkopje 
+Exploration maintained the grant and renewed it every two years, as the last available information 
+regarding the Prospecting Grant M46/3/499 is a report by Trekkopje Exploration in support of a 
+renewal application dated 20 July 1982 (Bertram, 1982B). 
+ 
+GFSA drilled 7 diamond drill holes on the property in the late 1970s and early 1980s, NA24-001 to 
+NA24-007, for a total of 1665.9 metres. 
+ 
+Optiro understands that the drilling completed by GSFA was the last phase of exploration 
+undertaken at Namibplaas until VUL commenced drilling in 2008.  No historic estimates of the 
+Namibplaas deposit have been undertaken. 
+ 
+ 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 15 
+ 
+
+7. GEOLOGICAL SETTING 
+
+The following section has been contributed by Dr Roger Laine and Emanuel Shilongo (2011) of VUL. 
+
+7.1. INTRODUCTION 
+
+The Namibplaas uranium deposit is a typical primary uranium deposit associated with leucogranite 
+sheets common in the Damaran belt of Namibia.  It is only 7 Km NE of the Valencia deposit which 
+was discovered in the 1970's by Trekkopje Exploration and Mining Company (GFSA), and more 
+recently drilled extensively by VUL, a subsidiary of Forsys. 
+ 
+The Damara Orogeny is a Neoproterozoic Pan- African mobile belt that forms part of the thermal 
+and tectono-thermal orogenic belts that surround and dissects Africa (Figure 7.1).  This orogenic belt 
+lies between the Kalahari and the Congo Cratons, and consists of two branches, the 150 km wide 
+north-trending coastal Kaoko belt, and the 400 km-wide northeast trending intra-continental branch 
+(Miller, 1983a).  Martin (1965) and Porada (1979) suggested that the north-trending coastal Kaoko 
+belt might be connected offshore with the Gariep and the Malmesbury fold belts, while the 
+northeast trending branch may be connected beneath the younger cover of the Kalahari with the 
+Zambezi and Mozambique belts. 
+
+Figure 7.1 The Damara Orogen between the Congo and Kalahari Cratons modified from Miller and Hoffman (1981) by Oliver 
+(1994) 
+
+ 
+
+The Damara Orogenic belt has undergone several evolutional phases, beginning with intra-
+continental rifting, plate divergence, plate convergence and finally continental collision (Miller, 
+1983a).  The Damaran sequence records a succession of shallow marine clastics and volcanic rocks, 
+pelitic sediments, deep marine sediments in the Matchless amphibolite belt (Miller, 1983a) as well 
+as turbiditic successions in the Ugab and Khomas Formations, indicating a subsidising basin 
+environment (Porada and Witting, 1983). 
+ 
+
+The NE trending branch of the Damara Orogen has been divided into a number of zones (Figure 7.2) 
+based on stratigraphy, structure, grade of metamorphism, geochronology, and aeromagnetic 
+expression (Miller, 1983a).  According to Miller (1983a), the boundaries between these zones may 
+be linear features like faults, thrusts or stratigraphic contacts.  The zones from north to the south are 
+the Northern Zone (NZ), the Central Zone (CZ), the Okahandja Lineament Zone (OLZ), the Southern 
+Zone (SZ) and the Southern Margin Zone (SMZ) (Miller, 1983a). 
+ 
+The Central Zone rocks have been metamorphosed during several periods.  An early period of 
+metamorphism, dated at 665 +/- 34 Ma, predated widespread granite intrusion, produced 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 16 
+ 
+
+migmatites, and accompanied the early periods of deformation (D1and D2).  A second period of 
+metamorphism accompanied a third phase of deformation (D3), and was, in turn, followed by 
+intrusion of various granitic rocks at approximately 550 Ma to 505 Ma (Alan et al., 2007).  A late- to 
+post-tectonic thermal event accompanied the D4 deformation, at approximately 470 Ma, as 
+indicated by Rb-Sr dating of both Khan Formation gneisses and Rössing formation granites.  
+
+Figure 7.2 Damara Orogen showing different zones of the NE trending branch and locations of uranium anomalous areas (after 
+Miller, 1983a) 
+
+ 
+
+Uraniferous granites were emplaced after the D3 event.  These granites are orientated north-
+northeast and are linked to the magnetic Welwitchia lineament as shown in Figure 7.3 (Roesener 
+and Schreuder, 1992). 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 17 
+ 
+
+Figure 7.3 Southern Central Zone of the Damara Orogeny showing the locations of primary U occurrence at Rössing, Valencia, Ida 
+Dome, Hildenhof Goanikontes and Namibplaas and a secondary deposit at Langer Heinrich 
+
+ 
+
+7.2. PRIMARY URANIUM OCCURRENCES IN THE CENTRAL ZONE 
+
+Primary uranium mineralization has been reported in the Rössing, Valencia, Hildenhof and Ida Dome 
+areas; these areas are situated in the high temperature low-pressure South Central Zone of the 
+Damara Orogen (Figure 7.2).  These deposits host uranium mineralization in the sheeted 
+leucogranites which are associated with dome and basin structures of the Central Zone, as well as 
+the Welwitchia lineament (Corner, 1983).  Radiometric dating of the Central Zone uraniferous 
+granites recorded the emplacement to be ~500Ma (Toes and Corner, 1980). 
+ 
+Damaran sheeted leucogranites (SLGs) occurring within the Central Zone of the Damara Orogenic 
+belt were emplaced pre to post-D3 during the evolution.  There are six types of the Damaran 
+sheeted leucogranites (A-F) based on the classification scheme by Nex and Kinnaird (1995) and Nex 
+et al., (2001a) (Table 1).  A-C are early pre-D3 and D-F are post-D3. 
+
+7.3. NAMIBPLAAS GEOLOGY AND EXPLORATION 
+
+At Namibplaas, previous airborne surveys by the Geological Survey of Namibia had outlined two 
+radiometric anomalies which are named A (westernmost) and B (Central) (Figure 7.4).  The A 
+anomaly is characterized by its high thorium and uranium component, while the B anomaly is high 
+uranium-low thorium.  The Namibplaas deposit is located in area B. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 18 
+ 
+
+Figure 7.4 Namibplaas ground scintillometer survey over the NGS airborne uranium anomalies 
+
+ 
+
+The Valencia and Namibplaas regional setting is part of a major synclinorium, underlain by the 
+Karibib marbles located just west of the Khan River and east of Valencia, west of the Khanberg, 
+called the Kuiseb syncline which can be followed as far south as Rössing South (Spivey et al, 2010). 
+This synclinorium is roughly 9 Km wide and is trending NE-SW, according to Map sheet 2214 
+(Geology of the Walvis Bay area by Schreiber, 1996).  The syncline is almost parallel to the Khan 
+River, which runs northeast.  The Valencia and Namibplaas deposits lie adjacent to the tightly folded 
+Abbabis inlier (Joly zone at Valencia, area A of Namibplaas).  In both areas, the Damaran sequence is 
+the most complete: Damaran stratigraphy comprises substantially attenuated representatives of 
+Etusis, Khan, Rössing, Chuos, Karibib and Kuiseb Formations (Freemantle, 2011) (Table 7.1).  
+ 
+Going northeast, the Rössing Formation thins out and sometimes disappears or is represented only 
+by quartzites and schists.  The area is also characterized by an antiformal structure that can be 
+followed from Valencia all the way to the north of the Namibplaas radiometric anomaly.  The 
+antiform appears be tilted in the northern half of Namibplaas (area B), dipping NE at 30-55 degrees, 
+and the closure of the antiform appears clearly with Karibib and Kuiseb formations wrapping around 
+the axis of the antiform.  The western limb of the antiform is slightly overturned and lies just east of 
+Area A (Figure 7.4); the eastern limb of the anticline lies over Area B.  A major fault separates the 
+Nosib Supergroup formations from the Abbabis complex (Area A).  The core of the antiform is made 
+up of Etusis quartzite and forms the elevated crests. 
+ 
+Large volumes of megacrystic granite (Salem Suite) intrude between the basement lithologies and 
+the western limb of the antiform (Joly, and West Namibplaas), composed of the Khan and Rössing 
+Formations. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 19 
+ 
+
+Table 7.1 Stratigraphic column of the Southern Central Zone of Damaran Sequence (after Jacob et al., 1986) modified to make 
+room for Valencia Uranium observations 
+
+Group Subgroup Formation 
+
+Max 
+
+thickness Lithology 
+
+Swakop Khomas Kuiseb >3000 Pelitic and semi-pelitic schist and gneiss, migmatite, 
+calc-silicate rock, quartzite. 
+ 
+
+Karibib 1000 Marble, calc-silicate rock, pelitic and semi-pelitic schist 
+and gneisses. 
+
+Chuos 700 Diamictite, clac-silicate rock, pebbly schists, quartzite, 
+ferruginous quartzite, migmatite 
+
+Discordance                                      SLG Intrusion 
+
+Ugab Rössing 200 Marble, pelitic schist and gneiss, biotite-hornblende 
+schist, migmatite, calc-silicate rock, quartzite, meta-
+conglomerate. 
+
+Discordance                                      SLG Intrusion 
+
+Nosib   Khan 1100 Migmatite, banded and mottled quartzofeldspathic-
+clinopyroxene-amphibolite gneiss, quartzite, meta-
+conglomerate. 
+
+Etusis 3000 Quartzite, meta-arkose & -conglomerate, pelitic and 
+semi-pelitic schist and gneiss, calc-silicate rock, meta-
+rhyolite. 
+
+Major Unconformity 
+
+Abbabis Complex Gneissic granite, augen gneiss, pelitic schist and gneiss, 
+migmatite, quartzite, marble, calc-silicate rock, 
+amphibolite. 
+
+7.4. DETAILED NAMIBPLAAS STRATIGRAPHY (SHILONGO, 2011):  
+
+The lowermost Damaran unit present at Namibplaas is the Etusis formation.  The Quartzites occur to 
+the Northwest of the Namibplaas uranium anomaly.  The Etusis, Khan, Rössing, Chuos, Karibib and 
+Kuiseb formations are present throughout.  The Khan and the Kuiseb formations border the anomaly 
+along the general SW- NE strike of the country rocks, the Khan forms the surface geological limit on 
+the North Western part of the radiometric anomaly and the Kuiseb on the South Eastern part.  The 
+Rössing, Chuos and Karibib formations occur as elevated, sporadic, discontinuous outcrops along 
+strike within the anomaly.  Numerous leucogranite sheets intrude the whole metamorphic series; 
+see Figure 7.5. 
+  
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 20 
+ 
+
+Figure 7.5 Geology of Namibplaas Area B (Laine et al, 2011) 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 21 
+ 
+
+The Etusis Formation is about 150m thick and is represented by magnetite and diopside-bearing 
+quartzites.  These quartzites have a highly recrystallized texture and are well bedded, with magnetite 
+layers along foresets in the cross-bedding.  The quartzites are dark grey, fine- to medium-grained, 
+massive with white patches and contain bands of feldspar and quartz with disseminated green 
+amphibole and black biotite, also disseminated pale yellow pyrite with a meta-conglomeratic 
+texture.  The Etusis represents fluviatile sedimentation. 
+ 
+The Khan formation is finer-grained and represents sedimentation within a basin environment.  The 
+Kahn formation (+/-261m thick) can be subdivided into Ferruginous banded foliated gneiss, a meta-
+arkose, a biotite banded foliated gneiss, and mottled calcsilicate gneiss.  The Khan Gneisses are dark 
+grey to green coloured.  Gneissosity is also observed in a brown to yellow ferruginous schist and in a 
+pink to buff colored meta-arkose with a distinctive sugary texture.  Within the meta-arkose, 
+magnetite layers occur along bedding planes.  In the dark grey to green units and the ferruginous 
+schist magnetite occurs in a disseminated fashion.  The banded ferruginous foliated gneiss is brown 
+to yellow, fine grained, and is banded with alternating layers of Fe-oxides (limonite and goethite).  
+The biotite banded foliated gneiss is dark grey in drill core, fine-grained, thinly foliated and banded 
+with alternating green biotite-diopside and white feldspar-quartz bands (≤1 mm), also thicker (0.5 
+cm wide) feldspar-quartz lenses and veins.  The meta-arkose is pink to buff colored, medium-grained 
+with magnetite layers along bedding planes, and is characterized by a sugary texture.  The 
+calcsilicate gneiss is green, fine grained, compositionally mottled with diopside and biotite, feldspar-
+quartz bands and disseminated magnetite. 
+ 
+The Rössing formation is only 50m thick and is characterized by an impure marble, discontinuous 
+along strike.  This impure marble is associated with a quartzite, porphyroblastic cordierite-biotite 
+schist with varying amounts of cordierite (5-10%), a calcsilicate rock and a meta-conglomerate.  The 
+quartzite is white to grey, weathered to pink, massive and fine grained.  The quartzite is sometimes 
+cut by veins of sulphides.  The cordierite schist is grey, fine-to medium-grained, thinly foliated and is 
+banded with felsic bands of quartz, feldspar, cordierite and foliated black biotite.  The calcsilicate is 
+green and is medium to coarse-grained.  The marble is white, coarse-grained, and crystalline with 
+disseminated spots of green tremolite and black opaques.  Black opaques and tremolite within the 
+Rössing marble mark a significant difference between the Rössing and the Karibib marble packages. 
+Within the formation, there are two marble bands separated by calcsilicate rocks. 
+ 
+Above the Rössing formation lies the Chuos diamictite schists (+-70m thick), which are 
+metamorphosed tillites.  Occasionally interbedded with calcsilicate bands, this unit is characterised 
+by quartzo-feldsparthic dropstones in a grey quartz-mica schistose groundmass and magnetite 
+layers.  The Chuos is unique and cannot be missed.  It shows a strong surface magnetic anomaly.  
+The Chuos comprises grey, fine grained, thinly-foliated and massive schists with black biotite, white 
+feldspar and quartz and red to brown garnet porphyroblasts in the more deformed units with 
+accessory garnet, zircon and tourmaline.  The Chuos is a very useful marker. 
+ 
+The Karibib formation (+-130m thick) comprises three main units; a marble, a calcsilicate rock and a 
+dark grey biotite schist.  The marble is grey, medium to coarse grained and is almost pure marble.  It 
+occurs in several bands - at least seven packages of the marble alternating with calc silicate rock are 
+observed.  The biotite schist is fine-grained, thinly foliated and massive with black biotite, white 
+feldspar and quartz.  Just like the Chuos, the Karibib schist features chunks of garnet in the more 
+deformed zones.  The calcsilicate rock is tan to grey, fine grained, massive and banded and is cut by 
+quartz-calcite veins and calcite-filled fractures.  The Karibib overlays the Chuos diamictite schist and 
+the contact between the two is seen as a barrier underneath which mineralised sheeted 
+leucogranites are observed. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 22 
+ 
+
+ 
+The Kuiseb formation is the uppermost lithostratigraphic unit present at the deposit.  The schistose 
+cordierite augen-gneisses are interbedded with meta-siltstone and calcsilicate bands.  The Kuiseb 
+Formation is a gray weathered to brown, medium to coarse-grained, foliated porphyroblastic 
+cordierite bearing augen gneiss with white bands of feldspar, with cordierite and quartz separated 
+by foliated black biotite.  Cordierite occurs as anhedral and fine-grained (≤0.5 to 1 mm) with one 
+good cleavage; some poikilitic grains are associated with plagioclase in deformed "augen" bands; 
+some grains are partly altered to sericite around grains margins and fractures, and others are 
+completely replaced to sericite pseudomorphs.  Right around the anomaly, the Kuiseb has a 
+thickness of up to 70m.  This is, however, not the true thickness of the Kuiseb, as the formation 
+extends further to the east and south east. 
+
+7.5. URANIUM MINERALIZATION 
+
+At Namibplaas, uranium mineralization occurs within what appears to be the B-type, the C-type and 
+the D-type sheeted leucogranites; the B-type (smoky to black quartz, with accessory garnet and 
+tourmaline) and the C-type (smoky quartz with accessory tourmaline and/or magnetite) features are 
+summarised in Table 7.2.  It is believed that these leucogranites could in fact be variations of D 
+types, contaminated by the host rocks as suggested by Guy Freemantle (2011) in other part of the 
+Damaran Belt, during the anatexis which resulted in their intrusion into the metamorphic series for 
+the Valencia D granites which locally has abundant biotite and sometimes garnets.  Based on 
+geochemistry, Freemantle mentions that many leucogranites have indeed incorporated and digested 
+various amounts of host rock.  The B-type leucogranite, garnet bearing, in the southern part of the 
+EPL, is actually not deformed, and so is most likely to be a "contaminated" D type LGS, as the true B 
+should be deformed by the D3 deformation episode (late Damara Orogen).  Moreover,  the C-type, 
+magnetite or tourmaline bearing leucogranite appears to be massive on the surface at the centre of 
+the Namibplaas radiometric anomaly (Figure 7.4); this is also most likely to be "contaminated" D-
+type LGS. 
+
+Table 7.2  Characteristic features of the sheeted leucogranites as described by Nex and Kinnaird (1995) are 
+
+Type Colour Texture and Mineralogy 
+
+A Pale pink to 
+white 
+
+Irregular to boudinaged, folded by D3, weak S3 foliation at margins, occur in high-strain zones. They 
+are homogeneous, sacharoidal and fine grained. 
+
+B White 
+Often boudinaged, inhomogeneous with a variable grain size from fine- to pegmatitic and form 
+parallel sided tabular intrusions. Typically garnetiferous, infrequent abundant biotite and tourmaline 
+
+C White to pink 
+Occasionally boudinaged, emplaced in F3 flexures. Medium to pegmatitic grain size, hypersolvus with 
+interstitial clear quartz, magnetite, ilmenite and tourmaline 
+
+D White 
+High grey or smoky quartz content, U-enriched and have a medium- to coarse-grain size; granular 
+texture, white feldspar. 
+
+E Variable 
+They are characterized by the presence of ubiquitous ''oxidation haloes'', highly variable grain size 
+and color, may have a wide range in modal mineralogy within one sheet. 
+
+F Red 
+Post-kinematic, have parallel sides and crosscut all preexisting structures. They have coarse-
+pegmatitic grain size. They contain large perthitic K-feldspars up to 30 cm in size, milky quartz, and 
+interstitial biotite. 
+
+ 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 23 
+ 
+
+The A-type intrudes the Kuiseb and the Karibib formations,the B-type intrudes the contact between 
+the Karibib and Chuos formations, the C-type tourmaline leucogranite intrudes the Chuos and the 
+Rössing formations, whereas the C-type magnetite leucogranite, occasionally bearing tourmaline, 
+intrudes the Khan.  This would confirm the influence of the various formations on the leucogranite 
+appearance. 
+ 
+Most the leucogranites appear as sills which are concordant or slightly cross-cutting the stratigraphy 
+with a dip of 40 to 50 degrees to the east; the B type is more abundant in the south, while the C type 
+is most abundant to the north of the anomaly.  In the south, the B leucogranite can be quite thick, 
+over 100 m, while in other parts the leucogranite thicknesses vary from 5 to 40 m. 
+
+  
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 24 
+ 
+
+8. DEPOSIT TYPE 
+
+Uranium deposits world-wide have been grouped into 14 major categories of deposit types based on 
+the geological setting of the deposits (Lambert,I., McKay, A. and Miezitis, Y. (1996)).  The Valencia 
+deposit is an "intrusive type" of uranium deposit that is associated with alaskite intrusives that 
+comprise massive stock-like bodies, dykes of varying thickness, sill like bodies, veins and veinlets, 
+which can be either conformable with or transgressive to the Damara Sequence metasedimentary 
+host rocks.  Included in this type are those deposits associated with intrusive rocks including alaskite, 
+granite, pegmatite and monzonites.  Major world deposits include Rossing (Namibia), Ilimaussaq 
+(Greenland) and Palabora (South Africa). 
+ 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 25 
+ 
+
+9. MINERALISATION 
+
+The uranium mineralisation at Namibplaas is hosted only by alaskites that comprise massive stock-
+like bodies, dykes of varying thickness and veins and veinlets, which can be either conformable with 
+or transgressive to the Damara Sequence metasedimentary host rocks.  Uranium mineralisation is 
+present as uraninite (UO2) mineralisation and the secondary uranium minerals, uranophane 
+(Ca(UO2)2SiO2.7H2O) and uranothallite  (Ca2U(CO3)4.10H2O), also occur.  No betafite has been 
+observed.  The uraninite is usually fresh, with only sporadic, very minor alteration rims.  The 
+secondary uranium minerals uranophane and uranothallite occur as yellow coatings on exfoliation 
+planes and joints, where they form specks and tiny flakes on feldspar, quartz, biotite and apatite.  
+Uranium mineralisation predominantly occurs in the finer-grained alaskite and rarely in the coarse 
+pegmatitic phases.  A close relationship also exists between the uranium and biotite content, as well 
+as between the degree of uranium mineralisation and apatite content.  The uranium mineralisation 
+is variably distributed through the alaskite intrusions and, in many cases, high-grade mineralisation is 
+in contact with barren or poorly mineralised alaskite (Labuschagne, 1979). 
+ 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 26 
+ 
+
+10. EXPLORATION 
+
+Since 2010 VUL has conducted an exploration programme comprising a ground radiometric survey, 
+diamond drilling (DDH) and percussion drilling (PD).  Drilling was carried out by R.A. Longstaff 
+Namibia (Pty), Major Drilling, Erongo Drilling, Van Rhyn, Roburgh and Hard Rock Drilling with logging 
+and sampling conducted by VUL staff.  The 2010 drill programme is still on-going at the date of the 
+Technical Report.  To date 33 DD holes have been completed for 8,527.3 m of drilling.  Subsequently 
+1663 samples were cut and sent for U and Th analyses - the aim was to establish a correlation 
+between radiometric (downhole probe) readings and chemical assays.  In the end 846 samples from 
+leucogranites were used and about 75 mineralized intervals were used to derive the correlation (see 
+ection 17.5).  Also in 2010, percussion drilling was started and to the end of July 2011, Dunefield has 
+drilled 288 percussion holes for 63,093.7 m; most holes are inclined at 60 degrees and oriented 
+perpendicular to stratigraphy of Nosib and Swakop Groups of metasediments, and drilled to a local 
+azimuth of N45E.   
+
+10.1. SPECTROMETER AND SCINTILLOMETER SURVEY 
+
+A handheld ground radiometric survey was completed between December 2007 and January 2008 
+by a VUL geologist.  A Pico-Envirotech Spectrometer Model GIS s15 instrument was used to 
+measure gamma ray readings for total counts, uranium, thorium and potassium.  Readings were 
+taken at intervals of approximately 5 m on northwest to southeast oriented lines spaced 
+at 10 m apart. The contoured results of the scintillometer survey for uranium are shown in Figure 
+7.4, superimposted on the airborne radiometric survey.  The anomalous areas of radioactivity 
+coincided with the outcrops of alaskite and provided targets for drill testing. 
+ 
+
+10.2. DDH DRILLING 
+
+A total of 33 DDH, totalling 8,229 m have been completed for grade sampling.  This information was 
+used for inclusion in the Mineral Resource and to provide assay data to determine the correlation 
+between the probe data and assayed U3O8 values, which is described in Section 17.5. 
+ 
+
+10.3. PD DRILLING 
+
+A total of 288 PD holes totalling 63,093.7m were completed for probe sampling.  This information 
+was used for inclusion in the Mineral Resource. Drilling commenced in 2008, continued in 2009 and 
+a major drilling programme commenced in 2010. 
+
+10.4. DIGITAL TERRAIN MODEL 
+
+The project area was flown on 28 March 2007 for the compilation of a digital terrain model (DTM), 
+providing contours at 2 m intervals and production of digital orthophotos.  These were compiled 
+from 1:10000 scale Monochrome Aerial Photographs. 
+
+10.5. OPINION 
+
+The author considers the data gathered by VUL to be obtained in accordance with industry best 
+practice and of a standard that is reliable for use in Mineral Resource estimation.  All exploration 
+activities conducted by VUL are under the direction of Dr. Roger Laine, Ph.D., P.Geo., Chief Geologist. 
+Dr. Laine is familiar with the methods for Quality Assurance and Quality Control specifically 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 27 
+ 
+
+applicable to uranium.  Dr. Laine has sufficient experience which is relevant to the style and 
+mineralisation, type of deposit and the use of radiometric probe data in resource estimates. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 28 
+ 
+
+11. DRILLING 
+
+Figure 11.1 presents the location of the drillholes that were used in the resource estimate, those 
+DDH holes drilled by GFSA (blue diamond), DDH holes drilled by VUL (red square) and the PD holes 
+drilled by VUL (green cross). 
+
+Figure 11.1 Drillhole location plan 
+
+ 
+
+ 
+
+11.1. DDH DRILLING – TREKKOPJE EXPLORATION/GFSA 
+
+Between 1974 and 1984 Trekkopje Exploration completed 7 DDH, totalling approximately 165.9 m.  
+The detailed procedures for this drilling were not available to Optiro.  The majority of the DDH were 
+drilled at declinations of 45°.  Due to the massive and irregular nature of the alaskites, the majority 
+of the sample lengths are approximately 1.5 m.  The core was predominantly BXM size (diameter 
+41.7 mm), with a lesser amount of NXM size core (diameter 54.5 mm) drilled through the first few 
+metres of weathered surface rock. 
+
+11.2. DDH DRILLING - VUL 
+
+VUL drilled a total 33 DDH for a total of 8229 m (Figure 11.1, red squares).  The core was NQ size 
+(diameter of 47.6 mm).  The drillholes were drilled at angles of - 40° to -50° in order to intersect the 
+alaskite intrusives as close to a perpendicular angle as possible.  Collars of all drillholes were 
+surveyed by professional Namibian based surveyors.  All DDH were downhole surveyed for direction 
+and dip using a digital Reflex EMS instrument.  The core was removed from the core barrel and 
+placed in the core tray by the drill contractor, supervised by the VUL geologist.  The VUL geologist 
+transported the core trays to the Valencia camp where the trays were laid out in depth order and 
+the core measured for recovery. 
+
+7533000
+
+7533200
+
+7533400
+
+7533600
+
+7533800
+
+7534000
+
+7534200
+
+7534400
+
+7534600
+
+7534800
+
+527800 528000 528200 528400 528600 528800 529000 529200 529400
+
+GFSA DDH
+
+VUL DDH
+
+VUL PD
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 29 
+ 
+
+11.3. PD DRILLING 
+
+VUL drilled a total of 288 PD drillholes (Figure 11.1, crosses) for 63093.7 m.  The PD drillholes were 
+not physically sampled but underwent downhole probing using two radiometric counters which 
+were calibrated against assayed DDH drillholes. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 30 
+ 
+
+12. SAMPLING METHOD AND APPROACH 
+
+Samples were collected from DDH drillholes for assay.  Issues relating to sample quality are 
+discussed under Section 13, whilst a discussion on rock types and geological controls is presented in 
+Sections 8 and 9. A statistical analysis of the U3O8 sample grades is presented in Section 17.3.4. 
+
+12.1. DDH SAMPLES 
+
+12.1.1. TREKKOPJE EXPLORATION GFSA (1974 TO 1984) 
+
+Some of the Trekkopje Exploration DD cores were sawn in half using a diamond saw where alaskite 
+was intersected; however, no country rock was sampled.  For other DDH, Trekkopje Exploration 
+determined highly radioactive zones for sampling by first scanning the core with a handheld 
+scintillometer.  These were then split in two and the half core was sampled.  The remaining alaskites 
+that were sampled were submitted as full core samples.  Optiro has not quantified the effects of 
+change in sample support in the Mineral Resource estimate arising from the half versus full core 
+sampling method.  Sample intervals averaged 1.5 m and ranged from 0.04 m to 1.92 m, but were 
+generally 1.5 m.   
+ 
+Sample risk factors 
+Core recovery was reported to be between 98% and 99% (Labuschagne, 1979).  This is a high level of 
+core recovery and therefore it is unlikely the data will be biased as a result. 
+
+12.1.2. VUL  
+
+After recording the core recovery a scintillometer was used to record the total count gamma ray 
+activity of the entire core.  Intervals of core were selected for sampling on the basis of lithologies.  
+All of the alaskite intersections were sampled in addition to intervals of high gamma ray activity 
+within the meta-sediments.  The samples honoured the lithological contact, i.e. they were not taken 
+across the contacts.  Samples were generally between 1.3 m and 1.4 m in length.  The core was cut 
+lengthways using a diamond saw.  VUL collected a total of 1,663 samples. All core was photographed 
+before sampling. 
+ 
+Sample risk factors 
+DDH core recovery was measured for each drill run. Excellent recoveries were recorded, with an 
+average in excess of 95% recovery.  The lowest recoveries were recorded within the first 2 m of the 
+surface weathered zones; this is not considered to be a significant risk. 
+
+12.2. PD SAMPLES 
+
+PD drillholes were not physically sampled but were probed with a downhole Geiger-Muller probe 
+every 0.1m down the hole. 
+ 
+Sample risk factors 
+Calibration of the Geiger-Muller probe was undertaken on a regular basis, running it down drillholes 
+that had been fully sampled down the hole.  Allowance was also made for the presence of radon, 
+and holes were reprobed until the results were consistent. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 31 
+ 
+
+12.3. BULK DENSITY 
+
+VUL provided the results of the bulk density determinations for 170 samples of various rock types.  
+These were used to provide an estimate of the average density of the alaskite using the weight in air 
+and water method. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 32 
+ 
+
+13. SAMPLE PREPARATION, ANALYSES AND SECURITY 
+
+Samples were collected from DDH drilling by Trekkopje Exploration between 1974 and 1984 and 
+from DDH and RC drilling by VUL after October 2005 to present. 
+
+13.1. TREKKOPJE EXPLORATION (1974 TO 1984) 
+
+Trekkopje Exploration reported that the samples were transported by rail to the Gold Fields 
+Laboratory Pty Ltd (GFL), Johannesburg, South Africa, in locked steel trunks.  The samples were 
+analysed by GFL for U3O8 using a fused pellet XRF method.  Analytical quality was monitored by two 
+randomly selected duplicates and one reference material analysis per batch of 15.  Check samples 
+were regularly selected at random from the pulverised pulp for wet chemical assay.  No laboratory 
+quality control data was available for review by Optiro.  It was also not documented whether The 
+GFL laboratory was certified with a standards association.  It was noted by Labuschagne (1979) that 
+the repeat assays and a comparison of assay values to handheld scintillometer counts identified 
+some discrepancies in both sample preparation and sample labelling.  These discrepancies could not 
+be quantified and the conclusion by Labuschagne (1979) was that over a total number of several 
+thousand samples the errors should cancel out and have an insignificant effect on the "viability" of 
+the deposit. 
+ 
+The author considers that the sampling, sample preparation, data collection and security measures 
+applied by Trekkopje Exploration were carried out according to the best practice available at the 
+time and that it was done in an acceptable and systematic manner. 
+
+13.2. VALENCIA 
+
+All DDH half core and RC samples collected by VUL were assayed at the Setpoint Technology 
+(Setpoint) laboratory in Johannesburg, South Africa.  Setpoint is accredited with the South African 
+Accreditation System (SANAS), accreditation number T0223, and is also an ISO17025 accredited 
+laboratory.  Setpoint completed the crushing and pulverising of the samples to industry standards.  
+The prepared samples were analysed for U3O8 using the XRF pressed pellet method.  VUL did not 
+include standard reference material (SRM) or blank material in the first submissions to Setpoint; 
+however, SRMs were included in pulps that were returned to the laboratory for re-assay.  The 
+Setpoint laboratory included appropriate quality assurance and quality control (QAQC) procedures 
+during the analysis of the VUL samples by including its own certified reference standards (CRM), 
+blanks and duplicates.  The protocols for the QAQC are as follows: 
+ 
+
+ Commercial SRMs inserted at a frequency of at least one per 20 samples. 
+
+ Blanks inserted at a frequency of at least one per 50 samples. 
+
+ Duplicates taken at a frequency of at least one per 20 samples. 
+
+13.3. STATEMENT ON THE ADEQUACY OF SAMPLE 
+
+PREPARATION, SECURITY ANDANALYTICAL PROCEDURES 
+
+Optiro reviewed the assay results from Setpoint and considers that the results of the QAQC indicate 
+a high level of precision with no bias, no significant contamination and a high degree of accuracy.  
+These results provide a high level of confidence in the use of this data for the resource estimate. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 33 
+ 
+
+14. DATA VERIFICATION 
+
+14.1. OPTIRO SITE VISIT JULY 2011 
+
+The author visited the project area between 24 July and 26 July 2011.  Optiro inspected the position 
+of numerous DDH and PD drill collars with respect to known coordinates.  Optiro considers that the 
+collar positions were confirmed within a reasonable distance of the positions on plan.  The cores 
+from three DDH, as listed in Table 14.1, were compared with the drillhole logs.  No discrepancies 
+between the VUL drillhole logs and the core were identified.  Optiro also confirmed the radioactive 
+anomalism at the site by carrying out its own scintillometer readings of outcrop (Figure 14.1) and the 
+core that was reviewed (Figure 14.2). 
+
+Table 14.1 Drill core inspected, July 2011 
+
+Drillhole 
+
+NA24-008 
+
+NA24-011 
+
+NA24-036 
+
+Figure 14.1 Optiro reading adjacent to drillhole NAPD-077 
+
+ 
+
+  
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 34 
+ 
+
+Figure 14.2 Optiro reading drillhole NA24-011 ~ 56m downhole depth 
+
+ 
+
+Optiro also resampled material from the drillholes presented in Table 14.2 together with the original 
+and resampled results.  The resampled material returned similar values to the original results. 
+
+Table 14.2 Optiro resample material 
+
+BHID SAMPID 
+U3O8 
+ppm 
+
+rU3O8 
+ppm 
+
+8 21002 311 321 
+
+8 21011 868 929 
+
+8 21012 208 184 
+
+8 21016 730 759 
+
+11 20751 282 282 
+
+12 20203 307 269 
+
+12 20204 223 204 
+
+16 20873 151 143 
+
+16 20874 129 121 
+
+25 21486 198 202 
+
+25 21487 144 139 
+
+14.2. STATEMENT REGARDING VERIFICATION 
+
+Optiro is of the opinion that the data used in the September 2011 Mineral Resource estimates is 
+reliable. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 35 
+ 
+
+15. ADJACENT PROPERTIES 
+
+15.1. VALENCIA URANIUM DEPOSIT 
+
+VUL owns the Valencia Uranium deposit 7 km south west of Namibplaas.  VUL has reported 
+Resources and Reserves for the Valencia Project and it is fully permitted.  Studies completed by VUL 
+indicate that the project will support a 17 year mine life. 
+
+15.1.1. GEOLOGY 
+
+The geology of the Valencia deposit is similar to that of Namibplaas.  Uranium mineralisation occurs 
+within leucocratic alkali granites (alaskites) that were emplaced within the metasedimentary rocks of 
+the Damara Supergroup in the closure of an antiformal structure that plunges 45° to the south. 
+
+15.1.2. RESOURCES AND RESERVES 
+
+Table 15.1 and Table 15.2 are sourced from the Forsys Metals web site (www.forsysmetals.com) and 
+
+present the current Resource and Reserve statements, respectively for the Valencia deposit. 
+
+Table 15.1 Summary of Valencia Uranium Deposit Mineral Resources, estimated at the anticipated SMU scale as at 
+November 2009 
+
+Category* 
+Cut-off 
+U3O8(ppm) 
+
+Tonnes(M) 
+Grade U3O8 
+(ppm) 
+
+U3O8 Metal 
+(Mlbs) 
+
+Measured 60 21.0 161 7.4 
+
+Indicated 60 219.6 144 69.8 
+
+Total Measured and Indicated 60 240.7 146 77.2 
+
+Inferred 60 30.0 144 9.5 
+
+Measured 100 13.8 203 6.2 
+
+Indicated 100 130.0 190 54.3 
+
+Total Measured and Indicated 100 143.8 191 60.5 
+
+Inferred 100 17.6 190 7.4 
+
+* 50th percentile of 100 simulations based on metal content 
+
+Table 15.2 Summary of Valencia Uranium Deposit Reserves, with cut-off grades of 67 ppm and 100 ppm as at 
+November 2009 
+
+Category 
+Cut-off 
+U3O8(ppm) 
+
+Tonnes(M) 
+Grade U3O8 
+(ppm) 
+
+U3O8 Metal 
+(Mlbs) 
+
+Proven 67 19.6 168 7.2 
+
+Probable 67 156.1 155 53.3 
+
+Total 67 175.7 156 60.5 
+
+Proven 100 13.8 203 6.2 
+
+Probable 100 103.0 192 43.6 
+
+Total 100 116.8 194 49.8 
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 36 
+ 
+
+15.2. RÖSSING URANIUM MINE 
+
+Information on the Rössing Uranium Mine is included as it situated approximately 30 km to the 
+southwest of the Valencia project.  The Qualified Person of this report states that: 
+ 
+
+ The operational information is publicly disclosed by the owner or operator of the Rössing 
+
+Uranium Mine on www.rossing.com. 
+
+ The Qualified Person has been unable to verify the information. 
+
+ The information is not necessarily indicative of the mineralisation on the Namibplaas 
+
+property. 
+
+ The mineralisation on the Namibplaas property is distinct from the mineralisation at the 
+
+Rössing Uranium Mine. 
+
+15.2.1. GEOLOGY 
+
+The Rössing uranium deposit occurs in a highly deformed zone in which uraniferous alaskites were 
+intruded into deformed metasedimentary rocks of the Khan and Rössing Formations. The alaskitic 
+rocks range from small quartzo-feldspathic lenses to large intrusive and replacement bodies varying 
+widely in texture, size and emplacement habit (Roesener and Schreuder, 1992). 
+
+15.2.2. OPERATIONAL INFORMATION 
+
+The Rössing Uranium Mine commenced production in 1973 and since then has produced between 
+2000 tonnes and 4000 tonnes of U3O8 per year (Roesener and Schreuder, 1992). 
+ 
+
+  
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 37 
+ 
+
+16. MINERAL PROCESSING AND METALLURGICAL TESTING 
+
+To date no specific metallurgical test work has been undertaken on material from the Namibplaas 
+deposit.  Optiro understands that VUL has selected samples for metallurgical test work and that this 
+will be undertaken over the next few months. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 38 
+ 
+
+17. MINERAL RESOURCE AND MINERAL RESERVE 
+
+ESTIMATES 
+
+17.1. SUMMARY 
+
+17.1.1. MINERAL RESOURCE ESTIMATE 
+
+In September 2011 a Mineral Resource estimate for the Valencia deposit was disclosed by VUL.  The 
+Mineral Resource estimate is presented in Table 17.1 at a range of cut-off grades.  The resource was 
+classified as Inferred. 
+
+Table 17.1 Summary of Namibplaas Uranium Inferred Mineral Resource, September 2011 
+
+Cut-off Grade Tonnes Grade U3O8 
+
+ppm Mt ppm Mlbs 
+
+80 169 110 41 
+
+100 88 130 25 
+
+120 43 152 14 
+
+17.1.2. MINERAL RESERVE ESTIMATE 
+
+No mineral reserve has been estimated for the Namibplaas project. 
+
+17.2. DISCLOSURE 
+
+Mineral Resources reported in Section 17 were prepared by Mr. Andrew during full time 
+employment with Optiro.  Mr. Andrew is an Optiro employee named above as a Qualified Person as 
+defined in NI43-101.  Optiro is independent of VUL. 
+
+17.2.1. KNOWN ISSUES THAT MATERIALLY AFFECT MINERAL RESOURCES  
+
+Optiro is unaware of any issues that materially affect the mineral resources in a detrimental sense.  
+These conclusions are based on the following: 
+
+ VUL has represented to Optiro that there are no outstanding legal issues; legal action or 
+injunctions pending against the project. 
+
+ VUL has represented to Optiro that the mineral rights are held on privately owned farmland 
+with access agreements currently in place with the land owner. 
+
+17.3. ASSUMPTIONS, METHODS AND PARAMETERS – OPTIRO 
+
+RESOURCE ESTIMATE 
+
+The basis of the September 2011 Mineral Resources estimate for the Namibplaas deposit is 
+discussed in this section. The estimates are based on drillhole data supplied by VUL.  The resources 
+have been reported according to the CIM Standard Definitions (CIM, 2005).  The estimates were 
+prepared in the following steps: 
+ 
+
+ data validation 
+
+ data preparation 
+
+ geological interpretation and modelling 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 39 
+ 
+
+ establishment of volume models 
+
+ compositing of assay intervals 
+
+ exploratory data analysis of uranium data 
+
+ variogram analysis 
+
+ derivation of kriging plan 
+
+ grade interpolation of U308 using ordinary block kriging 
+
+ validation of grade estimates 
+
+ bulk density assignment 
+
+ classification of estimates with respect to CIM definitions 
+
+ resource tabulation and resource reporting. 
+ 
+
+17.3.1. DATABASE 
+
+A total of 2328 DDH sample uranium assays and 42124 readings from downhole geophysical logging 
+of PD drillholes were also used to estimate the Mineral Resource.  Only samples associated with 
+logged alaskite were used in the resource estimate. 
+
+17.3.2. GEOLOGICAL INTERPRETATION AND MODELLING 
+
+VUL has recognised that the U3O8 mineralisation is associated directly with the alaskite intrusives.  
+Given the complexity of the lithology between drill sections, Optiro decided to use a categorical 
+indicator to model the distribution of the alaskite intrusives as opposed to conventional sectional 
+interpretation and wireframing techniques. 
+ 
+Optiro composited the supplied lithology file to 1.5 m intervals based on lithology as coded by VUL.  
+All composited intervals logged as alaskite intrusive (log codes GRTT, GRT or AGRT) were flagged as 
+RCODE=GRT.  They were then assigned a numerical code (NLITH) of 1, while all non GRT intervals 
+were assigned NLITH=0.  Of a total of 48699 1.5 m composited lithology intervals, approximately 
+65% have been coded as GRT. 
+ 
+Variography was then undertaken on the numerically coded lithology data.  Figure 17.1 presents the 
+modelled variograms.  The modelled variogram parameters are presented in Table 17.2; the sill is 
+normalised to 1, and spherical structures were modelled. 
+ 
+
+ 
+  
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 40 
+ 
+
+Figure 17.1 GRT lithological modelled variograms 
+
+  
+
+  
+
+Table 17.2 Variogram parameters used in categorical modelling of GRT 
+
+Direction Nugget 
+
+Structure1 Structure2 Structure3 
+
+Sill Range (m) Sill Range (m) Sill Range (m) 
+
+-05-->201 
+0.06 0.63 
+
+28.5 
+0.23 
+
+159 
+0.08 
+
+900 
+
+29-->288 28.5 134.5 500 
+
+-60-->300 17 66 150 
+
+The modelled variogram parameters were used to estimate the NLITH values into a block model with 
+a cell size of 20 m * 20 m * 10 m (easting, northing, RL).  A value between 0 and 1 was estimated in 
+the block and this reflected the probability or proportion of the block being GRT.  The extents of the 
+block model are presented in Table 17.3. Figure 17.2 and Figure 17.3 presenet plan views of the 
+estimated NLITH attribute equating to the proportion of GRT in the block. 
+ 
+
+(Direction 1) -05-->201:  Continuity for NLITH
+Domain AGRT
+
+Sample Separation (m)
+
+G
+a
+m
+
+m
+a
+ (
+
+0
+.2
+
+2
+9
+
+)
+
+P
+a
+ir
+
+ C
+o
+
+u
+n
+
+ts
+
+0 75 150 225 300 375 450 525 600 675 750 825 900 975
+0.00
+
+0.25
+
+0.50
+
+0.75
+
+1.00
+
+1.25
+
+0
+
+750000
+
+1500000
+
+2250000
+
+3000000
+
+3750000
+
+4500000
+
+5250000
+
+6000000
+
+6750000
+
+7500000
+
+8250000
+
+9000000
+
+9750000
+
+N( 0.06 )
+
+Sph( 0.63, 28.5 )
+
+Sph( 0.23, 159 )
+
+Sph( 0.08, 900 )
+
+Lag
+
+50 (1000)
+
+(Direction 2)  29-->288:  Continuity for NLITH
+Domain AGRT
+
+Sample Separation (m)
+G
+
+a
+m
+
+m
+a
+ (
+
+0
+.2
+
+2
+9
+
+)
+
+P
+a
+ir
+
+ C
+o
+
+u
+n
+
+ts
+
+0 75 150 225 300 375 450 525 600 675 750 825 900 975
+0.00
+
+0.25
+
+0.50
+
+0.75
+
+1.00
+
+1.25
+
+0
+
+5000
+
+10000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+40000
+
+45000
+
+50000
+
+N( 0.06 )
+
+Sph( 0.63, 28.5 )
+
+Sph( 0.23, 134.5 )
+
+Sph( 0.08, 500 )
+
+Lag
+
+50 (1000)
+
+(Direction 3) -60-->300:  Continuity for NLITH
+Domain AGRT
+
+Sample Separation (m)
+
+G
+a
+m
+
+m
+a
+ (
+
+0
+.2
+
+2
+9
+
+)
+
+P
+a
+ir
+
+ C
+o
+
+u
+n
+
+ts
+
+0 75 150 225 300 375 450 525 600 675 750 825 900 975
+0.00
+
+0.25
+
+0.50
+
+0.75
+
+1.00
+
+1.25
+
+0
+
+5000
+
+10000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+40000
+
+45000
+
+50000
+
+N( 0.06 )
+
+Sph( 0.63, 17 )
+
+Sph( 0.23, 66 )
+
+Sph( 0.08, 150 )
+
+Lag
+
+50 (1000)
+
+(True Downhole) :  Continuity for NLITH
+Domain AGRT
+
+Sample Separation (m)
+
+G
+a
+m
+
+m
+a
+ (
+
+0
+.2
+
+2
+9
+
+)
+
+P
+a
+ir
+
+ C
+o
+
+u
+n
+
+ts
+0.0 2.5 5.0 7.5 10.0 12.5 15.0 17.5 20.0 22.5 25.0 27.5 30.0
+
+0.00
+
+0.25
+
+0.50
+
+0.75
+
+1.00
+
+1.25
+
+0
+
+5000
+
+10000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+40000
+
+45000
+
+50000
+
+N( 0.06 )
+
+Sph( 0.51, 6.5 )
+
+Lag
+
+1.5 (30)
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 41 
+ 
+
+Table 17.3 Model extents 
+
+ Easting Northing RL 
+
+Minimum 527900 7533000 380 
+
+Maximum 530000 753500 760 
+
+Figure 17.2 Plan view of 3d block model coloured by NLITH  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 42 
+ 
+
+Figure 17.3 Plan view of block model coloured by NLITH at RL 700 
+
+ 
+ 
+
+Discussions with VUL staff indicate that the volume model derived from the categorical indicator 
+approach reflects the distribution of the alaskite intrusives, and is suitable to be used as the basis of 
+the Namibplaas resource estimate. 
+
+17.4. COMPOSITING 
+
+The sample intervals were composited to 1.5 m intervals commencing at the drillhole collars, 
+reflecting the DDH sample interval.  The compositing process accounted for length weighting.  
+Geophysical probe data was collected every 0.1 m downhole and composited to 1.5 m.  Compositing 
+was constrained by the NLITH code. 
+ 
+
+17.5. STATISTICAL ANALYSIS 
+
+The PD probe data was combined with the DDH assay data, using the relationship 
+U3O8=18.83*gamma
+
+1.01 
+Figure 17.4 y axis U3O8 GT, x axis probe GT ); this is similar to the conversion 
+
+used at Valencia. The correlation is made of 75 GT intervals which includes a total of 846 samples 
+assayed for U3O8 and ThO2. The probe data was factored with this relationship before being 
+combined with the DDH assay data.  For the estimate where assay and probe data coexisted then 
+the assay data was used in preference. A review of the distribution of the data (Figure 17.5) reveals a 
+CV of 1; it was decided not to apply a grade cap to the data given this CV value. 
+ 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 43 
+ 
+
+Figure 17.4 Correlation between probe data and assayed U3O8 
+
+ 
+
+Figure 17.5 Log histogram of U3O8 data 
+
+ 
+
+ 
+
+ 
+
+y = 18.83x1.010
+
+R² = 0.956
+
+0.000
+
+1000.000
+
+2000.000
+
+3000.000
+
+4000.000
+
+5000.000
+
+6000.000
+
+7000.000
+
+8000.000
+
+0.00 100.00 200.00 300.00 400.00
+
+Log Histogram for eeU3O8
+
+eeU3O8
+
+F
+re
+
+q
+u
+
+e
+n
+
+c
+y
+
+ (
+%
+
+ o
+f 
+
+4
+5
+
+3
+4
+
+0
+ p
+
+o
+in
+
+ts
+)
+
+1 10 100 1000
+0.00
+
+0.75
+
+1.50
+
+2.25
+
+3.00
+
+3.75
+
+4.50
+
+5.25
+
+6.00
+
+6.75
+
+7.50
+
+8.25
+
+9.00
+
+G L25 50 75
+
+Points:
+
+Weights:
+
+Mean:
+
+Std Dev:
+
+Variance:
+
+CV:
+
+Skewness:
+
+Kurtosis:
+
+Geom Mean:
+
+Log-Est Mean:
+
+Maximum:
+
+75%:
+
+50%:
+
+25%:
+
+Minimum:
+
+45340
+
+45340 
+
+61.217
+
+64.812
+
+4200.598
+
+1.059
+
+5.087
+
+59.146
+
+44.405
+
+59.308
+
+1986.69
+
+71.310
+
+40.029
+
+26.052
+
+1
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 44 
+ 
+
+17.6. GEOSTATISTICAL ANALYSIS 
+
+Variography was then undertaken on the combined assay data.  A normal scores transform was used 
+to assist in resolving the directions of maximum continuity.  The normal scores variogram was 
+modelled and then back transformed into normal space.  Figure 17.6 presents the modelled normal 
+score variograms and resultant back transformed variogram. The modelled variogram parameters 
+are presented in Table 17.4, the sill has been normalised to 1 and spherical structures were 
+modelled.  The variogram had the same orientation as that used for the categorical modelling but 
+smaller ranges, as would be expected. 
+
+Figure 17.6 Normal scores modelled variogram for 1.5 m composite assay data 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+(Direction 1) -05-->201:  Normal Scores Continuity for eeU3O8
+Domain 1
+
+Sample Separation (m)
+
+G
+a
+m
+
+m
+a
+ (
+
+1
+.0
+
+0
+0
+
+)
+
+P
+a
+ir
+
+ C
+o
+
+u
+n
+
+ts
+
+0 75 150 225 300 375 450 525 600 675 750 825 900 975
+0.000
+
+0.075
+
+0.150
+
+0.225
+
+0.300
+
+0.375
+
+0.450
+
+0.525
+
+0.600
+
+0.675
+
+0.750
+
+0.825
+
+0.900
+
+0.975
+
+0
+
+500000
+
+1000000
+
+1500000
+
+2000000
+
+2500000
+
+3000000
+
+3500000
+
+4000000
+
+N( 0.1 )
+
+Sph( 0.4, 27 )
+
+Sph( 0.18, 108.5 )
+
+Sph( 0.32, 353.5 )
+
+Lag
+
+50 (1000)
+
+(Direction 2)  29-->288:  Normal Scores Continuity for eeU3O8
+Domain 1
+
+Sample Separation (m)
+
+G
+a
+m
+
+m
+a
+ (
+
+1
+.0
+
+0
+0
+
+)
+
+P
+a
+ir
+
+ C
+o
+
+u
+n
+
+ts
+
+0 75 150 225 300 375 450 525 600 675 750 825 900 975
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+0.9
+
+1.0
+
+0
+
+50000
+
+100000
+
+150000
+
+200000
+
+250000
+
+300000
+
+350000
+
+400000
+
+450000
+
+500000
+
+550000
+
+N( 0.1 )
+
+Sph( 0.4, 27 )
+
+Sph( 0.18, 97 )
+
+Sph( 0.32, 231.5 )
+
+Lag
+
+50 (1000)
+
+(Direction 3) -60-->300:  Normal Scores Continuity for eeU3O8
+Domain 1
+
+Sample Separation (m)
+
+G
+a
+m
+
+m
+a
+ (
+
+1
+.0
+
+0
+0
+
+)
+
+P
+a
+ir
+
+ C
+o
+
+u
+n
+
+ts
+
+0 75 150 225 300 375 450 525 600 675 750 825 900 975
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+1.2
+
+1.4
+
+0
+
+75000
+
+150000
+
+225000
+
+300000
+
+N( 0.1 )
+
+Sph( 0.4, 20 )
+
+Sph( 0.18, 72.5 )
+
+Sph( 0.32, 130.5 )
+
+Lag
+
+50 (1000)
+
+BackTransform Model
+eeU3O8 (Domain 1)
+
+Sample Separation (m)
+
+G
+a
+m
+
+m
+a
+ (
+
+*
+)
+
+0 50 100 150 200 250 300 350
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+0.9
+
+1.0
+
+1.1
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 45 
+ 
+
+Table 17.4 Variogram parameters used in modelling of assay data 
+
+Direction Nugget 
+
+Structure1 Structure2 Structure3 
+
+Sill Range (m) Sill Range (m) Sill Range (m) 
+
+-05-->201 
+0.14 0.46 
+
+27 
+0.17 
+
+108.5 
+0.23 
+
+353.5 
+
+29-->288 27 97 231.5 
+
+-60-->300 20 72.5 130.5 
+
+17.7. VOLUME MODEL 
+
+The categorical model was used as the basis of the estimate, with the model honouring the 
+topographical surface. 
+
+17.8. GRADE ESTIMATION 
+
+Ordinary kriging using Datamine mining software was used to estimate U3O8 grades into the 3D 
+block model.  Parent cell estimation was carried out and sub-cells were assigned the grade of their 
+parent cell.  The search used the ranges and orientation modelled in the variograms used as the 
+basis of the estimate. 
+ 
+The minimum number of composites used for the interpolation was ten and the maximum number 
+of samples used was 42.  A bulk density of 2.63 was applied to the volume model; this was the same 
+as was applied to the Valencia estimate. This reflects the average value obtained from the density 
+testwork completed by VUL. 
+
+17.9. MODEL VALIDATION 
+
+The reasonableness of the block grade model was validated using two methods: 
+
+ visual comparison of block and composite grades in section and plan 
+
+ validation plots by easting, northing and elevation to compare the mean input and block 
+grades on a series of plans and sections through the deposit. 
+
+ 
+The visual comparison of block and composite grades on sections and plans showed a good 
+correlation between the input data and output values.  No major discrepancies were noted.  The 
+mean U3O8 block grades and the mean U3O8 composite grades were plotted by slicing through the 
+block model on a series of sections and plans (Figure 17.7).  The trend of block grades generally 
+honoured the trend of input grades, and has been appropriately smoothed by the kriging.  Portions 
+of the graphs where the block grades diverge from the input grades are generally associated with 
+areas of sparse data. 
+  
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 46 
+ 
+
+Figure 17.7 Trend validation plot – U3O8 grades – by Easting, Northing and RL 
+
+ 
+
+ 
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+5
+2
+7
+,9
+
+0
+0
+
+5
+2
+7
+,9
+
+6
+0
+
+5
+2
+8
+,0
+
+2
+0
+
+5
+2
+8
+,0
+
+8
+0
+
+5
+2
+8
+,1
+
+4
+0
+
+5
+2
+8
+,2
+
+0
+0
+
+5
+2
+8
+,2
+
+6
+0
+
+5
+2
+8
+,3
+
+2
+0
+
+5
+2
+8
+,3
+
+8
+0
+
+5
+2
+8
+,4
+
+4
+0
+
+5
+2
+8
+,5
+
+0
+0
+
+5
+2
+8
+,5
+
+6
+0
+
+5
+2
+8
+,6
+
+2
+0
+
+5
+2
+8
+,6
+
+8
+0
+
+5
+2
+8
+,7
+
+4
+0
+
+5
+2
+8
+,8
+
+0
+0
+
+5
+2
+8
+,8
+
+6
+0
+
+5
+2
+8
+,9
+
+2
+0
+
+5
+2
+8
+,9
+
+8
+0
+
+5
+2
+9
+,0
+
+4
+0
+
+5
+2
+9
+,1
+
+0
+0
+
+5
+2
+9
+,1
+
+6
+0
+
+5
+2
+9
+,2
+
+2
+0
+
+5
+2
+9
+,2
+
+8
+0
+
+5
+2
+9
+,3
+
+4
+0
+
+5
+2
+9
+,4
+
+0
+0
+
+5
+2
+9
+,4
+
+6
+0
+
+Section (E)
+
+U
+3
+O
+
+8
+ p
+
+p
+m
+
+0
+
+2,000
+
+4,000
+
+6,000
+
+8,000
+
+10,000
+
+12,000
+
+14,000
+
+16,000
+
+18,000
+
+C
+o
+
+m
+p
+
+o
+s
+it
+
+e
+ S
+
+a
+m
+
+p
+le
+
+ C
+o
+
+u
+n
+
+t/
+M
+
+o
+d
+
+e
+l 
+
+T
+o
+
+n
+n
+
+a
+g
+
+e
+ (
+
+ '
+0
+0
+0
+ t
+
+)
+
+Composite Count Model_Tonnes Model Grade Composite Grade
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+7
+,5
+
+3
+3
+,0
+
+0
+0
+
+7
+,5
+
+3
+3
+,0
+
+8
+0
+
+7
+,5
+
+3
+3
+,1
+
+6
+0
+
+7
+,5
+
+3
+3
+,2
+
+4
+0
+
+7
+,5
+
+3
+3
+,3
+
+2
+0
+
+7
+,5
+
+3
+3
+,4
+
+0
+0
+
+7
+,5
+
+3
+3
+,4
+
+8
+0
+
+7
+,5
+
+3
+3
+,5
+
+6
+0
+
+7
+,5
+
+3
+3
+,6
+
+4
+0
+
+7
+,5
+
+3
+3
+,7
+
+2
+0
+
+7
+,5
+
+3
+3
+,8
+
+0
+0
+
+7
+,5
+
+3
+3
+,8
+
+8
+0
+
+7
+,5
+
+3
+3
+,9
+
+6
+0
+
+7
+,5
+
+3
+4
+,0
+
+4
+0
+
+7
+,5
+
+3
+4
+,1
+
+2
+0
+
+7
+,5
+
+3
+4
+,2
+
+0
+0
+
+7
+,5
+
+3
+4
+,2
+
+8
+0
+
+7
+,5
+
+3
+4
+,3
+
+6
+0
+
+7
+,5
+
+3
+4
+,4
+
+4
+0
+
+7
+,5
+
+3
+4
+,5
+
+2
+0
+
+7
+,5
+
+3
+4
+,6
+
+0
+0
+
+7
+,5
+
+3
+4
+,6
+
+8
+0
+
+7
+,5
+
+3
+4
+,7
+
+6
+0
+
+7
+,5
+
+3
+4
+,8
+
+4
+0
+
+7
+,5
+
+3
+4
+,9
+
+2
+0
+
+Section (N)
+
+U
+3
+O
+
+8
+ p
+
+p
+m
+
+0
+
+2,000
+
+4,000
+
+6,000
+
+8,000
+
+10,000
+
+12,000
+
+C
+o
+
+m
+p
+
+o
+s
+it
+
+e
+ S
+
+a
+m
+
+p
+le
+
+ C
+o
+
+u
+n
+
+t/
+M
+
+o
+d
+
+e
+l 
+
+T
+o
+
+n
+n
+
+a
+g
+
+e
+ (
+
+ '
+0
+0
+0
+ t
+
+)
+
+Composite Count Model_Tonnes Model Grade Composite Grade
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 47 
+ 
+
+ 
+
+17.10. RESOURCE CLASSIFICATION 
+
+The 2011 Namibplaas resource estimate has been classified according to CIM Standard Definitions 
+(CIM, 2005) and the JORC Code (JORC, 2004).  The resource has been classified as Inferred, reflecting 
+the current understanding of the controls on mineralisation, in terms of recognising which phase of 
+the leucogranite hosts the higher grade mineralisation.  Optiro is confident that given the proximity 
+to the Valencia deposit, the planned additional drilling for Namibplaas and the planned metallurgical 
+testwork that the next iteration of the Namibplaas resource estimate should see an increase in the 
+confidence of the resource estimate. 
+
+17.11. MINERAL RESOURCE REPORTING 
+
+In September 2011 a Mineral Resource estimate for the Valencia deposit was disclosed by VUL.  The 
+Mineral Resource estimate is presented in Table 17.5 at a range of cut-off grades.  The resource was 
+classified as Inferred as described above. 
+
+Table 17.5 Summary of Namibplaas Uranium Inferred Mineral Resource, September 2011 
+
+Cut-off Grade Tonnes Grade U3O8 
+
+ppm Mt ppm Mlbs 
+
+80 169 110 41 
+
+100 88 130 25 
+
+120 43 152 14 
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+3
+9
+0
+
+4
+1
+0
+
+4
+3
+0
+
+4
+5
+0
+
+4
+7
+0
+
+4
+9
+0
+
+5
+1
+0
+
+5
+3
+0
+
+5
+5
+0
+
+5
+7
+0
+
+5
+9
+0
+
+6
+1
+0
+
+6
+3
+0
+
+6
+5
+0
+
+6
+7
+0
+
+6
+9
+0
+
+7
+1
+0
+
+7
+3
+0
+
+7
+5
+0
+
+Section (RL)
+
+U
+3
+O
+
+8
+ p
+
+p
+m
+
+0
+
+5,000
+
+10,000
+
+15,000
+
+20,000
+
+25,000
+
+30,000
+
+C
+o
+
+m
+p
+
+o
+s
+it
+
+e
+ S
+
+a
+m
+
+p
+le
+
+ C
+o
+
+u
+n
+
+t/
+M
+
+o
+d
+
+e
+l 
+
+T
+o
+
+n
+n
+
+a
+g
+
+e
+ (
+
+ '
+0
+0
+0
+ t
+
+)
+
+Composite Count Model_Tonnes Model Grade Composite Grade
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 48 
+ 
+
+18. OTHER RELEVANT DATA AND INFORMATION 
+
+Optiro is not aware of any other relevant data or information that would relate to the resource 
+estimate reported in this Technical Report. 
+
+  
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 49 
+ 
+
+19. INTERPRETATION AND CONCLUSIONS 
+
+19.1. MINERAL RESOURCE ESTIMATE 
+
+The Namibplaas uranium project located in Namibia contains an alaskite hosted uranium deposit 
+similar to the Valencia deposit located 7 km to the south-west. The main zone of mineralisation is 
+approximately 700 m wide, 2000 m long and 200 m thick and occurs from surface down to a depth 
+of 380m.  The Inferred Mineral Resource estimate stated at a cut-off grade of 80 ppm U3O8 is 169 Mt 
+at a grade of 110 ppm U3O8.  
+ 
+This resource estimate was generated by ordinary kriging methods using 1.5m DDH and composited 
+data derived from downhole geophysical probing of PD drillholes. A bulk density value of 2.63 t/m
+
+3
+ 
+
+was applied for the tonnage estimation.  No variation of bulk density by rock type has been applied 
+in this phase of work.  In the next phase of work it is recommended that wireframe solids for the 
+individual rock types be refined and additional bulk density determinations be completed with an 
+improved spatial distribution so that appropriate density values can be assigned by rock type. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 50 
+ 
+
+20. RECOMMENDATIONS 
+
+For further updates of the Valencia deposit the following is recommended. 
+
+20.1. GEOLOGY AND RESOURCE ESTIMATION 
+
+In the next phase of work it is recommended that: 
+
+ Wireframe solids for the individual rock types be refined and additional bulk density 
+determinations be completed with an improved spatial distribution so that appropriate 
+density values can be assigned by rock type. 
+
+ Consideration be given to the use of non linear techniques for resource estimation. 
+
+ Additional correlation work be undertaken between the geophysical probe data and assay 
+data obtained from DDH drillholes. 
+
+ VUL should continue with the drilling of the Namibplaas project to increase the confidence 
+of the resource through increased understanding of the controls on mineralisation. 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 51 
+ 
+
+21. REFERENCES 
+
+Alan et al., 2007 
+ 
+Corner, B., 1983 An interpretation of the Aeromagnetic Data covering the western portion of the 
+Damara Orogen in South West Africa/Namibia, Spec. Publ. Geol. Soc. S. Afr., 11, 339-354. 
+ 
+Freemantle, Guy, 2011, Geochemistry and Mineralogy of Mineralized Uranium bearing Leucogranite 
+in the Damaran Belt of Namibia, unpublished Ph.D. thesis, University of Witwatersrand, 
+Johannesburg South Africa. 
+ 
+Hinojosa, D., 2008, Annual Technical Report, Namibplaas, unpublished. 
+ 
+Jacob, R.E., Corner, B. and Brynard, H.J., 1986. The regional geological and structural setting of the 
+uraniferous granitic provinces of southern Africa, 1807-1818. In: Anhaeusser, C.R. and Maske, S. 
+(Eds.) Mineral Deposits of Southern Africa, 2, Geol. Soc. S. Afr., pp. 1021-2225. 
+ 
+Dr. Laine, R., & Shilongo, E., 2011, Geology of Namibplaas, Internal Report June 2011. 
+ 
+Martin, H., 1965, The Precambrian Geology of South West Africa and Namaqualand. Precambr. Res. 
+Unit, University of Cape Town, 159 pp. 
+ 
+Miller, R. Mc.G, 1983, The Pan-African Damara Orogen of South West Africa/Namibia; In: Miller, 
+R.McG. (Ed.) Evolution of the Damara Orogen of South West Africa/Namibia, Spec. Publ. Geol. Soc. S. 
+Afr., 11, 515 p. 
+ 
+Nex, P.A,M. and Kinnaird, J.A.,  Oliver, J.H., 2001, Petrology, geochemistry and uranium 
+mineralization in the Swakop River area around Goanikontes, Southern Central Zone, Damaran 
+Orogen, Namibia, J. Afr. Earth Sci., 33, 481-502. 
+ 
+Oliver, G.J.H, 1994, Mid-Crustal detachment and domes in the central zone of the Damaran Orogen, 
+Namibia. J.Afr. Earth Sci., 19, 331-244 
+ 
+Porada, 1979, The Damaran-Ribeira orogen of the pan-African-Braziliano cycle in Namibia 
+(southwest Africa) and Brazil interpreted in terms of continental collision, Tectono, 57, 237-265. 
+ 
+Porada and Witting, 1983, Turbidite and their significance for the geosyncline evolution of the 
+Damara Orogen South West Africa/Namibia, In: Martin, H. and Eder, F.W. (Eds.) Intracontinental 
+Fold Belts. Springer Verlag, Berlin, 945 p. 
+ 
+Roesener, H,  and Schreuder, C.P., 1992, Uranium, The Mineral Resources of Namibia, 7.1.1-7.1-62. 
+ 
+Shilongo, E., 2011, Internal Reports and Thesis Proposal 
+ 
+Schreiber, U.M., 1996, Geology of the Walvis Bay Area 
+ 
+Spivey et al, 2010 
+ 
+Toes and Corner, B. 1980, 
+
+
+
+ 
+
+Technical Report on the Namibplass Deposit, Namibia – September 
+2011 
+
+ 
+
+ 
+
+P a g e  | 52 
+ 
+
+22. CERTIFICATES 
+
+OPTIRO PTY LTD 
+
+Certificate of Qualified Person 
+
+As the author of the report entitled "Technical Report on the Namibplass Deposit Namibia" (the 
+
+Study) dated 17 October 2011, on the Namibplass Project, Namibia of Forsys Metals Corp , I hereby 
+
+state: 
+
+My name is Michael Andrew and I am a full time employee of the firm Optiro Pty Ltd of Level 4, 
+
+50 Colin Street, West Perth, WA, 6005, Australia. 
+
+I am a practising geologist and a member of the AusIMM (111172). 
+
+I am a graduate of Australian National University in Australia with a BSc in Geology in 1983 
+
+I have practiced my profession continuously since 1983. 
+
+I am a "qualified person" as that term is defined in National Instrument 43-101 (Standards of 
+
+Disclosure for Mineral Projects) (the "Instrument"). 
+
+I visited the Namibplass Project property and surrounding areas for two days in July 2011.  I have 
+
+performed consulting services and reviewed files and data associated with Namibplass between July 
+
+2011 and the present.  
+
+I contributed to and am responsible for all sections of the report except for Section 7. 
+
+As of the date of this certificate, to the best of my knowledge, information and belief, the Study 
+
+contains all scientific and technical information that is required to be disclosed to make the Study 
+
+not misleading. 
+
+I am independent of Forsys Metals Corp pursuant to section 1.4 of the Instrument. 
+
+I have read the National Instrument and Form 43-101F1 (the "Form") and the Study has been prepared 
+
+in compliance with the Instrument and the Form. 
+
+I do not have nor do I expect to receive a direct or indirect interest in the Namibplass property of 
+
+Forsys Metals Corp, and I do not beneficially own, directly or indirectly, any securities of Forsys 
+
+Metals Corp or any associate or affiliate of such company. 
+
+Dated at Perth, Western Australia, on 17 October 2011. 
+
+ 
+
+Michael Andrew BSc (Geology) 
+
+Principal Consultant 
+
+ 
+
+
+"

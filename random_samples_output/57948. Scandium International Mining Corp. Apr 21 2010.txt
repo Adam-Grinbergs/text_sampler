@@ -1,0 +1,8855 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Nyngan Gilgai_tech_report_for_Canada
+
+
+ 
+
+NI43-101 Technical Report on the 
+Jervois Mining Limited Nyngan, New South Wales, Australia 
+
+ 
+
+ 
+
+NI43-101 Technical Report on 
+
+Nyngan Gilgai Scandium 
+
+Jervois Mining Limited
+
+Nyngan, New South Wales, Australia
+ 
+
+ 
+
+Prepared for: 
+
+EMC Metals Corp. 
+11th floor - 888 Dunsmuir Street
+Vancouver, British Columbia 
+Canada V6C 3K4 
+ 
+and 
+ 
+Jervois Mining Limited 
+Suite 12, Level 2  
+10 Jamieson St  
+Cheltenham, Victoria, 3192. 
+Australia. 
+ 
+
+ 
+
+Compiled by: 
+
+Sanja Van Huet (PhD, MSc, MAusIMM) 
+Based on Resource Calculations by
+
+Anthony Jannink (MA, F.AusIMM)
+Contributors:  
+
+Duncan C. Pursell (B. Sc, MAusIMM
+Endorsed by QP: 
+
+Max Rangott (B Sc. )(Rangott Mineral Exploration Pty. Ltd
+ 
+ 
+Effective Date: 9th February, 2010
+
+ 
+
+Report Date: 25th March 2010
+
+ 
+
+101 Technical Report on the Nyngan Gilgai Scandium Project 
+Nyngan, New South Wales, Australia  
+
+101 Technical Report on the  
+
+Gilgai Scandium Project 
+
+Jervois Mining Limited 
+
+New South Wales, Australia 
+
+888 Dunsmuir Street 
+
+AusIMM)  
+ased on Resource Calculations by: 
+
+(MA, F.AusIMM) and Duncan C. Pursell (BSc, MAusIMM) 
+
+MAusIMM) 
+
+(Rangott Mineral Exploration Pty. Ltd) 
+
+February, 2010 
+
+March 2010 
+
+Page 1 
+
+ 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 2 
+ 
+
+TABLE OF CONTENTS 
+SECTION CHAPTER  PAGE 
+
+  Summary  4 
+
+ i  Property Description and Ownership  4 
+
+ ii  Ownership 4 
+
+ iii  Geology and Mineralization 4 
+
+ iv  Exploration 4 
+
+ v  Mineral Resource 5 
+
+ vi  Tonnes./Grade (ppm Sc) 5 
+
+ vii  Development and Operations 5 
+
+1  Introduction  6 
+
+1.1   Terms of Reference and Purpose of the 
+Report 
+
+6 
+
+1.2   Reliance on Other Experts 6 
+
+ 1.2.1  Sources of Information 8 
+
+1.3   Qualifications of Consultant and Familiarity 
+with the Project/Site 
+
+8 
+
+2  Property Description and Location  9 
+
+2.1   Property Location 9 
+
+2.2   Mineral Titles 9 
+
+2.3   Location of Mineralization 10 
+
+2.4   Royalties, Agreements and Encumbrances 11 
+
+2.5   Environmental Liabilities and Permitting 11 
+
+ 2.5.1  Required Permits and Status 11 
+
+3  Accessibility, Climate, Local Resources, 
+Infrastructure and Physiography 
+
+ 12 
+
+3.1   Topography, Elevation and Vegetation 12 
+
+3.2   Climate and Length of Operating Season 12 
+
+3.3   Access to Property 12 
+
+3.4   Surface Rights 12 
+
+3.5   Local Resources and Infrastructure 13 
+
+ 3.5.1  Access Roads and Transportation 13 
+
+ 3.5.2  Power Supply 13 
+
+ 3.5.3  Water Supply 13 
+
+ 3.5.4  Port 13 
+
+ 3.5.5  Buildings and Ancillary Facilities 13 
+
+ 3.5.6  Manpower 13 
+
+4  History  13 
+
+ 4.1  Ownership 13 
+
+ 4.2  Past Exploration and Development 13 
+
+5  Geologic Setting  15 
+
+ 5.1  Regional and Local Geology 15 
+
+6  Deposit Type  15 
+
+7  Mineralization  15 
+
+8  Exploration  16 
+
+ 8.1  Surveys and Investigations 16 
+
+ 8.2  Interpretation of the Exploration 
+Information 
+
+17 
+
+ 8.3  Statement 17 
+
+9  Drilling  17 
+
+10  Sampling Method and Approach  18 
+
+ 10.1  Sampling Method 18 
+
+ 10.2  Sampling or Recovery Methods Which Could 
+Impact on Results 
+
+18 
+
+ 10.3  Interpretation 19 
+
+ 10.4  Establishing Higher Grade 19 
+
+ 10.5  Relevant Samples 19 
+
+11  Sample Preparation, Analysis and 
+Security 
+
+ 20 
+
+ 11.1  Sample Preparation and Assaying Methods 21 
+
+ 11.2  Data Quality 22 
+
+12  Data Verification  22 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 3 
+ 
+
+ 12.1  Quality Control Measures and Procedures 22 
+
+ 12.2  Limitations 22 
+
+13  Adjacent Properties  22 
+
+14  Mineral Processing and Metallurgical 
+Testing 
+
+ 22 
+
+15  Mineral Resources and Mineral Reserve 
+Estimations 
+
+ 23 
+
+ 15.1  Sample Collection 23 
+
+ 15.2  Significant Assay Results 23 
+
+ 15.3  Resource Calculations 24 
+
+ 15.4  Parameters Affecting Reserves 30 
+
+16  Other Relevant Data and Information  30 
+
+17  Interpretation and Conclusions  30 
+
+ 17.1  Exploration 30 
+
+ 17.2  Sampling and Analytical Data 30 
+
+ 17.3   Resources Estimation 30 
+
+ 17.4  Conclusions of Qualified Person 31 
+
+18  Recommendations  31 
+
+ 18.1  Recommended Work Programs 31 
+
+19  References  32 
+
+20  Glossary  33 
+
+ 20.1  Terms and Definitions 33 
+
+ 20.2  Abbreviations 34 
+
+21  Additional Requirements for Technical 
+Reports 
+
+ 35 
+
+ 21.1  Mining Operations 35 
+
+ 21.2  Recoverability 35 
+
+ 21.3  Markets 35 
+
+ 21.4  Contracts 35 
+
+ 21.5  Environmental Consideration 35 
+
+ 21.6  Taxes 35 
+
+ 21.7  Capital and Operating Cost Estimates 35 
+
+ 21.8  Economic Analysis 35 
+
+ 21.9  Payback 35 
+
+ 21.10  Mine life 35 
+
+22  Certificates and Statements of 
+Qualifications 
+
+ 35 
+
+23  Illustrations/Appendices 1. Location Map Jervois Tenements Nyngan  
+
+   2. Lots 6 and 7 - Nyngan  
+
+   3. Gilgai Ground Magnetics  
+
+   4. Regional Geology  
+
+   5. Regional Topography and DH location  
+
+   6. Bedrock Geological Interpretation  
+
+   7. Hematite Total Resource  
+
+   8. Limonite Total Resource  
+
+   9. Saprolite Total Resource  
+
+   10. All lithologies Total Resource  
+
+   11. Bedrock Total Resource  
+
+ 
+List of Tables 
+Table 4.2.1 Selected Neutron Activation Scans by Becquerel on five samples of DDH1 14 
+
+Table 4.2.2 Significant results from Anaconda's exploration between 1999 and 2001 14 
+
+Table 10.5.1 Significant results from the Gilgai Project 20 
+
+Table 11.1.1 Method code and description from ALS Chemex 21 
+
+Table 15.3.1 Calculated Densities for Gilgai Project 25 
+
+Table 15.3.2 Resource Estimation for the Gilgai Project 25 
+
+Table 15.3.3 Density Calculations for the Gilgai Project 26 
+
+Table 15.3.4 Total resource calculation sheet for the Gilgai Project 28 
+
+Table 15.3.5 Resource summary sheet for all categories for the Gilgai Project 29 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 4 
+ 
+
+SUMMARY 
+
+i. Property Description and Location 
+
+The Nyngan Gilgai Scandium Deposit (also called "Nyngan" or "Gilgai") lies 20 
+kilometres almost due west of the town of Nyngan, approximately 450 kilometres 
+northwest of Sydney, New South Whales, Australia. The deposit occurs 5 kilometres 
+south of Miandetta, off the Barrier Highway that connects the town of Nyngan to the 
+town of Cobar. The property is situated in flat countryside and is classed as agricultural 
+land - used for wheat farming and pasture. It lies within MGA zone 55, coordinates GDA 
+94, Lat: -31.5987, Long: 146.9827. 
+ 
+The tenements are designated (New South Wales Department of Industry and 
+Investment - Primary Industries) Exploration Licence (EL) no. 6009 (southern area) - 
+Bourke 1:1,000,000 sheet, block 3132, units d, e, j, k; block 3133, unit f; and EL 6096 - 
+Bourke 1:1,000,000 sheet, block 3132, unit p; block 3133, units l, m, r, s, (29.25 square 
+kilometres). The location of the properties'' can be found on Map Sheets 1:250k – Cobar 
+(SH/55-14) and 1:100k Hermidale (8234).   
+ 
+The licences are under an Assessment Lease Application (ALA) which is pending, but 
+the Exploration Licences are current. 
+ 
+ii. Ownership 
+
+The Gilgai Scandium Deposit is 100% under licence by Jervois Mining Limited.  The land 
+on which the resource is located has been purchased by Jervois Mining Limited for the 
+development of this resource.  The mineral resource described in this report is entirely 
+on land owned by Jervois Mining Limited and under current EL by Jervois Mining 
+Limited.  Access to the mine area through private land is under negotiation with 
+relevant land owners. 
+ 
+iii. Geology and Mineralization 
+
+The area is dominated by Cainozoic alluvial plains derived from the Darling River Basin 
+with minor colluvium and outcrop. The region is situated on the shallow southern 
+margin of the Surat Basin, known as the Coonamble Embayment. There is evidence of 
+varying degrees of lateritisation in the area. The Gilgai complex is covered by 8 to 50 
+metres of alluvial material. 
+ 
+The Gilgai intrusive complex, which is believed to be the source of the scandium, nickel, 
+cobalt and PGMs in the regolith,  is an Alaskan-type ultramafic complex made up of a 
+range of rock types including hornblende monzonite, hornblendite, pyroxenite, olivine 
+pyroxenite to dunite-peridotites, and is believed to be of Ordovician age. The intrusives 
+are included within the 'Fifield Platinum Province'.  
+ 
+iv. Exploration 
+
+In the late 1980's Lachlan Resources N.L., as manager for "Platinum Search NL", 
+explored for PGE mineralization in the area using RAB and diamond drilling.   Airborne 
+and ground magnetic surveys were used to locate and delineate an intrusive ultramafic 
+complex considered prospective for PGE mineralization. In 2001 two further traverses 
+of RC drilling were undertaken. 
+ 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 5 
+ 
+
+Jervois Mining Limited continued drilling in the area in January/February 2006.   An 
+aircore drilling programme of 2638 metres in 69 holes was completed on the Gilgai 
+Scandium Project (EL 6009). The drilling targeted a laterite that had previously been 
+explored by Platsearch.  Since the 2006 program a further 9 holes, for an additional 
+316m of drilling, have been completed (total Jervois Mining Limited drilling: 78 holes 
+for 2954m). 
+ 
+v. Mineral Resource 
+
+Jervois' drilling program in 2006 involved 50 metre spaced RC percussion and aircore 
+drill holes (25 metre sphere of influence for each hole) chosen over shallow overburden 
+and 'visual quality' of the limonite horizon. 
+ 
+The resources have been calculated by plan polygonal methods for each of the four 
+resource lithological categories – hematite, limonite, saprolite and bedrock. The volume 
+of each block is the polygonal area times drill thickness. A minimum of 2 metres 
+thickness has been used. An arbitrary lower cut-off grade of 100ppm Sc has been 
+employed. The density calculations are based on the weight of the samples produced 
+from the drill holes. 
+ 
+The drillhole diameter in this programme was 3½ inches (or 0.0889 metres). Thus the 
+volume of 1 metre drilled is 0.006207167 cubic metres. This factor has been applied to 
+each intersection within the resource calculations to obtain an in situ density for each 
+lithology. 
+ 
+To obtain the rock densities an adjustment has been made by making a moisture 
+content correction. The parent rocks are slightly different in density; the pyroxenite 
+approximately 3.2 t/m3 and the serpentinite approximately 2.2t/m3.  The parent density 
+figures may be ambiguous because the lateritisation weathering process is not the same 
+for the two rock types. The density figures quoted are on the conservative side. 
+Using the above parameters, the resource figures below have been calculated from the 
+results of the recent drilling: 
+ 
+vi. Tonnes/Grade (ppm Sc)  
+
+Scandium: 12 million tonnes at 261 ppm Sc  including 
+
+ 1.5 million tonnes at 330 ppm Sc Measured Resource of Limonite lithology 
+
+ 
+An Assessment Lease Application (ALA), no 43 was lodged with the NSW Department of 
+Industry and Investment (I&I) in June 2008, and is currently pending. 
+ 
+vii. Development and Operations 
+
+Recent process test work on the ore has yielded recoveries of greater than 90% 
+scandium and this research is nearing completion. A ready market has already shown 
+interest in scandium oxide to 99.9% purity. Scandium is envisaged for use in fuel cell 
+technology with an initial demand of up to 10 tonnes p/a and increasing. 
+ 
+On February 8th 2010, EMC metals Corp. (EMC) and Jervois Mining Limited (Jervois) 
+signed a Joint Venture agreement to develop the Gilgai Deposit where EMC will manage the 
+Joint Venture Project. 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 6 
+ 
+
+ 
+Under the Agreement, EMC has paid the sum of CAD $300,000 into escrow to be released 
+to Jervois upon satisfaction of certain conditions precedent, including verification of title to 
+the Nyngan property and approval of the Toronto Stock Exchange. 
+ 
+The Agreement requires EMC to incur exploration and metallurgical work of AUS $500,000 
+(CAD $460,000) within 180 business days of the conditions precedent being satisfied, or pay 
+cash in lieu thereof. In the event that EMC wishes to continue the joint venture, EMC must 
+deliver a bankable feasibility study within 480 business days of the conditions precedent 
+being satisfied, failing which the Agreement will terminate. 
+ 
+Upon EMC delivering the bankable feasibility study to Jervois, EMC must pay to Jervois an 
+additional AUS $1,300,000 plus GST at which time it will be granted a 50% interest in the 
+joint venture. The Agreement provides for straight-line dilution, with interests diluted below 
+10% being converted into a 2% Net Smelter Returns Royalty. 
+ 
+
+1. INTRODUCTION 
+
+1.1 Terms of Reference and Purpose of Report 
+
+This report has been prepared by Jervois Mining Limited at the request of EMC in order 
+to prepare a Canadian National Instrument 43-101 (NI 43-101) compliant Technical 
+Report on the Nyngan Gilgai Scandium Resource, Nyngan, New South Wales, Australia. 
+   
+Jervois Mining Limited is in its 46th year as a listed mining company of the Australian 
+Stock Exchange (ASX).  The company started in 1963 heap leaching copper oxide in the 
+Jervois Ranges in the Northern Territory and then moved to oil tenements in the Cooper 
+and Perth basins. In 1987 the company gradually acquired mineral tenements for gold 
+and base metals. 
+ 
+At the present time, one of the company's principal assets is the company's scandium 
+resource near Nyngan, NSW.  
+ 
+This document provides a Technical Report on Resources of the Nyngan Gilgai 
+Scandium Resource (also called "Nyngan" and "Gilgai"), prepared according to NI-43-
+101 guidelines. Form NI 43-101F1 was used as the format for this report. The intent of 
+this Technical Report on Resources is to provide the reader with a comprehensive 
+review of the historical exploration activities conducted at the Nyngan Gilgai Scandium 
+Resource, and a current resource estimate based on 78 holes for 2954m. 
+ 
+This Technical Report on Resources was prepared using the guidelines of the 
+Australasian Code for Reporting of Exploration Results Mineral Resources and Ore 
+Reserves – The JORC Code 2004, in line with the Canadian Securities Administrators 
+revised regulations in NI 43-101 (Standards of Disclosure For Mineral Projects) and 
+Companion Policy 43-101CP. 
+ 
+1.2 Reliance on Other Experts  
+
+The Qualified Person (QP), Max Rangott has examined the historical data for the Nyngan 
+Gilgai Scandium Resource submitted to him by Jervois Mining Limited and has relied 
+upon that basic data to support the statements and opinions presented in this Technical 
+Report on Resources. In the opinion of the QP, the historical data is present in sufficient 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 7 
+ 
+
+detail, is credible and verifiable in the field, and is an accurate representation of the 
+Gilgai Scandium Resource. The historic documentation available for the Gilgai Scandium 
+Resource is extensive in most areas, and of good quality. It is the opinion of the QP that 
+there are no material gaps in the drilling and assay information for the project. 
+Sufficient information is available to prepare this report, and any statements in this 
+report related to deficiency of information are directed at information, which, in the 
+opinion of the author/s, either has been lost over the period of inactivity and ownership 
+transfers, is stored in non-sorted corporate file cases, or it was not gathered by previous 
+workers. 
+ 
+This report includes technical information, which requires subsequent calculations to 
+derive subtotals, totals, and weighted averages. Such calculations inherently involve a 
+degree of rounding and consequently can introduce a margin of error. Where these 
+rounding errors occur, Max Rangott does not consider them to be material. 
+ 
+The author/s have relied upon the work of others in referring specifically to Sections 2 
+through 9: Property Description and Location, Climate, Local Resources, Infrastructure, 
+Physiography, History and Geological Setting. 
+ 
+The information contained in these sections was obtained from: 
+- NSW Government Data Systems (Minview and DIGS) 
+- http://imagery.maps.nsw.gov.au 
+- http://www.minerals.nsw.gov.au/tasmap/jsp/Viewer.jsp?cmd=login 
+- Department of Lands, Dubbo Office, Contact: Craig Ferguson 
+- http://www.legislation.nsw.gov.au/maintop/scanact/inforce/NONE/0,  
+- Bogan Shire Council, Nyngan, Contact:  Josh Loxley, Google Earth, 
+- Manager Engineering Services, Bogan Shire Council, Nyngan, Contact: Keith 
+Dawe and various online technical reports from previous licence holders:  
+- Final report EL 0076 (1967) Nyngan area by Anaconda Australia Limited 
+- Exploration Reports on EL 2965 Nyngan/Miandetta area (1988-1990) by 
+Lachlan Resources NL and Platinum Search NL 
+- First to the Third (and final) Annual reports EL 5589 Nyngan area (to 
+11/7/2002) by Anaconda (NSW) Pty Ltd 
+- First to the Seventh (and final) Annual Exploration Reports EL 4756 Cobar Area 
+by Platsearch NL 
+ 
+Drill interval samples were prepared and assayed by Australian Laboratory Services 
+Pty. Ltd. in Orange NSW.   
+ 
+The author/s of the original information in the JORC compliant 'Report on Gilgai 
+Scandium Project Air Core Drilling and Resource Calculations EL 6009 Nyngan NSW for 
+Jervois Mining Limited Volumes 1-3, July 2006' were Anthony Jannink, a consultant for 
+Douglas McKenna and Partners Pty Ltd.  and Duncan Pursell of Jervois Mining Limited.   
+The updated version of this report, prepared for Canadian National Instrument 43-101 
+(NI 43-101) compliant Technical Report has been compiled by Dr. Sanja Van Huet, 
+Exploration Manager for Jervois Mining Limited under the instruction of Duncan 
+Pursell.     
+ 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 8 
+ 
+
+The results of this Technical Report on Resources are not dependent upon any prior 
+agreements concerning the conclusions to be reached, nor are there any undisclosed 
+understandings concerning any future business dealings between EMC Metals, the 
+author/s or the QP.  The QP will receive a fee for his work in accordance with normal 
+professional consulting practice. 
+ 
+1.2.1 Sources of Information 
+
+Standard professional review procedures were used in the preparation of this report. 
+The author/s reviewed historical data provided by the sources cited in 1.2.  The 
+author/s site managed the drilling and sampling in the Gilgai Scandium Resource Area, 
+conducted follow up site visits to assess access, ownership and land use, confirmed the 
+data and results of assays, reviewed the mineralization in the area, and reviewed the 
+project site.  
+ 
+All of the air core samples and chip trays from the Jervois Mining Limited drilling at 
+Gilgai remain either in our storage facility in Nyngan or at Jervois Mining's Head Office 
+in Cheltenham, Victoria, and are organized for easy access.  
+ 
+During January and February 2006, Jervois Mining Limited drilled 64 reverse 
+circulation (RC) percussion holes and 5 air core holes at Gigai and a further 9 air core 
+holes  in 2009 for a total of 78 holes with a total depth of 2954m.  
+ 
+The results of this work are discussed in Section 8 – Exploration, of this report. 
+Additional sources of information are presented throughout the body of the text and in 
+Section 19 – References. 
+ 
+1.3 Qualifications of Consultant and Familiarity with the Project/Site. 
+
+Max Rangott. B Sc (Uni Syd)  
+
+I have been a working geologist since 1967.  In my current position, since 1987, I have 
+been a Director of Rangott Mineral Exploration Pty. Ltd., (RME) at Orange, NSW.  RME 
+specialises in geological consulting and exploration contracting for a wide variety of 
+clients, in the search for base and precious metals, tin-tungsten-lithium industrial 
+minerals and gemstone deposits. 
+ 
+My recent experience includes the management of RME, with supervision of employee 
+geologists on contracting and consulting jobs, project supervision, provision of 
+geologists and back-up crews on a "dryhire" basis, and direct consulting and contracting 
+work on specific jobs. Direct involvement in specific projects ranges from major field 
+campaigns to office data reviews, reporting, and advising clients on ground selection, 
+dealing with regulatory requirements, and so on. 
+ 
+I am a Fellow of the AusIMM , a member of the Australian Institute of Geoscientists, the 
+Geological Society of Australia and the Mineral Industry Consultants Association.    
+ 
+I have had an indirect involvement with a number of Jervois' laterite projects, including 
+Gilgai, over the past ten years, mainly by supplying field assistants and geologists for 
+field programmes, supervising the sampling of drill core (Young project), and the 
+planning of ground magnetic surveys.  In 1988 and 1990 I was the drillsite geologist and 
+exploration supervisor for Platsearch NL, when we carried out the first few geochemical 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 9 
+ 
+
+drilling programmes at the Gilgai site. I also conducted a technical tour of the Platsearch 
+properties in central NSW, including Gilgai, with representatives of Toyota Tsusho 
+Corporation, who had entered a joint venture for platinum exploration with Platsearch 
+and Devex Ltd. 
+ 
+I consider that I am familiar with the technical details of the Gilgai project, but have 
+remained independent from Jervois' exploration drive there. 
+ 
+2. Property Description and Location  
+
+2.1 Property Location 
+
+The Gilgai scandium deposit lies 20 kilometres almost due west of Nyngan, 
+approximately 450 kilometres northwest of Sydney. The deposit occurs 5 kilometres 
+south of Miandetta, off the Barrier Highway that connects Nyngan to Cobar (Appendix 1 
+Location Map- Jervois Tenements, Nyngan). 
+ 
+The drive from the town of Nyngan to the property takes approximately 20 minutes. 
+The area can be reached via the paved Barrier Highway which allows year round access 
+but access to the site itself is along clay farm tracks making access in wet conditions 
+difficult.  Consultation with land owners to gain access and construct an all-weather 
+gravel road has commenced.  
+ 
+The resource site is located at geographic coordinates MGA zone 55, GDA 94, Lat: -
+31.5987, Long: 146.9827, Map Sheets 1:250k – Cobar (SH/55-14) and 1:100k 
+Hermidale (8234).   
+ 
+2.2 Mineral Titles 
+
+The Gilgai resource is held under the mineral title – Exploration Licence (EL) 6009 
+(Block Number 3132, units d, e, j, k and Block no. 3133, unit f) and EL 6096 (Block 3132, 
+unit p, and Block 3133, units l, m, r and s).  An Assessment Lease Application is currently 
+pending over the area of these two ELs and over a third area, EL 6095, located 25km to 
+the south-southwest.   
+ 
+
+The Exploration Licences allow Jervois Mining Limited to conduct exploration on 
+private land (with landowner consents and signed compensation agreements in place) 
+and public lands not including wildlife reserves, heritage areas or National Parks.  The 
+Scandium resource is fully enclosed on private agricultural land currently owned by 
+Jervois Mining Limited.   
+ 
+Jervois Mining Limited owns both the surface and mineral rights.   The local 
+administrative body is the Bogan Shire Council, Nyngan NSW.   The Shire Council rates, 
+to retain ownership of the land, (subject to annual assessment) are AU$828.19, current 
+to August 2010. Rates are paid at the Bogan Shire Council Offices on or before August 
+31st each year.   
+ 
+Additionally, Jervois Mining Limited is required to submit Interim and Annual 
+Exploration Progress Report to the Department of Industry and Investment, NSW, 
+outlining any work (R&D and/or exploration) and expenditure throughout the year on 
+the tenements held.   This is a requirement to retain tenure of the licences held.  A 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 10 
+ 
+
+minimum expenditure is required on the tenements held and expenditure details must 
+be included in the reports. 
+ 
+The free hold property boundaries are defined by standard land survey techniques 
+undertaken by the Lands Department and currently presented in the form of Cadastral 
+Deposited Plans (DP) and Lots. The land owned by Jervois Mining Limited is DP 752879, 
+Lots 6 and 7 (Appendix 2, Lots 6 and 7 - Nyngan). 
+ 
+The combined area of the tenements covering the Gilgai scandium resource is 29.25 sq. 
+km (of which approximately 14.6 sq km is EL 6096 and 14.6 sq km is the southern area 
+of EL 6009.)  The main resource area (at cut off 100ppm Sc) covers approximately 0.5sq 
+km, although the true extent is as yet not delineated. 
+ 
+2.3 Location of Mineralization 
+
+The area is dominated by Cainozoic alluvial plains derived from the Darling River Basin 
+with minor colluvium and outcrop. The region is situated on the shallow southern 
+margin of the Surat Basin, known as the Coonamble Embayment. There is evidence of 
+varying degrees of lateritisation in the area. 
+ 
+The western-most north-south structural zone of the Lachlan fold belt is known as the 
+Girilambone Structural Zone. It is composed of Cambrian-Ordovician metasediments 
+known as the Girilambone Group intruded by numerous mafic and ultramafic bodies of 
+similar age and by middle Silurian granite and volcanic. 
+ 
+To the north of the Gilgai Resource is the south-west limb of a north-south trending 
+arcuate belt of serpentinised ultramafic known as the West Lynn Serpentinite.   A small 
+block of ultramafic to the immediate north-west is the Miandetta intrusion. Thin section 
+analysis has interpreted the West Lynn Serpentinite as being derived from the 
+alteration of a medium grained dunite. The linear nature of the West Lynn ultramafic 
+unit suggests an Alpine-type origin, supported by low levels of PGE's. The Miandetta 
+intrusion may be a dismembered portion of the West Lynn Serpentinite. 
+ 
+The Gilgai resource, located to the south of this belt is an Alaskan-type zoned intrusive 
+complex (the 'Gilgai Complex') made up of a range from hornblende monzonite, 
+hornblendite, pyroxenite, olivine-pyroxenite to dunite-peridotites. The intrusives are 
+included within the 'Fifield Platinum Province'. The Gilgai Complex is covered by 8 to 
+>50 metres of alluvium and soil. 
+ 
+A regional geological interpretation plan (Appendix 6 Bedrock Geological 
+Interpretation) has been drawn based on bedrock intersections in both recent and 
+previous drilling. Because of the weathered nature of the drill cuttings, the geological 
+plan must be considered interpretive. 
+ 
+The igneous rock types encountered have been logged as: 
+Pyroxenite; Olivine Pyroxenite; Hornblende Pyroxenite; Hornblendite; Magnetite 
+Pyroxenite; Dunite; and Monzonite. 
+ 
+There is a suggestion of a layered pattern of the complex in a NW-SE direction (this is 
+supported by the magnetic trend). There also appears to be a zone of stronger alteration 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 11 
+ 
+
+in the (south) centre of the complex where abundant magnetite and mica (phlogopite) 
+occur. 
+ 
+Tertiary lateritisation of the Gilgai Complex has produced the fairly standard laterite 
+profile outlined below: 
+ 
+Hematitic clay 
+Limonitic clay 
+Saprolitic clay 
+Weathered bedrock 
+Fresh bedrock 
+ 
+Thicknesses of > 40 metres of weathered bedrock have been intersected. The hematite 
+zone is overlain by alluvials with a high proportion of gravels.  
+ 
+A palaeochannel system contains a younger colluvial-alluvial sequence of silts, sands 
+and ferruginous gravels. Regolith-landform mapping and dating of key regolith 
+materials has established the landscape history back to the Early Jurassic. This history 
+reflects dominant subaerial exposure. There has been ongoing weathering, erosion and 
+deposition controlled by bedrock composition, climate change, changes in base level 
+and some neo-tectonic activity.  
+ 
+2.4 Royalties, Agreements and Encumbrances 
+
+A Royalty Agreement was reached between Jervois and Plumbum Pty Ltd and Kannateal 
+Pty Ltd (previous owners of the Exploration Licence area). Jervois is to pay a royalty 
+equivalent of 1.5% of Net Smelter Return on any metal produced from the tenement. 
+This agreement was dated 4th June 2002 and was registered with the Department of 
+Mineral Resources (now I&I) and for Stamp Duty. A similar agreement on EL6096 
+(Gilgai) was signed on 30 October 2003 and registered with the DPI on 22nd January 
+2004. 
+ 
+2.5 Environmental Liabilities and Permitting 
+
+2.5.1 Required Permits and Status 
+
+The mineral resources discussed in this report are all located on private land owned by 
+Jervois Mining Limited.  Normally any exploration must be with the land owner's 
+written approval and a compensation agreement in place prior to work commencing.   
+ 
+Exploration activities must also be compliant with Environmental Management 
+Guidelines for the 'EDG 10 Surface Disturbance Notice (SDN) for Exploration Activities' 
+under Part 5 of the Environmental Planning and Assessment Act 1979, and written 
+approval must be received from the Department of I&I prior to the commencement of 
+surface disturbing operations such as drilling.  
+ 
+The permit application is five-pages which outlines 1.  A description of the project, 2. 
+Proposed exploration activities and a 3. Proposed rehabilitation plan.  This should be 
+submitted at least 1 month prior to exploration activities and must be accompanied by 
+pre-drilling photographs, description of the drill area and followed up with a drilling 
+report and photographs of the drill sites post-drilling.   
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 12 
+ 
+
+All exploration and mining activity in NSW (with the exception of Private Mining 
+Agreements) must be conducted on granted titles and these are issued and 
+administered by the Department's Titles Branch.  These titles provide the control 
+mechanism for government by stipulating operating and environmental conditions.  
+They also give proponents and title holders exclusive rights to explore and mine for 
+minerals, as well as the guaranteed security of tenure (subject to meeting the 
+Department's guidelines) required for investment in minerals exploration and mining 
+development. The Mining Act (1992) covers onshore NSW.  
+ 
+In order to commence mining a Mining Lease Application will be prepared and 
+submitted for approval. Rights to mine will only be granted after Development Consent 
+has been granted by the local government body (subject to acceptance of an 
+Environmental Impact Statement). 
+ 
+3. Accessibility, Climate, Local Resources, Infrastructure and Physiography  
+
+3.1 Topography, Elevation and Vegetation 
+
+The topography is mildly undulating to flat elevated plateaus at an average elevation of 
+173m asl.   The area is overlain with alluvial red clays which display 'gilgai-type' 
+swelling characteristics.   
+ 
+The area is predominantly dry eucalypt and native pine woodland. Large areas of 
+original woodlands have been permanently altered through the removal of pine for 
+timber, the grazing of shrubs by livestock and the invasion of woody weeds. 
+ 
+3.2 Climate and Length of Operating Season  
+
+The Nyngan area has a sub arid climate with the highest mean maximum (summer) 
+temperature of 34oC in January and a mean (winter) minimum temperature of 16oC. 
+Yearly average maximum temperature of 25.7 oC and a minimum yearly average of 11.7 
+oC in July. 
+ 
+The mean maximum (summer) rainfall of 51mm occurs in January and the  mean 
+(winter) rainfall minimum of 27mm in September.  Nyngan is under a sub tropical to 
+tropical influence from the north of the continent.  The operating season of the mine can 
+be all year round if all-weather gravel roads are constructed for access. 
+ 
+
+3.3 Access to Property 
+
+Access to the Gilgai Resource is via the Barrier Highway which links the towns of 
+Nyngan and Cobar.  Approximately 25 km to the west of Nyngan is a turn-off to the 
+southwest along the paved Gilgai Road.  The deposit is 5 kilometres south of Miandetta. 
+Access from this point is via private dirt and gravel tracks.   
+ 
+3.4 Surface Rights 
+
+Jervois Mining Limited owns surface rights to approximately 800 acres of land which 
+encompasses the resource. The surface rights are managed by Hetherington Explotaion 
+and Mining Title Services Pty. Ltd., Sydney, NSW on behalf of Jervois Mining Limited.  
+ 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 13 
+ 
+
+3.5 Local Resources and Infrastructure 
+
+3.5.1 Access Road and Transportation 
+The township of Nyngan is accessed by the Barrier and Mitchell Highways.  There is a 
+seasonally used single track rail line used for hauling grain and sulphide concentrates 
+from mines at Cobar to the eastern seaboard ports.  
+ 
+
+3.5.2 Power Supply 
+
+There is a major electricity substation at Dubbo NSW approximately 170 km from the 
+Gilgai Resource.  High voltage powerlines run parallel to the Barrier Highway from 
+Nyngan to Cobar, and passes within 3 km of the resource area, and domestic power 
+lines run along the Gilgai Rd.   
+ 
+3.5.3 Water Supply 
+
+Ground water is present in significant aquifers in the district, but a licence will be 
+required to extract water, or an existing licence may be purchased from elsewhere in 
+the Macquarie River catchment. A dam on the property is constantly fed though 
+seepage. Water supply pipelines run from Nyngan to Cobar parallel to the Barrier 
+Highway.  
+ 
+
+3.5.4 Port 
+
+The nearest port facility is at Newcastle, located approximately 500 km from the Gilgai 
+Resource.   
+ 
+
+3.5.5 Buildings and Ancillary Facilities 
+
+At the time or writing there are no buildings or ancillary facilities on the site.  A draft 
+mine plan has been prepared but not yet implemented.  Jervois is yet to commence the 
+permitting process to undertake mining activities.   
+ 
+3.5.6 Manpower 
+
+Abundant labour for technical and hourly staff is available in Nyngan, Cobar and other 
+regional communities. Nyngan has a population of 2500 and offers most amenities. 
+ 
+4. History  
+
+4.1 Ownership  
+
+The Gilgai Scandium Deposit is 100% held under licence by Jervois Mining Limited.  The 
+freehold title to the land under which the resource is located has been purchased by 
+Jervois Mining Limited for the development of this resource.  The mineral resource 
+described in this report is entirely under the land owned by Jervois Mining Limited and 
+under current ELs held by Jervois Mining Limited.   Access to the mine area through 
+private land is under negotiation with relevant land owners. 
+ 
+
+4.2 Past Exploration and Development 
+
+The first systematic exploration in the region was by Selection Trust in the late 1970's, 
+targeting base metal and gold mineralization. Work included mapping, rock chip 
+sampling and the drilling of seven percussion drill holes. The results returned were not 
+deemed encouraging by Selection Trust, however values of up to 1.16% nickel were 
+reported. 
+ 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 14 
+ 
+
+North Broken Hill Ltd. took up a number of tenements in the late 1970s and early 1880s 
+initially to look for tin, but later for ultrabasic related sulphide mineralization.   In the 
+Honeybugle area, they conducted regional exploration including the drilling of 52 auger 
+holes on Pangee Road and at the Pangee Road Pits for a cumulative 287 metres. 
+ 
+Lachlan Resources N.L., as manager of the "Platsearch Group" explored for PGE 
+mineralization in the late 1980's, relinquishing the ground in 1993. Airborne and 
+ground magnetic surveys were used to locate and delineate the intrusive "Alaskan-
+style" ultramafic complexes considered to be prospective for PGE mineralization, 
+modeled initially on the platinum bearing Tout (Syerston) intrusive complex near 
+Fifield, then on the Kars Complex neat Condoboin. Broad-spaced RAB drilling identified 
+a platiniferous zone at the western end of the large Gilgai complex. A follow-up 
+programme included detailed ground magnetic surveys and RAB drilling at 25m x 50m 
+spacing over an area of 400m x 500m. A total of 134 RAB holes for a cumulative 6,779m 
+were drilled. Two inclined diamond holes were also completed each 250m deep. Assay 
+results from the diamond drilling programme showed peak values of 1.53 g/t Pt, and 
+revealed an iron-rich phase with abundant magnetite and minor sulphides including 
+pyrite, pyrrhotite, and chalcopyrite. Neutron Activation Scans by Becquerel on five 
+samples of DDH1 core included three samples from the iron-rich phase. These samples 
+assayed 108, 104 and 110 g/t scandium as shown below: 
+ 
+
+Table 4.2.1 
+
+Sample No.            Depth (m) Pt (ppm) Sc (ppm)  Rock Type 
+
+27132 109-110 0.34 55.1 Dunite/Olivine Pyroxenite minor veins 
+
+27142 119-120 1.09 65.4 Olivine Pyroxenite minor veins 
+
+27229 206-207 <0.05 108 Magnetite Pyroxenite, pegmatite veins 
+
+27262 239-240 0.11 104 Magnetite Pyroxenite, pegmatite veins 
+
+27264 241-242 0.06 110 Magnetite Pyroxenite, pegmatite veins 
+
+ 
+
+Anaconda's exploration between 1999 and 2001 concentrated on searching for 
+nickel/cobalt enrichment in laterites overlying serpentinite. To this end, Anaconda 
+completed some 31 kilometres of ground magnetic traversing and put down 2302 
+metres of RC drilling in 54 holes.  Significant results are itemized in the table 5.1.1.  
+Further work was planned by Anaconda but was not carried out. 
+ 
+Table 4.2.2 
+
+Hole ID GDA E (m) GDA N (m) From(m) To (m) Intercept (m) Ni% Co% Mg% 
+
+WLRC 002 503213 6516003 11 24 13 0.95 0.030 14.4 
+
+WLRC 006 503163 6515988 13 21 7 0.72 0.041 7.13 
+
+WLRC 007 504813 6513538 30 43 13 0.71 0.044 7.56 
+
+WLRC 009 505013 6513588 38 40 2 0.55 0.028 5.12 
+
+WLRC 012 504713 6513523 30 48 18 0.56 0.020 7.66 
+
+WLRC 013 504613 6513508 36 55 19 1.12 0.097 3.71 
+
+WLRC 014 504513 6513473 35 44 9 0.70 0.035 11.5 
+
+WLRC 015 504413 6513448 37 53 16 0.98 0.066 7.22 
+
+WLRC 017 505713 6512183 22 32 10 0.51 0.030 5.48 
+
+WLRC 030 503713 6515183 16 27 11 0.90 0.102 6.03 
+
+WLRC 034 504313 6514383 38 52 14 0.73 0.034 5.84 
+
+WLRC 035 504213 6514383 37 50 13 0.64 0.027 9.70 
+
+GILRC001 499686 6502770 25 27 2 0.17 0.136 1.4 
+
+GILRC002 499680 6502679 27 53 26 0.30 0.074 2.1 
+
+GILRC003 499660 6502579 15 24 9 0.12 0.145 6.0 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 15 
+ 
+
+GILRC006 499608 6502272 36 39 3 0.25 0.107 4.2 
+
+GILRC012 499723 6502981 52 63 11 0.14 0.095 1.4 
+
+ 
+ 
+5. Geologic Setting  
+
+5.1 Regional and Local Geology 
+
+The area is dominated by Cainozoic alluvial plains derived from the Darling River Basin 
+with minor colluvium and outcrop. The region is situated on the shallow southern 
+margin of the Surat Basin, known as the Coonamble Embayment. There is evidence of 
+varying degrees of lateritisation in the area. 
+ 
+The western-most north-south structural zone of the Lachlan fold belt is known as the 
+Girilambone Structural Zone. It is composed of Cambrian-Ordovician metasediments  
+ 
+ 
+and minor basic volcanics known as the Girilambone Group, intruded by numerous 
+mafic and ultramafic bodies of similar age and by middle Silurian granite and volcanics. 
+ 
+The northern part of the project area covers the south-west limb of a north-south 
+trending arcuate belt of serpentinised ultramafics known as the West Lynn Serpentinite 
+and a small block of ultramafics to the south-west called the Miandetta intrusion. Thin 
+section analysis has interpreted the West Lynn Serpentinite as being derived from the 
+alteration of a medium grained dunite. The linear nature of the West Lynn ultramafic 
+unit suggests an Alpine-type origin, supported by the low levels of PGEs determined by 
+assays. The Miandetta intrusion may be a dismembered portion of the West Lynn 
+Serpentinite. 
+ 
+In the south, the Gilgai and Honeybugle intrusive complexes are Alaskan-type 
+complexes made up of a range from hornblende monzonite, hornblendite, pyroxenite 
+and olivine pyroxenite to dunite-peridotites. The intrusives are included within the 
+'Fifield Platinum Province'. The Gilgai complex is covered by 8 to 50 metres of Tertiary 
+to Recent age alluvial material, with alluvium detected to 85m depth near the northern 
+margin of the complex. 
+ 
+
+6. Deposit Type  
+
+The Gilgai resource is located within a limonitic and saprolitic Tertiary laterite which 
+has a fairly typical laterite profile: 
+Haematitic clay 
+Limonitic clay 
+Saprolitic clay 
+Weathered bedrock 
+Fresh bedrock 
+ 
+The resource is centred over the more mafic phases of the zoned Gilgai ultramafic 
+complex. Weathering persists to 60m depth in the northern flanks of the complex.  
+ 
+7. Mineralization 
+
+A geological interpretation plan was prepared, based on bedrock intersections in both 
+recent and previous drilling. Because of the weathered nature of the drill cuttings, the 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 16 
+ 
+
+geological plan must be considered interpretive. The igneous rock types encountered 
+have been logged as: 
+Pyroxenite; Olivine Pyroxenite; Hornblende Pyroxenite; Hornblendite; Magnetite 
+Pyroxenite; Dunite; and Monzonite. 
+ 
+There is a suggestion of a layered trend of the complex in a NW-SE direction (this is 
+supported by the magnetic pattern).  These trends reflect a broadly concentric zonation 
+of lithologies in the complex. There also appears to be a zone of stronger alteration in 
+the (south) centre of the zone where abundant magnetite and mica (phlogopite) occur. 
+Jervois assisted an Australian National University (CRC-LEME) student, Augustine 
+Alorbi, with his Honours thesis titled 'The Geology and Geochemistry of the Miandetta 
+Area near Nyngan, NSW' dated June 2006. 
+ 
+The abstract of this work follows: 
+ 
+
+"This study focuses on understanding the Geology and Geochemistry of the Miandetta area, near 
+
+Nyngan New South Wales.   The regolith of the Miandetta region is extensive, deep and complex 
+
+and by understanding the nature and origin of this material it is possible to establish whether 
+
+contained elements are laterally transported or indicating underlying mineralization. 
+
+ 
+
+Drill samples were assessed to understand the degree of geochemical dispersion of elements 
+
+related to the underlying mineralization through the in situ and transported cover.   In order to 
+
+achieve this, the cover was logged and mapped so as to determine the physical nature of the 
+
+surficial and buried regolith.   This involved logging eleven holes in detail and interpreting over 
+
+nine holes that had been previously logged by Dr K.G. McQueen.   Having established the physical 
+
+nature of the regolith cover through the bedrock mapping and drill holes information combined 
+
+with the regolith-landform mapping, construction of a schematic cross section of the Miandetta 
+
+area helped to interpret the geological history and landscape evolution of the area.   Different 
+
+components of the cover were analyzed by geochemical and mineralogical means (ICP-OES and 
+
+XRD). 
+
+ 
+
+Results from the different methods of analysis all highlighted the variation in cover type.   XRD 
+
+results showed a decrease in quartz content between the sandy and clayey units and the 
+
+geochemistry showed differences in element abundances suggesting that the different cover types 
+
+have different provenances.   The geochemical study also indicated that there was some dispersion 
+
+of elements related to mineralization vertically up the profile.   The sequential extraction shows 
+
+that most of the target and pathfinder elements of interest in the Miandetta terrain are in the 
+
+strongly bound state and biogeochemistry suggested that the plants were taking significant 
+
+amounts of metal from the ground". 
+
+ 
+8. Exploration 
+
+8.1 Surveys and Investigations 
+
+Previous drilling at Gilgai (outlined in 4.2) searching for platinum revealed a large 
+buried laterite body over 1000x500 metres in area. The laterite at the Gilgai Resource, 
+which is covered by a minimum of 15 metres of Quaternary alluvials, had been outlined 
+in the late 1980's by previous explorers searching for platinum.   134 RAB holes (for 
+6779 metres) and two diamond drill holes (each 250 metres deep) were drilled on the 
+prospect.    Jervois discovered the presence of scandium at Gilgai from the assay results 
+of five multi-element Neutron Activation Scans of drill core made by the previous 
+explorers.    
+ 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 17 
+ 
+
+Between 1999 and 2001, two traverses of RC drillholes exploring for nickel were drilled 
+across the Gilgai area.   The sample pulps from these holes were obtained by Jervois and 
+many of them were analyzed for scandium.  The results of these assays indicated that 
+there was significant enrichment of scandium in the Gilgai laterite. 
+ 
+In September 2005, as part of a regional aircore drilling programme, Jervois drilled 5 
+holes (Na49 to Na53 inclusive) along an east-west fence line through the centre of the 
+laterite body.   Results from this drilling confirmed that a major resource of scandium 
+was present at Gilgai. 
+ 
+All the 1 metre intervals were geologically logged and weighed and magnetic 
+susceptibility readings taken.  Chip tray samples were prepared for each drillhole.   All 
+intervals below the alluvial overburden were sampled and despatched for assay (except 
+for two holes Na55 and Na89 which penetrated monzonite and sediments respectively).   
+All sample residue, except alluvium, was transported to a shed in Nyngan and stored for 
+use in future metallurgical testwork. 
+ 
+8.2 Interpretation of the Exploration Information 
+
+Table 10.5 shows all the significant scandium assay values by section and includes other 
+previous holes that contribute to the resource figures. 
+ 
+
+The drill intercepts include all lithologies and where the width is shown in brackets it 
+indicates that there is internal waste (ie contains intervals with less than 100 ppm Sc) 
+within the intercept. 
+ 
+8.3 Statement 
+
+Surveys and investigations carried out during 2006 (and subsequently) have been 
+carried out by the issuer. 
+ 
+9. Drilling 
+
+The aircore drilling programme was performed by Competitive Drilling Services Pty. 
+Ltd. of Blayney NSW. The rig used was a Schramm 450, hole diameter 3½ inches 
+(89mm) and the compressor had a capacity of 350psi and 600cfm. Drilling commenced 
+on 16th January 2006 and was completed on 9th February 2006 with a break of 6 days 
+between 20th January and 27th January due to compressor breakdown. The 
+programme entailed 2638 metres in 69 holes in 19 days of drilling (ie a drill rate of 3.6 
+holes and 139 metres per day). Most of the delays encountered were caused by 
+blockages in the head/take-off tube especially in gravel overburden. Except for 
+occasional hard hematite (hole Na85 was abandoned due to hard hematitic ground), the 
+laterite zone generally allowed good drilling and recovery. A hammer bit (4¾" = 
+121mm diameter) was used in one hole (Na100) due to hard ground. 
+ 
+After the completion of each hole, the hole was capped with a blast hole plug about 1 
+metre down from the collar and backfilled. The hole's position was surveyed using a 
+Garmin GPS12 XL instrument and a marker pin with drillhole number was placed in the 
+collar location. At the end of the drilling programme, on 16th and 17th February 2006, 
+Consulting Surveyors, Langford and Rowe of Dubbo completed a controlled survey of 
+the drillhole collars using a Leica Differential (RTK and static) system. 
+ 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 18 
+ 
+
+A subsequent 9 hole programme was completed in 2008 in order to obtain sample for 
+research and development. All air core drilling was vertical – the lithotype intersection 
+lengths are close to true 'stratigraphic' widths. 
+ 
+
+10. Sampling Method and Approach 
+
+10.1 Sampling Method 
+
+The samples were collected through a cyclone mounted to the drilling rig, into large 
+plastic bags. All of the 1 metre intervals were geologically logged by sieving material 
+from the bags, and the bags weighed, and magnetic susceptibility readings taken on the 
+bulk bags. Reference chip samples were taken for each drillhole. 1-2kg samples for 
+analysis were collected from the one metre bulk bags using a metal scoop by hand, in to 
+small plastic bags. The air was expelled from the bags, the tops folded down several 
+times, and sealed with heavy-duty staples. All intervals below the alluvial overburden 
+were sampled and despatched for assay (except for two holes NA55 and NA89 which 
+penetrated monzonite and sediments respectively - in NA55 a bedrock sample was 
+collected every 4 metres, and no samples were collected from NA89).  
+ 
+The small plastic bags of samples were packed in to labelled larger plastic bags and 
+transported to the Company's shed in Nyngan at the end of each day, and locked inside 
+until the end of the drilling programme. Shortly after the end of the programme, these 
+were loaded on to pallets, shrink-wrapped and sent to Australian Laboratory Services 
+Pty. Ltd.'s ('ALS') facility in Orange by commercial road transport, a distance of 315km 
+by road. 
+ 
+Approximately a week after the completion of the drilling programme, concurrently 
+with rehabilitation of the drill sites, all of the bulk samples, except those of alluvium or 
+metasediments, were transported to the Company's shed for long-term secure storage.  
+Location: Gilgai Resource  
+Number: 69 drill holes 
+Type: Air core/RC 
+Spacing: 50m 
+Size of area: 1000x500m = 500,000 sq/m. (50 hectares / 123.6 acres) 
+ 
+At a later date Jervois personnel retrieved a limited number of the stored one metre 
+bulk samples, and using a riffle splitter, split off new samples for analysis, to check 
+against those samples collected by scoop. The scandium values for the split samples 
+were very close to those of the scooped samples. 
+ 
+10.2 Sampling or Recovery Methods Which Could Impact on Results 
+
+Some sample recovery risk is inherent in all air drilling techniques, but the combination 
+of available reverse-circulation drill tools, high air flows and a competent drill operator, 
+resulted in acceptable recoveries. The weights of the bulk samples were generally in the 
+range 11-15kgs, with occasional much lower and higher weights. 
+ 
+In damp or wet stratigraphy (particularly the leached saprolite), sample weights often 
+dropped below 10kgs, probably due to returns sticking to the internal walls of the rod 
+string and the pipework leading to the cyclone, to the walls of the cyclone, and possibly 
+in the drillhole behind the bit. The main effect of this is likely to be some 'smearing' 
+(contamination) of assay values across subsequent sample intervals. However, it is 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 19 
+ 
+
+considered that this is unlikely to have had a material effect on the overall grade of each 
+lithology in the resource model. 
+ 
+
+10.3 Interpretation 
+
+The table below shows all the significant assay results for scandium by Section and 
+includes some earlier holes that contribute to the resource figures. Results below do not 
+include any from the 2008 programme. 
+ 
+The drill intercepts include all lithologies and where the width is shown in brackets it 
+indicates that there is internal waste (ie. contains intervals with less than 100 ppm Sc) 
+within the intercept. 
+ 
+10.4 Establishing Higher Grade 
+
+The laterite in which the resource is located has the higher scandium grades within the 
+limonite and saprolite intervals.  These intervals vary in thickness laterally and the 
+grade also varies.   Ground water and below surface topography are suggested as 
+significant in determining the grade of scandium.  All resource calculations are stated 
+with a 100ppm lower cut off.   
+ 
+10.5 Relevant Samples 
+
+Refer to the table of significant intervals below (Table 10.5.1).  All widths are 
+considered true as the holes were drilled vertically.   
+ 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 20 
+ 
+
+ 
+Table 10.5.1 
+
+ 
+Widths shown in brackets indicate that there is a sample interval which contains less 
+than 100ppm scandium within the intercept. 
+ 
+11. Sample Preparation, Analysis and Security 
+
+None of the assay samples used to support the mineral resource estimate of this report 
+were prepared for analysis by any employees or subcontract personnel of Jervois 
+Mining Limited. The samples were prepared by: Australian Laboratory Services Pty. 
+Ltd., 
+Attention Shaun Kenny,  
+32 Shand St, 
+Stafford,  
+Brisbane, Qld, Australia. 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 21 
+ 
+
+11.1 Sample Preparation and Assaying Methods  
+
+After delivery to ALS' facility in Orange, the pallets of samples were stored in their semi-
+secure yard for several days, until they could be prepared. ALS dried all of the samples 
+in metal trays, and then pulverised them in line with their PUL-23 protocol:- 
+"A sample up to 3 kg is ground in a ring mill pulverizer using a standard low-chrome 
+steel ring set. If the sample is > 3 kg, it is split prior to pulverizing and the remainder 
+may be retained or discarded. Samples too coarse to be put directly into a pulverizing 
+mill, or where the particle size needs to be reduced before a representative split can be 
+taken are crushed and split prior to pulverizing. The remainder may be saved or 
+dumped at the client's request." 
+From the pulverised material, two 150g sub-samples were taken, and sent to ALS' head 
+office facility in Brisbane. 
+ 
+Table 11.1.1. Method code and description from ALS Chemex 
+
+Method 
+
+Code 
+
+Mass Specifications Description 
+
+PUL-23 ≤3 kg 85 % < 75 µm Pulverize up to 3 kg of raw sample. Samples 
+> 3 kg are split prior to pulverizing and the 
+remainder retained." 
+
+ 
+The Brisbane laboratory analyzed the earliest batches of samples from the Gilgai project 
+by technique OG-62 - a 0.4-0.5g aliquot of the sub-sample was subjected to a four-acid 
+digestion, then analyzed for a range of elements (which included scandium) by 
+Inductively Coupled Plasma-Atomic Emission Spectroscopy, with a lower detection limit 
+for scandium of 1ppm. 
+ 
+Most of the samples from the Gilgai resource area drilling were analyzed by Technique 
+ME-MS62s, a single-element trace level method. A 0.25g aliquot of the sub-sample is 
+digested in perchloric-nitric-hydrofluoric acid (regarded as a "near-total" 
+decomposition), and the solution is analyzed by Inductively Coupled Plasma - Mass 
+Spectrometry, with a lower detection limit for scandium of 1ppm and an upper limit of 
+500ppm. 
+ 
+
+Samples which gave ≥500ppm scandium were re-analyzed by technique ME-ICP61. This 
+uses a four-acid ("near-total") digestion of a 0.25g aliquot, with Inductively Coupled 
+Plasma Atomic Emission Spectroscopy determination of scandium with a lower 
+detection limit of 1ppm and an upper limit of 10,000ppm (1%). ALS' Brisbane 
+laboratory is NATA-certified, and the Orange laboratory's certification process is 
+underway. 
+ 
+Jervois did not submit any standard samples with their batches of assay samples, due to 
+the lack of commercially available standards for scandium at the time. As far as can be 
+determined, no duplicate samples were submitted with the batches. 
+ 
+A maximum value of 1,260ppm scandium was obtained from the assay samples. (Refer 
+table 10.5 below).  
+ 
+11.2 Data Quality 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 22 
+ 
+
+The quality of the data is considered acceptable in precision as ALS operate with a 
+rigorous system of internal standards and duplicates, and participate in regular round-
+robin analyses of samples with other commercial laboratories world-wide.  
+ 
+12. Data Verification  
+
+12.1 Quality Control Measures and Procedures 
+
+It is considered that confidence can be placed in the resource figures quoted in Table 
+15.3.  The analysis of the samples was conducted by ALS Chemex, applying methods that 
+Jervois has been using with confidence for some years after various check analyses in 
+other laboratories. Assay checks have been done previously on laterite samples 
+(predominantly from Jervois' nickel/cobalt laterite deposits at Young, NSW), comparing 
+ALS Laboratories' values and Becquerel Laboratories'Neutron Activation assays at 
+Lucas Heights, NSW,  and in Canada.  The assay results compared favourably. 
+ 
+The drilling and sampling of the holes was supervised by the original author/s of this 
+report and the sample recoveries, available on the drill log sheets, are all recorded. The 
+densities of the four lithologies have been carefully analyzed and compared with 
+Jervois' density figures for other laterite projects.  The results compare closely.   
+ 
+The drill hole locations were surveyed using a Garmin GPS12 XL instrument and a 
+marker pin inscribed with the drillhole number was placed in the collar. At the end of 
+the drilling programme, Consulting Surveyors completed a controlled survey of the 
+drillhole collars using a Differential GPS system. 
+ 
+12.2 Limitations 
+
+The database and information prepared on behalf of Jervois Mining Limited and verified 
+by Max Rangott relies on the industry professionalism of information supplied by 
+Anthony Jannink of Douglas McKenna and Partners, Duncan Pursell of Jervois Mining 
+Limited and ALS Chemex Australia. No discrepancies were noted in the source data, 
+indicating that Jervois Mining Limited has taken significant internal QA/QC while 
+compiling it. 
+ 
+The data has been assembled with utmost regards to accurate transfer and data entry.  
+Max Rangott does not take responsibility for the quality of the source data. 
+ 
+13. Adjacent Properties  
+
+There are no materially significant adjacent properties. 
+ 
+14. Mineral Processing and Metallurgical Testing 
+
+The results and methodologies for processing and metallurgical testing are confidential.  
+For details please contact Duncan Pursell, c/o Jervois Mining Limited.    
+ 
+To provide material for metallurgical testwork, a 750kg (¾ tonne) dry weight bulk 
+sample was prepared in 2006, by systematically compositing material (obtained from 
+the stored one metre bulk drilling samples) derived from the imonitic laterite 
+component of the Gilgai Measured Resource area. Approximately 43kg (equivalent to 
+37-38kg dry weight) of that material was taken (as 8kg sub-samples) from the one 
+metre bags from the intersected limonitic intervals, in 20 of the 37 holes drilled across 
+the Measured Resource. 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 23 
+ 
+
+ 
+The bulk sample was carefully mixed, four small samples for determination of head 
+grade were extracted, and the bulk sample was then packed in to four steel 44-gallon 
+drums and sealed for road transport to Metcon Laboratories at Brookvale in Sydney, 
+approximately 600 road km from Nyngan.  
+ 
+Titles of reports outlining process and testing commissioned by Jervois for their 
+Scandium research are:  
+Prepared by CleanTeq Holdings Limited, 270-280 Hammond Road, Dandenong South, 
+Victoria, 3175, Australia 
+1. Extraction of Scandium from Chloride Leachate by N. Zontov & I Zontov 15/2/2007  
+2. Clean Teq RIP on T7 Pulp, Metcon excel spreadsheet 11/10/2006  
+ 
+Prepared by Dr Hal Aral (BSc MSc PhD) or Chu Yong, Research Scientists c/o CSIRO, 
+Bayview Avenue, Clayton VIC 3168, Australia 
+1. DMR-3410 Scandium Ore Treatment by Hal Aral April 2008  
+2. DMR-3515 Rev1 Scandium Recovery from Gilgai and Young Laterites by H. Aral, C.  
+Calle, C. Sheedy and B. Muldowney. 10/10/2008  
+3. DMR-3342 Dec 2007 Characterisation of Gilgai Ore and Slag by M.I. Pownceby  
+4. DMR Draft Scandium Project Proposal MJRev1, 14/11/2008 
+5. Progress Report 1 Purification and Recovery of Scandium from Gilgai Laterite Leach 
+Solutions, 24/1/2010 
+ 
+Prepared by Metcon Laboratories, 16 Ethel Ave, Brookvale, NSW, 2100 
+1. "M1256A, Batch sulphuric acid leach tests on Gilgai scandium-bearing ore" by M. 
+Surace Nov 2006  
+2. "M1256B Preliminary Metallurgical Development Testing of Gilgai scandium laterite 
+and Young samples", interim report by M. Surace, Oct 2007. 
+3. "M1256C Preliminary Metallurgical Development Testing of Gilgai scandium laterite 
+and Young samples", interim report by M. Surace, Jan 2008 
+4. "M1641A Metallurgical development testing of Gilgai limonite and saprolite scandium 
+ores", Interim report 3 by M. Owens Jan 2009 
+5. "M1641C Interim Report 4 Metallurgical development testing of Gilgai limonite and 
+saprolite scandium ores", Interim report 3 by M. Owens June 2009 
+ 
+15. Mineral Resources and Mineral Reserve Estimations  
+
+15.1 Sample Collection 
+
+Collection and storage of samples from the drillout programme is described in section 
+10.1 of this report. The analytical values obtained from that programme were used in 
+the calculation of the resources. 
+ 
+15.2 Significant Assay Results  
+
+Table 10.5 of this report shows all of the significant scandium intersections by Section 
+and includes some holes drilled by prior explorers which contribute to the resource 
+figures. The figures do not include those from a confirmatory drilling programme 
+carried out in 2008. The drill intercepts include all lithologies and are true widths.   
+ 
+Fifteen elements were analyzed by ALS Chemex using the following methods: 
+ME-ICP61s - up to 27 Elements by four acid ICPAES 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 24 
+ 
+
+PGM-MS23 - Pt, Pd, Au by 30g charge fire assay with ICP-MS finish 
+ 
+15.3 Resource Calculations 
+
+Intersection Lengths (for each regolith type) and their grades were obtained from the 
+figures entered on the 2006 drillout programme logsheets (drillholes NA54 to NA121). 
+The 2006 holes drilled across the deposit were at two spacings - 50 metres and 100 
+metres. Selection of the area drilled at 50 metre spacings was based on low overburden 
+thickness, scandium values for earlier holes obtained using a Niton portable analyser 
+(which subsequently proved to be unreliable), and the visual quality of the limonite 
+horizon of the regolith - information obtained from prior drill chip samples and drill 
+logs. 
+ 
+Classification of the regolith mineralization types, selection of the density and grade 
+data and calculation of the resource figures were carried out by Mr Anthony Jannink, M. 
+Arts, 1964 (Cambridge), F.AusIMM, a very experienced geologist who had evaluated a 
+number of lateritic nickel-cobalt deposits in Australia, and who in 2006 was a director 
+of Jervois. 
+ 
+The 50 metre spaced drilling programme (25 metre sphere of influence for each hole) is 
+considered to be sufficiently close spaced to justify the resources in that area to be 
+classed as 'Measured' under the JORC Code 2004 guidelines. The remaining 100 metre 
+spaced drilling resources have been labelled 'Indicated' and have a 50 metre zone of 
+influence. No further resources outside this drilled pattern were considered for the 
+resource calculation. 
+ 
+The resources have been calculated by plan polygonal methods for each of the four 
+resource lithologies - haematite, limonite, saprolite and weathered bedrock. To be 
+included in the resource calculations, the sample intervals for each regolith category 
+had to exceed 100ppm scandium in grade, and be at least 2 metres in thickness. The 
+density figures used (Table 15.3.3) are based on corresponding weights of the samples 
+produced from the drillholes and the assumed hole volume of 0.006207167 cubic 
+metres per metre of hole drilled. Guidance has also been taken from Jervois' experience 
+with other NSW laterites especially at their Young and Port Macquarie projects. At 
+Young, densities were measured from diamond drill core and are shown as a 
+comparison to those calculated for Gilgai. 
+ 
+Samples that were obviously too large or too small or were wet/damp/contaminated 
+were excluded from the calculations. The calculated density figures are shown on the 
+following table and their weighted averages shown at the foot of the table. To obtain the 
+lithotype densities adjustments were made by making moisture content corrections. 
+The figures given in the table are those from the Company's Young laterite deposits. In 
+recent metallurgical testwork at Metcon, Brookvale, NSW, the 15% figure for limonitic 
+regolith was confirmed in the laboratory. 
+ 
+The resultant calculated densities compared with the figures used at the nickel/cobalt 
+laterite at Young are: 
+ 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 25 
+ 
+
+Table 15.3.1 
+
+Resource Hematite Limonite Saprolite Bedrock 
+
+Gilgai (Sc) 2.02 1.63 1.41 1.75 
+Young (Ni/Co) 2.0 1.7 1.8 2.1 
+
+ 
+The figures used for the Gilgai lithologies were believed to be conservative. Overburden 
+figures quoted in this report are indicative and not based on mine plan design. 
+The resources were calculated by plan polygonal methods for each of the four regolith 
+categories - haematitic, limonitic, saprolitic and bedrock. The volume of each block is 
+the polygonal area times the drilled thickness for that category (see Plans NY-111, 112, 
+113 and 148). 
+ 
+The overburden volume was calculated as the polygonal plan area for each drillhole 
+times the depth to top of mineralization. Internal waste was treated in the same way – 
+polygonal plan area times the distance between upper and lower Mineralization 
+boundaries. 
+Using the above parameters, the resource figures below were calculated from the 
+results: 
+ 
+Table 15.3.2 
+
+Category Tonnes Grade (ppm Sc) Overburden Ratio 
+ 
+
+Measured 2,718,000 274 0.81:1 
+
+Indicated 9,294,000 258 1.40:1 
+
+Total 12,012,000 261 1.10:1 
+ 
+ 
+
+These resources are further defined in Tables 15.2 and 15.3, where the figures are given 
+for all the elements assayed for each of the lithology categories. 
+ 
+The resource to be first exploited will be the Limonite Measured Resource of 1.5 million 
+tonnes at 330 ppm scandium.  This resource unit is the shallowest (overburden of 12-15 
+metres) and richest. The resources are shown in Appendices 7 to 11 and Tables 15.2 
+and 15.3. The plans show the location of the measured and indicated categories. 
+ 
+ 
+ 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 26 
+ 
+
+ 
+
+Table 15.3.3 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 27 
+ 
+
+ 
+
+Table 15.3.3 cont...... 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 28 
+ 
+
+   
+
+Table 15.3.4 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 29 
+ 
+
+Table 15.3.5 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 30 
+ 
+
+15.4 Parameters Affecting Reserves 
+
+There are no relevant issues that would affect the mineral resources and mineral 
+reserve estimations.     
+ 
+16. Other Relevant Data and Information  
+
+There is no other data or information which is relevant to this summary. 
+ 
+17. Interpretation and Conclusions  
+
+17.1 Exploration 
+
+The January/February 2006 aircore drilling programme has successfully outlined both 
+measured and indicated resources of scandium at Gilgai. The Limonite measured 
+resource of 1.5 million tonnes at 330ppm scandium is considered to be economic 
+(assuming reasonable metallurgical recovery) and could supply the present world 
+demand for many years. 
+ 
+It is considered that confidence can be placed in the resource figures quoted above.  
+The drillhole locations have been accurately surveyed by professional surveyors. 
+ 
+17.2 Sampling and Analytical Data 
+
+The analysis of the samples was conducted by ALS Chemex applying methods that 
+Jervois has been using with confidence for some years after various check analyses in 
+other laboratories. 
+ 
+The drilling and sampling of the holes was supervised by the author/s of this report and 
+the sample recoveries, as shown on the drill log sheets, are all recorded as weights – 
+they generally show excellent returns in the mineralised zones. The densities of the four 
+lithologies have been carefully analyzed and compare well with Jervois' density figures 
+for other laterite projects. 
+ 
+17.3 Resource Estimation 
+
+This report, with its appendices and plans, is specifically directed at producing a 
+resource statement for the Gilgai Scandium Resource. To convert these resources into 
+Ore Reserves requires further inputs from a number of different entities (mining, 
+metallurgy, environmental, community etc).  The first stage of finding and proving a 
+resource has been accomplished. 
+ 
+Recent test work on the ore has yielded recoveries of greater than 90% scandium and 
+this research is nearing completion. A ready market has already shown interest in 
+scandium oxide to 99.9% purity. A future market for scandium is envisaged for use in 
+fuel cell technology with an indicated initial demand of up to 10 tonnes per annum and 
+increasing. To produce scandium oxide, a Resin-in Pulp plant would be required, with 
+the objective of producing 99.9% material. 
+ 
+Acquisition and purchase of a parcel of land on EL 6009 has been finalised and 
+settlement has been completed. 
+ 
+A concept mine plan has been prepared for the freehold land that has been purchased. 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 31 
+ 
+
+An Assessment Lease Application for the Gilgai (Nyngan) Tenements EL 6009, 6095 and 
+6096 was lodged with the Department of Primary Industry in June 2008 and is 
+currently pending. 
+ 
+
+17.4 Conclusions of Qualified Person  
+
+Jervois Mining's initial resource delineation work on the Gilgai Project was supervised 
+and carried out by a small but very experienced and professional project team, to 
+accepted industry standards. 
+ 
+Sampling procedures at the site were commensurate with the quality of samples which 
+can be produced by the type of drilling used (aircore), the method chosen being the 
+most appropriate given cost, time and sample handling and storage considerations at 
+that early stage. The physical properties of the materials which were sampled are likely 
+to have varied significantly, making totally reliable sampling difficult. Security risk at 
+the project site at the time is considered to have been very low. The samples taken for 
+analysis were stored at the conclusion of each day's drilling in a secure environment, 
+and transported by a commercial transport company in sealed bags, to the preparation 
+laboratory in Orange, which the Qualified Person visits regularly. 
+ 
+The commercial laboratory company used, which is a division of ALS Chemex, has a 
+sound reputation in Australia for process integrity and quality control, and their 
+Brisbane facility, where the analyses were carried out, is NATA-certified. 
+ 
+The resource calculations presented in this report were carried out by standard 
+procedures, and conservative figures have been adopted for key parameters. It is 
+considered that the calculations should have produced reliable tonnage and grade 
+estimates for the resource model. The Qualified Person has carried out spot-checks of 
+Jervois' polygon density and grade calculations (using their comprehensive drill logs), 
+confirming the original figures. 
+ 
+Drilling of a number of PQ core holes or Vibracore holes to obtain more reliable density 
+figures is warranted during the next phase of work at the site. The drill samples could 
+also be used to further validate the grade of the resource lithological units, to assist the 
+process of upgrading part of the resource to a reserve. 
+ 
+The risk in using diamond coring for this work is that some of the softer components of 
+the materials to be sampled may wash away during the drilling process. It is believed 
+that the Vibracore technique can more reliably produce an undisturbed sample. 
+ 
+18. Recommendations  
+
+18.1 Recommended Work Programs 
+
+Phase 1 Work Plan 
+a)      Beginning June 2010 an extensive metallurgical program will be carried out to 
+refine and/or modify the existing flow sheet for the recovery of the Scandium from the 
+ore. It is anticipated that this program will be completed late 2010/early 2011. The 
+budgeted expenditures for this program amount to approximately AUD $450,000 
+ 
+b)      During the metallurgical program a small drill program should be carried out to 
+better define the higher grade zone of the deposit, to collect sample for further 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 32 
+ 
+
+technological work and to provide an avenue for water quality testing as required for 
+the Environmental Impact Statement.  This drill program will consist of 4-6 holes for a 
+total of approximately 250 meters. The drilling method will either air core or reverse 
+circulation (RC) drilling. The budget for this program will be approximately AUD 
+$50,000 
+  
+Phase 2 Work Plan 
+Following successful completion of the Phase 1 work program, a feasibility study will be 
+carried out. It is anticipated that this study might be completed in the latter half of 2011. 
+The feasibility study will define the commercial viability of the project. It will include 
+the following items: 
+• A flow sheet  
+• Piping and Instrumentation Diagrams (P & I Ds)  
+• General Plant Layouts  
+• An estimate of Capital Expenditures  
+• An estimate of Operating Expenditures 
+The budget estimated for this study is between AUD $350,000 and $500,000 
+ 
+
+19. References  
+
+The information contained in these sections was obtained from: 
+- NSW Government Data Systems (Minview and DIGS) 
+- http://imagery.maps.nsw.gov.au 
+- http://www.weatherzone.com.au  
+- http://www.minerals.nsw.gov.au/tasmap/jsp/Viewer.jsp?cmd=login 
+- Department of Lands, Dubbo Office, Contact: Craig Ferguson 
+- http://www.legislation.nsw.gov.au/maintop/scanact/inforce/NONE/0,  
+- Bogan Shire Council, Nyngan, Contact:  Josh Loxley, Google Earth, 
+- Manager Engineering Services, Bogan Shire Council, Nyngan, Contact: Keith 
+Dawe 
+and various online technical reports from previous and current licence holders:  
+- Anaconda Australia Limited (2001) Final report EL 76 1967 Nyngan area  
+- Anaconda (NSW) Pty Ltd (2002) First to the Third (and final) Annual reports EL 
+5589 Nyngan area. 
+- Bogan Shire Council (2001-02) 'State of the Environment' Report. 
+- Douglas McKenna and Partners (2005) Review of Environmental Factors for 
+Proposed Aircore Drilling to define a trial pit at Gilgai NSW for Jervois Mining Limited.   
+- Douglas McKenna and Partners (2006) Report on Gilgai Scandium Project and 
+Resource Calculations EL 6009 Nyngan NSW for Jervois Mining Limited Volumes 1 to 3. 
+- Douglas McKenna and Partners (2006) Nyngan EL 6009 Composite Sample 
+Collection of Gilgai Limonite Resource. 
+- Fogarty JM and Thomson AB (2005) Girilambone and Girilambone north Copper 
+Deposits, NSW.  
+- Lachlan Resources NL and Platinum Search NL (1988-1990) Exploration Reports 
+on EL 2965 Nyngan/Miandetta area.   
+- Platsearch NL (2001) First to the Seventh (and final) Annual Exploration Reports 
+EL 4756 Cobar Area. 
+ 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 33 
+ 
+
+20. Glossary 
+
+20.1 Terms and Definitions 
+
+Mineral Resource: The mineral resources and mineral reserves have been classified 
+according to the Australasian Code for Reporting of Exploration Results, Mineral 
+Resources and Ore Reserves, The JORC Code, 2004.   Accordingly, the Resources have 
+been classified as Measured or Indicated.  
+ 
+A 'Mineral Resource' is a concentration or occurrence of material of intrinsic economic 
+interest in or on the Earth's crust in such a form quantity and quality that there are 
+reasonable prospects for eventual economic extraction.  The location, quantity, grade, 
+geological characteristic and continuity of a mineral resource are known, estimated or 
+interpreted from specific geological evidence and knowledge. Mineral Resources are 
+sub-divided, in order of increasing geological confidence, into Inferred, Indicated and 
+Measured categories. '   
+ 
+An 'Indicated Mineral Resource' is that part of a Mineral Resource for which tonnage, 
+densities, shape, physical characteristics, grade and mineral content can be estimated 
+with a reasonable level of confidence.  It is based on exploration, sampling and testing 
+information gathered through appropriate techniques from locations such as outcrops, 
+trenches, pits workings and drill holes.  The locations are too widely or inappropriately 
+spaced to confirm geological and/or grade continuity but are spaced closely enough for 
+continuity to be assumed. 
+ 
+A 'Measured Mineral Resource' is that part of a Mineral Resource for which tonnage, 
+densities, shape, physical characteristics, grade and mineral content can be estimated 
+with a high level of confidence.  It is based on detailed and reliable exploration, 
+sampling and testing information gathered through appropriate techniques from 
+locations such as outcrops, trenches, pits workings and drill holes.  The locations are 
+spaced closely enough to confirm geological and/or grade continuity. 
+ 
+Ore Reserve: An 'Ore Reserve' is the economically mineable part of a Measured or 
+Indicated Mineral Resource.  It includes diluting materials and allowances for losses 
+which may occur when the material is mined.  Appropriate assessments, which may 
+include feasibility studies, have been carried out and include consideration of and 
+modification by realistically assumed mining, metallurgical, economic, marketing, legal, 
+environmental, social and governmental factors.  These assessments demonstrate at the 
+time of reporting that extraction could reasonably be justified. Ore Reserves are sub-
+divided in order of increasing confidence into 'Probable Ore Reserves' and 'Proved Ore 
+Reserves'.  
+ 
+A 'Proved Ore Reserve' is the economically mineable part of a Measured Mineral 
+Resource.  It includes diluting materials and allowances for losses which may occur 
+when the material is mined.  Appropriate assessments, which may include feasibility 
+studies, have been carried out and include consideration of and modification by 
+realistically assumed mining, metallurgical, economic, marketing, legal, environmental, 
+social and governmental factors.  These assessments demonstrate at the time of 
+reporting that extraction could reasonably be justified.    
+ 
+
+Assay: The chemical analysis of mineral samples to determine the metal content. 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 34 
+ 
+
+Composite: Combining more than one sample result to give an average result over a 
+larger distance. 
+ 
+Exploration Licence: Granted title over a large area of land entitling the holder to 
+explore for one or more mineral commodities for a set period of time. 
+ 
+Grade: The measure of concentration of a substance within mineralized rock. 
+ 
+Igneous: Primary crystalline rock formed by the solidification of magma. 
+ 
+Lithological: Geological description pertaining to different rock types. 
+ 
+Mineral/Mining Lease: A lease area for which mineral rights are held, and subject to 
+conditions, there is guaranteed security of tenure. 
+ 
+ 
+
+20.2 Abbreviations 
+
+The metric system of measurement has been used throughout this report unless 
+otherwise stated. All currency is in Australian dollars. The following abbreviations are 
+typical mining terms that may be used in this report 
+ 
+Abbreviation Unit or Term 
+
+% percent 
+
+°C degree  centigrade  
+
+Acre  - 43,560 sq ft 
+
+ALA Assessment Lease application 
+
+asl above sea level 
+
+ASX Australian Stock Exchange 
+
+Ave avenue 
+
+cfm  
+
+cm centimeter 
+
+cm2 square centimeter 
+
+cm3 cubic centimeter 
+
+Co cobalt 
+
+CRC LEME Cooperative Research centre. 
+
+DP  Deposited Plan 
+
+EIS Environmental Impact Statement 
+
+EL exploration licence 
+
+GDA Geodic Datum Australia 
+
+GPS global positioning system 
+
+ha hectares 
+
+ID identification 
+
+kg kilograms 
+
+km kilometre 
+
+L litre 
+
+lat latitude 
+
+long longitude 
+
+m meter 
+
+m2 square meter 
+
+m3 cubic meter 
+
+Mg magnesium 
+
+MGA Map Grid Australia 
+
+ml millilitres 
+
+mm millimeter 
+
+NA Nyngandrill hole prefix 
+
+nm nannometre 
+
+NW north west 
+
+p/a per annum 
+
+PGE Platinum group elements 
+
+ppm parts per million 
+
+psi pressure per square inch 
+
+Pt platinum 
+
+QA/QC Quality Assurance/Quality Control 
+
+QP Qualified Person 
+
+R&D research and development 
+
+RAB Rotary Air Blast 
+
+RC reverse Cycle 
+
+Sc scandium 
+
+SE south east 
+
+sq km square kilometre 
+
+t tonne 
+
+XRD xray diffraction 
+ 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 35 
+ 
+
+21. Additional requirements for technical reports 
+
+21.1 Mining Operations. 
+
+ At this stage planning for mining operations has not been finalised. 
+ 
+21.2 Recoverability 
+
+At this stage process of the ore is still in the technical planning stage. 
+ 
+21.3 Markets 
+
+At this stage no markets have been finalised. 
+ 
+21.4 Contracts 
+
+At this time there have been no mining contracts arranged or agreed on within industry 
+norms. 
+ 
+21.5 Environmental Consideration 
+
+An Environment Impact Statement has been commissioned with RW Corkerys and Co. 
+Pty. Ltd., Orange NSW, as a part of the requirement for an application for a NSW mining 
+lease.   
+ 
+21.6 Taxes 
+
+This is unknown as the project is in the planning stage.   
+ 
+
+21.7 Capital and Operating Cost Estimates 
+
+CAPEX and OPEX estimates will be finalised once the recovery process and flow sheet is 
+finalised.   
+ 
+21.8 Economic Analysis 
+
+This is in the process of being prepared and is reliant on flow sheet completion.   
+ 
+21.9 Payback 
+
+This is unknown at this stage of the project. 
+ 
+21.10 Mine Life 
+
+Based on recovery of 20 tonnes of Scandium oxide per annum the mine has an 
+estimated life of >50 years.  
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 36 
+ 
+
+22. Authors Certificates 
+
+ 
+Duncan C. Purcell (BSc, MAusIMM) 
+
+Jervois Mining Ltd. 
+Suite 12, Level 2  
+10 Jamieson St  
+Cheltenham, Victoria, 3192. 
+Australia. 
+ 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 37 
+ 
+
+Certificate of Qualified Person 
+
+ 
+Maxel Franz Rangott (B.Sc). 
+
+Rangott Mineral Exploration Pty. Ltd. 
+Kylie Circuit, Orange, NSW 
+Australia 
+ 
+
+ 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 38 
+ 
+
+ 
+
+
+
+ 
+
+NI43-101 Technical Report on the Nyngan Gilgai Scandium Project 
+Jervois Mining Limited Nyngan, New South Wales, Australia  Page 39 
+ 
+
+23. Illustrations and Appendices: Refer to attached Appendices 
+ 
+ 
+
+
+
+ 
+
+ 
+
+Map showing location of Jervois Tenements in the Nyngan area.   
+
+ 
+
+Gilgai scandium resource tenements  
+
+
+
+
+
+59500
+
+600 00
+
+60500
+
+61000
+
+615 00
+
+GI
+LR
+
+C0
+01
+
+GI
+LR
+
+C0
+02
+
+GI
+LR
+
+C0
+03
+
+GI
+LR
+
+C0
+04
+
+GI
+LR
+
+C0
+11
+
+GI
+LR
+
+C0
+12
+
+GI
+LR
+
+C0
+13
+
+G0
+4
+
+G0
+5
+
+G0
+6
+
+G0
+7
+
+G0
+8
+
+G0
+9
+
+G1
+0
+
+G1
+1
+
+G1
+2
+
+G1
+3
+
+G1
+4
+
+G1
+5
+
+G1
+6
+
+G1
+7
+
+G2
+0
+
+G2
+1
+
+G2
+7
+
+G3
+2
+
+G3
+3
+
+G3
+4
+
+G3
+5
+
+G3
+6
+
+G3
+7
+
+G3
+8
+
+G3
+9
+
+G4
+0
+
+G4
+1
+
+G4
+2
+
+G4
+4
+
+G4
+5
+
+G4
+6
+
+G4
+7
+
+G4
+8
+
+G4
+9
+
+G5
+0
+
+G5
+2
+
+G5
+3
+
+G5
+4
+
+G5
+5
+
+G5
+6
+
+G5
+7
+
+G6
+7
+
+G6
+8
+
+G6
+9
+
+G7
+0
+
+G7
+1
+
+G7
+2
+
+G7
+3
+
+G7
+4
+
+G7
+5
+
+G7
+6
+
+G7
+7
+
+G7
+8
+
+G7
+9
+
+G8
+0
+
+G8
+1
+
+G8
+2
+
+G8
+3
+
+G8
+4
+
+G8
+5
+
+G8
+6
+
+G8
+7
+
+G8
+8
+
+G8
+9
+
+G9
+0
+
+G9
+1
+
+G9
+5
+
+G9
+6
+
+G9
+7
+
+G9
+8
+
+G1
+00
+
+RC
+
+G1
+01
+
+RC
+
+G1
+02
+
+RC
+
+G1
+03
+
+G1
+04
+
+G1
+05
+
+G1
+06
+
+G1
+07
+
+G1
+08
+
+G1
+09
+
+G1
+10
+
+G1
+11
+
+G1
+12
+
+G1
+13
+
+G1
+14
+
+G1
+15
+
+G1
+16
+
+G1
+17
+
+G1
+18
+
+G1
+19
+
+G1
+20
+
+G1
+21
+
+G1
+22
+
+G1
+23
+
+G1
+24
+
+G1
+25
+
+G1
+26
+
+G1
+27
+
+G1
+28
+
+G1
+29
+
+G1
+30
+
+G1
+31
+
+G1
+32
+
+G1
+33
+
+G1
+34
+
+DD
+H-
+
+1
+
+DD
+H-
+
+2
+
+NA
+49
+
+NA
+50
+
+NA
+51
+
+NA
+52
+
+NA
+-5
+
+2A
+
+NA
+54
+
+NA
+55
+
+NA
+56
+
+NA
+57
+
+NA
+58 NA
+
+59
+NA
+
+60
+
+NA
+61
+
+NA
+62NA
+
+63
+NA
+
+64
+
+NA
+65
+
+NA
+66
+
+NA
+67
+
+NA
+68
+
+NA
+69
+
+NA
+70
+
+NA
+71
+
+NA
+72
+
+NA
+73
+
+NA
+74
+
+NA
+75
+
+NA
+76
+
+NA
+77
+
+NA
+78
+
+NA
+79
+
+NA
+80
+
+NA
+81
+
+NA
+82
+
+NA
+83 NA
+
+84
+NA
+
+85
+
+NA
+86
+
+NA
+87
+
+NA
+88
+
+NA
+89
+
+NA
+90
+
+NA
+91
+
+NA
+92
+
+NA
+93
+
+NA
+94
+
+NA
+95
+
+NA
+96
+
+A
+
+NA
+96
+
+B
+
+NA
+96
+
+C
+
+NA
+97
+
+NA
+98
+
+NA
+99
+
+NA
+10
+
+0
+NA
+
+10
+1
+
+NA
+10
+
+2
+
+NA
+10
+
+3
+NA
+
+10
+4
+
+NA
+10
+
+5
+
+NA
+10
+
+6
+
+NA
+10
+
+7
+
+NA
+10
+
+8
+
+NA
+10
+
+9
+
+NA
+11
+
+0
+
+NA
+11
+
+1
+
+NA
+11
+
+2
+
+NA
+11
+
+3
+
+NA
+11
+
+4
+NA
+
+11
+5
+
+NA
+11
+
+6
+
+NA
+11
+
+7
+
+NA
+11
+
+8
+NA
+
+11
+9
+
+NA
+12
+
+0
+
+NA
+12
+
+1
+
+FC
+E
+
+FC
+E
+
+FC
+E
+
+FC
+E
+
+FC
+E
+
+49
+91
+
+50
+m
+
+E
+
+49
+92
+
+00
+m
+
+E
+
+49
+92
+
+50
+m
+
+E
+
+49
+93
+
+00
+m
+
+E
+
+49
+93
+
+50
+m
+
+E
+
+49
+94
+
+00
+m
+
+E
+
+49
+94
+
+50
+m
+
+E
+
+49
+95
+
+00
+m
+
+E
+
+49
+95
+
+50
+m
+
+E
+
+49
+96
+
+00
+m
+
+E
+
+49
+96
+
+50
+m
+
+E
+
+49
+97
+
+00
+m
+
+E
+
+49
+97
+
+50
+m
+
+E
+
+49
+98
+
+00
+m
+
+E
+
+49
+98
+
+50
+m
+
+E
+
+49
+99
+
+00
+m
+
+E
+
+49
+99
+
+50
+m
+
+E
+
+50
+00
+
+00
+m
+
+E
+
+50
+00
+
+50
+m
+
+E
+
+50
+01
+
+00
+m
+
+E
+
+50
+01
+
+50
+m
+
+E
+
+6502400mN
+
+6502450mN
+
+6502500mN
+
+6502550mN
+
+6502600mN
+
+6502650mN
+
+6502700mN
+
+6502750mN
+
+6502800mN
+
+6502850mN
+
+6502900mN
+
+6502950mN
+
+6503000mN
+
+6503050mN
+
+6503100mN
+
+6503150mN
+
+0 25 50 75 100
+
+SCALE
+
+METRES
+
+JERVOIS MINING LIMITED
+NYNGAN EL 6009, N.S.W.
+
+GILGAI SCANDIUM PROJECT
+
+GROUND MAGNETICS
+
+Prepared by Douglas McKenna and Partners Pty Ltd Drawn:   tmg
+
+Scale  1:2 000 Date   06-07-2006 Plan No:   NY-115
+
+NA
+51
+
+A6
+7
+
+6
+
+Data from Surtec Pty Ltd Nov 87 and Lachlan Resources N.L.Dec 88 / Jan 89
+using Geometrics G856 X Proton Precession Magnetometer
+
+62000
+
+62500
+
+63000
+
+61
+00
+
+0
+
+61
+50
+
+062
+00
+
+06
+25
+
+00
+
+63
+00
+
+0
+
+63
+50
+
+0
+
+64
+00
+
+0
+
+64
+50
+
+0
+
+65
+00
+
+0
+
+60
+50
+
+0
+
+60
+00
+
+0
+
+5950
+0
+
+590
+00
+
+59
+50
+
+0
+
+59
+00
+
+0
+
+59000
+
+59000
+
+59500
+
+60000
+
+
+
+Qmb
+
+0m
+
+0m
+
+0m
+
+0m
+
+0m
+
+Qmb
+
+0m
+
+0m
+
+Qa
+
+0m
+
+0m
+
+0g
+
+0m
+
+Qs/0g0ms
+Qs/0g
+
+0m
+
+0m
+
+0m
+0m
+
+Qa
+
+0ms
+
+0g
+
+0g
+
+0m
+
+Qrl
+
+Qmb
+Qa
+
+0m
+
+0gg
+
+0gg
+
+0gg
+
+0gp
+
+0gg
+
+Qa
+
+Qa
+
+0g
+
+Tl
+
+Tl
+
+0g
+
+0g
+
+Qa
+
+Girilambone
+Group
+
+Mafic and ultramafic intrusives, with laterite caps
+
+Serpentinised ultramafics (West Lynne Serpentinite)
+
+White quartzite
+
+Booralee volcanics
+
+Quartzose metasediments
+
+Undifferentiated residual deposits over 0g
+
+Polymitic conglomerate
+
+Laminated quartzite
+
+Colluvial and eluvial material
+
+Quartzose sandstone
+
+Laterite
+
+Unconsolidated grey silt and clay
+
+Qrm
+
+Unconsolidated clay, medium grained sand
+
+Qmf
+
+Silt, silty clay
+
+Unconsolidated grey silt
+
+Unconsolidated brown silt
+
+Residual deposits
+
+Unconsolidated clay
+
+Carbonaceous Silty Clay
+
+Silty clay
+
+Data sources:
+Cobar SH55-14 Metallogenic Series 1994
+Nyngan SH55-15 Geological Series 1996
+
+0ms
+
+Notes
+
+Tenement boundaries
+
+Alluvium
+
+LEGEND
+Geology
+
+Fault
+
+Tl
+
+Ts
+
+Qmc
+
+Qmb
+
+Qrb
+
+Qob
+
+0g
+
+Qom
+
+Qs/0g
+
+Qs/Kld
+
+Srv
+
+0gg
+
+0gp
+
+0m
+
+Qrl
+
+Qr
+
+Qa
+
+0gb
+
+JERVOIS MINING LIMITED
+NYNGAN PROJECT, N.S.W.
+
+REGIONAL GEOLOGY
+
+Prepared by Douglas McKenna and Partners Pty. Ltd.       Drawn:   tmg
+
+31  30'
+
+31  40'
+
+31  50'
+
+14
+7 
+
+ 0
+0'
+
+O
+
+O
+
+O
+
+O
+
+EL 6096
+
+EL 6009
+
+EL 6095
+
+Scale    1:200 000 Date:     9-05-2005 Plan No.    NY-62
+
+LOCATION MAP
+
+Broken Hill
+
+Griffith
+
+NEW SOUTH WALES
+
+NYNGAN
+Dubbo
+
+Sydney
+
+CANBERRA
+
+8
+
+KILOMETRES
+
+40
+SCALE
+
+
+
+498400 498500 498600 498700 498800 498900 499000 499100 499200 499300 499400 499500 499600 499700 499800 499900 500000 500100 500200 500300 500400 500500 500600 500700 500800 500900 501000
+
+EASTINGS    GDA
+
+6501800
+
+6501900
+
+6502000
+
+6502100
+
+6502200
+
+6502300
+
+6502400
+
+6502500
+
+6502600
+
+6502700
+
+6502800
+
+6502900
+
+6503000
+
+6503100
+
+6503200
+
+6503300
+
+6503400
+
+6503500
+N
+
+O
+R
+
+T
+H
+
+IN
+G
+
+S
+   
+
+G
+D
+
+A
+
+GIL
+RC
+
+001
+
+GIL
+RC
+
+002
+
+GIL
+RC
+
+003
+
+GIL
+RC
+
+004
+
+GIL
+RC
+
+005
+
+GIL
+RC
+
+006
+
+GIL
+RC
+
+007
+
+GIL
+RC
+
+008
+
+GIL
+RC
+
+009
+
+GIL
+RC
+
+010
+
+GIL
+RC
+
+011
+
+GIL
+RC
+
+012
+
+GIL
+RC
+
+013
+
+GIL
+RC
+
+014
+
+GIL
+RC
+
+015
+
+GIL
+RC
+
+016
+
+GIL
+RC
+
+017
+
+GIL
+RC
+
+018
+
+GIL
+RC
+
+019
+
+GIL
+RC
+
+020
+
+GIL
+RC
+
+021
+
+G10
+0RC
+
+G10
+1RC
+
+G10
+2RC
+
+G01
+
+G02
+
+G03
+
+G04
+
+G05
+
+G06
+
+G07
+
+G08
+
+G09
+
+G10
+
+G11
+
+G12
+
+G13
+
+G14
+
+G15
+
+G16
+
+G17
+
+G18
+
+G19
+
+G20
+
+G21
+
+G22
+
+G23
+
+G24
+
+G25
+
+G26
+
+G27
+
+G28
+
+G29
+
+G30
+
+G31
+
+G32
+G33
+
+G34
+
+G35
+
+G36
+
+G37
+
+G38
+
+G39
+
+G40
+
+G41
+
+G42
+
+G43
+
+G44
+
+G45
+
+G46
+
+G47
+
+G48
+
+G49
+
+G50
+
+G51
+
+G52
+
+G53
+
+G54
+
+G55
+
+G56
+
+G57
+
+G67
+
+G68
+
+G69
+
+G70
+
+G71
+
+G72
+G73
+
+G74
+
+G75
+G76
+
+G77
+
+G78
+G79
+
+G80
+
+G81
+
+G82
+
+G83
+
+G84
+
+G85
+
+G86
+
+G87
+
+G88
+
+G89
+
+G90
+
+G91
+
+G92
+
+G93
+
+G94
+
+G95
+
+G96
+
+G97
+
+G98
+
+G99
+
+G10
+3
+
+G10
+4
+
+G10
+5
+
+G10
+6
+
+G10
+7
+
+G10
+8
+
+G10
+9
+
+G11
+0
+
+G11
+1
+
+G11
+2
+
+G11
+3
+
+G11
+4
+
+G11
+5
+
+G11
+6
+
+G11
+7
+
+G11
+8
+
+G11
+9
+
+G12
+0
+
+G12
+1
+
+G12
+2
+
+G12
+3
+
+G12
+4
+
+G12
+5
+
+G12
+6
+
+G12
+7
+
+G12
+8
+
+G12
+9
+
+G13
+0
+
+G13
+1
+
+G13
+2
+
+G13
+3
+
+G13
+4
+
+DD
+H-1
+
+DD
+H-2
+
+NA-
+45
+
+NA-
+46
+
+NA-
+47
+
+NA-
+48
+
+NA4
+9NA5
+
+0NA5
+1
+
+NA5
+2
+
+NA-
+52A
+
+NA-
+53
+
+NA5
+4
+
+NA5
+5
+
+NA5
+6
+
+NA5
+7
+
+NA5
+8 NA5
+
+9
+
+NA6
+0
+
+NA6
+1
+
+NA6
+2NA6
+
+3
+
+NA6
+4
+
+NA6
+5
+
+NA6
+6
+
+NA6
+7
+
+NA6
+8
+
+NA6
+9
+
+NA7
+0
+
+NA7
+1
+
+NA7
+2
+
+NA7
+3
+
+NA7
+4
+
+NA7
+5
+
+NA7
+6
+
+NA7
+7
+
+NA7
+8
+
+NA7
+9
+
+NA8
+0
+
+NA8
+1
+
+NA8
+2
+
+NA8
+3 NA8
+
+4
+
+NA8
+5
+
+NA8
+6
+
+NA8
+7
+
+NA8
+8
+
+NA8
+9
+
+NA9
+0
+
+NA9
+1
+
+NA9
+2
+
+NA9
+3
+
+NA9
+4
+
+NA9
+5
+
+NA9
+6A
+
+NA9
+6B
+
+NA9
+6C
+
+NA9
+7
+
+NA9
+8
+
+NA9
+9
+
+NA1
+00
+
+NA1
+01
+
+NA1
+02
+
+NA1
+03
+
+NA1
+04
+
+NA1
+05
+
+NA1
+06
+
+NA1
+07
+
+NA1
+08
+
+NA1
+09
+
+NA1
+10
+
+NA1
+11
+
+NA1
+12
+
+NA1
+13
+
+NA1
+14
+
+NA1
+15
+
+NA1
+16
+
+NA1
+17
+
+NA1
+18
+
+NA1
+19
+
+NA1
+20
+
+NA1
+21
+
+SCALE
+
+0 50 100 150 200
+
+METRES
+
+JERVOIS MINING LIMITED
+NYNGAN EL 6009, N.S.W.
+
+GILGAI SCANDIUM PROJECT
+REGIONAL TOPOGRAPHY AND
+ DRILLHOLE LOCATION PLAN
+
+Prepared by Douglas McKenna and Partners Pty Ltd Drawn:   tmg
+
+Scale   1:5 000 Date   17-07-2006 Plan No.   NY-146
+
+Jervois Aircore Drillholes
+
+Anaconda Reverse Circulation Drillholes
+
+Platsearch Diamond Drillholes
+
+Platsearch RAB Holes
+
+LEGEND
+
+Fence
+
+AREA COVERED BY RESOURCES PLANS
+
+Dam
+
+R. J. CARTER O. B. CARTER
+
+
+
+G04
+
+G05
+
+G06
+
+G07
+
+G08
+
+G09
+
+G10
+
+G11
+
+G12
+
+G13
+
+G14
+
+G15
+
+G16
+
+G17
+
+G20
+
+G21
+
+G27
+
+G32
+
+G34
+
+G35
+
+G36
+
+G37
+
+G38
+
+G39
+
+G40
+
+G41
+
+G42
+
+G44
+
+G45
+
+G46
+
+G47
+
+G48
+
+G49
+
+G50
+
+G52
+
+G53
+
+G54
+
+G55
+
+G56
+
+G57
+
+G67
+
+G68
+
+G69
+
+G70
+
+G71
+
+G72
+
+G73
+
+G74
+
+G75
+
+G76
+
+G77
+
+G78
+
+G79
+
+G80
+
+G81
+
+G82
+
+G83
+
+G84
+
+G85
+
+G86
+
+G87
+
+G88
+
+G89
+
+G90
+
+G91
+
+G95
+
+G96
+
+G97
+
+G98
+
+G100RC
+
+G101RC
+
+G102RC
+
+G103
+
+G104
+
+G105
+
+G106
+
+G107
+
+G108
+
+G109
+
+G110
+
+G111
+
+G112
+
+G113
+
+G114
+
+G115
+
+G116
+
+G117
+
+G118
+
+G119
+
+G120
+
+G121
+
+G122
+
+G123
+
+G124
+
+G125
+
+G126
+
+G127
+G128
+
+G129
+
+G130
+G131
+
+G132
+
+G133
+
+G134
+
+GILRC001
+
+GILRC002
+
+GILRC004
+
+GILRC011
+
+GILRC012
+
+NA49
+
+NA50
+
+NA51
+
+NA52NA52A
+
+NA54
+
+NA55 NA58
+NA59
+
+NA60NA61
+
+NA64 NA65 NA66
+
+NA67
+
+NA68
+
+NA69NA70NA71NA72NA73
+
+NA75
+
+NA76
+
+NA79
+
+NA80
+
+NA81
+
+NA82
+NA83
+
+NA84
+
+NA87
+
+NA88 NA89
+
+NA90
+
+NA91
+
+NA92
+
+NA93 NA94
+
+NA95
+
+NA96ANA96BNA96C
+
+NA97
+
+NA98
+
+NA99
+
+NA101
+
+NA102NA103
+
+NA104
+
+NA105
+
+NA106
+
+NA107
+
+NA109
+
+NA111
+
+NA112
+
+NA113NA114
+
+NA115
+
+NA116
+
+NA117NA118
+
+NA119
+
+NA121
+
+4
+9
+
+9
+1
+
+5
+0
+
+m
+E
+
+4
+9
+
+9
+2
+
+0
+0
+
+m
+E
+
+4
+9
+
+9
+2
+
+5
+0
+
+m
+E
+
+4
+9
+
+9
+3
+
+0
+0
+
+m
+E
+
+4
+9
+
+9
+3
+
+5
+0
+
+m
+E
+
+4
+9
+
+9
+4
+
+0
+0
+
+m
+E
+
+4
+9
+
+9
+4
+
+5
+0
+
+m
+E
+
+4
+9
+
+9
+5
+
+0
+0
+
+m
+E
+
+4
+9
+
+9
+5
+
+5
+0
+
+m
+E
+
+4
+9
+
+9
+6
+
+0
+0
+
+m
+E
+
+4
+9
+
+9
+6
+
+5
+0
+
+m
+E
+
+4
+9
+
+9
+7
+
+0
+0
+
+m
+E
+
+4
+9
+
+9
+7
+
+5
+0
+
+m
+E
+
+4
+9
+
+9
+8
+
+0
+0
+
+m
+E
+
+4
+9
+
+9
+8
+
+5
+0
+
+m
+E
+
+4
+9
+
+9
+9
+
+0
+0
+
+m
+E
+
+4
+9
+
+9
+9
+
+5
+0
+
+m
+E
+
+5
+0
+
+0
+0
+
+0
+0
+
+m
+E
+
+5
+0
+
+0
+0
+
+5
+0
+
+m
+E
+
+5
+0
+
+0
+1
+
+0
+0
+
+m
+E
+
+5
+0
+
+0
+1
+
+5
+0
+
+m
+E
+
+6502400mN
+
+6502450mN
+
+6502500mN
+
+6502550mN
+
+6502600mN
+
+6502650mN
+
+6502700mN
+
+6502750mN
+
+6502800mN
+
+6502850mN
+
+6502900mN
+
+6502950mN
+
+6503000mN
+
+6503050mN
+
+6503100mN
+
+6503150mN
+
+M M
+
+M M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+METRES
+0 25 50 75 100
+
+SCALE
+
+GILGAI SCANDIUM PROJECT
+
+JERVOIS MINING LIMITED
+NYNGAN EL 6009,  N.S.W.
+
+GEOLOGICAL INTERPRETATION PLAN
+
+Prepared by Douglas McKenna and Partners Pty Ltd Drawn:   tmg
+
+Scale    1:2 000 Date    10-07-2006 Plan No.  NY-114
+
+Sediments
+
+Pyroxenite
+
+Olivine
+pyroxenite
+
+Hornblende
+pyroxenite
+
+Hornblendite
+
+Magnetite
+pyroxenite
+
+Monzonite
+
+Ultrabasic
+
+MicaM
+
+LEGEND
+
+M
+
+M
+
+M
+
+M M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+M
+
+BASED ON BEDROCK DRILLHOLE INTERSECTIONS
+
+45
+
+
+
+NA
+-9
+
+5
+
+NA
+-8
+
+5
+NA
+
+-8
+4
+
+NA
+-8
+
+6
+
+NA
+-9
+
+1
+NA
+
+-9
+2
+
+NA
+-9
+
+3
+
+NA
+-9
+
+4
+
+GI
+LR
+
+C0
+11
+
+NA
+-8
+
+7
+NA
+
+-8
+8
+
+NA
+-8
+
+9
+
+NA
+-9
+
+0
+
+GI
+LR
+
+C0
+12
+
+GI
+LR
+
+C0
+13
+
+NA
+-7
+
+6
+
+NA
+-7
+
+7
+
+NA
+-7
+
+8
+
+NA
+-7
+
+9
+
+GI
+LR
+
+C0
+01
+
+NA
+-8
+
+0
+NA
+
+-8
+1
+
+GI
+LR
+
+C0
+04
+
+NA
+-8
+
+2
+
+NA
+-8
+
+3
+
+GI
+LR
+
+C0
+02
+
+GI
+LR
+
+C0
+03
+
+NA
+-7
+
+4
+
+NA
+-4
+
+9
+
+NA
+-6
+
+8
+NA
+
+-6
+9
+
+NA
+-9
+
+6C
+
+NA
+-7
+
+0
+
+NA
+-9
+
+7
+
+NA
+-1
+
+05
+
+NA
+-9
+
+8
+NA
+
+-9
+9
+
+NA
+-5
+
+0
+
+NA
+-6
+
+6
+
+NA
+-6
+
+5
+
+NA
+-5
+
+9
+
+NA
+-6
+
+0
+
+NA
+-6
+
+1
+
+NA
+-6
+
+7
+
+NA
+-1
+
+00
+
+NA
+-1
+
+01
+
+NA
+-1
+
+02
+
+NA
+-1
+
+03
+
+NA
+-1
+
+04
+
+NA
+-1
+
+11
+
+NA
+-1
+
+12
+
+NA
+-7
+
+5
+
+NA
+-1
+
+10
+
+NA
+-1
+
+18
+NA
+
+-6
+2
+
+NA
+-1
+
+17
+
+NA
+-1
+
+06
+
+NA
+-5
+
+7
+
+NA
+-5
+
+8
+
+NA
+-1
+
+19
+
+NA
+-1
+
+07
+
+NA
+-1
+
+08
+
+NA
+-1
+
+09
+
+NA
+-1
+
+13
+
+NA
+-1
+
+14
+
+NA
+-1
+
+15
+
+NA
+-1
+
+16
+
+NA
+-1
+
+20
+
+NA
+-1
+
+21
+
+NA
+-5
+
+1
+
+NA
+-7
+
+1
+
+NA
+-7
+
+3
+
+NA
+-7
+
+2
+
+NA
+-5
+
+2A
+
+NA
+-5
+
+4
+
+NA
+-5
+
+5
+
+NA
+-5
+
+6
+
+NA
+-6
+
+3
+NA
+
+-6
+4
+
+JERVOIS MINING LIMITED
+NYNGAN EL 6009, N.S.W.
+
+GILGAI SCANDIUM PROJECT
+
+       HEMATITE 
+TOTAL RESOURCE
+
+Prepared by Douglas McKenna and Partners Pty Ltd Drawn:   tmg
+
+0 100 200
+
+METRES
+Scale   1:2 000 Plan No:   NY-112Date   01-05-2006
+
+15m
+123739t @
+202 ppm Sc
+
+13m
+24810t @
+181 ppm Sc
+
+14m
+49928t @
+247 ppm Sc
+
+13m
+26494t @
+174 ppm Sc
+
+16m
+154603t @
+174 ppm Sc
+
+17m
+58225t @
+201 ppm Sc
+
+24m
+82335t @
+152 ppm Sc
+
+14m
+31464t @
+247 ppm Sc
+
+13m
+55013t @
+181 ppm Sc
+
+13m
+14205t @
+174 ppm Sc
+
+6503100mN
+
+6503000mN
+
+6502900mN
+
+6502800mN
+
+6502700mN
+
+6502600mN
+
+6502500mN
+
+49
+92
+
+00
+m
+
+E
+
+49
+93
+
+00
+m
+
+E
+
+49
+94
+
+00
+m
+
+E
+
+49
+95
+
+00
+m
+
+E
+
+49
+96
+
+00
+m
+
+E
+
+49
+97
+
+00
+m
+
+E
+
+49
+98
+
+00
+m
+
+E
+
+49
+99
+
+00
+m
+
+E
+
+50
+00
+
+00
+m
+
+E
+
+50
+01
+
+00
+m
+
+E
+
+GRID IS GDA
+
+MEASURED RESOURCE
+
+INDICATED RESOURCE
+
+<200 ppm Sc
+
+200 - 300 ppm Sc
+
+300 - 400 ppm Sc
+
+400+ ppm Sc
+
+LEGEND
+
+Drillhole
+
+Overburden
+(depth)
+Tonnage
+Grade
+
+13m
+14205t @
+174 ppm Sc
+
+NA
+-5
+
+1
+
+
+
+NA
+-9
+
+5
+
+NA
+-8
+
+5
+NA
+
+-8
+4
+
+NA
+-8
+
+6
+
+NA
+-9
+
+1
+NA
+
+-9
+2
+
+NA
+-9
+
+3
+
+NA
+-9
+
+4
+
+GI
+LR
+
+C0
+11
+
+NA
+-8
+
+7
+NA
+
+-8
+8
+
+NA
+-8
+
+9
+
+NA
+-9
+
+0
+
+GI
+LR
+
+C0
+12
+
+GI
+LR
+
+C0
+13
+
+NA
+-7
+
+6
+
+NA
+-7
+
+7
+
+NA
+-7
+
+8
+
+NA
+-7
+
+9
+
+GI
+LR
+
+C0
+01
+
+NA
+-8
+
+0
+NA
+
+-8
+1
+
+GI
+LR
+
+C0
+04
+
+NA
+-8
+
+2
+
+NA
+-8
+
+3
+
+GI
+LR
+
+C0
+02
+
+GI
+LR
+
+C0
+03
+
+NA
+-7
+
+4
+
+NA
+-4
+
+9
+
+NA
+-6
+
+8
+NA
+
+-6
+9
+
+NA
+-9
+
+6C
+
+NA
+-7
+
+0
+
+NA
+-9
+
+7
+
+NA
+-1
+
+05
+
+NA
+-9
+
+8
+NA
+
+-9
+9
+
+NA
+-5
+
+0
+
+NA
+-6
+
+6
+
+NA
+-6
+
+5
+
+NA
+-5
+
+9
+
+NA
+-6
+
+0
+
+NA
+-6
+
+1
+
+NA
+-6
+
+7
+
+NA
+-1
+
+00
+
+NA
+-1
+
+01
+
+NA
+-1
+
+02
+
+NA
+-1
+
+03
+
+NA
+-1
+
+04
+
+NA
+-1
+
+11
+
+NA
+-1
+
+12
+
+NA
+-7
+
+5
+
+NA
+-1
+
+10
+
+NA
+-1
+
+18
+NA
+
+-6
+2
+
+NA
+-1
+
+17
+
+NA
+-1
+
+06
+
+NA
+-5
+
+7
+
+NA
+-5
+
+8
+
+NA
+-1
+
+19
+
+NA
+-1
+
+07
+
+NA
+-1
+
+08
+
+NA
+-1
+
+09
+
+NA
+-1
+
+13
+
+NA
+-1
+
+14
+
+NA
+-1
+
+15
+
+NA
+-1
+
+16
+
+NA
+-1
+
+20
+
+NA
+-1
+
+21
+
+NA
+-5
+
+1
+
+NA
+-7
+
+1
+
+NA
+-7
+
+3
+
+NA
+-7
+
+2
+
+NA
+-5
+
+2A
+
+NA
+-5
+
+4
+
+NA
+-5
+
+5
+
+NA
+-5
+
+6
+
+NA
+-6
+
+3
+NA
+
+-6
+4
+
+JERVOIS MINING LIMITED
+NYNGAN EL 6009, N.S.W.
+
+GILGAI SCANDIUM PROJECT
+
+        LIMONITE 
+TOTAL RESOURCE
+
+Prepared by Douglas McKenna and Partners Pty Ltd Drawn:   tmg
+
+0 50 100
+
+METRES
+Scale   1:2 000 Plan No:  
+
+19m
+85657t @
+208 ppm Sc
+
+22m
+109243t @
+406 ppm Sc
+
+22m
+228226t @
+252 ppm Sc
+
+15m
+50758t @
+445 ppm Sc
+
+49m
+165934t @
+204 ppm Sc
+
+19m
+184964t @
+323 ppm Sc
+
+25m
+20773t @
+595 ppm Sc
+
+17m
+16108t @
+252 ppm Sc
+
+16m
+19071t @
+334 ppm Sc
+
+14m
+57806t @
+299 ppm Sc
+
+15m
+3280t @
+235 ppm Sc
+
+14m
+13523t @
+248 ppm Sc
+
+19m
+17193t @
+373 ppm Sc
+
+15m
+20763t @
+405 ppm Sc
+
+18m
+8906t @
+332 ppm Sc
+
+18m
+6735t @
+219 ppm Sc
+
+24m
+62377t @
+483 ppm Sc
+
+31m
+210014t @
+264 ppm Sc
+
+15m
+376962t @
+281 ppm Sc
+
+13m
+195008t @
+381 ppm Sc
+
+16m
+31355t @
+340 ppm Sc
+
+15m
+3628t @
+376 ppm Sc
+
+14m
+19770t @
+205 ppm Sc
+
+16m
+23061t @
+198 ppm Sc
+
+14m
+34230t @
+239 ppm Sc
+
+15m
+18132t @
+313 ppm Sc
+
+14m
+11377t @
+237 ppm Sc
+
+14m
+226407t @
+217 ppm Sc
+
+11m
+178816t @
+176 ppm Sc
+
+14m
+276158t @
+336 ppm Sc
+
+20m
+168529t @
+228 ppm Sc
+
+15m
+35404t @
+185 ppm Sc
+
+13m
+410516t @
+192 ppm Sc
+
+31m
+229341t @
+486 ppm Sc
+
+22m
+86455t @
+242 ppm Sc
+and
+4m
+244956t @
+327 ppm Sc
+
+18m
+74336t @
+117 ppm Sc
+and
+19m
+44602t @
+318 ppm Sc
+
+14m
+133530t @
+399 ppm Sc
+
+28m
+211391t @
+524 ppm Sc
+
+41m
+150074t @
+177 ppm Sc
+
+20m
+82641t @
+245 ppm Sc
+
+24m
+46704t @
+126 ppm Sc
+
+44m
+97194t @
+200 ppm Sc
+
+14m
+41831t @
+463 ppm Sc
+
+14m
+38801t @
+487 ppm Sc
+
+12m
+46788t @
+495 ppm Sc 16m
+
+8127t @
+242 ppm Sc
+
+14m
+16007t @
+475 ppm Sc
+
+12m
+45396t @
+308 ppm Sc
+
+14m
+28879t @
+371 ppm Sc
+
+16m
+41272t @
+499 ppm Sc
+
+14m
+28240t @
+277 ppm Sc
+
+15m
+40815t @
+197 ppm Sc
+
+14m
+65223t @
+253 ppm Sc
+
+13m
+88287t @
+291 ppm Sc
+
+13m
+31761t @
+296 ppm Sc
+
+13m
+41418t @
+288 ppm Sc
+
+14m
+8841t @
+243 ppm Sc
+
+14m
+47159t @
+314 ppm Sc
+
+16m
+21907t @
+241 ppm Sc
+
+14m
+3179t @
+340 ppm Sc
+
+19m
+83415t @
+323 ppm Sc
+
+25m
+32964t @
+595 ppm Sc
+
+15m
+35223t @
+445 ppm Sc
+
+14m
+13183t @
+340 ppm Sc
+
+19m
+32069t @
+373 ppm Sc
+
+15m
+7824t @
+235 ppm Sc
+
+15m
+40898t @
+405 ppm Sc
+
+14m
+31296t @
+248 ppm Sc
+
+14m
+102772t @
+299 ppm Sc
+
+16m
+35428t@
+334 ppm Sc
+
+17m
+12220t @
+252 ppm Sc
+
+18m
+17591t @
+219 ppm Sc
+
+18m
+15655t @
+332 ppm Sc
+
+15m
+27120t @
+376 ppm Sc
+
+14m
+64313t @
+243 ppm Sc
+
+15m
+11866t @
+313 ppm Sc
+
+14m
+37115t @
+239 ppm Sc
+
+16m
+43873t @
+198 ppm Sc
+
+14m
+51365t @
+205 ppm Sc
+
+16m
+28285t @
+340 ppm Sc
+
+13m
+88142t @
+381 ppm Sc
+
+6503100mN
+
+6503000mN
+
+6502900mN
+
+6502800mN
+
+6502700mN
+
+6502600mN
+
+6502500mN
+
+49
+92
+
+00
+m
+
+E
+
+49
+93
+
+00
+m
+
+E
+
+49
+94
+
+00
+m
+
+E
+
+49
+95
+
+00
+m
+
+E
+
+49
+96
+
+00
+m
+
+E
+
+49
+97
+
+00
+m
+
+E
+
+49
+98
+
+00
+m
+
+E
+
+49
+99
+
+00
+m
+
+E
+
+50
+00
+
+00
+m
+
+E
+
+50
+01
+
+00
+m
+
+E
+
+GRID IS GDA
+
+LEGEND
+
+<200 ppm Sc
+
+200 - 300 ppm Sc
+
+300 - 400 ppm Sc
+
+400+ ppm Sc
+
+NA
+-1
+
+06
+
+16m
+8127t @
+242 ppm Sc
+
+Drillhole
+
+Overburden
+(depth)
+Tonnage
+Grade
+
+Date   09-06-2006
+
+MEASURED RESOURCE
+INDICATED RESOURCE
+
+NY-111
+
+
+
+NA
+-9
+
+5
+
+NA
+-8
+
+5
+NA
+
+-8
+4
+
+NA
+-8
+
+6
+
+NA
+-9
+
+1
+NA
+
+-9
+2
+
+NA
+-9
+
+3
+
+NA
+-9
+
+4
+
+GI
+LR
+
+C0
+11
+
+NA
+-8
+
+7
+NA
+
+-8
+8
+
+NA
+-8
+
+9
+
+NA
+-9
+
+0
+
+GI
+LR
+
+C0
+12
+
+GI
+LR
+
+C0
+13
+
+NA
+-7
+
+6
+
+NA
+-7
+
+7
+
+NA
+-7
+
+8
+
+NA
+-7
+
+9
+
+GI
+LR
+
+C0
+01
+
+NA
+-8
+
+0
+NA
+
+-8
+1
+
+GI
+LR
+
+C0
+04
+
+NA
+-8
+
+2
+
+NA
+-8
+
+3
+
+GI
+LR
+
+C0
+02
+
+GI
+LR
+
+C0
+03
+
+NA
+-7
+
+4
+
+NA
+-4
+
+9
+
+NA
+-6
+
+8
+NA
+
+-6
+9
+
+NA
+-9
+
+6C
+
+NA
+-7
+
+0
+
+NA
+-9
+
+7
+
+NA
+-1
+
+05
+
+NA
+-9
+
+8
+NA
+
+-9
+9
+
+NA
+-5
+
+0
+
+NA
+-6
+
+6
+
+NA
+-6
+
+5
+
+NA
+-5
+
+9
+
+NA
+-6
+
+0
+
+NA
+-6
+
+1
+
+NA
+-6
+
+7
+
+NA
+-1
+
+00
+
+NA
+-1
+
+01
+
+NA
+-1
+
+02
+
+NA
+-1
+
+03
+
+NA
+-1
+
+04
+
+NA
+-1
+
+11
+
+NA
+-1
+
+12
+
+NA
+-7
+
+5
+
+NA
+-1
+
+10
+
+NA
+-1
+
+18
+NA
+
+-6
+2
+
+NA
+-1
+
+17
+
+NA
+-1
+
+06
+
+NA
+-5
+
+7
+
+NA
+-5
+
+8
+
+NA
+-1
+
+19
+
+NA
+-1
+
+07
+
+NA
+-1
+
+08
+
+NA
+-1
+
+09
+
+NA
+-1
+
+13
+
+NA
+-1
+
+14
+
+NA
+-1
+
+15
+
+NA
+-1
+
+16
+
+NA
+-1
+
+20
+
+NA
+-1
+
+21
+
+NA
+-5
+
+1
+
+NA
+-7
+
+1
+
+NA
+-7
+
+3
+
+NA
+-7
+
+2
+
+NA
+-5
+
+2A
+
+NA
+-5
+
+4
+
+NA
+-5
+
+5
+
+NA
+-5
+
+6
+
+NA
+-6
+
+3
+NA
+
+-6
+4
+
+JERVOIS MINING LIMITED
+NYNGAN EL 6009, N.S.W.
+
+GILGAI SCANDIUM PROJECT
+
+      SAPROLITE 
+TOTAL RESOURCE
+
+Prepared by Douglas McKenna and Partners Pty Ltd Drawn:   tmg
+
+0 100 200
+
+METRES
+Scale   1:2 000 Plan No:  NY-113Date   24-04-2006
+
+311201t @
+178 ppm Sc
+
+31499t @
+147 ppm Sc
+
+185084t @
+275 ppm Sc
+
+29272t @
+238 ppm Sc
+
+86123t @
+308 ppm Sc
+
+38400t @
+204 ppm Sc
+
+11979t @
+282 ppm Sc
+
+9289t @
+214 ppm Sc
+
+3666t @
+202 ppm Sc
+
+7311t @
+192 ppm Sc
+
+18178t @
+256 ppm Sc
+
+16328t @
+263 ppm Sc
+
+3852t @
+397 ppm Sc
+
+11652t @
+286 ppm Sc
+
+80937t @
+248 ppm Sc
+
+97822t @
+206 ppm Sc
+
+212663t @
+228 ppm Sc
+
+48197t @
+421 ppm Sc
+
+73619t @
+200 ppm Sc
+
+3139t @
+164 ppm Sc
+
+9209t @
+134 ppm Sc
+
+11637t @
+201 ppm Sc
+
+29610t @
+165 ppm Sc
+
+23527t @
+260 ppm Sc
+
+9842t @
+292 ppm Sc
+
+195849t @
+174 ppm Sc
+
+102042t @
+385 ppm Sc
+
+154573t @
+318 ppm Sc
+
+100226t @
+282 ppm Sc
+
+30625t @
+262 ppm Sc
+
+92637t @
+109 ppm Sc
+
+240899t @
+238 ppm Sc
+
+24929t @
+221 ppm Sc
+
+90024t @
+168 ppm Sc
+and
+12861t @
+396 ppm Sc
+
+168794t @
+268 ppm Sc
+
+86546t @
+220 ppm Sc
+
+67335t @
+161 ppm Sc
+
+126113t @
+200 ppm Sc
+
+9869t @
+196 ppm Sc
+
+18307t @
+308 ppm Sc
+
+7030t @
+155 ppm Sc
+
+17308t @
+283 ppm Sc
+
+43195t @
+203 ppm Sc
+
+7137t @
+249 ppm Sc 24991t @
+
+196 ppm Sc
+
+20939t @
+228 ppm Sc
+
+7061t @
+186 ppm Sc
+
+25075t @
+191 ppm Sc
+
+17357t @
+205 ppm Sc
+
+18316t @
+201 ppm Sc
+
+45599t @
+274 ppm Sc
+
+956t @
+299 ppm Sc
+
+13598t @
+245 ppm Sc
+
+35194t @
+313 ppm Sc
+
+5499t @
+185 ppm Sc
+
+25493t @
+179 ppm Sc
+
+143679t @
+186 ppm Sc
+
+23096t @
+319 ppm Sc
+
+88633t @
+350 ppm Sc
+
+209842t @
+383 ppm Sc
+
+226502t @
+126 ppm Sc
+
+20313t @
+238 ppm Sc
+
+19010t @
+282 ppm Sc
+
+17318t @
+204 ppm Sc
+
+33905t @
+256 ppm Sc
+
+32162t @
+263 ppm Sc
+
+60489t @
+350 ppm Sc
+
+22808t @
+185 ppm Sc
+
+13818t @
+179 ppm Sc
+
+16039t @
+319 ppm Sc
+
+16920t @
+192 ppm Sc
+
+6810t @
+202 ppm Sc
+
+7047t @
+214 ppm Sc
+
+6771t @
+397 ppm Sc
+
+15397t @
+260 ppm Sc
+
+6954t @
+299 ppm Sc
+
+32106t @
+165 ppm Sc
+
+22138t @
+201 ppm Sc
+
+23925t @
+134 ppm Sc
+
+66412t @
+200 ppm Sc
+
+30433t @
+286 ppm Sc
+
+21785t @
+421 ppm Sc
+
+23460t @
+164 ppm Sc
+
+6503100mN
+
+GRID IS GDA
+
+6503000mN
+
+6502900mN
+
+6502800mN
+
+6502700mN
+
+6502600mN
+
+6502500mN
+
+49
+92
+
+00
+m
+
+E
+
+49
+93
+
+00
+m
+
+E
+
+49
+94
+
+00
+m
+
+E
+
+49
+95
+
+00
+m
+
+E
+
+49
+96
+
+00
+m
+
+E
+
+49
+97
+
+00
+m
+
+E
+
+49
+98
+
+00
+m
+
+E
+
+49
+99
+
+00
+m
+
+E
+
+50
+00
+
+00
+m
+
+E
+
+50
+01
+
+00
+m
+
+E
+
+<200 ppm Sc
+
+200 - 300 ppm Sc
+
+300 - 400 ppm Sc
+
+400+ ppm Sc
+
+Drillhole
+
+Tonnage
+Grade
+
+17357t @
+305 ppm Sc
+
+NA
+-9
+
+8
+
+LEGEND
+
+MEASURED RESOURCE
+INDICATED RESOURCE
+
+
+
+NA
+-9
+
+5
+
+NA
+-8
+
+5
+NA
+
+-8
+4
+
+NA
+-8
+
+6
+
+NA
+-9
+
+1
+NA
+
+-9
+2
+
+NA
+-9
+
+3
+
+NA
+-9
+
+4
+
+GI
+LR
+
+C0
+11
+
+NA
+-8
+
+7
+NA
+
+-8
+8
+
+NA
+-8
+
+9
+
+NA
+-9
+
+0
+
+GI
+LR
+
+C0
+12
+
+GI
+LR
+
+C0
+13
+
+NA
+-7
+
+6
+
+NA
+-7
+
+7
+
+NA
+-7
+
+8
+
+NA
+-7
+
+9
+
+GI
+LR
+
+C0
+01
+
+NA
+-8
+
+0
+NA
+
+-8
+1
+
+GI
+LR
+
+C0
+04
+
+NA
+-8
+
+2
+
+NA
+-8
+
+3
+
+GI
+LR
+
+C0
+02
+
+GI
+LR
+
+C0
+03
+
+NA
+-7
+
+4
+
+NA
+-4
+
+9
+
+NA
+-6
+
+8
+NA
+
+-6
+9
+
+NA
+-9
+
+6C
+
+NA
+-7
+
+0
+
+NA
+-9
+
+7
+
+NA
+-1
+
+05
+
+NA
+-9
+
+8
+NA
+
+-9
+9
+
+NA
+-5
+
+0
+
+NA
+-6
+
+6
+
+NA
+-6
+
+5
+
+NA
+-5
+
+9
+
+NA
+-6
+
+0
+
+NA
+-6
+
+1
+
+NA
+-6
+
+7
+
+NA
+-1
+
+00
+
+NA
+-1
+
+01
+
+NA
+-1
+
+02
+
+NA
+-1
+
+03
+
+NA
+-1
+
+04
+
+NA
+-1
+
+11
+
+NA
+-1
+
+12
+
+NA
+-7
+
+5
+
+NA
+-1
+
+10
+
+NA
+-1
+
+18
+NA
+
+-6
+2
+
+NA
+-1
+
+17
+
+NA
+-1
+
+06
+
+NA
+-5
+
+7
+
+NA
+-5
+
+8
+
+NA
+-1
+
+19
+
+NA
+-1
+
+07
+
+NA
+-1
+
+08
+
+NA
+-1
+
+09
+
+NA
+-1
+
+13
+
+NA
+-1
+
+14
+
+NA
+-1
+
+15
+
+NA
+-1
+
+16
+
+NA
+-1
+
+20
+
+NA
+-1
+
+21
+
+NA
+-5
+
+1
+
+NA
+-7
+
+1
+
+NA
+-7
+
+3
+
+NA
+-7
+
+2
+
+NA
+-5
+
+2A
+
+NA
+-5
+
+4
+
+NA
+-5
+
+5
+
+NA
+-5
+
+6
+
+NA
+-6
+
+3
+NA
+
+-6
+4
+
+JERVOIS MINING LIMITED
+NYNGAN EL 6009, N.S.W.
+
+GILGAI SCANDIUM PROJECT
+
+TOTAL RESOURCE
+
+Prepared by Douglas McKenna and Partners Pty Ltd Drawn:   tmg
+
+0 50 100
+
+METRES
+Scale   1:2 000 Plan No:  
+
+19m
+396858t @
+184 ppm Sc
+
+22m
+140742t @
+348 ppm Sc
+
+15m
+537049t @
+248 ppm Sc
+
+15m
+81005t @
+350 ppm Sc
+
+49m
+252057t @
+240 ppm Sc
+
+13m
+295694t @
+279 ppm Sc
+
+14m
+64216t @
+366 ppm Sc
+
+17m
+72795t @
+168 ppm Sc
+
+16m
+27287t @
+287 ppm Sc
+
+14m
+57806t @
+299 ppm Sc
+
+15m
+3280t @
+235 ppm Sc
+
+14m
+35351t @
+186 ppm Sc
+
+13m
+78121t @
+267 ppm Sc
+
+15m
+37091t @
+342 ppm Sc
+
+18m
+17539t @
+294 ppm Sc
+
+18m
+18388t @
+261 ppm Sc
+
+16m
+297916t @
+259 ppm Sc
+
+31m
+307836t @
+246 ppm Sc
+
+15m
+589625t @
+262 ppm Sc
+
+13m
+243205t @
+389 ppm Sc
+
+16m
+104973t @
+242 ppm Sc
+
+15m
+9364t @
+235 ppm Sc
+
+14m
+28978t @
+182 ppm Sc
+
+16m
+45014t @
+193 ppm Sc
+
+14m
+89565t @
+183 ppm Sc
+
+15m
+56259t @
+252 ppm Sc
+
+14m
+57864t @
+211 ppm Sc
+
+14m
+422256t @
+197 ppm Sc
+
+11m
+178816t @
+176 ppm Sc
+
+14m
+430731t @
+330 ppm Sc
+
+20m
+268755t @
+248 ppm Sc
+
+15m
+85034t @
+227 ppm Sc
+
+13m
+503153t @
+177 ppm Sc
+
+31m
+470240t @
+359 ppm Sc
+
+22m
+387280t @
+285 ppm Sc
+
+18m
+221823t @
+194 ppm Sc
+
+14m
+241050t @
+290 ppm Sc
+
+28m
+380185t @
+410 ppm Sc
+
+41m
+272425t @
+191 ppm Sc
+
+20m
+171366t @
+212 ppm Sc
+
+24m
+114039t @
+147 ppm Sc
+
+44m
+240698t @
+202 ppm Sc
+
+14m
+51699t @
+412 ppm Sc
+
+14m
+64682t @
+401 ppm Sc
+
+12m
+46788t @
+495 ppm Sc 16m
+
+32608t @
+169 ppm Sc
+
+14m
+37611t @
+346 ppm Sc
+
+12m
+88591t @
+257 ppm Sc
+
+14m
+58162t @
+274 ppm Sc
+
+16m
+75124t @
+357 ppm Sc
+
+14m
+49178t @
+257 ppm Sc
+
+15m
+82933t @
+173 ppm Sc
+
+14m
+90298t @
+236 ppm Sc
+
+13m
+105644t @
+277 ppm Sc
+
+13m
+72809t @
+219 ppm Sc
+
+13m
+95103t @
+268 ppm Sc
+
+14m
+9798t @
+248 ppm Sc
+
+14m
+81854t @
+251 ppm Sc
+
+16m
+70541t @
+260 ppm Sc
+
+14m
+8677t @
+242 ppm Sc
+
+13m
+108225t @
+279 ppm Sc
+
+14m
+101901t @
+366 ppm Sc
+
+15m
+59739t @
+350 ppm Sc
+
+14m
+35992t @
+242 ppm Sc
+
+13m
+69799t @
+267 ppm Sc
+
+15m
+7824t @
+235 ppm Sc
+
+15m
+73060t @
+342 ppm Sc
+
+14m
+81816t @
+186 ppm Sc
+
+14m
+102772t @
+299 ppm Sc
+
+16m
+50691t@
+287 ppm Sc
+
+17m
+42833t @
+168 ppm Sc
+
+18m
+48024t @
+261 ppm Sc
+
+18m
+30829t @
+294 ppm Sc
+
+15m
+69991t @
+235 ppm Sc
+
+14m
+71267t @
+248 ppm Sc
+
+15m
+36819t @
+252 ppm Sc
+
+14m
+97114t @
+183 ppm Sc
+
+16m
+85638t @
+193 ppm Sc
+
+14m
+75290t @
+182 ppm Sc
+
+16m
+94698t @
+242 ppm Sc
+
+13m
+109927t @
+389 ppm Sc
+
+6503100mN
+
+6503000mN
+
+6502900mN
+
+6502800mN
+
+6502700mN
+
+6502600mN
+
+6502500mN
+
+49
+92
+
+00
+m
+
+E
+
+49
+93
+
+00
+m
+
+E
+
+49
+94
+
+00
+m
+
+E
+
+49
+95
+
+00
+m
+
+E
+
+49
+96
+
+00
+m
+
+E
+
+49
+97
+
+00
+m
+
+E
+
+49
+98
+
+00
+m
+
+E
+
+49
+99
+
+00
+m
+
+E
+
+50
+00
+
+00
+m
+
+E
+
+50
+01
+
+00
+m
+
+E
+
+GRID IS GDA
+
+LEGEND
+
+<200 ppm Sc
+
+200 - 300 ppm Sc
+
+300 - 400 ppm Sc
+
+400+ ppm Sc
+
+NA
+-1
+
+06
+
+16m
+8127t @
+242 ppm Sc
+
+Drillhole
+
+Overburden
+(depth)
+Tonnage
+Grade
+
+Date   18-07-2006
+
+MEASURED RESOURCE
+INDICATED RESOURCE
+
+NY-148
+
+24m
+226014t @
+174 ppm Sc
+
+15m
+102042t @
+385 ppm Sc
+
+34m
+209842t @
+383 ppm Sc
+
+17m
+58225t @
+201 ppm Sc
+
+26m
+226502t @
+126 ppm Sc
+
+17m
+25493t @
+179 ppm Sc
+
+17m
+13818t @
+179 ppm Sc
+
+18m
+34562t @
+268 ppm Sc
+
+18m
+24001t @
+268 ppm Sc
+
+16m
+71750t @
+316 ppm Sc
+
+16m
+105134t @
+316 ppm Sc
+
+ALL LITHOLOGIES
+
+
+
+NA
+-9
+
+5
+
+NA
+-8
+
+5
+NA
+
+-8
+4
+
+NA
+-8
+
+6
+
+NA
+-9
+
+1
+NA
+
+-9
+2
+
+NA
+-9
+
+3
+
+NA
+-9
+
+4
+
+GI
+LR
+
+C0
+11
+
+NA
+-8
+
+7
+NA
+
+-8
+8
+
+NA
+-8
+
+9
+
+NA
+-9
+
+0
+
+GI
+LR
+
+C0
+12
+
+GI
+LR
+
+C0
+13
+
+NA
+-7
+
+6
+
+NA
+-7
+
+7
+
+NA
+-7
+
+8
+
+NA
+-7
+
+9
+
+GI
+LR
+
+C0
+01
+
+NA
+-8
+
+0
+NA
+
+-8
+1
+
+GI
+LR
+
+C0
+04
+
+NA
+-8
+
+2
+
+NA
+-8
+
+3
+
+GI
+LR
+
+C0
+02
+
+GI
+LR
+
+C0
+03
+
+NA
+-7
+
+4
+
+NA
+-4
+
+9
+
+NA
+-6
+
+8
+NA
+
+-6
+9
+
+NA
+-9
+
+6C
+
+NA
+-7
+
+0
+
+NA
+-9
+
+7
+
+NA
+-1
+
+05
+
+NA
+-9
+
+8
+NA
+
+-9
+9
+
+NA
+-5
+
+0
+
+NA
+-6
+
+6
+
+NA
+-6
+
+5
+
+NA
+-5
+
+9
+
+NA
+-6
+
+0
+
+NA
+-6
+
+1
+
+NA
+-6
+
+7
+
+NA
+-1
+
+00
+
+NA
+-1
+
+01
+
+NA
+-1
+
+02
+
+NA
+-1
+
+03
+
+NA
+-1
+
+04
+
+NA
+-1
+
+11
+
+NA
+-1
+
+12
+
+NA
+-7
+
+5
+
+NA
+-1
+
+10
+
+NA
+-1
+
+18
+NA
+
+-6
+2
+
+NA
+-1
+
+17
+
+NA
+-1
+
+06
+
+NA
+-5
+
+7
+
+NA
+-5
+
+8
+
+NA
+-1
+
+19
+
+NA
+-1
+
+07
+
+NA
+-1
+
+08
+
+NA
+-1
+
+09
+
+NA
+-1
+
+13
+
+NA
+-1
+
+14
+
+NA
+-1
+
+15
+
+NA
+-1
+
+16
+
+NA
+-1
+
+20
+
+NA
+-1
+
+21
+
+NA
+-5
+
+1
+
+NA
+-7
+
+1
+
+NA
+-7
+
+3
+
+NA
+-7
+
+2
+
+NA
+-5
+
+2A
+
+NA
+-5
+
+4
+
+NA
+-5
+
+5
+
+NA
+-5
+
+6
+
+NA
+-6
+
+3
+NA
+
+-6
+4
+
+JERVOIS MINING LIMITED
+NYNGAN EL 6009, N.S.W.
+
+GILGAI SCANDIUM PROJECT
+
+      BEDROCK 
+TOTAL RESOURCE
+
+Prepared by Douglas McKenna and Partners Pty Ltd Drawn:   tmg
+
+0 100 200
+
+METRES
+Scale   1:2 000 Plan No:   NY-114Date   01-05-2006
+
+6055t @
+100 ppm Sc
+
+40351t @
+124 ppm Sc
+
+4550t @
+156 ppm Sc
+
+14518t @
+126 ppm Sc
+
+3826t @
+127 ppm Sc
+
+4781t @
+140 ppm Sc
+
+19411t @
+124 ppm Sc
+
+19627t @
+174 ppm Sc
+
+27893t @
+129 ppm Sc
+
+14600t @
+163 ppm Sc
+
+36645t @
+181 ppm Sc
+
+19005t @
+247 ppm Sc
+
+30940t @
+124 ppm Sc 35805t @
+
+179 ppm Sc
+
+107520t @
+155 ppm Sc
+
+17392t @
+230 ppm Sc
+
+7574t @
+181 ppm Sc
+
+17451t @
+141 ppm Sc
+
+4296t @
+122 ppm Sc
+
+22146t @
+156 ppm Sc 8862t @
+
+151 ppm Sc
+
+35056t @
+143 ppm Sc
+
+22733t @
+126 ppm Sc
+
+8085t @
+127 ppm Sc
+
+21096t @
+115 ppm Sc
+
+13440t @
+150 ppm Sc
+
+11466t @
+164 ppm Sc
+
+16501t @
+133 ppm Sc
+
+88725t @
+181 ppm Sc
+
+GRID IS GDA
+
+6503100mN
+
+6503000mN
+
+6502900mN
+
+6502800mN
+
+6502700mN
+
+6502600mN
+
+6502500mN
+
+49
+92
+
+00
+m
+
+E
+
+49
+93
+
+00
+m
+
+E
+
+49
+94
+
+00
+m
+
+E
+
+49
+95
+
+00
+m
+
+E
+
+49
+96
+
+00
+m
+
+E
+
+49
+97
+
+00
+m
+
+E
+
+49
+98
+
+00
+m
+
+E
+
+49
+99
+
+00
+m
+
+E
+
+50
+00
+
+00
+m
+
+E
+
+50
+01
+
+00
+m
+
+E
+
+4202t @
+100 ppm Sc
+
+7963t @
+164 ppm Sc
+
+33600t @
+126 ppm Sc
+
+8453t @
+156 ppm Sc
+
+30613t @
+124 ppm Sc
+
+8404t @
+140 ppm Sc
+
+9555t @
+163 ppm Sc
+
+25725t @
+129 ppm Sc
+
+10316t @
+174 ppm Sc
+
+2597t @
+124 ppm Sc
+
+11261t @
+133 ppm Sc
+
+2051t @
+127 ppm Sc
+
+LEGEND
+
+<200 ppm Sc
+
+200 - 300 ppm Sc
+
+NA
+-6
+
+5
+
+8085t @
+127 ppm Sc
+
+Drillhole
+
+Tonnage
+Grade
+
+MEASURED RESOURCE
+INDICATED RESOURCE
+
+
+	Title Page
+	Table of Contents
+	Summary
+	i. Property Description and Location
+	ii. Ownership
+	iii. Geology and Mineralization
+	iv. Exploration
+	v. Mineral Resource
+	vi. Tonnes/ Grade (ppm Sc)
+	vii. Development and Operations
+
+	1. Introduction
+	1.1 Terms of Reference and Purpose of Report
+	1.2 Reliance on Other Experts
+	1.2.1 Sources of Information
+
+	1.3 Qualifications of Consultant and Familiarity with the Project/ Site
+
+	2. Property Description and Location
+	2.1 Property Location
+	2.2 Mineral Titles
+	2.3 Location of Mineralization
+	2.4 Royalties, Agreements and Encumbrances
+	2.5 Environmental Liabilities and Permitting
+	2.5.1 Required Permits and Status
+
+
+	3. Accessibility, Climate, Local Resources, Infrastructure and Physiography
+	3.1 Topography, Elevation and Vegetation
+	3.2 Climate and Length of Operating Season
+	3.3 Access to Property
+	3.4 Surface Rights
+	3.5 Local Resources and Infrastructure
+	3.5.1 Access Road and Transportation
+	3.5.2 Power Supply
+	3.5.3 Water Supply
+	3.5.4 Port
+	3.5.5 Buildings and Ancillary Facilities
+	3.5.6 Manpower
+
+
+	4. History
+	4.1 Ownership
+	4.2 Past Exploration and Development
+	Table 4.2.1 Selected Neutron Activation Scans by Becquerel on Five Samples of DDH1
+	Table 4.2.2 Significant Results from Anaconda's Exploration Between 1999 and 2001
+
+
+	5. Geologic Setting
+	5.1 Regional and Local Geology
+
+	6. Deposit Type
+	7. Mineralization
+	8. Exploration
+	8.1 Surveys and Investigations
+	8.2 Interpretation of the Exploration Information
+	8.3 Statement
+
+	9. Drilling
+	10. Sampling Method and Approach
+	10.1 Sampling Method
+	10.2 Sampling or Recovery Methods Which Could Impact on Results
+	10.3 Interpretation
+	10.4 Establishing Higher Grade
+	10.5 Relevant Samples
+	Table 10.5.1 Significant Results from Gilgai Project
+
+
+	11. Sample Preparation, Analysis and Security
+	11.1 Sample Preparation and Assaying Methods
+	Table 11.1.1 Method Code and Description from ALS Chemex
+
+	11.2 Data Quality
+
+	12. Data Verification
+	12.1 Quality Control Measures and Procedures
+	12.2 Limitations
+
+	13. Adjacent Properties
+	14. Mineral Processing and Metallurgical Testing
+	15. Mineral Resources and Mineral Reserve Estimations
+	15.1 Sample Collection
+	15.2 Significant Assay Results
+	15.3 Resource Calculations
+	Table 15.3.1 Calculated Densities for Gilgai Project
+	Table 15.3.2 Resource Estimation for the Gilgai Project
+	Table 15.3.3 Density Calculations for the Gilgai Project
+	Table 15.3.4 Total Resource Calculation Sheet for the Gilgai Project
+	Table 15.3.5 Resource Summary Sheet for All Categories for the Gilgai Project
+
+	15.4 Parameters Affecting Reserves
+
+	16. Other Relevant Data and Information
+	17. Interpretation and Conclusions
+	17.1 Exploration
+	17.2 Sampling and Analytical Data
+	17.3 Resource Estimation
+	17.4 Conclusions of Qualified Person
+
+	18. Recommendations
+	18.1 Recommended Work Programs
+
+	19. References
+	20. Glossary
+	20.1 Terms and Definitions
+	20.2 Abbreviations
+
+	21. Additional Requirements for Technical Reports
+	21.1 Mining Operations
+	21.2 Recoverability
+	21.3 Markets
+	21.4 Contracts
+	21.5 Environmental Consideration
+	21.6 Taxes
+	21.7 Capital and Operating Cost Estimates
+	21.8 Economic Analysis
+	21.9 Payback
+	21.10 Mine Life
+
+	22. Authors Certificates
+	23. Illustrations and Appendices: Refer to Attached Appendices
+	1. Location Map Jervois Tenements Nyngan
+	2. Lots 6 and 7 - Nyngan
+	3. Gilgai Ground Magnetics
+	4. Regional Geology
+	5. Regional Topography and DH Location
+	6. Bedrock Geological Interpretation
+	7. Hematite Total Resource
+	8. Limonite Total Resource
+	9. Saprolite Total Resource
+	10. All Lithologies Total Resource
+	11. Bedrock Total Resource
+
+	List of Tables
+	Table 4.2.1 Selected Neutron Activation Scans by Becquerel on Five Samples of DDH1 
+	Table 4.2.2 Significant Results from Anaconda's Exploration Between 1999 and 2001 
+	Table 10.5.1 Significant Results from the Gilgai Project 
+	Table 11.1.1 Method Code and Description from ALS Chemex 
+	Table 15.3.1 Calculated Densities for Gilgai Project 
+	Table 15.3.2 Resource Estimation for the Gilgai Project 
+	Table 15.3.3 Density Calculations for the Gilgai Project 
+	Table 15.3.4 Total Resource Calculation Sheet for the Gilgai Project 
+	Table 15.3.5 Resource Summary Sheet for all Categories for the Gilgai Project 
+
+
+
+
+'

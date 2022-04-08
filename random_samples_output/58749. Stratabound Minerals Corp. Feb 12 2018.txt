@@ -1,0 +1,4079 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - GC DRAFT TECHNICAL REPORT Feb 10 Edits Marty Clean KT edits
+
+
+	 	
+
+ i
+
+	
+TECHNICAL	REPORT	ON	THE	
+
+	
+	
+
+GOLDEN	CULVERT	AND	LITTLE	HYLAND	PROPERTIES,		
+	
+	
+
+WATSON	LAKE	DISTRICT,	YUKON	TERRITORY,	CANADA	
+	
+
+FOR:	
+                 	
+
+ 
+	
+
+	
+	
+
+Marty	Huber,	P.Geo		
+Breakaway	Exploration	Management	Inc.	
+February	12,	2018 	
+
+
+
+	 	
+
+ ii
+
+Table of Contents 
+ 
+
+Table	of	Contents	..............................................................................................................................................	ii	
+
+List	of	Figures	....................................................................................................................................................	iv	
+
+List	of	Tables	........................................................................................................................................................v	
+
+1	 Executive	Summary	...........................................................................................................................	1	
+
+2	 Introduction	..........................................................................................................................................	3	
+
+3	 Reliance	on	Other	Experts	..............................................................................................................	4	
+
+4	 Property	Description	and	Location	............................................................................................	4	
+4.1	 Location	and	Mineral	Claim	Information	.....................................................................................	4	
+4.2	 Golden	Culvert	Agreement	.................................................................................................................	6	
+4.3	 Little	Hyland	Agreement	.....................................................................................................................	7	
+4.4	 Stratabound	Agreement	......................................................................................................................	8	
+4.5	 Background	on	Yukon	Mining	Legislation	..................................................................................	9	
+4.6	 Land	Claim	in	South	East	Yukon	...................................................................................................	11	
+
+5	 Accessibility,	Climate,	Local	Resources,	Infrastructure	and	Physiography	...........	13	
+5.1	 Accessibility	..........................................................................................................................................	13	
+5.2	 Climate	....................................................................................................................................................	14	
+5.3	 Local	Resources	and	Infrastructure	............................................................................................	15	
+5.4	 Physiography	........................................................................................................................................	15	
+
+6	 History	..................................................................................................................................................	16	
+6.1	 General	Statement	..............................................................................................................................	16	
+6.2	 Golden	Culvert	.....................................................................................................................................	16	
+6.3	 Ricardo	....................................................................................................................................................	24	
+6.4	 Little	Hyland	.........................................................................................................................................	24	
+6.5	 Rubus	.......................................................................................................................................................	24	
+
+7	 Geological	Setting	............................................................................................................................	25	
+7.1	 Geology	of	Southeastern	Yukon	....................................................................................................	25	
+7.2	 Regional	Geology	.................................................................................................................................	26	
+7.3	 Property	Geology	................................................................................................................................	30	
+7.4	 Mineralization	......................................................................................................................................	31	
+7.4.1	 Golden	Culvert	................................................................................................................................	31	
+7.4.2	 Green	Dragon	..................................................................................................................................	36	
+7.4.3	 Camp	Zone	........................................................................................................................................	37	
+7.4.4	 Road	Showing	.................................................................................................................................	37	
+7.4.5	 Dull	Spur	Zone	................................................................................................................................	38	
+7.4.6	 Rubus	..................................................................................................................................................	38	
+
+8	 Deposit	Types	....................................................................................................................................	38	
+8.1	 Skarn‐type	Tungsten	.........................................................................................................................	38	
+8.2	 Orogenic‐	or	Lode‐type	Gold	..........................................................................................................	38	
+
+9	 Exploration	.........................................................................................................................................	41	
+
+10	 Drilling	.................................................................................................................................................	42	
+
+
+
+	 	
+
+ iii
+
+11	 Sample Preparation, Analysis and Security	.........................................................................	42	
+11.1	 Site	Visit	and	Independent	Sampling	..........................................................................................	42	
+11.2	 Security	...................................................................................................................................................	42	
+11.3	 Sample	Preparation	and	Analysis	................................................................................................	43	
+11.4	 Author's	Opinion	.................................................................................................................................	43	
+
+12	 Data	Verification	..............................................................................................................................	45	
+
+13	 Mineral	Processing	and	Metallurgical	Testing	...................................................................	46	
+
+14	 Mineral	Resource	and	Mineral	Reserve	Estimates	...........................................................	46	
+
+15	 Adjacent	Properties	........................................................................................................................	46	
+15.1	 General	Statement	..............................................................................................................................	46	
+15.2	 3	Aces	.......................................................................................................................................................	47	
+15.3	 Reef	...........................................................................................................................................................	49	
+15.4	 Hy‐Jay	.......................................................................................................................................................	49	
+15.5	 Sprogge	...................................................................................................................................................	49	
+15.6	 Justin	........................................................................................................................................................	50	
+
+16	 Other	Relevant	Data	and	Information	....................................................................................	50	
+
+17	 Interpretation	and	Conclusions	................................................................................................	50	
+17.1	 Geology	and	Mineralization	............................................................................................................	50	
+17.2	 Infrastructure	and	Permitting	.......................................................................................................	51	
+17.3	 Other	Considerations	........................................................................................................................	51	
+
+18	 Recommendations	..........................................................................................................................	52	
+
+19	 References	..........................................................................................................................................	57	
+
+20	 Certificate	of	Qualifications,	Date	and	Signature	...............................................................	60	
+	
+
+Appendix	I	–	Yukon	Territorial	Government	Claim	Status	Report	
+
+Appendix	II	‐	Certificate	of	Analysis	
+
+Appendix	III	‐	Table	of	Historical	Surface	Grab	Samples	Analyzed	for	Gold	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+
+ 
+	
+	
+
+
+
+	 	
+
+ iv
+
+List of Figures 
+Figure	1:	Property	location	map	.....................................................................................................................................................	5	
+Figure	2:	Outline	of	Golden	Culvert	and	Little	Hyland	properties	....................................................................................	6	
+Figure	3:	Golden	Culvert	claim	block	.............................................................................................................................................	7	
+Figure	4:	Rubus	claim	block	...............................................................................................................................................................	8	
+Figure	5:	Little	Hyland	North	claim	block	...................................................................................................................................	9	
+Figure	6:	Little	Hyland	South	claim	block	.................................................................................................................................	10	
+Figure	7:	Ross	River	staking	withdrawal	and	Class	1	Notification	Area	.....................................................................	13	
+Figure	8:	Infrastructure	and	physiography	(modified	from	Google	Earth)	...............................................................	14	
+Figure	9:		Golden	Culvert	view	to	northwest	with	Main	Showing	indicated	by	high	resistant	ridge	across	
+saddle	valley	............................................................................................................................................................................................	15	
+Figure	10:	YGS	Minfile	Showings	in	Golden	Culvert	area	(modified	after	Gordey	&	Makepeace,	2000)	.......	17	
+Figure	11:	Looking	northwest	at	Main	Showing	and	baseline	(Casselman	and	Halle	2010a)	..........................	18	
+Figure	12:	Golden	Culvert	Magnetic	Survey	(Casselman,	2009)	.....................................................................................	19	
+Figure	13:	Golden	Culvert	VLF‐EM	Survey	(Casselman,	2009)	........................................................................................	19	
+Figure	14:	Unmapped,	un‐sampled	sheeted	gold‐bearing	quartz	veins	on	north	side	of	Culvert	mountain
+	.......................................................................................................................................................................................................................	20	
+Figure	15:	Fold	in	phyllite	at	south‐eastern	end	of	Culvert	mountain	(Casselman	and	Halle	,	2010a)	........	21	
+Figure	16:	Gold	and	arsenic	soil	geochemistry	results	of	2011	Stakeholder	program.	(Fekete	and	Huber,	
+2011)	..........................................................................................................................................................................................................	22	
+Figure	17:	Copper	and	silver	soil	geochemistry	results	of	2011	Stakeholder	program.	(Fekete	and	Huber,	
+2011)	..........................................................................................................................................................................................................	23	
+Figure	18:	Soil	geochemistry	results	of	2011	Commander	program	(Potts,	1012)	................................................	25	
+Figure	19:	Selwyn	Basin,		Gold‐bearing	veins	around	structural	culminations	(modified	from	Moynihan	
+and	Sack,	2018)	.....................................................................................................................................................................................	26	
+Figure	20:	Generalized	Stratigraphic	column	for	thr	Upper	Hyland	River	area	(Hart	and	Lewis,	2006)....	27	
+Figure	21:	Local	geology	of	Property	area	(modified	after	Gordey	&	Makepeace,	2000)	...................................	29	
+Figure	22:	Schematic	Cross‐Section	of	the	Upper	Hyland	River	Valley	Area	near	the	latitude	of	the	Hy	
+and	Fer	properties	(Hart	and	Lewis,	2006)	..............................................................................................................................	30	
+Figure	23:	Panoramic	view	of	Golden	Culvert	showing	area	(looking	west).		Author	is	in	foreground	........	31	
+Figure	24:	Golden	Culvert	claims	and	historical	surface	gold	showings	.....................................................................	33	
+Figure	25:	Golden	Culvert	quartz	vein	........................................................................................................................................	34	
+Figure	26:	Golden	Culvert	sheared	phyllite	...............................................................................................................................	34	
+Figure	27:	Sample	1907905	.............................................................................................................................................................	34	
+Figure	28:	Sample	1907906	.............................................................................................................................................................	34	
+Figure	29:	Sample	1907908	.............................................................................................................................................................	35	
+Figure	30:	Sample	1907912	.............................................................................................................................................................	35	
+Figure	31:	Sample	1907907	.............................................................................................................................................................	35	
+Figure	32:	Green	Dragon	quartz	vein	showing.	......................................................................................................................	36	
+Figure	33:	Sample	1907902	.............................................................................................................................................................	36	
+Figure	34:	Sample	1907903	.............................................................................................................................................................	36	
+Figure	35:	Compilation	of	previous	gold‐in‐soil	results	......................................................................................................	37	
+Figure	36:	Geology	of	3	Aces	project	(taken	from	Golden	Predator	website,	2017)	..............................................	39	
+Figure	37:	Schematic	of	the	crustal	levels	inferred	for	gold	deposition	for	common	deposit	types.	...............	40	
+Figure	38:	2017	sample	locations	.................................................................................................................................................	45	
+Figure	39:	2017	verification	samples	versus	historical	results	........................................................................................	46	
+Figure	40:	3	Aces	Discovery	Vein,	5,401gpt	gold	in	grab	sample.		(Golden	Predator	Mining	Corp.,	2017)	.	47	
+Figure	41:	Proposed	exploration	schedule	for	2018	and	2019	........................................................................................	56	
+	
+
+	  
+
+
+
+	 	
+
+ v
+
+List of Tables 
+	
+Table	1	‐	Abbreviations	........................................................................................................................................................................	4	
+Table	2	‐	MINFILE	Showings	on	Property	.................................................................................................................................	16	
+Table	3	‐	Details	of	previous	work	on	Golden	Culvert	and	Little	Hyland	properties	..............................................	16	
+Table	4	‐	2017	sample	locations	and	descriptions.................................................................................................................	44	
+Table	5	‐	2017	verification	samples	versus	historical	results	...........................................................................................	46	
+Table	6	‐	Proposed	exploration	budget	Phase	1	.....................................................................................................................	54	
+Table	7	‐	Proposed	exploration	budget	Phase	2	.....................................................................................................................	55	
+
+
+
+	 	
+
+ 1
+
+1 Executive Summary 
+	
+Marty	Huber,	P.Geo.	(the	"Author")	was	retained	to	write	a	National	Instrument	43‐
+101	 Technical	 Report	 (the	 "Report")	 describing	 and	 summarizing	 the	 work	
+completed	 to	date	on	 the	 "Golden	Culvert"	 and	 "Little	Hyland"	properties	 in	Yukon	
+(collectively	the	"Property").	Information	and	data	for	the	Report	were	obtained	from	
+a	site	visit	by	the	Author	on	September	9	and	10,	2017,	as	well	as	an	extensive	study	
+of	pertinent	available	technical	information.	
+		
+The	 Property	 is	 located	 in	 Southeast	 Yukon	 within	 the	 Little	 Hyland	 River	 Valley,	
+some	250	kilometres	north	of	Watson	Lake,	Yukon	at	approximately	61°57'00"	North	
+Latitude	 and	 128°25'00"	 West	 Longitude.	 The	 Robert	 Campbell	 Highway	 and	 all‐
+weather	 Nahanni	 Range	 Road	 provide	 direct	 access	 to	 the	 Property	 from	Watson	
+Lake.	
+		
+The	 Property	 includes	 431	 contiguous,	 un‐surveyed	 mineral	 titles	 that	 cover	 an	
+approximate	area	of	83.8	square	kilometres.		The	mineral	titles	are	jointly	recorded	
+100%	to	Gary	Lee	and	Robert	Scott	 ("Lee	and	Scott")	 in	 the	case	of	Golden	Culvert	
+property	(including	the	Rubus	claims),	and	Gary	Lee,	Robert	Scott	and	Ronald	Stack	
+("Lee,	 Scott	 and	 Stack")	 in	 the	 case	 of	 the	 Little	 Hyland	 property.	 South	 Shore	
+Partnership	 Inc.	 ("South	Shore"),	 a	private	 company,	 acquired	an	option	 to	acquire	
+the	 Property	 in	 September	 2017	 pursuant	 to	 two	 separate	 option	 agreements	 to	
+reflect	 the	 different	 ownership	 of	 the	 Golden	 Culvert	 and	 Little	Hyland	 properties.		
+Collectively	 both	 agreements	 constitute	 the	 Property.	 	 	 In	 December	 2017,	 South	
+Shore	assigned	its	rights	under	the	two	option	agreements	to	Stratabound	Minerals	
+Corp.	("Stratabound").	
+		
+The	 Golden	 Culvert	 property	 is	 fully	 permitted	 under	 a	 10	 year	 Class	 3	 Land	 Use	
+Approval	 No.	 LQ00456	 until	 November	 16,	 2026	 which	 allows	 for	 a	 camp,	 fuel	
+storage,	road	and	trail	building,	clearing,	trenching,	drilling,	all	forms	of	sampling	and	
+up	 to	a	10,000	 tonne	bulk	 sample.	The	Little	Hyland	property	will	 initially	operate	
+under	a	Class	1	program	until	a	Class	3	permit	is	obtained.	
+	
+The	Property	lies	within	the	Selwyn	Basin	and	is	underlain	by	two	main	lithological	
+formations	of	the	Hyland	Group.	The	eastern	part	of	the	Property	is	underlain	by	the	
+Upper	Proterozoic	to	Lower	Cambrian	Vampire	Formation	whereas	the	western	part	
+of	 the	 Property	 is	 underlain	 by	 Upper	 Proterozoic	 to	 Lower	 Cambrian	 Narchilla	
+Formation.	 	 The	 Narchilla	 is	 underlain	 by	 the	 Yusezyu	 formation	 further	 west.	
+Intrusive	 rocks	 are	 exposed	 at	 some	 places	 north	 and	 south	 of	 the	 Property	
+belonging	to	the	mid‐Cretaceous	Tungsten	Suite.	The	Property	has	not	been	mapped	
+in	any	detail.	Prospecting	samples	include	phyllites,	schists	and	argillites.	
+		
+
+
+
+	 	
+
+ 2
+
+Previous	work	has	outlined	a	northerly	trending,	3	kilometre	by	250	metre,	+30	ppb	
+Au	up	to	791	ppb	Au,	gold‐in‐soil	anomaly	that	remains	open	at	both	ends.	The	soil	
+anomaly	 is	 centred	 around	 the	 partially	 exposed	 Golden	 Culvert	 showing	 that	
+consists	 of	 primary	 gold‐bearing	 quartz	 veins	 and	 complimentary	 gold	 bearing	
+quartz	 vein	 stockwork	within	 a	 larger	 silicified,	 altered,	 sulphide	 and	 gold‐bearing	
+wallrock.	 Historical	 grab	 samples	 from	 the	 quartz‐carbonate	 veins	 have	 returned	
+values	no	less	than	7.7gpt	Au	and	up	to	22.8gpt	Au	in	quartz	veins	and	up	to	2.58gpt	
+Au	 in	 the	 wall	 rock	 phyllites.	 The	 gold	 is	 related	 to	 pyrite	 and	 arsenopyrite	
+mineralization.	 	 A	 site	 visit	 completed	 by	 the	 Author	 in	 September	 confirmed	 the	
+dimensions	 and	 type	 of	mineralization	 at	 the	 Golden	 Culvert	 showing	 and	 verified	
+historical	 gold	 results.	 	 To	 date	 there	 has	 been	 no	 trenching	 or	 drilling	 on	 the	
+Property.	
+		
+Stratabound	 is	 primarily	 exploring	 for	 orogenic‐	 or	 lode‐type	 gold	 mineralization	
+similar	 to	 the	 vein‐hosted,	 high‐grade,	 gold	 mineralization	 found	 within	 Hyland	
+Group	 sediments	 at	 Golden	 Predator	 Mining	 Corp.'s	 ("Golden	 Predator")	 "3	 Aces"	
+project,	 located	 20km	 south	 of	 the	 Property,	 and	 at	 Goldstrike	 Resources	 Ltd.'s	
+Plateau	project	located	315km	northwest	of	the	Property.	Exploration	for	this	type	of	
+gold	mineralization	must	focus	on	structures	such	as	folds,	shears,	faults,	stockworks	
+and	extensional	fractures	that	are	secondary	or	adjacent	to	major	fault	zones.	
+		
+The	 Property	 merits	 further	 exploration	 work	 based	 on	 the	 general	 prospective	
+nature	of	 the	underlying	Hyland	Group	rocks,	 the	veracity	of	previous	gold	 results,	
+the	 range	 and	 tenor	 of	 soil	 geochemical	 anomalies	 on	 the	 Property,	 the	 relatively	
+good	infrastructure,	the	large	size	of	the	mineral	claim	package,	the	long	strike	extent	
+of	 potential	 gold‐bearing	 structures,	 and	 the	 local	 presence	 of	 the	 relatively	 well‐
+advanced	3	Aces	project.	
+				
+The	 Author	 strongly	 recommends	 that	 an	 aggressive	 exploration	 program	 be	
+pursued.	A	 first	year	Phase	1	exploration	program	totaling	$842,375	with	a	 follow‐
+up,	 second	 year	 Phase	 2	 program	 totaling	 $1,782,500	 are	 recommended	 at	 a	 total	
+estimated	cost	of	$2,624,875	over	the	two	years.	
+		
+The	 proposed	 first	 year	 Phase	 1	 activities	 include	 an	 upgrade	 of	 the	 existing	 2km	
+long	ATV	trail	from	the	Nahanni	Range	Road	to	a	4x4	truck	accessible	road	leading	to	
+the	 Golden	 Culvert	 showing	 to	 minimize	 helicopter	 support;	 several	 mechanical	
+trenches	 at	 and	 along	 strike	 of	 the	 showing	 to	 identify	 the	 extent	 of	 gold‐bearing	
+structures	 and	 mineralization;	 800	 grid	 soil	 geochemical	 samples	 to	 evaluate	 the	
+Rubus	 block;	 2,000	 grid	 samples	 on	 the	 Hyland	 South	 block	 to	 extend	 the	 2011	
+Stakeholder	 grid	 southeast	 from	 the	 Golden	 Culvert	 property;	 and	 600	 metres	 of	
+diamond	core	drilling	to	test	the	mineralization	vertical	and	strike	extent	centred	on	
+and	 around	 the	main	 showing.	 Also	 recommended	 in	 Phase	 1	 are	 lithological	 and	
+structural	 mapping,	 prospecting	 and	 Lidar	 topographic	 surveys	 over	 the	 entire	
+Property.	
+					
+
+
+
+	 	
+
+ 3
+
+Upon	success	of	Phase	1,	the	recommended	Phase	2	program	would	consist	of	3,000	
+grid	samples	on	the	Hyland	North	block,	500	reconnaissance	ridge	and	spur	samples	
+on	the	Rubus	Block,	and	800	reconnaissance	ridge	and	spur	samples	on	the	southern	
+part	 of	 the	 Hyland	 South	 block,	 plus	 continued	 reconnaissance	 prospecting,	
+geological	mapping	and	sampling.		Contingent	upon	suitable	targets	being	generated	
+elsewhere	on	the	Property	in	Phase	1,	2,000	metres	of	additional	core	drilling	is	also	
+proposed	as	part	of	the	Phase	2	work.	
+
+2 Introduction 
+	
+The	 Author	 was	 retained	 by	 South	 Shore	 in	 September	 2017	 to	 write	 a	 National	
+Instrument	43‐101	technical	report	(the	"Report")	describing	the	Golden	Culvert	and	
+Little	 Hyland	 properties	 in	 Yukon.	 The	 responsibility	 for	 completion	 of	 the	 report	
+was	assumed	by	Stratabound	as	part	of	the	acquisition	of	the	option.	Information	and	
+data	for	the	Report	were	obtained	from	a	site	visit	by	the	Author	on	September	9	and	
+10,	2017,	as	well	as	an	examination	of	relevant	reports	and	maps	cited	 throughout	
+the	Report.	The	Report	provides	a	review	of	the	publicly	available	information,	and	a	
+description	 of	 previous	 assessment	 work	 filed	 on	 the	 Property	 with	 the	 Yukon	
+Geological	Survey	database.	Pertinent	technical	information	was	studied	in	sufficient	
+detail	to	prepare	this	Report	
+	
+The	Author	has	visited	and	personally	inspected	the	Property	on	numerous	occasions	
+and	is	a	"Qualified	Person"	as	defined	in	Section	1.2	in	and	for	the	purposes	of	NI	43‐
+101.	The	Author	is	very	familiar	with	the	Golden	Culvert	property,	having	worked	for	
+Stakeholder	in	2011	supervising	a	soil	sampling	program	and	having	co‐authored	a	
+report	describing	that	work	program	(Fekete	and	Huber,	2011).	The	Author	has	less	
+experience	with	the	Little	Hyland	property	but	has	visited	it	most	recently	on	the	site	
+visit	 in	 September	 2017.	 The	 Report	 contains	 specific	 recommendations	 and	
+proposes	a	budget	for	further	work.	This	Report	conforms	to	NI	43‐101	standards	of	
+disclosure	for	mineral	projects.	
+		
+The	metric	system	is	used	 for	all	units	of	measure	mentioned	 in	the	Report	and	all	
+dollar	amounts	are	in	Canadian	funds	unless	otherwise	stated.	All	figures	presented	
+in	the	Report	are	plotted	in	map	projection	UTM	WGS84	Zone	9N	unless	otherwise	
+stated.		The	following	abbreviations	are	used	throughout	the	Report:	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+	 	
+
+ 4
+
+	
+Table	1	‐	Abbreviations	
+
+oC	 Celsius	degrees	
+Ag	 Silver	
+As	 Arsenic	
+Au	 Gold	
+Cu	 Copper	
+E	 East	
+G	 Gram	
+GPS	 Geographic	Positioning	System	
+Gpt	 grams	per	tonne	
+Ha	 hectare	(10,000	m2)	
+Kg	 Kilogram	
+Km	 Kilometre	
+M	 Metre	
+Ma	 million	years	ago	
+Mm	 Millimetres	
+N	 North	
+NAD	 North	American	Datum		
+NI	
+NWT	
+
+National	Instrument	(Canada)	
+Northwest	Territories	
+
+NMDI	 National	Mineral	Data	Inventory	
+NSR	 Net	Smelter	Returns	royalty	
+
+royalty	
+
+NTS	 National	Topographic	System	
+
+Opt	 ounces	per	ton	
+P.Geo.	 Professional	Geoscientist	
+Pb	 Lead	
+Pound	 pound	=	0.454	kilogram	
+Ppb	 parts	per	billion	
+Ppm	 parts	per	million	
+S	 South	
+UTM	 Universal	Transverse	Mercator	
+W	 West	
+WGS84	 Word	Geodetic	System	1984	
+
+YESAA	
+Yukon	Environmental	and	Socio	Economic	
+Assessment	Act	
+
+YGS	 Yukon	Geological	Survey	
+YT	 Yukon	Territory	
+YMAR	 Yukon	Mining	Assessment	Report	
+YMIP	 Yukon	Mining	Incentives	Program	
+YTG	 Yukon	Territorial	Government	
+Zn	 Zinc	
+
+3 Reliance on Other Experts 
+	
+The	Author	has	relied	on	technical	data	and	interpretations	found	in	various	sources	
+cited	throughout	the	report.	The	Author	has	not	verified	this	 information	and	takes	
+no	 responsibility	 for	 its	 accuracy	 or	 completeness.	 Reference	 to	 the	 compliance	 or	
+non‐compliance	with	NI	43‐101	standards	of	historical	information	and	data	referred	
+to	in	this	Report	are	made	where	appropriate.	The	Author	does	not	offer	any	opinion	
+concerning	legal,	title,	environmental,	political	or	other	non‐technical	issues	that	may	
+be	 relevant	 to	 the	 Report.	 The	 Report	may	 contain	 links	 to	 several	web‐sites.	 The	
+Author	takes	no	responsibility	for	the	functionality	or	content	of	these	websites.		The	
+Report	was	reviewed	by	Kim	Tyler,	P.Geo.	of	Stratabound	Minerals	Corp.,	and	Mark	
+Fekete,	P.Geo.	of	Breakaway	Exploration	Management	Inc.	
+
+4 Property Description and Location  
+
+4.1 Location and Mineral Claim Information 
+	
+The	 Property	 covers	 an	 approximate	 area	 of	 83.8	 square	 kilometres	 within	 the	
+Watson	Lake	Mining	District,	in	southeast	Yukon.	It	is	located	within	the	Little	Hyland	
+River	Valley,	some	250	kilometres	north	of	Watson	Lake	(Figure	1).	The	approximate	
+center	of	the	Property	is	described	by	61°57'00"	North	Latitude	and	128°25'00"	West	
+Longitude	 (UTM	 coordinate	 530,000mE,	 6,870,000mN)	 on	 parts	 of	 NTS	 Sheets	
+105H15,	105H16,	105I01	and	105I02.	
+
+
+
+	 	
+
+ 5
+
+	
+The	 Property	 includes	 431	 contiguous,	 un‐surveyed	mineral	 titles	 (Figures	 2	 to	 6)	
+jointly	recorded	to	Gary	Lee	and	Robert	Scott	("Lee	and	Scott")	in	the	case	of	Golden	
+Culvert	property	(including	the	Rubus	claims),	and	Gary	Lee,	Robert	Scott	and	Ronald	
+Stack	 ("Lee,	 Scott	 and	 Stack")	 in	 the	 case	 of	 the	 Little	 Hyland	 property.	 	 All	 three	
+gentlemen	 are	 residents	 of	 Whitehorse,	 Yukon.	 A	 complete	 list	 of	 claims	 for	 the	
+Property	is	provided	in	the	YTG	Claim	Status	Report	abstract	located	in	Appendix	I.	
+	
+South	Shore	obtained	an	option	to	acquire	the	Property	in	September	2017	pursuant	
+to	 two	separate	option	agreements	 to	reflect	 the	different	ownership	of	 the	Golden	
+Culvert	 and	 Little	 Hyland	 properties.	 	 However,	 the	 claims	 are	 considered	 as	 one	
+property	 for	 the	 purposes	 of	 operation	 and	 administration.	 	 	 In	 November	 2017,	
+South	Shore	assigned	its	rights	under	the	two	option	agreements	to	Stratabound.	The	
+Author	has	reviewed	the	agreement	executed	between	Stratabound	and	South	Shore,	
+and	the	two	underlying	agreements	between	South	Shore	and	the	Optionors.	
+
+Figure	1:	Property	location	map	
+
+
+
+	 	
+
+ 6
+
+4.2 Golden Culvert Agreement 
+	
+On	 September	 27,	 2017	 South	 Shore	 entered	 into	 the	 "Golden	 Culvert	 Agreement"	
+with	Lee	and	Scott.	Under	the	terms	of	the	agreement,	South	Shore	has	the	option	to	
+earn	100%	interest	in	Golden	Culvert	property	for	total	consideration	of	$1,000,000	
+cash,	and	$350,000	exploration	work	scheduled	over	a	five‐year	period	subject	to	a	
+2.0%	 NSR	 royalty	 on	 smeltable	 metals.	 The	 Golden	 Culvert	 block	 consists	 of	 78	
+claims	 (Figure	 3).	 Pursuant	 to	 the	 Golden	 Culvert	 Agreement,	 South	 Shore	 having	
+made	the	initial	$80,000	signing	payment	to	Lee	and	Scott,	and	subsequently	having	
+assigned	the	agreement	to	publicly	traded	Stratabound,	Stratabound	has	the	right	at	
+its	discretion	to	make	up	to	50%	of	any	remaining	cash	payments	by	issuing	common	
+shares	of	Stratabound	to	Lee	and	Scott.	
+	
+Additionally,	 under	 the	 Golden	 Culvert	 Agreement,	 South	 Shore	 was	 granted	 the	
+exclusive	 right	 to	 acquire	 the	 "Rubus"	 claims	 by	 September	 27,	 2018.	 	 The	 Rubus	
+block	 consists	 of	 76	 claims	 (Figure	 4).	 If	 Stratabound,	 as	 South	 Shore's	 assignee,	
+chooses	to	exercise	that	right,	 the	Rubus	claims	shall	become	subject	 to	 the	Golden	
+Culvert	 Agreement,	 and	 additional	 total	 cash	 payments	 of	 $120,000	 over	 the	
+remaining	four	years	of	the	agreement	will	be	required.	
+	
+
+	
+Figure	2:	Outline	of	Golden	Culvert	and	Little	Hyland	properties
+Outlined	in	red	are	the	property	boundaries	covered	by	the	Golden	Culvert (Golden	Culvert	and	Rubus	
+blocks)	and	Little	Hyland	(Little	Hyland	North	and	South	blocks)	agreements.	Blue	outlines	the	Area	of	
+Interest	subject	to	the	option	agreements.	Total	number	of	claims	covered	in	both	agreements	is	431.	
+
+
+
+	 	
+
+ 7
+
+4.3 Little Hyland Agreement 
+	
+On	 September	 27,	 2017	 South	 Shore	 entered	 into	 "Little	 Hyland	 Agreement"	 with	
+Lee,	Scott	and	Stack.	Under	the	terms	of	this	agreement,	South	Shore	has	the	option	
+to	earn	100%	interest	in	the	property	for	total	consideration	of	$600,000	cash,	and	
+$350,000	exploration	work	scheduled	over	a	five‐year	period	subject	to	a	2.1%	NSR	
+royalty	 on	 smeltable	 materials.	 The	 Hyland	 North	 (Figure	 5)	 and	 Hyland	 South	
+(Figure	6)	claim	blocks	consist	of	149	and	128	claims	respectively	for	a	total	of	277	
+claims.	Pursuant	to	the	Little	Hyland	Agreement,	South	Shore	having	made	the	initial	
+$45,000	signing	payment	to	Lee,	Scott	and	Stack,	and	subsequently	having	assigned	
+the	 agreement	 to	 publicly	 traded	 Stratabound,	 Stratabound	 has	 the	 right	 at	 its	
+discretion	 to	make	up	 to	50%	of	any	remaining	cash	payments	by	 issuing	common	
+shares	of	Stratabound	to	Lee,	Scott	and	Stack.	
+	
+
+Figure	3:	Golden	Culvert	claim	block	
+
+
+
+	 	
+
+ 8
+
+4.4 Stratabound Agreement 
+	
+On	November	30,	2017	Stratabound,	a	public	company	 trading	on	 the	TSX	Venture	
+Exchange	under	 the	 symbol	TSXV:SB,	 entered	 into	 an	 agreement	with	 South	 Shore	
+(the	"Stratabound	Agreement")	whereby	it	was	assigned	the	Option	on	the	Property.		
+On	the	December	15,	2017	closing	of	the	transaction,	Stratabound	issued	12,000,000	
+common	 shares	 and	6,000,000	 common	 share	purchase	warrants	 (each	warrant	 is	
+exercisable	for	one	common	share	at	$0.075	for	24	months	from	the	date	of	issue)	to	
+South	 Shore	 and	 made	 a	 cash	 payment	 of	 $100,000.	 Another	 cash	 payment	 of	
+$100,000	will	be	due	 to	South	Shore	on	April	15,	2017.	Exercise	of	 the	Option	will	
+require	 payments	 of	 $1,595,000	 to	 the	 Optionors	 and	 work	 commitments	 of	
+$700,000	over	a	five‐year	period.	Future	production	will	be	subject	to	NSR	royalties	
+aggregating	to	2.5%	payable	to	the	Optionors	and	South	Shore.	
+	
+
+Figure	4:	Rubus	claim	block	
+South	Shore	has	an	exclusive	one	year	right	to	acquire	and	include	the	Rubus	claims	in	the	Golden	
+Culvert	Agreement.		This	right	has	been	assigned	to	Stratabound.	
+
+
+
+	 	
+
+ 9
+
+	
+	
+
+Figure	5:	Little	Hyland	North	claim	block
+
+4.5 Background on Yukon Mining Legislation 
+	
+The	mineral	claims	included	in	the	Property	were	acquired	under	the	Yukon	Quartz	
+Mining	Act	which	grants	only	the	hard	rock	mineral	rights	 to	 the	claim	holder.	The	
+surface	 rights	 for	 the	 area	of	 the	Property	 are	held	by	 the	Crown.	To	maintain	 the	
+claims	 in	 good	 standing,	 a	minimum	 of	 $100	 assessment	 work	 per	 claim	must	 be	
+completed	annually.				There	are	provisions	to	apply	for	more	than	one	year	work	at	a	
+time	up	to	a	maximum	of	five	years,	to	apply	work	from	one	claim	to	other	adjoining	
+claims	(grouping)	up	to	a	maximum	of	750	contiguous	claims,	and	to	pay	cash	in	lieu	
+of	 work	 up	 to	 a	 maximum	 of	 five	 years.	 The	 Yukon	 Quartz	 Mining	 Land	 Use	
+Regulations	 consist	 of	 a	 classification	 system	 based	 on	 varying	 levels	 of	 specific	
+activities.	These	threshold	levels	categorize	exploration	activities	into	four	classes	of	
+operation.	Classes	1	through	4	represent	activities	with	increasing	potential	to	cause	
+
+
+
+	 	
+
+ 10
+
+adverse	 environmental	 impacts.	 In	 the	 specific	 case	 of	 the	 Ross	 River	 Area	 that	
+includes	 the	 Property,	 the	 Yukon	 Territorial	 Government	 has	 applied	 relief	 from	
+annual	assessment	work	obligations	(valid	until	 January	31,	2019	in	the	Ross	River	
+Area)	 to	 active	 quartz	 and	 placer	 claim	 holders	 during	 the	 mineral	 staking	
+prohibition	(see	Section	4.6).	
+	
+Activities	within	a	Class	1	program	are	defined	as	"grassroots"	exploration	with	low	
+potential	 to	 cause	 adverse	 environmental	 effects,	 and	 where	 activities	 and	
+reclamation	 are	 completed	 within	 a	 year.	 A	 Class	 1	 program	 generally	 does	 not	
+require	 an	 assessment	 under	 the	 Yukon	 Environmental	 and	 Socio	 Economic	
+Assessment	 Act	 or	 government	 approval,	 but	 the	 operator	 must	 comply	 with	 the	
+certain	 operating	 conditions.	 	 In	 certain	 designated	 areas	 of	 Yukon	 including	 the	
+"Ross	 River	 Class	 1	 Notification	 Area"	where	 the	 Property	 is	 located,	 the	 operator	
+must	 notify	 the	 Yukon	 Territorial	 Government	 of	 its	 plans	 for	 Class	 1	 mining	
+exploration	work.	
+	
+
+Figure	6:	Little	Hyland	South	claim	block
+
+
+
+	 	
+
+ 11
+
+	
+Class	 2	 programs	 are	 considered	 to	 represent	 the	 upper	 level	 of	 "grassroots"	
+exploration	 activities.	 A	 notification	 submitted	 through	 the	 Yukon	 Territorial	
+Government	Mining	Lands	Office	which	outlines	the	activities	and	how	the	area	will	
+be	reclaimed	 is	required.	These	programs	comprise	activities	 that	have	a	moderate	
+potential	 to	 cause	 adverse	 environmental	 effects	 and	 therefore	 require	 an	
+assessment	through	YESAA.	All	work	and	reclamation	must	be	completed	within	one	
+year.		
+	
+All	Class	3	and	Class	4	programs	require	submission	of	a	detailed	"Operating	Plan"	to	
+the	 Yukon	 Territorial	 Government	 Mining	 Lands	 Office.	 A	 YESAA	 assessment	 is	
+required.	The	Operating	Plan	must	be	approved	before	any	exploration	activities	can	
+be	 undertaken.	 An	 Operating	 Plan	 may	 entail	 multi‐year	 exploration	 programs	 to	
+allow	greater	flexibility	for	the	operator.		
+	
+The	 Golden	 Culvert	 property	 has	 a	 10‐year	 Class	 3	 Land	 Use	 Approval	 valid	 to	
+November	16,	2026	(No.	LQ00456)	that	allows	for	a	camp,	access	roads,	 trenching,	
+diamond	drilling	and	bulk	sampling.		The	Little	Hyland	property	will	initially	operate	
+under	a	Class	1	program.		
+	
+Additional	 information	 regarding	 exploration	 classification	 system	 and	 activities	
+allowed	can	be	found	online	at	www.yesab.ca	
+
+4.6 Land Claims in South East Yukon 
+	
+In	 December	 2013	 the	 Yukon	 government	 issued	 an	 Order	 in	 Council	 ("O.I.C.")	
+prohibiting	entry	on	to	lands	in	the	Ross	River	Area	(Figure	7)	in	order	to	facilitate	
+discussions	between	the	Ross	River	Dena	Council	and	the	YTG	regarding	land	claim	
+settlement.	As	such,	a	moratorium	on	additional	staking	for	quartz	and	placer	claims	
+was	 put	 in	 place	 until	 such	 time	 as	 negotiations	 between	 the	 two	 parties	 are	
+completed.		
+	
+Importantly	 any	 recorded	 claims	 in	 good	 standing	 at	 the	 time	 the	 O.I.C.	 was	
+implemented	are	exempt	from	this	O.I.C.		Additionally,	the	expiry	date	for	any	claims	
+in	good	standing	will	be	adjusted	every	year	as	the	negotiations	continue.	Holders	of	
+claims	in	good	standing	have	free	access	to	their	properties	subject	to	other	normal	
+governmental	regulations	including	full	allowance	to	proceed	through	their	intended	
+course	and	purpose	for	potential	mine	permitting	as	any	otherwise	recorded	quartz	
+claim	in	good	standing.	 	 	All	quartz	claims	held	under	the	Golden	Culvert	and	Little	
+Hyland	agreements	were	 in	good	standing	prior	 to	 the	 implementation	of	 the	O.I.C.	
+and	are	therefore	not	subject	to	the	O.I.C.	There	are	otherwise	no	restrictions	on	the	
+development	of	the	Property	for	potential	mine	permitting.	
+	
+	
+	
+
+
+
+	 	
+
+ 12
+
+The	moratorium	 on	 additional	 claim	 staking	 in	 the	 Ross	 River	 offers	 a	 somewhat	
+unique	 exploration	 opportunity.	 	 No	 competitive	 staking	may	 be	 done	 around	 the	
+existing	exempted	claims	during	the	period	of	the	O.I.C.				This	will	allow	Stratabound	
+to	develop	the	project	with	proprietary	firsthand	knowledge	to	capitalize	on	eventual	
+expansion	opportunities.			
+	
+An	 excerpt	 of	 the	O.I.C.	 as	 it	 pertains	 to	 recorded	 claims	 is	 outlined	 below	 (Yukon	
+Territorial	Government,	2013).	
+	
+
+Purpose		
+1.	The	purpose	of	this	Order	is	to	prohibit	entry	on	the	lands	described	in	Schedule	A	to	facilitate	
+continuing	consultation	with	the	Ross	River	Dena	Council.		
+(Section	1	amended	by	O.I.C.	2015/162)		
+Interpretation		
+2.	In	this	Order	"recorded	claim"	means		
+(a)	a	recorded	placer	claim	that	is	in	good	standing,	acquired	under	the	Yukon	Placer	Mining	Act	
+(Canada)	and	continued	under	the	Placer	Mining	Act,	or	acquired	under	the	Placer	Mining	Act;	or		
+(b)	a	recorded	mineral	claim	that	is	in	good	standing,	acquired	under	the	Yukon	Quartz	Mining	Act	
+(Canada)	and	continued	under	the	Quartz	Mining	Act,	or	acquired	under	the	Quartz	Mining	Act.		
+Prohibition	of	entry		
+3.(1)	No	person	shall	enter	on	the	lands	described	in	Schedule	A,	for	the	period	beginning	on	
+December	27,	2013	and	ending	on	January	31,	2017,	for	the	purpose	of		
+(Section	3	amended	by	O.I.C.	2014/77)	(Section	3	amended	by	O.I.C.	2014/122)	(Section	3	amended	by	
+O.I.C.	2015/21)	(Section	3	amended	by	O.I.C.	2015/162)		
+(a)	locating	a	claim,	or	prospecting	for	gold	or	other	precious	minerals	or	stones,	under	the	Placer	
+Mining	Act;	or		
+(b)	locating	a	claim,	or	prospecting	or	mining	for	minerals,	under	the	Quartz	Mining	Act.		
+(Renumbered	as	Subsection	3(1)	by	O.I.C.	2015/162)		
+(2)	No	person	shall	enter	on	the	lands	described	in	Schedule	B	for	the	period	ending	January	31,	
+2017	for	the	purpose	of	locating	a	claim	or	prospecting	for	gold	or	other	precious	minerals	or	
+stones	under	the	Placer	Mining	Act.		
+(Subsection	3(2)	added	by	O.I.C.	2015/162)		
+Existing	rights	and	interests		
+4.	Section	3	does	not	apply	to	entry	on	a	recorded	claim	by	the	owner	or	holder	of	the	recorded	claim.		
+
+	
+Further	information	may	be	viewed	on	the	YTG	website	at	www.emr.gov.yk.ca.	
+
+
+
+	 	
+
+ 13
+
+	
+Figure	7:	Ross	River	staking	withdrawal	and	Class	1	Notification	Area
+Hatched	outline	shows	area	withdrawn	from	staking	under	Ross	River	Dena	Council	–	YTG	land	claim	
+consultations;	this	area	also	corresponds	to		the	Ross	River	Class	1	Notification	Area	
+
+5 Accessibility, Climate, Local Resources, Infrastructure and 
+Physiography 
+
+5.1 Accessibility 
+	
+Access	 to	 the	Property	 is	 relatively	good	(Figure	8)	compared	 to	other	parts	of	 the	
+Watson	 Lake	Mining	 District	 as	 it	 is	 reachable	 via	 the	 all‐weather	 Nahanni	 Range	
+Road	that	 leads	 to	 the	historic	mining	village	of	Tungsten	 located	 in	 the	Northwest	
+Territories	 10	 kilometres	 east	 of	 the	 Property.	 The	 Nahanni	 Range	 Road	 crosses	
+directly	through	the	middle	of	the	claim	group,	and	the	Property	is	located	between	
+the	 157	 and	 175	 kilometer	 markers	 measured	 from	 the	 turn	 off	 from	 Robert	
+Campbell	Highway.		From	this	turnoff	it	is	110km	south	to	the	town	of	Watson	Lake	
+(Population	900)	located	on	the	Alaska	Highway	(Highway	3).	Access	to	most	parts	of	
+the	Property	is	by	helicopter.				
+
+
+
+	 	
+
+ 14
+
+	
+Over	 $360	million	 in	 combined	 federal	 and	 territorial	 funding	 was	 announced	 on	
+September	2,	2017	to	improve	road	access	in	the	Yukon	including	the	Nahanni	Range	
+Road.	 	This	infrastructure	program	will	upgrade	road	surfaces,	and	build	or	replace	
+numerous	bridges,	culverts,	and	stream	crossings.	
+	
+
+Figure	8:	Infrastructure	and	physiography (modified	from	Google	Earth)
+Note	Nahanni	Range	Road	passing	through	western	edge	of	Property
+
+5.2 Climate 
+	
+The	Little	Hyland	River	Valley	typically	has	higher	annual	precipitation	compared	to	
+the	 rest	 of	 the	 Yukon	 with	 approximately	 450mm.	 Snow	 generally	 begins	 to	
+accumulate	in	the	alpine	areas	in	late	September	and	begins	receding	in	early	May.	In	
+the	summer	months	temperatures	can	be	as	high	as	+30°C	and	in	the	winter	months	
+as	low	as	‐50°C.	Due	to	the	northerly	latitude	of	the	region,	summer	days	are	long	and	
+winter	days	very	short.	The	best	season	for	exploration	is	during	the	summer	months	
+from	 mid‐May	 to	 mid‐October.	 Although	 it	 is	 possible	 to	 work	 during	 the	 winter	
+months,	 costs	 rise	 exponentially	 due	 to	 cold	 temperatures,	 inclement	weather	 and	
+short	daylight	hours.	
+	
+	
+	
+	
+	
+
+
+
+	 	
+
+ 15
+
+5.3 Local Resources and Infrastructure 
+	
+The	 Property	 is	 located	 in	 an	 isolated	 part	 of	 Yukon	 with	 relatively	 few	 local	
+resources	or	infrastructure.	The	Property	must	be	worked	from	an	exploration	camp	
+set	up	on	or	near	the	Property.	A	camp	can	be	supported	from	Watson	Lake,	where	
+generally	most	 goods	 and	 services	 are	 available,	 or	 from	Whitehorse	 where	 a	 full	
+range	 of	 services	 are	 available	 including	 line‐cutting,	 geophysics,	 drilling,	 assaying,	
+aircraft	charters	etc.		It	is	an	enormous	advantage	that	fuel,	equipment,	supplies	and	
+personnel	 can	 be	 delivered	 from	Watson	 Lake	 on	 the	 all‐weather	 Nahanni	 Range	
+Road.		
+
+5.4 Physiography 
+	
+The	Property	is	situated	in	the	northwest	trending	Logan	Mountains	along	the	border	
+between	Yukon	and	 the	Northwest	Territories.	The	 topography	 is	characterized	by	
+broad,	 U‐shaped	 valleys	 separated	 by	 steep	 sloped	mountainous	 peaks	 and	 ridges.	
+Elevations	on	the	Property	range	from	1200	to	2000	metres	above	sea	level.	Most	of	
+the	Property	lies	above	the	tree‐line	where	steeper	slopes	are	covered	by	talus	and	
+felsenmeer	and	the	flatter	areas	are	covered	by	typical	alpine	moss	and	lichens.	Thick	
+willow,	 dwarf	 birch	 and	 alder	brush	mark	 the	 tree‐line	 and	 lower	 elevations	 show	
+patchy	scrub	forests	of	fir,	spruce	and	pine.	
+	
+
+	
+Figure	9:		Golden	Culvert	view	to	northwest	with	Main	Showing	indicated	by	high	resistant	ridge	across	
+saddle	valley		
+
+
+
+	 	
+
+ 16
+
+6 History 
+
+6.1 General Statement 
+	
+The	 region	 has	 a	 long	 history	 of	 exploration	 beginning	 with	 the	 discovery	 of	 the	
+Cantung	Mine	 in	1954	and	the	 initiation	of	production	 in	1962.	The	Golden	Culvert	
+and	Little	Hyland	project	area,	however,	does	not	have	a	considerable	documented	
+history	of	exploration,	prior	to	the	activities	of	Mr.	Scott	and	his	subsequent	partners.		
+	
+The	 YGS	 MINFILE	 database	 lists	 two	 mineral	 occurrences	 within	 the	 Property	
+including	 the	 "Golden	Culvert"	and	 "Ricardo"	 showings	 (Table	2).	 	There	are	also	a	
+number	of	undocumented	showings	located	on	the	Little	Hyland	Property	including	
+the	 "Road",	 "Camp"	 and	 "Dull	 Spur"	 (Figure	 10).	 	 There	 has	 also	 been	 some	work	
+done	 on	 the	 Rubus	 claim	 block.	 	 Total	 documented	 expenditures	 on	 the	 Property	
+amount	to	$564,417	(Table	3).	
+	
+
+Table	2	‐	MINFILE	Showings	on	Property	
+
+MINFILE	No.	 MINEFILE	Name	
+105H067	
+105H057	
+
+Golden	Culvert	
+Ricardo	
+
+	
+Table	3	‐	Details	of	previous	work	on	Golden	Culvert	and	Little	Hyland	properties	
+
+Geochemistry	 	Geophysics	km		
+
+Year	 Claim	group	 Operator	 	No.	soils	 	No.	streams	 	No.	rock	 	Mag		 	VLF	 Total	expense	
+
+2007	 Golden	Culvert		 Owners	 														5	 										23	 		 		 		 $5,469.78	
+
+2008	 Golden	Culvert		 Owners	 												29	 										15	 						44	 		 		 $42,113.88	
+
+2009	 Golden	Culvert		 Owners	 												73	 		 						21	 			19.4	 			18.5		 $94,529.89	
+
+2011	 Golden	Culvert	 Stakeholder	 						1,768	 		 		 		 		 $112,879.70	
+
+2011	 Little	Hyland	 Commander	 						1,369	 		 				159	 		 		 $252,269.07	
+
+2012	 Little	Hyland	 Commander	 										401	 										10	 						15	 		 		 $57,154.83	
+
+Total:	 						3,645	 										48	 				239	 		 		 $564,417.15	
+
+	
+
+6.2 Golden Culvert 
+	
+Placer	gold	was	first	found	on	the	Golden	Culvert	property	by	Robert	Scott	in	1984	at	
+a	culvert	under	the	Nahanni	Range	Road.	Stream	sediment	sampling	and	subsequent	
+prospecting	 led	 to	 the	 discovery	 of	 the	 Golden	 Culvert	 main	 showing	 in	 2008	
+(Casselman,	 2008).	 The	 showing,	 consisting	 of	 quartz	 vein‐hosted	 gold	
+mineralization,	 is	 located	 in	 the	 creek	 draining	 the	 southeastern	 corner	 of	 the	
+Property	approximately	2.5km	east	 from	the	Nahanni	Range	Road.	The	 first	quartz	
+claims	were	staked	in	2005.	From	2006	to	2008	additional	stream	sediment,	soil	and	
+rock	sampling	was	completed	 (Casselman,	2007	and	Casselman,	2009),	 followed	 in	
+2009	by	line	cutting,	limited	ground	magnetic	and	VLF‐type	electromagnetic	surveys,	
+pop‐hole	blasting,	and	soil	and	rock	sampling	(Casselman	and	Halle,	2010a).	
+
+
+
+	 	
+
+ 17
+
+	
+
+	
+
+	
+Figure	10:	YGS	Minfile	Showings	in	Golden	Culvert	area	(modified	after	Gordey	&	Makepeace,	2000)
+	
+
+
+
+	 	
+
+ 18
+
+	
+
+	
+	
+
+Figure	11:	Looking	northwest	at	Main	Showing	and	baseline (Casselman	and	Halle	2010a)	
+		
+
+In	 regards	 to	 the	geophysical	work,	 the	 report	 concluded	 that	 in	 the	vicinity	of	 the	
+main	 showing,	 the	magnetic	 and	 VLF	 response	 support	 the	 orientation	 of	 the	 soil	
+anomaly	 trend,	 shown	 to	 be	 parallel	 to	 the	majority	 of	 known,	mineralized	 quartz	
+veins	 (Figure	13).	 	Possible	northeast‐trending	 structures	 shown	by	 the	magnetics,	
+(Figure	 12)	 may	 also	 mimic	 the	 emerging	 conjugate	 vein	 set	 on	 the	 property.		
+Unexplained	 broad	 magnetic	 gradients	 may	 be	 representing	 differences	 in	
+lithology/alteration,	or	a	buried	intrusion.	
+
+
+
+	 	
+
+ 19
+
+	
+Figure	12:	Golden	Culvert	Magnetic	Survey	(Casselman,	2009)
+	
+
+	
+Figure	13:	Golden	Culvert	VLF‐EM	Survey	(Casselman,	2009)
+
+
+
+	 	
+
+ 20
+
+	
+Casselman	 and	Halle	 (2010a)	 report	 large	 scale	 sheeted	 quartz	 veins	 on	 the	 north	
+end	of	the	Golden	Culvert	on	a	steep	cliff	face	approximately	2km	north	along	strike	
+of	the	main	showing.			The	cliff	face	has	neither	been	sampled	nor	mapped	due	to	the	
+extreme	slope	conditions.	An	unmapped	fold	axis	was	also	identified	approximately	
+300m	east	of	 the	main	 showing.	 	 	 These	 structural	 features	 are	 important	because	
+they	have	been	noted	to	be	related	to	gold	mineralization	on	the	3	Aces	project.	Fold	
+anticlines	are	key	structural	features	for	Turbidite‐hosted	gold	deposit	types.			
+	
+
+Figure	14:	Unmapped,	un‐sampled	sheeted	gold‐bearing	quartz	veins	on	north	side	of	Culvert	mountain
+(Casselman	and	Halle	,	2010a)	
+	
+
+
+
+	 	
+
+ 21
+
+Figure	15:	Fold	in	phyllite	at	south‐eastern	end	of	Culvert	mountain (Casselman and	Halle	,	2010a)
+	
+In	2010,	the	Golden	Culvert	property	was	optioned	to	Stakeholder	Gold	Corp.	by	Lee	
+and	 Scott.	 Stakeholder	 completed	 an	 extensive	 soil	 survey	 which	 essentially	
+blanketed	the	entire	Golden	Culvert	claim	package	on	100	metre	lines	with	50	metre	
+sample	 intervals.	 Although	most	 of	 the	 previous	work	 completed	 by	 Lee	 and	 Scott	
+was	to	the	north	of	the	Main	Showing,	Stakeholder	outlined	a	well‐defined	"gold‐in‐
+soil"	 anomaly	 (Figures	 16	 and	 17)	 that	 showed	 strong	 indications	 that	 surface	
+prospecting	could	find	additional	surface	gold	showings	to	the	southeast	of	the	main	
+Golden	Culvert	showing	(Fekete	and	Huber,	2011).	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+	 	
+
+ 22
+
+	
+
+	
+Figure	16:	Gold	and	arsenic	soil	geochemistry	results	of	2011	Stakeholder	program.	(Fekete	and	
+Huber,	2011)	
+
+
+
+	 	
+
+ 23
+
+	
+
+	
+Figure	17:	Copper	and	silver	soil	geochemistry	results	of	2011	Stakeholder	program.	(Fekete	and	
+Huber,	2011)	
+
+
+
+	 	
+
+ 24
+
+6.3 Ricardo 
+	
+The	Ricardo	showing	is	found	on	the	Little	Hyland	claims	approximately	3km	south	
+of	the	Golden	Culvert	main	showing.	 	 It	 is	described	in	the	MINFILE	database	as	an	
+unmineralized	 ferricrete	 gossan	 occurring	within	 an	 area	 underlain	 by	 Cretaceous	
+granodiorite	 that	 intrudes	Cambrian	slates	and	phyllites.	The	gossan	was	originally	
+staked	by	Canada	Tungsten	Mining	Corporation	Ltd.	 in	1961.	There	 is	no	record	of	
+Canada	 Tungsten	 doing	 any	 additional	work	 and	 its	 claims	were	 allowed	 to	 lapse.	
+The	Ricardo	Showing	was	later	re‐staked	by	Mr.	A.	Black	in	1980	as	the	Kay	claims,	
+and	then	in	1981	as	the	Lynx	claims	by	Mr.	E.	Broadhagen.	In	each	case	there	is	no	
+record	of	work	being	performed	and	the	respective	claims	were	allowed	to	lapse.	
+
+6.4 Little Hyland 
+	
+The	 Little	 Hyland	 project	 is	 made	 up	 of	 two	 claim	 blocks,	 divided	 by	 the	 Golden	
+Culvert	 block.	 Previous	 work	 on	 the	 claims	 was	 first	 conducted	 by	 Lee,	 Scott	 and	
+Stack	 in	 2009	 who	 completed	 soil	 sampling,	 stream	 sediment	 and	 prospecting	
+surveys	in	2010	(Casselman	and	Halle,	2010b).	This	work	led	to	the	identification	of	
+the	 "Road"	showing	 in	 the	northwest	corner	of	 the	Little	Hyland	North	claim	block	
+(Figure	10).		In	2011	Commander	Resources	Ltd.	optioned	the	Little	Hyland	property	
+(originally	named	the	"Glenmorangie"	property),	and	over	2011	and	2012	completed	
+soil	 geochemical	 sampling,	 stream	 sediment	 sampling,	 prospecting,	 and	 a	mapping	
+survey	 (Potts,	 2012	 and	 Potts	 and	McKenzie,	 2013).	 	 The	 "Camp"	 and	 "Dull	 Spur"	
+zones	were	identified	from	the	2012	soil	sampling	(Figure	10).	
+
+6.5 Rubus 
+	
+The	Rubus	 claims	were	 staked	by	Lee	 and	Scott	 in	2010	with	minimal	 exploration	
+completed	to	date.	In	2010	Lee	and	Scott	completed	soil	sampling,	stream	sediment	
+sampling,	prospecting	and	geophysical	surveys	on	 the	claims.	The	stream	sediment	
+sampling	identified	anomalous	arsenic	values	over	significant	distances	in	two	of	the	
+streams	located	in	the	central	portion	of	the	claim	block	(Casselman,	2011).	
+	
+
+
+
+	 	
+
+ 25
+
+Figure	18:	Soil	geochemistry	results	of	2011	Commander	program	(Potts,	2013)
+	
+
+7 Geological Setting 
+
+7.1 Geology of Southeastern Yukon 
+	
+The	following	geological	description	is	a	derived	directly	from	Casselman	and	Halle	
+(2010a),	and	was	originally	sourced	from	regional	compilation	maps	by	Gordey	and	
+Makepeace	(2000)	and	descriptions	by	Héon	(2007)	and	Hart	(2002).	 	
+
+
+
+	 	
+
+ 26
+
+7.2 Regional Geology 
+	
+The	Golden	Culvert	and	Little	Hyland	properties	are	 located	 in	 the	Selwyn	Basin	 in	
+the	 southeastern	 Yukon	 (Figure	 19).	 The	 Selwyn	 Basin	 is	 part	 of	 the	 cordilleran	
+miogeocline	and	is	characterized	by	thick	accumulations	of	clastic	sediments,	with	a	
+significant	 component	 of	 deep	water	 black	 shales	 and	 cherts	 (Héon,	 2007).	 These	
+basinal	 rocks	 interfinger	 with	 and	 are	 bound	 by	 shallower‐water	 platformal	
+carbonates.	The	Selwyn	Basin	is	bound	to	the	north	by	the	Dawson	Fault,	grades	into	
+platformal	facies	to	the	east	(Mackenzie	Platform)	and	southwest	(Cassiar	Platform),	
+may	be	bound	by	a	Mesozoic	thrust	fault	separating	it	from	Yukon‐Tanana	Terrane	in	
+the	Anvil	district,	and	is	offset	to	the	southwest	by	the	Tintina	Fault.	The	sediments	
+range	in	age	from	Precambrian	to	Jurassic	(Héon,	2007)	and	lie	within	the	Omineca	
+Belt	of	the	Northern	Cordillera	(Hart,	2002).	
+	
+
+	
+Figure	19:	Selwyn	Basin,		Gold‐bearing	veins	around	structural	culminations (modified	from	Moynihan	
+and	Sack,	2018)	
+The	Hyland	Group	is	the	thickest	sequence	in	Basin	and	occupies	the	core	of	Selwyn	fold‐thrust	belt	
+	
+The	 Little	 Hyland	 River	 valley	 is	 entirely	 underlain	 by	 Neoproterozoic	 to	 Lower	
+Cambrian	Hyland	Group	clastic	sedimentary	rocks.		The	Hyland	Group	is	the	thickest	
+sequence	in	the	Selwyn	Basin	and	shows	the	largest	areal	extent.	The	eastern	part	of	
+the	 valley	 (Figure	 20)	 is	 underlain	 by	 dark	brown,	 fine‐grained	 and	 thinly‐bedded,	
+argillaceous	 sandstone	 and	 siltstone	 with	minor,	 interbedded,	 medium‐	 to	 coarse‐
+grained,	white	to	light	grey	orthoquartzite,	phyllite,	slate	and	argillite	of	the	Vampire	
+Formation	(uPCV1).	The	western	part	of	 the	valley	 is	underlain	by	 thinly	 to	 thickly	
+bedded	maroon	and	green	argillites,	grey	shales	and	lesser	grits	and	sandstone	of	the	
+dominantly	 Lower	Cambrian	Narchilla	 Formation	 (PCH3).	 	 Further	 to	 the	west	 the	
+Narchilla	is	underlain	by	brown	to	pale	green	shale,	quartz‐rich	sandstone,	grit,	and		
+pebble	conglomerate	of	the	dominantly	Neoproterozoic	Yusezyu	Formation	(PCH1).	
+
+
+
+	 	
+
+ 27
+
+	
+
+	
+	
+
+Figure	20:	Generalized	Stratigraphic	column	for	thr	Upper	Hyland	River	area	(Hart	and	Lewis,	2006)
+	
+The	eastern	part	of	the	area	is	intruded	by	resistant,	blocky,	fine‐	to	coarse‐grained,	
+equigranular	 to	porphyritic	 rocks	 ranging	 from	K‐feldspar	porphyry,	 biotite‐quartz	
+monzonite	and	granodiorite	with	minor	quartz	diorite,	 leuco‐quartz	monzonite	and	
+syenite	 of	 the	 mid‐Cretaceous	 Tungsten	 Suite	 (mKgTu).	 	 These	 are	 less	 prevalent	
+moving	westward	and	are	generally	absent	in	the	Little	Hyland	valley.	
+	
+Structurally	 the	 Hyland	 Group	 is	 deformed	 into	 a	 series	 of	 moderately	 shallowly	
+southwest‐dipping	overturned	folds	locally	cut	by	thrust	faults	and	occupies	the	core	
+of	the	Selwyn	Fold‐Thrust	Belt	(Figure	22).	 	This	regional	deformation	gives	rise	to	
+an	 overall	 phyllitic	 to	 weakly	 micaceous	 rock	 fabric	 that	 is	 generally	 northwest‐
+trending	and	shallowly	 to	moderately	 steep‐dipping.	 	The	 fabric	 is	more	 intense	 in	
+the	southwest	but	gradually	gives	way	to	more	slaty	cleavages	to	the	northwest.	
+	
+Numerous	 small	 north‐	 to	 northwest‐trending	 normal	 faults	 with	 limited	
+displacement	cross‐cut	 the	Hyland	Group	stratigraphy,	and	are	marked	by	straight,	
+short	 valleys	 at	 the	macro‐scale	 and	 north‐	 to	 northwest	 trending	 lineation	 at	 the	
+outcrop	scale.	 	These	faults	are	in	turn	cut	by	northeast‐trending	normal	faults	that	
+generally	control	secondary	drainages.	
+	
+Hart	and	Lewis	(2006)	proposed	the	presence	of	the	March	Fault	along	the	western	
+boundary	of	the	Property	parallel	to	the	40km‐long	Little	Hyland	River	valley	based	
+on	extrapolation	of	this	structure	from	previous	mapping	done	further	north	(Gordey	
+and	Anderson,	1993),	 interpretations	 in	Gordey	and	Makepeace	(2003)	and	 limited	
+reconnaissance	mapping	(Figure	21).	They	suggested	the	March	Fault	as	a	northeast‐
+directed	thrust	placing	the	Narchilla	formation	to	the	west	over	the	time	equivalent	
+Vampire	 formation	 to	 the	 east,	 and	 cited	 the	 distinctive	 lithological	 difference	 of	
+coarse‐clastic	strata	in	the	Narchilla	Formation	as	evidence	for	this.	Moynihan	(2017)	
+suggests	 that	 the	March	 Fault	 may	 instead	 be	 a	 dextral	 strike‐slip	 fault	 of	 limited	
+displacement,	and	in	the	Little	Hyland	River	valley,	may	not	exist	at	all.	
+
+
+
+	 	
+
+ 28
+
+	
+It	is	often	contended	that	the	mid‐Cretaceous	Tungsten	Suite	intrusions	have	driven	
+gold‐bearing	 mineralizing	 fluids	 within	 the	 Upper	 Hyland	 River	 region,	 but	 the	
+majority	 of	 gold	 occurrences	 found	 in	 the	 area	 to	 date	 show	no	 proximal	 or	 distal	
+features	normally	associated	to	intrusive	activity.		Hart	and	Lewis	(2006)	suggested	
+that	 the	 proximity	 of	 the	 gold	 showings	 to	 large	 crustal	 scale,	 northwest‐trending	
+structures,	 and	 orogenic	 characteristics	 of	 some	 the	 host	 quartz‐carbonate	 veins	
+supports	a	non‐magmatic	origin.	
+	
+Although	 the	 existence	 or	 relative	 displacement	 of	 the	 large‐scale	 March	 Fault	 is	
+debatable,	 it	 seems	 clear	 that	 gold‐bearing	 fluids	 generated	 by	 regional	 prograde	
+metamorphism	have	been	 spread	 along	 larger,	 northwest‐trending	 faults	 and	 folds	
+related	to	metamorphic	activity,	and	subsequently	remobilized	into	secondary	north‐	
+and	northeast‐trending	structures.		This	type	of	gold	mineralization	is	fundamentally	
+orogenic	in	nature	as	discussed	in	Section	8	below.	
+	
+Hart	and	Lewis	(2006)	and	Moynihan	and	Sack	(2018)	emphasize	that	gold‐bearing	
+quartz	veins	within	 the	Hyland	Group	marine	metasedimentary	rocks	cross‐cut	 the	
+regional	metamorphic	fabric	and	are	relatively	late	in	structural	history,	are	likely	to	
+be	 adjacent	 to	 large	 strike‐slip	 features,	 and	 are	 located	 at	 the	 boundary	 between	
+upper	crustal,	upright	 folded	sequences	and	deeper,	highly	deformed	orogenic	core	
+zones.	 	What	 also	 seems	 important	 for	 gold	mineralization	 is	 lithological	 contacts	
+that	 juxtapose	 coarse‐grained	sequences	 (e.g.	 grits,	 sandstones	and	conglomerates)	
+against	fine‐grained	sequences	(e.g.	phyllites).	
+			
+
+
+
+	 	
+
+ 29
+
+Figure	21:	Local	geology	of	Property	area	(modified	after	Gordey	&	Makepeace,	2000)	
+
+
+
+	 	
+
+ 30
+
+	
+	
+
+Figure	22:	Schematic	Cross‐Section	of	the	Upper	Hyland	River	Valley Area	near	the	latitude	of	the	Hy	
+and	Fer	properties	(Hart	and	Lewis,	2006)	
+Vertical	scale	is	exaggerated	such	that	dips	are	apparently	steeper	than	actual.	Late,	steep	northerly	
+trending	faults	that	cut	the	area	are	not	shown	
+	
+
+7.3 Property Geology 
+	
+The	Property	has	not	been	mapped	in	any	detail	by	the	Author.	Sample	descriptions	
+of	 rocks	 collected	by	 the	previous	workers	outlined	 in	assessment	 reports	 indicate	
+that	 the	 Property	 is	 generally	 underlain	 by	 interlayered	 phyllites,	 schists	 and	
+argillites	 (Casselman	 and	 Halle,	 2010a	 and	 Potts,	 2013).	 Locally	 grits	 (sandstone)	
+have	 been	 identified	 as	 well	 as	 mafic	 and	 felsic	 intrusive	 rocks.	 Strong	 sericite,	
+carbonate	and	phyllic	(muscovite)	alteration	is	often	noted	in	the	wall	rocks	adjacent	
+to	quartz‐carbonate	veins	such	as	at	the	Golden	Culvert	showing.	Other	quartz	veins	
+are	 noted	 in	 outcrop	 and	 talus	 which	 appear	 to	 be	 more	 bull	 white	 quartz	 with	
+minimal	mineralization	and	possibly	associated	with	metamorphic	events.	
+	
+Compilation	work	 by	Gordey	 and	Makepeace	 (2003)	 indicates	 that	 the	 Property	 is	
+underlain	 by	 two	 main	 lithological	 units	 separated	 by	 the	 regional	 northwest	
+trending	 March	 Fault	 that	 follows	 the	 Little	 Hyland	 Valley	 (Figure	 21).	 	 Hart	 and	
+Lewis	(2006)	inferred	that	the	potential	for	gold	mineralization	was	only	west	of	the	
+March	 Fault	 in	 the	 Narchilla	 and	 Yusezyu	 formations.	 	 This	 conclusion	 was	
+overturned	by	the	later	discovery	of	the	Golden	Culvert	showing	on	the	east	side	of	
+the	 fault	 within	 the	 Vampire	 Formation.	 Moynihan	 (2017)	 calls	 into	 question	 the	
+existence	 of	 the	 March	 Fault	 suggesting	 instead	 that	 the	 contact	 along	 the	 Little	
+Hyland	River	may	be	a	facies	change	between	the	Narchilla	and	Vampire	formations.	
+	
+
+
+
+	 	
+
+ 31
+
+Intrusive	rocks	belonging	to	the	mid‐Cretaceous	Tungsten	Suite	are	exposed	mainly	
+in	 the	 southern	portions	of	 the	Property.	These	 rocks	 include	K‐feldspar	porphyry,	
+biotite	monzonite	 and	 granodiorite.	 Regional	 airborne	magnetic	 data	 suggests	 that	
+these	intrusive	rocks	may	be	more	extensive	and	may	underlie	much	of	the	layered	
+rocks	in	the	area.	The	magnetic	data	also	shows	that	numerous	moderate	to	strong,	
+northwest‐trending	 magnetic	 features	 transect	 the	 Property.	 Casselman	 and	 Halle	
+(2010a)	 suggest	 that	 these	 may	 be	 caused	 by	 sharp	 lithological,	 alteration	 or	
+structural	contacts.		
+
+7.4 Mineralization 
+
+7.4.1 Golden Culvert 
+	
+The	 Golden	 Culvert	 showing	 (Figure	 23),	 located	 in	 the	 creek	 draining	 the	 central	
+portion	of	 the	Property	approximately	2.5km	 from	 the	Nahanni	Range	Road,	 is	 the	
+most	 significant	 gold	 occurrence	 found	 on	 the	 Property	 to	 date.	 This	 showing	
+consists	of	a	series	of	primary,	northwest‐trending,	quartz‐carbonate	veins,	each	up	
+to	one	metre	wide,	hosted	 in	 intensely	altered	phyllites	(Figure	25).	Historical	grab	
+samples	from	the	quartz‐carbonate	veins	at	the	showing	have	returned	values	up	to	
+22.8gpt	 Au	 (Casselman	 and	 Halle,	 2010a).	 The	 gold	 appears	 to	 be	 related	 to	
+arsenopyrite	 mineralization	 that	 ranges	 from	 semi‐massive,	 fine‐grained	 fracture	
+fillings	 to	 medium‐grained	 disseminations	 to	 local	 clusters	 of	 euhedral	 needles	
+(Figure	26),	 and	medium	 to	 coarse‐grained	euhedral	pyrite	 (Figure	27).	Casselman	
+and	 Halle	 (2010a)	 also	 reported	 gold	 values	 up	 to	 1.28gpt	 Au	 from	 mineralized	
+outcrops	of	phyllite	that	lack	quartz‐carbonate	veins	(Figure	29).	
+	
+
+	
+	Figure	23:	Panoramic	view	of	Golden	Culvert	showing	area	(looking	west).		Author	is	in	foreground
+
+	
+Structurally,	the	quartz‐carbonate	veins	at	the	Golden	Culvert	showing	are	typically	
+subvertical,	 and	 show	 at	 least	 two	 main	 orientations	 generally	 striking	 at	 260°	
+(Figure	27)	and	305°	(Figure	25).	The	Author	also	observed	shallow	dipping,	sheeted	
+extension	veinlets	that	strike	parallel	to	the	main	veins	mentioned	above.		A	third	set	
+of	veins	approximately	perpendicular	to	above	mentioned	orientations	was	noted	by	
+Stratabound	personnel	but	not	observed	by	the	Author.		Together	these	various	vein	
+sets	form	a	sort	of	quartz‐carbonate	stockwork	within	a	zone	of	phyllites	marked	by	
+strong,	pervasive	silica	alteration	and	disseminated	sulphide	mineralization,	that	is	at	
+least	30	metres	wide	over	10	metres	of	exposed	strike	length.	
+
+Nahanni	Road	(2km) 
+
+
+
+	 	
+
+ 32
+
+	
+Elsewhere	 a	 grab	 sample	 collected	 by	 the	 Author	 returned	 an	 assay	 of	 7.16gpt	 Au	
+from	an	outcrop	of	silicified	phyllite	with	quartz	veinlets	and	disseminated	sulphides	
+situated	approximately	100	metres	south	of	 the	showing	(Figure	30).	This	suggests	
+that	there	is	a	least	some	strike	extent	to	the	Golden	Culvert	mineralization.	
+	
+The	Golden	Culvert	showing	is	marked	in	a	broader	sense	by	a	northwest‐trending,	
+"gold‐in‐soil"	 anomaly	 outlined	 by	 previous	workers	 (Casselman	 and	Halle,	 2010a,	
+and	Fekete	and	Huber	2011).		The	anomaly	is	defined	by	values	greater	than	30ppb	
+Au	with	maximum	values	up	to	791ppb	Au.		It	is	up	to	250	metres	wide	and	extends	
+3,000	metres	northwest	from	the	southern	boundary	of	the	Golden	Culvert	property,	
+but	 remains	 open	 in	 both	 directions	 (Figure	 35).	 The	 gold	 anomaly	 shows	 various	
+correlations	and	is	sometimes	coincident	with	arsenic,	copper	and	silver	patterns.	
+	
+Casselman	and	Halle	(2010a)	concluded	that	gold‐bearing	structures	exposed	at	the	
+Golden	Culvert	showing	had	more	potential	 to	continue	to	northwest,	based	on	the	
+available	 soil	 geochemical,	 prospecting	 and	 geophysical	 data.	 	 Fekete	 and	 Huber	
+(2011)	 suggested	 that	 the	 area	 southeast	 of	 the	 showing	 was	 more	 prospective,	
+based	on	the	stronger,	more	continuous	geochemical	trend	outlined	in	2011.	
+
+
+
+	 	
+
+ 33
+
+	
+
+	Figure	24:	Golden	Culvert	claims	and	historical	surface	gold	showings
+Stars	indicate	significant	historical	surface	gold	showings	compiled	from	government	assessment	files	as	
+outlined	in	Appendix	III.	Newly	discovered	Green	Dragon	Cu‐Ag	Quartz	Vein	is	located	1.7	km	south	of	the	
+Main	Au	Showing.	
+
+
+
+	 	
+
+ 34
+
+	Figure	25:	Golden	Culvert	quartz	vein	 Figure	26:	Golden	Culvert	sheared	phyllite	
+Host	rock	is	sheared,	silicified	phyllite.	Assay	
+of	18.27gpt	Au.	
+
+Sheared,	silicified	phyllite	adjacent	to	Golden	Culvert	
+main	showing;	quartz	veinlets	crosscutting	main	
+foliation;	note	fine,	acicular	arsenopyrite	needles.	
+
+	
+
+	Figure	27:	Sample	1907905	 Figure	28:	Sample	1907906
+Quartz	vein	in	Golden	Culvert	main	showing	
+striking	260°	azimuth;	euhedral	pyrite,	sericite;	
+assay	of	18.27gpt	Au.	
+
+Quartz	vein	in	Golden	Culvert	main	showing	striking	
+305°;	1%	euhedral	pyrite;	assay	of	13.38gpt	Au.	
+
+
+
+	 	
+
+ 35
+
+	
+Figure	29:	Sample	1907908	
+Golden	Culvert	main	showing;	arsenopyrite	>2%	in	siliceous	grey	phyllite;	assay	of	2.5gpt	
+Au	and	>10,000	ppm	As.	
+
+	
+
+Figure	30:	Sample	1907912	 Figure	31: Sample	1907907
+Outcrop	approximately	100	metres	south	of	
+Golden	Culvert	main	showing	area;	silicified	
+phyllite	and	quartz	veining;	4%	sulphides;	assay	
+of	7.16gpt	Au.	
+
+Golden	Culvert	main	showing;	1.5m	chip	of	green	
+siliceous	phyllite	taken	between	two	quartz	veins;	
+quartz	veinlets	throughout;	striking	260°	azimuth;	
+assay	of	1.52gpt	Au	
+
+
+
+	 	
+
+ 36
+
+7.4.2 Green Dragon 
+	
+During	the	Author's	September	2017	Property	visit,	a	new	quartz‐carbonate	vein	was	
+discovered	on	the	south	block	of	the	Little	Hyland	property	about	50	metres	south	of	
+the	 south	 boundary	 of	 the	 Golden	 Culvert	 property.	 	 The	 showing	was	 found	 as	 a	
+result	of	prospecting	the	soil	geochemical	anomaly	outlined	by	Stakeholder	in	2011	
+(Fekete	and	Huber,	2011).		The	vein	contains	minor	disseminated	chalcopyrite,	and	is	
+marked	 by	 green	 malachite	 staining.	 	 Hence	 it	 was	 named	 the	 "Green	 Dragon"	
+showing.	 	The	vein	is	2	to	3	metres	wide	where	exposed	and	was	traced	on	surface	
+for	 a	 distance	 of	 about	 20	metres	 in	 a	 northwesterly	 direction.	 	 Samples	 returned	
+assay	 values	 absent	 in	 gold	 but	 carried	 up	 to	 6,575ppm	 Cu	 and	 13,805ppb	 silver.		
+Potts	(2012)	noted	other	areas	with	copper	malachite	staining	on	the	Little	Hyland	
+property.	
+	
+
+Figure	32:	Green	Dragon	quartz	vein	showing.
+Quartz	vein	2	to	3m	wide	exposed	15	to	20m	along	northwest	trend;	note	green	malachite	staining.
+	
+
+Figure	33:	Sample	1907902	 Figure	34:	Sample	1907903	
+Green	Dragon	showing;	quartz	vein	with	
+disseminated	chalcopyrite	and	malachite	stain;	
+assay	of	1,751ppm	Cu,	4,579ppb	Ag.	
+
+Green	Dragon	showing;	quartz	vein	with	
+disseminated	chalcopyrite	and	malachite	stain;	
+assay	of	6,575ppm	Cu,	13,805ppb	Ag.	
+	
+	
+
+
+
+	 	
+
+ 37
+
+	
+
+Figure	35:	Compilation	of	previous	gold‐in‐soil	results	
+
+	(Golden	Culvert	main	claims	soil	coverage	displayed	is	completed	on	50m	X	100m	spaced	sample	sites.		For	
+clarity	sample	sites	<	20ppb	not	shown.		All	Little	Hyland	samples	are	shown.)	
+Note	the	gaps	in	sampling	on	the	Little	Hyland	south	block	directly	southeast	of	the	Golden	Culvert	block	and	on	
+the	Little	Hyland	north	block	directly	northwest	of	the	Golden	Culvert	block;	and	also	note	large	unsampled	area	
+on	southern	half	of		Little	Hyland	south	block	
+
+7.4.3 Camp Zone 
+	
+
+The	Camp	zone	is	located	near	the	north‐west	border	of	the	Little	Hyland	north	claim	
+block.	Samples	from	this	showing	returned	values	up	to	4500ppb	Au	from	a	quartz	
+vein	with	some	sulphides	hosted	within	phyllite	(Potts	and	McKenzie,	2012).	Roughly	
+400m	 east	 of	 this	 showing	 occurs	 a	 series	 of	 north‐south	 trending	 veins	 with	
+scorodite	where	values	up	to	1600ppb	Au	have	been	recorded	(Potts,	2011).	
+
+7.4.4 Road Showing 
+	
+
+The	Road	showing	is	located	next	to	the	Nahanni	Range	Road	in	the	northwest	corner	
+of	 the	Little	Hyland	north	 claim	block.	Casselman	and	Halle	 (2010b)	 reported	 float	
+samples	 from	 this	 occurrence	 with	 anomalous	 gold	 including	 365ppb	 Au	 from	
+massive	arsenopyrite,	442ppb	Au	from	pyrite‐arsenopyrite	in	quartz	and	748ppb	Au	
+from	quartz‐pyrite‐galena,	and	up	to	4.03%	Pb	and	24.4gpt	Ag	from	a	float	sample	of		
+galena	 and	minor	 pyrite	 in	 quartz.	 They	 also	 noted	 the	 presence	 of	 quartz	 pebble	
+conglomerate	 at	 this	 showing,	 and	 attributed	 it	 to	 the	 Yusezyu	 Formation	 of	 the	
+Hyland	Group.	This	unit	is	regionally	significant	for	gold	occurrences	such	as	at	the	3	
+Aces	property.	
+
+
+
+	 	
+
+ 38
+
+7.4.5 Dull Spur Zone 
+	
+
+The	Dull	 Spur	 zone	 is	 located	 on	 the	 north‐west	 corner	 of	 the	 Little	 Hyland	 south	
+claim	block.	Mineralization	is	still	unknown	over	this	zone	however	 it	 is	defined	by	
+several	 anomalous	 soil	 values	 ranging	 up	 to	 131ppb	 Au	 and	 0.55ppm	 Ag.	 Potts	
+(2011)	correlated	these	anomalous	results	to	NNW‐trending	faults.	
+
+7.4.6 Rubus 
+	
+
+Outcrop	 mineralization	 on	 the	 Rubus	 claim	 block	 is	 still	 unknown;	 however,	
+significant	 arsenic	 anomalies	 derived	 from	 stream	 sediment	 data	 have	 been	
+identified.	 	Two	 streams	 that	drain	 the	 central	 portion	of	 the	 claim	block	 returned	
+anomalous	arsenic	values	over	substantial	distances.	Float	rock	samples	in	this	area	
+marked	by	pyrite	mineralization	and	yellow	scorodite	staining	returned	values	up	to	
+5060ppm	As	and	315ppb	Au	(Casselman	and	Halle,	2011).	
+
+8 Deposit Types 
+
+8.1 Skarn‐type Tungsten  
+	
+
+The	former	Cantung	Mine,	located	in	the	Northwest	Territories	approximately	10km	
+east	 of	 the	 Property,	 is	 the	 most	 significant	 mineral	 deposit	 in	 the	 area.	 It	 has	
+produced	 tungsten	 periodically	 since	 1962	 and	 	 was	 most	 recently	 owned	 and	
+operated	 	 by	 North	 American	 Tungsten	 Corp.,	 until	 June	 2015	 at	 which	 time	 the	
+company	went	into	receivership.			The	Cantung	Mine	and	the	Mactung	deposit	were	
+ultimately	acquired	by	the	Government	of	Northwest	Territories	in	2015.		Under	the	
+terms	of	a	devolution	agreement	the	Federal	Canadian	Government	has	assumed	the	
+responsibilities	for		care	and	maintenance	since	that	time	(Government	of	Northwest	
+Territories,	 2015).	 	 Reserves	 (not	 verified	 by	 the	 Author)	 are	 stated	 at	 2.5‐million	
+tonnes	 grading	 1.11%	 tungsten	 oxide	 indicated	 and	 0.4‐million	 tonnes	 grading	
+0.84%	 tungsten	 oxide	 inferred	 (Delaney	 and	 Bakker,	 2014).	 	 The	 deposit‐type	
+consists	of	tungsten‐rich	skarns	formed	in	carbonaceous	Selwyn	Basin	sedimentary	
+rocks	along	the	margins	of	mid‐Cretaceous	granodiorite	intrusions.		
+
+8.2  Orogenic‐ or Lode‐type Gold  
+	
+
+The	 Selwyn	 Basin	 has	 traditionally	 been	 known	 for	 its	 sedimentary	 exhalative	
+deposits	of	lead,	zinc	and	silver.	 	Exploration	over	the	last	decade	has	led	to	several	
+significant	gold	discoveries	of	various	gold	deposit‐types	including	intrusion‐related	
+replacement	(e.g.	Tiger),	Carlin	(e.g.	Osiris	and	Conrad)	and	orogenic	(e.g.	3	Aces	and	
+Plateau).	 Stratabound	 is	 primarily	 exploring	 for	 orogenic‐	 or	 lode‐type	 gold	
+mineralization	 hosted	 within	 Hyland	 Group	 sediments	 similar	 to	 the	 quartz	 vein‐
+hosted,	 high‐grade	 gold	 mineralization	 found	 at	 Golden	 Predator's	 3	 Aces	 project,	
+located	 approximately	 20km	 south	 of	 the	 Property,	 and	 Goldstrike	 Resources'	
+Plateau	project	 located	approximately	315km	to	 the	northwest.	 	 Sack	et.	 al.	 (2018)	
+provides	an	excellent	synopsis	of	the	orogenic	character	of	the	gold	mineralization	at	
+Plateau.		
+
+
+
+	 	
+
+ 39
+
+	
+Gold	only	deposits	derived	from	bedrock	sources	are	generally	classified	as	orogenic‐	
+or	 lode‐type.	 	 This	 type	 of	 deposit	 is	 extremely	 important,	 accounting	 for	 60%	 of	
+historical	 gold	 production	 in	 Canada	 (Poulsen,	 1996).	 Lode‐type	 gold	 deposits	 are	
+found	 in	a	variety	of	 tectonic	 terranes	but	occur	mainly	 in	areas	where	 there	 is	 an	
+abundance	of	volcanic	and	clastic	sedimentary	rocks	of	low	to	medium	metamorphic	
+grade.	 They	 are	 generally	 formed	 in	 regionally	 metamorphosed	 terranes	 during	
+compressional	to	transpressional	deformation	processes	at	convergent	plate	margins	
+in	 accretionary	 and	 collisional	 orogens	 (Groves	 et	 al.,	 1998).	 	 The	 classification	 of	
+lode‐type	 gold	 deposits	 remains	 problematic	 due	 to	 the	 variety	 of	 the	 host	 rock	
+lithological	 and	 tectonic	 settings.	 The	 Little	 Hyland	 River	 area	 has	 not	 seen	much	
+exploration	work	for	gold	so	it	is	too	early	to	categorize	known	showings	like	Golden	
+Culvert	and	3	Aces.		
+	
+
+	
+	
+Figure	36:	Geology	of	3	Aces	project	(taken	from	Golden	Predator	website,	2017)	
+	
+
+
+
+	 	
+
+ 40
+
+	
+However,	 in	 a	 broad	 sense,	 the	 gold	 in	 these	 showings	 is	 contained	 in	 quartz‐
+carbonate	 veins	 that	 appear	 to	 be	 associated	 with	 brittle	 to	 ductile	 deformation	
+zones	 hosted	 in	 basinal	 sedimentary	 host	 rocks.	 This	 style	 of	 mineralization	 is	
+recognized	globally	as	a	sub‐type	termed	"turbidite‐hosted	quartz‐carbonate	vein"	or	
+"Bendigo"	 type	15	 (Poulson	 et.	 al.,	 2000).	 These	deposits	 consist	 of	 veins	 and	vein	
+arrays	 in	 folds	 (saddle	 reefs),	 faults	 and	 brittle‐ductile	 shear	 zones	 in	 turbidite	
+sequences	of	all	ages,	deformed	and	metamorphosed	to	 lower	to	upper	greenschist	
+facies.	 Graphitic	 schists	 in	 such	 sequences	 are	 particularly	 favourable	 hosts,	 and	
+intrusive	 rocks	 are	 generally	 lacking	within	 and	 immediately	 around	 the	 deposits.	
+The	deposits	are	commonly	associated	with	anticlines	and	related	limb‐thrust	faults	
+as	 exemplified	 by	 Bendigo	 and	 Ballarat,	 Australia	 (Cox	 et	 al.,	 1991;	 Phillips	 and	
+Hughes,	1996).	Veins	consist	of	quartz	and	carbonate,	with	lesser	amounts	of	chlorite	
+and	 sericite;	 arsenopyrite	 and	 pyrite	 typically	 comprise	 less	 than	 10%	 by	 volume.	
+The	ores	are	gold‐rich	(i.e.	Au:Ag	>	5),	and	contain	elevated	concentrations	of	As	and	
+W.	 Wallrock	 alteration,	 in	 the	 form	 of	 sericitization	 and	 some	 silicification,	 is	
+generally	 restricted	 to	 the	 immediate	vicinity	of	 the	vein.	Typically	 this	 sub‐type	 is	
+consistent	with	low	to	medium‐grade	metamorphic	processes	at	intermediate	crustal	
+depths	 in	 compressive	 tectonic	 settings.	 They	 are	 often	 erroneously	 referred	 to	 as	
+mesothermal	gold.	
+	
+
+Figure	37:	Schematic	of	the	crustal	levels	inferred	for	gold	deposition	for	common	deposit	types.	
+
+The	depth	scale	is	approximate	and	logarithmic.		Note	Turbidite‐hosted	type	(From	Poulson,	Robert,		
+Dube,	2000)	
+	
+
+
+
+	 	
+
+ 41
+
+The	 Little	 Hyland	 River	 area	 is	 essentially	 a	 clastic	 sedimentary	 terrane.	 Canadian	
+examples	of	similar	 terranes	with	quartz‐carbonate	 lode‐type	gold	deposits	 include	
+the	 Meguma	 sequence	 in	 Nova	 Scotia,	 the	 Camlaren	 in	 the	 Yellowknife	 district,	
+Northwest	Territories,	and	the	Sheep	Creek	district	and	Barkerville	terrane,	both	in	
+B.C.	Classic	known	type‐districts	outside	of	Canada	 include	Bendigo	and	Ballarat	 in	
+Australia,	Ashanti	in	Ghana,	and	Otago	in	New	Zealand.		The	size	and	grades	of	these	
+deposits	are	mostly	less	than	5Mt	at	6	to	15gpt	Au,	(Poulson	et	al,	2000).		
+	
+Regional	exploration	for	this	type	of	gold	mineralization	must	focus	on	fold	axes	and	
+major	ductile	or	brittle	fault	zones.	At	the	property	scale	exploration	should	focus	on	
+folds,	 shear	 zones,	 faults,	 stockwork	 zones	 and	 extensional	 fractures	 that	 are	
+secondary	or	adjacent	to	major	fault	zones	and	are	generally	slightly	to	moderately	
+discordant	to	host	rock	bedding	or	foliation.		Veins	can	be	associated	with	a	variety	of	
+structures.	Most	common	are	folded	veins	and	saddle	reefs	related	to	anticlinal	folds.	
+Sheeted	en	echelon	sigmoidal	veins,	ladder	veins,	tension	gashes	or	stockworks	may	
+be	related	to	zones	of	extension	or	to	Reidel	shear	structures.	Features	such	as	small	
+felsic	 intrusions	and	dykes,	 iron	formations	or	mafic	 intrusive	bodies	that	 interrupt	
+the	main	fault	zone	are	often	good	places	to	look	for	quartz‐carbonate	zones.	At	the	
+outcrop	 level,	gold‐bearing	quartz‐carbonate	veins	 typically	contain	one	or	more	of	
+arsenopyrite,	fuchsite,	pyrite,	scheelite	and	tourmaline.	Sericite,	silica,	carbonate	and	
+sulphide	alteration	of	wallrock	is	typical	and	the	wall	rocks	often	contain	significant	
+gold	value.	
+		
+Quartz‐carbonate	vein‐type	deposits	by	nature	have	relatively	low	sulphide	contents	
+and	do	not	respond	readily	to	most	geophysical	methods.	Geophysical	surveys	can	be	
+used	indirectly	to	identify	favourable	structures	such	as	faults	or	shear	zones.	Rock,	
+soil	 and	 stream	 sediment	 geochemical	 surveys	 are	 generally	 more	 useful.	 Finally,	
+gold	 related	 to	 quartz‐carbonate	 veins	 is	 notoriously	 inconsistent	 along	 strike	 and	
+down	dip.	Numerous	close	spaced	drill	holes	are	required	to	build	resources.	
+
+9 Exploration 
+	
+As	 part	 of	 their	 due	 diligence	 in	 early	 2017,	 South	 Shore	 began	 a	 review	 of	 drill	
+results	and	a	bulk	sampling	program	reported	on	Golden	Predator's	3	Aces	project	in	
+order	to	compare	to	the	Golden	Culvert	Property.	A	compilation	of	publicly	available	
+information	on	the	Golden	Predator	website	and	Yukon	Geological	Survey	database	
+led	 South	 Shore	 to	 the	 conclusion	 that	 that	 the	 lithological	 and	 structural	 features	
+hosting	the	spectacular	gold	mineralization	on	the	3	Aces	project	could	be	present	on	
+the	Property.		Moreover	it	was	noted	that	the	Property	was	very	large,	and	that	there	
+had	 been	 very	minimal	 exploration	 completed	 to	 date	 although	 it	 hosted	 a	 known	
+high‐grade	gold	showing.		Most	importantly	it	was	observed	that	no	drilling	had	been	
+done	on	the	Property.		In	September	2017,	a	site	visit	was	done	by	two	South	Shore	
+personnel	and	 two	 independent	consultants	 including	 the	Author	as	part	of	 its	due	
+diligence	 review.	 	 The	 results	 of	 this	 review	 consequently	 led	 to	 the	 two	 option	
+agreements	being	executed	between	the	various	Property	owners	and	South	Shore.	
+
+
+
+	 	
+
+ 42
+
+Subsequently	Stratabound	acquired	the	Option	from	South	Shore,	 following	its	own	
+site	 visit	 and	 due	 diligence	 review	 in	 October	 2017.	 Neither	 South	 Shore	 nor	
+Stratabound	 has	 completed	 any	 exploration	work	 on	 the	 Property	 except	 for	 field	
+visits	pertaining	to	due	diligence.	
+
+10 Drilling 
+	
+
+To	date	there	has	been	no	reported	drilling	on	the	Property.	
+
+11 Sample Preparation, Analysis and Security 
+
+11.1 Site Visit and Independent Sampling 
+	
+The	Property	was	visited	on	September	9	and	10,	2017	by	the	Author	in	the	company	
+of	 James	Cecchetto	 and	Dean	MacEachern,	 P.Geo.	 of	 South	 Shore	 and	Mark	 Fekete,	
+P.Geo.,	of	Breakaway	Exploration	Management	Inc.	The	Property	visit	included	a	tour	
+of	 the	 3	 Aces	 property	 provided	 by	 Mike	 Burke,	 P.Geo.	 of	 Golden	 Predator.	 	 The	
+Author	 conducted	 independent	 sampling	 primarily	 at	 the	 Golden	 Culvert	 showing,	
+and	also	at	several	other	sites	to	confirm	historical	results.		The	Author,	accompanied	
+by	Mark	Fekete,	also	collected	a	 few	rock	samples	 in	 the	course	of	prospecting	 the	
+soil	 anomalies	 extending	 southeast	 from	 the	 Golden	 Culvert	 showing.	 This	 work	
+resulted	in	the	discovery	of	the	Green	Dragon	showing	described	above	in	section	9.2	
+	
+The	verification	samples	were	chipped	by	the	Author	primarily	 from	outcrop	and	a	
+few	 from	boulders	of	 float.	 Sample	 locations	were	 tagged	 in	 the	 field	and	recorded	
+with	HP	iPAQ	200	series	field	computers	running	GeoInfoMobile	and	Tierra	Mapper	
+software	paired	with	Holux	GPS	receivers	in	map	datum	UTM	WGS84	Zone	9N.	The	
+Author	 attempted	 to	 get	 representative	 samples	 of	 the	 various	 types	 of	
+mineralization	 from	 both	 the	 quartz‐carbonate	 veins	 and	 from	 the	 adjacent	 wall	
+rocks.		Sample	locations	in	UTM	coordinates,	gold	and	arsenic	assay	values	and	brief	
+descriptions	of	the	samples	are	provided	in	Table	4.	Sample	locations	and	pertinent	
+assay	 results	 are	 plotted	 on	 Figure	 38.	 	 A	 total	 of	 14	 samples	 were	 analyzed	 by	
+Bureau	Veritas	Commodity	Canada	Ltd.	("BV"),	and	the	analytical	certificate	provided	
+by	BV	is	included	as	Appendix	II.	
+
+11.2 Security 
+	
+All	 samples	 were	 collected	 and	 handled	 only	 by	 the	 Author	 in	 the	 field	 and	 until	
+delivery	to	the	BV	facility	in	Whitehorse,	Yukon.		Rock	samples	were	placed	in	plastic	
+bags	with	the	appropriate	sample	numbers	marked	in	indelible	ink.		To	maintain	the	
+validity	and	integrity	of	the	samples	taken,	individual	sample	bags	were	immediately	
+sealed	by	the	Author	with	tie	wraps,	and	then	all	samples	were	placed	in	rice	bags,	
+which	were	 in	 turn	 sealed	with	 tamper‐proof	 security	 tie	 wrap	 tags.	 The	 samples	
+were	 delivered	 in	 person	 to	 the	 BV	 preparation	 facility	 in	Whitehorse	 for	 sample	
+preparation,	and	then	shipped	by	BV	to	its	main	laboratory	in	Vancouver,	BC	for	final	
+analysis.	
+
+
+
+	 	
+
+ 43
+
+11.3 Sample Preparation and Analysis 
+	
+Samples	were	dried,	 crushed,	 split	 and	pulverized	 to	250	gram	and	 sieved	 to	 	200	
+mesh	 and	 analyzed	 for	 37	 elements	 (including	 gold)	 by	 15	 gram	 Aqua	 Regia	
+digestion,	Ultratrace	ICP‐MS	finish	(BV	code	AQ251).	Samples	were	also	analyzed	by	
+50	 gram	 lead	 collection	 fire	 assay	 fusion,	 AAS	 finish	 (BV	 code	 FA450).	 Samples	
+returning	values	in	excess	of	10,000	ppb	gold	were	reanalyzed	using	a	lead	collection	
+fire	 assay	50	 gram	 fusion,	 gravimetric	 finish	 (BV	 code	FA550).	BV	 is	 an	 accredited	
+laboratory	under	 ISO	9001,	and	is	 independent	of	 the	Author	and	Stratabound.	 	BV	
+follows	an	internal	QAQC	program	utilizing	standards,	blanks	and	standards.		The	BV	
+preparation,	 analytical	 methods	 and	 QAQC	 procedures	 used	 on	 the	 samples	 are	
+available	on	its	subsidiary	website	(www.acmelab.com).	
+
+11.4 Author's Opinion 
+	
+It	 is	 the	Author's	opinion	 that	 the	 sampling	procedures,	 security	measures,	 sample	
+preparations	 and	 analytical	methods	 applied	 to	 the	 2017	 independent	 verification	
+rock	samples	were	diligently	followed	and	are	adequate	to	meet	industry	standards	
+commonly	 accepted	 for	 this	 level	 of	 exploration.	 The	 Author	 has	 relied	 upon	 the	
+adequacy	and	accuracy	of	 the	analytical	results	provided	by	 the	BV	 laboratory.	 	No	
+unusual	variances	were	observed	in	QAQC	analyses	performed	at	the	BV	laboratory.	
+The	 Author	 reconciled	 the	 field	 data	 with	 the	 analytical	 results	 and	 found	 no	
+irregularities.	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+	 	
+
+ 44
+
+Table	4	‐	2017	sample	locations	and	descriptions	
+
+Sample	
+No.		
+
+UTM	E				
+(NAD	83)		
+
+UTM	N				
+(NAD	83)		
+
+Au	(ppb)	
+ICP‐MS		
+
+As	
+(ppm)	
+ICP‐MS		
+
+Sample	
+Type		
+
+Descriptions		 Date	
+
+1907901	 532154	 6867931	 <0.2	 3	
+Float	
+Grab	
+
+Quartz	vein	in	Dull	Spur	area,	very	fine	
+grained	sulfides	(1%	py).	Moderate	
+patchy	oxidation,	carbonaceous.	
+
+2017	
+
+1907904	 531755	 6867856	 <0.2	 9	
+Outcrop	
+Chip	
+
+Quartz	vein	with	2%blebby	py,	weakly	
+sericitic.	Taken	uphill	from	high	gold‐
+in‐soil	value	
+
+2017	
+
+1907913	 529279	 6876750	 <0.2	 73	
+Outcrop	
+Chip	
+
+Quartz	vein	part	of	shear	zone	 2017	
+
+1907905	 531134	 6868873	 18269.5	 9959	
+Outcrop	
+Chip	
+
+Main	Showing	Quartz	vein	in	Golden	
+Culvert	showing	striking	260.	Euhedral	
+pyrite,	sericite.	Ref	to	sample	C‐OC2	
+
+2017	
+
+1907906	 531135	 6868873	 13384.5	 5266	
+Outcrop	
+Chip	
+
+Quartz	vein	in	Golden	Culvert	Main	
+Showing	striking	305.	1%	euhedral	
+pyrite	(likely	location	of	C‐OC3)	
+
+2017	
+
+1907912	 531190	 6868789	 7158.5	 721	
+Outcrop	
+Chip	
+
+Silicified	phyllite	and	quartz	veining,	up	
+to	4%	sulphide.	Ref	to	sample	RS68	
+
+2017	
+
+1907908	 531132	 6868875	 2565	 >10000	
+Outcrop	
+Chip	
+
+From	Golden	Culvert	Showing.	Aspy	
+rich	>2%	in	siliceous	grey	phyllite.	Ref	
+to	Sample	C‐C03	
+
+2017	
+
+1907909	 531139	 6868873	 1838.3	 3119	
+Outcrop	
+Chip	
+
+Quartz	vein	striking	260,	banded	 2017	
+
+1907907	 531135	 6868872	 1521.4	 5732	
+Outcrop	
+Chip	
+
+Sample	from	between	two	quartz	vein.	
+Taken	over	1.5m.	Green	siliceous	
+bedded	phyllite.	Quartz	veinlets	
+throughout	striking	roughly	260.		
+
+2017	
+
+1907911	 531116	 6868886	 1339.3	 4635	
+Outcrop	
+Chip	
+
+Ref	to	CRF4	north	of	creek	 2017	
+
+1907910	 531069	 6868891	 707.1	 3048	
+Float	
+Grab	
+
+Ref	to	CRF9T	north	of	creek	 2017	
+
+1907851	 527088	 6875334	 2.2	 177	
+Outcrop	
+Chip	
+
+Quartz	vein	near	Camp	Zone	area,	bull	
+white	
+
+2017	
+
+1907902	 531951	 6867740	 2	 8	
+Outcrop	
+Chip	
+
+Green	Dragon	Quartz	Vein.	
+Disseminated	py,	cpy	and	malachite.	
+Strong	patchy	oxidation.		Roughly	N/S	
+striking.	1,751ppm	Cu,	4,579ppb	Ag	
+
+2017	
+
+1907903	 531953	 6867741	 1.9	 19	
+Outcrop	
+Chip	
+
+Green	Dragon	Quartz	Vein.	
+Disseminated	py,	cpy	and	malachite.	
+Strong	patchy	oxidation.		Roughly	N/S	
+striking.	6,575ppm	Cu,	13,805ppb	Ag	
+
+2017	
+
+
+
+	 	
+
+ 45
+
+	
+Figure	38:	2017	sample	locations	
+
+12 Data Verification 
+	
+
+Table	 5	 below	 compares	 the	 2017	 independent	 verification	 sample	 results	 with	
+historical	gold	values.		Figure	39	shows	two	of	the	five	verification	samples	compared	
+quite	 well	 with	 historical	 results	 whereas	 three	 samples,	 despite	 being	 highly	
+anomalous,	 showed	 a	 negative	 variance	 compared	 to	 the	 historical	 samples	 (0.71,	
+1.26,	7.3gpt	Au	vs.	6.34,	9.48,	11.95gpt	Au	respectively).		In	the	samples	where	there	
+is	significant	variance	it	is	always	the	historical	values	that	show	larger	gold	values.			
+The	 Author	 attributes	 this	 significant	 variance	 to	 selective	 sampling	 by	 previous	
+workers,	 as	 well	 as	 the	 "nugget"	 effect	 that	 often	 accompanies	 higher	 grade	 gold	
+mineralization	making	reproducibility	difficult	within	a	small	sample	set.			With	this	
+in	 mind,	 the	 Author	 considers	 the	 historical	 gold	 tenors	 to	 have	 been	 suitably	
+verified.	
+
+
+
+	 	
+
+ 46
+
+	
+Table	5	‐	2017	verification	samples	versus	historical	results	
+
+2017	Sample	 Au	gpt	 As	ppm	 Historical	Sample	 Au	gpt	 As	ppm	
+
+1907905	 18.3	 9959	 C‐OC2	 17.3	 6620	
+
+1907906	 13.4	 5266	 C‐OC3	 8.28	 9010	
+
+1907910	 0.71	 3047	 C‐RF9T	 6.34	 6810	
+
+1907911	 1.26	 4635	 C‐RF4	 9.48	 10000*	
+
+1907912	 7.3	 721	 RS68	 11.95	 10000*	
+
+						*over	limit	
+
+	
+
+	
+
+Figure	39:	2017	verification	samples	versus	historical	results
+
+	
+
+13 Mineral Processing and Metallurgical Testing 
+	
+To	 date	 no	mineral	 processing	 or	metallurgical	 testing	 has	 been	 completed	 on	 the	
+Property.	
+
+14 Mineral Resource and Mineral Reserve Estimates 
+	
+To	date	no	mineral	 resource	or	mineral	 reserve	estimates	have	been	completed	on	
+the	Property.	The	Property	is	at	a	"grassroots"	level	of	exploration	such	that	it	is	too	
+early	to	make	any	resource	or	reserve	estimates.	
+
+15 Adjacent Properties 
+
+15.1 General Statement 
+This	report	contains	relevant	information	on	adjacent	properties	has	been	obtained	
+from	 various	 publicly	 disclosed	 sources	 including	 corporate	 websites	 and	 press	
+releases,	 government	 publications	 and	 research	 papers.	 	 The	 Author	 has	 been	
+unable	 to	 verify	 this	 information,	 and	 this	 information	 is	 not	 necessarily	
+indicative	of	mineralization	on	the	Property	that	is	the	subject	of	this	report.	
+
+1 2 3 4 5
+
+2017	Author 18.3 13.4 0.71 1.26 7.3
+
+Historical 17.3 8.28 6.34 9.48 11.95
+
+0
+
+5
+
+10
+
+15
+
+20
+
+gr
+a
+m
+s	
+p
+e
+r	
+to
+n
+	A
+u
+
+
+
+	 	
+
+ 47
+
+15.2 3 Aces 
+	
+The	 most	 significant	 exploration	 in	 the	 area	 has	 been	 completed	 on	 the	 Golden	
+Predator's	3	Aces	property	 located	approximately	20km	south	of	 the	Property.	The	
+"Discovery"	vein	was	found	in	2003	by	prospector	Alex	McMillan	with	a	grab	sample	
+that	 returned	5,401gpt	Au	 (~157.53opt	Au)	 from	a	quartz	 vein	with	 coarse	visible	
+gold	(Dessureau,	2018).	
+	
+
+Figure	40:	3	Aces	Discovery	Vein,	5,401gpt	gold	in	grab	sample.		(Golden	Predator	Mining	Corp.,	2017)
+	
+
+	
+Prior	 to	 this	 discovery,	 work	 started	 in	 1997	 when	 Hudson	 Bay	 Exploration	 and	
+Development	Company	Ltd.	("Hudson	Bay")	staked	the	Hit	claims,	and	in	1998	Alex	
+McMillan	staked	the	adjacent	3	Aces	claims.		Hudson	Bay	optioned	McMillan's	claims	
+and	expanded	the	property	by	staking	 the	Hat	claims.	 	From	1998	to	1999	Hudson	
+Bay	 completed	 surface	work	 including	 airborne	 geophysics,	 prospecting,	 and	 rock,	
+soil	and	silt	geochemical	sampling.	 	Limited	diamond	drilling	of	600m	in	four	holes	
+was	completed	 just	northeast	of	 the	3	Ace	showing	 in	1999.	 	Hudson	Bay	returned	
+McMillan's	3	Aces	claims	in	2000	and	did	no	further	work	on	the	Hit	and	Hat	claims.	
+	
+In	 2003	 ATAC	 Resources	 Ltd.	 optioned	 McMillan's	 3	 Aces	 claims	 and	 completed	
+excavator	 and	hand	 trenching,	 geological	mapping,	 prospecting,	 and	 rock	 sampling	
+around	 the	 Road	 Showing	 located	 approximately	 3km	 southeast	 of	 the	 3	 Aces	
+showing.		Following	this	work	the	option	was	dropped.	
+	
+
+
+
+	 	
+
+ 48
+
+In	 2005	 McMillan	 optioned	 the	 3	 Aces	 claims	 to	 North	 American	 Tungsten	
+Corporation	Ltd.	which	completed	surface	soil	geochemical	and	geophysical	surveys	
+before	dropping	the	option	in	2008.	
+	
+In	2008	McMillan	began	re‐staking	Hudson	Bay's	Hit	and	Hat	claims	as	they	expired.		
+By	2010	he	had	consolidated	his	position	in	the	area,	and	optioned	the	claim	package	
+to	Northern	Tiger	Resources	 Inc.	("Northern	Tiger").	 	From	2010	to	2012	Northern	
+Tiger	greatly	expanded	the	property	by	staking,	and	completed	extensive	exploration	
+work	 including	an	airborne	magnetic	and	radiometric	geophysical	survey	and	a	silt	
+geochemical	 survey	 over	 the	 entire	 property,	 detailed	mapping,	 prospecting,	 hand	
+trenching,	and	rock	and	soil	sampling,	and	11,409m	of	diamond	drilling	in	58	holes,	
+primarily	in	the	area	at	the	main	3	Aces	showing.		Northern	Tiger	became	insolvent	
+in	2013	and	in	2014	was	acquired	by	Golden	Predator	as	part	of	a	complex	corporate	
+re‐organization	(Dessureau,	2018).	
+	
+Golden	Predator	began	exploration	work	in	2014	with	metallurgical	studies	followed	
+in	2015	by	rotary	air	blast	drilling,	followed	in	2016	and	2017	by	reverse	circulation	
+drilling,	 diamond	 drilling,	 bulk	 sampling,	 airborne	 geophysics,	 excavator	 trenching	
+and	infrastructure	development	including	a	bridge	across	the	Little	Hyland	River	to	
+provide	access	to	the	main	areas	of	exploration.		Total	drilling	on	the	3	Aces	property	
+to	date	is	36,358	metres	in	369	holes.		The	bulk	sample	recovered	a	744	troy	ounce	
+gold	doré	bar	from	776	metric	tonnes	at	a	recovery	rate	of	83%	from	a	simple	gravity	
+recovery	 circuit	 assuming	 an	 average	 gold	 content	 of	 9.0gpt	 Au	 in	 the	 tails.	
+(Dessureau,	2018).	
+	
+Most	 of	 this	 work	 has	 been	 done	 in	 the	 area	 of	 the	 original	 3	 Aces	 "Main"	 or	
+"Discovery"	and	"Sleeping	Giant"	zones.	 	Golden	Predator	has	renamed	 these	zones	
+"Ace	of	Hearts"	and	 "Ace	of	Spades"	 respectively,	 and	has	added	 the	 "Ace	of	Clubs"	
+and	 "Ace	 of	Diamonds"	 zones.	 	 Collectively	 these	 four	 zones	 are	 referred	 to	 as	 the	
+"Central	Core"	area.	 	The	Central	Core	area	 is	defined	by	an	extensive	"gold‐in‐soil"	
+anomaly	that	covers	an	area	of	13	square	kilometres.	
+	
+Dessureau	(2018)	explains	that	the	3	Aces	property	is	geologically	located	within	the	
+Hyland	Group	interbedded	clastic	and	carbonate	sedimentary	rocks.	The	Property	is	
+underlain	 by	 the	 Yusezyu	 Formation,	 which	 forms	 the	 lower	 part	 of	 the	 Hyland	
+Group.	 	 A	 long	 history	 of	 multiple	 deformations	 and	 faulting	 has	 allowed	 later	
+hydrothermal	 fluids	 to	 penetrate	 the	 stratigraphy	 and	with	 it	 bring	 in	mineralized	
+fluids.	 Within	 the	 Central	 Core	 area,	 the	 lithologic	 packages	 strike	 to	 the	 north‐
+northwest	 (340°)	 and	 dip	 gently	 (20°)	 to	 the	 east‐northeast.	 The	 litho‐structural	
+contacts	are	 interpreted	 to	 focus	hydrothermal	 fluids	carrying	gold‐arsenic	bearing	
+fluids	within	the	Central	Core	area	and	to	 locally	develop	quartz	veins	within	areas	
+with	significant	extensional	strain.	The	rheological	contrast	between	thick	graded	to	
+massive,	 coarser	 sandstone‐grit	 beds	 and	 interlayered	 phyllite	 in	 association	 with	
+steeper	 normal	 fault	 zones	 appears	 to	 form	 a	 preferred	 structural	 setting	 for	 the	
+formation	of	quartz	veins.	Quartz	veins	 form	at	or	near	 the	contact	 in	both	coarser	
+sandstone‐grit	rocks	and	the	phyllites.		Gold	and	minor	sulfide	mineralization	(pyrite	
+
+
+
+	 	
+
+ 49
+
+and	 arsenopyrite)	 occurs	 with	 late,	 brittle	 faults	 within	 regional	 dextral	 trans‐
+extensional	faults.	Gold	mineralization	is	associated	with	argillic,	iron	carbonate	and	
+limonitic	alterations.		
+	
+The	gold	mineralization	in	the	Central	Core	area	is	relatively	high	grade	and	is	often	
+spectacular	with	 visible	 gold	 occurring	 as	 coarse	 lumps	 and	 along	 fracture	 planes.		
+Significant	drill	 results	 from	2016	and	2017	 include	19.3m	of	16.5gpt	Au,	4.57m	of	
+58.75gpt	 Au,	 39.6m	 of	 13.3gpt	 Au	 and	 11.43m	 of	 31.82gpt	 Au	 gold	 (Dessureau,	
+2018).	
+	
+During	 the	 September	 site	 visit	 to	 the	 3	 Aces	 property	 by	 the	 Author,	 several	
+resemblances	to	the	Golden	Culvert	property	were	noted.	Quartz	veins	and	structural	
+trends	 including	axial	planar	cleavage	occur	 in	similar	northwest	orientations.	Low	
+sulfide	content	within	the	gold‐bearing	veins	was	also	noted.	
+
+15.3 Reef 
+	
+The	418‐claim	Reef	property	located	five	kilometres	west	of	the	Property	is	currently	
+held	 under	 option	 by	 Golden	 Predator	 from	 Precipitate	 Gold	 Corp.,	 and	 is	 being	
+operated	as	part	of	the	3	Aces	project	(Dessureau,	2018).		Previous	work	on	the	Reef	
+property	 has	 established	 an	 extensive	 gold‐arsenic‐antimony	 soil	 anomaly	
+measuring	 at	 least	 three	 kilometres	 long	 with	 gold	 values	 exceeding	 1.0gpt	 Au	
+(Figure	36).		
+
+15.4 Hy‐Jay 
+	
+The	 198‐claim	 Hy‐Jay	 property	 located	 10	 kilometres	 west	 of	 the	 Property	 is	
+currently	held	under	option	by	Golden	Predator	 from	Bearing	Lithium	Corp,	and	 is	
+being	 operated	 as	 part	 of	 the	 3	 Aces	 project	 (Dessureau,	 2018).	 Numerous	
+mineralized	 zones	 have	 been	 identified	 on	 the	 Hy‐Jay	 claim	 block	 from	 soil	
+geochemistry	 surveys	 and	 prospecting	 (Figure	 36).	 Gold	 mineralization	 is	 hosted	
+within	quartz‐arsenopyrite	veins	and	stockworks	controlled	by	north‐	to	northwest‐
+trending,	steep	west‐dipping	 faults	(Hart,	2005).	 	The	best	documented	gold	values	
+were	 reported	 from	 grab	 samples	 with	 visible	 gold	 from	 the	 "West"	 zone,	 which	
+returned	 144.1gpt	 Au,	 and	 the	 "Zig‐Zag"	 zone,	 which	 retuned	 up	 to	 47.0gpt	 Au	
+(Dessureau,	2018).	
+
+15.5 Sprogge 
+	
+Golden	Predator	recently	acquired	100%	of	the	Sprogge	property	through	purchase	
+agreements	 with	 Alexco	 Exploration	 Canada	 Corp.	 and	 Newmont	 Canada	 Corp.	
+(Golden	 Predator,	 2017).	 	 The	 agreements	 supersede	 prior	 option	 agreements	
+entered	 into	 by	 predecessor	 company	 Northern	 Tiger.	 	 Sprogge	 is	 located	 directly	
+south	 and	 east	 of	 the	 3	 Aces	 property	 (Figure	 36).	 Highlights	 of	 previous	work	 in	
+2011	and	2012	by	Northern	Tiger	include	8.5gpt	Au	over	6.8m	from	a	trench	across	a	
+northeast	striking	fault	at	the	"Meadows"	zone;	a	grab	sample	of	23.8gpt	Au	from	the	
+
+
+
+	 	
+
+ 50
+
+"Matilda"	vein;	7.6gpt	Au	over	2.5m	from	a	trench	across	a	shear	at	the	"Ridge	East"	
+zone;	and	a	grab	sample	of	7.1gpt	Au	from	the	"Ridge	West"	zone	(Golden	Predator,	
+2017).	
+
+15.6 Justin 
+	
+The	 Justin	 property,	 held	 by	 Aben	 Resources	 Ltd.,	 is	 located	 approximately	 20km	
+south	of	the	Property.		It	is	directly	to	the	east	of	the	3	Aces	property.	Significant	drill	
+intersections	 on	 the	 Justin	 property	 include	 2.47gpt	 Au	 over	 21.0m,	 2.7gpt	 Au,	
+29.0gpt	 Ag	 over	 11.3m,	 1.49gpt	 Au	 over	 46.4m	 and	 0.73gpt	 Au	 over	 88.5m	 (Aben	
+Resources	 Ltd.,	 n.d.).	 	 Exploration	 on	 the	 Justin	 property	 has	 been	 directed	 at	
+identifying	 Intrusion	 Related	 Gold	 Systems	 ("IRGS")	 such	 as	 skarn	 hosted	 gold	
+mineralization	 and	 sheeted	 veining.	 Zones	 of	massive	 skarn‐style	 replacement	 and	
+quartz‐calcite	 stock	 work	 veining	 with	 elevated	 Au,	 Bi,	 Cu,	 Mo	 and	 W	 have	 been	
+observed	in	drill	intersection	supporting	the	IRGS	model.		
+
+16 Other Relevant Data and Information 
+	
+The	Author	is	not	aware	of	any	other	relevant	data	and	information	or	explanation	to	
+make	this	report	more	understandable	and	not	misleading.	
+
+17 Interpretation and Conclusions 
+
+17.1 Geology and Mineralization 
+	
+The	veracity	of	significant	historical	gold	results	at	the	main	Golden	Culvert	showing	
+has	 been	 independently	 confirmed	 by	 the	 Author.	 	 Soil	 geochemical	 trends	 on	 the	
+Property	indicate	that	there	is	additional	potential	beyond	the	immediate	area	of	the	
+several	 mineral	 occurrences	 found	 on	 Property	 to	 date.	 	 Indeed	 the	 new	 Green	
+Dragon	showing	described	 in	 section	7.4.2	was	discovered	during	 the	Author's	 site	
+visit	only	after	several	hours	of	prospecting	a	gold‐in‐soil	geochemical	trend.	
+	
+The	 large	number	of	gold	occurrences	hosted	 in	Hyland	Group	rocks	clearly	shows	
+this	unit	is	highly	prospective	for	gold	deposits.	 	Significant	gold	mineralization	has	
+been	found	on	the	Property	and	on	adjacent	properties	within	Hyland	Group	rocks.		
+These	gold	occurrences	are	evidently	examples	of	the	orogenic	or	lode	gold	deposit‐
+type.	This	kind	of	mineralization	is	known	to	be	closely	associated	to	and	controlled	
+by	structural	features.		Further	exploration	of	the	Property	will	therefore	have	to	pay	
+close	 attention	 to	 structural	 features	 such	 as	 folds,	 faults,	 shear	 zones,	 stockworks	
+and	 extension	 fractures.	 	 Workers	 should	 note	 any	 occurrence	 of	 arsenopyrite,	
+fuchsite,	 pyrite,	 scheelite	 and	 tourmaline	 mineralization	 as	 well	 as	 sericite,	 silica,	
+carbonate	 and	 sulphide	 alteration.	 	 Sharp	 geophysical	 contrasts	 should	 be	
+investigated	 as	 possible	 deformation	 zones,	 and	 magnetic	 lows	 should	 be	
+
+
+
+	 	
+
+ 51
+
+investigated	 for	 alteration	 of	 iron‐bearing	 magnetic	 minerals	 to	 more	 prospective	
+oxide	or	carbonate	minerals.	
+	
+Soil	geochemical	sampling	followed	by	traditional	"pack	and	boots"	prospecting	has	
+so	 far	 shown	 to	 be	 very	 effective	 at	 locating	 surface	 mineralization.	 	 Detailed	
+geological	 mapping	 would	 be	 useful	 to	 identify	 potential	 lithological	 contacts	
+favourable	for	lode	gold	mineralization.		Mechanical	trenching	will	be	useful	to	better	
+expose	gold	occurrences,	and	eventually	core	drilling	will	be	required	to	define	gold‐
+bearing	structures	in	the	subsurface.	
+
+17.2 Infrastructure and Permitting 
+	
+Many	 exploration	 projects	 in	 Yukon	 face	major	 challenges	 due	 to	 the	 lack	 of	 basic	
+infrastructure.	In	contrast,	the	Property	is	located	adjacent	to	and	benefits	from	the	
+all‐season	access	Nahanni	Range	Road	which	provides	excellent	access.	Watson	Lake,	
+located	 approximately	 250	 kilometres	 from	 the	 Property,	 offers	 a	 wide	 range	 of	
+services	including	equipment,	supplies	and	labour.	 	Easy	access	to	the	Property	and	
+its	proximity	 to	 a	 service	 center	 clearly	 improve	 the	project's	 logistics	 and	 relative	
+cost	of	exploration	work.	
+	
+Permitting	 may	 often	 cause	 delays	 to	 exploration	 projects.	 The	 Golden	 Culvert	
+property	has	been	approved	 for	a	Class	3	Quartz	Mining	Land	Use	Permit	effective	
+until	November	14,	 2026	 that	 allows	 for	 a	 camp,	 access	 roads,	 trenching,	 diamond	
+drilling	and	bulk	sampling	to	be	undertaken	immediately.	The	Little	Hyland	property	
+will	 be	 operated	 under	 Class	 1	 permit	 conditions	 until	 a	 Class	 3	 permit	 can	 be	
+approved.	 	 The	 Little	Hyland	 permit	will	 closely	 follow	 the	 Golden	 Culvert	 permit,	
+and	all	things	being	equal,	no	major	delays	are	expected	in	the	approval	process.	
+
+17.3 Other Considerations 
+	
+The	Property	 is	a	 relatively	 large	mineral	 claim	package	at	83.8	square	kilometres.		
+Moreover,	until	the	moratorium	on	additional	claim	staking	in	the	Ross	River	area	is	
+lifted,	the	Property	offers	a	somewhat	unique	exploration	opportunity.		The	Property	
+covers	 approximately	 23	 kilometres	 of	 northwest‐trending	 structure	 potentially	
+favourable	for	gold	mineralization.		This	offers	a	great	chance	to	locate	multiple	gold	
+deposits	along	strike.		
+	
+Since	2014,	Golden	Predator	has	conducted	major	exploration	work	with	significant	
+results	and	completed	substantial	infrastructure	improvements	on	its	3	Aces	Project.		
+There	 are	 clearly	 benefits	 to	 have	 a	 prolific	 project	 like	 3	 Aces	 located	 in	 close	
+proximity	to	the	Property.	Direct	advantages	include	potential	cost	sharing	for	joint	
+mobilization	of	 contractors,	 equipment	and	 fuel.	 	Less	 tangible	benefits	 include	 the	
+exchange,	 comparison	and	discussion	of	 technical	data,	and	 the	prior	knowledge	of	
+financial	 investors	 with	 the	 3	 Aces	 project	 specifically,	 and	 the	 Little	 Hyland	 area	
+generally.	
+
+
+
+	 	
+
+ 52
+
+18 Recommendations 
+	
+Based	on	the	general	prospective	nature	of	the	underlying	Hyland	Group	rocks,	 the	
+veracity	 of	 previous	 gold	 results	 and	 the	 range	 and	 tenor	 of	 soil	 geochemical	
+anomalies	 on	 the	 Property,	 the	 relatively	 good	 infrastructure,	 the	 large	 size	 of	 the	
+mineral	 claim	 package,	 the	 long	 strike	 extent	 of	 potential	 gold‐bearing	 structures,	
+and	the	local	presence	the	well‐known	3	Aces	project,	it	is	the	Author's	opinion	that	
+the	 Property	 is	 of	 significant	 merit	 to	 recommend	 that	 an	 aggressive	 exploration	
+program	continue	to	be	pursued.		Indeed	it	is	rare	to	find	a	large	project	in	the	Yukon	
+that	is	located	so	close	to	a	road,	has	returned	significant	gold	values	on	surface,	and	
+has	never	been	drilled.	
+	
+The	 following	 recommendations	 for	 an	 exploration	 program	 are	 set	 out	
+chronologically	 in	 two	 phases	 and	 are	 accompanied	 by	 a	 Gantt	 graph	 (Figure	 41)	
+with	 estimated	 start	 and	 finish	 dates.	 Phase	 1	 will	 consist	 primarily	 of	 soil	
+geochemical	 sampling,	 prospecting,	 trenching,	 road‐building,	 and	 drilling	 in	 2018.	
+The	 second	 phase	 will	 consist	 of	 additional	 core	 drilling	 at	 the	 Golden	 Culvert	
+showing	 and	 other	 significant	 targets	 generated	 by	 Phase	 1,	 as	 well	 as	 continued	
+geochemical	 sampling,	 prospecting	 and	 mapping.	 	 Phase	 2	 will	 be	 contingent	 on	
+positive	results	in	the	first	phase,	and	will	commence	in	2019.	
+	
+A	 crew	 varying	 from	 two	 to	 ten	 persons	will	 be	 needed	 to	 complete	work	 on	 the	
+Golden	Culvert	property	in	2018.	This	would	include	four	technicians,	one	geologist	
+and	one	cook.		Four	technicians	will	be	needed	for	the	soil	sampling	but	only	two	for	
+the	prospecting.		One	heavy	equipment	operator	will	be	needed	to	build	the	road	and	
+excavate	 the	 trenches,	and	 it	 is	expected	 that	a	drill	 crew	of	 four	will	 complete	 the	
+core	drilling.	Notice	of	the	upcoming	exploration	work	should	be	given	to	the	Yukon	
+Territorial	 Government	 Mining	 Lands	 Office	 in	 mid‐April	 2018.	 This	 would	 be	
+followed	by	camp	construction	of	a	temporary	summer	camp	for	up	to	ten	persons	in	
+early	July.		It	is	estimated	the	camp	would	take	five	days	for	two	men	to	build.		
+	
+Phase	 1	 work	 will	 begin	 on	 the	 Rubus	 block	 where	 soil	 results	 are	 a	 priority	 to	
+determine	if	the	block	will	be	included	with	the	Golden	Culvert	agreement.	A	2km	x	
+2km	 grid	 with	 up	 to	 800	 samples	 is	 proposed	 to	 cover	 the	 previously	 outlined	
+anomalous	stream	sediment	samples.	Grid	lines	should	be	spaced	at	100m	oriented	
+at	70°	azimuth	with	50m	sample	intervals	to	intersect	potential	northwest‐trending	
+structures.	
+	
+Next,	soil	grids	should	be	extended	2km	to	the	southeast	from	the	2011	Stakeholder	
+grids	 on	 the	Golden	 Culvert	 claim	block	 to	 cover	 the	 unsampled	 area	 on	 the	 Little	
+Hyland	south	claim	block.		A	total	of	20	grid	lines	5,000	m	long	should	be	spaced	at	
+100m	 oriented	 at	 70°	 azimuth	 with	 50m	 sample	 intervals	 to	 intersect	 northwest‐
+southeast	 trending	 structures.	This	grid	will	 include	20	 lines	each	5km	 for	 roughly	
+2,000	samples.	
+	
+
+
+
+	 	
+
+ 53
+
+Lithological	and	structural	mapping,	and	prospecting	surveys	are	also	recommended	
+in	 Phase	 1.	 	 This	 work	 should	 focus	 on	 the	 Golden	 Culvert	 claim	 block	 and	 the	
+northern	part	of	 the	Little	Hyland	claim	block.	 	Geologists	 can	design	mapping	and	
+prospecting	 traverses	 to	 coincide	 with	 soil	 sampling	 set‐outs	 to	 save	 money	 on	
+helicopter	time	where	possible.	
+	
+It	 is	 also	 recommended	 during	 Phase	 1	 to	 build	 a	 4x4	 truck	 accessible	 trail	 to	 the	
+Golden	Culvert	showing.		This	trail,	approximately	two	kilometres	long,	would	allow	
+for	equipment	and	personnel	to	access	the	showing	without	the	cost	of	a	helicopter.	
+Also	 in	 Phase	 1	 several	 mechanical	 trenches	 should	 be	 excavated	 at	 the	 Golden	
+Culvert	showing	to	identify	the	extent	of	gold‐bearing	structures	and	mineralization.	
+	
+The	final	Phase	1	recommendation	is	600m	of	diamond	drilling	at	the	Golden	Culvert	
+showing	to	test	the	mineralized	structure	at	depth.	
+	
+The	estimated	cost	for	the	first	phase	of	the	exploration	program	is	$842,375	and	is	
+outlined	in	Table	6	below.	The	soil	geochemical	sampling	part	of	Phase	1	is	estimated	
+to	cost	$204,750,	or	roughly	$73	per	sample	including	labour,	camp,	helicopter,	truck	
+and	 assay	 costs.	 	 The	 mapping,	 prospecting,	 road‐building	 and	 trenching	 work	 is	
+estimated	to	cost	$169,750.		The	drilling	is	expected	to	cost	$330,000	based	on	an	all‐
+in	estimate	of	$550	per	metre.	 	An	additional	$13,000	has	been	added	 for	 the	 final	
+report	 and	 to	 transport	 Stratabound	 management	 to	 the	 Property.	 	 A	 15%	
+contingency	has	been	added	to	the	budget	to	account	for	rainy	days,	breakdowns	and	
+other	lost	days.	
+	
+Phase	2	will	be	contingent	upon	positive	 results	 in	 the	 first	phase,	and	will	 consist	
+primarily	of	soil	geochemical	sampling,	mapping,	prospecting,	and	drilling	to	follow	
+up	on	Phase	1	results.		The	remaining	property	should	be	sampled	by	reconnaissance	
+ridge	and	spur	 lines	at	50m	sample	 intervals	 for	an	additional	300	samples	on	 the	
+Rubus	block	and	800	samples	 in	the	southern	part	of	 the	Little	Hyland	South	claim	
+block.		The	unsampled	areas	of	the	Little	Hyland	North	claim	block	would	be	sampled	
+over	 a	 grid	 6	 km	 long	 with	 3	 km	 lines	 generating	 up	 to	 3000	 samples.	 It	 is	 also	
+recommended	 that	 lithological	 and	 structural	 mapping,	 and	 prospecting	 surveys	
+continue	in	the	second	phase.			
+	
+	
+	
+The	 total	 estimated	 cost	 for	 Phase	 2	 of	 the	 program	 is	 $1,782,500	which	 includes	
+15%	 for	 contingencies	 as	 outlined	 in	 the	 Table	 7	 below.	 The	 soil	 geochemical	
+sampling	 is	 estimated	 at	 $322,500,	 or	 roughly	 $75	 per	 sample.	 The	 mapping	 and	
+prospecting	is	estimated	at	$109,000.		The	2000	metres	of	drilling	is	expected	to	cost	
+$1,100,000	based	on	an	all‐in	estimate	of	$550	per	metre.		An	additional	$18,500	has	
+been	 added	 for	 the	 final	 report	 and	 to	 transport	 Stratabound	management	 to	 the	
+Property.	
+
+
+
+	 	
+
+ 54
+
+Table	6	‐	Proposed	exploration	budget	Phase	1	
+	
+
+Soil	Geochemical	Survey	(2,000	samples	Hyland	South	Block	Extension,	800	samples	Rubus)	
+
+Soil	Samplers	(4)	 80	 man	days	@	 $450	 per	man	day	 $36,000	
+
+Camp	 80	 man	days	@	 $200	 per	man	day	 $16,000	
+
+Helicopter	 35	 hours	@	 $1,850	 per	hour	 $64,750	
+
+Truck	 20	 days	@	 $200	 per	day	 $4,000	
+
+Assays	 2,800	 samples	@	 $30	 per	sample	 $84,000	 $204,750	
+
+Mapping,	Prospecting	and	Trenching	
+
+Geologist	 30	 man	days	@	 $750	 per	man	day	 $22,500	
+
+Prospectors	(2)	 60	 man	days	@	 $450	 per	man	day	 $27,000	
+
+Trenching	&	Roadbuilding	 120	 hours	@	 $500	 per	hour	 $60,000	
+
+Camp	 100	 man	days	@	 $200	 per	man	day	 $20,000	
+
+Helicopter	 5	 hours	@	 $1,850	 per	hour	 $9,250	
+
+LIDAR	Survey	 1	 survey	@	 $15,000	 	 $15,000	 	
+
+Truck	 30	 days	@	 $200	 per	day	 $6,000	
+
+Assays	 500	 samples	@	 $50	 per	sample	 $25,000	 $184,750	
+
+Drilling	
+
+Drilling	 600	 m	 $550	 per	m	all	in	 $330,000	 $330,000	
+
+Miscellaneous	
+
+Report	 10	 days	@	 $750	 per	man	day	 $7,500	
+
+Travel	from	Ontario	 2	 persons	@	 $2,750	 per	person	 $5,500	 $13,000	
+
+Subtotal	 $732,500	
+
+15%	Contingency	 $109,875	
+
+Total	 $842,375	
+
+	
+	 	
+
+
+
+	 	
+
+ 55
+
+Table	7	‐	Proposed	exploration	budget	Phase	2	
+
+Soil	Geochemical	Survey	
+
+Rubus	R&S	 500	 samples	@	 $75	 per	sample	 $37,500	
+
+Little	Hyland	North	Grid	 3,000	 samples	@	 $75	 per	sample	 $225,000	
+
+Little	Hyland	South	R&S	 800	 samples	@	 $75	 per	sample	 $60,000	 $322,500	
+
+Mapping	and	Prospecting	
+
+Geologist	 30	 man	days	@	 $750	 per	man	day	 $22,500	
+
+Prospectors	(2)	 60	 man	days	@	 $450	 per	man	day	 $27,000	
+
+Camp	 100	 man	days	@	 $200	 per	man	day	 $20,000	
+
+Helicopter	 10	 hours	@	 $1,850	 per	hour	 $18,500	
+
+Truck	 30	 days	@	 $200	 per	day	 $6,000	
+
+Assays	 300	 samples	@	 $50	 per	sample	 $15,000	 $109,000	
+
+Drilling	
+
+Drilling	 2,000	 m	 $550	 per	m	all	in	 $1,100,000	 $1,100,000	
+
+Miscellaneous	
+
+Report	 10	 days	@	 $750	 per	man	day	 $7,500	
+
+Travel	from	Ontario	 4	 persons	@	 $2,750	 per	person	 $11,000	 $18,500	
+
+Subtotal	 $1,550,000	
+
+15%	Contingency	 $232,500	
+
+Total	 $1,782,500	
+
+	 	
+
+
+
+	 	
+
+ 56
+
+Phase	1	‐	2018	
+Phase	2	‐	2019	
+	
+
+	
+Figure	41:	Proposed	exploration	schedule	for	2018	and	2019	
+
+1
+5
+/0
+4
+
+3
+0
+/0
+4
+
+1
+5
+/0
+5
+
+3
+0
+/0
+5
+
+1
+4
+/0
+6
+
+2
+9
+/0
+6
+
+1
+4
+/0
+7
+
+2
+9
+/0
+7
+
+1
+3
+/0
+8
+
+2
+8
+/0
+8
+
+1
+2
+/0
+9
+
+2
+7
+/0
+9
+
+1
+2
+/1
+0
+
+2
+7
+/1
+0
+
+1
+1
+/1
+1
+
+Class	III	Notice	Culvert
+
+Camp	Setup
+
+Rubus	Soil	Grid
+
+Hyland	South	Soil	Grid
+
+Prospecting	+	Mapping
+
+Road	to	Culvert
+
+Trenching
+
+Drilling
+
+Soil	Assays
+
+Trenching	Assays
+
+Mapping	&	Prospecting	Assays
+
+Drilling	Assays
+
+Report	Phase	1
+
+Class	III	Notice
+
+Camp	Setup
+
+Hyland	North	Soil	Grid
+
+Rubus	R	&	S
+
+Hyland	Remaining	R	&	S
+
+Prospecting	+	Mapping
+
+Drilling
+
+Soil	Assays
+
+Mapping	&	Prospecting	Assays
+
+Drilling	Assays
+
+Report	Phase	2
+
+
+
+	 	
+
+ 57
+
+19 References 
+	
+Aben	Resources	Ltd.,	n.d.		Consulted	December	2017	on	www.abenresources.com,		
+	
+Blusson,	S.L.,	1968.	Geology	and	tungsten	deposits	near	the	headwaters	of	Flat	River,	
+Yukon,	and	southwest	District	of	Mackenzie,	Canada.	Geol.	Surv.	of	Canada,	Paper	
+67‐22,	77p.	
+
+	
+Bureau	 Veritas	 Commodities	 Canada	 Ltd.,	 n.d.	 Consulted	 December	 2017	 on	
+subsidiary	website	www.acmelab.com		
+
+	
+Casselman,	 S.G.,	 2011.	 2010	 exploration	 program	 on	 the	 Little	 Hyland	 project,	
+Tungsten	area,	Yukon	Territory,	YMAR	No.	095282	
+
+	
+Casselman,	 S.G.,	 2009.	 2008	 prospecting	 and	 sampling	 program	 on	 the	 Golden	
+Culvert	property,	Tungsten	area,	Yukon	Territory,	YMAR	No.	095129	
+
+	
+Casselman,	S.	G.,	2006. 2006	to	2007	soil	and	stream	sediment	sampling	program	on	
+the	Golden	Culvert	Property,	Tungsten	Area,	Yukon	Territory,	YMAR	No.	094851	
+
+	
+Casselman,	 S.	 G.	 and	 Halle,	 J.,	 2010a. 2009	 geochemistry	 and	 geophysics	 on	 the	
+Golden	Culvert	Property,	Tungsten	Area,	Yukon	Territory,	YMAR	No.	095134.		
+
+	
+Casselman,	 S.	 G.,	 and	 Halle,	 J.,	 2010b.	 Little	 Hyland	 Regional	 Project,	 2009	 YMIP	
+Focused	Regional	Program,	Yukon	Territory,	YMIP	No.	2010‐008.	
+
+	
+Dessureau,	G.E.,	2018.	Technical	Report	describing	the	Geology,	Mineralization,	and	
+Exploration	on	the	3	Aces	Property,	Watson	Lake	Mining	District,	Yukon,	Canada	
+
+	
+Delaney,	 B.,	 Bakker,	 F.J.,	 2014.	 Technical	 Report	 in	 the	 Cantung	 Mine,	 Northwest	
+Territories,	Canada.	
+
+	
+Doherty,	 R.	 A.	 and	 van	 Randen,	 J.	 A.,	 1994.	 Report	 on	 the	 1993	 Geological	 and	
+Geochemical	Assessment	Work	on	the	Tuna	Property.	YMAR	No.	093175.		
+
+	
+Fekete,	M.	and	Huber,	M.,	2011.	Surface	Work	2011	on	the	Culvert	Property,	YMAR	
+No.	095450.	
+
+	
+Golden	 Predator	 Mining	 Corp.,	 2017.	 Golden	 Predator	 Acquires	 100%	 of	 Sprogge	
+Project,	Yukon.	Consulted	December	2017	on	
+http://www.goldenpredator.com/_resources/news/nr_20171130.pdf	
+
+	
+Gordey,	 S.	 P.	 and	 Anderson	 G.,	 1993.	 Evolution	 of	 the	 Northern	 Cordilleran	
+Miogeocline,	 Nahanni	Map	 Area	 (105I),	 Yukon	 and	 Northwest	 Territories;	 Geol.	
+Surv.	of	Canada,	Memoir	428,	214	p.		
+
+
+
+	 	
+
+ 58
+
+	
+Gordey,	S.P.,	Makepeace,	A.J.,	(compilers),	2000.	Yukon	Digital	Geology,	Geol.	Surv.	of	
+Canada,	Open	File	D3826.		
+
+	
+Gordey,	 S.P.	 and	Makepeace,	A.J.	 (compilers),	 2003.	Yukon	Digital	Geology	 (version	
+2).	 Yukon	 Geological	 Survey,	 Open	 File	 2003‐9(D);	 also	 known	 as	 Geol.	 Surv.	 of	
+Canada	Open	File	1749,	2	CD‐ROMs.	
+
+	
+Government	 of	 Northwest	 Territories,	 2015.	 Statement	 on	 Cantung	 Mine	 and	
+Mactung	property.	Consulted	December	2017	on	
+http://www.gov.nt.ca/newsroom/statement‐cantung‐mine‐and‐mactung‐
+property	
+
+	
+Groves,	D.I.,	 Goldfarb,	R.J.,	 Gebre‐Mariam,	M.,	Hagemann,	 S.G.,	 and	Robert,	 F.,	 1998,	
+Orogenic	 gold	 deposits:	 A	 proposed	 classification	 in	 the	 context	 of	 their	 crustal	
+distribution	and	relationship	to	other	gold	deposit	types:	Ore	Geology	Reviews,	v.	
+13,	p.	7–27	
+
+	
+Hart,	 C.,	 2002.	 The	 Geological	 Framework	 of	 the	 Yukon	 Territory.	 Consulted	
+December	2017	on	http://www.geology.gov.yk.ca/pdf/bedrock_geology.pdf	
+
+	
+Hart.	C.J.R.	and	Lewis,	L.L.,	2006.	Gold	Mineralization	in	the	Upper	Hyland	River	Area:	
+A	non‐magmatic	origin.	In:	Yukon	Exploration	and	geology	2005,	D.S.	Emond,	G.D.	
+Bradshaw,	L.L.	Lewis	and	L.H.	Weston	(eds),	P.	109‐125.	
+
+	
+Héon,	 D.,	 2007.	 Selwyn	 Basin	 Metallogeny.	 Consulted	 December	 2017	 on	
+http://www.geology.gov.yk.ca/pdf/SelwynBasin.pdf	
+
+	
+Moynihan,	D.,	 2016.	 Stratigraphy	and	 structural	 geology	of	 the	upper	Hyland	River	
+area	 (parts	 of	 105H/8,	 105H/9),	 southeast	 Yukon	 In:	 Yukon	 Exploration	 and	
+Geology	2015,	K.E.	MacFarlane	and	M.G.	Nordling	(eds.),	Yukon	Geological	Survey,	
+p.	187‐206	
+
+	
+Moynihan,	 D.,	 2017.	 Structure	 and	 Stratigraphy	 of	 the	 Hyland	 Group,	 southeast	
+Yukon,	 Yukon	 Geological	 Survey	 presentation	 at	 Yukon	 Geoscience	 Forum	
+November	21,	2017	
+
+	
+Moynihan,	D.,	and	Sack,	P.J.,	2018.	Geological	setting	of	vein‐hosted	gold	occurrences	
+in	eastern	Yukon,	Yukon	Geological	Survey	presentation	at	AME	Roundup,	January	
+22,	2018	
+
+	
+North	 American	 Tungsten	 Corp.,	 n.d.	 Consulted	 December	 2017	 on	
+www.natungsten.com,		
+
+	
+Potts,	 S.,	 2012.	Assessment	Report	 for	 the	Glenmorangie	 exploration	project,	 2011.	
+Watson	Lake	Mining	District,	Yukon	Territory,	YMAR	No.	095747	
+
+
+
+	 	
+
+ 59
+
+	
+Potts,	 S.	 and	McKenzie,	 J.,	 2013.	 Assessment	 report,	 Glenmorangie	 property,	 2012.	
+Watson	Lake	Mining	Division,	Yukon	Territory,	YMAR	No.	096375	
+
+	
+Poulsen,	K.H.,	1996.	Lode	gold:	In:	Geology	of	Canadian	Mineral	Deposit	Types,	(ed.)	
+O.R.	Eckstrand,	W.D.	Sinclair,	and	R.I.	Thorpe;	Geol.	Surv.	of	Canada,	no.	8,	p.	323‐
+328.		
+
+	
+Poulsen,	K.H.	&	Robert,	F	&	Dubé,	B.,	2000.	Geological	classification	of	Canadian	gold	
+deposits.	Geological	Survey	of	Canada	Bulletin.	540,	p.	29	
+
+	
+Robert,	F.,	1996.	Quartz‐carbonate	vein	gold:	in	Geology	of	Canadian	Mineral	Deposit	
+Types,	 (ed.)	O.R.	Eckstrand,	W.D.	Sinclair,	 and	R.I.	Thorpe;	Geol.	 Surv.	of	Canada,	
+no.	8,	p.	350‐366.		
+
+	
+Sack,	 P.J.,	 Kruse,	 S.	 and	 Ferraro,	 D.,	 2018.	 Gold	 occurrences	 on	 the	 Plateau	 South	
+property	 (Yukon	 MINFILE	 105N034,	 035,	 036),	 central	 Yukon.	 In:	 Yukon	
+Exploration	and	Geology	Overview	2017,	K.E.	MacFarlane	(ed.),	Yukon	Geological	
+Survey,	p.	75‐91.	
+
+	
+Yukon	Territorial	Government	2013.	O.I.C.	 2013/224	Quartz	Mining	Act.	 Consulted	
+December	18,	2017	on	http://www.gov.yk.ca/legislation/regs/oic2013_224.pdf	
+
+	
+Yukon	 Geological	 Survey	 n.d.	 MINFILE	 Database.	 Consulted	 December	 2017	 on	
+http://data.geology.gov.yk.ca/	
+
+	 	
+
+
+
+	 	
+
+ 60
+
+20 Certificate of Qualifications, Date and Signature 
+	
+Certificate	of	Author	‐	Marty	Huber	
+
+I,	Marty	Huber,	am	the	author	of	the	report	entitled	"Technical	Report	on	the	Golden	
+Culvert	 and	 Little	 Hyland	 properties,	 Watson	 Lake	 District,	 Yukon	 Territory,	
+Canada.",	dated	February	12,	2018	(the	"Technical	Report"),	and	I	hereby	make	the	
+following	statements:	
+
+• I	am	an	independent	Professional	Geologist	employed	by	Breakaway	Exploration	
+Management	Inc.	
+
+• I	 am	 a	 graduate	 of	 Acadia	 University,	 Nova	 Scotia,	 Canada	 in	 2011	with	 a	 B.Sc.	
+degree	in	Geology.		
+
+• I	am	a	Practicing	Member	of	the	Association	of	Professional	Geoscientists	of	Nova	
+Scotia	(#232);	I	have	practiced	my	profession	in	mineral	exploration	continuously	
+since	graduation;	and	I	have	over	six	years	of	experience	 in	mineral	exploration,	
+production	or	consulting.		
+
+• I	have	read	the	definition	of	"qualified	person"	set	out	in	National	Instrument	43‐
+101	 ("NI	43‐101")	 and	 certify	 that,	 by	 reason	of	my	education,	 affiliation	with	 a	
+professional	 association	 (as	 defined	 in	 NI	 43‐101)	 and	 past	 relevant	 work	
+experience,	I	fulfill	the	requirements	to	be	a	"qualified	person"	for	the	purpose	of	
+NI	43‐101.		
+
+• I	authored	this	Technical	Report	and	am	responsible	for	its	content.	
+
+• I	 personally	 examined	 and	 studied	 the	 literature,	 assessment	 reports	 and	
+company	 surveys	 on	 the	 Golden	 Culvert	 and	 Little	 Highland	 properties	
+(collectively	 the	 "Property")	 of	 Stratabound	 Minerals	 Corp.	 (the	 "Issuer");	 I	 am	
+familiar	with	the	Property;	and	I	was	in	contact	with	Dean	G.	MacEachern,	P.Geo.,	
+and	Mark	Fekete,	P.Geo.,	both	of	whom	were	responsible	for	collecting	significant	
+information	on	the	Property	and	reviewing	this	Technical	Report.		
+
+• I	visited	the	Property	on	September	9	and	10,	2017.	
+
+• I	 have	 prior	 involvement	 with	 the	 Property	 having	 supervised	 a	 soil	 sampling	
+program	for	Stakeholder	Gold	Corp.	in	2011.		
+
+• As	 of	 the	 date	 of	 this	 Certificate,	 to	my	 knowledge,	 information	 and	 belief,	 this	
+Technical	Report	contains	all	scientific	and	technical	information	that	is	required	
+to	be	disclosed	to	make	the	Report	not	misleading.		
+
+	
+
+
+
+ 
+
+
+
+	 	
+
+ 
+
+Appendix I – Yukon Territorial Government Claim Status Report 
+	 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 	
+
+ 
+
+Appendix II ‐ Certificate of Analysis 
+	
+
+	 	
+
+
+
+9050 Shaughnessy St  Vancouver British Columbia V6P 6E5 Canada
+
+PHONE (604) 253-3158
+
+Client:
+
+Submitted By:
+
+Receiving Lab:
+
+Received:
+
+Report Date:
+
+Page:
+
+1740 Chemin Sullivan
+
+Suite 1100
+
+Val d'Or Québec J9P 7H1 Canada
+
+Marty Huber
+
+Canada-Whitehorse
+
+September 11, 2017
+
+Procedure
+
+Code
+
+Code Description Report 
+
+Status
+
+ SAMPLE PREPARATION AND ANALYTICAL PROCEDURES
+
+Test
+
+Wgt (g)
+
+Number of
+
+Samples
+
+Lab
+
+PRP70-250 Crush, split and pulverize 250 g rock to 200 mesh14 WHI
+
+FA450 50g Lead Collection Fire Assay Fusion - AAS Finish Completed5014 VAN
+
+EN002 Environmental disposal charge-Fire assay lead waste14 WHI
+
+AQ251 1:1:1 Aqua Regia digestion Ultratrace ICP-MS analysis Completed1514 VAN
+
+SHP01 Per sample shipping charges for branch shipments14 WHI
+
+BAT01 Batch charge of <20 samples14 WHI
+
+FA550 Lead collection fire assay 50G fusion -  Grav finish Completed502 VAN
+
+ ADDITIONAL COMMENTS
+
+Dean MacEachernCC:
+
+Invoice To:
+
+Client to Pickup Rejects
+
+Client to Pickup Pulps
+
+PICKUP-RJT
+
+PICKUP-PLP
+
+14
+
+Culvert
+
+Number of Samples:
+
+P.O. Number
+
+Shipment ID:
+
+Project:
+
+ SAMPLE DISPOSAL
+
+ CERTIFICATE OF ANALYSIS                               WHI17000833.1
+
+ CLIENT JOB INFORMATION
+
+Breakaway Expl. Mgmt. Inc.
+
+1740 Chemin Sullivan
+
+Suite 1100
+
+Val d'Or Québec J9P 7H1
+
+Canada
+
+1 of 2
+
+October 19, 2017
+
+Breakaway Expl. Mgmt. Inc.
+
+Bureau Veritas Commodities Canada Ltd.
+
+www.bureauveritas.com/um
+
+Bureau Veritas does not accept responsibility for samples left at the laboratory 
+after 90 days without prior written instructions for sample storage or return.
+
+This report supersedes all previous preliminary and final reports with this file number dated prior to the date on this certificate. Signature indicates final approval; preliminary reports are unsigned and should be used for reference only.
+All results are considered the confidential property of the client. Bureau Veritas assumes the liabilities for actual cost of analysis only. Results apply to samples as submitted.
+"*" asterisk indicates that an analytical result could not be provided due to unusually high levels of interference from other elements.
+
+
+
+2 of 2
+
+Culvert
+
+1740 Chemin Sullivan
+
+Suite 1100
+
+Val d'Or Québec J9P 7H1 Canada
+
+Project:
+
+Page:
+
+Report Date:
+
+PHONE (604) 253-3158
+
+9050 Shaughnessy St  Vancouver British Columbia V6P 6E5 Canada
+
+1Part:
+
+October 19, 2017
+
+Client: Breakaway Expl. Mgmt. Inc.
+
+of  2
+
+www.bureauveritas.com/um
+
+Bureau Veritas Commodities Canada Ltd.
+
+ CERTIFICATE OF ANALYSIS                     WHI17000833.1  CERTIFICATE OF ANALYSIS                     WHI17000833.1
+
+MDL
+
+Unit
+
+Analyte
+
+Method WGHT FA450 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251
+
+Wgt Au Mo Cu Pb Zn Ag Ni Co Mn Fe As U Au Th Sr Cd Sb Bi V
+
+kg ppm ppm ppm ppm ppm ppb ppm ppm ppm % ppm ppm ppb ppm ppm ppm ppm ppm ppm
+
+0.01 0.005 0.01 0.01 0.01 0.1 2 0.1 0.1 1 0.01 0.1 0.1 0.2 0.1 0.5 0.01 0.02 0.02 2
+
+1907901 Rock 1.75 <0.005 0.12 7.21 25.26 9.6 27 2.3 1.0 60 0.90 2.9 0.2 <0.2 1.5 3.0 <0.01 0.06 0.12 <2
+
+1907902 Rock 1.28 0.006 0.07 1751.24 11.66 101.1 4579 10.5 7.6 463 1.34 8.1 0.2 2.0 3.6 3.8 1.18 0.09 1.95 5
+
+1907903 Rock 0.93 0.005 0.12 6575.03 31.96 1125.6 13805 19.0 15.5 1322 2.28 18.5 0.6 1.9 3.8 4.9 21.11 0.19 2.43 6
+
+1907904 Rock 1.91 <0.005 0.47 49.25 12.19 166.6 131 33.3 43.6 3881 3.31 8.7 2.0 <0.2 3.0 7.6 0.85 0.05 0.88 13
+
+1907905 Rock 1.94 >10 0.26 22.55 7.48 24.5 794 7.1 3.4 202 1.72 9959.3 0.5 18269.5 4.6 8.7 0.12 4.10 0.62 4
+
+1907906 Rock 1.81 9.357 0.17 2.55 12.90 4.9 659 1.3 0.7 101 0.99 5266.2 0.2 13384.5 1.0 2.0 0.02 2.43 1.74 <2
+
+1907907 Rock 1.17 1.753 0.16 23.65 9.11 58.2 92 18.0 7.6 670 4.10 5732.2 1.0 1521.4 12.0 7.8 0.02 1.68 0.62 13
+
+1907908 Rock 2.00 2.680 0.19 28.82 9.54 70.0 110 25.4 23.8 914 4.50 >10000 2.0 2565.0 12.1 8.1 0.04 2.98 0.97 14
+
+1907909 Rock 1.39 3.358 0.15 8.66 6.31 15.0 89 3.4 1.2 169 1.32 3118.5 0.4 1838.3 1.6 4.8 0.02 1.32 0.26 2
+
+1907910 Rock 2.06 0.565 0.13 9.19 5.64 46.9 71 16.7 3.2 291 2.13 3047.6 2.5 707.1 7.4 10.7 0.11 0.84 2.47 8
+
+1907911 Rock 1.76 1.262 0.19 5.39 3.13 7.1 72 3.3 2.0 103 0.93 4634.5 0.2 1339.3 1.3 7.0 0.03 1.71 1.31 <2
+
+1907912 Rock 2.25 7.374 0.38 41.95 20.37 62.1 369 14.9 9.3 556 3.44 721.4 0.9 7158.5 10.4 6.5 0.04 0.33 0.86 13
+
+1907913 Rock 2.08 0.009 0.32 13.80 27.23 88.5 95 21.7 10.4 2427 4.71 73.3 0.3 <0.2 4.6 129.9 0.13 0.06 0.23 12
+
+1907851 Rock 1.28 0.007 0.13 6.48 15.42 37.5 42 13.0 4.0 730 1.95 177.0 0.2 2.2 0.8 3.4 0.02 0.07 0.12 5
+
+This report supersedes all previous preliminary and final reports with this file number dated prior to the date on this certificate. Signature indicates final approval; preliminary reports are unsigned and should be used for reference only. This report supersedes all previous preliminary and final reports with this file number dated prior to the date on this certificate. Signature indicates final approval; preliminary reports are unsigned and should be used for reference only.
+
+
+
+2 of 2
+
+Culvert
+
+1740 Chemin Sullivan
+
+Suite 1100
+
+Val d'Or Québec J9P 7H1 Canada
+
+Project:
+
+Page:
+
+Report Date:
+
+PHONE (604) 253-3158
+
+9050 Shaughnessy St  Vancouver British Columbia V6P 6E5 Canada
+
+2Part:
+
+October 19, 2017
+
+Client: Breakaway Expl. Mgmt. Inc.
+
+of  2
+
+www.bureauveritas.com/um
+
+Bureau Veritas Commodities Canada Ltd.
+
+ CERTIFICATE OF ANALYSIS                     WHI17000833.1
+
+MDL
+
+Unit
+
+Analyte
+
+Method AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 FA550
+
+Ca P La Cr Mg Ba Ti B Al Na K W Sc Tl S Hg Se Te Ga Au
+
+% % ppm ppm % ppm % ppm % % % ppm ppm ppm % ppb ppm ppm ppm gm/t
+
+0.01 0.001 0.5 0.5 0.01 0.5 0.001 1 0.01 0.001 0.01 0.1 0.1 0.02 0.02 5 0.1 0.02 0.1 0.9
+
+1907901 Rock <0.01 0.011 5.9 3.7 0.06 4.9 <0.001 <1 0.22 0.002 0.03 <0.1 0.5 <0.02 <0.02 <5 <0.1 <0.02 0.5
+
+1907902 Rock 0.03 0.010 10.3 6.7 0.24 15.4 0.001 <1 0.63 0.021 0.07 <0.1 1.1 0.02 0.11 <5 0.1 0.08 2.0
+
+1907903 Rock 0.04 0.016 5.3 9.8 0.22 9.6 0.001 3 0.57 0.025 0.03 <0.1 1.9 <0.02 0.47 <5 0.6 0.09 2.0
+
+1907904 Rock 0.05 0.023 7.8 9.4 0.73 8.7 0.003 <1 1.56 0.016 0.01 <0.1 3.6 <0.02 0.03 <5 <0.1 <0.02 5.8
+
+1907905 Rock 0.07 0.039 12.1 5.1 0.16 16.5 <0.001 <1 0.53 0.010 0.11 0.1 0.8 0.03 0.39 <5 <0.1 0.06 1.7 18.8
+
+1907906 Rock <0.01 0.003 2.8 2.8 0.03 8.1 <0.001 <1 0.11 0.003 0.03 <0.1 0.3 <0.02 0.06 <5 <0.1 0.04 0.4 9.3
+
+1907907 Rock 0.03 0.023 16.1 23.1 0.81 34.6 0.002 <1 1.93 0.020 0.21 0.2 2.2 0.05 0.25 <5 0.1 0.03 5.6
+
+1907908 Rock 0.02 0.015 26.2 19.6 0.90 27.4 0.002 <1 2.05 0.020 0.22 0.3 2.6 0.05 0.56 <5 0.1 <0.02 5.6
+
+1907909 Rock 0.07 0.003 5.6 4.3 0.10 11.5 <0.001 <1 0.31 0.006 0.06 0.1 0.7 <0.02 0.20 <5 0.1 0.02 1.0
+
+1907910 Rock <0.01 0.010 16.3 7.0 0.39 19.6 0.001 1 1.01 0.013 0.13 0.2 1.3 0.03 0.07 <5 <0.1 0.04 3.0
+
+1907911 Rock 0.02 <0.001 2.5 3.2 0.04 8.5 <0.001 <1 0.15 0.004 0.05 <0.1 0.4 <0.02 0.26 <5 <0.1 0.04 0.5
+
+1907912 Rock <0.01 0.012 14.0 15.9 0.60 26.9 0.001 <1 1.57 0.041 0.19 0.1 2.3 0.04 0.38 <5 <0.1 <0.02 5.2
+
+1907913 Rock 2.88 0.151 9.2 12.7 0.71 16.3 0.002 <1 1.56 0.012 0.15 <0.1 13.9 0.03 0.13 <5 0.1 <0.02 4.2
+
+1907851 Rock 0.03 0.012 2.6 4.6 0.26 3.4 <0.001 <1 0.65 0.005 0.02 <0.1 1.4 <0.02 <0.02 5 <0.1 <0.02 2.2
+
+This report supersedes all previous preliminary and final reports with this file number dated prior to the date on this certificate. Signature indicates final approval; preliminary reports are unsigned and should be used for reference only.
+
+
+
+Culvert
+
+1740 Chemin Sullivan
+
+Suite 1100
+
+Val d'Or Québec J9P 7H1 Canada
+
+Breakaway Expl. Mgmt. Inc.Client:
+
+Project:
+
+Report Date:
+
+PHONE (604) 253-3158
+
+9050 Shaughnessy St  Vancouver British Columbia V6P 6E5 Canada
+
+October 19, 2017
+
+Page: 1 of 2 1Part: of  2
+
+www.bureauveritas.com/um
+
+Bureau Veritas Commodities Canada Ltd.
+
+ QUALITY CONTROL REPORT                    WHI17000833.1  QUALITY CONTROL REPORT                    WHI17000833.1
+WGHT FA450 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251
+
+Wgt Au Mo Cu Pb Zn Ag Ni Co Mn Fe As U Au Th Sr Cd Sb Bi V
+
+kg ppm ppm ppm ppm ppm ppb ppm ppm ppm % ppm ppm ppb ppm ppm ppm ppm ppm ppm
+
+0.01 0.005 0.01 0.01 0.01 0.1 2 0.1 0.1 1 0.01 0.1 0.1 0.2 0.1 0.5 0.01 0.02 0.02 2
+
+Pulp Duplicates
+
+1907905 Rock 1.94 >10 0.26 22.55 7.48 24.5 794 7.1 3.4 202 1.72 9959.3 0.5 18269.5 4.6 8.7 0.12 4.10 0.62 4
+
+REP 1907905 QC 0.23 22.25 7.33 22.9 824 7.1 3.4 191 1.70 9940.9 0.5 19765.7 4.2 8.0 0.12 4.02 0.58 4
+
+Core Reject Duplicates
+
+1907906 Rock 1.81 9.357 0.17 2.55 12.90 4.9 659 1.3 0.7 101 0.99 5266.2 0.2 13384.5 1.0 2.0 0.02 2.43 1.74 <2
+
+DUP 1907906 QC >10 0.16 2.36 13.42 4.2 672 1.2 0.6 75 0.91 5031.6 0.1 13851.9 0.9 1.9 0.02 2.25 1.70 <2
+
+Reference Materials
+
+STD AGPROOF Standard
+
+STD DS11 Standard 14.28 153.11 137.18 323.9 1679 77.3 13.9 1016 3.16 42.5 2.8 63.8 8.0 66.9 2.61 7.86 11.90 50
+
+STD OXC129 Standard 1.17 27.65 5.99 40.0 13 78.7 20.3 430 3.09 1.4 0.7 188.7 1.7 211.1 0.03 0.03 <0.02 53
+
+STD OXC145 Standard 0.203
+
+STD OXH139 Standard 1.348
+
+STD OXN117 Standard 7.794
+
+STD SP49 Standard
+
+STD SQ70 Standard
+
+STD OXC129 Expected 1.3 28 6.3 42.9 28 79.5 20.3 421 3.065 0.6 0.72 195 1.9 0.03 0.04 51
+
+STD DS11 Expected 14.6 156 138 345 1710 81.9 14.2 1055 3.2082 42.8 2.59 79 7.65 67.3 2.37 8.74 12.2 50
+
+STD OXN117 Expected 7.679
+
+STD OXC145 Expected 0.212
+
+STD OXH139 Expected 1.312
+
+STD AGPROOF Expected
+
+STD SP49 Expected
+
+STD SQ70 Expected
+
+BLK Blank <0.01 <0.01 <0.01 <0.1 <2 <0.1 <0.1 <1 <0.01 <0.1 <0.1 <0.2 <0.1 <0.5 <0.01 <0.02 <0.02 <2
+
+BLK Blank <0.005
+
+BLK Blank <0.005
+
+BLK Blank
+
+Prep Wash
+
+ROCK-WHI Prep Blank <0.005 0.52 5.49 1.78 36.4 9 1.1 3.9 611 1.79 5.3 0.5 <0.2 2.4 34.3 0.02 0.04 0.02 22
+
+MDL
+
+Unit
+
+Analyte
+
+Method
+
+This report supersedes all previous preliminary and final reports with this file number dated prior to the date on this certificate. Signature indicates final approval; preliminary reports are unsigned and should be used for reference only.
+
+
+
+Culvert
+
+1740 Chemin Sullivan
+
+Suite 1100
+
+Val d'Or Québec J9P 7H1 Canada
+
+Breakaway Expl. Mgmt. Inc.Client:
+
+Project:
+
+Report Date:
+
+PHONE (604) 253-3158
+
+9050 Shaughnessy St  Vancouver British Columbia V6P 6E5 Canada
+
+October 19, 2017
+
+Page: 1 of 2 2Part: of  2
+
+www.bureauveritas.com/um
+
+Bureau Veritas Commodities Canada Ltd.
+
+ QUALITY CONTROL REPORT                    WHI17000833.1
+AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 FA550
+
+Ca P La Cr Mg Ba Ti B Al Na K W Sc Tl S Hg Se Te Ga Au
+
+% % ppm ppm % ppm % ppm % % % ppm ppm ppm % ppb ppm ppm ppm gm/t
+
+0.01 0.001 0.5 0.5 0.01 0.5 0.001 1 0.01 0.001 0.01 0.1 0.1 0.02 0.02 5 0.1 0.02 0.1 0.9
+
+Pulp Duplicates
+
+1907905 Rock 0.07 0.039 12.1 5.1 0.16 16.5 <0.001 <1 0.53 0.010 0.11 0.1 0.8 0.03 0.39 <5 <0.1 0.06 1.7 18.8
+
+REP 1907905 QC 0.07 0.033 11.6 5.7 0.15 14.8 <0.001 <1 0.52 0.010 0.11 0.1 0.9 0.03 0.40 <5 <0.1 0.04 1.6
+
+Core Reject Duplicates
+
+1907906 Rock <0.01 0.003 2.8 2.8 0.03 8.1 <0.001 <1 0.11 0.003 0.03 <0.1 0.3 <0.02 0.06 <5 <0.1 0.04 0.4 9.3
+
+DUP 1907906 QC <0.01 0.003 2.7 2.9 0.03 7.8 <0.001 <1 0.10 0.004 0.03 <0.1 0.4 <0.02 0.06 <5 <0.1 0.04 0.4 14.6
+
+Reference Materials
+
+STD AGPROOF Standard <0.9
+
+STD DS11 Standard 1.08 0.068 19.1 59.2 0.84 357.2 0.107 6 1.20 0.075 0.41 3.1 3.5 4.82 0.28 278 2.1 4.57 5.4
+
+STD OXC129 Standard 0.78 0.103 11.9 49.0 1.50 48.5 0.403 <1 1.65 0.599 0.36 <0.1 1.1 0.03 <0.02 <5 0.1 <0.02 5.4
+
+STD OXC145 Standard
+
+STD OXH139 Standard
+
+STD OXN117 Standard
+
+STD SP49 Standard 18.3
+
+STD SQ70 Standard 40.0
+
+STD OXC129 Expected 0.665 0.102 13 52 1.545 50 0.4 1 1.58 0.6 0.37 0.08 1.1 0.03 5.6
+
+STD DS11 Expected 1.063 0.0701 18.6 61.5 0.85 385 0.0976 1.1795 0.0762 0.4 2.9 3.4 4.9 0.2835 300 1.9 4.56 5.1
+
+STD OXN117 Expected
+
+STD OXC145 Expected
+
+STD OXH139 Expected
+
+STD AGPROOF Expected 0
+
+STD SP49 Expected 18.34
+
+STD SQ70 Expected 39.62
+
+BLK Blank <0.01 <0.001 <0.5 <0.5 <0.01 <0.5 <0.001 <1 <0.01 <0.001 <0.01 <0.1 <0.1 <0.02 <0.02 <5 <0.1 <0.02 <0.1
+
+BLK Blank
+
+BLK Blank
+
+BLK Blank <0.9
+
+Prep Wash
+
+ROCK-WHI Prep Blank 0.68 0.045 8.0 2.6 0.46 88.5 0.098 <1 1.09 0.140 0.13 0.1 3.6 <0.02 0.03 6 <0.1 <0.02 4.1
+
+MDL
+
+Unit
+
+Analyte
+
+Method
+
+This report supersedes all previous preliminary and final reports with this file number dated prior to the date on this certificate. Signature indicates final approval; preliminary reports are unsigned and should be used for reference only.
+
+
+
+Culvert
+
+1740 Chemin Sullivan
+
+Suite 1100
+
+Val d'Or Québec J9P 7H1 Canada
+
+Breakaway Expl. Mgmt. Inc.Client:
+
+Project:
+
+Report Date:
+
+PHONE (604) 253-3158
+
+9050 Shaughnessy St  Vancouver British Columbia V6P 6E5 Canada
+
+October 19, 2017
+
+Page: 2 of 2 1Part: of  2
+
+www.bureauveritas.com/um
+
+Bureau Veritas Commodities Canada Ltd.
+
+ QUALITY CONTROL REPORT                    WHI17000833.1  QUALITY CONTROL REPORT                    WHI17000833.1
+WGHT FA450 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251
+
+Wgt Au Mo Cu Pb Zn Ag Ni Co Mn Fe As U Au Th Sr Cd Sb Bi V
+
+kg ppm ppm ppm ppm ppm ppb ppm ppm ppm % ppm ppm ppb ppm ppm ppm ppm ppm ppm
+
+0.01 0.005 0.01 0.01 0.01 0.1 2 0.1 0.1 1 0.01 0.1 0.1 0.2 0.1 0.5 0.01 0.02 0.02 2
+
+ROCK-WHI Prep Blank <0.005 0.61 3.29 1.27 33.9 5 0.7 3.5 569 1.78 2.0 0.4 <0.2 2.2 22.1 <0.01 0.02 <0.02 25
+
+This report supersedes all previous preliminary and final reports with this file number dated prior to the date on this certificate. Signature indicates final approval; preliminary reports are unsigned and should be used for reference only.
+
+
+
+Culvert
+
+1740 Chemin Sullivan
+
+Suite 1100
+
+Val d'Or Québec J9P 7H1 Canada
+
+Breakaway Expl. Mgmt. Inc.Client:
+
+Project:
+
+Report Date:
+
+PHONE (604) 253-3158
+
+9050 Shaughnessy St  Vancouver British Columbia V6P 6E5 Canada
+
+October 19, 2017
+
+Page: 2 of 2 2Part: of  2
+
+www.bureauveritas.com/um
+
+Bureau Veritas Commodities Canada Ltd.
+
+ QUALITY CONTROL REPORT                    WHI17000833.1
+AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 AQ251 FA550
+
+Ca P La Cr Mg Ba Ti B Al Na K W Sc Tl S Hg Se Te Ga Au
+
+% % ppm ppm % ppm % ppm % % % ppm ppm ppm % ppb ppm ppm ppm gm/t
+
+0.01 0.001 0.5 0.5 0.01 0.5 0.001 1 0.01 0.001 0.01 0.1 0.1 0.02 0.02 5 0.1 0.02 0.1 0.9
+
+ROCK-WHI Prep Blank 0.63 0.038 5.6 1.7 0.49 50.0 0.086 <1 0.98 0.101 0.10 <0.1 3.0 <0.02 0.03 <5 <0.1 <0.02 3.4
+
+This report supersedes all previous preliminary and final reports with this file number dated prior to the date on this certificate. Signature indicates final approval; preliminary reports are unsigned and should be used for reference only.
+
+
+
+	 	
+
+ 
+
+Appendix III ‐ Table of Historical Surface Grab Samples Analyzed for Gold 
+	
+
+Sample 
+No. 
+
+UTM E    
+(NAD 83) 
+
+UTM N    
+(NAD 83) 
+
+Au 
+(ppm) 
+
+As 
+(ppm) 
+
+Sample 
+Type 
+
+DESCRIPTION Date 
+
+C-OC2 531128 6868868 17.3 6620 outcrop MAIN SHOWING - Bull white quartz vein with traces of 
+arsenopyrite and 3%disseminated, fine-grained pyrite cubes. 
+Highest sample up to 22.8gpt Au 
+
+2008 
+
+C-RF4 531107 6868880 9.48 10000  Rusty, white quartz vein cutting meta-sediments. 3 to 5% medium-
+grained pyrite cubes in quartz. 
+
+2008 
+
+C-OC3 531132 6868873 8.28 9010 outcrop Main Showing  2008 
+
+C-RF9T 531064 6868887 6.34 6810  Orangey-white quartz vein with 3 to 5% fine-grained wispy 
+arsenopyrite and rusty- manganese coating on fractures. 
+
+2008 
+
+WP-17 530530 6869790 4.17 2860  Orangey-white quartz vein in phyllite. 2% medium-grained pyrite 
+cubes and possible traces of arsenopyrite. 
+
+2008 
+
+C-OC6 531087 6868844 3.28 6350  green-grey phyllite with 10% quartz veining and 2% fine-grained 
+disseminated pyrite and 1 to 2% arsenopyrite in foliation planes. 
+
+2008 
+
+WP-23B 531265 6868813 3.12 27.3  Brecciated green schistose rock and quartz. Traces of very fine-
+grained pyrite. 
+
+2008 
+
+C-OC5 531087 6868845 2.47 9630  green-grey phyllite with 5% quartz veining and 1-2% fine-grained 
+disseminated pyrite and 1 to 2% arsenopyrite in foliation planes. 
+
+2008 
+
+C-RF1 531262 6868706 1.78 2720  Bull White quartz vein with minor limonite staining and 2% 
+disseminated pyrite. Vein cuts meta-sediment. 
+
+2008 
+
+C-RF8T 531061 6868880 1.775 4090  White quartz vein with pitted-out pyrite vugs filled with limonite and 
+5% medium-grained euhedral pyrite and traces of arsenopyrite. 
+
+2008 
+
+C-OC4 531072 6868848 1.63 93.2  green-grey phyllite with 10% quartz veining and 2% fine-grained 
+disseminated pyrite. 
+
+2008 
+
+C-RF7 531057 6868903 0.31 39  Bull white quartz vein in phyllite. No sulphides evident. 2008 
+
+WP-04 531043 6868480 0.3 55.9  Grey phyllite with 2 mm wide white quartz vein. 2% fine to medium 
+grained pyrite cubes in quartz vein. 
+
+2008 
+
+WP-17A 530533 6869790 0.29 6910  Orangey-white quartz vein in phyllite/meta-sediments. 2% medium-
+grained pyrite cubes and possible traces of arsenopyrite. 
+
+2008 
+
+WP-21 531435 6868545 0.211 116  Sugary, bull white quartz breccia with moderate amount of limonite 
+staining. No sulphides evident. 
+
+2008 
+
+C-OC7 530681 6869842 0.08 2100  Bull white quartz vein with dark grey hematite and traces of 
+arsenopyrite. 
+
+2008 
+
+C-RF10 531070 6868892 0.058 122  Grey phyllite with 1 cm rusty, white quartz vein. No sulphides evident. 2008 
+
+WP-09B 531568 6868482 0.047 527  Brecciated, green schistose rock (meta-volcanic?) with 15% quartz 
+filling (quartz is iron stained) and 3 to 5% coarse, euhedral pyrite. 
+
+2008 
+
+C40-
+ARIDGE 
+
+    0.032  4    Brecciated, siliceous rock with 20% limonite-rich clay filling matrix and 
+vugs. 
+
+2008 
+
+WP-09A 531568 6868482 0.02 66  Bleached meta-sandstone / siltstone with 10% quartz veining and 7 to 
+10% coarse, euhedral, disseminated pyrite cubes. 
+
+2008 
+
+WP-23A 531541 6868937 0.019 21.1  Green phyllite with minor white quartz veining and 5% medium-
+grained euhedral pyrite. 
+
+2008 
+
+CVRT-49     0.019  15    Bull white quartz vein with a sugary texture. Muscovite and weathered 
+pyrite to 10%. 
+
+2008 
+
+WP-19 531713 6868671 0.015 21.2  Bleached meta-sandstone / siltstone with 0.5 cm quartz veining and 5 
+% fine to medium- grained, euhedral, disseminated pyrite cubes in qtz 
+vein and host rock. 
+
+2008 
+
+C-RF5 531523 6869494 0.013 20  Grey, micaceous phyllite with minor quartz veining and traces of very 
+fine-grained pyrite. 
+
+2008 
+
+WP-18 530830 6869963 0.01 31.4  Bleached meta-sandstone / siltstone with 1 cm quartz veining and 15 
+% coarse, euhedral, disseminated pyrite cubes in qtz vein and host 
+rock. 
+
+2008 
+
+C-RF3 529564 6870428 0.008 3.6  Bull white quartz vein in argillite. No sulphides evident. 2008 
+
+WP-03 528017 6867188 0.007 44.1  Dark grey siltstone with yellow-orange clayey coating (after 
+arsenopyrite?). 
+
+2008 
+
+C-RF2 530959 6868904 0.007 20.1    2008 
+
+C-Mo 526570 6875800 0.006 39  1 cm wide, bull white quartz vein with abundant limonite and goethite 
+staining in a micaceous schist. 
+
+2008 
+
+C-BODR     0.004  2.4    Dark grey, shaley phyllite with 3 cm wide bull white quartz vein and 2 
+% medium-grained, pyrite. 
+
+2008 
+
+C-ARF2 527741 6867242 0.003 12.4  Muscovite schist/phyllite with 10 to 15% medium-grained 
+disseminated pyrite cubes. 
+
+2008 
+
+WP-06 531302 6868579 0.003 32  Muscovite schist - metasediment (?). 8 to 10% quartz veining with red 
+iron staining. 5 to 7% medium grained, euhedral pyrite. 
+
+2008 
+
+WP-07 529593 6870312 0.003 37.6  Bull white quartz vein in argillite. Some iron oxide staining on 
+fractures. No sulphides evident. 
+
+2008 
+
+WP-11B 526736 6866452 0.003 14.3  Muscovite schist - metasediment (?). 15 to 20% very coarse grained, 
+euhedral pyrite. 
+
+2008 
+
+C-OC1 529193 6870096 0.003 9.9  Grey phyllite with 1 cm wide white quartz fracture filling. Traces of 
+very fine-grained pyrite in quartz vein. 
+
+2008 
+
+C-ARF1 528842 6867398 0.002 11  Ferricrete cemented breccia. Angular clasts generally less than 1.5 
+cm. Some clasts altered to orange, iron-rich clay. 
+
+2008 
+
+C-ARF3 527269 6866130 0.002 7.1  3 cm wide bull white quartz vein in green, chlorite-rich schistose rock. 
+No sulphides visible. 
+
+2008 
+
+WP-05 531239 6868530 0.002 15.8  Brecciated green schistose rock (meta-volcanic?) with 25% bull-white 
+quartz filling matrix. No sulphides. 
+
+2008 
+
+WP-08 531611 6868413 0.002 0.3  Vuggy, bull white quartz filling with abundant limonite coating. No 
+sulphides evident. 
+
+2008 
+
+WP-10 527182 6866333 0.002 23.7  Green-grey phyllite with minor iron staining on fractures. No sulphides 
+evident. 
+
+2008 
+
+
+
+	 	
+
+ 
+
+Sample 
+No. 
+
+UTM E    
+(NAD 83) 
+
+UTM N    
+(NAD 83) 
+
+Au 
+(ppm) 
+
+As 
+(ppm) 
+
+Sample 
+Type 
+
+DESCRIPTION Date 
+
+WP-11A 526736 6866452 0.002 18.2  Bull white quartz lens in phyllitic schist. 5% coarse euhedral pyrite. 2008 
+
+WP-20 531878 6868833 0.002 22.5  Dark green phyllite with 30% white, wispy quartz veining and 5% 
+coarse-grained pyrite. 
+
+2008 
+
+C-ARF4 527186 6866106 0.001 2.3  Bull white quartz vein in green schistose rock (meta-volcanic?). 2008 
+
+C-RF6 530695 6868632 0.001 3  Bull white quartz vein in phyllite. No sulphides evident. 2008 
+
+RS68 531186 6868794 11.95 10000 outcrop South of main showing. Strike 125 deg, dip SW. Arsenopyrite, pyrite. 2009 
+
+RS56 531130 6868837 7.7 7230 outcrop 14ft chip on main showing Culvert Creek - Two quartz arsenopyrite, 
+pyrite veins+ wall rock between above. Arsenopyrite needles in the 
+(phyllitic) wall rock. Sample INCLUDES 2 quartz veins. 
+
+2009 
+
+RS59 531393 6868627 7.24 10000 float Arsenopyrite needles. Pyrite, arsenopyrite in quartz boulder (2ft x 3ft) 2009 
+
+RS60 531564  6868488  5.01 10000 outcrop  Rusty quartz vein 1ft wide, offset 40m east and paralleling main vein, 
+Strike 120deg to 140deg, dip 90 deg. Silicified wall rock, pyrite & 
+hematite, Arsenopyrite + pyrite in quartz vein, 150m upslope to south 
+of RS59, and 40m East. 
+
+2009 
+
+RS66 531590 6868402 3.72 10000 float Quartz flooded phyllite with pyrite + arsenopyrite needles. 2009 
+
+RS55 531071 6868898 3.51 10000 float Ore. Arsenopyrite & pyrite in quartz vein in soil blast pit (ore). 2009 
+
+RS41 530880 6869489 3.46 7820 outcrop Sandstone, grit. Quartz vein. Arsenopyrite, pyrite. Strike 78deg, dip 
+90 deg. 
+
+2009 
+
+RS58 531175 6868832 1.555 2610   Quartz vein in phyllite. Arsenopyrite, pyrite 1ft wide 2009 
+
+RS65 531235 6868773 1.555 1440 outcrop Quartz vein - 4 inches wide, in flooded phyllite. Strike 130 deg, dip 90 
+deg. Arsenopyrite + pyrite. 
+
+2009 
+
+RS36 527324 6875253 1.485  outcrop 1ft chip across shear in green slate, clay gouge + quartz veinlets + 
+pyrite. 
+
+2009 
+
+RS57 531130 6868837 1.285 6230 outcrop Chip across 8ft (phyllitic) wall rock on main showing between veins. 
+Arsenopyrite. Phyllite with Arsenopyrite needles. Sample EXCLUDES 
+quartz veins (wall rock) 
+
+2009 
+
+RS38 530204 6870000 1.15 10000     2009 
+
+RS35 527108 6875352 0.924  float Arsenopyrite in quartz float downhill in talus for 120m. Sample of 
+quartz in angular boulder (2ft). Arsenopyrite + 
+
+2009 
+
+RS63 529494 6872051 0.877  float Quartz boulder 2ft x 3ft, angular + phyllite, arsenopyrite + pyrite 2009 
+
+RS43 525978 6875650 0.748  float Qtz-Py-Galena float, rusty. Conglomerate zone near Hwy. 2009 
+
+RS44 526013 6875654 0.442  outcrop Quartz pebble conglomerate, 1/8 inch vein with galena + pyrite float. 
+Conglomerate zone near Hwy. 
+
+2009 
+
+RS61A 529461 6871970 0.43  outcrop 4 quartz veins in folded phyllite, 10inches to 2ft wide. Altered wall rock 
+has As. Total width of ABCD is apx 35ft. 
+
+2009 
+
+RS14 526002 6875668 0.365  float Massive arsenopyrite float with quartz in Borrow Pit east of road. 2009 
+
+RS46 530626 6869779 0.35 10000 outcrop Vuggy, quartz veins, 4-6 inches wide in sheared, folded phyllite with 
+Arsenopyrite. 
+
+2009 
+
+RS53 531044 6868938 0.275 2910 outcrop Chip across quartz vein and altered phyllite in blast pit at 600N, 15E. 
+Arsenic needles in phyllite. Pyrite in quartz veins. Chip across 5 ft, 
+strike 320deg, dip 90deg. 
+
+2009 
+
+RS61C 529461 6871970 0.266  outcrop 4 quartz veins in folded phyllite, 10inches to 2ft wide. Altered wall rock 
+has As. Total width of ABCD is apx 35ft. 
+
+2009 
+
+RS61B 529461 6871970 0.265  outcrop 4 quartz veins in folded phyllite, 10inches to 2ft wide. Altered wall rock 
+has As. Total width of ABCD is apx 35ft. 
+
+2009 
+
+RS71 530207 6870001 0.241 10000 float Chip across rusty, quartz boulder. Breccia (?) of quartz and phyllite + 
+patches of arsenopyrite (+/- 1cm) Not ubiquitous. 
+
+2009 
+
+RS18 534590 6862139 0.205  outcrop Brittle quartz vein with yellow staining, 30 ft from contact. 2009 
+
+RS10A 529316 6871803 0.139  float Quartz + arsenopyrite float in 20ft shear 2009 
+
+RS37 530214 6870036 0.134 10000     2009 
+
+RS15 526729 6877002 0.107  float Massive pyrrhotite boulder with quartz. 2009 
+
+RS13 532734 6866958 0.086  float Sheared green phyllite in quartz vein. 2009 
+
+RS61D 529461 6871970 0.083  outcrop 4 quartz veins in folded phyllite, 10inches to 2ft wide. Altered wall rock 
+has As. Total width of ABCD is apx 35ft. 
+
+2009 
+
+RS40 530982 6869490 0.078 10000 float Talus slope, apx. 350E, 1100N. Sandstone, grit, quartz + phyllite. 
+Arsenopyrite + pyrite 
+
+2009 
+
+RS25 526942 6875226 0.067  float Quartz float, rusty, arsenopyrite. 2009 
+
+RS42 530129 6869609 0.062 8170 float Angular quartz boulders (2ft x 3ft). Large float slid 2-10m downhill 
+from source. Rusty, disseminated Arsenopyrite. Grid 425W, 1625N. 
+
+2009 
+
+RS47 530760 6869439 0.053 10000 float Quartz rubble in frost boil Arsenopyrite + pyrite. 2009 
+
+RS54 531040 6868913 0.037 37 float Grab sample in blast pit. Pyrite, Quartz. 6m E on L580N. 2009 
+
+C-RF 11 529647 6870556 0.033 8280 float Quartz, arsenopyrite, pyrite boulder 1 ft x 1 1/2 ft. Float on south side 
+of creek, part way up hill behind camp. 
+
+2009 
+
+RS70 527870 6875967 0.033  ?Outcrop Rusty, intrusive. Quartz + Pyrite + Chalcopyrite?? 2009 
+
+RS8A 528074 6872961 0.027  outcrop Quartz vein (1m wide) with broken-up, scattered 2009 
+
+RS64 531433 6868870 0.026 153 outcrop Rusty quartz in flooded phyllites (Narrow). No Arsenopyrite. Pyrite in 
+vein + wall rock. 
+
+2009 
+
+RS45 526002 6875615 0.025  float Quartz float, 6-inch, angular quartz with arsenopyrite. Conglomerate 
+zone near Hwy. 
+
+2009 
+
+RS62 529966 6872606 0.011  float Intrusive - Rusty pyrite, pyrrhotite float near quartz knob. 2009 
+
+RS74 526714 6878218 0.009  outcrop Quartz vein in shear on NW side of intrusion on contact with shale 2009 
+
+
+
+	 	
+
+ 
+
+Sample 
+No. 
+
+UTM E    
+(NAD 83) 
+
+UTM N    
+(NAD 83) 
+
+Au 
+(ppm) 
+
+As 
+(ppm) 
+
+Sample 
+Type 
+
+DESCRIPTION Date 
+
+vein 2ft wide, dipping NW. Chip across 2ft. Patchy Cpy + Azurite 
+(selective sample). 
+
+RS12 532734 6866960 0.008  outcrop Rusty quartz vein, 2 inches wide, in green phyllite + arsenopyrite 2009 
+
+RS3 529112 6877189 0.006  outcrop Rusty quartz vein (2ft wide) in black shale. 2009 
+
+RS1 531145 6876657 0.005  outcrop Quartz vein. Rusty, cooked, brecciated with fine grain 2009 
+
+RS9 528808 6871621 0.005  outcrop Sheared quartz vein, altered phyllite, Cu staining (malachite) + 
+chalcopyrite. 
+
+2009 
+
+RS11 534212 6864096 0.005  outcrop Rusty quartz vein (1m wide, 6m long?), strike 340 deg. 2009 
+
+RS19 534592 6862113 0.005  outcrop Small, dense, black vein (0.5 inch) in altered intrusive. 2009 
+
+RS22 534715 6861963 0.005  outcrop Quartz vein - 20ft wide by 150ft long. 2009 
+
+RS23 526420 6875134 0.005  float Quartz float in gray slate talus (8ft wide). Galena and minor pyrite. 2009 
+
+RS73 526706 6878230 0.005  outcrop Quartz vein (15 inches wide) with azurite + Cpy + Tetrahedrite. Strike 
+44 deg. 
+
+2009 
+
+RS10B 529316 6871803 0.004  outcrop Arsenopyrite in altered phyllite. 2009 
+
+RS21 534664 6862036 0.004  outcrop Contact between phyllite and intrusives. Rusty red and 2009 
+
+RS72 526779 6878375 0.004  outcrop Black intrusive/volcanics? Rock- soft. Cpy - fine grained. 6ft dyke? 
+Sill? In granite. Strike 213 deg, dip 90 deg. 
+
+2009 
+
+GL4RF 526123 6875915 0.003  float Rusty quartz pebble conglomerate. Hard. 2009 
+
+RS6 527625 6872702 0.003  outcrop Quartz/calcite lens in pale green phyllite. Chalcopyrite & hematite. 2009 
+
+RS16 527353 6877163 0.003  outcrop Quartz stringers in black shale cutting across bedding. 2009 
+
+RS20 534594 6862090 0.003  float Rusty quartz float with minor pyrite. Dense. 2009 
+
+RS24 527004 6875185 0.002  outcrop Chip across 2ft quartz vein in gray phyllite. 2009 
+
+RS27 536856 6858796 0.002  outcrop Rusty shale, dense (30ft thick). 2009 
+
+RS32 536322 6859384 0.002  outcrop Chip sample across 4ft quartz vein in intrusive. Rusty 2009 
+
+GL1RF 533832 6862737 0.001  float Orangish tan, porous rock with quartz pebbles and boulders to 50cm. 2009 
+
+GL2RF 531657 6865596 0.001  float Quartzite grit, fine grain pyrite and quartz, minor rust. 2009 
+
+GL3RF 526009 6875662 0.001  float Quartz pebble conglomerate - float from Borrow Pit, east of hwy. 2009 
+
+GL5RF 535160 6859792 0.001  float Quartz float below quartz vein that can be seen from 2009 
+
+RS2 529014 6877572 0.001  outcrop Rusty quartz vein in shale. 2009 
+
+RS4 528212 6878269 0.001  outcrop Rusty quartz vein. 2009 
+
+RS5 527042 6872442 0.001  outcrop Quartz pebble conglomerate - rusty, bedded in phyllites 2009 
+
+RS7 527951 6873184 0.001  outcrop Quartz vein, 2ft wide, rusty. 2009 
+
+RS8B 528074 6872961 0.001  outcrop Pale green, intrusive dyke. 2009 
+
+RS17 534333 6864493 0.001  outcrop Quartz veins in sheared green slate 1-2 inches wide, 40ft 2009 
+
+RS26 536729 6858502 0.001  outcrop Pyrite, pyrrhotite skarn in phyllite (8 inches by 40 inches) 2009 
+
+RS28 536607 6858444 0.001  outcrop Rusty quartz vein (1-3ft wide, 60ft long) 2009 
+
+RS29 536546 6858343 0.001  outcrop Quartz flooded knob (120x50ft) with cross-cutting veins (1-3ft). Quartz 
+breccia? 
+
+2009 
+
+RS30 536360 6859394 0.001  outcrop Quartz stringers in gray mudstone. Dense, 2ft wide in gully near 
+intrusive. 
+
+2009 
+
+RS31 536349 6859369 0.001  outcrop Dense, fine grained black rock in quartz vein (REE?) 2009 
+
+RS33 538075 6855953 0.001  outcrop Altered intrusive with veins of tourmaline or black tin (cassiterite?) in 
+slide rock. Tuna Stock. 
+
+2009 
+
+RS34 526411 6869457 0.001  float Quartz boulder with green phyllite fragments (3ft). 2009 
+
+RS48 526670 6876924 0.001    1.5m chip on rusty quartz vein in black shale + silicified wall rock. 2009 
+
+RS49 527274 6877126 0.001    Angular gabbro boulders - Cu stained and fine grain. Chalcopyrite - 
+45m NE Ron's plug (Intrusive at bend in Cantung road 50m from 
+road. Gabbro? Pyroxenite? 
+
+2009 
+
+RS51 527505 6876664 0.001  float Net texture sulphides in rusty Gabbro. Pyrrhotite, Cu, magnetite in 
+boulder field above little round lake. 
+
+2009 
+
+RS52 527441 6876473 0.001    Black chert with fine grain calc 2009 
+
+RS75 526725 6878222 0.001  float Black mafic volcanic or pyroxenite float. Sulphides disseminated 
+(source from cliff face 30m up). 
+
+2009 
+
+RS76 526894 6878142 0.001  float Fine grained Intrusive with 5% sulphides. Float on Swag Mountain 
+slope. 
+
+2009 
+
+GL10C 531106 6868887 0.526  Outcrop Green phyllite with arsenopyrite needles beside creek near main 
+golden culvert showing. 2 metres from main quartz outcrop in phyllitic 
+
+2010 
+
+RUFL 8 524618 6878893 0.315  Float Rusty fine grained grey rock with pyrite, minor quartz and yellowish 
+green scordite stain in mini slide 
+
+2010 
+
+GL9RF 534593 6862052 0.038  Float Rusty & yellow partially decomposed quartz occurrence with 1 inch 
+black bands on RE 2 claim opposite km 158 Nahanni Range Road 
+(NRR) 
+
+2010 
+
+RUFL 4 524766 6878098 0.006  Float Rusty quartz boulder on south creek bank 2010 
+
+GL20C 534652 6862073 0.005  Outcrop Red stained rock (red bluffs) with yellow, grey, black and quartz 
+bands on RE 2 claims opposite km 158 NRR. 
+
+2010 
+
+
+
+	 	
+
+ 
+
+Sample 
+No. 
+
+UTM E    
+(NAD 83) 
+
+UTM N    
+(NAD 83) 
+
+Au 
+(ppm) 
+
+As 
+(ppm) 
+
+Sample 
+Type 
+
+DESCRIPTION Date 
+
+RUFL 15 525373 6876789 0.004  Float Rusty grey quartz boulder (2 ft x 3 ft) with pyrite 2010 
+
+RUFL 9 524163 6879673 0.002  Float Brown & yellowish rusty quartz in vuggy shaley phyllite 2010 
+
+RUFL 10 524375 6879296 0.002  Float Rusty brown quartz vuggy from creek 2010 
+
+RUFL 17 522197 6880287 0.002  Float Rusty folded quartz bands 2010 
+
+GL6RF 531720 6868427 0.002  Float Rusty quartz – Golden culvert (73) 2010 
+
+RUFL 2 524677 6880500 0.001  Float Rusty quartz with pyrite 2010 
+
+RUFL 3 524596 6877877 0.001  Float Grey, rusty fine grained rock with quartz veins and pyrite 2010 
+
+RUFL 7 524590 6877525 0.001  Float Rusty quartz banding in grey fine grained rock 2010 
+
+RUFL 12 523869 6877732 0.001  Float 4 ft. 5 ft. mafic black boulder, rusty, brownish black, may be ultra 
+mafic 
+
+2010 
+
+RUFL 13 523501 6880342 0.001  Float Rusty quartz (5 inch diameter) 2010 
+
+RUFL 14 523803 6880380 0.001  Float Rusty quartz from creek 2010 
+
+RUFL 16 525565 6876573 0.001  Float Rusty quartz boulder (8 inch diameter) 2010 
+
+RUFL 1 525874 6877501 0.001  Float Phyllite with pyrite and quartz veining 2010 
+
+RUFL 5 524931 6878127 0.001  Float Rusty quartz and pyrite in grey boulder from creek 2010 
+
+RUFL 6 524533 6877489 0.001  Float Rusty quartz and pyrite in grey boulder from creek 2010 
+
+RUFL 11 523892 6877664 0.001  Float Large quartz exposure, rusty brown patches plus green specs @ 
+base of esker 
+
+2010 
+
+GL7RF 526097 6875646 0.001  Float Rusty quartz conglomerate (line 1 geophysics) 2010 
+
+GL8RF 529639 6868037 0.001  Float Rusty quartz with large pyrite crystals on west side of road (km 166) 
+opposite picket L17+00W, 5 + 50 N 
+
+2010 
+
+	
+	
+
+
+'

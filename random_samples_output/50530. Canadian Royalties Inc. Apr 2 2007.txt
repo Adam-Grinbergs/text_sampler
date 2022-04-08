@@ -1,0 +1,4811 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+untitled
+
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+TECHNICAL REPORT 
+AND RESOURCE ESTIMATE UPDATE  
+
+ON THE 
+EXPO Ni-Cu-PGE DEPOSIT 
+
+RAGLAN SOUTH NICKEL PROJECT 
+NUNAVIK, QUEBEC 
+
+ 
+For 
+
+ 
+CANADIAN ROYALTIES INC 
+
+ 
+ 
+
+By 
+ 
+
+P & E Mining Consultants Inc. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NI-43-101 & 43-101F1 
+TECHNICAL REPORT No 129 
+ 
+Ms. Tracy Armstrong, P. Geo. 
+Mr. Eugene Puritch, P. Eng. 
+Mr. Antoine Yassa, P. Geo. 
+ 
+Report No. 129 
+Effective Date: December 24, 2006 
+Signing Date:   February 26, 2007 
+
+
+
+  
+
+ IMPORTANT NOTICE 
+ 
+This report was prepared as a National Instrument 43-101 Technical Report, in accordance with 
+Form 43-101F1, for Canadian Royalties Inc. ("CRI") by P & E Mining Consultants Inc 
+("P&E"). The quality of information, conclusions and estimates contained herein is consistent 
+with the level of effort involved in P&E's services and based on: i) information available at the 
+time of preparation, ii) data supplied by outside sources, and iii) the assumptions, conditions, 
+and qualifications set forth in this report. This report is intended to be used by CRI, subject to 
+the terms and conditions of its contract with P & E. This contract permits CRI to file this report 
+as a Technical Report with Canadian Securities Regulatory Authorities pursuant to National 
+Instrument 43-101, Standards of Disclosure for Mineral Projects. Any other use of this report by 
+any third party is at that party's sole risk. 
+
+
+
+  
+
+TABLE OF CONTENTS 
+ 
+EXECUTIVE SUMMARY ........................................................................................................... i 
+ 
+1.0 INTRODUCTION AND TERMS OF REFERENCE................................................................. 1 
+
+1.1 TERMS OF REFERENCE .............................................................................................. 1 
+1.2 SOURCES OF INFORMATION .................................................................................... 2 
+1.3 UNITS AND CURRENCY............................................................................................... 2 
+
+ 
+2.0 RELIANCE ON OTHER EXPERTS........................................................................................... 3 
+ 
+3.0 PROPERTY DESCRIPTION AND TENURE............................................................................ 4 
+ 3.1 DESCRIPTION AND TENURE ..................................................................................... 4 
+ 
+4.0 LOCATION, ACCESS, CLIMATE, PHYSIOGRAPHY AND INFRASTRUCTURE........... 7 
+ 4.1 LOCATION AND ACCESS ............................................................................................ 7 
+ 4.2 CLIMATE AND PHYSIOGRAPHY .............................................................................. 7 
+ 4.3 INFRASTRUCTURE ....................................................................................................... 8 
+ 
+5.0 HISTORY AND PREVIOUS EXPLORATION ....................................................................... 11 
+ 5.1 HISTORY........................................................................................................................ 11 
+ 5.2 2001 TO 2004 EXPLORATION WORK BY CANADIAN ROYALTIES ................ 11 
+
+ 5.2.1 CORE RESAMPLING PROGRAM................................................................ 11 
+ 5.2.2 GRID AND DRILL COLLAR VERIFICATION PROGRAM..................... 12 
+
+  5.2.3 GEOPHYSICS 2002, 2003, 2004 ...................................................................... 13 
+ 5.3 2003 AND 2004 DIAMOND DRILL PROGRAMS..................................................... 13 
+ 5.4 PREVIOUS RESOURCE ESTIMATES ...................................................................... 14 
+ 5.5 PREVIOUS FEASIBILITY STUDIES ......................................................................... 15 
+ 5.6 PREVIOUS METALLURGICAL TESTING.............................................................. 15 
+
+ 5.6.1 1969 METALLURGICAL TEST ON EXPO AND RON ROY..................... 15 
+ 5.6.2 2004 METALLURGICAL TEST ON EXPO NET-TEXTURED ................. 15 
+
+ 
+6.0 GEOLOGICAL SETTING......................................................................................................... 17 
+ 6.1 REGIONAL GEOLOGY ............................................................................................... 17 
+ 6.2 LOCAL GEOLOGY....................................................................................................... 19 
+ 6.3 EXPO DEPOSIT GEOLOGY ....................................................................................... 22 
+ 
+7.0 DEPOSIT TYPES ........................................................................................................................ 29 
+ 
+8.0 MINERALIZATION................................................................................................................... 31 
+ 
+9.0 EXPLORATION.......................................................................................................................... 33 
+ 
+10.0 DRILLING ................................................................................................................................... 34 
+ 
+11.0 SAMPLING METHOD AND APPROACH.............................................................................. 37 
+ 
+12.0 SAMPLE PREPARATION, ANALYSES AND SECURITY .................................................. 38 
+ 
+13.0 DATA VERIFICATION ............................................................................................................. 39 
+ 13.1 SITE VISIT AND INDEPENDENT SAMPLING ....................................................... 39 
+ 13.2 CORE RECOVERY ....................................................................................................... 40 
+ 13.3 DATABASE VERIFICATION...................................................................................... 41 
+ 13.4 QUALITY ASSURANCE AND QUALITY CONTROL ............................................ 41 
+ 
+14.0 ADJACENT PROPERTIES ....................................................................................................... 43 
+
+
+
+  
+
+15.0 2006 METALLURGICAL PROCESSING AND METALLURGICAL TESTING.............. 46 
+ 15.1 EXPO/MESAMAX BLEND TEST FOR FLOTATION AND GRINDABILITY .... 46 
+ 
+16.0 P & E 2006 RESOURCE ESTIMATE....................................................................................... 48 
+ 16.1 INTRODUCTION .......................................................................................................... 48 
+ 16.2 DATABASE..................................................................................................................... 48 
+
+16.3 DATA VERIFICATION ................................................................................................ 48 
+16.4 DOMAIN INTERPRETATION.................................................................................... 49 
+16.5 ROCK CODE DETERMINATION.............................................................................. 49 
+16.6  COMPOSITES................................................................................................................ 49 
+16.7 GRADE CAPPING......................................................................................................... 50 
+16.8 VARIOGRAPHY............................................................................................................ 50 
+16.9 BULK DENSITY ............................................................................................................ 51 
+16.10 BLOCK MODELING .................................................................................................... 51 
+16.11 RESOURCE CLASSIFICATION................................................................................. 52 
+16.12 RESOURCE ESTIMATE .............................................................................................. 53 
+16.13 CONFIRMATION OF ESTIMATE ............................................................................. 56 
+
+ 
+17.0 OTHER RELEVANT DATA AND INFORMATION ............................................................. 58 
+ 
+18.0 CONCLUSIONS AND RECOMMENDATIONS..................................................................... 59 
+
+18.1 CONCLUSIONS ............................................................................................................. 59 
+18.2  RECOMMENDATIONS................................................................................................ 59 
+
+ 
+19.0 REFERENCES............................................................................................................................. 62 
+ 
+20.0 CERTIFICATES ......................................................................................................................... 67 
+ 
+LIST OF APPENDICES 
+ 
+APPENDIX- I: SURFACE DRILL HOLE PLAN .................................................................... 70 
+APPENDIX –II: 3 DIMENSIONAL DOMAIN SOLIDS............................................................ 72 
+APPENDIX-III: STATISTICAL GRAPHS................................................................................. 74 
+APPENDIX-IV: Ni, Cu AND NSR BLOCK CROSS SECTIONS............................................. 99 
+APPENDIX-V:  Ni, Cu  AND NSR BLOCK PLANS ............................................................... 115 
+APPENDIX-VI:  CLASSIFICATION BLOCK CROSS SECTIONS ...................................... 122 
+APPENDIX-VII: CLASSIFICATION BLOCK PLANS............................................................ 128 
+APPENDIX-VIII: PROPOSED DRILLING ................................................................................ 131 
+ 
+LIST OF FIGURES 
+Figure 4.1: Photo of Expo Camp ............................................................................................................... 9 
+Figure 4.2: Regional and Detailed Location Map of Expo Property.................................................... 10 
+Figure 6.1: Regional Geology of South Raglan Trend........................................................................... 18 
+Figure 6.2: Property Geology of Expo Deposit....................................................................................... 21 
+Figure 6.3: Detailed Deposit Scale Geology ............................................................................................ 24 
+Figure 6.4: Detailed Gemcom Cross Section 9940 E.............................................................................. 25 
+Figure 6.5: Detailed Gemcom Cross Section 10120 E............................................................................ 26 
+Figure 6.6: Schematic Cross Section 9820 E .......................................................................................... 27 
+Figure 6.7: Schematic Cross Section 10360 E......................................................................................... 27 
+Figure 6.8: Schematic Cross Section 10540 E......................................................................................... 28 
+Figure 7.1: Isometric Showing Origins of Canoe-Shaped Mineralized Dikes of the EIS ................... 30 
+Figure 10.1: Plan Map Showing 2005 and 2006 Diamond Drilling at Expo........................................ 36 
+Figure 13.1: Independent Sample Verification Results for Nickel ....................................................... 39 
+Figure 13.2: Independent Sample Verification Results for Copper ..................................................... 40 
+Figure 13.3: Independent Sample Verification Results for Combined PGE ....................................... 40 
+Figure 14.1: Geology of the Raglan Mine Deposits................................................................................ 45 
+
+
+
+  
+
+LIST OF TABLES 
+ 
+Table 3-1: List of Individual Properties Comprising the Raglan South Nickel Project....................... 4 
+Table 3-2: Map Designated Units Covering the Expo Deposit ............................................................... 5 
+Table 5-1: Diamond Drill Holes on the Expo Deposit up to 2004......................................................... 13 
+Table 5-2: Historical Reserve/Resource Estimates 1969 and 1997 ....................................................... 14 
+Table 5-3: Metallurgical Projections of Expo Net-Textured Mineralization ...................................... 16 
+Table 10-1: 2005 Significant Drill Intercepts ......................................................................................... 34 
+Table 10-2: 2006 Significant Drill Intercepts ......................................................................................... 35 
+Table 15-1: Results of Best Locked Cycle Test Expo/Mesamax Blend ................................................ 47 
+Table 16-1: Data Verification Statistics .................................................................................................. 48 
+Table 16-2: Grade Capping Values ......................................................................................................... 51 
+Table 16-3: Block Model Interpolation Parameters .............................................................................. 51 
+Table 16-4: Grade Block Classification Coding ..................................................................................... 52 
+Table 16-5: Resource Estimate @ CDN$ 40/tonne NSR Cut-Off Grade ............................................. 55 
+Table 16-6: Comparison of Weighted Average Grade of Capped Assays and Composites with 
+
+Total Block Model Average Grade ...................................................................................... 56 
+Table 18-1: 2007 Diamond Drilling Preliminary Budget ...................................................................... 60 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc. i  
+CZZ-Expo Report No. 129 
+
+EXECUTIVE SUMMARY 
+ 
+The following report was prepared to provide an NI 43-101 compliant Technical Report and 
+independent Resource Estimate of the nickel, copper, cobalt and platinum group elements – PGE 
+(combined gold, platinum and palladium) mineralization at the Expo deposit, Expo-Ungava 
+Property, Nunavik, Quebec, Canada (the "Property"), part of the Raglan South Nickel Project 
+(the "Project").  
+ 
+Canadian Royalties Inc. ("CRI") holds extensive mineral rights in what is referred to 
+geologically as the South Raglan Trend, covering an area of approximately 1,040 square 
+kilometres.  
+ 
+The Expo deposit itself is situated on claim map 35 H/11 (Lac Rinfret), and consists of 500 Map 
+Designated Units (MDU's) covering an area of 20,570 hectares. 
+ 
+Expo is located approximately 80 kilometres west of the village of Kangiqsujuaq, (also known as 
+Wakeham Bay) in the northern Québec region of Nunavik, and is centred at latitude 61o 33' N, 
+and longitude 73o 27' W,  (6,825,550 N and 582,250 E in UTM NAD83 Zone 18).  
+ 
+Air Inuit and First Air have daily air service from Montreal and Val-d'Or to the coastal 
+communities of Kuujjuaq, Salluit and nearby Kangiqsujuaq (Wakeham Bay). Air service from 
+Salluit also connects to the community of Radisson in the James Bay hydroelectric development 
+area. 
+ 
+Heavy equipment, fuel and freight can be shipped to the coastal towns by boat (sea lift), with 
+arrivals from July to October. In earlier years, CRI used the Xstrata Deception Bay port facility 
+for sea lifts of fuel, supplies, and heavy equipment, but since 2004 they have used the facilities at 
+Douglas Harbour, which is located 60 kilometres northeast of Expo.  
+ 
+The Expo-Ungava Property, and the claims covering the Expo deposit area, are under option to 
+CRI from Ungava Minerals Corp. and its wholly-owned subsidiary, Ungava Exploration Inc. 
+(together referred to as "Ungava Minerals"). As of the date of this Technical Report, CRI has 
+earned an initial 70% interest in the Expo-Ungava Property, which was acquired under an 
+agreement (the "Expo-Ungava Option Agreement") dated January 12, 2001 among the 
+corporation, Ungava Minerals Exploration Inc. (formerly Ungava Exploration Inc.), Ungava 
+Minerals Corp. (the two aforementioned companies hereinafter together referred to as "Ungava 
+Minerals", Gogama Gold Inc., and 582556 Alberta Inc. Gogama Gold and 582556 Alberta Inc. 
+executed the Expo-Ungava option Agreement for the purpose of vending to Canadian Royalties 
+an underlying 2% NSR royalty. 
+ 
+The general area of ultramafic-hosted nickel-copper-PGE deposits in northern Nunavik covering 
+the Raglan Trend and the South Raglan Trend has been explored since the mid 1950's. 
+ 
+Canadian Royalties acquired the property in 2001 and that field season they undertook a program 
+of evaluating the historical diamond drill core from exploration programs completed in 1967-
+1971 and 1997 by Expo Ungava Mines, Amax and High North in the Expo deposit area. 
+Concurrently, they undertook a complete grid and drill collar location verification program. 
+ 
+In 2003 and 2004 CRI completed surveys of the historical and most new drill hole locations, grid 
+line locations and topographic elevation data to provide an accurate plan map of drill hole collar 
+
+
+
+ 
+
+P & E Mining Consultants Inc. ii  
+CZZ-Expo Report No. 129 
+
+locations and elevations. From this, a basic contour map was prepared for the deposit area, and 
+the grid was referenced to UTM coordinates.  
+ 
+As part of the general exploration program by CRI on the South Raglan Trend, a substantial 
+program of surface diamond drilling was completed in 2003 and 2004 that covered the entire 
+known area of mineralization at Expo. Sixty-seven holes for a total of 6,747 metres were drilled 
+in 2003 and forty-three holes for a total of 4,825 metres were drilled in 2004. Eight holes were 
+twinned in 2003 and 2004, duplicating three holes originally drilled in 1967 and five holes 
+originally drilled in 1968.  
+ 
+The Cape Smith Belt in which the Expo deposit occurs is an interpreted foreland thrust-fold belt 
+that constitutes the north-eastern extension of the Trans-Hudson Orogen, an early Proterozoic 
+collision zone, which separates the Archean Superior Province from the Proterozoic Churchill 
+Province. The Trans-Hudson Orogen includes the Thompson Nickel Belt of Manitoba, and the 
+New Quebec Orogen (Labrador Trough) on opposite sides of the Superior Province. The Cape 
+Smith (Ungava) Belt extends for 375 kilometres in an east-west direction across the Ungava 
+Peninsula of Nunavik. The greenschist facies foreland portion of the belt is divided into three 
+structurally superimposed Proterozoic units, from south to north and oldest to youngest: 
+Lamarche, Povungnituk and Chukotat Groups. The amphibolite grade hinterland is divided into 
+four structurally superimposed Proterozoic units from south to north; Sparton, Parent, Perreault, 
+and Watts Groups. 
+ 
+The Cape Smith Belt hosts two roughly parallel belts of intrusive ultramafic rocks, the Raglan 
+Trend in the north and the South Raglan Trend in the south, some 15 to 20 kilometres apart. Both 
+belts host a number of individual sulphide deposits developed in the ultramafic rocks that contain 
+nickel (Ni), copper (Cu), cobalt (Co) and platinum-group elements (PGE). While the general 
+geology of the South Raglan Trend and Raglan Trend is similar with comparable sulphide 
+mineral paragenesis and with similar sulphide textures, the Ni-Cu ratios are different. The 
+Raglan horizon displays a 3:1 Ni-Cu ratio that contrasts with that of the South Raglan Trend, 
+which is generally closer to parity. 
+ 
+An extensive, irregular body of ultramafic rocks, typically 500 metres wide in outcrop and 
+termed the Expo Intrusive Suite (EIS) by Mungall (2004), characterizes the general Expo area. 
+The EIS "forms a complex of overlapping gabbroic dikes, ultramafic replacement bodies, dunite 
+pipes, and sill-like peridotite massifs ... in the area surrounding the Expo Ungava deposit". The 
+northern member or branch of the EIS, which contains the Expo deposit extends for a distance of 
+nearly nine kilometres in an east-north-easterly direction and bifurcates several times, enclosing 
+what appear to be large "horses" of host rock. There is an intimate association with a gabbro 
+phase that, based on the mapping, becomes the dominant rock type along strike both to the north-
+east and the southwest. The southern member, with a west-north-westerly strike, has been traced 
+for a distance of at least five kilometres and joins the northern branch toward the west. The host 
+rocks in the general Expo area are predominantly meta-sediments and the northern part of the 
+EIS is clearly cross-cutting the folded host rocks, while its southern counterpart appears to be 
+mostly conformable, at least in plan view. 
+ 
+The local geology is dominated by the northern branch of the EIS, with the Expo deposit hosted 
+by the northern split of the branch to the north of a large inclusion of sediments. This northern 
+split averages about 200 metres wide on surface, and is trough-shaped in cross section with the 
+southern contact usually steeper (sometimes near-vertical) compared to the shallower, northern 
+contact. The essentially flat or somewhat undulating bottom of the central part of the trough is 
+
+
+
+ 
+
+P & E Mining Consultants Inc. iii  
+CZZ-Expo Report No. 129 
+
+usually at a depth of about 100 metres. This local part of the EIS that contains the Expo deposit 
+is referred to as the Expo peridotite. 
+ 
+The mineral occurrences along the South Raglan Trend including the Expo deposit as well as 
+those of the Raglan Trend to the north belong to the class of magmatic sulphide deposits. 
+ 
+Four types of mineralization have been identified at Expo, of which three are of economic 
+interest: 
+ 
+
+1. The upper part of the Expo peridotite shows low-grade disseminated sulphide 
+mineralization throughout. Metal values in this material are typically in the range of 0.2% 
+for each of nickel and copper, 0.02% for cobalt, and 0.1, and 0.4 grams per tonne (g/t) for 
+platinum and palladium, respectively, with very low gold concentrations. The average 
+sulphur concentration is approximately 1.5%. This upper part is referred to as the 
+disseminated domain. 
+
+ 
+2. A net-textured domain shows elevated sulphide concentrations, and usually a relatively 
+
+sharp contact with the surrounding disseminated mineralization. There is no discernable 
+change in host rock chemistry at this contact. The net-textured domains have been 
+defined by core logging based on textural observations and total sulphide estimates; 
+information which was later supplemented by assay information to better define the 
+boundary. While the net-textured domain tends to occupy the lower part of the overall 
+Expo peridotite, there is often a zone of low-grade, disseminated mineralization between 
+the lower contact of the net-textured domain and the lower contact of the overall 
+peridotite. Net-textured mineralization is developed within the Expo peridotite over a 
+strike length of nearly 900 metres, extending from section 9790 E in the west to section 
+10660 E in the east. In cross section, the north-south extent of the net-textured 
+mineralization is usually from 100 to 125 metres. The average length of intersection in 
+this material is 16 metres which in many cases is close to the true width of the unit. 
+
+ 
+3. Net textured to massive sulphide accumulations constitute a 9:1 ratio. The contact of the 
+
+net-textured mineralization with the massive sulphides is even sharper than with the 
+disseminated material. Small accumulations/short intersections of massive sulphides 
+occur on nearly every section.  
+
+ 
+4. The fourth and volumetrically smallest domain consists of vein-like mineralization that is 
+
+found predominantly in the eastern part of the deposit, and usually at the lower and 
+northern contacts of the Expo peridotite with the surrounding sediments. There is some 
+question as to the continuity of these vein swarms. In some cases, continuity is indicated 
+by the occurrences of vein-domain mineralization at the same structural/stratigraphic 
+position in more than one drill hole and on more than one section. In other cases, 
+surrounding holes are devoid of such mineralization. Sulphide vein intersections have 
+been found up to 50 metres below the footwall of the peridotite, but these remote 
+occurrences appear to be of local extent only. 
+
+ 
+Petrographic work (Walker 2004a, 2004b) identified pyrrhotite (FeS) as the main sulphide 
+mineral, followed by pentlandite ([Fe,Ni]S) and chalcopyrite (CuFeS2). Pentlandite occurs 
+generally as a separate mineral and only rarely as exsolution lamellae in pyrrhotite. Pentlandite 
+appears to be the main cobalt carrier. Niccolite (NiAs) and violarite (Ni, Fe)3S4 occur only rarely 
+or are entirely absent. Intergrowth of both pentlandite and chalcopyrite with silicate minerals, 
+
+
+
+ 
+
+P & E Mining Consultants Inc. iv  
+CZZ-Expo Report No. 129 
+
+particularly with serpentine, can be intricate. Magnetite (Fe3O4) is a minor constituent of the 
+rock, the result of the breakdown of the original olivine into serpentine plus magnetite. 
+ 
+In 2005 and 2006, the company continued with their exploration work. In 2005, 31 holes were 
+drilled for a total of 6,152 metres. In 2006, 44 holes were drilled, including 8 geotechnical holes, 
+four of which were sampled and included in the resource estimate.  
+ 
+A Pulse EM geophysical survey was undertaken in 2005 in diamond drill holes EX-05-119, 121, 
+124, 131 and 137. A fixed loop survey was also done. One target resulting from the two 
+geophysical surveys was tested with no significant values being intersected in the hole. 
+ 
+Half drill core samples of Expo mineralization were sent to SGS Lakefield in January, 2006 and 
+again in April, 2006 with the goal of investigating grindability and flotation characteristics of 
+blended Expo and Mesamax mineralization. Of principal interest was the metallurgical response 
+to coarsening primary grind while maintaining acceptable concentrate recovery and grade. 
+Results of the study are reported in "SGS Lakefield Report 10749-004 Report 8", dated August 
+8, 2006. 
+ 
+Three locked cycle tests were completed. Results from the best test, LCT1 are presented in the 
+following table. 
+ 
+Product Mass
+
+% Cu % Ni % Pt g/t Pd g/t Cu %  Ni % Pt g/t Pd g/t
+Copper Concentrate 4.85 26.10 1.02 1.91 21.10 84.80 3.50 15.70 43.80
+Ni Bulk Concentrate 10.00 1.25 10.30 2.69 8.82 8.40 74.00 45.40 37.70
+Final Tailings 85.15 0.12 0.37 0.27 0.51 6.80 22.50 39.00 18.50
+Head (calculated) 100.00 1.50 1.38 0.59 2.34 100.00 100.00 100.00 100.00
+
+Assays Distribution, %
+
+ 
+ 
+The Cu concentrate recovered 85% of the copper and graded 26% Cu and 1% Ni. The Ni bulk 
+concentrate recovered a further 8% of the copper and 74% of the nickel and graded 10.3% Ni 
+and 1.3% Cu. A 12% Ni concentrate could be generated, but nickel recovery would be poor, in 
+the range of 60-65%. Overall platinum and palladium recoveries were approximately 61% and 
+82% respectively. Detailed concentrate analysis identified no potential penalty elements for a 
+smelter.  
+ 
+The current resource estimate was derived from applying an NSR cut-off grade to the block 
+model within a Whittle 4X optimized pit shell and reporting the resulting tonnes and grade for 
+potentially mineable areas. The total resources for all domains are reported below at a CDN$ 
+40/tonne NSR Cut-Off Grade. 
+ 
+Indicated and Inferred Resources at CDN$ 40/tonne NSR Cut-Off Grade 
+ 
+
+ 
+Classification 
+
+ 
+Tonnes 
+
+Ni 
+(%) 
+
+Cu 
+(%) 
+
+Co 
+(%) 
+
+Au 
+(g/t) 
+
+Pt 
+(g/t) 
+
+Pd 
+(g/t) 
+
+NSR 
+($/t) 
+
+Indicated 8,562,000 0.76 0.76 0.04 0.08 0.32 1.36 $103.68 
+Inferred 478,000 0.81 0.83 0.04 0.07 0.32 1.33 $107.03 
+
+Based on the geological continuity and grade of the nickel, copper, cobalt and PGE mineralized 
+material, the authors believe an excellent potential exists to place the Expo deposit into 
+production at the completion of the permitting applications, a bankable feasibility study, (BFS) 
+and an environmental and social impact analysis (ESIA), which are currently underway. 
+
+
+
+ 
+
+P & E Mining Consultants Inc. v  
+CZZ-Expo Report No. 129 
+
+There are presently 0.5 million tonnes in the Inferred category. Canadian Royalties should 
+continue drilling to upgrade the Inferred resources to Indicated, though the impact on the deposit 
+tonnage will be minimal. There are many gaps in the deposit due to an absence of drilling and a 
+minimal amount of drilling should be done to acquire information in these areas. 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 1 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+1.0 INTRODUCTION AND TERMS OF REFERENCE 
+ 
+1.1 TERMS OF REFERENCE 
+ 
+The following report was prepared to provide an NI 43-101 compliant Technical report and 
+independent Resource Estimate of the nickel, copper, cobalt and platinum group elements – PGE 
+(combined gold, platinum and palladium) mineralization at the Expo deposit, Raglan South 
+Nickel Project, Nunavik, Quebec, Canada (the "Project").  
+ 
+The Expo-Ungava Property (the "Property"), and the claims covering the Expo deposit area, are 
+under option to CRI from Ungava Minerals Corp. and its wholly-owned subsidiary, Ungava 
+Exploration Inc. (together referred to as "Ungava Minerals"). As of the date of this Technical 
+Report, CRI had earned an initial 70% interest in the Expo-Ungava Property, pursuant to an 
+arbitration award in 2003. Additional information on property tenure is discussed in Section 2.1 
+of this Technical Report.  
+ 
+This report was prepared by P & E Mining Consultants Inc., ("P&E") at the request of Mr. 
+Richard R. Faucher, President, Canadian Royalties Inc. Canadian Royalties is a Montreal based 
+company trading on  the Toronto Stock Exchange (TSX) under the symbol of "CZZ", with its 
+corporate office at: 
+ 
+800, boul. Rene Leves que Ouest, Suite 1525 
+Montreal, Quebec,  
+H3B 1X9  
+ 
+Tel:  514-879-1688 
+Fax: 514-879-1795 
+ 
+This report is considered current as of December 24, 2006. 
+ 
+Mr. Eugene Puritch, P.Eng. and Ms. Tracy Armstrong, P.Geo. of P&E Mining Consultants Inc., 
+both qualified persons under the terms of NI 43-101, conducted a site visit to the Property from 
+August 17-20, 2006. An independent assay sample verification sampling program was conducted 
+by the authors at that time. 
+ 
+In addition to the site visit, P&E carried out a study of all relevant parts of the available literature 
+and documented results concerning the project and held discussions with technical personnel 
+from the company regarding all pertinent aspects of the project.  The reader is referred to these 
+data sources, which are outlined in the "Sources of Information" section of this report, for further 
+detail on the project. 
+ 
+The purpose of the current report is to provide an independent Technical Report and Resource 
+Estimate of the nickel, copper, cobalt and platinum group elements mineralization present in the 
+Expo deposit, in conformance with the standards required by NI 43-101 and Form 43-101F. The 
+estimate of mineral resources contained in this report conforms to the CIM Mineral Resource and 
+Mineral Reserve definitions (December, 2005) referred to in National Instrument (NI) 43-101, 
+Standards of Disclosure for Mineral Projects. 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 2 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+1.2 SOURCES OF INFORMATION 
+ 
+This report is based, in part, on internal company technical reports, and maps, published 
+government reports, company letters and memoranda, and public information as listed in the 
+"References" Section 19.0 at the conclusion of this report. Several sections from reports authored 
+by other consultants have been directly quoted in this report, and are so indicated in the 
+appropriate sections. P&E has not conducted detailed land status evaluations, and has relied upon 
+previous qualified reports, public documents and statements by Canadian Royalties regarding 
+property status and legal title to the project. 
+ 
+1.3 UNITS AND CURRENCY 
+ 
+Unless otherwise stated all units used in this report are metric. Nickel, copper and cobalt assay 
+values are reported in percent ("%") and PGE are reported in combined grams per tonne unless 
+some other unit is specifically stated. The CDN$ is used throughout this report unless stated 
+otherwise and the final resource numbers were derived from a Net Smelter Return Royalty, 
+(NSR) cut-off.  
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 3 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+2.0 RELIANCE ON OTHER EXPERTS 
+ 
+The authors wish to make clear that they are qualified persons only in respect of the areas in 
+this report identified in their "Certificates of Qualified Persons" submitted with this report to 
+the Canadian Securities Administrators. The authors have relied, and believe that they have a 
+reasonable basis to rely, upon the following individuals who have contributed the legal, 
+environmental, marketing and taxation information stated in this report, as noted below: 
+ 
+Mr. Bruce Durham,  
+Vice President Exploration and Business Development, 
+Canadian Royalties Inc. 
+ 
+Mr. Glen Schlyter 
+Project Manager, Raglan South Nickel Project,  
+Canadian Royalties Inc. 
+ 
+Although copies of the tenure documents, operating licenses, permits, and work contracts were 
+reviewed, an independent verification of land title and tenure was not performed.  P & E has not 
+verified the legality of any underlying agreement(s) that may exist concerning the licenses or 
+other agreement(s) between third parties but has relied on the clients solicitor's to have 
+conducted the proper legal due diligence. 
+ 
+A draft copy of the report has been reviewed for factual errors by the client and P&E has relied 
+on Canadian Royalties' historical and current knowledge of the property in this regard. Any 
+changes made as a result of these reviews did not involve any alteration to the conclusions made. 
+Hence, the statement and opinions expressed in this document are given in good faith and in the 
+belief that such statements and opinions are not false and misleading at the date of this report. 
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 4 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+3.0 PROPERTY DESCRIPTION AND TENURE 
+ 
+3.1 DESCRIPTION AND TENURE 
+ 
+The Expo deposit lies on one of the Raglan South Nickel Project properties located 
+approximately 80 kilometres west of the village of Kangiqsujuaq, (also known as Wakeham Bay) 
+in the northern Québec region of Nunavik, and is centred at latitude 61o 33' N, and longitude 73o 
+27' W,  (6,825,550 N and 582,250 E in UTM NAD83 Zone 18).  
+ 
+Canadian Royalties holds extensive mineral rights in what is referred to geologically as the South 
+Raglan Trend, covering an area of approximately 1,040 square kilometres.  
+ 
+A list of the individual properties comprising CRI's Raglan South Nickel Project and their 
+respective areas is presented in the following table. 
+ 
+Table 3-1: List of Individual Properties Comprising the Raglan South Nickel Project 
+ 
+P r o p e r t y  N a m e #  C l a i m s A c r e s S q .  K m . H e c t a r e s
+6 7 ' s 2 8 2 , 8 4 6 1 2 1 1 5 1 . 9
+A r b i t r a t i o n 2 9 2 , 9 5 1 1 2 1 1 9 4 . 2 4
+B é l i v e a u 1 0 1 1 0 , 3 1 9 4 2 4 1 7 6 . 2 4
+B l a z e r s 7 3 7 , 4 1 3 3 0 3 0 0 0 . 0 4
+B r e a k a w a y 5 4 5 , 4 9 8 2 2 2 2 2 4 . 8 9
+C a m p  C Z Z 3 3 0 4 1 1 2 3
+C o l t s 1 0 1 , 0 1 3 4 4 0 9 . 9 5
+C o u g a r s 1 7 1 , 7 2 8 7 6 9 9 . 2
+C o u r n o y e r 5 8 5 , 9 1 1 2 4 2 3 9 1 . 9 5
+C r o c o d i l e  T e a r s  E a s t 8 5 8 , 6 6 3 3 5 3 5 0 5 . 6 7
+C r o c o d i l e  T e a r s  W e s t 9 5 8 , 7 0 5 3 5 3 5 2 2 . 8 2
+D r y d e n 1 1 1 , 1 2 0 5 4 5 3 . 1 5
+E a s t  B r i d g e 1 4 , 8 8 3 2 0 1 9 7 6
+E x p o  U n g a v a 5 0 0 5 0 , 8 2 8 2 0 6 2 0 5 6 9 . 8 1
+E x p o  U n g a v a  W e s t 1 2 9 8 4 4 3 9 8 . 2 2
+G a m a c h e 1 1 2 1 0 , 6 7 7 4 3 4 3 2 0 . 9 6
+G e n e r a l s 1 9 1 , 9 3 4 8 7 8 2 . 5 1
+G i a n t s 7 6 7 , 7 3 0 3 1 3 1 2 8 . 4 2
+G i r a f f e 8 5 8 , 6 4 6 3 5 3 4 9 8 . 9 8
+G r e y  G o o s e 1 1 2 1 1 , 3 9 2 4 6 4 6 1 0 . 4 2
+G r e y h o u n d s 8 8 1 1 3 3 2 8 . 2 8
+H i t m e n  1 6 1 , 6 2 3 7 6 5 6 . 9
+I c e 3 2 3 , 2 5 1 1 3 1 3 1 5 . 7 1
+L a c  C h a s s e 4 4 4 , 4 6 0 1 8 1 8 0 4 . 8 8
+L a c  F e l i x  N E 3 6 3 , 6 4 8 1 5 1 4 7 6 . 4 1
+L a f l e u r 8 2 8 , 3 4 9 3 4 3 3 7 8 . 7
+N e w  F o r e u r s  E a s t 5 3 5 , 3 8 1 2 2 2 1 7 7 . 7 2
+N e w  F o r e u r s  W e s t 4 3 4 , 3 6 4 1 8 1 7 6 5 . 9 2
+O l y m p i q u e s 1 6 1 , 6 3 2 7 6 6 0 . 3 2
+O t t e r s 1 2 1 , 2 1 8 5 4 9 2 . 8 2
+P a t s 1 4 1 , 4 2 4 6 5 7 6 . 3 9
+P h o e n i x 1 5 0 1 4 , 4 8 6 5 9 5 8 6 2 . 2 1
+P l a t t e r s 2 1 2 , 1 3 8 9 8 6 5 . 4 1
+R e b e l s 6 6 6 , 7 3 3 2 7 2 7 2 4 . 7 3
+R i c h a r d 4 9 4 , 9 9 2 2 0 2 0 2 0 . 2 9
+R o b i n s o n 1 1 7 1 1 , 8 9 4 4 8 4 8 1 3 . 2 6
+R o c k e t s 3 2 3 , 2 6 0 1 3 1 3 1 9 . 1 8
+R o n  R o y  W e s t 7 1 7 , 2 1 2 2 9 2 9 1 8 . 8 4
+S o u t h  T r e n d 8 1 8 , 2 6 3 3 3 3 3 4 4 . 1 3
+S t i n g 3 2 3 , 2 4 4 1 3 1 3 1 2 . 8
+V i c e n z a 2 2 2 , 2 4 0 9 9 0 6 . 6 2
+W h e a t  K i n g s 2 7 2 , 7 4 0 1 1 1 1 0 8 . 8 9
+G r a n d  T o t a l 2 5 0 5 2 5 6 , 9 0 7 1 0 4 0 1 0 3 9 6 8 . 7 8  
+
+ 
+The Expo property, on claim map 35 H/11 (Lac Rinfret), consists of 500 Map Designated Units 
+(MDU's) covering an area of 20,570 hectares.  
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 5 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+Details of the ten MDU's covering the Expo deposit specifically are summarized in Table 3-2.  
+ 
+Table 3-2: Map Designated Units Covering the Expo Deposit 
+ 
+MDU No. Area NTS Map Range Lot Date Due Date
+
+(hectares) Sheet Recorded
+1005319 41.10 35 H/11 8 4 April 10, 2001 April 9, 2009
+1005320 41.10 35 H/11 8 5 April 10, 2001 April 9, 2009
+1005321 41.10 35 H/11 8 6 April 10, 2001 April 9, 2009
+1005322 41.10 35 H/11 8 7 April 10, 2001 April 9, 2009
+1005323 41.10 35 H/11 8 8 April 10, 2001 April 9, 2009
+1006320 41.11 35 H/11 7 4 April 10, 2001 April 9, 2009
+1006321 41.11 35 H/11 7 5 April 10, 2001 April 9, 2009
+1006322 41.11 35 H/11 7 6 April 10, 2001 April 9, 2009
+1005281 41.12 35 H/11 7 7 April 10, 2001 April 9, 2009
+1005282 41.12 35 H/11 7 8 April 10, 2001 April 9, 2009
+Total 411.07  
+ 
+CRI entered into an option and joint venture agreement (the "Option and JV Agreement") dated 
+January 12, 2001, with Ungava Minerals Corp. and its wholly owned subsidiary, Ungava 
+Mineral Exploration Inc. (together referred to as "Ungava Minerals"), and with Gogama Gold 
+Inc. (Gogama), and 582556 Alberta Inc. Pursuant to this agreement, Ungava Minerals, Gogama 
+and  582556 Alberta Inc. granted to CRI an option to acquire up to an 80% interest in the Expo-
+Ungava Property by incurring progressive exploration expenditures of $1,750,000 over four 
+years (to earn an initial 70% interest) and by delivering a bankable feasibility study on the Expo-
+Ungava Property (to earn an additional 10%). As of the date of this Technical Report, CRI had 
+earned the initial 70% interest in the Expo-Ungava Property. The Option and JV Agreement 
+stipulates that upon CRI reaching the 80% interest, CRI and Ungava Minerals shall form a joint 
+venture. In the event that Ungava Minerals does not contribute its pro rata share of expenditures, 
+CRI will acquire an additional 1% interest in the Expo-Ungava property for each $150,000 in 
+additional expenditures made by CRI on behalf of Ungava Minerals. If Ungava Minerals' 
+interest is reduced to 10%, its interest will automatically be converted to a 1% net smelter return  
+(NSR) royalty, and CRI, at its option, may purchase the NSR during a twelve-month period 
+following the commencement of commercial production, at a cost of $1.5 million. 
+ 
+Additionally, on January 12, 2001, CRI purchased the underlying 2% NSR interest in the Expo-
+Ungava Property held in equal parts by Gogama and 582556 Alberta Inc. (the "Gogama NSR") 
+for a total consideration of $50,000. 
+ 
+3.2 LITIGATION 
+ 
+CRI has advised that since 2002 it has continuously defended ongoing litigation with Ungava 
+Minerals.  The purpose of the 2002 action by Ungava Minerals was to annul the Option and JV 
+Agreement described in Section 3.1 for the purpose of re-acquiring its interest in the Expo-
+Ungava Property.  On October 31, 2002, CRI announced that a judgment had been rendered for 
+this action in favour of CRI, thereby preserving all of CRI's rights and entitlements to the Expo-
+Ungava Property.  Notwithstanding this judgment, Ungava Minerals continued to pursue several 
+actions with the intent of re-acquiring the Expo-Ungava Property.  All of these actions were 
+settled in favour of CRI, including an award confirming the vesting of CRI with respect to CRI's 
+70% interest in the Expo-Ungava Property. 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 6 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+In December 2004, CRI won a third arbitration award, again securing CRI's interest in the Expo-
+Ungava Property.  Subsequent to such third arbitration award, Ungava Minerals issued a news 
+release on March 17, 2005 wherein Ungava Minerals stated that it would not appeal this award, 
+and that it would commence working with CRI in a more cooperative manner. 
+ 
+CRI has advised that Gogama, a private company indirectly related to Ungava Minerals through 
+the common ownership and direction of two individuals, commenced legal proceedings against 
+CRI at the end of 2002 for the return of its 1% NSR interest in the Gogama NSR.  To date, this 
+action remains pending in the Superior Court of Quebec. 
+ 
+In April 2006, CRI further advised that 582556 Alberta Inc. also commenced legal proceedings 
+against CRI for the return of its 1% NSR interest in the Gogama NSR.  This action was initiated 
+in the Ontario Superior Court of Justice.  The case was dismissed at CRI's request, but 582556 
+Alberta Inc. has since filed a Motion for Leave to Appeal the decision dismissing their case on its 
+face value.   
+ 
+In December 2006, CRI filed a Motion to Institute Proceedings against each of Ungava 
+Minerals' current and ex officers and directors of Ungava Minerals.  With this Motion, CRI is 
+asking the Superior Court of Quebec to declare Ungava Minerals and other defendants to be 
+vexatious litigants so as to force them to ask the Courts for leave prior to instilling any further 
+proceedings against CRI.  Additionally, CRI is seeking damages for the loss CRI had to sustain 
+due to Ungava Minerals' continuous litigation.  This action is still pending before the Quebec 
+Superior Court. 
+ 
+The information in this section has been provided by CRI, and other than in our role as expert 
+witnesses in the question of the earn-in by CRI as described in Section 3.1 above, we have no 
+direct knowledge of, nor have independently verified, the information provided in this section 
+pertaining to any legal proceedings regarding the Expo-Ungava Property. 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 7 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+4.0 LOCATION, ACCESS, CLIMATE, PHYSIOGRAPHY AND INFRASTRUCTURE 
+ 
+4.1 LOCATION AND ACCESS 
+ 
+The Expo deposit area is located approximately 80 kilometres west of the village of 
+Kangiqsujuaq, (also known as Wakeham Bay) in the northern Québec region of Nunavik and 
+approximately 15 kilometres south of the Katinniq Mine, part of the Raglan operations of Xstrata 
+Nickel, a subsidiary of Xstrata PLC, (formerly Falconbridge Ltd.) The property is centred at 
+latitude 61o 33' N, and longitude 73o 27' W, (6,825,550 N and 582,250 E in UTM NAD83 Zone 
+18).  
+ 
+Air Inuit and First Air have daily air service from Montreal and Val-d'Or to the coastal 
+communities of Kuujjuaq, Salluit and nearby Kangiqsujuaq (Wakeham Bay). Air service from 
+Salluit also connects to the community of Radisson in the James Bay hydroelectric development 
+area. 
+ 
+Project logistics have been facilitated by the permission by Xstrata Nickel to use the nearby 
+Donaldson airstrip, and service between Montreal and Val-d'Or via these airlines to Donaldson 
+is provided on a weekly basis. CRI also charters weekly and bi-weekly flights from Montreal and 
+Val-d'Or to Donaldson during the summer months to support the exploration programs.  
+ 
+The property can also be reached by helicopter from all the coastal villages. Daily fieldwork 
+requires helicopter support. 
+ 
+In 2005, CRI constructed an access road from the Deception Bay / Katinniq / Donaldson / 
+Douglas Harbour road network south to the Mesamax Deposit, which has improved access to the 
+Mesamax and Expo areas. 
+ 
+In addition, CRI has applied for permission to construct an additional access road in the summer 
+of 2007 from Katinniq south to the Expo Deposit, which will reduce the requirement for 
+helicopter support to the Expo area. CRI has applied to the Ministère du Développement durable, 
+de l'Environnement et des parcs for a Certificate of Authorization to build the access road. The 
+request has been forwarded to the Kativik Environmental Quality Commission. CRI is currently 
+awaiting the delivery of a Declaration of Exemption from an environmental impact study from 
+the Ministère du Développement durable, de l'Environnement et des parcs. 
+ 
+4.2 CLIMATE AND PHYSIOGRAPHY 
+ 
+The Expo-Ungava Property is located on a broad plateau, in an area of gently rolling topography 
+north of the tree line, within the Povungnituk Range. The topography is characterized by 
+moderate to steep east-west trending ridges and valleys. Vegetation consists of sparse shrubs, 
+plants and grasses, which grow to less than 25 centimetres in height. Outcrop ridges are 
+generally bare rock, devoid of vegetation, where outcrop or subcrop is commonly reduced to 
+heaps of frost-heaved blocks and boulders. The low areas between outcrop ridges are typically 
+flat, grass-covered tundra traversed by small streams. The entire area is affected by permafrost 
+resulting in widespread soil solifluction, (a type of creep that takes place in regions where the 
+ground freezes to a considerable depth and as it thaws during the warm seasons the upper thawed 
+position creeps downhill over the frozen material. The soil moves as a viscous liquid down 
+slopes of as little as 2 or 3 degrees and may carry rocks of considerable size in suspension), and 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 8 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+soil polygons. At Raglan, the permafrost reaches a depth of 400 metres, and the average rock 
+temperature is -6 Cº (Falconbridge Annual Report 1998). The elevation is 550-600 metres above 
+sea level and the relief is subdued and ranges from 50 to 75 metres. Overburden in the area is 
+generally less than 20 metres in thickness (from drill hole information). The climate of the area is 
+harsh, with summer (July and early August) temperatures ranging from 0 Cº to 20 Cº while 
+winter temperatures range from 0 Cº to -50 Cº. Snow can accumulate in any month of the year, 
+and parts of some sheltered ridges can remain snow covered throughout the year. The field 
+season for surface exploration activities optimally lasts the months of June, July, August and 
+early September, with some early winter snow expected in late August and early September. The 
+area is subject to strong wind conditions and periods of dense fog. 
+ 
+4.3 INFRASTRUCTURE 
+ 
+Heavy equipment, fuel and freight can be shipped to the coastal towns by boat (sea lift), with 
+arrivals from July to October. In earlier years, CRI had used the Xstrata Deception Bay port 
+facility for sea lifts of fuel, supplies, and heavy equipment, but since 2004 they have used the 
+facilities at Douglas Harbour, which is located 60 kilometres northeast of Expo.  
+ 
+A typical spring sea lift consists of 200 tonnes of supplies, including 3000 drums of fuel, drilling 
+supplies, non-perishable food, and other project equipment. Supplies are transported by truck 
+from Douglas Harbour to within 15 kilometres of the Expo site. In summer, a helicopter is 
+required to move the supplies the remaining distance, while in winter supplies can be moved on 
+land across the frozen tundra by tracked and all wheel drive off road vehicles. 
+ 
+Canadian Royalties maintains a fleet of heavy equipment to facilitate logistics and road 
+construction.  
+ 
+The original exploration camp established by Expo Ungava Mines and Amax in 1967 to 1969 is 
+situated near the south margin of the deposit area. CRI has re-habilitated many of the original 
+structures, with the addition of facilities so that the camp can accommodate 32 people. 
+Generators, running water, logging facilities, a satellite communications system, an office, and a 
+larger hangar/warehouse for helicopter maintenance have also been added to the site by CRI, 
+(see photo 4.1). 
+
+
+
+ 
+
+P & E Mining Consultants Inc.        Page 9 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+Figure 4.1: Photo of Expo Camp  
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 10 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+Figure 4.2 Regional and Detailed Location Map of the Expo Property 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 11 of 132 
+CZZ-Expo Report No. 129 
+
+5.0 HISTORY AND PREVIOUS EXPLORATION 
+ 
+5.1 HISTORY 
+ 
+The general area of ultramafic-hosted nickel-copper-PGE deposits in northern Nunavik covering 
+the Raglan Trend and the South Raglan Trend has been explored since the mid 1950's. Initial 
+field work consisting of ground geophysics and surface sampling undertaken by New Quebec 
+Mining and Exploration in 1957 indicated the possible importance of the Mequillon area. This 
+was also the date of the first PGE assays on the property. There is no recorded work in the area 
+from 1958 until 1967, when Expo Ungava Mines Ltd. staked the areas identified as being of 
+interest in 1957. After completing a magnetometer survey, eight holes were drilled that 
+discovered the deposit and provided a first impression of its character, predominantly in the 
+western part. A more ambitious drilling program was conducted by Expo Ungava Mines Ltd. in 
+1968 that consisted of 35 surface drill holes and essentially outlined the deposit over a strike 
+length of 600 metres.  
+ 
+Amax Exploration Inc. (Amax) became manager of the Expo project in 1968 and drilled a further 
+32 holes designed to probe possible extensions of the deposit. Results were disappointing. Amax 
+also carried out a preliminary feasibility study at that time, including preliminary metallurgical 
+test work and open-pit mining studies. There were a very minor number of holes drilled in 1970 
+and a significant program in the Cominga area (Expo complex west end) in 1971.  
+ 
+The region was mapped by the Geological Survey of Canada in the years 1985 to 1987 at a scale 
+of 1: 50 000.  
+ 
+In 1997 High North Resources Inc. and Ungava Minerals Corp. undertook a confirmatory drill 
+program (5 holes) and produced a resource estimate for the Expo deposit which post-dated the 
+original one done by Amax in 1969. 
+ 
+The Expo area was covered by several airborne geophysical surveys that were completed over 
+portions of the Project. The surveys were performed by different exploration companies between 
+1957 and 1995 as an initial effort to locate conductive target areas and to outline the favourable 
+ultramafic rocks. A modern survey by Sial Geoscience Inc. covered the deposit and adjacent 
+areas in 1995. The airborne surveys generally combined a magnetic and an electromagnetic (EM) 
+component. Survey line spacing was relatively wide due to the anticipated size of an individual 
+massive sulphide lens. The depth of detection was less than 100 metres, which, when combined 
+with the wide line spacing, limited the effectiveness of these surveys to identify massive sulphide 
+targets.  
+ 
+5.2 2001 TO 2004 EXPLORATION WORK BY CANADIAN ROYALTIES 
+ 
+5.2.1 CORE RESAMPLING PROGRAM 
+ 
+In the summer of 2001, CRI undertook a program of evaluating the historical diamond drill core 
+from exploration programs completed in 1967-71 and 1997 by Expo Ungava Mines, Amax and 
+High North in the Expo deposit area (Durham, 2005). This evaluation was facilitated by the 
+nearly complete preservation of most of the historical diamond drill core at the site, including the 
+remains of the original core logging facility. The core was generally in reasonable condition, 
+most of it stored in the original waxed cardboard core boxes. Most of the boxes appeared to have 
+been left undisturbed for more than 30 years however in perhaps two dozen cases it appeared that 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 12 of 132 
+CZZ-Expo Report No. 129 
+
+certain well-mineralized pieces of drill core were missing, having been scavenged either by the 
+original operators or by other exploration companies. The core boxes were generally stacked by 
+hole and by using the readable outside markings, the footage markers, the historical diamond 
+drillhole logs, and the available sample tags, the core of most holes could be re-constructed. CRI 
+staff found that the sampling of the best mineralized intervals had been quite thorough although 
+some lesser mineralized material had not been sampled.  
+ 
+On the basis of these observations, a program of check sampling was undertaken in the summer 
+of 2001 by CRI personnel. Care was taken to select for re-sampling only those intervals that 
+could be positively identified as to drillhole number and depth in the hole. Mineralized material 
+was sampled by splitting core in half that had not been previously sampled or had been originally 
+sampled by filleting, or by removing the remaining split core interval from the boxes. Samples 
+were bagged, tagged with part one of three-segment numbered sample tags, stored in shipping 
+bags and eventually brought south to Val-d'Or at the end of the field season (September 2001). 
+The samples were then delivered to XRAL Assay Laboratories in Rouyn-Noranda (XRAL) for 
+analysis. The remaining 1967-71 diamond core and the core from the 1997 program remains on 
+site undisturbed at this time. 
+ 
+Of the originally more substantial Expo assay database generated prior to the CRI drill 
+campaigns, a modest 375 assays survive in the current assay database. The strongly diminished 
+incidence of the old assay data is due to the program of re-sampling and re-assaying described 
+above, and the drilling of eight twin holes in 2003 and 2004, duplicating three holes originally 
+drilled in 1967 and five holes originally drilled in 1968. The historical data that were repeated by 
+CRI by re-assaying, re-sampling or re-drilling, were removed from the database and replaced 
+with the new data.  
+ 
+The re-sampling and twin drilling produced a substantial database from which to gauge the 
+integrity of the 1967, 1968 and 1969 assay data for nickel and copper that remain in the database. 
+ 
+5.2.2 GRID AND DRILL COLLAR VERIFICATION PROGRAM 
+ 
+Concurrently with the core re-sampling program, CRI undertook a complete grid and drill collar 
+location verification program. In 1997 High North Resources check surveyed a few identifiable 
+drillhole locations. With these data, CRI was able to re-establish the original grid in 2002. In 
+2003, 2004 and 2006 CRI completed surveys of the historical and of most new drillhole 
+locations, grid line locations and topographic elevation data to provide an accurate plan map of 
+drill hole collar locations and elevations. From this, a basic contour map was prepared for the 
+deposit area, and the grid was referenced to UTM coordinates.  
+ 
+The designation of the exploration grid over the Expo deposit, originally established in the 
+imperial system, was changed to the metric system prior to the 2004 field season. No changes 
+were made to the physical layout of the grid. The nominal basic section spacing in the metric 
+system is thirty metres, which reflects the original one hundred-foot spacing, and as a result the 
+location and name of a particular section are not exactly coincident. 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 13 of 132 
+CZZ-Expo Report No. 129 
+
+5.2.3 GEOPHYSICS 2002, 2003, 2004 
+ 
+In 2002 CRI completed electromagnetic (Max Min) and magnetometer surveys on the re-
+established grid. The surveys showed strong conductivity responses at the north and south 
+margins of the Expo peridotite and produced a strong magnetic anomaly over the deposit. In 
+2003, a time-domain, more deeply penetrating moving-loop (TDEM) survey was carried out by 
+Discovery Geophysics Inc. in an effort to define extensions to the deposit. 
+ 
+Also in 2003, a modern airborne survey using the AeroTEM system was flown on behalf of CRI 
+by Aeroquest Limited of Milton, Ontario totalling 4,376 line-kilometres over the entire South 
+Raglan Trend, including the Expo area. The AeroTEM is a time domain EM system in 
+"Coincident Loop" configuration that uses a triangular shape primary pulse that records the 
+decaying secondary magnetic field both in the "OFF" and in the "ON" part of the cycle. The 
+vertical and the horizontal (along track) components are read. The system also includes a 
+magnetometer, a GPS locator, and a radar altimeter. The survey platform was an "A-Star" 
+AS350B+ helicopter. The "bird" housing the survey equipment had a nominal ground clearance 
+of 17 metres. The Expo deposit responded to the survey as a series of EM anomalies 
+preferentially located along the northern and southern contacts of the peridotite host rocks, 
+confirming the earlier Max Min results. The anomalies appeared to be nearly continuous for a 
+strike length of 900 metres, which is the extent of the deposit.  
+ 
+Additional TDEM surveys in 2004 covered the south peridotite body, and a test gravity survey 
+was carried out over the Expo deposit. The results revealed a weak and broad gravity high over 
+the Expo deposit, but it is currently uncertain whether this represents simply the Expo peridotite 
+or whether the deposit is also contributing to the response.  
+ 
+5.3 2003 AND 2004 DIAMOND DRILL PROGRAMS 
+ 
+As part of the general exploration program by CRI on the South Raglan Trend, a substantial 
+program of surface diamond drilling was completed in 2003 and 2004 that covered the entire 
+known area of mineralization at Expo. Sixty-seven holes for a total of 6,747 metres were drilled 
+in 2003 and forty-three holes for a total of 4,825 metres were drilled in 2004. 
+ 
+All of the drill programs at Expo completed to the end of 2004 are summarized in the following 
+table. 
+ 
+
+Table 5-1: Drill Holes on the Expo Deposit up to 2004 
+ 
+
+Year Company 
+Type of 
+Drilling 
+
+Core 
+Size 
+
+Number of 
+holes 
+
+Length 
+(metres) 
+
+1967 Expo Ungava DDH AXT 8 731
+1968 Expo Ungava DDH AXT 35 3,281
+
+1969 Amax DDH AXT 34 5,439
+
+1997 High North DDH BQ 6 1, 023
+
+2003 CRI DDH BQ 67 6,747
+
+2004 CRI DDH BQ 43 4,825
+
+   193 22,046
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 14 of 132 
+CZZ-Expo Report No. 129 
+
+The drill contractor in 2003 and 2004 was Major who used JKS 300 wireline drill rigs equipped 
+to recover BQ-sized core. All core logging and core splitting was completed in a core tent at the 
+Expo camp to which the core boxes were transported by helicopter. The drill core was logged by 
+CRI personnel Todd Keast, Mike Collins, Myles Johnson, Pat Pope, Greg Huffman and Marcus 
+Ralph. Discussions and observations between the geologists ensured consistent unit 
+identification. The distance between the depth markers added by the drill personnel was 
+measured to check for misplaced markers and for lost core. All logging information was 
+recorded directly into laptop computers. Core intervals identified for sampling were marked with 
+wax crayons, with sample tags placed at the start of a sample interval. Logging and sampling in 
+2003 was in the imperial system (feet, inches), continuing the tradition at Expo, but was switched 
+to the metric system in 2004. 
+ 
+The sample length in obvious mineralization was generally 1.5 metres (five feet) in 2003, 
+reducing to one metre in 2004. Individual samples were not allowed to cross lithologic contacts 
+or abrupt changes in mineralization. Core was split in half using a hydraulic core splitter. After 
+splitting, core samples were immediately placed in plastic sample bags, tagged and recorded with 
+unique sample numbers. Where possible, contiguous sample tag series were used. Sample 
+intervals were recorded on sample ticket books, and later recorded on the computerized drill 
+logs.  
+ 
+There were no obvious drilling, sampling or recovery factors that would impact the reliability of 
+the core samples. The even distribution of the sulphides in all types of mineralization ensures 
+that the samples are of high quality and representative of the material or mineralization being 
+sampled. 
+ 
+For a complete and detailed account of the 2003 and 2004 diamond drill programs, the reader is 
+referred to a previous technical report and resource estimate titled "Technical Report on the 
+Mineral Resource Estimate Expo Nickel-Copper Deposit, Nunavik, Quebec", dated August 8th, 
+2005 and authored by T. Keast and H. Thalenhorst. This report is filed on SEDAR. 
+ 
+5.4 PREVIOUS RESOURCE ESTIMATES 
+ 
+There are several historical estimates of mineral resources for the Expo Deposit reported in 1969 
+and 1997 by various operators. A table of the estimates is presented below.  
+ 
+Table 5-2: Historical Reserve/Resource Estimates 1969 and 1997 
+ 
+Company Year Category Short tons Ni (%) Cu (%)
+
+(1,000's)
+Amax Exploration 1969 Optimized Pit resource 19000 0.50 0.50
+École Polytechnique de Montreal 1969 Reserve Estimate 16300 0.40 0.50
+High North & Ungava Minerals 1997  Indicated 9500 0.60 0.80
+High North & Ungava Minerals 1997 Inferred 7600 0.60 0.80  
+ 
+These reserve and resource calculations were done before the application of NI 43-101 and are 
+considered by the authors to be historical in nature. They are no longer considered relevant and 
+have been replaced by the NI 43-101 compliant resources as reported in Section 16.0 of this 
+report. 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 15 of 132 
+CZZ-Expo Report No. 129 
+
+5.5 PREVIOUS FEASIBILITY STUDIES 
+ 
+Amax undertook a preliminary feasibility study in 1969, which included preliminary 
+metallurgical test work and open pit mining optimization studies. The results of the feasibility 
+study were not available; however the metallurgical test is summarized below. Details of the 
+Optimized Pit Resource were also not available but the final resource number is presented in 
+Table 5-2 above. 
+ 
+5.6 PREVIOUS METALLURGICAL TESTING 
+ 
+5.6.1 1969 METALLURGICAL TEST ON EXPO AND RON ROY DISSEMINATED 
+
+AND MASSIVE SULPHIDE MINERALIZATION 
+ 
+In 1969 and 1970, Amax, in conjunction with Expo-Ungava, undertook metallurgical tests on 
+both massive and disseminated mineralization from Expo, and Ron Roy, which is situated 
+approximately 30 kilometres east of the Expo deposit.  
+ 
+The tests included making four Ni-Cu concentrates and analyzing the concentrates for nickel, 
+copper, platinum and palladium. 
+ 
+Two locked cycle tests, designed to determine flotation characteristics were performed on Expo 
+disseminated mineralization. The first was done on Expo disseminated composite Sample No. 1. 
+Results from this test showed a 3 to 4 unit higher nickel and 1 unit higher copper recovery than 
+the average of three similar tests performed on disseminated sample composite No. 2. It was 
+concluded that averaging in of this test would not significantly change the Ni-Cu recovery.  
+ 
+A third locked cycle test was run on Expo massive sulphides from Hole 69-31. The head assays 
+for this test as reported in the filed report "Expo-Ungava Project, Preliminary Investigation. Cape 
+Smith–Wakeham Bay, New Quebec, Canada. Exploration and Mine Evaluation Division, 
+American Metal Climax, Inc. November 1969. MRN Quebec, Assessment file GM 26102" were 
+reported as Ni Total 3.04%, Ni sulphide 2.64%, Cu Total 2.51%, Cu-sulphide 2.49%, Fe 54.6%, 
+Sulphur 23.84%.  The averaged results from the same report for three 300 gram concentrate 
+samples from the locked cycle test were as follows: Ni Total 5.90%, Ni sulphide 5.49%, Cu 
+5.56%, Pt 0.16 oz/ton, Pd 0.48 oz/t and Au 0.013 oz/ton. The approximate concentration ratio 
+based on Ni sulphide head and concentrate grades is 2:1. Power consumption was 11 kWh/ton.  
+ 
+5.6.2  2004 METALLURGICAL TEST ON EXPO NET-TEXTURED MINERALIZATION 
+ 
+In 2004, net-textured mineralized samples representing the Expo deposit were tested at SGS 
+Lakefield Research for flotation development on behalf of Canadian Royalties. Results were 
+reported in report number LR 10749-001 Report No. 2, titled "Metallurgical Testing of Net-
+Textured Samples from the Expo Deposit," and dated February 3, 2005.  
+ 
+Mineralized samples grading 0.7% to 0.9% Cu, 0.7% to 0.8% Ni, 0.3g/t to 0.4g/t Pt, and 1.5g/t to 
+1.8g/t Pd, were tested for hardness, rougher and cleaner flowsheet development and 
+optimization. Locked cycle testing provided confirmatory metallurgical projections for each of 
+two flowsheet types tested (bulk concentrate and dual concentrate flow sheets). 
+ 
+Bond work indices were measured. Rod mill and ball mill work indices were determined to be 
+22.9 and 19.9 kWh/t, respectively. 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 16 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+Rougher kinetics testing concluded that: 
+ 
+• Primary grind had a significant impact on copper and nickel recoveries. Rougher copper 
+
+recovery increased from 69% to 90% over a respective size range of 177 to 17µm. Rougher 
+nickel recovery increased from 67% to 86% over the same size range; 
+
+• Lime was a more selective modifier against pyrrhotite flotation than soda ash; 
+• Rougher collector dosages ranging from 35g/t to 140g/t had little impact on chalcopyrite 
+
+(Cu) and pentlandite (Ni) rougher recoveries, but a significant effect on increased pyrrhotite 
+recovery. 
+
+ 
+Various cleaner circuit options were investigated, including those producing a single bulk 
+concentrate, and one that produced separate copper and nickel bulk concentrates. No significant 
+metallurgical differences were apparent between the flowsheets. Locked cycle testing confirmed 
+the response of the mineralization to each bulk and dual concentrate flowsheet option. 
+Metallurgical projections, based on cycle test results, are summarized in the table below. 
+ 
+Table 5-3: Metallurgical Projections of Expo Net Textured Mineralization 
+ 
+
+Test Primary Product Weight
+No. sizing, um % Cu % Ni % Pt g/t Pd g/t Cu Ni Pt Pd
+
+EN-LCT1 53 Bulk Cleaner Concentrate 7.00 10.50 7.86 3.95 21.00 78.10 72.60 68.60 81.60
+Combined Bulk Tailing 93.00 0.22 0.22 0.14 0.36 21.90 27.40 31.40 18.40
+Head (calc.) 100.00 0.94 0.76 0.40 1.81 100.00 100.00 100.00 100.00
+
+EN-LCT5 30 Combined concentrate 7.20 10.20 7.28 3.66 17.80 82.30 71.00 74.00 83.00
+Cu concentrate 2.20 26.60 0.63 5.72 33.50 64.60 1.90 35.00 47.30
+Ni bulk concentrate 5.00 3.16 10.20 2.76 10.90 17.70 69.20 39.00 35.70
+Combined Bulk Tailing 92.80 0.17 0.23 0.10 0.28 17.70 29.00 26.00 17.00
+Head (calc.) 100.00 0.90 0.74 0.36 1.54 100.00 100.00 100.00 100.00
+
+Assays Distribution, %
+
+ 
+ 
+Tests demonstrated that the most important variable influencing metallurgy was primary grind; 
+metallurgy steadily improved at a finer grind with better grade concentrates, higher recoveries, 
+and increased flotation selectivity among the sulphide minerals. Locked cycle test results 
+confirmed that a bulk cleaner concentrate grading 18% Cu + Ni was possible with copper and 
+nickel recoveries of approximately 80% and 72%, respectively. PGE recoveries followed at 
+approximately 72% for platinum and 82% for palladium. A cleaner copper concentrate could be 
+generated grading 27% at 65% copper recovery. The remainder of recoverable copper 
+contributed to a nickel bulk concentrate with a Cu + Ni concentrate grade of 13-14%. 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 17 of 132 
+CZZ-Expo Report No. 129 
+
+6.0 GEOLOGICAL SETTING 
+ 
+6.1 REGIONAL GEOLOGY 
+ 
+The Cape Smith Belt in which the Expo deposit occurs is an interpreted foreland thrust-fold belt 
+that constitutes the north-eastern extension of the Trans-Hudson Orogen, an early Proterozoic 
+collision zone, which separates the Archean Superior Province from the Proterozoic Churchill 
+Province (Hynes and Francis, 1982; Hoffman 1990). The Trans-Hudson Orogen includes the 
+Thompson Nickel Belt of Manitoba and the New Quebec Orogen (Labrador Trough) on opposite 
+sides of the Superior Province. The Cape Smith (Ungava) Belt extends for 375 kilometres in an 
+east-west direction across the Ungava Peninsula of Nunavik. The greenschist facies foreland 
+portion of the belt is divided into three structurally superimposed Proterozoic units, from south to 
+north and oldest to youngest: Lamarche, Povungnituk and Chukotat Groups (Lamothe, 1994). 
+The amphibolite grade hinterland is divided into four structurally superimposed Proterozoic units 
+from south to north; Sparton, Parent, Perreault, and Watts Groups (Lamothe, 1994; St-Onge et 
+al., 1992). 
+ 
+The tectono-stratigraphic elements of the belt record a rifting event 2.0-1.9 billion years (Ga) 
+ago, with accumulation of sedimentary and volcanic units (Povungnituk and Chukotat Groups) 
+on a north-facing continental margin. Subsequent closing of the rift during the Hudsonian 
+Orogeny (ca 1.8 Ga), resulted in a complex interaction of thrusting, penetrative shearing, 
+metamorphism and imbrication of the foreland thrust belt with the tectono-stratigraphic units of 
+the hinterland (Lamothe, 1994; Lucas and St.-Onge 1989; St-Onge and Lucas, 1990; St-Onge et 
+al., 1992). After detailed geological mapping on the Expo Ungava Property in recent years, 
+Mungall (2004) has queried the existence or structural necessity of the various thrust faults 
+postulated by the earlier workers. 
+ 
+The Property is located within the central portion of the assemblage, near the suture separating 
+the foreland from the hinterland domains. The North Domain is dominated by the mostly 
+volcanic Watts Group, which has been interpreted as an Island-Arc accretionary complex. The 
+South Domain includes the Lamarche, Povungnituk, and Chukotat Groups, which are 
+collectively interpreted as an extensional sequence consisting mainly of basalts, sediments and 
+ultramafic rocks grading into oceanic crust towards the north. The boundary between the North 
+and South domains is marked by the regional scale Bergeron Fault, considered to be a subduction 
+zone (Bergeron, 1957; Bergeron, 1959; Lamothe et al., 1983; Lamothe, 1986). The basin is 
+interpreted to record a protracted regime of extension followed by sea-floor spreading and 
+subsequent convergent tectonics marked by folding and thrusting. 
+
+
+
+ 
+
+P & E Mining Consultants Inc.        Page 18 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+Figure 6.1: Regional Geology of the Expo-Ungava Property 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 19 of 132 
+CZZ-Expo Report No. 129 
+
+6.2 LOCAL GEOLOGY 
+ 
+The Cape Smith Belt hosts two roughly parallel belts of intrusive ultramafic rocks, the Raglan 
+Trend in the north and the South Raglan Trend in the south, some 15 to 20 kilometres apart. Both 
+belts host a number of individual sulphide deposits developed in the ultramafic rocks that contain 
+nickel (Ni), copper (Cu), cobalt (Co) and platinum-group elements (PGE). While the general 
+geology of the South Raglan Trend and Raglan Trend is similar with comparable sulphide 
+mineral paragenesis and with similar sulphide textures, the Ni-Cu ratios are different. The 
+Raglan horizon displays a 3:1 Ni-Cu ratio that contrasts with that of the South Raglan Trend, 
+which is generally closer to parity. 
+ 
+The Raglan Trend includes a series of ultramafic units of varying thickness that were intruded 
+into a variety of rock types, predominantly sulphide-bearing sediments, massive mafic volcanic 
+flows and gabbroic intrusions. The ultramafic flows or channels may contain massive sulphide 
+lenses near their bottom that grade upwards into net-textured sulphides to be followed further 
+upward by a wide halo of disseminated sulphides. The basal portions of the ultramafic bodies 
+with their enclosed sulphide mineralization occupy topographic lows and are believed to be 
+thermal erosion channels. The sulphide bearing sediments in the footwall may have provided the 
+sulphur necessary for the fixation of copper and nickel within the immiscible sulphide phase that 
+was then available for gravity segregation and accumulation. 
+ 
+Mineralization at Raglan is associated with up to nine separate peridotite flows, which constitute 
+an overall ultramafic body that has been identified along a distance of 55 kilometres. Deposits 
+along this trend include from east to west the Donaldson, Boundary, West Boundary, 13-14, 5-8, 
+Katinniq, East Lake, 2-3 Zone and Cross Lake deposits. The thickness of the sulphide lenses 
+varies from a few metres to a few tens of metres, and the strike length can vary from tens of 
+metres to 200 metres. Production began in April 1998 at Katinniq, which consists of over 20 
+discrete lenses of massive and disseminated sulphide, which vary in size from 10,000 tonnes to 
+1.4 million tonnes (Falconbridge Limited, Website May 2003). The lenses extend along an 
+ultramafic horizon 1400 metres in strike length, which dips to the northwest at 45º to 50º. The 
+mineralized horizon has been traced to a depth of 350 metres and is open in that direction. 
+Proven and probable reserves for the Raglan operation as of August, 2006 stand at 14.85 million 
+tonnes at 2.8% nickel and 0.77% copper (Falconbridge Archived website on Xstrata Plc 
+website). 
+ 
+Exploration work to date by CRI and previous operators has established a channel-like or trough-
+like, or dike-like geometry of the ultramafic bodies on the South Raglan Trend, and the Expo 
+peridotite is a good example of a series of trough-like geometry as further described in Section 
+6.3. With the exception of the Expo area, the ultramafic bodies are generally from 100 to 200 
+metres wide on surface, and extend laterally for several kilometres. These ultramafic bodies, 
+some of which are open ended sub-vertical dikes are interpreted to be channel-flow units, which 
+have thermally eroded into the underlying, overlying, and surrounding volcanic/sedimentary 
+package. This is demonstrated by the observations that the ultramafic units clearly crosscut the 
+volcanic/sedimentary package, that they have a thermal aureole, and display long, narrow 
+sinuous dimensions. Others display more regular crosscutting dike-like characteristics.  
+ 
+Massive, net-textured and disseminated sulphides are associated with the ultramafic bodies. 
+Massive sulphides are generally comprised of more than 90% sulphides; the net-textured type 
+contains approximately 25% to 75% sulphides while the disseminated mineralization contains 
+trace to 25% sulphides. The massive and net-textured types carry sufficiently high base and 
+precious metal concentrations to be of economic interest. The net-textured and disseminated 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 20 of 132 
+CZZ-Expo Report No. 129 
+
+types of mineralization are generally of much greater volume and extent than the massive 
+sulphides, which accumulate at or near the bottom of the ultramafic bodies, or may be missing 
+altogether. The massive mineralization may extend into near-vertical, narrow vein-like bodies 
+below the actual closure of the ultramafic body and its associated mineralization for up to 100 
+metres as has been observed at the TK and Tootoo occurrences. Massive sulphide bodies, the 
+exploration targets of choice because of their high grades, are of relatively small size compared 
+to their host ultramafic units. 
+ 
+In the search for high-grade and high-value massive sulphides such as have been identified at 
+Mesamax NW, TK, Expo and Tootoo, the identification of disseminated and/or net textured 
+sulphide mineralization is thus key to exploration, as it indicates possible proximity to a massive 
+sulphide component. CRI has demonstrated this by identifying massive sulphides at the 
+Mesamax NW, Expo and Tootoo areas, which were all drilled previously by earlier operators 
+without intersecting significant massive sulphides. 
+
+
+
+ 
+
+P & E Mining Consultants Inc.        Page 21 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+Figure 6.2: Property Geology of the Expo Deposit 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 22 of 132 
+CZZ-Expo Report No. 129 
+
+6.3 EXPO DEPOSIT GEOLOGY 
+ 
+The geology of the general Expo area and the immediate Expo deposit is based on surface 
+geological mapping by James Mungall from 2003 to 2006, the interpretation of geophysical 
+information in areas of poor outcrop, and, on the deposit scale on the cross sectional 
+interpretation of drill results.  
+ 
+An extensive, irregular body of ultramafic rocks, typically 500 metres wide in outcrop and 
+termed the Expo Intrusive Suite (EIS) by Mungall (2004), characterizes the general Expo area. 
+The EIS "forms a complex of overlapping gabbroic dikes, ultramafic replacement bodies, dunite 
+pipes, and sill-like peridotite massifs ... in the area surrounding the Expo Ungava deposit". The 
+northern member or branch of the EIS, which contains the Expo deposit extends for a distance of 
+nearly nine kilometres in an east-north-easterly direction and bifurcates several times, enclosing 
+what appear to be large "horses" of host rock. There is an intimate association with a gabbro 
+phase that, based on the mapping, becomes the dominant rock type along strike both to the north-
+east and the southwest. The southern member, with a west-north-westerly strike, has been traced 
+for a distance of at least five kilometres and joins the northern branch in the western part of 
+Figure 6.2. The host rocks in the general Expo area are predominantly meta-sediments and the 
+northern part of the EIS is clearly cross-cutting the folded host rocks, while its southern 
+counterpart appears to be mostly conformable, at least in plan view. 
+ 
+The local geology is dominated by the northern branch of the EIS, with the Expo deposit hosted 
+by the northern split of the branch to the north of a large inclusion of sediments. This northern 
+split averages about 200 metres wide on surface, and is trough-shaped in cross section with the 
+southern contact usually steeper (sometimes near-vertical) compared to the shallower, northern 
+contact. The essentially flat or somewhat undulating bottom of the central part of the trough is 
+usually at a depth of about 100 metres. For the purpose of this report, this local part of the EIS 
+that contains the Expo deposit will be referred to as the Expo peridotite. 
+ 
+There are indications of multiple mineralized ultramafic units at Expo. In addition to the main 
+body described in the preceding paragraph, there is a near-vertical phase below its eastern part 
+(starting on section 10570 E) that may be a feeder to the complex and has been traced by a few 
+drill holes to a depth of greater than 300 metres. It is also in this area that a lower repetition or 
+branch of mineralized peridotite has been encountered on section 10540 E. Due to insufficient 
+drilling, the feeder and the lower branch are presently poorly constrained in their geometry. The 
+occurrence of massive sulphides in more than one "stratigraphic" position may also be due to 
+multiple ultramafic events. 
+ 
+The Expo peridotite has adjusted to greenschist metamorphic conditions during subsequent 
+metamorphism. "Peridotite is almost invariably completely serpentinized, to form a compact 
+rock highly resistant to weathering that is deep maroon to brown. Peridotite presents an 
+extremely rough, hackly aspect on weathered surfaces but a smooth dark green to black fresh 
+surface composed of a fine intergrowth of serpentine and chlorite, dotted with grey tremolite 
+patches. Careful inspection commonly reveals the presence of intercumulus or poikilitic primary 
+hornblende and traces of sulphides. The Peridotite is generally strongly magnetic due to the 
+presence of abundant microscopic magnetite crystals formed during serpentinization of iron-
+bearing olivine", (Mungall, 2004). The Expo peridotite is characterized by very high Cr (2500 
+ppm) and Mg (15%) values, compared to the host rocks at both the Mesamax and the Mequillon 
+deposits.  
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 23 of 132 
+CZZ-Expo Report No. 129 
+
+Diamond drilling has substantiated the surface mapping and has shown that the host rocks into 
+which the Expo peridotite was intruded are exclusively meta-sediments that are interpreted to 
+strike east-west with a shallow dip to the south, based on core angles.  
+ 
+Figures 6.4 and 6.5 provide detailed Gemcom cross-sections at two different locations along the 
+trough. Figures 6.6, 6.7 and 6.8 provide schematic cross-sections at three different locations 
+along the trough. Section 10540 E is at the easternmost end of the known extent of significant 
+mineralization; Section 10360 E lies within the middle of the deposit, and Section 9820 E is at 
+the west end of the deposit. Just west of Section 9820 E, the trough is cut by a gabbro dike. On 
+the west side of the dike the base of the trough is much deeper, and has never been intersected by 
+diamond drilling. East of Section 10540 E, the base of the trough is juxtaposed by a fault against 
+a much larger ultramafic body that continues to the east with its base below the extent of any 
+historical drilling. As the sections in Figures 6.6, 6.7 and 6.8 indicate, based on re-logging of 
+several holes, the mineralized trough structure shows considerable complexity. At Section 10540 
+E the trough actually comprises at least three separate intrusions separated by clearly 
+recognizable screens of meta-sediment or well-developed internal chilled margins, and is 
+underlain by at least five more separate sills, all of which bear some amount of sulphide 
+mineralization, including two massive sulphide-bearing sills under station 10050 N. The exact 
+forms of the intrusions cannot be determined from the available drill core information, because 
+many of these bodies have sizes similar to the spacing between drill holes. Figures 6.6 to 6.8 
+should therefore be taken as a well-constrained illustration of the structural style rather than a 
+faithful representation of reality. At Section 9820 E there is one main intrusion that makes up 
+most of the trough, and there are just two small and essentially barren intrusions immediately 
+underneath. Several other small intrusions have been intersected under the main trough this far 
+east by sporadic diamond drilling, but insufficient data exist to say whether the pattern at 10540 
+E persists toward the east. A large dike-like body rises up from beneath the main trough and 
+appears to join at between Sections 10540 and 10360 E. This structure may be the feeder for the 
+entire system, but there are not enough data to demonstrate this. Similarly, there appears to be an 
+overall decrease in the number of smaller intrusions under the main trough as one moves 
+westward from Section 10540 E, but this may largely be an artifact of the paucity of deep 
+borehole data in the westerly sections. 
+ 
+The subhorizontal blade-shaped dikes below the main trough extend for considerable strike 
+lengths along its base and may have been fed massive sulphide, but there is no direct evidence 
+for this. 
+
+
+
+ 
+
+P & E Mining Consultants Inc.        Page 24 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+ 
+Figure 6.3: Expo Deposit Geology 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.        Page 25 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+Figure 6.4: Cross Section 9940E through the Expo Deposit  
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.        Page 26 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+Figure 6.5:  Cross Section 10120E through the Expo Deposit 
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 27 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+Figure 6.6: Schematic Cross Section through the Western Extremity of the Expo Deposit (Mungall, 
+2006) 
+ 
+
+ 
+ 
+Figure 6.7: Schematic Cross Section through the Centre of the Expo Deposit (Mungall, 2006) 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.        Page 28 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+Figure 6.8: Schematic Cross Section through the Eastern Extremity of the Expo Deposit (Mungall, 2006) 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 29 of 132 
+CZZ-Expo Report No. 129 
+
+7.0 DEPOSIT TYPES 
+ 
+The mineral occurrences along the South Raglan Trend including the Expo deposit as well as 
+those of the Raglan Trend to the north belong to the class of magmatic sulphide deposits and at 
+Raglan are described by Lesher & Keays (2002) as "invasive lava channels" carrying so-called 
+Type I mineralization that is characterized as follows: 
+ 
+
+• sulphides are distributed at or near the base of their ultramafic host rock units; 
+• sulphide textures vary from massive at the base to net-textured to disseminated above; 
+• grades are "moderate to low", and there is a slight tendency of fractionation between 
+
+nickel and copper, and; 
+• the timing of sulphide deposition is early magmatic with sulphide segregation having 
+
+taken place prior to or during emplacement of the host rock unit. 
+ 
+The setting of these channels is variable and includes "cumulate lava channels, subvolcanic 
+feeder sills, or magmatic conduits" that "occur in a wide range of volcanic and subvolcanic 
+environments" (Lesher & Keays, page 588).  
+ 
+Mungall and Keast proposed a similar model in 2003. Mungall's on-going work in 2005 and 
+2006 continued with the basic assumption that the parent magma to the Expo Intrusive Suite, 
+(EIS) which hosts all of the mineralization of the South Raglan Trend, was a basaltic komatiite 
+magma that was undersaturated with sulphide both in its source and upon its arrival in the mid or 
+upper crust. The composition of the magma is represented on the property by a series of samples 
+of chilled margins, the best of which are from a narrow dike in the Hilltop area which emerged 
+from the main dike segment that runs from the TK occurrence to the Kehoe occurrence and 
+includes the Expo deposit. Mungall's 2003-2004 work found that the composition of this dike 
+served well as a model parent magma for the entire suite of cumulate rocks exposed in the EIS. 
+The genetic model adopted was that meta-sediment was assimilated to produce ultramafic 
+cumulates and a residual high-silica basaltic liquid saturated with sulphide.  
+ 
+During later cooling pyrrhotite and pentlandite exsolved from a mono-sulphide solid solution. 
+The Raglan deposits show repeated episodes of sulphide emplacement in multiple ultramafic 
+phases. It appears that the Expo deposit may also show perhaps two or three magmatic pulses, 
+but as described above, the understanding of the deposit is still in its early stages and additional 
+research is required into this question. 
+ 
+The general absence of strong fractionation of the sulphides into copper-poor and copper-rich 
+phases is interpreted in the literature as due to the relatively rapid cooling of these systems, 
+which is likely caused by their limited overall size. Larger accumulations of semi-massive to 
+massive sulphides such as have been found at the Mesamax deposit, require the presence of 
+footwall embayments that serve as physical traps. This is in contrast to the occurrence of the 
+massive sulphides at Expo that do not appear to occur in embayments carved either into the 
+surrounding country rocks, or into possibly pre-existing, earlier ultramafic phases.  
+ 
+There is still no consensus on the details surrounding the formation of the Ni-Cu-PGE deposits 
+in the Raglan area. Many of these issues will be discussed in exploration, government and 
+academic circles for years to come.  
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 30 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+ 
+ 
+Figure 7.1: Isometric showing the origins of canoe-shaped mineralized ultramafic dikes of 
+the EIS, with sulphide mineralization exposed at their tips and along their bases, (Mungall, 
+2005) 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 31 of 132 
+CZZ-Expo Report No. 129 
+
+8.0 MINERALIZATION 
+ 
+Four types of mineralization have been identified at Expo, of which three are of economic 
+interest: 
+ 
+
+1. The upper part of the Expo peridotite shows low-grade disseminated sulphide 
+mineralization throughout. Metal values in this material are typically in the range of 0.2% 
+for each of nickel and copper, 0.02% for cobalt, and 0.1, and 0.4 grams per tonne (g/t) for 
+platinum and palladium, respectively, with very low gold concentrations. The average 
+sulphur concentration is approximately 1.5%. This upper part is referred to as the 
+disseminated domain. 
+
+ 
+2. A net-textured domain shows elevated sulphide concentrations, and usually a relatively 
+
+sharp contact with the surrounding disseminated mineralization. There is no discernable 
+change in host rock chemistry at this contact. The net-textured domains have been 
+defined by core logging based on textural observations and total sulphide estimates; 
+information which was later supplemented by assay information to better define the 
+boundary. While the net-textured domain tends to occupy the lower part of the overall 
+Expo peridotite, there is often a zone of low-grade, disseminated mineralization between 
+the lower contact of the net-textured domain and the lower contact of the overall 
+peridotite. Net-textured mineralization is developed within the Expo peridotite over a 
+strike length of nearly 900 metres, extending from section 9790 E in the west to section 
+10660 E in the east. In cross section, the north-south extent of the net-textured 
+mineralization is usually from 100 to 125 metres. The average length of intersection in 
+this material is 16 metres which in many cases is close to the true width of the unit. 
+
+ 
+3. Net textured versus massive sulphide accumulations constitute a 9:1 ratio. The contact of 
+
+the net-textured mineralization with the massive sulphides is even sharper than with the 
+disseminated material. Small accumulations/short intersections of massive sulphides 
+occur on nearly every section.  
+
+ 
+4. The fourth and volumetrically smallest domain consists of vein-like massive sulphide 
+
+mineralization that is found predominantly in the eastern part of the deposit, and usually 
+at the lower and northern contacts of the Expo peridotite with the surrounding sediments. 
+There is some question as to the continuity of these massive sulphide vein swarms. In 
+some cases, continuity is indicated by the occurrences of sulphide vein-domain 
+mineralization at the same structural/stratigraphic position in more than one drill hole and 
+on more than one section. In other cases, surrounding holes are devoid of such 
+mineralization. Sulphide vein intersections have been found up to 50 metres below the 
+footwall of the peridotite, but these remote occurrences appear to be of local extent only. 
+
+ 
+The net-textured and some of the massive sulphide accumulations do not occupy the deepest part 
+of the Expo peridotite. There is a suspicion that there may be more than one generation of 
+mineralized peridotite, but more research is needed before this question can be resolved. 
+ 
+Petrographic work (Walker 2004a, 2004b) identified pyrrhotite (FeS) as the main sulphide 
+mineral, followed by pentlandite ([Fe,Ni]S) and chalcopyrite (CuFeS2). Pentlandite occurs 
+generally as a separate mineral and only rarely as exsolution lamellae in pyrrhotite. Pentlandite 
+appears to be the main cobalt carrier. Niccolite (NiAs) and violarite (Ni, Fe)3S4 occur only rarely 
+or are entirely absent. Intergrowth of both pentlandite and chalcopyrite with silicate minerals, 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 32 of 132 
+CZZ-Expo Report No. 129 
+
+particularly with serpentine, can be intricate. Magnetite (Fe3O4) is a minor constituent of the 
+rock, the result of the breakdown of the original olivine into serpentine plus magnetite. 
+ 
+The results of detailed mineralogical work at the Mesamax deposit (Cabri, 2003) may be 
+pertinent to Expo. At Mesamax, accessory sulphides are galena (PbS), sphalerite (ZnS), cubanite 
+(CuFe2S3) and cobaltite (CoAsS). Cabri also reported a large number of platinum-group 
+elements (PGE's). He identified sudburyite (PdSb) and two new Pd-Sb minerals, Ungavite and 
+Naldretite as the principal palladium carriers in net-textured and massive sulphides, respectively, 
+and PGE tellurides such as michenerite (PdBiTe), merenskyite (PdTe2), moncheite (PtTe2) and 
+kotulskite (PdTe) as well as sperrylite (PtAs2). Electrum (a gold-silver alloy of varying 
+composition) appears to be the main gold carrier. Comparable detailed mineralogical studies 
+have yet to be completed on Expo samples. 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 33 of 132 
+CZZ-Expo Report No. 129 
+
+9.0 EXPLORATION  
+ 
+Canadian Royalties undertook extensive diamond drilling programs in 2003 and 2004, which 
+were discussed in Section 5. 
+ 
+In 2005 and 2006, the company continued with their exploration work. In 2005, 31 holes were 
+drilled for a total of 6,152 metres. In 2006, 44 holes were drilled, including 8 geotechnical holes, 
+four of which were sampled and included in the resource estimate.  
+ 
+A Pulse EM geophysical survey was undertaken in 2005 in diamond drill holes EX-05-119, 121, 
+124, 131 and 137. A fixed loop survey was also done. One target resulting from the two 
+geophysical surveys was tested with no significant values being intersected in the hole. 
+ 
+James Mungall continued mapping and completed in-depth studies of the Expo, Mequillon and 
+Tootoo deposits, specifically with regard to structural and genetic controls on the distribution of 
+metals in the deposits. Dr. Mungall also conducted a series of modeling exercises which were 
+designed to elucidate the origins of sulphide mineralization at the Mesamax NW, Expo-Ungava 
+and Mequillon deposits.  
+ 
+Dr. Mungall's results and conclusions have been discussed in Sections 7 and 8 of this technical 
+report.  
+ 
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 34 of 132 
+CZZ-Expo Report No. 129 
+
+10.0 DRILLING 
+ 
+Canadian Royalties completed a large amount of diamond drilling in 2005 and 2006, which was 
+designed to expand the resources at the known deposits and explore for other deposits on the 
+roughly 1,000 hectare property. The Ivakkak deposit was discovered in September, 2005 as a 
+result of the property-wide exploration. 
+ 
+The drill contractor in 2003 and 2004 was Major Drilling Group ("Major") who used JKS 300 
+wireline drill rigs equipped to recover BQ-sized core. Major continued as the drilling contractor 
+in 2005 and 2006. 
+ 
+In 2005, 6,153 metres of drilling were undertaken at Expo, and in 2006, 4,578 metres were 
+drilled, along with eight geotechnical holes, four of which were included in the resource 
+calculation. The total number of metres drilled in 2005 and 2006, including the four geotechnical 
+holes was 11,317.  
+ 
+As part of the CRI exploration programs, the services of a registered Quebec Land Surveyor, 
+(J.L. Corriveau & Associates), were retained in 2005 and 2006 to provide survey control for 
+grids and drill holes. For Expo, the collars of all surface drill holes up to and including EX-06-
+143 (apart from EX-06-141) have been surveyed by Corriveau using a differential GPS method. 
+The surveys are considered accurate to within about 0.1 metres in all three dimensions. Drill 
+holes EX-06-165 to EX-06-175 were drilled after the departure of Corriveau from the field and 
+will be surveyed in 2007. Based on the experience with earlier holes, these collars are not 
+expected to be more than three metres from their initial position. None of the unsurveyed holes 
+was used in the current resource calculation, the impact of which is negligible. 
+ 
+Drill-hole deviation was monitored with a combination of acid dip tests and Reflex down-hole 
+dip and azimuth measurements. The acid tests were completed at approximately 50-metre 
+intervals with one Reflex test at the bottom of the hole. Dip deviations are typically of 1o or less 
+per 100 metres. Azimuth deflection of holes is more difficult to evaluate due to the magnetic 
+nature of the peridotite body. Based upon the holes that were drilled far enough into the non-
+magnetic footwall sediments, the Azimuth deviation is of the order of 2o per 100 metres. 
+Deviations of this magnitude are standard for short holes such as drilled at Expo.  
+ 
+Table 10-1: 2005 Significant Drill Intercepts 
+ 
+D D H F r o m T o W id th N i C u C o A u P t P d P G E
+E X P O (m ) (m ) (m ) % % % g /t g /t g /t g / t
+
+E X -0 5 -1 0 7 2 7 .3 0 7 3 .5 0 4 6 .2 0 0 .5 3 0 .5 2 0 .0 3 0 .0 7 0 .2 1 1 .1 0 1 .3 8
+E X -0 5 -1 0 8 2 9 .0 0 1 4 4 .7 0 1 1 5 .7 0 0 .5 2 0 .5 6 0 .0 3 0 .0 9 0 .2 3 1 .0 5 1 .3 7
+E X -0 5 -1 1 5 5 7 .0 0 6 9 .8 0 1 2 .8 0 0 .8 7 0 .7 1 0 .0 4 0 .0 8 0 .5 0 2 .0 2 2 .6 0
+E X -0 5 -1 1 6 5 1 .2 0 5 4 .9 5 3 .7 5 1 .1 1 1 .4 0 0 .0 5 0 .0 6 0 .3 1 1 .0 1 1 .3 8
+E X -0 5 -1 1 8 5 2 .9 0 5 4 .5 0 1 .6 0 1 .4 6 1 .5 4 0 .0 7 0 .0 4 4 .1 4 3 .3 5 7 .5 3
+E X -0 5 -1 1 9 8 5 .4 0 8 7 .1 0 1 .7 0 0 .5 9 1 .5 4 0 .0 3 0 .0 8 0 .2 5 1 .9 6 2 .2 9
+E X -0 5 -1 2 2 2 3 .0 0 3 0 .6 5 7 .6 5 0 .8 5 0 .6 9 0 .0 4 0 .0 6 0 .3 7 1 .5 7 2 .0 0
+E X -0 5 -1 2 2 5 4 .1 0 6 3 .0 0 8 .9 0 0 .4 3 0 .5 7 0 .0 3 0 .0 5 0 .2 2 1 .1 3 1 .4 0
+E X -0 5 -1 2 2 1 2 5 .1 0 1 6 5 .0 5 3 9 .9 5 0 .9 0 0 .7 8 0 .0 5 0 .0 9 0 .4 1 2 .0 3 2 .5 3
+E X -0 5 -1 2 3 2 3 .0 0 3 5 .0 0 1 2 .0 0 0 .8 1 0 .7 2 0 .0 4 0 .0 7 0 .2 7 1 .3 6 1 .7 0
+E X -0 5 -1 2 3 8 6 .0 0 9 3 .8 0 7 .8 0 1 .3 7 2 .4 5 0 .0 7 0 .0 5 0 .5 3 1 .1 8 1 .7 6
+E X -0 5 -1 2 3 2 2 3 .5 0 2 3 0 .4 5 6 .9 5 1 .5 2 1 .6 0 0 .0 6 0 .0 5 0 .2 5 0 .6 4 0 .9 4
+E X -0 5 -1 2 4 2 1 .0 0 3 5 .4 0 1 4 .4 0 0 .7 3 0 .7 2 0 .0 4 0 .0 5 0 .2 8 1 .2 4 1 .5 7
+E X -0 5 -1 2 4 1 3 4 .9 5 1 3 8 .6 0 3 .6 5 1 .0 2 0 .6 1 0 .0 6 0 .0 3 0 .3 1 1 .3 5 1 .6 9
+E X -0 5 -1 2 4 1 3 4 .9 5 1 5 4 .4 0 1 9 .4 5 0 .8 4 0 .8 9 0 .0 5 0 .0 3 0 .2 7 1 .2 7 1 .5 7
+E X -0 5 -1 2 5 2 6 .0 0 3 7 .0 0 1 1 .0 0 0 .8 2 0 .7 0 0 .0 4 0 .0 7 0 .2 9 1 .8 4 2 .2 0
+E X -0 5 -1 2 5 5 3 .2 5 6 0 .0 0 6 .7 5 0 .6 0 0 .9 3 0 .0 3 0 .1 1 0 .3 6 2 .5 8 3 .0 5
+E X -0 5 -1 2 5 1 1 8 .0 0 1 2 7 .3 5 9 .3 5 0 .6 5 1 .4 3 0 .0 3 0 .2 9 0 .3 8 2 .7 6 3 .4 3
+E X -0 5 -1 3 6 3 0 .0 0 3 8 .0 0 8 .0 0 0 .8 8 1 .5 6 0 .0 6 0 .3 1 0 .2 7 0 .5 4 1 .1 2
+E X -0 5 -1 1 1 5 2 .3 0 6 7 .0 0 1 4 .7 0 0 .4 6 0 .4 6 0 .0 3 0 .1 2 0 .1 8 1 .4 6 1 .7 6
+E X -0 5 -1 1 1 1 2 1 .0 0 1 3 0 .0 0 9 .0 0 1 .3 9 1 .9 6 0 .0 5 0 .1 5 0 .4 0 1 .5 3 2 .0 8
+E X -0 5 -1 2 8 1 8 4 .1 0 1 9 0 .0 0 5 .9 0 0 .5 7 1 .4 5 0 .0 4 0 .0 5 0 .0 5 0 .6 9 0 .7 9
+E X -0 5 -1 3 1 2 8 6 .0 0 2 9 3 .1 0 7 .1 0 0 .3 3 0 .4 6 0 .0 2 0 .0 3 0 .1 6 0 .7 3 0 .9 2  
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 35 of 132 
+CZZ-Expo Report No. 129 
+
+Table 10-2: 2006 Significant Drill Intercepts 
+ 
+DDH From To Width Ni Cu Co Au Pt Pd PGE
+EXPO (m) (m) (m) % % % g/t g/t g/t g/t
+
+EX-06-141 78.00 78.75 0.75 0.93 1.52 0.05 0.07 0.64 4.33 5.04
+EX-06-142 NSA
+EX-06-143 42.65 48.05 5.40 1.57 0.65 0.07 0.04 0.62 2.29 2.94
+EX-06-143 87.00 88.05 1.05 3.27 0.74 0.15 0.02 1.07 4.30 5.38
+EX-06-144 27.45 32.00 3.55 1.52 0.68 0.07 0.08 0.13 0.61 0.81
+EX-06-145 51.00 71.00 20.00 0.64 0.84 0.03 0.13 0.27 1.13 1.53
+EX-06-145 68.00 71.00 3.00 0.62 2.11 0.04 0.44 0.20 0.78 1.41
+EX-06-145 108.35 109.60 1.25 2.33 2.33 0.10 0.07 1.14 3.72 4.93
+EX-06-145 130.15 130.80 0.65 2.48 0.93 0.12 0.02 0.96 2.25 3.23
+EX-06-145 137.05 137.55 0.50 2.28 0.15 0.10 0.02 0.64 1.11 1.77
+EX-06-145 146.05 149.10 3.05 1.13 0.90 0.09 0.21 0.34 2.01 2.56
+EX-06-146 NSA
+EX-06-147 108.15 111.10 2.95 1.64 1.79 0.07 0.44 0.72 2.64 3.80
+EX-06-148 15.00 23.00 8.00 0.64 0.62 0.03 0.08 0.42 1.53 2.03
+EX-06-148 52.75 58.10 5.35 0.80 2.09 0.04 0.14 0.30 1.10 1.54
+EX-06-148 152.65 157.00 4.35 1.04 1.41 0.03 0.09 4.13 6.88 11.10
+EX-06-149 189.00 192.00 3.00 0.39 0.94 0.02 1.12 1.29 3.12 5.52
+EX-06-150 NSA
+EX-06-151 58.90 59.35 0.45 1.78 1.86 0.08 0.02 0.42 0.91 1.35
+EX-06-151 71.10 71.45 0.35 2.69 1.32 0.15 0.03 0.07 1.53 1.63
+EX-06-151 78.00 78.50 0.50 1.31 0.49 0.07 0.07 0.17 0.96 1.20
+EX-06-151 118.45 118.95 0.50 1.80 0.49 0.08 0.02 0.75 2.02 2.79
+EX-06-152 75.80 81.10 5.30 1.16 1.62 0.05 0.07 1.32 3.28 4.68
+EX-06-153 48.40 62.10 13.70 0.85 0.82 0.04 0.08 0.35 1.20 1.63
+EX-06-154 4.70 16.75 12.05 0.68 0.84 0.04 0.14 0.42 2.47 3.03
+EX-06-155 Not Sampled
+EX-06-156 54.00 62.90 8.90 0.51 0.75 0.02 0.09 0.32 1.19 1.60
+EX-06-157 50.50 50.35 0.30 2.76 0.33 0.11 0.09 3.12 28.50 31.71
+EX-06-158 54.00 66.90 12.90 0.80 1.10 0.04 0.06 0.39 1.40 1.84
+EX-06-158 97.05 105.20 8.15 0.87 2.20 0.04 0.13 0.61 2.33 3.07
+EX-06-159 55.10 83.90 28.80 0.66 1.68 0.03 0.13 0.52 1.51 2.16
+EX-06-159 91.30 92.10 0.80 2.96 0.93 0.15 0.03 0.71 2.80 3.54
+EX-06-160 Not Sampled
+EX-06-161 49.55 73.00 23.45 0.68 1.05 0.04 0.11 0.41 1.60 2.13
+EX-06-161 84.45 101.00 16.55 1.30 1.41 0.08 0.05 0.35 1.01 1.40
+EX-06-162 38.60 51.65 13.05 0.64 0.82 0.04 0.68 0.26 1.26 2.20
+EX-06-162 77.00 83.00 6.00 0.86 0.90 0.05 0.09 0.28 1.73 2.10
+EX-06-163 35.25 42.25 7.00 0.76 0.63 0.04 0.05 0.33 1.05 1.44
+EX-06-163 48.00 50.30 2.30 2.67 1.31 0.11 0.04 0.36 1.77 2.18
+EX-06-163 70.00 79.70 9.70 0.87 0.71 0.05 0.08 0.31 1.67 2.06
+EX-06-164 35.00 48.20 13.20 0.82 0.65 0.04 0.03 0.31 1.52 1.87
+EX-06-164 87.60 88.00 0.40 1.99 0.59 0.13 0.23 0.94 24.20 25.37
+EX-06-165 18.55 19.05 0.50 2.78 1.32 0.15 0.05 0.25 0.92 1.22
+EX-06-165 100.45 141.50 41.05 0.78 1.11 0.04 0.09 0.38 1.70 2.16
+EX-06-166 15.00 20.00 5.00 0.66 0.92 0.04 0.05 0.26 0.74 1.05
+EX-06-166 100.10 100.80 0.70 2.37 2.68 0.05 0.23 8.92 5.31 14.46
+EX-06-166 120.75 126.20 5.45 0.78 1.24 0.05 0.04 0.20 2.16 2.40
+EX-06-167 50.45 52.95 2.50 2.60 1.95 0.15 0.08 0.83 4.20 5.11
+EX-06-168 61.95 67.00 5.05 0.93 1.25 0.06 0.09 0.16 0.54 0.78
+EX-06-169 41.40 45.55 4.15 0.92 0.88 0.06 0.04 0.25 1.31 1.60
+EX-06-170 53.40 56.10 2.70 1.05 1.82 0.07 0.05 0.31 2.02 2.39
+EX-06-171 16.75 17.80 1.05 1.14 2.03 0.06 0.02 0.18 0.64 0.84
+EX-06-172 12.10 14.70 ?
+EX-06-172 56.95 60.65 3.70 0.86 1.22 0.04 0.03 0.31 1.15 1.49
+EX-06-172 80.00 84.00 4.00 0.63 1.12 0.03 0.05 0.45 1.35 1.85
+EX-06-172 92.55 95.80 3.25 3.12 3.51 0.11 0.30 0.79 4.72 5.81
+EX-06-173 54.00 56.00 2.00 0.13 1.72 0.02 0.09 0.17 0.41 0.66
+EX-06-174 134.30 135.00 0.70 0.68 2.02 0.03 0.02 0.23 0.98 1.23
+EX-06-175 NSA
+EX-03-062ex 212.00 220.20 8.20 0.77 3.15 0.03 0.10 0.78 2.64 3.51
+EE-06-01 68.00 117.10 49.10 0.86 0.74 0.04 0.06 0.29 1.35 1.70
+EE-06-03 41.90 70.80 28.90 0.77 0.82 0.04 0.06 0.38 1.41 1.86
+EE-06-03 96.15 96.45 0.30 3.09 2.50 0.16 0.06 0.80 8.98 9.84
+EE-06-04 23.00 23.70 0.70 0.70 2.16 0.04 0.21 0.23 1.35 1.79
+EE-06-05 121.90 124.50 2.60 0.63 0.57 0.03 0.04 0.22 1.54 1.81  
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.       Page 36 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+Figure 10.1: Plan Map Showing 2005 and 2006 Diamond Drilling at Expo. Coloured Blocks Represent Massive, (red) Net-Textured, 
+(purple) and Vein Domains (blue). 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 37 of 132 
+CZZ-Expo Report No. 129 
+
+11.0 SAMPLING METHOD AND APPROACH 
+ 
+For a complete account of the sampling method and approach for drill programs executed prior 
+to 2005 and 2006, the reader is referred to a previous technical report titled "Technical Report on 
+the Mineral Resource Estimate Expo Nickel-Copper Deposit, Nunavik, Quebec", dated August 
+8th, 2005 and authored by T. Keast and H. Thalenhorst. This report is filed on SEDAR. 
+ 
+Sampling method and approach were essentially the same for the 2005 and 2006 programs as 
+they were for the 2003 and 2004 programs, and the procedures are summarized in the paragraphs 
+that follow. 
+ 
+All core logging and core splitting was completed in a core tent at the Expo camp to which the 
+core boxes were transported by helicopter. The drill core was logged by CRI geologists and 
+discussions and observations by the core loggers ensured consistent unit identification among 
+them. The distance between the depth markers added by the drill personnel was measured to 
+check for misplaced markers and for lost core. All logging information was recorded directly 
+into laptop computers. Core intervals identified for sampling were marked with wax crayons, 
+with sample tags placed at the start of a sample interval. Logging and sampling in 2005 and 2006 
+was in the metric system. 
+ 
+The sample length in obvious mineralization was generally one metre. Individual samples were 
+not allowed to cross lithologic contacts or abrupt changes in mineralization. Core was split in 
+half using a hydraulic core splitter. After splitting, core samples were immediately placed in 
+plastic sample bags, tagged and recorded with unique sample numbers. Where possible, 
+contiguous sample tag series were used. Sample intervals were recorded on sample ticket books, 
+and later recorded on the computerized drill logs.  
+ 
+There are no obvious drilling, sampling or recovery factors that would impact the reliability of 
+the core samples. The even distribution of the sulphides in all types of mineralization ensures 
+that the samples are of high quality and representative of the material or mineralization being 
+sampled. 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 38 of 132 
+CZZ-Expo Report No. 129 
+
+12.0 SAMPLE PREPARATION, ANALYSES AND SECURITY 
+ 
+In 2005 and 2006, split core samples were collected and processed by personnel under contract 
+to CRI and under the supervision of Todd Keast, project manager in 2005 and by Pat Pope, 
+project manager in 2006. After splitting and bagging, the sealed individual samples were placed 
+in shipping bags, which in turn were sealed with plastic tie straps. The bags remained sealed until 
+they were opened by ALS Chemex personnel in Val-d'Or, Québec.  
+ 
+All samples were initially stored in the field camp to await a scheduled flight. Samples were not 
+secured in locked facilities as this precaution was deemed unnecessary due to the remote and 
+isolated camp location. Samples were then shipped by helicopter to the Donaldson airport and 
+loaded directly on a chartered aircraft for transport to Val-d'Or. Samples were collected at the 
+airport by CRI personnel and delivered to the ALS Chemex sample preparation facility in Val-
+d'Or.  
+ 
+The split drill core samples were crushed in their entirety to 90% passing 2 millimetres and the 
+crusher was cleaned with barren rock between samples. From the coarse rejects a sub-sample of 
+one kilogram was split and pulverized to 85% passing 75 microns. The pulveriser was cleaned 
+with silica sand between samples. 
+ 
+From each pulp, a 100-gram sub-sample was split and shipped to the ALS Chemex laboratory in 
+Vancouver, British Columbia for assay. The remainder of the pulp and the rejects are held at the 
+preparation laboratory in Val-d'Or for future reference. 
+ 
+The base metals of economic interest (nickel, copper and cobalt), and elements of more general 
+geochemical interest such as arsenic, chromium, iron, magnesium and sulphur, were determined 
+using a 0.2-gram aliquot that was subjected to Geochemical Procedure ME-ICP81, (ALS 
+Chemex internal code). This method uses a lithium meta-borate fusion to digest the sample, and 
+is more appropriate for the concentrations encountered for the economic elements. 
+ 
+The precious metals gold, platinum and palladium, were determined using Procedure PGM-
+ICP27 (ALS Chemex internal code), a thirty-gram fire assay, again followed by ICP-AES, which 
+is appropriate for higher grade rather than lower grade geochemical samples.  
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 39 of 132 
+CZZ-Expo Report No. 129 
+
+13.0 DATA VERIFICATION 
+ 
+13.1 SITE VISIT AND INDEPENDENT SAMPLING 
+ 
+Authors Eugene Puritch and Tracy Armstrong visited the Raglan South Nickel Project from 
+August 17 to August 20, 2006. An independent sample verification program was conducted at 
+that time. An attempt was made to sample intervals from a variety of low and high-grade 
+material for several deposits. Two samples were taken from the Expo deposit, two from 
+Mesamax, four from Ivakkak, two from Mequillon and four from Tootoo. 
+ 
+The chosen sample intervals were then sampled by taking quarter splits of the remaining half-
+split core. The samples were then documented, bagged, and sealed with packing tape and were 
+taken to the SGS Lab in Toronto, Ontario for analysis by Eugene Puritch P.Eng. 
+ 
+At no time, prior to the time of sampling, were any employees or other associates of CRI advised 
+as to the location or identification of any of the samples to be collected.  
+ 
+A comparison of the P&E independent sample verification results versus the original assay 
+results for Ni, Cu and combined PGE (Au, Pt and Pd) can be seen in Figures 13.1, 13.2 and 13.3. 
+The P&E results demonstrate that the results obtained and reported by CRI were reproducible. 
+ 
+ 
+ 
+
+P&E Verification Sample Results for Nickel
+South Raglan Project August 2006 
+
+0.00
+
+0.50
+
+1.00
+
+1.50
+
+2.00
+
+2.50
+
+3.00
+
+3.50
+
+4.00
+
+4.50
+
+Expo-1 Expo-2 Mesamax
+NW-1
+
+Mesamax
+NW-2
+
+Ivakaak-1 Ivakaak-2 Ivakaak-3 Ivakaak-4 Mequillon-
+1
+
+Mequillon-
+2
+
+Tootoo-1 Tootoo-2 Tootoo-3 Tootoo-4
+
+Deposit Name
+
+N
+i %
+
+Ni% CZZ
+Ni% P & E
+
+ 
+Figure 13.1: Independent Sample Verification Results for Nickel, August 2006 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 40 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+P & E Verification Sample Results for Copper
+
+South Raglan Project August 2006
+
+0.00
+
+1.00
+
+2.00
+
+3.00
+
+4.00
+
+5.00
+
+6.00
+
+7.00
+
+Expo-1 Expo-2 Mesamax
+NW-1
+
+Mesamax
+NW-2
+
+Ivakaak-1 Ivakaak-2 Ivakaak-3 Ivakaak-4 Mequillon-
+1
+
+Mequillon-
+2
+
+Tootoo-1 Tootoo-2 Tootoo-3 Tootoo-4
+
+Deposit Name
+
+C
+u 
+
+%
+
+Cu% CZZ
+Cu% P & E
+
+ 
+ 
+Figure 13.2: Independent Sample Verification Results for Copper, August 2006 
+ 
+ 
+
+0.00
+
+2.00
+
+4.00
+
+6.00
+
+8.00
+
+10.00
+
+12.00
+
+Expo-1 Expo-2 Mesamax
+NW-1
+
+Mesamax
+NW-2
+
+Ivakaak-1 Ivakaak-2 Ivakaak-3 Ivakaak-4 Mequillon-1 Mequillon-2 Tootoo-1 Tootoo-2 Tootoo-3 Tootoo-4
+
+Deposit Name
+
+P
+G
+
+E
+ (
+
+g/
+t)
+
+PGE CZZ
+PGE P&E
+
+P & E Verification Sample Results for Combined PGE
+South Raglan Project August 2006
+
+ 
+Figure 13.3: Independent Sample Verification Results for Combined PGE, August 2006 
+ 
+13.2 CORE RECOVERY 
+  
+The core recovery of the Expo drill holes in 2005 and 2006 has remained very high, as was the 
+case for the 2003-04 field seasons. Given the overall excellent recoveries and the even 
+distribution of the minerals of potential economic interest in the core, there is no reason to 
+believe that core recovery has in any way influenced the reliability of the assay database for the 
+Expo deposit.  
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 41 of 132 
+CZZ-Expo Report No. 129 
+
+13.3 DATABASE VERIFICATION  
+ 
+The Expo assay database is assembled and kept by CRI personnel in Val-d'Or, who are also 
+responsible for the ongoing monitoring of the assay results with respect to the laboratory 
+performance on standards and blanks. The data are stored in a commercially available 
+spreadsheet format that can be exported into GEMCOM software for later block modelling.  
+ 
+Assay data are received electronically and imported into the spreadsheet without the need for 
+manual manipulation. Sample numbers and intervals are checked against the data recorded in the 
+drillhole logs. Routine searches are made for overlapping or missing assay intervals. Unsampled 
+intervals have no entry. Results below detection limit were assigned one half of the detection 
+limit value.  
+ 
+After the first Technical Report and Resource Evaluation in 2005, which comprised all data up to 
+December 31, 2004, all projects in the Raglan South Nickel Project were regrouped into one 
+large drillhole database called Ungava_Master. Individual projects Mesamax, Mequillon, Expo, 
+Ivakkak and other smaller projects in the area were relocated in a General UTM grid instead of a 
+variety of local grids. 
+ 
+Special attention was focused on the location and re-surveying of previous holes, and in 
+particular: 
+
+• Geologists spent time in October and November 2006 verifying the location of the holes 
+on section and in relation to the old grid;  
+
+• Discrepancies were corrected and documented by L. Cloutier, acting database manager 
+for CRI; 
+
+• When building the Ungava_Master database, the former database manager re-imported 
+all assay data directly from the lab certificates, eliminating errors caused by Cut & Paste 
+techniques; 
+
+• Minor manipulation was required to transform ppm to percent for certain elements like 
+Co and Cr; 
+
+• Validation tests were conducted on all data from the database, comparing maximum and 
+minimum values; 
+
+• Small discrepancies in hole survey data were noted and corrected; 
+• Un-surveyed holes from the end of 2006 were located according to the local grid; NB: 
+
+None of the un-surveyed holes was used in the 2006 Resources; 
+• Verification was done on all previous assay data by comparing the previous databases 
+
+(Mesamax, Expo, Mequillon and Ivakkak) with the Ungava_Master; 
+• Discrepancies were noted and each one was verified with the source and corrected 
+
+accordingly; 
+• Verification was done on all 2005 and 2006 assay results by importing original lab 
+
+certificates into the database. Checks done comparing both datasets confirmed the 
+integrity of the Ungava Master assay database. 
+
+ 
+13.4 QUALITY ASSURANCE AND QUALITY CONTROL 
+ 
+A thorough QA/QC program was instituted in 2002 and 2003 using property standards created 
+from a large volume of drill core samples from the Mesamax deposit. Two different reference 
+materials were made: Net Textured (CR-CS02-NT and CR-CS03-NTv2) and Massive Sulphide 
+(CR-CS01-MS). Initial round robin characterization of the material was done by three different 
+labs.  
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 42 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+During the next three years, (2004, 2005 and 2006) both the net textured and massive sulphide 
+standards were used systematically. Results for the net textured reference material were 
+acceptable however the massive sulphide standard often demonstrated a low bias in relation to 
+the characterization round robin.  
+ 
+In 2005, H. Thalenhorst of Strathcona Minerals was asked to review the data and control charts 
+for the 2004 and 2005 data. A recalibration of the massive sulphide standard was done at that 
+time. 
+ 
+In 2006, the results from the CR-CS01-MS standard were showing in excess of a 45% failure 
+rate, which is defined as > ± 3 standard deviations from the mean.  
+ 
+It was decided once again to re-calibrate the mean and standard deviation for the massive 
+sulphide reference material. The reasoning behind doing this is summed up in the following 
+communication with Valerie Murphy, B.Sc., C. Chem., SGS Minerals Services - Quality Control 
+Coordinator. 
+ 
+"It is far more acceptable to calculate the mean and standard deviation with a large data pool 
+over a long time period (even from a single lab) than to use data gathered in a characterization 
+study that only involves a few laboratories. This is not just a more acceptable and rugged 
+practice for characterization studies but even for certified reference materials as certificate 
+values may be skewed and limited. Typically, a lab will generate large amounts of data that 
+involves different operators, different days, different environmental conditions etc. to capture the 
+true uncertainty of the material and hence the necessary criteria to set appropriate acceptance 
+criteria." 
+ 
+The mean and standard deviation were re-calculated using standard procedures of trimming 
+values >2 standard deviations prior to determining the final value of these parameters.  
+ 
+Once the massive sulphide reference material was re-calibrated taking into account three years of 
+assays, the ALS Chemex results fell within the acceptable parameters supported by the fact that 
+their internal QA/QC showed no failures.  
+ 
+The low bias concerning CR-CS01-MS happened on September 29, 2006 with one failure and 2 
+values between 2 and 3 standard deviations. The failed batch was re-assayed and all samples 
+came back with values identical to the first assay, apart from the Reference Material CR-CS01-
+MS.  
+ 
+This only true failure, (September 29) appears to illustrate a problem with the specific standard 
+sachet added to the batch. Apart from this particular case, the CR-CS01-MS behaves within the 
+acceptable parameters.  
+ 
+It was also decided to confirm the quality and the reliability of the Reference Material CR-CS01-
+MS and three different labs were selected for a new round robin. 
+ 
+Results of the new round robin indicated that values for copper were confirmed with a total 
+average of the three labs close to the mean that was calculated from three years of repeated 
+assaying. Nickel values were represented by a higher mean. 
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 43 of 132 
+CZZ-Expo Report No. 129 
+
+14.0 ADJACENT PROPERTIES 
+ 
+Canadian Royalties has a very large property package consisting of greater than 1,000 square 
+kilometres in the South Raglan Trend. The Expo, Mesamax, Mequillon, Ivakkak and Tootoo 
+deposits are all situated essentially in the central area of the property, (refer to Figure 6.1). The 
+deposits of the currently operating Raglan Mine are located along a parallel belt of rocks 
+approximately 15 kilometres to the north. 
+ 
+The Raglan Mine, now owned and operated by Xstrata Nickel, has very similar geology and 
+economic geology to that of CRI's Raglan South Nickel Project. 
+ 
+The Raglan Trend stretches 55 kilometres from east to west, with a series of many high-grade 
+ore deposits scattered along its length. While the general geology of the South Raglan Trend and 
+Raglan Trend is similar with comparable sulphide mineral paragenesis and with similar sulphide 
+textures, the Ni-Cu ratios are different. The Raglan Trend displays a 3:1 Ni-Cu ratio that 
+contrasts with that of the South Raglan Trend, which is generally closer to parity. 
+ 
+Mineralization at Raglan is associated with up to nine separate peridotite flows, which constitute 
+an overall ultramafic body that has been identified along the 55 kilometres. Deposits along this 
+trend include from east to west the Donaldson, Boundary, West Boundary, 13-14, 5-8, Katinniq, 
+East Lake, 2-3 Zone and Cross Lake deposits. The thickness of the sulphide lenses varies from a 
+few metres to a few tens of metres, and the strike length can vary from tens of metres to 200 
+metres. Production began in April 1998 at Katinniq, which consists of over 20 discrete lenses of 
+massive and disseminated sulphide, which vary in size from 10,000 tonnes to 1.4 million tonnes 
+(Falconbridge Limited, Website May 2003). The lenses extend along an ultramafic horizon 1400 
+metres in strike length, which dips to the northwest at 45º to 50º. The mineralized horizon has 
+been traced to a depth of 350 metres and is open in that direction.  
+ 
+The Raglan operations consist of open pits, three underground mines, a concentrator, power 
+plant, accommodation and administration buildings, fresh water supply and fuel storage tanks. 
+The mine site is linked by all-weather roads to an airstrip at Donaldson and to the concentrate, 
+storage and ship-loading facilities at Deception Bay.  
+ 
+Approximately 90% of the mining at Raglan comes from three underground sources, with the 
+remainder coming from a series of open pits.  
+ 
+The ore from the Raglan mines is crushed, ground and treated at the Raglan mill to produce a 
+nickel-copper concentrate. Milling capacity is 3,000 tonnes per day. Nickel capacity at the 
+concentrator is 26,000 tonnes of nickel-in-concentrate per year. Xstrata Nickel is in the process 
+of expanding capacity at the Raglan Mine. 
+ 
+The concentrate is trucked 100 kilometres to Deception Bay and then shipped via ocean freighter 
+to Québec City within an expected shipping season of at least eight months of the year, and a 
+minimum of six shipments per year. From there, it is sent by rail to the smelter in Sudbury. The 
+smelted matte material is returned by rail to Québec City, and then shipped overseas to Xstrata's 
+Norwegian refinery for refining into pure metals.  
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 44 of 132 
+CZZ-Expo Report No. 129 
+
+Raglan Mine 2005 Production Rates  
+ 
+22,224 tonnes nickel-in-concentrate 
+5,842 tonnes copper-in-concentrate 
+525 tonnes cobalt-in-concentrate.  
+
+  
+Reserves as of year end 2005 
+ 
+Proven:  5.94 million tonnes grading 2.58% nickel and 0.72% copper  
+Probable: 8.91 million tonnes grading 2.95% nickel and 0.81% copper  
+ 
+Resources as of year end 2005 
+ 
+Measured:  55,000 tonnes grading 3.92% nickel and 1.12% copper  
+Indicated:  3.34 million tonnes grading 2.40% nickel and 0.80% copper  
+Inferred:  7.7 million tonnes grading 3.0% nickel and 0.80% copper  
+ 
+While the authors cannot suggest at this point that the CRI deposits on the South Raglan Trend 
+will attain the scale of the Raglan deposits in the Raglan Trend, there is an undeniable similarity 
+in host rock, ore genesis, style of mineralization and metallurgy.  
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.       Page 45 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+Figure 14.1: Geology of the Raglan Mine Deposits 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 46 of 132 
+CZZ-Expo Report No. 129 
+
+15.0 2006 METALLURGICAL PROCESSING AND METALLURGICAL TESTING 
+ 
+15.1 EXPO/MESAMAX BLEND TEST FOR FLOTATION AND GRINDABILITY 
+ 
+Half drill core samples of Expo mineralization were sent to SGS Lakefield in January, 2006 and 
+again in April 2006 with the goal of investigating grindability and flotation characteristics of 
+blended Expo and Mesamax mineralization. Of principal interest was the metallurgical response 
+to coarsening primary grind while maintaining acceptable concentrate recovery and grade. 
+Results of the study are reported in "SGS Lakefield Report 10749-004 Report 8", dated August 
+8, 2006. 
+ 
+Expo (EX06) mineralization grading 0.85% Cu and 0.85% Ni was prepared together with a 
+composite of Expo-Mesamax (EXMX06) blended at 60:40, which graded 1.54% Cu and 1.42% 
+Ni. Bond rod mill work indices were determined to be 18.1 kWh/t for the Expo mineralization 
+and 15.1 kWh/t for the blended mineralization. Bond ball mill work indices were measured at 
+16.7 kWh/t for Expo and 14.2 kWh/t for the blend. The results for EX06 indicated softer 
+mineralization than previously tested Expo samples, but nevertheless still consistent with hard 
+mineralization. The EXMX06 work indices were indicative of medium-hard mineralization. 
+ 
+Flotation testing on EX06 yielded superior results over testing on previous Expo samples. In 
+particular, overall batch test copper recovery was better at 86% compared to 79%. Copper 
+recovery to the Cu concentrate more than doubled from 37% to 78%. Ni response was similar 
+compared to a previous sample. A copper regrind was not essential to secure concentrate grades 
+of >25% Cu and <1% Ni at a primary grind of 75 µm. A Cu/Ni regrind located in a post Cu/Ni 
+rougher location showed better potential for overall nickel recovery than in the pre-rougher 
+location. 
+ 
+Rougher kinetics tests were completed on blend EXMX06 mineralization to assess the recovery 
+impact of coarsening primary grind. Cu rougher recoveries improved from 95% at a P80 of 100 
+µm to 97% at a P80 of 30 µm, while corresponding Ni recoveries over the same size range 
+improved from 89% to 91%. Pyrrhotite-nickel selectivity was considerably worse at primary 
+grinds approaching 100 µm suggesting potential difficulties for producing quality nickel 
+concentrates at this size. 
+ 
+Primary grinds set at 80% passing 75 µm were taken as the coarse limit of acceptable product 
+size on blended mineralization such that saleable nickel concentrates might be maintained and no 
+copper regrind required. The estimated impact of coarsening primary grind from P80 of 50 µm to 
+P80 of 75 µm is 0.9% loss of copper and 1.3% loss of nickel. 
+ 
+Batch cleaner testing optimized reagents, regrind position and regrind particle size. Copper 
+concentrate grades of 25% Cu with <1% Ni were achievable. Regrinds positioned post Cu/Ni 
+rougher stage and in the range of 80% passing 20-25 µm were required to achieve satisfactory Ni 
+bulk concentrate grades. 
+ 
+Three locked cycle tests were completed. Results from the best test, LCT1 are presented in the 
+following table. 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 47 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+Table 15-1: Results of Best Locked Cycle Test Expo/Mesamax Blend 
+ 
+Product Mass
+
+% Cu % Ni % Pt g/t Pd g/t Cu  Ni Pt Pd
+Copper Concentrate 4.85 26.10 1.02 1.91 21.10 84.80 3.50 15.70 43.80
+Ni Bulk Concentrate 10.00 1.25 10.30 2.69 8.82 8.40 74.00 45.40 37.70
+Final Tailings 85.15 0.12 0.37 0.27 0.51 6.80 22.50 39.00 18.50
+Head (calculated) 100.00 1.50 1.38 0.59 2.34 100.00 100.00 100.00 100.00
+
+Assays Distribution, %
+
+ 
+ 
+The Cu concentrate recovered 85% of the copper and graded 26% Cu and 1% Ni. The Ni bulk 
+concentrate recovered a further 8% of the copper and 74% of the nickel and graded 10.3% Ni 
+and 1.3% Cu. A 12% Ni concentrate could be generated, but nickel recovery would be poor, in 
+the range of 60-65%. Overall platinum and palladium recoveries were approximately 61% and 
+82% respectively. Detailed concentrate analysis identified no potential penalty elements for a 
+smelter. Self-heating properties of the Ni bulk concentrate were not available at the time of 
+issuance of the report. 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 48 of 132 
+CZZ-Expo Report No. 129 
+
+16.0 P & E 2006 RESOURCE ESTIMATE 
+ 
+16.1 INTRODUCTION 
+ 
+The purpose of this report section is to delineate the Expo Deposit Resources in compliance with 
+NI 43-101 and CIM standards. This resource estimate was undertaken by Eugene Puritch, P. 
+Eng. and Antoine Yassa, P. Geo. of P & E Mining Consultants Inc. of Brampton, Ontario. The 
+effective date of this resource estimate is December 24, 2006. 
+ 
+16.2 DATABASE 
+ 
+All drilling data were provided by Canadian Royalties Inc. in the form of Microsoft Excel files, 
+drill logs and assay certificates.  Thirty (30) drill cross sections were developed on a local grid 
+looking west-southwest on azimuth 261.330 with a 30 metre spacing named 9,790-E to 10,660-E.  
+A Gemcom database was provided by the client containing 265 diamond drill holes of which 204 
+were utilized in the resource calculation. The remaining data were not in the area that was 
+modeled for this resource estimate.  A surface drill hole plan is shown in Appendix I. 
+ 
+The database was validated in Gemcom with minor corrections required.  The assay table of the 
+database contained 10,392 assays for Ni, 10,738 for Cu, 10,932 for Co, 9,773 for Au, 9,931 for 
+Pt and 9,935 for Pd.  All data are expressed in metric units and grid coordinates are in the 
+NAD83 UTM system. 
+ 
+16.3 DATA VERIFICATION 
+ 
+A previous technical report authored in 2005 by Strathcona Mineral Services Limited verified all 
+data entry, drill hole surveys and laboratory results and found the database to be in good condition 
+and reliable for resource evaluation. At that time close to 6,000 samples made up the assay 
+database.  
+ 
+At the end of 2006, a verification of assay data entry was performed on 1,884 assay intervals for 
+Ni, Cu, Co, Au, Pt and Pd. A few data entry errors were observed and corrected. The 1,884 
+verified intervals were checked against assay lab data files from ALS Chemex of Vancouver, 
+B.C., (three samples were still missing at the time of this resource evaluation). The 2006 checked 
+assays represent 18.3% of the data to be used for the resource estimate and all verified assay 
+results represent 76.5% of the entire database.  
+ 
+Table 16-1: Data Verification Statistics 
+ 
+Period Assayed 
+
+intervals 
+Used in 
+Resource 
+
+Status Percentage of 
+database 
+
+Percentage of 
+Resource 
+
+Pre-2005 6072 5024 Verified 58.4% 67.4%
+2005 2444 1067 Validated 23.5% 14.3%
+2006 1884 1367 Verified 18.1% 18.3%
+Total  10400 7458 Reliable  100%
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 49 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+16.4 DOMAIN INTERPRETATION 
+ 
+Domain boundaries were determined from lithology, structure and Ni, Cu and PGE boundary 
+interpretation from visual inspection of drillhole sections.  Four domains were developed named 
+Massive Sulphide, Net Textured, Vein and Ultramafic.  These domains were physically created 
+with computer screen digitizing on drillhole sections in Gemcom by the authors of this report.  
+The outlines were influenced by the selection of mineralized material that demonstrated massive, 
+net textured, vein and ultramafic grade characteristics, and zonal continuity along strike and 
+across the sections.  In a very few cases mineralization below massive, net textured or vein 
+characteristic grades was included for the purpose of maintaining zonal continuity.  
+ 
+On each section, polyline interpretations were digitized from drill hole to drill hole but typically 
+not extended more than 25 metres into untested territory.  Minimum constrained true width for 
+interpretation was 2.0 metres. The interpreted polylines from each section were "extruded" into 
+Gemcom into 3-dimensional polygonal domains.  The resulting solids (domains) were used for 
+statistical analysis, grade interpolation, rock coding and resource reporting purposes.  See 
+Appendix II. 
+ 
+16.5 ROCK CODE DETERMINATION 
+ 
+The rock codes used for the resource model were derived from the mineralized domain solids.  
+The list of rock codes used is as follows: 
+ 
+Rock Code Description  
+ 
+ 0 Air  
+ 
+10 Massive Sulphide  
+ 
+20 Vein 
+ 
+20 Net Textured Sulphide  
+ 
+30 Ultramafic Rocks  
+ 
+99 Waste Rock 
+ 
+100 Overburden 
+ 
+16.6  COMPOSITES  
+ 
+Length weighted composites were generated for the drill hole data that fell within the constraints 
+of the above-mentioned domains. These composites were calculated for Ni, Cu, Co, Au, Pt and 
+Pd over 1.0 metre lengths starting at the first point of intersection between assay data hole and 
+hanging wall of the 3-D zonal constraint. The compositing process was halted upon exit from the 
+footwall of the aforementioned constraint. Any composite calculated that was less than 0.5 metre 
+in length was added to the preceding one metre composite so as to include all composite data. 
+This was done in order to not introduce a short sample bias in the interpolation process. The 
+composite data were extracted to Gemcom extraction files for the grade interpolation as X, Y, Z, 
+Ni, Cu, Co, Au, Pt, Pd files. 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 50 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+16.7 GRADE CAPPING 
+ 
+Grade capping was investigated on the raw assay values in the combined domains to ensure that 
+the possible influence of erratic high values did not bias the database. Extraction files were 
+created for constrained Ni, Cu, Co, Au, Pt and Pd data within each mineralized domain. From 
+these extraction files, log-normal histograms were generated and subsequently analyzed to 
+determine the location of and capping value required to remove outliers that would unduly 
+influence the grade interpolation. Refer to Appendix III for graphs. 
+ 
+Table 16-2:   Grade Capping Values  
+
+Massive Sulphide Domain                                                  (N=285) 
+Element Capping Value 
+
+% or g/t 
+Number of 
+
+Assays Capped
+Cumulative % for 
+
+Capping 
+Raw Coefficient 
+
+of Variation 
+Capped Coefficient 
+
+of Variation 
+    Ni No Cap 0 100 0.46 0.46 
+
+Cu 5.5 9 96.8 0.88 0.70 
+Co No Cap 0 100 0.44 0.44 
+Au 1.5 2 99.3 5.37 2.08 
+Pt 5 1 99.6 0.87 0.86 
+Pd 15 6 97.9 1.45 1.11 
+
+Vein Domain                                                                        (N=118) 
+Element Capping Value 
+
+% or g/t 
+Number of 
+
+Assays Capped
+Cumulative % for 
+
+Capping 
+Raw Coefficient 
+
+of Variation 
+Capped Coefficient 
+
+of Variation 
+    Ni No Cap 0 100 0.82 0.82 
+
+Cu 3 10 91.5 0.81 0.69 
+Co No Cap 0 100 0.81 0.81 
+Au 0.6 3 97.5 3.26 1.50 
+Pt 2 2 98.3 1.13 0.97 
+Pd 7 5 95.8 1.48 0.92 
+
+Net Textured Sulphide Domain                                      (N=2,994) 
+Element Capping Value 
+
+% or g/t 
+Number of 
+
+Assays Capped
+Cumulative % for 
+
+Capping 
+Raw Coefficient 
+
+of Variation 
+Capped Coefficient 
+
+of Variation 
+    Ni 2.5 31 99.0 0.72 0.65 
+
+Cu 3 20 99.3 0.89 0.74 
+Co 0.1 48 98.4 0.63 0.51 
+Au 1 25 99.2 3.33 1.74 
+Pt 2 3 99.9 0.77 0.75 
+Pd 7 28 99.1 1.33 0.90 
+
+Ultramafic Domain                                                             (N=4,061) 
+Element Capping Value 
+
+% or g/t 
+Number of 
+
+Assays Capped
+Cumulative % for 
+
+Capping 
+Raw Coefficient 
+
+of Variation 
+Capped Coefficient 
+
+of Variation 
+    Ni 1 73 98.2 1.08 0.64 
+
+Cu   1 137 96.6 1.80 0.84 
+Co 0.18 2 99.9 0.82 0.72 
+Au  0.1 118 97.1 2.43 0.81 
+Pt 0.4 99 97.6 4.20 0.84 
+Pd 2 105 97.4 3.55 0.91 
+
+ 
+16.8 VARIOGRAPHY  
+ 
+Variography was not carried out on the constrained domain composites within the four domains 
+in the deposit model. The mineralized domains exhibited good sectional continuity but due to 
+erratically distributed populations, did not yield discernable variograms.  
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 51 of 132 
+CZZ-Expo Report No. 129 
+
+16.9 BULK DENSITY 
+ 
+The bulk density used for the resource model was derived from measurements of test work 
+performed by ALS Chemex of Val d'Or, Quebec on regular core samples obtained from the 
+assay sample submission to the laboratory. A bulk density model was created from these data 
+and utilized to calculate the reported tonnes. The average bulk density from samples was 
+calculated to be 4.59 tonnes per cubic meter in the massive sulphide and vein domains, 3.11 
+tonnes per cubic metre in the net textured domain and 2.92 tonnes per cubic metre in the 
+ultramafic domain. 
+ 
+16.10 BLOCK MODELING 
+ 
+The resource model was divided into a 3-D block model framework. The block model has 
+3,136,000 blocks that were 5m in the X direction, 5m in the Y direction and 5m in the Z 
+direction. There were 280 columns (X), 160 rows (Y) and 70 levels. The block model was 
+rotated 8.33 degrees counter clockwise. Separate block models were created for rock type, 
+density, percent, Ni, Cu, Co Au, Pt and Pd.  
+ 
+The percent block model was set up to accurately represent the volume and subsequent tonnage 
+that was occupied by each block inside each constraining domain. As a result, the domain 
+boundaries were properly represented by the percent model ability to measure infinitely variable 
+inclusion percentages within a particular domain. 
+ 
+The Ni, Cu, Co Au, Pt and Pd composites were extracted from the Microsoft Access database 
+composite table into separate files for each Mineralized Zone. Inverse distance squared (1/d2) 
+grade interpolation was utilized. There were two interpolation passes performed on each domain 
+for each element for the indicated and inferred classifications. The resulting Ni, Cu, and NSR 
+blocks can be seen on the block model cross-sections and plans in Appendix IV and V. The 
+grade blocks within all domains were interpolated using the following parameters.  
+ 
+Table 16-3: Block Model Interpolation Parameters 
+ 
+
+ 
+
+Profile 
+
+ 
+
+Dip 
+
+Dir. 
+
+ 
+
+Strike 
+
+ 
+
+Dip 
+
+ 
+
+Dip 
+
+Range 
+
+ 
+
+Strike 
+
+Range 
+
+Across 
+
+Dip 
+
+Range 
+
+Max # 
+
+per Hole 
+
+ 
+
+M in # 
+
+Sample 
+
+ 
+
+M ax # 
+
+Sample 
+
+SFMA-IND 0° 0° 0° 13 13 13 3 2 12 
+SFMA-INF 0° 0° 0° 50 50 50 5 1 12 
+VEIN-IND 0° 0° 0° 13 13 13 3 2 12 
+VEIN-INF 0° 0° 0° 50 50 50 5 1 12 
+
+SFNET-N-IND 171° 81° -35° 40 40 7.5 5 6 12 
+SFNET-N-INF 171° 81° -35° 250 250 25 5 1 12 
+SFNET-C-IND 171° 90° 0° 40 40 7.5 5 6 12 
+SFNET-C-INF 171° 90° 0° 250 250 25 5 1 12 
+SFNET-S-IND 351° 81° -35° 40 40 7.5 5 6 12 
+SFNET-S-INF 351° 81° -35° 250 250 25 5 1 12 
+UTRAM-IND 171° 90° 0° 40 40 10 5 6 12 
+UTRAM-INF 171° 90° 0° 250 250 250 5 1 12 
+
+BULK DENSITY 0° 0° 0° 250 250 250 3 1 12 
+ 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 52 of 132 
+CZZ-Expo Report No. 129 
+
+Interpolation Codes for Ni, Cu, Co, Au, Pt, Pd 
+ 
+SFMA-IND  Massive Sulphide - Indicated  
+SFMA-INF  Massive Sulphide - Inferred 
+VEIN-IND  Vein - Indicated   
+VEIN-INF  Vein - Inferred 
+SFNET-N-IND Net Textured – North - Indicated 
+SFNET-N-INF Net Textured – North - Inferred 
+SFNET-C-IND Net Textured – Centre - Indicated 
+SFNET-C-INF Net Textured – Centre - Inferred 
+SFNET-S-IND Net Textured – South - Indicated  
+SFNET-S-INF  Net Textured – South - Indicated 
+UTRAM-IND  Ultramafic - Indicated 
+UTRAM-INF  Ultramafic – Inferred 
+ 
+BULK DENSITY Bulk Density – No Classification 
+ 
+16.11 RESOURCE CLASSIFICATION 
+ 
+For the purposes of this resource, classifications of all interpolated grade blocks were determined 
+from the Ni interpolations for indicated and inferred due to Ni being the dominant revenue 
+producing element in the NSR calculation. All blocks coded by the first interpolation pass were 
+coded as indicated while the remaining blocks coded on the second interpolation pass as inferred. 
+See block model classification cross sections and plans in Appendix VI and VII.  
+ 
+Table 16-4: Grade Block Classification Coding 
+ 
+
+Domain & Classification Number Percent 
+Massive Sulphide Indicated 4,001 2.4% 
+Massive Sulphide Inferred   295 0.2% 
+Vein Indicated 1,165 0.7% 
+Vein Inferred   745 0.5% 
+Net Textured Sulphide Indicated 30,539 18.5% 
+Net Textured Sulphide Inferred   3,467 2.1% 
+Ultramafic Indicated 66,337 40.1% 
+Ultramafic Inferred 58,609 35.5% 
+Total Blocks  165,158 100.0% 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 53 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+16.12 RESOURCE ESTIMATE 
+ 
+The resource estimate was derived from applying an NSR cut-off grade to the block model 
+within a Whittle 4X optimized pit shell and reporting the resulting tonnes and grade for 
+potentially mineable areas. The following calculations demonstrate the rationale supporting the 
+NSR cut-off grade that determines the potentially economic portion of the mineralized domains.  
+ 
+NSR Cut-Off Grade Calculation Components (All currency $CDN unless stated otherwise) 
+ 
+$C/$US (Exchange Rate .............................................$0.800 
+Ni Price ............................................. US $5.50/lb ($6.88/lb)  
+Cu Price............................................. US $1.50/lb ($1.88/lb)  
+Co Price.............................................. US $15/lb ($18.75/lb) 
+Au Price ............................................US $425/oz  ($531/oz)  
+Pt Price ...........................................US $900/oz  ($1,125/oz)  
+Pd Price ............................................... US $300oz ($375/oz) 
+Mining Cost .................................... $3.18/rock tonne mined 
+Process Cost (2,500tpd) ........................ $25.00/tonne milled 
+ 
+Massive Sulphide Ni Concentrate 
+Ni Flotation Recovery............................ 82%  
+Cu Flotation Recovery ...........................   6% 
+Co Flotation Recovery ...........................   0% 
+Au Flotation Recovery...........................   0% 
+Pt Flotation Recovery ............................ 52% 
+Pd Flotation Recovery............................ 61% 
+Concentration Ratio .............................. 4.6:1 
+Ni Smelter Payable ................................ 92%   
+Cu Smelter Payable................................ 90%   
+Co Smelter Payable................................   0% 
+Au Smelter Payable................................   5%   
+Pt Smelter Payable ................................. 65%   
+Pd Smelter Payable ................................ 65%  
+ 
+Massive Sulphide Cu Concentrate 
+Ni Flotation Recovery............................   3%  
+Cu Flotation Recovery ........................... 92% 
+Co Flotation Recovery ...........................   0% 
+Au Flotation Recovery...........................   0% 
+Pt Flotation Recovery ............................ 14% 
+Pd Flotation Recovery............................ 36% 
+Concentration Ratio .............................. 6.3:1 
+Ni Smelter Payable ................................   0%   
+Cu Smelter Payable................................ 97%   
+Co Smelter Payable................................   0% 
+Au Smelter Payable...............................   0 %   
+Pt Smelter Payable ................................. 23%   
+Pd Smelter Payable ................................ 56%  
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 54 of 132 
+CZZ-Expo Report No. 129 
+
+Net Textured Ni Concentrate 
+Ni Flotation Recovery............................ 84%  
+Cu Flotation Recovery ........................... 22% 
+Co Flotation Recovery ...........................   0% 
+Au Flotation Recovery...........................   0% 
+Pt Flotation Recovery ............................ 45% 
+Pd Flotation Recovery............................ 41% 
+Concentration Ratio ............................ 15.4:1 
+Ni Smelter Payable ................................ 92%   
+Cu Smelter Payable................................ 90%   
+Co Smelter Payable................................   0% 
+Au Smelter Payable................................   0%   
+Pt Smelter Payable ................................. 65%   
+Pd Smelter Payable ................................ 65%  
+ 
+Net Textured Cu Concentrate 
+Ni Flotation Recovery............................   2%  
+Cu Flotation Recovery ........................... 64% 
+Co Flotation Recovery ...........................   0% 
+Au Flotation Recovery...........................   0% 
+Pt Flotation Recovery ............................ 30% 
+Pd Flotation Recovery............................ 47% 
+Concentration Ratio ............................ 47.6:1 
+Ni Smelter Payable ................................   0%   
+Cu Smelter Payable................................ 97%   
+Co Smelter Payable................................   0% 
+Au Smelter Payable................................   0%   
+Pt Smelter Payable ................................. 57%   
+Pd Smelter Payable ................................ 68%  
+ 
+Ni Refining Charges ......................... US $0.50/lb  ($0.63lb) 
+Cu Refining Charges........................ US $0.10/lb  ($0.13/lb) 
+Co Refining Charges........................ US $2.43/lb  ($3.04/lb) 
+Au Refining Charges....................US $15.00/oz ($18.75/oz) 
+Pt Refining Charges .....................US $15.00/oz ($18.75/oz) 
+Pd Refining Charges ....................US $15.00/oz ($18.75/oz)  
+Ni Smelter Treatment Charges...................... US $125/tonne  
+Cu Smelter Treatment Charges..................... US $103/tonne 
+Concentrate Shipping...................................... US $54/tonne  
+General/Administration......................... $15.00/tonne milled 
+ 
+The above data were derived from the July 2006 Preliminary Economic Analysis on the Expo 
+deposit.  
+ 
+In the anticipated open pit operation, Mill Processing and G&A costs combine for a total of 
+($25.00 + $15.00) = $40.00/tonne milled which became the internal NSR cut-off value.  
+ 
+In order for the constrained mineralization in the Expo model to be considered as a resource 
+which is potentially economic, a first pass Whittle 4X pit optimization was carried out utilizing 
+the following criteria: 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 55 of 132 
+CZZ-Expo Report No. 129 
+
+Waste mining cost per tonne ..................................................................3.18 
+Ore mining cost per tonne ....................................................................$3.18 
+Process cost per tonne.........................................................................$25.00 
+General & Administration cost per ore tonne .....................................$15.00 
+Process production rate (ore tonnes per year)...................................875,000 
+Pit slopes (inter ramp angle) ...............................................................55 deg 
+Massive Sulphide Bulk Density...................................................... 4.59t/m3 
+Vein Bulk Density........................................................................... 4.59t/m3  
+Net Textured Sulphide Bulk Density.............................................. 3.11t/m3 
+Ultramafic Bulk Density ................................................................ 2.92 t/m3  
+Waste Rock Bulk Density............................................................... 2.90t/m3 
+ 
+The resulting resource estimate can be seen in the following table. 
+ 
+Table 16-5:  Resource Estimate @ CDN$ 40/tonne NSR Cut-Off Grade 
+ 
+Massive Sulphide Domain 
+
+ 
+Classification 
+
+ 
+Tonnes 
+
+Ni 
+(%) 
+
+Cu 
+(%) 
+
+Co 
+(%) 
+
+Au 
+(g/t) 
+
+Pt 
+(g/t) 
+
+Pd 
+(g/t) 
+
+NSR 
+($/t) 
+
+Indicated 701,000 2.71 2.13 0.13 0.10 0.87 2.84 $344.87
+Inferred 30,000 2.43 1.51 0.12 0.06 0.83 2.85 $293.01
+
+ 
+
+Vein Domain 
+ 
+
+Classification 
+ 
+
+Tonnes 
+Ni 
+
+(%) 
+Cu 
+(%) 
+
+Co 
+(%) 
+
+Au 
+(g/t) 
+
+Pt 
+(g/t) 
+
+Pd 
+(g/t) 
+
+NSR 
+($/t) 
+
+Indicated 140,000 1.46 1.57 0.08 0.09 0.54 2.35 $187.16
+Inferred 72,000 1.42 1.46 0.07 0.10 0.52 2.22 $178.00
+
+ 
+
+Net Textured Sulphide Domain 
+ 
+
+Classification 
+ 
+
+Tonnes 
+Ni 
+
+(%) 
+Cu 
+(%) 
+
+Co 
+(%) 
+
+Au 
+(g/t) 
+
+Pt 
+(g/t) 
+
+Pd 
+(g/t) 
+
+NSR 
+($/t) 
+
+Indicated 7,721,000 0.57 0.62 0.03 0.08 0.27 1.21 $80.26 
+Inferred 376,000 0.56 0.66 0.03 0.06 0.24 1.04 $78.46 
+
+ 
+
+The Ultramafic domain was not used for resource reporting purposes. It was only utilized to incorporate dilution into 
+the adjacent Massive, Vein and Net Textured domains for pit optimization purposes. 
+ 
+All Domains 
+
+ 
+Classification 
+
+ 
+Tonnes 
+
+Ni 
+(%) 
+
+Cu 
+(%) 
+
+Co 
+(%) 
+
+Au 
+(g/t) 
+
+Pt 
+(g/t) 
+
+Pd 
+(g/t) 
+
+NSR 
+($/t) 
+
+Indicated 8,562,000 0.76 0.76 0.04 0.08 0.32 1.36 $103.68
+Inferred 478,000 0.81 0.83 0.04 0.07 0.32 1.33 $107.03
+
+ 
+
+(1) Mineral resources which are not mineral reserves do not have demonstrated economic viability.  The estimate of 
+mineral resources may be materially affected by environmental, permitting, legal, title, taxation, sociopolitical, 
+marketing, or other relevant issues. 
+
+(2) The quantity and grade of reported inferred resources in this estimation are conceptual in nature and there has been 
+insufficient exploration to define these inferred resources as an indicated or measured mineral resource and it is 
+uncertain if further exploration will result in upgrading them to an indicated or measured mineral resource category. 
+
+ 
+The mineral resources were estimated using the Canadian Institute of Mining, Metallurgy and 
+Petroleum (CIM), CIM Standards on Mineral Resources and Reserves, Definitions and 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 56 of 132 
+CZZ-Expo Report No. 129 
+
+Guidelines prepared by the CIM Standing Committee on Reserve Definitions and adopted by 
+CIM Council December 11, 2005. 
+ 
+16.13 CONFIRMATION OF ESTIMATE 
+ 
+As a test of the reasonableness of the estimate, the block model was queried at a 0.01 % Ni cut 
+off grade with blocks in all classifications summed and their grades weight averaged. This 
+average is the average grade of all blocks within the mineralized domains. The values of the 
+interpolated grades for the block model were compared to the length weighted capped average 
+grades and average grade of composites of all samples from within the domain. The results are 
+presented below. 
+ 
+Table 16-6: Comparison of Weighted Average Grade of Capped Assays and Composites 
+
+with Total Block Model Average Grade 
+ 
+Massive Sulphide Domain 
+
+Category Ni 
+(%) 
+
+Cu 
+(%) 
+
+Co 
+(%) 
+
+Au 
+(g/t) 
+
+Pt 
+(g/t) 
+
+Pd 
+(g/t) 
+
+Capped Assays 2.41 1.90 0.11 0.09 0.71 2.42 
+Composites 2.55 1.96 0.12 0.10 0.81 2.71 
+Block Model 2.62 1.96 0.13 0.09 0.86 2.93 
+ 
+Vein Domain 
+Category Ni 
+
+(%) 
+Cu 
+(%) 
+
+Co 
+(%) 
+
+Au 
+(g/t) 
+
+Pt 
+(g/t) 
+
+Pd 
+(g/t) 
+
+Capped Assays 1.16 1.20 0.06 0.08 0.43 1.93 
+Composites 1.32 1.37 0.07 0.09 0.49 2.16 
+Block Model 1.38 1.42 0.07 0.09 0.50 2.19 
+ 
+Net Textured Domain 
+Category Ni 
+
+(%) 
+Cu 
+(%) 
+
+Co 
+(%) 
+
+Au 
+(g/t) 
+
+Pt 
+(g/t) 
+
+Pd 
+(g/t) 
+
+Capped Assays 0.56 0.59 0.03 0.06 0.24 1.08 
+Composites 0.56 0.60 0.03 0.07 0.26 1.17 
+Block Model 0.54 0.60 0.03 0.07 0.25 1.13 
+ 
+The comparison above shows the average grade of all of the Ni, Cu, Co, Au, Pt and Pd blocks in 
+each domain to be similar to the weighted average of all capped assays and composites used for 
+grade estimation in the Net Textured Domain, however, many isolated higher grade assays in the 
+Massive and Vein Domains are contributing to higher block model values than capped assays or 
+composites. The block model invariably represents the metal distribution most correctly of all 
+three methods. This effect is essentially the reverse of assay data clustering. 
+ 
+In addition, a volumetric comparison was performed with the block volume of the model vs. the 
+geometric calculated volume of the domain solids.  
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 57 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+Massive Sulphide Domain 
+Block Model Volume            =  164,956 m3 
+Geometric Domain Volume  =  164,913 m3 
+Difference                              =  0.026% 
+ 
+Vein Domain 
+Block Model Volume            =  68,404 m3 
+Geometric Domain Volume  =  68,424 m3 
+Difference                              =  0.029% 
+ 
+Net Textured Sulphide Zone 
+Block Model Volume            =  2,894,336 m3 
+Geometric Domain Volume  =  2, 892,817 m3 
+Difference                              =  0.052% 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 58 of 132 
+CZZ-Expo Report No. 129 
+
+17.0 OTHER RELEVANT DATA AND INFORMATION 
+ 
+There are no other data considered relevant to this report that have not previously been included.
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 59 of 132 
+CZZ-Expo Report No. 129 
+
+18.0 CONCLUSIONS AND RECOMMENDATIONS 
+ 
+18.1 CONCLUSIONS 
+ 
+The Expo nickel, copper, cobalt PGE deposit was modeled under current CIM resource 
+definitions (December, 2005) and in accordance with accepted industry practice. NI 43-101 
+reporting standards and formats were followed in this document in order to report the mineral 
+resource in a fully compliant manner.  
+ 
+The Indicated Resources as reported have demonstrated mineralized continuity, shape, density 
+and grade, which have been well established based on thirty (30) drill cross sections developed on 
+a local grid looking west-southwest on azimuth 261.33º with a 30 metre spacing. The resource 
+classifications were determined from the Ni interpolations for Indicated and Inferred due to Ni 
+being the dominant revenue-producing element in the NSR calculation. All blocks coded by the 
+first interpolation pass were coded as Indicated while the remaining blocks coded on the second 
+interpolation pass were classified as Inferred.  
+ 
+The definition of Indicated and Inferred Resources is in compliance with the CIM Definitions and 
+Standards on Mineral Resources and Mineral Reserves, December 11, 2005.  
+ 
+Verification of assay data entry was performed on 1,884 assay intervals for Ni, Cu, Co, Au, Pt 
+and Pd. A few data entry errors were observed and corrected. The 1,884 verified intervals were 
+checked against assay lab data files from ALS Chemex of Vancouver, B.C., (three samples were 
+still missing at the time of the resource evaluation). The 2006 checked assays represent 18.3% of 
+the data used for the resource estimate and all verified assay results represent 76.5% of the entire 
+database.  
+ 
+The mineral resource estimate has delineated tonnage and grade for nickel, copper, cobalt and 
+PGE in the Indicated and Inferred categories based on a $CDN 40/tonne NSR cut-off grade, 
+relying on all available data as of the effective date of this report.  
+ 
+
+Based on the geological continuity and grade of the nickel, copper, cobalt and PGE mineralized 
+material, the authors believe an excellent potential exists to place the Expo deposit into 
+production at the completion of the permitting applications, a bankable feasibility study, (BFS) 
+and an environmental and social impact analysis (ESIA), which are being undertaken at the 
+present time. 
+
+ 
+18.2  RECOMMENDATIONS 
+ 
+The Bankable Feasibility Study, (BFS) and Environmental and Social Impact Analysis (ESIA) 
+are currently underway. The authors feel that the deposit is advanced to a level such that a 
+production decision will be the likely outcome from the current studies. Assuming the results are 
+positive, the next step will be to delineation drill for production. 
+ 
+There are presently 0.5 million tonnes in the Inferred category. Canadian Royalties should 
+continue drilling to upgrade the Inferred resources to Indicated, though the impact on the deposit 
+tonnage will be minimal. There are many gaps in the deposit due to an absence of drilling and a 
+minimal amount of drilling should be done to acquire information in these areas. A proposed 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 60 of 132 
+CZZ-Expo Report No. 129 
+
+budget for this program, which should be undertaken in one phase, is presented in the following 
+table. 
+ 
+Table 18-1: Preliminary Budget 
+ 
+ 
+Program Program Costs CDN$
+Inferred Upgrade
+1,025 metres of diamond drilling $88,000
+Sampling, QA/QC $18,000
+Camp Costs $40,000
+Helicopter Support $74,000
+Administration $40,000
+SUB-TOTAL $260,000
+Gaps in Resource Area Program Costs CDN$
+1,920 metres of diamond drilling $165,000
+Sampling, QA/QC $36,000
+Camp Costs $75,000
+Helicopter Support $135,000
+Administration $79,000
+SUB-TOTAL $490,000
+TOTAL ALL DRILLING $750,000
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 61 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+Respectfully Submitted, 
+ 
+ 
+P & E Mining Consultants Inc 
+ 
+ 
+ 
+{SIGNED AND SEALED}     {SIGNED AND SEALED} 
+ 
+______________________________   __________________________ 
+Eugene Puritch, P. Eng.     Tracy Armstrong, P. Geo.   
+ 
+ 
+ 
+ 
+{SIGNED AND SEALED} 
+ 
+______________________________    
+Antoine Yassa, P. Geo.      
+ 
+ 
+ 
+ 
+ 
+ 
+Dated this 26th Day of February, 2007 
+
+ 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 62 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+19.0 REFERENCES 
+ 
+American Metal Climax, Inc., 1969 
+Expo-Ungava Project, Preliminary Investigation. Cape Smith – Wakeham Bay, New Quebec, 
+Canada. Exploration and Mine Evaluation Division, American Metal Climax, Inc. November 
+1969. MRN Quebec, Assessment file GM 26102  
+ 
+Bergeron, R. 1957 
+Cape Smith-Wakeham Bay Belt, New Quebec, Quebec Department of Mines. Preliminary 
+Report 355 and Preliminary Maps 1090 and 1196. 
+ 
+Bergeron, R. 1959 
+Povungnituk Range Area, New Quebec, Quebec Department of Mines. Preliminary Report 392 
+and Preliminary Map 1279. 
+ 
+Cabri, L. J, 2003 
+A Mineralogical Study of three Samples from the Mesamax NW deposit, Cape Smith Fold Belt, 
+Northern Quebec, for Canadian Royalties Inc. Unpublished report dated December 15, 2003 
+ 
+Canadian Royalties Inc. 
+Expo project data consisting of drill hole logs, assay data base, bulk density measurements, a set 
+of paper sections.   
+ 
+Canadian Royalties Inc., 2004 
+New Study Increases Mesamax Indicated Resources 25%. Press Release dated June 10, 2004  
+ 
+Canadian Institute of Mining and Metallurgy, 2004  
+CIM Definitions and Standards on Mineral Resources and Mineral Reserves (adopted by CIM 
+Council November 14, 2004). 
+ 
+Collins, C., 2005 
+Memorandum on possible cobalt contamination in Canadian Royalties Ungava samples. 
+Unpublished document by ALS Chemex dated March 31, 2005 
+ 
+Cruickshank, R.D., 1988 
+Report on Results of the 1987 Field Program, Geological Evaluation and Proposed Exploration 
+Program. Exploration Permits PE 0725, PE 0725, PE 0727, Ungava, New Québec on Behalf of 
+Acquisitor Resources Inc., Val d'Or, Québec. Dated January 14, 1998. Ministère de l'Énergie et 
+des Ressources GM 46905.  
+ 
+Durham, 2005 
+Canadian Royalties Inc. 2001 Expo Core Sampling Program. E-mail dated May 20, 2005.  
+Expo Ungava Mines Ltd., 1969 
+Grade and Tonnage Computer Processed Estimates Geostatistical Study, MRN Quebec, 
+Assessment file GM 26103 
+ 
+Hoffman, P. F., 1990 
+Dynamics of the Tectonic Assembly of Northeast Laurentia in Geon 18 (1.9-1.8 Ga). Geoscience 
+Canada, v. 17, p. 222 to 226 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 63 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+ 
+Hynes, A. J. - Francis, D. M. 1982 
+A transect of the early Proterozoic Cape Smith Foldbelt, New Quebec. Tectonophysics, v. 88, 
+pp.23-59. 
+ 
+Keast, T. and Thalenhorst, H., 2005 
+Technical Report on the Mineral Resource Estimate Expo Nickel-Copper Deposit, Nunavik, 
+Quebec dared August 8, 2005 (available on SEDAR). 
+ 
+Keast, T. and Thalenhorst, H., 2005 
+Technical Report on the Updated Mineral Resource Estimate, Mequillon Nickel-Copper Deposit, 
+Nunavik, Quebec for Canadian Royalties Inc. Report dated May 30, 2005 for Canadian Royalties 
+(available on SEDAR). 
+ 
+Keast, T. and Thalenhorst, H., 2003 
+Technical Report on the South Raglan Trend Group of Properties, Nunavik, Quebec for 
+Canadian Royalties Inc. by Strathcona Mineral Services Limited dated May 29, 2003 (available 
+on SEDAR). 
+ 
+KVK Consulting Associates, Inc., 2005 
+Summary Report on Process Development for Ores of the Ungava Belt, Canadian Royalties 
+Exploration Targets. Unpublished report dated March 8, 2005 
+ 
+Lamothe, D., 1986 
+Développements récents dans la Fosse de l'Ungava. In: Lamothe D., Gagnon R. and Clark T., 
+Exploration en Ungava: données récents sur la géologie et la gîtologie, Ministère des Ressources 
+Naturelles, DV  86-16, pp 1-6 
+ 
+Lamothe, D., 1986 
+Géologie de la fosse de l'Ungava, Nouveau-Québec. In: Géologie du Québec, MM 94-0. 
+ 
+Lamothe, D., Picard C., Moorehead, J. O., 1983 
+Bande de Cape Smith-Maricourt, région du lac Beauparlant, Ministère des Ressources 
+Naturelles, DP 84-39. 
+ 
+Lesher, C. M. and Keays, R. R., 2002 
+Komatiite-associated Ni-Cu-PGE Deposits: Geology, Mineralogy, Geochemistry, and Genesis. 
+In The geology, Geochemistry, Mineralogy and Mineral Beneficiation of Platinum-Group 
+Elements. Edited by L. J. Cabri. Canadian Institute of Mining, Metallurgy and Petroleum, 
+Special Volume 54, pp. 579–617. 
+ 
+Mungall, J.E., 2006 
+Report on the Geology of the Expo-Ungava, Mequillon, and Tootoo Deposits. Unpublished report for 
+Canadian Royalties Inc., dated August 31, 2006. 
+ 
+Mungall, J. E., 2006 
+Geology of the Expo Intrusive Suite and its Host Rocks, Cape Smith Fold Belt, New Quebec. 
+Unpublished report for Canadian Royalties Inc., dated September 20, 2005, revised version dated 
+June 12, 2006. 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 64 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+Mungall, J.E., 2005 
+Report on the Petrogenesis of Sulfide Mineralization on the South Raglan Trend. Unpublished report for 
+Canadian Royalties Inc., dated December 1, 2005. 
+ 
+Mungall, J. E., 2004 
+Geology of the Expo Intrusive Suite and its Host Rocks, Cape Smith Fold Belt, New Quebec. 
+Unpublished report for Canadian Royalties Inc., dated September 29, 2004. 
+ 
+Mungall, J. E., and Keast, T., 2003 
+Cu-Ni-PGE Mineralization at the Expo-Ungava and Mesamax Deposits, New Quebec. Abstract 
+available on www.geology.utoronto.ca 
+ 
+Nicolet, B., 1969 
+Expo Ungava Mines Ltd. Grade and Tonnage Computer Processed Estimates, Geostatistical 
+Study, MRN Quebec, Assessment file No. GM26108. 
+ 
+Ouellet, A. J., 1955 
+New Quebec Raglan Nickel Mines Ltd. Ultramafic Rocks of the South Claims, Ungava. N,T,S, 
+35 G & H. Assessment report No. 33534 dated September 1977  
+ 
+Plante, L. and Keast, T. 2002 
+Technical Report on South Raglan Trend Properties, 2001. Report dated February 20, 2002 for 
+Canadian Royalties (available on SEDAR). 
+ 
+SGS Lakefield Research Limited, 2006 
+A Pilot Plant Investigation into The Recovery of Cu-Ni-PGE from the Raglan South Nickel 
+Project Mesamax Deposit, prepared for Canadian Royalties Inc. Unpublished report LR 10749-
+006 (Report No. 7) dated September 18, 2006. 
+ 
+SGS Lakefield Research Limited, 2006 
+An Investigation into Recovery of Copper, Nickel and PGE from Expo/Mesamax Blend Testing, 
+prepared for Canadian Royalties Inc. Unpublished report LR 10749-004 (Report No. 8) dated 
+August 8, 2006. 
+ 
+SGS Lakefield Research Limited, 2005 
+Metallurgical Testing of Mesamax Cu-Ni-PGM Oxidized Massive Ores from the Ungava 
+Region, prepared for Canadian Royalties Inc. Unpublished report LR 10749-002 (Report No. 4) 
+dated June 22, 2005. 
+ 
+SGS Lakefield Research Limited, 2005a 
+Metallurgical Testing of Net-Textured Samples from the Expo Deposit prepared for Canadian 
+Royalties Inc. Unpublished report LR 10749-001 (Report No. 2) dated February 3, 2005. 
+ 
+SGS Lakefield Research Limited, 2005b 
+Metallurgical Testing of Raglan South Raglan Trend Cu-Ni-PGM Ores prepared for Canadian 
+Royalties Inc.. Unpublished report LR 10749-001 (Report No. 3) dated April 5, 2005. Part 1: 
+Report Text. Part 2: Appendices. 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 65 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+St-Onge, M. R. and Lucas, S. B., 1986 
+Structural and metamorphic evolution of an early Proterozoic thrust-fold belt, eastern Cape 
+Smith Belt (Ungava Trough), Quebec. In: Exploration en Ungava, données récentes, sur la 
+géologie et la gîtologie.  Ministère de l'Énergie et des Ressources du Québec, Séminaire 
+d'information. 
+ 
+St-Onge, M. R. and Lucas, S. B., 1994 
+New Insight on the Crustal Structure and Tectonic History of the Ungava Orogen, Kovik Bay 
+and Cap Wolstenholme, Quebec. In: Current Research, Part C, Canadian Shield. Geol. Surv. 
+Can. Paper No. 92-01C, 1992, p. 31 to 41 
+ 
+Sugden, F. J., 1969 
+Expo Ungava Mines Ltd. New Quebec. Summary Report for 1969. Assessment report GM 
+25777 dated November 18, 1969 
+ 
+Thalenhorst, H., 2003 
+Canadian Royalties vs. Ungava Minerals Exploration Inc. & Ungava Minerals Corp. Expert 
+Opinion in Regard to the Instalment Expenditures incurred by Canadian Royalties Inc. on the 
+Ungava Property. Unpublished Strathcona Mineral Services report dated November 7, 2003 
+ 
+Thalenhorst, H., 2004a 
+Updated Estimate of Mesamax Mineral Resources. Unpublished Strathcona Mineral Services 
+memorandum to Canadian Royalties dated June 8, 2004 
+ 
+Thalenhorst, H., 2004b 
+Initial Mineral Resource Estimate, Mequillon Nickel-Copper Deposit, Nunavik, Quebec, 
+Technical Report for Canadian Royalties Inc. by Strathcona Mineral Services Limited, dated 
+October 18, 2004 (available on SEDAR). 
+ 
+Thalenhorst, H., 2005a 
+Updated Estimate of Mesamax NW Mineral Resources. Unpublished Strathcona Mineral 
+Services memorandum to Canadian Royalties dated April 26, 2005 
+ 
+Thalenhorst, H., 2005b 
+Updated Estimate of Mequillon Mineral Resources. Unpublished Strathcona Mineral Services 
+memorandum to Canadian Royalties dated April 26, 2005 
+ 
+Walker, E. 2004a 
+Preliminary Process Mineralogy Report, Expo Deposit. Unpublished report, April 2004. 
+ 
+Walker, E. 2004b 
+Mineralogical Comparison of the Mequillon Deposit to the Mesamax and Expo Deposits. 
+Unpublished report dated June 8, 2004. 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 66 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+Wares, R., 2001 
+Updated Technical Report on the Expo-Ungava and Phoenix Properties, Ungava, New Quebec, 
+NTS 35H/05, 35H/11, 35H/12. Unpublished report for Canadian Royalties Inc. 
+ 
+Wares, R. and Kiddie, A. , 1997  
+Report on the 1997 exploration program, Ungava Project, New Quebec. Unpublished report for 
+High North Resources Inc. 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 67 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+20.0 CERTIFICATES 
+ 
+CERTIFICATE of AUTHOR 
+ 
+TRACY J. ARMSTRONG, P.GEO. 
+ 
+I, Tracy J. Armstrong, P.Geo., residing at 2007 Chemin Georgeville, res. 22, Magog, QC J1X 3W4, do hereby certify that: 
+ 
+1. I am an independent geological consultant contracted by P& E Mining Consultants Inc; 
+ 
+2. I am a graduate of Queen's University at Kingston, Ontario with a B.Sc (HONS) in Geological Sciences (1982); 
+ 
+3. I am a geological consultant currently licensed by the Order of Geologists of Québec (License No. 566) and the 
+
+Association of Professional Geoscientists of Ontario (License No. 1204); 
+ 
+4. I have worked as a geologist for a total of 21 years since obtaining my B.Sc. degree; 
+ 
+5. I am responsible for Sections 1 through 15, 17, and co-authored Section 18, as well as the overall structuring of the 
+
+technical report titled "Technical Report and Resource Estimate Update on the Expo Ni-Cu PGE Deposit, Raglan South 
+Nickel Project, Nunavik, Quebec," and dated February 26, 2007;  
+
+ 
+6. I visited the South Raglan Group of properties, including the Expo Property from August 17 to 20, 2006; 
+ 
+7. I have not had prior involvement with the Expo Property that is the subject of this Technical Report; 
+ 
+8. As of the date of this certificate, to the best of my knowledge, information and belief, the technical report contains all 
+
+scientific and technical information that is required to be disclosed to make the technical report not misleading; 
+ 
+9. I have read the definition of "qualified person" set out in National Instrument 43-101 (NI 43-101) and certify that by 
+
+reason of my education and past relevant work experience, I fulfill the requirements to be a "qualified person" for the 
+purposes of NI 43-101. This report is based on my personal review of information provided by the Issuer and on 
+discussions with the Issuer's representatives. My relevant experience for the purpose of the Technical Report is: 
+
+• Underground production geologist, Agnico-Eagle Laronde Mine 1988-1993; 
+• Exploration geologist, Laronde Mine 1993-1995; 
+• Exploration coordinator, Placer Dome 1995-1997; 
+• Senior Exploration Geologist, Barrick Exploration 1997-1998; 
+• Exploration Manager, McWatters Mining 1998-2003; 
+• Chief Geologist Sigma Mine 2003; 
+• Consulting Geologist 2003-2007. 
+ 
+
+10. I am independent of the issuer applying the test in Section 1.4 of NI 43-101; 
+ 
+11. I have read NI 43-101 and Form 43-101F1 and the Report has been prepared in compliance therewith; 
+ 
+12. I consent to the filing of the Report with any stock exchange and other regulatory authority and any publication by 
+
+them of the Report for regulatory purposes, including electronic publication in the public company files on their 
+websites accessible by the public. 
+
+ 
+ 
+DATED this 26th Day of February, 2007 
+ 
+ 
+ 
+{SIGNED AND SEALED} 
+ 
+ 
+________________________________ 
+Tracy J. Armstrong, P.Geo. 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 68 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+ 
+CERTIFICATE of AUTHOR 
+ 
+EUGENE J. PURITCH, P. ENG. 
+ 
+I, Eugene J. Puritch, P. Eng., residing at 44 Turtlecreek Blvd., Brampton, Ontario, L6W 3X7, do hereby certify that: 
+ 
+1. I am an independent mining consultant contracted by Canadian Royalties Inc. 
+ 
+2. I am a graduate of The Haileybury School of Mines, with a Technologist Diploma in Mining, as well as obtaining an 
+
+additional year of undergraduate education in Mine Engineering at Queen's University. In addition I have also met the 
+Professional Engineers of Ontario Academic Requirement Committee's Examination requirement for Bachelor's Degree in 
+Engineering Equivalency.  
+
+ 
+3. I am a mining consultant currently licensed by the Professional Engineers of Ontario (License No. 100014010) and 
+
+registered with the Ontario Association of Certified Engineering Technicians and Technologists as a Senior Engineering 
+Technologist.  I am also a member of the National and Toronto CIM.  
+
+ 
+4. I have practiced my profession continuously since 1978.  My summarized career experience is as follows:  
+ 
+ - Mining Technologist - H.B.M.&S. and Inco Ltd. 1978-1980 
+ - Open Pit Mine Engineer – Cassiar Asbestos/Brinco Ltd 1981-1983 
+ - Pit Engineer/Drill & Blast Supervisor – Detour Lake Mine 1984-1986 
+ - Self-Employed Mining Consultant – Timmins Area 1987-1988 
+ - Mine Designer/Resource Estimator – Dynatec/CMD/Bharti 1989-1995 
+
+- Self-Employed Mining Consultant/Resource-Reserve Estimator 1995-2004 
+ - President – P & E Mining Consultants Inc. 2004-Present 
+ 
+5. I have read the definition of "qualified person" set out in National Instrument 43-101 ("NI 43-101") and certify that, by 
+
+reason of my education, affiliation with a professional association (as defined in NI 43-101) and past relevant work 
+experience, I fulfill the requirements to be a "qualified person" for the purposes of NI 43-101. 
+
+ 
+6. I am jointly responsible for Section 16 and co-authored Section 18 of the Technical Report titled "Technical Report and 
+
+Resource Estimate Update on the Expo Ni-Cu PGE Deposit, Raglan South Nickel Project, Nunavik, Quebec," and 
+dated February 26, 2007;  
+
+ 
+7. I have had prior involvement with the property that is the subject of the Technical Report in that I participated in the 
+
+following two NI-43-101 reports; "Technical Report on the Mineral Resource Estimate, Expo Nickel-Copper Deposit, 
+Nunavik, Quebec" dated August 8, 2005 and "Revised Raglan South Nickel Project, Nunavik, Quebec Technical Report and 
+Preliminary Economic Assessment on the Mequillon, Mesamax, Expo and Ivakkak Deposits" dated July 27, 2006. 
+
+ 
+8. As of the date of this certificate, to the best of my knowledge, information and belief, the technical report contains all 
+
+scientific and technical information that is required to be disclosed to make the Technical Report not misleading. 
+ 
+9. I am independent of the issuer applying the test in Section 1.4 of NI 43-101. 
+ 
+10. I have read NI 43-101 and Form 43-101F1 and the Report has been prepared in compliance therewith. 
+ 
+11.  I visited the South Raglan Group of properties, including the Expo Property from August 17 to 20, 2006. 
+ 
+
+12. I consent to the filing of the Technical Report with any stock exchange and other regulatory authority and any publication by 
+them for regulatory purposes, including electronic publication in the public company files on their websites accessible by the 
+public, of the Technical Report. 
+
+ 
+ 
+Dated this 26th Day of February, 2007 
+ 
+ 
+{SIGNED AND SEALED} 
+ 
+       
+Eugene J. Puritch, P. Eng. 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 69 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+CERTIFICATE of AUTHOR 
+ 
+ANTOINE R. YASSA, P. GEO 
+ 
+I, Antoine R. Yassa, P. Geo., residing at 241 Rang 6 West, Evain, Quebec, do hereby certify that: 
+ 
+
+1. I am an independent geological consultant contracted by P& E Mining Consultants Inc; 
+
+2. I am a graduate of Ottawa University at Ottawa, Ontario with a B.Sc (HONS) in Geological Sciences (1977); 
+
+3. I am a geological consultant currently licensed by the Order of Geologists of Québec (License No 224); 
+
+4. I have worked as a geologist for a total of 28 years since obtaining my B.Sc. degree; 
+
+5. I am responsible for co-authoring Section 16.0 of the technical report titled "Technical Report and Resource Estimate 
+Update on the Expo Ni-Cu PGE Deposit, Raglan South Nickel Project, Nunavik, Quebec," and dated February 26, 
+2007;  
+
+6. I did not visit the Expo Property; 
+
+7. I have not had prior involvement with the Expo Property that is the subject of this Technical Report; 
+
+8. As of the date of this certificate, to the best of my knowledge, information and belief, the technical report contains all 
+scientific and technical information that is required to be disclosed to make the technical report not misleading; 
+
+9. I have read the definition of "qualified person" set out in National Instrument 43-101 (NI 43-101) and certify that by 
+reason of my education and past relevant work experience, I fulfill the requirements to be a "qualified person" for the 
+purposes of NI 43-101. This report is based on my personal review of information provided by the Issuer and on 
+discussions with the Issuer's representatives. My relevant experience for the purpose of the Technical Report is: 
+
+• Minex Geologist (Val d'Or), 3D Modeling (Timmins), Placer Dome 1993-1995; 
+
+• Database Manager, Senior Geologist, West Africa, PDX, 1996-1998; 
+
+• Senior  Geologist, Database Manager, McWatters Mine 1998-2000; 
+
+• Database Manager, Gemcom modeling and Resources Evaluation (Kiena Mine) QAQC Manager (Sigma 
+Open pit), McWatters Mines 2001-2003; 
+
+• Database Manager and Resources Evaluation at Julietta Mine, Far-East Russia, Bema Gold Corporation, 
+2003-2006; 
+
+• Consulting Geologist 2006. 
+
+10. I am independent of the issuer applying the test in Section 1.4 of NI 43-101; 
+
+11. I have read NI 43-101 and Form 43-101F1 and the Report has been prepared in compliance therewith. 
+ 
+
+12. I consent to the filing of the Technical Report with any stock exchange and other regulatory authority and any 
+publication by them for regulatory purposes, including electronic publication in the public company files on their 
+websites accessible by the public, of the Technical Report. 
+
+ 
+ 
+DATED this 26th Day of February, 2007 
+ 
+ 
+ 
+{SIGNED AND SEALED} 
+ 
+____________________________________ 
+ 
+Antoine R. Yassa, P.Geo. 
+OGQ # 224 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 70 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX – I 
+ 
+ 
+ 
+
+SURFACE DRILL HOLE PLAN 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 71 of 132 
+CZZ-Expo Report No. 129 
+ 
+
+6,825,500 N
+
+6,826,000 N N EW
+
+582,000 E
+
+582,50 0 E
+
+0 100 200 300 
+
+SURFACE DRILL HOLE PLAN
+EXPO PROJECT
+
+Metres
+
+P&E Mining Consultants Inc.
+CANADIAN ROYALTIES INC.
+
+MINERALIZED DOMAINS
+
+MASSIVE SULPHIDE
+
+NET TEXTURED SULPHIDE
+
+VEIN SULPHIDE
+
+ULTRAMAFIC 
+Feb 2007
+
+PROJECTED TO SURFACE
+
+1000 N
+
+800 N
+
+600 N
+
+9,600 E
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 72 of 132  
+CZZ-Expo Report No. 129 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX – II 
+ 
+ 
+
+3 DIMENSIONAL DOMAIN SOLIDS 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 73 of 132 
+CZZ-Expo Report No. 129 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 74 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX – III 
+ 
+ 
+
+STATISTICAL GRAPHS 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 75 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 76 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 77 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 78 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 79 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 80 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 81 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 82 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 83 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 84 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 85 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 86 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 87 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 88 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 89 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 90 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 91 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 92 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 93 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 94 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 95 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 96 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 97 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.      Page 98 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 99 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+APPENDIX –IV 
+ 
+ 
+
+Ni, Cu & NSR BLOCK CROSS SECTIONS 
+
+
+
+ 
+
+P & E Mining Consultants Inc.     Page 100 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.     Page 101 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.     Page 102 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.     Page 103 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.     Page 104 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.     Page 105 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.     Page 106 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.     Page 107 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.     Page 108 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.     Page 109 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.     Page 110 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.     Page 111 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.     Page 112 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.     Page 113 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.     Page 114 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 115 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX –V 
+ 
+ 
+
+Ni, Cu & NSR BLOCK PLANS 
+
+
+
+ 
+
+P & E Mining Consultants Inc.    Page 116 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.    Page 117 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.    Page 118 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.    Page 119 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.    Page 120 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.    Page 121 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 122 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX – VI 
+ 
+ 
+
+CLASSIFICATION BLOCK SECTIONS 
+
+
+
+ 
+
+P & E Mining Consultants Inc.    Page 123 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.    Page 124 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.    Page 125 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.    Page 126 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.    Page 127 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 128 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX – VII 
+ 
+ 
+
+CLASSIFICATION BLOCK PLANS 
+
+
+
+ 
+
+P & E Mining Consultants Inc.    Page 129 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.    Page 130 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+
+ 
+
+
+
+ 
+
+P & E Mining Consultants Inc.  Page 131 of 132 
+CZZ-Expo Report No. 129 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX – VIII 
+ 
+ 
+
+PROPOSED DRILLING 
+
+
+
+ 
+
+P & E Mining Consultants Inc.    Page 132 of 132 
+CZZ-Expo Report No. 129 
+
+6,825,500 N
+
+6,826,000 N N EW
+
+582,000  E
+
+582,500 E
+
+0 100 200 300 
+
+PROPOSED
+EXPO PROJECT
+
+Metres
+
+P&E Mining Consultants Inc.
+CANADIAN ROYALTIES INC.
+
+PROJECTED TO SURFACE
+Feb 2007
+
+1000 N
+
+800 N
+
+600 N
+
+9,600 E
+
+SURFACE DRILL HOLE PLAN
+
+OUTLINE OF DOMAINS
+
+PROPOSED DRILLHOLE
+EXISTING DRILLHOLE
+
+ 
+
+
+'

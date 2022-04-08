@@ -1,0 +1,2896 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GEOLOGIC REPORT VN10-1
+
+
+ 
+GEOLOGIC REPORT VN10-1 
+
+ 
+ 
+ 
+ 
+
+SUMMARY REPORT 
+FOR THE VINASALE GOLD PROPERTY, 
+
+MCGRATH MINING DISTRICT, 
+ALASKA 
+
+ 
+ 
+ 
+ 
+ 
+
+prepared for 
+ 
+ 
+ 
+
+Freegold Recovery Inc. USA. 
+Freegold Ventures Limited 
+
+507 - 1540 West 2nd Avenue 
+Vancouver, B.C. V6J 1H2 
+
+ 
+ 
+ 
+ 
+ 
+
+prepared by 
+ 
+
+Gregory B. Maynard, BA, MSc, R.G. 
+CARACOL 
+
+P.O. Box 11233 
+Reno, NV 89510 
+
+ 
+ 
+ 
+ 
+ 
+
+March 25, 2010 
+
+
+
+ ii
+TABLE OF CONTENTS 
+
+ 
+Cover Sheet....................................................................................................................... ...i 
+Table of Contents ............................................................................................................ ...ii 
+List of Figures ................................................................................................................. ...iii 
+List of Tables ................................................................................................................. ...iii 
+List of Appendices ......................................................................................................... ...iii 
+List of Plates .................................................................................................................. ...iii 
+Summary ........................................................................................................................ ...iv 
+Introduction and Terms of Reference ..................................................................................1 
+Reliance on Other Experts ..................................................................................................1 
+Property Description and Location .....................................................................................2 
+Accessibility, Climate, Local Resources, Infrastructure and Physiography........................3 
+History .................................................................................................................................3 
+Geologic Setting ..................................................................................................................7 
+Deposit Types .....................................................................................................................9 
+Mineralization ...................................................................................................................11 
+Exploration.........................................................................................................................14 
+Drilling...............................................................................................................................16 
+Sampling Method and Approach .......................................................................................16 
+Sample Preparation, Analysis and Security .......................................................................17 
+Data Verification................................................................................................................19 
+Adjacent Properties............................................................................................................20 
+Mineral Processing and Metallurgical Testing ..................................................................20 
+Mineral Resource and Mineral Reserve Estimates ...........................................................21 
+Additional Requirements for Technical Reports on Development Properties and 
+Production Properties …………………………………………………………………….21 
+Other Relevant Data and Information................................................................................21 
+Interpretations and Conclusions ........................................................................................21 
+Recommendations  .................................................................................................22 
+Date and Signature Page ...................................................................................................23 
+References Cited ................................................................................................................24 
+Statement of Qualifications................................................................................................29 
+ 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ iii
+LIST OF FIGURES 
+
+ 
+Figure 1: Location of the Vinasale project 
+Figure 2: Land status map for the Vinasale project 
+Figure 3: Regional geology and mineralization of Southwestern Alaska 
+Figure 4: Vinasale gold project geology 
+Figure 5: Cross-section through the Central Zone at Vinasale project, Alaska 
+Figure 6: Vinasale project airborne geophysics 
+Figure 7: Structural interpretation, airborne magnetics and proposed drilling at Vinasale project 
+Figure 8: Schematic cross section through the Vinasale gold project 
+ 
+ 
+ 
+
+ LIST OF TABLES 
+ 
+Table 1: Historical summary of activities at the Vinasale project, Alaska 
+Table 2: Historical summary of resource calculations for the Vinasale project, Alaska 
+Table 3: Significant drill intercepts form the Vinasale project 
+Table 4: Summary of significant work completed on the Vinasale project in 2007 and 2008 
+Table 5: Historical drilling summary from the Vinasale project, Alaska 
+Table 6: Summary of metallurgical results from the Vinasale project, Alaska 
+Table 7: Summary of recommended 2010 Vinasale project budgets 
+ 
+
+ LIST OF APPENDICES 
+ 
+Appendix 1: List of mining claims on the Vinasale gold project 
+ 
+ 
+ 
+
+LIST OF PLATES 
+ 
+Plate 1: Thematic surface geochemistry for gold at the Vinasale project 
+Plate 2: Thematic surface geochemistry for arsenic at the Vinasale project 
+Plate 3: Thematic surface geochemistry for antimony at the Vinasale project 
+Plate 4: Thematic surface geochemistry for bismuth at the Vinasale project 
+Plate 5: Thematic surface geochemistry for tungsten at the Vinasale project 
+ 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ iv
+ 
+
+SUMMARY 
+ 
+ 
+ The Vinasale gold project is located in western Alaska, approximately seventeen miles 
+south of McGrath and 400 kilometers southwest of Fairbanks. The project is situated on the east 
+bank of the Kuskokwim River. Free Gold Recovery, USA owns 72 State of Alaska mining 
+claims covering 11,520 acres and has leased 89,583.54 acres from Doyon Limited, one of 13 
+regional Alaska Native corporations. Access to the property is via commercial aircraft to 
+McGrath, and then to the property via helicopter, or via seasonal barge up the Kuskokwim River.  
+ 
+ The property is underlain by Cretaceous-ages Kuskokwim Group shales and greywackes 
+that have been intruded by a Tertiary-aged porphyritic quartz monzonite intrusive complex... 
+East-west, north-south and northeast-southwest trending structures cut the sediments and 
+intrusions. Gold mineralization identified to date is hosted by magmatic and hydrothermal 
+breccia phases of a quartz monzonite phase of the intrusive complex. Arsenic has the strongest 
+correlation with gold while antimony, bismuth and tungsten also correlate to a lesser extent. 
+Gold-related alteration includes sericitic alteration, dolomitic alteration and silicification as 
+pervasive flooding and as quartz veinlets. The margin of the intrusion at Vinasale Mountain 
+exhibits hornfelsing of the sediments and is associated with both an aeromagnetic and resistivity 
+low. No drilling has been conducted in the hornfels zone at Vinasale.  
+ 
+
+Placer gold was discovered in Alder Creek draining the south side of Vinasale Mountain 
+in approximately 1922, with total placer gold production estimated at less than 125 ounces. No 
+lode production has occurred in the area. 
+ 
+ Lode exploration in the early 1990s identified gold-in-soil anomalies at the Central, 
+South and Northeast zone near the crest of Vinasale Mountain. These anomalies were drilled 
+tested, with subsequent follow-up drilling in the Central Zone. Total core drilling to date is 
+25,247 feet. The Central Zone was investigated by 21 drill holes within an area measuring 
+approximately 185 meters by 185 meters (600 feet by 600 feet) and intersected one or more 
+intervals of greater than 6 meters (20 feet) grading more than 1 gram of gold per tonne (0.029 
+opt). Mineralization is open to expansion in several directions. Review of drill core indicates that 
+higher gold grades commonly occur with magmatic and/or hydrothermal breccias. The majority 
+of drill holes were vertical but some of the best grade-thickness intervals came from angle holes, 
+suggesting the possible presence of as-yet undefined high angle controls on gold mineralization. 
+ 
+ Several historical resource estimates were completed on the Vinasale gold project prior to 
+implementation of NI-43-101 reporting standards. The most recent historical resource estimate 
+(1995) totals 16,049,000 short tons grading 0.060 ounces of gold per ton (962,760 ounces). 
+These historical resource calculations are reported here for historical accuracy purposes 
+only. These historical resource calculations are not NI 43-101 compliant and do not comply 
+with the CIM Standards on Mineral Resources and Reserves Definitions and Guidelines 
+adopted by CIM Council on August 20, 2000.  
+ 
+ The available data identifies host rock and regional structural similarities between 
+Vinasale Mountain and the +40 million ounce Donlin Creek deposit approximately 135 
+kilometers to the southwest. Both are hosted primarily in Tertiary plutonic rocks which intrude 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ v
+Kuskokwim Group sediments and both are controlled by northeast trending structures. Both 
+Donlin and Vinasale have quartz and carbonate alteration as well as anomalous arsenic and 
+antimony trace elemental associations. In addition, the Vinasale gold project is similar to the 
+Trun gold-tungsten deposit, Bulgaria, where significant gold-tungsten mineralization is hosted in 
+hornfelsed sediments surrounding a previously explored gold-bearing intermediate intrusive.  
+ 
+
+Additional exploration work is warranted at the Vinasale gold project. Recommended 
+work includes expansion of the 2008 induced polarization geophysical survey to define possible 
+drill targets in the hornfels zone surrounding the main Vinasale intrusive. Additional drilling of 
+the Central zone is suggested in order to verify the analyses and geologic observations from core 
+drilling completed in 1991 and 1994. Drilling is also recommended outside the Central zone on 
+exploration targets already identified by both airborne and ground geophysics. An exploration 
+program is proposed consisting of $300,000 of IP geophysical surveys followed by a $1,250,000 
+core drilling program designed to produce approximately 10,000 feet of core. Total project 
+budget is estimated at US$1.55 million. The recommended IP program is not dependent on any 
+other work recommended for the Vinasale project. Confirmation drilling recommended for the 
+Central zone is not dependent on any other work recommended for the Vinasale project however, 
+drilling outside of the Central zone will be based to some degree on the results of the 
+recommended 2010 IP program. 
+ 
+
+ 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 1
+ 
+ 
+INTRODUCTION AND TERMS OF REFERENCE 
+ 
+ The following report was commissioned by Freegold Recovery Inc. USA and its parent 
+Freegold Ventures Limited (collectively "Freegold") to summarize the results of previous field 
+work completed on the Vinasale gold project in southwest Alaska (Figure 1). CARACOL was 
+retained to complete this summary report for Freegold. This report was prepared based upon a 
+review of existing reports prepared by State and federal agencies and by third party interests 
+working on behalf of Freegold and underlying landowner Doyon, Limited. The author is a 
+Qualified Person under Canadian National Instrument 43-101 guidelines but has not conducted 
+field work on the Vinasale gold project. The author has not conducted a recent personal 
+inspection of the property because seasonal weather conditions prevent the author from obtaining 
+beneficial information from a personal inspection. As per section 6.2.3 of NI43-101, the author 
+intends to conduct a personal inspection of the Vinasale project as soon as weather conditions 
+permit in the spring of 2010.  
+ 
+
+For purposes of this report, the term "opt" will refer to troy ounces per short ton, "gpt" 
+will refer to grams per metric tonne, "ppb" will refer to parts per billion and "ppm" will refer to 
+parts per million. Unless otherwise noted, all costs contained in this report are denominated in 
+United States dollars (US$1.00 = CDN$1.00). The author has retained the use of English 
+measurement units for historical accuracy purposes but otherwise utilizes metric system 
+measurements in this report.  
+ 
+ When referring to locations along a creek, this report uses the historical method of 
+description where right limit and left limit refer to the side of the creek as viewed by a person 
+looking downstream. The terms alluvial and placer are considered synonymous for the purposes 
+of this report. For purposes of this report, the abbreviated term "Ma" shall mean "millions of 
+years ago" and the term "Moz" shall mean "millions of ounces". The authors have used the 
+igneous rock classification system of Streckheisen (1973) in this report.  
+ 
+ 
+RELIANCE ON OTHER EXPERTS 
+ 
+ This report has been prepared by CARACOL for Freegold using public and non-public 
+documents acquired by the author for this purpose. The information, conclusions and estimates 
+contained herein are based upon information made available to CARACOL at the time of report 
+preparation. While reasonable care has been taken in preparing this report, CARACOL can not 
+guarantee the accuracy or completeness of all supporting documentation. Information contained 
+in this report is believed reliable but in part the report is based upon information not within 
+CARACOL'S control. In particular, CARACOL was not provided original analytic certificates 
+from previous work on the project and CARACOL did not attempt to determine the veracity of 
+geochemical data reported by third parties. CARACOL did not attempt to conduct duplicate 
+sampling for comparison with the geochemical results provided by other parties. CARACOL 
+was not provided third party professional opinion with respect to mineral exploration titles, 
+environmental liabilities, mineral property agreements or surface title issues. The interpretive 
+views expressed herein are those of CARACOL and may or may not reflect the views of 
+Freegold or Doyon, Limited.  
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 2
+ 
+ 
+PROPERTY DESCRIPTION AND LOCATION  
+ 
+
+The Vinasale project is located approximately 29 kilometers south of the village of 
+McGrath (population 401), 400 kilometers southwest of Fairbanks (population 75,000) and 340 
+kilometers northwest of Anchorage (population 360,000). McGrath is the regional infrastructure 
+hub for this part of Alaska (Figure 1). The property is located on the west bank of the 
+Kuskokwim River in the McGrath C5 quadrangle. 
+ 
+ Doyon, Limited, one of 13 Alaskan Native corporations, owns the subsurface mineral 
+rights and most of the surface rights to 89,583.54 acres of land that comprise the Vinasale project 
+area (Figure 2). Free Gold Recovery, USA owns 72 State of Alaska mining claims covering 
+11,520 acres. Together these parcels comprise the Vinasale project.  
+ 
+
+In February 2007 Freegold and Doyon entered into a joint venture agreement on the 
+project. Under the Exploration Agreement, Freegold must make cash payments of $320,000 over 
+five years, make annual scholarship donations of $10,000, and make exploration expenditures 
+totaling $4,750,000. Freegold may at its option enter into a one year extension by making an 
+additional cash payment of $100,000 and incurring an additional $1,500,000 in exploration 
+expenditures. In the event the property is reduced by 50% or more the additional exploration 
+expenditures shall be reduced to $1,000,000. Freegold may enter into one or more Mining Leases 
+with Doyon on lands on which it has expended at least $600,000, carried out at least 10,000 feet 
+of core drilling, and submitted a pre-feasibility study. Freegold will be required to make advance 
+royalty payments and continue to conduct minimum exploration expenditures on leased lands 
+until such time as a Board approved positive feasibility study has been delivered. Advance 
+royalty payments shall be $100,000 per year during the initial five-year period, increasing to 
+$250,000 per year thereafter. The minimum mandatory exploration expenditures shall be equal to 
+the greater of $25/acre or $250,000 for each of the first five years, and $50/acre or $500,000 in 
+subsequent years. Upon submission of a Board-approved feasibility study Doyon will have the 
+right, for a period of 180 days, to acquire a minimum 5%, and a maximum 10% participating 
+interest in Freegold's interest. Within 60 days of Doyon electing to participate, Doyon shall 
+contribute to a joint venture an amount equal to 2.25 times Doyon's proportionate share of 
+Freegold's cumulative expenditures on the leased area after the Effective Date of the Lease. 
+Following the expenditure of such funds, each party will be required to contribute its pro rata 
+share of further expenditures. 
+ 
+ In March, 2007, Freegold staked 72 State of Alaska mining claims covering 11,520 acres 
+of ground in an open in-holding in the Vinasale land block. These claims are subject to the 
+Freegold – Doyon lease agreement. Annual work commitments required by the State of Alaska 
+on the properties in the amount of $2.50 per acre per year ($28,800 per year) is required with 
+amounts in excess of these levels bankable up to four years into the future. All claims currently 
+are in good standing with four years of work commitment banked toward future years. Claim 
+rental payments are due on September 1 of each calendar year and payable before November 30 
+of each year. The next annual rent payment, due September 1, 2010, will total $10,080. The 
+claims of the Vinasale project have not been surveyed by a registered land or mineral surveyor 
+and there is no State or federal law or regulation requiring such surveying. Depending on the 
+level of exploration work proposed, additional permits may be required from the Alaska 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 3
+Department of Natural Resources and will be applied for on an as-needed basis. There are no 
+known environmental liabilities attached to the property. 
+ 
+ In January 2010, Freegold announced it had entered into an Option Agreement with 
+Western Standard Metals Ltd. ("WSM") whereby WSM could earn a 50% interest in the project 
+by completing cash payments of CAD$350,000 and completing exploration expenditures of 
+$6,250,000 over three years. Expenditure requirements in 2010 will be US$1,500,000. WSM will 
+be the operator of the Project until such time as the option is fulfilled and a joint venture is 
+formed 
+ 
+ 
+ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND 
+PHYSIOGRAPHY 
+ 
+ Access to the Vinasale project is by helicopter from McGrath or by boat on the 
+Kuskokwim River to the base of Vinasale Mountain. No roads exist in the area except within the 
+inactive placer gold mine in Alder Gulch on the south flank of Vinasale Mountain. The Alder 
+Creek placer mine road connects to a small landing on the Kuskokwim River. 
+ 
+
+The climate in this portion of Alaska is dominated by 6 to 8 months of sub-freezing 
+temperatures in winter followed by 4 to 6 months of warm summer weather. Average annual 
+precipitation is 13 inches, mostly as snowfall. 
+ 
+
+Mining operations can be conducted on a year-round basis in this part of Alaska. The 
+Nixon Fork copper-gold mine, located 80 kilometers northeast of Vinasale project, operated 
+commercially on a year-round basis in the late 1990's and in 2007 at an annualized rate of about 
+60,000 ounces per year (Freeman, 2009) 
+ 
+
+The Vinasale project lies on the eastern edge of the Kuskokwim Mountains, a maturely 
+dissected upland of low, rounded hills and broad sediment filled lowlands that support mature 
+stream drainages. Vinasale Mountain proper is a conspicuous circular shaped hill comprising 
+about 5 square miles that rises above the main Kuskokwim river valley (el. 400 feet ASL) to the 
+peak of Vinasale Mountain (el. 1,683 feet ASL). The project is largely below timberline and is 
+heavily vegetated with stands of mature spruce, birch willow, and thick alder patches. Bedrock 
+rubble and outcrop occur only rarely and then only above 1,200 feet elevation. Small areas of 
+bedrock and rubble crop occur along the Kuskokwim River and in steep zones along the 
+mountain slopes. Permafrost is limited to small discontinuous lenses on steep, poorly drained 
+north-facing slopes and has posed no hindrance to past development in the region. The 
+Kuskokwim River is an anadromous stream however none of the smaller streams draining 
+Vinasale Mountain are known to host fish populations. 
+ 
+ 
+HISTORY 
+ 
+
+Published data on the Vinasale project area prior to the mid-1970s is limited to historic 
+activities around the Alder Gulch placer gold deposit in the south flank of Vinasale Mt. 
+(Bundtzen, 1986). The placer deposits were discovered by Charles Schuttler in 1922 or 1923 
+while he was prospecting the various streams draining radially off Vinasale Mountain (Table 1). 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 4
+Smith (1934) reported that hand mining occurred in Alder Gulch between 1929 and 1933 
+yielding 65 ounces of placer gold from a small cut covering 13,600 square feet. Cobb (1973) 
+reported that considerable scheelite, magnetite, stibnite, and bismuth were found in the heavy 
+mineral concentrates from Alder Gulch. Unpublished United States mint returns indicate a 
+production of 103 ounces of gold and 20.2 ounces of byproduct silver for a period ending in 
+1935 (Bundtzen, 1999).  
+ 
+
+Table 1: Historical summary of activities at the Vinasale project, Alaska. 
+Date Activity 
+
+1922 or 1923 Placer discovered by Charles Schuttler 
+
+1929-1933 
+65 oz Au produced as placer w/associated scheelite, magnetite, stibnite, and 
+bismuth 
+
+Prior to 1935 103 oz Au placer gold produced from Alder Gulch 
+
+1977 Bundtzen field reviews property, ARDF File #MG009 
+
+1977-1979 
+WGM contracted by Doyon to explore tribal lands including Vinasale, pan 
+con anomalies identify Vinasale mineralization, drill 609 feet in one hole 
+
+1981 Peter Snow explores for placer gold on Alder Gulch 
+1982 Pilot test of 3000 sq ft (~80cuyd) gravel yields 4-5 oz Au 
+
+1985 
+Doyon field review includes more pan cons samples at East Creek and Alder 
+Creek, soil samples taken 
+
+1989 Central Alaska Gold Corp enters into agreement on Vinasale 
+
+1990 
+CAGC claims "discovery" based on three drill holes (1498 ft) sited on soil 
+anomaly at Central Zone 
+
+1991 
+
+Placer Dome JV w/ CAGC: 36 drill hole, 18.1 line-miles grid 
+VLF/IP/Resistivity/Mag, 217 soil samples, 91 rock samples, metallurgical 
+work  
+
+1991-1992 
+
+Metallurgical work done by: Bacon Donaldson and Associates, Las Dudas, 
+Mountain States Research and Development, Placer Dome US, Newmont, and 
+BHP Utah International 
+
+1993 CAGC terminates lease and returns project to Doyon 
+1993 DiMarchi publishes summary on Vinasale (DiMarchi, 1993) 
+
+1994 
+
+ASA-Montague acquire property, drills 26 holes (17,265ft), 771 soil and 20 
+rock samples, metallurgical testing by IML, Perth, Australia and MIRL, 
+University of AK, Fairbanks, AK 
+
+1994 
+Derry, Michener, Booth and Wall complete pre-feasibility study (Rhoades, 
+1994) 
+
+1995 
+ASA-Montague contracted metallurgical, pre-feasibility and environmental 
+studies 
+
+1996 
+ASA-Montague in house kriged mineralization model produced (DiMarchi, 
+1996) 
+
+2007 
+
+Freegold acquires lease, completes 1788 line-km airborne EM and magnetics 
+geophysics, completes regional recon geochemistry (160 stream sediment, 59 
+rock samples) 
+
+2008 Freegold completed ground based IP geophysics (21.1 line-km) 
+CARACOL 
+
+P.O. Box 11233, Reno, NV 89510 
+775-379-3898 
+
+
+
+ 5
+ 
+
+Mining activity apparently ceased during the 1930's and did not resume until 1981 when 
+Peter Snow of McGrath began exploration and development work (Bundtzen, 1986). Pilot plant 
+test in 1982, material from a 3,000 square foot cut yielded 4-5 ounces of placer gold including a 
+0.5 ounce gold-quartz nugget. Bundtzen (1986) estimated that no more than 80 cubic yards of 
+gravel were processed during the 1982 work. In 1983, additional work also yielded a modest 
+amount of gold. Total production from the 1982-83 work was estimated at 16.5 ounces of gold 
+and 3.5 ounces of silver (Bundtzen, 1999).  
+ 
+ The potential for lode gold mineralization at Vinasale was first indicated by regional 
+stream silt sampling completed for Doyon Ltd. by WGM, Inc. between 1977 and 1979. These 
+efforts yielded pan concentrate results ranging from less than detection limit to 4,275 ppb gold in 
+East Creek (DiMarchi and others, 1991). One diamond core hole (609 feet) was completed in 
+1979 but no information regarding this drilling is available to the author. 
+ 
+ The potential for lode gold mineralization also was recognized by Bundtzen (1986) who 
+suggested that lode mineralization on Vinasale Mountain proper may have been the source of 
+placer gold mined in Alder Gulch. Sulfide-scheelite-quartz float found by Peter Snow in the 
+placer mine cut at Alder Gulch returned 14.3 gpt gold. 
+ 
+ By 1989 Doyon, Limited. and Central Alaska Gold Company (CAGC) had entered into a 
+lease agreement whereby CAGC would conduct exploration and development of a large block of 
+Doyon lands south of McGrath that contained what is now the Vinasale project. CAGC collected 
+grid, contour and reconnaissance soil and rock samples. The following year, CAGC initiated 
+exploration at Vinasale, and by July had entered into a joint venture on the project with Placer 
+Dome (DiMarchi and others, 1991). Placer Dome's objective was to evaluate the potential for 
+Vinasale to host a multi-million ounce resource within 500 feet of the surface. The joint venture 
+discovered significant gold anomalies in soils in the Central, Northeast, and South Zones on the 
+summit and flanks of Vinasale Mountain and a diamond drill program, concentrating on the 
+Central Zone was initiated. (DiMarchi and others, 1991; DiMarchi, 1993). Total costs for this 
+program are not available to the author. 
+ 
+ In 1990, Central Alaska Gold Corp. (CAGC) began work at Vinasale with the drilling of 
+three core holes (1,498 feet) sited on gold-in-soil anomalies (DiMarchi and others, 1991). The 
+results of drilling was the basis upon which "discovery" was claimed. During this program, a 
+total of 409 soil samples, 47 rock samples and 9 stream sediment samples were collected. In 
+addition, CAGC completed 26,000 line feet of VLF and ground magnetometer surveys. Total 
+costs for this program are not available to the author. 
+ 
+
+The 1991 program consisted of 18.1 line-miles of grid VLF/IP/Resistivity/Mag ground 
+geophysics, 217 soil samples, 91 rock samples, 36 core holes (12 in the Central Zone, 23 in the 
+Northeast Zone, and 1 in the South Zone), and metallurgical work at Placer Dome's labs. By 
+year's end, CAGC calculated a preliminary polygonal/cross-section resource in the Central Zone 
+of 14,351,000 tons of material with a grade of 0.067 ounces of gold per ton based on fifteen drill 
+holes (Table 2). These historical resource calculations are reported here for historical 
+accuracy purposes only and do not comply with the CIM Standards on Mineral Resources 
+and Reserves Definitions and Guidelines adopted by CIM Council. Placer Dome's 
+metallurgical work concluded that 1) gold is <1 micron in grain size; 2) gold lies within a sulfide 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 6
+(predominantly arsenopyrite) lattice, and; 3) plus 95% of the gold reports to a floatation 
+concentrate representing only 9 to 12% of total feed. Placer Dome concluded their corporate 
+mandate was not met, and ended their involvement at Vinasale after the 1990 season. Total costs 
+for this program are not available to the author. 
+ 
+Table 2: Historical summary of resource calculations for the Vinasale project, Alaska. Data from 
+Freegold, 2010 
+
+ 
+Source 
+
+ 
+Year 
+
+ 
+Calculation Type 
+
+Short 
+Tons 
+
+Grade 
+opt 
+
+ 
+Ounces 
+
+CAGC 1991 Manual - Polygonal 10,074,000 0.065 658,600
+CAGC 1991 Manual – Cross-Sectional 14,351,000 0.067 964,600
+CACG 1993 Manual 10,300,000 0.070 789,000
+ASA 1994 Manual – Combination 
+
+Polygonal / Cross-Sectional 7,911,000
+ 
+
+0.071 561,508
+ASA 1994 Computer - Kriged 18,466,000 0.045 826,937
+DMBW 1994 Manual – Cross-Sectional 16,100,000 0.057 925,000
+DMBW 1994 Manual – Cross-Sectional 14,729,000 0.069 1,016,347
+ASA 1995 Kriged 19,020,000 0.052 980,625
+ASA 1995 Kriged 17,619,000 0.052 916,180
+MRAI 1995 Kriged 18,045,000 0.051 920,295
+ 
+
+With additional work completed in 1992 and 1993, a revised resource estimate for the 
+Vinasale deposit, based on a total of 11,260 meters of core drilling, was calculated at 10.3 
+million tonnes grading 0.070 ounces of gold per ton (2.4 gpt) for a total in-place resource of 
+24,540 kg (789,000 ounces) gold (J. DiMarchi, written communication, 1994; Bundtzen and 
+Miller, 1997). These historical resource calculations are reported here for historical 
+accuracy purposes only and do not comply with the CIM Standards on Mineral Resources 
+and Reserves Definitions and Guidelines adopted by CIM Council.  
+ 
+ In 1991 and 1992, metallurgical work was done during independent due diligence efforts 
+by Bacon Donaldson and Associates, Las Dudas, Mountain States Research and Development, 
+Newmont and BHP Utah International. In 1993, CAGC terminated their lease and returned 100% 
+interest in the project to Doyon. 
+ 
+ ASA-Montague leased Vinasale from Doyon in 1994, and collected 771 soil samples, 20 
+rock samples and drilled 26 core holes (17,265 feet). Most of this work (21 holes) was focused 
+on the Central Zone to upgrade the quality of the resource but some drill holes (5 holes) tested 
+the outlying geophysical and soil anomalies (DiMarchi and others, 1994). CAGC contracted with 
+Derry, Michener, Booth and Wall was contracted in 1994 to execute a pre-feasibility study 
+(Rhoades, 1994). Total costs for this program are not available to the author. 
+ 
+ In 1995 and 1996 ASA-Montague contracted for additional metallurgical studies and a 
+pre-feasibility study to be done by Signet Technologies (Signet, 1995) and Independent 
+Metallurgical Laboratories (IML, 1995). ASA-Montague also contracted Terra Nord Natural 
+Resources Consulting to evaluate environmental concerns related to permitting at Vinasale 
+(Terra Nord, 1995). Terra Nord's report covers identified environmental permits required in 
+Section 1, a partial list of "non-environmental' permits likely required in Section 2, a discussion 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 7
+of the NEPA process in Section 3, an outline for time frames associated with the permitting 
+process in Section 4, and Section 5 briefly addresses potential issues such as power. Terra Nord 
+states, "This section (Section 5) discusses several potential project issues, none of which is 
+considered major" (Terra Nord, 1995). Signet (1995) also calculated a revised resource estimate, 
+based on 36 drill holes, of 18,045,000 tons grading 0.051 ounces of gold per ton, containing 
+920,295 ounces of gold. ASA-Montague also completed a revised resource estimate, on the same 
+36 drill hole database, of 17,618,84 tons grading 0.052 ounces of gold per ton, containing 
+916,180 ounces of gold. These historical resource calculations are reported here for 
+historical accuracy purposes only and do not comply with the CIM Standards on Mineral 
+Resources and Reserves Definitions and Guidelines adopted by CIM Council. 
+ 
+
+For their pre-feasibility study Signet used a resource of 16,049,000 short tons of 0.060 
+ounce gold per ton grade for a total contained gold resource of 962,760 ounces. These historical 
+resource calculations are reported here for historical accuracy purposes only and do not 
+comply with the CIM Standards on Mineral Resources and Reserves Definitions and 
+Guidelines adopted by CIM Council on August 20, 2000. 
+ 
+ No further exploration was conducted at Vinasale until 2007. In January 2007 Freegold 
+announced that it had entered into an Option to Lease Agreement with Doyon, Limited. The year 
+one program was aimed at evaluating the entire Vinasale project and included an airborne 
+geophysical program and reconnaissance geochemical sampling program. A 1,788 line line-
+kilometer airborne geophysical survey was flown in September 2007. The airborne geophysics 
+included magnetics and electromagnetic responses were received on the 900 Hz, 7200 Hz, and 
+56,000 Hz frequencies (Fugro, 2008, Walcott, 2008a). In addition, a reconnaissance stream silt 
+and pan-concentrate sampling program was completed in August 2007 on three drainage basins 
+in the Vinasale project land block. These areas included the Vinasale Mountain area, the Black 
+River area to the southwest of Vinasale Mountain, and some low hills in the Selatna River basin 
+approximately 6 miles southeast of Vinasale Mountain A total of 59 pan-concentrate and 160 
+stream silt samples were (Freeman, 2007). Total costs for this program are not available to the 
+author. 
+ 
+ During 2008, Freegold contracted with Peter E. Walcott and Associates Limited to 
+complete an induced polarization survey over a portion of the Vinasale project (Walcott, 2008b). 
+A total of 21.1 line-kilometers of pole – dipole IP survey was completed on 9 east – west 
+trending lines to the north and west of the Central zone drill area. Total costs for this program are 
+not available to the author. 
+ 
+ 
+GEOLOGIC SETTING 
+ 
+ The Vinasale project is located on the northeastern edge of the Kuskokwim Minerals Belt 
+(KMB) of southwestern Alaska (Figure 3, Bundtzen and Miller, 1996, 1997). The KMB roughly 
+parallels the Kuskokwim Mountains which form a broad northeast-trending belt of accordant 
+rounded ridges and broad sediment filled lowlands with locally rugged, glaciated igneous-cored 
+massifs. The KMB covers an area approximately 550 km long by 350 km wide (192,500 km2) 
+that extends from Goodnews Bay on the extreme southwestern coast, to Von Frank Mountain, 
+about 100 kilometers northeast of McGrath.  
+ 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 8
+Rocks in the KMB have been subdivided by age and tectonic history into two groups: 
+
+Lower Cretaceous and older fault-bounded terranes, and middle Cretaceous and younger overlap 
+and basin fill assemblages of sedimentary and volcanic rocks, which were subsequently intruded 
+by mafic to felsic plutons (Bundtzen and Miller, 1997; Bundtzen and Gilbert, 1983; Decker and 
+others., 1994; Miller and Bundtzen, 1994). Proterozoic to Lower Cretaceous rocks crop out in 
+fault-bounded belts that generally parallel the northeasterly structural grain of the region. The 
+Vinasale project is situated between two regional northeast trending structures associated with 
+the KMB, the Denali Farewell fault system to the south and the Iditarod-Nixon Fork fault to the 
+north. Both of these structures have undergone Cretaceous-Tertiary right-lateral offsets of less 
+than 150 km (Decker and others, 1994). Numerous northeast and northwest trending subsidiary 
+structures that are related to the Iditarod - Nixon Fork and Denali Farewell faults occur in the 
+Vinasale project area and possibly have influenced the emplacement and possible subsequent 
+displacement of intrusive bodies in the area.  
+ 
+ Proterozoic through Lower Cretaceous basement rocks of the Vinasale project area are 
+considered part of the Nixon Fork terrane, variously interpreted as a discrete allochthonous 
+terrane (Patton and other, 1994) or as various facies of the continental shelf and slope rocks of 
+the Farewell terrane (Decker and others, 1994). Jones and others (1982) suggested that the Nixon 
+Fork terrane was tectonically displaced several hundred kilometers from the northwestern part of 
+the Canadian Cordillera before it was sutured to its current location.  
+ 
+
+Amalgamation of the older allochthonous terranes of western Alaska was completed prior 
+to middle Cretaceous time (Nokleberg and others, 1994; Decker and others., 1994; Patton and 
+others., 1994). Subsequently, these older terranes were eroded and partly covered by terrigenous 
+clastic rocks deposited into the Kuskokwim basins. These basin fill sequences are Middle to Late 
+Cretaceous in age and display prograding turbidite facies interpreted to be of shallow marine and 
+shoreline origin (Miller and Bundtzen, 1994; Patton and others., 1994). The regionally extensive 
+Upper Cretaceous Kuskokwim Group was deposited primarily by turbidity currents into an 
+elongate, probably strike-slip basin (Miller and Bundtzen, 1994). Local interbedded tuffs and 
+volcaniclastic sandstone exist within the Kuskokwim Group, however much of the Kuskokwim 
+Group is derived from a mixture of sedimentary and metamorphic terranes (Decker and others., 
+1994).  
+ 
+
+Late Cretaceous to Early Tertiary volcanic-plutonic complexes, consisting of larger 
+plutons and subvolcanic dike and sill swarms and associated felsic to mafic volcanic rocks 
+intrude and overlie the older terranes and the Cretaceous Kuskokwim group (Bundtzen and 
+Miller, 1996). These Late Cretaceous- Early Tertiary igneous rocks host a variety of mineral 
+deposits that form the KMB and range in composition from gabbro to alkali granite with 
+intrusives in the Vinasale project area comprised primarily of late Cretaceous biotite-quartz 
+monzonite (DiMarchi and others, 1994).  
+ 
+
+The dominant deformation events affecting rocks of the KMB began in Late Cretaceous 
+time, although earlier deformational events clearly affected the Nixon Fork and adjacent 
+allochthonous terranes prior to their amalgamation (Patton and others., 1994). The post-
+accretionary overlap assemblages (Kuskokwim Group and Late Cretaceous to Early Tertiary 
+volcanic and plutonic rocks) were deformed along continental-scale right lateral, strike slip faults 
+with accompanying en-echelon folds and subsidiary east-west, northeast and northwest trending 
+high-angle faults (Flanigan and others, 2000; Miller and Bundtzen, 1994). The oldest overlap 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 9
+assemblages (Middle Cretaceous) are the most highly deformed and were subjected to multiple 
+fold episodes characterized by steep sub-isoclinal folds. Late Cretaceous and younger rocks are 
+more broadly folded. The main fault zones affecting the KMB include the Poorman, Iditarod-
+Nixon Fork, Farewell-Denali and Susulatna faults, strike roughly 055o to 060o, with offsets that 
+range in order from 16 to 160 kilometers. The dextral strike slip tectonic environment probably 
+controlled the formation of the Kuskokwim basin and the emplacement of Late Cretaceous-Early 
+Tertiary plutonic and volcanic rocks (Nokleberg and others, 1994; Miller and Bundtzen, 1994).  
+ 
+
+Unconsolidated fluvial, colluvial, and aeolian deposits that range in age from Late 
+Tertiary to Holocene cover at least 50 percent of the maturely eroded Kuskokwim Mountains.  
+ 
+ 
+DEPOSIT TYPES 
+ 
+
+Bundtzen and Miller (1996, 1997) and Miller and others (2002) present a wide variety of 
+gold deposit models that have been defined in time-equivalent rocks and similar structural 
+settings in the KMB. Unless otherwise noted, the following information on deposit models is 
+derived from these references.  
+ 
+
+Virtually all of the significant lode gold occurrences in the KMB are associated with late 
+Cretaceous to early Tertiary volcanic and/or plutonic rocks which post-date the Kuskokwim 
+Group post-accretionary basic fill sediments. At least five broad deposit types have been 
+identified in the KMB: 
+ 
+
+1. Plutonic-related mesothermal gold deposits similar to those in the Tintina Gold Belt 
+of Alaska and the adjacent Yukon Territory. Recent discoveries in this belt have 
+outlined a series of distinctive mineral occurrences which appear to be genetically 
+related to mid-Cretaceous to Early Tertiary plutonic activity which affected a large 
+area of northwestern British Columbia, Yukon, Alaska and the Russian Far East 
+(Flanigan and others, 2000). This work, based on extensive geologic and structural 
+mapping and analytical studies (major and trace element analysis, fluid inclusion 
+microthermometry, 40Ar/39Ar geochronology, and isotope analysis) has provided new 
+information regarding gold metallogenesis in the Tintina Gold Belt as well as in the 
+adjacent and overlapping KMB (Lang and Baker, 2001; Baker and others, 2006; 
+Burns and others., 1991; Lelacheur and others., 1991; Hollister, 1991; McCoy and 
+others., 1995; McCoy and others., 1997; McCoy and others, 2002; Mortensen and 
+others, 2000; Newberry and others, 1995; Eremin, 1995; Bundtzen and Miller, 1997). 
+A synthesis of this information suggests a mineral deposit model in which metal and 
+high CO2 bearing fluids fractionate from ilmenite series, I-type intrusions during the 
+late phases of differentiation (porphyritic granites). Depending on the rate of ascent of 
+these hydrothermal fluids, the level of the crust they reach before depositing their 
+metallic budget and their associated intrusive rocks, two distinctly different 
+metallogenic systems can form, in some cases in the same mineral prospect. In 
+deeper, higher pressure settings gold mineralization can form at higher temperatures 
+(400°-600°C) and low sulfur fugacities. Such systems are characterized by elevated 
+Au ± Bi ± Te ± W ± As mineralization. Sulfur-depleted metallic minerals such as 
+native bismuth, native arsenic, maldonite and loellingite often form in such 
+environments. These higher temperature systems display isotopic, trace element and 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 10
+fluid inclusion evidence suggesting almost exclusively magmatic fluid involvement 
+and are thought to form in more proximal intrusive settings. In higher level, lower 
+pressure settings, mineralization forms at lower temperatures (250°-400°C) and 
+higher sulfur fugacities and is characterized by elevated Au ± Ag ± As ± Cu ± Sb ± 
+Hg ± Pb ± Zn. These lower temperature systems display isotopic, trace element and 
+fluid inclusion evidence suggesting significant meteoric water mixing and are thought 
+to form in more distal intrusive settings. A synthesis of this information (Hart and 
+others., 2002, McCoy and others., 1997) suggests an ore deposit model in which gold 
+and high CO2 bearing fluids fractionate from ilmenite series, I-type mid-Cretaceous 
+intrusions during the late phases of differentiation. The gold is deposited in 
+anastomosing pegmatite and/or feldspar selvage quartz veins. Brittle fracturing and 
+continued fluid convection lead to concentration of gold bearing fluids in intrusions 
+and schist-hosted brittle quartz-sericite shear zones. Carbonate and/or calcareous 
+horizons host W-Au skarns and replacement deposits. Structurally prepared 
+calcareous and/or carbonaceous horizons may host bulk-minable replacement 
+deposits. These occur most distal to the intrusions within favorable host rocks. The 
+various styles of significant hypogene gold mineralization in the KMB and Tintina 
+Gold Belt are presented in Lang and others (2001) and Baker (2003).  
+
+2. Plutonic-hosted mesothermal copper-gold-polymetallic deposits: these occurrences 
+are hosted in plutonic rocks ranging from alkali gabbro to granite. Host rocks are 
+generally reduced and of meta-aluminous chemical affinity. Deeper levels of these 
+occurrences contain chalcopyrite, molybdenite, scheelite and arsenopyrite while 
+higher levels contain Ag-Sb sulfosalts, stibnite and free gold. Oxide skarn deposits in 
+this class often contain copper oxides after bornite and chalcopyrite with coarse 
+visible gold. Mineralization can be vertically zoned from host plutonic stock through 
+hornfels cap into overlying volcanics. Alteration assemblages are dominated by 
+ankeritic, potassic, propylitic and silicic alteration. Skarns contain early garnet-
+magnetite followed by later wollastonite alteration.  
+
+3. Peraluminous granite porphyry gold-polymetallic deposits: these occurrences are 
+hosted in granite porphyry dikes and sills the grade upward into shallow intrusives. 
+Host rocks include peraluminous alaskite to alkalic granite, often with garnet. The 
+intrusives show depleted heavy REE trends and can be either reduced or oxidized. 
+Metallic minerals include stibnite, cinnabar, arsenopyrite and Sb-sulfosalts. Generally 
+emplaced at high levels in high angle structures or along low-angle gravity and/or 
+thrust faults. Alteration assemblages are dominated by argillic, potassic and silicic 
+alteration plus dickite. This model type hosts the +40 Moz Donlin Creek deposit. 
+Current knowledge of Vinasale project indicates an affinity for this mineralization 
+style. Vinasale also has been compared to Chimney Creek, Nevada and Porgera, New 
+Guinea based on petrochemistry, alteration and ore mineralogy (DiMarchi and others, 
+1991).  
+
+4. Plutonic-related boron enriched silver-tin-polymetallic deposits: these occurrences are 
+hosted in high level plutonic rocks and overlying hornfels and greisen alteration 
+zones. Host rocks are generally reduced and of meta-aluminous to peraluminous 
+chemical affinity. Two distinct age groups occur (65-70 Ma and 58-62 Ma) with the 
+younger ages more common. Metallic minerals include cassiterite, Ag-Sb-sulfosalts 
+chalcopyrite, and galena. Mineralization occurs in veins, stockworks and replacement 
+zones. Alteration assemblages are dominated by boron minerals (tourmaline, axinite) 
+with silicic alteration. This model type has only been recognized in the last 10 years 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 11
+and accounts for none the known lode gold resources in the KMB. It is potentially a 
+significant host type for silver resources. 
+
+5. Epithermal gold-silver deposits: these occurrences are poorly understood and poorly 
+documented in the KMB. Host rocks can range from sediments to volcanics and 
+related intrusives of all phases. Host rocks include highly altered olivine basalts, 
+meta-aluminous reduced granite to monzonite plutons, and calc-alkalic to andesite to 
+rhyolite volcanics. Metallic minerals include stibnite, cinnabar, arsenopyrite and Sb-
+Ag-sulfosalts and free gold. Generally emplaced at high levels in high angle 
+structures that are distal to plutonic centers. Alteration assemblages are dominated by 
+silica carbonate plus dickite, potassic-phyllic and/or chalcedony-adularia 
+assemblages.  
+
+ 
+ 
+MINERALIZATION 
+ 
+ Historic soil sampling (626 samples) identified three anomalous areas in the Central 
+Zone, Northeast Zone and South Zone, each underlain by intrusive rock near the crest of 
+Vinasale Mountain. A 30 ppb gold isopleth measuring 450 meters by 600 meters defined the 
+Central Zone, which is located 0.75 km west of the summit of Vinasale Mountain. The Northeast 
+Zone is located 900 meters northeast of the summit of Vinasale Mountain and measures 1200 
+meters by 600 meters and the South Zone which lies 1000 meters southeast of the summit of 
+Vinasale Mountain measures 600 meters by 60 meters (Figure 4). Each of these zones has a 
+multi-element signature with gold and associated anomalous arsenic, bismuth, antimony, 
+molybdenum and tungsten. Arsenic provides the most coherent halo surrounding all three of the 
+gold-anomalous zones. The Central Zone soil values have a gold anomaly nearly an order of 
+magnitude higher than that seen in the other zones. As a consequence, the Central Zone became a 
+priority exploration target. The Northeast Zone is thought to straddle the contact between 
+intrusive rocks of the Vinasale pluton and surrounding Kuskokwim Group sediments, however, 
+poor exposure and limited subsurface data currently make precise placement of the intrusive – 
+sediment contact impossible. 
+ 
+
+Currently known potentially economic mineralization at Vinasale is hosted in a 69 MA 
+biotite quartz porphyry monzonite intrusive complex that contains associated intrusive and 
+hydrothermal breccia phases (Figure 4). Sericitic, silicic, dolomitic, propylitic and tourmaline 
+alteration occur peripheral to quartz-dolomite-sulfide veining. Gold grades appear to be related 
+to the presence of arsenopyrite and antimony. The morphology of gold mineralization was 
+modeled both as stacked sub-horizontal sheets roughly conforming to the occurrence of intrusive 
+breccia phases and as steeply dipping areas thought to be related to structures (DiMarchi, 1996). 
+This mineralization was well constrained within a 500 ppb gold soil anomaly.  
+ 
+ DiMarchi and others (1994) noted that significant drill intervals were sometimes 
+associated with magmatic and/or hydrothermal breccias. Although both hydrothermal and 
+magmatic breccias are within the volumes of rock that returned greater than 1 ppm gold over 20 
+feet, the association of these breccias with mineralization is not unique. DiMarchi and others, 
+1994 states, "The magmatic breccias are characterized by sub-rounded clasts of porphyritic 
+quartz monzonite and subordinate vein quartz in an equigranular fine-grained monzonite matrix. 
+Magmatic breccias have not been observed outside of the Central Zone. Locally, the magmatic 
+breccias grade vertically and laterally into hydrothermal breccias."  
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 12
+ 
+ Hydrothermal breccias are described as occurring as irregular pods and lenses adjacent to 
+magmatic breccias, and DiMarchi and others (1994) propose that "hydrothermal breccias may 
+have formed from periodic boiling in response to rapid (or localized) drops in pressure." These 
+breccias exhibit sericite, silicification and dolomitization of clasts and matrix, giving evidence to 
+a complex hydrothermal history. Hydrothermal breccias may hypothetically be due to cycling 
+release of the pressures confining hydrothermal fluids.  
+ 
+
+The association of breccias, both magmatic and hydrothermal, with significant gold 
+mineralization, suggests a dynamic environment for gold deposition. Such an environment can 
+be explained by steep gradients in temperature and pressure conditions that result in brecciation 
+and mineral precipitation. The structural environment described by DiMarchi and others (1994) 
+easily can be used to explain steep temperature and pressure gradients. The conditions necessary 
+to cause breccias and mineralization to form sub-horizontal tabular masses is less easily 
+explained. Conditions under which sigma three, the least principle stress, can be vertical, and the 
+resulting dilatent zone is horizontal can occur only if the horizontal pressures are greater than the 
+vertical pressures. Evidence of bidirectional horizontal confining pressures at Vinasale currently 
+is lacking. More detailed structural modeling will be required to determine if sub-horizontal ore 
+controls exist at Vinasale.  
+ 
+ A total of 67 drill holes were completed on the project with most of the drilling focused 
+on the Central Zone because it hosts the largest and strongest soil gold anomaly (Table 3). A 
+series of NE and N-S photo linears and VLF anomalies "suggests a structural control of the 
+emplacement of the intrusion breccias" (DiMarchi, 1993), and it is these breccias that are most 
+clearly associated with significant gold mineralization. Only 8 of 67 drill holes completed at 
+Vinasale are angle holes and only five of the holes drilled in the Central Zone are angle holes, 
+suggesting that NE and N-S photo linears and VLF anomalies cited by DiMarchi (1993) were not 
+adequately tested by previous drilling programs.  
+ 
+Table 3: Significant drill intercepts from the Vinasale project. Data modified by CARACOL 
+after DiMarchi and others, 1994. Significant mineralization defined by intervals grading greater 
+than 1 gpt gold over 20 feet.  
+
+Hole # Zone From (ft) To (ft) Int. (ft) (opt gold) (gpt gold) 
+VM9001 Central 371.0 517.0 146.0 0.081 2.777 
+VM9002 Central 10.0 94.0 84.0 0.047 1.611 
+VM9002 Central 115.8 136.0 20.2 0.065 2.229 
+VM9003 Central 87.0 235.0 148.0 0.086 2.949 
+VM9003 Central 470.0 495.3 25.3 0.034 1.166 
+VM9101 Central 0.0 207.0 207.0 0.078 2.674 
+VM9101 Central 285.7 308.8 23.1 0.058 1.989 
+VM9101 Central 341.1 577.0 235.9 0.073 2.503 
+VM9103 Central 3.3 93.0 89.7 0.053 1.817 
+VM9103 Central 164.0 219.0 55.0 0.037 1.269 
+VM9109 NE 0.0 68.8 68.8 0.085 2.914 
+VM9111 NE 33.0 63.0 30.0 0.05 1.714 
+VM9115 NE 129.0 151.7 22.7 0.086 2.949 
+VM9127 NE 222.0 243.0 21.0 0.093 3.189 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 13
+Hole # Zone From (ft) To (ft) Int. (ft) (opt gold) (gpt gold) 
+
+VM9128 NE 149.0 174.0 25.0 0.112 3.840 
+VM9131 Central 25.0 45.0 20.0 0.055 1.886 
+VM9135 Central 0.0 27.5 27.5 0.089 3.051 
+VM9135 Central 300.0 580.0 280.0 0.056 1.920 
+VM9401 Central 80.0 140.0 60.0 0.075 2.571 
+VM9401 Central 320.0 342.0 22.0 0.043 1.474 
+VM9401 Central 355.0 450.0 95.0 0.086 2.949 
+VM9403 Central 96.0 232.0 136.0 0.057 1.954 
+VM9403 Central 535.0 575.0 40.0 0.094 3.223 
+VM9405 Central 95.0 120.0 25.0 0.053 1.817 
+VM9405 Central 673.0 716.0 43.0 0.079 2.709 
+VM9406 Central 463.0 513.0 50.0 0.036 1.234 
+VM9406 Central 543.0 563.0 20.0 0.053 1.817 
+VM9406 Central 678.0 698.5 20.5 0.066 2.263 
+VM9407 Central 83.0 199.0 116.0 0.103 3.531 
+VM9407 Central 265.0 330.0 65.0 0.06 2.057 
+VM9407 Central 350.0 505.0 155.0 0.052 1.783 
+VM9407 Central 520.0 590.0 70.0 0.066 2.263 
+VM9408 Central 53.0 73.0 20.0 0.067 2.297 
+VM9408 Central 89.0 218.0 129.0 0.069 2.366 
+VM9408 Central 268.0 294.0 26.0 0.074 2.537 
+VM9410 Central 0.0 25.0 25.0 0.085 2.914 
+VM9410 Central 87.0 115.5 28.5 0.083 2.846 
+VM9410 Central 303.0 366.0 63.0 0.063 2.160 
+VM9410 Central 518.0 699.0 181.0 0.048 1.646 
+VM9410 Central 728.0 828.0 100.0 0.046 1.577 
+VM9410 Central 868.0 988.0 120.0 0.077 2.640 
+VM9411 Central 355.0 425.0 70.0 0.072 2.469 
+VM9411 Central 450.0 492.0 42.0 0.061 2.091 
+VM9411 Central 506.0 680.0 174.0 0.085 2.914 
+VM9411 Central 730.0 900.0 170.0 0.073 2.503 
+VM9411 Central 932.3 1000.0 67.7 0.131 4.491 
+VM9412 Central 438.0 586.0 148.0 0.077 2.640 
+VM9412 Central 628.0 684.0 56.0 0.045 1.543 
+VM9413 Central 95.0 230.0 135.0 0.103 3.531 
+VM9413 Central 310.0 385.0 75.0 0.087 2.983 
+VM9413 Central 420.0 470.0 50.0 0.049 1.680 
+VM9413 Central 800.0 830.0 30.0 0.193 6.617 
+VM9418 Central 168.0 191.0 23.0 0.083 2.846 
+VM9418 Central 217.0 271.0 54.0 0.083 2.846 
+VM9418 Central 350.0 372.5 22.5 0.124 4.251 
+VM9418 Central 399.5 462.0 62.5 0.062 2.126 
+VM9418 Central 542.0 571.0 29.0 0.069 2.366 
+VM9418 Central 578.0 607.0 29.0 0.057 1.954 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 14
+Hole # Zone From (ft) To (ft) Int. (ft) (opt gold) (gpt gold) 
+
+VM9418 Central 623.0 670.0 47.0 0.05 1.714 
+VM9418 Central 677.0 737.0 60.0 0.039 1.337 
+VM9418 Central 815.0 862.0 47.0 0.07 2.400 
+VM9418 Central 918.0 1004.0 86.0 0.055 1.886 
+VM9418 Central 1050.0 1120.0 70.0 0.048 1.646 
+VM9418 Central 1167.0 1224.0 57.0 0.106 3.634 
+VM9419 Central 40.0 60.0 20.0 0.118 4.046 
+VM9424 Central 26.0 62.0 36.0 0.134 4.594 
+VM9424 Central 247.0 357.0 110.0 0.103 3.531 
+VM9426 Central 368.0 398.0 30.0 0.076 2.606 
+VM9426 Central 423.0 448.0 25.0 0.088 3.017 
+
+ 
+ 
+EXPLORATION 
+ 
+ As per section 12 of NI43-101-F1, all exploration work conducted by parties other than 
+Freegold is discussed under "History", "Geologic Setting" or "Mineralization".  
+ 
+
+The goal of the 2007 program was to evaluate the larger land block for its potential to 
+host other Vinasale style occurrences as well as to assist Doyon with their final land selection 
+under the Alaska Native Claim Settlement Act. Work during 2007 included an airborne 
+geophysical survey (1788 line-km) flown by Fugro Airborne Surveys (Fugro, 2008) and district-
+wide reconnaissance geochemical sampling program in order to address the wider exploration 
+targets, Table 4 is a summary of significant work completed on the Vinasale project in 2007 and 
+2008.  
+ 
+
+Sampling of streams draining Vinasale Mountain also was conducted for comparison 
+purposes (Table 4). Sampling of pan concentrates and sediments in 2007 focused on drainages 
+radial to Vinasale Mountain (23 sample sites), Selatna Mountain (62 sample sites) and Black 
+River (95 sample sites). Within the 2007 database, gold has the strongest correlation with arsenic 
+(0.843382) and antimony (0.695027). Bismuth (0.035942), molybdenum (0.029359) and 
+tungsten (0.026019) are nearly uncorrelated.  
+ 
+Table 4: Summary of significant work completed on the Vinasale project in 2007 and 2008. 
+ 
+Year 
+
+Rock  
+samples 
+
+Stream 
+Sed samples 
+
+PanCon 
+samples 
+
+Line-km  
+I.P. 
+
+Line-km  
+heli- Mag/EM 
+
+2007 0 160 59 0 1,788 
+2008 0 0 0 21.1 0 
+
+ 
+As expected, gold from the 2007 work is strongly anomalous on Vinasale Mountain, 
+
+clearly correlating with the previously identified Central Zone, Northeast Zone and South Zone. 
+Gold, arsenic and antimony values show some crude zonation in soils, where a central core has 
+higher values than the peripheral lower values. Sediment samples on the east side of Selatna 
+Mountain are strongly gold anomalous, but arsenic, bismuth, antimony and tungsten is only 
+weakly anomalous. Review of the total field aeromagnetics indicates this zone may be near a 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 15
+contact of lithologies of different susceptibilities, but the zone lacks the magnetic depletion 
+indicative of intrusive rock-related alteration. 
+ 
+
+The Black River zones hosts a few widely scattered single point gold anomalies as well 
+as bismuth anomalies, but other trace elements are not anomalous. There is very little 
+aeromagnetic character to the area with anomalous gold, so the likelihood of a significant 
+mineral system is low, however multi frequencies indicate a break in the map pattern suggesting 
+a lithologic contact or structure between less susceptible rocks.  
+ 
+
+The airborne results clearly show the intrusive body at the core of Vinasale Mountain as a 
+resistivity high and a magnetic high. Although the line spacing was larger than desirable the 
+Vinasale pluton was readily detected on at least 3 flight lines. A small plug-like feature was 
+visible on the magnetics on the west bank of the Katlitna River, to the east of Vinasale Mountain, 
+but other than that no pattern similar to the magnetic and electromagnetic surrounding Vinasale 
+Mountain was observed (Walcott, 2008a). 
+ 
+
+Peripheral zones of lower magnetic susceptibility may indicate magnetite-destructive 
+alteration zones in the Kuskokwim Group sediments (Figure 7) while resistivity low anomalies 
+peripheral to the Vinasale intrusion may indicate structural or mineralogical conductors. The 
+most extensive areas of magnetic and resistivity lows are outside of previously drilled areas and 
+presented compelling exploration targets for future work.  
+ 
+
+In 2008, Peter E. Walcott and Associates Limited was contracted to complete an induced 
+polarization survey (21.1 line-km) on areas directly surrounding the known historical resource at 
+the Central zone (Walcott, 2008b; Figure 6). The objective was to determine the IP/Resistivity 
+signature of the Central zone and to test the area to the immediate north and north-east of the 
+Central zone.  
+ 
+
+A chargeability anomaly is associated with the known zone, and this anomaly remains 
+open to the south. To the north of the Central Zone area the anomaly weakens significantly 
+however remains present in areas where no drilling has taken place. Further potential for small 
+deposits is known to occur in the north-east where further anomalous chargeability readings are 
+seen. A strong IP chargeability high occurs along the western, northern edges of the 2008 IP grid 
+and is suggestive of sulfide mineralization, possibly within the hornfelsed contact zone 
+surrounding the Vinasale pluton.  
+ 
+
+The high resistivity (> 4000 Ohm*m) features are interpreted to be the porphyritic quartz 
+monzonite intrusive units while the medium resistive features (1000 – 4000 Ohm*m) are 
+interpreted to be the north trending steeply dipping quartz monzonite magmatic breccia. Several 
+areas within breccias with anomalous chargeability readings (12 – 18 mV/V) likely caused by 
+pyrite and arsenopyrite mineralization should be considered as potential targets including 
+directly north of the Central zone at depth (Figure 6, Figure 8).  
+ 
+ 
+
+Walcott (2008b) recommended further IP surveying across the North-east zone to the 
+edge of the intrusive. Additional lines were recommended on the south to define additional areas 
+that may have the potential to host mineralization. Optimal coverage recommended was IP 
+surveying at 200m line spacing across the whole intrusive (Walcott, 2008b). Infill lines at 100 m 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 16
+spacing should also be considered for areas that warrant further detail. In addition a couple of 
+traverses should be carried out in the Katlitna river area to test for the occurrence of sulfides 
+there (P. Walcott, oral comm., 2010). 
+ 
+ 
+DRILLING 
+ 
+ As of the date of this report, Freegold Ventures has not conducted or contracted others to 
+conduct drilling on the Vinasale project. Historic drilling results at Vinasale are summarized 
+under "History" and results are discussed under Geologic Setting and Mineralization. 
+ 
+ Details relating to drilling techniques, equipment, and other related drilling data for the 
+WGM drilling program in 1979 are not available to the author.  
+ 
+ During 1990 core drilling was conducted by Boyles Brothers Drilling using a helicopter 
+portable BBS25 core rig (DiMarchi and others, 1991a). All holes were drilled with HQ core (2.5 
+inch diameter). Average production was 71 feet per 24-hour drilling day, including move time 
+between holes. Average core recovery exceeded 95%.  
+ 
+ During 1991 core drilling was conducted by Boyles Brothers Drilling using a helicopter 
+portable BB15 core rig (DiMarchi and others, 1991b). A total of 14,517 feet of HQ and 1,358 
+feet of NX core was drilled during 1991. Average production was 120 feet per 24-hour drilling 
+day, including move time between holes.  
+ 
+ During 1994, ASA-Montague completed 17,265 feet of HQ and NQ diamond drilling on 
+the Vinasale project (DiMarchi and others, 1994). Drilling was completed by Boyles Brothers 
+Drilling using two BB-15 helicopter-portable drilling rigs. Drilling rates averaged 278 feet per 
+24-hour drilling day, including move time between holes. At the end of the program, a 4,000 foot 
+steel waterline was left on the project. This line extends from the Alder Creek placer workings to 
+the Central zone at the top of Vinasale Mountain.  
+ 
+ All of the drilling completed to date at Vinasale was conducted between 1979 and 1994 
+(Table 5). The major program in 1991 was conducted by CAGC/Placer Dome while the 1994 
+drill program was conducted by ASA-Montague.  
+ 
+ Table 5: Historical drilling summary from the Vinasale project, Alaska.  
+
+Year Number of holes Company Total Footage 
+1979 1 WGM 609 
+1990 3 CAGC 1,498 
+1991 37 CAGC/Placer Dome 15,875 
+1994 26 ASA Montague 17,265 
+
+  TOTAL: 35,247 
+ 
+ 
+SAMPLE METHOD AND APPROACH 
+ 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+Details regarding the sampling methods and approaches utilized by WGM at the Vinasale 
+project are not available to the authors. 
+
+
+
+ 17
+ 
+ During 1990, CAGC collected rock grab (3-6 pounds each) and rock chip samples (8-10 
+pounds each) along with stream silt and soil samples on the Vinasale project. Soil samples were 
+collected with shovels except where soil depth exceeded shovel length. In those locations, hand 
+augers were used to collect soil. All soil samples came from depths of 1 to 4 feet. Sample 
+descriptions were kept in field notebooks and sample locations were tied to a 42,000 line-foot 
+grid covering the project (DiMarchi and others, 1991a). All drill core was logged on detailed 
+logging sheets and samples marked for assay and split in the field. One-half of the core was 
+shipped for geochemical analysis and the other half was retained and shipped to Fairbanks were 
+currently is stored at Doyon's secure warehouse. 
+ 
+ No surface sampling was conducted on the Vinasale project in 1991 (DiMarchi and 
+others, 1991b). All drill core was logged on detailed logging sheets and samples marked for 
+assay and split in the field. One-half of the core was shipped for geochemical analysis and the 
+other half was retained and shipped to Fairbanks were currently is stored at Doyon's secure 
+warehouse. 
+ 
+ During 1994 ASA Inc. collected 20 rock samples from the Northeast zone. These 
+samples were collected in canvas bags, and where possible retained a hand specimen (DiMarchi 
+and others, 1994). In addition, a total of 771 soil samples were collected from the Northeast zone 
+(543), South zone (147) and Alder Creek zone (81). Soil samples were collected from the "C" 
+horizon where possible, and if not possible, poor sample quality was noted on the sample card. 
+Core intervals were selected based on run blocks and lithology. Samples were collected in bags 
+and labeled with the year, hole number and footage interval. All drill core was logged on detailed 
+logging sheets and samples marked for assay and split in the field. One-half of the core was 
+shipped for geochemical analysis and the other half was retained and shipped to Fairbanks were 
+currently is stored at Doyon's secure warehouse. 
+ 
+
+A total of 161 soil, 20 pan concentrate, and 10 rock samples were collected during 
+Freegold's 2007 Vinasale project work program. Sample description data for all pan concentrate 
+and sediment samples were collected in the field and then transferred to the camp computer on a 
+regular basis. GPS coordinates were taken at each site and downloaded to the project computer 
+for inclusion in GIS databases. All field data was then summarized and included in the existing 
+project databases. All grab rock samples were accompanied by a lithology sample that was 
+retained for reference purposes. 
+ 
+ 
+SAMPLE PREPARATION, ANALYSIS AND SECURITY 
+ 
+ Details regarding the sampling preparation, analysis and security methods utilized by 
+WGM at the Vinasale project are not available to the authors. 
+ 
+ During 1990, CAGC utilized Chemex Labs to complete all geochemical sample analyses 
+(DiMarchi and others, 1990a). Sample preparation was conducted in Anchorage, Alaska and 
+analytical work was completed in Vancouver, B.C. All rock and core samples were crushed, 
+split, dried and pulverized to 250-350 grams 90% pass -150 mesh. The 30 gram analytic portion 
+was fire assayed with atomic absorption finish for gold, and a 32 element inductively couple 
+plasma emission spectroscopy (ICP) analysis was conducted on another analytic portion using 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 18
+aqua regia digestion. Soils were dried and sieved to -80 mesh, then a 30 gram split was fire 
+assayed for gold with atomic absorption finish, and another analytic portion was digested in aqua 
+regia for a 32 element ICP analysis. Where gold values exceeded 10,000 ppb, the sample was 
+rerun by 1 assay-ton lead fire assay with gravimetric finish. 
+ 
+ During 1991, CAGC utilized Chemex Labs to complete all drill core geochemical sample 
+analyses (DiMarchi and others, 1991b). Sample preparation was conducted in Anchorage, Alaska 
+and analytical work was completed in Vancouver, B.C. All core samples were crushed, split, 
+dried and pulverized to 250-350 grams 90% pass -150 mesh. A one assay-ton analytic portion 
+was fire assayed for gold with atomic absorption finish, and a 32 element inductively couple 
+plasma emission spectroscopy (ICP) analysis was conducted on another analytic portion using 
+aqua regia digestion.  
+ 
+
+ASA-Montague used Chemex Labs during their 1994 field program (DiMarchi and 
+others, 1994). Sample preparation was conducted in Anchorage, Alaska and analytical work was 
+completed in Vancouver, B.C. All rock and core samples were crushed, split, dried and 
+pulverized to 250-350 grams 90% pass -150 mesh. The 30 gram analytic portion was fire assayed 
+with atomic absorption finish for gold, and a 32 element inductively couple plasma emission 
+spectroscopy (ICP) analysis was conducted on another analytic portion using aqua regia 
+digestion. Soils were dried and sieved to -80 mesh, then a 30 gram split was fire assayed for gold 
+with atomic absorption finish, and another analytic portion was digested in aqua regia for a 32 
+element ICP analysis (DiMarchi and others, 1994).  
+ 
+
+All samples collected for Freegold's 2007 program on Vinasale were placed in double, 
+woven nylon shipping sacks, secured with plastic wire ties and transported to via commercial air 
+transport to Fairbanks, Alaska. Samples were then picked up by Avalon Development, checked 
+for sample integrity and then delivered to Alaska Assay Laboratories in Fairbanks, Alaska. All 
+sample preparation and gold geochemical analyses was conducted by Alaska Assay while multi-
+element geochemical analyses was completed by Acme Analytical Labs of Vancouver, B.C. 
+Each sediment and pan concentrate sample was dried and sieved to minus 80 mesh size prior to 
+analysis. Rock samples were crushed to -150 mesh and a 30 gram spit was analyzed for gold by 
+lead collection fire assay techniques with an atomic absorption finish. A separate split was 
+analyzed for a suite of trace elements using a four acid digestion procedure followed by ICP 
+techniques with an atomic emission spectrographic finish. All rejects were retained in Fairbanks 
+and all pulps were retained in Vancouver during the field season. 
+ 
+ All completed and certified 2007 geochemical data was posted on Avalon's private 
+account where it was retrieved, checked and archived at Avalon's Fairbanks office. Hard copies 
+of each analytical certificate were delivered to Avalon with invoices. At year-end, portable 
+document file (pdf) digital data was sent to Avalon for permanent digital storage of each 
+certificate issued to the Vinasale project in 2007. Avalon's digital data are backed up on a 
+weekly basis with archived tape back ups stored off-site in a fire-proof safe. 
+ 
+
+At the end of the 2007 season, all pulps were returned to Avalon's Fairbanks warehouse 
+for permanent storage.  
+ 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 19
+ 
+DATA VERIFICATION 
+ 
+ Details regarding the data verification methods utilized by WGM and Central Alaska 
+Gold Corp. at the Vinasale project are not available to the authors. 
+ 
+ DiMarchi and others (1994) reported that during the 1994 program ASA-Montague 
+implemented the following quality assurance/quality control steps:  
+ 
+ Quality control procedures for sample analysis included the inclusion of blanks, standards 
+and duplicates into the sample sequence. Ten percent of all samples analyzed are quality control 
+samples. On average, every 40 sample sent to the lab included 2 standards, 1 duplicate and 1 
+blank. Standards were provided by USGS and CANMET. Computer-controlled instrumentation 
+(i.e. ICP instruments) automatically transfer the data to the mainframe computer ensuring a lack 
+of transcription errors. Manually entered data was verified by a second technician.  
+ 
+
+1) ASA inserted CANMET gold standards with core samples from mineralized intervals. 
+These served as an independent verification of the accuracy of Chemex's fire assay 
+procedures. 
+
+2) ASA requested that Chemex also assay the "clean granite" material after it was used to 
+clean the crushers. This served as an additional blank sample to verify the lack of gold 
+contamination between sample preparation batches. 
+
+3) ASA monitored Chemex's geochemical results for all standards and blanks, in order to 
+detect statistically significant variations. We found that the gold assay for only one 
+standard sample exceeded our 1 standard deviation threshold. Fortunately none of our 
+samples from this batch contained anomalous gold. 
+
+4) ASA resubmitted 10% (36 samples) of all mineralized samples from the 1990 drill holes 
+at Vinasale for an umpire gold fire assay at Chemex. The largest difference between the 
+two generations of assay data was 0.002 opt Au. This exercise strengthened the general 
+credibility of Chemex Labs but also validated their consistency from year to year. 
+
+5) ASA also resubmitted 10% (78 samples) of all mineralized 1994 core samples for umpire 
+gold fire assay at Bondar Clegg in Vancouver. This served as a further check of the 
+integrity of the Chemex data. 
+
+ 
+ASA compared the hand-entered data in the ASA computerized database with the original 
+
+data contained on all the drill logs to check for entry errors. There were more than 60,000 
+computer entries made in the field from core logging forms. ASA also compared the 
+computerized geochemical data with the certified hard copies for all the intercepts with gold 
+values exceeding 0.029 opt Au. 
+
+ 
+During the 2007 exploration program, Freegold submitted blanks and standards that 
+
+comprised just over 10% of the total samples submitted. Blanks were composed of Browns Hill 
+Quarry basalt from the Fairbanks Mining District, Alaska as the first sample in each sample 
+shipment and thereafter on a 1 for 40 basis into the sample sequence. Extensive previous analysis 
+of this same blank rock type has given Avalon a large geochemical database for use on a 
+comparative basis. Preparation of samples by Alaska Assay and analyses performed by Alaska 
+Assay and Acme on blanks from the Vinasale project indicate no unusual or spurious sample 
+results. Commercial gold standards were inserted into the geochemical sample stream on a 1 for 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 20
+10 basis. Analysis of the geochemical results from the standards analyzed by Alaska Assay and 
+Acme indicates no unusual or spurious sample results. 
+ 
+ADJACENT PROPERTIES 
+ 
+ There are no other third-party mineral properties in the vicinity of the Vinasale project. 
+ 
+ 
+MINERAL PROCESSING AND METALLURGICAL TESTING 
+ 
+ Signet Independent Metallurgical Laboratories of Perth, Australia performed the most 
+recent metallurgical studies at Vinasale (Table 6, Signet, 1995).  
+ 
+ Table 6: Summary of metallurgical results from the Vinasale project, Alaska. Data from 
+Signet, 1995. 
+Process Pressure Oxidation Bacterial Oxidation Alkaline Oxidation 
+Overall gold 
+Recovery (including 
+flotation recovery) 
+
+ 
+91.2% 
+
+ 
+76.0% 
+
+ 
+82.6% 
+
+ 
+ In 1995 Independent Metallurgical Laboratories completed additional processing work. 
+Conclusions drawn from this work include: 
+ 
+
+1) The Bond Ball Mill Work index of the 9403 drill core sample was 12.5 kWh/tonne for a 
+limiting aperture of 125 microns. 
+
+2) A sample of 9403 drill core gave an abrasion index of 0.2238gm. 
+3) There was moderate agreement between the assay and calculated head grades of the 
+
+Vinasale Mountain bulk composite (Hole 9410: 303-366ft, Hole 9411: 450-492ft, and 
+Hole 9412: 438-586ft) 
+
+4) An overall gold recovery of only 6% was achieved by cyanide leaching a sample of bulk 
+composite in the presence of activated carbon. 
+
+5) Bulk flotation of the Vinasale Mountain composite recovered 90% of the gold, 88.2% of 
+the arsenic and 91% of the sulfur into a cleaner concentrate representing 6.95% of the 
+feed mass. 
+
+6) An overall gold recovery of only 11.4% was achieved by cyanide leaching a sample of 
+bulk composite cleaner concentrate in the presence of activated carbon after ultra fine 
+grinding to a P80 of 6.4 microns. 
+
+7) An overall gold recovery of 87.4% was obtained with alkaline oxidation of a sample of 
+flotation concentrate ground to a P80 of 6.4 microns and subsequent cyanide leaching of 
+the alkaline oxidation residue. 
+
+8) An overall recovery of 43.9% was obtained with alkaline oxidation of a sample of 
+flotation concentrate at it's "as received" size and subsequent cyanide leaching of the 
+alkaline oxidation residues. 
+
+9) Roasting of a sample of flotation concentrate resulted in a 25.0% weight loss. 
+10) Leaching of the calcine resulted in a gold recovery of 59.2% after 72 hours. 
+11) Bacterial oxidation test work indicated that a gold recovery of 80.3% was possible after 
+
+complete iron release. 
+ 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 21
+Earlier metallurgical studies have been done by BHP Utah International (April 1991), Placer 
+
+Dome US (PDUS) Research Laboratory (August 1991), Newmont Mining (March 1992), and 
+Mountain States Research and Development Inc. (March 1992). Each of these studies produced 
+non-contradictory results further supporting the most recent work. The author has not had access 
+to the complete reports cited above, and reference is to summaries provided in annual reports of 
+the property operators. 
+ 
+ 
+MINERAL RESOURCES AND MINERAL RESERVE ESTIMATES 
+ 
+
+There currently are no resources or reserves on the Vinasale property that comply with 
+the CIM Standards on Mineral Resources and Reserves Definitions and Guidelines adopted by 
+CIM Council on August 20, 2000 and should not be relied upon. Historical resource estimates 
+calculated by parties other than Freegold are presented under "History".  
+ 
+ 
+ADDITIONAL REQUIREMENTS FOR TECHNICAL REPORTS ON DEVELOPMENT 
+PROPERTIES AND PRODUCTION PROPERTIES 
+ 
+ Vinasale is not presently a development or production property. 
+ 
+ 
+OTHER RELEVANT DATA AND INFORMATION 
+ 
+ To the best of the author's knowledge, there are no other data available to the author that 
+relate directly to the lode gold potential of the Vinasale project. 
+ 
+ 
+INTERPRETATIONS AND CONCLUSIONS 
+ 
+ The Vinasale gold project is located in western Alaska, approximately seventeen miles 
+south of McGrath and 400 kilometers southwest of Fairbanks. The project is situated on the east 
+bank of the Kuskokwim River. Free Gold Recovery, USA owns 72 State of Alaska mining 
+claims covering 11,520 acres and has leased 89,583.54 acres from Doyon Limited, one of 13 
+regional Alaska Native corporations. Access to the property is via commercial aircraft to 
+McGrath, and then to the property via helicopter, or via seasonal barge up the Kuskokwim River.  
+ 
+ The property is underlain by Cretaceous-ages Kuskokwim Group shales and greywackes 
+that have been intruded by a Tertiary-aged porphyritic quartz monzonite intrusive complex... 
+East-west, north-south and northeast-southwest trending structures cut the sediments and 
+intrusions. Gold mineralization identified to date is hosted by magmatic and hydrothermal 
+breccia phases of a quartz monzonite phase of the intrusive complex. Arsenic has the strongest 
+correlation with gold while antimony, bismuth and tungsten also correlate to a lesser extent. 
+Gold-related alteration includes sericitic alteration, dolomitic alteration and silicification as 
+pervasive flooding and as quartz veinlets. The margin of the intrusion at Vinasale Mountain 
+exhibits hornfelsing of the sediments and is associated with both an aeromagnetic and resistivity 
+low in addition to an as yet-fully defined IP chargeability high. No drilling has been conducted in 
+the hornfels zone at Vinasale.  
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 22
+ 
+
+Placer gold was discovered in Alder Creek draining the south side of Vinasale Mountain 
+in approximately 1922, with total placer gold production estimated at less than 125 ounces. No 
+lode production has occurred in the area. 
+ 
+ Lode exploration in the early 1990s identified gold-in-soil anomalies at the Central, 
+South and Northeast zone near the crest of Vinasale Mountain. These anomalies were drilled 
+tested, with subsequent follow-up drilling in the Central Zone. Total core drilling to date is 
+25,247 feet. The Central Zone was investigated by 21 drill holes within an area measuring 
+approximately 185 meters by 185 meters (600 feet by 600 feet) and intersected one or more 
+intervals of greater than 6 meters (20 feet) grading more than 1 gram of gold per tonne (0.029 
+opt). Mineralization is open to expansion in several directions. Review of drill core indicates that 
+higher gold grades commonly occur with magmatic and/or hydrothermal breccias. The majority 
+of drill holes were vertical but some of the best grade-thickness intervals came from angle holes, 
+suggesting the possible presence of as-yet undefined high angle controls on gold mineralization. 
+ 
+ Several historical resource estimates were completed on the Vinasale gold project prior to 
+implementation of NI-43-101 reporting standards. The most recent historical resource estimate 
+(1995) totals 16,049,000 short tons grading 0.060 ounces of gold per ton (962,760 ounces). 
+These historical resource calculations are reported here for historical accuracy purposes 
+only. These historical resource calculations are not NI 43-101 compliant and do not comply 
+with the CIM Standards on Mineral Resources and Reserves Definitions and Guidelines 
+adopted by CIM Council on August 20, 2000.  
+ 
+ The available data identifies host rock and regional structural similarities between 
+Vinasale Mountain and the +40 million ounce Donlin Creek deposit approximately 135 
+kilometers to the southwest. Both are hosted primarily in Tertiary plutonic rocks which intrude 
+Kuskokwim Group sediments and both are controlled by northeast trending structures. Both 
+Donlin and Vinasale have quartz and carbonate alteration as well as anomalous arsenic and 
+antimony trace elemental associations. In addition, the Vinasale gold project is similar to the 
+Trun gold-tungsten deposit, Bulgaria, where significant gold-tungsten mineralization is hosted in 
+hornfelsed sediments surrounding a previously explored gold-bearing intermediate intrusive.  
+ 
+
+Additional exploration work is warranted at the Vinasale gold project.  
+ 
+ 
+RECOMMENDATIONS 
+ 
+
+Based on previous field, laboratory and literature studies completed to date, the following 
+recommendations for future work are offered: 
+ 
+
+1. IP Program: Complete additional IP surveying across the north-east zone to the edge 
+of the intrusive as well as complete additional lines to the south to define additional 
+areas that may have the potential to host mineralization. Surveys should be completed 
+on 200 meter line spacing as recommended by Walcott (2008b). Infill lines at 100 
+meter spacing should also be considered for areas that warrant further detail. The total 
+estimated cost of the geophysical program is $300,000 (Table 7). 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 23
+2. Core Drilling: Diamond core drilling needs to both upgrade the known mineralization 
+
+at the Central Zone and to identify new mineralized zones (Figure 8). Confirmation 
+drilling of previously identified mineralization is recommended to insure reliability of 
+previous drilling data. Grid drilling may both improve the confidence of potential ore 
+blocks and improve the knowledge of boundaries to mineralization. Angle drilling is 
+recommended to intersect steeply controlled mineralization. Angle drilling should 
+help clarify the morphology of mineralization as well as define possible extensions of 
+mineralization. The budget plans for 10,000 feet of direct drilling costing at an 
+estimated $50 per foot and a loaded all-in cost of $125 per foot. It is expected that the 
+IP survey conducted in June will generate additional and/or refined drill hole 
+proposals. All drill core management, including logging, photographing, splitting, 
+sampling, QAQC sample insertion, and packaging for transport to assay lab, will 
+occur onsite at the core logging tent located in camp. Core samples will be shipped 
+out from camp at pre-arranged times to coincide with supplies coming in to camp. A 
+standardized core log and core logging procedure will be defined in advance to insure 
+that relevant data is consistently recorded for each drill hole. Drill hole location and 
+geological information will be utilized to produce on-site cross-sections to help guide 
+on-going drilling activities. These data also will be shipped via email for construction 
+of digital cross-sections. The total estimated cost of the core drilling program is 
+$1,250,000 (Table 7).  
+
+ 
+Based on the above recommendations, the 2010 Vinasale project budget will be 
+
+approximately $1,550,000 
+ 
+
+Table 7: Summary of recommended 2010 Vinasale project budgets.  
+Budget item Amount (US$) 
+
+I.P. Geophysics budget 300,000 
+
+Core Drilling budget 1,250,000 
+
+2010 Total Budget $1,550,000 
+ 
+ 
+DATE AND SIGNATURE PAGE 
+ 
+
+The effective date of this Technical report, entitled SUMMARY REPORT FOR THE 
+VINASALE GOLD PROJECT, MCGRATH MINING DISTRICT, ALASKA is March 25, 2010 
+ 
+Signed,  
+ 
+ 
+ 
+ 
+___________________________________________ 
+Gregory B. Maynard, BA, MS, Reg.Geol. #26767 (AZ) 
+ 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 24
+ 
+ 
+REFERENCES 
+ 
+Baker, T., 2003, Intrusion Related Gold Deposits: Explorable Characteristic. Gold Short Course, 
+
+Cordilleran Exploration Roundup, Vancouver, BC, January 26, 2003. 
+ 
+Baker, T., Ebert, S., Rombach, C. and Ryan, C.G., 2006, Chemical Compositions of Fluid 
+
+Inclusions in Intrusion-Related Gold Systems, Alaska and Yukon, Using PIXE 
+Microanalysis: Econ Geol., Vol. 101, pp. 311-327. 
+
+ 
+Bundtzen, T.K., 1986, Prospect examination of a gold-tungsten placer deposit in Alder Creek, 
+
+Vinasale Mountain area, western Alaska: Alaska Division of Geological and Geophysical 
+Surveys Public Data File Report 86-15, 10 p. 
+
+ 
+Bundtzen, T.K., and Gilbert, W.G., 1983, Outline of geology and mineral resources of upper 
+
+Kuskokwim region, Alaska: Geological Society of Alaska Journal, v. 3, pp. 101-117. 
+ 
+Bundtzen, T.K., and Miller, M.L., 1996, Precious metals associated with Late Cretaceous – early 
+
+Tertiary igneous complexes of southwestern Alaska: Alaska Div. Geol. and Geophys. 
+Surveys, Public Data File 96-16, 46 p. 
+
+ 
+Bundtzen, T.K., and Miller, M.L., 1997, Precious metals associated with Late Cretaceous – Early 
+
+Tertiary igneous rocks of southwestern Alaska: Economic Geology Monograph 9. pp. 
+242-286. 
+
+ 
+Bundtzen, T.K., and Laird, G.M., 1983, Geology of the McGrath D-6 quadrangle, Alaska: 
+
+Alaska Division of Geological and Geophysical Surveys, Professional Geological Report 
+79, 1 sheet, scale 1:63,360. 
+
+ 
+Bundtzen, T.K., Swainbank, R.C., Wood, J.E., and Clough, A.H., 1992, Alaska's mineral 
+
+industry 1991 summary: ADGGS Information Circular 35, 11 p. 
+ 
+
+Bundtzen, T.K., 1999, Alaska Resource Data File (ARDF) for the McGrath quadrangle, Alaska: 
+U.S. Geol. Surv., Open File Rept. 99-357, 199 p. 
+
+ 
+Burns, L.E., Newberry, R.J., and Solie, D.N., 1991, Quartz normative plutonic rocks of interior 
+
+Alaska and their favorability for association with gold: ADGGS Report of Investigations 
+91-3, 58 p. 
+
+ 
+Cobb, E.H., 1973, Placer deposits of Alaska: U.S. Geological Survey Bulletin 1374, 210 p. 
+ 
+Decker, J., Bergman, S.C., Blodgett, R.B., Box, S.E., Bundtzen, T.K., Clough, J.G., Conrad, 
+
+W.L., Gilbert, W.G., Miller, M.L., Murphy, J.M., Robinson, M.S. and Wallace, W.K., 
+1994, Geology of southwestern Alaska in Plafker, G. and Berg, H.C., editors, The 
+Geology of Alaska: Geological Soc. Amer., Geology of North Amer., V. G-1, pp. 285-
+310. 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 25
+ 
+DiMarchi, J.J., Weglarz, T.B., Dickey, C.F., Laux, D.P., Smith, M.T., Toro, J., Kurtz, J. P., 
+
+1991a, Central Alaska Gold Company 1990 Annual Report, Alaska Field Operations-
+Doyon Option, v. 1, unpublished report, 192 p. 
+
+ 
+DiMarchi, J.J., Nicholson, L.C., Bradley, M.A., and Poage, M.A., 1991b, Central Alaska Gold 
+
+Company 1991 Annual Report-Vinasale Mountain Project, v. 1, unpublished report, 51 p. 
+ 
+DiMarchi, J.J., Nicholson, L.C. and McCoy, D.T., 1994, Vinasale Mountain Report: 1994 
+
+Annual Report for ASA Montague Joint Venture, 35 p. 
+ 
+DiMarchi, Jack J., Rogers, Jeffrey A., Hodges, Donald O., Frantz, Peter S., Nicholson, Lisa C., 
+
+Welglarz, Timothy B., 1996, ASA-Montague Joint Venture 1996 Annual Report for 
+Doyon Optioned Lands and Mining Lease Lands Volume 3, 15 p. 
+
+ 
+DiMarchi, J.J., 1993, Geology, alteration, and mineralization of the Vinasale Mountain gold 
+
+deposit, west-central Alaska: Alaska Division of Geological and Geophysical Surveys 
+Professional Report 113, Short Notes on Alaskan Geology, pp. 17-29. 
+
+ 
+DiMarchi, Jack, 1996, Vinasale Gold Resource Models and Kriged Estimates, in-house report for 
+
+ASA-Montague Joint Venture. 
+ 
+Eremin, R.A., 1995, Lode gold deposits of the Magadan region, northeast Russia in Bundtzen, 
+
+T.K., Fonseca, A.L. and Mann, R., 1995, Geology and Mineral Deposits of the Russian 
+Far East: Alaska Miners Assoc. Spec. Symp. Vol. 1, pp. 39-49. 
+
+ 
+Flanigan, B, Freeman, C., McCoy, D., Newberry, R., and Hart, C., 2000a, Paleo-reconstruction 
+
+of the Tintina Gold Belt-implications for mineral exploration: The Tintina Gold Belt: 
+concepts, exploration and discoveries, BCYCM Spec. Vol. 2 (Cordilleran Roundup Jan. 
+2000), pp. 35-48. 
+
+ 
+Flanigan, B., Freeman, C., Newberry, R., McCoy, D., and Hart, C., 2000b, Exploration models 
+
+for mid and Late Cretaceous intrusion-related gold deposits in Alaska and the Yukon 
+Territory, Canada, in Cluer, J.K., Price, J.G., Struhsacker, E.M., Hardyman, R.F., and 
+Morris, C.L., eds., Geology and Ore Deposits 2000: The Great Basin and Beyond: 
+Geological Society of Nevada Symposium Proceedings, May 15-18, 2000, pp. 591-614. 
+
+ 
+Freeman, C.J., 2006, Alaska Exploration Review: Soc. Econ. Geol. Newsletter, No. 65, 48 p. 
+ 
+Freeman, C.J., 2007, Year-end summary, 2007 Vinasale Project, Alaska: Avalon Development 
+
+Corp., Internal Report to Freegold Ventures Ltd., 25 p.  
+ 
+Freeman, C.J., 2009, Geology and mineralization of the Nixon Fork copper – gold project, 
+
+Medfra Mining District, Alaska: NI 43-101 report for Fire River Gold Corp., December 
+7, 2009, 72 p. 
+
+ 
+Fugro, 2008, Dighem survey for Freegold Ventures Limited Vinasale project, Alaska: Fugro 
+
+Airborne Surveys Corp., Internal Report dated January 12, 2008, 112 p. 
+CARACOL 
+
+P.O. Box 11233, Reno, NV 89510 
+775-379-3898 
+
+
+
+ 26
+ 
+Gray, J.E., Gent, C.A., Snee, L.W., and Wilson, F.H., 1997, Epithermal mercury-antimony and 
+
+gold-bearing vein lodes of southwest Alaska, in R.J. Goldfarb, and L.D. Miller, eds., 
+Mineral Deposits of Alaska: Economic Geology Monograph No. 9, pp. 287-305. 
+
+ 
+Hart, C.J.R., McCoy, D.T., Smith, M, Roberts, P., Hulstein, R., Bakke, A.A., and Bundtzen, 
+
+T.K., 2002, Geology, exploration and discovery in the Tintina Gold Province, Alaska and 
+Yukon: Soc. Econ. Geol., Spec. Pub. 9, pp. 241-274. 
+
+ 
+Hollister, V.F., 1991, Origin of placer gold in the Fairbanks, Alaska area: A newly proposed lode 
+
+source: Econ. Geol., v.86, pp. 402-405 
+ 
+Independent Metallurgical Laboratories Pty. Ltd., 1995, Metallurgical Testwork on the Vinasale 
+
+Mountain Gold Project, in-house report for ASA-Montague, 69 p. 
+ 
+Jones, D.L., Silberling, N.J., Gilbert, W., and Coney, P.J., 1982, Character, distribution and 
+
+tectonic significance of accretionary terranes in the central Alaska Range: Journal of 
+Geophysical Research, v.87, pp. 3709-3717 
+
+ 
+Lang, J.R. and Baker, T, 2001, Intrusion-related gold systems – the present level of 
+
+understanding: Mineralium Deposita, V36, pp. 477-489.  
+ 
+LeLacheur, E.A., 1991, Brittle fault hosted gold mineralization in the Fairbanks mining district, 
+
+Alaska: Unpubl. MSc. Thesis, Fairbanks, Alaska, Univ. of Alaska, 167 p. 
+ 
+McCoy, D.T., Newberry, R.J., and Langer, P.W., 1995, Timing and source of lode gold in the 
+
+Fairbanks mining district, interior Alaska, USGS Circular 1107, 210 p. 
+ 
+McCoy, D., Newberry, R., Layer, P., DiMarchi, J., Bakke, A., Masterman, J.S. and Minehane, 
+
+D.L., 1997, Plutonic-Related Gold Deposits of Interior Alaska, Economic Geology, 
+Monograph 9, pp 191 – 241. 
+
+ 
+McCoy, D.T., 1999, Regional overview of the geologic setting of the Tintina Gold Belt: in 
+
+Abstracts of the 16th Annual Cordilleran Exploration Roundup, Vancouver, pp. 20-21. 
+ 
+McCoy, D.T., Newberry, R. J., Severin, K., Marion, P., Flanigan, B. and Freeman, C.J., 2002, 
+
+Paragenesis and metal associations in Interior Alaska gold deposits: an example from the 
+Fairbanks District: Mining Engineering, Jan., 2002, pp. 33-38. 
+
+ 
+Miller, M.L., and Bundtzen, T.K., 1994, Generalized geologic map of the Iditarod quadrangle, 
+
+Alaska, showing potassium-argon, major-oxide, trace-element, fossil, paleocurrent, and 
+archaeological sample localities: U.S. Geological Survey Misc. Field Studies Map MF-
+2219A, 1:250,000-scale. 
+
+ 
+Miller, M.L., Bradley, D.C., Bundtzen, T.K., and McClelland, W., 2002, Late Cretaceous 
+
+through Cenozoic strike-slip tectonics of southwestern Alaska: Journal of Geology, v. 
+110, pp. 247-270 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 27
+Mortensen, J.K., Hart, C.J.R., Murphy, D.C., and Heffernan, S., 2000, Temporal evolution of 
+
+early and mid-Cretaceous magmatism in the Tintina Gold Belt: The Tintina Gold Belt: 
+concepts, exploration and discoveries, BCYCM Spec. Vol. 2 (Cordilleran Roundup Jan. 
+2000), pp. 49-57. 
+
+ 
+Newberry, R.J., Mineral Deposits and Associated Mesozoic and Tertiary Igneous Rocks Within 
+
+The Interior Alaska and Adjacent Yukon Portions of the 'Tintina Gold Belt': A Progress 
+Report. in The Tintina Gold Belt: Concepts, Exploration, and Discoveries, Special 
+Volume 2, British Columbia and Yukon Chamber of Mines, January, 2000, pp. 59-88. 
+
+ 
+Newberry, R., McCoy, D. and Brew, D., 1995, Plutonic Hosted Gold Ores in Alaska: Igneous vs. 
+
+Metamorphic Origins: Resource Geology Special Issue. No. 18, pp. 57 – 100. 
+ 
+Nokleberg, W.J., Bundtzen, T.K., Berg, H.C., Brew, D.A., Grybeck, D.J., Robinson, M.S., 
+
+Smith, T.E., and Yeend, W., 1987, Significant metalliferous lode deposits and placer 
+districts of Alaska: USGS Bull. 1786, 104 p. 
+
+ 
+Nokleberg, W.J., Moll-Stalcup, E.J., Miller, T.P., Brew, D.A., Grantz, Arthur, Reed, J.C., Jr, 
+
+Plafker, George, Moore, T.E., Silva, S.R., and Patton, W.W. Jr, 1994, 
+Tectonostratigraphic terrane and overlap assemblage map of Alaska, USGS Open File 
+Report 94-194, 45 p., scale 1:2,500,000 
+
+ 
+Patton, W.W., Jr, Box, S.E., Moll-Stalcup, E.J., Miller, T.P., 1994, Geology of west-central 
+
+Alaska in: Plafker, George, and Berg, H.C., eds., The Geology of Alaska: Geol. Soc. 
+Am., The Geology of North America, Boulder, CO, v.G-1, pp. 241-269 
+
+ 
+Pearce, J.A., Harris, B.W., and Tindle, A.G., 1984, Trace element discrimination diagrams for 
+
+the Tectonic interpretation of granitic rocks, Journal of Petrology, v. 25, Part 4, pp. 956-
+983. 
+
+ 
+Plafker, G. and Berg, H.C., 1994, Overview of the geology and tectonic history of Alaska in 
+
+Plafker, G. and Berg, H.C., editors, The Geology of Alaska: Geological Soc. Amer., 
+Geology of North Amer., V. G-1, pp 989-1021. 
+
+ 
+Rhoades, D.A., 1994, Review of the Vinasale project, Alaska, Prefeasibility study: Internal 
+
+Report to Doyon Limited by Derry Michener, Booth and Wall, Inc., 84p. 
+ 
+Saltus, R.W., and Simmons, G.C., 1997, Composite and Merged Aeromagnetic Data for Alaska: 
+
+A Website for Distribution of Gridded Data and Plot Files, U.S.G.S. Open File Report 
+97-520. 
+
+ 
+Signet Technology Inc., 1995, Project Development Study for Vinasale Mountain, in house 
+
+report for ASA-Montague, 176 p. 
+ 
+Silberling, N.J., Jones, D.L., Monger, J.W.H., Coney, P.J., Berg, H.C. and Plafker, G., 1994, 
+
+Lithotectonic terrane map of Alaska and adjacent parts of Canada in Plafker, G. and 
+Berg, H.C., editors, The Geology of Alaska: Geological Soc. Amer., Geology of North 
+Amer., V. G-1, Plate 1, 1:2,500,000, 1 sheet. 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 28
+ 
+Silberman, M.L., Moll, E., Patton, W.W., Jr, Chapman, R.M., and Connor, C.L., 1979, 
+
+Potassium-argon age of granite and volcanic rocks from the Ruby, Medfra, and adjacent 
+quadrangles, west-central Alaska: USGS Circular 804-B, pp. B63-B66 
+
+ 
+Smith, M., 1998, 1998 Exploration update on the Pogo property, Goodpaster River District, 
+
+Alaska: (abstr) Alaska Miners Association 1998 Annual Convention, pp. 57-58. 
+ 
+Smith, M., 1999, Gold mineralization on the Pogo claims, East-central Alaska: (abstr) Sixteenth 
+
+Annual Cordilleran Exploration Roundup, p. 21. 
+ 
+Smith, M, Thompson, J.F.H., Bressler, J.R., Layer, P., Mortensen, J.K., Abe, I., and Takaoka, H., 
+
+1999, Geology of the Liese Zone, Pogo Property, East-Central Alaska: SEG Newsletter, 
+No. 38, pp. 12-21.  
+
+ 
+Smith, M, Thompson, J.F.H., Moore, K.H., Bressler, J.R., Layer, P., Mortensen, J.K., Abe, I., 
+
+and Takaoka, H., 2000, The Liese Zone, Pogo Property: A new high-grade gold deposit 
+in Alaska: The Tintina Gold Belt: concepts, exploration and discoveries, BCYCM Spec. 
+Vol. 2 (Cordilleran Roundup Jan. 2000), pp. 131-144. 
+
+ 
+Smith, P.S., 1934, The mineral industry of Alaska in 1933: U.S. Geological Survey Bulletin 864-
+
+A, pp. 1-94. 
+ 
+Solie, D.N., Bundtzen, T.K., and Gilbert, W.G., 1991, K-Ar ages of igneous rocks in the 
+
+McGrath quadrangle, Alaska: Alaska Division of Geological and Geophysical Surveys 
+Public Data File Report 160, 17 p., one sheet, 1:250,000 scale. 
+
+ 
+Streckheisen, A., 1973, Plutonic rocks: classification and nomenclature recommended by the 
+
+International Union of Geological Scientists Subcommittee on the systematics of igneous 
+rocks: Geotimes, V.18, pp. 26-30. 
+
+ 
+Terra Nord Natural Resources Consulting, 1995, Vinasale Gold Prospect Environmental 
+
+Permitting, in-house report for ASA-Montague, 24 p. 
+ 
+Walcott, 2008a, A report on heliborne magnetic and electromagnetic surveying, Vinasale project, 
+
+McGrath area, Alaska: Peter E. Walcott and Associates Limited, Internal Report to 
+Freegold Ventures Limited, April, 2008, 140 p. 
+
+ 
+Walcott, 2008b, DRAFT report on induced polarization surveying, Vinasale project, Alaska, 
+
+U.S.A.: Peter E. Walcott and Associates Limited, Internal Report to Freegold Ventures 
+Limited, November, 2008, 18 p. 
+
+ 
+Wilson, F.H. 1977, Some plutonic rocks of southwestern Alaska: A data compilation: USGS 
+
+Open File Report 77-501, 8 p. 
+ 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 29
+ 
+
+STATEMENT OF QUALIFICATIONS 
+ 
+
+GREGORY B. MAYNARD 
+CARACOL 
+
+P.O. Box 11233, Reno, Nevada 89510 
+Phone 775-379-3898, Email gregoryb.maynard@att.net 
+
+ 
+ I, GREGORY B. MAYNARD, Registered Geologist #26767(AZ), HEREBY CERTIFY 
+THAT: 
+ 
+I am currently employed as President of CARACOL, P.O. Box 11233, Reno, Nevada, 89510, 
+USA. 
+ 
+2. I am a graduate of Hamilton College, Clinton, N.Y., with a B.A. degree in Geology (1978). I 
+am also a graduate of Queen's University, Kingston, Ontario, Canada with an M.S. degree in 
+Mineral Exploration (1983). 
+ 
+3. I am a member of the Geological Society of Nevada. 
+ 
+4. From 1979 to the present I have been actively employed in various capacities in the mining 
+industry in numerous locations in North America, Central America, South America, Eastern 
+Europe, Asia, and Africa. I worked on the subject property for five days in September 2009, and 
+have worked and prospected on genetically similar properties worldwide. 
+ 
+5. I have read the definition of "Qualified Person" set out in National Instrument 43-101 (NI43-
+101) and certify that by reason of my education, affiliation with a professional organization (as 
+defined by NI43-101) and past relevant work experience, I fulfill the requirements to be a 
+"Qualified Person" for the purposes of NI43-101. 
+ 
+6. I am responsible for preparations of all sections of the report entitled Executive Summary for 
+the Vinasale Gold Property, McGrath Mining District, Alaska, and dated March 25th, 2010 (the 
+"Technical Report") relating to the Vinasale gold property. The author has not conducted a 
+recent personal inspection of the property because the property that is the subject of the technical 
+report is an early stage exploration property and because seasonal weather conditions would have 
+prevented the author from accessing any part of the property and/or obtaining beneficial 
+information from a personal inspection. As per section 6.2.3 of NI43-101, the author intends to 
+conduct a personal inspection of the Vinasale project as soon as weather conditions permit in the 
+spring of 2010.  
+ 
+7. I have not had prior involvement with the property that is the subject of the Technical Report. 
+ 
+8. I am not aware of any material fact or material change with respect to the subject matter of this 
+Technical Report that is not reflected in the Technical Report, the omission to disclose which 
+would make the Technical Report misleading. As of the date of this certificate, to the best of the 
+qualified person's knowledge, information and belief, the technical report contains all scientific 
+and technical information that is available to the author and which is required to be disclosed to 
+make the technical report not misleading. 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 30
+ 
+9. I am independent of the issuer applying all of the tests in section 1.4 of NI 43-101.  
+ 
+10. I have read NI43-101 and Form 43-101F1 and the Technical Report has been prepared in 
+compliance with that instrument and form. 
+ 
+11. I consent to the filing of the Technical Report with any stock exchange and other regulatory 
+authority and the publication by them, including publication of the Technical Report in the 
+public company files on their websites accessible by the public. 
+ 
+ 
+DATED in Reno, Nevada this 25th day of March, 2010. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+___________________________________________ 
+Gregory B. Maynard, BA, MS, Reg.Geol. #26767 (AZ) 
+ 
+ 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 31
+APPENDIX 1 
+
+STATE OF ALASKA MINING CLAIMS 
+VINASALE CLAIMS 
+
+All 160-acre claims located in the Mt. McKinley Recording District, Alaska 
+ 
+
+No. Claim Name Acres Twnshp Rng Sec Meridian ADL_Num 
+1 VIN 1 160 31N 34W 3 Seward 610464 
+2 VIN 2 160 31N 34W 3 Seward 610465 
+3 VIN 3 160 31N 34W 2 Seward 610466 
+4 VIN 4 160 31N 34W 2 Seward 610467 
+5 VIN 5 160 31N 34W 1 Seward 610468 
+6 VIN 6 160 31N 34W 1 Seward 610469 
+7 VIN 7 160 31N 34W 3 Seward 610470 
+8 VIN 8 160 31N 34W 3 Seward 610471 
+9 VIN 9 160 31N 34W 2 Seward 610472 
+10 VIN 10 160 31N 34W 2 Seward 610473 
+11 VIN 11 160 31N 34W 1 Seward 610474 
+12 VIN 12 160 31N 34W 1 Seward 610475 
+13 VIN 13 160 31N 34W 10 Seward 610476 
+14 VIN 14 160 31N 34W 10 Seward 610477 
+15 VIN 15 160 31N 34W 11 Seward 610478 
+16 VIN 16 160 31N 34W 11 Seward 610479 
+17 VIN 17 160 31N 34W 12 Seward 610480 
+18 VIN 18 160 31N 34W 12 Seward 610481 
+19 VIN 19 160 31N 34W 10 Seward 610482 
+20 VIN 20 160 31N 34W 10 Seward 610483 
+21 VIN 21 160 31N 34W 11 Seward 610484 
+22 VIN 22 160 31N 34W 11 Seward 610485 
+23 VIN 23 160 31N 34W 12 Seward 610486 
+24 VIN 24 160 31N 34W 12 Seward 610487 
+25 VIN 25 160 31N 34W 15 Seward 610488 
+26 VIN 26 160 31N 34W 15 Seward 610489 
+27 VIN 27 160 31N 34W 14 Seward 610490 
+28 VIN 28 160 31N 34W 14 Seward 610491 
+29 VIN 29 160 31N 34W 13 Seward 610492 
+30 VIN 30 160 31N 34W 13 Seward 610493 
+31 VIN 31 160 31N 34W 15 Seward 610494 
+32 VIN 32 160 31N 34W 15 Seward 610495 
+33 VIN 33 160 31N 34W 14 Seward 610496 
+34 VIN 34 160 31N 34W 14 Seward 610497 
+35 VIN 35 160 31N 34W 13 Seward 610498 
+36 VIN 36 160 31N 34W 13 Seward 610499 
+37 VIN 37 160 31N 34W 22 Seward 610500 
+38 VIN 38 160 31N 34W 22 Seward 610501 
+39 VIN 39 160 31N 34W 23 Seward 610502 
+40 VIN 40 160 31N 34W 23 Seward 610503 
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+ 32
+No. Claim Name Acres Twnshp Rng Sec Meridian ADL_Num 
+41 VIN 41 160 31N 34W 24 Seward 610504 
+42 VIN 42 160 31N 34W 24 Seward 610505 
+43 VIN 43 160 31N 34W 22 Seward 610506 
+44 VIN 44 160 31N 34W 22 Seward 610507 
+45 VIN 45 160 31N 34W 23 Seward 610508 
+46 VIN 46 160 31N 34W 23 Seward 610509 
+47 VIN 47 160 31N 34W 24 Seward 610510 
+48 VIN 48 160 31N 34W 24 Seward 610511 
+49 VIN 49 160 31N 34W 27 Seward 610512 
+50 VIN 50 160 31N 34W 27 Seward 610513 
+51 VIN 51 160 31N 34W 26 Seward 610514 
+52 VIN 52 160 31N 34W 26 Seward 610515 
+53 VIN 53 160 31N 34W 25 Seward 610516 
+54 VIN 54 160 31N 34W 25 Seward 610517 
+55 VIN 55 160 31N 34W 27 Seward 610518 
+56 VIN 56 160 31N 34W 27 Seward 610519 
+57 VIN 57 160 31N 34W 26 Seward 610520 
+58 VIN 58 160 31N 34W 26 Seward 610521 
+59 VIN 59 160 31N 34W 25 Seward 610522 
+60 VIN 60 160 31N 34W 25 Seward 610523 
+61 VIN 61 160 31N 34W 34 Seward 610524 
+62 VIN 62 160 31N 34W 34 Seward 610525 
+63 VIN 63 160 31N 34W 35 Seward 610526 
+64 VIN 64 160 31N 34W 35 Seward 610527 
+65 VIN 65 160 31N 34W 36 Seward 610528 
+66 VIN 66 160 31N 34W 36 Seward 610529 
+67 VIN 67 160 31N 34W 34 Seward 610530 
+68 VIN 68 160 31N 34W 34 Seward 610531 
+69 VIN 69 160 31N 34W 35 Seward 610532 
+70 VIN 70 160 31N 34W 35 Seward 610533 
+71 VIN 71 160 31N 34W 36 Seward 610534 
+72 VIN 72 160 31N 34W 36 Seward 610535 
+
+ 
+ 
+Filename: VN10EXE1-Form43.doc!
+
+CARACOL 
+P.O. Box 11233, Reno, NV 89510 
+
+775-379-3898 
+
+
+
+
+
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Central Zone DDrilling
+
+FIG
+
+0 250 500
+
+meters
+
+URE 4
+Map Area Late
+
+Q
+
+Legend
+
+ Cretaceous
+t F ld Ph h Dik
+
+Compiled 
+
+CARAC
+by:
+
+COL
+VINASAL
+GENERAL
+
+FREEGOLD V
+
+E PROJECT
+L GEOLOGY
+
+VENTURES, LTD.
+
+Qua
+Late
+Shon
+Late 
+Biotit
+Mid C
+Kusk
+sedim
+withi
+
+F
+
+rtz-Feldspar Phorphyry Dike
+ Cretaceous
+nkinite Dike
+Cretaceous
+
+te Quartz Monzonite Stock
+Cretaceous
+kokwin Group:  fine grained siliciclas
+mentary rocks, thermally metamorp
+n 1,000 feet of Vinasale stock
+
+Faults (inferred)
+
+CARAC
+
+Geology:  DiMarc
+1994.
+Linears:  Inferred 
+airphoto by CARA
+2010.
+
+stic
+pphosed
+
+COL
+
+chi et al,
+
+from
+ACOL,
+
+
+
+
+
+
+
+
+
+
+
+Inset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset vieww to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to right
+
+0 1 2 0 200 400
+
+VINISALE 
+ALA
+
+Kilometers
+
+FREEGOLD VE
+Compi
+
+PLA
+PROJECT
+
+ASKA
+P
+
+ENTURES, LTD.
+iled by:
+
+ATE 1
+roject Area
+
+Au (ppb
+35 to 7
+
+5 to 
+
+Below 
+
+b) in Pan Concentrate
+760   (11)
+
+35   (20)
+
+Detection  (29)
+
+Au (ppb) in Sed
+25 to 162
+
+5 to 25
+
+Below Detection
+
+es
+
+meters
+
+Au (ppb) in
+200 to 6,0
+
+100 to 2
+
+5 to 1
+
+Below De
+
+diments
+  (13)
+
+  (63)
+
+n  (86)
+
+Au (pp
+500 t
+
+5 t
+
+Below
+
+n Soils
+069   (64)
+
+200   (48)
+
+100   (807)
+
+tection  (648)
+
+b) in Rocks
+to 10,000   (47)
+
+to 500   (56)
+
+w Detection  (90)
+
+Compi
+
+CARA
+iled by:
+
+ACOL
+
+( )
+
+
+
+Inset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset vieww to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to right
+
+0 1 2 0 200 400
+
+VINISALE 
+ALA
+
+Kilometers
+
+FREEGOLD VE
+Compi
+
+PLA
+
+PROJECT
+ASKA
+
+P
+
+ENTURES, LTD.
+iled by:
+
+ATE 2
+roject Area
+
+As (ppm
+100 to 
+
+5 to 
+
+m) in Pan Concentrat
+214   (9)
+
+100  (51)
+
+As (ppm) in Se
+75 to 286
+
+1 to 75
+
+Below Detectio
+
+tes
+
+meters
+
+As (ppm) 
+2,000 to
+
+200 to
+
+75 to
+
+2 to
+
+ediments
+  (13)
+
+  (49)
+
+on  (100)
+
+As (p
+600
+
+2
+
+Belo
+
+in Soils
+ 5,940   (23)
+
+ 2,000   (194)
+
+ 200   (340)
+
+ 75   (960)
+
+pm) in Rocks
+0 to 8,960   (66)
+
+2 to 600   (113)
+
+ow Detection   (14)
+
+Compi
+
+CARA
+iled by:
+
+ACOL Below D
+( )
+
+Detection   (50)
+
+
+
+Inset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset vieww to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to right
+
+0 1 2 0 200 400
+
+VINISALE 
+ALA
+
+Kilometers
+
+FREEGOLD VE
+Compi
+
+PLA
+
+PROJECT
+ASKA
+
+P
+
+ENTURES, LTD.
+iled by:
+
+ATE 3
+roject Area
+
+Sb (ppm
+50 to 1
+
+5 to 
+
+Below 
+
+m) in Pan Concentrat
+138   (5)
+
+50   (13)
+
+Detection  (42)
+
+Sb (ppm) in Se
+25 to 52
+
+5 to 25
+
+Below Detectio
+
+tes
+
+meters
+
+Sb (ppm)
+50 to 10
+
+2 to 
+
+Below D
+
+ediments
+  (5)
+
+  (17)
+
+on  (140)
+
+Sb (p
+100
+
+2
+
+Bel
+
+) in Soils
+0,000   (51)
+
+50   (658)
+
+Detection  (858)
+
+ppm) in Rocks
+0 to 10,000   (20)
+
+2 to 100   (82)
+
+ow Detection  (91)
+
+Compi
+
+CARA
+iled by:
+
+ACOL
+
+
+
+Inset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset vieww to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to right
+
+0.482
+
+0 1 2 0 200 400
+
+VINISALE 
+ALA
+
+Kilometers
+
+FREEGOLD VE
+Compi
+
+PLA
+
+PROJECT
+ASKA
+
+P
+
+ENTURES, LTD.
+iled by:
+
+ATE 4
+roject Area
+
+Bi (ppm
+10 to 1
+
+2 to 1
+
+Below 
+
+) in Pan Concentrate
+14   (1)
+
+10   (4)
+
+Detection  (55)
+
+Bi (ppm) in Sed
+6 to 9
+
+2 to 6
+
+Below Detection
+
+es
+
+meters
+
+Bi (ppm) in
+4 to 8
+
+2 to 4
+
+Below Det
+
+iments
+  (19)
+
+  (2)
+
+n  (141)
+
+Bi (pp
+3 to 
+
+2 to 
+
+Belo
+
+ Soils
+  (35)
+
+  (187)
+
+tection  (1345)
+
+pm) in Rocks
+8   (17)
+
+3   (30)
+
+ow Detection  (146)
+
+Compi
+
+CARA
+iled by:
+
+ACOL
+
+
+
+Inset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset viewInset vieww to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to rightw to right
+
+0 1 2 0 200 400
+
+VINISALE 
+ALA
+
+Kilometers
+
+FREEGOLD VE
+Compi
+
+PLA
+
+PROJECT
+ASKA
+
+P
+
+ENTURES, LTD.
+iled by:
+
+ATE 5
+roject Area
+
+W (ppm
+50 to 2
+
+2 to 
+
+Below 
+
+m) in Pan Concentrate
+200   (7)
+
+50   (10)
+
+Detection  (43)
+
+W (ppm) in Sed
+7 to 11
+
+2 to 7
+
+Below Detectio
+
+es
+
+meters
+
+W (ppm) in
+10 to 400
+
+2 to 10
+
+Below De
+
+diments
+  (6)
+
+  (30)
+
+n  (126)
+
+W (pp
+12 t
+
+2 t
+
+Bel
+
+n Soils
+0   (20)
+
+0   (22)
+
+etection  (1525)
+
+pm) in Rocks
+to 88   (5)
+
+to 12   (30)
+
+ow Detection  (158)
+
+Compi
+
+CARA
+iled by:
+
+ACOL
+
+
+	LIST OF TABLES
+	LIST OF APPENDICES
+	INTRODUCTION AND TERMS OF REFERENCE
+	STATEMENT OF QUALIFICATIONS
+
+
+
+'

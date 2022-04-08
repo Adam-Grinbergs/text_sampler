@@ -1,0 +1,5954 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+November 16, 2018
+
+RPA T55 University Ave. Suite 501  I Toronto, ON, Canada M5J 2H7  I + 1 (416) 947 0907 www.rpacan.com
+
+LARAMIDE RESOURCES LTD.
+
+TECHNICAL REPORT ON THE
+CROWNPOINT URANIUM PROJECT,
+MCKINLEY COUNTY, NEW MEXICO, USA
+
+NI 43-101 Report
+
+Qualified Person:
+Mark B. Mathisen, C.P. .G
+
+
+
+ 
+ 
+ 
+Report Control Form 
+ 
+Document Title  Technical Report on the Crownpoint Uranium Project, 
+
+McKinley County, New Mexico, USA 
+
+   Client Name & Address 
+ 
+ 
+
+ Laramide Resources Ltd. 
+130 King Street West, Suite 3680 
+Toronto, Ontario M5X 1B1, Canada 
+
+   
+Document Reference  Project #3042  
+
+ 
+Status & 
+Issue No. 
+
+ FINAL 
+Version 
+
+ 
+ 
+
+    Issue Date  
+ 
+
+ 
+    Lead Author  Mark B. Mathisen 
+
+ 
+ 
+
+ (Signed) 
+ 
+
+ 
+     Peer Reviewer  William E. Roscoe 
+
+ 
+ 
+
+ (Signed) 
+ 
+
+ 
+     Project Manager Approval  Mark B. Mathisen 
+
+ 
+ 
+
+ (Signed) 
+ 
+
+ 
+     Project Director Approval  Deborah A. McCombe 
+
+ 
+ 
+
+ (Signed) 
+ 
+
+ 
+     
+Report Distribution  Name No. of Copies 
+      Client  
+    
+  RPA Filing 1 (project box) 
+
+ 
+ Roscoe Postle Associates Inc. 
+
+55 University Avenue, Suite 501 
+Toronto, ON  M5J 2H7 
+
+Canada 
+Tel: +1 416 947 0907 
+
+Fax: +1 416 947 0395 
+mining@rpacan.com  
+
+ 
+ 
+
+mailto:mining@rpacan.com
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page i 
+
+TABLE OF CONTENTS 
+PAGE 
+
+1 SUMMARY ...................................................................................................................... 1-1 
+Executive Summary ....................................................................................................... 1-1 
+Technical Summary ....................................................................................................... 1-4 
+
+2 INTRODUCTION ............................................................................................................. 2-1 
+
+3 RELIANCE ON OTHER EXPERTS ................................................................................. 3-1 
+
+4 PROPERTY DESCRIPTION AND LOCATION ................................................................ 4-1 
+Mineral Rights ................................................................................................................ 4-1 
+Royalties and Other Encumbrances ............................................................................... 4-3 
+Permitting ...................................................................................................................... 4-3 
+
+5 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND 
+PHYSIOGRAPHY ............................................................................................................... 5-1 
+
+Accessibility ................................................................................................................... 5-1 
+Climate .......................................................................................................................... 5-1 
+Local Resources ............................................................................................................ 5-1 
+Infrastructure ................................................................................................................. 5-1 
+Physiography ................................................................................................................. 5-2 
+
+6 HISTORY ........................................................................................................................ 6-1 
+Prior Ownership ............................................................................................................. 6-1 
+Exploration and Development History ............................................................................ 6-3 
+Past Production ............................................................................................................. 6-4 
+
+7 GEOLOGICAL SETTING AND MINERALIZATION .......................................................... 7-1 
+Regional Geology .......................................................................................................... 7-1 
+Local Geology ................................................................................................................ 7-1 
+Property Geology ........................................................................................................... 7-4 
+Structure ........................................................................................................................ 7-5 
+Mineralization ................................................................................................................ 7-5 
+
+8 DEPOSIT TYPES ............................................................................................................ 8-1 
+
+9 EXPLORATION ............................................................................................................... 9-1 
+
+10 DRILLING .................................................................................................................... 10-1 
+
+11 SAMPLE PREPARATION, ANALYSES AND SECURITY ............................................ 11-1 
+Historical Sampling Methods ........................................................................................ 11-1 
+Equivalent Uranium Grade Calculation ........................................................................ 11-3 
+Disequilibrium Analysis ................................................................................................ 11-3 
+
+12 DATA VERIFICATION ................................................................................................. 12-1 
+Audit of Drill Hole Database ......................................................................................... 12-1 
+Site Visit....................................................................................................................... 12-1 
+Independent Verification of Assay Table ...................................................................... 12-2 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page ii 
+
+13 MINERAL PROCESSING AND METALLURGICAL TESTING ..................................... 13-1 
+Core Leach Study, Section 24 ..................................................................................... 13-1 
+
+14 MINERAL RESOURCE ESTIMATE ............................................................................. 14-1 
+Resource Database ..................................................................................................... 14-4 
+Geological Interpretation .............................................................................................. 14-4 
+Treatment of High Grade Assays ................................................................................. 14-7 
+Compositing ................................................................................................................. 14-8 
+Search Strategy and Grade Interpolation Parameters .................................................. 14-9 
+Bulk Density ............................................................................................................... 14-22 
+Cut-off Grade ............................................................................................................. 14-22 
+Classification ............................................................................................................. 14-23 
+
+15 MINERAL RESERVE ESTIMATE ................................................................................ 15-1 
+
+16 MINING METHODS ..................................................................................................... 16-1 
+
+17 RECOVERY METHODS .............................................................................................. 17-1 
+
+18 PROJECT INFRASTRUCTURE .................................................................................. 18-1 
+
+19 MARKET STUDIES AND CONTRACTS ...................................................................... 19-1 
+
+20 ENVIRONMENTAL STUDIES, PERMITTING, AND SOCIAL OR COMMUNITY IMPACT
+ ......................................................................................................................................... 20-1 
+
+21 CAPITAL AND OPERATING COSTS .......................................................................... 21-1 
+
+22 ECONOMIC ANALYSIS............................................................................................... 22-1 
+
+23 ADJACENT PROPERTIES .......................................................................................... 23-1 
+
+24 OTHER RELEVANT DATA AND ................................................................................. 24-1 
+
+25 INTERPRETATION AND CONCLUSIONS .................................................................. 25-1 
+
+26 RECOMMENDATIONS................................................................................................ 26-1 
+
+27 REFERENCES ............................................................................................................ 27-1 
+
+28 DATE AND SIGNATURE PAGE .................................................................................. 28-1 
+
+29 CERTIFICATE OF QUALIFIED PERSON .................................................................... 29-1 
+ 
+
+LIST OF TABLES 
+PAGE 
+
+Table 1-1   Summary of Mineral Resources by Sand Unit – October 24, 2018.................... 1-2 
+Table 1-2   Summary of Mineral Resources by Section – October 24, 2018 ....................... 1-2 
+Table 1-3   Proposed Budget .............................................................................................. 1-4 
+Table 10-1   Drill Hole Database ....................................................................................... 10-2 
+Table 14-1   Summary of Mineral Resources by Sand Unit – October 24, 2018................ 14-2 
+Table 14-2   Summary of Mineral Resources by Section – October 24, 2018 ................... 14-2 
+Table 14-3   Summary of Available Drill Hole Data ........................................................... 14-4 
+Table 14-4   Example of Tons Calculation E Sand – Section 24 ..................................... 14-20 
+Table 14-5   Example of Pounds Calculation E Sand – Section 24 ................................. 14-20 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page iii 
+
+Table 14-6   COG Comparisons by Company and Deposit ............................................. 14-23 
+Table 23-1   Summary of Mineral Resources at Crownpoint Controlled by EnCore, May 14, 
+2012 ................................................................................................................................. 23-1 
+Table 26-1   Proposed Budget .......................................................................................... 26-1 
+ 
+
+LIST OF FIGURES 
+PAGE 
+
+Figure 4-1   Location Map ................................................................................................... 4-5 
+Figure 4-2   Land Tenure .................................................................................................... 4-6 
+Figure 6-1   Grants Uranium Mining District, San Juan Basin ............................................. 6-2 
+Figure 7-1   Local Geology.................................................................................................. 7-2 
+Figure 7-2   Typical Stratigraphic Section, Crownpoint Morrison Formation ........................ 7-3 
+Figure 8-1   Roll Front Characteristics ................................................................................ 8-2 
+Figure 8-2   Uranium Roll Front Conceptual Model and Examples ...................................... 8-3 
+Figure 10-1   Drill Hole Collar Locations............................................................................ 10-3 
+Figure 14-1   Laramide Resource Controlling Interest ....................................................... 14-3 
+Figure 14-2   Geologic Cross Section ............................................................................... 14-6 
+Figure 14-3   Histogram of U3O8 Resource Assays ........................................................... 14-7 
+Figure 14-4   Log Probability Plot Grouped by Section ...................................................... 14-8 
+Figure 14-5   Histogram of Composite Thickness ............................................................. 14-9 
+Figure 14-6   Section 9 A Sand GT / Thickness Contours ............................................... 14-10 
+Figure 14-7   Section 9 B Sand GT / Thickness Contours ............................................... 14-11 
+Figure 14-8   Section 9 C Sand GT / Thickness Contours ............................................... 14-12 
+Figure 14-9   Section 24 A Sand GT / Thickness Contours ............................................. 14-13 
+Figure 14-10   Section 24 B Sand GT / Thickness Contours ........................................... 14-14 
+Figure 14-11   Section 24 C Sand GT / Thickness Contours ........................................... 14-15 
+Figure 14-12   Section 24 D Sand GT / Thickness Contours ........................................... 14-16 
+Figure 14-13   Section 24 E Sand GT / Thickness Contours ........................................... 14-17 
+Figure 14-14   E Sand Pod Number Sequence S½ Section 24 ....................................... 14-19 
+Figure 14-15   C Sand Pod Number Sequence S½ Section 24 ....................................... 14-22 
+ 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 1-1 
+
+1 SUMMARY 
+EXECUTIVE SUMMARY 
+Roscoe Postle Associates Inc. (RPA) has been retained by Laramide Resources Ltd. 
+
+(Laramide or the Company) to prepare an independent Technical Report on the Crownpoint 
+
+Uranium Project (the Project) located in McKinley County, New Mexico, USA.  The purpose of 
+
+this report is to support the disclosure of an initial Mineral Resource estimate for the Project.  
+
+This Technical Report conforms to National Instrument 43-101 Standards of Disclosure for 
+
+Mineral Projects (NI 43-101).  RPA visited the Project on August 17, 2017. 
+
+ 
+
+The Project consists of portions of three sections of land, Section 9, Section 24, and Section 
+
+25, totalling approximately 615 acres.  The history of exploration and mine development 
+
+activities for the Project dates back to the late 1960s.  Mine development (surface facilities, 
+
+one production and two ventilation shafts) was carried out at the Section 24 property in the 
+
+early 1980s by a joint-venture between Conoco and Westinghouse.  In 1980, adjacent to the 
+
+Section 9 property, Mobil Oil Corporation (Mobil) constructed and operated an in-situ recovery 
+
+(ISR) pilot test facility with positive results concerning recovery of uranium and loading of resin.  
+
+Exploration and development activities continued through the early 1990s by Uranium 
+
+Resources Inc. (URI) towards acquisition of necessary permits to carry out in-situ recovery 
+
+operations.  The Project was acquired by Laramide in January 2017 from URI (now Westwater 
+
+Resources, Inc.). 
+
+ 
+
+Tables 1-1 and 1-2 summarize the Mineral Resource estimate for the Project prepared by 
+
+RPA, based on drill hole data available as of September 1, 2018.  Due to the historical nature 
+
+of the data, the classification of Mineral Resources on the Project is limited to Inferred, until 
+
+new confirmation data can be obtained.  Using a 0.5 ft-% eU3O8 grade-thickness product (GT) 
+
+cut-off, Inferred Mineral Resources with an effective date of October 24, 2018 total 4.2 million 
+
+tons at an average grade of 0.106% eU3O8 containing 8.9 million pounds U3O8 of which 
+
+Laramide controls 2.5 million tons at an average grade of 0.102% eU3O8 containing 5.1 million 
+
+pounds U3O8.  No Mineral Reserves have been estimated for the Project. 
+
+ 
+
+The Mineral Resource estimate for the Project was prepared by RPA with the assistance of 
+
+Laramide's technical team to conform to Canadian Institute of Mining, Metallurgy and 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 1-2 
+
+Petroleum Definition Standards for Mineral Resources and Mineral Reserves dated May 10, 
+
+2014 (CIM (2014) definitions) as incorporated in NI 43-101.  The Mineral Resource estimate 
+
+also satisfies the requirements of the Australasian Code for Reporting of Exploration Results, 
+
+Minerals Resources and Ore Reserves (JORC Code Edition 2012) for Australian Securities 
+
+Exchange compliance. 
+
+ 
+
+TABLE 1-1   SUMMARY OF MINERAL RESOURCES BY SAND UNIT – 
+OCTOBER 24, 2018 
+
+Laramide Resources Ltd. – Crownpoint Uranium Project 
+   
+
+Total Resource Laramide Controlled Resource 
+Classification Sand Unit Tonnage Grade Contained Metal Tonnage Grade Contained Metal % Controlled 
+
+  (000 Tons) (% eU3O8) (000 lbs U3O8) (000 Tons) (% eU3O8) (000 lbs U3O8)  
+Inferred Jmw A Sand 436 0.091 797 416 0.091 753 94.4% 
+ Jmw B Sand 907 0.099 1,802 655 0.099 1,300 72.1% 
+ Jmw C Sand 444 0.088 784 250 0.092 458 58.4% 
+ Jmw D Sand 179 0.114 408 115 0.108 249 61.0% 
+  Jmw E Sand 2,198 0.114 5,006 1,061 0.109 2,320 46.3% 
+Total Inferred  4,163 0.106 8,798 2,497 0.102 5,079 57.7% 
+
+ 
+
+TABLE 1-2   SUMMARY OF MINERAL RESOURCES BY SECTION – 
+OCTOBER 24, 2018 
+
+Laramide Resources Ltd. – Crownpoint Uranium Project 
+   
+
+Total Resource Laramide Controlled Resource 
+Classification Section Tonnage Grade Contained Metal Tonnage Grade Contained Metal % Controlled 
+
+ T17N, R13W (000 Tons) (% eU3O8) (000 lbs U3O8) (000s Tons) (% eU3O8) (000s lbs U3O8)  
+Inferred NW¼ Section 9 675 0.096 1,293 675 0.096 1,293 100.0% 
+ S½ Section 24 3,466 0.108 7,468 1,800 0.104 3,749 50.2% 
+  NE¼ Section 25 23 0.076 35 23 0.076 35 100.0% 
+Total Inferred  4,163 0.106 8,798 2,497 0.102 5,079 57.7% 
+
+ 
+Notes for Tables 1-1 and 1-2: 
+
+1. CIM (2014) definitions were followed for Mineral Resources. 
+2. Mineral Resources are reported at a GT cut-off of 0.5 ft-% eU3O8. 
+3. A minimum thickness of 2.0 ft was used. 
+4. A minimum cut-off grade of 0.03% eU3O8 based on historic mining costs and parameters from the 
+
+district was used. 
+5. Internal maximum dilution of 5.0 ft was used. 
+6. Grade values have not been adjusted for disequilibrium. 
+7. Tonnage factor of 15 ft3/ton is based on the tonnage factor historically used by the mining operators in 
+
+the area. 
+8. Mineralized areas defined by isolated or widely spaced drill holes were excluded from the estimate. 
+9. Numbers may not add due to rounding. 
+
+ 
+
+RPA is not aware of any environmental, permitting, legal, title, taxation, socio-economic, 
+
+marketing, political, or other relevant factors that could materially affect the Mineral Resource 
+
+estimate. 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 1-3 
+
+CONCLUSIONS 
+RPA offers the following conclusions regarding the Crownpoint Project: 
+
+ 
+
+• The Project is a significant uranium deposit of low to moderate grade. 
+ 
+
+• The uranium mineralization consists of a series of stacked roll front deposits. 
+ 
+
+• Drilling to date has intersected localized, low to moderate grade mineralized zones 
+contained within five sandstone units of the of the Westwater Canyon Member of the 
+Morrison Formation. 
+ 
+
+• The sampling, sample preparation, and sample analysis programs are appropriate for 
+the style of mineralization. 
+ 
+
+• Although continuity of mineralization is variable, drilling to date confirms that local 
+continuity exists within individual sandstone units. 
+ 
+
+• No significant discrepancies were identified with the survey location, lithology, and 
+electric and gamma log interpretation data in historical holes.   
+ 
+
+• Descriptions of recent drilling programs, logging, and sampling procedures have been 
+well documented by Laramide, with no significant discrepancies identified. 
+ 
+
+• There is a low risk of depletion of chemical uranium compared to radiometrically 
+determined uranium in the Crownpoint mineralization. 
+ 
+
+• The resource database is valid and suitable for Mineral Resource estimation. 
+ 
+
+RECOMMENDATIONS 
+Historical drilling at the Crownpoint Project has outlined the presence of significant uranium 
+
+mineralization, which warrants further investigation. 
+
+ 
+
+Table 1-3 shows Laramide's proposed 2019 budget of US$470,000 for exploration drilling in 
+
+areas of potential mineralization (specifically SW¼ of Section 24).  Washing out of several 
+
+historical holes and confirmatory geophysical logging are also planned for completion in 2019. 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 1-4 
+
+TABLE 1-3   PROPOSED BUDGET 
+Laramide Resources Ltd. – Church Rock Project 
+
+ 
+Item US$ 
+
+Drilling:  
+12 exploration holes (approximately 2,000 ft deep) 360,000 
+Geophysical logging (12 holes) 30,000 
+Permitting activities (floral, faunal, access) 10,000 
+Geologic support for drilling/coring activities 25,000 
+Sub-total 425,000 
+Contingency 45,000 
+Total 470,000 
+
+ 
+
+RPA makes the following recommendations for future resource estimation updates and in 
+
+support of Laramide's proposed 2019 budget: 
+
+ 
+GEOLOGY 
+
+• Although there is a low risk of depletion of chemical uranium compared to 
+radiometrically determined uranium in the Crownpoint mineralization, additional 
+sampling and analyses should be completed to supplement results of the limited 
+disequilibrium testing to date. 
+ 
+
+• Additional confirmation drilling should be completed at the earliest opportunity to 
+confirm historical drill hole data on all zones.  RPA recommends that 10% of the holes 
+be core holes in support of chemical assay for grade and equilibrium analysis. 
+
+ 
+MINERAL RESOURCES 
+
+• A suite of bulk density samples should be collected over the Project area, for each 
+lithology type and grade range. 
+ 
+
+• Exploration should be planned for areas noted in the Technical Report where wide-
+spaced drilling previously identified potential mineralization.  This drilling, in conjunction 
+with the core studies, may lead to areas of the present Inferred Mineral Resource to be 
+upgraded to Indicated Mineral Resources, and the potential discovery of additional 
+mineral resources. 
+
+ 
+
+TECHNICAL SUMMARY 
+
+PROPERTY DESCRIPTION AND LOCATION 
+The eastern end of the Crownpoint Uranium Project is located one mile west of the town of 
+
+Crownpoint, in McKinley County, New Mexico.  The Project is located in the Church Rock-
+
+Crownpoint sub-district of the Grants Mineral Belt in northwestern New Mexico and comprises 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 1-5 
+
+parts of Sections 9, 24, and 25 of Township 17 North, Range 13 West (T17N-R13W), New 
+
+Mexico 6th Principal Meridian. 
+
+ 
+
+LAND TENURE 
+The Project consists of portions of three sections of land totalling approximately 615 acres.  
+
+The properties are accessible from the town of Crownpoint along West Route 9 which crosses 
+
+the Project, and locally via dirt roads.  The mineral rights to the properties consist of a mix of 
+
+unpatented mining claims and private mineral rights.  The surface estates are managed by the 
+
+US Bureau of Land Management (US BLM) or privately owned by Laramide.  The properties 
+
+were acquired by Laramide in January 2017 from URI.   
+
+ 
+
+EXISTING INFRASTRUCTURE 
+At the Project, infrastructure is available for future exploration and mine development, with 
+
+paved road access to the Project and dirt road access locally.  Power lines and natural gas 
+
+supplies which could be used for mining operations are located near and around the Project 
+
+area.  In the Project vicinity, domestic water supplies are provided by the Navajo Tribal Utility 
+
+Authority through a pipeline distribution system.  Water rights sufficient to operate a potential 
+
+ISR uranium mine are owned by Laramide.  Several former surface facilities constructed on 
+
+Section 24 to service the Conoco underground mine are still present and well maintained.  
+
+ 
+
+HISTORY 
+The history of exploration and resultant historical resource estimates are described below for 
+
+Sections 9 and 24 of the Project, since the original ownership varied.  No drilling records or 
+
+resource estimates were noted for the Section 25, T17N-R13W claim group (Hydro 1-8).  
+
+ 
+
+Drilling on the property began in 1968 by Mobil and continued intermittently until early 1990s 
+
+by various contractors on various sections across the Project.  The majority of drilling was 
+
+completed during the latter part of the 1970s. 
+
+ 
+
+The estimates presented in this section are considered to be historical in nature and should 
+
+not be relied upon.  Key assumptions and estimation parameters used in these estimates are 
+
+not fully known to the authors of this report; it is therefore not possible to determine what 
+
+additional work is required to upgrade or verify the historic estimates as current Mineral 
+
+Resources.  A qualified person has not completed sufficient work to classify the historical 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 1-6 
+
+estimates as current Mineral Resources or Mineral Reserves and Laramide is not treating the 
+
+historical estimates as current Mineral Resources or Mineral Reserves. 
+
+ 
+
+The historical resource estimates reported below are superseded by the current Mineral 
+
+Resource estimates. 
+
+ 
+SECTION 9, T17N-R13W RESOURCE AREA 
+Exploration Summary 
+
+Company # Drill Holes Total footage logged (ft) 
+Mobil 78 170,575 
+URI 1 2,140 
+
+ 
+
+Historical Resource Estimate 
+
+Project Area Pounds U3O8 
+NW ¼ (CP claims 1-9, 100% interest) 2,800,000 
+
+ 
+Note: Estimated by URI (reported in Behre-Dolbear, 2007) using the GT contour method (cut-offs of 2 ft at 0.05% 
+U3O8) 
+ 
+SECTION 24, T17N-R13W RESOURCE AREA 
+Exploration Summary 
+
+Company # Drill Holes Total footage logged (ft) 
+Conoco 173 364,268 
+Mobil 44 92,618 
+Homestake 4 8,597 
+URI 5 10,449 
+Western Nuclear 1 2,103 
+
+ 
+
+Historical Resource Estimates 
+
+Project Area Pounds U3O8 
+SE ¼, (Consol claims 1-2, 100% interest) 800,0001 
+
+SE ¼ (Walker Lease, 40% interest shown) 4,712,0002 
+
+SW ¼ (CP claims 10-19, 100% interest) 5,288,0002 
+ 
+Notes:  
+
+1. Estimated in 1978 by Chapman, Wood and Griswold for Wyoming Minerals Corp. using the General 
+Outline Method (cut-offs of 6 ft at 0.07% U3O8) 
+
+2. Estimated by URI (F. Lichnovsky, 11-6-1990) using the GT contour method (cut-offs of 2 ft at 0.05% 
+U3O8) 
+
+ 
+
+GEOLOGY AND MINERALIZATION 
+The Project is located in the Church Rock-Crownpoint sub-district of the greater Grants Mineral 
+
+Belt uranium district of northwestern New Mexico.  The Grants Mineral Belt lies along the 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 1-7 
+
+southern flank of the San Juan Basin located in the southeast corner of the Colorado Plateau.  
+
+The belt extends from just west of Church Rock eastward for approximately 100 miles to the 
+
+area of Laguna, and is approximately 25 miles to 30 miles wide north-south.  The principal 
+
+host rocks for the uranium mineralization in the Crownpoint area are fluvial sandstones within 
+
+the Late Jurassic Morrison Formation, called the Westwater Canyon member.  The Morrison 
+
+Formation was deposited in a continental setting by alluvial fans and braided streams that 
+
+partially filled the southern ancestral San Juan Basin.  The strata gently dip northward from 
+
+one to three degrees with no known faulting on the Crownpoint Project. 
+
+ 
+
+The typical mineralized rock in the Crownpoint district, as well as the Ambrosia Lake and 
+
+Jackpile districts to the east, occurs as uranium-humate cemented sandstone.  The uranium 
+
+mineralization consists largely of coffinite and sparse to minor amounts of unidentifiable 
+
+organic-uranium oxide complexes that are light grey-brown to black; the dark colour is 
+
+attributed to humic acids derived from buried organic materials. 
+
+ 
+
+Uranium mineralization is identified in five host sand units: Westwater sands Jmw A to E.  
+
+Mineralization is generally confined to the individual sand units except where intervening 
+
+shales/mudstones are absent and the sand units are merged.  Regionally, gangue 
+
+mineralization includes varying amounts of vanadium, molybdenum, copper, selenium, and 
+
+arsenic.  The mineralization coats and fills the intergranular spaces of the host sandstones.   
+
+ 
+
+The primary mineralization control is the presence of quartz-rich, arkosic, fluviatile sandstones 
+
+in the Morrison Formation.  The uranium mineralization generally trends west-northwest to 
+
+east-southeast, following a similar trend of the primary sandstone host deposition.  The 
+
+presence of carbonaceous matter as humate pods is important.  Detrital plant fragments are 
+
+less common in the Crownpoint district than in the Ambrosia Lake district, however, they 
+
+contributed to the reduction of the uranium minerals and development of the extensive tabular 
+
+deposits that were subsequently "destroyed" and partially remobilized into roll-front features 
+
+during subsequent oxidation in the Middle to Late Tertiary.   
+
+ 
+
+EXPLORATION STATUS 
+No exploration work or activities have been conducted by Laramide on the Crownpoint 
+
+property.  Laramide is scheduled to begin exploration activities in 2019. 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 1-8 
+
+RPA notes that typical roll-front mineralization does not usually present as pod type distribution 
+
+of mineralization as indicated in a number of isolated pods in the SW ¼ of Section 24.  RPA is 
+
+of the opinion that there is a high probability that additional drilling in this area will confirm 
+
+mineralization continuity between these pods. 
+
+ 
+
+MINERAL RESOURCES 
+The Crownpoint Mineral Resource estimate prepared by RPA is based on results of historical 
+
+drilling completed from 1968 to 1990.  The effective date of the Mineral Resource estimate is 
+
+October 24, 2018.  Due to the historical nature of the data, the classification of Mineral 
+
+Resources on the Project is limited to Inferred, until new confirmation drill hole data can be 
+
+obtained.   
+
+ 
+
+RPA prepared a geological model of the various sands over the Project area, and created 
+
+grade, thickness, and GT contours, manually using Vulcan software, over the mineralized 
+
+areas of each sand unit, using a cut-off grade of 0.03% eU3O8, a minimum thickness of two 
+
+feet, and allowing internal dilution up to five feet. 
+
+ 
+
+No capping of percent eU3O8 was performed prior to compositing across sand unit thickness. 
+
+ 
+
+Density was applied at 15 ft3/ton, consistent with past production and neighbouring deposits. 
+
+ 
+
+The areas between each GT and thickness contour intervals within the boundaries of the cut-
+
+off grade contour (0.02% eU3O8) were measured using ArcGIS software in order to calculate 
+
+tons, pounds, and grade.   
+
+ 
+
+Mineralized lenses defined by isolated or widely spaced drill holes were excluded from the final 
+
+resource estimate. 
+
+ 
+
+RPA used 0.5 ft-% eU3O8 GT cut-off based on similar deposit types and operations and based 
+
+on discussions with Laramide. 
+
+ 
+
+The Mineral Resource estimate and classification are in accordance with the CIM (2014) 
+
+definitions.  The Mineral Resource estimate also satisfies the requirements of the JORC Code. 
+
+ 
+
+There are no Mineral Reserves on the property at this time. 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 2-1 
+
+2 INTRODUCTION 
+Roscoe Postle Associates Inc. (RPA) has been retained by Laramide Resources Ltd. 
+
+(Laramide or the Company) to prepare an independent Technical Report on the Crownpoint 
+
+Uranium Project (the Project) located in McKinley County, New Mexico, USA.  The purpose of 
+
+this report is to support the disclosure of an initial Mineral Resource estimate for the Project.  
+
+This Technical Report conforms to NI 43-101 Standards of Disclosure for Mineral Projects. 
+
+ 
+
+Laramide is a Canadian company engaged in the exploration and development of uranium 
+
+assets based in Australia and the United States.  The Company is co-listed on the Toronto 
+
+Stock Exchange (TSX) and the Australian Securities Exchange (ASX) under the symbol 
+
+"LAM". 
+
+ 
+
+SOURCES OF INFORMATION 
+This report was prepared by Mark B. Mathisen, C.P.G., RPA Principal Geologist with the 
+
+assistance of Ryan Rodney, M.Sc., C.P.G., RPA Geologist, William Roscoe, Ph.D., P.Eng., 
+
+RPA Principal Geologist and Chairman Emeritus, and technical staff of Laramide.  Mr. 
+
+Mathisen is a Qualified Person (QP) in accordance with NI 43-101. 
+
+ 
+
+Mr. Mathisen visited the Project on August 17, 2017 for this Technical Report.  Mr. Mathisen 
+
+is responsible for all sections of this report and is independent of the Company for the purposes 
+
+of NI 43-101. 
+
+ 
+
+Discussions were held on several occasions with personnel of Laramide including: 
+
+• Bryn Jones, Chief Operating Officer 
+
+• J. Mersch Ward, Consulting Geologist 
+
+• Terrence Osier, Consulting Geologist 
+
+• Mark Pelizza, Consulting Permitting and Regulatory Specialist 
+
+ 
+
+No independent samples were taken by RPA as exploration drilling has yet to be carried out 
+
+on the Project by Laramide and historic core samples were not available.  Relevant technical 
+
+reports and exploration drill data from Conoco, Mobil Oil Corporation (Mobil), Uranium 
+
+Resources Inc. (URI), and others were provided by Laramide to RPA and were reviewed and 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 2-2 
+
+discussed with Laramide personnel during and following the site visit.  The documentation 
+
+reviewed, and other sources of information, are listed at the end of this report in Section 27 
+
+References. 
+
+ 
+LIST OF ABBREVIATIONS 
+Units of measurement used in this report conform to the metric system.  All currency in this 
+
+report is US dollars (US$) unless otherwise noted. 
+
+ 
+
+µ micron kVA kilovolt-amperes 
+µg microgram kW kilowatt 
+a annum kWh kilowatt-hour 
+A ampere L litre 
+bbl barrels lb pound 
+Btu British thermal units L/s litres per second 
+°C degree Celsius m metre 
+C$ Canadian dollars M mega (million); molar 
+cal calorie m2 square metre 
+cfm cubic feet per minute m3 cubic metre 
+cm centimetre MASL metres above sea level 
+cm2 square centimetre m3/h cubic metres per hour 
+d day mi mile 
+dia diameter min minute 
+dmt dry metric tonne µm micrometre 
+dwt dead-weight ton mm millimetre 
+°F degree Fahrenheit mph miles per hour 
+ft foot MVA megavolt-amperes 
+ft2 square foot MW megawatt 
+ft3 cubic foot MWh megawatt-hour 
+ft/s foot per second oz Troy ounce (31.1035g) 
+g gram oz/st, opt ounce per short ton 
+G giga (billion) ppb part per billion 
+Gal Imperial gallon ppm part per million 
+g/L gram per litre psia pound per square inch absolute 
+Gpm Imperial gallons per minute psig pound per square inch gauge 
+g/t gram per tonne RL relative elevation 
+gr/ft3 grain per cubic foot s second 
+gr/m3 grain per cubic metre st short ton 
+ha hectare stpa short ton per year 
+hp horsepower stpd short ton per day 
+hr hour t metric tonne 
+Hz hertz tpa metric tonne per year 
+in. inch tpd metric tonne per day 
+in2 square inch US$ United States dollar 
+J joule USg United States gallon 
+k kilo (thousand) USgpm US gallon per minute 
+kcal kilocalorie V volt 
+kg kilogram W watt 
+km kilometre wmt wet metric tonne 
+km2 square kilometre wt% weight percent 
+km/h kilometre per hour yd3 cubic yard 
+kPa kilopascal yr year 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 3-1 
+
+3 RELIANCE ON OTHER EXPERTS 
+This report has been prepared by RPA for Laramide.  The information, conclusions, opinions, 
+
+and estimates contained herein are based on: 
+
+• Information available to RPA at the time of preparation of this report,  
+ 
+• Assumptions, conditions, and qualifications as set forth in this report. 
+
+ 
+
+For the purpose of this report, RPA has relied on ownership information provided by Laramide.  
+
+RPA has not researched property title or mineral rights for the Crownpoint Project and 
+
+expresses no opinion as to the ownership status of the property.   
+
+ 
+
+Except for the purposes legislated under provincial securities laws, any use of this report by 
+
+any third party is at that party's sole risk. 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 4-1 
+
+4 PROPERTY DESCRIPTION AND LOCATION 
+The eastern end of the Crownpoint Uranium Project is located one mile west of the town of 
+
+Crownpoint, in McKinley County, New Mexico (Figure 4-1).  The Project is located in the 
+
+Church Rock-Crownpoint sub-district of the Grants Mineral Belt in northwestern New Mexico 
+
+and comprises parts of Sections 9, 24, and 25 of Township 17 North, Range 13 West (T17N-
+
+R13W), New Mexico 6th Principal Meridian (Figure 4-2).  
+
+ 
+
+LAND TENURE 
+The Project consists of portions of three sections of land totalling approximately 615 acres.  
+
+The Project is accessible from the town of Crownpoint along West Route 9 which crosses the 
+
+Project, and locally via dirt roads.  The mineral rights to the properties consist of a mix of 
+
+unpatented mining claims and private mineral rights.  The surface estates are managed by the 
+
+US Bureau of Land Management (US BLM) or privately owned by Laramide.  The properties 
+
+were acquired by Laramide in January 2017 from URI.   
+
+ 
+
+All of the Crownpoint holdings are reported by Laramide to be in good standing.  The annual 
+
+mining claim holding costs are US$155/claim.  The total for the 2019 assessment year was 
+
+US$4,495 (29 claims), and has been paid by Laramide in August 2018 to the US BLM, plus 
+
+nominal county filing fees. 
+
+ 
+
+RPA is not aware of any environmental liabilities on the property.  Laramide has all required 
+
+permits to conduct the proposed work on the property.  RPA is not aware of any other 
+
+significant factors and risks that may affect access, title, or the right or ability to perform the 
+
+proposed work program on the property. 
+
+ 
+
+MINERAL RIGHTS 
+The following details the surface and mineral estates of each section on the property.  For this 
+
+discussion, the following definitions, summarized from www.mine-engineer.com, are used: 
+
+ 
+• Un-patented Mining Claim:  An un-patented mining claim is a particular parcel of US 
+
+Federal land, valuable for a specific mineral deposit or deposits. It is a parcel for which an 
+individual has asserted a right of possession.  The right is restricted to the extraction and 
+development of a mineral deposit.  The rights granted by a mining claim are valid against 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 4-2 
+
+a challenge by the United States and other claimants only after the discovery of a valuable 
+mineral deposit.  With an un-patented claim, the right to extract minerals is leased from the 
+government.  No land ownership is conveyed.  There are two types of mining claims, lode 
+and placer. 
+ 
+
+o Lode Claims:  Deposits subject to lode claims include classic veins or lodes having 
+well-defined boundaries. They also include other rock in-place bearing valuable 
+minerals and may be broad zones of mineralized rock.  Lode claims are usually 
+described as parallelograms with the longer side lines parallel to the vein or lode.  
+Descriptions are by metes and bounds surveys (giving length and direction of each 
+boundary line).  US Federal statute limits their size to a maximum of 1,500 ft in 
+length along the vein or lodge. Their width is a maximum of 600 ft, 300 ft on either 
+side of the centreline of the vein or lode.  The end lines of the lode claim must be 
+parallel to qualify for underground extralateral rights. Extralateral rights involve the 
+rights to minerals that extend at depth beyond the vertical boundaries of the claim. 
+ 
+
+o Placer Claims:  Mineral deposits subject to placer claims include all those deposits 
+not subject to lode claims.  Originally, these included only deposits of 
+unconsolidated materials, such as sand and gravel, containing free gold or other 
+minerals. By Congressional acts and judicial interpretations, many nonmetallic 
+bedded or layered deposits, such as gypsum and high calcium limestone, are also 
+considered placer deposits.  Placer claims, where practicable, are located by legal 
+subdivision of land (for example: E 1/2 NE 1/3 NE 1/4, Section 2, Township 10 
+South, Range 21 East, Mount Diablo Meridian). The maximum size of a placer claim 
+is 20 acres per locator. 
+
+ 
+• Private Minerals:  Mineral rights ownership refers to who owns the rights to extract 
+
+minerals – that is, oil, gas, gold, coal and other metals and minerals – from lands located 
+in that country. This ownership is very important, since the rights confer considerable 
+potential for profit from the extraction of these minerals.  In virtually all countries around the 
+world, the owner of the surface land has absolutely no rights with regard to mineral 
+ownership.  In the USA, however, the owner of the surface land can also have the rights to 
+extract minerals from underneath that land. In other words, private individuals own much 
+of the mineral rights across the USA, as opposed to governmental or state organizations. 
+
+ 
+
+SECTION 9, T17N-R13W 
+The Section 9 property (~160 acres) consists of nine unpatented Lode Mining Claims.  The 
+
+surface estate is managed by the US BLM.  The mining claims are contiguous. 
+
+ 
+
+SECTION 24, T17N-R13W 
+The Section 24 property (S½ = ~320 acres) consists of 12 unpatented mining claims (Consol 
+
+1, 2; CP 10-19) and a 40% interest in the remainder of the property held by private mineral 
+
+ownership.  The surface estate of the SW¼ is managed by the US BLM and the SE¼ is 
+
+privately held by Laramide.  The mining claims and private mineral rights are contiguous.  
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 4-3 
+
+SECTION 25, T17N-R13W 
+The Section 25 property (~135 acres) consists of eight unpatented mining claims (Hydro 1-8).  
+
+The surface estate is managed by the US BLM.  The mining claims are contiguous.  
+
+ 
+
+ROYALTIES AND OTHER ENCUMBRANCES 
+A 5% royalty for the Project is owed to URI (now Westwater Resources Inc.).  Laramide can 
+
+purchase the royalty in the future.   
+
+ 
+
+PERMITTING 
+The Project is located on lands with varying regulatory management including the US BLM 
+
+and privately owned lands.  A portion of the Project (Sections 24, 25) has had extensive 
+
+permitting activity leading to the issuance of several regulatory clearances for the extraction of 
+
+uranium by in-situ recovery (ISR) techniques.   
+
+ 
+
+In 1987, URI began field and permitting activities towards the development of an ISR uranium 
+
+operation at the Project, in conjunction with hydrogeologic analysis studies from the Church 
+
+Rock Project 20 miles to the west.  The Church Rock Project is described in a previous NI 43-
+
+101 Technical Report by RPA for Laramide, dated November 14, 2017 (RPA, 2017).   
+
+ 
+
+As part of the purchase of the Project from URI, Laramide obtained the following regulatory 
+
+clearances for portions of the Crownpoint and Church Rock Projects: 
+
+• Final Environmental Impact Statement (Docket No. 40-8968) prepared by the US 
+Nuclear Regulatory Commission (US NRC) in cooperation with the US BLM and the 
+US Bureau of Indian Affairs (US BIA) dated February 1997. 
+ 
+
+• Radioactive Materials Licence from the US NRC, issued 1998, amended in 2006 and 
+in "timely renewal". 
+ 
+
+• Aquifer Exemption issued in the US Environmental Protection Agency, dated 1989. 
+ 
+
+• Water Rights transfer, approved by the office of New Mexico State Engineer, dated 
+October 19, 1999.  
+
+ 
+
+Additional regulatory clearances are necessary for potential production and include: 
+
+• Discharge Permit/Underground Injection Control (UIC) Permit from the New Mexico 
+Environmental Department.  
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 4-4 
+
+• Right-of-Way Permit from the US BIA or the Navajo Nation. 
+ 
+
+Prior to Laramide's purchase of the Project, environmental activist groups and others filed 
+
+various legal actions, in state and federal courts, against issuance of the regulatory clearances. 
+
+ 
+
+During 2010, previous owner URI, in the name of subsidiary Hydro Resources Inc. (HRI), 
+
+pursued and won two significant court judgments with respect to the development of the 
+
+proposed ISR uranium mine at the Section 8 Church Rock Project which is part of the greater 
+
+Crownpoint Uranium Project.  The first, an action challenging the UIC Permit, granted by the 
+
+State of New Mexico, was based on whether Section 8 was considered to be in "Indian 
+
+Country".  On September 13, 2010, the 10th Circuit Court's en banc decision that Section 8 
+
+was not "Indian Country" was upheld.  The second, an action challenging the US NRC licence, 
+
+was won on November 15, 2010 when the US Supreme Court denied a petition by interveners 
+
+to review the 10th Circuit Court's decision upholding the US NRC licence. 
+
+ 
+
+Once the necessary additional regulatory clearances described above are completed, RPA is 
+
+not aware of any factors or risks that may affect access, title, or the right or ability to perform 
+
+the proposed work program on the Project. 
+
+ 
+
+  
+
+
+
+Mexico
+
+Luna
+
+Hidalgo
+
+Eddy
+
+Dona Ana
+
+Grant
+
+Otero
+
+Sierra
+
+Lea
+
+Chaves
+
+Lincoln
+
+Socorro
+Catron Roosevelt
+
+Debaca
+
+Curry
+
+Valencia Torrance
+
+Guadalupe
+
+Bernalillo
+
+Cibola
+
+Quay
+
+San Miguel
+
+Los
+Alamos
+
+Santa Fe
+
+McKinley
+
+Harding
+
+Sandoval
+
+Mora
+
+Colfax
+
+Taos
+
+UnionSan Juan
+Rio Arriba
+
+Pecos R.
+
+P
+ec
+
+os
+ R
+
+.
+
+R
+io San Jose
+
+Gila R.
+
+R
+io G
+
+rande
+
+Rio Grande
+
+Cim
+mar
+
+on R
+.
+
+Corrizo Creek
+
+Cana
+dian 
+
+R.
+
+Pecos R.
+
+R
+io G
+
+rande
+
+R
+io
+
+ G
+ra
+
+nd
+e
+
+San Juan R.
+
+Rio Puerco
+
+C
+anadian R
+
+.
+
+Mora R.
+
+Conchas L.
+
+Elephant Butte Res.
+
+Ascension
+
+Sierra Blanca
+
+Mentone
+
+Mora
+
+Tierra Amarilla
+
+Conejos
+
+Fabens
+
+Canutillo
+
+Mescalero
+
+Seama
+
+Black Rock
+
+Santa Ana Pueblo
+
+Cochiti
+
+Crownpoint
+Saint Michaels
+
+Nambe
+
+Mexican Springs
+
+Alcalde
+
+Sawmill
+
+Naschitti
+
+Sanostee
+
+Shiprock
+
+Teec Nos Pos
+
+Towaoc
+Montezuma Creek
+
+BaldridgeSaragosa
+Kent
+
+Wild Horse
+
+Eagle Flat
+
+Hoban
+
+Fort Hancock
+
+Alamo Alto
+
+Penwell
+
+Cloverdale
+
+Salt Flat
+
+Cornudas
+
+NotreesAngeles
+Pine Springs
+
+Lanark
+Hachita
+
+Black River Village
+
+Afton
+
+Teague
+
+Portal
+
+Vado
+
+Animas
+
+DesertDona
+
+Florey
+
+Wilna
+
+Orogrande
+
+Organ
+
+San Simon
+
+Florida
+
+Lakewood
+
+Nutt
+Summit
+
+White Signal
+
+Valmont
+
+MaljamarDunken
+
+Weed
+Arrey
+
+Redrock
+
+San Juan
+
+Upham
+
+Flying H
+
+Fierro
+
+McDonald
+
+Kingston
+Caballo
+
+Gila
+
+Caprock
+
+Sunset
+Three Rivers
+
+Mule Creek
+
+San Patricio
+
+Crossroads
+
+Crocker
+
+Granville
+
+Chloride
+
+Lehman
+
+Oscura
+
+Monticello
+
+Acme
+
+Milnesand
+
+Glenwood
+
+Elkins
+
+Enochs
+Kenna
+
+San Marcial
+
+Coyote
+
+BinghamSan Antonio
+
+Tecolote
+
+Alpine
+
+Claunch
+
+Progress
+
+RamonPolvadera Gran Quivira
+
+Datil
+
+Ricardo Krider
+Yeso
+
+Pleasant Hill
+
+Contreras
+
+Joffre
+
+Pie Town
+
+McAlister
+
+Bosque
+
+Lucy
+
+Bellview
+
+Fence Lake
+
+Chilili
+Escabosa
+
+South Garcia
+
+NewkirkClines Corners
+
+Endee
+Palomas
+
+Colonias
+Dahlia
+
+Gruhlkey
+
+Stanley
+
+Sena
+
+Conchas
+
+Seboyeta
+
+Corazon
+
+Bluewater
+
+Ilfeld
+
+ObarBell Ranch
+
+Santa Ana
+
+San Mateo
+
+Cerrillos
+
+Sanders
+
+Lamy
+
+Sanchez
+
+Continental Divide
+
+Romero
+
+Manuelito
+
+San Ignacio
+Watrous
+
+Pinedale
+
+Optimo
+Hayden
+
+Bueyeros
+
+Mills
+Holman
+
+Sedan
+Yates
+
+Ware
+Ojo Sarco
+
+Ocate
+
+Colmor
+
+Gladstone
+
+Abbott
+
+Youngsville
+
+Abiquiu
+
+Pilar
+
+Miami
+
+Sofia
+
+El Rito
+
+Nageezi
+
+Felt
+
+Canjilon
+
+Arroyo Hondo
+
+Tsaile
+
+El Vado
+
+Tres Piedras
+Koehler
+
+Kenton
+
+Red Rock
+
+Jaroso
+
+Lumberton Los Pinos
+
+Segundo
+
+Cedar Hill
+La Plata
+
+Stonewall
+
+Pagosa Junction
+Tiffany
+
+Utleyville
+
+Bondad
+
+Villegreen
+
+Redmesa
+
+Ludlow
+
+Model
+
+Chimney Rock
+
+CucharaEstrella
+
+Hesperus
+
+Vallecito
+
+Sunland Park
+
+Lovington
+
+Socorro
+
+Grants
+
+Espanola
+
+Trinidad
+
+Cortez
+
+Monahans
+
+Kermit
+
+Seminole
+
+Truth or Consequences
+
+Ruidoso
+
+Belen
+
+Los Lunas
+
+Corrales
+
+Bernalillo
+
+Dalhart
+
+Raton
+
+Bloomfield
+
+Aztec
+
+Alamosa
+
+Horizon City
+
+Denver City
+
+Muleshoe
+
+Eagar
+
+Bosque Farms
+
+TucumcariLos Ranchos de
+Albuquerque
+
+Taos
+
+Van Horn
+
+Lordsburg
+
+Clifton
+
+Morton
+
+Saint Johns
+
+Santa Rosa
+
+Clayton
+
+Plains
+
+Carrizozo
+
+Farwell
+
+Fort Sumner
+
+Estancia
+
+Springfield
+
+Pagosa Springs
+
+Mosquero
+
+San Luis
+
+Reserve
+
+Jal
+
+Anthony
+
+Eunice
+
+Tularosa
+
+Friona
+
+Questa
+
+Wink
+
+Loving
+
+HatchHurley
+
+Capitan
+
+Sudan
+
+BovinaMountainair
+
+Moriarty
+
+Pecos
+
+Springer
+
+Chama
+
+ManassaBayfield
+
+Mancos
+
+Taos
+Ski Valley
+
+Grandfalls
+Toyah
+
+Barstow
+
+Wickett
+
+Dell City
+Columbus
+
+Hope
+
+Lake ArthurCloudcroft
+
+Duncan
+
+Dexter
+Tatum
+
+Causey
+Dora
+
+Elida
+
+Floyd
+
+Magdalena
+Corona
+
+Melrose
+
+House
+Vaughn
+
+Willard Encino
+
+Grady
+
+Tijeras
+
+AdrianLogan
+
+San Ysidro
+
+Jemez Springs
+
+RoyWagon Mound
+Cuba
+
+TexlineAngel Fire
+
+Cimarron Maxwell
+
+Grenville
+
+Des Moines
+
+Branson
+Campo
+
+Kim
+
+Ignacio
+
+La Jara
+
+AguilarBlanca
+
+Socorro
+
+Carlsbad
+
+Hobbs
+
+Alamogordo
+
+Roswell
+
+Clovis
+
+Farmington
+
+Pecos
+
+Andrews
+Deming
+
+Artesia
+
+Silver City
+
+Portales
+
+Las Vegas
+
+Gallup
+
+Durango
+
+Los Alamos
+
+Las Cruces
+
+Rio Rancho
+
+Albuquerque
+
+El Paso
+
+Santa Fe
+
+Texas
+
+New Mexico
+
+Oklahoma
+
+A
+ri
+z
+o
+n
+a
+
+ColoradoUtah
+
+32°
+
+33°
+
+34°
+
+35°
+
+36°
+
+37°
+
+32°
+
+33°
+
+34°
+
+35°
+
+36°
+
+37°
+
+103°104°105°106°107°108°109°
+
+CROWNPOINT PROJECT
+
+State Capitals
+
+Legend:
+
+Cities
+
+County Seat
+
+International Boundaries
+
+State Boundaries
+
+County Boundaries
+
+Interstate Highways
+
+U.S. Highways
+
+State Roads
+
+0
+
+0
+
+50 Miles
+
+50 Kilometres
+
+25
+
+25
+
+10
+
+10
+
+N
+
+November 2018
+
+Crownpoint Project
+
+Location Map
+
+Laramide Resources Ltd.
+
+McKinley County, New Mexico, U.S.A.
+
+Figure 4-1
+
+4-5
+
+www.rpacan.com
+
+
+
+0 2
+
+Miles
+
+1
+
+Lode Mining Claims (100% Interest)
+
+Legend:
+
+Private Minerals (40% Interest)
+
+N
+
+November 2018 Source: T.A. Osier, 2018.
+
+Land Tenure
+
+Crownpoint Project
+
+Laramide Resources Ltd.
+
+McKinley County, New Mexico, U.S.A.
+
+Figure 4-2
+
+4-6
+
+www.rpacan.com
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 5-1 
+
+5 ACCESSIBILITY, CLIMATE, LOCAL 
+RESOURCES, INFRASTRUCTURE AND 
+PHYSIOGRAPHY 
+ACCESSIBILITY 
+The eastern end of the Crownpoint Project is located one mile west of Crownpoint, New 
+
+Mexico, a town of approximately 2,300 people (2010 US census data).  The Section 24 part of 
+
+the Project is easily accessed from Crownpoint on a paved road (West Route 9) and local 
+
+access to the other parts of the Project is available via dirt roads.  
+
+ 
+
+CLIMATE 
+The climate is classified as arid to semi-arid continental, characterized by cool, dry winters, 
+
+and warm, dry summers.  January temperatures in nearby Gallup range from 11°F to 45°F and 
+
+July temperatures range from 51°F to 89°F.  Annual precipitation, mostly in the form of rain but 
+
+some snow, is approximately 12 inches (www.wikipedia.org).  The local climate allows for year-
+
+round mining and exploration drilling; however, winter snow and inclement weather conditions 
+
+may interrupt operations occasionally. 
+
+ 
+
+LOCAL RESOURCES 
+The nearby city of Gallup (approximately 40 miles to the southwest) is the county seat of 
+
+McKinley County.  Albuquerque, the state's largest city of over 500,000 people, is located 
+
+approximately 120 miles south and east along US Interstate 40.  These cities, and others 
+
+nearby, have the personnel and necessary supplies to staff and operate the proposed 
+
+Crownpoint ISR mine.  
+
+ 
+
+INFRASTRUCTURE 
+At the Project, infrastructure is available for future exploration and mine development, with 
+
+paved road access to the Project and dirt road access locally.  Power lines and natural gas 
+
+supplies which could be used for mining operations are located near and around the Project 
+
+http://www.wikipedia.org/
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 5-2 
+
+area.  In the Project vicinity, domestic water supplies are provided by the Navajo Tribal Utility 
+
+Authority through a pipeline distribution system.  Water rights sufficient to operate the potential 
+
+ISR uranium mine are owned by Laramide.  Several former surface facilities constructed on 
+
+Section 24 to service the Conoco underground mine are still present and well maintained.  
+
+ 
+
+PHYSIOGRAPHY  
+The topography of the Project is typical of the high desert and plateau-valley physiography of 
+
+the greater Colorado Plateau, consisting of relatively flat-topped mesas or plateaus with 
+
+rugged cliff faces that merge with flat lying valley bottoms.  Elevations range from 6,800 ft in 
+
+the valley bottoms to over 7,500 ft atop the plateaus.  Vegetation is sparse and consists of 
+
+mostly sagebrush and native grasses in the valley bottoms and piñon and juniper trees on the 
+
+plateaus. 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 6-1 
+
+6 HISTORY 
+The Crownpoint uranium deposits are located in northwestern New Mexico and are part of the 
+
+Grants Uranium Region in the San Juan Basin.  During a period of nearly three decades (1951-
+
+1980), the Grants uranium district yielded more uranium than any other district in the United 
+
+States.  The Grants district is a large area in the San Juan Basin, extending from east of 
+
+Laguna to west of Gallup, and includes eight sub-districts (Figure 6-1).  Most of the uranium 
+
+production in New Mexico has come from the Grants district along the southern margin of the 
+
+San Juan Basin in McKinley and Cibola counties.  The production was derived principally from 
+
+the Westwater Canyon Member of the Jurassic Morrison Formation.  
+
+ 
+
+In the Grants Mineral Belt, historic mining produced more than 340 million pounds of U3O8 
+
+from 1948 to 2002, predominantly from underground and open-pit operations.  On Section 24, 
+
+mine development consisted of sinking production and ventilation shafts and construction of 
+
+surface facilities, however, no uranium ore was produced.  
+
+ 
+
+Although there are no current mining operations in the Grants district today, numerous 
+
+companies have acquired uranium properties and plan to explore and develop deposits in the 
+
+district in the future. 
+
+ 
+
+PRIOR OWNERSHIP 
+The history of exploration and mine development activities for the Crownpoint Uranium Project 
+
+dates back to the late 1960s.  Mine development (surface facilities, one production and two 
+
+ventilation shafts) was carried out on Section 24 in the early 1980s by a joint-venture between 
+
+Conoco and Westinghouse.  In 1980, adjacent to the Section 9 property, Mobil constructed 
+
+and operated an ISR pilot test facility with positive results concerning recovery of uranium and 
+
+loading of resin.  Exploration and development activities continued through the early 1990s by 
+
+URI towards acquisition of necessary permits to carry out ISR operations.  The properties were 
+
+acquired by Laramide in January 2017 from URI (now Westwater Resources, Inc.).   
+
+ 
+
+  
+
+
+
+www.rpacan.com 
+
+Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+Technical Report NI 43-101 – November 16, 2018 Page 6-2 
+
+FIGURE 6-1   GRANTS URANIUM MINING DISTRICT, SAN JUAN BASIN 
+
+Source: Laramide Resources 2018 after McLemore and Chenoweth (1989) 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 6-3 
+
+EXPLORATION AND DEVELOPMENT HISTORY 
+The history of exploration and resultant historical resource estimates are described below for 
+
+Sections 9 and 24 of the Project, since the original ownership varied.  No drilling records or 
+
+resource estimates were noted for the Section 25, T17N-R13W claim group (Hydro 1-8).  
+
+ 
+
+The estimates presented in this section are considered to be historical in nature and should 
+
+not be relied upon.  Key assumptions and estimation parameters used in these estimates are 
+
+not fully known to the authors of this report; it is therefore not possible to determine what 
+
+additional work is required to upgrade or verify the historic estimates as current Mineral 
+
+Resources.  A qualified person has not completed enough work to classify the historical 
+
+estimates as current Mineral Resources or Mineral Reserves and Laramide is not treating the 
+
+historical estimates as current Mineral Resources or Mineral Reserves. 
+
+ 
+
+The historical resource estimates reported below are superseded by the current Mineral 
+
+Resource estimates presented in Section 14 of this report. 
+
+ 
+
+SECTION 9, T17N-R13W RESOURCE AREA 
+Exploration Summary 
+
+Company # Drill Holes Total footage logged (ft) 
+Mobil 78 170,575 
+URI 1 2,140 
+
+ 
+
+Historical Resource Estimate 
+
+Project Area Pounds U3O8 
+NW ¼ (CP claims 1-9, 100% interest) 2,800,000 
+
+ 
+Note: Estimated by URI (reported in Behre-Dolbear, 2007) using the GT contour method (cut-offs of 2 ft at 0.05% 
+U3O8) 
+ 
+
+SECTION 24, T17N-R13W RESOURCE AREA 
+Exploration Summary 
+
+Company # Drill Holes Total footage logged (ft) 
+Conoco 173 364,268 
+Mobil 44 92,618 
+Homestake 4 8,597 
+URI 5 10,449 
+Western Nuclear 1 2,103 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 6-4 
+
+Historical Resource Estimates 
+
+Project Area Pounds U3O8 
+SE ¼, (Consol claims 1-2, 100% interest) 800,0001 
+
+SE ¼ (Walker Lease, 40% interest shown) 4,712,0002 
+
+SW ¼ (CP claims 10-19, 100% interest) 5,288,0002 
+ 
+Notes:  
+
+1. Estimated in 1978 by Chapman, Wood and Griswold for Wyoming Minerals Corp. using the General 
+Outline Method (cut-offs of 6 ft at 0.07% U3O8) 
+
+2. Estimated by URI (F. Lichnovsky, 11-6-1990) using the GT contour method (cut-offs of 2 ft at 0.05% 
+U3O8) 
+
+ 
+
+PAST PRODUCTION 
+There has been no past production on the property. 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 7-1 
+
+7 GEOLOGICAL SETTING AND 
+MINERALIZATION 
+REGIONAL GEOLOGY 
+The Project is located in the Church Rock-Crownpoint sub-district of the greater Grants Mineral 
+
+Belt uranium district of northwestern New Mexico (Figure 6-1).  The Grants Mineral Belt lies 
+
+along the southern flank of the San Juan Basin located in the southeast corner of the Colorado 
+
+Plateau.  The belt extends from just west of the Church Rock area eastward for approximately 
+
+100 miles to the area of Laguna and is approximately 25 miles to 30 miles wide north-south, 
+
+including the area around Crownpoint.  The principal host rocks for the uranium mineralization 
+
+in the Crownpoint area are fluvial sandstones within the Late Jurassic Morrison Formation, 
+
+called the Westwater Canyon member. 
+
+ 
+
+The Morrison Formation was deposited in a continental setting by alluvial fans and braided 
+
+streams that partially filled the southern ancestral San Juan Basin.  These fluvial deposits were 
+
+derived from the Mogollan highlands immediately south and west from Laramide orogenic uplift 
+
+during the Late Jurassic and Early Cretaceous.  Subsequent uplift occurred prior to deposition 
+
+of the Dakota Sandstone resulting in portions of the Brushy Basin and underlying deposits 
+
+being partially eroded.  The strata gently dip northward from one to three degrees with no 
+
+known faulting on the Crownpoint Project.  
+
+ 
+
+LOCAL GEOLOGY 
+The exposed stratigraphy in the Crownpoint area includes marine and non-marine sediments 
+
+of Late Cretaceous age (Mesa Verde Group, Mancos Shale, Dakota Sandstone), 
+
+unconformably overlying the continental-fluvial sediments of the Jurassic Morrison Formation, 
+
+the principal host of uranium mineralization (Figures 7-1 and 7-2).  The strata dip generally 
+
+from one to three degrees north towards the San Juan Basin.    
+
+  
+
+
+
+9
+
+24
+
+25
+
+0 1 4
+
+Miles
+
+2 3
+
+N
+
+November 2018
+
+Source: Portion of Geologic Map of Gallup 30'x60' Quadrangle,
+McKinley County, New Mexico Map MI-2009 modified from
+Dillinger,1990.
+
+Local Geology
+
+Crownpoint Project
+
+Laramide Resources Ltd.
+
+McKinley County, New Mexico, U.S.A.
+
+Figure 7-1
+
+7-2
+
+www.rpacan.com
+
+
+
+November 2018 Source: Modified from Lanphere, 1979.
+
+Typical Stratigraphic Section,
+Church Rock Morrison Formation/
+
+Dakota Sandstone
+
+Crownpoint Project
+
+Laramide Resources Ltd.
+
+Figure 7-2
+
+7-3
+
+www.rpacan.com
+
+McKinley County, New Mexico, U.S.A.
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 7-4 
+
+PROPERTY GEOLOGY 
+
+MESA VERDE GROUP (EARLY CRETACEOUS) 
+At Crownpoint, the Mesa Verde Group consists of the Point Lookout Sandstone and Crevasse 
+
+Canyon and Gallup Formations.  From the surface, in descending order, the Point Lookout 
+
+Sandstone consists of grey-brown to white, fine to medium grained sandstone; the Crevasse 
+
+Canyon consists of the Gibson Coal (interbedded sandstone, siltstone, shale, and coal beds), 
+
+Dalton Sandstone (light grey to tan, fine grained marine sandstone), Mulatto Tongue of the 
+
+Mancos Shale (light grey to dark grey shale, siltstone and mine marine sandstone), Stray 
+
+Sandstone (light grey to white, medium grained, well sorted sandstone), and the Dilco Coal 
+
+(interbedded light grey sandstone, siltstone, carbonaceous shale, and coal beds).  Finally, the 
+
+Gallup Formation consists of light grey, fine grained, well-sorted sandstone.  The Mesa Verde 
+
+Group at Crownpoint is approximately 1,100 ft thick.   
+
+ 
+
+MANCOS SHALE FORMATION (EARLY CRETACEOUS) 
+The Mancos Shale consists of approximately 500 ft of marine, light grey to black shale with 
+
+interbedded fine-grained marine sandstone beds referred to as the Two Wells Member.   
+
+ 
+
+DAKOTA SANDSTONE FORMATION (EARLY CRETACEOUS) 
+The Dakota Sandstone consists of a well-sorted fine-grained quartzose sandstone, deposited 
+
+in a mostly marine, shoreface environment.  In the subsurface at the Project, the Dakota 
+
+Sandstone is approximately 160 ft thick.  Although mineralized in the nearby Church Rock 
+
+district, the Dakota Sandstone is not mineralized at the Project.   
+
+ 
+
+MORRISON FORMATION (LATE JURASSIC)  
+BRUSHY BASIN MEMBER 
+In the Crownpoint area, the Brushy Basin Member is typically 150 ft thick, depending on the 
+
+level of erosion prior to deposition of the overlying Dakota Sandstone.  The Brushy Basin 
+
+consists of mostly shales/mudstones of greenish-grey to red-brown colour with a sandstone 
+
+sub-member (Poison Canyon).  Although mineralized in the nearby Church Rock district, the 
+
+Brushy Basin Member is not mineralized at the Project.  
+
+ 
+WESTWATER CANYON MEMBER 
+In the Crownpoint area, the uranium mineralization is located within sandstones of the 
+
+Westwater (Jmw) Canyon Member.  Eight sandstones, informally termed A to H in descending 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 7-5 
+
+order, make up the Westwater Canyon Member, separated by thin shales and mudstones.  
+
+The sands are yellow-grey to pale red and the shales are typically greenish-grey.  In the Project 
+
+area, the Westwater is approximately 300 ft to 340 ft thick, depending on the paleotopography 
+
+and the amount of subsequent erosion prior to deposition of the Dakota Sandstone.  In the 
+
+Project area, only the upper five sandstone units (Jmw A to Jmw E sands) are mineralized.  
+
+ 
+
+STRUCTURE 
+Regionally, the strata shallowly dip north, from one to three degrees, toward the San Juan 
+
+Basin.  No known faults are projected to exist on the Crownpoint Project.  
+
+ 
+
+MINERALIZATION 
+The typical mineralized rock in the Crownpoint district, as well as the Ambrosia Lake and 
+
+Jackpile districts to the east, occurs as uranium-humate cemented sandstone.  The uranium 
+
+mineralization consists largely of coffinite and sparse to minor amounts of unidentifiable 
+
+organic-uranium oxide complexes that are light grey-brown to black; the dark colour is 
+
+attributed to humic acids derived from buried organic materials (Wentworth et al., 1980)  
+
+ 
+
+For this report, the uranium mineralization is defined by each host sand unit: Westwater sands 
+
+Jmw A to Jmw E.  Mineralization is generally confined to the individual sand units except where 
+
+intervening shales/mudstones are absent, and the sand units are merged.  Regionally, gangue 
+
+mineralization includes varying amounts of vanadium, molybdenum, copper, selenium, and 
+
+arsenic.  The mineralization coats and fills the intergranular spaces of the host sandstones.   
+
+ 
+
+The primary mineralization control is the presence of quartz-rich, arkosic, fluviatile sandstones 
+
+of the Morrison Formation.  The uranium mineralization generally trends west-northwest to 
+
+east-southeast, following a trend similar to that of the primary sandstone host deposition 
+
+(Smith, 1980; Wentworth et al., 1980).  The presence of carbonaceous matter as humate pods 
+
+is important.  Detrital plant fragments are less common in the Crownpoint district than in the 
+
+Ambrosia Lake district, however, they contributed to the reduction of the uranium minerals and 
+
+development of the extensive tabular deposits.  The original uranium deposits were 
+
+subsequently "destroyed" and partially remobilized into roll-front features during subsequent 
+
+oxidation in the Middle to Late Tertiary (Saucier, 1980). 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 8-1 
+
+8 DEPOSIT TYPES 
+The mineralized deposits in the Crownpoint district are sandstone-type uranium deposits.  
+
+These types of deposits are irregular in shape, roughly tabular and elongated, and range from 
+
+pods a few feet in thickness, length and width, to extensive bodies of mineralization tens of 
+
+feet thick, several hundreds to thousands of feet long, and several tens to hundreds of feet 
+
+wide.  The deposits are roughly parallel to the enclosing beds, but may cut across bedding 
+
+where interbedded shales/mudstones are absent, and the sand units merged.   
+
+ 
+
+Two types of uranium deposits occur in the Grants Mineral Belt: primary trend deposits and 
+
+post-faulting, or redistributed, secondary deposits.  The primary trend mineralization, located 
+
+predominantly further east near Ambrosia Lake, was controlled by humic acids (humates) 
+
+which acted as the reductants to precipitate the uranium from groundwater.  In the Crownpoint 
+
+area, the secondary deposits predominate, having formed from remobilization and destruction 
+
+of nearby, primary trend deposits.  These secondary deposits at the Project are tabular in 
+
+shape, and many formed into "roll-fronts", similar in shape to the Wyoming-type uranium roll 
+
+fronts that are mined by ISR methods in Wyoming, Nebraska, Texas, and other areas of the 
+
+world.  Roll-front mineralization is distributed across a regional interface of oxidized and 
+
+reduced groundwater environments, known as the redox front (Figures 8-1 and 8-2). 
+
+  
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 8-2 
+
+FIGURE 8-1   ROLL FRONT CHARACTERISTICS 
+ 
+
+ 
+ 
+
+  
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 8-3 
+
+FIGURE 8-2   URANIUM ROLL FRONT CONCEPTUAL MODEL AND EXAMPLES 
+ 
+
+ 
+Source: after Devoto (1978) 
+ 
+
+ 
+
+ 
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 9-1 
+
+9 EXPLORATION 
+Laramide has not conducted any exploration on the Project since acquiring the properties from 
+
+URI in January 2017.  All exploration data used in this report were generated by former 
+
+property owners, mostly from the 1970s, with lesser exploration having occurred in the 1960s, 
+
+1980s, and 1990s.  The data consist of exploration and development drilling, geophysical 
+
+logging, evaluation reports, core studies, resource estimates, and other information.  All of 
+
+these data are secured in Laramide's Lakewood, Colorado, office.  
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 10-1 
+
+10 DRILLING 
+Mud-rotary drilling using bits from four to six inches in diameter was the principal method of 
+
+exploration and delineation of uranium mineralization on the Project.  The holes were drilled 
+
+vertically, and, upon completion, each hole was logged with a geophysical tool for gamma-ray, 
+
+spontaneous potential (SP), and resistivity.  Physical samples were retrieved at five-foot 
+
+intervals and were used for lithologic determinations and comparison to the SP and resistivity 
+
+curves from the geophysical logs.  Additionally, cored samples were retrieved for metallurgical 
+
+studies, including mill leach amenability, ISR processes and post ISR groundwater restoration, 
+
+and assayed for disequilibrium determinations.  Downhole drift surveys of the drill holes were 
+
+also conducted. 
+
+ 
+
+As of the effective date of this report, Laramide's predecessors completed on and immediately 
+
+adjacent to the subject properties a total of 305 holes totaling 648,702 ft drilled from 1968 to 
+
+1990.  Laramide has not carried out any drilling on the Project.  A drilling summary up to and 
+
+including all drilling information available as of September 1, 2018 is presented in Table 10-1.  
+
+A map of drill hole collars and traces is shown in Figure 10-1. 
+
+ 
+
+  
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 10-2 
+
+TABLE 10-1   DRILL HOLE DATABASE 
+Laramide Resources Ltd. – Crownpoint Uranium Project 
+
+ 
+Section Year Company # Drill Holes Total Depth (ft) 
+
+8 1974 Mobil 1 2,249 
+ 1975 Mobil 3 6,510 
+ 1977 Mobil 4 8,541 
+ 1978 Mobil 19 41,462 
+
+8 Total   27 58,762 
+9 1973 Mobil 1 2,272 
+ 1977 Energy Resources 10 22,996 
+  Mobil 21 45,175 
+ 1978 Mobil 1 2,120 
+ 1979 Mobil 6 13,039 
+ 1980 Mobil 11 24,111 
+ 1982 Mobil 1 2,199 
+ 1988 URI 1 2,140 
+
+9 Total   52 114,052 
+19 1973 Conoco 4 8,570 
+
+ 1974 Conoco 1 2,108 
+ 1975 Conoco 2 4,420 
+ 1976 Conoco 5 10,677 
+ 1979 Conoco 1 2,170 
+
+19 Total   13 27,945 
+24 1968 Homestake 1 2,100 
+
+ 1969 Homestake 1 2,120 
+ 1970 Homestake 2 4,377 
+ 1971 Western Nuclear 1 2,103 
+ 1972 Conoco 3 6,570 
+  Mobil 3 6,702 
+ 1973 Conoco 35 73,824 
+  Mobil 7 15,111 
+ 1974 Conoco 12 24,885 
+ 1975 Conoco 12 25,106 
+  Mobil 4 8,290 
+ 1976 Conoco 88 183,917 
+ 1977 Mobil 3 6,366 
+ 1979 Conoco 1 2,200 
+  Mobil 19 39,617 
+ 1980 Conoco 7 15,591 
+  Mobil 6 12,373 
+ 1981 Conoco 1 2,060 
+  Mobil 1 2,079 
+ 1982 Mobil 1 2,099 
+ 1988 URI 1 2,040 
+ 1990  4 8,413 
+
+24 Total   213 447,943 
+Grand Total   305 648,702 
+
+ 
+  
+
+
+
+N
+
+November 2018 Source: RPA, 2018.
+
+Crownpoint Project
+
+Drill Hole Collar Location
+
+Laramide Resources Ltd.
+
+Figure 10-1
+
+10
+-3
+
+w
+w
+
+w
+.rp
+
+a
+c
+a
+n
+
+.c
+o
+
+m
+
+0 2
+
+Miles
+
+1
+
+McKinley County, New Mexico, U.S.A.
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 11-1 
+
+11 SAMPLE PREPARATION, ANALYSES AND 
+SECURITY 
+HISTORICAL SAMPLING METHODS 
+
+RADIOMETRIC LOGGING  
+Upon completion of drilling, each drill hole on the Project was logged with a suite of geophysical 
+
+tools including natural-gamma, spontaneous potential (SP), and resistivity.  Use of a 
+
+radiometric probe to measure the natural gamma radiation allows for an indirect estimate of 
+
+uranium content to be made (eU3O8).  The SP and resistivity curves assist with determination 
+
+and correlation of the sedimentary horizons, i.e., sandstone/shale boundaries, between drill 
+
+holes.  Downhole natural gamma data from 305 historic drill holes with a total logged length of 
+
+648,702 ft was used for the Crownpoint Mineral Resource estimate. 
+
+ 
+
+The geophysical tools were maintained by specialized logging companies in the USA including 
+
+Century Geophysical Corp., Dalton Well Logging Services, Geosciences Associates, 
+
+Computer Logging Inc., and Western Wireline Corp. 
+
+ 
+
+GAMMA-RAY LOGGING 
+Probing with a gamma logging unit employing a natural gamma probe was completed 
+
+systematically on every drill hole.  The probe measures natural gamma radiation using one 0.5 
+
+in. by 1.5 in. sodium iodide (NaI) crystal assembly.  Normally, accurate concentrations can be 
+
+measured in uranium grades ranging from less than 0.1% U3O8 to as high as 5% U3O8.  Data 
+
+are logged at a speed of 15 ft to 20 ft per minute up hole, typically in open holes.  Occasionally, 
+
+unstable holes are logged through the drill pipe and the grades are adjusted for the material 
+
+type and wall thickness of the pipe used. 
+
+ 
+
+The radiometric or gamma probe measures gamma radiation which is emitted during the 
+
+natural radioactive decay of uranium and variations in the natural radioactivity originating from 
+
+changes in concentrations of the trace element thorium as well as changes in concentration of 
+
+the major rock forming element potassium.   
+
+ 
+
+Potassium decays into two stable isotopes, argon and calcium, which are no longer 
+
+radioactive, and emits gamma rays with energies of 1.46 MeV.  Uranium and thorium, however, 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 11-2 
+
+decay into daughter products which are unstable, i.e., radioactive.  The decay of uranium forms 
+
+a series of about a dozen radioactive elements in nature which finally decay to a stable isotope 
+
+of lead.  The decay of thorium forms a similar series of radioelements.  As each radioelement 
+
+in the series decays, it is accompanied by emissions of alpha or beta particles, or gamma rays.  
+
+The gamma rays have specific energies associated with the decaying radionuclide.  The most 
+
+prominent of the gamma rays in the uranium series originate from decay of bismuth-214, and 
+
+in the thorium series from decay of thallium-208.   
+
+ 
+
+The natural gamma measurement is made when a detector emits a pulse of light when struck 
+
+by a gamma ray.  This pulse of light is amplified by a photomultiplier tube, which outputs a 
+
+current pulse, accumulated and reported as counts per second (cps).  The gamma probe is 
+
+lowered to the bottom of a drill hole and data are recorded as the tool travels to the bottom and 
+
+then is pulled back up to the surface.  The current pulse is carried up a conductive cable and 
+
+processed by a logging system computer, which stores the raw gamma cps data. 
+
+ 
+
+The basis of the indirect uranium grade calculation referred to as "eU3O8" (for "equivalent 
+
+U3O8") is the sensitivity of the detector used in the probe, which is the ratio of cps to known 
+
+uranium grade and is referred to as the probe calibration factor.  Each detector's sensitivity is 
+
+measured when it is first manufactured and is also periodically checked throughout the 
+
+operating life of each probe against a known set of standard "test pits," with various known 
+
+grades of uranium mineralization or through empirical calculations.  Application of the 
+
+calibration factor, along with other probe correction factors, allows for immediate grade 
+
+estimation in the field as each drill hole is logged. 
+
+ 
+
+Downhole total gamma data are subjected to a complex set of mathematical equations, taking 
+
+into account the specific parameters of the probe used, speed of logging, size of bore hole, 
+
+drilling fluids, and presence or absence of any type of drill hole casing.  The result is an indirect 
+
+measurement of uranium content within the sphere of measurement of the gamma detector. 
+
+ 
+
+The conversion coefficients for conversion of probe cps to % eU3O8 grades are based on the 
+
+calibration results obtained at certified calibration facilities operated by the US AEC, now US 
+
+Department of Energy (DOE), in Grants, New Mexico, and Grand Junction, Colorado.  Other 
+
+test pits exist in Casper, Wyoming and George West, Texas.  Calibration results of appropriate 
+
+water factors, pipe-factors, K-factors, and dead times were typically noted on the gamma logs 
+
+or accompanying data sheets. 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 11-3 
+
+EQUIVALENT URANIUM GRADE CALCULATION 
+For all of the gamma logs available at the Project, the grade percentage intercepts were 
+
+reinterpreted.  Each of the gamma log files contained data sheets noting gamma cps at 0.5 ft 
+
+intervals.  The data was entered into Excel files and the gamma cps were then converted to 
+
+grade percent eU3O8 using the appropriate K-factors, water factors, and dead times for each 
+
+of the geophysical probes used.  The cps for each gamma log was generated by the former 
+
+operators of the Project, typically using the Gamlog program or calculated directly from the 
+
+logging companies' output gamma cps data sheets at 0.5 ft intervals.  
+
+ 
+
+Future exploration should include washing out of several of the older holes and re-probing 
+
+using modern gamma tools for additional confirmation of the older gamma log results. 
+
+ 
+
+In RPA's opinion, the drilling, logging, sampling, and conversion and recovery factors at 
+
+Crownpoint meet or exceed industry standards at the time and are adequate for use in the 
+
+estimation of Mineral Resources. 
+
+ 
+
+DISEQUILIBRIUM ANALYSIS 
+Radioactive isotopes lose energy by emitting radiation and transition to different isotopes in a 
+
+decay series or decay chain until they reach a stable non-radioactive state.  Decay chain 
+
+isotopes are referred to as daughters of the parent isotope.  Uranium grade is determined 
+
+radiometrically by measuring the radioactivity levels of certain daughter products formed 
+
+during radioactive decay of uranium atoms.  Most of the gamma radiation emitted by nuclides 
+
+in the uranium decay series is from daughter products in the series.  When all the decay 
+
+products are maintained in close association with uranium-238 for the order of a million years, 
+
+the daughter isotopes will be in equilibrium with the parent.  Disequilibrium occurs when one 
+
+or more decay products is dispersed as a result of differences in solubility between uranium 
+
+and its daughters, and/or escape of radon gas. 
+
+ 
+
+Knowledge of, and correction for, disequilibrium is important for deposits for which the grade 
+
+is measured by gamma-ray probes, which measure daughter products of uranium.  Where 
+
+daughter products are in equilibrium with the parent uranium atoms, the gamma-ray logging 
+
+method will provide an accurate measure of the amount of parent uranium that is present.  A 
+
+state of disequilibrium may exist where uranium has been remobilized and daughter products 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 11-4 
+
+remain after the uranium has been depleted, or where uranium occurs and no daughter 
+
+products are present.  Where disequilibrium exists, the amount of parent uranium present can 
+
+be either underestimated or overestimated.  It is important to obtain representative samples of 
+
+the uranium mineralization to confirm the radiometric estimate by chemical methods. 
+
+ 
+
+Disequilibrium is determined by comparing uranium grades measured by chemical analyses 
+
+with the "gamma only" radiometric grade of the same samples measured in a laboratory.  Core 
+
+is sampled over mineralized intervals as determined by a hand-held Geiger counter or 
+
+scintillometer to define mineralized boundaries.  Core intervals are split and sampled.  Each 
+
+sample is crushed and pulverized, and then two, separate assays are made of the same pulps; 
+
+a scaler-radiometric or closed can radiometric log and a chemical assay.  The disequilibrium 
+
+factor is the ratio of the actual amount of uranium measured by chemical assay to the 
+
+calculated amount based on the gamma-ray activity of daughters.  Disequilibrium is considered 
+
+positive when there is a higher proportion of uranium present compared to daughters.  This is 
+
+the case where decay products have been transported elsewhere or uranium has been added 
+
+by, for example, secondary enrichment.  Positive disequilibrium has a disequilibrium factor 
+
+which is greater than 1.0 and the calculated values are under estimating the quantity of 
+
+uranium.  Disequilibrium is considered negative where daughters are accumulated and 
+
+uranium is depleted and the calculated values are overestimating the quantity of uranium.  This 
+
+negative disequilibrium has a disequilibrium factor of less than 1.0 but greater than zero. 
+
+ 
+
+There are practical difficulties in comparing chemical analyses of uranium from drill hole 
+
+samples with corresponding values from borehole gamma logging, because of the difference 
+
+in sample size between drill core average grades in core or chip samples and radiometric 
+
+probe measurements of gamma response from spheres of influence up to three feet in 
+
+diameter.  Probe calibration and/or assay errors may also be misinterpreted as disequilibrium.  
+
+If the gamma radiation emitted by the daughter products of uranium is in balance with the 
+
+actual uranium content of the measured interval assay, uranium grade can be calculated solely 
+
+from the gamma intensity measurement. 
+
+ 
+
+The degree of disequilibrium will vary with the mineralogy of the radioactive elements and their 
+
+surroundings which may create a reducing or oxidizing environment, climate, topography, and 
+
+surface hydrology. 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 11-5 
+
+The sample volume will also affect the determination of disequilibrium, as a small core sample 
+
+is more likely to show extreme disequilibrium than a larger bulk sample.  In some cases, the 
+
+parents and daughters may have moved apart over the length of a sample, but not over a 
+
+larger scale, such as the mineralized interval.  
+
+ 
+
+In addition to mill and ISR amenability studies, core was retrieved from across the Project area 
+
+to determine the potential for disequilibrium.  Pertaining to the Crownpoint deposits, the 
+
+uranium-bearing host rocks are of Jurassic age, greater than 140 million years, and the 
+
+uranium mineralization is believed to be of similar to slightly younger age (Wentworth et al., 
+
+1980), both of which are significantly older than the approximate one million years necessary 
+
+for daughter products to reach equilibrium with the initial uranium mineralization.  However, 
+
+since the Crownpoint deposits are saturated in groundwater aquifers, the potential for 
+
+remobilization by oxygenated waters is possible.   
+
+ 
+
+The limited number of disequilibrium analysis reports provided by Laramide show that it is 
+
+realistic to assume that the deposit is in equilibrium or slightly in favour of chemical grade 
+
+(enriched), however, the data do not necessarily represent characteristics of the entire deposit.  
+
+Therefore, no adjustment for disequilibrium in the deposit was made for this resource estimate 
+
+(equilibrium factor = 1.0). 
+
+ 
+
+Although there is a low risk of depletion of chemical uranium compared to radiometric uranium 
+
+in the Crownpoint mineralization, RPA is of the opinion that there is the potential for areas of 
+
+negative and positive equilibrium across the mineralized fronts, and that future exploration 
+
+drilling and core retrieval target areas of oxidized and reduced mineralization.  Laramide should 
+
+also utilize industry standard quality assurance/quality control (QA/QC) for future exploration 
+
+drilling and sampling, e.g., notation of gamma tool calibrations, core assays with blanks and 
+
+third-party analyses, twinning or re-entry and re-logging of old holes, or specialized logging 
+
+tools such as Prompt-Fission-Neutron. 
+
+ 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 12-1 
+
+12 DATA VERIFICATION 
+AUDIT OF DRILL HOLE DATABASE 
+RPA conducted a series of verification tests on the digitized database and files provided by 
+
+Laramide.  The specific review tasks include:  
+
+ 
+• Inspected drill hole summaries, drill hole location maps, cross-sections, grade by 
+
+thickness (GT) contour, and other resource maps. 
+ 
+
+• Examined mine plan reports, survey documents, metallurgical and disequilibrium 
+studies, and ISR amenability and hydrologic reports. 
+ 
+
+• Checked collar table: searched for incorrect or duplicate collar coordinates and 
+duplicate hole IDs, property boundary limits, and a visual search for extreme survey 
+values. 
+ 
+
+• Checked survey table: searched for duplicate entries, survey points past the specified 
+maximum depth in the collar table, and abnormal dips and azimuths. 
+ 
+
+• Checked lithology table: searched for duplicate entries, intervals past the specified 
+maximum depth in the collar table, overlapping intervals, negative lengths, missing 
+collar data, missing intervals, and incorrect logging codes. 
+ 
+
+• Checked assay table: searched for duplicate entries, sample intervals past the 
+specified maximum depth, negative lengths, overlapping intervals, sampling lengths 
+exceeding tolerance levels, missing collar data, missing intervals, and duplicated 
+sample IDs. 
+
+ 
+
+Independent verification of the historical laboratory results was not performed due to the 
+
+unavailability of the core samples. 
+
+ 
+
+SITE VISIT 
+Mr. Mark Mathisen, CPG, visited the Project on August 17, 2017 accompanied by J. Mersch 
+
+Ward, consulting geologist to Laramide.  Historical drill sites, monitor wells, access routes, 
+
+representative outcrops of the mineralized sand horizons located up-dip of the Project, and 
+
+former mining infrastructure at the Section 24 property were inspected. 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 12-2 
+
+INDEPENDENT VERIFICATION OF ASSAY TABLE 
+Verification of the gamma-logs and resulting grade % eU3O8 calculations were also completed.  
+
+RPA inspected at least twenty geophysical logs for Section 9 and Section 24 for accuracy of 
+
+the lithologic breaks, depths to sandstone/shales, and equivalent grade conversions.  No major 
+
+discrepancies were found based on a review of the available data. 
+
+ 
+
+RPA is of the opinion that database verification procedures for the Crownpoint Uranium Project 
+
+comply with industry standards and are adequate for the purposes of Mineral Resource 
+
+estimation. 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 13-1 
+
+13 MINERAL PROCESSING AND 
+METALLURGICAL TESTING 
+Across the Project, core holes were drilled for mill amenability, compressive strength, density, 
+
+ISR amenability and processing, post-ISR restoration, and disequilibrium studies.  The 
+
+following summarizes a core leach study at the Section 24 property conducted in 1990-1991 
+
+by URI, developed to determine the amenability of the Project deposits to ISR techniques 
+
+(Hazen Research Inc., 1991). 
+
+ 
+
+CORE LEACH STUDY, SECTION 24 
+As part of its 1990-1991 ISR-mine permitting work, URI conducted core drilling across the 
+
+Section 24 property.  Drill core was studied to demonstrate the amenability of the mineralized 
+
+sandstone to ISR of uranium and to determine leach chemistry and expected recovery rates.  
+
+Testing was also completed to demonstrate that the groundwater could be restored to pre-
+
+mining conditions.  
+
+ 
+
+Tests were conducted on one cored hole, DH-24-CP8 (4.71/99.45) recovered from the 
+mineralized Jmw-B sand.  Core tests were performed by Hazen Research Inc. of Golden, 
+
+Colorado, in order to predict which ions and trace elements would be elevated during recovery 
+
+operations.  Two column leach tests were performed on core from CP-8 by URI's laboratory in 
+
+Kingsville, Texas: one at a rate simulating actual leach solution flow rates and the other at an 
+
+accelerated rate; and the analytical work was conducted by Jordan Laboratories of Corpus 
+
+Christi, Texas.  Water utilized in the leach tests was recovered from aquifers containing 
+
+uranium mineralization.  
+
+ 
+
+At the conclusion of the leaching phase, a restoration test was undertaken.  A simulated 
+
+reverse osmosis test was completed and showed that common ions, including HCO3, Cl and 
+
+Ca, as well as conductivity, were readily restored to baseline drinking water standards.   
+
+ 
+
+Results of the core and leach studies indicate that the Crownpoint deposits are amenable to 
+
+ISR techniques utilizing the local groundwater fortified with oxygen, sodium bicarbonate 
+
+(NaHCO3), and hydrogen peroxide (H2O2) leach solutions. 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 14-1 
+
+14 MINERAL RESOURCE ESTIMATE 
+RPA has estimated Mineral Resources for the Project based on results of several historical 
+
+surface rotary drilling campaigns from 1968 to 1990.  The Crownpoint Mineral Resource 
+
+estimate was completed utilizing the GT contour method, an industry standard for estimating 
+
+uranium roll-front type deposits hosted within groundwater-saturated sandstones.  The 
+
+mineralization at the Project has been previously shown to be amenable to ISR techniques. 
+
+ 
+
+The Mineral Resource estimate for the Project was prepared to conform to Canadian Institute 
+
+of Mining, Metallurgy and Petroleum Definition Standards for Mineral Resources and Reserves 
+
+dated May 10, 2014 (CIM (2014) definitions) as incorporated by reference in NI 43-101 and 
+
+was completed by RPA with the assistance of Laramide's technical team.  The Mineral 
+
+Resource estimate also satisfies the requirements of the Australasian Code for Reporting of 
+
+Exploration Results, Minerals Resources and Ore Reserves (JORC Code 2012 Edition) for 
+
+Australian Securities Exchange compliance. 
+
+ 
+
+Tables 14-1 and 14-2 summarize the Mineral Resource estimate for the Project prepared by 
+
+RPA, based on drill hole data available as of September 1, 2018.  Due to the historical nature 
+
+of the data, the classification of Mineral Resources on the Project is limited to Inferred, until 
+
+new confirmation data can be obtained.  Laramide controls 100% of the mineral resource in 
+
+the NW ¼ of Section 9, SW ¼ of Section 24 and NE ¼ of Section 25, and a 40% controlling 
+
+interest across most of the SE ¼ of Section 24.  Figure 14-1 shows a breakdown of Laramide's 
+
+controlling interest across the Project.  Using a 0.5 ft-% eU3O8 GT cut-off, Inferred Mineral 
+
+Resources with an effective date of October 24, 2018, total 4.2 million tons at an average 
+
+grade of 0.106% eU3O8 containing 8.9 million pounds U3O8 of which Laramide controls 2.5 
+
+million tons at an average grade of 0.102% eU3O8 containing 5.1 million pounds U3O8. 
+
+ 
+
+No Mineral Reserves have been estimated for the Project. 
+
+ 
+
+RPA is not aware of any environmental, permitting, legal, title, taxation, socio-economic, 
+
+marketing, political, or other relevant factors that could materially affect the Mineral Resource 
+
+estimate. 
+
+  
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 14-2 
+
+TABLE 14-1   SUMMARY OF MINERAL RESOURCES BY SAND UNIT – 
+OCTOBER 24, 2018 
+
+Laramide Resources Ltd. – Crownpoint Uranium Project 
+   
+
+Total Resource Laramide Controlled Resource 
+Classification Sand Unit Tonnage Grade Contained Metal Tonnage Grade Contained Metal % Controlled 
+
+  (000 Tons) (% eU3O8) (000 lbs U3O8) (000 Tons) (% eU3O8) (000 lbs U3O8)  
+Inferred Jmw A Sand 436 0.091 797 416 0.091 753 94.4% 
+ Jmw B Sand 907 0.099 1,802 655 0.099 1,300 72.1% 
+ Jmw C Sand 444 0.088 784 250 0.092 458 58.4% 
+ Jmw D Sand 179 0.114 408 115 0.108 249 61.0% 
+  Jmw E Sand 2,198 0.114 5,006 1,061 0.109 2,320 46.3% 
+Total Inferred  4,163 0.106 8,798 2,497 0.102 5,079 57.7% 
+
+ 
+
+TABLE 14-2   SUMMARY OF MINERAL RESOURCES BY SECTION – 
+OCTOBER 24, 2018 
+
+Laramide Resources Ltd. – Crownpoint Uranium Project 
+   
+
+Total Resource Laramide Controlled Resource 
+Classification Section Tonnage Grade Contained Metal Tonnage Grade Contained Metal % Controlled 
+
+ T17N, R13W (000 Tons) (% eU3O8) (000 lbs U3O8) (000s Tons) (% eU3O8) (000s lbs U3O8)  
+Inferred NW¼ Section 9 675 0.096 1,293 675 0.096 1,293 100.0% 
+ S½ Section 24 3,466 0.108 7,468 1,800 0.104 3,749 50.2% 
+  NE¼ Section 25 23 0.076 35 23 0.076 35 100.0% 
+Total Inferred  4,163 0.106 8,798 2,497 0.102 5,079 57.7% 
+
+ 
+Notes for Tables 14-1 and 14-2: 
+
+1. CIM (2014) definitions were followed for Mineral Resources. 
+2. Mineral Resources are reported at a GT cut-off of 0.5 ft-% eU3O8. 
+3. A minimum thickness of 2.0 ft was used. 
+4. A minimum cut-off grade of 0.03% eU3O8 based on historic mining costs and parameters from the 
+
+district was used. 
+5. Internal maximum dilution of 5.0 ft was used. 
+6. Grade values have not been adjusted for disequilibrium. 
+7. Tonnage factor of 15 ft3/ton is based on the tonnage factor historically used by the mining operators in 
+
+the area. 
+8. Mineralized areas defined by isolated or widely spaced drill holes were excluded from the estimate. 
+9. Numbers may not add due to rounding. 
+
+ 
+
+  
+
+
+
+Laramide Resource 40% Control
+
+Legend:
+
+Drill Hole
+
+Laramide Resource 100% Control
+
+N
+
+November 2018 Source: RPA, 2018.
+
+Laramide Resources Ltd.
+
+Crownpoint Project
+
+Laramide Resource
+Controlling Interest
+
+Figure 14-1
+
+0 2
+
+Miles
+
+1
+McKinley County, New Mexico, U.S.A.
+
+14
+-3
+
+w
+w
+
+w
+.rp
+
+a
+c
+a
+n
+
+.c
+o
+
+m
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 14-4 
+
+RESOURCE DATABASE 
+RPA was supplied with a drill hole database for the Project by Laramide in Microsoft Excel 
+
+format.  The Crownpoint drill hole database dated September 1, 2018 was comprised of 305 
+
+holes totalling 648,702 ft logged completed from 1968 to 1990, and included drill hole collar 
+
+locations, including dip and azimuth, radiometric probe, and lithology data.  For each individual 
+
+gamma log with mineralized sand zones, the grade % U3O8 data was accumulated at a 
+
+minimum thickness of 2 ft at ≥0.03% eU3O8.  Drill holes immediately adjacent to the Section 9 
+
+and 24 properties were utilized to assist in extending the roll-front features to property 
+
+boundaries.  Mineralization outside of Laramide's Project boundary was not included in the 
+
+reported Mineral Resource estimates.  A summary of the available data used in the modelling 
+
+of mineralization is presented in Table 14-3. 
+
+ 
+
+TABLE 14-3   SUMMARY OF AVAILABLE DRILL HOLE DATA 
+Laramide Resources Ltd. – Crownpoint Uranium Project 
+
+ 
+
+Area # Holes Total Depth (ft) Average Depth (ft) 
+# of Records 
+
+Survey Lithology Probe GT1 
+NW¼ Section 9 79 172,814 2,185 79 982 1,457 94 
+S½ Section 24 226 475,888 2,126 226 3,203 5,923 367 
+Grand Total 305 648,702 2,127 305 4,185 7,380 461 
+ 
+Note: 1: Total of grade x thickness (GT) 2 ft at ≥0.03% 
+
+    
+
+ 
+
+GEOLOGICAL INTERPRETATION 
+Uranium mineralization at the Project is hosted within sandstone units of the Jurassic Morrison 
+
+Formation (Westwater Canyon Member: Jmw A to Jmw E sands) of western New Mexico.  
+
+Tabular primary uranium mineralization and secondary mineralization remobilized into 
+
+"Wyoming-type" roll-front deposits.  The deposits are distributed across a regional interface of 
+
+oxidized and reduced environments, forming irregular and sinuous shaped deposits that 
+
+extend across the Project area.  Depth to mineralization varies from 1,775 ft to 2,140 ft, 
+
+depending on which sand unit is mineralized, topography, and the gentle northerly dip of the 
+
+strata (1° to 3°). 
+
+ 
+
+RPA carried out a detailed correlation of the sand units in the 305 drill holes available for 
+
+the Crownpoint deposit using Leapfrog software.  Correlation of the lithology logs was 
+
+accomplished using commonly accepted subsurface exploration methods with a primary 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 14-5 
+
+emphasis on identifying sands and interbedded shales and assigning them "formation" marker 
+
+designations, as interpreted by Laramide geologists.  RPA constructed a Project wide 
+
+stratigraphic model that was used to define which sand unit each mineralized zone belonged 
+
+to. 
+
+ 
+
+RPA recognizes that uranium mineralization at the Project occurs within and proximal to five 
+
+individual uranium bearing sand packages (Jmw A to Jmw E sands) across the Project that 
+
+show varying degrees of interbedded clay beds, and hematite alteration.  The mineralization 
+
+consists predominantly of coffinite.  There is evidence that mineralization within the individual 
+
+sand units occurs as a series of one to three stacked roll-fronts, with the Jmw B and Jmw E 
+
+sands at Section 24 hosting higher grade, thicker, and more continuous mineralization than 
+
+the others as defined by the drilling (Figure 14-2). 
+
+ 
+
+The stratigraphic interpretation was used to constrain the Mineral Resource estimate for each 
+
+sand unit.  RPA was also provided with a map of the redox front for each sand unit, which was 
+
+used to interpret the trend of the mineralized deposits, in particular the thickest parts of the 
+
+roll-fronts. 
+
+ 
+
+
+
+Jmb
+
+Legend:
+
+Jmw A Sand
+
+0 1 5
+
+Miles
+
+2 3 4
+
+November 2018 Source: RPA, 2018.
+
+Laramide Resources Ltd.
+
+Crownpoint Project
+
+Geologic Cross Section
+
+Jmw B Sand
+
+Jmw C Sand
+
+Jmw D Sand
+
+Kd
+
+Lithology Unit
+
+Jmw E Sand
+
+Jmw F Sand
+
+Jmw G Sand
+
+Jmw H Sand
+
+Figure 14-2
+
+McKinley County, New Mexico, U.S.A.
+
+NAD 27, New Mexico West, State Plane
+
+14
+-6
+
+w
+w
+
+w
+.rp
+
+a
+c
+a
+n
+
+.c
+o
+
+m
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 14-7 
+
+TREATMENT OF HIGH GRADE ASSAYS 
+
+CAPPING LEVELS 
+Where the assay distribution is skewed positively or approaches log-normal, erratic high-grade 
+
+assay values can have a disproportionate effect on the average grade of a deposit.  One 
+
+method of treating these outliers in order to reduce their influence on the average grade is to 
+
+cut or cap them at a specific grade level.  In the absence of production data to calibrate the 
+
+capping level, inspection of the assay distribution can be used to estimate a "first pass" cutting 
+
+level. 
+
+ 
+
+RPA uses a number of industry practice methods to assess the influence of high grade uranium 
+
+assays, and to determine if they will have undue influence on the resultant resource estimation.  
+
+All mineralization intercepts located inside the mineralized sand units were used together to 
+
+assess the risk and determine whether a cap of high grade values was needed to limit their 
+
+influence within each mineralized zone.  Assay data were analyzed using a combination of 
+
+histogram, probability, percentile, and cutting curve plots (Figures 14-3 and 14-4).  RPA is of 
+
+the opinion that high grade capping is not required at this time, however, capping should be 
+
+reviewed once additional data have been collected. 
+
+ 
+
+FIGURE 14-3   HISTOGRAM OF U3O8 RESOURCE ASSAYS 
+ 
+
+ 
+
+0.0 0.1 0.2 0.3 0.4 0.5 0.6
+
+u_pct
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Fr
+eq
+
+ue
+nc
+
+y (
+%
+
+ o
+f 7
+
+17
+3)
+
+ u
+_p
+
+ct
+
+Cu
+m
+
+. F
+re
+
+qu
+en
+
+cy
+ (%
+
+ o
+f 7
+
+17
+3)
+
+ u
+_p
+
+ct
+mgm25 50 75
+
+count
+min
+
+max
+mean
+stdev
+
+skewness
+kurtosis
+variance
+
+CV
+geom mean
+
+25%
+median
+
+75%
+
+u_pct
+7173
+0.0202
+0.8084
+0.1032
+0.0904
+2.37
+7.59
+0.01
+0.88
+0.0785
+0.0441
+0.0705
+0.1271
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 14-8 
+
+FIGURE 14-4   LOG PROBABILITY PLOT GROUPED BY SECTION 
+ 
+
+ 
+ 
+
+COMPOSITING 
+Composites were created from the uncapped, raw assay values.  The minimum composite 
+
+length used during interpolation was chosen considering the predominant sampling length, the 
+
+minimum potential mining width, the style of mineralization, and the continuity of grade.  Given 
+
+this distribution, deposit type, and considering the width of the mineralization, RPA utilized the 
+
+following parameters for composites: 
+
+ 
+
+• Minimum cut-off grade:  300 ppm (0.03% eU3O8) 
+ 
+
+• Minimum thickness:  two feet 
+ 
+
+• Maximum interval waste thickness:  five feet.  This is the material between two 
+mineralized layers which can be included (absorbed) in one composite, provided the 
+composite grade is above the cut-off grade. 
+ 
+
+• Minimum GT value:  0.06 ft-% 
+ 
+
+Assays within the individual sand domains were composited starting at the first mineralized 
+
+sand boundary from the top of the sand unit and resetting at each new sand boundary.  
+
+0.02 0.05 0.1 0.2 0.5
+
+u_pct
+
+0.01
+
+0.1
+0.2
+0.5
+1
+2
+
+5
+10
+
+20
+30
+40
+50
+60
+70
+80
+
+90
+95
+
+98
+99
+
+99.5
+99.8
+99.9
+
+99.99
+
+ C
+u
+
+m
+u
+
+la
+t
+iv
+
+e
+ %
+
+Grouped by section
+
+   
+mgm25 50 75
+
+8
+
+9
+
+19
+
+24
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 14-9 
+
+Composites covered the whole mineralized interval in each sand unit and were not at a fixed 
+
+length (Figure 14-5).  Each composite had an average grade, a thickness, and a GT value, 
+
+which were used to contour each sand unit in each of Sections 9 and 24, as further described 
+
+below. 
+
+ 
+
+For this estimate, RPA did not discriminate between shale and sand units in this process.  
+
+Future resource estimates will have to discriminate between those units which are potentially 
+
+amenable and not amenable to ISR extraction. 
+
+ 
+
+FIGURE 14-5   HISTOGRAM OF COMPOSITE THICKNESS 
+ 
+
+ 
+
+SEARCH STRATEGY AND GRADE INTERPOLATION 
+PARAMETERS 
+Mineral Resources of the Crownpoint deposit have been estimated by RPA using the GT 
+
+contour method (Agnerian and Roscoe, 2001).  The GT method of resource estimation is a 
+
+technique best applied to estimate tonnage and average grade of relatively planar bodies, i.e., 
+
+where the two dimensions of the mineralized body are much greater than the third dimension.  
+
+For each of the five individual sand units, drill hole intercept composite values of grade, 
+
+thickness, and GT were plotted in plan view and contoured (Figures 14-6 through 14-13).  
+
+0 10 20 30 40 50 60 70 80
+
+thickness
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+Fr
+eq
+
+ue
+nc
+
+y (
+% 
+
+of
+ 3
+
+62
+)
+
+u_pct >= 0.02mgm
+
+count
+min
+
+max
+mean
+stdev
+
+skewness
+kurtosis
+variance
+
+CV
+geom mean
+
+thickness
+362
+2.000
+49.500
+10.798
+9.211
+1.65
+2.81
+84.84
+0.85
+7.734
+
+
+
+N NLegend:
+
+0.1 - 0.3
+
+Legend:
+
+2.0 - 5.0
+
+5.0 - 10
+
+10 - 20
+
+20 - 40
+
+Thickness
+
+40 - 60
+
+> 60
+
+0 300 1500
+
+Feet
+
+600 900 1200
+
+November 2018 Source: RPA, 2018.
+
+Laramide Resources Ltd.
+
+Crownpoint Project
+
+Section 9 A Sand GT
+Thickness Contours
+
+0.3 - 0.5
+
+0.5 - 1.0
+
+1.0 - 3.0
+
+Sand GT
+
+3.0 - 5.0
+
+> 5.0
+
+Figure 14-6
+
+McKinley County, New Mexico, U.S.A.
+
+14
+-10
+
+w
+w
+
+w
+.rp
+
+a
+c
+a
+n
+
+.c
+o
+
+m
+
+
+
+N NLegend:
+
+0.1 - 0.3
+
+Legend:
+
+2.0 - 5.0
+
+5.0 - 10
+
+10 - 20
+
+20 - 40
+
+Thickness
+
+40 - 60
+
+> 60
+
+0 300 1500
+
+Feet
+
+600 900 1200
+
+November 2018 Source: RPA, 2018.
+
+Laramide Resources Ltd.
+
+Crownpoint Project
+
+Section 9 B Sand GT
+Thickness Contours
+
+0.3 - 0.5
+
+0.5 - 1.0
+
+1.0 - 3.0
+
+Sand GT
+
+3.0 - 5.0
+
+> 5.0
+
+Figure 14-7
+
+McKinley County, New Mexico, U.S.A.
+
+14
+-11
+
+w
+w
+
+w
+.rp
+
+a
+c
+a
+n
+
+.c
+o
+
+m
+
+
+
+Legend:
+
+0.1 - 0.3
+
+N NLegend:
+
+2.0 - 5.0
+
+5.0 - 10
+
+10 - 20
+
+20 - 40
+
+Thickness
+
+40 - 60
+
+> 60
+
+0 300 1500
+
+Feet
+
+600 900 1200
+
+November 2018 Source: RPA, 2018.
+
+Laramide Resources Ltd.
+
+Crownpoint Project
+
+Section 9 C Sand GT
+Thickness Contours
+
+0.3 - 0.5
+
+0.5 - 1.0
+
+1.0 - 3.0
+
+Sand GT
+
+3.0 - 5.0
+
+> 5.0
+
+Figure 14-8
+
+McKinley County, New Mexico, U.S.A.
+
+14
+-1
+
+2
+
+w
+w
+
+w
+.rp
+
+a
+c
+a
+n
+
+.c
+o
+
+m
+
+
+
+Legend:
+
+0.1 - 0.3
+
+N
+
+N
+
+Legend:
+
+2.0 - 5.0
+
+5.0 - 10
+
+10 - 20
+
+20 - 40
+
+Thickness
+
+40 - 60
+
+> 60
+
+0 300 1500
+
+Feet
+
+600 900 1200
+
+0.3 - 0.5
+
+0.5 - 1.0
+
+1.0 - 3.0
+
+Sand GT
+
+3.0 - 5.0
+
+> 5.0
+
+November 2018 Source: RPA, 2018.
+
+Laramide Resources Ltd.
+
+Section 24 A Sand GT
+Thickness Contours
+
+Crownpoint Project
+McKinley County, New Mexico, U.S.A.
+
+Figure 14-9
+
+Laramide 40% Control
+
+Laramide 40% Control
+
+14-13
+
+www.rpacan.com
+
+
+
+Legend:
+
+0.1 - 0.3
+
+N
+
+N
+
+Legend:
+
+2.0 - 5.0
+
+5.0 - 10
+
+10 - 20
+
+20 - 40
+
+Thickness
+
+40 - 60
+
+> 60
+
+0 300 1500
+
+Feet
+
+600 900 1200
+
+0.3 - 0.5
+
+0.5 - 1.0
+
+1.0 - 3.0
+
+Sand GT
+
+3.0 - 5.0
+
+> 5.0
+
+November 2018 Source: RPA, 2018.
+
+Laramide Resources Ltd.
+
+Section 24 B Sand GT
+Thickness Contours
+
+Crownpoint Project
+McKinley County, New Mexico, U.S.A.
+
+Figure 14-10
+
+Laramide 40% Control
+
+Laramide 40% Control
+
+14-14
+
+www.rpacan.com
+
+
+
+Legend:
+
+0.1 - 0.3
+
+N
+
+N
+
+Legend:
+
+2.0 - 5.0
+
+5.0 - 10
+
+10 - 20
+
+20 - 40
+
+Thickness
+
+40 - 60
+
+> 60
+
+0 300 1500
+
+Feet
+
+600 900 1200
+
+0.3 - 0.5
+
+0.5 - 1.0
+
+1.0 - 3.0
+
+Sand GT
+
+3.0 - 5.0
+
+> 5.0
+
+November 2018 Source: RPA, 2018.
+
+Laramide Resources Ltd.
+
+Section 24 C Sand GT
+Thickness Contours
+
+Crownpoint Project
+McKinley County, New Mexico, U.S.A.
+
+Figure 14-11
+
+Laramide 40% Control
+
+Laramide 40% Control
+
+14-15
+
+www.rpacan.com
+
+
+
+Legend:
+
+0.1 - 0.3
+
+N
+
+N
+
+Legend:
+
+2.0 - 5.0
+
+5.0 - 10
+
+10 - 20
+
+20 - 40
+
+Thickness
+
+40 - 60
+
+> 60
+
+0 300 1500
+
+Feet
+
+600 900 1200
+
+0.3 - 0.5
+
+0.5 - 1.0
+
+1.0 - 3.0
+
+Sand GT
+
+3.0 - 5.0
+
+> 5.0
+
+November 2018 Source: RPA, 2018.
+
+Laramide Resources Ltd.
+
+Section 24 D Sand GT
+Thickness Contours
+
+Crownpoint Project
+McKinley County, New Mexico, U.S.A.
+
+Figure 14-12
+
+Laramide 40% Control
+
+Laramide 40% Control
+
+14-16
+
+www.rpacan.com
+
+
+
+Legend:
+
+0.1 - 0.3
+
+N
+
+N
+
+Legend:
+
+2.0 - 5.0
+
+5.0 - 10
+
+10 - 20
+
+20 - 40
+
+Thickness
+
+40 - 60
+
+> 60
+
+0 300 1500
+
+Feet
+
+600 900 1200
+
+0.3 - 0.5
+
+0.5 - 1.0
+
+1.0 - 3.0
+
+Sand GT
+
+3.0 - 5.0
+
+> 5.0
+
+November 2018 Source: RPA, 2018.
+
+Laramide Resources Ltd.
+
+Section 24 E Sand GT
+Thickness Contours
+
+Crownpoint Project
+McKinley County, New Mexico, U.S.A.
+
+Figure 14-13
+
+Laramide 40% Control
+
+Laramide 40% Control
+
+14-17
+
+www.rpacan.com
+
+
+
+www.rpacan.com 
+
+Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+Technical Report NI 43-101 – November 16, 2018 Page 14-18 
+
+Geometric (logarithmic) contour intervals of 0.03, 0.1, 0.3, 0.5, 1, and 3 were used for the GT 
+
+values because of the positively skewed statistical distribution of the grade and GT values.  
+
+Thickness was contoured in a linear progression at 5 ft, 10 ft, 15 ft, 20 ft, 25 ft, 30 ft, and 35 ft 
+
+intervals.  Weighted average grade of each composite was contoured in geometric intervals 
+
+including the minimum cut-off grade value of 0.02% eU3O8.  The 0.02% grade contour was 
+
+established as the outward limit for uranium mineralization to be considered as resource.   
+
+Contouring was completed by Laramide staff in part by hand and ArcGIS software and the 
+
+contours digitized.  The contours were inspected and, where necessary, manually adjusted or 
+
+re-contoured by RPA to match geological and mineralized trends.  The thickest and highest 
+
+GT values were generally associated with the redox front for each sand unit and RPA 
+
+contoured them along the trend of the redox front. 
+
+The areas between each GT and thickness contour intervals within the boundaries of the grade 
+
+contour of 0.02% eU3O8 were measured using ArcGIS software to calculate tons, contained 
+
+pounds, and grade for each sand unit and for each of Sections 9 and 24. 
+
+Areas for both GT and thickness contours were broken into individual "pods" and numbered 
+
+for final reconciliation of total resources.  Figure 14-14 shows an example of this numbering 
+
+sequence for the E Sand in the S½ of Section 24. 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 14-19 
+
+FIGURE 14-14   E SAND POD NUMBER SEQUENCE S½ SECTION 24 
+ 
+
+ 
+ 
+
+Tons were calculated from the contoured thickness data for each sand unit in each of Sections 
+
+9 and 24, inside of the 0.02% eU3O8 grade contour.  The area in square feet for each contour 
+
+interval was multiplied by a thickness value representative of the contour interval to obtain a 
+
+volume in cubic feet for each contour interval.  The volumes for each contour interval were 
+
+summed and divided by the density factor of 15 ft3/ton to obtain the total tonnage for each sand 
+
+unit in each section.  Table 14-4 is an example calculation sheet for tonnage.  The 
+
+representative thickness for each contour interval is the geometric mean of the interval limits 
+
+(Geo_Mean), which appears to better correspond to the average of all of the thickness values 
+
+within the contour interval than the mid-point. 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 14-20 
+
+TABLE 14-4   EXAMPLE OF TONS CALCULATION 
+E SAND – SECTION 24 
+
+Laramide Resources Ltd. – Crownpoint Uranium Project 
+ 
+
+Laramide % 
+Controlled Sand Pod Section 
+
+Thickness 
+(ft) 
+
+Area 
+(ft2) 
+
+Geo_Mean 
+(ft)  Total Tons  
+
+Laramide Controlled 
+Tons 
+
+40 E E2 24 2 495,377 3.16 104,435 41,774 
+40 E E2 24 5 525,518 7.07 247,732 99,093 
+40 E E2 24 10 748,387 14.14 705,586 282,234 
+40 E E2 24 20 496,163 28.28 935,574 374,230 
+40 E E2 24 40 78,404 44.33 231,727 92,691 
+
+100 E E1 24 2 11,966 3.16 2,523 2,523 
+100 E E1 24 5 1,270 7.07 599 599 
+100 E E2 24 2 413,094 3.16 87,088 87,088 
+100 E E2 24 5 354,989 7.07 167,343 167,343 
+100 E E2 24 10 255,663 14.14 241,041 241,041 
+100 E E2 24 20 14,620 28.28 27,568 27,568 
+100 E E2 24 40 361 44.33 1,067 1,067 
+
+ 
+
+Contained pounds of U3O8 were calculated from the contoured GT data for each sand unit in 
+
+each of Sections 9 and 24, inside of the 0.02% eU3O8 grade contour.  The area for each 
+
+contour interval was multiplied by a GT value representative of the contour interval.  The values 
+
+for each contour interval were summed and divided by the density factor of 15 ft3/ton to obtain 
+
+the total contained pounds for each sand unit in each section.  Table 14-5 is an example 
+
+calculation sheet for pounds.  The representative GT value for each contour interval is the 
+
+geometric mean of the interval limits, which appears to better correspond to the average of all 
+
+of the GT values and fits with the lognormal-like statistical distribution of GT and grade. 
+
+ 
+TABLE 14-5   EXAMPLE OF POUNDS CALCULATION 
+
+E SAND – SECTION 24 
+Laramide Resources Ltd. – Crownpoint Uranium Project 
+
+ 
+Laramide % 
+Controlled Sand Pod Section GT 
+
+Area 
+(ft2) 
+
+Geo_Mean 
+(GT)  
+
+Total 
+(lbs U3O8) 
+
+Laramide Controlled 
+(lbs U3O8) 
+
+40 E E2 24 0.1 475,357 0.17 109,779 43,912 
+40 E E2 24 0.3 330,691 0.39 170,768 68,307 
+40 E E2 24 0.5 413,250 0.71 389,616 155,846 
+40 E E2 24 1 708,806 1.73 1,636,917 654,767 
+40 E E2 24 3 283,671 3.87 1,464,871 585,948 
+40 E E2 24 5 132,402 5.82 1,028,175 411,270 
+
+100 E E1 24 0.1 9,525 0.17 2,200 2,200 
+100 E E1 24 0.3 3,759 0.39 1,941 1,941 
+100 E E2 24 0.1 368,737 0.17 85,156 85,156 
+100 E E2 24 0.3 229,761 0.39 118,648 118,648 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 14-21 
+
+Laramide % 
+Controlled Sand Pod Section GT 
+
+Area 
+(ft2) 
+
+Geo_Mean 
+(GT)  
+
+Total 
+(lbs U3O8) 
+
+Laramide Controlled 
+(lbs U3O8) 
+
+100 E E2 24 0.5 332,305 0.71 313,300 313,300 
+100 E E2 24 1 106,780 1.73 246,598 246,598 
+100 E E2 24 3 1,188 3.87 6,135 6,135 
+100 E E2 24 5 519 5.82 4,030 4,030 
+100 E E2 25 0.1 8,701 0.17 2,009 2,009 
+100 E E2 25 0.3 44,652 0.39 23,058 23,058 
+100 E E2 25 0.5 12,613 0.71 11,892 11,892 
+ 
+
+ALLOWANCE FOR WIDE SPACED DRILLING 
+Mineralized lenses defined by isolated or widely spaced drill holes were not included in the 
+
+final resource estimate, such as pods C6 though C11 (Figure 14-15). 
+
+ 
+
+RPA notes that typical roll-front mineralization does not usually present as pod type distribution 
+
+of mineralization as indicated in the C6 to C11 pods in the SW ¼ of Section 24 (Figure 14-15).  
+
+RPA is of the opinion that there is a high probability that additional drilling in this area will 
+
+confirm mineralization continuity between these pods. 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 14-22 
+
+FIGURE 14-15   C SAND POD NUMBER SEQUENCE S½ SECTION 24 
+ 
+
+ 
+ 
+
+BULK DENSITY 
+Historic bulk density records were reviewed for core samples across the Project; the densities 
+
+varied from 14 ft3/ton to 17 ft3/ton.  RPA assumed a tonnage factor of 15 ft3/ton, which was the 
+
+typical tonnage factor used by the prior operators including Conoco and Mobil at Crownpoint 
+
+for mineralized intervals in the Westwater Canyon Member sandstone units. 
+
+ 
+
+RPA considers the density factor of 15 ft3/ton to be reliable and reasonable for the resource 
+
+estimation. 
+ 
+
+CUT-OFF GRADE 
+RPA chose to use a 0.5 ft-% GT cut-off based on similar deposit types and ISR operations in 
+
+the USA and Australia (Table 14-6). 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 14-23 
+
+ 
+
+TABLE 14-6   COG COMPARISONS BY COMPANY AND DEPOSIT 
+Laramide Resources Ltd. – Crownpoint Uranium Project 
+
+ 
+Company Year Project Type Report Method  Grade %  GT  
+
+EnCore (Tigris) 2012 Crownpoint, NM NI 43-101 GT Contour 0.02 0.1 
+Comment: HRI's estimates from 2004: $11.46/lb direct; $13.46/lb direct + G&A 
+Alliance 2013 Four Mile, Aust JORC Table 1 seam model, w/ triangulation  0.05 0.1 
+Comment: %-m GT or 2 ft cut-off based on operating experience  
+UEC* 2014 Burke Hollow, TX NI 43-101 GT Contour 0.02 0.3 
+Comment: Relative to current ISR operations 
+Peninsula 2014 Lance, WY JORC Table 1 polygonal block model 0.02 0.2 
+Comment: Assumes ISR techniques will be used (currently in operation) 
+Azarga 2015 Dewey-Burdock, SD PEA NI 43-101 GT Contour 0.05 0.5 
+Comment: 0.5 (indicated), 0.2 (inferred) cut-offs are typical of ISR industry and current ISR operations 
+EFR* (Uranerz) 2015 Nichols Ranch, WY PEA NI 43-101 GT Contour 0.02 0.2 
+Comment: Similar operations, based on depths and operating conditions at the project 
+UR Energy 2016 Lost Ck, WY PEA NI 43-101 GT Contour 0.02 0.2 
+Comment: Based on operating experience, other demonstrated operations 
+UEC (AUC)* 2016 Reno Ck, WY PEA NI 43-101 2-D Delaunay triangulation 
+
+ 
+0.2 
+
+Comment: Consistent with those commonly used at other ISR project in the area 
+Boss 2016 Jason, Australia JORC Table 1 block model 0.025 
+
+ 
+
+Comment: Comparable with industry standards. Conservative vs. Kazakh cut-offs of 0.01% 
+EFR*  2016 Alta Mesa, TX NI 43-101 GT Contour 0.02 0.3 
+Comment: Used at similar operations 
+LARAMIDE 2017 Church Rock, NM NI 43-101 GT Contour 0.02 0.5 
+LARAMIDE 2018 Crownpoint, NM NI 43-101 GT Contour 0.03 0.5 
+Comment: Cut-off of 0.03% @ 2-ft easily conservative relative to all others (only Azarga and Alliance used higher 
+
+grade cut-offs).  
+ 
+Note *: UEC – Uranium Energy Corp., AUC – AUC LLC, EFR – Energy Fuels Inc. 
+
+ 
+
+CLASSIFICATION 
+Definitions for resource categories used in this report are consistent with those defined by CIM 
+
+(2014) and incorporated by reference in NI 43-101.  In the CIM classification, a Mineral 
+
+Resource is defined as "a concentration or occurrence of solid material of economic interest 
+
+in or on the Earth's crust in such form, grade or quality and quantity that there are reasonable 
+
+prospects for eventual economic extraction".  Mineral Resources are classified into Measured, 
+
+Indicated, and Inferred categories.  A Mineral Reserve is defined as the "economically 
+
+mineable part of a Measured and/or Indicated Mineral Resource" demonstrated by studies at 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 14-24 
+
+Pre-Feasibility or Feasibility level as appropriate.  Mineral Reserves are classified into Proven 
+
+and Probable categories. 
+
+ 
+
+The Mineral Resources have been classified on the basis of confidence in the drill hole assay 
+
+database, geological and grade continuity using the drilling density, geological model, and 
+
+modelled grade continuity.  The Mineral Resource is classified as Inferred based on the historic 
+
+nature of the data and drilling density along trends of the modelled deposits. 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 15-1 
+
+15 MINERAL RESERVE ESTIMATE 
+There are no current Mineral Reserves estimated for the Project. 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 16-1 
+
+16 MINING METHODS 
+This section is not applicable. 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 17-1 
+
+17 RECOVERY METHODS 
+This section is not applicable. 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 18-1 
+
+18 PROJECT INFRASTRUCTURE 
+This section is not applicable. 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 19-1 
+
+19 MARKET STUDIES AND CONTRACTS 
+This section is not applicable. 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 20-1 
+
+20 ENVIRONMENTAL STUDIES, PERMITTING, 
+AND SOCIAL OR COMMUNITY IMPACT 
+This section is not applicable. 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 21-1 
+
+21 CAPITAL AND OPERATING COSTS 
+This section is not applicable. 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 22-1 
+
+22 ECONOMIC ANALYSIS 
+This section is not applicable. 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 23-1 
+
+23 ADJACENT PROPERTIES 
+EnCore Energy Corp. (EnCore) holds a 60% interest in part of the southeast quarter of 
+
+Township 17 North, Range 13 West in which Laramide holds a 40% interest.  Encore also 
+
+holds a 100% interest in mineral rights in Sections 19 and 29 of Township 17 North, Range 12 
+
+West.   
+
+ 
+
+In 2012, EnCore (formerly Tigris Resource Corp.) filed a NI 43-101 Technical Report on Mineral 
+
+Resources of its Crownpoint and Hosta Butte Uranium Projects (Beahm, 2012).  Table 23-1 
+
+summarizes Mineral Resources on Encore's Crownpoint Project which comprises Sections 19, 
+
+29, and the portion of the southeast quarter of Section 24 in which it holds a 60% interest, as 
+
+reported in Beahm (2012).  RPA cautions that the information in Table 23-1, which shows total 
+
+resource and EnCore controlled resource, has not been verified by the author and is not 
+
+necessarily indicative of the mineralization on the Laramide property that is the subject of this 
+
+Technical Report. 
+
+ 
+
+TABLE 23-1   SUMMARY OF MINERAL RESOURCES AT CROWNPOINT 
+CONTROLLED BY ENCORE, MAY 14, 2012 
+
+Laramide Resources Ltd. – Crownpoint Uranium Project 
+  
+
+Total Resource1 EnCore Controlled2 
+Classification Tonnage Grade Contained Metal Tonnage Grade Contained Metal 
+
+ (000 Tons) (% eU3O8) (000 lbs U3O8) (000 Tons) (% eU3O8) (000 lbs U3O8) 
+Indicated 9,477 0.102 19,205 7,876 0.102 16,071 
+Inferred 743 0.105 1,562 712 0.105 1,508 
+Total Indicated + Inferred 10,220 0.102 20,767 8,588 0.102 17,579 
+
+ 
+Notes: 
+
+1. GT cut-off: Minimum Grade (% eU3O8) x Thickness (Feet) for Grade > 0.02 % eU3O8. 
+2. This tabulation shows the total Indicated and Inferred Mineral Resource and the portion thereof 
+
+controlled by EnCore, i.e., 100% of Sections 19 and 29, and 60% of Section 24 Pounds and tons as 
+reported are rounded to the nearest 1,000 
+
+ 
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 24-1 
+
+24 OTHER RELEVANT DATA AND  
+No additional information or explanation is necessary to make this Technical Report 
+
+understandable and not misleading. 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 25-1 
+
+25 INTERPRETATION AND CONCLUSIONS 
+RPA offers the following conclusions regarding the Crownpoint Project: 
+
+ 
+
+• The Project is a significant uranium deposit of low to moderate grade. 
+ 
+
+• The uranium mineralization consists of a series of stacked roll front deposits. 
+ 
+
+• Drilling to date has intersected localized, low to moderate grade mineralized zones 
+contained within five sandstone units of the of the Westwater Canyon Member of the 
+Morrison Formation. 
+ 
+
+• The sampling, sample preparation, and sample analysis programs are appropriate for 
+the style of mineralization. 
+ 
+
+• Although continuity of mineralization is variable, drilling to date confirms that local 
+continuity exists within individual sandstone units. 
+ 
+
+• No significant discrepancies were identified with the survey location, lithology, and 
+electric and gamma log interpretation data in historical holes.   
+ 
+
+• Descriptions of recent drilling programs, logging, and sampling procedures have been 
+well documented by Laramide, with no significant discrepancies identified. 
+ 
+
+• There is a low risk of depletion of chemical uranium compared to radiometrically 
+determined uranium in the Crownpoint mineralization. 
+ 
+
+• The resource database is valid and suitable for Mineral Resource estimation. 
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 26-1 
+
+26 RECOMMENDATIONS 
+Historical drilling at the Crownpoint Project has outlined the presence of significant uranium 
+
+mineralization, which warrants further investigation. 
+
+ 
+
+Table 26-1 shows Laramide's proposed 2019 budget of $470,000 for exploration drilling in 
+
+areas of potential mineralization (specifically SW¼ of Section 24).  Washing out of several 
+
+historical holes and confirmatory geophysical logging are also planned for completion in 2019. 
+
+ 
+TABLE 26-1   PROPOSED BUDGET 
+
+Laramide Resources Ltd. – Church Rock Project 
+ 
+
+Item US$ 
+Drilling:  
+12 exploration holes (approximately 2,000 ft deep) 360,000 
+Geophysical logging (12 holes) 30,000 
+Permitting activities (floral, faunal, access) 10,000 
+Geologic support for drilling/coring activities 25,000 
+Sub-total 425,000 
+Contingency 45,000 
+Total 470,000 
+
+ 
+
+RPA makes the following recommendations for future resource estimation updates and in 
+
+support of Laramide's proposed 2019 budget: 
+
+ 
+GEOLOGY 
+
+• Although there is a low risk of depletion of chemical uranium compared to 
+radiometrically determined uranium in the Crownpoint mineralization, additional 
+sampling and analyses should be completed to supplement results of the limited 
+disequilibrium testing to date. 
+ 
+
+• Additional confirmation drilling should be completed at the earliest opportunity to 
+confirm historical drill hole data on all zones.  RPA recommends that 10% of the holes 
+be core holes in support of chemical assay for grade and equilibrium analysis 
+
+ 
+MINERAL RESOURCES 
+
+• A suite of bulk density samples should be collected over the Project area, for each 
+lithology type and grade range. 
+ 
+
+• Exploration should be planned for areas noted in the Technical Report where wide-
+spaced drilling previously identified potential mineralization.  This drilling, in conjunction 
+with the core studies, may lead to areas of the present Inferred Mineral Resource to be 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 26-2 
+
+upgraded to Indicated Mineral Resources, and the potential discovery of additional 
+mineral resources. 
+
+ 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 27-1 
+
+27 REFERENCES 
+PUBLISHED REFERENCES 
+Alliance Resource Ltd., Four Mile Mineral Resource Estimate Compliance with JORC Code 
+
+(2012) Table 1 (November 23, 2013) 
+ 
+Beahm, D. L., 2012, Crownpoint and Hosta Butte Uranium Project, McKinley County, New 
+
+Mexico, USA, Mineral Resource Technical Report, NI 43-101 prepared by BRS 
+Engineering for Tigris Uranium Corp. (May 14, 2012) 
+
+ 
+Beahm, D.L., Goranson, P., 2015, Nichols Ranch Uranium Project 43-101 Technical Report 
+
+Preliminary Economic Assessment, prepared for Uranerz Energy Corporation by BRS 
+Engineering and Uranerz Energy Corporation (February 28, 2015) 
+
+ 
+Beahm, D.L., 2016, Alta Mesa Uranium Project, Alta Mesa and Mesteña Grande Mineral 
+
+Resources and Exploration Target, Technical Report National Instrument 43-101, prepared 
+for EFR Alta Mesa LLC (a Wholly Owned Subsidiary of Energy Fuels Inc.) by BRS 
+Engineering (July 19, 2016) 
+
+ 
+Boss Resources Limited, ASX Announcement Maiden Resource of 5.2MLB for Jason's 
+
+Deposit at Honeymoon Uranium Project with JORC Code (2012) Table 1 (June 14, 2016) 
+ 
+Canadian Institute of Mining, Metallurgy, and Petroleum (CIM), 2014, CIM Definition of 
+
+Standards for Mineral Resources and Mineral Reserves, adopted by CIM on May 10, 2014 
+ 
+Clark, D.S., 1980, Uranium Ore Rolls in Westwater Canyon Sandstone, San Juan Basin, New 
+
+Mexico, in Geology and Mineral Technology of the Grants Uranium Region 1979:  C.A. 
+Rautman, editor; New Mexico Bureau of Mines and Mineral Resources, Memoir 38, pp. 
+195-207. 
+
+ 
+Dillinger, J.K., 1990, Geologic and Structure Contour Maps of the Gallup 30' x 60' Quadrangle, 
+
+McKinley County, New Mexico:  U.S. Geological Survey Miscellaneous Investigations 
+Series Map I-2009, scale 1:100,000, 2 plates.  
+
+ 
+Fitch, D.C., 2005, Technical Report on the Strathmore Church Rock Uranium Property, 
+
+McKinley County, New Mexico, prepared for Strathmore Minerals Corp, 59 p. (December 
+20, 2005) 
+
+ 
+Galloway, W.E., 1980, Deposition and Early Hydrologic Evolution of Westwater Canyon Wet 
+
+Alluvial-Fan System, in Geology and Mineral Technology of the Grants Uranium Region 
+1979:  C.A. Rautman, editor; New Mexico Bureau of Mines and Mineral Resources, Memoir 
+38, pp. 59-69. 
+
+ 
+Gibbs, B.L., Maxwell, R.D., 2016, Technical Report and Audit of Resources of the Reno Creek 
+
+ISR Project, Campbell County, Wyoming, USA, prepared for AUC LLC by Behre Dolbear 
+& Company (July 31, 2016) 
+
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 27-2 
+
+Graves, D.H., Cutler, S., 2015 NI 43-101 Technical Report Preliminary Economic Assessment 
+Dewey-Burdock Uranium ISR Project South Dakota, prepared for USA Azarga Uranium 
+Corp. by TREC, Inc. and Rough Stock Mining Services (January 29, 2015) 
+
+ 
+Graves, D.H., Bonner, J.A., 2016, Preliminary Economic Assessment of the Lost Creek 
+
+Property Sweetwater County, Wyoming, prepared for Ur-Energy Inc. by TREC, Inc. and 
+Ur-Energy Inc. (January 19, 2016) 
+
+ 
+Kurrus III, A.W., Yancey, C.L., 2014, Updated Technical Report, Burke Hollow Uranium 
+
+Project, Bee County, Texas, USA, NI 43-101 Technical Report UEC prepared by Uranium 
+Energy Corp. (December 29, 2014) 
+
+ 
+McLemore, V. T., and Chenoweth, W.L., 1989, Uranium resources in New Mexico: New 
+
+Mexico Bureau of Mines and Minerals Resources, Resource Map 18, 36 p. 
+ 
+McLemore, V. T., and Chenoweth, W.L., 2016, In situ recovery of sandstone-hosted uranium 
+
+deposits in New Mexico: past, present, and future issues and potential, New Mexico 
+Geology, November 2016, Volume 38, Number 4. 
+
+ 
+Peninsula Energy Limited, Company Announcement for Lance Projects with JORC Code 
+
+(2012) Table 1 (March 27, 2014) 
+ 
+RPA, 2017, Technical Report on the Church Rock Uranium Project, McKinley County, State of 
+
+New Mexico, U.S.A., prepared for Laramide Resources Ltd. by Mathisen, M. B. (November 
+14, 2017) 
+
+ 
+Saucier, A.E., 1980, Tertiary Oxidation in Westwater Canyon Member of Morrison Formation, 
+
+in Geology and Mineral Technology of the Grants Uranium Region 1979:  C.A. Rautman, 
+editor; New Mexico Bureau of Mines and Mineral Resources, Memoir 38, pp. 116-121. 
+
+ 
+US Nuclear Regulatory Commission, 1987, Final Environmental Impact Statement Docket No. 
+
+40-8968, Hydro Resources, Inc.) to Construct and Operate the Crownpoint Uranium 
+Solution Mining Project, Crownpoint, New Mexico:  NUREG-1508, US Nuclear Regulatory 
+Commission in cooperation with the US Bureau of Indian Affairs and US Bureau of Land 
+Management. 
+
+ 
+Wentworth, D.W., Porter, D.A., and Jensen, H.N., 1980, Geology of the Crownpoint Sec. 29 
+
+Uranium Deposit, McKinley County, in Geology and Mineral Technology of the Grants 
+Uranium Region 1979: C.A. Rautman, editor; New Mexico Bureau of Mines and Mineral 
+Resources, Memoir 38, pp. 139-144. 
+
+ 
+  
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 27-3 
+
+UNPUBLISHED REFERENCES 
+Behre-Dolbear, December 2007, URI Internal Memo:  Technical Report on the Crownpoint 
+
+Project for URI, Inc., 30p.  
+ 
+Chapman, Wood, and Griswold, April 1979: Estimates for Conoco's Crownpoint Uranium Ore 
+
+Reserves, Portions of Secs. 19 and 29, T17N-R12W, and Portion of Sec. 24, T17N-R13W, 
+McKinley County, New Mexico, for Wyoming Mineral Corporation (Westinghouse), 71p. 
+
+ 
+HRI, Inc., 1991, URI Internal Memo:  Crownpoint Core Analysis and Column Leach Study, 17p.   
+ 
+Lichnovsky, F., November 6, 1990, URI Internal Memo:  Crownpoint Reserves, SE/4 Section 
+
+24, Resource Estimates GT Contour Method: 12p. 
+ 
+Smith, D.A., November 1980, Geologic Investigation of the Crownpoint Uranium District, 
+
+McKinley County, New Mexico (UNC-Teton Exploration Drilling, Inc.), 131p. 
+ 
+ 
+ 
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 28-1 
+
+28 DATE AND SIGNATURE PAGE 
+This report titled "Technical Report on the Crownpoint Uranium Project, McKinley County, New 
+
+Mexico, USA" and dated November 16, 2018 was prepared and signed by the following author: 
+
+ 
+ 
+       (Signed and Sealed) "Mark B. Mathisen" 
+ 
+ 
+Dated at Lakewood, CO    
+November 16, 2018     Mark B. Mathisen, C.P.G. 
+       Principal Geologist 
+ 
+ 
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 29-1 
+
+29 CERTIFICATE OF QUALIFIED PERSON 
+MARK B. MATHISEN 
+I, Mark B. Mathisen, C.P.G., as the author of this report entitled "Technical Report on the 
+Crownpoint Uranium Project, McKinley County, New Mexico, USA" prepared for Laramide 
+Resources Ltd. and dated November 16, 2018, do hereby certify that: 
+ 
+1. I am Principal Geologist with RPA (USA) Ltd. of Suite 505, 143 Union Boulevard, 
+
+Lakewood, Co., USA  80228. 
+ 
+2. I am a graduate of Colorado School of Mines in 1984 with a B.Sc. degree in Geophysical 
+
+Engineering. 
+ 
+3. I am a Registered Professional Geologist in the State of Wyoming (No. PG-2821) and a 
+
+Certified Professional Geologist with the American Institute of Professional Geologists (No. 
+CPG-11648).  I have worked as a geologist for a total of 22 years since my graduation.  My 
+relevant experience for the purpose of the Technical Report is: 
+• Mineral Resource estimation and preparation of NI 43-101 Technical Reports. 
+• Director, Project Resources, with Denison Mines Corp., responsible for resource 
+
+evaluation and reporting for uranium projects in the USA, Canada, Africa, and 
+Mongolia. 
+
+• Project Geologist with Energy Fuels Nuclear, Inc., responsible for planning and 
+direction of field activities and project development for an in situ leach uranium project 
+in the USA.  Cost analysis software development. 
+
+• Design and direction of geophysical programs for US and international base metal and 
+gold exploration joint venture programs. 
+
+ 
+4. I have read the definition of "qualified person" set out in National Instrument 43-101 (NI 43-
+
+101) and certify that by reason of my education, affiliation with a professional association 
+(as defined in NI 43-101) and past relevant work experience, I fulfill the requirements to be 
+a "qualified person" for the purposes of NI 43-101. 
+
+ 
+5. I visited the Crownpoint Uranium Project on August 17, 2017. 
+ 
+6. I am responsible for all sections of the Technical Report. 
+ 
+7. I am independent of the Issuer applying the test set out in Section 1.5 of NI 43-101. 
+ 
+8. I have had no prior involvement with the property that is the subject of the Technical Report. 
+ 
+9. I have read NI 43-101, and the Technical Report has been prepared in compliance with NI 
+
+43-101 and Form 43-101F1. 
+ 
+  
+
+
+
+www.rpacan.com 
+ 
+
+ 
+ Laramide Resources Ltd. – Crownpoint Uranium Project, Project #3042 
+
+Technical Report NI 43-101 – November 16, 2018 Page 29-2 
+
+10. At the effective date of the Technical Report, to the best of my knowledge, information, and 
+belief, the Technical Report contains all scientific and technical information that is required 
+to be disclosed to make the Technical Report not misleading. 
+
+ 
+ 
+ 
+Dated this 16th day of November, 2018 
+ 
+(Signed and Sealed) "Mark B. Mathisen" 
+ 
+Mark B. Mathisen, C.P.G. 
+
+
+	1 SUMMARY
+	EXECUTIVE SUMMARY
+	TECHNICAL SUMMARY
+
+	2 INTRODUCTION
+	3 RELIANCE ON OTHER EXPERTS
+	4 PROPERTY DESCRIPTION AND LOCATION
+	MINERAL RIGHTS
+	ROYALTIES AND OTHER ENCUMBRANCES
+	PERMITTING
+
+	5 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND PHYSIOGRAPHY
+	ACCESSIBILITY
+	CLIMATE
+	LOCAL RESOURCES
+	INFRASTRUCTURE
+	PHYSIOGRAPHY 
+
+	6 HISTORY
+	PRIOR OWNERSHIP
+	EXPLORATION AND DEVELOPMENT HISTORY
+	PAST PRODUCTION
+
+	7 GEOLOGICAL SETTING AND MINERALIZATION
+	REGIONAL GEOLOGY
+	LOCAL GEOLOGY
+	PROPERTY GEOLOGY
+	STRUCTURE
+	MINERALIZATION
+
+	8 DEPOSIT TYPES
+	9 EXPLORATION
+	10 DRILLING
+	11 SAMPLE PREPARATION, ANALYSES AND SECURITY
+	HISTORICAL SAMPLING METHODS
+	EQUIVALENT URANIUM GRADE CALCULATION
+	DISEQUILIBRIUM ANALYSIS
+
+	12 DATA VERIFICATION
+	AUDIT OF DRILL HOLE DATABASE
+	SITE VISIT
+	INDEPENDENT VERIFICATION OF ASSAY TABLE
+
+	13 MINERAL PROCESSING AND METALLURGICAL TESTING
+	CORE LEACH STUDY, SECTION 24
+
+	14 MINERAL RESOURCE ESTIMATE
+	RESOURCE DATABASE
+	GEOLOGICAL INTERPRETATION
+	TREATMENT OF HIGH GRADE ASSAYS
+	COMPOSITING
+	SEARCH STRATEGY AND GRADE INTERPOLATION PARAMETERS
+	BULK DENSITY
+	CUT-OFF GRADE
+	CLASSIFICATION
+
+	15 MINERAL RESERVE ESTIMATE
+	16 MINING METHODS
+	17 RECOVERY METHODS
+	18 PROJECT INFRASTRUCTURE
+	19 MARKET STUDIES AND CONTRACTS
+	20 ENVIRONMENTAL STUDIES, PERMITTING, AND SOCIAL OR COMMUNITY IMPACT
+	21 CAPITAL AND OPERATING COSTS
+	22 ECONOMIC ANALYSIS
+	23 ADJACENT PROPERTIES
+	24 OTHER RELEVANT DATA AND 
+	25 INTERPRETATION AND CONCLUSIONS
+	26 RECOMMENDATIONS
+	27 REFERENCES
+	28 DATE AND SIGNATURE PAGE
+	29 CERTIFICATE OF QUALIFIED PERSON
+
+
+
+'

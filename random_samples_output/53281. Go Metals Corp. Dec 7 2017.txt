@@ -1,0 +1,2515 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+i 
+
+    
+
+43-101 TECHNICAL REPORT  
+
+on the  
+
+NEW BRENDA PROPERTY 
+ 
+
+NICOLA, OSOYOOS, and SIMILKAMEEN MINING DEVISIONS, 
+BRITISH COILUMBIA, CANADA 
+
+711,500mE / 5,526,000mN 
+LONGITUDE -120.055° / LATITUDE 49.85° 
+
+(NAD 83 – Zone 10) NTS: 092H / 16, 082E / 13 
+ 
+
+ 
+
+ 
+
+Prepared by 
+Dan Meldrum, M.Sc. P.Geo 
+
+ 
+
+Prepared for 
+Gorilla Minerals Corp. 
+
+ 
+
+ 
+
+August 1, 2017 
+
+  
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+1 
+
+ 
+
+Table of Contents 
+ 
+
+1 Summary............................................................................................................................................................. 3 
+
+2 Introduction and Terms of Reference ................................................................................................................. 4 
+
+2.1 Introduction ................................................................................................................................................ 4 
+
+2.2 Authors Qualifications and Responsibilities .............................................................................................. 4 
+
+2.3 Site Visit and Scope of Personal Inspection ............................................................................................... 4 
+
+2.4 Information Sources and Terms Reference ................................................................................................ 4 
+
+2.5 Previous Technical Reports ........................................................................................................................ 5 
+
+3 Reliance on Other Experts .................................................................................................................................. 5 
+
+3.1 Mineral Tenure ........................................................................................................................................... 5 
+
+3.2 Surface Rights ............................................................................................................................................ 7 
+
+4 Property Description and Location ..................................................................................................................... 7 
+
+5 Accessibility, Climate, Local Resources, Infrastructure, and Phys- iography ................................................... 9 
+
+5.1 Accessibility ............................................................................................................................................... 9 
+
+5.2 Climate ....................................................................................................................................................... 9 
+
+5.3 Local Resources ........................................................................................................................................ 10 
+
+5.4 Infrastructure ............................................................................................................................................ 10 
+
+5.5 Physiography ............................................................................................................................................ 10 
+
+6 History .............................................................................................................................................................. 11 
+
+6.1 Fairfield Metals 1990-1996 (Crest and Pen Claims) – AR#21058, AR#22304, AR#23255, AR#25043 11 
+
+6.2 Terrace Ventures 2004 (Peach Claim) - AR#27829 ................................................................................. 13 
+
+6.3 Ravencrest Resources 2006-2012 (Siwash Property) - AR#33395, AR#32708 ...................................... 13 
+
+6.4 Bernie Kreft 2009-2015 (Crest Claims) - AR#35691 ............................................................................... 13 
+
+7 Geological Setting and Mineralization ............................................................................................................. 14 
+
+7.1 Regional Geology ..................................................................................................................................... 14 
+
+7.2 Local Geology .......................................................................................................................................... 14 
+
+7.2.1 Local Mineral Deposits .................................................................................................................... 16 
+
+7.3 Property Geology ...................................................................................................................................... 17 
+
+7.4 Property Mineralization and Alteration .................................................................................................... 17 
+
+8 Deposit Types ................................................................................................................................................... 18 
+
+8.1 Porphyry Copper-Molybdenum-Gold Deposits ....................................................................................... 18 
+
+9 Exploration ....................................................................................................................................................... 25 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+2 
+
+ 
+
+10 Drilling ......................................................................................................................................................... 40 
+
+11 Sample Verification, Analysis and Security ................................................................................................. 40 
+
+12 Data Verification .......................................................................................................................................... 40 
+
+13 Mineral Processing and Metallurgical Testing ............................................................................................. 42 
+
+14 Mineral Resource Estimates ......................................................................................................................... 42 
+
+15 Adjacent Properties ...................................................................................................................................... 42 
+
+16 Other Relevant Data and Information .......................................................................................................... 42 
+
+17 Interpretation and Conclusion ...................................................................................................................... 42 
+
+18 Recommendations ........................................................................................................................................ 42 
+
+19 References .................................................................................................................................................... 43 
+
+20 Statement of Qualifications .......................................................................................................................... 46 
+
+ 
+
+List of Figures 
+Figure 1: Location Map ..............................................................................................................................................8 
+Figure 2: Claim Map ..................................................................................................................................................9 
+Figure 3: Geological Map of New Brenda Property .................................................................................................15 
+Figure 4: Map showing paleo-ice flow directions ....................................................................................................16 
+Figure 5: Anatomy of a telescoped porphyry Cu system  ........................................................................................19 
+Figure 6: Copper Porphyry Deposits in BC  .............................................................................................................21 
+Figure 7: Generalized alteration-mineralization zoning pattern for telescoped porphyry Cu systems  ....................23 
+Figure 8: Zone Area Reference Map ........................................................................................................................26 
+Figure 9: Au in soils in Twilight zone  .....................................................................................................................27 
+Figure 10: Ag in soils in Twilight zone  ...................................................................................................................28 
+Figure 11: Cu in soils in Twilight zone ....................................................................................................................29 
+Figure 12:Mo in soils in Twilight zone ....................................................................................................................30 
+Figure 13: Au in soils in Silverback zone.................................................................................................................31 
+Figure 14: Ag in soils in Silverback zone.................................................................................................................32 
+Figure 15: Cu in soils in Silverback zone .................................................................................................................33 
+Figure 16: Mo in soils in Silverback zone ................................................................................................................34 
+Figure 17: Au in Rock samples ................................................................................................................................36 
+Figure 18: Ag in Rock samples ................................................................................................................................37 
+Figure 19: Cu in Rock samples ................................................................................................................................38 
+Figure 20: Mo in Rock samples ................................................................................................................................39 
+ 
+List of Tables 
+Table 1: Abbreviations and Symbols Used ................................................................................................................4 
+Table 2: Mineral Claims purchased by Gorilla ..........................................................................................................6 
+Table 3: Claims staked and owned by Gorilla ............................................................................................................6 
+Table 4: Proposed two phase budget for New Brenda property ...............................................................................44 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+3 
+
+ 
+
+ 
+
+1 Summary 
+ 
+The New Brenda Property is comprised of 15 contiguous mineral claims covering an area of 10,010 Hectares west 
+of the past producing Brenda Cu-Mo open pit located in southern British Columbia, approximately 40 kilometers 
+west of Kelowna. The property is readily vehicle accessible via a well developed network of forest service roads 
+connected to Highway 97c or from the community of Peachland (Figure 1). The Brenda Property mineral claims 
+are owned wholly, or in part, by Gorilla Minerals Corp., and some claims are subject to certain purchase 
+agreement ownership and/or royalty terms as outlined in the Appendix.  
+
+The Property lies within the Quesnellia Terrane, on the eastern edge of the Intermontane tectonic belt of south-
+central British Columbia within the North American Cordillera and is composed of the Quesnellia, Stikinia and 
+Cache Creek terranes.  The New Brenda Property is underlain by Upper Palaeozoic sedimentary and volcanic 
+rocks of the Cache Creek Group that that have been intruded Jurassic granitic to dioritic plutons of the Pennask 
+and Osprey Lake batholiths.  The Jurassic plutons are cross-cut by stocks and dykes of the Tertiary Otter 
+intrusives. (MapPlace) 
+
+The Quesnellia Terrane is, in part, an interwoven layer of Paleozoic and Mesozoic arcs and back-arcs.  The 
+magmatism occurred in multiple pulses with a significant pulse in the Late Triassic–Early Jurassic (212-192 Ma) 
+associated with multiple Cu-Mo-Au porphyry deposits including Highland Valley and Gibraltar; Copper 
+Mountain, Afton, and Mountain Polley; and Brenda (Logan et al, 2010) located east of the New Brenda Property, 
+adjacent to the claim boundary. 
+
+Presently, the property features several large areas with gold soil geochemical anomalies. Currently the only 
+records available show gold only analysis over the majority of the property area. Highly anomalous gold values 
+occur in five clusters across the 10km by 6 km property.  There has not been any significant mineralization 
+outlined on the Property to date and the property is considered to be an early stage exploration property. However, 
+the previous exploration programs on the Property, as well as favourable geological settings, allows for inferences 
+concerning potentially significant mineralization hosted in bedrock on the Property. Exploration concepts are 
+based, for the most part, on geological setting and known occurrences of mineralization in the area. The primary 
+deposit types of interest to be explored for are Porphyry Copper ± Molybdenum ± Gold deposits and Polymetallic 
+Gold ± Silver deposits. Information and evidence available to date suggest there is currently a lack of significant 
+exploration data to draw any conclusions of an economic nature concerning the Property at this stage. 
+
+The author concludes that there exist several target areas that merit further exploration, and recommends further 
+exploration be conducted on the Property. Stage 1 should consist of IP, trenching, soils, prospecting and 
+geological mapping a total of 100,000$.  If stage 1 is successful Stage 2 should be carried out, a total 200,000$ of 
+Diamond drilling on the best targets from phase 1.   See section 18 for more details. 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+4 
+
+ 
+
+2 Introduction and Terms of Reference 
+
+2.1 Introduction 
+ 
+This report is an independent technical review of the New Brenda Property (the "Property") was commissioned by 
+Gorilla Minerals Corp. ("Gorilla") as a summary of technical information pertaining to the New Brenda Property 
+(the "Property"). This Independent Technical Report is compiled in the format of in compliance with National 
+Instrument 43-101 for the Canadian Securities Administration and for satisfying in part the "Qualification of 
+Listing" of the Canadian National Stock Exchange (CNSX).  
+ 
+
+2.2 Authors Qualifications and Responsibilities  
+ 
+
+Dan Meldrum, P.Geo. has prepared most of the text in this report from the data provided by Gorilla Minerals 
+Corp. and from public sources, and is the Qualified Person responsible for this report as defined by National 
+Instrument 43-101 ("NI 43-101").  
+
+The author has considerable exploration and mining experience with epithermal and mesothermal gold deposits 
+and copper porphyry systems in Canada, USA, Mexico, Mongolia, Vietnam, Laos, Russia, and China. 
+
+ 
+
+2.3 Site Visit and Scope of Personal Inspection 
+ 
+
+The author visited the property June 28 – 30, 2017.  He examined two main areas 1) Twilight Zone - an area 
+around a series of old trenches and 2) an area of anomalous soil samples on the Silverback Zone.  The trenches 
+had been well reclaimed but there was evidence that trenching had been preformed.   
+ 
+
+2.4 Information Sources and Terms Reference 
+ 
+The material included in this report or referenced herein is sourced from previous 43-101 reports, assessment 
+reports, government reports, selected publications, as well as information gathered during a property visit by the 
+author and personal discussions with Mr. Adrian Smith. Mr. Meldrum visited the property on June 28-30, 2017. 
+Mr. Meldrum examined the "Twilight Zone" and "silver back" parts of the Property, collected data verification 
+samples, met with Adrian Smith, P. Geo, one of the Directors of Gorilla Resources Corp., and discussed several 
+aspects of the exploration program with Mr. Adrian Smith. 
+ 
+All units used in this Report are metric. Universal Trans Mercator (UTM) co-ordinates in this report and 
+accompanying illustrations are referenced to the North American Datum 1983 (NAD83), Zone 10, unless 
+otherwise stated. 
+ 
+ 
+Table 1: Abbreviations and Symbols Used 
+
+Au gold 
+Ag silver 
+Cu copper 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+5 
+
+ 
+
+Mo molybdenum 
+> greater than 
+< less than 
+BD below detection 
+AR Assessment Report 
+ARIS Assessment Report Index System 
+a.s.l. above sea level 
+c.c. correlation coefficient 
+C centigrade 
+g gram 
+ha hectare 
+km kilometre 
+t metric ton 
+m metre 
+Ma million years (pertaining to ages and/or elapsed time) 
+NSR Net Smelter (return) Royalty 
+ppb parts per billion 
+ppm parts per million 
+QA/QC quality assurance/quality control 
+4WD four wheel drive 
+FSR Forest Service Road 
+CNSX Canadian National Stock Exchange 
+
+   
+
+2.5 Previous Technical Reports 
+No previous technical reports were used.  
+
+3 Reliance on Other Experts 
+ 
+The QP author of this Report states that he is a qualified person for those areas as identified in the "Certificate of 
+Qualified Person" for the QP, as included in this Report. The QP has relied on, and believes there is a reasonable 
+basis for this reliance, upon the following other expert reports, which provided information regarding mineral 
+rights, surface rights, and environmental status in sections of this Report as noted below. 
+ 
+
+3.1 Mineral Tenure 
+ 
+The author has not reviewed the mineral tenure, nor independently verified the legal status, ownership of the 
+New Brenda property or underlying property agreements. The QP has fully relied upon, and disclaim 
+responsibility for, information supplied by Gorilla management. Table 2, below, is a list of claims that Gorilla has 
+purchased from individuals (shown in Yellow on Figure 2).  Gorilla has staked and owns the claims (Table 3 and 
+shown in red on Figure 2).  
+ 
+On May 4, 2017, Gorilla entered into an acquisition agreement (the "Acquisition Agreement"), as amended on 
+June 2, 2017, with three (3) individual vendors (collectively, the "Vendors") to acquire a 100% undivided interest 
+in the Property. The Acquisition Agreement was closed on August 14, 2017 by way of the issuance to the 
+Vendors of 2,610,000 common shares of the Issuer. A subsequent payment of $65,000 is due to the Vendors 
+twelve months following the listing of the common shares of the Issuer on a public exchange. 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+6 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Table 2: Mineral Claims purchased by Gorilla 
+
+ 
+ 
+ 
+
+Table 3: Claims staked and owned by Gorilla (Mineral Titles online) 
+
+Title 
+Number 
+
+Claim Name Issue Date 
+Good To 
+
+Date 
+Status Area (ha) 
+
+1052325   ELKHORN 1 2017/JUN/03 2018/JUN/03 GOOD 1917.34 
+
+1052326   ELKHORN 2 2017/JUN/03 2018/JUN/03 GOOD 708.55 
+
+1052327   ELKHORN 3 2017/JUN/03 2018/JUN/03 GOOD 1772.22 
+
+1052328   ELKHORN 4 2017/JUN/03 2018/JUN/03 GOOD 1542.09 
+
+https://www.mtonline.gov.bc.ca/mtov/sortTenures.do?tenureSortParam=tenureNumberID
+https://www.mtonline.gov.bc.ca/mtov/sortTenures.do?tenureSortParam=tenureNumberID
+https://www.mtonline.gov.bc.ca/mtov/sortTenures.do?tenureSortParam=claimName
+https://www.mtonline.gov.bc.ca/mtov/sortTenures.do?tenureSortParam=issueDate
+https://www.mtonline.gov.bc.ca/mtov/sortTenures.do?tenureSortParam=goodToDate
+https://www.mtonline.gov.bc.ca/mtov/sortTenures.do?tenureSortParam=goodToDate
+https://www.mtonline.gov.bc.ca/mtov/sortTenures.do?tenureSortParam=tenureStatus
+https://www.mtonline.gov.bc.ca/mtov/sortTenures.do?tenureSortParam=areaInHectares
+https://www.mtonline.gov.bc.ca/mtov/tenureDetail.do?tenureNumberIDParam=1052325
+https://www.mtonline.gov.bc.ca/mtov/tenureDetail.do?tenureNumberIDParam=1052326
+https://www.mtonline.gov.bc.ca/mtov/tenureDetail.do?tenureNumberIDParam=1052327
+https://www.mtonline.gov.bc.ca/mtov/tenureDetail.do?tenureNumberIDParam=1052328
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+7 
+
+ 
+
+3.2 Surface Rights 
+ 
+The QP has fully relied upon, and disclaims responsibility for, information supplied by Gorilla Mineral Corp. 
+management for information relating to the status of the current Surface Rights. 
+ 
+
+4 Property Description and Location 
+ 
+The New Brenda Property is located in Southern British Columbia (Figure 1), Canada within 1:50,000 scale 
+National Topographic System ("NTS") map area 092H16 including the Similkameen, Nicola, and Osoyoos 
+Mining Divisions. The approximate centre of the Property is located at an approximate longitude of 120.055° 
+West and a latitude of 49.85° North, and Universal Transverse Mercator (UTM) North American Datum (NAD) 
+1983, Zone 10 coordinates 711,500metres (m) East / 5,526,000 m North. 
+ 
+The Property is comprised of 15 contiguous claims covering an area of 10,010 hectares west of the past producing 
+Brenda Cu-Mo open pit located in southern British Columbia Figure 2).   
+ 
+None of the New Brenda mineral claims are known to overlap any legacy or Crown granted mineral claims, or no-
+staking reserves. There are no known environmental liabilities to which the Property is subject. To the extent of 
+the author's knowledge, there are no other significant factors or risks that might affect access, title, or the right or 
+ability to perform work on the Property. 
+ 
+To the extent of the author's knowledge, no mineral exploration permits pertaining to the New Brenda Property 
+have been acquired. Permits, to be approved by the British Columbia Ministry of Energy and Mines, would be 
+necessary if Gorilla were to proceed with any ground geophysical surveys, drilling activities, or if they were to 
+establish a temporary or semi-permanent camp on any portion of the mineral claims making up the New Brenda 
+Property. 
+ 
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+8 
+
+ 
+
+ 
+
+Figure 1: Location Map 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+9 
+
+ 
+
+ 
+
+5 Accessibility, Climate, Local Resources, Infrastructure, and Physiography 
+ 
+
+5.1 Accessibility 
+ 
+The New Brenda property is located 42 kilometres west of Kelowna in south-central British Columbia and 65 km 
+SE of Merritt, BC. (Figure 1). It is centered on a latitude of 49.85° North and a longitude of 120.055° West within 
+NTS map areas 92H/16 and 082E/13. The Okanagan connector Highway (97c) extends across the northern claims 
+and a number of gravel logging roads and trails provide excellent access to most parts of the property. Climate 
+ 
+Annual temperatures range from -30°C to 30°C with moderate precipitation.  The area is generally snow-free 
+from early June through mid October and snowfall accumulations up to 6.6 meters exist at higher elevations on 
+the property in the winter months (Accuweather website). The summer/fall exploration period is considered to be 
+between mid-June and late October.  Year round diamond drilling is possible given a suitable supply of water and 
+a winterized camp. As a result of a well developed network of all-weather logging roads on the Property, the 
+Figure 2: Claim Map:  red claims are staked by Gorilla, yellow claims are optioned (see text for details) small black 
+numbers are claim numbers large white numbers are UTM (000's) north is to the left. 10km squares 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+10 
+
+ 
+
+proposed exploration outlined in Section 18 of this report could likely be completed at any time of year, given the 
+appropriate equipment is supplied to field personnel and snow accumulations are not excess as to hinder its safe 
+and efficient use. 
+ 
+
+5.2 Local Resources 
+ 
+
+The community of Peachland is the nearest community. It is a small recreational community approximately 25 km 
+southeast of the Property and located on the west bank of Okanagan Lake with a population of approximately 
+4698 people in 2016. Peachland can supply basic supplies and gas.  
+
+Kelowna (population approximately 151,957 in 2016) is the nearest city located approximately 42 km to the east 
+of the Property and straddles east and west bank of Okanagan Lake. Driving from Kelowna to the Property along 
+the Highway 97c and the Sunset Lake FSR takes approximately one hour. Historically, the main industries have 
+been forestry and mining, including the Brenda Cu-Mo Open Pit Mine, which operated from 1970 to 1990.  
+Princeton is located approximately 100km south of the property.  Princeton has a long history of mining and 
+would be home to numerous persons with mining skills. Logan Lake is located approximately 110 km west of the 
+property.  Logan lake is very near Teck's Highland Valley mine.  
+
+It is the author's opinion that labour for exploration and mining is available from numerous nearby communities.  
+
+Cabins on Headwaters Lake, just a few km south of the property, are available for a reasonable fee. The owner of 
+the cabins has a large backhoe, dump truck, skid steer and other equipment available to contract out. 
+ 
+
+5.3 Infrastructure 
+ 
+
+Highway 97C runs just north (<1km) of the property.  There are numerous active logging roads that provide direct 
+access onto the property, which at the time of this report are open year-round.  A northwest trending BC Hydro 
+500 kV (BC Hydro website) transmission line cuts diagonally through the middle of the property and the past 
+producing Brenda Cu-Mo open pit abuts the northeast corner of the property. A new hydro line that takes power 
+from a 15 Megawatt (MW), 5 turbine wind power generation project located just north of the property now 
+parallels the 500kv line. The author is uncertain about the specifics of the voltage on this line.  
+
+5.4 Physiography 
+ 
+
+The New Brenda Project is located within the Thompson Plateau area of southern British Columbia with 
+elevations ranging from 1300m near the south-east edge of the Project, to nearly 2,000 metres on the northern 
+edge of the Project.  Slopes are generally moderate with some local, steeper sections. The Project is blanketed by 
+glacial till, varying in depth from less than 1 to as much as 10 metres or more, the presence of which restricts 
+bedrock exposures to local windows and patches. The area is densely forested primarily with pine and slight 
+thinning of vegetation at higher elevations and in steeper areas. Clear cut logging plots of varying ages are 
+scattered throughout the area, many of which are covered with dense second growth. 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+11 
+
+ 
+
+6 History 
+ 
+Mineral exploration and production in the local area surrounding the New Brenda Property has been historically 
+dominated by copper-molybdenum porphyry and quartz vein hosted gold projects, namely the Brenda Mine and 
+Elk/Siwash Mine respectively (Kreft, 2015, AR#35691). Just outside of the claim boundary on the northeastern 
+edge of the Brenda Property is the historic Brenda Mine. The copper-molybdenum open pit mine produced 177 
+million tonnes at 0.169% copper and 0.043% molybdenum between 1970-1990. The Elk/Siwash open pit and 
+underground gold mine lies approximately 18 km to the southwest and produced 51,750 oz of gold averaging 2.8 
+oz/ton between 1992-1995 (Kreft, 2015, AR#35691). The current claim boundary of the New Brenda Property 
+encompasses many historical claims that have been held by varying past exploration companies and individuals. 
+The following descriptions below piece together their exploration histories. 
+
+During the late 1960's exploration for similar copper-molybdenum mineralization to the nearby Brenda Mine was 
+predominant on the property. Fairfield Metals completed reconnaissance soil sampling and prospecting on the 
+Crest claims from 1986-1989 (Cormier, 1990, AR#21058). The field work highlighted 8 rock samples with 
+greater than 1g/t gold up to 8650 ppb (Kreft, 2015, AR#35691). Based on the highly anomalous rock samples and 
+previously defined (but not reported on) soil anomalies, further work on the property was recommended and the 
+Crest claims were staked in 1989 (Cormier, 1990, AR#21058). Prospecting by Fairfield from 1986 to 1990 in the 
+area subsequently staked as the Pen claims revealed gold mineralization in three localities, hosted by quartz veins 
+or sulphide skarn pods. Grab samples returned values up to 0.18oz/ton gold. Stream sediment samples gave 
+anomalous values for Au, Ag, cu, Zn,Mo and As (Rowe, 1991, AR#22304). 
+ 
+
+6.1 Fairfield Metals 1990-1996 (Crest and Pen Claims) – AR#21058, AR#22304, 
+AR#23255, AR#25043 
+
+ 
+
+The New Brenda Property sits within the larger historical Crest and Pen claim package. In 1990, 4792 soil 
+samples were collected in a 200m x 50m grid over the vast majority of the historical Crest claims (Cormier, 1991, 
+AR#21058). Anomalous results from the initial sampling program prompted a further 957 infill soil samples in a 
+50m x 50m grid around >50 ppb gold sample sites. The eastern portion of the sampled area yielded 7 moderate to 
+strongly anomalous gold trends with values up to 580 ppb gold. 23 rock and 5 stream sediment samples were also 
+collected during the 1990 field program. A highly anomalous rock sample assay came back with 8.534 oz/ton 
+gold and 35.72 oz/ton silver. This sample, C90-R13, was taken from surficial angular rubble consisting of 
+selected quartz vein fragments up to 7cm with sparse pyrite and galena. Rock samples C90-R11 and C90-R22 
+also had anomalous results of 2480 ppb gold and 3520 ppb gold, respectively. C90-R11, C90-R13 and C90-R22 
+are all located within the northern portion of the historical Crest 10 claim which is now located on the south-
+central portion of the New Brenda Property south of Brenda Lake. 
+
+The Pen claims were staked in 1990 by Fairfield. 401 soil samples were taken on the southeastern portion of the 
+Pen property in 1990 to test for continuation of gold anomalies that were defined on the adjoining Crest property. 
+Several anomalous values were returned, up to 590 ppb gold (Rowe, 1991, AR#22304).  
+
+The 1991 field program on the Pen property consisted of 2549 soil samples collected predominately on a 400m x 
+50m spacing. 50m x 50m follow up sampling around some of the anomalous sites added another 337 samples. 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+12 
+
+ 
+
+The soil sampling up to 1991 covered 75% of the Pen property (which covered all of the historical Pen claims that 
+are now included in the New Brenda Property).  Four large areas (1 to 2.5 km long) of gold enrichment were 
+defined by soil geochemistry. All contain many values greater than 50 ppb gold up to a high of 590 ppb gold. 
+Gold-bearing quartz veins have been discovered in three of the anomalous areas on the historic Pen property. 
+Vague northeast trending gold highs are evident, which may represent narrow gold bearing structures (Rowe, 
+1991, AR#22304). 35 rock samples were taken across the Pen property in 1991. Anomalous samples that lie 
+within the New Brenda Property boundaries are located on the historical Pen 13 claim which was directly to the 
+north of the previously mentioned Crest 10 claim (current south-central portion of the New Brenda Property). The 
+two samples, Pen91-R22 and Pen91-R32 came back with 0.08 oz/ton gold, 6.2 ppm silver and 4280 ppb gold, 
+38.1 ppm silver, respectively.  
+ 
+Further sampling of the Pen property in 1993 completed reconnaissance-grid (400m x 50m) coverage on three 
+areas (Northwest, Southwest and East grids) of the property not previously tested, and minor fill-in was conducted 
+(Balon, 1993, AR#23255). This work generated 1157 soil samples. Scattered weak to moderate gold anomalies in 
+the 21 to >50 ppb range were defined in each area. Follow up work focused mainly on the Eastern grid zone. 11 
+rock samples and 3 stream sediment samples were collected. Anomalous results of 0.912 oz/ton (35800 ppb) gold 
+and 5025 ppb gold from Pen93-R1 and Pen93-R11, respectively, were collected from quartz vein rich float. An 
+outcrop grab sample of limonitic quartz lenses (up to 10cm wide) in silicified, bleached, pyritic tuff (Pen93-R3) 
+returned 1485 ppb gold, 1.0 ppm silver and 365 ppm bismuth. These three rock samples are all located to the 
+southeast of Brenda Lake within an approximate area of 150m. The sample locations reside within the 
+northeastern area of the New Brenda Property. 
+ 
+Within the East Grid area, near Brenda Lake, several occurrences of significant gold-bearing limonitic quartz 
+were located in shallow overburden and in altered volcanic bedrock cut by granodiorite dykes. Several large float 
+fragments were found, indicating local veins having appreciable widths of 10 to 30 cm. Five of ten rock samples 
+collected from this area returned anomalous gold values of 110 to 35,800 ppb (Assay - 0.912 oz/ton, PEN 93-Rl). 
+Two of the samples also yielded very strong bismuth (365 and 441 ppm) and anomalous silver (2.5 and 5.3 ppm). 
+Infill soil geochemistry around the main concentration of these occurrences located five gold anomalies (22-66 
+ppb Au), the relative positions of which suggest an easterly trending linear gold vein source. 
+ 
+
+In 1994, initial trenching was undertaken to test some of the mineral occurrences and coincident strong soil 
+anomalies on the historic Crest 10 and Pen 13 claims (Balon, 1996, AR#25043). Six trenches totaling 594 m in 
+length were excavated in two areas. Extensive shearing with local quartz veining in silicified volcanics and 
+hornfels skarn alteration zones were encountered. Gold values of >300 ppb were determined in 35 (15%) of the 
+230 trench bedrock samples collected. The best averaged results included 0.145 oz/T gold over 4.0 m in Area A 
+and 0.258 Oz/T Au over 1.0 m in Area B. In 1995 prospecting continued, and two trenches totaling 111 m were 
+excavated in a northern extension of Area B to test additional soil anomalies and mineral occurrences. Several 
+quartz veins and sheared intervals with alteration were exposed, and assays up to 0.056 oz/T Au were returned 
+from bedrock chip samples. 
+ 
+The 1994 field program also focused on trenching along the northeast PEN 10 claim near Brenda Lake and was 
+successful in locating a potential bedrock source for high grade gold-quartz float found previously (sample Pen93-
+R1 with 35800 ppb or 1.0 oz/ton gold) (Balon, 1996, AR#25043). A quartz vein approximately 25 to 30 cm thick 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+13 
+
+ 
+
+was intersected striking southwest with shallow dips ranging from 10 to 30 degrees. The footwall and hanging 
+wall diorite showed argillic to phyllic alteration with disseminated pyrite, and contained several 1 cm quartz 
+stringers. Nineteen continuous chip samples and two grab samples of the vein and the adjacent altered zone 
+returned values ranging from 0.12 to 43 g/t Au (Balon and Conroy, 1994). In 1995, five short diamond drill holes 
+totaling 124.05 m (407 ft.) were completed in the trench area by Brenda Lake. Several quartz-calcite veins up to 
+35 cm wide were intersected, but no significant gold values greater than 0.65 g/ton were returned. Reclamation of 
+all trench and drill sites was carried out (Balon, 1996, AR#25043). 
+ 
+The 1996 field program consisted of soil anomaly follow up, prospecting and trenching. Infill soil sampling was 
+completed on the Pen 10 claim near the 1994 trenching and 1995 drill sites, with 21 samples collected. 45 rock 
+samples and 6 stream sediment samples were collected over the eastern portion of the historic Crest and Pen 
+property. Further trenching in 1996 on the northwestern quadrant of the historic Crest 10 claim (central 
+southeastern New Brenda Property) totaled 243 linear metres and yielded 100 total samples. Best results were 
+1687 ppb gold over a 3.0 meter section of veins and shears with silicified and skarnified volcanics. The overall 
+results from the program were thought to be encouraging, with bedrock sources for some of the strongest gold soil 
+anomalies and best-grade float occurrences remaining to be determined, and continuity of mineralization 
+remaining to be fully defined. 
+ 
+
+6.2 Terrace Ventures 2004 (Peach Claim) - AR#27829 
+ 
+
+Follow up to geological fieldwork completed by Fairfield Metals from 1990-1996. Objective was to identify gold 
+bearing quartz vein system similar to Elk/Siwash deposit located to the west. Sampling, prospecting and mapping 
+was carried out over 4 areas of anomalous samples located on the historic Crest 10 and Pen 13 claims. 24 rock 
+samples and 10 soil samples were collected. Samples from brecciated limonite hornfels unit with local quartz 
+veins returned up to 145.1 ppb gold and a chip sample from a 1.15-1.85m wide quartz vein cutting granodiorite 
+returned 364.3 ppb gold, while the granodiorite returned 58.1 ppb gold (Reynolds, 2005, AR#27829). 
+
+ 
+
+6.3 Ravencrest Resources 2006-2012 (Siwash Property) - AR#33395, AR#32708 
+ 
+
+Ravencrest Resources acquired 91 claims of the Siwash Property from International Tower Hills Mines Ltd in 
+2006 (Raffle, 2012, AR#33395, AR#32708). In 2010 Ravencrest optioned the remaining 26 mineral claims that 
+make up the Siwash Property from River Wild Exploration Inc. The current Brenda Property encompasses 
+portions of the previously mentioned Siwash Property claims. The Siwash Property did not include the Crest 
+claims, which were held by Bernie Kreft (see below). APEX Geoscience compiled historic data in 2012 for the 
+Siwash Property. 
+
+6.4 Bernie Kreft 2009-2015 (Crest Claims) - AR#35691 
+ 
+During the period 2009-2012 geochemical sampling and prospecting was conducted on the Crest Claims (which 
+are now part of the southern portion of the New Brenda Property) in an effort to verify and further define 
+historical results. 31 rock samples and 62 soil samples were collected. Rock samples returned up to 32.6 ppm Au 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+14 
+
+ 
+
+(along with weakly anomalous bismuth, silver and tungsten) from a grab sample of narrow east-northeast trending 
+quartz vein, while soil sampling returned values of up to 1.125 ppm gold. The 2015 program focused on further 
+soil sampling and Prospecting in the vicinity of the 2012 soil sample that retuned 1.125 ppm gold. 24 soil samples 
+and 5 rock samples were collected.  A strong east-northeast tending open-ended soil anomaly with soil results up 
+to 2.57 ppm gold proximal to the 1.125 ppm sample from 2012 located approximately 10-15 metres north of the 
+nearest historical trench was defined (Kreft, 2015, AR#35691). 
+
+7 Geological Setting and Mineralization  
+ 
+
+7.1 Regional Geology 
+ 
+The New Brenda Property is situated on the eastern edge of the Intermontane tectonic belt of south-central British 
+Columbia within the North American Cordillera. The Intermontane belt is composed of the Quesnellia, Stikinia 
+and Cache Creek terranes. The New Brenda Property is located within the Quesnellia Terrane, an interwoven 
+layer of Paleozoic and Mesozoic arcs and back-arcs. Arc growth was sporadic with a significant pulse in the Late 
+Triassic–Early Jurassic (212-192 Ma) associated with multiple well-mineralized porphyry systems. In southern 
+British Columbia these mineralizing events produced significant deposits including Highland Valley and 
+Gibraltar; Copper Mountain, Afton and Mountain Polley; and Brenda (Logan et al, 2010).   
+ 
+
+7.2 Local Geology 
+ 
+
+Local geology in the area of the New Brenda Project is shown on the northeast part of GSC Map 4l- 1989, Hope, 
+by J.W.H. Monger, 1989 and the northwest part of GSC Map 1736A, Penticton, by D.J. Templeman-Kluit, 1989 
+Figure 3 (MapPlace).  It is underlain predominantly by a large pendant consisting of volcanic and sedimentary 
+rocks of the Upper Triassic Nicola Group in contact to the east with granodiorite of the Late Triassic to Early 
+Jurassic Pennask Batholith. Nicola Group lithologies consist of felsic to mafic flows and tuffs interspersed with 
+argillite, siltstone and limestone units. The batholith is comprised of white to grey, medium to fine grained 
+granodiorite. Widespread silicification and bleaching of argillite and volcanic rocks is present near intrusive 
+contacts. Quartz veining is locally abundant, and is generally concentrated near the edges of the batholith and 
+within the adjacent silicified volcanics and to a lesser extent the sediments. Early Tertiary feldspar porphyry 
+stocks and dykes of the Otter Intrusives occur throughout the area (Kreft, 2015, AR#35691).  
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+15 
+
+ 
+
+ 
+Figure 3: Geological Map of New Brenda Property (BC Geological Survey Geofiles 2005-3 and 4) 
+
+Legend 
+Layered / Volcanic Rocks  
+ 
+Unit  Group   Terrane Description 
+uTrN  Nicola  Quesnel Undifferentiated mafic to felsic volcanic and volcaniclastic 
+
+rocks, including augite-phyric flows, tuffs and breccias; 
+lesser argillite, greywacke and limestone 
+
+uTrNE  Nicola   Quesnel Eastern Volcanic Facies basaltic volcanics 
+uTrNsf  Nicola   Quesnel mudstone, siltstone, shale fine clastic sediments 
+EPeMK  Penticton  Overlap  Marron, Kettle River, Springbrook, Marama and Skaha 
+
+Formations undivided volcanic rocks 
+ 
+Intrusive Rocks  
+Unit  Terrane   Description 
+LTrJgd   Quesnel   Unnamed granodioritic intrusive rocks 
+Egd  Post Accretionary  Unnamed granodioritic intrusive rocks 
+MJgr  Post Accretionary  Unnamed granite, alkali feldspar granite intrusive rocks 
+ 
+ 
+Paleo Ice flow directions for the project area are dominantly from the north towards the south to south east with 
+minor variations as shown in Figure 4.  
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+16 
+
+ 
+
+ 
+
+Figure 4: Map showing paleo-ice flow directions  
+
+http://www.empr.gov.bc.ca/Mining/Geoscience/PublicationsCatalogue/OpenFiles/2013/Documents/2013-06/OF2013_06_Sheet1.pdf 
+ 
+
+7.2.1 Local Mineral Deposits 
+ 
+Porphyry style copper-molybdenum mineralization has been mined from the Pennask Batholith intrusive rocks at 
+the Brenda Deposit near the east contact of the Nicola pendant, immediately east of the Project claim boundary. 
+The Brenda mine produced 177 million tonnes at 0.169% copper and 0.043% molybdenum from 1970-1990 
+(Kreft, 2015, AR#35691). 
+ 
+The Elk Gold Project, 100% owned by Trek Mining, consists of shear zone hosted, intrusive related, east-west 
+trending and shallowly dipping high grade gold veins (www.trekmining.com). The veins are best developed 
+within intrusive and adjacent silicified volcanics. Mineral Resource estimate for the Elk Gold Project was 
+effective August 22, 2016: Measured and Indicated Resource: 1,042,600 tonnes at 6.32 g/t containing 211,900 oz 
+gold; Inferred Resource: 1,096,900 tonnes at 5.94 g/t containing 209,600 oz gold 
+(www.Trekmining.com/properties/reserves-resources). The Elk Gold Project is approximately 18km to the 
+southwest of the Brenda Property.  
+ 
+
+New Brenda 
+Project 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+17 
+
+ 
+
+7.3 Property Geology 
+ 
+
+The geology of the Pennask Mountain area, which covers the western portion of the property, was mapped at 
+1:25,000 scale by G.L. Dawson and G.E. Ray of the B.C. Ministry of Energy, Mines & Petroleum Resources 
+(BCMEMPR open file map 1988-7). Dawson and Ray (1988) subdivided the Nicola Group underlying most of 
+the property into three northeast-striking, northwest-younging formations (Balon, 1996, AR#25043). The 
+easternmost part, the Peachland Creek Formation, consists of basaltic to dacitic flows and tuffs and a siliceous 
+feldspar porphyry unit. The central Stemwinder Mountain Formation consists predominantly of black argillite 
+locally overlying thin sections of conglomerate, limestone and limy siltstone. The youngest rocks, to the west, are 
+bedded to massive andesitic tuffs with minor interbedded argillite. 
+ 
+Large blocks of schistose rocks occur in the south central portion of the property near the Nicola contact (Balon, 
+1996, AR#25043). These may be xenoliths of volcanic and sedimentary rocks which have been partially melted 
+and recrystallized during intrusive events, or they may be screens of basement rocks which were brought up by 
+the magma body. 
+
+Jurassic intrusive rocks underlying the southeastern half and northeastern extremity of the property area consist 
+mainly of granodiorite with minor coarse reddish granite. Aplite dykes are also present and may represent a late 
+stage of the intrusions. Locally, batholithic rocks are cut and altered by younger, porphyritic intrusions of 
+probable Late Cretaceous or Early Tertiary Age Otter Intrusions (Balon, E.A., 1996, AR#25043). 
+ 
+
+7.4 Property Mineralization and Alteration 
+ 
+
+The Property is predominantly underlain by Nicola group volcanics and lesser sediments which are variably 
+silicified, with occasionally abundant disseminated pyrite and pyrrhotite and local calc-silicate or skarn 
+development (Kreft, 2015, AR#35691). Within the project locally abundant quartz veins and stringers have been 
+found cutting siliceous volcanics and argillite. The quartz is glassy grey to opaque white or dark rosy with 
+generally sparse disseminated pyrite and minor fine black grains, possibly specular hematite. Veins located to date 
+appear to be irregular and discontinuous, with variable attitudes, and widths generally less than I0 centimeters. 
+Limonite and hematite are common vein constituents. Overall sulphide contents are generally low, but local 
+concentrations of pyrite, pyrrhotite, chalcopyrite, molybdenite, arsenopyrite, galena, sphalerite and other minerals 
+have been noted. (Balon, 1996, AR#25043). Some of the larger veins are pegmatitic and contain coarse 
+intergrown micas and feldspar. Grab and chip samples from individual veins and from altered rock with quartz 
+stringers has returned numerous gold analyses of greater than 1000 ppb gold, up to 32.6 ppm gold. Also, a sample 
+of hematitic quartz chips in overburden yielded assays of 8.534 oz/ton gold, 35.72 oz/ton silver (sample C90-
+Rl3/1990). The style and distribution of mineral showings found to date suggests the presence of a substantial 
+mineralized system, with significant gold grades returned from samples of low-sulphide quartz veins, sheeted vein 
+sets and stockworks. The overall geological environment at is similar to that which occurs on the Elk/Siwash 
+property 18 km to the west where high-grade gold quartz vein structures are hosted by granitic batholith and 
+adjacent Nicola volcanic rocks. Although most of the veins at Elk/siwash contain abundant sulphides (mainly 
+pyrite), extensive ore sampling results also show a significant gold-bismuth correlation similar to the gold bearing 
+showings found on the Brenda Property (Kreft, 2015, AR#35691). 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+18 
+
+ 
+
+ 
+
+8 Deposit Types  
+
+8.1 Porphyry Copper-Molybdenum-Gold Deposits  
+ 
+ Porphyry copper systems are defined as large volumes of hydrothermally altered rock centered on 
+porphyry copper stocks.  Metal content is low- to medium-grade the distribution of primary ore minerals are 
+dominantly structurally controlled and that may also contain skarn, carbonate-replacement, sediment-hosted, and 
+high- and intermediate-sulphidation epithermal base and precious metal mineralization (Sinclair, 2007. Sillitoe, 
+2010).  Their formation is related to felsic to intermediate magma emplacement at relatively high levels in the 
+crust, where the circulation of hydrothermal fluids facilitates scavenging, mobilizing and deposition of metals. 
+ 
+ The metal content of this class of deposits is diverse, but within the scope of this report can be narrowed 
+down to those grouped as Copper ± Molybdenum ± Gold (Cu ± Mo ± Au). 
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+19 
+
+ 
+
+ 
+Figure 5: Anatomy of a telescoped porphyry Cu system (Sillitoe, 2010). 
+
+ 
+8.1.1 Importance 
+ 
+Porphyry copper deposits account for approximately two-thirds of global copper production and more than 95% 
+of world molybdenum production. Porphyry deposits are also major sources of gold, silver, and tin; significant by 
+products include Re, W, Pd, Pt, Te and Se. (John et al., 2010) 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+20 
+
+ 
+
+ 
+8.1.2 Geographic Distribution 
+ 
+Porphyry deposits occur throughout the world in a series of extensive, relatively narrow, linear metallogenic 
+provinces. They are predominantly associated with Mesozoic to Cenozoic orogenic belts in western North and 
+South America, around the western margin of the Pacific Basin, and in the Tethyan orogenic belt in eastern 
+Europe and southern Asia. However, major deposits also occur within Paleozoic orogens in Central Asia and 
+eastern North America and, to a lesser extent, within Precambrian terranes (Sinclair, 2007).   
+ 
+8.1.3 Geographic Distribution within British Columbia 
+ 
+Late Triassic to Early Jurassic Cu-Au and Cu-Mo porphyry deposits of the Stikine and Quesnel terranes are 
+collectively the most important group of deposits in British Columbia (Nelson and Colpron, 2007). They include 
+such producers as Highland Valley, Gibraltar, Copper Mountain, Mt. Milligan, Red Chris, Brenda, and New 
+Afton; projects such as Schaft Creek, Brucejack, and Kerr-Sulphurets-Mitchell (KSM) are also moving towards 
+production (Figure 6). Host intrusions range in age from 210 Ma (Galore, Highland Valley) to 183 Ma (Mt. 
+Milligan). The abundance of porphyry and other deposits marks Stikinia and Quesnelia as remarkably rich 
+metallotects, comparable to the modern arc setting of Papua New Guinea. 
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+21 
+
+ 
+
+ 
+Figure 6: Copper Porphyry Deposits in BC (Schroeter and Pinsent, 2000) 
+
+ 
+ 
+8.1.4 Grade and Tonnage  
+ 
+Porphyry deposits are large and range in size from tens of millions to billions of tonnes. In typical porphyry Cu ± 
+Mo ± Au deposits, grades range from 0.2 to 1.0% Cu, <0.01 to 0.05% Mo, and 0.0 to 1.0 g/t Au. 
+ 
+Some porphyry deposits exhibit exceptional size along with grade such as the Grasberg deposit in Indonesia, with 
+a resource greater than 2.5 billion tonnes grading 1.1% Cu and 1.04 g/t Au (Freeport-McMoran Copper and Gold 
+Inc., Annual Report). 
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+22 
+
+ 
+
+8.1.5 Tectonic Setting 
+Porphyry Cu systems are generated mainly in magmatic arc environments subjected to broadly contractional 
+settings, marked by crustal thickening, surface uplift and rapid exhumation (Sillitoe, 2010). Porphyry Cu deposits 
+are typically located in volcanic or sub-volcanic environments in subduction-related, continental and island-arc 
+settings. 
+ 
+Fault and fault intersections are invariably involved in determining the formational sites and geometries of 
+porphyry Cu systems and their constituent parts. Some investigators emphasize the importance of intersections 
+between continental-scale transverse fault zones and arc-parallel structures for porphyry Cu formation (Richards 
+et al., 2001). 
+ 
+8.1.6 Geological Setting 
+ 
+Porphyry deposits occur in close association with porphyritic intrusions. There is a close temporal relationship 
+between magmatic activity and hydrothermal mineralization. Commonly located in volcanic or sub-volcanic 
+environments, host rocks typically include volcanics, intrusives (which may or may not be coeval with country 
+rock) and volcano-sedimentary, epiclastic and pyroclastic rocks (Sillitoe, 2010). 
+ 
+The composition of intrusions associated with porphyry deposits varies widely and appears to exert a fundamental 
+control on the metal content of the deposits. Intrusive rocks associated with porphyry Cu-Au and porphyry Au 
+deposits tend to be low-silica, relatively mafic and primitive in composition, ranging from calc-alkaline dioritic 
+and granodioritic plutons to alkalic monzonitic rocks. In general, the majority of large porphyry deposits are 
+associated with calc-alkaline intrusions – although, some of the largest gold-rich deposits are associated with high 
+K calc-alkaline magma compositions. (Cooke et al. 2005). 
+ 
+8.1.7 Alteration 
+ 
+Hydrothermal alteration is extensive and typically zoned on a deposit scale as well as around individual veins and 
+fractures. Alteration zones on a deposit scale commonly consist of an inner potassic ± sodic core characterized by 
+K-feldspar and/or biotite (± amphibole ± magnetite ± anhydrite), and an outer, more extensive zone of propylitic 
+alteration that consists of quartz, chlorite, epidote, calcite and, locally, albite associated with pyrite. Zones of 
+phyllic (quartz + sericite + pyrite) and argillic alteration (quartz + illite + pyrite ± kaolinite ± montmorillonite ± 
+calcite) may be part of the zonal pattern between the potassic and propylitic zones, or can be irregular or tabular, 
+younger zones superimposed on older alteration and sulphide assemblages (John et al. 2010). 
+ 
+Alteration mineralogy is controlled in part by the composition of the host rocks, and by the composition 
+of the mineralizing system. In mafic host rocks with significant iron and magnesium, biotite is the dominant 
+alteration mineral in the potassic alteration zone, whereas K-feldspar dominates in more felsic rocks (Sinclair, 
+2007). In more oxidized environments, minerals such as pyrite, magnetite (± hematite), and anhydrite are 
+common, whereas pyrrhotite is present in more reduced environments (Rowins, 2000). 
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+23 
+
+ 
+
+ 
+Figure 7: Generalized alteration-mineralization zoning pattern for telescoped porphyry Cu systems (Sillitoe, 2010). 
+
+ 
+ 
+8.1.8 Structure and Mineralization Styles 
+ 
+As mentioned above, faults and fault intersections are invariably involved in determining the formation and 
+geometry of porphyry Cu systems. At the scale of ore deposits, associated structures can result in a variety of 
+mineralization styles, including veins, vein sets, stockworks, fractures, "crackled zones", and breccia pipes. 
+Orientations of mineralized structures can be related to local stress environments around the tops of plutons or can 
+reflect regional stress conditions. 
+ 
+ 8.1.9 Mineralogy 
+ 
+The mineralogy of porphyry deposits is highly varied, although pyrite is typically the dominant sulphide 
+mineral in porphyry Cu ± Mo ± Au deposits. Principal ore minerals are chalcopyrite, bornite, chalcocite, 
+tennantite, enargite, other Cu sulphides and sulphosalts, molybdenite, and electrum; associated minerals include 
+pyrite, magnetite, quartz, biotite, K-feldspar, anhydrite, muscovite, clay minerals, epidote and chlorite. 
+ 
+8.1.10 Morphology and Architecture 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+24 
+
+ 
+
+ 
+The overall geometry of individual porphyry deposits is highly varied and includes irregular, ovoid, pipe-like or 
+cylindrical shapes, which may or may not be "hollow". Ore bodies are zoned, with often barren cores and crudely 
+concentric metal zones, and may occur separately or overprint one another, vertically and laterally. 
+ 
+Complex, irregular ore and alteration patterns arise from overprinting episodes of zoned mineralization and 
+alteration of different ages. 
+ 
+8.1.11 Genetic Model 
+ 
+Porphyry Cu systems typically span the upper 4 km or so of the crust, with their centrally located stocks 
+being connected downward to parental magma chambers at depths of perhaps 5 to 15 km. The water-rich parental 
+magma chambers are the source of the heat and hydrothermal fluids throughout the development of the system. 
+Large, poly-phase hydrothermal systems developed within and above genetically related intrusions are formed 
+and are often long-lived (~5m.y.). 
+ 
+Convection of hydrothermal fluids throughout the country rock and intruding stocks results in a focusing 
+of metals along conduits and within permeability networks where hydro-fracturing has taken place. Effective 
+scavenging of metals is facilitated by "organized" hydrothermal systems in a state of convection, while efficient 
+metal deposition is enhanced by pore-fluid over-pressurization resulting in catastrophic failure and rapid 
+remobilization and de-pressurization of metalliferous hydrothermal fluids. (Silitoe, 2010) 
+ 
+8.2 Epithermal deposits 
+ 
+A variety of deposit types are spatially, if not genetically, related to porphyry copper mineralization, including 
+skarns, polymetallic veins and replacements, and epithermal veins.  (Silitoe, 2010) 
+ 
+8.2.2 Mineralization & Alteration 
+ 
+Epithermal deposits form at shallow depth, <1.5 km, and are hosted mainly by volcanic rocks.  Common 
+alteration assemblages include sericitic, silicification, propylitic, advanced argillic, and alunitic.  Although 3 types 
+of epithermal deposits can be distinguished, the two most common end-member styles of epithermal gold deposits 
+are high sulfidation (HS) and low sulfidation (LS). 
+ 
+LS deposits ore mineral include py, electrum, gold, sphalerite, galena with gangue minerals consisting of quartz, 
+chalcedony, calcite, adularia, illite and carbonates.  HS ore minerals include pyrite, enargite, chalcopyrite, 
+tennanite, covellite, gold, tellurides with gangue minerals quartz, alunite, barite, kaolinite, pyrophyllite. 
+(http://www.spectral-international.com/files/49148587.pdf) 
+ 
+ 
+8.2.3 Exploration Features 
+ 
+Exploration features or aspects of these deposits are summarized below (Silitoe, 2010): 
+ 
+
+• Most deposits have some form of veining or disseminated sulphides and/or alteration that extend 
+significantly beyond economic mineralization. 
+
+• There may be mineralogical and litho-chemical signatures of productive magmas. 
+• Gold to silver ratios increase with increasing free silica content. 
+• Copper content appears to increase with depth. 
+• Basement architecture or plumbing is important. 
+
+http://www.spectral-international.com/files/49148587.pdf
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+25 
+
+ 
+
+9 2017 Exploration Program 
+ 
+
+Soils 
+
+A soil sampling and prospecting program was carried out June 28 – 30, 2017.  The areas that were sampled are 
+within Twilight Zone and Silverback Zones (Figure 8). B-horizon soils were collected where available every 50m 
+along lines spaced mostly at 200m.  Locally some lines were spaced at 100m. Handheld GPS units were used to 
+locate sample sites.  These units are accurate to within +/- 5m. The samples were placed in brown Kraft bags and 
+sent to MS Analytical Labs in Langley BC for analysis. Samples were dried and then screened to -80 mesh, 1:1 
+Aqua regia solution was used. Then analyzed using ICP-AES/MS process for ultra trace levels.  See appendix for 
+detection levels of each element analyzed for.  
+
+  
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+26 
+
+ 
+
+Maps showing concentrations of Ag, Au, Cu and Mo in soils are included below.   
+
+Figure 8: Zone Area Reference Map 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+27 
+
+ 
+
+ 
+
+Figure 9: Au in soils in Twilight zone the legend for gold concentration is in upper left of map. (green lines are 1km UTM lines, large white 
+#'s are UTM (1,000m), white lines are claim lines black #'s are Au ppm) 
+
+Three contiguous samples are highly anomalous in gold occur in the central portion of the target area.  There is 
+also a E-W trending line of moderately anomalous samples extending from the central highly anomalous area to 
+the west of the target area.  
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+28 
+
+ 
+
+ 
+
+Figure 10: Ag in soils in Twilight zone the legend for silver concentration is in upper left of map. (green lines are 1km UTM lines, large 
+white #'s are UTM (1,000m), white lines are claim lines black #'s are Ag ppm) 
+
+Three contiguous samples are highly anomalous in silver occur in the central portion of the target area.  There is 
+also a E-W trending line of moderately anomalous samples extending from the central highly anomalous area to 
+the west of the target area. This is very similar to the Au in soils.  
+
+At the south end of the target is an inverted "U" shaped series of highly anomalous soil samples. This is quite a 
+large target, 600m X 500m and is open to the south.  
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+29 
+
+ 
+
+ 
+
+Figure 11: Cu in soils in Twilight zone the legend for copper concentration is in upper left of map. (green lines are 1km UTM lines, large 
+white #'s are UTM (1,000m), white lines are claim lines black #'s are Cu ppm) 
+
+At the south end of the target is a series of highly anomalous soil samples. This line is coincident with the Ag 
+anomaly discussed above. 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+30 
+
+ 
+
+ 
+
+ 
+
+Figure 12:Mo in soils in Twilight zone the legend for molybdenum concentration is in upper left of map. (green lines are 1km UTM lines, 
+large white #'s are UTM (1,000m), white lines are claim lines black #'s are Mo ppm) 
+
+There is a cluster of anomalous soil samples in the NW quadrant of the target.  The exact shape is unclear.  The 
+anomalous Mo samples seem to rim the soils anomalous in Au.  At the south end of the target is a series of highly 
+anomalous soil samples. The shape of the anomalous Mo samples seems to be geographically coincident with the 
+Ag anomaly discussed above. 
+
+  
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+31 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 13: Au in soils in Silverback zone the legend for gold concentration is in upper left of map. (green lines are 1km UTM lines, large 
+white #'s are UTM (1,000m), white lines are claim lines black #'s are Au ppm) 
+
+ There is no strong clustering of soils anomalous in Au.  
+
+  
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+32 
+
+ 
+
+ 
+
+Figure 14: Ag in soils in Silverback zone the legend for silver concentration is in upper left of map. (green lines are 1km UTM lines, large 
+white #'s are UTM (1,000m), white lines are claim lines black #'s are Ag ppm) 
+
+There is line of soils anomalous (>0.2 ppm) in Ag in a NW-SE line at the eastern edge of the target. Portions of 
+this area is also anomalous in Cu and Mo.  This line does seem to be spatially associated with the wooded area 
+which corresponds to a creek (possible fault?).  Also note that the 0.62g/t Ag sample is also anomalous in Cu and 
+Mo. 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+33 
+
+ 
+
+ 
+
+Figure 15: Cu in soils in Silverback zone the legend for copper concentration is in upper left of map. (green lines are 1km UTM lines, large 
+white #'s are UTM (1,000m), white lines are claim lines black #'s are Cu ppm) 
+
+There is broken line of soils anomalous (>49 ppm) in Cu in a NW-SE line at the eastern edge of the target. 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+34 
+
+ 
+
+ 
+
+Figure 16: Mo in soils in Silverback zone the legend for molybdenum concentration is in upper left of map. (green lines are 1km UTM 
+lines, large white #'s are UTM (1,000m), white lines are claim lines black #'s are Mo ppm) 
+
+ 
+
+There is broken line of soils anomalous (>2 ppm) in Mo in a NW-SE line at the eastern edge of the target. 
+
+ 
+
+  
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+35 
+
+ 
+
+Rocks 
+
+A prospecting program was carried out at the same time as the soil sampling program. 15 rock samples were 
+taken.  The location of the samples was determined using hand held GPS units, accurate to within +/- 5m. The 
+samples were sent to MS Analytical Labs in Langley BC for analysis. The samples are dried, crushed to 70% 
+passing 2mm, Split to 250g, Pulverized to 85% passing 75μm. Au content was determined by Fire Assay (30g 
+fusion, AAS). Concentration of other elements were determined using 0.5g, dissolved in 3:1 Aqua Regia, using 
+ICP-AES.  See appendix for detection levels of each element analyzed for.  
+
+Maps showing the location and concentrations of Au, Ag, Cu and Mo are included below. Most samples were 
+taken in the "trenches" area discussed in the soils section above.  Each element has two maps, one a detailed map 
+showing the trench samples only and a second map showing all samples taken on the property. 
+
+  
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+36 
+
+ 
+
+ 
+
+ 
+
+Figure 17: (upper = regional)  (lower = Twilight zone) Au in Rock samples. The legend for gold concentration is in upper left of maps. 
+(yellow and green lines are 1km UTM lines, large white #'s are UTM (1,000m), white lines are claim lines, black #'s are Au ppm 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+37 
+
+ 
+
+Au in rock samples 
+
+ 
+
+ 
+
+Figure 18: (upper = regional) (lower = Twilight zone) Ag in Rock samples the legend for silver concentration is in upper left of maps. 
+(yellow and green lines are 1km UTM lines, large white #'s are UTM (1,000m), white lines are claim lines black #'s are Ag ppm) 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+38 
+
+ 
+
+ 
+
+ 
+
+Figure 19: (upper = regional)  (lower = Twilight zone) Cu in Rock samples the legend for copper concentration is in upper left of maps. 
+(yellow and green lines are 1km UTM lines, large white #'s are UTM (1,000m), white lines are claim lines black #'s are Cu ppm. 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+39 
+
+ 
+
+ 
+
+ 
+
+Figure 20: (upper = regional) (lower = Twilight zone) Mo in Rock samples the legend for moly concentration is in upper left of maps. 
+(yellow and green lines are 1km UTM lines, large white #'s are UTM (1,000m), white lines are claim lines black #'s are Mo ppm. 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+40 
+
+ 
+
+ 
+
+10 Drilling  
+ 
+In 1995, five short diamond drill holes totaling 124.05 m (407 ft.) were completed in the trench area by Brenda 
+Lake on the Northeastern portion of the current Brenda Property. Several quartz-calcite veins up to 35 cm wide 
+were intersected, but no significant gold values greater than 0.65 g/ton were returned. Reclamation of all trench 
+and drill sites was carried out (Balon, 1996, AR#25043). 
+
+11 Sample Verification, Analysis and Security  
+
+Sample verification: 
+
+MS Analytical Laboratory was selected to analyze the samples.  MS Analytical is ISO 17025:2005 accredited lab.   
+Sampling quality assurance/quality control (QA/QC) for the 2017 prospecting / soils program consisted of 
+inserting 1 blank sample or field duplicate within each group of 20 samples. MS Analytical's QAQC procedures 
+consisted of introducing a variety of standards and blanks and completing normal run pulp and preparation 
+duplicates. A discussion of lab procedures and field/lab standards documentation is located in Appendix B.  The 
+blank material used (for both soil and rock) was a concrete mix purchased from Home Depot. The high 
+concentration of Ca made it easy to distinguish from other materials.  It is unfortunate that the product, 
+unexpectedly has elevated but consistent levels of Cu and Ag. 
+ 
+
+Soils: a total of 271 non QA/QC samples were taken.  
+
+Field QA/QC  
+3 duplicates  
+11 blanks 
+
+Lab  
+6 duplicates  
+6 blanks 
+6 standards 
+
+Total QA/QC  
+9 duplicates  
+17 blanks 
+6 standards 
+32 total   
+ 
+
+Rocks: a total of 15 non QA/QC samples were taken 
+Field QA/QC  
+
+1 blank 
+Lab  
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+41 
+
+ 
+
+3 duplicates  
+4 blanks 
+3 standards 
+
+Total QA/QC  
+3 duplicates  
+4 blanks 
+3 standards 
+10 total  
+
+ 
+Discussion:   
+
+The QA/QC was generally good. Nearly all the assays returned with +/- 95% confidence levels. The duplicate 
+samples were very good. The blanks were excellent except for the unexpected high copper and moderate Ag 
+values in the cement purchased from Home Depot.  The copper and silver values from the cement were consistent 
+suggesting that the cement actually has elevated Cu / Ag values. 
+
+Analysis:  
+
+Soils samples were dried and then screened (80 mesh) to remove larger particles, rocks or vegetative matter. The 
+-80 mesh was analyzed.  The prepared homogeneous sample was weighed and digested under heat with a mixture 
+of hydrochloric acid, nitric acid, and deionized water. Upon completion of the digestion step, the sample was 
+made up to volume. This sample solution was then analyzed by Inductively Coupled Plasma Emission 
+Spectrometry and Inductively Coupled Plasma Mass Spectrometry.  
+
+Rock samples were crushed to 70% passing 2mm, then a representative split was taken and pulverized to 85% 
+passing 75micron. Multi-Element analysis was performed using by Aqua Regia, ICP-AES (33 elements) Trace 
+Level and a 30 gram Fire Assay and AAS finish. 
+
+Security: 
+
+Samples were taken from the field and locked in the cabin at base camp.  Samples were transported in the 
+Author's truck to his home then to the lab the first day it was open for business.   
+
+12 Data Verification  
+ 
+
+The primary author and Qualified Person has examined and verified the digital soil and rock geochemistry data 
+provided by Gorilla. This was accomplished by plotting the digital data in a GIS workspace (MapInfo™/) and 
+comparing the digital data to those presented in Assessment Reports found in the BC Ministry of Energy and 
+Mines Assessment Report Indexing System (ARIS). Assessment reports for the property can be found at 
+http://aris.empr.gov.bc.ca/ (search term: "Pen", "Crest", "Siwash", "Ravencrest"). Data sets verified include soil 
+geochemistry grid sample and trench locations, historical gold assays. The QP concluded that the data contained 
+assay database obtained from Gorilla is reasonably accurate, and match the historical records publicly available. 
+As such, the accuracy and precision of historical assays cannot be verified, but the QP is satisfied that historical 
+lab results were reasonably accurate and precise for the time, and that assays were performed by accredited 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+42 
+
+ 
+
+analytical laboratories (e.g. Min-En Labs). The QP has no reason to believe that any of the historical results are 
+misleading or erroneous. 
+
+13 Mineral Processing and Metallurgical Testing 
+ 
+No mineral processing or metallurgical testing analyses have been carried out on the New Brenda property to 
+date. 
+
+14 Mineral Resource Estimates 
+ 
+
+No known mineral resources or mineral reserves of any category exist on the New Brenda property. 
+
+15 Adjacent Properties  
+ 
+New Brenda is located between two past producing mines the Elk/Siwash Mine immediately west and the Brenda 
+Copper – Moly mine immediately to the east. 
+
+16 Other Relevant Data and Information 
+ 
+
+All relevant data and information regarding the New Brenda Property and exploration in Southern BC is included 
+in other sections of this report. 
+
+17 Interpretation and Conclusion 
+ 
+
+The soil sampling program points to several areas that warrant follow up.  There are several areas of multi-
+element multi-station anomalies. See section 9 for details regarding location and strength of anomalies.  These 
+anomalies should be followed up with more detailed soils and perhaps trenching where practical (riparian zones 
+may not be amenable to trenching).  
+
+The rock sampling program has uncovered a couple of worthwhile targets to follow up.  Detailed mapping and 
+perhaps a limited trenching program should be undertaken to better understand the extent of this mineralization. 
+
+18 Recommendations  
+ 
+
+The New Brenda Property is situated between a past producing Cu mine and a high grade past producing Au 
+mine. The rock units associated with both mines are well represented on the New Brenda property. This alone 
+qualifies the property as being prospective for both deposit types. The presence of high grade mineralization both 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+43 
+
+ 
+
+in float (i.e. 8.534 oz/ton gold, 35.72 oz/ton silver) and in trenches increases the prospectivity of the property.  
+The results from the analysis of soils and rocks sampled in 2017 indicate that potentially economic mineralization 
+is present on the property.     Further work should be conducted in two stages as follows: 
+
+Table 4: Proposed Two Phase Budget for the New Brenda Project 
+
+Item Rate Multiple 
+Day 
+(s) Item Cost 
+
+Combined 
+Totals Comments 
+
+PHASE 1             
+
+Project Planning             
+Geologist  $ 450.00  1 5  $ 2,250.00   $ 2,250.00  
+
+ Permitting  $ 450.00  1 5  $ 2,250.00   $ 4,500.00  
+               
+
+Totals        $ 4,500.00   $ 4,500.00    
+              
+Geophysics             
+Induced 
+Polarization  $ 2,000.00  20 1  $ 40,000.00   $ 44,500.00  
+
+Total for 5 lines at 4 
+kilometres each 
+
+Mob/Demob  $ 10,000.00  1 1  $ 10,000.00   $ 54,500.00  
+Based on previous 
+contract rates 
+
+              
+Totals        $ 50,000.00   $ 54,500.00    
+              
+Soil Sampling, 
+Mapping and 
+Prospecting             
+Crew  $ 400.00  2 10  $ 8,000.00   $ 62,500.00    
+Geologist  $ 650.00  1 10  $ 6,500.00   $ 69,000.00    
+
+Camp Costs  $ 200.00  3 10  $ 6,000.00   $ 75,000.00  
+
+Room and board 
+staying at local fishing 
+cabins. 
+
+Sample Analysis  $ 20.00  500 1  $ 10,000.00   $ 85,000.00    
+              
+Totals        $ 30,500.00   $ 85,000.00    
+              
+Trenching              
+Geologist  $ 650.00  1 8  $ 5,200.00   $ 90,200.00    
+Crew  $ 400.00  1 8  $ 3,200.00   $ 93,400.00    
+Small Excavator  $ 450.00  1 8  $ 3,600.00   $ 97,000.00    
+
+Camp Costs  $ 200.00  2 8  $ 3,200.00   $ 100,200.00  
+
+Room and board 
+staying at local fishing 
+cabins. 
+
+              
+Totals        $ 15,200.00   $ 100,200.00    
+              
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+44 
+
+ 
+
+PHASE 1 PROGRAM 
+TOTAL          $ 100,200.00    
+
+       
+       
+Item Rate Multiple Days Cost 
+
+Combined 
+Totals Comments 
+
+PHASE 2             
+
+Project Planning             
+Geologist  $ 450.00  1 10  $ 4,500.00   $ 4,500.00  Office Rate 
+Permitting  $ 450.00  1 5  $ 2,250.00   $ 6,750.00  Office Rate 
+              
+Totals        $ 6,750.00   $ 6,750.00    
+              
+Drilling Program             
+Geologist  $ 650.00  2 30  $ 39,000.00   $ 45,750.00    
+
+Drilling Costs  $ 275.00  400 1  $110,000.00   $ 155,750.00  
+
+400m program in 4 - 6 
+shallow holes (cost per 
+m) 
+
+Camp Costs  $ 200.00  6 30  $ 36,000.00   $ 191,750.00  
+
+Room and board 
+staying at local fishing 
+cabins. 
+
+Mob/Demob  $ 10,000.00  1 1  $ 10,000.00   $ 201,750.00    
+              
+Totals        $195,000.00   $ 201,750.00    
+              
+
+PHASE 2 PROGRAM 
+TOTAL          $ 201,750.00  
+
+  
+ 
+ 
+
+ 
+
+The approximate totals for phase 1 and 2 programs are $100,200 CAD and $201,750 CAD respectively for a 
+combined total of $301,950 CAD.  
+
+19 References 
+ 
+
+Accuweather Website https://www.accuweather.com/en/ca/aspen-grove/v0k/weather-forecast/53167 
+
+Balon, E.A., 1993, AR#23255 
+
+Balon and Conroy, 1994 
+
+Balon, E.A., 1996, AR#25043 
+
+BC Hydro website https://www.bchydro.com/content/dam/BCHydro/customer-
+portal/documents/corporate/suppliers/transmission-system/maps/bch-transmission-map.pdf 
+
+https://www.accuweather.com/en/ca/aspen-grove/v0k/weather-forecast/53167
+https://www.bchydro.com/content/dam/BCHydro/customer-portal/documents/corporate/suppliers/transmission-system/maps/bch-transmission-map.pdf
+https://www.bchydro.com/content/dam/BCHydro/customer-portal/documents/corporate/suppliers/transmission-system/maps/bch-transmission-map.pdf
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+45 
+
+ 
+
+Cormier, J.R., 1990, AR#21058 
+
+Cooke, D.R., P. Hollings, and J.L. Walshe, Giant Porphyry Deposits: Characteristics, Distribution, and Tectonic 
+Controls. Economic Geology, 2005. 100(5): p. 801-818. 
+
+Dawson and Ray, 1988, BCMEMPR open file map 1988-7 
+
+John, D.A., Ayuso, R.A., Barton, M.D., Blakely, R.J., Bodnar, R.J., Dilles, J.H., Gray, Floyd, Graybeal, F.T., 
+Mars, J.C., McPhee, D.K., Seal, R.R., Taylor, R.D., and Vikre, P.G., 2010, Porphyry copper deposit 
+model, chap. B of Mineral deposit models for resource assessment: U.S. Geological Survey Scientific 
+Investigations Report 2010–5070–B, 169 p 
+
+Kreft, B., 2015, AR#35691. 
+
+Nelson, J.L., and Colpron, M., 2007, Tectonics and metallogeny of the Canadian and Alaskan Cordillera, 1.8 Ga 
+to present, in Goodfellow, W., ed., Mineral Deposits of Canada: A Synthesis of Major Deposit Types, 
+District Metallogeny, the Evolution of Geological Provinces, and Exploration Methods: Geological 
+Association of Canada, Mineral Deposit Division, Special Publication, No. 5, p. 755-791. 
+
+Raffle, K.J., 2012, AR#33395, AR#32708 
+
+Reynolds, P., 2005, AR#27829 
+
+Rowe, J.D., 1991, AR#22304 
+
+Rowins, S.M., 2000. Reduced porphyry copper-gold deposits: A new variation on an old theme. Geology, 
+Volume 28, pp. 491-494. 
+
+Schroeter, Tom and Pinsent, R.H. 2000 Gold Production and Resources in BC (1858-1998). BCMEMPR Open 
+File 2000-02 
+
+ Silitoe, 2010, Porphyry Copper Systems, Economic Geology, v. 105, pp. 3–41 
+
+Sinclair, W.D., 2007, Porphyry deposits, in Goodfellow, W.D., ed., Mineral deposits of Canada: Geological 
+Association of Canada Special Publication 5, p. 223–243. 
+
+Trek Mining Website, www.trekmining.com/properties/exploration/elk-gold, 
+www.trekmining.com/properties/reserves-resources.  Accessed May 21, 2017. 
+
+Logan, J.M., Mihalynuk, M.G., Friedman, R.M., and Creaser, R.A., 2011, Age constraints of mineralization at the 
+Brenda and Woodjam Cu-Mo±Au porphyry deposits – An Early Jurassic calc-alkaline event, south-
+central British Columbia. In: Geological Fieldwork 2010, British Columbia Ministry of Forests, Mines and 
+Lands, British Columbia Geological Survey Paper 2011-1, pp. 129-144. 
+
+  
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+46 
+
+ 
+
+20 Statement of Qualifications  
+  
+I, Dan Meldrum, do hereby certify that: 
+
+1. I am a professional geoscientist residing at 1820 Mary Hill Road, Port Coquitlam, B.C., Canada; 
+ 
+
+2. I have authored the report entitled "43-101 Technical Report on the New Brenda Property" on 
+the effective date of August 1st, 2017. The report is based on a review of recent exploration 
+carried out on the Property as well as a review of the compilation of historical data; 
+ 
+
+3. I have a Masters of Science degree in Earth and Atmospheric Sciences from The University of 
+Alberta, 2009. I am a Licensed Professional Geoscientist (P. Geo.) in good standing with the 
+Association of Professional Engineers and Geoscientists of British Columbia. I have experience 
+in exploration and mining operations in Canada, USA, Mexico, Vietnam, Laos, Russia, China, 
+and Mongolia and am a qualified person for the purposes of NI 43-101; 
+ 
+
+4. I have completed a personal inspection of the New Brenda property; 
+ 
+
+5. I am responsible for all items of this technical report; 
+ 
+
+6. I am independent of the issuer using the definition in Section 1.5 of National Instrument 43-101; 
+ 
+
+7. I have had no prior involvement with the property that is the subject of this report; 
+ 
+
+8. I have read NI 43-101 and this technical report has been prepared in compliance with the NI 43-
+101and Form 43-101F1 guidelines; 
+ 
+
+9. As of the effective date of this Report, to the best of my knowledge, information and belief, the 
+Report contains all scientific and technical information that is required to be disclosed to make 
+the Report not misleading. 
+
+ 
+
+Signed and dated at Vancouver, British Columbia, on the 1st day of August 2017. 
+
+ 
+
+                                                                            
+
+ 
+
+Dan Meldrum M.Sc., P.Geo.  
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+47 
+
+ 
+
+Appendix 1  
+
+Rock Assays 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+48 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+49 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+50 
+
+ 
+
+ 
+
+  
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+51 
+
+ 
+
+Appendix 2 Location / Desription Rock samples 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+52 
+
+ 
+
+Appendix 3 Rock Sample QA/QC 
+
+ 
+
+ 
+
+ 
+
+  
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+53 
+
+ 
+
+Appendix 4 - Soils Assays 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+54 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+55 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+56 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+57 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+58 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+59 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+60 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+61 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+62 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+63 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+64 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+65 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+66 
+
+ 
+
+ 
+
+ 
+
+  
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+67 
+
+ 
+
+Appendix 5 Soil sample locations / descriptions 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+68 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+69 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+70 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+71 
+
+ 
+
+ 
+
+  
+
+
+
+ 
+ 
+
+43-101 Technical Report on the NEW BRENDA Property 
+ 
+
+72 
+
+ 
+
+Appendix 6 Soil sample QA/QC 
+
+ 
+
+
+	1 Summary
+	2 Introduction and Terms of Reference
+	2.1 Introduction
+	2.2 Authors Qualifications and Responsibilities
+	2.3 Site Visit and Scope of Personal Inspection
+	2.4 Information Sources and Terms Reference
+	2.5 Previous Technical Reports
+
+	3 Reliance on Other Experts
+	3.1 Mineral Tenure
+	3.2 Surface Rights
+
+	4 Property Description and Location
+	5 Accessibility, Climate, Local Resources, Infrastructure, and Physiography
+	5.1 Accessibility
+	5.2 Local Resources
+	5.3 Infrastructure
+	5.4 Physiography
+
+	6 History
+	6.1 Fairfield Metals 1990-1996 (Crest and Pen Claims) – AR#21058, AR#22304, AR#23255, AR#25043
+	6.2 Terrace Ventures 2004 (Peach Claim) - AR#27829
+	6.3 Ravencrest Resources 2006-2012 (Siwash Property) - AR#33395, AR#32708
+	6.4 Bernie Kreft 2009-2015 (Crest Claims) - AR#35691
+
+	7 Geological Setting and Mineralization
+	7.1 Regional Geology
+	7.2 Local Geology
+	7.2.1 Local Mineral Deposits
+
+	7.3 Property Geology
+	7.4 Property Mineralization and Alteration
+
+	8 Deposit Types
+	8.1 Porphyry Copper-Molybdenum-Gold Deposits
+
+	9 2017 Exploration Program
+	10 Drilling
+	11 Sample Verification, Analysis and Security
+	Sample verification:
+	MS Analytical Laboratory was selected to analyze the samples.  MS Analytical is ISO 17025:2005 accredited lab.   Sampling quality assurance/quality control (QA/QC) for the 2017 prospecting / soils program consisted of inserting 1 blank sample or field...
+	12 Data Verification
+	13 Mineral Processing and Metallurgical Testing
+	14 Mineral Resource Estimates
+	15 Adjacent Properties
+	16 Other Relevant Data and Information
+	17 Interpretation and Conclusion
+	18 Recommendations
+	19 References
+	Logan, J.M., Mihalynuk, M.G., Friedman, R.M., and Creaser, R.A., 2011, Age constraints of mineralization at the Brenda and Woodjam Cu-Mo±Au porphyry deposits – An Early Jurassic calc-alkaline event, south-central British Columbia. In: Geological Field...
+	20 Statement of Qualifications
+
+'

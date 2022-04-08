@@ -1,0 +1,3963 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+N.I.43-101 Technical Report
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Prepared by: 
+
+Steven Olsen B.Sc.(Hons), M.Sc., MAIG. 
+23 Cinnamon Drive, Lake Gardens 
+Victoria, Australia. 
+
+ 
+NI 43-101 Technical Report 
+
+T'Boli Gold-Silver Project, South Cotabato, Mindanao, 
+
+Philippines 
+
+Prepared for: 
+
+Rizal Resources Corporation,  
+
+600-666 Burrard Street, 
+
+Vancouver, BC, Canada. V6C 3P6 
+
+Effective Date: March 1, 2018 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+1 | P a g e  
+ 
+
+Table of Contents 
+
+ 
+Table of Contents .................................................................................................................................... 1 
+
+List of Figures ...................................................................................................................................... 3 
+
+List of Tables ....................................................................................................................................... 4 
+
+1.0 SUMMARY ................................................................................................................................... 5 
+
+1.1 Introduction .................................................................................................................................. 5 
+
+1.2 Property Location and Ownership ................................................................................................ 5 
+
+1.3 Geology and Mineralisation .......................................................................................................... 5 
+
+1.4 Exploration Information and Data ................................................................................................ 6 
+
+1.5 Conclusions and Recommendations ............................................................................................. 7 
+
+2.0 INTRODUCTION ........................................................................................................................... 8 
+
+2.1 Sources of Information ........................................................................................................... 8 
+
+2.2 Personal Inspections ............................................................................................................... 8 
+
+2.3 Independent Qualified Person ................................................................................................ 8 
+
+3.0 RELIANCE ON OTHER EXPERTS .................................................................................................... 8 
+
+4.0 PROPERTY DESCRIPTION AND LOCATION ................................................................................... 9 
+
+4.1 Property area and location ..................................................................................................... 9 
+
+4.2 Nature of Title and Interest of the T'Boli Gold-Silver Property ............................................ 11 
+
+4.3 Surface rights ........................................................................................................................ 11 
+
+4.4 Royalties and Penalties ......................................................................................................... 12 
+
+4.5 Environmental Liabilities and Encumbrances ....................................................................... 12 
+
+4.6 Permits Required for Conducting the planned Exploration Activities .................................. 12 
+
+4.6.1 Approvals for Exploration Development ............................................................................. 12 
+
+4.6.2 Approvals for Mineral Processing ........................................................................................ 13 
+
+4.6.3 Approvals required prior to production............................................................................... 13 
+
+4.6.4 Requirement for a Social Development Plan ....................................................................... 13 
+
+4.6.5 Other Surface Exploration Activities .................................................................................... 13 
+
+4.7 Significant Factors and Risks ................................................................................................. 14 
+
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND PHYSIOGRAPHY ......... 15 
+
+5.1  Access .................................................................................................................................... 15 
+
+5.2 Climate .................................................................................................................................. 15 
+
+5.3 Flora and Fauna ..................................................................................................................... 16 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+2 | P a g e  
+ 
+
+5.4 Local Resources and Infrastructure ...................................................................................... 16 
+
+5.5 Physiography ......................................................................................................................... 17 
+
+6.0 HISTORY .................................................................................................................................... 18 
+
+6.1  Past Exploration .................................................................................................................... 18 
+
+6.2 Historical Mineral Resource Estimates ................................................................................. 20 
+
+6.3 Mining Tenement History ..................................................................................................... 21 
+
+7.0 GEOLOGICAL SETTING AND MINERALIZATION ......................................................................... 22 
+
+7.1 Regional Geology .................................................................................................................. 22 
+
+7.1.1 Structural Setting .......................................................................................................... 23 
+
+7.1.2 Stratigraphy ................................................................................................................... 23 
+
+7.2 Local Geology ........................................................................................................................ 23 
+
+8.0 DEPOSIT TYPES .......................................................................................................................... 27 
+
+9.0 EXPLORATION ........................................................................................................................... 30 
+
+9.1 Underground Exploration Development .................................................................................... 30 
+
+9.2 Underground Sampling and Mapping ......................................................................................... 31 
+
+10.0 DRILLING ................................................................................................................................... 37 
+
+10.1 Drilling Programs ....................................................................................................................... 37 
+
+11.0 SAMPLE PREPARATION, ANALYSIS AND SECURITY ................................................................... 44 
+
+11.1 Diamond Drill Core Sampling .................................................................................................... 44 
+
+11.2 Underground Rock Sampling .................................................................................................... 44 
+
+11.3 Laboratory Analysis ................................................................................................................... 44 
+
+11.4 Review of QA/QC Data .............................................................................................................. 45 
+
+12.0 DATA VERIFICATION .................................................................................................................. 48 
+
+13.0 MINERAL PROCESSING AND METALLURGICAL TESTING ........................................................... 48 
+
+14.0 MINERAL RESOURCE ESTIMATES .............................................................................................. 49 
+
+15.0 MINERAL RESERVE ESTIMATES ................................................................................................. 49 
+
+16.0 MINING METHODS .................................................................................................................... 49 
+
+17.0 RECOVERY METHODS ................................................................................................................ 49 
+
+18.0 PROJECT INFRASTRUCTURE ...................................................................................................... 49 
+
+19.0 MARKET STUDIES AND CONTRACTS ......................................................................................... 49 
+
+20.0 ENVIRONMENTAL STUDIES, PERMITTING AND SOCIAL OR COMMUNITY IMPACT .................. 49 
+
+21.0 CAPITAL AND OPERATING COSTS.............................................................................................. 49 
+
+22.0 ECONOMIC ANALYSIS ................................................................................................................ 49 
+
+23.0 ADJACENT PROPERTIES ............................................................................................................. 50 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+3 | P a g e  
+ 
+
+24.0 OTHER RELEVANT DATA AND INFORMATION .......................................................................... 51 
+
+25.0 INTERPRETATION AND CONCLUSIONS ...................................................................................... 52 
+
+26.0 RECOMMENDATIONS................................................................................................................ 53 
+
+26.1 Exploration of the Regional Potential ....................................................................................... 53 
+
+26.2 Detailed research at the mine site ............................................................................................ 54 
+
+27.0 REFERENCES .............................................................................................................................. 55 
+
+28.0 CERTIFICATE OF QUALIFIED PERSON ........................................................................................ 57 
+
+ 
+
+List of Figures 
+Figure 1:  Location diagram of the T'Boli Gold-Silver Project.     9 
+
+Figure 2:  Local diagram of the Mineral Tenements.      10 
+
+Figure 3:  Satellite image of the T'Boli area.       15 
+
+Figure 4: Regional Geological map of Mindanao.       22 
+
+Figure 5: Summary Stratigraphy of the Daguma Range.      24  
+
+Figure 6: Local Geological map at the T'Boli Project.      25 
+
+Figure 7: Plan projection of veins and structures from 550mRL.       26 
+
+Figure 8: Diagram of low sulphidation epithermal deposits.     27 
+
+Figure 9: Diagram of the boiling zones within a low sulphidation epithermal deposit.  28 
+
+Figure 10: Plan view of drill hole traces and underground development.    30  
+
+Figure 11: Exploration development face sketch example.     32 
+
+Figure 12: Face sampling information example from the 550mRL level.    33 
+
+Figure 13: Vertical Long Section of the north veins.       34 
+
+Figure 14: Vertical Long Section of the south veins.      35 
+
+Figure 15:  Graph of the results from ST462 Standard.      46   
+
+Figure 16:  Graph of the results from all duplicated samples.     47 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+4 | P a g e  
+ 
+
+List of Tables 
+ 
+
+Table 1:  MPSA No. 090-97-XI described in both PRS92 & WGS84 datum's.   10 
+
+Table 2:  Royalties and Taxes due on MPSA No. 090-97-X.I.     12 
+
+Table 3:  Breakdown of the underground development metres up end of 2017.   31 
+
+Table 4: Summary of defined higher-grade mineralized zones.     36 
+
+Table 5:  Summary of underground diamond drilling.      37 
+
+Table 6: Summary Drill Hole collar information       38 
+
+Table 7: Summary significant Drill Hole intersections table     40 
+
+Table 8:  Summary estimate of exploration expenses.      54 
+
+  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+5 | P a g e  
+ 
+
+1.0 SUMMARY 
+
+1.1 Introduction 
+This report was prepared for Rizal Resources Corporation ("Rizal" or "the Company"), a company 
+
+incorporated in British Columbia, Canada and listed on the TSX Venture Exchange ("TSXV").  The report 
+
+is a summary of available information at the T'Boli Gold-Silver Project ("T'Boli Project" or "the Project") 
+
+the main project within the T'Boli Property "T'Boli Property" or "the Property"), up to the effective 
+
+date of the report. 
+
+There is no current Mineral Resource or Mineral Reserve estimate for the T'Boli Project or for the 
+
+broader T'Boli Property and the focus of the current activities by the Company is on gathering 
+
+geological information for the purpose of completing a new Mineral Resource estimate.  The business 
+
+objective of the Company is to complete the work necessary to permit the evaluation of a commercial 
+
+production decision.  There is no guarantee that future exploration will result in the establishment of 
+
+a Mineral Resource or Mineral Reserves in quantities large enough to justify an economically viable 
+
+project.  Any production in the absence of a feasibility study and associated Mineral Reserves 
+
+demonstrating economic and technical viability is associated with an increased risk of failure of the 
+
+mining operation due to increased uncertainty of results. 
+
+The author, Steven Olsen, is an independent "Qualified Person" as is defined in NI 43-101 and has 
+
+experience with regard to the exploration, discovery, definition and mining of complex gold deposits 
+
+similar to the T'Boli Project. 
+
+1.2 Property Location and Ownership 
+The T'Boli Project is situated approximately 40km due east of the city of General Santos and lies within 
+
+the province of South Cotabato on the Island of Mindanao in the Philippines.  The Property is made 
+
+up of two agreements, known as MPSA (Mineral Production Sharing Agreement) No.090-97-XI and 
+
+APSA (Application for a Production Sharing Agreement) No. 51-XI.  These types of agreements cover 
+
+the rights to the Mining of Minerals as determined by the laws of the Philippines.  
+
+Both agreements are owned 100% by the Philippine company Tribal Mining Corporation ("TMC"), 
+
+which in turn is owned 40% by Rizal (maximum allowable under Philippines laws).  An option 
+
+agreement exists between TMC and Rizal which provides for all revenues earned from the mining and 
+
+processing operations to pertain to Rizal in return for a 0.5% royalty on the gross revenue earned from 
+
+the operations. 
+
+1.3 Geology and Mineralisation 
+The Project lies within a mountain range known as the Daguma Range that has formed as part of a 
+
+magmatic arc related to a subduction zone, which exists in the Celebes Sea along the position of the 
+
+Cotabato Trench.  The rocks that have formed within the Daguma Range are dominated by 
+
+Volcaniclasitic Rocks from various volcanic events over time and are intruded in places by a more 
+
+competent magmatic rock, which locally is observed in the form of a porphyritic Dacite rock.  These 
+
+two major rock types make up the host rocks for the gold mineralisation that exists at the Project.   
+
+In terms of the structural setting, it is interpreted that a long-standing period of east-west 
+
+compression, due to the location of Mindanao existing in between two converging subduction zones, 
+
+has resulted in a dominant large scale north-west striking sinistral strip-slip (transverse) faults that 
+
+exist in the south western corner of Mindanao.  Similar faults also developed at the T'Boli Project, with 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+6 | P a g e  
+ 
+
+sympathetic smaller scale north-west striking faults having a major influence on the location of the 
+
+gold mineralisation at the Project.   
+
+The gold mineralisation exists predominantly in association with tensional faults which link between 
+
+the many north-west striking strike-slip faults.  These linking faults appear to have developed in a 
+
+localised extensional environment creating normal fault movement along predominantly steep 
+
+southerly dipping faults, breccias and veins with occasional linking normal faults dipping in the 
+
+opposing direction to the north. 
+
+The geological environment and alteration associated with the gold mineralisation at T'Boli is 
+
+indicative of the deposit having developed in an intermediate to high level environment close to the 
+
+surface, often referred to as a "low sulphidation epithermal" environment.  Whilst the structural 
+
+controls on the emplacement of the gold and silver at the T'Boli Project have a very strong influence, 
+
+the interpreted depth of the mineralisation may also influence the amount of gold and silver that 
+
+exists throughout the deposit, which will be uncovered with further exploration. 
+
+1.4 Exploration Information and Data 
+The exploration activities at the T'Boli Project have focussed on a number of phases of diamond drilling 
+
+programs and underground development to expose and explore the mineralised structures.  The 
+
+diamond drilling has returned a large number of significant high-grade gold assays, which has provided 
+
+confidence that the Project does contain substantial quantities of gold for the consideration of a future 
+
+mining operation.  However, the complexity and continuity of these drill intersections were very 
+
+difficult to interpret without exposing these structures hosting the gold mineralisation and defining 
+
+these structures and the associated gold mineralisation over a broad area. 
+
+Therefore, the decision has been made at multiple stages to develop access into the locations 
+
+indicated by the drilling, and as indicated by the shallow small-scale gold mining, that existed on these 
+
+structures.  The development has occurred over two broad periods, including the current 
+
+development program.  Two large scale vein systems have been defined from this underground 
+
+development, which are known as the north veins and the south veins.  The north veins exist in the 
+
+porphyritic Dacite host rock and are closer to the access from the side of the mountain where the 
+
+portal locations and the mine site exists on the surface.  This has resulted in a reasonable 
+
+understanding of the north veins on one level, with a second level of exploration and development in 
+
+progress. 
+
+The south veins are an additional 80m to the South, which exist in the Volcaniclastic rock and are yet 
+
+to be fully developed on one level.  The drilling information indicates that this vein system has high 
+
+grade gold mineralisation developed in this area, and the host rock appears to be more permeable, 
+
+leading to the interpretation that greater amounts of gold bearing fluids may have passed through 
+
+this rock unit in comparison to the north veins which exist in the more competent and less permeable 
+
+porphyritic Dacitic rock. 
+
+The combined results from the underground development and drilling information appears to identify 
+
+over 300m of strike length on both the north veins and south veins that have potential for high grade 
+
+gold mineralisation.  The combined sections of high grade mineralisation defined to date totals more 
+
+than 450m of strike length.  Definition and confirmation of the continuity of the gold in between the 
+
+levels has yet to be established and this work is planned to take place (along with trial mining) in the 
+
+coming months. 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+7 | P a g e  
+ 
+
+1.5 Conclusions and Recommendations 
+The current focus at the T'Boli Project is constrained within a relatively small section of the of the 
+
+T'Boli Property and of the greater potential mineralised region.  This ongoing work program is critical 
+
+to understanding the key controls of the gold and silver mineralisation at the Project, and it is 
+
+recommended to continue this approach up to the point that the understanding of the controls on 
+
+the gold mineralisation will allow for a greater confidence in the interpretation and estimation of a 
+
+Mineral Resource from future drilling programs. 
+
+Of significance to the larger scale prospects and broader definition in the future is to consider testing 
+
+at much greater depths for gold mineralisation particularly on the south veins.  Combining this 
+
+information with some technical studies on the alteration minerals may help to understand how large 
+
+the system is, and possibly define or discover the most favourable locations where gold has come out 
+
+of solution (Boiling Zone) to form the highest concentration of gold in the region.  However, prior to 
+
+any deeper drill testing, it is also recommended that the Company consider the use of more advanced 
+
+and detailed geophysical surveys.  It is the view of the author that a detailed magnetic survey 
+
+combined with an Induced Polarisation ("IP") survey could be the most cost-effective way of 
+
+discovering a much larger part to this epithermal gold system at the Project.  Completing this survey 
+
+prior to any future drilling will aid greatly in positioning the drill tests into the best locations for 
+
+possible large scale and high-grade gold mineralisation.   
+
+It is estimated that a reasonable budget to complete an IP survey and detailed magnetic survey 
+
+including the required processing and interpretation would be in the order of C$150,000 to C$200,000. 
+
+Follow up drilling which required surface drilling is anticipated to cost more than C$1.5 million in the 
+
+initial phase to effectively test the potential from any targets identified from the IP and magnetic 
+
+surveys. 
+
+Targets that exists close to the existing mine site may be tested from the underground workings after 
+
+a dedicated tunnel is completed in an optimal position.  It is roughly estimated that a budget of 
+
+between C$600,000 and C$800,000 would be required for an initial phase of drill testing from a 
+
+dedicated underground drilling position. 
+
+  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+8 | P a g e  
+ 
+
+2.0 INTRODUCTION 
+This NI 43-101 technical report was prepared by Steven Olsen for Rizal Resources Corporation, a 
+
+company incorporated in British Columbia, Canada and listed on the TSX Venture Exchange ("TSXV").  
+
+This report has been prepared pursuant to the requirements of Canadian National Instrument 43-101: 
+
+Standards of Disclosure for Mineral Projects. 
+
+2.1 Sources of Information 
+The technical report is based on a review of information obtained from company databases, public 
+
+documents, assessment reports and literature sources cited in Section 27.  The author conducted 
+
+discussions and inspections of the data and underground exposures with the assistance of the 
+
+geologists and other technical staff at the T'Boli mine site.  In particular the author held interviews 
+
+with two senior geologists Ralph Perocho and Zhoi Luna whose local experience at the mine site 
+
+provided invaluable insights and information as well as Peter Main, Eumir Tiamzon, Bob Anderson and 
+
+Wayne Caldwell along with other staff at both the mine site and at the laboratory and processing 
+
+plant. 
+
+2.2 Personal Inspections 
+The author conducted 3 site visits and personal inspections over the period from 18 December 2017 
+
+up to 21 February 2018, for a total of 6 days at the T'Boli mine site as part of the work required to 
+
+review, assess and collate the information presented in this technical report.  All aspects of the 
+
+exploration activities at the Project were reviewed including underground workings and sampling 
+
+processes, exploration database and management, on-site laboratory and assay methodology, and 
+
+discussions with on-site technical staff for a review and assessment of the current and historical 
+
+information. 
+
+2.3 Independent Qualified Person 
+The author of this technical report is Steven Olsen, is an independent "Qualified Person" as defined 
+
+under National Instrument 43-101. 
+
+3.0 RELIANCE ON OTHER EXPERTS 
+The Qualified Person has relied, in respect to legal aspects regarding title rights, surface rights and 
+
+environmental liabilities and encumbrances, upon the work of the Expert listed below to the extent 
+
+permitted under NI 43-101, the Qualified Person disclaims responsibility for the relevant section of 
+
+the report. 
+
+• Expert: Roderick R. C. Salazar III legal counsel with the law firm of Fortun, Navasa & Salizar, 
+
+Philippines; 
+
+• Report, opinion or statement relied upon: information regarding title rights, surface rights, 
+
+royalty obligations and environmental liabilities and encumbrances (Salazar, R. 2017); 
+
+• Extent of reliance: Full reliance following a review by the Qualified Person; 
+
+• Portion of Technical Report to which the disclaimer applies: Section 4.  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+9 | P a g e  
+ 
+
+4.0 PROPERTY DESCRIPTION AND LOCATION 
+
+4.1 Property area and location 
+The T'Boli Gold-Silver Property lies within the province of South Cotabato on the island of Mindanao 
+
+in the Philippines.  The T'Boli Project is 130km to the southwest of Davao City and more locally situated 
+
+40km west of General Santos City.  The Project is found using the Philippine Reference System of 1992 
+
+(PRS92) (which references the Clarke 1866 ellipsoid and the Greenwich prime meridian) at Latitude 
+
+06o13' North and Longitude 124o49'East (Figure 1). 
+
+ 
+
+ 
+
+ 
+
+Figure 1:  Location diagram of the T'Boli Gold-Silver Property and Project, and its position within the 
+province of South Cotabato, on the Island of Mindanao, Republic of the Philippines. 
+
+ 
+More locally, the project lies within the local council region (called "Barangay" in the Philippines) of 
+
+Kematu and in the larger municipality of T'Boli.  
+
+Original tenement descriptions are in the Philippine Reference System of 1992 (PRS92). For 
+
+international reference the datum is converted to the World Geodetic System of 1984 Universal 
+
+Transverse Mercator Zone 51N ("WGS84") (Table 1). 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+10 | P a g e  
+ 
+
+Corner Latitude 
+(PRS92) 
+
+Longitude 
+(PRS92) 
+
+North 
+(WGS84 UTM) 
+
+East 
+(WGS84 UTM) 
+
+1 6°11'30" 124°51'00" 684,660.510 704,870.420 
+
+2 6°12'00" 124°51'00" 685,580.110 704,870.420 
+
+3 6°12'00" 124°51'30" 685,580.110 705,792.790 
+
+4 6°11'30" 124°51'30" 684,660.510 705,792.790 
+ 
+
+Table 1:  MPSA No. 090-97-XI Technical Description described in both PRS92 & WGS84 datums. 
+
+The approved MPSA (MPSA No. 090-97-XI) granted to TMC consists of a single block within the T'Boli 
+
+Property measuring a little over 920 meters on each side with a total area of 84.98 hectares. The MPSA 
+
+area is contiguous with and surrounded by APSA No.051-XI (otherwise referred to as the T'Boli 
+
+Property) covering a total area of 2,904.24 hectares (Figure 2). 
+
+ 
+Figure 2:  Local diagram of the T'Boli Gold-Silver Project Mineral Tenements and Property identified in 
+
+the WGS84 datum. The mine site location, is referenced relative to the MPSA and location of the mine 
+
+workings.  The position of additional historical workings and identified grab sample results that exist 
+
+within the surrounding APSA are also shown.  Note: Grab samples are selective and provide an 
+
+indication of the presence of mineralization only.  They should not be taken to represent the average 
+
+grade of potential Mineral Resources. 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+11 | P a g e  
+ 
+
+4.2 Nature of Title and Interest of the T'Boli Gold-Silver Property 
+The ownership structure of the T'Boli Property and T'Boli Project was established on February 15, 
+2004, as documented in a report provided by Andresan (2004) and as summarised in Christopher 
+(2005) as follows:  
+ 
+
+In 2004, Sur American Corporation (now Rizal Resources Corporation) acquired a 40% direct 
+interest in Tribal Mining Corporation ("TMC") which legally holds 100% interest in the T'Boli 
+property tenements. Sur American and TMC entered into a Mineral Processing Option 
+Agreement by virtue of which TMC granted Sur American irrevocable and exclusive option to 
+enter into a mineral processing agreement in respect of the right to process the ore from TMC 
+mineral areas. The parties agreed that both shall agree upon a fee or royalty to be paid by Sur 
+American to TMC in an amount not greater than one half of one percent (0.50%) of the gross 
+revenue earned from operations. The parties likewise agreed to provide that the net revenue 
+earned from processing and mining operations in the project areas shall pertain solely to Sur 
+American (Andresan, 2004). 
+
+ 
+More recent documentation sighted by the author with regard to the nature of the title and legal 
+
+interest in the T'Boli Property and T'Boli Project has been provided by legal firm Fortun, Navasa and 
+
+Salazar in a letter dated May 3, 2017 (Salazar, R. 2017).   This report identifies the following: 
+
+The T'Boli project is comprised of the two tenements MPSA (Mineral Production Sharing 
+
+Agreement) No. 090-97-XI ("the MPSA") and APSA (Application for Production Sharing 
+
+Agreement) No. 51-XI which are held in the name of Tribal Mining Corporation (TMC).  
+
+The MPSA has an area of 84.98 Ha and was approved 20 November 1997. The MPSA is an 
+
+agreement for mineral sharing with the Philippines and has a term of 25 years that can be 
+
+renewed for a further 25 years (prior to November 20, 2022). The APSA has an area of 2,904.24 
+
+Ha and was awarded to TMC26 January 1998 (Figure 2).  The MPSA pursuant to the Republic 
+
+Act No. 7942, An act instituting a New System of Mineral Resources Exploration, Utilization 
+
+and Conservation and its revise implementing rules and regulations provide for the 
+
+exploration, sustainable development and commercial utilization of copper, gold, 
+
+molybdenum, silver, etc and other deposit existing within the contract area, with all necessary 
+
+services, technology, and financing to be furnished or arranged by the contractor and TMC 
+
+under the contract is constituted and appointed as the exclusive entity to conduct mining 
+
+operations in the contract area. 
+
+4.3 Surface rights 
+TMC has the surface rights to access the mine workings and a government permit to transport material 
+
+from the mine site to the mineral process plant.  Despite the fact that the rights up to the surface have 
+
+been granted to TMC, there is a practice at a local level of small scale miners accessing the shallow 
+
+parts of the gold mineralisation from a series of small underground tunnels ("small scale miners").  
+
+This is a practice that has existed since the initial discovery of gold in the region in the 1980's. 
+
+To enable TMC to operate uninhibited on its mining lease the Company has entered into an agreement 
+
+with the small-scale miners in the immediate area constrained within its MPSA known as the Drain 
+
+tunnel. The cooperative of small scalers agreed to cede possession and control of the Drain Tunnel 
+
+which is adjacent to the Mafoko Tunnel. In turn the small-scalers agreed to payment terms over 5 
+
+years. This agreement effectively has enabled TMC to carry out operating activities uninterrupted.  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+12 | P a g e  
+ 
+
+4.4 Royalties and Penalties 
+Rizal operates the project through affiliated company TMC and has an exclusive right on the basis of 
+
+a Mineral Processing Agreement to process material from the TMC areas for a fee or royalty payable 
+
+to TMC in an amount not greater than 0.5% of gross revenue from operations. 
+
+Additional government and local taxes are tabulated in Table 2 below (Salazar R., 2017). 
+
+Origin Royalty Act 
+
+Excise Tax 2% of gross sales Mining Act 1995 
+
+Memorandum of 
+Understanding ("MOA") 
+with local community 
+stakeholders 
+
+1% of gross sales plus 
+
+provision of scholarships, 
+
+health program, 
+
+infrastructure and other 
+
+social programs. 
+
+Indigenous Peoples' Rights 
+Act of 1997 (IPRA 1997) 
+
+Municipal Tax 1% of the gross sales Local Government Code 
+Republic Act No. 7160 
+
+Table 2:  Royalties and Taxes due on MPSA No. 090-97-XI 
+
+4.5 Environmental Liabilities and Encumbrances 
+TMC has an approved environmental protection and enhancement program and final rehabilitation 
+
+and/or decommissioning plan dated July 2012.  This plan provides for detailed descriptions with regard 
+
+to the required environmental management and final rehabilitation of the T'Boli Project in connection 
+
+with any future production at the mine site. 
+
+As part of the approved rehabilitation plan, there is a requirement for the Company to make gradual 
+
+payments into a "Rehabilitation Fund" over the life of the MPSA (granted up to November 20, 2022) 
+
+up to a total of P42.4 million (C$1.06 million at exchange rate of 40:1, C$ to PHP) 
+
+4.6 Permits Required for Conducting the planned Exploration Activities 
+The Company has in place the permits it requires to operate as an exploration Company within the 
+
+MPSA, which is still at the exploration stage.  A summary of the current permits and subsequent 
+
+additional permitting requirements are summarised as follows. (note: the use of the word "ore" in this 
+
+section is used to accurately reflect the terminology used in the permits that are associated with the 
+
+T'Boli Project and are not meant to imply that the project has any currently defined Mineral Resources 
+
+or Mineral Reserves). 
+
+4.6.1 Approvals for Exploration Development 
+TMC has been granted an amended Environmental Compliance Certificate (ECC) for the extraction of 
+
+"Ore for Gold Mining" located at Sitio Tunnel, Barangay Kematu, T'boli, South Cotabato by the 
+
+Department of Environment and Natural Resources (DENR), through the Environmental Management 
+
+Bureau, Region XII. The ECC issuance is under the purview of Presidential Decree 1586. The scope of 
+
+the ECC covers the extraction of "Ore for Gold Mining" at the Project contained only within the mining 
+
+development project area of 84 hectares under the MPSA -090-97-XI located in the above-said place 
+
+and that the "ore extraction capacity" of the project shall not exceed 140,000 MT per year. 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+13 | P a g e  
+ 
+
+4.6.2 Approvals for Mineral Processing 
+The Philippines government has granted permission for TMC to mine within the MPSA and undertake 
+
+mining and milling operations up to 72,000 tonnes of "ore" per annum.  TMC has been issued a five 
+
+(5) Year Mineral Processing Permit (MPP) Tenement No. 001-2012 –XII, dated November 05, 2012 and 
+
+expired on November 4, 2017, by the Mines and Geosciences Bureau, a line Bureau of the Department 
+
+of Environment and Natural Resources responsible and accountable on the supervision and 
+
+monitoring of the Large-Scale Mining Industry activities issued with Mineral Agreements. On February 
+
+9, 2018, a renewal Mineral Processing Permit was issued to TMC which will expire on February 8, 2023. 
+
+Under the general conditions of the ECC, TMC has secured all necessary requirements as CCO 
+
+Registration Certificate for the use of Cyanide pursuant to RA 6969 otherwise known as the "Toxic 
+
+substance and Hazardous Nuclear Waste Act of 1990" Permit to Operate, Air Pollution, Source and 
+
+Control Installation for the generator sets, Waste Water Discharge Permit, Hazardous Waste 
+
+Generator Registration Certificate. The Hazardous Wastes and Materials Recovery Facilities as well as 
+
+Mechanical and Electrical Permits were issued to TMC. Also, all other special conditions provided in 
+
+the ECC were complied with by TMC. Similarly, under the operation of the Mineral Processing Plant, 
+
+TMC has been granted an Amended, Environmental Compliance Certificate R -121508-0065 for the 
+
+Gold Processing Plant project located at Purok Pag-asa, Barangay Edwards, T'boli, South Cotabato by 
+
+the Department of Environment and Natural Resources (DENR) through the EMB whereby all General 
+
+conditions as well as special conditions were complied with by the TMC.  
+
+For the Tailings storage facility, the amended ECC for the Gold- Processing Plant Project provides that 
+
+the operation of a Gold – Processing Plant Project and its appurtenances within the 4.1 hectares area 
+
+covered with TCT Nos. T -941, TCT – T -1539, and TCT –T – 4650 wherein the TSF 1, 2, 3 and 4 of TMC 
+
+are located and constructed.  
+
+4.6.3 Approvals required prior to production 
+On April 30, 2015, the DENR issued an Administrative Order (DAO) 2015-07 requiring all contractors 
+
+of mines in the operating stage to secure an ISO14001 Certification.  As TMC is deemed not to be at 
+
+the operating stage it is not currently subject to this requirement. 
+
+4.6.4 Requirement for a Social Development Plan 
+The Philippines Government requires mining companies to obtain agreements with local residents and 
+indigenous people prior to mining activities taking place.  TMC has in place the required agreements 
+which were obtained as part of its Community Development Program, which will expire prior to the 
+end of 2018.  It is anticipated that extensions to this agreement and an update to the Company's 
+Community Development Program will be required in connection with future mining activities at the 
+project. 
+ 
+
+4.6.5 Other Surface Exploration Activities 
+With regard to all other surface based exploration activities, the MPSA and APSA permits held by TMC 
+
+and duly recognized by the Philippine government allow for the recommended exploration work 
+
+programs. Exploration work programs are prepared as three (3) year work programs that are approved 
+
+by the MGB (Mines & Geoscience Bureau) and are updated by Rizal and TMC as required.  There are 
+
+no planned surface exploration work programs in place at this point in time, and approval will be 
+
+required for any planned surface-based exploration activities that are outside of the activities 
+
+associated with the T'Boli mine site. 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+14 | P a g e  
+ 
+
+4.7 Significant Factors and Risks 
+In July 2012 the Philippines government approved an executive order which effectively provides for a 
+
+moratorium on all new mining project approvals.  The current approved MPSA associated with the 
+
+T'Boli Project has been approved up to November 20, 2022.  While there have been positive discussion 
+
+and announcements by the Philippines government with regard to lifting this moratorium, there is no 
+
+guarantee that this moratorium will be lifted or that another impediment to obtaining future mining 
+
+approvals will not develop. 
+
+The Company does not have a current Mineral Resources at this point in time.  There is no guarantee 
+
+that future exploration will result in the establishment of a Mineral Resource or Mineral Reserves in 
+
+quantities large enough to justify an economically viable project.   
+
+ 
+
+  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+15 | P a g e  
+ 
+
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE 
+
+AND PHYSIOGRAPHY 
+
+5.1  Access 
+There is a domestic airport at General Santos City with multiple daily flights from the international 
+
+airport in Manila (NAIA).  Access to T'Boli from General Santos is initially via a paved highway to the 
+
+local towns of Koronadal City and Surallah and then on to the township of T'Boli (Figure 3). 
+
+From the T'Boli town site the Property can be accessed via a gravel and secondary roads and trails to 
+
+various locations within the Property and main underground workings. 
+
+ 
+
+ 
+
+Figure 3:  Satellite image from Google Earth of the T'Boli Property and Project relative to General 
+
+Santos, highlighting the position relative to extinct volcanic crater of Mt Parker, and the road access 
+
+from General Santos, up to Koranadal, then Surallah and then back down to the township of T'Boli. 
+
+5.2 Climate 
+The T'Boli area is centred at 6o13'N latitude which results in a tropical climate.  The area is typical of 
+tropical rainforest environments with rain throughout the year but a heavy rain season from June 
+through October influenced by the southwest monsoons.  The northeast trade winds influence the 
+climate from December through May resulting in a dryer season from February through May.  An 
+average of 1770mm of rain falls annually. 
+ 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+16 | P a g e  
+ 
+
+The elevation in the T'Boli region, is between 500m and 800m above sea level, which provides for a 
+slightly lower temperature and humidity in comparison to the lower lying coastal regions.  
+Temperatures range from 18o to 30oC with generally high humidity. The average temperature is about 
+24.4oC with cooler months from November to February and hotter from March through May.  
+ 
+The area is protected from typhoons by local mountains and is outside the 10o40' latitudes where 
+typhoons are more prevalent.   
+ 
+Activities at T'Boli are not expected to be significantly impacted by seasonal variations and the project 
+is accessible all year round. 
+ 
+
+5.3 Flora and Fauna 
+Throughout the island of Mindanao, most of the traditional forested areas have been cleared and now 
+
+have become grazing land, with the more fertile land portions used for crops. 
+
+Mindanao has no large predators except for pythons, cobras, the world's largest eagle and rare sea 
+
+water crocodiles. There are 1100 recorded land invertebrates, 100 mammal species, and 170 bird 
+
+species.  
+
+Within the MPSA and APSA district, the predominant fauna is domesticated livestock and the 
+
+landscape is characterized by patchy forest interspersed with agricultural plots planted to corn, 
+
+pineapple, bananas and other fruit trees by the local inhabitants. There are also industrial pineapple 
+
+and banana plantations. 
+
+5.4 Local Resources and Infrastructure 
+There is an international airport in Manila and Davao as well a domestic airport at General Santos. The 
+
+access to the Project is serviced by 100km of generally well maintained all weather roads from General 
+
+Santos. 
+
+Power is available via the Mindanao power grid and water is abundant from within the underground 
+
+excavations. Power at the mine portal is supplied by diesel generators to provide underground 
+
+dewatering and ventilation. Additional diesel generators are located at camp accommodation and trial 
+
+milling facilities.   
+
+At the time of the site visit by the author, Grid Power had been established at the Company's 
+
+processing plant and connections were being established up to the Company's mine site.  It is 
+
+anticipated that, the Project in the future will be connected to Grid Power removing the requirement 
+
+for the use of the diesel generators (other than for back-up power). 
+
+Philippines has a long history of underground mining and an additional skilled underground workforce 
+
+can be assembled from alternative mining locations within the Philippines. 
+
+At the current point in time the processing plant utilises recycled water from its tailings facility which 
+
+is adequate for the small tonnage rate that is currently being processed as part of the exploration 
+
+development activities.   
+
+ 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+17 | P a g e  
+ 
+
+5.5 Physiography  
+The municipality of T'Boli is nestled in a moderately rugged to rolling terrain with valleys and steep 
+
+mountainous slopes. The largest mountain, Mt Malibengog volcano (more popularly known as Mt 
+
+Parker) has a water-filled caldera called Lake Holon (formerly called Lake Maughan) and is now a 
+
+tourist attraction (Figure 3). 
+
+The Property district topography is dominated by paleo-volcanic piles and intrusions that have been 
+
+rapidly eroded by the tropical climate, that has created a geomorphology of steep volcanic slopes, 
+
+ridgelines, incised rivers systems and local broad fertile plains. 
+
+ 
+
+  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+18 | P a g e  
+ 
+
+6.0 HISTORY 
+
+6.1  Past Exploration 
+Gold was first discovered in the T'Boli region by local prospectors in the early 1980's.  This discovery 
+
+led to a period called the T'Boli gold rush, which was a period of artisanal style small scale mining, 
+
+which peaked in the early 1990's.  Cooper (2002) reports that records of gold buyers indicated that 
+
+some 400,000ozs (gold silver ratio unknown) was extracted by small scale miners using basic hand-
+
+held mining methods. 
+
+More organized mining groups later accessed deeper parts of the mineralization by excavating the 
+
+380m Beehive and 260m Cualing adits.  Both the Beehive and Cualing adits exist within Rizal's MPSA 
+
+and APSA respectively.  The Beehive adit exists close to the current mine workings but is no longer 
+
+accessible. 
+
+The first modern exploration in the T'Boli area was conducted between 1994 and 1996 by Chase 
+
+Minerals Corporation and Lemura Minerals Resources Corporation and included sampling of artisanal 
+
+workings, regional mapping, ground magnetics, soil geochemistry, trenching and diamond drilling.  
+
+Cooper (2002) summarised the exploration work completed during this period as follows: 
+
+• Soil sampling on 100m x 40-80 m grid over 65 lines. The C horizon was assayed by auguring 
+down to about 1 m. 
+
+• Rock chips (306), which were taken in 27 small miner tunnels by chip channelling every 3 m. 
+
+• Thirty trenches were dug with 3000 m of channel chip sampling. At Lam Asam South, trenching 
+results included 9.5 m at 1.02 g/t Au and 22 m at 1.1 g/t Au. Anomalous gold values were 
+picked up in soil geochemistry 1 km to the east, which appear to lie on the same structural 
+trend as Lam Asam. 
+
+• Ground Magnetics. 152 line km. was completed by McPhar Geoservices on a 50 m x 20 m grid, 
+using a G-816 portable Geometrics proton magnetometer. 
+
+• Four diamond drillholes (1640 m) numbered TDH 1- 4 were drilled for Chase Minerals 
+Corporation by Asia Pacific Mineral Corp in the Lam Asam area. Hole TDH-1 ended in 
+mineralisation (0.9 g/t Au) with the last 67.7 m averaging 0.5 g/t Au. The intercept was 
+reported to be in hydrothermal breccia and tested the edge of highly silicified and brecciated 
+dacite porphyry from which surface sampling had returned 50 m at 3.0 g/t Au. TDH-2 was 
+drilled from the same collar position as hole 1 but tested below it. It located minor brecciation 
+and below 100m depth a 50 m zone at 0.3 g/t Au was intersected, which appeared to correlate 
+with the intersection in the first hole. The Author's interpretation, based on field observation 
+and re-logging of core, suggests that the target zone dips away from the drill collar site and 
+that hole 2 did not reach the target while hole 1 was stopped in mineralisation. TDH-3 drilled 
+barren dacite porphyry. TDH-4 returned three zones of interest below a depth of 240 m, 14 m 
+at 0.48 g/t Au, 3m at 0.19 g/t Au and 7 m at 0.34 g/t Au. 
+
+• All samples from the Chase Minerals Corporation work were prepared at its base camp and 
+then dispatched to McPhar in Manila for assay. The 2 kg soil samples were sieved –80 mesh, 
+pan concentrates were wet sieved and 100g. of each were despatched to McPhar. Rock 
+samples were crushed to – 2 mm with hammer and mortar and 250g riffle split. Core samples 
+were cut by saw or hand split in non-mineralised zones and half sent for assay. Assays of core 
+used a 50g fire assay for gold. For all other elements, including copper, lead and zinc, AAS 
+methods were used. Other areas of anomalous gold were located. Breccias and abundant 
+quartz veining were found at Kematu West, and at Kematu South, trenching across altered 
+breccia returned gold grades up to 0.5 g/t Au. 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+19 | P a g e  
+ 
+
+ 
+ 
+
+Following on from the work completed by Chase Minerals Corporation, an Australian publicly listed 
+
+company, Eastern Corporation Limited ("Eastern") obtained an interest in T'Boli after signing an 
+
+agreement with T'Boli Gold Corporation in 1996 through its Philippine subsidiary Tibalina Pty. Ltd. to 
+
+hold exclusive exploration rights to the Project. Tibalina Pty. Ltd. changed its name to Tibalina Limited 
+
+on 7th April 2000 and then to Sabena Limited on 12th July 2000. 
+
+Eastern completed a 7,057m diamond drilling program (23 holes) and mapped, surveyed and took 184 
+
+adit samples.  Cooper (2002) summarised the exploration work completed by Eastern as follows: 
+
+Eastern completed a phase of drilling of 23 diamond holes, for 7,050m using drilling contractor 
+United Pacific Drilling (a drilling company with substantial experience in PNG, at Porgera and 
+Lihir, and in the Philippines). Core size used in the programme was HQ, PQ and NQ size core 
+all using triple tube core recovery system. Core recovery was excellent except for a few of the 
+early holes. 
+
+ 
+For surface drilling, PQ was used for the first 100 m, HQ to 250 m and NQ beyond that, 
+underground holes were collared HQ and completed in NQ. 
+
+ 
+The drilling was carried out using up to three drill rigs, these included one drill rig operating 
+from underground sites in the Beehive Adit and two drill rigs from surface sites Most holes 
+were drilled in two fans from the two underground drill sites in the Beehive adit, either sub-
+horizontally or directed below the adit level. Because of the dip of the vein systems only a few 
+holes have been drilled above the adit level from underground. The drilling pattern included 
+fans of holes both laterally and vertically below the adit level, testing a 200 m strike length 
+and approx 200 m vertical height of the south veins (Fig 10) and 60 m strike of the north veins. 
+The drill density is irregular and there are blocks of potential mineralisation, which have not 
+been evaluated, either by drilling or by the sampling of old workings. The drill results indicate 
+that there is continuity of veins at widths and grades. 
+
+ 
+A single shot Eastman camera was used for down hole surveys with survey measurements 
+taken approximately every 30m down the holes. The Eastman camera was calibrated regularly 
+on a surveyed testing bench. 
+
+ 
+Some of the better drilling intersections from the drilling completed by Eastern (which also 
+exist in the current T'Boli drill hole database) are given below. 
+
+ 
+
+• TD022 4m at 5.3 g/t Au (including 1 m at 17.9 g/t Au) 
+
+• TD018 8 m at 4.5 g/t Au (including 3 m at 10.5 g/t Au) 
+
+• TD001 16 m at 2.4 g/t Au (including 2 m at 7.1 g/t Au) 
+
+• TD008 12 m at 7.1 g/t Au (including 4 m at 18.7 g/t Au) 
+
+• TD003 4 m at 13.4 g/t Au and 8 m at 15.2 g/t Au) 
+
+• TD006 10 m at 3.6 g/t Au (including 5 m at 6.0 g/t Au) 
+
+In December 2002, Sur American Gold Corporation ("Sur American") announced it had entered into 
+
+an agreement with Eastern to earn up to 70% interest in Sabena Limited ("Sabena"), a subsidiary of 
+
+Eastern.  Sabena at the time owned interests or had agreements in place to acquire interests in a 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+20 | P a g e  
+ 
+
+group of gold and copper-gold exploration projects on Mindanao Island in the Philippines.  The T'Boli 
+
+Project was one of the Sabena projects.   
+
+On February 15, 2004, the ownership structure with regard to the T'Boli Project which survives today 
+
+under the ownership of Rizal was established.   This structure was first established under the name of 
+
+Sur American Corporation, which changed its name to Cadan Resources Corporate on August 28, 2007 
+
+and then changed its name again in October 2016 to Rizal Resources Corporation.  
+
+Past exploration is referred to in this report as the broad exploration activities identified up to the 
+
+point that the current ownership structure was established in February 2004.  Exploration activities 
+
+completed by Rizal, under both the names of Sur American, Cadan and Rizal is covered in section 9 
+
+through to section 12 of this report. 
+
+6.2 Historical Mineral Resource Estimates 
+As of the effective date of this Technical Report the T'Boli Project does not have a current Mineral 
+
+Resource estimate.  However, over the course of the modern exploration activity at the Project one 
+
+historical Mineral Resource estimate has been reported.   
+
+The author cautions that a qualified person has not done sufficient work to classify the following 
+
+historical estimates as a current Mineral Resource and the issuer is not treating the historical estimate 
+
+as a current Mineral Resource. 
+
+In October 1997, Ian Cooper reported for the first time a Mineral Resource estimate in accordance 
+
+with the JORC Code in Australia on behalf of Eastern.  The Mineral Resource estimate reported by I. 
+
+Cooper in 1997 defined an Inferred Mineral Resource of 2.4Mt @ 5.5g/t gold and 21g/t silver, for a 
+
+total of 420,000ozs of gold and 1.6 million ounces of Silver. 
+
+The historical Mineral Resource estimate is based on a subset of the information available today along 
+
+with the understanding of the gold Mineralisation at the time.  Any future Mineral Resource estimate 
+
+will utilise a larger dataset that is available over a broader area and is likely to include parameters that 
+
+are based on a greater understanding of the distribution and continuity of the gold mineralisation at 
+
+the T'Boli Project.  Therefore, the information leading to the reported historical Mineral Resource 
+
+estimate is outdated and has limited relevance with regard to the current assessment of the T'Boli 
+
+Project. 
+
+The 1997 Mineral Resource Estimate utilised drill hole information that was completed at the time, 
+
+which were TD001 to TD023.  In addition, they reportedly included a total of 467 adit samples that 
+
+were also available at that time.  The 1997 Mineral Resource estimate used the following reported 
+
+parameters to create the Mineral Resource Estimate: 
+
+• Dilution was only applied to tunnel sampling. Here all samples were diluted to a 2.5m nominal 
+
+vein width at zero grade for included wallrock. 
+
+• Adit sample and drilling sample data were treated as two separate data sets. Data from adit 
+
+sampling and from drilling were treated as separate data sets due to differences in sample 
+
+density and other factors. 
+
+• The assay data distribution has led to a high cut off of 30 g/t Au being applied to the raw drill 
+
+data and 466.7 g/t Au to the adit sampling data. Cuts are made prior to normalising to 2.5m 
+
+widths. This has eliminated the effect of a very small number of high grade assays on 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+21 | P a g e  
+ 
+
+calculations. Silver values were also included in the resource estimations for the adit sampling 
+
+data with a cut off of 439.6 g/t Ag. 
+
+• The numerous workings dug by small scale miners are to gain access to the richest portions of 
+
+the veins, thus sampling is biased, being mainly confined to the high values, often on specific 
+
+veins.  The drill data on the other hand is able to look at the broad stockwork mineralisation 
+
+as well.  Where drilling and workings overlap the drilling has precedence in estimations. 
+
+• For drilling, cut offs were at 0.5 g/t Au and 30 g/t Au. Silver grades were cut above 243.6 g/t. 
+
+The top cut was based on log normal probability analysis which indicated a change of slope in 
+
+the sample population. 
+
+• Projections were 20 m up and down dip and along strike. 
+
+• Once continuity of the envelope was established a second interpretation at a 1 g/t cutoff was 
+
+made. 
+
+• For adit sampling the corresponding cuts were 1 g/t Au and 466.72 g/t Au. Silver grades were 
+
+cut above 439.6 g/t. Projections were made 20 m along strike, 20 m down dip, and up dip to 
+
+the surface. Widths were taken out to a minimum of 2.5 m. 
+
+• Exa-Min constructed a three dimensional model of the mineralisation based on interpretation 
+
+by Eastern geologists and consultants. 
+
+• Grade was estimated using an inverse squared method for the adit sampling. For the drill data 
+
+set two methods were used for grade estimation. One based on a simple average of all assays 
+
+within the solid, the second used a statistical program (Sichel's t-estimator). No volumes were 
+
+removed to account for workings and stopes as this figure is thought to be less than 5% 
+
+overall. 
+
+The historical Mineral Resource estimate was reported in accordance with the JORC code as at 1997, 
+
+as an Inferred Mineral Resource, which is equivalent to an Inferred Mineral Resource as defined in 
+
+NI43-101.  
+
+6.3 Mining Tenement History 
+An Exploration Permit was granted to Tibalina Pty Ltd covering the existing MPSA on October 17, 1996. 
+
+Subsequently Tibalina Pty Ltd relinquished the Exploration Permit and Tribal Mining Corporation 
+
+("TMC") together with Holon Mining Corporation ("HMC") entered into an agreement with Kematu 
+
+Gold Corporation ("KGC") to become exclusive operators over the area. KGC and HMC were 
+
+collectively granted the APSA No. 049-XI and APSA No. 051-XI. 
+
+On January 26, 1998, the Board of Directors and Stockholders of HMC transferred the mining rights 
+
+for the APSA No. 051-XI to TMC. On November 20, 1997, the MPSA No. 090-97-XI was granted to TMC 
+
+by then Department of Energy and Natural Resources ("DENR") Secretary Hon Victor O. Ramos. The 
+
+MPSA is surrounded by the APSA No. 51-XI (Figure 3). 
+
+TMC is the 100% owner of the MPSA No 090-97-XI and APSA No. 051-XI agreements.  The ownership 
+
+structure and relationship between Rizal and TMC is identified in section 4.2. 
+
+  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+22 | P a g e  
+ 
+
+7.0 GEOLOGICAL SETTING AND MINERALIZATION 
+
+7.1 Regional Geology 
+The T'Boli Project is situated within a major northwest-trending mountain range called the Daguma 
+
+Range (Figure 4).  The Daguma Range is on the South West corner of the Island of Mindanao, which is 
+
+a magmatic arc trending parallel to its associated north east-verging subduction zone, defined by the 
+
+Cotabato Trench.  The Cotabato Trench is situated 100km to the southwest of the Daguma Range, 
+
+offshore in the Celebes Sea.  Partly on-lapping and bounding the Daguma Range to the northeast is a 
+
+major sedimentary basin (back-arc basin) known as the Cotabato Basin. 
+
+ 
+
+ 
+
+Figure 4: Regional Geological map of Mindanao showing the broad geological setting of the T'Boli 
+
+Project (modified after Middleton et al.,2004).  Major influencing regional features on the geology at 
+
+T'Boli include the Cotabato Trench situated 100km to the west off-shore, and a series of major strike-
+
+slip faults, associated with the Cotabato Fault Zone, situated to the immediate West of the Daguma 
+
+Range where T'Boli is located. 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+23 | P a g e  
+ 
+
+7.1.1 Structural Setting 
+The most significant structural trend in the south western corner of Mindanao is dominated by a large 
+
+transverse fault zone, called the Cotabato Fault Zone (Figure 4). This is a sinistral, strike-slip fault zone 
+
+runs in a north-west orientation.  Further to the south-east there exist parallel faults which define the 
+
+boundary between the Daguma Range and the Cotabato Basin.   
+
+Further parallel faulting also exists within the Daguma range, where a series of associated east-west 
+
+striking tensional faults have developed which link up with the north-west trending strike-slip faults.  
+
+It is along the east-west trending tensional faults that vein type hydrothermal deposits have developed 
+
+such as the T'Boli Gold-Silver system in the south-eastern edge of the Daguma Range (Figure 4). 
+
+More locally at the T'Boli Project, the major controlling north-west striking faults are the Kematu and 
+
+the Desawu faults (Figure 6).  The known gold silver mineralisation at T'Boli exists predominantly on 
+
+east-west trending tension structures that exist between these two major controlling faults.  
+
+ 7.1.2 Stratigraphy 
+The general region of the T'Boli area was mapped originally by the Bureau of Mines as part of a 
+
+programme of regional geological mapping by Santos and Baptista (1963).  This work was followed up 
+
+in more detail by Villamore and Muere in 1990 not long after the discovery of gold at T'Boli. 
+
+The local stratigraphy, as defined by Santos and Baptista (1963) within the Daguma Range was formed 
+
+as part of the Cretaceous to Tertiary Cotabato magmatic arc, in association with the Cotabato Trench.  
+
+The geological formations originally mapped by Santos and Baptista (1963) in order of increasing age 
+
+are listed in figure 5 (after Penna, 2008). 
+
+The basement consists principally of volcanic flows and breccias with coarse volcaniclastic rocks that 
+
+constitute the Kiamba Formation, which in places, lies unconformably over the Salbuyon Schists.  
+
+During the Early Oligocene the basement rocks of the Kiamba Formation and Salbuyon Schists were 
+
+intruded by a Hornblende rich porphyritic diorite called the Daguma Diorite.   
+
+In the Late Oligocene to Miocene, clastic rocks and limestone, including Cablacan Formation were 
+
+deposited, which is intercalated with andesite flows and breccias.  A further series of intrusive rocks 
+
+formed in the Middle Miocene, defined by the Tual Quartz Diorite, which has been observed to intrude 
+
+the Kiamba and Cablacan formations in the vicinity of Kiamba, where there exists a number of iron 
+
+and copper prospects associated with the intrusion. A sequence of sedimentary rocks consisting of 
+
+Tampanan Limestone, Siguil Formation and Allah Formation characterize the Middle to Late Miocene 
+
+package that was laid over the older rock formations. 
+
+7.2 Local Geology 
+The rock units in the immediate T'Boli area are underlain by dacitic to andesitic, and some locally 
+
+basaltic agglomerates, flows and tuffs, intruded by high level dacite porphyry rocks (Figure 6).  
+
+Petrographic work conducted by the Philippine Mines and Geosciences Bureau in 2012 on samples 
+
+submitted by Rizal defined the tuff as a dacite, lapili tuff and confirmed the composition of the dacite 
+
+with approximately 5% quartz. 
+
+ 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+24 | P a g e  
+ 
+
+ 
+
+Figure 5: Summary Stratigraphy of the Daguma Range, after Penna 2008.   
+
+The exploration effort by Rizal at T'Boli is currently focused on a structural corridor defined by the 
+
+north-westerly trending Kematu and Desawu Faults (Figure 6).  The gold mineralisation exists 
+
+predominantly within a series of east-west striking vein and breccia zones or structures which are 
+
+interpreted to be linking tensional veins and structures between a series of north-westerly striking 
+
+sinistral strike-slip faults.  The east-west tensional veins have a dominant southerly dip and appear to 
+
+have developed in a localised extensional environment resulting in the steep southerly dipping normal 
+
+faults, with occasional north dipping linking normal faults as the rocks have been pulled apart. 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+25 | P a g e  
+ 
+
+ 
+
+Figure 6: Local Geological map highlighting the area of focus at the T'Boli Gold-Silver Project, situated 
+
+between the Kematu and Desawu Faults. 
+
+The alteration of the host rocks, which is often mineralised, is observable for usually a few metres 
+
+surrounding the more significant structures, or over a broader thickness where there is a cluster of 
+
+proximal structures which appear to have provided a location for greater fluid flow resulting in a larger 
+
+halo of alteration into the host rock.  When the mineralized structures come close together, there is 
+
+often low-grade mineralization within the altered host rock between the structures.   
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+26 | P a g e  
+ 
+
+There are two broad structural "Domains" which are known as the north veins, hosted in a Dacitic 
+
+rock, and the south veins, which straddle a Dacite/Volcaniclastic boundary, but are predominantly 
+
+hosted within a Volcaniclastic rock (Figure 7).  
+
+Each domain has a set of structures/narrow veins which are predominantly striking in an east-west 
+
+orientation and are dipping steeply to south, at between 60 degrees and 90 degrees. In some locations 
+
+a complex series of veins have developed over an area covering a total of 30m in width.  Not all the 
+
+vein structures contain high grade gold mineralization, and progress continues to be made with regard 
+
+to understanding the controls on the higher-grade sections of the veins and structures that exist at 
+
+the T'Boli Project. 
+
+ 
+
+Figure 7: Plan projection of the mapped veins and structures from the exploration development at the 
+
+550mRL level.  The two separate vein systems are highlighted with the referenced location of the 
+
+vertical long sections for both the north veins (A-A') and south veins (B-B') as shown in figures 13 and 
+
+14 respectively (see section 9.0). 
+
+There are some observable faults that have developed in a north-western direction parallel to the 
+
+regionally dominant east-west trending transverse faults.  These faults occasionally display narrow 
+
+veining and gold mineralization.  Although some gold mineralization occurs on these faults, they are 
+
+generally "tight" structures with only minimal narrow vein gold and surrounding alteration in the wall 
+
+rock. 
+
+ 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+27 | P a g e  
+ 
+
+8.0 DEPOSIT TYPES 
+The author has observed that both the geological setting and alteration characteristics at T'Boli agree 
+
+with the interpretation of previous authors who have studied and documented their findings on the 
+
+Project.  The geological environment which has resulted in the mineralisation at the T'Boli Project is 
+
+interpreted to be analogous to the types of deposits which are classified as a low-sulphidation 
+
+epithermal deposit (Corbett, 2002; Figure 8). 
+
+ 
+
+Figure 8: Schematic representation of the geological environment for the formation of intermediate to 
+
+low sulphidation epithermal deposits (after Corbett, 2002). 
+
+Evidence presented by previous authors to support this interpretation include the following: 
+
+Pyper (2000) stated: "The mineralogy, based on field and petrological information, is skewed toward 
+
+the silicasulphide and carbonate-base metal type. The highest gold grades are found associated with 
+
+potassic feldspar, comb quartz and base metal sulphides, with the clay alteration and other features 
+
+suggesting that the mineralization is of the classic quartz-adularia-sericite, boiling zone style found in 
+
+high level epithermal system. It has similarities to other deposits, many of which, such as Porgera, are 
+
+world class." 
+
+Other carbonate base metal hot style systems of the SW Pacific include Acupan, Wau, Kelian, Mt. Kare 
+
+and Gold Ridge (Cooper, 2002). 
+
+Cooper (2002) also stated: T'Boli is an epithermal vein and stockwork system carrying gold and silver 
+
+and is thought to be of the carbonate base metal hot spring style as defined by Leach and Corbett 
+
+(1994).  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+28 | P a g e  
+ 
+
+ 
+
+An important interpretation of how the gold has formed within these deposit types, is that the gold 
+
+has been carried within hot fluids from a magmatic source location up until the point (closer to the 
+
+surface) where the environment is favourable for the gold to come out of solution and the gold can 
+
+be deposited in concentrations high enough to form a Mineral Deposit.  This interpretation of the 
+
+process for forming a gold deposit is shown in in figure 9 (after Jackson, 2017). 
+
+ 
+
+Figure 9: Schematic representation of the boiling zones within a low sulphidation epithermal deposit 
+
+of the type interpreted to be similar to how the gold-silver mineralisation formed at the T'Boli Project 
+
+(after Jackson, 2017).  Note:  The use of the word "ore" in this figure is for representation purposes 
+
+only and does not imply that a Mineral Resource or Mineral Reserve exists at T'Boli. 
+
+The best location for the deposition of gold is known as the boiling zone.  The depth of the boiling 
+
+zone can change over time and creates a broad region where gold mineralisation exists within an 
+
+epithermal deposit, however, research associated with this style of deposit indicates that the higher-
+
+grade gold and silver mineralisation will occur over a depth range from 50m to 800m with an average 
+
+of 300m. 
+
+Gold may be deposited at higher levels for an extended depth range, however, typically the location 
+
+where the highest gold mineralisation exists is often found to be constrained over a more limited 
+
+depth range where the boiling zone is interpreted to have existed during the formation of an 
+
+epithermal gold-silver deposit. 
+
+Beneath the boiling zone, it is considered that the gold predominantly remained in solution and that 
+
+very limited gold mineralisation will occur at depths beneath which the boiling zone has developed 
+
+over the life of an epithermal gold deposit. 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+29 | P a g e  
+ 
+
+ 
+
+The more direct implications for this interpretation at the T'Boli project include the following: 
+
+• The Volcaniclastic Rocks are considered to have been more permeable than the Dacite 
+
+Porphyry host rock.  Therefore, the Volcaniclastic host rocks are likely to have had more gold 
+
+bearing fluids pass through the rock to allow for the deposition of more gold in this rock type. 
+
+• The position of the boiling zone is not yet understood at the T'Boli Project.  Therefore, several 
+
+possibilities are considered to exist with regard to the depth extent of the gold mineralisation 
+
+at T'Boli, such as: 
+
+o Higher grade gold mineralisation may exist at depth up to the point where the boiling 
+
+zone exists at this deposit.  This may still extend for many hundreds of metres beyond 
+
+the currently identified position of the gold mineralisation. 
+
+o There may be a position at depth beyond which the boiling zone no longer exists and 
+
+the gold mineralisation no longer exists in high concentrations.  Obtaining evidence 
+
+for high grade gold at depth would provide greater confidence that gold 
+
+mineralisation at T'Boli exists at greater depths than has been currently defined. 
+
+• The structures often locally control the locations where favourable sites have developed for 
+
+the gold to be deposited.  Understanding the local structural environment and which 
+
+structures were active during the time when gold mineralisation developed at T'Boli is another 
+
+important aspect of understanding the size and continuity of the gold mineralisation at T'Boli. 
+
+• Given that the gold mineralisation exists in associated with base metal sulphides and quartz 
+
+veins and/or the introduction of silica as part of the alteration, there may be some relatively 
+
+low-cost geophysical exploration methods that could define the position of the highest 
+
+concentration of gold mineralisation very quickly (Hoschke, 2008), and should  be considered 
+
+an important part of the exploration strategy at T'Boli and the surrounding region . 
+
+ 
+
+  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+30 | P a g e  
+ 
+
+9.0 EXPLORATION 
+Since Rizal (formally Sur American and Cadan) took over ownership and management of the T'Boli 
+
+Project, exploration has been carried out over several stages mostly focussed on diamond drilling 
+
+and/or underground exploration via sampling and mapping of a series of underground tunnels 
+
+("exploration development").  Figure 10 shows the relative position and co-ordinates of all the drilling 
+
+and underground development that has been completed up to the end of February 2018. 
+
+ 
+
+Figure 10: Plan view of the recorded drill hole traces and underground development at the T'Boli 
+
+Project.  Previous generations of exploration development are shown in blue (accessed from the 
+
+Mafoko Decline), with the more recent exploration development shown in red (accessed from the new 
+
+Minion Decline). 
+
+9.1 Underground Exploration Development 
+Earlier exploration from the underground workings first commenced by Rizal (when under the name 
+
+of Cadan) in 2009.  The focus of this exploration effort was to expose the north and south vein sets in 
+
+deeper underground levels for the purpose of channel sampling, bulk sampling and underground 
+
+drilling.  The north and south veins were accessed from a small underground adit with approximate 
+
+dimensions of 2.5m height and 2.5m width.  The exploration activities from this adit are known as the 
+
+Mofoko workings.  Work in the Mofoko workings continued up until 2013, where limitations on cash 
+
+resources forced the company to stop the underground exploration activities. 
+
+ 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+31 | P a g e  
+ 
+
+In May 2016, Rizal commenced a further stage of exploration on the north veins from the 
+
+underground development after a period of 6 months of rehabilitating and establishing a second 
+
+decline access called the Minion Decline into the north veins. Late in 2017 Rizal also re-established 
+
+access via the Mafoko tunnel with the primary purpose of providing a second form of egress, 
+
+ventilation and dewatering of the mine. The Minion Decline commenced at 3.5m in width and 3.5m 
+
+in height and was later expanded to a 4m x 4m decline. The exploration drives have been designed 
+
+at 2.5m in width x 3.5m in height, with some sections of the exploration development drives 
+
+expanded to greater widths to capture a larger zone of mineralization where required.  
+
+Figure 10 shows the relative position, in plan view of the new underground development and the 
+
+earlier Mofoko underground development. 
+
+Total underground development at the T'Boli Project up to the end of February 2018 is summarised 
+
+in Table 3.  The development in waste, which is required to provide access into the mineralised 
+
+structure, is separated from the development on the mineralised structure, where new geological 
+
+information and gold assay information can be obtained. 
+
+Name Time Period Waste Mineralised Structure 
+
+Mofoko Adit/Tunnel 2009 to 2013 1,023m 841m 
+
+Minion Decline June 2016 to Feb 2018 2,132m 829.9m 
+
+TOTAL  3,155m 1,670.9m 
+
+ 
+
+Table 3:  Recorded breakdown of the underground development metres completed up to the end of 
+
+February 2018. 
+
+The key objective of the exploration development at the T'Boli Project is to explore at least 2 levels 
+
+across two broadly defined vein sets called the north veins and the south veins.  The current level of 
+
+geological information gathered to date from the underground exposures is greater in the north veins, 
+
+as this location is easier to access and has been developed and explored over a much greater strike 
+
+length than the south veins.   
+
+At the end of 2017 a second level (between the 515mRL and the 525mRL) of exploration 
+
+development drives had commenced on the north veins, with exploration development ongoing to 
+
+the end of February 2018 at this level.  Access into the south veins is anticipated in the second quarter 
+
+of calendar year 2018. 
+
+9.2 Underground Sampling and Mapping 
+Sampling and data capture has been relatively consistent over the various stages of exploration 
+
+development at T'Boli.  Each underground exposure has had geological and sampling information 
+
+captured initially on paper data sheets (Figure 11) known as "face sketches".  These face sketches and 
+
+the associated sampling information has also been captured in 3D space in a 3D modeling package.  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+32 | P a g e  
+ 
+
+ 
+
+Figure 11: Typical face sketch which, in this particular case, has identified two structures dipping 
+
+steeply to the South, separated by some altered and mineralized wall rock. 
+
+In terms of assessing where a continuous section of high grade gold mineralization exists, each face 
+
+sample was reviewed to identify the dominant mineralized structures.  The thickness and grade of the 
+
+more continuous structures were then documented in summary form on level plans along with the 
+
+interpreted position of the major structures mapped from the underground development (Figure 12).  
+
+Broad zones of continuous average higher-grade mineralization could then be identified to reveal 
+
+possible locations for future mining, as well as build an understanding of the controls of these larger 
+
+mineralized zones. 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+33 | P a g e  
+ 
+
+ 
+
+Figure 12: Example of summarized face sampling information on the 550mRL level, highlighting the 
+
+thickness and grade of the dominant structures that have been mapped from the underground 
+
+development. 
+
+The existing level development and face sampling results have shown that very high grades exist in 
+
+small discrete locations (ie: Figure 12 - highlighted in orange), often where a footwall or hangingwall 
+
+vein intersects the more dominant east-west tensional vein.  Understanding the location of these very 
+
+high-grade positions appear to be a critical part of understanding the gold distribution at the T'Boli 
+
+Project.   To fully understand the distribution of gold at the mine for the purpose of optimizing a future 
+
+mine plan the Company plans to undertake trial mining in between the exploration development 
+
+tunnels, which will create a 3D geological view of these intersection points and to test the vertical 
+
+continuity of these very high-grade positions. 
+
+The information gathered to date from all stages of underground exploration development at the 
+
+T'Boli mine has been recently collated and summarized for both the north veins and the south veins.  
+
+The information from each vein system has been projected onto a vertical long-section, along with 
+
+any proximal historical drill hole information that exists beneath the current exploration development 
+
+positions. 
+
+There is virtually no information available above the existing level development which has, to a large 
+
+extent, been mined out by small scale miners.  The Company has no intention to attempt to define or 
+
+recover any gold above the existing exploration development due primarily to safety reasons and the 
+
+general belief that the bulk of the high-grade gold above the existing development has already been 
+
+taken. 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+34 | P a g e  
+ 
+
+At the north veins, the mineralization occurs as multiple zones over a 300m strike length.  
+
+Development has also occurred in the hangingwall and footwall to the main structure, particularly 
+
+where the sampling has indicated that high grade gold exists in these other structures.  In total, there 
+
+has been over 700m of development around the 550mRL level over multiple stages to define 210m of 
+
+high grade mineralization, which exists within a 300m strike length corridor (Figure 13).  In addition, 
+
+development has commenced at the 525mRL level and also the 515mRL level with the development 
+
+focused vertically beneath the higher-grade mineralization defined on the 550mRL level.   
+
+ 
+
+Figure 13: Vertical long section (view looking to the North) representation of the main structure 
+
+developed in the north veins.  The information obtained from the exploration development has been 
+
+collated into geological domains that represent the higher-grade portions of the uncovered 
+
+mineralized structures.  The results from each domain are represented on this long section in their 
+
+respective position highlighting the total strike length, average thickness (in meters) and weighted 
+
+average (uncut) gold grade (in grams per ton). 
+
+At the 515mRL level, the exploration development has accessed a position where two structures exist 
+
+close together.  Based on an interpretation that this larger mineralized position extends up to the 
+
+550mRL level, the decision was made to commence trial bulk mining methods.  This trial mining is still 
+
+at an early stage of assessment with mining and reconciliation work ongoing. 
+
+It is still considered that many of the narrow, mineralized structures will be mined using narrow vein 
+
+mining techniques. However, a more modern assessment of this approach remains to be tested.  To 
+
+this end, the Company has identified 3 locations on the north vein that will soon be available for trial 
+
+narrow vein mining.  Some further exploration development is required on the 525mRL level on the 
+
+north vein to complete the access for 2 of these trial mining locations.   
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+35 | P a g e  
+ 
+
+For the south veins the mineralization appears to exist in sections over a strike length of at least 350m, 
+
+with the high-grade zones interpreted at this stage to cumulatively total a strike length of 
+
+approximately 200m.  The development on the south veins is not as extensive as the exploration 
+
+development on the north veins, however, there has been some smaller sections accessed over 
+
+multiple stages, with multiple access points.  At this stage, the drilling information indicates that high 
+
+grade gold mineralization still exists to the east beyond the current extent of the level development. 
+
+Exploration development is planned to access the south veins close to the defined position of the 
+
+historical drill hole, TG038 which has a reported drill intersection of 8m (true width) at an average 
+
+grade of 14.2g/t. 
+
+ 
+
+Figure 14: Vertical long section (View looking to the North) representation of the main structure 
+
+developed in the south veins.  All historical drill hole intersections that exist within 150m depth of the 
+
+of the previous development have been projected onto this long section, with the interval length 
+
+adjusted for their estimated true width. The information obtained from the exploration development 
+
+has been collated into geological domains that represent the higher-grade portions of the uncovered 
+
+mineralized structures.   The results from each domain are represented on this long section in their 
+
+respective position highlighting the total strike length, average thickness (in meters) and weighted 
+
+average (uncut) gold grade (in grams per ton). 
+
+ 
+
+ 
+
+ 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+36 | P a g e  
+ 
+
+Table 4 is a summary of the high-grade mineralized zones that have been defined to date that will be 
+
+reviewed further for their potential to form part of the proposed future mine plan.   
+
+Location Defined high-grade Structures ~550m RL 
+
+  Strike Length 
+(m) 
+
+Average Width 
+(m) 
+
+Average Grade 
+(g/t gold) 
+
+North Vein 53 1.3 18.8 
+
+North HW1 110 0.36 17.5 
+
+North Vein 18 1.18 7.1 
+
+North Bulk 100 5 Results Pending 
+
+South Vein 32 1.3 14.5 
+
+South Vein 22 0.46 18.8 
+
+South FW1 18 0.47 29.7 
+
+South FW2 22 0.51 57.7 
+
+South Vein 32 0.68 23.8 
+
+South Vein - 
+Planned 
+
+Est. 50+ 
+  
+
+        
+
+TOTAL 457     
+
+ 
+
+Table 4: Summary of defined higher-grade mineralized zones that are considered potential locations 
+
+for future mining and to aid the focus of the level development at the levels underneath the 550mRL.  
+
+All reported average widths are true widths and all average grades are un-cut.  The dominant 
+
+interpreted structure at both the north veins and south veins is reported as North Vein and South Vein 
+
+respectively.  Veins/Mineralized Structures that exists immediately South of the more dominant Vein 
+
+at each location are defined as a Hangingwall ("HW") vein.  Veins/Mineralized Structures that exist 
+
+immediately to the North of the more dominant vein at each location are defined as a Footwall ("FW") 
+
+vein. 
+
+  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+37 | P a g e  
+ 
+
+10.0 DRILLING 
+Drilling conducted under the current ownership of Rizal (and its former names of Sur American and 
+
+Cadan) has been broadly completed over two stages.  There is an additional earlier stage of drilling at 
+
+the T'Boli Project, which is also included in the drilling database for the project and was completed by 
+
+Eastern.  All three stages of drilling are documented in this section as they represent an important 
+
+part of the project information. 
+
+10.1 Drilling Programs 
+The first phase of drilling in the immediate T'Boli region includes Drill Holes TD001 to TD023.  They 
+
+were completed by Eastern Corporation Limited ("Eastern") in 1997, who engaged an independent 
+
+diamond drilling contractor Asia Pacific Inc.  to undertake the drilling activities. 
+
+After the change in ownership in 2004, a second phase of drilling was completed by Rizal in 2011 and 
+
+2012. As part of this second stage of drilling Drill Holes TG024 & TG026 were drilled by another 
+
+independent contractor, Drill Corp.  At the same time, Rizal made the decision to acquire and 
+
+commence drilling activities in-house, with the purchase of 3 diamond drill rigs (Longyear 24, Longyear 
+
+38 and a Kempi BQ drill rig).  Rizal continued drilling with its in-house drill rigs and crew to complete 
+
+drill holes TG025 & 027 to TG069 up until December 2012. 
+
+A third phase of drilling was undertaken at T'Boli by Rizal, again with the in-house drill rigs and crew, 
+
+from mid-2013 up until early 2014.  This drilling program included the Drill Holes TG070 up to TG084. 
+
+Table 5 below provides for a summary of each drilling program and the total metres drilled which exist 
+
+in the current T'Boli database.  Table 6 identifies each drill hole with its collar position, its initial 
+
+surveyed direction and the total length of the drill hole. 
+
+Hole Number Year Drilled Drilled Meters Drilling Company 
+
+TD001 – TD023 1997 7,057 Asia Pacific Inc. 
+
+TG024 & TG026 2011-2012 979 DrillCorp 
+
+TG025 & TG027 – TG069 2011-2012 7,314 Rizal 
+
+TG070 – TG084 2013-2014 1,934 Rizal 
+
+TOTAL  17,284  
+ 
+
+Table 5:  Summary of underground diamond drilling as documented in the current drilling database for 
+
+the T'Boli Project. 
+
+There are 84 drill holes that currently exist in the drill hole database, some 60 of which have identified 
+
+assay results exceeding 1g/t.  A detailed review of all the drill intersections from the database has 
+
+identified 30 intersections that are of particular significance, based on having a gram*meter values 
+
+(thickness x grade) of greater than 10.  The significant intersections summarized in table 7 below 
+
+including their co-ordinates, estimated true thickness and their interpreted geological position 
+
+identified. 
+
+ 
+
+ 
+
+ 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+38 | P a g e  
+ 
+
+ 
+
+Table 6 (below):  Full list of each drill hole in the T'Boli database including; its collar location, its 
+
+recorded final depth and its initial surveyed dip and azimuth. 
+
+Hole ID Collar Co-ordinates 
+Final 
+
+Depth Initial Reading 
+
+  Northing Easting Elevation (m) Dip Azi_Mag 
+
+TD001 685448.8 705405.1 578.2 323.5 -23.3 180.0 
+
+TD002 685449.4 705405.0 578.1 436.0 -48.0 181.5 
+
+TD003 685449.6 705404.7 579.1 449.4 -33.5 197.0 
+
+TD004 685517.0 705329.0 656.2 435.4 -60.0 184.0 
+
+TD005 685449.1 705404.9 580.0 257.9 16.5 183.0 
+
+TD006 685516.5 705329.1 656.2 450.1 -41.5 178.0 
+
+TD007 685736.1 705242.8 569.5 712.8 -10.0 180.0 
+
+TD008 685449.7 705404.7 578.6 337.9 -20.0 187.0 
+
+TD009 685516.4 705328.3 656.2 443.6 -38.5 195.0 
+
+TD010 685338.5 705407.3 578.7 197.5 -44.3 185.5 
+
+TD011 685518.0 705328.3 655.6 391.5 -16.5 190.0 
+
+TD012 685339.4 705405.6 578.7 241.6 -41.0 211.0 
+
+TD013 685738.1 705242.6 568.7 55.9 -40.0 180.0 
+
+TD014 685339.2 705405.8 578.6 318.0 -25.0 226.0 
+
+TD015 685340.1 705404.8 579.6 260.7 -10.0 230.0 
+
+TD016 685516.0 705328.4 655.6 168.0 -41.0 180.0 
+
+TD017 685338.8 705411.4 579.3 243.1 -4.0 122.0 
+
+TD018 685336.6 705411.6 577.7 148.0 -34.5 169.0 
+
+TD019 685335.7 705411.5 578.3 130.0 -19.8 163.0 
+
+TD020 685338.8 705411.5 578.8 178.8 -25.0 141.0 
+
+TD021 685580.8 705150.6 716.7 428.8 -10.3 177.5 
+
+TD022 685339.3 705411.5 579.3 207.5 -1.0 114.0 
+
+TD023 685339.5 705411.5 578.9 243.0 -21.5 112.0 
+
+TG024 685449.3 705404.9 576.9 477.7 -41.6 179.3 
+
+TG025 685695.9 705233.8 574.8 173.3 5.0 215.0 
+
+TG026 685450.6 705407.1 577.0 336.6 -41.2 154.2 
+
+TG027 685477.0 705242.3 575.6 45.0 59.0 39.0 
+
+TG028 685365.8 705337.6 563.8 93.8 -10.0 0.0 
+
+TG029 685365.8 705336.4 563.6 95.8 -10.0 334.0 
+
+TG030 685440.0 705305.6 568.4 96.1 -5.0 348.0 
+
+TG031 685695.6 705236.8 574.4 220.5 -10.0 190.0 
+
+TG032 685695.6 705236.8 573.5 214.3 -32.0 194.0 
+
+TG033 685439.9 705306.6 568.6 116.2 -5.0 12.0 
+
+TG034 685439.6 705307.6 568.5 100.0 -5.0 35.0 
+
+TG035 685695.9 705233.8 573.6 206.9 -37.5 214.0 
+
+ 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+39 | P a g e  
+ 
+
+ 
+
+ 
+
+Hole ID Collar Co-ordinates 
+Final 
+
+Depth Initial Reading 
+
+  Northing Easting Elevation (m) Dip Azi_Mag 
+
+TG036 685697.7 705232.3 568.4 208.9 -11.5 230.0 
+
+TG037 685697.7 705232.3 573.5 109.0 -48.0 232.0 
+
+TG038 685337.7 705484.0 542.9 99.6 -7.0 135.0 
+
+TG039 685417.7 705218.1 569.0 204.9 -3.0 25.0 
+
+TG040 685394.4 705216.9 568.8 120.0 -3.0 180.0 
+
+TG041 685394.8 705218.2 568.8 125.3 -3.0 155.0 
+
+TG042 685389.8 705455.6 546.6 382.0 -41.0 180.0 
+
+TG043 685394.8 705218.2 568.0 114.8 -33.0 155.0 
+
+TG044 685360.8 705284.9 563.5 102.8 -90.0 0.0 
+
+TG045 685417.7 705218.1 568.0 216.4 -39.0 25.0 
+
+TG046 685394.4 705216.9 568.0 116.6 -33.0 180.0 
+
+TG047 685432.4 705465.9 548.5 120.5 -3.0 0.0 
+
+TG048 685389.8 705455.6 546.6 502.0 -64.0 179.0 
+
+TG049 685294.3 705282.4 563.4 121.5 -3.0 190.0 
+
+TG050 685417.7 705216.6 568.0 62.0 -39.0 25.0 
+
+TG051 685394.7 705215.6 568.0 120.1 -33.0 205.0 
+
+TG052 685417.7 705213.3 568.6 202.1 -3.0 335.0 
+
+TG053 685394.7 705215.6 568.8 126.1 -3.0 205.0 
+
+TG054 685406.7 705275.2 645.9 107.4 30.0 182.0 
+
+TG055 685406.7 705275.2 644.9 124.6 -3.0 182.0 
+
+TG056 685417.7 705213.3 568.1 200.1 -32.5 335.0 
+
+TG057 685391.1 705455.9 546.8 582.6 -35.0 155.0 
+
+TG058 685406.7 705275.2 643.7 33.8 -30.0 182.0 
+
+TG059 685406.7 705275.2 643.7 101.5 -33.0 182.0 
+
+TG060 685417.7 705213.3 568.0 203.1 -58.0 335.0 
+
+TG061 685406.7 705275.2 643.7 52.7 -60.0 182.0 
+
+TG062 685417.7 705213.3 568.0 221.3 -68.0 337.0 
+
+TG063 685406.2 705273.5 646.1 106.2 30.0 210.0 
+
+TG064 685406.2 705273.5 645.0 118.4 -3.0 210.0 
+
+TG065 685406.6 705274.1 643.9 121.7 -30.0 210.0 
+
+TG066 685407.8 705274.9 643.8 68.1 -60.0 210.0 
+
+TG067 685418.4 705214.1 568.8 601.1 -20.0 346.0 
+
+TG068 685407.3 705277.4 644.6 129.1 -3.0 120.0 
+
+TG069 685407.6 705277.0 643.6 125.9 -30.0 120.0 
+
+ 
+
+ 
+
+ 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+40 | P a g e  
+ 
+
+Hole ID Collar Co-ordinates 
+Final 
+
+Depth Initial Reading 
+
+  Northing Easting Elevation (m) Dip Azi_Mag 
+
+TG070 685408.1 705276.1 643.8 3.4 -45.0 120.0 
+
+TG071 685399.1 705112.6 569.8 117.5 -3.0 180.0 
+
+TG072 685399.8 705112.6 569.0 117.4 -30.0 180.0 
+
+TG073 685402.0 705112.6 569.7 95.0 -3.0 0.0 
+
+TG074 685407.7 705216.8 568.0 386.8 -28.0 178.0 
+
+TG075 685401.5 705112.6 569.1 94.8 -30.0 0.0 
+
+TG076 685241.5 705273.2 564.1 40.3 -80.0 8.0 
+
+TG077 685242.0 705273.3 564.0 34.1 -60.0 8.0 
+
+TG078 685240.1 705273.0 564.2 51.2 -70.0 188.0 
+
+TG079 685389.5 705598.1 550.7 153.4 -14.5 182.0 
+
+TG080 685390.3 705600.3 550.6 150.4 -9.0 155.0 
+
+TG081 685394.9 705600.5 550.7 159.3 -5.0 139.0 
+
+TG082 685396.4 705600.3 550.7 177.8 -5.0 123.0 
+
+TG083 685389.7 705599.4 549.8 175.1 -22.0 162.0 
+
+TG084 685390.2 705597.5 550.2 177.4 -26.0 198.0 
+
+ 
+
+Table 7 (below):  List of identified significant intersections highlighting the true width and weighted 
+
+average uncut grade, the co-ordinates of the intersection point (centre point) and its interpreted 
+
+geological position.  The dominant interpreted structure at both the North Veins and South Veins is 
+
+reported as North Vein and South Vein respectively.  Veins/Mineralized Structures that exists 
+
+immediately South of the more dominant Vein at each location are defined as a Hangingwall ("HW") 
+
+vein.  Veins/Mineralized Structures that exist immediately to the North of the more dominant vein at 
+
+each location are defined as a Footwall ("FW") vein. 
+
+Hole_ID From To 
+Length 
+
+(m) 
+
+Gold 
+Assay 
+(ppm) 
+
+Significant 
+Results 
+(uncut) 
+
+Interpreted 
+Location 
+
+True 
+Width 
+
+Mid point Co-ordinates 
+
+(meters) Northing Easting RL 
+
+TD001 181.00 182.00 1.00 12.45 
+1m @ 
+
+12.5g/t 
+South Vein - 
+
+FW 
+0.8m 685281 705485 508 
+
+                      
+
+TD001 188.00 189.00 1.00 7.13 
+3m @ 
+4.4g/t 
+
+South Vein 2.4m 685274 705404 505 TD001 189.00 190.00 1.00 1.60 
+
+TD001 190.00 191.00 1.00 4.39 
+
+                      
+
+TD002 48.00 49.00 1.00 17.54 
+1m @ 
+
+17.5g/t 
+North Vein - 
+
+FW 0.6m 685417 705405 542 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+41 | P a g e  
+ 
+
+Hole_ID From To 
+Length 
+
+(m) 
+
+Gold 
+Assay 
+(ppm) 
+
+Significant 
+Results 
+(uncut) 
+
+Interpreted 
+Location 
+
+True 
+Width 
+
+Mid point Co-ordinates 
+
+(meters) Northing Easting RL 
+
+TD002 151.00 152.00 1.00 4.88 
+
+10m @ 
+5.4g/t 
+
+South Vein - 
+Footwall 
+position 
+
+(FW) 
+
+3.8m 685347 705406 461 
+
+TD002 152.00 153.00 1.00 3.74 
+
+TD002 153.00 154.00 1.00 0.20 
+
+TD002 154.00 155.00 1.00 1.06 
+
+TD002 155.00 156.00 1.00 2.24 
+
+TD002 156.00 157.00 1.00 1.68 
+
+TD002 157.00 158.00 1.00 22.22 
+
+TD002 158.00 159.00 1.00 5.32 
+
+TD002 159.00 160.00 1.00 6.70 
+
+TD002 160.00 161.00 1.00 5.92 
+
+                      
+
+TD003 99.55 100.50 0.95 15.74 
+
+4.45 @ 
+6.6g/t 
+
+North Vein - 
+Hanginwall 
+
+position 
+2.3m 685365 705428 524 
+
+TD003 100.50 101.40 0.90 0.50 
+
+TD003 101.40 102.35 0.95 0.40 
+
+TD003 102.35 103.00 0.65 0.40 
+
+TD003 103.00 104.00 1.00 13.20 
+
+                      
+
+TD003 238.10 239.10 1.00 45.08 
+3m @ 
+
+17.5g/t 
+
+South Vein - 
+Footwall 
+position 
+
+1.5m 685256 705428 447 TD003 239.10 240.10 1.00 1.02 
+
+TD003 240.10 241.10 1.00 6.28 
+
+                      
+
+TD003 286.70 287.45 0.75 1.37 
+
+5.8m @ 
+20.7g/t 
+
+South Vein 3.3m 685217 705486 418 
+
+TD003 287.45 288.60 1.15 22.36 
+
+TD003 288.60 289.50 0.90 39.42 
+
+TD003 289.50 290.40 0.90 14.56 
+
+TD003 290.40 291.10 0.70 52.00 
+
+TD003 291.10 292.50 1.40 5.82 
+
+                      
+
+TD006 402.00 403.00 1.00 3.25 
+
+5m @ 6.0g/t South Vein 2.7m 685211 705379 390 
+
+TD006 403.00 404.00 1.00 12.85 
+
+TD006 404.00 405.00 1.00 5.34 
+
+TD006 405.00 406.00 1.00 4.68 
+
+TD006 406.00 407.00 1.00 3.86 
+
+                      
+
+TD008 198.00 199.00 1.00 30.18 
+
+5m @ 
+15.6g/t 
+
+South Vein 3.7m 685264 705378 508 
+
+TD008 199.00 200.00 1.00 18.19 
+
+TD008 200.00 201.00 1.00 18.21 
+
+TD008 201.00 202.00 1.00 8.32 
+
+TD008 202.00 203.00 1.00 2.96 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+42 | P a g e  
+ 
+
+Hole_ID From To 
+Length 
+
+(m) 
+
+Gold 
+Assay 
+(ppm) 
+
+Significant 
+Results 
+(uncut) 
+
+Interpreted 
+Location 
+
+True 
+Width 
+
+Mid point Co-ordinates 
+
+(meters) Northing Easting RL 
+
+TD009 32.00 33.00 1.00 9.96 
+2m @ 
+6.5g/t 
+
+North Vein - 
+Footwall 
+position 
+
+0.8m 685491 705367 634 
+TD009 33.00 34.00 1.00 3.00 
+
+                      
+
+TD010 113.00 114.00 1.00 15.52 
+1m @ 
+
+15.5g/t South Vein 0.7m 685252 705536 504 
+
+                      
+
+TD011 138.00 139.00 1.00 14.19 
+1m @ 
+
+14.2g/t 
+North Vein - 
+
+HW 1.0m 685386 705536 627 
+
+                      
+
+TD016 110.00 111.00 1.00 15.25 
+1m @ 
+
+15.3g/t 
+North Vein - 
+
+FW 0.7m 685432 705339 583 
+
+                      
+
+TD016 138.00 139.00 1.00 24.13 2m @ 
+14.1g/t 
+
+North Vein - 
+HW 
+
+0.9m 685410 705339 565 
+TD016 139.00 140.00 1.00 4.12 
+
+                      
+
+TD017 117.00 118.00 1.00 5.30 
+3m @ 
+8.9g/t 
+
+South Vein - 
+HW 
+
+2.0m 685274 705572 574 TD017 118.00 119.00 1.00 0.40 
+
+TD017 119.00 120.00 1.00 20.97 
+
+                      
+
+TD018 66.00 67.00 1.00 3.10 
+3m @ 
+
+10.5g/t 
+South Vein 2.2m 685282 705424 539 TD018 67.00 68.00 1.00 1.10 
+
+TD018 68.00 69.00 1.00 27.20 
+
+                      
+
+TD022 154.00 155.00 1.00 17.91 
+1m @ 
+
+17.9g/t 
+South Vein - 
+
+HW 
+0.9m 685278 705514 570 
+
+                      
+
+TD023 220.00 221.00 1.00 12.86 
+1m @ 
+
+12.9g/t 
+South Vein - 
+
+HW 0.7m 685261 705495 509 
+
+                      
+
+TG024 136.00 137.80 1.80 8.81 
+1.8m @ 
+8.8g/t 
+
+South Vein - 
+FW 0.8m 685343 705436 489 
+
+                      
+
+TG038 90.00 91.20 1.20 21.73 
+
+9.1 @ 
+14.4g/t 
+
+South Vein 8m 685271 705550 531 
+
+TG038 91.20 92.40 1.20 8.54 
+
+TG038 92.40 93.40 1.00 20.59 
+
+TG038 93.40 95.00 1.60 3.97 
+
+TG038 95.00 96.30 1.30 7.34 
+
+TG038 96.30 97.20 0.90 24.00 
+
+TG038 97.20 98.10 0.90 18.75 
+
+TG038 98.10 99.10 1.00 19.63 
+
+                      
+
+TG048 21.00 22.00 1.00 19.67 
+1m @ 
+
+19.7g/t 
+North Vein - 
+
+HW 
+1.0m 685377 705500 529 
+
+                      
+
+TG048 397.50 398.45 0.95 10.66 
+0.95 @ 
+10.7g/t 
+
+South Vein - 
+FW 0.95m 685189 705500 203 
+
+ 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+43 | P a g e  
+ 
+
+Hole_ID From To 
+Length 
+
+(m) 
+
+Gold 
+Assay 
+(ppm) 
+
+Significant 
+Results 
+(uncut) 
+
+Interpreted 
+Location 
+
+True 
+Width 
+
+Mid point Co-ordinates 
+
+(meters) Northing Easting RL 
+
+TG053 45.00 46.00 1.00 14.50 2m @ 
+9.3g/t 
+
+North Vein 
+- HW 
+
+2.0m 685353 705187 566 
+TG053 46.00 47.00 1.00 4.08 
+
+                      
+
+TG075 76.50 77.50 1.00 58.88 
+1m @ 
+
+58.9g/t 
+North Vein 
+
+- FW 0.9m 685468 705134 531 
+
+                      
+
+TG075 82.10 83.20 1.10 13.88 
+1.1m @ 
+13.9g/t 
+
+North Vein 
+- FW 1.0m 685473 705134 528 
+
+                      
+
+TG079 111.30 112.40 1.10 21.00 
+3.7m @ 
+7.5g/t 
+
+South Vein 3m 685279 705593 535 TG079 112.40 113.60 1.20 1.17 
+
+TG079 113.60 115.00 1.40 2.33 
+
+                      
+
+TG080 99.70 100.20 0.50 20.33 
+3.1m @ 
+7.9g/t 
+
+South Vein 
+- Footwall 
+position 
+
+2.8m 685300 705643 535 TG080 100.20 101.40 1.20 0.01 
+
+TG080 101.40 102.80 1.40 10.33 
+
+                      
+
+TG080 111.50 112.80 1.30 21.00 
+1.3 @ 
+21g/t South Vein 1.0m 685290 705688 532 
+
+                      
+
+TG083 146.80 147.80 1.00 6.00 2.5m @ 
+12.8g/t 
+
+South Vein 2.1m 685260 705641 492 
+TG083 147.80 149.30 1.50 17.33 
+
+                      
+
+TG084 152.40 153.40 1.00 12.67 2m @ 
+9.7g/t 
+
+South Vein 1.6m 685256 705557 488 
+TG084 153.40 154.40 1.00 6.67 
+
+  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+44 | P a g e  
+ 
+
+11.0 SAMPLE PREPARATION, ANALYSIS AND SECURITY 
+
+11.1 Diamond Drill Core Sampling 
+Sampled drill cores from the historical drilling programs were HQ, NQ and BQ in size.   For drill core 
+
+that was HQ or NQ size, selected sampling intervals were sub-sampled using different techniques 
+
+depending on the nature of the drill core.  Competent drill core was cut longitudinally in half with a 
+
+core saw; Clay dominant or soft core was divided into two halves using a spatula; Broken core or rubble 
+
+was physically separated into 2 separate and equal halves.  For drill core that was BQ in size, the whole 
+
+sample interval was taken for analysis.  Sample intervals taken were predominantly at 1m or less, with 
+
+sample interval boundaries selected to ensure that the sampling interval did not cross over a defined 
+
+geological contact.    
+
+Each drill hole sample was placed into a calico bag, with a batch of drill core samples and 
+
+corresponding tracking number per samples and transported to General Santos for sample 
+
+preparation.  
+
+11.2 Underground Rock Sampling 
+Channel sampling undertaken within the exploration development drives have been consistently 
+
+taken on a horizontal line between 1m to 1.5m above the floor of the development which is 
+
+approximately perpendicular to the dominant dip of the mineralized structures.  The dominant 
+
+geological domains and mineralized structures dip to the South at between 60 and 90 degrees.  Sample 
+
+intervals vary from between 0.2m and 1.0m in width with the sample boundaries obeying the 
+
+observed geological contacts. 
+
+The channel samples are taken as rock chips evenly collected along a horizontal line, which is recorded 
+
+on the face maps for each heading and linked to a sample number which is recorded on the sample 
+
+bag (calico bag).  The combined samples for the underground development are collected and sent to 
+
+the internal laboratory with an associated dispatch sheet and including at least one control sample 
+
+per every 20 underground samples.    
+
+11.3 Laboratory Analysis 
+Holes TD001 to TD023 were analysed by McPhar Geoservices (Phil). Inc. ("McPhar"). McPhar was later 
+
+purchased by Intertek Testing Services Phils. Inc and incorporated under the trading name Intetek-
+
+McPhar ("Intertek"). 
+
+Drill samples for holes TG024 to TG079 were delivered to the Intertek processing laboratory in General 
+
+Santos by Rizal personnel. From the processing laboratory the pulps were couriered under Intertek 
+
+control to their central analytical laboratory; Warehouse 7, Phicrest 1 Compound Km 23, West Service 
+
+Road, Cupang, Muntinlupa 1772, Manila, Philippines. 
+
+As the Company does not currently utilise the services of Intertek the author did not visit or observe 
+
+the sample preparation, or the analysis undertaken by Intertek. 
+
+Intertek is a recognized ISO approved laboratory.  The reported analytical method employed for gold 
+
+by Intertek was FA50/AA, consisting of lead collection Fire Assay of a 50g aliquot with an Atomic 
+
+Absorption Spectrometry ("AAS") finish for gold to a detection level of parts per million (ppm) gold 
+
+(Au). 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+45 | P a g e  
+ 
+
+Drill samples for holes TG080 to TG084 in addition to all the underground samples have been analysed 
+
+at the Company's internal laboratory. 
+
+Rizal's internal laboratory is located at the Company's processing plant site, situated 6.4km from the 
+
+mine site.  The author reviewed and observed the sample preparation and assay analysis at the 
+
+Company's laboratory which is in line with their recorded procedures.  The analytical method 
+
+employed for gold by Rizal's internal laboratory is straight fire assay of a 50g aliquot followed by acid 
+
+digestion and weighing to a detection level of parts per million (ppm) gold (Au). 
+
+Rizal's laboratory is not ISO certified.  The author reviewed the full process with regard to the sampling 
+
+taken from the underground headings through to the final analysis at the laboratory.  Based on these 
+
+observations, whilst there are some recommended improvements that could be made, there were no 
+
+obvious issues identified which would place doubt on the validity of the results derived from 
+
+Company's internal laboratory.  In addition, a review of the control standards from the combined 
+
+database (the bulk of which is from underground samples analysed at the Company's internal 
+
+laboratory) has not identified any gross errors or bias to warrant concern with regard to the results 
+
+that exist within the Company's database (see section 11.4). 
+
+11.4 Review of QA/QC Data 
+For both the historical drilling and the current channel samples from the exploration development, 
+
+the Company has maintained quality control systems which includes the insertion of blanks, standards 
+
+and pulp duplicates.   
+
+High level and low level commercial gold standards have been utilised as quality control standards at 
+
+the T'Boli Project, which have the following specifications. 
+
+ST462 had an average grade of 4.608g/t Au with a standard deviation of 0.204g/t Au. 
+
+OxP50 had an average grade of 14.397g/t Au with a standard deviation of 0.307g/t Au.  
+
+The historical control samples from the historical drilling information has been reviewed for any 
+
+possible lab bias.  A review of the standard OxP50 has shown that there are not enough samples 
+
+reported in the database to provide for a statistically meaningful assessment, or to identify any 
+
+possible trend or bias.  Only the standard ST462 has been utilized more consistently for the drilling 
+
+programs and underground sampling to provide for a meaningful assessment of any possible lab bias. 
+
+At this stage, an analysis of the QA/QC data indicates that the there is a possible bias towards under 
+
+calling the gold assay in the sampling data (Figure 15).   A proper reconciliation of the assay data 
+
+against the gold produced should confirm this when this exercise is completed. 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+46 | P a g e  
+ 
+
+ 
+
+Figure 15:  Graph of the results from ST462 Standard, showing only a very few results marginally above 
+
+the acceptable range.  A greater bias appears to be below the acceptable range with an average of all 
+
+the results at 4.53g/t. 
+
+In addition, the repeat samples indicate that there is a significant nugget effect associated with this 
+
+deposit, with substantial variations in the duplicate assay data (Figure 16).  This is most likely a result 
+
+of extreme variability of the distribution of gold in the deposit rather than a problem with the assay 
+
+sampling technique.  This issue will need to be addressed when completing a Mineral Resource 
+
+estimate with some allowance made for this variability in the approach taken to create any future 
+
+Mineral Resource estimate.  
+
+Because of this variability, it will be important to ensure that isolated high-grade samples do not have 
+
+a large area of influence, and it would also help to reduce this issue if there are multiple samples taken 
+
+from the very high-grade sections of mineralization to achieve a more accurate average and 
+
+representation of the actual volume of gold that is present in a defined area. 
+
+ 
+
+3
+
+3.5
+
+4
+
+4.5
+
+5
+
+5.5
+
+1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43
+
+G
+o
+
+ld
+ g
+
+/t
+
+ST 462 Analysis
+
+CI95_lower
+
+CI95_upper
+
+Au_ppm_pref
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+47 | P a g e  
+ 
+
+ 
+
+Figure 16:  Graph of the results from all duplicates in the database.  Substantial variations occur with 
+
+the high-grade assay results.  The data from the standards and blanks indicate that this is not a result 
+
+of variations in the laboratory and is more likely due to a moderate to high nugget effect that is a 
+
+natural part of the deposit.  Over 40% of all duplicate samples have greater than a 50% variation in 
+
+their results. 
+
+Of note with regard to the quality control of the historical drill core samples is that for many of the 
+
+sampling locations the core recovery was reported to be poor.  Based on the observations of the 
+
+mineralized structures from the underground development this is interpreted to be a result of some 
+
+clay rich sections that occur in close proximity to the mineralized structures.  The underground channel 
+
+sampling has also identified that the clay rich locations often contain significant gold mineralization.  
+
+The above observations indicate that the core loss recorded in the historical drilling is due to the poor 
+
+capture of the mineralized clay rich material surrounding parts of the larger structures at T'Boli.  The 
+
+loss of mineralized material may result in an underestimation of the gold content within some of the 
+
+reported historical drilling intercepts. 
+
+It is the authors view that the sample collection and sample preparation is appropriate and up to 
+
+industry standards for the T'Boli Project.  It is considered that some improvements could be made to 
+
+the regularity and review of the control standards as part of the analytical procedures.  However, 
+
+based on a review of the control standards and processes observed at the laboratory, there does not 
+
+appear to be any gross errors or lab bias present in the current database information.  It is advisable 
+
+for an internal laboratory, as is utilized by Rizal at the T'Boli Project, that a process of obtaining ISO 
+
+certification and follow up regular independent audits are completed and appropriately documented. 
+
+ 
+
+ 
+
+ 
+
+y = 1.0109x + 0.7693
+R² = 0.8018
+
+0.00
+
+2.00
+
+4.00
+
+6.00
+
+8.00
+
+10.00
+
+12.00
+
+14.00
+
+16.00
+
+18.00
+
+20.00
+
+0.00 5.00 10.00 15.00 20.00
+
+G
+o
+
+ld
+ g
+
+/t
+
+Gold g/t
+
+Check_Auppm_pref
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+48 | P a g e  
+ 
+
+12.0 DATA VERIFICATION 
+The author has viewed the sampling and analytical practices undertaken by the Company at the T'Boli 
+
+Project and completed a review of the control standards that are recorded in the Project database.  
+
+This review included observations of the sampling process from the underground environment, 
+
+through to the sampling preparation and assay methodology and then to the assay results being 
+
+received and entered into the database.   As part of the validation of the current database, the author 
+
+has randomly selected 6 drill holes and checked their original sample request sheets and subsequent 
+
+laboratory report against what was reported in the database.  No discrepancy was observed as part 
+
+of this review. 
+
+The author has not completed any separate analytical test of the samples from the Project.  It is the 
+
+view of the author, that whilst some additional processes can be undertaken to improve the QA/QC 
+
+at the mine site (such as obtaining ISO certification), there are no observable gross errors or bias errors 
+
+that would put into question the reliability of the assay results within Project Database. 
+
+In addition to the review of the analytical results, the author has also observed the production of Gold 
+
+from the Company's Processing Plant at T'Boli.  At this point in time, mixing of the underground 
+
+material and lack of accurate tonnage estimates at the Processing Plant has made accurate 
+
+reconciliation not possible.  However, given the general quantum of gold being produced from the 
+
+exploration development it can be observed that there is unlikely to be any gross error in the 
+
+laboratory analysis and sampling procedures. 
+
+The Company was still working on various upgrades to the T'Boli Processing Plant at the time the site 
+
+visit was undertaken by the author.  It is the understanding of the author that impending 
+
+improvements to the processing plant will soon enable the Company to more appropriately reconcile 
+
+gold grades in feed to the plant with gold grade estimates that have been derived from the 
+
+underground sampling in the exploration development.   
+
+ 
+
+13.0 MINERAL PROCESSING AND METALLURGICAL TESTING 
+The author has not sited any recorded metallurgical test-work or mineral processing reports for the 
+
+T'Bold Project.  However, the Company has an existing processing facility which is situated 6.4km for 
+
+the mine site and provides for an assessment of and recovery of the gold derived from the exploration 
+
+activities at the mine. This facility consists of a conventional CIL gold plant with crushing, grinding and 
+
+cyanidation followed by recovery of the gold to activated carbon. The carbon is stripped onsite, and 
+
+the resulting product refined to gold (99.5%) and silver (99.5%) bars onsite. 
+
+The gold typically occurs as both free gold, and gold associated with sulphide mineralisation 
+
+(predominantly pyrite) and is free milling.  The processing plant appears to provide for gold recoveries, 
+
+based on the available information to date, of over 90%.   
+
+More details with regard to the existing processing plant at the T'Boli Project can be found in section 
+
+24. 
+
+ 
+
+  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+49 | P a g e  
+ 
+
+14.0 MINERAL RESOURCE ESTIMATES 
+There are no current Mineral Resource estimates at the T'Boli Gold Project. 
+
+15.0 MINERAL RESERVE ESTIMATES 
+There are no current Mineral Reserve Estimates at the T'Boli Gold Project. 
+
+16.0 MINING METHODS 
+Not applicable to the Early Stage T'Boli Exploration Property.  
+
+17.0 RECOVERY METHODS 
+Not applicable to the Early Stage T'Boli Exploration Property. 
+
+Discussions with regard to the existing processing facility can be found in section 24.0. 
+
+18.0 PROJECT INFRASTRUCTURE 
+Not applicable to the Early Stage T'Boli Exploration Property. 
+
+19.0 MARKET STUDIES AND CONTRACTS 
+Not applicable to the Early Stage T'Boli Exploration Property. 
+
+20.0 ENVIRONMENTAL STUDIES, PERMITTING AND SOCIAL OR 
+
+COMMUNITY IMPACT 
+Not applicable to the Early Stage T'Boli Exploration Property. 
+
+21.0 CAPITAL AND OPERATING COSTS 
+Not applicable to the Early Stage T'Boli Exploration Property.  
+
+22.0 ECONOMIC ANALYSIS 
+Not applicable to the Early Stage T'Boli Exploration Property. 
+
+  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+50 | P a g e  
+ 
+
+23.0 ADJACENT PROPERTIES 
+There are no claims adjoining or within close proximity to the T'Boli Gold-Silve Project. 
+
+Based on the records of the DENR-MGB the following companies have been given a Mineral 
+
+Production and Sharing Agreement (MPSA) and Financial Technical Assistance Agreement (FTAA) 
+
+across south-western Mindanao*: 
+
+1. Exploration activities implemented by Kiamba Mining Corporation (KMC) as Operator of the 
+
+approved MPSA of Hard Rock Mineral Trading, Inc. (HRMTI) denominated MPSA No. 350-2010-XII 
+
+located at Kiamba, Sarangani on January 30-February 3, 2017;  
+
+2. Exploration activities implemented by South Davao Development Co., Inc. (SDDCI) denominated 
+
+MPSA No. 321-2010-XII located at Tampakan, South Cotabato and Columbio, Sultan Kudarat April 26-
+
+28, 2017;  
+
+3. Exploration activities implemented by GRCO Isulan Mining Corporation (GIMC) denominated MPSA 
+
+No. 097-99--XII located at Bagumbayan, Sultan Kudarat on May 30-June 1, 2017; 
+
+4. Development of Sagittarius Mines, Inc. (SMI) denominated as FTAA No. 002-95-XI located in the 
+
+municipalities of Tampakan, Columbio and Kiblawan, provinces of South Cotabato, Sultan Kudarat and 
+
+Davao del Sur. 
+
+(*Source: http://region12.mgb.gov.ph/transparency/2017-narrative-report )  
+
+ 
+
+  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+51 | P a g e  
+ 
+
+24.0 OTHER RELEVANT DATA AND INFORMATION 
+The Company has an existing processing plant at the T'Boli Property.  The author has conducted a site 
+
+visit and overview of this processing facility which recovers gold and silver from the company's current 
+
+exploration development activities. Observations of the steps for the recovery of gold and silver at the 
+
+existing processing facility at the T'Boli Project are summarised below. 
+
+Note that the T'Boli Project does not have a current Mineral Resource estimate or Mineral Reserves 
+
+and that in the absence of a feasibility study of mineral reserves demonstrating economic and technical 
+
+viability is associated with an increased risk of failure of the mining operation due to increased 
+
+uncertainty of results.  Mining and processing activity at the T'Boli Project is ongoing on a small-scale 
+
+basis associated with the Company's underground exploration activities and this should not be 
+
+construed as Rizal having made a commercial production decision. 
+
+• To handle the significant clay material found as part of the mineralised structures, a scrubber 
+
+is required to wash the clays from the rock prior to the crushing circuit; in order for the clays 
+
+not to blind the screen deck and crushers. 
+
+• Following the scrubber, the rock is crushed in a two-stage crushing circuit consisting of jaw 
+
+crusher followed by a rolls crusher; in closed circuit with a 12mm vibrating screen deck. 
+
+Crushed rock is conveyed into a fine ore bin, from which the rock feeds to both of the ball 
+
+mills. 
+
+• The crushed rock is ground in two ball mills, to 80% passing 75 microns; then pumped to the 
+
+CIL leaching circuit. This CIL circuit consists of a conventional cyanide leaching circuit with six 
+
+tanks containing activated carbon for adsorption of the dissolved gold cyanide. 
+
+• The slurry which is by now barren in gold, passes through a cyanide detoxification circuit; then 
+
+is pumped to the tailings storage dam. 
+
+• The final stage of gold recovery consists of two elution columns and two electrowinning cells, 
+
+where gold is electrowon onto steel wool prior to refining into gold and silver ingots. 
+
+The processing facility has recently been upgraded to a nameplate capacity of 200tpd, up to 250tpd 
+
+potentially achievable.  This facility serves to test and reconcile the material mined from the 
+
+exploration development and trial mining activities and to generate revenue from small scale 
+
+production. 
+
+The author is not aware of any other relevant data or information other than that presented in this 
+
+report and referenced in section 27. 
+
+  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+52 | P a g e  
+ 
+
+25.0 INTERPRETATION AND CONCLUSIONS 
+The current mine workings and focus of the work effort at the mine site represents an important, but 
+
+relatively small proportion of the much larger system that is interpreted to exist at the T'Boli Property.  
+
+The current exploration effort, at the established underground workings, has the potential to explore 
+
+up to 700m of strike length on two broad structures (known as the north veins and south veins).  
+
+However, the broader region appears to offer considerable potential over 2km of strike length 
+
+(between the Kematu and Desawu faults), and possibly on a larger number of east-west structural 
+
+trends or zones.  
+
+The understanding of the mineralisation and distribution of gold at the T'Boli Project to date show 
+
+similar characteristics to many of the other large epithermal systems that exist in the Asia Pacific 
+
+region, some of which are multi-million-ounce gold deposits.  Based on the size of the broader target 
+
+area, the multiple surface gold workings throughout this region and the current understanding of the 
+
+limited underground exposures it is possible that largest part of this system is yet to be discovered, 
+
+and that the project on a broad scale still offers multimillion ounce potential.  
+
+This larger potential has long been recognised by earlier explorers, however, there has been limited 
+
+detail or confidence with regard to understanding the controls, orientation and continuity of the high-
+
+grade gold mineralisation in the region.  It has been for this reason that at multiple stages, the decision 
+
+has been made to obtain a better understanding of the gold mineralisation at T'Boli by exposing the 
+
+mineralised structures via underground tunnelling (exploration development). 
+
+The current decision to define the gold mineralisation via underground development and to use the 
+
+existing processing plant to process the material and recover gold from this development is still a 
+
+logical way forward.  Given the ability to access the relatively shallow positions of the known 
+
+mineralised structures, the Company can continue to build on the understanding of the gold 
+
+mineralisation for future exploration and to use this information to support any new Mineral Resource 
+
+estimates which can provide a reasonable basis for a future Mine Plan. 
+
+This detailed work and understanding of the gold mineralisation at the T'Boli Project is ideally 
+
+supported by an additional exploration program which will focus on the discovery and definition of 
+
+the gold mineralisation throughout the broader region. 
+
+  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+53 | P a g e  
+ 
+
+26.0 RECOMMENDATIONS 
+There are a few recommendations that can be made to address two main aspects of the T'Boli 
+
+Property. 
+
+26.1 Exploration of the Regional Potential 
+Whilst there exists large scale gold potential at the Property, the ability to focus any exploration effort 
+
+into the best location and the ability to interpret effectively any drilling results has been difficult.  
+
+There have been significant improvements in the understanding of epithermal gold deposits and some 
+
+proven examples of utilising various geophysical methods to assist with the discovery of gold 
+
+mineralisation in gold systems like T'Boli.  It is recommended that as an initial program, a detailed 
+
+magnetic survey combined with an Induced Polarisation ("IP") survey which can measure the 
+
+resistivity and chargeability of the rocks be completed.  The presence of significant sulphides and silica 
+
+both in the structure and as part of the alteration surrounding the gold mineralisation implies that this 
+
+type of survey may assist with identifying where the largest part of the gold system at T'Boli exists.   
+
+A magnetic survey has been completed earlier, which was of a poor resolution, and so it is 
+
+recommended that a new magnetic survey be completed to hopefully provide better resolution on 
+
+the potential location of the structures at the T'Boli Project which will also assist to interpret the 
+
+results from the IP survey. 
+
+It is estimated that a reasonable budget to complete an IP survey and detailed magnetic survey 
+
+including the required processing and interpretation would be in the order of C$150,000 to C$200,000 
+
+(Phase 1 exploration). 
+
+The costs of any follow-up drill testing of potential defined targets from this work would most likely 
+
+include a combination of underground drill testing and surface drill testing.  The local topography and 
+
+environment may restrict some surface locations with regard to any targets that are defined away 
+
+from the mine site area.  Assuming a number of drill holes are required to test regional targets from 
+
+surface then a total budget would most likely be in the range of C$1.5 million to C$2.0 million (Phase 
+
+2 surface).  More detail on the depth and location of any potential target is required to effectively 
+
+define the anticipated costs of any surface drilling program. 
+
+Drill testing of targets within 500m of the mine site area could be attempted from the underground 
+
+workings.  There would be a requirement to establish a new drilling position, most likely situated in 
+
+the order of 100m south of the proposed workings at the south veins.  The drill testing could then be 
+
+achieved with a number of drill holes, with the depth dependant on the defined location of the targets. 
+
+In summary, it is anticipated that the combined underground development costs and underground 
+
+drilling costs would be between C$600,000 and C$800,000 (Phase 2 Underground).  The costs 
+
+associated with any further drill testing and definition of any successful drilling results is beyond the 
+
+scope of what could be estimated at this stage.  The recommended exploration activities and 
+
+associated estimated expenses are shown in table 8 below. 
+
+ 
+
+ 
+
+ 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+54 | P a g e  
+ 
+
+ 
+
+Stage Activity Estimated Costs 
+
+Phase One Magnetics and IP ~$150,000 
+
+Phase Two – Surface Surface Diamond drilling C$1.5 million to C$2.0 million 
+
+Phase Two - Underground Underground Diamond Drilling C$600,000 to C$800,000 
+
+TOTAL  C$2.2 million to C$2.95 million 
+
+Table 8:  Summary estimate of exploration expenses for proposed regional exploration program. 
+
+26.2 Detailed research at the mine site 
+It is important to bring in specialised expertise from time to time to ensure that the large expense 
+
+associated with developing and exposing the mineralised structures is maximised and the information 
+
+gained can also deliver a more reliable interpretation of the gold mineralisation at T'Boli.  Of particular 
+
+importance is the detailed measurements and orientations of the structures and their intersection 
+
+points.  It is considered that this information will provide a more reliable interpretation of the 
+
+orientation and continuity of the high-grade gold zones.  Some additional expertise required includes 
+
+experienced epithermal gold geologists with particular understanding of the alteration systems and 
+
+their likely assessment of the gold distribution. 
+
+The author has managed a number of projects similar to the T'Boli Project at the early stages where 
+
+detailed research has played an invaluable role with regard to appropriately recording the information 
+
+required to build a reliable Mineral Resource estimate.  It is anticipated that with the right expertise 
+
+brought in to view the underground mine exposures at an optimal time further light will be shed on 
+
+the key locations for the very high-grade gold (where assays can exceed over 100g/t), which are likely 
+
+to be significant to any future mining study at the T'Boli Project. 
+
+ 
+
+ 
+
+  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+55 | P a g e  
+ 
+
+27.0 REFERENCES 
+Andresan, M.T., 2004. Legal Opinion. For Sur American Gold Corporation, dated Feb. 20, 2004. 
+ 
+Christopher, P. A., 2005. Technical Report on the T'Boli Gold/Silver Property, Mindanao Island, 
+
+Philippines. Prepared for Sur American Gold Corporation, dated February 4, 2005. Filed with SEDAR 1 
+
+March 2005. 
+
+Cooper, I. S., 1997. T'Boli Gold Project Mineral Resource Estimation. Prepared for Eastern Gold 
+
+Corporation NL, dated October 1997. 
+
+Cooper, I. S., 2002. Independent Technical Report, Sabena and T'Boli Properties, Philippines. Prepared 
+
+for Sur American Gold Corporation NL, dated December 23, 2002. Filed with SEDAR on February 12, 
+
+2003. 
+
+Corbett, G. J., 2002. Structural Controls to Cu-Au and Epithermal Au-Ag Deposits. Printed in Applied 
+
+Structural Geology for Mineral Exploration, Australian Institute of Geoscientists Bulletin36, p. 32-35. 
+
+Domasig, W, Marcos, D and Protacio, A, 1998. Results of mineral exploration over the Columbio FTAA 
+
+in Southern Mindanao, Philippines, unpublished WMC internal report. 
+
+Hall, R, 1996. Reconstructing Cenozoic SE Asia, in Tectonic Evolution ofSoutheast Asia, (Eds: RHall and 
+
+D Blundell) pp 153-184, Geological Society Special Publication No 106. 
+
+Hoschke, T. 2008. Geophysical signatures of copper-gold porphyry and epithermal gold deposits.  
+
+Arizona Geological Society Digest 22. 
+
+Jackson, A. 2017. Video Presentation; Ore Deposits 101 #5, Epithermal Deposits.  Link -  
+
+http://sprottglobal.com/natural-resource-investing/investment-university/ore-deposits-101-part-5/ 
+
+Leach, T.M. & Corbett, G.J. 1994. Porphyry – related carbonate – base metal gold systems in the 
+
+southwest pacific: characteristics. In Proc. Of the PNG geology exploration and mining conf. AusIMM 
+
+Publication. 
+
+Middleton, C., Buenavista, A., Rohrlach, B., Gonzalez, J., Subang, L. and Moreno, G. 2004. A Geological 
+
+Review of the Tampakan Copper-Gold Deposit Southern Mindanao, Philippines. Pacrim 2004. pp 173-
+
+187. 
+
+Pena, R. E., 2008. Lexicon of Philippine Stratigraphy 2008. Published by The Geological Society of the 
+
+Philippines, Inc. 2008. 
+
+Pena, R. E., Sept 2012. Exploration Report for Tribal Mining Corporation, Kematu Gold-Silver Project 
+
+T'boli, South Cotabato, Mindanao Philippines. 
+
+Pyper, R.C.W., 2000. Independent Valuation T'Boli Gold Project, TMC MPSA and Holon MPSA 
+
+Tenements. For Sabena Limited, dated August 18, 2000, in Sabena Prospects dated Oct. 11, 2000. 
+
+Robson, S. and Lahti h. R., 2012.  Technical Report on the T'Boli Gold and Silver Project, South 
+
+Cotabato, Mindanao, Philippines. Prepared for Cadan Resources Corporation, dated October 1, 2012. 
+
+Filed with SEDAR on March 11, 2013. 
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+56 | P a g e  
+ 
+
+Salazar, R. R. C. 2007.  Letter to Cadan Resources Corporation (now Rizal) dated May 3, 2017 from 
+
+legal firm Fortun, Narvasa, Salazar. 
+
+Santos, J.R.E. & Baptista, A.C. 1963 Preliminary report on the geology and mineral resources of South 
+
+Cotabato. Report of the Bureau of Mines of the Republic of the Philippines. 
+
+Schultz, K. 2009. Exploration and Development Strategy for T'Boli and Batoto-Tarale Gold Projects, 
+
+Mindanao, Philippines. Prepared for Rizal Resources Corporation. Filed with SEDAR 10 May, 2010. 
+
+Villamor, R.T. & Muere, B.D. 1990 Geology and mineralisation at Polonoling Quadrangle, South 
+
+Cotabato. Report of the Bureau of Mines of the Republic of the Philippines. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+
+
+Rizal Resources Corporation  T'Boli Gold-Silver Project 
+
+57 | P a g e  
+ 
+
+28.0 CERTIFICATE OF QUALIFIED PERSON 
+CERTIFICATE OF AUTHOR 
+
+I, Steven Olsen, B.Sc.(Hons), M.Sc., MAIG, do hereby certify that: 
+
+1. I am independent consulting geologist with an office at 33 Cinnamon Drive, Lake Gardens, 
+Victoria, 3350. Australia. 
+
+2. This certificate applies to the technical report titled "NI 43-101 Technical Report, T'Boli Gold-
+Silver Project South Cotabato, Mindanao, Philippines.", with an effective date of March 1, 
+2018 ("the Technical Report"), prepared for Rizal Resources Corporation ("Rizal"); 
+
+3. I am a graduate of The University of Melbourne (Bachelors of Science (Hons) in Geology in 
+1992), and a graduate of Queen's University, Kingston, Ontario (Masters in Mineral 
+Exploration) in 1997.  I am a registered member in good standing of the Australian Institute 
+of Geoscientists (membership number 7014). I have practiced my profession for a total of 25 
+years since my graduation and have relevant experience predominantly with regard to the 
+exploration and definition of complex gold deposits of various types, nickel sulphide deposits 
+and various copper sulphide deposits; 
+
+4. I have read the definition of "qualified person" set out in National Instrument 43-101 (NI 43-
+101) and certify that by reason of my education, affiliation with a professional association 
+(as defined in NI 43-101) and past relevant work experience, I fulfil the requirements to be a 
+"qualified person" for the purposes of NI43-101; 
+
+5. I visited the T'Boli mine site on 3 occasions for a total of 6 days over the period from 
+December 18, 2017 up to February 21, 2018; 
+
+6. I am responsible for of the entire report titled NI43-101 Technical Report, T'Boli Gold-Silver 
+Project, South Cotabato, Mindanao, Philippines; 
+
+7. I am independent of the Issuer and related companies applying all of the tests in Section 1.5 
+of the NI43-101; 
+
+8. I have read NI 43-101, and the Technical Report has been prepared in compliance with NI 
+43-101 and Form 43-101F1; 
+
+9. As of the effective date of the Technical Report and the date of this certificate, to the best of 
+my knowledge, information and belief, this Technical Report contains all scientific and 
+technical information that is required to be disclosed to make the Technical Report not 
+misleading. 
+
+ 
+
+Effective Date: March 1, 2018 
+
+Signing Date:  28 March 2018 
+
+ 
+
+Original signed and sealed by; 
+
+ 
+
+________________________________ 
+
+Steven Olsen B.Sc.(Hons), M.Sc., MAIG. 
+
+ 
+
+
+'

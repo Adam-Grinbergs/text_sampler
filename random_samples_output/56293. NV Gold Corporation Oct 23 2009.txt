@@ -1,0 +1,4524 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technical Report on Fisher Canyon Property
+
+
+ 
+
+MINE DEVELOPMENT ASSOCIATES 
+
+MINE ENGINEERING SERVICES 
+ 
+
+775-856-5700 
+
+ 
+
+210 South Rock Blvd. 
+
+Reno, Nevada  89502 
+
+FAX: 775-856-6053 
+
+Technical Report 
+
+on the 
+
+Fisher Canyon Gold Prospect 
+
+Pershing County, Nevada 
+ 
+
+ 
+View looking west of the Fisher Canyon prospect area, Humboldt Range, Nevada 
+
+ 
+Prepared for 
+
+ 
+
+Dreamweaver Capital Corporation 
+
+ 
+September 22, 2009 
+
+ 
+
+       Odin D. Christensen, Ph.D, C.P.G. 
+
+         Michael M. Gustin, Ph.D, P.G. 
+
+
+
+ 
+MINE DEVELOPMENT ASSOCIATES 
+MINE ENGINEERING SERVICES 
+ 
+
+775-856-5700 
+ 
+210 South Rock Blvd. 
+Reno, Nevada  89502 
+FAX: 775-856-6053 
+
+TABLE OF CONTENTS 
+ 
+
+1.0 EXECUTIVE SUMMARY ............................................................................................................. 1 
+
+2.0 INTRODUCTION AND TERMS OF REFERENCE ..................................................................... 4 
+2.1 Project Scope and Terms of Reference ............................................................................... 4 
+2.2 Frequently Used Acronyms, Abbreviations, Definitions, and Units of Measure. ............... 5 
+
+3.0 RELIANCE ON OTHER EXPERTS .............................................................................................. 6 
+
+4.0 PROPERTY DESCRIPTION AND LOCATION ........................................................................... 7 
+4.1 Location ............................................................................................................................... 7 
+4.2 Land Area ............................................................................................................................ 7 
+4.3 Agreements and Encumbrances ........................................................................................ 10 
+4.4 Environmental Permits and Potential Liabilities ............................................................... 11 
+
+5.0 ACCESS, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE, AND  
+ PHYSIOGRAPHY ........................................................................................................................ 12 
+
+5.1 Access ................................................................................................................................ 12 
+5.2 Climate .............................................................................................................................. 12 
+5.3 Local Resources and Infrastructure ................................................................................... 13 
+5.4 Physiography ..................................................................................................................... 13 
+
+6.0 HISTORY ...................................................................................................................................... 15 
+6.1 Antelope Springs District .................................................................................................. 15 
+6.2 Fisher Canyon Property ..................................................................................................... 16 
+
+6.2.1 Rock-ChipGeochemistry ....................................................................................... 16 
+6.2.2 Evolving Gold Drilling .......................................................................................... 18 
+
+7.0 GEOLOGIC SETTING ................................................................................................................. 19 
+7.1 Regional Geologic Setting ................................................................................................. 19 
+7.2 Local Geology ................................................................................................................... 21 
+7.3 Fisher Canyon Prospect Geologic Setting ......................................................................... 23 
+
+8.0 DEPOSIT TYPES ......................................................................................................................... 25 
+8.1 Carlin-Type Sedimentary-Rock-Hosted Disseminated Gold Deposits ............................. 25 
+8.2 Sedimentary-Rock-Hosted Gold Deposits in the Humboldt Mountains ........................... 26 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page ii 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+9.0 MINERALIZATION ..................................................................................................................... 27 
+
+10.0 EXPLORATION BY THE ISSUER ............................................................................................. 28 
+10.1 Satellite Imagery ................................................................................................................ 28 
+
+10.2 Soil Geochemistry ............................................................................................................. 28 
+10.3 Rock Geochemistry ........................................................................................................... 30 
+
+11.0 DRILLING .................................................................................................................................... 33 
+
+12.0 SAMPLING METHOD AND APPROACH ................................................................................. 35 
+12.1 Rock Geochemical Samples .............................................................................................. 35 
+
+12.2 Soil Geochemical Samples ................................................................................................ 35 
+
+12.3 Reverse-Circulation Drill Samples .................................................................................... 35 
+
+13.0 SAMPLE PREPARATION, ANALYSIS AND SECURITY ....................................................... 36 
+
+13.1 Rock Samples .................................................................................................................... 36 
+13.2 Soil Samples ...................................................................................................................... 36 
+13.3 Drill Samples ..................................................................................................................... 37 
+
+14.0 DATA VERIFICATION ............................................................................................................... 38 
+
+15.0 ADJACENT PROPERTIES .......................................................................................................... 39 
+
+16.0 MINERAL PROCESSING AND METALLURGICAL TESTING ............................................. 40 
+
+17.0 MINERAL RESOURCE ESTIMATE .......................................................................................... 41 
+
+18.0 OTHER RELEVANT DATA AND INFORMATION ................................................................. 42 
+
+19.0 INTERPRETATIONS AND CONCLUSIONS ............................................................................ 43 
+
+20.0 RECOMMENDATIONS .............................................................................................................. 44 
+
+21.0 REFERENCES .............................................................................................................................. 47 
+
+22.0 DATE AND SIGNATURE PAGE ................................................................................................ 49 
+
+23.0 CERTIFICATE OF AUTHORS .................................................................................................... 50 
+
+ 
+ 
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page iii 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+LIST OF FIGURES 
+
+ 
+
+Figure 4.1  Location of the Fisher Canyon Project Area. ........................................................................... 8 
+
+Figure 4.2  Location Map of Fisher Canyon Project Claims. ..................................................................... 9 
+Figure 6.1  Rock Chip Geochemical Sample Results of Evolving Gold.................................................. 17 
+Figure 7.1  Geological Map of Mesozoic Rocks of Northwestern Nevada ............................................. 20 
+Figure 7.2  Triassic Stratigraphy of the Shelf Terrane of Northwestern Nevada. .................................... 22 
+Figure 7.3  Geologic Map of a Portion of the Fisher Canyon Property ................................................... 24 
+
+Figure 10.1 Map of Gold in Soil, Fisher Canyon Property ....................................................................... 29 
+Figure 10.2 Map of Gold in Rock Samples, Fisher Canyon Property ....................................................... 31 
+Figure 11.1 Map Showing Evolving Gold Drill Holes and Selected Intercepts ....................................... 34 
+Figure 13.1 Quality Control Samples for Fisher Canyon Drilling. ........................................................... 37 
+
+Figure 20.1 Exploration Drilling Planned by NV Gold ............................................................................ 45 
+ 
+
+ 
+
+ 
+
+ 
+
+LIST OF APPENDICES 
+
+ 
+
+Appendix A  Conversion Factors For Common Units Of Measure  
+
+Appendix B  NV Gold Claims 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+MINE DEVELOPMENT ASSOCIATES 
+
+MINE ENGINEERING SERVICES 
+ 
+
+775-856-5700 
+
+ 
+
+210 South Rock Blvd. 
+
+Reno, Nevada  89502 
+
+FAX: 775-856-6053 
+
+1.0 EXECUTIVE SUMMARY 
+ 
+
+This technical report of the Fisher Canyon project was prepared by Mine Development Associates 
+
+("MDA") at the request of Dreamweaver Capital Corporation ("Dreamweaver"), a Canadian capital pool 
+
+corporation listed on the TSX Venture Exchange, in connection with its proposed "qualifying 
+
+transaction".  The purpose of the report is to provide a technical review of the Fisher Canyon project for 
+
+the qualifying transaction that describes the geologic setting of the project area as well as past 
+
+exploration history and results.  The technical report is written in compliance with disclosure and 
+
+reporting requirements set forth in the Canadian Securities Administrators' National Instrument 43-101 
+
+("NI 43-101"), Companion Policy 43-101CP, and Form 43-101F1.  MDA has made such independent 
+
+investigations as deemed necessary in its professional judgment to be able to reasonably rely on existing 
+
+information to make the conclusions and recommendations presented in this report.   
+
+ 
+
+It is proposed that NV Gold Corporation (USA) ("NV Gold"), a private Nevada corporation that holds 
+
+leases and claims that make up the Fisher Canyon project, will complete a business combination with 
+Dreamweaver.  Following the amalgamation, Dreamweaver will change its name to NV Gold 
+Corporation, which will be listed on the Toronto Stock Exchange (TSX Venture Exchange).   
+
+   
+The Fisher Canyon property is located in central Pershing County, Nevada, approximately 32 kilometers 
+
+(20 miles) east of Lovelock, the county seat of Pershing County.  The property is located on the 
+
+southeast flank of the Humboldt Range within the Antelope Springs mining district.  The property is 
+
+situated in all or portions of Sections 31 and 32, Township 28 North, Range 35 East, and Sections 4, 5, 
+
+6, 7, 8, 17, and 18, Township 27 North, Range 35 East, Mount Diablo Base and Meridian.  Exploration 
+
+activity to date has been centered at approximately 40
+°
+ 12' North latitude, 118
+
+°
+ 5' West longitude.  The 
+
+location is favorable for exploration and mining year-around; other large mining operations are active 
+
+within the area.   
+
+ 
+
+The Fisher Canyon property consists of 98 unpatented lode mineral claims located on land controlled by 
+
+the U.S. Department of Interior Bureau of Land Management.  NV Gold controls approximately 827 
+
+hectares (2,043 acres) of claims in two non-contiguous blocks.  The claims are controlled through a 
+
+purchase agreement with Evolving Gold Corp. and a lease agreement with Mountain Gold Exploration 
+
+Inc. and Thomas Mancuso.    
+
+ 
+
+The project area is located on the southeastern end of the Humboldt Range.  The overall geologic 
+
+framework of the Humboldt Range is antiformal, cored by Permian-Triassic Koipato Group 
+
+metavolcanic rocks that are progressively overlain by the Prida, Augusta Mountain, and Cane Spring 
+
+formations of the Star Peak Group and the Grass Valley Formation of the Auld Lang Syne Group.   
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 2 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+Stratigraphy in the Fisher Canyon project area generally dips eastward.  The oldest rocks are Weaver 
+
+rhyolite of the Koipato Group, exposed in the northwestern part of the area.  Units of the Prida 
+
+Formation, Augusta Mountain Formation, and Cane Spring Formation are exposed to the southeast.  
+
+These Triassic units, while comprised of a number of distinct lithologies, are dominantly limestone, 
+
+dolomite, and impure limestone.  In the region of the Humboldt Range, the Augusta Mountain 
+
+Formation includes kilometer-scale lenses of basalt flows and volcaniclastic sedimentary rocks 
+
+interbedded with the dominant carbonate lithologies.   
+
+ 
+
+Hydrothermal alteration and geochemical gold enrichment have been identified over an area extending 
+
+approximately 4 kilometers (2.5 miles) north-south by 1.6 kilometer (1 mile) east-west.  Alteration 
+
+recognized at Fisher Canyon occurs predominantly within the units of volcanic and volcaniclastic rock 
+
+and immediately adjacent limestone within the Augusta Mountain Formation.  This hydrothermal 
+
+alteration includes silicification, clay alteration, and introduction of disseminated pyrite.  Weathering of 
+
+the pyrite-bearing rocks produces iron oxides, which create a visually striking rusty landscape.    
+
+ 
+
+The Fisher Canyon prospect was identified through drainage BLEG (Bulk Leach Extractable Gold) 
+
+sampling, and claims were staked in 2007.  Exploration of the property by prior owners included rock-
+
+chip geochemistry and one phase of reverse-circulation percussion drilling.  Rock-chip geochemical 
+
+sampling outlined a large area with significant enrichment in gold, silver, and particularly arsenic. 
+
+ 
+
+The Fisher Canyon property was drill-tested with an initial reconnaissance-scale drilling program in 
+
+December 2007.  The drill program consisted of 971 meters (3,186 feet) of reverse-circulation 
+
+percussion drilling in 13 holes, ranging from 40 meters (130 feet) to 137 meters (450 feet) in depth, with 
+
+holes grouped within a single target area.  Twelve of the 13 drill holes encountered gold values ranging 
+
+from 0.1 to 4.14 g Au/t over the individual 1.52-meter (five-foot) sample intervals.   
+
+ 
+
+Since acquiring its initial interest in the property in June 2009, NV Gold has obtained high-resolution 
+
+satellite imagery of the project area and completed rock-chip and soil geochemical programs.  The 
+
+satellite imagery has a resolution of approximately 0.5 meters that exhibits exceptional color fidelity.  
+
+Soil geochemical programs collected and analyzed 669 soil samples covering an area of approximately 
+
+270 hectares (667 acres) on rectangular grids of 50 x 50 meters or 50 x 100 meters.  Samples contain 
+
+significant enrichments of gold and pathfinder elements; notable results include 21 samples that assayed 
+
+greater than 50 ppb gold, 13 samples that returned greater than 0.5 ppm silver, and 53 samples that 
+
+contain greater than 100 ppm arsenic.  Rock geochemical programs collected and analyzed 57 rock 
+
+samples.  Results of note include a maximum gold concentration of 9.7 ppm gold, with 7 samples 
+
+reporting greater than 1 ppm gold; 15 samples contain greater than 1000 ppm arsenic and 13 contain 
+
+greater than 0.5 ppm silver.  The map patterns of geochemical enrichments in rocks and soils are similar 
+
+and provide evidence of stratigraphic and structural controls to mineralization.  
+
+ 
+
+Known geology, hydrothermal alteration, and mineralization styles at Fisher Canyon suggest potential 
+
+for discovery of disseminated gold mineralization hosted by sedimentary rocks, commonly referred to as 
+
+Carlin-type gold mineralization.  Carlin-type gold deposits are largely replacement bodies with visually 
+
+subtle alteration and gold contained in solid solution or as submicron particles in disseminated pyrite.  
+
+ 
+
+The Fisher Canyon gold exploration property represents a property of merit that warrants continued 
+
+exploration.  The authors recommend that NV Gold proceed with a systematic, staged exploration 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 3 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+program to define and prioritize prospects for early drill testing.  The recommended program includes 
+
+geological mapping, additional rock and soil geochemistry, and reverse-circulation drilling.  A prudent 
+
+first-phase exploration program conducted with funding on the order of USD$550,000 should 
+
+substantially improve understanding of the economic mineral potential of the Fisher Canyon property 
+
+and provide a drill test of the highest priority targets. 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 4 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+2.0 INTRODUCTION AND TERMS OF REFERENCE 
+ 
+
+Mine Development Associates ("MDA") has prepared this technical report for the Fisher Canyon 
+
+project, located in Pershing County, Nevada, at the request of Dreamweaver Capital Corporation 
+
+("Dreamweaver"), a Canadian capital pool corporation listed on the TSX Venture Exchange, in 
+
+connection with its proposed "qualifying transaction".  Following the qualifying transaction, 
+
+Dreamweaver proposes to amalgamate with NV Gold Corporation (USA) ("NV Gold"), a private 
+
+Nevada corporation that holds leases and claims that make up the Fisher Canyon project.  The 
+
+amalgamated company then plans to change its name to NV Gold Corporation, which will be listed on 
+
+the Toronto Stock Exchange (TSX Venture Exchange).       
+
+ 
+
+The technical report is written in compliance with disclosure and reporting requirements set forth in the 
+
+Canadian Securities Administrators' National Instrument 43-101 ("NI 43-101"), Companion Policy 43-
+
+101CP, and Form 43-101F1.   
+
+2.1 Project Scope and Terms of Reference 
+
+ 
+
+The purpose of this report is to provide a technical review of the Fisher Canyon project that describes 
+
+the geologic setting of the project area, summarizes completed exploration activities, and presents 
+
+recommendations for future exploration of the property.  Both Odin D. Christensen and Michael M. 
+
+Gustin, the authors of this report, are Qualified Persons under NI 43-101.  While Mr. Christensen is the 
+
+senior author of this report and initially began his technical review of the project as an independent 
+
+representative of MDA, he subsequently agreed to join the future board of directors of NV Gold 
+
+Corporation.  Since this could be perceived as compromising his independence with respect to NV Gold, 
+
+Mr. Gustin takes full responsibility for this report.  There is no affiliation between Mr. Gustin and 
+
+Dreamweaver or NV Gold except that of an independent consultant/client relationship. 
+
+ 
+
+The scope of this report included a review of pertinent technical reports and data provided to MDA by 
+
+NV Gold relative to the general setting, geology, project history, exploration activities and results, 
+
+methodology, quality assurance, and interpretations.  MDA received a digital database of drill and 
+
+surface geochemical data from NV Gold, upon which the authors have relied.  The authors' mandate 
+
+was to comment on substantive public or private documents and technical information listed in Section 
+
+21.0.  The mandate also required on-site inspection and the preparation of this independent technical 
+
+report containing the authors' observations, conclusions, and recommendations.  Both authors have 
+
+considerable geological experience in Nevada, particularly with gold deposits in Nevada.  The 
+
+conclusions and recommendations made in this report are based on the authors' review of the historical 
+
+exploration data tempered by their personal experience.   
+
+ 
+
+NV Gold acquired a portion of its interest in the Fisher Canyon property from Evolving Gold Corp. 
+
+("Evolving Gold"), and much of the technical information reviewed was provided to NV Gold by 
+
+Evolving Gold.  Mr. Christensen spent one day in the field at Fisher Canyon on April 8, 2009, with Mr. 
+
+John Watson of NV Gold and Mr. Quinton Hennigh, President and Chief Geologist of Evolving Gold, 
+
+reviewing field exposures and related technical information.  Mr. Christensen also visited the site on 
+
+May 21 through 25, August 3 through 5, and September 3, 2009, during which he completed geological 
+
+reviews, reconnaissance geological mapping, and geochemical sampling.  Mr. Gustin visited the 
+
+property on September 1, 2009. 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 5 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+MDA has made such independent investigations as deemed necessary in the professional judgments of 
+
+the authors to be able to reasonably rely on existing information to make the conclusions and 
+
+recommendations presented in this report.    
+
+ 
+
+The effective date of this updated technical report is September 22, 2009, unless otherwise stated. 
+
+ 
+
+2.2 Frequently Used Acronyms, Abbreviations, Definitions, and Units of Measure.   
+
+ 
+
+This report generally uses Imperial units of measure.  Conversion factors for common units of measure 
+
+are included in Appendix A.   
+
+ 
+
+Following are some acronyms and abbreviations used in this report: 
+
+ 
+
+AA  atomic absorption spectrometry 
+
+Ag  silver 
+
+As  arsenic 
+
+Au  gold 
+
+BLEG  Bulk Leach Extractable Gold 
+
+BLM  Bureau of Land Management, U.S. Department of Interior 
+
+°F  degrees Fahrenheit  
+
+ft  foot, feet 
+
+g  grams 
+
+g/t  grams per metric tonne; 1 g/t Au = 1 ppm Au 
+
+GPS  global positioning satellite field-location instrument 
+
+Hg  mercury 
+
+ICP-AES inductively-coupled plasma atomic emission spectroscopy 
+
+ICP-MS inductively-coupled plasma mass spectroscopy 
+
+km  kilometers 
+
+NSR  net smelter return 
+
+oz/ton  troy ounces per short ton 
+
+ppb  parts per billion (parts per 10
+9
+);  1,000 ppb = 1 ppm 
+
+ppm  parts per million (parts per 10
+6
+);  1% = 10,000 ppm 
+
+QA/QC quality assurance and quality control 
+
+RC  reverse-circulation drilling method 
+
+Sb  antimony 
+
+t  tonne, tonnes (metric tonnes) 
+
+Tl  thallium 
+
+UTM  Universal Transverse Mercator geographic coordinate system.   
+
+ 
+
+Currency Unless otherwise indicated, all references to dollars ($) in this report refer to currency of the 
+
+United States. 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 6 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+3.0 RELIANCE ON OTHER EXPERTS 
+ 
+
+This report was prepared for Dreamweaver by Odin D. Christensen and Michael M. Gustin during the 
+
+period April-August 2009.  The authors are both familiar with the geology of northern Nevada and the 
+
+Humboldt Range, but neither had prior personal familiarity with this project.  The authors have reviewed 
+
+a number of geological reports and data regarding the Fisher Canyon property, as cited in the References 
+
+section (Section 21.0) of this report.  Much of the information presented in this report has been extracted 
+
+from these references. 
+
+ 
+
+The authors have relied as well on information provided by Evolving Gold, who previously explored the 
+
+Fisher Canyon property and retains an interest in the property.   
+
+ 
+
+The authors are not experts in land, legal, environmental, and permitting matters, such as the assessment 
+
+of the legal validity of mining claims, private lands, mineral rights, and property agreements.  The 
+
+authors did not conduct any investigations of the environmental or social-economic issues associated 
+
+with the Fisher Canyon project, and the authors are not experts with respect to these issues.   
+
+ 
+
+The authors have relied on NV Gold to provide full information concerning the legal status of 
+
+Dreamweaver and NV Gold Corporation, as well as current legal title, material terms of all agreements, 
+
+existence of applicable royalty obligations, and material environmental and permitting information that 
+
+pertain to the Fisher Canyon property.   
+
+ 
+
+Sections 4.2, 4.3, and 4.4 are based on information provided or verified by NV Gold, and the authors 
+
+offer no professional opinions with respect to the provided information.  This information is presented 
+
+solely to fulfill reporting requirements of NI 43-101, but the authors express no opinion regarding the 
+
+legal or environmental status of the Fisher Canyon property or any of the agreements and encumbrances 
+
+related to the property. 
+
+ 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 7 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+4.0 PROPERTY DESCRIPTION AND LOCATION 
+
+4.1 Location 
+
+ 
+
+The Fisher Canyon property is located in central Pershing County, Nevada, approximately 32 kilometers 
+
+(20 miles) east of Lovelock, the county seat of Pershing County (Figure 4.1).  The property is located 
+
+within the Antelope Springs mining district (Johnson, 1977; Tingley, 1985) on the east flank of the 
+
+Humboldt Range, overlooking Buena Vista Valley to the east.  Elevations at Fisher Canyon range from 
+
+4,400 feet to 8,800 feet above mean sea level.   
+
+ 
+
+Exploration activity to date has been centered within the drainage of Cow Canyon at approximately 40
+°
+ 
+
+12' North latitude, 118
+°
+ 5' West longitude, or UTM coordinates 407,000 East, 4,451,500 North, North 
+
+American Datum 1927, Zone 11.  The Fisher Canyon and Fitting 7.5-minute topographic maps of the 
+
+United States Geological Survey ("USGS") cover the project area; the site lies on the Lovelock 1
+°
+ x 2
+
+°
+ 
+
+map sheet of the USGS.   
+
+4.2 Land Area 
+
+ 
+
+The Fisher Canyon property consists of 98 unpatented lode mineral claims located on public lands 
+
+administered by the Bureau of Land Management ("BLM") in Sections 31 and 32, Township 28 North, 
+
+Range 35 East; and Sections 4, 5, 6, 7, 8, 16, and 17, Township 27 North, Range 35 East, Mount Diablo 
+
+Base and Meridian (Figure 4.2; "CC" = Crackle Canyon claims; "CCN" = Cow Canyon claims; "RC" = 
+
+RC claims).  NV Gold controls approximately 2,043 acres (827 hectares).  The claims are in two non-
+
+contiguous blocks, as shown on Figure 4.2.  Claims currently controlled by NV Gold are listed with 
+
+details in Appendix B.  The public land records of the BLM and Pershing County were reviewed by Mr. 
+
+Christensen in order to superficially review the status of the project claims; no discrepancies or 
+
+omissions from the information provided herein were noted. 
+
+ 
+
+ 
+
+ 
+  
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 8 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+Figure 4.1 Location of the Fisher Canyon Project Area   
+
+ 
+
+  
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 9 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+Figure 4.2 Location Map of Fisher Canyon Project Claims 
+(Air photo base image showing townships, ranges, and sections) 
+
+ 
+
+31
+
+6
+
+R
+3
+5
+E
+
+R
+3
+4
+E
+
+0
+
+16
+
+7
+
+miles
+
+17
+
+0.50.25
+
+18
+
+5
+
+8 9
+
+4
+
+T28N
+
+T27N
+
+32
+
+RC 26
+
+R
+C
+
+ 2
+7
+
+R
+C
+
+ 7
+4
+
+R
+C
+
+ 8
+0
+
+R
+C
+
+ 8
+1
+
+R
+C
+
+ 7
+5
+
+RC 104
+
+C
+C
+
+ 1
+0
+
+C
+C
+
+ 9
+
+C
+C
+
+ 8
+
+C
+C
+
+ 7
+
+C
+C
+
+ 6
+
+R
+C
+
+ 8
+2
+
+R
+C
+
+ 8
+3
+
+R
+C
+
+ 7
+7
+
+R
+C
+
+ 7
+6
+
+R
+C
+
+ 6
+3
+
+R
+C
+
+ 6
+4
+
+C
+C
+
+ 2
+
+C
+C
+
+ 3
+
+C
+C
+
+ 4
+
+C
+C
+
+ 5
+
+R
+C
+
+ 7
+3
+
+R
+C
+
+ 8
+4
+
+R
+C
+
+ 8
+5
+
+R
+C
+
+ 7
+9
+
+R
+C
+
+ 7
+8
+
+R
+C
+
+ 5
+8
+
+R
+C
+
+ 5
+9
+
+R
+C
+
+ 6
+1
+
+R
+C
+
+ 6
+0
+
+C
+C
+
+N
+-2
+
+C
+C
+
+N
+-4
+
+C
+C
+
+N
+-6
+
+C
+C
+
+N
+-7
+
+C
+C
+
+N
+-5
+
+C
+C
+
+N
+-3
+
+C
+C
+
+N
+-1
+
+C
+C
+
+N
+-8
+
+RC 22
+
+RC 23
+
+RC 24
+
+RC 25
+
+RC 30
+
+RC 31
+
+RC 52
+
+RC 53
+
+RC 54
+
+RC 55
+
+RC 56
+
+RC 57
+
+RC 62
+
+RC 65
+
+RC 66
+
+RC 67
+
+RC 68
+
+RC 69
+
+RC 70
+
+RC 71
+
+RC 72
+
+RC 89
+
+RC 88
+
+RC 87
+
+RC 86
+
+RC 98
+
+RC 94
+
+RC 93
+
+RC 92
+
+RC 91
+
+RC 90 RC 99
+
+RC 97
+
+RC 96
+
+RC 95
+
+RC 100
+
+RC 103
+
+RC 102
+
+RC 101
+
+RC 109
+
+RC 108
+
+RC 107
+
+RC 106
+
+RC 105
+
+RC 114
+
+RC 113
+
+RC 112
+
+RC 111 RC 119
+
+RC 110 RC 118
+
+RC 117
+
+RC 116
+
+RC 115
+
+RC 122
+
+RC 121
+
+RC 120
+
+CC 11
+
+CC 12
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 10 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+4.3 Agreements and Encumbrances 
+
+ 
+
+NV Gold's interests in the 98 unpatented lode mining claims that comprise the Fisher Canyon property 
+
+are based upon a number of underlying agreements.  The authors are not experts with respect to land and 
+
+legal matters in Nevada.  The following information has been summarized from information and 
+
+documents provided by NV Gold to the authors and it is presented here without opinion.   
+
+ 
+
+The Crackle Canyon unpatented lode mining claims were located by Mr. Marcus H. Smith of Castle 
+
+Rock, Washington.  These eleven claims were acquired by Evolving Gold from Mr. Smith as per the 
+
+terms of a binding Letter of Intent executed February 19, 2008.  Under the terms of this agreement, 
+
+Evolving Gold can acquire 100% right, title, and interest to the specified claims for certain cash 
+
+payments over two years.  Mr. Smith retained a 3% Net Smelter Return ("NSR") production royalty 
+
+interest in the claims; this royalty may be bought down to 1.5% for certain cash payments for three years 
+
+from the date of execution of the Letter of Intent.   
+
+ 
+
+In addition to the Crackle Canyon claims, Evolving Gold controls 79 RC unpatented lode mining claims 
+
+at Fisher Canyon that were located in March 2007 by Mr. Quinton Hennigh as agent for Evolving Gold. 
+
+ 
+
+Evolving Gold and John E. Watson executed a purchase and sale agreement dated June 1, 2009.  For 
+
+specified payments over a period of five years, Watson has the right to acquire all right, title and interest 
+
+to the Fisher Canyon claims controlled by Evolving Gold, subject to an NSR Royalty retained by 
+
+Evolving Gold.  The defined property includes the 79 RC claims and the 11 Crackle Canyon claims, as 
+
+shown on Figure 4.2 and listed in Appendix B.  In addition to the underlying royalty held by Mr. Smith, 
+
+Evolving Gold retained a 3.0% NSR Royalty; Watson has the right to reduce the royalty to 1.0% 
+
+through certain specified payments at any time during the five-year purchase period.    
+
+ 
+
+Eight CCN claims were located by Mountain Gold Exploration Inc. at Fisher Canyon in September 
+
+2005.  An Exploration and Mining Lease and Option to Purchase Royalty Agreement was executed on 
+
+August 3, 2009 between John E. Watson and the owners of the CCN claims, Mountain Gold Exploration 
+
+Inc., a Nevada Corporation with an undivided 50% interest in the claims, and Thomas Mancuso, in 
+
+individual with an undivided 50% interest in the claims.  Under terms of the agreement, the owners lease 
+
+the property to Mr. Watson for the purpose of mineral exploration, development, and extraction of 
+
+minerals for a period of 20 years subject to a 3% NSR royalty; a schedule of advance royalty payments 
+
+is defined in the agreement.  One percent of the 3% NSR royalty may be purchased for a period of three 
+
+years from the date of execution, and an additional one percent for a period of five years from the date 
+
+of execution.  In addition, Mr. Watson is obligated to expend specified amounts on exploration activity 
+
+on the property each year as follows:  $100,000 by the first anniversary of the agreement, an additional 
+
+$50,000 by the third anniversary of the agreement, and an additional $100,000 by the fifth anniversary 
+
+of the agreement.  Work expenditures in excess of the work commitment requirement for that year will 
+
+be credited against the work commitment for subsequent years.  
+
+ 
+
+Mr. Watson's interests in the lease and purchase agreements summarized above were assigned to NV 
+
+Gold in September 2009. 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 11 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+4.4 Environmental Permits and Potential Liabilities 
+
+ 
+
+Exploration drilling at the Fisher Canyon property will require approval of a Notice of Intent from the 
+
+BLM.  Two such Notices, one each for two areas of proposed drilling, were prepared by 
+
+Enviroscientists, Inc. of Reno, Nevada and hand-delivered to the BLM office in Winnemucca on August 
+
+20, 2009. 
+
+ 
+
+Other than disturbance related to previous drilling on the property, which includes drill access roads and 
+
+drill sites, MDA is not aware of any material environmental liabilities at the Fisher Canyon property. 
+
+ 
+
+   
+
+  
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 12 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+5.0 ACCESS, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE, AND 
+PHYSIOGRAPHY 
+
+5.1 Access 
+
+ 
+The Fisher Canyon property is readily accessible year-round from Lovelock or Winnemucca, Nevada 
+
+(Figure 4.1).  From Lovelock, one drives north on Interstate 80 approximately 10 kilometers (six miles)  
+
+to the Coal Canyon exit; then east approximately 21 kilometers (13 miles) on a paved road up Coal 
+
+Canyon and crossing the West Humboldt Range; then turning and winding north and east around the 
+
+south end of the Humboldt Range on paved road for approximately 10 kilometers (six miles); then north 
+
+along the all-weather dirt Old Emigrant Trail for 12 kilometers (eight miles); then turning westward on a 
+
+dirt track climbing gently to the property at a distance of approximately five kilometers (three miles) 
+
+(Figure 4.1). 
+
+ 
+
+From Winnemucca, the property can be reached by driving approximately 50 kilometers (30 miles)  
+
+westward on Interstate 80 to the Mill City exit; then south on Nevada 400 approximately 60 kilometers 
+
+(38 miles ) following the Old Emigrant Trail; then turning westward on a dirt track to access the 
+
+property in approximately five kilometers (three miles ).   
+
+ 
+
+Reasonable dirt tracks extend up Cow Canyon and Fisher Canyon; rugged jeep tracks extend up several 
+
+other small valleys.  Access to remote parts of the property on these tracks requires a sturdy four-wheel-
+
+drive vehicle; much of the property can currently be reached only on foot.  Except for occasional days of 
+
+exceptional snow or rain, the property is accessible for exploration all year.  Several large precious-
+
+metal mining operations are currently active nearby in Pershing and Humboldt counties.   
+
+5.2 Climate 
+
+ 
+The climate is typical for the arid high desert of the Great Basin, characterized by warm, dry summers 
+
+with intermittent thunderstorms.  Winters are typically cool and relatively dry, although the high peaks 
+
+of the Humboldt Range can be covered with snow for several months.  In all seasons, daily temperature 
+
+ranges can be extreme.  For the closest reporting weather station in Lovelock, 20 miles distant at an 
+
+elevation of 1,212 meters (3,975 feet), the average daily minimum temperature varies from -8°C 
+
+(17.6°F) in December to 12.7°C (54.8°F) in July; the average daily maximum temperature varies from 
+
+5.2°C (41.3°F) in January to 33.2°C (91.7°F) in July.  Lovelock receives annual average precipitation of 
+
+13.5 centimeters (5.3 inches), which is distributed relatively uniformly throughout the year.  For 
+
+Winnemucca, 100 kilometers (60 miles) distant at an elevation of 1,310 meters (4,297 feet), average 
+
+daily minimum temperatures vary between -8.5°C (16.7°F) in January to 9.3°C (48.7°F) in August; 
+
+average daily maximum temperatures vary between 5.6°C (42.1°F) in January to 33.9°C (93.0°F) in 
+
+July; annual average precipitation at Winnemucca is 20.8 centimeters (8.2 inches).  There is greater 
+
+precipitation on the high peaks of the Humboldt Mountains, estimated up to 51 centimeters (20 inches) 
+
+per year.   
+
+ 
+
+Vegetation is sparse, consisting primarily of low-growing Big Sage, Antelope Bitterbrush, Rabbitbrush, 
+
+Winterfat, Russian Thistle, and grasses of various types on the pediment, while the slopes of the range 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 13 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+contain similar shrubs and sparse Juniper trees.  Wildlife includes antelope, wild horses, rabbits, coyote, 
+
+rattlesnakes, various rodents, and a variety of birds.   
+
+ 
+
+The location and climate are favorable for exploration and mining year-round without particular weather 
+
+difficulties.   
+
+5.3 Local Resources and Infrastructure 
+
+ 
+
+Lovelock, with a population of 2,880, is the county seat and service center of Pershing County.  
+
+Agriculture is the most important element of the local economy.  Services are limited, although motel 
+
+accommodations are considerable.  Winnemucca, the county seat of Humboldt County with a population 
+
+of 7,175, is a regional service center.  Although agriculture is important, Winnemucca is also an active 
+
+mining center, servicing large gold mines located between Winnemucca and Battle Mountain.  There is 
+
+a workforce skilled and experienced in mineral exploration and mining.  Both Lovelock and 
+
+Winnemucca are served by Interstate Highway 80 and by the Union Pacific Railroad.   
+
+ 
+
+Reno, with a population of 220,600 in the city proper, is located 145 kilometers (90 miles) southwest of 
+
+Lovelock.  Although known as a gaming center, Reno is also a major warehouse and distribution center 
+
+for the western United States and it hosts an international airport.  Elko, Nevada, located 320 kilometers 
+
+(200 miles) to the east of Lovelock, is a major mining center, with vendors for most equipment and 
+
+consumables required for gold exploration and production.   
+
+ 
+Electrical power is available within the region from high-tension transmission lines running generally 
+
+along the Interstate 80 corridor.  Some mines in northern Nevada receive power from the grid; others 
+
+have their own electrical generation facilities.   
+
+ 
+
+Large precious-metal mining operations active or semi-active within 100 kilometers (60 miles) of Fisher 
+
+Canyon include the Florida Canyon gold, Rochester gold-silver, and Relief Canyon gold mines.   
+
+ 
+
+5.4 Physiography 
+
+ 
+
+The Fisher Canyon property is located on the eastern flank of the Humboldt Range, one of the north-
+
+south-elongate mountain ranges stepping across the Basin and Range from the Wasatch Front in central 
+
+Utah to the Sierra Nevada in western Nevada.  The eastern limit of the Fisher Canyon property lies on 
+
+the gentle pediment slope of the Humboldt Range, along the remnant shoreline of Pleistocene-Holocene 
+
+Lake Lahonton, at an elevation of about 1,340 meters (4,400 feet).  The western side of the property lies 
+
+on the moderately mountainous slopes of the Humboldt Range, extending to an elevation of 2,680 
+
+meters (8,800 feet).   
+
+ 
+
+Although the property is cut by several prominent east-directed valleys, there are no active streams on 
+
+the property.  Valleys fill with water only during storm events, with evidence of episodic flash floods.   
+
+ 
+
+The authors have no specific information regarding potential water sources.  Water for exploration 
+
+drilling can be purchased in Lovelock.  Scattered natural springs and agricultural wells to the east of the 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 14 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+property in Buena Vista valley indicate that groundwater sources may be present at reasonable depths.  
+
+It might be expected that groundwater is present within the alluvial fill of valleys crossing the property, 
+
+but this has not been tested.   
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 15 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+6.0 HISTORY 
+
+6.1 Antelope Springs District 
+
+ 
+
+Pershing County, including the Humboldt Range, has been prospected for minerals since the mid-1800s 
+
+when prospectors and miners swarmed throughout Nevada following discovery of the spectacular silver 
+
+deposits of the Comstock Lode.  The Antelope Springs mining district, including a number of mines in 
+
+the low hills at the southern end of the Humboldt Range, has historically been noted for production of 
+
+mercury, antimony, silver, and fluorspar (Tingley, 1985).  The road from Coal Canyon to the Fisher 
+
+Canyon property passes through this district of historic abandoned mines. 
+
+ 
+
+Antimony, the first commodity discovered in the district, was found in 1864.  Total antimony production 
+
+from the district has amounted to over 466 tonnes of metal from several mines.  Numerous small 
+
+antimony mines produced intermittently through the 1950s.  Rich silver ore was discovered in 1869 at 
+
+the Relief mine, originally known as the Batavia and Pacific; the mine is estimated to have produced 
+
+between $200,000 and $2,500,000 of silver, largely during the 1870s.  Mercury was discovered in the 
+
+district in 1907, although little or no ore was produced before 1914.  Between 1914 and 1969, especially 
+
+during times of high mercury prices, mines in the district were worked extensively (Johnson, 1977). 
+
+ 
+
+The Relief Canyon gold mine is located about five kilometers (three miles) west of Fisher Canyon.  This 
+
+prospect was originally known as the Bohannon fluorite prospect.  Gold was discovered by Duval 
+
+Corporation in 1979; the deposit was subsequently explored, developed, and mined by Lacana Mining 
+
+Inc. ("Lacana") (Fiannaca and McKee, 1983).  Pegasus Gold Inc. purchased the property from Lacana in 
+
+1986 and mined it until 1989.  An estimated 141,000 ounces of gold were extracted from the property 
+
+between 1986 and 1989 (Firstgold Corp. 2009).   
+
+ 
+
+The Rochester silver-gold mine in the Rochester mining district lies about 10 kilometers (six miles) to 
+
+the northeast of the Fisher Canyon property high on the west flank of the Humboldt Range.  Silver was 
+
+discovered in the Rochester district in the early 1860s, and production has continued intermittently 
+
+through the present.  The major silver deposits of the district are hosted in Permian-Triassic rhyolite of 
+
+the Koipato Group.  Deposits include silver- and gold-bearing quartz-tourmaline veins and vein 
+
+stockworks.  Early selective mining followed individual veins; modern mining has involved open-pit 
+
+extraction of lower-grade material.  To date, the Rochester district has produced some 4.5 million 
+
+ounces of gold and 130 million ounces of silver.   
+
+ 
+
+There are numerous prospect pits and scrapes on the Fisher Canyon property for which no record 
+
+remains.  Many tested small occurrences of quartz veins, and it is considered likely that the objective of 
+
+the prospectors was antimony or perhaps mercury.  In the area of the CCN claims, there exists a sinuous 
+
+network of historic roadways and bulldozer scrapes exceeding two kilometers in length.  Seven 
+
+collapsed percussion drill holes are noted on these roadways, and the presence of drill cuttings suggests 
+
+the presence of numerous additional drill holes.  We estimate that at least 20 holes were drilled in the 
+
+area.  No record of this work is known.  The old disturbance appears on air photos taken in 1975; some 
+
+of the old roads are now inaccessible by vehicle. 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 16 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+6.2 Fisher Canyon Property 
+
+ 
+
+The Fisher Canyon property was identified as a gold exploration target by a BLEG (Bulk Leach 
+
+Extractable Gold) drainage-sediment sampling program completed by Newcrest Mining Limited 
+
+("Newcrest") in the early 1990s.  Newcrest did not pursue the property, however, due to depressed 
+
+industry conditions at the time.   
+
+ 
+
+Evolving Gold returned recognized important alteration characteristics exposed in rock outcroppings at 
+
+the property in 2007 and staked 179 claims in late March 2007.  This property position was subsequently 
+
+reduced to the 79 claims now controlled by NV Gold.   
+
+ 
+
+6.2.1 Rock-Chip Geochemistry 
+
+ 
+
+Evolving Gold geologists completed two programs of rock-chip geochemical sampling within and 
+
+surrounding the Fisher Canyon property.  A total of 167 rock-chip samples were collected from the 
+
+current property area.  The samples, which were selectively taken by geologists on the basis of visual 
+
+manifestations of possible alteration and mineralization, are shown on Figure 6.1.  The samples contain 
+
+significant concentrations of gold and pathfinder elements, notably:  
+
+ 
+
+ The maximum gold value is 11.65 ppm Au; 
+
+ 7 samples contain greater than 2 ppm Au; 
+
+ 25 samples contain greater than 1 ppm Au; 
+
+ 36 samples (21%) contain greater than 0.5 ppm Au; 
+ 
+
+ 6 samples contain greater than 20 ppm Ag; 
+
+ 71 samples (42%) contain greater than 1 ppm Ag; 
+ 
+
+ 13 samples contain greater than 5000 ppm As; 
+
+ 70 samples contain greater than 1000 ppm As. 
+ 
+
+These surface concentrations of gold, silver, and pathfinder elements are anomalous.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 17 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+Figure 6.1 Rock Chip Geochemical Sample Results of Evolving Gold   
+(Samples are color-coded by gold concentration) 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 18 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+6.2.2 Evolving Gold Drilling 
+
+ 
+
+The Fisher Canyon property was tested with a reconnaissance-scale drilling program by Evolving Gold 
+
+in December 2007.  This program is discussed in greater detail in Section 11.   
+
+ 
+
+The Evolving Gold holes were grouped within a single target area along the north side of Cow Canyon.  
+
+According to Evolving Gold (2008), all holes penetrated a sequence of marly shale and basalt and 
+
+terminated in footwall crystalline limestone.  Twelve of the 13 drill holes encountered gold values 
+
+ranging from 0.1 to 4.14 g Au/t over individual 1.52-meter (five-foot) sample intervals.   
+
+ 
+
+NV Gold has access to all data from this drilling program, including lithology chip trays.   
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 19 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+7.0 GEOLOGIC SETTING 
+
+7.1 Regional Geologic Setting 
+
+ 
+
+The Fisher Canyon property is located in northwestern Nevada at the southern end of the Humboldt 
+
+Range within the Basin and Range physiographic province.  Johnson (1977) summarized the geology of 
+
+Pershing County, from which the following discussion is taken except as referenced. 
+
+ 
+
+During Paleozoic time, western Nevada was the site of deep-water sedimentation and local marine 
+
+volcanism, while to the east of Pershing County predominantly carbonate rocks were deposited on the 
+
+continental shelf.  East-directed compression transported rocks of the western assemblage to the east on 
+
+the Roberts Mountains thrust during the Late Devonian to Early Mississippian Antler Orogeny.  A 
+
+second compressional episode during the Permian-Early Triassic Sonoma Orogeny produced more east-
+
+directed transport on the Golconda thrust, which lies to the west of the Roberts Mountains thrust.  The 
+
+Sonoma Orogeny also resulted in accretion of a Paleozoic oceanic arc to the continental margin 
+
+outboard of the Golconda allochthon (Figure 7.1) (Jones, 2008; Wyld, 2000). 
+
+ 
+
+The sedimentary environment changed in the Early Triassic with deposition of a thick non-marine 
+
+sequence of rhyolitic and andesitic volcanic rocks over much of what is now Pershing County.  
+
+Subsequent uplift and erosion were followed by a long period of sedimentation that began in the late 
+
+Early Triassic and deposited lithologically variable marine and non-marine sedimentary sequences at 
+
+first, followed by more uniform carbonate deposits, including the Augusta Mountain and Cane Spring 
+
+formations (together formerly called the Natchez Pass Formation) of the Fisher Canyon area.  Generally 
+
+speaking, in the Early Triassic there was a shelf terrane to the east with abundant carbonate lithologies; a 
+
+volcanic-rich marine succession to the west; and an intervening basinal terrane with a deep-marine 
+
+basinal succession dominated by fine-grained siliciclastic rocks (Figure 7.1) (Wyld, 2000).  From 
+
+Middle Triassic to Early Jurassic time, there were uplifts that resulted in the deposition of near-shore 
+
+deltaic deposits of mudstone, shale, and sandstone that include the Grass Valley Formation of the Fisher 
+
+Canyon area. 
+
+ 
+
+A third episode of pre-Cenozoic deformation occurred during the Jurassic and Cretaceous during the 
+
+Nevadan Orogeny, which was characterized by low-grade regional metamorphism, variably directed 
+
+folding and thrust faulting, and extensive intrusion of granodiorite in the region.   
+
+ 
+
+Several episodes of plutonism are recorded in this region, ranging in age from Early Triassic to Tertiary.  
+
+Early Triassic leucogranites and rhyolite porphyries were associated with contemporaneous volcanism.  
+
+During the Middle Jurassic, gabbro was widely intruded as sills in the south-central part of the county, 
+
+south and southwest of the Fisher Canyon area.  Late Cretaceous granitic stocks are present in the 
+
+Humboldt Range along with numerous diabase dikes associated with these stocks.  Other Cretaceous 
+
+and Tertiary granodiorite plutons are exposed in the region. 
+
+ 
+
+During the Cenozoic, basaltic, andesitic, and rhyolitic flows, breccias, and tuffs, with intercalated 
+
+lacustrine deposits, fanglomerate, and fluvial sand and gravel, were deposited across the county.  
+
+Quaternary alluvial deposits fill the structural basins between ranges in Pershing County, and they are 
+
+also exposed on the flanks of the ranges. 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 20 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+The structural regime changed dramatically during extensional tectonism in the Cenozoic.  High-angle 
+
+normal faulting and tilting of Tertiary units exemplify this period of regional extension that resulted in 
+
+the present physiography of the Basin and Range Province. 
+
+ 
+
+Figure 7.1 Geological Map of Mesozoic Rocks of Northwestern Nevada   
+(Vertical lines = volcanic-rich Black Rock arc terrane; dot pattern = basinal terrane; block pattern = shelf terrane.  Modified 
+
+from Wyld (2000)) 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 21 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+7.2 Local Geology 
+
+ 
+
+The following subsection is based largely on Wyld (2000). 
+
+ 
+
+The Fisher Canyon property lies on the eastern flank of the southern Humboldt Range.  The Humboldt 
+
+Range itself is the product of Cenozoic high-angle normal faulting, and as such is one of the typical, 
+
+generally north-trending fault-bounded ranges of the Basin and Range Province.  The overall geologic 
+
+framework within the Humboldt Range is antiformal, cored by Paleozoic rocks deformed during the 
+
+Sonoma Orogeny (Golconda terrane) and by Permian-Triassic Koipato Group metavolcanic rocks.  The 
+
+Koipato Group consists of a thick (>3 kilometers) sequence of rhyolitic and less common mafic volcanic 
+
+strata that were deposited in a shallow-marine to subaerial environment during an episode of block 
+
+faulting that was probably related to regional extension.  Subsequent erosion of the Koipato Group 
+
+occurred in the earliest Triassic, prior to deposition of the Star Peak Group. 
+
+ 
+
+The Koipato Group is overlain by the Star Peak Group, which represents a marine carbonate platform 
+
+developed over the volcanic rocks in the Middle Triassic (Nichols and Silberling, 1977).  Formational 
+
+names within the Star Peak Group are somewhat confusing, with different names historically applied in 
+
+different ranges.  What is now mapped as the middle and upper members of the Augusta Mountain 
+
+Formation and the overlying Cane Spring Formation was formerly called the Natchez Pass Formation in 
+
+the Humboldt Range; Natchez Pass Formation is the formational name used on the geologic map of 
+
+Wallace et al. (1959; 1969), which is shown in Section 7.3 of this report. 
+
+ 
+
+The Prida, Augusta Mountain, and Cane Spring formations make up the Star Peak Group.  The basal 
+
+Prida Formation consists of a mixture of carbonate and locally derived clastic rocks deposited in a 
+
+shallow-marine to subaerial environment. With subsidence of this shelf terrane, calcareous shale 
+
+intercalated with fossiliferous, thin- to medium-bedded, fine-grained limestone of the middle member of 
+
+the Prida was deposited.  Basinal conditions continued in the western part of the shelf with deposition of 
+
+dark limestone and intercalated chert as the upper member of the Prida Formation.  With repeated 
+
+episodes of uplift and erosion, the carbonate platform margin migrated westward with deposition of 
+
+shallow-marine to supratidal carbonates of the Augusta Mountain Formation and the Cane Spring 
+
+Formation.  Carbonate deposition was interrupted in the Late Triassic by a period of relative uplift that 
+
+created a regional unconformity and by episodic influx of coarse siliciclastic material.  Again, volcanism 
+
+affected the shelf region as is manifested by the widespread presence of mafic lavas, breccias, and tuffs 
+
+(Figure 7.3).   
+
+ 
+
+Depositional processes changed substantially in Late Triassic when siliciclastic material of the Auld 
+
+Lang Syne Group overwhelmed carbonate deposition.  Auld Lang Syne deposition continued into the 
+
+Early Jurassic.  Units consist largely of shale with subordinate quartz sandstone.  Clastic detritus was 
+
+derived from the continental interior to the east and was deposited in a shallow-marine deltaic 
+
+environment. 
+
+ 
+
+The Triassic marine province was terminated in the Jurassic by compressional deformation.  The 
+
+principal manifestation of this deformation in the Humboldt Range is the Luning-Fencemaker fold-and-
+
+thrust belt, which involved thrusting of the basinal terrane over the shelf terrane; this deformation is 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 22 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+spectacularly presented in outcrops along the road from Coal Canyon to the Fisher Canyon property.  As 
+
+shown on Figure 7.1, the Fisher Canyon area lies within the shelf terrane.   
+
+ 
+
+Figure 7.2 is a stratigraphic column of the Triassic shelf terrane in the region of Fisher Canyon and the 
+
+Humboldt Range.   
+
+ 
+
+Figure 7.2 Triassic Stratigraphy of the Shelf Terrane of Northwestern Nevada   
+(Figure emphasizes depositional environments, episodes of erosion, and stratigraphic variations from west to east.  
+
+Stratigraphic column 5 is from the Humboldt Range; others are to the east.  From Wyld (2000)) 
+
+ 
+
+ 
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 23 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+7.3 Fisher Canyon Prospect Geologic Setting 
+
+ 
+
+The general geology of the Fisher Canyon property is shown on the geologic map of Figure 7.3, 
+
+modified from Wallace et al. (1959; 1969).  Although Wallace et al. (1959; 1969) used the name 
+
+Natchez Pass Formation on their map, in this report the current terminology of Augusta Mountain and 
+
+Cane Spring formations is used for the same units. 
+
+ 
+
+Stratigraphy in the Fisher Canyon project area generally dips eastward and is limited to Triassic and 
+
+Quaternary units.  The oldest rocks are Weaver rhyolite of the Koipato Group exposed in the 
+
+northwestern corner of the map area, immediately west and northwest of the northwestern corner of the 
+
+property (Figure 7.3).  In sequence up stratigraphy to the southeast are exposed units of the Prida, 
+
+Augusta Mountain, and Cane Spring formations of the Star Peak Group, followed by the basal unit of 
+
+the Auld Lang Syne Formation.  The Star Peak Group is dominantly a unit of limestone, except in this 
+
+portion of the Humboldt Range, where it also contains lenses of volcaniclastic sediments and flows of 
+
+andesitic to basaltic composition.  The presence of pillows and amygdaloidal basalt indicates that these 
+
+volcanic rocks were deposited in shallow water.  The volcanic rocks of the Star Peak Group form giant 
+
+lenses within the carbonate section, with dimensions of several kilometers along strike and up to about 
+
+200 meters thick.  Within the volcanic rock lenses, the different lithologies are generally stratified and 
+
+appear to form an irregular stack of small lenses and channels. 
+
+ 
+
+The following units make up the Star Peak Group in the Fisher Canyon area; lithologic descriptions are 
+
+from Wallace et al. (1959; 1969) but with the currently used formation names: 
+
+ 
+
+Prida Formation:  The Prida Formation, basal unit of the Star Peak Group, consists of a basal unit 
+
+composed mainly of grit and pebble conglomerate with fragments of Koipato rhyolite in a siliceous 
+
+matrix, with subordinate thin-bedded sandstone and siliceous argillite.  These are overlain by shale, silty 
+
+limestone, calcareous siltstone, and silty and sandy dolomite.  Limestone and dolomite dominate the 
+
+upper part of the Prida Formation. 
+
+ 
+
+Augusta Mountain Formation (formerly called Lower Natchez Pass Formation):  The Augusta Mountain 
+
+Formation consists of massive gray limestone and dolomite, mostly thick- and very thick-bedded, that is 
+
+bioclastic in part.  Interlayered within the limestone are lenses of altered andesite flows, volcanic 
+
+breccia, tuffaceous sandstone, and tuffaceous siltstone.  The volcaniclastic rocks are variably calcareous.  
+
+Volcanic rocks are non-porphyritic, with or without vesicles or amygdules, and occasionally include 
+
+pillow lavas and peperite.  Within the Fisher Canyon claim area, volcaniclastic sandstone, siltstone, and 
+
+mudstone comprise approximately three-quarters of the Triassic volcanic section within the Augusta 
+
+Mountain Formation.  The gold prospects identified and drill tested by Evolving Gold in 2007 are all 
+
+located within the Augusta Mountain Formation. 
+
+ 
+
+Cane Spring Formation (formerly called Upper Natchez Pass Formation):  The Cane Spring Formation 
+
+consists of two mappable units.  The lower unit (Trnu1) is thin- to thick-bedded impure limestone.  The 
+
+unit is predominantly grayish-brown weathering and forms smooth slopes with an evenly bedded 
+
+appearance.  The upper unit (Trnu1) is massive gray limestone, thick- and very thick-bedded, that forms 
+
+prominent gray outcrops and ridges.   
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 24 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+Overlying the Star Peak Group is the Late Triassic Auld Lang Syne Group, of which only the basal 
+
+Grass Valley Formation is present in the Fisher Canyon area.  The olive-gray to brownish-gray Grass 
+
+Valley Formation is finely fractured slate and micaceous siltstone with subordinate interbeds of light-
+
+colored micaceous sandstone.   
+
+ 
+
+Quaternary basalt occurs as isolated caps on hills within the area.  The tilting of these young basalt caps 
+
+demonstrates large-scale movement on extensional faults bounding the ranges. Thick sequences of lake 
+
+sediments from Pleistocene Lake Lahontan cover the floor of Buena Vista Valley.   
+
+ 
+
+The stratigraphy within the Fisher Canyon area has been significantly disrupted by faulting.  Prominent 
+
+faults shown on Figure 7.3 are dominantly north-south oriented, although other orientations are present.  
+
+Field reconnaissance suggests that low-angle faults may be present and may represent exploration 
+
+targets.   
+
+ 
+
+ 
+
+Figure 7.3 Geologic Map of a Portion of the Fisher Canyon Property 
+(Modified from Wallace et al. (1959; 1969).  Note that more recent work has replaced the name Natchez Pass Formation with 
+
+the Augusta Mountain Formation and overlying Cane Spring Formation) 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 25 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+8.0  DEPOSIT TYPES 
+
+8.1 Carlin-Type Sedimentary-Rock-Hosted Disseminated Gold Deposits 
+
+ 
+
+Known exposed geology, hydrothermal alteration, and mineralization styles at Fisher Canyon suggest 
+
+potential for discovery of disseminated gold mineralization hosted in sedimentary rocks, commonly 
+
+referred to as Carlin-type gold mineralization.  Carlin-type gold deposits are largely replacement bodies 
+
+with visually subtle alteration that is dominated by decarbonatization of silty carbonate host rocks, and 
+
+they contain gold in solid solution or as submicron particles in disseminated arsenical pyrite or marcasite 
+
+(Cline et al., 2005).  Current production from Carlin-type deposits dominates gold production from 
+
+Nevada and constitutes about 9% of world production.   
+
+ 
+
+In northern Nevada, the largest number of Carlin-type gold deposits and the largest deposits are 
+
+localized along several linear groups or "trends", notably the Carlin, Battle Mountain and Getchell 
+
+trends.  Other significant gold deposits, however, are situated off these trends, and exploration continues 
+
+to discover new deposits in new districts.   
+
+ 
+
+Although Carlin-type sedimentary rock-hosted disseminated gold deposits generally share common 
+
+attributes, each deposit presents a unique assemblage of features.  The following discussion largely 
+
+follows that of Cline et al. (2005).  Carlin-type mineralization is characterized by disseminated, gold-
+
+bearing, and trace element-rich pyrite that occurs in replacement bodies in carbonate sedimentary host-
+
+rock sequences.  The various forms of individual deposits (tabular, stratabound, carrot-shaped, T-
+
+shaped, irregular) reflect local zones of porosity and permeability that result from favorable lithologic 
+
+features, high- and low-angle faults, and especially intersections of these features.  Largely low-angle 
+
+and stratiform bodies may have root zones, such as high-angle solution feeder faults.   
+
+ 
+
+Deposits are commonly elongate parallel to high-angle structures and are frequently capped by less-
+
+permeable horizons.  The highest-grade mineralization is often concentrated within domes or anticlines, 
+
+where high-angle structures acted as feeders in a style similar to that of petroleum reservoirs.   
+
+ 
+
+While igneous rocks are present in some deposits, they are absent (or hidden at great depth) in others.  
+
+Deposit mineralogy and geochemistry reflect the association of gold with arsenic, antimony, thallium, 
+
+and mercury in preference to base metals and silver.  Most gold was deposited with main-stage minerals, 
+
+including arsenian pyrite and marcasite, quartz, kaolinite, dickite, and illite.  While obviously important, 
+
+these main-stage minerals are fine grained and volumetrically minor in comparison to host-rock 
+
+minerals such as quartz, micas and clay minerals, calcite, dolomite, and carbon.  Mineralized rock may 
+
+be visually indistinguishable from non-mineralized rock, especially when it is unoxidized.   
+
+ 
+
+Gold is interpreted to have been transported as a soluble bisulfide complex in hydrothermal solutions.  
+
+Interaction of the sulfide in solution with reactive iron in the rock host caused precipitation of pyrite and 
+
+gold.  It is commonly observed that higher gold grades occur in rock with greater concentrations of 
+
+reactive iron.     
+
+ 
+
+Late-stage minerals, which frequently fill late brittle veins and can serve as exploration guides, include 
+
+calcite, pyrite, quartz, orpiment, realgar, barite, and stibnite.   
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 26 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+Wall rock alteration in Carlin-type gold deposits may be subtle.  Carbonate minerals were dissolved in 
+
+nearly all deposits and locally replaced by quartz to form jasperoid.  Intense carbonate dissolution 
+
+produced collapse breccias in some deposits, significantly enhancing porosity, permeability, and fluid-
+
+rock reaction.  Host rocks are argillized where susceptible silicate minerals were present to be altered.  
+
+Elsewhere, clay-rich rock that may be described as argillized is often more accurately described as the 
+
+insoluble residue from dissolution of an impure carbonate host lithology.  Silicification accompanies 
+
+some, but not all, gold deposition and is manifest by the presence of jasperoid and, to a lesser extent, 
+
+fine quartz druses that line vugs.  Ore-stage quartz veins are not common in this type of deposit.  
+
+Although many Nevada Carlin-type gold deposits occur in carbon-rich rocks, important deposits also 
+
+occur in rocks low in carbon.   
+
+ 
+
+Recent studies of Carlin-type deposits in Nevada have convincingly demonstrated a chronological, 
+
+spatial, and presumably genetic connection between these gold deposits and Eocene magmatism.  In the 
+
+field, however, this connection is not apparent and is not a useful exploration guide.   
+
+8.2 Sedimentary-Rock-Hosted Gold Deposits in the Humboldt Mountains 
+
+ 
+
+There are several important historic and currently active gold mines in the Humboldt Mountains 
+
+exploiting gold deposits hosted in sedimentary rocks.  The Florida Canyon mine, located at the north end 
+
+of the Humboldt Range and currently owned by Jipangu Inc., has produced more than two million 
+
+ounces of gold.  Mineralization is hosted within argillite, siltstone, and shale of the Triassic Grass Valley 
+
+Formation.  Carlin-type gold mineralization at the Standard mine, along the west side of the Humboldt 
+
+Range, occurs at the apparently conformable contact between the Cane Spring Formation and overlying 
+
+Grass Valley Formation.   
+
+ 
+
+Just five kilometers (three miles) to the west of Fisher Canyon is the Relief Canyon gold deposit, 
+
+recently returned to production by Firstgold Corp.  Gold mineralization at Relief Canyon is low-grade 
+
+disseminated epithermal mineralization in sedimentary rocks (Lowe et al., 1985; Wittkopp et al., 1984a; 
+
+Wittkopp et al., 1984b).  The Relief Canyon gold deposit formed in a limestone solution breccia 
+
+developed at the contact between the Cane Spring Formation and the overlying Grass Valley Formation.  
+
+Limestone immediately beneath the contact was reduced to unconsolidated, unsorted rubble of limestone 
+
+fragments in a matrix of mud and clay.  In places, overlying Grass Valley beds collapsed into the large 
+
+pipe-like caverns, forming a chaotic jumble of small fragments.  Hydrothermal fluids, introduced along 
+
+high-angle faults, permeated the cave-fill sediment.  Auriferous late-stage jasperoids formed along the 
+
+fault zones and in irregular blankets at the contact.  In plan, the host breccia unit has the form of an 
+
+irregular triangular wedge, the apex of which is located at the central east limit of the deposit.  The unit 
+
+reaches a thickness of about 60 meters (200 feet).  Surface guides to the deposit included bold outcrops 
+
+of jasperoid and widespread iron-oxide staining (Wallace, 1989). 
+
+ 
+
+Exploration by NV Gold at Fisher Canyon will focus on discovery of Carlin-type disseminated gold 
+
+mineralization.  As discussed above, the Triassic stratigraphic section present on the property hosts this 
+
+style of gold deposits elsewhere in the Humboldt Range.  Hydrothermal alteration features and 
+
+geochemical enrichments present in the property are important exploration guides for this deposit type.   
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 27 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+9.0 MINERALIZATION 
+ 
+
+Currently recognized gold mineralization at the Fisher Canyon prospect occurs mainly within the mixed 
+
+volcanic, clastic, and carbonate lithologies of the Augusta Mountain Formation.   
+
+ 
+
+Fine casts of iron oxide after disseminated pyrite are common within the altered volcanic rock, staining 
+
+outcrops with limonite.  Locally greater concentrations of iron oxide have created gossanous weathering 
+
+exposures, many of which have been cut open by prospectors.  All of the zones of anomalous 
+
+geochemistry highlighted by rock and soil geochemical work to date occur within and surrounding areas 
+
+of volcanic rocks.  Local geologic settings apparently favorable for gold concentration include: 
+
+ 
+
+ porous volcaniclastic sedimentary rock beneath coherent basalt flow units; 
+
+ high-angle faults and quartz-vein-filled faults; and 
+
+ the contact of the volcanic rock section with overlying limestone.   
+ 
+
+Alteration styles observed include:   
+
+ 
+
+ penetrative and fracture-controlled carbonate dissolution (decalcification) and silicification of 
+limestone; 
+
+ clay alteration of volcanic rock; 
+
+ sulfidation of volcanic rock to form disseminated pyrite; and 
+
+ supergene oxidation of pyrite to form iron oxides.   
+ 
+
+Some outcrops with gold enrichment are cut by white quartz veins and veinlets.  Whether these veinlets 
+
+are associated with gold mineralization or represent another hydrothermal event (perhaps with antimony 
+
+mineralization) has yet to be determined.   
+
+ 
+
+Jasperoid outcrops are not common on the property.  Rather, it seems likely that altered and mineralized 
+
+rock may be recessive weathering.   
+
+ 
+
+Gold mineralization is accompanied by enrichments in other elements commonly associated as 
+
+pathfinder elements with sedimentary-rock-hosted disseminated gold deposits (see Section 6.2.1).  
+
+Arsenic, in particular, is extremely enriched in the district.  Antimony and mercury are widely enriched 
+
+within the southern Humboldt Range and may prove to be useful exploration guides at Fisher Canyon.   
+
+ 
+
+As currently known, the zone of hydrothermal alteration and pathfinder element enrichment extends 
+
+approximately four kilometers (2.5 miles) north-south with a width of 1.6 kilometers (one mile) east-
+
+west.   
+
+ 
+
+  
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 28 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+10.0 EXPLORATION BY THE ISSUER 
+ 
+
+Since acquiring its interest in the Fisher Canyon property, NV Gold has purchased high-resolution 
+
+satellite imagery of the project area and has completed two programs of geochemical sampling.  The 
+
+geochemical programs were designed to highlight areas of gold and pathfinder element enrichments in 
+
+soil and rock as a guide for exploration drilling.   
+
+10.1 Satellite Imagery 
+
+ 
+
+NV Gold acquired high-resolution color satellite imagery for the project area from GeoEye, 
+
+headquartered in Dulles, Virginia.  The imagery has resolution of 0.5 meters and exceptional color 
+
+fidelity.  The images will facilitate geological mapping and land-use planning and permitting.  When 
+
+required, the imagery will be used to prepare a high-resolution digital elevation model of the project 
+
+area.  The imagery extends well beyond the current property limits, and it will also be utilized in 
+
+regional exploration activities.   
+
+ 
+
+10.2 Soil Geochemistry 
+
+ 
+
+NV Gold has completed two programs of soil geochemical exploration covering approximately one-
+
+third of the claim area.  The company completed the larger soil geochemical survey in June and August 
+
+2009.  Geochemical sampling was contracted to North American Exploration Inc. of Kaysville, Utah.  
+
+Soil samples were collected on a rectangular grid at intervals of 50 meters on east-west-oriented lines 
+
+spaced at 100 meters.  This grid was tightened to a spacing of 50 meters by 50 meters in a central area of 
+
+greater interest.  A total of 617 soil samples were collected in this program.   
+
+ 
+
+A more limited program of soil geochemical sampling was completed over the area of the CCN claims.  
+
+A total of 52 samples were collected by Mr. Christensen on a 50-meter-by-50-meter square grid.  
+
+Together, the two soil geochemical programs covered approximately 270 hectares (667 acres).  The 
+
+distribution of gold in soil as determined by these two sampling programs is illustrated in Figure 10.1.   
+
+ 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 29 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+Figure 10.1 Map of Gold in Soil, Fisher Canyon Property 
+(Sample locations are color coded by gold concentration, as indicated in the legend.  Background color shading by 
+
+ inverse-distance contouring) 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 30 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+The soils from these two programs confirmed geochemical enrichment, particularly in gold and arsenic.  
+
+Of note, for the 669 total combined soil samples: 
+
+ 
+
+ the maximum gold concentration is 0.47 ppm Au; 
+
+ 6 samples contain greater than 100 ppb Au; 
+
+ 21 samples contain greater than 50 ppb Au; 
+
+ 139 samples contain greater than 10 ppb Au; 
+ 
+
+ the maximum arsenic concentration is 5790 ppm As; 
+
+ 53 samples contain greater than 100 ppm As; 
+
+ 102 samples contain greater than 50 ppm As; 
+ 
+
+ 13 samples contain greater than 0.5 ppm Ag. 
+ 
+
+The map patterns of gold, arsenic, and silver distributions define areas of greater surface enrichment of 
+
+these elements and indicate favorable stratigraphic and structural controls on mineralization.   
+
+10.3 Rock Geochemistry 
+
+ 
+
+Select rock samples were collected during both of the soil geochemical sampling programs discussed in 
+
+the previous section.  Most rock samples were collected as 1.5 to six-meter chip-channel samples across 
+
+outcrops and road cuts.  Eleven rock chip samples were collected by North American Exploration Inc. 
+
+personnel in Section 16, T27N, R35E.  These were select samples to test rock outcrops of quartz-
+
+cemented fault breccia.  In the other program, 46 rock-chip samples were collected by Mr. Christensen 
+
+in Sections 7 and 8, T27N, R35E.  These 46 rock samples were distributed about the area of recognized 
+
+alteration and mineralization, with the objective of defining trends or centers of greater gold enrichment.   
+
+ 
+
+The distribution of gold in rocks for these two sampling programs is illustrated on Figure 10.2. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 31 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+Figure 10.2 Map of Gold in Rock Samples, Fisher Canyon Property 
+(Sample locations are color coded by gold concentration, as indicated in the legend) 
+
+ 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 32 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+Analytical results from these two rock geochemical programs confirmed geochemical enrichment, 
+
+particularly in gold and arsenic.  Of note, for the 57 total rock samples: 
+
+ 
+
+ the maximum gold concentration is 9.7 ppm Au; 
+
+ 7 samples contain greater than 1 ppm Au; 
+
+ 18 samples contain greater than 100 ppb Au; 
+ 
+
+ arsenic concentrations exceed the analytical limit of 10,000 ppm As; 
+
+ 14 samples contain greater than 5000 ppm As; 
+
+ 90 samples contain greater than 1000 ppm As; 
+ 
+
+ the maximum silver concentration is 9.7 ppm Ag; 
+
+ 13 samples contain greater than 0.5 ppm Ag. 
+ 
+
+The spatial distribution of geochemical enrichments in rock samples is similar to those of the soil 
+
+samples and provides evidence of stratigraphic and structural controls to mineralization.  Several 
+
+groupings of rock and soil samples with enrichments of gold and pathfinder elements clearly define 
+
+areas for exploration focus.   
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 33 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+11.0 DRILLING 
+ 
+
+Historic drill roads and collapsed percussion drill collars in the CCN claim area are evidence of past 
+
+drilling for which no records can be found.  We estimate that at least 20 holes were drilled.  Air photo 
+
+evidence demonstrates this work to have been conducted prior to 1975.   
+
+ 
+
+A portion of the Fisher Canyon property was drill-tested with a reconnaissance-scale drilling program by 
+
+Evolving Gold conducted in December 2007.  The program consisted of 971 meters (3,186 feet) of 
+
+reverse-circulation percussion ("RC") drilling in 13 holes, ranging from 40 meters (130 feet) to 137 
+
+meters (450 feet) in depth.  The holes were grouped within a single target area along the north side of 
+
+Cow Canyon (Figure 11.1).  The distance from the northernmost hole to the southernmost hole was 
+
+approximately 500 meters (1,640 feet).   
+
+ 
+
+Drilling was conducted by Diversified Drilling of Missoula, Montana, using a Foremost Prospector 
+
+W750 articulated buggy drill.  This equipment was selected to reduce the environmental footprint of the 
+
+drilling activity.  This, in turn, facilitated permitting and site reclamation.   
+
+ 
+
+According to Evolving Gold (2008), all holes penetrated a sequence of marly shale and basalt and 
+
+terminated in a footwall crystalline limestone.  Twelve of the 13 drill holes encountered gold values 
+
+ranging from 0.1 to 4.14 g Au/t over the individual 1.52-meter (five-foot) sample intervals.  The 
+
+anomalous gold values were generally associated with elevated values of arsenic.  Evolving Gold 
+
+suggested that the gold tenor in the drilling appeared to increase to the east in the drill holes, providing a 
+
+possible vector for follow-up drilling.   
+
+ 
+
+Significant intercepts reported by Evolving Gold were: 
+
+ 
+
+Hole Number 
+From 
+
+(ft) 
+
+To 
+
+(ft) 
+
+Interval 
+
+(ft) 
+
+From 
+
+(m) 
+
+To 
+
+(m) 
+
+Interval 
+
+(m) 
+g Au/t 
+
+FC-5 90 130 40 27.43 39.62 12.19 0.50 
+
+  includes 100 110 10 30.48 33.53 3.05 0.64 
+
+  includes 120 130 10 36.58 39.62 3.05 1.04 
+
+FC-6 55 160 105 16.76 48.77 32.0 0.73 
+
+  includes 55 140 85 16.76 42.67 25.91 0.87 
+
+  includes 55 80 25 16.76 24.38 7.62 1.05 
+
+  includes 105 130 25 32.0 39.62 7.62 1.66 
+
+FC-7 30 50 20 9.14 15.24 6.10 0.84 
+
+  includes 35 45 10 10.67 13.72 3.05 1.17 
+
+ 
+
+ 
+
+NV Gold has access to all data from this drilling program, including lithology chip trays. 
+
+ 
+
+It is worth noting that the area of Evolving Gold drilling was largely selected for reasons of accessibility.  
+
+Other areas with surface geochemical enrichment on the property were not drilled for considerations of 
+
+time and effort. 
+
+ 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 34 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+Figure 11.1 Map Showing Evolving Gold Drill Holes and Selected Intercepts 
+(Reference grid is lode claim outlines – see Figure 4.2) 
+
+ 
+
+ 
+  
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 35 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+12.0 SAMPLING METHOD AND APPROACH 
+
+12.1 Rock Geochemical Samples 
+
+ 
+
+Rock-chip samples were collected by Evolving Gold geologists, North American Exploration personnel, 
+
+and Mr. Christensen in the three sampling programs discussed in this report.  Sample sites were chosen 
+
+by geologists in the field based upon their experience and visual observations.  Sampled outcrops were 
+
+often those that showed some evidence of hydrothermal alteration.  Surface contamination – vegetation, 
+
+soil, weathering crusts, etc. – was removed from the outcrop.  Numerous small rock chips – about the 
+
+size of a walnut – were aggregated to form one sample of about one kilogram.  Samples were collected 
+
+in clearly labeled cloth sample bags and secured with ties.  Field locations were noted by GPS 
+
+coordinates, and sample sites were marked in the field with aluminum tags.  Samples were transported 
+
+by geologists to a storage location in Lovelock and later to the ALS Chemex Laboratories ("Chemex") 
+
+sample preparation facility.  Field notes documenting the geologists' observations are contained within 
+
+the sample database.   
+
+12.2 Soil Geochemical Samples 
+
+ 
+
+Soil samples were collected by North American Exploration personnel and Mr. Christensen.  Samples 
+
+were collected at predetermined grid sites, located in the field using hand-held GPS instruments with an 
+
+estimated horizontal accuracy of 3-5 meters.  Samples were collected from the base of the "B" soil 
+
+horizon, where this could be determined, or from an average depth of about 25 centimeters (10 inches).  
+
+Samples were placed in cloth sample bags, organized in the field, and secured in polypropylene rice 
+
+bags for transport by geologists to the Chemex laboratory in Reno, Nevada.   
+
+12.3 Reverse-Circulation Drill Samples 
+
+ 
+
+All drilling at the Fisher Canyon property was dry RC drilling.  Sample returns from the drill string were 
+
+settled from the high-velocity air stream in a cyclone.  Cyclone discharge was split through a riffle 
+
+splitter to recover approximately two kilograms.  One assay sample was collected for each 1.52-meter 
+
+(five-foot) drill interval.  Samples were collected in labeled plastic bags, secured with ties, and 
+
+transported by the geologists to a secure storage location in Lovelock.  A total of 637 samples were 
+
+collected during the drilling program.  A smaller sample of drill chips was collected from the splitter 
+
+discard in a kitchen strainer, washed, and retained as a lithologic sample in a plastic chip tray.   
+
+ 
+
+Personnel involved with the drilling relate that there was significant loss of dust from the cyclone, 
+
+creating a dust cloud and perhaps introducing some loss of sample representativity.   
+
+ 
+
+Samples were submitted to the Chemex sample preparation facility in Elko, Nevada.  Evolving Gold 
+
+inserted Certified Reference Standard pulps and blanks into the sample submittal lots for quality control 
+
+purposes at a rate of about one quality-control sample for every 20 drill samples.  The standards and 
+
+blanks were acquired from Minerals Exploration and Environmental Geochemistry ("MEG") of Reno, 
+
+Nevada, and consisted of rhyolite blank material and synthetic standards with gold values of 0.2, 2.0, 
+
+and 6.0 g Au/t.   
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 36 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+13.0 SAMPLE PREPARATION, ANALYSIS AND SECURITY 
+
+13.1 Rock Samples 
+
+ 
+
+Rock-chip samples from all three rock geochemical programs were prepared and analyzed by Chemex.  
+
+Rock samples from Evolving Gold were prepared in the Chemex sample preparation facility in Elko, 
+
+Nevada, while the samples collected by North American Exploration and Mr. Christensen were prepared 
+
+by the Chemex facility in Reno, Nevada.  Samples were received, inventoried, and coded by Chemex.  
+
+Samples were crushed to 70% passing 2mm or better, split to 250 grams using a riffle splitter, and 
+
+pulverized to 85% passing 75μm (200 mesh).  Gold was determined by 30-gram fire assay with ICP-
+
+AES finish (Chemex method Au-ICP21).  The nominal detection limit for this method is one ppb Au.  
+
+All samples were also analyzed for a trace-level multielement suite using an aqua regia digestion 
+
+(Chemex method ME-ME41).  Elements determined include: Al, Ag, As, Au, B, Ba, Be, Bi, Ca, Cd, Ce, 
+
+Co, Cr, Cs, Cu, Fe, Ga, Ge, Hf, Hg, In, I, La, Li, Mg, Mn, Mo, Na, Nb, Ni, P, Pb, Rb, Re, S, Sb, Sc, Se, 
+
+Sn, Sr, Ta, Te, Th, Ti, Tl, U, V, W, Y, Zn, Zr, Dy, Er, Eu, Gd, Ho, Lu, Nd, Pr, Sm, Tb, Tm, and Yb.   
+
+ 
+
+Although some base metals may dissolve quantitatively with the aqua regia digestion, in the majority of 
+
+geological matrices, data reported by an aqua regia digestion may not yield the total concentration of a 
+
+particular analyte in the sample.  The recovery percentages for many analytes from more resistive 
+
+minerals can be very low.  However, the aqua-regia-leachable portion can also be an excellent 
+
+exploration guide.   
+
+ 
+
+The suite of rock samples submitted by Mr. Christensen included several blank and standard samples 
+
+(standards from CDN Resource Laboratories).  Analytical results for these standards were within 
+
+expected ranges.   
+
+ 
+
+Analytical results for 2009 sampling programs were received by NV Gold and Mr. Christensen in 
+
+electronic format directly from the laboratory. 
+
+13.2 Soil Samples 
+
+ 
+
+Soil samples for both soil geochemical programs were prepared and analyzed by Chemex in Reno, 
+
+Nevada.  Soil samples were logged into the laboratory, dried, weighed, and sieved at -180 microns (-80 
+
+mesh).  Both sieve fractions were retained, and the fine fraction was further split for analysis.   
+
+ 
+
+Gold in the soil samples was determined on a 15-gram aliquot with aqua regia extraction and ICP-AES 
+
+finish.  A 51-element suite was determined by combination ICP-AES and ICP-MS on a five-gram 
+
+aliquot with aqua regia digestion.   
+
+ 
+
+Analytical results were received by NV Gold and Mr. Christensen in electronic format directly from the 
+
+laboratory. 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 37 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+13.3 Drill Samples 
+
+ 
+
+Drill samples were transported by Evolving Gold to the Chemex facility in Elko, Nevada.  Samples were 
+
+received, inventoried, and coded by Chemex.  Samples were crushed to 70% passing 2mm or better, 
+
+split using a riffle splitter, and pulverized to 85% passing 75μm or better.  Analysis was for gold only by 
+
+30-gram fire assay with ICP-AES finish.  The nominal detection limit for the method is one ppb Au.   
+
+ 
+
+Evolving Gold inserted 30 Certified Reference Standard pulps for quality control with the drill samples 
+
+delivered to Chemex.  These MEG standards included rhyolite blank material and synthetic standards 
+
+with gold values of 0.2, 2.0, and 6.0 g Au/t.   
+
+ 
+
+The authors of this report have reviewed the results for the standard determinations reported by Chemex.  
+
+Overall, the Chemex results are about 5% low (Figure 13.1).  At the gold concentrations present in the 
+
+Fisher Canyon drill samples, however, the laboratory results are satisfactory.   
+
+ 
+
+Figure 13.1 Quality Control Samples for Fisher Canyon Drilling   
+(Gold analyses by Chemex of Certified Reference Standards.  Accepted values of standards:  0.0, 0.2, 2.0, and 6.0 ppm Au) 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Fisher Canyon Quality Control Samples
+
+-1.0
+
+0.0
+
+1.0
+
+2.0
+
+3.0
+
+4.0
+
+5.0
+
+6.0
+
+7.0
+
+Samples
+
+G
+o
+
+ld
+ p
+
+p
+m
+
+Lab Value
+
+6.0 ppm standard
+
+2.0 ppm standard
+
+0.2 ppm standard
+blank standard
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 38 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+14.0 DATA VERIFICATION 
+ 
+
+Evolving Gold provided NV Gold with digital copies of all laboratory Certificates of Analysis for all 
+
+rock-chip and drill-cutting analyses.  The authors have verified that the values contained within the 
+
+digital database are consistent with those reported by the laboratory.  Evolving Gold included adequate 
+
+quality control procedures during the drill test of the Fisher Canyon property, as discussed in the 
+
+previous section, although future drilling programs should include additional quality control measures 
+
+(e.g., coarse blank material, field duplicates, pulp duplicates, third-party check assaying).  The location 
+
+of all of the Evolving Gold drill holes were verified in the field. 
+
+ 
+
+Analytical results for the 2009 rock and soil geochemical programs were delivered from the laboratory 
+
+in electronic format to both NV Gold and Mr. Christensen.   
+
+ 
+
+The procedures involved in the rock and soil geochemical programs and drill testing of the Fisher 
+
+Canyon property were appropriate and appropriately executed.  A representative selection of the rock 
+
+chip and soil sample sites were verified, and analytical results from samples collected by the authors is 
+
+consistent with the grades of the sampling reported herein. 
+
+ 
+
+There were no limitations on the verification process implemented by the authors.    
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 39 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+15.0 ADJACENT PROPERTIES 
+ 
+
+The authors are unaware of any active exploration being undertaken on properties immediately adjacent 
+
+to Fisher Canyon.   
+
+ 
+
+Field evidence suggests that there has been historic prospecting and drilling on the Fisher Canyon 
+
+property.  The authors have been unable to ascertain the intent and persons or companies responsible for 
+
+this work.  The age of vegetation on the disturbed areas indicates that this past exploration was 
+
+undertaken at least 25 years ago.     
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 40 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+16.0 MINERAL PROCESSING AND METALLURGICAL TESTING 
+ 
+
+To the authors' knowledge, there has been no metallurgical testing of material from the Fisher Canyon 
+
+prospect.  Consideration of mineral process options are not yet warranted for this exploration prospect.   
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 41 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+17.0 MINERAL RESOURCE ESTIMATE 
+ 
+
+No mineral resource or reserve estimate has been made for the Fisher Canyon property, nor is there 
+
+sufficient information yet available to undertake such an estimate.   
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 42 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+18.0 OTHER RELEVANT DATA AND INFORMATION 
+ 
+
+To the authors' knowledge, there is no information or data beyond that presented in this report that is 
+
+relevant to making this report complete, understandable, and not misleading.   
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 43 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+19.0 INTERPRETATIONS AND CONCLUSIONS 
+ 
+
+The Fisher Canyon gold exploration property of NV Gold is located on the southeastern end of the 
+
+Humboldt Range in the Antelope Springs mining district, Pershing County, Nevada.  This area has been 
+
+prospected intensively in the past for antimony and mercury, but apparently has not been subjected to 
+
+extensive modern gold exploration.   
+
+ 
+
+The Humboldt Range can be described as exhibiting a generally antiformal structure, with a core of 
+
+Permian-Triassic Koipato Group metavolcanic rocks surrounded by overlying Triassic strata dipping 
+
+away from this core on both sides of the range.  Strata within the Fisher Canyon prospect include Prida 
+
+Formation clastic and carbonate strata overlain by the Augusta Mountain and Cane Spring formations 
+
+with dominant limestone, dolomite, and impure limestone.  Occurring within the Augusta Mountain 
+
+Formation are kilometer-scale lenses of basalt flows and volcaniclastic sedimentary rocks.  These 
+
+volcaniclastic units appear to be the most favorable hosts for gold enrichment at Fisher Canyon.  
+
+Faulting within the project area has disrupted this overall geologic setting, creating potential mineral-
+
+feeding and mineral-trapping structures.   
+
+ 
+
+Rock and soil geochemistry over the claim area reveal anomalous concentrations of gold and pathfinder 
+
+elements, especially arsenic.  Map patterns of geochemical distributions are similar for soils and rocks 
+
+and define several areas for exploration focus.  Critical examination of the rocks reveals alteration 
+
+characteristic of Carlin-type gold systems, including carbonate dissolution, argillization, silicification, 
+
+and iron-oxide staining (from oxidation of finely disseminated pyrite).  First-stage RC drilling by 
+
+Evolving Gold, concentrated within a limited prospect area, demonstrated the presence of gold 
+
+enrichment in 12 of 13 shallow holes.   
+
+ 
+
+The known geology, hydrothermal alteration, and mineralization styles at Fisher Canyon suggest 
+
+potential for discovery of sedimentary-rock-hosted disseminated Carlin-type gold mineralization.   
+
+ 
+
+Fisher Canyon is an early-stage exploration property.  Positive attributes include: 
+
+ the project setting within an historic mining district, with a several historic and active precious 
+metal mines nearby; 
+
+ favorable stratigraphy known to host gold mineralization in a number of deposits within the 
+Humboldt Range; 
+
+ anomalous concentrations of gold, silver, and pathfinder elements in soil and rock chip samples 
+over an area of several square miles; 
+
+ recognized subtle alteration of a style characteristic of Carlin-type gold mineralization; 
+
+ anomalous gold intercepts from a first-phase exploration drilling program; 
+
+ a prospect with these favorable attributes that has not been intensively explored; and 
+
+ a favorable location within a favorable state (Nevada) for exploration and mining.   
+ 
+
+The caution to match this encouragement is the observation that gold exploration always has long odds 
+
+of success, regardless of the location and the attractiveness of the target.   
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 44 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+20.0 RECOMMENDATIONS 
+ 
+
+The Fisher Canyon gold exploration property represents a property of merit that warrants continued 
+
+exploration.  Encouraging results have been obtained from rock and soil geochemical sampling and first-
+
+stage exploration drilling, which have encountered concentrations of gold and pathfinder elements in 
+
+hydrothermally altered favorable host rocks.   
+
+ 
+
+The authors recommend that NV Gold proceed with a systematic exploration program.  Exploration 
+
+should proceed with staged information gathering to develop an understanding of the geologic 
+
+architecture of the property and the geochemical enrichment patterns, in order to define and prioritize 
+
+prospects for more detailed investigation and drill testing.    
+
+ 
+
+The first step is to extract the maximum amount of knowledge from the information already available 
+
+for the property.  NV Gold geologists should reexamine the Evolving Gold drill cuttings to confirm the 
+
+earlier observations and calibrate their eyes to the character of mineralized rock.  The multielement rock 
+
+and soil data undoubtedly contain additional clues to the underlying geology and hydrothermal alteration 
+
+to be discovered by critical spatial and statistical evaluation.   
+
+ 
+
+The only existing geologic maps of the area are the 1959 and 1969 USGS maps of the Buffalo Mountain 
+
+quadrangle, completed to illustrate the geologic framework of a large area and not designed for mineral 
+
+exploration (Wallace et al., 1959; 1969).  NV Gold should commission an experienced geologist(s) to 
+
+complete a project-scale geologic map of the area.  Mapping should be particularly focused on the 
+
+structure and distribution of alteration.  Mapping should be done on the high-resolution satellite image 
+
+of the property at a scale of 1:5000.  More detailed mapping may later be warranted within specific 
+
+prospect areas.   
+
+ 
+
+Rock and soil geochemical work completed to date have been focused on the areas with the most 
+
+visually obvious alteration.  For reasons of economy, NV Gold limited this work to approximately one-
+
+third of the property area.  It is recognized that the extent of alteration and geochemical enrichment is 
+
+larger than the area currently covered by systematic geochemical work.  Geochemical sample grids 
+
+should be extended to cover the larger prospective area.   
+
+ 
+
+Geological mapping and soil geochemistry will highlight and constrain specific areas warranting drill 
+
+testing.  For this exploration stage, drill testing should be conducted using RC drilling to maximize the 
+
+number of holes and footage tested while recovering large sample volumes.  RC drilling is the most 
+
+cost-effective and rapid drilling method at this stage of exploration.  NV Gold has designed and is 
+
+permitting such a drilling program.  The location of planned holes is shown on Figure 20.1. 
+
+ 
+
+  
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 45 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+Figure 20.1 Exploration Drilling Planned by NV Gold 
+(Drill holes planned are shown as yellow triangles; drill holes completed by Evolving Gold are shown as blue triangles.  Map 
+
+base is orthophoto quadrangle map; claim locations are indicated) 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+
+5000 1,000
+
+feet
+
+RC 24
+
+RC 25
+
+RC 26
+
+RC 27
+
+RC 55
+
+RC 56
+
+RC 57
+
+RC 67
+
+RC 68
+
+RC 74
+
+RC 89
+
+RC 80
+
+RC 88
+
+RC 87
+
+RC 86
+
+RC 98
+
+RC 94
+
+RC 93
+
+RC 92
+
+RC 91
+
+RC 90 RC 99
+
+RC 97
+
+RC 96
+
+RC 95
+
+RC 100
+
+RC 103
+
+RC 102
+
+RC 101
+
+RC 109
+
+RC 108
+
+RC 107
+
+RC 106
+
+RC 105
+
+RC 104
+
+RC 114
+
+RC 113
+
+RC 112
+
+RC 111 RC 119
+
+RC 110 RC 118
+
+RC 117
+
+RC 116
+
+RC 115
+
+RC 122
+
+RC 121
+
+RC 120
+
+CCN-8
+
+CCN-6
+
+CCN-7
+
+CCN-4
+
+CCN-2
+
+CCN-5
+
+CCN-3
+
+CCN-1
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 46 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+A recommended first-stage exploration budget for the Fisher Canyon property includes the following: 
+
+ 
+
+ Geologic mapping at 1:5000 ("project-level detail") by experienced geologist(s) emphasizing 
+structure and alteration:   USD$25,000 
+
+ Rock-chip geochemical analysis: 100 samples @ $57:  USD$5700 
+
+ Soil geochemical survey covering three square kilometers at 50 x 100 meters: 600 samples @ 
+$20 collection + $57 analysis:  USD$46,000 
+
+ RC drilling: 30 holes @ 300 feet with supervision and analysis:  USD$480,000 
+ 
+
+These figures can be adjusted to accommodate the objectives and capabilities of the company and 
+
+should be modified as knowledge of the property grows.  A prudent exploration program conducted with 
+
+funding on the order of USD$550,000 would substantially improve understanding of the economic 
+
+mineral potential of the Fisher Canyon property and provide a drill test of the highest-priority targets.   
+
+ 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 47 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+21.0 REFERENCES 
+ 
+
+Christensen, O. D., 2009.  Fisher Canyon property soil and rock geochemical program, July 2009.  
+
+Consultant's report to NV Gold Corp.  18 pages. 
+
+ 
+
+Christensen, O. D., 2009.  Fisher Canyon – Comparison of soil and rock geochemistry.  Memorandum 
+
+to John Watson.  4 pages.   
+
+ 
+
+Cline, J.S., Hofstra, A.H., Muntean, J.L., Tosdal, R.M., and Hickey, K.A., 2005.  Carlin-type gold 
+
+deposits in Nevada: Critical geologic characteristics and viable models, in Hedenquist, J.W., 
+
+Thompson, J.F.H., Goldfarb, R.J., and Richards, J.P. (eds.), Economic Geology One Hundredth 
+
+Anniversary Volume, 1905-2005,  Society of Economic Geologists, Littleton Colorado, pages 451-
+
+484.   
+
+ 
+
+Evolving Gold Corp., 2008.  Evolving announces drill results from initial drilling at the Fisher Canyon 
+
+gold prospect, Humboldt Range, Nevada.  Press Release dated February 1, 2008.   
+
+ 
+
+Fiannaca, M., and McKee, J., 1983.  Geology and development of the Relief Canyon gold deposit, 
+
+Pershing County, Nevada.  Presentation at the 89
+th
+
+ Annual Meeting of the Northwest Mining 
+
+Association.  12 pages.   
+
+ 
+
+Firstgold Corp., 2009  Relief Canyon Overview.  Company website: www.firstgoldcorp.com.   
+
+ 
+
+Johnson, M.G., 1977.  Geology and Mineral Deposits of Pershing County, Nevada, Nevada Bureau of 
+
+Mines and Geology Bulletin 89.  115 pages. 
+
+ 
+
+Jones, E.J.C., 2008.  Paleozoic tectonic domains of Nevada: An interpretive discussion to accompany 
+
+the geologic map of Nevada.  Geosphere, vol. 4, no. 1, pp. 260-291.   
+
+ 
+
+Lowe, N.T., Raney, R.G., and Norberg, J.R., 1985.  Relief Canyon – Gold, in Principal Deposits of 
+
+Strategic and Critical Minerals in Nevada.  U.S. Bureau of Mines Information Circular 9035.  1 page 
+
+summary.   
+
+ 
+
+Nichols, K.M., and Silberling, N.J., 1977, Stratigraphy and depositional history of the Star Peak Group 
+
+(Triassic), northwestern Nevada: Geological Society of America Special Paper 178.  73 pages.   
+
+ 
+
+Stewart, J.H., 1980, Geology of Nevada: A discussion to accompany the Geologic Map of Nevada:  
+
+Nevada Bureau of Mines and Geology Special Publication 4.  136 pages.   
+
+ 
+
+Tingley, J., 1985.  Antelope Springs District.  Nevada Bureau of Mines and Geology mineral district 
+
+summary. 2 pages.   
+
+ 
+
+Wallace, A.R., 1989.  The Relief Canyon gold deposit, Nevada: a mineralized solution breccia.  
+
+Economic Geology, vol. 84, pp. 279-290.   
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 48 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+Wallace, R.E., Silberling, N.J., Irwin, W.P., and Tatlock, D.B., 1959.  Preliminary geologic map of the 
+
+Buffalo Mountain Quadrangle, Nevada.  U.S. Geological Survey Miscellaneous Investigations Field 
+
+Studies Map MF-220.   
+
+ 
+
+Wallace, R.E., Silberling, N.J., Irwin, W.P., and Tatlock, D.B., 1969, Geologic map of the Buffalo 
+
+Mountain quadrangle, Pershing and Churchill Counties, Nevada:  U. S. Geological Survey Map GQ-
+
+821, scale 1:62,500. 
+
+ 
+
+Wittkopp, R.W., Parratt, R.L., and Bruce, W.R., 1984a.  Geology and mineralization at the Relief 
+
+Canyon gold deposit, Pershing County, Nevada.  Paper presented at the SME-AIME meeting, March 
+
+1984.  9 pages.   
+
+ 
+
+Wittkopp, R.W., Parratt, R.L., and Bruce, W.R., 1984b.  Relief Canyon gold deposit: an explanation of 
+
+epithermal geology and exploration.  Mining Engineering, November 1984, pp. 1540-1542.   
+
+ 
+
+Wyld, S., 2000, Triassic evolution of the arc and backarc of northwestern Nevada, and evidence for 
+
+extensional tectonism, in Soreghan, M.J. and Gehrels, G.E. (eds),  Paleozoic and Triassic 
+
+paleogeography and tectonics of western Nevada and Northern California: Geological Society of 
+
+America Special Paper 347, pp. 185-207.   
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 49 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+22.0 DATE AND SIGNATURE PAGE 
+ 
+
+ 
+
+ 
+
+Effective date of report:    September 22, 2009 
+
+ 
+
+ 
+
+ 
+
+Completion date of report:    September 22, 2009 
+
+ 
+
+ 
+
+ 
+
+ 
+
+"Odin D. Christensen"    September 22, 2009 
+
+       Date signed 
+
+"Odin D. Christensen" 
+
+ 
+
+Odin D. Christensen, Ph.D, CPG 
+
+ 
+
+ 
+
+ 
+
+"Michael M. Gustin"     September 22, 2009 
+
+       Date signed 
+
+"Michael M. Gustin" 
+
+ 
+
+Michael M. Gustin, Ph.D., P.Geo. 
+
+ 
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 50 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+23.0 CERTIFICATE OF AUTHORS 
+ 
+
+MICHAEL M. GUSTIN, P.GEO. 
+
+ 
+
+I, Michael M. Gustin, P. Geo., do hereby certify that I am currently employed as Senior Geologist by 
+
+Mine Development Associates, Inc., 210 South Rock Blvd., Reno, Nevada 89502 and: 
+
+ 
+
+1. I graduated with a Bachelor of Science degree in Geology from Northeastern University in 
+
+1979 and a Doctor of Philosophy degree in Economic Geology from the University of 
+
+Arizona in 1990.  I have worked as a geologist in the mining industry for more than 25 years, 
+
+which includes extensive experience working with gold systems in Nevada.  I am a Licensed 
+
+Professional Geologist in the state of Utah (#5541396-2250), a Licensed Geologist in the state 
+
+of Washington (# 2297), and a member of the Society of Mining Engineers and the 
+
+Geological Society of Nevada. 
+
+3. I have read the definition of "qualified person" set out in National Instrument 43-101 ("NI 43-
+
+101") and certify that by reason of my education, affiliation with a professional association 
+
+(as defined in NI 43-101), and past relevant work experience, I fulfill the requirements to be a 
+
+"qualified person" for the purposes of NI 43-101.  I am independent of Dreamweaver Capital 
+
+Corp. and NV Gold Corporation (USA), and all of each of their subsidiaries, as defined in 
+
+Section 1.4 of NI 43-101 and in Section 3.5 of the Companion Policy to NI 43-101. 
+
+4. I conducted a personal inspection of the Fisher Canyon property on September 1, 2009.   
+
+5. I am responsible for all sections in this report titled, "Technical Report on Fisher Canyon 
+
+Gold Prospect, Pershing County, Nevada", dated September 22, 2009 (the "Technical 
+
+Report"), subject to my reliance on other experts identified in Section 3.0. 
+
+6. I have had no prior involvement with the property or project that is the subject of the 
+
+Technical Report.   
+
+7. As of the date of the certificate, to the best of my knowledge, information, and belief, this 
+
+Technical Report contains all the scientific and technical information that is required to be 
+
+disclosed to make this technical report not misleading. 
+
+8. I have read NI 43-101 and Form 43-101F1, and the Technical Report has been prepared in 
+
+compliance with that instrument and form. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dated September 22, 2009 
+
+ 
+
+"Michael M. Gustin" 
+ 
+Michael M. Gustin  
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 51 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+ODIN D. CHRISTENSEN, PhD, CPG 
+
+ 
+
+I, Odin D. Christensen, PhD. do hereby certify that: 
+
+ 
+
+1.   I am a self-employed consulting minerals geologist residing at 5261 Road 46, Mancos Colorado 
+
+81328 USA.  
+
+2. I graduated from the University of Minnesota, Duluth, with a Bachelor of Science Degree in 
+
+Geology in 1970, and from Stanford University with a Doctor of Philosophy (PhD) Degree in 
+
+Geology in 1975. 
+
+3. I have been employed as a professional geologist for 33 years since graduation, including 27 years in 
+
+metallic minerals exploration and mining.  My relevant experience includes eleven years' 
+
+employment in Nevada with Newmont Mining Corporation subsidiary companies in the positions of 
+
+Geologist, Manager of Exploration, and Vice President of Exploration, engaged in gold exploration 
+
+and mining.  I have an additional 8 years' experience as Chief Geologist for Newmont Mining 
+
+Corporation involved with gold exploration and mining worldwide.   
+
+4. I am a member of the American Institute of Professional Geologists (AIPG) and am a Certified 
+
+Professional Geologist #8676.  I am also a Fellow of the Society of Economic Geologists (SEG), a 
+
+Fellow of the Geological Society of America (GSA), and a Registered Member of the Society for 
+
+Mining, Metallurgy and Exploration (SME).  
+
+5. I have read the requirements of a Qualified Person set forth in National Instrument 43-101 and 
+
+certify that by reason of my education, professional experience and affiliation with the American 
+
+Institute of Professional Geologists as a Certified Professional Geologist, I fulfill the requirements 
+
+for a Qualified Person for the purposes of NI 43-101.   
+
+6. I have assisted in the preparation of the report titled Technical Report on the Fisher Canyon Gold 
+
+Prospect, Pershing County, Nevada dated September 22, 2009.  My work as co-author is based upon 
+
+my personal knowledge of the property and critical review of historical technical information. 
+
+7. I personally visited the Fisher Canyon property most recently on August 5, 2009.   
+
+8. As of the date of this certificate, and to the best of my knowledge, information, and belief, this 
+
+technical report contains all scientific and technical information that is required to be disclosed to 
+
+make the technical report not misleading. 
+
+9. I am NOT independent of the issuer, applying the tests set out in Section 1.4 of NI 43-101.  I have 
+
+had no involvement with the Fisher Canyon property prior to visits and investigations related to the 
+
+preparation of this technical report. 
+
+10. I have read National Instrument 43-101 and Form 43-101F1, and this technical report has been 
+
+prepared in compliance with that instrument and form.   
+
+  
+
+Dated:  September 22, 2009. 
+
+ 
+
+ 
+
+"Odin D. Christensen" 
+Odin D. Christensen  
+
+
+
+ 
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+                  NV Gold Corp     Page 52 
+ 
+
+ 
+Mine Development Associates \\Mda.com\users\Mike\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+September 22, 2009 10/12/09 9:58 AM 
+
+APPENDIX  A  Conversion factors for common units of measurement 
+ 
+Length 
+Miles x 1.6093 = kilometers 
+Kilometers x 0.621 = miles 
+Feet x 0.3048 = meters 
+Meters x 3.281 = feet 
+ 
+Area 
+Square mile x 2.59 = square kilometer 
+Square kilometer x 0.3861 = square mile 
+Hectares x 2.471 = acres 
+Acres x 0.4047 = hectares 
+Square mile x 640 = acres 
+Square kilometer x 100 = hectares 
+ 
+Volume 
+Cubic yards x 0.765 = cubic meters 
+Cubic meter x 1.308 = cubic yards 
+Cubic yards x 27 = cubic feet 
+ 
+Weight 
+Pounds x 0.453 = kilograms 
+Kilograms x 2.2046 = pounds 
+1 short ton = 2000 pounds 
+1 long ton = 2240 pounds 
+1 metric ton = 1000 kilograms = 1.1 short tons 
+ 
+Troy weight for precious metals 
+1 troy ounce = 31.1035 grams 
+12 troy ounces = 1 troy pound  
+1 ounce avoirdupois = 28.350 grams 
+ 
+ 
+
+
+
+ 
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+                  NV Gold Corp     Page 53 
+ 
+
+ 
+Mine Development Associates \\Mda.com\users\Mike\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+September 22, 2009 10/12/09 9:58 AM 
+
+APPENDIX B  Fisher Canyon Claims 
+ 
+
+Claim Name Mer, Twp, Rng, Section Serial Number Location Date 
+RC  22 21 0270N 0350E 007 NMC955287 3/20/2007 
+RC  23 21 0270N 0350E 007 NMC955288 3/20/2007 
+RC  24 21 0270N 0350E 007 NMC955289 3/20/2007 
+RC  25 21 0270N 0350E 007 NMC955290 3/20/2007 
+RC  26 21 0270N 0350E 007 NMC955291 3/20/2007 
+RC  27 21 0270N 0350E 007 NMC955292 3/20/2007 
+RC  30 21 0280N 0350E 031-032 NMC955295 3/21/2007 
+RC  31 21 0280N 0350E 031-032 NMC955296 3/21/2007 
+RC  52 21 0270N 0350E 006 NMC955317 3/24/2007 
+RC  53 21 0270N 0350E 007-008 NMC955318 3/20/2007 
+RC  54 21 0270N 0350E 007-008 NMC955319 3/20/2007 
+RC  55 21 0270N 0350E 007-008 NMC955320 3/20/2007 
+RC  56 21 0270N 0350E 007-008 NMC955321 3/20/2007 
+RC  57 21 0270N 0350E 007-008 NMC955322 3/20/2007 
+RC  58 21 0270N 0350E 005 NMC955323 3/24/2007 
+RC  59 21 0270N 0350E 005 NMC955324 3/24/2007 
+RC  60 21 0270N 0350E 005 NMC955325 3/24/2007 
+RC  61 21 0270N 0350E 005 NMC955326 3/24/2007 
+RC  62 21 0270N 0350E 004-005 NMC955327 3/24/2007 
+RC  63 21 0270N 0350E 005 NMC955328 3/24/2007 
+RC  64 21 0270N 0350E 005 NMC955329 3/24/2007 
+RC  65 21 0270N 0350E 008 NMC955330 3/19/2007 
+RC  66 21 0270N 0350E 008 NMC955331 3/19/2007 
+RC  67 21 0270N 0350E 008 NMC955332 3/19/2007 
+RC  68 21 0270N 0350E 008 NMC955333 3/19/2007 
+RC  69 21 0270N 0350E 008 NMC955334 3/19/2007 
+RC  70 21 0270N 0350E 008 NMC955335 3/19/2007 
+RC  71 21 0270N 0350E 008 NMC955336 3/19/2007 
+RC  72 21 0270N 0350E 008 NMC955337 3/19/2007 
+RC  73 21 0270N 0350E 008 NMC955338 3/19/2007 
+RC  74 21 0270N 0350E 008 NMC955339 3/19/2007 
+RC  75 21 0270N 0350E 008 NMC955340 3/19/2007 
+RC  76 21 0270N 0350E 008 NMC955341 3/19/2007 
+RC  77 21 0270N 0350E 008 NMC955342 3/19/2007 
+RC  78 21 0270N 0350E 008 NMC955343 3/19/2007 
+RC  79 21 0270N 0350E 008 NMC955344 3/19/2007 
+RC  80 21 0270N 0350E 008 NMC955345 3/19/2007 
+RC  81 21 0270N 0350E 008 NMC955346 3/19/2007 
+RC  82 21 0270N 0350E 008 NMC955347 3/19/2007 
+RC  83 21 0270N 0350E 008 NMC955348 3/19/2007 
+RC  84 21 0270N 0350E 008 NMC955349 3/19/2007 
+RC  85 21 0270N 0350E 008 NMC955350 3/21/2007 
+RC  86 21 0270N 0350E 018 NMC955351 3/21/2007 
+RC  87 21 0270N 0350E 018 NMC955352 3/21/2007 
+RC  88 21 0270N 0350E 018 NMC955353 3/21/2007 
+RC  89 21 0270N 0350E 018 NMC955354 3/21/2007 
+RC  90 21 0270N 0350E 018 NMC955355 3/21/2007 
+RC  91 21 0270N 0350E 018 NMC955356 3/21/2007 
+RC  92 21 0270N 0350E 018 NMC955357 3/21/2007 
+
+ 
+  
+
+
+
+ 
+
+                   Technical Report on Fisher Canyon Property, Pershing County, Nevada 
+
+                  NV Gold Corp     Page 54 
+
+ 
+
+ 
+
+Mine Development Associates C:\Projects\Watson\Fisher_Canyon\43-101_2009\Fisher Canyon Technical Report_v9.docx 
+
+September 22, 2009 10/12/09 8:46 AM 
+
+Claim Name Mer, Twp, Rng, Section Serial Number Location Date 
+
+RC  93 21 0270N 0350E 018 NMC955358 3/21/2007 
+
+RC  94 21 0270N 0350E 018 NMC955359 3/21/2007 
+
+RC  95 21 0270N 0350E 018 NMC955360 3/21/2007 
+
+RC  96 21 0270N 0350E 018 NMC955361 3/21/2007 
+
+RC  97 21 0270N 0350E 018 NMC955362 3/21/2007 
+
+RC  98 21 0270N 0350E 018 NMC955363 3/21/2007 
+
+RC  99 21 0270N 0350E 018 NMC955364 3/21/2007 
+
+RC  100 21 0270N 0350E 018 NMC955365 3/21/2007 
+
+RC  101 21 0270N 0350E 018 NMC955366 3/21/2007 
+
+RC  102 21 0270N 0350E 018 NMC955367 3/21/2007 
+
+RC  103 21 0270N 0350E 018 NMC955368 3/21/2007 
+
+RC  104 21 0270N 0350E 007 NMC955369 3/23/2007 
+
+RC  105 21 0270N 0350E 007 NMC955370 3/23/2007 
+
+RC  106 21 0270N 0350E 007-018 NMC955371 3/23/2007 
+
+RC  107 21 0270N 0350E 018 NMC955372 3/23/2007 
+
+RC  108 21 0270N 0350E 018 NMC955373 3/23/2007 
+
+RC  109 21 0270N 0350E 018 NMC955374 3/23/2007 
+
+RC  110 21 0270N 0350E 018 NMC955375 3/23/2007 
+
+RC  111 21 0270N 0350E 018 NMC955376 3/23/2007 
+
+RC  112 21 0270N 0350E 018 NMC955377 3/23/2007 
+
+RC  113 21 0270N 0350E 018 NMC955378 3/23/2007 
+
+RC  114 21 0270N 0350E 018 NMC955379 3/23/2007 
+
+RC  115 21 0270N 0350E 018 NMC955380 3/23/2007 
+
+RC  116 21 0270N 0350E 018 NMC955381 3/23/2007 
+
+RC  117 21 0270N 0350E 018 NMC955382 3/23/2007 
+
+RC  118 21 0270N 0350E 018 NMC955383 3/23/2007 
+
+RC  119 21 0270N 0350E 018 NMC955384 3/23/2007 
+
+RC  120 21 0270N 0350E 018 NMC955385 3/23/2007 
+
+RC  121 21 0270N 0350E 018 NMC955386 3/23/2007 
+
+RC  122 21 0270N 0350E 018 NMC955387 3/23/2007 
+
+CRACKLE CANYON  2 21 0270N 0350E 006 NMC954603 2/18/2007 
+
+CRACKLE CANYON  3 21 0270N 0350E 005-006 NMC954606 2/17/2007 
+
+CRACKLE CANYON  4 21 0270N 0350E 005 NMC954607 2/17/2007 
+
+CRACKLE CANYON  5 21 0270N 0350E 005 NMC954608 2/17/2007 
+
+CRACKLE CANYON NO 6 21 0270N 0350E 006-007 NMC986572 2/26/2008 
+
+CRACKLE CANYON NO 7 21 0270N 0350E 006-007 NMC986573 2/26/2008 
+
+CRACKLE CANYON NO 8 21 0270N 0350E 005-006-007-008 NMC986574 2/26/2008 
+
+CRACKLE CANYON NO 9 21 0270N 0350E 0050-008 NMC986575 2/26/2008 
+
+CRACKLE CANYON NO 10 21 0270N 0350E 005-008 NMC986576 2/26/2008 
+
+CRACKLE CANYON  11 21 0270N 0350E 005-006 NMC954609 2/18/2007 
+
+CRACKLE CANYON  12 21 0270N 0350E 005-006 NMC954604 2/18/2007 
+
+CCN 1 21 0270N 0350E 018 NMC915699 9/16/2005 
+
+CCN 2 21 0270N 0350E 008 NMC915700 9/16/2005 
+
+CCN 3 21 0270N 0350E 008-018 NMC915701 9/16/2005 
+
+CCN 4 21 0270N 0350E 008 NMC915702 9/16/2005 
+
+CCN 5 21 0270N 0350E 008-017-018 NMC915703 9/16/2005 
+
+CCN 6 21 0270N 0350E 008 NMC915704 9/16/2005 
+
+CCN 7 21 0270N 0350E 008 017 NMC915705 9/16/2005 
+
+CCN 8 21 0270N 0350E 008 NMC915706 9/16/2005 
+
+ 
+ 
+ 
+
+ 
+
+
+'

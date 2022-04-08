@@ -1,0 +1,9334 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Martiniere 2013 43-101 report BAR comments.docx
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Balmoral Resources Ltd. 
+ 
+
+2013 TECHNICAL (N.I. 43-101) REPORT ON 
+THE MARTINIÈRE PROPERTY 
+
+ 
+ 
+ 
+ 
+
+Located in Lanouiller, La Martinière, La Peltrie and Martigny Townships, Québec 
+NTS 32L/02 and 32L/03 
+
+50˚ 02' N Latitude; 79˚ 02' W Longitude 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+-prepared for- 
+ 
+
+BALMORAL RESOURCES LTD. 
+Suite 2300 - 1177 West Hastings Street 
+Vancouver, British Columbia, Canada 
+
+V6E 2K3 
+ 
+ 
+ 
+
+-prepared by- 
+ 
+
+Neil W. Perk, P.Geo. 
+EQUITY EXPLORATION CONSULTANTS LTD. 
+
+Suite 200, 900 West Hastings St. 
+Vancouver, British Columbia, Canada 
+
+V6C 1E5 
+ 
+
+Effective Date: January 5, 2013 
+ 
+
+
+
+1 
+
+ 
+
+TABLE OF CONTENTS 
+
+TABLE OF CONTENTS .................................................................................................................................... 1 
+LIST OF APPENDICES ..................................................................................................................................... 2 
+LIST OF TABLES .............................................................................................................................................. 2 
+LIST OF FIGURES ............................................................................................................................................ 2 
+LIST OF PLATES .............................................................................................................................................. 2 
+1.0  SUMMARY ............................................................................................................................................... 4 
+2.0  INTRODUCTION ...................................................................................................................................... 5 
+3.0  RELIANCE ON OTHER EXPERTS ......................................................................................................... 6 
+4.0  PROPERTY DESCRIPTION AND LOCATION ........................................................................................ 6 
+5.0  ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE, PHYSIOGRAPHY ............. 8 
+
+5.1  Accessibility ........................................................................................................................................ 8 
+5.2  Local Resources and Infrastructure .................................................................................................. 11 
+5.3  Physiography and Climate ................................................................................................................ 11 
+
+6.0  HISTORY ............................................................................................................................................... 11 
+7.0  GEOLOGICAL SETTING AND MINERALIZATION ............................................................................... 13 
+
+7.1  Regional Geology ............................................................................................................................. 13 
+7.2  Local Geology and Mineralization ..................................................................................................... 15 
+7.3  Property Geology .............................................................................................................................. 17 
+7.4  Property Mineralization ..................................................................................................................... 22 
+
+7.4.1  Martinière West ............................................................................................................... 23 
+7.4.2  Martinière East ................................................................................................................ 24 
+7.4.3  Bug Lake Fault Zone (BLFZ) and Footwall Zone ............................................................ 24 
+
+8.0  DEPOSIT TYPES ................................................................................................................................... 27 
+9.0  EXPLORATION ...................................................................................................................................... 28 
+
+9.1  Geochemistry .................................................................................................................................... 28 
+9.2  Airborne Magnetic/Electromagnetic Geophysics .............................................................................. 28 
+9.3  Induced Polarization Geophysics ..................................................................................................... 31 
+
+10.0  DRILLING ............................................................................................................................................... 31 
+10.1 Martinière West Drilling ..................................................................................................................... 35 
+10.2 Martinière East Drilling ...................................................................................................................... 41 
+10.3 Bug Lake Fault Zone (BLFZ)  Drilling ............................................................................................... 43 
+
+11.0  SAMPLE PREPARATION, ANALYSES AND SECURITY ..................................................................... 50 
+11.1 2011 Program ................................................................................................................................... 50 
+
+11.1.1 2011 Core Handling and Security ................................................................................... 50 
+11.1.2 2011 Analytical Techniques ............................................................................................ 51 
+11.1.3 2011 Analytical Quality Assurance / Quality Control ....................................................... 51 
+
+11.2 2012 Program ................................................................................................................................... 52 
+11.2.1 2012 Core Handling and Security ................................................................................... 52 
+11.2.2 2012 Analytical Techniques ............................................................................................ 53 
+11.2.3 2012 Analytical Quality Assurance / Quality Control ....................................................... 53 
+
+12.0  DATA VERIFICATION ........................................................................................................................... 56 
+13.0  MINERAL PROCESSING AND METALLURGICAL TESTING .............................................................. 56 
+14.0  MINERAL RESOURCE ESTIMATES .................................................................................................... 56 
+15.0  ADJACENT PROPERTIES .................................................................................................................... 56 
+16.0  OTHER RELEVANT DATA AND INFORMATION ................................................................................. 56 
+
+
+
+2 
+
+ 
+
+17.0  INTERPRETATION AND CONCLUSIONS ............................................................................................ 56 
+18.0  RECOMMENDATIONS .......................................................................................................................... 58 
+
+18.1 Program ............................................................................................................................................ 58 
+18.2 Budget .............................................................................................................................................. 59 
+
+ 
+
+LIST OF APPENDICES 
+
+Appendix A: References 
+Appendix B: Claim Data 
+Appendix C: Drill Hole Collar Location, Collar Orientation and Length 
+Appendix D: Qualified Person's Certificate 
+
+ 
+
+LIST OF TABLES 
+
+Table 1: Summary of Historical Work at Martinière ......................................................................................... 13 
+Table 2: Abitibi Sub-province Stratigraphic Assemblages ............................................................................... 15 
+Table 3: 2011 Martinière West Significant Intersections ................................................................................. 35 
+Table 4: 2012 Martinière West Significant Intersections ................................................................................. 39 
+Table 5: 2011 Martinière East Significant Intersections .................................................................................. 41 
+Table 6: 2012 Martinière East Significant Intersections .................................................................................. 43 
+Table 7: 2011 BLFZ Significant Intersections .................................................................................................. 44 
+Table 8: 2012 BLFZ Significant Intersections .................................................................................................. 46 
+Table 9: Summary of 2011 Gold Standards .................................................................................................... 51 
+
+ 
+
+LIST OF FIGURES 
+
+Figure 1: Location Map ...................................................................................................................................... 7 
+Figure 2: Tenure Map ........................................................................................................................................ 9 
+Figure 3: Area Infrastructure ............................................................................................................................ 10 
+Figure 4: Regional Geology of Abitibi Sub-province ........................................................................................ 14 
+Figure 5: Local Geology .................................................................................................................................. 16 
+Figure 6: Property Geology ............................................................................................................................. 18 
+Figure 7: Martinière East and West Geology ................................................................................................... 19 
+Figure 8: Martinière West Geology and Drill Plan ........................................................................................... 20 
+Figure 9: Martinière East and Bug Lake Geology and Drill Plan ..................................................................... 21 
+Figure 10: Airborne Magnetic/EM Survey, Magnetic Total Horizontal Gradient .............................................. 29 
+Figure 11: Airborne Magnetic/EM Survey, VTEM B-Field Z Component Channel 36 ..................................... 30 
+Figure 12: IP Survey, Modeled Chargeability at 75 Metres Depth .................................................................. 32 
+Figure 13: IP Survey, Modeled Resistivity at 75 Metres Depth ....................................................................... 33 
+Figure 14: Martinière West, Section A-A' ........................................................................................................ 36 
+Figure 15: Martinière East, Section B-B' ......................................................................................................... 42 
+Figure 16: Bug Lake Fault Zone, Section C-C' ................................................................................................ 45 
+Figure 17: Scatter-plots for 2012 Martinière Duplicates .................................................................................. 55 
+
+ 
+
+ 
+
+LIST OF PLATES 
+
+
+
+3 
+
+ 
+
+Plate 1: Coarse arsenopyrite blebs along quartz vein margin at ~254 m in hole MDW-12-55 (Martinière 
+West). ...................................................................................................................................................... 23 
+
+Plate 2: Visible gold occurring on the edge of a calcite + pyrite + dolomite vein hosted within moderately 
+sheared, calcite-altered, pyritic basalt @ ~84 m in MDE-12-70 (BLFZ). ................................................. 24 
+
+Plate 3: Unidentified grey metallic mineral (telluride?) hosted in quartz-dolomite-tourmaline vein at ~117 m in 
+hole MDE-12-74 (BLFZ). ......................................................................................................................... 25 
+
+Plate 4: Visible gold at ~170.5 m of hole MDE-12-29 (Footwall Zone). ........................................................... 26 
+Plate 5: Visible gold in sheared quartz gabbro at ~67.5 m of hole MDE-12-80 (Footwall Zone). .................... 26 
+
+ 
+
+ 
+
+
+
+4 
+
+ 
+
+1.0 SUMMARY 
+
+The Martinière property covers 112 contiguous claims (61.7 km2) of flat-lying swamp in the Nord-du-
+Québec Region of western Québec, approximately 110 km west of Matagami and 150 km north of Amos. 
+Balmoral Resources Ltd. ("Balmoral") owns 100% of the Martinière property, subject to a 2% NSR royalty 
+payable to Cyprus Canada Inc. ("Cyprus Canada") on 76 of the claims. 
+
+Currently, Martinière is accessible year-round only by helicopter. A winter road provides property 
+access from January to March, although this may not always be possible if a major river crossing five 
+kilometres from Martinière doesn't freeze adequately. The nearest road-accessible infrastructure is 33 km to 
+the east at Camp Fenelon, which is connected by gravel (20 km) and paved (240 km) roads to the towns of 
+Mattagami and Amos, Québec. Several gold and base metal mines are in production or undergoing 
+construction in this part of Québec and Ontario, supporting a vibrant infrastructure of mining and exploration 
+services and supplies. Several railway lines and commercial airports are located within 200 kilometres of the 
+Martinière property. The property experiences a continental-style climate with cold winters and warm 
+summers and drilling can be carried out year-round with the exception of spring break-up. 
+
+Since 1959, a number of companies have conducted geophysical surveys and diamond drilling over 
+the Martinière property. Exploration was directed at orogenic gold and VMS base metal potential; recent 
+exploration has been focused almost entirely on the orogenic gold potential of the property given its 
+association with a crustal-scale deformation zone. The first significant gold mineralization was only 
+intersected in 1996, due to the property's almost total lack of outcrop. Balmoral acquired the property in 
+November 2010 and has since drilled 34,165 metres in 170 holes, and carried out a property-wide heliborne 
+magnetics/VTEM survey and more limited IP and soil geochemical surveys. 
+
+The Martinière property lies in the northern portion of the Abitibi Sub-province of the Archean Superior 
+Province of the Canadian Shield. It is located in the Harricana-Turgeon greenstone belt within the Manthet 
+domain, which is bounded to the south by the Sunday Lake Deformation Zone (SLDZ), an east-west striking 
+crustal-scale high-strain zone. The Manthet domain is characterized by predominantly east-west striking 
+mafic to intermediate volcanic/pyroclastic units intercalated with pelitic sedimentary units and intruded by 
+mafic to ultramafic intrusions and felsic plugs, dykes and sills. Significant orogenic gold mineralization is 
+associated with the SLDZ fifty kilometres to the west at the 17 million oz Detour Lake mine. 
+
+Three areas of orogenic gold mineralization have been recognized on the Martinière property: 
+Martinière West, Martinière East and the Bug Lake Fault Zone (BLFZ). In each area, gold mineralization is 
+hosted by dolomite-calcite±quartz±sulphides±tourmaline veining in high-strain zones, enveloped by silica, 
+sericite and/or carbonate alteration. At Martinière West, the strongest indicator of gold mineralization is the 
+presence of silica alteration surrounding the mineralized structures whereas in the Martinière East and Bug 
+Lake areas, silica alteration is subordinate to carbonate (both dolomite and calcite). High-grade gold is rarely 
+found at Martinière West without arsenopyrite, but this correlation is less apparent in the other zones. 
+
+In the Martinière West area, a north-northeast-striking shear is centred on a multi-phase gabbroic 
+intrusion which appears to lie along the contact between mafic volcanic rocks to the north and sedimentary 
+rocks to the south. Alteration and gold mineralization associated with the Martinière West shearing have been 
+traced by drilling for over 400 m along strike and to a vertical depth of 320 m below the surface, remaining 
+open to the south and to depth; intersections include 20.40 m @ 8.84 g/t Au (MDW-11-02) and 21.47 m @ 
+7.78 g/t Au (MDW-11-17). Martinière East is dominated by a volcano-sedimentary sequence composed of 
+intercalated basalts, fine-grained sedimentary rocks and felsic dykes. The basalts host semi-massive to 
+massive sulphide lenses which are barren in gold or base metals.  
+
+The northerly-trending, east-dipping BLFZ separates the Martinière West area from Martinière East, 
+possibly juxtaposing deeper levels at Martinière West against shallower levels at Martinière East. Drilling has 
+shown significant alteration, veining and gold mineralization along a strike length of 340 metres and to a 
+depth of 250 metres for the BLFZ, remaining open in each direction along strike and to depth. The dip of the 
+BLFZ varies with depth; the best mineralization appears to be located on steeper segments of the fault zone. 
+
+
+
+5 
+
+ 
+
+Significant intersections include 16.00 m @ 5.00 g/t Au (MDE-12-70) and 15.66 m @ 3.74 g/t Au (MDE-12-
+60). Relatively narrow, discrete shears up to 40 metres into the weakly deformed footwall gabbroic intrusion 
+can host very high-grade gold mineralization, with the best intersections grading 7.78 m @ 117.32 g/t Au 
+(MDE-12-29) and 5.70 m @ 16.45 g/t Au (MDE-12-63). Drilling in the Martinière East area has intersected 
+shearing, carbonate alteration and gold mineralization approximately 300 metres east of the BLFZ, including 
+9.30 m @ 11.28 g/t Au (MDE-12-20) and 15.92 m @ 4.83 g/t Au, but its orientation and significance is not yet 
+clear. 
+
+The author believes that aggressive exploration is warranted on the Martinière property, given the 
+zones of significant gold mineralization discovered to date, open at depth and along strike in one or two 
+directions, and associated with a crustal-scale deformation zone which hosts the 17 million oz Detour Lake 
+gold deposit fifty kilometres to the west. A 20,000 metre diamond drilling program is recommended for the 
+Martinière property, concentrated on the BLFZ, Martinière West and Martinière East areas, with an estimated 
+budget of C$4.65 million. 
+
+2.0 INTRODUCTION 
+
+This report has been prepared for Balmoral Resources Ltd. ("Balmoral") in order to satisfy its 
+continuous disclosure requirements for the TSX-V exchange. Equity Exploration Consultants Ltd. ("Equity") 
+was contracted to execute the 2012 diamond drilling and soil sampling programs on the Martinière property 
+and has been engaged by Balmoral to compile all exploration information available on the property and to 
+make recommendations for further exploration, if warranted. This report has been prepared on the basis of 
+personal observations, core-logging carried out by the author and other Equity geologists, assessment 
+reports filed with the Québec MRN, information and reports supplied by Balmoral, news releases issued by 
+Balmoral, a 2011 M.Sc. thesis on the Martinière property by F. Rabayrol, and regional geological publications 
+by the Québec MRN. A complete list of references is provided in Appendix A. 
+
+The author, an independent Qualified Person under the meaning of National Instrument 43-101 ("NI 
+43-101"), managed exploration on the Martinière property in the field in July and August, 2012 and monitored 
+its progress through the balance of the 2012 program. He examined core from all of the drill holes from the 
+summer 2012 program and several holes from the winter 2012 program. He examined the property in the 
+field from July 6-24 and August 20-27, 2012. The author is not a director, officer or significant shareholder of 
+Balmoral and has no interest in the Martinière property or any nearby properties. 
+
+Units and abbreviations used in this report are as follows: 
+
+Units: 
+
+cm Centimetre 
+C$ Canadian dollar 
+Ga billion years ago 
+g/t grams/tonne (1 g/t = 1 ppm = 1,000 ppb) 
+km kilometre (1 km = 1,000 m = 100,000 cm = 1,000,000 mm) 
+km2 square kilometre 
+kg kilogram 
+kW kilowatt 
+m Metre 
+Ma million years ago 
+mm millimetre 
+mV/V millivolt per volt 
+oz troy ounce (1 oz = 31.10348 grams = 0.0310348 kg) 
+ppb part per billion 
+ppm part per million (1 ppm = 1,000 ppb) 
+° C degree Celsius 
+µm micron (1 m = 1,000 mm = 1,000,000  µm) 
+
+
+
+6 
+
+ 
+
+ 
+
+Abbreviations: 
+
+ 
+
+ 
+
+3.0 RELIANCE ON OTHER EXPERTS 
+
+In Section 4.0, the author has relied entirely upon information provided by Balmoral concerning the 
+terms of their property purchase agreement with American Bonanza Gold Corp. ("American Bonanza"), their 
+obligations under the underlying purchase agreement between American Bonanza and Cyprus Canada Inc. 
+("Cyprus Canada") and the extent of any underlying interests and royalties. In Section 4.0, the authors have 
+relied entirely on Balmoral for tenure data.  
+
+The authors have not relied upon a report, opinion or statement of another expert concerning legal, 
+political, environmental or tax matters relevant to the technical report. 
+
+4.0 PROPERTY DESCRIPTION AND LOCATION 
+
+The Martinière property consists of 112 contiguous claims which cover 6,173 hectares (61.7 km2) at 
+the junction of Lanouiller, La Martinière, La Peltrie and Martigny townships of western Québec (Figure 1). It is 
+centred at 50˚ 02' N latitude and 79˚ 02' W longitude (NAD-83 UTM Zone 17N: 640800E 5545000N) on NTS 
+
+AAS atomic absorption spectroscopy 
+Au Gold 
+EM electromagnetic 
+FA-AA fire assay with AAS finish 
+FA-GRAV fire assay with gravimetric finish 
+FA-ICP fire assay with ICP finish 
+GPS global positioning system 
+IP induced polarization 
+ICP inductively coupled plasma (analytical technique) 
+ISO International Standards Organization 
+IEC International Electrotechnical Commission 
+M.Sc. Master of Science 
+MRN Ministère des Ressources Naturelles (Province of Québec) 
+MTO Mineral Titles Online 
+N North 
+NAD-83 North American Datum (1983) 
+NI 43-101 National Instrument 43-101 
+NSR net smelter return 
+NTS National Topographic System 
+QA quality assurance 
+QC quality control 
+RTK Real Time Kinetic (high-accuracy GPS system) 
+S South 
+TSX-V Toronto Stock Exchange – Ventures 
+UTM Universal Transverse Mercator 
+VTEM Versatile Time Domain Electro-Magnetics 
+2D two-dimensional 
+3D three-dimensional 
+σ sigma (standard deviation) 
+
+
+
+Martiniere Property
+
+JAN 2013
+
+Nord-du-QuebecUTM 17 - NAD83 1
+1:10,000,000
+
+32E14, 32L03 Quebec
+
+U. S. A.
+
+Quebec
+
+Ontario
+
+kilometres
+
+0 150 300
+
+Balmoral Resources Ltd.
+
+
+
+8 
+
+ 
+
+map-sheets 32L/2 and 32L/03, within the Nord-du-Québec Region, approximately 110 km west of Matagami 
+and 150 km north of Amos.  
+
+Claim data is detailed in Appendix B. In Québec, claims give the holder an exclusive right to search 
+for mineral substances except sand, gravel, clay and other unconsolidated deposits. Claims are acquired 
+through Internet map-staking with boundaries defined on maps kept at the MRN's Bureau du Registraire; the 
+claims form a seamless grid without overlap (Figure 2). 
+
+Balmoral acquired a 100% interest in the Martinière property, the adjacent Fenelon property and two 
+other exploration properties in Québec and Ontario through a purchase agreement in November 2010 with 
+American Bonanza. This purchase was effected by payment of C$3.7 million cash and issuance of 4.5 million 
+Balmoral shares to American Bonanza, and assumption of American Bonanza's underlying obligations to 
+Cyprus Canada in regard to the properties. These obligations included a 2% NSR royalty payable on 76 
+claims in the Martinière property to Cyprus Canada, a wholly-owned subsidiary of Freeport-McMoran Copper 
+& Gold Inc., and a US$450,000 cash payment to Cyprus Canada which was made in January 2013. The 
+claims to which the 2% NSR is applicable are noted in Appendix B. 
+
+To the author's knowledge, the property has no royalties, back-in rights or other agreements and 
+encumbrances, apart from the 2% NSR royalty payable to Cyprus Canada. No significant environmental 
+liabilities were noted by the author on the Martinière property. 
+
+The claims confer rights to hard-rock mineral exploration only. Mine development requires conversion 
+of claims to a mining lease. Surface rights over the Martinière property are held by the Crown, as 
+administered by the Province of Québec. The ownership of other rights (timber, water, trapping, etc.) over the 
+Martinière property has not been investigated by the author. The Martiniere property is located within the 
+traditional territory of the Cree First Nation of Waskaganish and is located within the confines of the James 
+Bay Accord between the Cree First Nation and the province of Quebec which facilitated the development of 
+extensive hydro-electric facilities to the north of the property.  
+
+Claims have initial terms of two years. Québec law requires assessment expenditures to maintain 
+tenure ownership past the current expiry dates. Allowable assessment work must be completed prior to 60 
+days before expiry of the claim. Required amounts of work for two-year renewals vary depending upon 
+location, size and age of the claim. For all claims within the Martinière property, the required biennial 
+assessment amounts to $2,500/claim. Assessment filing fees of $53/claim are payable if filed >60 days prior 
+to the claim expiry date, doubling to $106/claim if filed within 60 days of the claim expiry date.  
+
+ Permits are required for any exploration program which involves camp construction or tree-cutting, 
+including drilling, helicopter use or road construction. Balmoral has the required permits to execute the 
+proposed drilling program, although amendments may be required to allow minor shifts in locations of drill 
+sites. 
+
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE, PHYSIOGRAPHY 
+
+5.1 Accessibility 
+
+Martinière is not currently road accessible, but may be accessed by helicopter year-round. The 
+closest road accessible infrastructure is at the past-producing Selbaie Mine located 24 km south of 
+Martinière, but Camp Fenelon, operated by Balmoral, is located approximately 33 km east of Martinière and 
+has been used to support exploration at Martinière. In some years, a winter road can be opened from forest 
+road R1036 near Camp Fenelon to the Martinière property, but in other years inadequate freezing at a 
+crossing of the Turgeon River limits winter road access to approximately five kilometres away from the 
+Martinière camp. Camp Fenelon is road accessible from the town of Amos along 168 kilometres of paved 
+provincial highway 111, then 70 kilometres of paved forest road R1036 and 20 kilometres of gravel road. The 
+town of Val d'Or lies an additional 67 kilometres south of Amos (Figure 3).  
+
+
+
+Martiniere Property
+
+JAN 2013
+
+Nord-du-QuebecUTM 17 - NAD83 2
+1:50,000
+
+32E14, 32L03 Quebec
+
+Balmoral Resources Ltd.
+
+2km
+
+
+
+Martiniere Property
+
+JAN 2013
+
+Nord-du-QuebecUTM 17 - NAD83 3
+1:2,000,000
+
+32E14, 32L03 Quebec
+
+U. S. A.
+
+Quebec
+
+Ontario
+
+Balmoral Resources Ltd.
+
+50km
+
+109
+
+
+
+11 
+
+ 
+
+5.2 Local Resources and Infrastructure 
+
+There is a camp located on the Martinière property capable of housing 28 people in tent-based 
+accommodations with running water in kitchen and dry, diesel stove heating, and electricity provided by two 
+generators (Figure 2). The primary generator has a capacity of 30 kW, backed up by a secondary 20 kW unit 
+which is mostly used to power electric core saws, but which is capable of powering most camp systems in the 
+event of an outage of the primary generator. Water is obtained from a ~100 m deep well located ~25 m from 
+camp. Logistical support is provided by the road-accessible camp located at Camp Fenelon, 33 km to the 
+east, which is capable of housing up to 25 people in trailer-based lodgings with indoor plumbing, a potable 
+water well, forced-air heating, and electricity from a 78 kW generator. Supplies and personnel arrive at Camp 
+Fenelon from the nearby towns of Amos, Québec (pop. 9,400) and Val d'Or, Québec (pop. 31,900) via road 
+transportation. 
+
+Amos and Val d'Or offer a full range of services and supplies for mineral exploration, including skilled 
+and unskilled labour, bulk fuel, freight, heavy equipment, groceries and hardware. The nearest helicopter 
+base is in Cochrane, Ontario, located 180 kilometres southwest of Martinière (Figure 3). Several gold and 
+base metal mines are in production or undergoing construction throughout this part of Québec and Ontario, 
+supporting a vibrant infrastructure of mining and exploration services. Val d'Or is the nearest regional airport 
+to Martinière which has daily commercial flights to Montreal. 
+
+CN Rail operates railway lines to Matagami, 100 kilometres east of Martinière, and La Sarre, 140 
+kilometres south of Martinière. Ontario Northland Railway operates a rail line through Cochrane, Ontario, 180 
+kilometres southwest of Martinière.  
+
+Surface rights over the Martinière property are owned by the Crown and administered by the Province 
+of Québec; they would be available for any eventual mining operation. The property has abundant water and 
+water rights could be obtained for milling. It is still too early to determine potential tailings storage areas, 
+potential waste disposal areas, and potential processing plant sites. 
+
+5.3 Physiography and Climate 
+
+The Martinière property is dominated by a flat swamp on the northwest side of the Turgeon River 
+(Figure 2). Topography on the property is very subdued, with elevations ranging from 235 metres near the 
+Turgeon River to 290 metres in the northwestern part of the property. Most of the drilling has been done in 
+the swampy south-central part of the property at 250-260 metres elevation.  
+
+The property is covered by swamp and boreal forest comprised of spruce, fir, and pine. It is almost 
+completely devoid of outcrop, with isolated exposures of mafic volcanic rocks in the southwest of the property 
+along the Martigny River. 
+
+The region experiences a typical continental-style climate with cold winters and warm summers. Snow 
+accumulation begins in November and generally remains until early May. Environment Canada climate 
+normals for 1971-2000, from the nearest weather station in the town of Matagami, indicate that the daily 
+average temperature ranges from -20° C in January to 16° C in July. The coldest months are December to 
+March, during which the coldest temperatures can fall below -40° C. Matagami has 91 cm of annual 
+precipitation with average snow depth peaking at 65 cm in February (EnvironmentCanada, 2012). Drilling can 
+be conducted year-round with the exception of spring thaw from mid-March to May. 
+
+6.0 HISTORY 
+
+The following summary of historical exploration on the Martinière property (Table 1) has been largely 
+taken from Peshkepia and Sylvester (2011). Historical assessment reports filed with the government of 
+Québec's MRN indicate prior ownership of the Martinière property, which has consisted of at least three 
+separately explored properties (Martinière A, Martinière C, and Martinière D) in the past, but reference to 
+explicit ownership is unclear until 1994 when Cyprus Canada established the current, amalgamated La 
+
+
+
+12 
+
+ 
+
+Martinière property. This property was optioned by International Taurus Resources Inc. ("International 
+Taurus") in 1998 and subsequently purchased by them. Ownership changed to American Bonanza as a result 
+of a merger with International Taurus in 2004. In November 2010, Balmoral purchased 100% interest in La 
+Martinière from American Bonanza, subject to a 2% NSR royalty held by Cyprus Canada. 
+
+Over the past 54 years, a number of companies have conducted exploration over the Martinière 
+property, including geophysical surveying and diamond drilling. The almost total lack of outcrop precluded 
+geological mapping. Geophysical methods utilized include IP/resistivity, electromagnetic (EM), and magnetic 
+surveys, with drilling initially testing various geophysical anomalies and later extending mineralized zones. 
+Although sporadic drilling has taken place since 1959, the presence of significant gold was not confirmed in 
+drill core until 1996. The following is a brief description of some of the more relevant historic work. 
+
+ Kateri Mining Co. Ltd. (1959) 
+
+In 1959, two holes were drilled following up on a magnetic high coinciding with a medium strength 
+conductor identified by electromagnetic and ground magnetometer surveys, and intersected 
+disseminated pyrite in a dioritic sill and quartz stringers in a shear zone with trace gold values. 
+ 
+
+ Monpre Mining Co. Ltd. (1960) 
+
+In 1960, two holes were drilled that intersected 2-3% sulphides in sheared mafic volcanic and 
+graphitic schists, but no gold was detected by assays in either hole. 
+ 
+
+ Queenston Gold Mines (1982, 1984) 
+
+In 1982, Queenston Gold Mines compiled the geological and geophysical data of the Lac du Doigt 
+property (in the northwest of Martinière), which produced a map showing northwest/southeast- 
+trending EM anomalies, after which an airborne EM survey was done in 1984. 
+ 
+
+ Teck Exploration (1984) 
+
+In 1984, one hole was drilled in the south-central part of Martinière to test an EM conductor in this 
+area. The drilling intercepted altered, carbonatized mafic volcanic intercalated with pyritic graphitic 
+argillite and minor tuffaceous horizons. 
+ 
+
+ Noranda Exploration Ltd. (1986-1987) 
+
+Between 1986 and 1987, IP surveys and diamond drilling at Lac Bug in the northwest of Martinière 
+identified irregular, northwest-trending veins and shear zones hosted in fine-grained gabbroic rocks. 
+ 
+
+ Cyprus Canada (1996-1997) 
+
+In 1996-1997, IP and resistivity surveys were carried out that identified northeast to east/west trending 
+structures at Martinière. Eight holes were drilled, one of which (MD-97-06) hit 12.44 g/t Au over 2.5 m 
+and 1.07 g/t Au over 12.0 m in what is now known as the Martinière Central Zone. These gold values 
+were obtained in chloritic shears that hosted 10-30% quartz-carbonate-pyrite veining, with zones of 
+strong carbonate/silica/sericite/fuchsite alteration and silica flooding in a magnesium-rich tholeiite. 
+
+ 
+
+ International Taurus (1998-2000) 
+
+In 1998, nine holes were drilled to follow-up on the Au-bearing mineralization identified the previous 
+year. Drilling intersected quartz-carbonate veins in the south of the property with 5.91 g/t Au over 6.45 
+m (MD-99-11) and 14.55 g/t Au over 4.2 m (MD-99-13). In 2000, continuing to follow up on the Au-
+bearing mineralization, twelve holes were drilled, with the highlights being: 11.12 g/t Au over 1.5 m 
+(MD-00-19); 12.80 g/t Au over 1.5 m (MD-00-28); and 3.45 g/t Au over 1.0 m (MD-00-28). 
+ 
+
+ American Bonanza (2006-2007) 
+
+
+
+13 
+
+ 
+
+In 2006, nine holes were drilled to test the high-grade Au intercepts of previous drilling programs. 
+Low-grade mineralization was intersected over shorter intervals, but an extension of the zone in hole 
+MD-00-28 was discovered and the mineralization reported in previous holes MD-99-13 and -14 and 
+MD-97-06 was confirmed. Follow-up was conducted in 2007, with the drilling of thirteen additional 
+holes to test for extensions of mineralized zones and to test IP/magnetic anomalies. 
+
+Table 1: Summary of Historical Work at Martinière 
+
+Year Company Work completed 
+
+1959 
+Monpre Mining Co. Ltd. IP/resistivity survey 
+
+Kateri Mining Co. Ltd. 
+EM and magnetometer surveys, 2 drill 
+holes 
+
+1960 Monpre Mining Co Ltd. 2 drill holes 
+1970s Selco Mining Corp. 2 drill holes 
+1982 Queenston Gold Mines EM survey 
+1984 Teck Exploration 1 drill hole 
+
+1986-1987 
+Aerodat EM and magnetic surveys 
+Noranda Exploration Ltd. IP survey, drilling 
+
+1996 Cyprus Canada Inc. IP/resistivity survey 
+1997 Cyprus Canada Inc. IP/resistivity survey, 2 drill holes 
+1998 International Taurus Resources 9 drill holes 
+2000 International Taurus Resources 12 drill holes 
+2006 American Bonanza Gold Corp. 9 drill holes 
+2007 American Bonanza Gold Corp. 13 drill holes 
+
+ 
+ There have been no significant historical mineral resource or mineral reserve estimates for the 
+
+Martinière property and there has been no production from it. 
+
+7.0 GEOLOGICAL SETTING AND MINERALIZATION 
+
+7.1 Regional Geology 
+
+The Martinière property lies in the northern portion of the Abitibi Sub-province, which itself lies in the 
+south-central part of the Archean Superior Province of the Canadian Shield (Figure 4). The Abitibi Sub-
+province is composed of east-trending synclines of largely volcanic rocks and intervening domes cored by 
+synvolcanic and/or syntectonic plutonic rocks (gabbro-diorite, tonalite, and granite) alternating with east-
+trending bands of turbiditic wackes. Most of the volcanic and sedimentary strata dip vertically and are 
+generally separated by abrupt, east-trending faults with variable dip. Some of these faults, such as the 
+Porcupine-Destor fault, display evidence for overprinting deformation events including early thrusting, later 
+strike-slip and extension events. Two ages of unconformable successor basins occur: early, widely 
+distributed "Porcupine-style" basins of fine-grained clastic rocks, followed by "Timiskaming-style" basins of 
+coarser clastic and minor volcanic rocks which are largely proximal to major strike-slip faults (e.g. Porcupine-
+Destor, Larder-Cadillac, Sunday Lake). In addition, the Abitibi Sub-province is cut by numerous late-tectonic 
+plutons ranging in composition from syenite and gabbro to granite with lesser dikes of lamprophyre and 
+carbonatite (Thurston et al., 2008). 
+
+Thurston et al (2008) divided the stratigraphy of the Abitibi Sub-province into seven discrete volcanic 
+assemblages and two later sedimentary-dominated assemblages (Table 2). 
+
+
+
+
+
+15 
+
+ 
+
+Table 2: Abitibi Sub-province Stratigraphic Assemblages 
+
+Assemblage Age (Ma) 
+Thickness 
+
+(km) 
+Dominant Rock Types 
+
+Timiskaming 2677-2670 <3 Polymictic conglomerate and sandstone in subaerial alluvial fan, 
+fluvial and deltaic settings; local alkaline volcanic rocks 
+
+Porcupine 2690-2685 <3 Local calc-alkaline felsic pyroclastic rocks overlain by turbitiditic 
+argillite to wacke 
+
+Blake River 2704-2695 ~11-17 Minor clastic metasediments and high Mg and Fe tholeiites 
+overlain by mafic to felsic tholeiitic to calc-alkaline volcanic units 
+with volcaniclastic components 
+
+Tisdale 2710-2704 ~10-15 Mafic volcanic rocks with localized ultramafic and intermediate to 
+felsic volcanic rocks and iron formation; overlain by intermediate 
+to felsic, calc-alkaline, amygdaloidal flows, heterolithic debris 
+flows and volcaniclastic units 
+
+Kidd-Munro 2719-2711 ~10 Intermediate to felsic calc-alkaline volcanic rocks, overlain by 
+mafic volcanic rocks with local ultramafic and felsic volcanic rocks 
+and graphitic metasedimentary rocks 
+
+Stoughton-
+Roquemare 
+
+2723-2720 <12 Tholeiitic basalts with komatiites and local felsic volcanic rocks 
+
+Deloro 2734-2724 ~5 Mafic to felsic calc-alkaline volcanic rocks with local tholeiitic 
+mafic volcanic rocks, capped by iron formation 
+
+Pacaud 2750-2735 ~5 Ultramafic, mafic and felsic volcanic rocks, with minor iron 
+formation 
+
+Pre-2750 Ma >2750 ~5 Intermediate to felsic, calc-alkaline pyroclastic rocks capped by 
+iron formation 
+
+ 
+
+The northern Abitibi Sub-province has undergone four main deformation events (Daigneault et al., 
+2004{Peshkepia, 2011 #2257)}: 
+
+ D1: regional N-S folding (pre-2710 Ma); 
+
+ D2: E-W trending subvertical schistosity associated with E-W regional folding (2710-2706 Ma); 
+
+ D3: longitudinal thrust faulting which cross-cut D2 folds (2705-2697 Ma); 
+
+ D4: E-W dextral strike-slip faulting. 
+
+7.2 Local Geology and Mineralization 
+
+The Martinière property is located in the Harricana-Turgeon greenstone belt, located in the northern 
+part of the Abitibi Sub-province near its interpreted boundary with the Opatica Sub-province.  A network of 
+regional deformation corridors extend from Ontario eastwards and separate two dominantly volcanic domains 
+from an area dominated by volcanic-derived sedimentary (or volcano-sedimentary) rocks with minor volcanic 
+rocks (Figure 5). These regional high-strain zones include the Lower Detour (LDDZ) and Sunday Lake 
+(SLDZ) deformation zones, which track east-west across the Martinière area and are spatially associated with 
+significant orogenic gold mineralisation including the Detour Lake deposit (Ritchie et al., 2012). The Detour 
+Lake gold deposit, for example, is located within and immediately adjacent to the Sunday Lake Deformation 
+Zone (SLDZ).    
+
+Integration of geological mapping, diamond drilling, and geophysical data suggests that there are 
+three distinct geological domains in the vicinity of Martinière: the Manthet Domain; the Matagami Domain; 
+and the Broullian-Fenelon Domain (Wagner, 2012). 
+
+
+
+Pluton de Jérémie
+
+JAN 2013
+
+Nord-du-QuebecUTM 17 - NAD83 5
+1:400,000
+
+32E14, 32L03 Quebec
+
+Martiniere Property
+
+Balmoral Resources Ltd.
+
+Mafic Flows
+
+Felsic volcanic rock
+
+Iron formation
+
+Greywacke, siltstone, argillite,
+iron formation
+
+Mafic Intusion, Ultramafic
+
+Faults
+
+Banded Gneiss
+
+Diorite, granodiorite
+
+Felsic Intrusion
+
+Legend
+
+
+
+17 
+
+ 
+
+The Manthet Domain lies north of the SLDZ in the Stoughton-Roquemaure volcanic assemblage, and 
+is characterized by predominantly east-west striking mafic to intermediate volcanic/pyroclastic units, that are 
+commonly intercalated with pelitic sedimentary units. Lesser volumes of felsic volcanic rocks also occur 
+throughout this domain, as do mafic to ultramafic intrusions and small felsic intrusive bodies, dykes, and sills. 
+Late north- to northwest-trending mafic dykes appear to represent the most recent lithological element 
+(Wagner, 2012). 
+
+The Matagami Domain lies south of the SLDZ, but north of the Lower Detour Deformation Zone, and 
+consists mostly of volcano-sedimentary rocks, including wackes and argillites, as well as tuffaceous units and 
+iron formation (Lacroix, 1988). The iron formation units show strong lateral continuity along east-west trends. 
+Other rock types include numerous mafic to ultramafic sill-like intrusions and at least one larger composite 
+mafic-ultramafic intrusion. The contact between the Matagami and Manthet domains is a focus for shearing 
+and faulting along the SLDZ, which dips 72° to 82° to the south-southwest (Wagner, 2012). It can be traced 
+through geophysical interpretation for over 100 kilometres in an east-west direction, passing a few kilometres 
+south of the Martinière property. The degree of metamorphism and deformation within the Manthet domain 
+increases gradually northward toward the Opatica gneiss. 
+
+The volcanic-dominated Brouillan-Fenelon domain lies to the south of the Lower Detour Deformation 
+Zone within the Deloro volcanic assemblage. This sequence includes a greater volume of felsic volcanic and 
+intrusive rocks than the Manthet Domain and hosts the formerly producing Selbaie volcanogenic massive 
+sulphide deposit. 
+
+Both orogenic gold and volcanogenic massive sulphide deposits have been mined in the Harricana-
+Turgeon belt. Of most relevance to the Martinière property is the Detour Lake deposit, located 50 kilometres 
+west of the Martinière East and West zones. Detour Lake produced 55,000 kg (1.77 million oz) Au at 4.55 g/t 
+Au between 1983 and 1999; an open pit mine is currently under construction with Proven and Probable 
+Reserves (as of year-end 2011) of 484,000 kg (15.57 million oz) Au at 1.03 g/t Au (Ritchie et al., 2012). The 
+Detour Lake deposit is hosted by Manthet domain rocks known as the Upper and Lower Detour Lake 
+formations. Gold mineralization within the Detour Lake deposit is principally hosted in a 200-350 metre wide 
+E-W corridor in the hanging wall of the SLDZ. High-grade gold mineralisation is localized along highly 
+strained geological contacts that provided conduits for fluids associated with regional-scale deformation. Gold 
+mineralisation is hosted in a series of steeply-plunging ore-shoots in quartz-carbonate veins, associated with 
+pyrite and other sulphides (Ritchie et al., 2012). 
+
+To the east, Balmoral's Fenelon Property contains a typical Archean lode gold zone that is named the 
+Discovery Zone. This zone is associated with shearing and silicification of a gabbro or pyroxenite body and is 
+located north of both the regional Lower Detour and Sunday Lake deformation zones. High-grade gold 
+mineralization is contained within a series of structurally controlled shears and quartz veins and is associated 
+with approximately 5 to 10% pyrrhotite, chalcopyrite, and pyrite (Leclerc and Giguère, 2010). 
+
+7.3 Property Geology 
+
+The Martinière property is covered by 10 to 60 m of glacio-fluvial overburden consisting mainly of 
+sand-gravel-boulder tills. Outcrop is limited to a few isolated mafic volcanic rock occurrences exposed along 
+the Martigny River in the southwestern part of the claim group. Figure 6 shows a property-wide geological 
+map prepared by Géologie Québec (MRN, 2007a, b), largely interpreted from geophysics. They interpret the 
+Martinière property to be almost entirely underlain by Manthet domain andesitic to felsic volcanic rocks and 
+variably graphitic mudstones. Proterozoic diabase dykes trend NNW across the property. Granodiorite and 
+tonalite of the Opatica Sub-province are mapped in the extreme northwest corner of the Martinière property. 
+
+A geological plan map at the 200-m elevation has been interpreted from drill core in the small portion 
+of the Martinière property which has sufficient drill hole density (Figures 7-9). This portion of the property can 
+be divided into two separate areas, termed Martinière West and Martinière East, each with distinct styles of 
+lithology, structure, and mineralization (Perk et al., 2013). Martinière West and Martinière East are separated 
+by the north-striking, east-dipping Bug Lake Fault Zone (BLFZ). 
+
+
+
+
+
+&&
+&&&
+&&&
+
+&&&
+&&
+&&&
+&&&&
+
+&&&&&
+&&&&
+
+&&
+&&
+&&&
+&&&
+&&&
+&&&
+&&&
+
+&&&&
+&&&
+&&
+
+&
+&
+&&
+&&
+&
+
+&
+&
+&&
+&
+
+&&
+&&
+&
+
+&
+&
+&
+
+{
+
+{ {
+
+{
+
+{
+
+{
+
+{
+
+{{ {
+
+{
+
+{
+
+{{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+{
+
+{ {
+
+{ {
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+{
+
+{
+
+{
+
+{
+
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+S6DU V3BU
+
+I3AU
+
+I3EC
+
+I3EUI1QF
+
+I3EM
+
+I3AM
+
+I3AU
+
+I3EU
+
+I3EC
+I3AU
+
+I3EU
+
+S6DU
+
+V3BU
+
+I1QF
+
+I1QF
+
+SUSU
+SUSU
+
+I3AU
+
+V3BU
+
+V3BU
+
+I1QF
+
+SUSU
+
+I1QF
+
+I3AU
+I3EU
+I1QF
+
+I3AU
+
+I1QF
+
+I3AU
+
+V3BU
+
+Martiniere East
+
+Bug Lake Fault Zone
+
+Martiniere West
+
+A-A'
+
+B
+-B
+
+'
+
+C-C
+'
+
+&&
+&&&
+&&&
+
+&&&
+&&
+&&&
+&&&&
+
+&&&&&
+&&&&
+
+&&
+&&
+&&&
+&&&
+&&&
+&&&
+&&&
+
+&&&&
+&&&
+&&
+
+&
+&
+&&
+&&
+&
+
+&
+&
+&&
+&
+
+&&
+&&
+&
+
+&
+&
+&
+
+{
+
+{ {
+
+{
+
+{
+
+{
+
+{
+
+{{ {
+
+{
+
+{
+
+{{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+{
+
+{ {
+
+{ {
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+{
+
+{
+
+{
+
+{
+
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+S6DU V3BU
+
+I3AU
+
+I3EC
+
+I3EUI1QF
+
+I3EM
+
+I3AM
+
+I3AU
+
+I3EU
+
+I3EC
+I3AU
+
+I3EU
+
+S6DU
+
+V3BU
+
+I1QF
+
+I1QF
+
+SUSU
+SUSU
+
+I3AU
+
+V3BU
+
+V3BU
+
+I1QF
+
+SUSU
+
+I1QF
+
+I3AU
+I3EU
+I1QF
+
+I3AU
+
+I1QF
+
+I3AU
+
+V3BU
+
+Martiniere East
+
+Bug Lake Fault Zone
+
+Martiniere West
+
+A-A'
+
+B
+-B
+
+'
+
+C-C
+'
+
+6
+4
+0
+4
+0
+0
+m
+
+E
+6
+4
+0
+4
+0
+0
+m
+
+E
+
+6
+4
+0
+8
+0
+0
+m
+
+E
+6
+4
+0
+8
+0
+0
+m
+
+E
+
+6
+4
+1
+2
+0
+0
+m
+
+E
+6
+4
+1
+2
+0
+0
+m
+
+E
+
+6
+4
+1
+6
+0
+0
+m
+
+E
+6
+4
+1
+6
+0
+0
+m
+
+E
+
+6
+4
+2
+0
+0
+0
+m
+
+E
+6
+4
+2
+0
+0
+0
+m
+
+E
+
+6
+4
+2
+4
+0
+0
+m
+
+E
+6
+4
+2
+4
+0
+0
+m
+
+E
+
+5542800mN 5542800mN
+
+5543200mN 5543200mN
+
+5543600mN 5543600mN
+
+5544000mN 5544000mN
+
+5544400mN 5544400mN
+LEGEND
+
+I1QF: Quartz-feldspar-phyric Felsic Intrusion
+
+I3AU: Gabbro
+
+I3AM: Magnetite Gabbro
+
+I3EU: Quartz Gabbro
+
+I3EC: Coarse Grained Quartz Gabbro
+
+I3EM: Magnetite Quartz Gabbro
+
+V3BU: Basalt
+
+SUSU: Semi-Massive Sulphide
+
+S6DU: Siltstone, Argillite, Mudstone
+
+F Approximate Margins of Bug Lake Fault Zone
+&&
+&&
+
+Surface Projection of Gold Bearing Zones
+
+ 2012 Drillholes
+ 2011 Drillholes
+{ pre-2011 Drillholes
+
+Balmoral Resources Ltd.
+
+100 200m0 100
+
+Map Sheet: 32E14, 32L03
+
+Mining District: Nord-du-Quebec
+
+Projection: UTM 17 - NAD83
+
+Prov/State: Quebec
+
+Figure: 7
+
+Plot Date: 10-Jan-2013
+
+Scale
+1 : 10000
+
+Martiniere East and 
+West Geology
+
+Martiniere Project
+
+
+
+
+
+&&&&
+&&&&&
+&&&&&
+&&&&&
+
+&&&&&
+&&&&&
+&&&&&
+&&&&&
+&&&&&
+&&&&&
+
+&&&&&
+&&&&&&
+&&&&&
+&&&&&&
+
+&&&&&&
+&&&&&&&
+
+&&&&&&&&
+&&&&&&&&&&
+&&&&&&&&&
+&&&&&&&
+
+{
+{
+
+{
+
+{
+
+{
+
+{{ {
+
+{
+
+{
+
+{{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+{
+
+{
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S6DU
+
+I3AU
+
+I3EC
+
+I3EU
+I1QF
+
+I3EM
+
+I3AM
+
+I3AU
+
+I3EU
+
+I3EC
+
+I3AU
+
+Martiniere West
+
+MDW-11-01
+
+MDW-11-02
+
+MDW-11-03
+
+MDW-11-04
+
+MDW-11-05
+
+MDW-11-06
+MDW-11-07
+
+MDW-11-08 MDW-11-09
+
+MDW-11-10
+
+MDW-11-11
+
+MDW-11-14
+MDW-11-15
+MDW-11-16
+
+MDW-11-17
+MDW-11-18
+MDW-11-18A
+MDW-11-19
+
+MDW-11-20
+MDW-11-21
+
+MDW-11-22
+
+MDW-11-23
+
+MDW-11-24
+MDW-11-24A
+MDW-11-25
+
+MDW-11-26
+MDW-11-26A
+
+MDW-11-27
+MDW-11-28
+MDW-11-28A
+MDW-11-29
+MDW-11-29AMDW-11-30MDW-11-31A
+
+MDW-11-32
+
+MDW-11-33
+MDW-11-34
+
+MDW-11-35
+MDW-11-36
+MDW-11-37
+
+MDW-11-38
+MDW-11-39
+MDW-11-40
+
+MDW-11-41
+MDW-11-41A
+MDW-11-42
+MDW-11-43
+
+MDW-12-44
+MDW-12-45
+
+MDW-12-46
+MDW-12-46A
+MDW-12-47
+
+MDW-12-48
+
+MDW-12-49
+MDW-12-50
+MDW-12-50A
+
+MDW-12-51
+MDW-12-52
+
+MDW-12-53
+MDW-12-54
+
+MDW-12-55
+
+MDW-12-56
+MDW-12-56A
+
+MDW-12-57
+MDW-12-57A
+
+MDW-12-58
+MDW-12-59
+
+MDW-12-60
+
+MDW-12-61
+
+MDW-12-62
+
+MDW-12-63
+
+MDW-12-63A
+
+MDW-12-64
+MDW-12-64A M
+
+MDX-12-02
+MDX-12-02A
+
+MDX-12-07
+
+A-A'
+
+&&&&
+&&&&&
+&&&&&
+&&&&&
+
+&&&&&
+&&&&&
+&&&&&
+&&&&&
+&&&&&
+&&&&&
+
+&&&&&
+&&&&&&
+&&&&&
+&&&&&&
+
+&&&&&&
+&&&&&&&
+
+&&&&&&&&
+&&&&&&&&&&
+&&&&&&&&&
+&&&&&&&
+
+{
+{
+
+{
+
+{
+
+{
+
+{{ {
+
+{
+
+{
+
+{{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+{
+
+{
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S6DU
+
+I3AU
+
+I3EC
+
+I3EU
+I1QF
+
+I3EM
+
+I3AM
+
+I3AU
+
+I3EU
+
+I3EC
+
+I3AU
+
+Martiniere West
+
+MDW-11-01
+
+MDW-11-02
+
+MDW-11-03
+
+MDW-11-04
+
+MDW-11-05
+
+MDW-11-06
+MDW-11-07
+
+MDW-11-08 MDW-11-09
+
+MDW-11-10
+
+MDW-11-11
+
+MDW-11-14
+MDW-11-15
+MDW-11-16
+
+MDW-11-17
+MDW-11-18
+MDW-11-18A
+MDW-11-19
+
+MDW-11-20
+MDW-11-21
+
+MDW-11-22
+
+MDW-11-23
+
+MDW-11-24
+MDW-11-24A
+MDW-11-25
+
+MDW-11-26
+MDW-11-26A
+
+MDW-11-27
+MDW-11-28
+MDW-11-28A
+MDW-11-29
+MDW-11-29AMDW-11-30MDW-11-31A
+
+MDW-11-32
+
+MDW-11-33
+MDW-11-34
+
+MDW-11-35
+MDW-11-36
+MDW-11-37
+
+MDW-11-38
+MDW-11-39
+MDW-11-40
+
+MDW-11-41
+MDW-11-41A
+MDW-11-42
+MDW-11-43
+
+MDW-12-44
+MDW-12-45
+
+MDW-12-46
+MDW-12-46A
+MDW-12-47
+
+MDW-12-48
+
+MDW-12-49
+MDW-12-50
+MDW-12-50A
+
+MDW-12-51
+MDW-12-52
+
+MDW-12-53
+MDW-12-54
+
+MDW-12-55
+
+MDW-12-56
+MDW-12-56A
+
+MDW-12-57
+MDW-12-57A
+
+MDW-12-58
+MDW-12-59
+
+MDW-12-60
+
+MDW-12-61
+
+MDW-12-62
+
+MDW-12-63
+
+MDW-12-63A
+
+MDW-12-64
+MDW-12-64A M
+
+MDX-12-02
+MDX-12-02A
+
+MDX-12-07
+
+A-A'
+
+6
+4
+0
+8
+0
+0
+m
+
+E
+6
+4
+0
+8
+0
+0
+m
+
+E
+
+6
+4
+1
+0
+0
+0
+m
+
+E
+6
+4
+1
+0
+0
+0
+m
+
+E
+
+6
+4
+1
+2
+0
+0
+m
+
+E
+6
+4
+1
+2
+0
+0
+m
+
+E
+
+6
+4
+1
+4
+0
+0
+m
+
+E
+6
+4
+1
+4
+0
+0
+m
+
+E
+
+6
+4
+1
+6
+0
+0
+m
+
+E
+6
+4
+1
+6
+0
+0
+m
+
+E
+
+5543000mN 5543000mN
+
+5543200mN 5543200mN
+
+5543400mN 5543400mN
+
+5543600mN 5543600mN
+
+LEGEND
+
+I1QF: Quartz-feldspar-phyric Felsic Intrusion
+
+I3AU: Gabbro
+
+I3AM: Magnetite Gabbro
+
+I3EU: Quartz Gabbro
+
+I3EC: Coarse Grained Quartz Gabbro
+
+I3EM: Magnetite Quartz Gabbro
+
+V3BU: Basalt
+
+SUSU: Semi-Massive Sulphide
+
+S6DU: Siltstone, Argillite, Mudstone
+
+F Approximate Margins of Bug Lake Fault Zone
+&&
+&&
+
+Surface Projection of Gold Bearing Zones
+
+ 2012 Drillholes
+ 2011 Drillholes
+{ pre-2011 Drillholes
+
+Balmoral Resources Ltd.
+
+20 40m0 20
+
+Map Sheet: 32E14, 32L03
+
+Mining District: Nord-du-Quebec
+
+Projection: UTM 17 - NAD83
+
+Prov/State: Quebec
+
+Figure: 8
+
+Plot Date: 10-Jan-2013
+
+Scale
+1 : 4000
+
+West Zone Geology
+and Drill Plan
+
+Martiniere Project
+
+
+
+
+
+&&&
+&&&&
+&&&&
+&&&&&
+
+&&&&&&
+&&&&&&
+&&&&&
+&&&&&
+&&&&&
+&&&&
+&&&&
+&&&&&
+&&&&&
+&&&&&&
+&&&&&&
+&&&&&
+&&&&&
+
+&&&&&
+&&&&&
+&&&&&
+&&&&
+&&&&
+&&&&
+&&&
+
+&&
+&&
+&
+&
+&&
+&&
+&
+&&
+&&
+&&
+
+&
+&
+&
+&
+&&
+&&
+&
+&
+&
+&
+
+&&
+&& &
+&&&
+&&&
+&&
+&&
+&&
+
+&
+&
+&&
+&&
+&&
+
+{
+
+{
+{
+
+{
+
+{
+
+{
+
+{{ {
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I3AU
+
+I3EU
+
+S6DU
+
+V3BU
+
+I1QF
+
+I1QF
+
+SUSU
+
+SUSU
+
+I3AU
+
+V3BU
+
+V3BU
+
+I1QF
+
+SUSU
+
+I1QF
+
+I3AU
+
+I3EU
+
+I1QF
+
+I3AU
+
+I1QF
+
+I3AU
+
+Martiniere East
+
+Bug Lake Fault Zone
+
+MDE-11-01
+
+MDE-11-02
+
+MDE-11-03
+
+MDE-11-04
+MDE-11-05
+
+MDE-11-06
+
+MDE-11-07
+
+MDE-11-08
+
+MDE-11-09
+MDE-11-10
+MDE-11-11
+
+MDE-11-12MDE-11-13
+
+MDE-11-14
+
+MDE-11-16
+
+MDW-11-08 MDW-11-09
+
+1
+
+MDE-12-17
+MDE-12-18MDE-12-19
+
+MDE-12-20
+
+MDE-12-21
+MDE-12-22
+
+MDE-12-23
+MDE-12-24
+
+MDE-12-25
+MDE-12-26
+MDE-12-26A
+
+MDE-12-27
+MDE-12-28
+
+MDE-12-29
+MDE-12-30
+
+MDE-12-31
+MDE-12-32
+MDE-12-33
+
+MDE-12-34
+MDE-12-35
+MDE-12-36
+
+MDE-12-37
+MDE-12-38
+
+MDE-12-39
+
+MDE-12-40
+
+MDE-12-41
+MDE-12-42
+
+MDE-12-43
+
+MDE-12-44
+MDE-12-45
+
+MDE-12-46
+
+MDE-12-47
+
+MDE-12-48
+
+MDE-12-49
+MDE-12-50
+MDE-12-51
+MDE-12-52
+
+MDE-12-53
+
+MDE-12-54
+MDE-12-54A
+MDE-12-55
+
+MDE-12-56
+MDE-12-57
+
+MDE-12-58
+MDE-12-59MDE-12-60
+MDE-12-61
+
+MDE-12-62
+MDE-12-63
+
+MDE-12-64
+MDE-12-65
+MDE-12-66
+
+MDE-12-67
+MDE-12-68MDE-12-69
+
+MDE-12-70
+
+MDE-12-71
+
+MDE-12-71A
+MDE-12-72
+
+MDE-12-73
+MDE-12-74
+MDE-12-75
+
+MDE-12-76
+MDE-12-77
+MDE-12-78
+
+MDE-12-79
+MDE-12-80 MDE-12-81
+
+MDE-12-82
+MDE-12-83
+
+MDW-12-44
+MDW-12-45
+
+MDX-12-07
+
+B
+-B
+
+'
+
+C-C
+'
+
+&&&
+&&&&
+&&&&
+&&&&&
+
+&&&&&&
+&&&&&&
+&&&&&
+&&&&&
+&&&&&
+&&&&
+&&&&
+&&&&&
+&&&&&
+&&&&&&
+&&&&&&
+&&&&&
+&&&&&
+
+&&&&&
+&&&&&
+&&&&&
+&&&&
+&&&&
+&&&&
+&&&
+
+&&
+&&
+&
+&
+&&
+&&
+&
+&&
+&&
+&&
+
+&
+&
+&
+&
+&&
+&&
+&
+&
+&
+&
+
+&&
+&& &
+&&&
+&&&
+&&
+&&
+&&
+
+&
+&
+&&
+&&
+&&
+
+{
+
+{
+{
+
+{
+
+{
+
+{
+
+{{ {
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I3AU
+
+I3EU
+
+S6DU
+
+V3BU
+
+I1QF
+
+I1QF
+
+SUSU
+
+SUSU
+
+I3AU
+
+V3BU
+
+V3BU
+
+I1QF
+
+SUSU
+
+I1QF
+
+I3AU
+
+I3EU
+
+I1QF
+
+I3AU
+
+I1QF
+
+I3AU
+
+Martiniere East
+
+Bug Lake Fault Zone
+
+MDE-11-01
+
+MDE-11-02
+
+MDE-11-03
+
+MDE-11-04
+MDE-11-05
+
+MDE-11-06
+
+MDE-11-07
+
+MDE-11-08
+
+MDE-11-09
+MDE-11-10
+MDE-11-11
+
+MDE-11-12MDE-11-13
+
+MDE-11-14
+
+MDE-11-16
+
+MDW-11-08 MDW-11-09
+
+1
+
+MDE-12-17
+MDE-12-18MDE-12-19
+
+MDE-12-20
+
+MDE-12-21
+MDE-12-22
+
+MDE-12-23
+MDE-12-24
+
+MDE-12-25
+MDE-12-26
+MDE-12-26A
+
+MDE-12-27
+MDE-12-28
+
+MDE-12-29
+MDE-12-30
+
+MDE-12-31
+MDE-12-32
+MDE-12-33
+
+MDE-12-34
+MDE-12-35
+MDE-12-36
+
+MDE-12-37
+MDE-12-38
+
+MDE-12-39
+
+MDE-12-40
+
+MDE-12-41
+MDE-12-42
+
+MDE-12-43
+
+MDE-12-44
+MDE-12-45
+
+MDE-12-46
+
+MDE-12-47
+
+MDE-12-48
+
+MDE-12-49
+MDE-12-50
+MDE-12-51
+MDE-12-52
+
+MDE-12-53
+
+MDE-12-54
+MDE-12-54A
+MDE-12-55
+
+MDE-12-56
+MDE-12-57
+
+MDE-12-58
+MDE-12-59MDE-12-60
+MDE-12-61
+
+MDE-12-62
+MDE-12-63
+
+MDE-12-64
+MDE-12-65
+MDE-12-66
+
+MDE-12-67
+MDE-12-68MDE-12-69
+
+MDE-12-70
+
+MDE-12-71
+
+MDE-12-71A
+MDE-12-72
+
+MDE-12-73
+MDE-12-74
+MDE-12-75
+
+MDE-12-76
+MDE-12-77
+MDE-12-78
+
+MDE-12-79
+MDE-12-80 MDE-12-81
+
+MDE-12-82
+MDE-12-83
+
+MDW-12-44
+MDW-12-45
+
+MDX-12-07
+
+B
+-B
+
+'
+
+C-C
+'
+
+6
+4
+1
+4
+0
+0
+m
+
+E
+6
+4
+1
+4
+0
+0
+m
+
+E
+
+6
+4
+1
+6
+0
+0
+m
+
+E
+6
+4
+1
+6
+0
+0
+m
+
+E
+
+6
+4
+1
+8
+0
+0
+m
+
+E
+6
+4
+1
+8
+0
+0
+m
+
+E
+
+6
+4
+2
+0
+0
+0
+m
+
+E
+6
+4
+2
+0
+0
+0
+m
+
+E
+
+6
+4
+2
+2
+0
+0
+m
+
+E
+6
+4
+2
+2
+0
+0
+m
+
+E
+
+5543400mN 5543400mN
+
+5543600mN 5543600mN
+
+5543800mN 5543800mN
+
+LEGEND
+
+I1QF: Quartz-feldspar-phyric Felsic Intrusion
+
+I3AU: Gabbro
+
+I3AM: Magnetite Gabbro
+
+I3EU: Quartz Gabbro
+
+I3EC: Coarse Grained Quartz Gabbro
+
+I3EM: Magnetite Quartz Gabbro
+
+V3BU: Basalt
+
+SUSU: Semi-Massive Sulphide
+
+S6DU: Siltstone, Argillite, Mudstone
+
+F Approximate Margins of Bug Lake Fault Zone
+&&
+&&
+
+Surface Projection of Gold Bearing Zones
+
+ 2012 Drillholes
+ 2011 Drillholes
+{ pre-2011 Drillholes
+
+Balmoral Resources Ltd.
+
+20 40m0 20
+
+Map Sheet: 32E14, 32L03
+
+Mining District: Nord-du-Quebec
+
+Projection: UTM 17 - NAD83
+
+Prov/State: Quebec
+
+Figure: 9
+
+Plot Date: 10-Jan-2013
+
+Scale
+1 : 4000
+
+East and Bug Lake Zones
+Geology and Drill Plan
+
+Martiniere Project
+
+
+
+
+
+22 
+
+ 
+
+The Martinière West area is dominated by mafic intrusive and volcanic rocks. A north-northeast-
+striking shear is centred on a multi-phase gabbroic intrusion which appears to sit along the contact between 
+mafic volcanic rocks to the north and sedimentary rocks to the south. This intrusion is composed of gabbro, 
+quartz gabbro, quartz-magnetite gabbro, magnetite gabbro and pyroxene-phyric gabbro phases, all of 
+medium to coarse grain size. In some areas it is possible to delineate distinct zones of one sub-unit of the 
+intrusion from another; however on a property scale the units form a single body. Weak to moderate shearing 
+is present over a width of 200-300 m, centred on the gabbro body, and has been traced for over 400 m along 
+strike and to a vertical depth of 320 m below the surface. This represents the Martinière West Main Zone.  
+
+Martinière East is dominated by a volcano-sedimentary sequence composed of intercalated basalts, 
+fine-grained sedimentary rocks and felsic dykes, which hosts semi-massive to massive sulphide lenses. 
+Mostly composed of pyrite, the massive sulphide lenses are characterized by more than 50% sulphides, with 
+low-grade gold and base metal content. The semi-massive sulphide units appear to dip shallowly toward the 
+southeast. Local faulting, shearing and an abundance of early and later quartz and quartz-feldspar porphyry 
+dykes are present in this area along with calcite alteration and associated gold mineralization. 
+
+The north-northwest (335°) striking, east-dipping Bug Lake Fault Zone (BLFZ) separates the 
+Martinière West area from Martinière East. The Bug Lake Fault Zone dips approximately 50 degrees to the 
+east but has a sigmoidal dip plane, and initial movement along the Bug Lake Fault Zone appears to pre-date 
+gold mineralization (Wagner, 2012). Intersections of the BLFZ during the 2012 drill program demonstrate that 
+the zone is at least 100 m wide and incorporates sheared panels of nearly every lithology seen on the 
+property, including gabbro, basalt, massive sulphide, graphitic mudstone and siltstone. The zone also hosts 
+at least two stages of felsic quartz±feldspar porphyritic dykes which appear to have intruded roughly 
+synchronously with late-stage movement along the fault and strike generally sub-parallel to it. These porphyry 
+dykes generally contain 0.5-1% disseminated pyrite and are weakly to moderately sericite-altered along 
+fracture planes. Proximal to the hanging wall of the fault and cross-cutting all other units is a coarse-grained, 
+almost fragmental, felsic dyke composed primarily of cemented quartz grains. The unit does not appear to be 
+associated in any way with mineralization, but is useful as a marker for the upper part of the BLFZ. Other 
+units of country rock incorporated within the BLFZ host varying degrees of silica, calcite, dolomite, sericite 
+and/or fuchsite alteration. In addition to the pervasive alteration found in the panels of country rock caught up 
+in the fault zone, the zone also hosts a network of quartz-calcite-dolomite±pyrite veins which cut through and 
+between the fragments caught up in the fault. Much, though not all, of the gold mineralization in the BLFZ 
+appears to be spatially associated with these veins. Movement along the fault appears to be have been 
+accomplished in a number of separate deformation events: a ductile shearing event, represented by shear 
+fabrics and foliations in basalt and gabbros; a brittle shearing event, represented by re-healed breccias 
+(typically with calcite in-fill); and a brittle faulting event, represented by broken ground, with clay coatings on 
+fracture surfaces and rare fault gouge. Overall sense of movement along the fault has been previously 
+interpreted to be sinistral, thereby exposing a deeper section of the overall sequence to the west of the fault 
+(Rabayrol, 2011a).  
+
+7.4 Property Mineralization 
+
+Mineralization on the Martinière property (Figure 6) is only known through drilling, which has tested 
+only a relatively small area. Areas of known mineralization can be divided into Martinière West (Figure 8), 
+Bug Lake (Figure 9) and Martinière East (Figure 9), each with distinct styles of lithology, structure, and 
+mineralization. Known gold mineralization at Martinière is localized along shear zones which appear to be 
+subordinate structures to the main Sunday Lake Deformation Zone (SLDZ), which trends generally east-west 
+and forms the contact between the Matagami and Manthet domains.  
+
+The overall characteristics of mineralization on the Martinière property are consistent with structurally-
+controlled orogenic gold, with variations in vein and alteration mineralogy at different zones of the property.  
+
+
+
+23 
+
+ 
+
+7.4.1 Martinière West 
+
+The Martinière West Main Zone (Figure 8) is marked by moderate shearing associated with moderate 
+to strong silicification and sulphide mineralization. A strongly silicified central core is bounded by several less-
+developed structures in the footwall and hanging wall that locally contain significant gold mineralization. 
+Anomalous gold mineralization typically occurs over intervals of 20-70 m surrounding the high-grade core of 
+the system, which ranges from just over one m to over 22 m in width. High-grade gold mineralization is 
+typically associated with strong silicification, 5-20% disseminated sulphide mineralization (pyrite-arsenopyrite-
+chalcopyrite), with very high-grade intervals hosting very fine-grained visible gold. 
+
+A number of vein sets are associated with the shearing and mineralization in the main zone. Of 
+greatest importance from an exploration perspective is a set of quartz + dolomite ± pyrite ± tourmaline ± 
+arsenopyrite ± chalcopyrite veins, most likely derived from the same fluid flow event which produced the silica 
+alteration described above. Well developed examples of these veins are good indicators of good gold grade. 
+Separate from these are a late-stage set of quartz + dolomite veins which cross-cut all other structures and 
+appear to be devoid of mineralization. It is also possible to find quartz + tourmaline veins with no dolomite or 
+pyrite, which appear to have no connection to gold enrichment. More distal to the main shear zone are 
+distinct sets of calcite + magnetite + pyrite and calcite + pyrite veins which do not appear to have an 
+association with gold. 
+
+Mineralization in the Martinière West zone is generally characterized by white to cream, banded, 
+multiphase quartz-dolomite-calcite±pyrite±tourmaline veining with associated alteration of the surrounding 
+host rocks. True thicknesses of these veins can reach up to several dozen cm, with broad zones of 
+mineralization composed of one or several 5 to 40 cm thick quartz-dolomite-calcite veins. These zones 
+typically possess a silica and/or sericite alteration halo and show weak to moderate shearing. Pyrite content 
+can reach up to 15% in the core of the mineralized zones, and typically serves as an indicator for the 
+approximate distance of any mineralized intersections from the core of the mineralized zone. Arsenopyrite-
+rich zones can also be present within these alteration halos and are typically found along the margins of 
+quartz-dolomite-calcite veins. Chalcopyrite and sphalerite are locally present in mineralized zones and are 
+generally indicative of a local gold grade in excess of several grams per ton. The average thickness of these 
+mineralized shear zones varies between 1-5 m, with average gold grades between 5 and 25 g/t Au. Very high 
+grade Au intervals (>100 g/t Au) are common within the veins themselves (Rabayrol, 2011b).  
+
+ 
+Plate 1: Coarse arsenopyrite blebs along quartz vein margin at ~254 m in hole MDW-12-55 (Martinière 
+West). 
+
+
+
+24 
+
+ 
+
+7.4.2 Martinière East 
+
+Martinière East is dominantly composed of intercalated basalts and felsic dykes which host semi-
+massive to massive sulphide lenses (Figure 9). Mostly composed of pyrite, the massive sulphide lenses are 
+characterized by more than 50% sulphides, with low-grade gold and base metal content. Drilling indicates the 
+presence of a northeast-trending corridor of shearing, carbonate alteration, and gold mineralization 
+approximately 300 m east of the Bug Lake Fault Zone, including 11.28 g/t gold over 9.30 m in MDE-12-20. 
+Orientation of mineralization within this corridor is not yet clear. 
+
+As with all known mineralization on the Martinière property, gold enrichment at Martinière East 
+appears to be primarily structurally-controlled. Alteration within the zones is dominantly calcite and dolomite, 
+with localized minor silica and/or sericite accompaniment. There is a weak association between gold-bearing 
+zones and the quartz-feldspar porphyry dyke system, such that good gold grades are often (though not 
+exclusively) found in highly altered/sheared basalt on the margins of these dykes. The massive sulphide unit 
+does not appear to host significant gold or base metal values, and does not have a significant spatial 
+association with later gold mineralization.  
+
+7.4.3 Bug Lake Fault Zone (BLFZ) and Footwall Zone 
+
+Significant gold-bearing mineralization has recently been discovered within and surrounding the Bug 
+Lake Fault Zone (BLFZ) (Figure 9). Mineralization within the BLFZ is primarily concentrated within well 
+developed quartz-dolomite-calcite-pyrite veins or in sheared and altered country rock, and often on the 
+margins of quartz ± feldspar porphyry intrusions. Pyrite concentration in the veins or sheared panels of 
+country rock is a good indication of gold mineralization, and there appears to be a weak correlation between 
+the two. Pyrite is generally fine-grained and partially defines a shear fabric. Accessory minerals (tourmaline, 
+tellurides, arsenopyrite, chalcopyrite, galena and sphalerite) and alteration styles apart from silica-carbonate 
+(fuchsite and sericite primarily) are locally present but do not necessarily accompany significant gold grades. 
+Away from discrete veins and strongly altered panels of country rock, the BLFZ often hosts anomalous gold 
+values (0.1-1 g/t), whereas within them grade can range up to >100 g/t Au, with visible gold often found in the 
+extremely high-grade zones. The fault zone appears to have a "ramp-flat" morphology, with some sections 
+appearing quite steep and others dipping quite shallowly (all towards the east). Though good gold 
+mineralization can be present anywhere within the structure, they appear to be better developed in the 
+steeper sections of the fault (i.e, the "ramps" as opposed to the "flats"). These "ramps" would seem to be the 
+sections of the fault which allowed greater fluid flow, allowing access for both auriferous fluids and the small 
+QFP intrusions dykes. There may even be a connection between the gold-bearing hydrothermal fluids and 
+the dykes themselves.  
+
+ 
+Plate 2: Visible gold occurring on the edge of a calcite + pyrite + dolomite vein hosted within moderately 
+sheared, calcite-altered, pyritic basalt @ ~84 m in MDE-12-70 (BLFZ). 
+
+
+
+25 
+
+ 
+
+ 
+Plate 3: Unidentified grey metallic mineral (telluride?) hosted in quartz-dolomite-tourmaline vein at ~117 
+m in hole MDE-12-74 (BLFZ). 
+ 
+
+The style of this mineralization is similar to that of the Martinière West Main Zone, with some key 
+differences. From a mineralogical perspective, the primary difference is the relative paucity of silica and 
+abundance of dolomite-calcite alteration. At Martinière West, the strongest indicator of gold mineralization is 
+the presence of silica alteration surrounding the mineralized structures whereas in the Martinière East and 
+Bug Lake areas, silica alteration (though still generally present) is subordinate to carbonate (both dolomite 
+and calcite). There is also a distinct lack of close association between non-pyrite sulphides and gold 
+abundance; high-grade gold is rarely found at Martinière West without arsenopyrite, whereas in other zones 
+this connection does not seem to hold. Gold mineralization in the Bug Lake Fault Zone can therefore be 
+described best as being hosted by discrete zones of dolomite-calcite±quartz alteration and veining within the 
+larger Bug Lake shear corridor. Though much of the BLFZ is enriched in gold above background levels (>0.1 
+g/t Au), high-grade mineralization appears to be concentrated in discrete lenses and ore shoots, favouring but 
+not exclusively confined to veining and alteration within mafic hosts rocks (i.e. gabbro and basalt) at the 
+expense of sedimentary and felsic units. 
+
+In the footwall of the Bug Lake Fault Zone is the appropriately named Footwall Zone, discovered in 
+2012 and hosting exceptionally high gold grades. The Footwall Zone is marked by relatively narrow (0.5-2 m 
+true thickness) discrete shears within a zone of weakly deformed gabbro, defined by wispy banding of pyrite, 
+calcite, very fine-grained silica and (locally) an indeterminate red-coloured mineral (possibly hematite). 
+Though it shows a general sense of orientation the shear fabric does not define well-formed bands, instead 
+presenting a highly anastamosing and wispy appearance.  This appearance, and the limited continuity of 
+footwall mineralization, may indicate that the Footwall Zone is actually a collection of individual discontinuous 
+zones of high deformation within the weakly deformed footwall of the BLFZ.  This package of gold-bearing 
+shear zones is mantled by a weakly gold-bearing halo of several percent pyrite within the surrounding 
+gabbro, itself a marker of the overall footwall to the BLFZ. Gold grade within Footwall mineralization can be 
+extremely high, ranging up to 1,200 g/t Au and generally in the ten to hundreds of grams per tonne gold 
+(albeit over relatively narrow widths).  
+
+
+
+26 
+
+ 
+
+ 
+Plate 4: Visible gold at ~170.5 m of hole MDE-12-29 (Footwall Zone). 
+
+ 
+Plate 5: Visible gold in sheared quartz gabbro at ~67.5 m of hole MDE-12-80 (Footwall Zone). 
+
+ 
+
+To the east of the Bug Lake Fault Zone are a number of apparently isolated shear zones within the 
+basalt sequence which host discrete intervals of high-grade gold mineralization (>100 g/t Au). The style of 
+mineralization in these zones is similar to that of the BLFZ, though the structure and host rocks of the 
+individual zones appear to impart some unique characteristics. The highest grade gold zones are typically 
+found on the margins of quartz-feldspar porphyry dykes and quartz-dolomite veins which typically cut sheared 
+and altered basalt. Alteration style is variable but can include brown or purple sericite overprinting by calcite 
+and silica with localized pyrite banding. Mineralogy of the veins themselves is also highly variable, locally 
+including pyrite, arsenopyrite, chalcopyrite, tourmaline and possible tellurides. Though the mineralization east 
+of the BLFZ has yet to be linked up into a cohesive single corridor similar to the Martinière West Main Zone or 
+the Footwall Zone, this may be due to the fact that much of the drilling in the area has been oriented sub-
+parallel to the strike of the BLFZ.  
+
+
+
+27 
+
+ 
+
+8.0 DEPOSIT TYPES 
+
+Exploration on the Martinière property has been focused on discovering and delineating greenstone-
+hosted orogenic gold mineralization, whose name reflects a recognition that these deposits have temporal 
+and spatial associations with late stages of orogenesis (Dubé and Gosselin, 2007; Goldfarb et al., 2005; 
+Goldfarb et al., 2001; Groves et al., 1998). This very important category includes some of the largest gold 
+deposits and districts in the world (e.g. Kalgoorlie in Australia, Timmins in Ontario and Ashanti in Ghana). 
+Formation of orogenic gold mineralization was concentrated during the time intervals of 2.8 to 2.55 Ga 
+(Archean), 2.1 to 1.8 Ga (Early Proterozoic) and 600 to 50 Ma (Phanerozoic). A very important sub-type of 
+orogenic gold deposits is dominantly hosted by mafic metamorphic rocks in granite-greenstone terranes, and 
+are referred to here as greenstone-hosted orogenic gold deposits.   
+
+Greenstone-hosted orogenic gold deposits are structurally controlled, complex epigenetic deposits 
+that are hosted in deformed and regionally metamorphosed terranes. They consist of simple to complex 
+networks of gold-bearing, laminated quartz-carbonate fault-fill veins in moderately to steeply dipping, 
+compressional brittle-ductile shear zones and faults, with locally associated extensional veins and 
+hydrothermal breccias. They are dominantly hosted by mafic metamorphic rocks of greenschist to locally 
+lower amphibolites facies and formed at intermediate depths (5-10 km). The relative timing of mineralization 
+is syn- to late-deformation and typically post-peak greenschist-facies or syn-peak amphibolite facies 
+metamorphism. They are formed from low salinity, H2O-CO2-rich hydrothermal fluids with typically anomalous 
+concentrations of CH4, N2, K, and S. Gold is mainly confined to the quartz-carbonate vein networks but may 
+also be present in significant amounts within iron-rich sulphidized wall rock.  
+
+Greenstone-hosted orogenic gold deposits were formed during compressional to transpressional 
+deformation processes at convergent plate margins in accretionary and collisional orogens. Orogenic Au 
+systems are typically associated with deep-crustal fault zones, which show complex structural histories and 
+may extend along strike for hundreds of kilometres with widths of as much as a few thousand metres. These 
+faults commonly mark the convergent margins between major lithological boundaries, such as volcano-
+plutonic and sedimentary domains. The large greenstone-hosted orogenic gold deposits are commonly 
+spatially associated with fluvio-alluvial conglomerate (e.g. Timiskaming conglomerate) distributed along these 
+crustal fault zones (e.g. Destor Porcupine Fault). As a result, Dubé and Gosselin (2007) infer an empirical 
+time and space relationship between large-scale deposits and regional unconformities.  
+
+Large gold camps are commonly associated with curvatures, flexures, and dilational jogs along major 
+compressional fault zones which have created dilational zones that allowed migration of hydrothermal fluids. 
+Ores formed as vein fill of second- and third-order compressional reverse-oblique to oblique brittle-ductile 
+high-angle shear and high-strain zones, which are commonly located within 5 km of the first order fault and 
+are best developed in its hanging wall. Ore shoots can be localized by dilational jogs or various intersections 
+between a structural element (e.g. a fault, shear or vein) and a favourable lithological unit, such as a 
+competent gabbroic sill, a dyke, an iron formation, or a particularly reactive rock, or by the intersection 
+between different structural elements active at the time of vein formation. Individual vein thickness varies 
+from a few centimetres to over 10 metres, although entire deposits may be wider than 1 km and extend along 
+strike for as much as 2 to 5 km. The vertical extent of orebodies is commonly greater than 1 km and some 
+deposits have been economically mined to depths of 1 to 3 km.  
+
+The veins in greenstone-hosted orogenic gold deposits are hosted by a wide variety of rock types; 
+mafic and ultramafic volcanic rocks and competent iron-rich differentiated tholeiitic gabbroic sills and granitoid 
+intrusions are common hosts. In each district, there may be lithological units which serve as better chemical 
+and/or structural traps for the mineralizing fluids and form preferential hosts. 
+
+The main gangue minerals are quartz and carbonate (calcite, dolomite, ankerite, and siderite), with 
+variable amounts of white micas, chlorite, tourmaline, and locally scheelite. Sulphide minerals typically 
+constitute less than 5 to 10% of the volume of the orebodies. The main ore minerals are native gold with, in 
+decreasing amounts, pyrite, pyrrhotite, and chalcopyrite and occur without any significant vertical mineral 
+zoning. Arsenopyrite commonly represents the main sulphide in amphibolite-facies rocks and in deposits 
+hosted by clastic sediments. Trace amounts of molybdenite and tellurides are present in some deposits. 
+
+
+
+28 
+
+ 
+
+Typically, the proximal alteration haloes are zoned and characterized, in rocks at greenschist facies, 
+by iron-carbonatization and sericitization, with sulphidation of the immediate vein selvages (mainly pyrite, less 
+commonly arsenopyrite).  Further away from the vein, alteration is characterized by various amounts of 
+chlorite and calcite, and locally magnetite. The dimensions of the alteration haloes vary with the composition 
+of the host rocks and may envelope entire deposits hosted by mafic and ultramafic rocks. Pervasive 
+chromium- or vanadium-rich green micas (fuchsite and roscoelite) and ankerite with zones of quartz-
+carbonate stockworks are common in sheared ultramafic rocks. Common hydrothermal alteration 
+assemblages that are associated with gold mineralization in amphibolite-facies rocks include biotite, 
+amphibole, pyrite, pyrrhotite, and arsenopyrite, and, at higher grades, biotite/phlogopite, diopside, garnet, 
+pyrrhotite and/or arsenopyrite, with variable proportions of feldspar, calcite, and clinozoisite. The variations in 
+alteration styles have been interpreted as a direct reflection of the depth of formation of the deposits (Dubé 
+and Gosselin, 2007). 
+
+9.0 EXPLORATION 
+
+Since its acquisition in November 2010, Balmoral's exploration of the Martinière property has 
+consisted almost entirely of diamond drilling, which is discussed in Section 10.0. However, Balmoral also 
+carried out induced polarization and helicopter-borne magnetic/electromagnetic surveys in 2011 and soil 
+sampling in 2012. 
+
+9.1 Geochemistry 
+
+In 2012, Balmoral collected 864 soil samples from the Martinière property, not including an additional 
+8% taken for QA/QC purposes (blanks and duplicates). Of these, 518 were taken from mineral soil (B/C 
+horizon) and 346 were organic material taken from the Om horizon. Mineral soil was sent to SGS Minerals in 
+Toronto, ON for the 53-element analysis by the Mobile Metal Ion (SGS code MMI-M5) analysis technique. 
+Organic material was sent to Acme Labs in Vancouver, BC for 53-element (including gold, silver and base 
+metals) ultratrace analysis by ICP mass spectrometry (Acme code 1F05). 
+
+The raw geochemical data does not indicate significant anomalies for gold or any of its associated 
+metallic elements. However, given the depth of glacial overburden across the property, it is unlikely that soil 
+samples would directly reflect bedrock mineralization either through physical abrasion or groundwater 
+transportation. A more sophisticated interpretation of results, based on electrochemical diffusion, has not yet 
+been completed for the 2012 soil geochemistry. 
+
+9.2 Airborne Magnetic/Electromagnetic Geophysics 
+
+In the fall of 2011, Balmoral contracted Geotech Ltd. of Aurora, Ontario to fly a helicopter-borne 
+Versatile Time Domain Electromagnetic (VTEM) and horizontal magnetic gradiometer survey over the entire 
+Martinière property and the Harry property immediately to the east (Fiset et al., 2011). A total of 1216 line-km 
+was flown, of which about half was flown on the Martinière property, with N-S lines spaced 100 metres apart 
+and E-W tie lines spaced 1000 metres apart. 
+
+The magnetic survey allows some stratigraphic and structural extrapolation away from the small parts 
+of the Martinière property with geological information gleaned from drilling and rare outcrops. Figure 10 
+presents the total horizontal magnetic gradient, which is useful for mapping contacts between magnetic and 
+non-magnetic units and interpreting structural breaks. The multi-phase gabbroic intrusion in the Martinière 
+West area is well marked by the northeast grain of the magnetic gradient, as is its contact with the 
+magnetically flat clastic rocks to its south. The Bug Lake Fault Zone (BLFZ) is only weakly apparent as the 
+truncation of the magnetic expression of the gabbro body. Martinière East is characterized by a weaker 
+magnetic signature which appears unrelated to lithologies or the zones of massive to semi-massive pyrite. 
+Mineralized structures are not apparent from the airborne magnetics. 
+
+
+
+
+
+
+
+31 
+
+ 
+
+The VTEM survey showed the property to be covered by conductive overburden. However, the survey 
+showed four distinct conductive zones, two of which are on the Martinière property (Figure 11). One of these 
+straddles its eastern boundary and has not been drilled on the Martinière property. The other conductive zone 
+measures approximately two kilometres in diameter, with a distinct northeasterly grain in its northerly portion 
+corresponding to the package of siltstone, argillite and mudstone immediately south of the gabbroic intrusion 
+which hosts the Martinière West gold mineralization. The conductivity may be related to graphitic or pyritic 
+content of the clastic rocks. The Martinière West and Bug Lake zones are within the northern fringes of this 
+conductive zone and the Martinière East zone is immediately to the east. 
+
+9.3 Induced Polarization Geophysics 
+
+In April, 2011 Peter E. Walcott & Associates Ltd. ("Walcott") of Vancouver, British Columbia carried 
+out a 19.5 line-kilometre ground induced polarization ("IP")/resistivity survey over a portion of the Martinière 
+property, under contract to Balmoral. The grid was located over Martinière West and Martinière East with the 
+intention of characterizing and extending mineralized zones. Walcott surveyed 21 northwest-trending lines 
+spaced 100-200 metres apart and one northeast-trending tie line, with dipole spacing ("a") of 50 m expanded 
+through twelve separations (n=1-12). In addition, Walcott completed both 2D and 3D chargeability and 
+resistivity inversions using Geotomo RES2DINV & RES3DINV algorithms, respectively (Walcott and Walcott, 
+2011).  
+
+Figure 12 shows the modeled (inverted) chargeability at 75 metres below surface. As such, it is fairly 
+comparable to the geology interpolated between drill holes at 200 metres elevation (50-60 metres below 
+surface) shown in Figure 7. The units of basalt-hosted semi-massive pyrite which trend northerly within and to 
+the east of the Bug Lake Fault Zone are marked by a prominent chargeability high (>10mV/V); the weakening 
+of the chargeability high to the north of drilling indicates that the semi-massive unit does not likely extend 
+much further north beyond the limits of current drilling. The chargeability high continues to the southwest 
+across the Bug Lake Fault Zone; current thinking suggests that the semi-massive sulphides should not 
+continue past the western edge of the fault zone, so the source of this portion of the chargeability high cannot 
+be ascribed to them. Two reconnaissance holes in this area (MDX-12-01 and MDX-12-07) intersected 
+graphitic mudstones intercalated with basalt in this area; the chargeability high probably reflects the graphite. 
+Further west, spotty chargeability highs are associated with the sedimentary unit of siltstone, argillite and 
+mudstone; like the VTEM conductive zone, these may reflect graphitic or pyritic concentrations. 
+
+Gold mineralization in the Martinière West and East zones is located within a fringe of weak to 
+moderate chargeability (5-10 mV/V); Bug Lake's signature might be similar but is overpowered by the higher 
+chargeabilities associated with the semi-massive pyrite unit. This may reflect the widespread presence of low 
+sulphide contents accompanying gold mineralization. 
+
+Modeled (inverted) resistivity at 75 metres below surface is shown in Figure 13. Most prominent is a 
+strong resistivity low (<300 ohm-m) on the south side of the grid. This generally corresponds to the clastic 
+sedimentary unit of siltstone, argillite and mudstone, again suggesting a graphitic content. The fine clastic 
+rocks, as marked by the strong resistivity low, are clearly truncated to the northeast by the Bug Lake Fault 
+Zone (BLFZ). A band of slightly higher resistivity extends northerly through the BLFZ and to the east of the 
+BLFZ, roughly marking out the basalt-hosted semi-massive pyrite units. The gabbroic intrusion which hosts 
+Martinière West mineralization is characterized by higher resistivities, in the range of 1400-3000 ohm-m. 
+Again, the BLFZ neatly truncates the northeastern end of the Martinière West gabbro and its associated band 
+of higher resistivity. 
+
+10.0 DRILLING 
+
+Balmoral has drilled 34,165 metres of core on the Martinière property since acquiring it in November 
+2010. Drilling was carried out in five separate campaigns, during the winter and summer of 2011 and the 
+winter, summer and fall of 2012. Appendix C lists collar location, collar orientation and length for all holes on 
+the Martinière property. 
+
+
+
+
+
+
+
+34 
+
+ 
+
+The 2011 drill programs consisted of 65 NQ holes totalling 13,757.28 metres, of which 16 holes 
+(4,243.99 m) were drilled at Martinière East and 49 holes (9,513.29 m) at Martinière West. Landdrill 
+International Ltd. of Moncton, New Brunswick carried out the drilling under the management of Caracle Creek 
+International Consulting Inc. of Sudbury, Ontario. All drill holes were surveyed and sampled. A Reflex 
+downhole survey was performed at 30 m intervals. Drill casing was removed upon hole completion. 
+Overburden depth varied between 15 and 50 m. The average core recovery was between 95 and 100%. A 
+total of 10,521 samples were collected plus 1,263 QA/QC samples, consisting of 611 blanks, 585 standards 
+and 67 duplicates (Peshkepia and Silvester, 2011). 
+
+Core from the 2011 drilling was placed in routered wooden core trays at the drill site, labelled with the 
+hole and box number (e.g. MDW-11-01 Bx 1), sealed with a lid and strapped with wire. The core was 
+transported daily from the drill site via helicopter by Expedition Helicopters to Balmoral's 2011 core facility at 
+Camp Fenelon where all logging and sampling took place. It was then logged geotechnically and 
+geologically, samples were laid out and core was moistened and photographed. Where sampled, core was 
+sawn in half with a diamond-bladed core saw, with one half submitted for analysis and the remainder retained 
+for reference. Core boxes were labelled with aluminum tags indicating the hole number and the core interval 
+stored in each box, and were stored at Fenelon Mine and Camp Fenelon. Samples were collected from all 
+mineralized zones intersected in drilling and from their immediate hanging walls and footwalls. On average, 
+>90% of 2011 core was sampled, generally in 1.0 m intervals, but with sample lengths ranging from 0.22 m to 
+1.5 m (Peshkepia and Silvester, 2011). 
+
+The 2012 drill programs consisted of 105 NQ holes totalling 20,407.50 metres. Of these, 70 holes 
+(12,297.06 m) were drilled at Martinière East, including those directed at the Bug Lake Zone and three that 
+had to be re-drilled because of excessive deviation or drilling difficulties. Another 27 holes (6,164.26 m) were 
+drilled at Martinière West, including 6 that had to be re-drilled, 7 holes (1,846.18 m) were directed at outside 
+geophysical targets, including one that had to be re-drilled, and one hole (100 m) was drilled at the Martinière 
+camp primarily as a source of water for the camp. The winter (January – April) 2012 drilling was carried out 
+under contract by George Downing Estate Drilling Ltd. of Grenville-sur-la-Rouge, Québec, using two LF-70 
+drills. The summer (June - August) and fall (October) 2012 drilling was contracted to Norex Drilling Ltd. of 
+Porcupine, Ontario who used one or two JKS Boyles BBS-37 drills. The 2012 drill programs were managed 
+by Equity Exploration Consultants Ltd.  
+
+All holes were surveyed with a Reflex EZShot downhole tool during drilling, and holes drilled at 
+Martinière West were surveyed with a Reflex Gyro downhole survey tool after completion. Casing was left in 
+the majority of holes, as noted in the drill logs. Location, trend and plunge of drill hole collars were surveyed 
+by Corriveau J. L. & Associés Inc. of Val d'Or, using a Leica RTK GPS system. Overburden depth averaged 
+25 metres for Martinière East within a range of 12-52 metres. For Martinière West, overburden depth 
+averaged 17 metres, within a range of 8-44 metres. Core recovery averaged 99% for both Martinière East 
+and Martinière West. Rock quality designation (RQD), a measurement of rock competency, averaged 88% for 
+Martinière East and 94% for Martinière West. A total of 15,903 samples were collected in 2012 from core plus 
+another 2,869 QA/QC samples, consisting of 992 blanks, 948 standards, 463 preparation duplicates and 466 
+field (core) duplicates. Samples were collected from all mineralized zones intersected in drilling and from their 
+immediate hanging walls and footwalls. On average, 86% of 2012 core was sampled, generally in 1.5 m 
+intervals, but with sample lengths ranging from 0.15 m to 3.0 m.  
+
+Core from the 2012 drilling was placed in routered wooden core trays at the drill site, labelled with the 
+hole and box number (e.g. MDE-12-64 Bx 1), sealed with a lid and strapped with fibre tape. The core was 
+transported daily from the drill site via helicopter by Expedition Helicopters to either Camp Fenelon (start of 
+the winter program) or Martinière Camp (all but the first hole of the winter program and all of the summer and 
+fall programs) where all core processing took place. It was then logged geotechnically and geologically, 
+magnetic susceptibility measurements were recorded at 3 m intervals, samples were laid out and core was 
+moistened and photographed. Where sampled, core was sawn in half with a diamond-bladed core saw, with 
+one half submitted for analysis and the remainder retained for reference. Field duplicates were collected as a 
+quarter-core sample from the same interval as the half-core sample, leaving a quarter core in the box for 
+reference. Core boxes were labelled with aluminum tags indicating the hole number and the core interval 
+within each box, and were stored at Camp Fenelon (hole MDW-12-44) or Martinière Camp (all other holes).  
+
+
+
+35 
+
+ 
+
+There were no drilling, sampling, or recovery factors reported from the 2011 or 2012 drill programs 
+that could materially impact the accuracy and reliability of the results. 
+
+10.1 Martinière West Drilling 
+
+The majority of the holes drilled in the Martinière West area in 2011 and 2012 intersected at least 
+some degree of gold enrichment. Drilling shows that the Main Zone at Martinière West has significant lateral 
+and vertical extent, striking roughly 020-030° (200-210°) with a steep dip (averaging ~70-80°) towards the 
+northwest (Figure 8). It has been traced along strike for 400 metres and to a maximum depth of 345 metres 
+below surface.  
+
+The Martinière West Main Zone is not a continuous mineralized zone, but a concentration of narrower 
+mineralized shears and veins. At its thickest, the Main Zone has a horizontal width of 120 metres or more, 
+although individual shears and veins are in the order of tens of centimetres to a few metres wide. Some of the 
+shears can be traced a considerable distance along strike and vertically, but gold grades can vary by an 
+order of magnitude between closely spaced intersections on what appears to be the same structure. 
+
+Drilling has shown the Main Zone becomes weaker and appears to pinch out to the north. The 
+northernmost section with significant mineralization contains holes MDW-12-51 and -52, which intersected 
+narrower widths of mineralized shears and lower grades than further south; their best intersection was 2.21 
+metres @ 4.85 g/t Au (MDW-12-51.) The southernmost section drilled across the Martinière West Main Zone 
+(Figure 14) revealed significant mineralization (MDW-12-64A: 7.48 metres @ 3.62 g/t Au) at 345 metres 
+vertically below surface, as well as scattered gold-bearing shears and veins further up-hole over a horizontal 
+extent of 160 metres. This is both the southernmost and the deepest test of the Martinière West Main Zone, 
+suggesting potential in these directions. 
+
+Tables 3 and 4 summarize significant drill intersections from the 2011 and 2012 drill programs for 
+Martinière West (Perk et al., 2013; Perk et al., 2012). Higher-grade sub-intervals have been included where 
+they significantly influence longer intervals. True widths of intersections are estimated to be 35-80% of core 
+lengths. 
+
+Table 3: 2011 Martinière West Significant Intersections 
+
+Hole ID From (m) To (m) Length (m) Au (g/t) 
+
+MDW-11-01 106.00 118.00 12.00 12.88 
+
+including 107.75 113.00 5.25 25.32 
+
+146.00 151.25 5.25 4.44 
+
+including 147.50 150.00 2.50 7.05 
+
+and 148.00 149.00 1.00 10.4 
+
+158.00 158.50 0.50 10.55 
+
+MDW-11-02 160.85 161.35 0.50 8.02 
+
+MDW-11-03 214.00 214.43 0.43 6.81 
+
+MDW-11-04 80.28 100.68 20.40 8.84 
+
+including 85.77 86.20 0.43 176.50 
+
+and 89.00 89.30 0.30 21.00 
+
+93.75 100.68 6.93 10.58 
+
+including 94.50 100.68 6.18 11.68 
+
+and 95.63 98.46 2.83 20.99 
+
+170.15 170.71 0.56 9.36 
+ 
+
+
+
+I
+II
+II
+II
+I
+I
+II
+II
+II
+II
+
+II
+II
+II
+II
+I
+II
+II
+II
+I
+I
+I
+II
+II
+II
+II
+III
+III
+III
+III
+III
+IIII
+IIII
+III
+I I
+I I
+I I
+I I
+
+I
+I
+
+II
+II
+I
+I
+I
+I
+I
+I
+I
+I
+II
+I
+I
+I
+I
+
+I
+II
+II
+II
+
+I
+II
+III
+III
+II
+II
+II
+II
+II
+I
+I
+I
+
+II
+II
+I
+
+I
+I
+I
+I
+I
+I
+
+{ {
+
+
+
+
+I3EU
+
+I3AP
+
+I3EU
+
+MTUN
+
+I3AU
+
+I3AU
+
+V3BU
+
+S6DG
+M
+
+D
+-0
+
+6
+-0
+
+5
+125
+
+150
+
+175
+
+M
+D
+-0
+
+7
+-1
+
+1
+
+200
+
+225
+M
+
+D
+-0
+
+7
+-1
+
+2
+
+25
+
+50
+
+75
+
+M
+D
+-0
+
+7
+-1
+
+3
+M
+
+D
+-0
+
+7
+-1
+
+7
+
+25
+
+50
+
+75
+
+100
+
+M
+D
+W
+
+-1
+1
+-0
+
+6
+
+50
+
+75
+
+100
+
+M
+D
+W
+
+-1
+1
+-0
+
+7
+
+100
+
+125
+
+150
+
+M
+D
+W
+
+-1
+1-
+
+10
+
+225
+
+250
+
+M
+D
+W
+
+-1
+2-
+
+48
+
+M
+D
+W
+-12-63
+
+M
+D
+W
+
+-12-63A
+
+M
+D
+W
+
+-12-64
+
+M
+D
+W
+
+-12-64A
+
+I
+II
+II
+II
+I
+I
+II
+II
+II
+II
+
+II
+II
+II
+II
+I
+II
+II
+II
+I
+I
+I
+II
+II
+II
+II
+III
+III
+III
+III
+III
+IIII
+IIII
+III
+I I
+I I
+I I
+I I
+
+I
+I
+
+II
+II
+I
+I
+I
+I
+I
+I
+I
+I
+II
+I
+I
+I
+I
+
+I
+II
+II
+II
+
+I
+II
+III
+III
+II
+II
+II
+II
+II
+I
+I
+I
+
+II
+II
+I
+
+I
+I
+I
+I
+I
+I
+
+{ {
+
+
+
+
+I3EU
+
+I3AP
+
+I3EU
+
+MTUN
+
+I3AU
+
+I3AU
+
+V3BU
+
+S6DG
+M
+
+D
+-0
+
+6
+-0
+
+5
+125
+
+150
+
+175
+
+M
+D
+-0
+
+7
+-1
+
+1
+
+200
+
+225
+M
+
+D
+-0
+
+7
+-1
+
+2
+
+25
+
+50
+
+75
+
+M
+D
+-0
+
+7
+-1
+
+3
+M
+
+D
+-0
+
+7
+-1
+
+7
+
+25
+
+50
+
+75
+
+100
+
+M
+D
+W
+
+-1
+1
+-0
+
+6
+
+50
+
+75
+
+100
+
+M
+D
+W
+
+-1
+1
+-0
+
+7
+
+100
+
+125
+
+150
+
+M
+D
+W
+
+-1
+1-
+
+10
+
+225
+
+250
+
+M
+D
+W
+
+-1
+2-
+
+48
+
+M
+D
+W
+-12-63
+
+M
+D
+W
+
+-12-63A
+
+M
+D
+W
+
+-12-64
+
+M
+D
+W
+
+-12-64A
+
+6
+4
+0
+8
+0
+0
+m
+
+E
+6
+4
+0
+8
+0
+0
+m
+
+E
+
+6
+4
+0
+9
+0
+0
+m
+
+E
+6
+4
+0
+9
+0
+0
+m
+
+E
+
+6
+4
+1
+0
+0
+0
+m
+
+E
+6
+4
+1
+0
+0
+0
+m
+
+E
+
+6
+4
+1
+1
+0
+0
+m
+
+E
+6
+4
+1
+1
+0
+0
+m
+
+E
+
+6
+4
+1
+2
+0
+0
+m
+
+E
+6
+4
+1
+2
+0
+0
+m
+
+E
+
+6
+4
+1
+3
+0
+0
+m
+
+E
+6
+4
+1
+3
+0
+0
+m
+
+E
+
+5
+5
+4
+3
+0
+0
+0
+m
+
+N
+5
+5
+4
+3
+0
+0
+0
+m
+
+N
+
+5
+5
+4
+3
+1
+0
+0
+m
+
+N
+5
+5
+4
+3
+1
+0
+0
+m
+
+N
+
+-100m -100m
+
+0m 0m
+
+100m 100m
+
+200m 200m
+
+300m 300m
+
+LEGEND
+
+I1QF: Quartz-feldspar-phyric Felsic Intrusion
+
+I1QP:  Feldspar-phyric Felsic Intrusion
+
+I3AU: Gabbro
+
+I3EU: Quartz Gabbro
+
+I3EM: Magnetite Quartz Gabbro
+
+I3AP: Pyroxene-bearing Gabbro
+
+I2ID: Intermediate Intrusions
+
+I3ID: Mafic Dyke
+
+V3BU: Basalt
+
+SZUN: Shear Zone
+
+SUSU: Semi-Massive Sulphide
+
+SUMU: Massive Sulphide
+
+S6AU | S6DG: Graphitic Mudstone, Argillite
+
+22 BXPU: Polymictic Breccia
+MTUN |  UNKN: Overburden, Unknown
+
+III
+III
+
+Interpreted Trace of Mineralized Shear
+
+Au ppm  1cm = 12.5 g/t, cutoff at 20 g/t
+
+Balmoral Resources Ltd.
+
+20 40m0 20
+
+Map Sheet: 32L02/32L03
+
+Mining District: Nord-du-Quebec
+
+Projection: UTM 17 - NAD83
+
+Prov/State: QC
+
+Figure: 14
+
+Plot Date: 09-Jan-2013
+
+Scale
+1 : 2500
+
+Martiniere West
+Section A-A'
+Looking 018°
++20 m/-20 m
+
+Martiniere Project
+
+
+
+37 
+
+ 
+
+Table 3: 2011 Martinière West Significant Intersections (continued) 
+
+Hole ID From (m) To (m) Length (m) Au (g/t) 
+
+MDW-11-05 185.00 185.35 0.35 5.23 
+
+212.00 212.32 0.32 9.52 
+
+MDW-11-07 129.94 130.34 0.40 14.75 
+
+133.37 134.60 1.23 7.53 
+
+MDW-11-08 138.00 138.43 0.43 13.55 
+
+MDW-11-10 229.87 230.65 0.78 103.00 
+
+MDW-11-12 124.70 125.50 0.80 6.79 
+
+MDW-11-13 127.50 128.00 0.50 5.98 
+
+MDW-11-14 68.75 79.15 10.40 7.44 
+
+including 75.00 75.85 0.85 68.15 
+
+ 91.80 92.70 0.90 5.00 
+
+MDW-11-16 18.00 18.63 0.63 9.48 
+
+ 95.00 98.96 3.96 3.88 
+
+including 98.00 98.96 0.96 7.81 
+
+MDW-11-17 40.28 41.63 1.35 19.75 
+
+ 52.53 74.00 21.47 7.78 
+
+including 53.20 54.00 0.80 22.60 
+
+and including 67.70 72.23 4.53 21.63 
+
+ 99.15 102.04 2.89 24.04 
+
+including 101.04 101.54 0.50 131.50 
+
+ 138.27 138.87 0.60 7.45 
+
+ 174.00 174.36 0.36 164.50 
+
+MDW-11-19 135.50 164.10 28.60 4.23 
+
+including 140.15 141.00 0.85 5.66 
+
+and 147.00 147.80 0.80 96.40 
+
+and 158.13 159.00 0.87 13.00 
+
+MDW-11-21 59.49 60.28 0.79 10.15 
+
+MDW-11-22 41.69 52.31 10.62 2.57 
+
+including 41.69 43.03 1.34 12.94 
+
+and 51.63 52.31 0.68 7.84 
+
+ 67.50 68.86 1.36 74.45 
+
+including 68.21 68.86 0.65 146.50 
+
+MDW-11-24a 57.31 62.80 5.49 2.69 
+
+including 58.22 58.84 0.62 13.60 
+
+ 120.68 124.42 3.74 27.45 
+
+including 121.70 124.01 2.31 42.90 
+
+ 150.70 151.09 0.39 157.50 
+
+MDW-11-25 132.26 146.50 14.24 5.86 
+
+ 133.27 135.41 2.14 33.78 
+
+MDW-11-27 119.61 120.48 0.87 6.43 
+ 
+
+
+
+38 
+
+ 
+
+Table 3: 2011 Martinière West Significant Intersections (continued) 
+
+Hole ID From (m) To (m) Length (m) Au (g/t) 
+
+MDW-11-27 130.09 130.80 0.71 9.37 
+
+ 160.21 168.28 8.07 2.72 
+
+including 167.90 168.28 0.38 64.10 
+
+MDW-11-28a 38.76 41.48 2.72 7.13 
+
+including 41.04 41.48 0.44 34.50 
+
+ 55.13 55.54 0.41 8.82 
+
+including 151.56 152.32 0.76 13.05 
+
+MDW-11-29a 70.11 71.88 1.77 25.47 
+
+including 70.11 71.47 1.36 32.45 
+
+ 134.77 135.42 0.65 6.21 
+
+ 247.81 250.09 2.28 3.54 
+
+including 247.81 248.35 0.54 5.39 
+
+and 249.67 250.09 0.42 5.85 
+
+ 259.25 259.60 0.35 11.15 
+
+MDW-11-30 141.96 144.29 2.33 43.37 
+
+including 143.00 144.29 1.29 70.58 
+
+MDW-11-31a 147.50 148.00 0.50 5.89 
+
+ 162.24 176.23 13.99 3.84 
+
+including 173.86 174.93 1.07 23.54 
+
+including 173.86 174.47 0.61 34.50 
+
+MDW-11-32 56.29 56.75 0.46 6.26 
+
+ 160.04 161.61 1.57 6.38 
+
+including 161.14 161.61 0.47 12.35 
+
+ 194.14 195.75 1.61 12.31 
+
+including 194.14 194.99 0.85 16.10 
+
+MDW-11-34 96.01 104.21 8.20 4.58 
+
+including 96.01 98.00 1.99 12.01 
+
+including 96.60 97.19 0.59 21.60 
+
+ 167.52 169.00 1.48 9.29 
+
+including 167.94 169.00 1.06 11.05 
+
+MDW-11-38 43.35 44.00 0.65 13.90 
+
+ 53.30 54.40 1.10 8.47 
+
+including 53.30 53.80 0.50 10.80 
+
+ 177.00 177.70 0.70 6.25 
+
+MDW-11-41 31.00 42.65 11.65 2.40 
+
+including 36.00 36.91 0.91 6.43 
+
+MDW-11-41a 59.82 82.41 22.59 4.26 
+
+including 62.98 66.21 3.23 10.25 
+
+including 72.84 73.31 0.47 7.78 
+
+including 80.54 81.93 1.39 27.62 
+ 
+
+
+
+39 
+
+ 
+
+Table 3: 2011 Martinière West Significant Intersections (continued) 
+
+Hole ID From (m) To (m) Length (m) Au (g/t) 
+
+MDW-11-42 73.69 74.10 0.41 14.80 
+
+ 141.81 142.61 0.80 10.35 
+
+Table 4: 2012 Martinière West Significant Intersections 
+
+Hole ID From (m) To (m) Length (m) Au (g/t) 
+
+MDW-12-44 123.00 124.00 1.00 1.22 
+  199.00 200.00 1.00 2.02 
+  249.30 250.30 1.00 1.05 
+
+MDW-12-46A 47.88 58.06 10.18 0.53 
+  72.52 79.80 7.28 1.03 
+
+including 78.00 78.53 0.53 4.48 
+  105.73 117.05 11.32 0.67 
+
+MDW-12-47 69.80 71.63 1.83 1.89 
+  86.07 86.90 0.83 21.40 
+  89.95 90.61 0.66 3.67 
+
+MDW-12-48 190.15 192.25 2.10 2.15 
+
+MDW-12-49 70.82 73.85 3.03 1.93 
+ 151.10 152.80 1.70 5.66 
+ 155.71 158.40 2.69 1.37 
+ 193.60 194.10 0.50 1.14 
+
+MDW-12-50A 22.05 22.45 0.40 27.00 
+ 54.55 69.45 14.90 0.95 
+
+including 62.50 63.35 0.85 6.41 
+ 183.75 184.85 1.10 8.83 
+ 237.87 247.70 9.83 3.84 
+
+including 238.76 239.62 0.86 11.40 
+and 246.60 247.00 0.40 29.90 
+
+MDW-12-51 31.90 32.40 0.50 5.59 
+ 68.12 68.72 0.60 1.60 
+ 78.06 80.27 2.21 4.85 
+ 84.40 85.52 1.12 6.53 
+
+MDW-12-52 51.56 52.34 0.78 4.34 
+ 119.28 119.95 0.67 1.10 
+ 137.80 138.17 0.37 2.36 
+
+MDW-12-53 95.15 95.92 0.77 6.75 
+ 97.84 102.00 4.16 5.39 
+
+including 97.84 98.47 0.63 10.70 
+and 101.27 102.00 0.73 11.20 
+
+MDW-12-54 50.30 51.30 1.00 3.16 
+ 110.91 118.00 7.09 2.28 
+
+including 114.80 115.25 0.45 10.15 
+ 
+
+
+
+40 
+
+ 
+
+Table 4: 2012 Martinière West Significant Intersections (continued) 
+
+Hole ID From (m) To (m) Length (m) Au (g/t) 
+
+MDW-12-55 188.30 189.20 0.90 4.12 
+ 191.00 193.00 2.00 3.35 
+ 254.60 255.30 0.70 12.50 
+ 269.85 270.75 0.90 3.38 
+
+MDW-12-56A 82.90 83.28 0.38 0.50 
+
+MDW-12-57A 181.30 181.80 0.50 6.25 
+ 230.20 231.00 0.80 4.50 
+ 308.20 309.20 1.00 13.45 
+
+MDW-12-58 183.23 184.20 0.97 32.80 
+ 230.70 231.30 0.60 4.88 
+ 235.87 237.01 1.14 4.41 
+ 244.70 245.36 0.66 8.78 
+
+MDW-12-59 77.80 80.80 3.00 1.52 
+ 209.00 211.50 2.50 5.65 
+
+including 209.50 210.45 0.95 12.45 
+
+MDW-12-60 360.56 361.15 0.59 5.98 
+ 398.26 398.90 0.64 16.00 
+
+MDW-12-61 238.20 239.05 0.85 3.44 
+ 290.50 291.00 0.50 3.03 
+ 410.40 411.00 0.60 4.21 
+
+MDW-12-62 411.46 411.86 0.40 5.80 
+ 417.23 419.41 2.18 28.27 
+ 490.34 492.52 2.18 4.66 
+
+including 490.34 491.00 0.66 11.55 
+ 495.00 495.58 0.58 9.60 
+
+MDW-12-63A 210.66 211.16 0.50 2.77 
+ 281.80 283.11 1.31 1.41 
+ 311.29 337.22 25.93 1.04 
+
+including 314.40 315.40 1.00 5.82 
+and 325.18 326.05 0.87 5.61 
+
+MDW-12-64A 308.30 308.88 0.58 4.23 
+  313.78 314.45 0.67 5.85 
+  338.07 346.80 8.73 1.48 
+
+including 340.75 341.20 0.45 4.78 
+and 346.10 346.80 0.70 4.21 
+
+ 377.40 377.75 0.35 84.90 
+ 407.45 413.30 5.85 2.32 
+ 421.92 429.40 7.48 3.62 
+
+including 421.92 422.28 0.36 11.35 
+ 
+
+
+
+41 
+
+ 
+
+10.2 Martinière East Drilling 
+
+Drilling at Martinière East mainly pre-dated the discovery of significant mineralization associated with 
+the Bug Lake Fault Zone (BLFZ) and the delineation of its northerly-striking orientation. In the absence of any 
+surface information on orientation of shearing and veining, drilling at Martinière East was generally oriented 
+towards 330° on the hypothesis that mineralization was hosted within a northeasterly trending corridor. This 
+orientation was also suitable for testing the gold and base metal potential of the basalt-hosted semi-massive 
+to massive sulphides at Martinière East.  
+
+Drilling showed that the semi-massive sulphides and their associated massive sulphide lenses are 
+extensive and dip shallowly to the southeast (Figure 15). However, the massive sulphide lenses do not 
+appear to host significant gold or base metal values, and do not have a spatial association with later gold 
+mineralization. Insufficient drilling has been done to define coherent zones of gold mineralization at Martinière 
+East. 
+
+Tables 5 and 6 summarize significant intersections from 2011 and 2012 drilling in the Martinière East 
+area (Perk et al., 2013; Perk et al., 2012). Higher-grade sub-intervals have been included where they 
+significantly influence longer intervals. Some excellent intersections of gold mineralization have been 
+returned from Martinière East drilling, including 9.30 metres @ 11.28 g/t Au (MDE-12-20). However, it may 
+turn out that some of the gold mineralization at Martinière East is localized by northerly-trending structures 
+similar to Martinière West and the BLFZ. In this case, drill holes at Martinière East could be oblique to 
+mineralization in places, making it difficult to cut across entire zones and giving an exaggerated impression of 
+mineralized widths. For mineralization that does trend northerly, it is estimated that true widths of 
+intersections in Tables 5 and 6 would be 20-40% of core lengths. For mineralization that trends northeast, it is 
+estimated that true widths are 35-80% of core lengths for their intersections.  
+
+Table 5: 2011 Martinière East Significant Intersections 
+
+Hole ID From (m) To (m) Length (m) Au (g/t) 
+
+MDE-11-04 180.40 181.22 0.82 8.24 
+ 289.00 289.86 0.86 7.00 
+
+MDE-11-06 237.00 238.00 1.00 20.50 
+
+MDE-11-07 174.00 174.53 0.53 5.89 
+
+MDE-11-09 229.00 232.40 3.40 8.71 
+including 231.90 232.40 0.50 55.7 
+
+MDE-11-10 127.00 128.08 1.08 6.51 
+ 162.35 162.70 0.35 24.9 
+
+MDE-11-11 92.08 108.00 15.92 4.83 
+including 97.01 101.00 3.99 15.82 
+
+MDE-11-15 293.56 294.20 0.64 8.41 
+ 300.80 301.50 0.70 6.75 
+
+MDE-11-16 44.57 45.17 0.60 9.46 
+ 51.00 53.90 2.90 27.12 
+
+including 52.00 53.90 1.90 38.25 
+including 53.00 53.90 0.90 62.70 
+
+ 
+
+
+
+22222
+22222
+222
+
+{{  
+
+22
+222
+22+2
+
+MTUN
+
+SZUN
+
+I1QP
+
+I3EMSZUN
+
+SZUN
+i2id
+
+I1QF
+I1QF I1QF
+
+SUSU
+
+I1QF
+I1QF
+
+I1QF
+
+V3BU
+
+SUSU
+
+BXPU
+
+SUMU
+
+V3BU
+
+sisz
+
+I3EU
+
+I3AU
+
+V3BU
+
+M
+DE
+
+-1
+1-
+
+06
+
+300
+
+325
+
+350M
+D
+E-
+
+11
+-1
+
+0
+
+25
+
+50
+
+75
+
+100
+
+125
+
+150
+
+175
+
+200
+
+225
+
+250
+
+275
+
+M
+D
+E-
+
+11
+-1
+
+1
+
+25
+
+50
+
+75
+
+100
+
+125
+
+150
+
+175
+
+M
+D
+E-
+
+12
+-2
+
+3
+
+M
+D
+E-
+
+12
+-2
+
+4
+
+M
+D
+E-
+
+12
+-3
+
+7
+
+M
+D
+
+E
+-1
+
+2
+-3
+
+8
+
+M
+D
+
+E
+-1
+
+2
+-4
+
+9
+
+M
+D
+
+E
+-1
+
+2
+-5
+
+3
+
+22222
+22222
+222
+
+{{  
+
+22
+222
+22+2
+
+MTUN
+
+SZUN
+
+I1QP
+
+I3EMSZUN
+
+SZUN
+i2id
+
+I1QF
+I1QF I1QF
+
+SUSU
+
+I1QF
+I1QF
+
+I1QF
+
+V3BU
+
+SUSU
+
+BXPU
+
+SUMU
+
+V3BU
+
+sisz
+
+I3EU
+
+I3AU
+
+V3BU
+
+M
+DE
+
+-1
+1-
+
+06
+
+300
+
+325
+
+350M
+D
+E-
+
+11
+-1
+
+0
+
+25
+
+50
+
+75
+
+100
+
+125
+
+150
+
+175
+
+200
+
+225
+
+250
+
+275
+
+M
+D
+E-
+
+11
+-1
+
+1
+
+25
+
+50
+
+75
+
+100
+
+125
+
+150
+
+175
+
+M
+D
+E-
+
+12
+-2
+
+3
+
+M
+D
+E-
+
+12
+-2
+
+4
+
+M
+D
+E-
+
+12
+-3
+
+7
+
+M
+D
+
+E
+-1
+
+2
+-3
+
+8
+
+M
+D
+
+E
+-1
+
+2
+-4
+
+9
+
+M
+D
+
+E
+-1
+
+2
+-5
+
+3
+
+6
+4
+1
+9
+0
+0
+m
+
+E
+6
+4
+1
+9
+0
+0
+m
+
+E
+
+6
+4
+2
+0
+0
+0
+m
+
+E
+6
+4
+2
+0
+0
+0
+m
+
+E
+
+6
+4
+2
+1
+0
+0
+m
+
+E
+6
+4
+2
+1
+0
+0
+m
+
+E
+
+6
+4
+2
+2
+0
+0
+m
+
+E
+6
+4
+2
+2
+0
+0
+m
+
+E
+
+5
+5
+4
+3
+4
+0
+0
+m
+
+N
+5
+5
+4
+3
+4
+0
+0
+m
+
+N
+
+5
+5
+4
+3
+5
+0
+0
+m
+
+N
+5
+5
+4
+3
+5
+0
+0
+m
+
+N
+
+5
+5
+4
+3
+6
+0
+0
+m
+
+N
+5
+5
+4
+3
+6
+0
+0
+m
+
+N
+
+5
+5
+4
+3
+7
+0
+0
+m
+
+N
+5
+5
+4
+3
+7
+0
+0
+m
+
+N
+
+5
+5
+4
+3
+8
+0
+0
+m
+
+N
+5
+5
+4
+3
+8
+0
+0
+m
+
+N
+
+5
+5
+4
+3
+9
+0
+0
+m
+
+N
+5
+5
+4
+3
+9
+0
+0
+m
+
+N
+
+-100m -100m
+
+0m 0m
+
+100m 100m
+
+200m 200m
+
+300m 300m
+LEGEND
+
+I1QF: Quartz-feldspar-phyric Felsic Intrusion
+
+I1QP:  Feldspar-phyric Felsic Intrusion
+
+I3AU: Gabbro
+
+I3EU: Quartz Gabbro
+
+I3EM: Magnetite Quartz Gabbro
+
+I3AP: Pyroxene-bearing Gabbro
+
+I2ID: Intermediate Intrusions
+
+I3ID: Mafic Dyke
+
+V3BU: Basalt
+
+SZUN: Shear Zone
+
+SUSU: Semi-Massive Sulphide
+
+SUMU: Massive Sulphide
+
+S6AU | S6DG: Graphitic Mudstone, Argillite
+
+22BXPU: Polymictic Breccia
+MTUN |  UNKN: Overburden, Unknown
+
+III
+III
+
+Interpreted Trace of Mineralized Shear
+
+Au ppm  1cm = 12.5 g/t, cutoff at 20 g/t
+
+Balmoral Resources Ltd.
+
+20 40m0 20
+
+Map Sheet: 32L02/32L03
+
+Mining District: Nord-du-Quebec
+
+Projection: UTM 17 - NAD83
+
+Prov/State: QC
+
+Figure: 15
+
+Plot Date: 09-Jan-2013
+
+Scale
+1 : 2500
+
+Martiniere East
+Section B-B'
+Looking 055°
++20 m/-20 m
+
+Martiniere Project
+
+
+
+43 
+
+ 
+
+Table 6: 2012 Martinière East Significant Intersections 
+
+Hole ID From (m) To (m) Length (m) Au (g/t) 
+
+MDE-12-17 44.52 45.65 1.13 1.56 
+ 84.50 85.80 1.30 1.86 
+
+MDE-12-18 46.60 47.45 0.85 8.50 
+
+MDE-12-19 32.00 38.93 6.93 1.71 
+including 33.15 33.95 0.80 8.23 
+
+ 77.50 78.00 0.50 9.77 
+
+MDE-12-20 22.00 23.00 1.00 7.70 
+ 41.00 50.30 9.30 11.28 
+
+including 46.90 47.50 0.60 25.40 
+and 47.50 48.20 0.70 112.50 
+
+ 77.50 78.85 1.35 4.22 
+
+MDE-12-21 36.85 37.60 0.75 2.33 
+
+MDE-12-22 90.20 91.40 1.20 2.98 
+ 217.50 230.00 12.50 2.70 
+
+including 223.00 223.60 0.60 10.15 
+and 228.40 229.40 1.00 10.05 
+
+MDE-12-23 121.00 126.80 5.80 6.75 
+including 123.70 124.20 0.50 35.20 
+
+MDE-12-24 280.65 298.50 17.85 2.31 
+including 284.40 285.30 0.90 6.83 
+
+and 285.30 285.90 0.60 8.04 
+and 288.30 288.90 0.60 7.15 
+and 292.90 293.50 0.60 9.68 
+
+MDE-12-34 67.00 68.10 1.10 3.93 
+
+MDE-12-35 55.15 55.80 0.65 5.06 
+ 63.70 64.15 0.45 4.92 
+
+MDE-12-36 59.27 59.90 0.63 12.40 
+ 69.00 69.65 0.65 1.85 
+
+MDE-12-37 35.70 36.25 0.55 53.60 
+ 171.00 172.45 1.45 14.39 
+ 274.00 275.70 1.70 1.86 
+
+MDE-12-38 58.05 63.75 5.70 2.04 
+including 58.05 58.95 0.90 6.51 
+
+MDE-12-56 106.00 107.00 1.00 138.00 
+
+MDE-12-57 87.13 87.55 0.42 7.70 
+
+10.3 Bug Lake Fault Zone (BLFZ)  Drilling 
+
+Initial drill holes in the Bug Lake Fault Zone (BLFZ) were generally oriented toward 330° like the other 
+holes in the Martinière East area (Figure 9). With the recognition of gold mineralization associated with the 
+335°-striking BLFZ, later holes were directed westerly in order to cut it more perpendicularly. Drilling to date 
+has been limited to 340 metres strike length of the BLFZ, within 250 metres of surface. 
+
+
+
+44 
+
+ 
+
+The widest, most continuous mineralization is located in the BLFZ itself, a ~50-metre wide melange of 
+interleaved basalt, argillite, gabbro (plus variations) and quartz±feldspar porphyry fragments above a footwall 
+formed by progressively less-strained gabbro (or variants such as quartz gabbro, etc.). The BLFZ has a 
+variable eastward dip with steeper and shallower segments; its steeper portions appear better endowed with 
+gold mineralization. Figure 16 is a typical section across the BLFZ. In addition, several holes intersected gold 
+mineralization within altered shears up to 40 metres into the footwall gabbro or quartz gabbro. The footwall 
+mineralization is generally narrower and more erratic than the BLFZ, but is locally very high-grade, with the 
+best intersection averaging 117.30 g/t Au across a core length of 7.78 metres (MDE-12-29). Drilling has 
+defined a strike length of nearly 100 metres for the Footwall Zone, the highest grade and most continuous of 
+the zones of footwall mineralization, shadowing the best-defined zone of mineralization within the BLFZ itself. 
+
+The northernmost section drilled across the BLFZ (holes MDE-12-31, -32 and -33) intersected only 
+spotty gold mineralization within the BLFZ itself (best intersection: 0.66 metres @ 25.7 g/t Au in MDE-12-32) 
+or the footwall quartz gabbro (best intersection: 1.73 metres @ 3.29 g/t Au in MDE-12-31). Although not 
+spectacular results, the presence of shearing, alteration and spotty gold mineralization indicates that the zone 
+remains open to the north of current drilling. Faulting, alteration and veining are still prominent within the 
+southernmost section drilled across the BLFZ (holes MDE-12-27, -28, 54, -54A and -55), especially in its 
+steeper section, with the best intersection averaging 4.20 g/t Au across 4.33 metres core length of the BLFZ 
+(MDE-12-54). Gold mineralization within the BLFZ remains open to the north and the south. 
+
+Drilling across the BLFZ is confined to within a vertical depth of <250 metres from surface. Some of 
+the deeper holes had only weak results, but they intersected a shallowly-dipping segment of the BLFZ, which 
+starts at a vertical depth of 80 metres (in the north) to 200 metres (in the south). A few poorly-oriented holes 
+indicate that the BLFZ steepens again below this shallow segment. For instance, hole MDE-12-24, directed 
+315° at Martinière East mineralization, passes into the BLFZ near the hole's bottom. It intersected 17.85 
+metres averaging 2.31 g/t Au (albeit at an oblique angle) within a lower steepened portion of the BLFZ, 
+suggesting that further drilling should be directed across the BLFZ at depth. Like the BLFZ itself, 
+mineralization in the footwall appears richer in gold where the BLFZ is steeper-dipping. No drilling, even 
+poorly-oriented, has penetrated the footwall beneath this lower steepened section of the BLFZ. 
+
+Tables 7 and 8 summarize significant intersections from 2011 and 2012 drilling in the BLFZ area 
+(Perk et al., 2013; Perk et al., 2012). Higher-grade sub-intervals have been included where they significantly 
+influence longer intervals. Holes MDE-11-01, -02, -03, -12 and -13 and holes MDE-12-27, -28, -62 and -63 
+were poorly oriented to cut BLFZ mineralization and it is estimated that true widths of their intersections 
+would be 20-40% of core lengths. Hole MDE-11-14 and the remainder of the 2012 holes were drilled roughly 
+perpendicular to the strike of mineralization and it is estimated that true widths are 35-80% of core lengths for 
+their intersections. 
+
+Table 7: 2011 BLFZ Significant Intersections 
+
+Hole ID From (m) To (m) Length (m) Au (g/t) 
+
+MDE-11-01 69.00 75.56 6.56 13.25 
+ 88.70 90.00 1.30 5.73 
+ 147.48 161.00 13.52 2.53 
+
+including 160.42 161.00 0.58 20.9 
+ 279.69 279.95 0.26 10.4 
+
+MDE-11-02 243.34 243.85 0.51 7.18 
+
+MDE-11-03 103.58 104.50 0.92 5.05 
+
+MDE-11-12 106.00 107.00 1.00 5.57 
+
+MDE-11-13 189.20 190.10 0.90 13.3 
+
+MDE-11-14 132.00 134.10 2.10 17.61 
+including 133.13 134.10 0.97 30.1 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I
+II
+IIII
+IIII
+III
+III
+III
+III
+III
+III
+III
+II
+II
+
+I
+I
+I
+II
+II
+I
+I
+
+II
+II
+II
+I
+II
+
+I
+II
+II
+
+I
+I
+I
+I
+I
+I
+I
+
+{ {{ {
+
+
+
+
+"
+
+""
+
+MTUN
+
+i1qp
+
+I1QP
+
+SUMU
+
+SUSU
+
+V3BUS6DG
+
+S6AU
+
+I3ID
+
+I3AU
+
+S6AU
+V3BU
+
+M
+D
+
+- 0
+7
+- 2
+
+0
+
+M
+D
+
+E
+- 1
+
+1
+-0
+
+1
+
+50 M
+D
+
+E
+-1
+
+1
+-0
+
+2
+
+M
+D
+
+E
+- 1
+
+1
+- 0
+
+3
+
+M
+D
+
+E
+-1
+
+1
+-0
+
+4
+
+25
+
+M
+D
+
+E
+-1
+
+1
+-0
+
+5
+
+25
+
+50
+
+M
+D
+
+E
+-1
+
+1
+-0
+
+6
+
+100
+
+M
+D
+
+E
+-1
+
+1
+-0
+
+9
+
+M
+D
+
+E
+-1
+
+1
+-1
+
+2
+
+225
+
+M
+D
+
+E
+-1
+
+1
+-1
+
+6
+
+50
+
+M
+D
+
+E
+- 1
+
+2
+-1
+
+7
+M
+
+D
+E
+-1
+
+2
+- 1
+
+8
+
+M
+D
+
+E
+-1
+
+2
+-1
+
+9
+
+M
+D
+
+E
+-1
+
+2
+-2
+
+1
+M
+
+D
+E
+-1
+
+2
+-2
+
+2
+
+M
+D
+
+E
+-1
+
+2
+-2
+
+4
+
+M
+D
+
+E
+-1
+
+2
+-3
+
+4
+
+M
+D
+
+E
+- 1
+
+2
+-3
+
+5
+
+M
+D
+
+E
+-1
+
+2
+-3
+
+7
+
+M
+D
+E
+-1
+
+2
+-4
+
+4
+
+M
+D
+E
+-1
+
+2
+-4
+
+5
+
+M
+D
+E
+-1
+
+2-
+47
+
+M
+D
+E-
+
+12
+-7
+
+3
+M
+
+D
+E
+-1
+
+2
+-7
+
+4
+
+M
+D
+E
+-1
+
+2
+-7
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I
+II
+IIII
+IIII
+III
+III
+III
+III
+III
+III
+III
+II
+II
+
+I
+I
+I
+II
+II
+I
+I
+
+II
+II
+II
+I
+II
+
+I
+II
+II
+
+I
+I
+I
+I
+I
+I
+I
+
+{ {{ {
+
+
+
+
+"
+
+""
+
+MTUN
+
+i1qp
+
+I1QP
+
+SUMU
+
+SUSU
+
+V3BUS6DG
+
+S6AU
+
+I3ID
+
+I3AU
+
+S6AU
+V3BU
+
+M
+D
+
+-0
+7
+-2
+
+0
+
+M
+D
+
+E
+- 1
+
+1
+-0
+
+1
+
+50 M
+D
+
+E
+-1
+
+1
+-0
+
+2
+
+M
+D
+
+E
+-1
+
+1
+-0
+
+3
+
+M
+D
+
+E
+-1
+
+1
+-0
+
+4
+
+25
+
+M
+D
+
+E
+-1
+
+1
+-0
+
+5
+
+25
+
+50
+
+M
+D
+
+E
+-1
+
+1
+-0
+
+6
+
+100
+
+M
+D
+
+E
+-1
+
+1
+-0
+
+9
+
+M
+D
+
+E
+-1
+
+1
+-1
+
+2
+
+225
+
+M
+D
+
+E
+-1
+
+1
+-1
+
+6
+
+50
+
+M
+D
+
+E
+- 1
+
+2
+-1
+
+7
+M
+
+D
+E
+-1
+
+2
+- 1
+
+8
+
+M
+D
+
+E
+-1
+
+2
+-1
+
+9
+
+M
+D
+
+E
+-1
+
+2
+-2
+
+1
+M
+
+D
+E
+-1
+
+2
+-2
+
+2
+
+M
+D
+
+E
+-1
+
+2
+-2
+
+4
+
+M
+D
+
+E
+-1
+
+2
+-3
+
+4
+
+M
+D
+
+E
+- 1
+
+2
+-3
+
+5
+
+M
+D
+
+E
+-1
+
+2
+-3
+
+7
+
+M
+D
+E
+-1
+
+2
+-4
+
+4
+
+M
+D
+E
+-1
+
+2
+-4
+
+5
+
+M
+D
+E
+-1
+
+2-
+47
+
+M
+D
+E-
+
+12
+-7
+
+3
+M
+
+D
+E
+-1
+
+2
+-7
+
+4
+
+M
+D
+E
+-1
+
+2
+-7
+
+5
+
+6
+4
+1
+8
+0
+0
+m
+
+E
+6
+4
+1
+8
+0
+0
+m
+
+E
+
+6
+4
+1
+9
+0
+0
+m
+
+E
+6
+4
+1
+9
+0
+0
+m
+
+E
+
+6
+4
+2
+0
+0
+0
+m
+
+E
+6
+4
+2
+0
+0
+0
+m
+
+E
+
+6
+4
+2
+1
+0
+0
+m
+
+E
+6
+4
+2
+1
+0
+0
+m
+
+E
+
+6
+4
+2
+2
+0
+0
+m
+
+E
+6
+4
+2
+2
+0
+0
+m
+
+E
+
+6
+4
+2
+3
+0
+0
+m
+
+E
+6
+4
+2
+3
+0
+0
+m
+
+E
+
+5
+5
+4
+3
+6
+0
+0
+m
+
+N
+5
+5
+4
+3
+6
+0
+0
+m
+
+N
+
+5
+5
+4
+3
+7
+0
+0
+m
+
+N
+5
+5
+4
+3
+7
+0
+0
+m
+
+N
+
+5
+5
+4
+3
+8
+0
+0
+m
+
+N
+5
+5
+4
+3
+8
+0
+0
+m
+
+N
+
+-100m -100m
+
+0m 0m
+
+100m 100m
+
+200m 200m
+
+300m 300m
+
+LEGEND
+
+I1QF: Quartz-feldspar-phyric Felsic Intrusion
+
+I1QP:  Feldspar-phyric Felsic Intrusion
+
+I3AU: Gabbro
+
+I3EU: Quartz Gabbro
+
+I3EM: Magnetite Quartz Gabbro
+
+I3AP: Pyroxene-bearing Gabbro
+
+I2ID: Intermediate Intrusions
+
+I3ID: Mafic Dyke
+
+V3BU: Basalt
+
+SZUN: Shear Zone
+
+SUSU: Semi-Massive Sulphide
+
+SUMU: Massive Sulphide
+
+S6AU | S6DG: Graphitic Mudstone, Argillite
+
+22 BXPU: Polymictic Breccia
+MTUN |  UNKN: Overburden, Unknown
+
+III
+III
+
+Interpreted Trace of Mineralized Shear
+
+Au ppm  1cm = 12.5 g/t, cutoff at 20 g/t
+
+Balmoral Resources Ltd.
+
+20 40m0 20
+
+Map Sheet: 32L02/32L03
+
+Mining District: Nord-du-Quebec
+
+Projection: UTM 17 - NAD83
+
+Prov/State: QC
+
+Figure: 16
+
+Plot Date: 09-Jan-2013
+
+Scale
+1 : 2500
+
+Bug Lake Fault Zone
+Section C-C'
+Looking 335°
+
++12.5 m/-12.5 m
+
+Martiniere Project
+
+
+
+46 
+
+ 
+
+Table 7: 2011 BLFZ Significant Intersections (continued) 
+
+Hole ID From (m) To (m) Length (m) Au (g/t) 
+
+MDE-11-14 141.00 141.86 0.86 13.95 
+ 168.90 169.70 0.80 9.89 
+ 183.50 205.75 22.25 1.98 
+
+including 188.50 189.50 1.00 5.68 
+
+Table 8: 2012 BLFZ Significant Intersections 
+
+Hole ID From (m) To (m) Length (m) Au (g/t) 
+
+MDE-12-25 39.00 45.00 6.001 2.65 
+  73.40 79.50 6.101 4.73 
+
+including 77.60 78.50 0.901 15.60 
+  155.55 155.90 0.351 25.30 
+  167.30 167.80 0.501 6.49 
+  187.70 191.00 3.301 7.17 
+
+including 188.40 189.10 0.701 20.40 
+
+MDE-12-27 38.80 51.20 12.401 1.97 
+including 41.00 43.00 2.001 4.74 
+
+  69.00 71.00 2.001 2.69 
+  76.93 77.30 0.371 3.49 
+
+MDE-12-28 20.30 27.05 6.751 2.35 
+  34.00 36.00 2.001 2.45 
+  89.00 90.00 1.001 3.40 
+  96.00 97.00 1.001 3.57 
+
+MDE-12-29 98.30 101.20 2.901 2.29 
+  117.80 118.76 0.961 11.55 
+  121.50 128.50 7.001 1.80 
+  166.00 173.78 7.782 117.32 
+
+including 169.90 170.40 0.502 409.00 
+and 170.40 170.95 0.552 1255.00 
+and 173.10 173.78 0.682 12.80 
+
+MDE-12-30 53.00 54.00 1.001 1.39 
+  124.50 127.50 3.001 1.61 
+  147.70 149.90 2.201 2.93 
+  167.00 172.00 5.001 2.62 
+
+including 171.00 172.00 1.001 4.92 
+
+MDE-12-31 111.27 113.00 1.732 3.29 
+
+MDE-12-32 32.83 33.63 0.801 1.07 
+  36.40 36.92 0.521 1.61 
+  39.34 40.00 0.661 25.70 
+  40.00 40.80 0.801 2.88 
+
+MDE-12-33 63.56 66.00 2.441 1.16 
+
+MDE-12-39 35.56 36.53 0.971 195.50 
+ 
+
+
+
+47 
+
+ 
+
+Table 8: 2012 BLFZ Significant Intersections (continued) 
+
+Hole ID From (m) To (m) Length (m) Au (g/t) 
+
+MDE-12-39  55.42 58.00 2.581 4.49 
+  75.30 76.30 1.001 6.36 
+  77.25 78.12 0.871 2.68 
+  105.68 138.11 32.433 1.49 
+
+including 105.68 106.18 0.501 29.00 
+and 113.50 114.88 1.382 3.95 
+
+  148.90 149.92 1.022 3.53 
+
+MDE-12-41 89.16 90.35 1.191 1.21 
+  123.75 124.50 0.751 23.30 
+  134.41 135.62 1.211 1.31 
+
+MDE-12-42 91.80 92.17 0.371 1.32 
+  139.85 140.70 0.851 39.30 
+  140.70 141.98 1.281 4.81 
+
+MDE-12-40 80.57 81.55 0.981 5.09 
+  112.49 112.96 0.471 1.58 
+  149.27 150.93 1.661 1.62 
+  159.01 160.05 1.041 2.14 
+
+MDE-12-43 68.00 68.80 0.801 20.00 
+  86.23 87.40 1.171 3.16 
+  89.62 91.04 1.421 3.46 
+  142.58 145.00 2.421 1.57 
+  184.37 187.16 2.791 0.97 
+  218.00 219.10 1.101 1.56 
+
+MDE-12-44 123.70 124.76 1.062 29.90 
+  124.76 125.30 0.542 1.06 
+  148.97 150.00 1.032 2.88 
+
+MDE-12-46 133.10 138.28 5.181 12.46 
+including 134.00 135.58 1.581 35.56 
+
+MDE-12-48 34.08 35.00 0.921 4.91 
+  163.28 164.00 0.721 11.95 
+  166.92 167.62 0.701 23.50 
+  176.85 181.07 4.221 6.40 
+
+including 177.64 178.17 0.531 34.60 
+  210.30 211.20 0.901 1.62 
+  243.95 244.64 0.692 1.96 
+
+MDE-12-49 37.00 38.00 1.001 2.00 
+  134.78 135.63 0.851 1.88 
+  161.32 161.68 0.361 5.38 
+  265.04 266.09 1.052 1.37 
+
+MDE-12-50 116.85 119.81 2.961 2.15 
+  129.44 130.30 0.861 5.24 
+
+ 
+
+
+
+48 
+
+ 
+
+Table 8: 2012 BLFZ Significant Intersections (continued) 
+
+Hole ID From (m) To (m) Length (m) Au (g/t) 
+
+ MDE-12-50 130.30 131.14 0.841 1.38 
+
+MDE-12-51 117.50 118.60 1.101 3.26 
+
+MDE-12-53 172.35 172.90 0.551 1.03 
+  239.50 240.15 0.651 4.92 
+
+MDE-12-54A 57.00 57.85 0.851 2.15 
+  159.66 160.46 0.801 1.12 
+  177.61 178.40 0.791 1.79 
+  210.70 215.03 4.331 4.20 
+
+MDE-12-58 47.88 48.60 0.721 129.00 
+  48.60 49.25 0.651 1.87 
+  58.14 59.84 1.701 9.43 
+  102.50 118.38 15.882 2.21 
+
+including 108.90 109.91 1.012 6.90 
+
+MDE-12-59 79.10 160.25 81.151 1.04 
+  93.60 103.35 9.751 2.34 
+  116.00 117.00 1.002 4.03 
+  153.70 158.45 4.752 8.19 
+
+including 154.45 155.00 0.552 14.40 
+and 157.53 158.10 0.572 42.10 
+
+MDE-12-60 89.39 90.10 0.711 3.00 
+  105.07 120.73 15.661 3.74 
+
+including 105.07 106.07 1.001 33.10 
+  173.99 174.82 0.832 197.00 
+
+MDE-12-61 51.45 52.07 0.621 20.70 
+  64.90 66.00 1.101 4.85 
+  90.60 92.65 2.051 1.47 
+  110.40 128.60 18.201 2.85 
+
+including 125.30 126.40 1.101 14.15 
+  180.00 181.00 1.002 2.84 
+
+MDE-12-62 56.07 85.55 29.482 0.84 
+  119.15 125.02 5.872 6.96 
+
+including 124.51 125.02 0.512 32.00 
+  175.91 177.08 1.172 4.49 
+
+MDE-12-63 50.00 51.00 1.001 3.39 
+  61.30 91.00 29.702 0.75 
+  105.65 111.35 5.702 16.45 
+
+including 110.00 110.35 0.352 141.00 
+
+MDE-12-64 30.21 58.10 27.892 0.21 
+including 33.07 35.65 2.582 1.04 
+
+and 70.10 83.05 12.952 0.12 
+
+MDE-12-65 25.00 92.00 67.002 2.88 
+ 
+
+
+
+49 
+
+ 
+
+Table 8: 2012 BLFZ Significant Intersections (continued) 
+
+Hole ID From (m) To (m) Length (m) Au (g/t) 
+
+including 39.50 40.60 1.102 8.49 
+including 60.55 65.00 4.452 27.03 
+
+MDE-12-66 20.15 99.30 79.152 0.38 
+including 44.95 49.75 4.802 1.40 
+including 56.85 57.90 1.052 3.48 
+
+MDE-12-67 56.33 70.00 13.671 0.70 
+and 74.81 78.82 4.011 1.56 
+
+MDE-12-68 36.90 48.10 11.201 0.40 
+and 70.47 122.20 51.731 1.67 
+
+including 71.08 72.35 1.271 13.63 
+including 78.57 79.29 0.721 19.95 
+including 89.51 90.29 0.781 8.09 
+
+MDE-12-69 57.51 59.16 1.651 3.44 
+and 85.96 86.60 0.641 49.00 
+and  113.27 183.05 69.783 0.51 
+
+including 113.27 121.20 7.931 1.26 
+
+MDE-12-70 48.26 67.26 19.001 1.10 
+including 50.30 52.46 2.161 3.33 
+
+and 79.00 95.00 16.001 5.00 
+including 79.71 81.78 2.071 36.01 
+
+and  171.30 189.89 18.593 0.55 
+including 171.30 178.55 7.253 0.97 
+
+MDE-12-71A 86.88 88.23 1.352 29.94 
+
+MDE-12-72 25.73 68.20 42.472 5.71 
+including 29.30 32.46 3.162 46.53 
+including 59.19 62.04 2.852 28.61 
+
+MDE-12-73 41.85 42.39 0.541 31.30 
+and 102.23 126.09 23.861 0.69 
+
+including 105.75 106.56 0.811 11.00 
+
+MDE-12-74 61.58 62.77 1.191 41.96 
+and 110.00 135.37 25.371 2.33 
+and 181.84 213.66 31.822 0.43 
+
+including 212.66 213.66 1.002 8.43 
+
+MDE-12-75 150.45 215.00 64.553 0.49 
+including 150.45 152.53 2.081 2.70 
+including 194.00 194.76 0.762 10.25 
+
+MDE-12-76 27.60 100.71 73.11 0.54 
+including 45.90 55.51 9.612 1.10 
+
+MDE-12-77 24.70 95.60 70.903 1.24 
+including 54.64 82.99 28.352 2.65 
+including 65.94 66.95 1.012 47.30 
+
+ 
+
+
+
+50 
+
+ 
+
+Table 8: 2012 BLFZ Significant Intersections (continued) 
+
+Hole ID From (m) To (m) Length (m) Au (g/t) 
+
+MDE-12-78 31.42 106.04 74.623 0.75 
+including 37.27 41.34 4.071 1.28 
+including 70.13 74.46 4.332 3.20 
+including 79.15 93.45 14.302 1.09 
+
+MDE-12-79 39.19 80.60 41.413 0.61 
+including 46.93 49.02 2.091 4.00 
+including 64.55 65.08 0.532 17.30 
+
+MDE-12-80 44.43 70.28 25.853 1.82 
+including 45.98 52.30 6.321 3.54 
+including 66.25 66.78 0.532 38.60 
+
+MDE-12-81 135.46 175.10 39.643 0.53 
+including 140.78 155.02 14.241 1.01 
+
+MDE-12-82 48.88 94.06 45.182 0.80 
+including 71.57 84.94 13.372 1.90 
+
+MDE-12-83 18.09 28.70 10.611 9.65 
+including 18.84 21.14 2.301 39.85 
+
+and 59.86 98.04 38.182 0.53 
+including 88.55 89.35 0.802 7.40 
+
+1BLFZ mineralization 
+2Footwall mineralization 
+3 Both BLFZ and footwall mineralization 
+
+11.0 SAMPLE PREPARATION, ANALYSES AND SECURITY 
+
+11.1 2011 Program 
+
+The following description of 2011 sample preparation, analyses and security procedures is adapted 
+from Peshkepia and Silvester (2011). 
+
+11.1.1 2011 Core Handling and Security 
+
+All 2011 core samples were put in wooden core trays at the drill site, sealed with a lid and strapped 
+with wire. The core was transported daily from the drill site via helicopter by Expedition Helicopters to 
+Balmoral's core facility at Camp Fenelon where all logging and sampling occurred. The core was sawn in half 
+as described in Section 10.0. One half of the core was placed back into the core tray for reference. The other 
+half of the core was placed with a waterproof sample tag in a plastic sample bag labeled with the same 
+unique six digit number as the sample tag and then sealed with a cable tie. Up to 10 sealed sample bags 
+were placed in labeled rice bags along with the request for analysis and then these bags were sealed with a 
+cable tie. Once the sampling was completed, samples from individual holes were sent to the laboratory as 
+separate batches in order to optimally track and minimize possible handling and/or sample preparation errors. 
+Prior to shipment to the laboratory, each sample bag was checked to verify it was numbered properly and 
+sealed. Samples were transported to ALS Minerals in Val d'Or, Québec by Balmoral personnel. Upon arrival 
+in Val d'Or an ALS Minerals employee would sign a copy of the request for analysis for that particular 
+shipment to verify that the samples had been delivered. The core is stored at Balmoral's core storage area at 
+Fenelon Mine and at Camp Fenelon. The only access road to Fenelon Mine is secured by a locked gate. 
+During periods of no exploration activity a caretaker is contracted by Balmoral to look after the Fenelon camp. 
+
+
+
+51 
+
+ 
+
+11.1.2 2011 Analytical Techniques 
+
+All 2011 samples from the Martinière project were prepared and analysed by ALS Minerals' analytical 
+facility in Val d'Or, Québec. This facility is individually certified to standards within ISO 9001:2008 and has 
+received accreditation to ISO/IEC 17025:2005 form the Standards Council of Canada (SCC) for the following 
+methods: 
+
+• Fire Assay Au by Atomic Absorption (AA) and Au by gravimetric finish.  
+
+Samples were prepared and analysed using conventional methods by ALS Minerals. Sample 
+preparation and analysis procedures include the following steps: 
+
+• Samples were weighed and dried at 150°C for about 8 hours. 
+
+• Samples were crushed to a minimum of 70% <2 mm (10 mesh). 
+
+• Crushed samples were mechanically split (riffle) splitter to provide a 1000-gram representative 
+sample. 
+
+• 1000-gram samples were then pulverized to a minimum of 85% <75μm (200 mesh). 
+
+• 30 to 50 grams of the pulverized samples were analyzed by standard fire assay/atomic absorption or 
+gravimetric finish for gold and for 35 elements by Aqua Regia ICP-AES 
+
+• The results are reported in grams per tonne (g/t) Au and parts per million (ppm) for silver and other 
+elements. 
+
+11.1.3 2011 Analytical Quality Assurance / Quality Control 
+
+During the 2011 drilling, Balmoral geologists inserted standards and blanks into the sample stream at 
+regular intervals: every tenth sample was either a blank or a low, medium or high grade gold standard 
+depending on the nature of mineralization sampled. During the summer drill program one core duplicate and 
+one pulp duplicate were included with each hole/shipment. The core duplicate, a one-quarter split, was 
+collected at the same time as the original sample using the same procedure and given a separate sample 
+number. For the pulp duplicate the analytical lab was requested to re-assay the pulp of a selected sample 
+and that assay was marked with a separate sample number. An empty sample bag with the sample tag was 
+provided to the analytical lab.  
+
+Sealed bags of quartz chips were purchased from ALS Chemex for insertion as blanks within the 
+sample stream. Of the 611 blanks inserted, 23 (4%) exceeded the failure criterion (15 ppb Au). All of the 
+failed blanks immediately followed samples with >5 g/t Au, indicating possible contamination in the lab. In 
+addition, one blank assayed 39.6 g/t Au, suggesting a sample mixup either at the Fenelon core facility or in 
+the analytical lab. 
+
+Twelve different gold reference materials (standards) were used in the 2011 program. Standards were 
+considered to have failed if analytical results for them fell outside the range defined by the accepted value ±3 
+standard deviations. As shown in Table 9, 41 standards failed out of the 564 reported. Of these, 17 standard 
+failures appear to be caused by mixups in the Fenelon core facility, with incorrect standards or blanks 
+inserted into the sample stream. However, the remaining 24 standard failures remain unexplained and no 
+further investigation or re-analysis is reported (Peshkepia and Silvester, 2011). 
+
+Table 9: Summary of 2011 Gold Standards 
+
+Standard Assay Procedure 
+Recommended 
+
+Value
+Acceptable Range (±3 
+
+standard deviations) 
+Number 
+
+Analyzed
+Number 
+
+Failed
+CDN-GS-2F FA-ICP and FA-AA 2.16 g/t Au 1.80-2.52 g/t Au 10 0
+CDN-GS-5F FA-ICP 5.30 g/t Au 4.76-5.84 g/t Au 
+
+119 53 
+CDN-GS-5F FA-GRAV 5.27 g/t Au 4.76-5.78 g/t Au 
+
+CDN-GS-14A FA-GRAV 14.9 g/t Au 13.6-16.2 g/t Au 244 3
+ 
+
+
+
+52 
+
+ 
+
+Table 9: Summary of 2011 Gold Standards (continued) 
+
+Standard Assay Procedure 
+Recommended 
+
+Value
+Acceptable Range (±3 
+
+standard deviations) 
+Number 
+
+Analyzed
+Number 
+
+Failed
+CDN-GS-2G FA-ICP 2.26 g/t Au 1.98-2.55 g/t Au 10 1
+CDN-GS-8A FA-ICP 8.25 g/t Au 7.35-9.15 g/t Au 42 7
+
+CDN-GS-30B FA-GRAV 29.21 g/t Au 27.37-31.06 g/t Au 37 2
+CDN-GS-1P5C FA-ICP 1.56 g/t Au 1.37-1.76 g/t Au 19 3
+
+CDN-GS-1H FA-ICP 0.972 g/t Au 0.810-1.13 g/t Au 236 141,2
+
+CDN-GS-3J FA-ICP and FA-AA 2.71 g/t Au 2.32-3.10 g/t Au 50 3
+CDN-GS-6A FA-ICP 5.69 g/t Au 4.97-6.41 g/t Au 
+
+10 0
+CDN-GS-6A FA-GRAV 5.79 g/t Au 5.10-6.48 g/t Au 
+CDN-GS-22 FA-GRAV 22.94 g/t Au 21.26-24.62 g/t Au 4 2
+CDN-FCM-6 FA-ICP and FA-AA 2.15 g/t Au 1.91-2.39 g/t Au 11 1
+
+   572 41
+112 of these assayed between 2.5 and 2.8 g/t Au, suggesting a possible mixup with insertion of standard CDN-GS-3J instead of 
+standard CDN-GS-1H 
+22 of these assayed below detection limit (<5 ppb Au suggesting a possible mixup with insertion of blanks instead of standard CDN-
+GS-1H 
+33 of these assayed below detection limit (<5 ppb Au), suggesting a possible mixup with insertion of blanks instead of standard 
+CDN-GS-5F 
+48 of these were not analyzed due to insufficient material 
+ 
+
+Pulp (33) and core (34) duplicates were analyzed during the summer 2011 drill program, with one of 
+each per hole/shipment. The pulp duplicates showed good correlation between the two samples with 
+R2=0.9435. Core duplicates also showed good correlation between the original sample and the duplicate, 
+with R2=0.9517 (Peshkepia and Silvester, 2011). 
+
+The author is confident that the 2011 core was securely handled and that laboratory contamination 
+was not a problem in 2011, but believes that the program suffered from sloppy standard insertion in the core 
+facility. The author does not have sufficient information to know whether the samples were securely 
+transported from the core facility to ALS Minerals in Val d'Or. Likewise, the author does not know the reason 
+for the standard failures, whether their batches were re-analyzed and whether the failures were due to faulty 
+analyses or sample switches in the lab or core facility. 
+
+11.2 2012 Program 
+
+11.2.1 2012 Core Handling and Security 
+
+All 2012 core samples were put in wooden core trays at the drill site, sealed with a lid and strapped 
+with fibre tape. The core was transported daily from the drill site via helicopter by Expedition Helicopters to 
+Balmoral's core facility at Camp Fenelon (hole MDW-12-44) or Martinière camp (all remaining 2012 holes) 
+where all logging and sampling occurred. The core was sawn in half as described in Section 10.0. One half of 
+the core was placed back into the core tray for the record. The other half of the core was placed with a 
+waterproof sample tag in a plastic sample bag labeled with the same unique six digit number as the sample 
+tag and then sealed with a cable tie. Up to 10 sealed sample bags were placed in labeled rice bags along 
+with the request for analysis. The rice bags were sealed with a custom-made cable tie imprinted with Equity's 
+name and a unique number. Once the sampling was completed, samples from individual holes were sent to 
+the laboratory as separate batches in order to optimally track and minimize possible handling and/or sample 
+preparation errors. Prior to shipment to the laboratory, each sample bag was checked to verify it was 
+numbered properly and sealed. Samples were transported to ALS Minerals in Val d'Or, Québec by Balmoral 
+personnel. Upon arrival in Val d'Or an ALS Minerals employee would verify that each rice bag had been 
+delivered without tampering. The core from the winter program is stored at Fenelon Mine and at Camp 
+Fenelon; the core from the summer and fall programs is stored at Martinière camp.  
+
+
+
+53 
+
+ 
+
+11.2.2 2012 Analytical Techniques 
+
+All 2012 core samples from the Martinière project were prepared and analysed by ALS Minerals' 
+analytical facility in Val d'Or, Québec. This facility is individually certified to standards within ISO 9001:2008 
+and has received accreditation to ISO/IEC 17025:2005 from the Standards Council of Canada (SCC) for the 
+following methods: 
+
+ Determination of Au by Lead Collection Fire Assay and Atomic Absorption Spectrometry 
+
+ Determination of Au by Lead Collection Fire Assay and Gravimetric Finish 
+
+Core samples were prepared and analysed using conventional methods by ALS Minerals. Sample 
+preparation and analysis procedures include the following steps: 
+
+• Samples were weighed, dried and crushed to a minimum of 70% < 2 mm material. 
+
+• Crushed samples were mechanically split (riffle) splitter to provide a 1000-gram representative 
+sample. 
+
+• 1000-gram samples were then pulverized to a minimum of 85% <75μm material. 
+
+• 30 grams of the pulverized samples were fire assayed for gold with an atomic absorption finish 
+(ALS code Au-AA23). 
+
+• For samples whose initial fire assay exceeded 5 g/t Au, another 30 grams of the pulverized 
+samples were then fire assayed for gold with gravimetric finish (ALS code Au-GRA21). 
+
+• For samples whose Au-GRA21 fire assay exceeded 10 g/t Au, screen metallics fire assaying was 
+carried out on a 1000 gram pulverized sample (ALS code Au-SCR21). 
+
+• Selected samples were analyzed for 35 other elements using ICP-AES methods and an aqua 
+regia digestion (ALS code ME-ICP41). 
+
+11.2.3 2012 Analytical Quality Assurance / Quality Control 
+
+During the 2012 drilling programs, 941 standards, 978 field blanks, 471 quarter core duplicates and 
+462 preparation duplicates were inserted into the analytical sample stream to estimate accuracy and 
+precision and to detect sample contamination during sample preparation and analysis (Lustig, 2012). Every 
+tenth sample was alternately either a blank or a low, medium or high grade gold standard depending on the 
+nature of mineralization sampled. Additional blanks were inserted in some sections of high-grade 
+mineralization. Every twentieth sample was alternately either a field (core) duplicate or a laboratory (prep) 
+duplicate. The core duplicate, a one-quarter split, was collected at the same time as the original sample using 
+the same procedure and given a separate sample number. For the preparation duplicate the analytical lab 
+was requested to prepare a second pulp from a selected sample's crushed reject material and that assay was 
+marked with a separate sample number. An empty sample bag with the sample tag was provided to the 
+analytical lab.  
+
+Blanks consisted of quartz chips known to be barren of gold mineralization. Of the 978 blanks 
+inserted, 39 (4%) exceeded the failure criterion of 5x detection limit (25 ppb Au). Of these, it appears that 4 of 
+the failures were due to mistaken insertion of standards instead of blanks into the sample stream, either one 
+or two were due to sample mix-ups in the lab and the remainder of the failures were due to contamination in 
+the lab. With one exception, all of the contamination failures were at a very low level and would have no 
+significant impact on assay values. The remaining failed blank assayed 1.885 g/t Au, but this blank followed 
+extremely high-grade samples assaying up to 1530 g/t Au; contamination at this level would be insignificant in 
+this interval (Lustig, 2012). 
+
+Nine different reference materials, with varying mineralogy and Au grades, were used as standards; 
+all were supplied by CDN Resource Laboratories Ltd. of Langley, B.C. Standards were considered to have 
+failed if analytical results for them fell outside the range defined by the accepted value ±3 standard 
+deviations. Out of the 941 standards analyzed, 60 failed. Of these, 6 standard failures appear to be caused 
+by mixups in the core facility or analytical laboratory, with incorrect standards or blanks inserted into the 
+
+
+
+54 
+
+ 
+
+sample stream. No follow-up action was taken on 33 of the failed standards, because they were within barren 
+or background intervals. The remaining 21 failed standards were re-assayed with the surrounding samples 
+and the new assays used, once the standards were within the failure limit of ±3 standard deviations.  
+Statistical summaries of the standards indicate the gold assays tend to be biased slightly high compared to 
+the certified values of the standards. Lustig (2012) concluded: 
+
+"Although standard analyses were close to the certified gold values overall, there were an 
+unusually large number of `failures`, many of which could be considered far outliers with analyses 
+significantly different from the expected values. Although many of these were associated with a single 
+standard, the re-assays generally returned acceptable results, indicating that the initial result was 
+spurious in nature and due to analytical issues rather than standard quality. 
+
+There were also a considerable number of lab mix-ups, more than normal for a program of this 
+size. There did not seem to be single cause, as the mix-ups were at different stages in the analytical 
+program. ALS were made aware of our concerns and were reviewing their procedures." 
+
+Duplicate sample analysis does not cause samples or batches to be passed or failed; it simply 
+estimates precision and indicates how representative the sampling and sub-sampling procedures are. Figure 
+17 shows scatter-plots for core, preparation and pulp duplicates for the 2012 Martinière drill program; red 
+points are outliers removed before statistical processing. The core duplicates show the most scatter and 
+worst precision; these improve progressively with preparation duplicates and pulp duplicates (carried out by 
+ALS as part of their internal QA/QC program), as the samples become more homogeneous through crushing, 
+grinding and mixing. Lustig (2012) concludes: 
+
+"Overall precision of gold analyses is typical of high grade gold mineralization of this type. The 
+nugget effect of the high grade analyses and a large proportion of low grade analyses influencing 
+some measures of precision such as the ARD% vs. rank plots and CVAVG(%). The large number of 
+low grade analyses had a greater influence on the precision estimates preparation and pulp 
+duplicates. The precision of higher grade gold analyses indicate that there is probably adequate 
+sample and particle size reduction during crushing and pulverizing. 
+
+The measurement of the core sampling error would be improved by submitting the other half of 
+the core instead of a quarter core but this would not have altered the actual sampling error, just our 
+estimation of it. It is the same with submitting two equal sized ¼ core samples for the original and field 
+duplicate. Sampling error at the crushing/pulverizing stages is a relatively small component of the 
+overall error compared to the initial sampling error (Stanley and Smee, 2007). There may be some 
+benefit in increasing crushing to 85% passing 2 mm from the current 70% and/or pulverize to 95% 
+passing 105 μm from the current 85% passing 75 μm. As indicated previously, although the overall 
+precision does not appear good for preparation and pulp duplicates, at potential ore grades, precision 
+is adequate." 
+
+
+
+55 
+
+ 
+
+ 
+Figure 17: Scatter-plots for 2012 Martinière Duplicates 
+
+ 
+
+A random selection of 138 samples (6.6%) were chosen from a pyritic subset of the 2012 Martinière 
+core samples for gold assay at an external laboratory. It was felt that using a pyritic subset would reduce the 
+number of analyses of barren samples, given the association between gold and pyrite. The pyritic subset 
+(n=2103) had a median gold value of 0.268 ppm against a median gold value of 0.024 ppm for all core 
+samples. The 138 samples were assayed at Techni-Lab S. G. B. Abitibi Inc. in Ste-Germaine-Boulé, QC. 
+Techni-Lab is a wholly owned subsidiary of Activation Labs and is accredited by the Standards Council of 
+Canada to ISO/IEC 17025:2005 (CAN-P4E) for gold by fire assay followed by AAS and gravimetric finishes 
+(Accredited Lab No. 707). The pulps were analysed by methods comparable to that employed by ALS. The 
+median of the Techni-Lab analyses was 4.5% higher than the ALS original analyses and the mean was 
+5.32% higher than ALS. Techni-Lab results are higher at low grades but the difference decreases up to a 
+grade of 0.17 ppm Au, where they are equal. Results are close between the two labs up to 7.4 ppm Au, 
+above which the Techni-Lab results are higher (Lustig, 2012). 
+
+The author believes that sample preparation, security, and analytical procedures were adequate for 
+the 2012 drilling on the Martinière property and agrees with Lustig's (2012) conclusion that "the quality control 
+and check assays completed confirm that the 2012 Martinière gold assay data is accurate, precise and free 
+of contamination to industry standards and is of sufficient quality to be used in resource estimation". 
+
+
+
+56 
+
+ 
+
+12.0 DATA VERIFICATION 
+
+The author examined the Martinière property in the field in July and August 2012 and spotted 
+numerous holes of the summer 2012 program. He directly managed exploration on the Martinière property 
+from July 6-24 and August 20-27, 2012 and examined core from holes MDW-12-60 to -64, MDE-12-29 to -63 
+and MDX-12-1 to -7. Before this time, field management of the exploration programs was carried out by other 
+Equity personnel. After this time and for the period in between visits, field management of the exploration 
+programs was carried out by other Equity personnel, but the author remained involved in oversight of the 
+exploration throughout the balance of 2012. The author reviewed and discussed data and interpretations with 
+Equity's geologists on numerous occasions throughout the 2012 drilling and after. 
+
+The author performed a number of checks to verify the data processed by other Equity personnel. He 
+located 10 drill collars in the field and compared the coordinates he obtained from a hand-held GPS with 
+those in the drill database. He compared descriptions in the drill logs from 3 holes with the corresponding 
+core. He compared assays from 5 randomly-selected assay certificates against the values in the drill 
+database. He calculated weighted averages for four randomly-selected intervals for comparison against those 
+prepared by the project geologists and summarized in this report. In each case, the information in the project 
+databases was verified by the data checks. 
+
+The author believes that the data is adequate for the purposes of this technical report. 
+
+13.0 MINERAL PROCESSING AND METALLURGICAL TESTING 
+
+No mineral processing or metallurgical testwork has been reported on samples from the Martinière 
+property. 
+
+14.0 MINERAL RESOURCE ESTIMATES 
+
+No estimates of mineral resources or mineral reserves have been made for the Martinière property. 
+
+15.0 ADJACENT PROPERTIES 
+
+There is no information on adjacent properties which is necessary to make the technical report 
+understandable and not misleading. 
+
+16.0 OTHER RELEVANT DATA AND INFORMATION 
+
+No other information or explanation is necessary to make this technical report understandable and not 
+misleading. 
+
+17.0 INTERPRETATION AND CONCLUSIONS 
+
+Exploration on the Martinière property has targeted shear-hosted gold mineralization linked to 
+deformation along the Sunday Lake Deformation Zone. This style of mineralization is similar in nature to that 
+at the Detour Lake mine, which is under construction 50 kilometres to the west along the same deformational 
+belt. Historically, exploration has been hampered on the Martinière property by extensive glacial overburden, 
+with gold mineralization discovered through drilling of geophysical anomalies. Only a very small portion of the 
+property has been drill-tested to date, but three significant zones of gold mineralization have been recognized 
+and partially delineated: Martinière West, Bug Lake Fault Zone (BLFZ) and Martinière East.   
+
+
+
+57 
+
+ 
+
+At Martinière West, 2012 drilling confirmed the existence of a planar structural corridor (the Main 
+Zone) striking approximately 200° and dipping steeply to the west. High-grade gold mineralization is present 
+within this corridor, localized into discrete shears and vein-rich zones which pinch and swell from tens of 
+centimetres to several metres in width. In addition to gold-bearing structures within the Main Zone, there 
+appear to be numerous satellite structures lying outboard and parallel to the main shear zone. These zones, 
+while apparently smaller in size, locally host excellent gold values and could represent a valuable part of any 
+future resource. The basic outline and nature of the mineralization in this zone was established during the 
+2011 drilling campaign; the major contribution of the 2012 program was to both better define the zone and 
+show that it is open both to the south and at depth. Drilling at the south end of the zone intersected excellent 
+gold grades at 345 metres below surface, the deepest and southernmost drilling at Martinière West to date. 
+Though results of drilling from the northern end of the zone were not as promising as those from the south, 
+the zone can still be considered open in this direction. Scattered historical drilling, corroborated by 2012 
+drilling, suggest that though the Main Zone does not appear to continue un-interrupted to the north, there is a 
+possibility of fault offsets to the zone or parallel structures which gain width and importance at the expense of 
+the Main Zone. The establishment of potential for mineralization at depth in the south also raises the 
+possibility that good mineralization is present in the north below the current, poorly-mineralized intersections.  
+
+High-grade gold mineralization was discovered in 2012 within and surrounding the Bug Lake Fault 
+Zone (BLFZ), which separates a multiphase gabbroic intrusion in the Martinière West area from shallower 
+basalt, fine clastic sedimentary rocks, felsic dykes and massive pyrite lenses in the Martinière East area. 
+Previous work had established this fault exists as a significant property-scale structure, but had not 
+demonstrated the existence of any mineralization beyond a few isolated gold highs in the area. Current 
+drilling shows that within a broad (up to 100 m in width) corridor, significant gold grades of 5-10 g/t are 
+present over several metres with isolated samples of 30-100 g/t Au. The zone was shown to strike roughly 
+north-south and to dip towards the east, with a shallowly south-plunging portion dipping shallowly whereas 
+portions above and below dip quite steeply; initial indications are that gold mineralization was preferentially 
+deposited in steeply-dipping portions. Within the fault corridor there is a mix of lithologies, including all units 
+found in both Martinière East and West domains, which appear to have been caught up in the fault during an 
+early stage of brittle deformation. Cutting through this mix of rock types (and apparently re-healing much of 
+the faulting) is a network of felsic porphyry intrusions and accompanying quartz-calcite-dolomite veins. Gold 
+deposition likely occurred during this later stage of fluid and magma emplacement. Gold is found primarily 
+within highly altered wedges of country rock which were favourably placed to act as depositional sites for the 
+mineralized fluids and within the veins themselves. The porphyritic intrusions are generally, but not always, 
+low in gold content.  
+
+In addition to gold-bearing zones within the package of varied lithologies that defines the BLFZ, the 
+basalt of the hanging wall of the fault hosts what appear to be isolated discontinuous zones of high-grade 
+gold mineralization focussed on small shears and faults that have allowed mineralized fluid flow. These small 
+shears are likely either second order structures which have splayed off the BLFZ or intersections of a parallel 
+shear system which is not yet well described. Either way, their presence adds value to the corridor 
+surrounding the BLFZ as an exploration target, and should be taken account when planning any future drill 
+holes. 
+
+Within the footwall of the BLFZ is the Footwall Zone, which hosts the highest-grade mineralization so 
+far discovered on the property, with gold concentrations up to 1200 g/t. Though slightly different in 
+appearance to the mineralization within the main BLFZ, this zone's proximity to the larger fault zone strongly 
+suggests a genetic connection. The set of ore shoots grouped into this zone may be a set of second-order 
+structures branching off the main BLFZ which concentrated the auriferous fluids flowing through the area at 
+the time of mineralization. Despite being relatively small in size and somewhat discontinuous, the extremely 
+high-grade nature of the mineralization in the footwall of the BLFZ makes it a very attractive exploration 
+target. Drilling in the latter part of the 2012 succeeded in tracing the zone over a strike length of nearly 100 m, 
+shadowing the best-defined zone of mineralization within the BLFZ itself. Future exploration in the BLFZ area 
+should take into account the possibility of the existence of Footwall Zone-style ore shoots anywhere along the 
+footwall of the fault corridor.  
+
+
+
+58 
+
+ 
+
+Though it was not possible to trace out a single zone of high-grade mineralization (like the Main Zone 
+at Martinière West) over the length of the BLFZ, drilling has demonstrated that significant gold-bearing zones 
+are abundant within the overall structure over a strike length of ~250 m. Both its northern and southern ends 
+are fully open and represent very prospective future exploration targets. The BLFZ is also open to depth, with 
+almost no drilling having been done to depth from collars stepped out to the east and correctly oriented to 
+target the fault (there has been drilling to the east of the BLFZ, but it was conducted prior to the discovery of 
+the zone and holes were stopped short of it). In particular, another steeply-dipping portion of the BLFZ has 
+been recognized at depth but to date no drilling has been oriented across it.  
+
+Drilling on the Martinière East zone to the east of the BLFZ has been largely targeted at a strata-
+bound massive sulphide package which strikes east-northeast with a dip to the south-southeast, for its 
+potential to host base metals or gold. Results show that while the VMS horizon does not host any sulphides 
+apart from pyrite, and thus is not an attractive base metal target, and is not itself enriched in gold, there are 
+numerous gold-bearing shears and veins in the area. At present, it has not been possible to unambiguously 
+link up these zones into a larger structural corridor. This is quite likely due to the fact that the area is 
+extensively faulted and that all holes were drilled to cross-cut stratigraphy, an oblique angle for northerly-
+trending zones like the BLFZ or Martinière West. Westerly-directed holes would test for the presence of a 
+northerly-trending gold-bearing structural corridor in the Martinière East area. 
+
+The author does not believe that there are any significant risks or uncertainties that could reasonably 
+be expected to affect the reliability or confidence in the exploration information on the Martinière property. 
+
+The author believes that aggressive exploration is warranted on the Martinière property, given:  
+
+ the presence of significant orogenic gold mineralization associated with the Sunday Lake 
+Deformation Zone to the east and west of the Martinière property at the Fenelon and Detour 
+Lake mines; 
+
+ the excellent grades and widths of gold mineralization intersected in the Martinière West, 
+BLFZ and Martinière East areas; 
+
+  that the Martinière West Main Zone is open to the south and to depth; 
+
+ that the BLFZ is open along strike in each direction and to depth;  
+
+ that the full extent of footwall mineralization below the BLFZ has not been delineated; and  
+
+ the potential of Martinière East to host a third northerly-trending shear/vein corridor like 
+Martinière West and the BLFZ. 
+
+18.0 RECOMMENDATIONS 
+
+18.1 Program 
+
+An aggressive 20,000 metre diamond drilling program is recommended for the Martinière property. It 
+is envisaged that this will require two diamond drills during the winter (January – March) 2013 season. Drill 
+support will be provided by snow machines and cat based in the Martinière camp. Given the timing 
+uncertainties due to weather in building an ice crossing of the Turgeon River, mobilization of drills, cat, fuel 
+and ancillary equipment will be with a medium-lift helicopter, but later camp support and demobilization 
+should be possible by winter road. 
+
+Drilling should be focused on the following areas: 
+
+ Bug Lake Fault Zone (BLFZ) (12,000 metres, 50-60 holes). Drilling should test the BLFZ to the 
+north and south of current sections to determine its geometry, extending as far as alteration and gold 
+mineralization continue along strike. There may be other high-grade sections along the BLFZ as yet 
+unrecognized, controlled by fault geometry or lithology. Drilling should test the BLFZ at depth below 
+the 2012 drilling. In particular, the BLFZ appears to steepen again below current drilling; the best 
+
+
+
+59 
+
+ 
+
+grades to date are within a steeply-dipping portion of the BLFZ nearer surface and this lower steeply-
+dipping portion should be thoroughly tested. All drilling at the BLFZ should be extended at least 50 
+metres into the footwall and further where deformation continues, in order to better understand and 
+delineate the footwall mineralized zones. 
+
+ Martinière West (4,000 metres, 10-15 holes). The deep intersections at the southern end of the 
+Main Zone should be followed up by further drilling, particularly at depth. Further drilling should be 
+done on sections to the south of current drilling to determine whether alteration and mineralization 
+continue in this direction. 
+
+ Martinière East (3,000 metres, 15-20 holes). Westerly-directed holes should be targeted at some of 
+the better previously-reported intersections in the Martinière East area. Follow-up westerly-directed 
+holes in close proximity should show whether mineralization in Martinière East is hosted by northerly-
+striking structures similar to those hosting Martinière West Main Zone and the BLFZ, and give an 
+initial indication of the size and strength of these structures. 
+
+ New targets (1,000 metres, 5-10 holes). Drilling should continue to test geophysical and 
+geochemical targets across the property in an effort to discover new zones of deformation, alteration 
+and gold deposition away from known mineralization. These holes should be mainly targeted on the 
+basis of breaks in geophysical data (magnetics, conductors, resistivity or chargeability), particularly 
+northerly-trending ones, which could indicate structural dislocations and associated alteration and 
+mineralization. The OM and MMI data from the soil geochemical survey could help prioritize the 
+geophysical targets.  
+
+18.2 Budget 
+
+All figures are in Canadian dollars. 
+
+Personnel  $    549,250 
+Camp and Support      219,254 
+Drilling   2,440,000 
+Cat, Fuel, Coreboxes, Winter Road      425,270 
+Aircraft        60,650 
+Analyses      249,590 
+Report/Assessment        32,700 
+
+ $ 3,976,714 
+Contingency      397,671 
+Project Supervision      278,776 
+
+ $ 4,653,161 
+ 
+
+The recommended program will cost approximately C$4.65 million to complete. 
+
+ 
+
+Respectfully submitted, 
+
+"signed and sealed" 
+
+_________________________ 
+
+Neil W. Perk, P.Geo. 
+
+EQUITY EXPLORATION CONSULTANTS LTD. 
+
+Vancouver, British Columbia   
+
+Effective Date: January 5, 2013 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix A: References 
+
+ 
+
+
+
+ 
+
+ 
+
+REFERENCES 
+
+Daigneault, R., Mueller, W. U., and  Chown, E. H., 2004, Abitibi greenstone belt plate tectonics: A history of 
+diachronic arc development, accretion and collision, in Eriksson, K. A., Altermann, W., Nelson, D. R., 
+Mueller, W., Catuneanu, O., and Strand, K., eds., The Precambrian earth: Tempos and events, 
+Developments in Precambrian Geology 12: Amsterdam, Elsevier, p. 88-103. 
+
+Dubé, B., and  Gosselin, P., 2007, Greenstone-hosted quartz-carbonate vein deposits in Goodfellow, W. D., 
+ed., Mineral Deposits of Canada: A Synthesis of Major Deposit-types, District Metallogeny, the 
+Evolution of Geological Provinces, and Exploration Methods, Special Publication 5, Mineral Deposits 
+Division, Geological Association of Canada, p. 49-73. 
+
+EnvironmentCanada, 2012, Climate Normals and Averages (Matagami). 
+
+Fiset, N., Prikhodko, A., Kwan, K., and  Legault, J., 2011, Report on a Helicopter-Borne Versatile Time 
+Domain Electromagnetic (VTEMplus) and Horizontal Magnetic Gradiometer Geophysical Survey, 
+Martinière Property: Private report for Balmoral Resources Ltd., dated November 2011, p. 65. 
+
+Goldfarb, R. J., Baker, T., Dube, B., Groves, D. I., Hart, C. J. R., and  Gosselin, P., 2005, Distribution, 
+Character, and Genesis of Gold Deposits in Metamorphic Terranes: Economic Geology 100th 
+Anniversary Volume, p. 407-450. 
+
+Goldfarb, R. J., Groves, D. I., and  Gardoll, S. J., 2001, Orogenic gold and geologic time: a global synthesis: 
+Ore Geology Reviews, v. 18, p. 1-75. 
+
+Groves, D. I., Goldfarb, R. J., Gebre-Mariam, M., Hagemann, S. G., and  Robert, F., 1998, Orogenic gold 
+deposits: A proposed classification in the context of their crustal distribution and relationship to other 
+gold deposit types: Ore Geology Reviews, v. 13, p. 7-27. 
+
+Lacroix, S., 1988, Géologie de la région des rivières Turgeons et Théo, Ministère de l'Énergie et des 
+Ressources du Québec, 36 p. 
+
+Leclerc, A., and  Giguère, E., 2010, Technical Report on Fénelon Property: Val d'Or: Private report prepared 
+by Gestion Aline Leclerc Inc., p. 95. 
+
+Lustig, G. N., 2012, Review of 2012 Quality Control Results, Martinière Project: Private report for Equity 
+Exploration Consultants Ltd. and Balmoral Resources Ltd., p. 45. 
+
+MRN, 2007a, Compilation géologique - Lac Spradbrow (32L/3), Géologie Québec, p. 1:50,000 scale 
+geological map. 
+
+MRN, 2007b, Compilation géologique - Rivière Rouget (32L/2), Géologie Québec, p. 1:50,000 geological 
+map. 
+
+Perk, N., Swanton, D., and  Treat, R., 2013, 2012 Drill Program Report, La Martinière Property: Private report 
+prepared for Balmoral Resources Ltd. and submitted to MNR for assessment credit, p. 104. 
+
+Perk, N., Treat, R., and  Swanton, D., 2012, 2011 Drill Program Report, La Martinière Property: Private report 
+for Balmoral Resources Ltd. dated December 2012, p. 79. 
+
+Peshkepia, A., and  Silvester, S., 2011, Independent Technical Report, La Martinière Property: 43-101 report 
+prepared for Balmoral Resources Ltd. and dated December 30, 2011, p. 190. 
+
+Rabayrol, F., 2011a, The structural, geological and geochemical characteristics of gold mineralization in the 
+La Martinière prospect, Abitibi gold province of Québec, Canada, Institut Polytechnique Lasalle 
+Beauvais, 102 p. 
+
+Rabayrol, F., 2011b, The Structural, Geological and Geochemical Characteristics of Gold Mineralization in 
+the La Martinière Prospect, Abitibi Gold Province of Québec, Canada, Institut Polytechnique LaSalle 
+Beauvais. 
+
+Ritchie, D. G., Allaire, A., Live, P., Dagbert, M., and  Dupere, M., 2012, Detour Lake Updated Mine 
+Production Plan: NI 43-101 Technical Report prepared for Detour Gold Corporation and dated 
+October 18, 2012, p. 394. 
+
+
+
+ 
+
+ 
+
+Stanley, C. R., and  Smee, B. W., 2007, Strategies for reducing sampling errors in exploration and resource 
+definition drilling programs for gold deposits, Geochemistry: Exploration Environment Analysis, 
+Volume 7, p. 329-340. 
+
+Thurston, P. C., Ayer, J. A., Goutier, J., and  Hamilton, M. A., 2008, Depositional Gaps in Abitibi Greenstone 
+Belt Stratigraphy: A Key to Exploration for Syngenetic Mineralization: Economic Geology, v. 103, p. 
+1097-1134. 
+
+Wagner, D., 2012, Report on the 2011 Drill Program, Grasset Property. 
+
+Walcott, P. E., and  Walcott, A., 2011, A Report on Induced Polarization Surveying, Martinière Property: 
+Private report for Balmoral Resources Ltd. dated December 2011, p. 134. 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix B: Claim Data 
+
+
+
+ 
+
+ 
+
+CLAIM DATA 
+
+Title Number  NTS  Title Type  Registration Date Expiry Date  Title Holder  Area (ha) NSR
+
+2089671  32L02  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.34 2% 
+
+2089674  32L02  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.33 2% 
+
+2089675  32L02  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.33 2% 
+
+2089676  32L02  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.32 2% 
+
+2089677  32L02  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.32 2% 
+
+2089678  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.34 2% 
+
+2089679  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.33 2% 
+
+2089680  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.33 2% 
+
+2089681  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.33 2% 
+
+2089682  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.33 2% 
+
+2089683  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.33 2% 
+
+2089684  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.32 2% 
+
+2089685  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.32 2% 
+
+2089686  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.32 2% 
+
+2089687  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.32 2% 
+
+2089688  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.32 2% 
+
+2089689  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.31 2% 
+
+2089690  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.31 2% 
+
+2089691  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.31 2% 
+
+2089692  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.3 2% 
+
+2089693  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.3 2% 
+
+2089694  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.3 2% 
+
+2089695  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.29 2% 
+
+2089696  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.29 2% 
+
+2089697  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.29 2% 
+
+2089698  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.29 2% 
+
+2089699  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.28 2% 
+
+2089700  32L03  CDC  05/06/2007  04/06/2013 Balmoral Resources Ltd.  55.27 2% 
+
+2089883  32L02  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.34 2% 
+
+2089884  32L02  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.33 2% 
+
+2089885  32L02  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.33 2% 
+
+2089887  32L02  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.32 2% 
+
+2089892  32L02  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.31 2% 
+
+2089893  32L02  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.3 2% 
+
+2089894  32L02  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.29 2% 
+
+2089895  32L02  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.29 2% 
+
+2089897  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.35 2% 
+
+2089898  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.35 2% 
+
+2089899  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.35 2% 
+
+2089900  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.35 2% 
+
+2089901  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.35 2% 
+
+
+
+ 
+
+ 
+
+Title Number  NTS  Title Type  Registration Date Expiry Date  Title Holder  Area (ha) NSR
+
+2089902  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.35 2% 
+
+2089903  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.35 2% 
+
+2089904  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.35 2% 
+
+2089905  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.34 2% 
+
+2089906  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.34 2% 
+
+2089907  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.33 2% 
+
+2089908  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.32 2% 
+
+2089909  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.32 2% 
+
+2089910  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.31 2% 
+
+2089911  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.31 2% 
+
+2089912  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.31 2% 
+
+2089913  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.31 2% 
+
+2089914  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.3 2% 
+
+2089915  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.3 2% 
+
+2089916  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.3 2% 
+
+2089917  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.3 2% 
+
+2089918  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.3 2% 
+
+2089919  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.29 2% 
+
+2089920  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.29 2% 
+
+2089921  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.29 2% 
+
+2089922  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.29 2% 
+
+2089923  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.29 2% 
+
+2089924  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.29 2% 
+
+2089925  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.29 2% 
+
+2089926  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.29 2% 
+
+2089927  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.28 2% 
+
+2089928  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.28 2% 
+
+2089929  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.28 2% 
+
+2089930  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.28 2% 
+
+2089931  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  36.55 2% 
+
+2089932  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.27 2% 
+
+2089933  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.27 2% 
+
+2089934  32L03  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.27 2% 
+
+2089957  32L02  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.34 2% 
+
+2089958  32L02  CDC  06/06/2007  05/06/2013 Balmoral Resources Ltd.  55.34 2% 
+
+2269086  32L02  CDC  10/02/2011  21/09/2014 Balmoral Resources Ltd.  55.35 0 
+
+2269087  32L02  CDC  10/02/2011  21/09/2014 Balmoral Resources Ltd.  55.35 0 
+
+2269088  32L02  CDC  10/02/2011  21/09/2014 Balmoral Resources Ltd.  55.34 0 
+
+2269089  32L02  CDC  10/02/2011  21/09/2014 Balmoral Resources Ltd.  55.34 0 
+
+2283991  32L03  CDC  27/04/2011  01/05/2013 Balmoral Resources Ltd.  55.28 0 
+
+2284009  32L02  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.34 0 
+
+2284010  32L02  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.33 0 
+
+2284011  32L02  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.33 0 
+
+
+
+ 
+
+ 
+
+Title Number  NTS  Title Type  Registration Date Expiry Date  Title Holder  Area (ha) NSR
+
+2284012  32L02  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.32 0 
+
+2284013  32L02  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.32 0 
+
+2284014  32L02  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.31 0 
+
+2284015  32L02  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.31 0 
+
+2284016  32L02  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.3 0 
+
+2284017  32L02  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.3 0 
+
+2284018  32L02  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.29 0 
+
+2284019  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.34 0 
+
+2284020  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.34 0 
+
+2284021  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.34 0 
+
+2284022  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.33 0 
+
+2284023  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.33 0 
+
+2284024  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.33 0 
+
+2284025  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.32 0 
+
+2284026  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.32 0 
+
+2284027  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.32 0 
+
+2284028  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.32 0 
+
+2284029  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.31 0 
+
+2284030  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.31 0 
+
+2284031  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.31 0 
+
+2284032  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.31 0 
+
+2284033  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.3 0 
+
+2284034  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.3 0 
+
+2284035  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.34 0 
+
+2284036  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.34 0 
+
+2284037  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.33 0 
+
+2284038  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  55.3 0 
+
+2284049  32L03  CDC  27/04/2011  09/04/2014 Balmoral Resources Ltd.  51.45 0 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix C: Drill Hole Collar Location, Collar 
+
+Orientation and Length  
+
+
+
+ 
+
+ 
+
+Drill Hole Collar Location, Collar Orientation and Length 
+
+Hole Core Size Easting Northing Elevation (m) Azimuth (°) Dip (°) Length (m)
+
+MD-97-01 Unknown 640643 5541948 256 330 -50 109.50 
+MD-97-02 Unknown 641886 5543792 256 330 -50 201.00 
+MD-97-03 Unknown 641435 5542251 256 330 -45 153.00 
+MD-97-04 Unknown 641265 5542546 256 330 -45 150.00 
+MD-97-05 Unknown 641100 5542747 256 330 -50 201.00 
+MD-97-06 Unknown 641523 5543622 256 330 -45 174.00 
+MD-97-07 Unknown 640455 5544556 256 60 -45 150.00 
+MD-97-08 Unknown 642815 5544656 256 330 -45 156.00 
+MD-99-09 Unknown 640449 5542291 256 330 -49 203.00 
+MD-99-10 Unknown 641348 5543153 256 330 -49 187.00 
+MD-99-11 Unknown 641231 5543329 256 330 -50 201.00 
+MD-99-12 Unknown 641408 5543551 256 330 -50 218.00 
+MD-99-13 Unknown 641594 5543536 256 330 -45 306.00 
+MD-99-14 Unknown 641470 5543594 256 330 -45 221.00 
+MD-99-15 Unknown 641553 5543633 256 330 -45 209.00 
+MD-99-16 Unknown 641593 5543489 257 330 -45 180.00 
+MD-99-17 Unknown 641257 5543282 256 330 -50 144.00 
+MD-00-18 NQ 641653 5543599 256 330 -50 119.00 
+MD-00-19 BQ 641501 5543453 256 330 -45 161.00 
+MD-00-20 NQ 641556 5543457 256 330 -50 224.00 
+MD-00-21 NQ 641292 5543313 256 330 -50 155.00 
+MD-00-22 BQ 641441 5543654 257 75 -45 111.00 
+MD-00-23 NQ 641434 5543565 257 105 -50 152.00 
+MD-00-24 Unknown 641610 5543863 256 330 -45 236.00 
+MD-00-25 Unknown 641576 5543532 256 355 -45 110.00 
+MD-00-26 Unknown 641576 5543532 256 305 -45 113.00 
+MD-00-27 Unknown 641633 5543530 256 330 -60 155.50 
+MD-00-28 BQ 641096 5543145 253 330 -45 260.00 
+MD-00-29 Unknown 641418 5543386 256 330 -45 141.00 
+MD-06-01 NQ 641222 5543281 256 25 -50 162.00 
+MD-06-02 NQ 641222 5543281 256 331 -50 162.00 
+MD-06-03 NQ 641601 5543484 256 330 -60 201.00 
+MD-06-04 NQ 641481 5543644 256 331 -50 150.00 
+MD-06-05 NQ 640958 5543053 256 331 -50 195.00 
+MD-06-06 NQ 641546 5543575 256 360 -90 102.00 
+MD-06-07 NQ 641227 5543271 256 360 -65 201.00 
+
+MD-06-08 (MD-99-14-TW) NQ 641474 5543595 257 331 -45 60.00 
+MD-06-09 (MD-97-06-TW) NQ 641518 5543619 257 331 -45 171.00 
+
+MD-07-10 NQ 640879 5543018 256 330 -50 198.00 
+MD-07-11 NQ 640979 5543014 252 330 -50 245.80 
+MD-07-12 NQ 641029 5543088 253 330 -50 300.00 
+MD-07-13 NQ 641134 5543081 255 330 -50 351.00 
+MD-07-14 NQ 641172 5543177 255 330 -50 294.00 
+MD-07-15 NQ 641246 5543207 256 330 -50 252.00 
+MD-07-16 NQ 641010 5542959 256 300 -60 300.00 
+MD-07-17 NQ 641163 5543031 254 330 -50 196.30 
+MD-07-18 NQ 641329 5543240 256 330 -54 250.00 
+
+ 
+
+
+
+ 
+
+ 
+
+Drill Hole Collar Location, Collar Orientation and Length (continued) 
+
+Hole Core Size Easting Northing Elevation (m) Azimuth (°) Dip (°) Length (m)
+
+MD-07-19 NQ 641772 5543583 258 330 -60 251.00 
+MD-07-20 NQ 641856 5543610 258 330 -60 250.00 
+MD-07-21 NQ 637459 5547607 256 30 -50 216.00 
+MD-07-22 NQ 637789 5547774 256 30 -50 252.00 
+
+MDE-11-01 NQ 641871 5543584 258 330 -60 326.83 
+MDE-11-02 NQ 641884 5543626 258 330 -60 255.00 
+MDE-11-03 NQ 641836 5543603 258 330 -60 252.00 
+MDE-11-04 NQ 641972 5543641 257 330 -50 300.00 
+MDE-11-05 NQ 641972 5543641 257 330 -57 207.00 
+MDE-11-06 NQ 641999 5543598 258 330 -45 351.00 
+MDE-11-07 NQ 641989 5543821 256 330 -45 247.89 
+MDE-11-08 NQ 642290 5543902 256 330 -50 201.16 
+MDE-11-09 NQ 642050 5543698 256 320 -50 309.00 
+MDE-11-10 NQ 641986 5543714 257 320 -45 276.00 
+MDE-11-11 Unknown 641986 5543714 257 360 -55 198.11 
+MDE-11-12 NQ 641847 5543449 258 326 -50 252.00 
+MDE-11-13 NQ 641847 5543449 258 326 -67 201.00 
+MDE-11-14 NQ 641992 5543652 258 235 -50 240.00 
+MDE-11-15 NQ 642235 5543161 257 327 -50 402.00 
+MDE-11-16 NQ 642116 5543687 256 330 -50 225.00 
+MDW-11-01 NQ 641160 5543198 255 330 -50 200.00 
+MDW-11-02 NQ 641185 5543152 255 330 -54 300.00 
+MDW-11-03 NQ 641216 5543202 256 330 -50 269.00 
+MDW-11-04 NQ 641130 5543151 254 330 -50 252.00 
+MDW-11-05 NQ 641084 5543123 253 330 -50 251.00 
+MDW-11-06 NQ 641042 5543065 253 330 -50 287.00 
+MDW-11-07 NQ 640989 5543058 252 330 -50 265.58 
+MDW-11-08 NQ 641373 5543260 256 330 -50 221.38 
+MDW-11-09 NQ 641428 5543262 256 345 -50 299.83 
+MDW-11-10 NQ 640923 5543013 256 330 -50 250.00 
+MDW-11-11 NQ 641287 5543224 256 330 -50 300.00 
+MDW-11-12 NQ 641511 5542841 256 330 -45 312.00 
+MDW-11-13 NQ 641511 5542841 256 330 -50 291.00 
+MDW-11-14 NQ 641120 5543247 255 200 -70 144.00 
+MDW-11-15 NQ 641120 5543247 255 200 -88 102.00 
+MDW-11-16 NQ 641120 5543247 255 200 -46 150.00 
+MDW-11-17 NQ 641134 5543197 254 330 -63 190.11 
+MDW-11-18 NQ 641134 5543197 255 330 -50 27.00 
+
+MDW-11-18A NQ 641134 5543197 255 330 -47 9.00 
+MDW-11-19 NQ 641134 5543197 255 330 -74 165.00 
+MDW-11-20 NQ 641163 5543246 255 330 -66 165.00 
+MDW-11-21 NQ 641163 5543246 255 330 -50 188.97 
+MDW-11-22 NQ 641182 5543271 256 330 -50 180.00 
+MDW-11-23 NQ 641099 5543404 255 330 -50 300.00 
+MDW-11-24 NQ 641056 5543293 255 130 -45 21.00 
+
+MDW-11-24A NQ 641056 5543293 255 130 -45 189.06 
+MDW-11-25 NQ 641056 5543293 255 130 -54 185.92 
+MDW-11-26 NQ 641028 5543530 256 330 -50 21.00 
+
+MDW-11-26A NQ 641028 5543530 256 330 -54 234.00 
+ 
+
+
+
+ 
+
+ 
+
+Drill Hole Collar Location, Collar Orientation and Length (continued) 
+
+Hole Core Size Easting Northing Elevation (m) Azimuth (°) Dip (°) Length (m)
+
+MDW-11-27 NQ 641056 5543293 255 130 -68 240.00 
+MDW-11-28 NQ 641099 5543271 255 110 -45 10.50 
+
+MDW-11-28A NQ 641099 5543271 255 110 -45 261.00 
+MDW-11-29 NQ 641099 5543271 255 110 -61 30.00 
+
+MDW-11-29A NQ 641099 5543271 255 110 -61 360.20 
+MDW-11-30 NQ 641005 5543245 254 110 -45 330.00 
+
+MDW-11-31A NQ 641005 5543245 254 110 -52 220.00 
+MDW-11-32 NQ 641005 5543245 254 110 -61 240.00 
+MDW-11-33 NQ 641051 5543193 254 110 -45 126.00 
+MDW-11-34 NQ 641051 5543193 254 110 -67 210.00 
+MDW-11-35 NQ 641034 5543168 254 113 -45 126.00 
+MDW-11-36 NQ 641034 5543168 254 113 -57 181.75 
+MDW-11-37 NQ 641034 5543168 254 113 -67 141.00 
+MDW-11-38 NQ 641117 5543330 255 113 -57 276.00 
+MDW-11-39 NQ 641117 5543330 255 113 -45 180.00 
+MDW-11-40 NQ 641117 5543330 255 113 -66 189.00 
+MDW-11-41 NQ 641134 5543345 256 113 -45 45.11 
+
+MDW-11-41A NQ 641134 5543345 256 113 -45 177.00 
+MDW-11-42 Unknown 641134 5543345 256 113 -59 273.00 
+MDW-11-43 NQ 641134 5543345 256 113 -69 125.88 
+MDE-12-17 NQ 642133 5543658 256 330 -46 123.00 
+MDE-12-18 NQ 642133 5543658 256 330 -59 117.00 
+MDE-12-19 NQ 642117 5543661 255 315 -55 360.00 
+MDE-12-20 NQ 642117 5543661 255 315 -69 105.00 
+MDE-12-21 NQ 642112 5543621 255 315 -50 300.00 
+MDE-12-22 NQ 642112 5543621 255 315 -65 252.00 
+MDE-12-23 NQ 642087 5543592 256 315 -50 147.00 
+MDE-12-24 NQ 642087 5543592 256 315 -58 360.00 
+MDE-12-25 NQ 641738 5543734 259 75 -45 198.00 
+MDE-12-26 NQ 641738 5543734 259 75 -65 12.00 
+
+MDE-12-26A NQ 641738 5543734 259 75 -70 150.00 
+MDE-12-27 NQ 641842 5543400 258 315 -45 186.00 
+MDE-12-28 NQ 641845 5543401 257 315 -60 102.00 
+MDE-12-29 NQ 641899 5543686 258 248 -45 218.00 
+MDE-12-30 NQ 641900 5543686 258 248 -60 200.00 
+MDE-12-31 NQ 641824 5543814 257 248 -45 167.00 
+MDE-12-32 NQ 641824 5543814 257 248 -65 92.00 
+MDE-12-33 NQ 641824 5543815 257 248 -80 101.00 
+MDE-12-34 NQ 642134 5543687 256 331 -45 101.00 
+MDE-12-35 NQ 642135 5543686 256 331 -65 155.00 
+MDE-12-36 NQ 642135 5543686 256 337 -80 101.00 
+MDE-12-37 NQ 642112 5543572 257 310 -55 356.00 
+MDE-12-38 NQ 642112 5543572 257 310 -70 152.00 
+MDE-12-39 NQ 641873 5543728 258 250 -45 161.00 
+MDE-12-40 NQ 641970 5543574 258 240 -45 239.00 
+MDE-12-41 NQ 641874 5543729 258 250 -70 170.00 
+MDE-12-42 NQ 641874 5543729 258 250 -88 176.00 
+MDE-12-43 NQ 641971 5543575 258 240 -68 230.00 
+MDE-12-44 NQ 641854 5543608 259 288 -55 182.02 
+
+ 
+
+
+
+ 
+
+ 
+
+Drill Hole Collar Location, Collar Orientation and Length (continued) 
+
+Hole Core Size Easting Northing Elevation (m) Azimuth (°) Dip (°) Length (m)
+
+MDE-12-45 NQ 641854 5543608 258 286 -64 185.00 
+MDE-12-46 NQ 641957 5543630 258 240 -45 197.00 
+MDE-12-47 NQ 641854 5543608 258 278 -46 137.00 
+MDE-12-48 NQ 641956 5543629 258 240 -77 251.00 
+MDE-12-49 NQ 642025 5543766 256 244 -62 290.00 
+MDE-12-50 NQ 641889 5543780 257 250 -45 236.00 
+MDE-12-51 NQ 641890 5543781 257 250 -62 149.92 
+MDE-12-52 NQ 641890 5543781 257 250 -76 150.00 
+MDE-12-53 NQ 642025 5543766 256 244 -45 380.00 
+MDE-12-54 NQ 641971 5543516 258 240 -45 12.00 
+
+MDE-12-54A NQ 641971 5543517 258 240 -45 245.05 
+MDE-12-55 NQ 641971 5543517 258 240 -65 227.03 
+MDE-12-56 NQ 642154 5543626 257 308 -50 125.00 
+MDE-12-57 NQ 642154 5543626 257 319 -50 134.00 
+MDE-12-58 NQ 641873 5543690 258 245 -54 185.00 
+MDE-12-59 NQ 641873 5543690 258 245 -49 182.00 
+MDE-12-60 NQ 641874 5543690 258 242 -55 191.04 
+MDE-12-61 NQ 641874 5543690 258 242 -57 224.00 
+MDE-12-62 NQ 641803 5543742 258 193 -46 191.00 
+MDE-12-63 NQ 641803 5543742 258 193 -45 134.00 
+MDE-12-64 NQ 641819 5543679 258 270 -45 128.00 
+MDE-12-65 NQ 641820 5543680 258 270 -56 107.00 
+MDE-12-66 NQ 641820 5543680 258 270 -67 149.00 
+MDE-12-67 NQ 641881 5543643 258 250 -45 179.00 
+MDE-12-68 NQ 641882 5543643 258 250 -60 248.00 
+MDE-12-69 NQ 641882 5543643 258 250 -72 191.00 
+MDE-12-70 NQ 641885 5543648 256 250 -82 236.00 
+MDE-12-71 NQ 641882 5543643 258 270 -45 44.00 
+
+MDE-12-71A NQ 641823 5543660 256 270 -45 125.00 
+MDE-12-72 NQ 641823 5543660 256 270 -55 101.00 
+MDE-12-73 NQ 641919 5543632 256 250 -45 182.00 
+MDE-12-74 NQ 641919 5543632 256 250 -60 215.00 
+MDE-12-75 NQ 641919 5543632 256 250 -71 215.00 
+MDE-12-76 NQ 641814 5543703 256 270 -45 113.00 
+MDE-12-77 NQ 641814 5543703 256 270 -58 155.00 
+MDE-12-78 NQ 641814 5543703 256 270 -65 122.00 
+MDE-12-79 NQ 641855 5543651 256 268 -49 152.00 
+MDE-12-80 NQ 641855 5543651 256 268 -53 149.00 
+MDE-12-81 NQ 641921 5543661 256 270 -50 245.00 
+MDE-12-82 NQ 641818 5543721 256 270 -45 95.00 
+MDE-12-83 NQ 641818 5543721 256 270 -57 107.00 
+MDW-12-44 NQ 641380 5543650 259 135 -45 324.00 
+MDW-12-45 NQ 641380 5543650 259 135 -56 12.00 
+MDW-12-46 NQ 641153 5543384 258 135 -45 21.55 
+
+MDW-12-46A NQ 641153 5543384 258 135 -45 137.95 
+MDW-12-47 NQ 641153 5543384 258 135 -60 167.90 
+MDW-12-48 NQ 641083 5543084 255 317 -45 222.00 
+MDW-12-49 NQ 640980 5543221 254 113 -45 210.00 
+MDW-12-50 NQ 640980 5543221 254 113 -62 38.96 
+
+ 
+
+
+
+ 
+
+ 
+
+Drill Hole Collar Location, Collar Orientation and Length (continued) 
+
+Hole Core Size Easting Northing Elevation (m) Azimuth (°) Dip (°) Length (m)
+
+MDW-12-50A NQ 640979 5543223 255 113 -64 326.87 
+MDW-12-51 NQ 641199 5543424 254 140 -45 143.91 
+MDW-12-52 NQ 641199 5543424 254 140 -60 159.08 
+MDW-12-53 NQ 641076 5543316 256 113 -45 146.95 
+MDW-12-54 NQ 641075 5543315 256 113 -55 180.05 
+MDW-12-55 NQ 640930 5543316 252 113 -45 342.00 
+MDW-12-56 NQ 641210 5543557 255 135 -45 45.20 
+
+MDW-12-56A NQ 641211 5543558 255 135 -49 252.00 
+MDW-12-57 NQ 640931 5543316 251 113 -54 36.00 
+
+MDW-12-57A NQ 640931 5543316 251 113 -55 372.00 
+MDW-12-58 NQ 640934 5543210 253 113 -58 339.00 
+MDW-12-59 NQ 640934 5543210 252 113 -47 252.00 
+MDW-12-60 NQ 640816 5543257 252 109 -45 431.00 
+MDW-12-61 NQ 640819 5543308 252 109 -47 476.00 
+MDW-12-62 NQ 640816 5543257 252 109 -52 516.00 
+MDW-12-63 NQ 640816 5543188 251 107 -45 113.17 
+
+MDW-12-63A NQ 640816 5543188 251 117 -45 407.96 
+MDW-12-64 NQ 640817 5543186 251 117 -51 29.00 
+
+MDW-12-64A NQ 640817 5543186 251 117 -52 461.71 
+MDX-12-01 NQ 641636 5543193 260 305 -45 385.51 
+MDX-12-02 NQ 640731 5543000 255 340 -45 50.00 
+
+MDX-12-02A NQ 640731 5543000 255 340 -47 269.00 
+MDX-12-04 NQ 640572 5542435 255 320 -45 296.10 
+MDX-12-05 NQ 640529 5542008 255 320 -45 272.00 
+MDX-12-06 NQ 640491 5541697 255 320 -50 248.00 
+MDX-12-07 NQ 641600 5543275 257 305 -50 325.57 
+MWW-12-01 NQ 640888 5541917 256 239 -87 100.00 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix D: Qualified Person's Certificate 
+
+
+
+ 
+
+ 
+
+ 
+
+QUALIFIED PERSON'S CERTIFICATE 
+
+I, Neil W. Perk, P.Geo., do hereby certify: 
+ 
+
+THAT I am a Professional Geoscientist with offices at 200-900 West Hastings Street and residing at 1518 
+Graveley Street, Vancouver, British Columbia, Canada. 
+
+THAT I am the author of the Technical Report entitled "2013 Technical (N.I. 43-101) Report on the Martinière 
+Property" and with an effective date of January 5, 2013, relating to the Martinière property (the 
+"Technical Report"). I am responsible for all items within it.  
+
+THAT I am a member in good standing (#34,688) of the Association of Professional Engineers and 
+Geoscientists of British Columbia. 
+
+THAT I graduated from the University of Victoria with a Bachelor of Science (Honours) degree in Earth 
+Sciences in 2006 and a Masters of Business Administration (Finance Concentration) from McGill 
+University in 2012, and with the exception of 21 months spent acquiring the MBA, I have practiced my 
+profession continuously since 2006. 
+
+THAT since 2006, I have been involved in mineral exploration for gold, silver, copper, lead, zinc, 
+molybdenum, tungsten and uranium in Canada, Peru and Argentina.   
+
+THAT I am a Consulting Geologist and principal of Equity Exploration Consultants Ltd., a geological 
+consulting and contracting firm, and have been so since June 2012. 
+
+THAT I have read the definition of "independence" set out in Part 1.5 of National Instrument 43-101 ("NI 43-
+101") and certify that I am independent of Balmoral Resources Ltd. 
+
+THAT I have examined the property which is the subject of the Technical Report in the field July 6-24, 2012 
+and August 20-27, 2012 and that I have had no prior involvement with that property. 
+
+THAT I have read the definition of "qualified person" set out in National Instrument 43-101 ("NI 43-101") and 
+certify that by reason of my education, affiliation with a professional association (as defined in NI 43-
+101) and past relevant work experience, I fulfill the requirements to be a "qualified person" for the 
+purposes of NI 43-101. 
+
+THAT as of the effective date of the Technical Report, to the best of my knowledge, information and belief, 
+this Technical Report contains all scientific and technical information that is required to be disclosed to 
+make the Technical Report not misleading. 
+
+THAT I have read National Instrument 43-101 and Form 43-101F1, and the Technical Report has been 
+prepared in compliance with that instrument and form. I am responsible for the entire content of this 
+report.  
+
+THAT I consent to the filing of the Technical Report with any stock exchange and other regulatory authority 
+and any publication by them for regulatory purposes, including electronic publication in the public 
+company files on their websites accessible by the public, of the Technical Report. 
+
+ 
+
+Dated at Vancouver, British Columbia, with effective date of January 5, 2013: 
+
+ 
+
+ 
+
+"signed and sealed" 
+
+_____________________ 
+Neil W. Perk, P.Geo. 
+
+ 
+
+
+'

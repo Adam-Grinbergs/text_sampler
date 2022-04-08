@@ -1,0 +1,2091 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zinkgruvan Technical Report Dec 2008 FINAL signed.docx
+
+
+Page 1 of 66
+
+MINERAL RESERVES AND MINERAL RESOURCES
+
+OF THE
+
+ZINKGRUVAN MINE
+
+IN SOUTH-CENTRAL SWEDEN
+
+DECEMBER 2008
+
+Prepared by
+
+Lars Malmström, AusIMM, Chief Geologist of Zinkgruvan Mining AB
+
+Per Hedström, AusIMM, Senior Geologist at Zinkgruvan Mining AB 
+
+Doug Syme, AusIMM, General Manager, Zinkgruvan Mining AB
+
+31 March 2009
+
+
+
+Page 2 of 66
+
+1 SUMMARY ..................................................................................................................................5
+
+2 INTRODUCTION .........................................................................................................................8
+2.1 Purpose and Data Information .............................................................................................8
+2.2 Qualified Persons ................................................................................................................8
+2.3 Units and Currency..............................................................................................................8
+
+3 RELIANCE ON OTHER EXPERTS..............................................................................................9
+
+4 PROPERTY DESCRIPTION AND LOCATION...........................................................................10
+4.1 Location ............................................................................................................................10
+4.2 Property Description ..........................................................................................................11
+
+5 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES AND INFRASTRUCTURE AND 
+PHYSIOGRAPHY......................................................................................................................12
+
+5.1 Access ..............................................................................................................................12
+5.2 Climate..............................................................................................................................12
+5.3 Local Resources and Infrastructure....................................................................................12
+5.4 Physiography.....................................................................................................................13
+
+6 HISTORY ..................................................................................................................................14
+
+7 GEOLOGICAL SETTING ...........................................................................................................16
+7.1 Regional and Local Geology..............................................................................................16
+7.2 Deposit Geology................................................................................................................18
+
+8 DEPOSIT TYPES ......................................................................................................................24
+
+9 MINERALIZATION.....................................................................................................................25
+9.1 Zinc / Lead Orebodies .......................................................................................................25
+9.2 Copper Mineralisation........................................................................................................25
+
+10 EXPLORATION .........................................................................................................................27
+
+11 DRILLING..................................................................................................................................28
+
+12 SAMPLING METHOD AND APPROACH ...................................................................................29
+
+13 SAMPLE PREPARATION, ANALYSES AND SECURITY...........................................................30
+13.1 Sample Preparation...........................................................................................................30
+13.2 Assaying ...........................................................................................................................30
+
+13.2.1 Zinkgruvan Laboratory Analytical Method ........................................................................30
+13.2.2 ACME Analytical Method.................................................................................................31
+13.2.3 ALS Analytical Method ....................................................................................................32
+
+13.3 Security .............................................................................................................................33
+
+14 DATA VERIFICATION ...............................................................................................................34
+
+
+
+Page 3 of 66
+
+14.1 QA/QC ..............................................................................................................................34
+14.2 Verification by Authors.......................................................................................................34
+
+15 ADJACENT PROPERTIES ........................................................................................................35
+
+16 MINERAL PROCESSING AND METALLURGICAL TESTING ....................................................36
+
+17 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES...............................................37
+17.1 Resource and Reserve Areas ............................................................................................37
+17.2 Specific Gravity .................................................................................................................39
+17.3 Resource Estimation Procedures.......................................................................................39
+
+17.3.1 Estimation by Block Model Method..................................................................................39
+17.3.2 Estimation by Polygonal Method......................................................................................40
+17.3.3 Estimation by Sectional Method.......................................................................................41
+
+18 OTHER RELEVANT DATA AND INFORMATION.......................................................................48
+
+19 INTERPRETATION AND CONCLUSIONS.................................................................................49
+
+20 RECOMMENDATIONS..............................................................................................................50
+
+21 REFERENCES ..........................................................................................................................51
+
+22 DATE AND SIGNATURE ...........................................................................................................52
+22.1 Certificate of Per Hedström................................................................................................52
+22.2 Certificate of Lars Malmström ............................................................................................53
+22.3 Certificate of Doug Syme...................................................................................................54
+
+23 ADDITIONAL REQUIREMENTS FOR PRODUCTION PROPERTIES ........................................55
+23.1 Mining Operations .............................................................................................................55
+
+23.1.1 Mining Methods...............................................................................................................56
+23.1.2 Production Schedule .......................................................................................................58
+
+23.2 Metallurgical Process.........................................................................................................59
+23.2.1 Concentrator Flowsheet ..................................................................................................59
+23.2.2 Metallurgical Results .......................................................................................................61
+23.2.3 Backfill Plant ...................................................................................................................61
+23.2.4 Tailings ...........................................................................................................................62
+23.2.5 Copper Production ..........................................................................................................62
+Table 17 – Copper Metallurgical Testwork Results .....................................................................62
+
+23.3 Marketing ..........................................................................................................................63
+23.4 Contracts...........................................................................................................................63
+23.5 Environmental Considerations ...........................................................................................63
+23.6 Taxes ................................................................................................................................64
+23.7 Capital and Operating Cost Estimates ...............................................................................64
+23.8 Economic Analysis ............................................................................................................65
+23.9 Payback ................................................................................................................................66
+23.10 Mine Life..............................................................................................................................66
+
+
+
+Page 4 of 66
+
+LIST OF TABLES
+
+Table 1: Zinkgruvan Zinc/Lead Mineral Reserves at December 31, 2008 .......................................6
+Table 2: Zinkgruvan Zinc/Lead Mineral Resources at December 31, 2008 .....................................6
+Table 3: Zinkgruvan Copper Mineral Reserves at December 31, 2008...........................................7
+Table 4:       Zinkgruvan Copper Mineral Resources at December 31, 2008..........................................7     
+Table 5:       Detection Limits for ZMAB Laboratory Analyses...............................................................31
+Table 6:  ACME ICP-AES Method....................................................................................................32
+Table 7:       ALS ICP-AES Method........................................................................................................33
+Table 8:       Proven Zinc-Lead Mineral Reserve at December 31, 2008...............................................42
+Table 9:       Probable Zinc-Lead Mineral Reserve at December 31, 2008............................................43
+Table 10: Measured Zinc-Lead Mineral Resource at December 31, 2008........................................44
+Table 11:     Indicated Zinc-Lead Mineral Resource at December 31, 2008..........................................45
+Table 12:     Inferred Zinc-Lead Mineral Resource at December 31, 2008............................................46
+Table 13:     Probable Copper Mineral Reserves at December 31, 2008..............................................47
+Table 14:     Copper Mineral Resources at December 31, 2008...........................................................47
+Table 15:     Mine Production Forecast 2009 – 2018 ......... ..................................................................59
+Table 16:     Concentrator Operating Results 2004 to 2008..................................................................61
+Table 17:     Copper Metallurgical Testwork Results.............................................................................62
+Table 18:     Capital Cost Forecast 2008 – 2013...................................................................................64
+Table 19:     Operating Cost Forecast 2008 – 2013..............................................................................64
+Table 20:     Project Cash Flow (million US dollars)...............................................................................65
+Table 21:     Sensitivity Analysis (million US dollars)..... .......................................................................66
+
+LIST OF FIGURES 
+
+Figure 1: Property Location Map ..................................................................................................10
+Figure 2: Exploitation Concessions ..............................................................................................11
+Figure 3: Simplified Regional Geology Map..................................................................................16
+Figure 4: Generalized Property Geology Map...............................................................................17
+Figure 5: 650 Level Plan; Nygruvan Mine.....................................................................................19
+Figure 6: Schematic Cross-section - Nygruvan.............................................................................20
+Figure 7: 800 Level Plan - Burkland Zn/Pb and Cu Zones ............................................................21
+Figure 8: Schematic Cross-section - Knalla ..................................................................................22
+Figure 9:       Nygruvan Resource and Reserve Long Section ….........................................................39
+Figure 10:     Knalla Resource and Reserve Long Section ..................................................................39
+Figure 11:   Schematic 3D Figure over the mine.................................................................................55
+Figure 12: General Site Plan..........................................................................................................56
+Figure 13: Schematic of the Panel Stoping Method ........................................................................57
+Figure 14: Schematic of the Bench Stoping Method .......................................................................58
+Figure 15: Schematic of the Concentrator Flowsheet .....................................................................60
+
+
+
+Page 5 of 66
+
+1 SUMMARY
+
+This report presents the Mineral Reserves and Resources of the Zinkgruvan mine estimated by the 
+staff of Zinkgruvan Mining AB (Zinkgruvan) as of December 31, 2008.  Zinkgruvan owns and operates 
+the Zinkgruvan mine and processing plant, and is a subsidiary of Lundin Mining Corporation (Lundin).
+
+The Zinkgruvan mine is located in the south-central Sweden, 175 km west-southwest of Stockholm. 
+The Zinkgruvan deposit has been known since the 16th century. Large scale production started first in
+1857 and has continued uninterrupted since then. At present the annual production of zinc-lead-silver 
+ore is in the order of 900,000 tonnes.  Approximately 34 million tonnes have been mined from 
+Zinkgruvan up to the end of 2008.  The current remaining mine life is in excess of 10 years. 
+
+The warm Gulf Stream in the Atlantic gives southern Sweden a relatively mild climate. The average 
+summer temperature is approximately18° C. The average winter temperature is slightly below 
+freezing. The regional infrastructure of paved highways, electricity, telecommunications and other 
+communications is good. There are several villages and smaller towns in the surrounding area.  The 
+nearest large city is Örebro, 60 km to the north, which hosts a university, considerable industry and an 
+airport with flights to Copenhagen.
+
+The Zinkgruvan deposit is located in the SW corner of the Bergslagen mining district, a part of the 
+Proterozoic Svecofennian Domain. This district hosts numerous iron ore and base metal mines in 
+volcano-sedimentary complexes consisting of felsic metavolcanics with intercalated limestone, 
+calcsilicate and mineralized deposits. The district is composed of a series of small elongated basins 
+with felsic metavolcanics overlain by metasediments. The basins are surrounded by mainly granitoid 
+intrusions of which the oldest are of the same age as the felsic metavolcanics.
+
+The Zinkgruvan deposit is situated in an east-west striking synclinal structure. The tabular-shaped Zn-
+Pb-Ag orebodies occur in a 5- to 25 m-thick stratiform zone in the upper part of the metavolcanic-
+sedimentary group. In the central part of the deposit disseminated Cu mineralization is situated in the 
+immediate hanging wall of the Burkland Zn-Pb-ore body. The ore deposit is about 5 km long and 
+extends to a depth of at least 1,500 meters below surface.  It strikes mainly east-west and dips 
+towards north.  One sub-vertical fault splits the ore deposit in to two major parts, the Knalla mine to the 
+west and the Nygruvan mine to the east.  In the Nygruvan mine the dip is 60o -80o, while in the Knalla 
+mine folding is extensive and partly isoclinal.
+
+Most of the economic Zn-Pb-Ag mineralization consists of massive layers of sphalerite and galena 
+intercalated with barren layers of quarzitic metatuffite and calcsilicate rock.  Layers of disseminated 
+sphalerite and galena occur locally towards the hanging wall.  Galena is locally remobilized into veins, 
+particularly in the Knalla mine.
+
+The estimation of Mineral Resources and Mineral Reserves of Zinkgruvan is based on a database of 
+approximately 3,000 diamond drill holes.  The majority of the Zn-Pb-Ag Reserves have been 
+estimated by using block modelling and the Ordinary Kriging Method of grade interpolation.  In areas 
+
+
+
+Page 6 of 66
+
+with randomly and often sparsely distributed drill holes, estimations, mainly of Resources, have been 
+done by employing the Polygonal Method.  The cut-off values employed vary slightly between different 
+areas of the mine, however, a general NSR cut-off of 250 SEK/t has been used for the Zn-Pb-Ag 
+Resource. The Cu Resource is defined by a cut-off of 2.0% Cu.  Mineral Resources and Reserves as 
+of December 2008 are shown in the tables below.
+
+Table 1: Zinkgruvan Zinc/Lead Mineral Reserves at December 31, 2008
+
+Area Category Tonnes Zn Pb Ag
+( x1000) (%) (%) (g/t)
+
+Nygruvan Proven 1,619 13.7 4.1 77
+Knalla Proved 7,143 8.6 5.5 119
+Total Proven 8,762 9.6 5.2 112
+
+Nygruvan Probable 1,086 9.7 2.4 55
+Knalla Probable 914 7.0 2.8 58
+Total Probable 2,000 8.5 2.5 56
+
+Total All Categories 10,762 9.4 4.7 102
+
+For the Burkland deposit, zero-value wall rock (12%) and backfill (3%) dilution, mining recovery (95%) 
+and mining losses (3%) factors are applied to Mineral Resource estimates in arriving at the cut-off 
+figure. For the Nygruvan deposit, the corresponding figures are wall rock dilution 20-25%, mining 
+recovery 95% and mining loss 5%. There is no backfill factor required at Nygruvan. All reported 
+Mineral Resources are exclusive of Mineral Reserves.
+
+Table 2: Zinkgruvan Zinc/Lead Mineral Resources at December 31, 2008
+
+Area Category Tonnes Zn Pb Ag
+( x1000) (%) (%) (g/t)
+
+Nygruvan Measured 477 6.2 0.8 23
+Knalla Measured 76 6.5 1.7 27
+Total Measured 553 6.3 0.9 24
+
+Nygruvan Indicated 940 6.8 4.0 75
+Knalla Indicated 2,850 10.0 4.6 116
+Total Indicated 3,790 9.2 4.4 105
+
+Total Meas. + Ind. 4,343 8.8 4.0 95
+
+Nygruvan Inferred 82 9.8 3.6 62
+Knalla Inferred 4,117 9.7 3.1 69
+Total Inferred 4,199 9,7 3,1 68
+
+
+
+Page 7 of 66
+
+Table 3: Zinkgruvan Copper Mineral Reserves at December 31, 2008
+
+Area Category Tonnes Cu Zn Pb Ag
+( x1000) (%) (%) (%) (g/t)
+
+Knalla Probable 2,895 2.6 0.5 0.0 28
+
+For the Copper deposit, wall rock (8%) and backfill (3%) dilution, mining recovery (95%) and mining 
+losses (5%) factors are applied to Mineral Resource estimates in arriving at the cut-off figure. 
+
+Table 4: Zinkgruvan Copper Mineral Resources at December 31, 2008
+
+Area Category Tonnes Cu Zn Pb Ag
+( x1000) (%) (%) (%) (g/t)
+
+Knalla Indicated 460 2.9 0.5 0.0 30
+
+Knalla Inferred 550 3.0 0.1 0.0 42
+
+The Mineral Resource and Mineral Reserves are reported and prepared in accordance with the 
+requirements of National Instrument 43-101 and the guidelines published by the Council of the 
+Canadian Institute of Mining, Metallurgy and Petroleum (¨CIM Standards¨). 
+
+
+
+Page 8 of 66
+
+2 INTRODUCTION
+
+2.1 Purpose and Data Information
+
+This report has been prepared in order to present the 2008 year-end inventory of Mineral Resources 
+and Mineral Reserves at the Zinkgruvan Mine and to update previously issued Technical Reports. The 
+Zinkgruvan mine is owned by Zinkgruvan Mining AB (ZMAB), a subsidiary to Lundin Mining 
+Corporation, Canada since 2004.  The Zinkgruvan mine is situated in South Central Sweden and has 
+been in continuous operation since 1857.
+
+The information and data used for this report (except for chemical assaying of geological samples) has 
+been sourced from ZMAB, and the interpretation and evaluation of it has been done in-house.
+
+2.2 Qualified Persons
+
+The estimation of the Mineral Resource and Mineral Reserves of the Zinkgruvan Mine has been 
+prepared under the supervision of Lars Malmström and Per Hedström, both Members of The 
+Australasian Institute of Mining and Metallurgy (AusIMM). Lars Malmström, Chief Geologist of the 
+Zinkgruvan Mining AB, has worked at the mine since 1982 as Mining Geologist and Senior Mining 
+Geologist. Per Hedström, Senior Geologist at The Zinkgruvan Mining AB, has been working at the 
+Zinkgruvan mine since 1981, during the period 1984-2004 as Chief Geologist. Doug Syme who is also 
+a member of AusIMM and the current General Manager at Zinkgruvan has prepared Section 23 of this 
+report.
+
+2.3 Units and Currency
+
+Metric units are used throughout this report unless noted otherwise. Currency is primarily Swedish 
+Kronor or Crowns ("SEK") and United States Dollars ("US$"). The currency exchange rate used is 7.6 
+SEK per US$.
+
+
+
+Page 9 of 66
+
+3 RELIANCE ON OTHER EXPERTS
+
+Bengt-Arne Bergström, Mill Manager Zinkgruvan Mining AB has provided the information on mineral 
+processing in this report. Hannah Nilsson, Environmental Engineer Zinkgruvan Mining AB provided 
+information on environmental matters.
+
+
+
+Page 10 of 66
+
+4 PROPERTY DESCRIPTION AND LOCATION
+
+4.1 Location
+
+The Zinkgruvan mine is located in south-central Sweden in Närke County at approximately 58°49'N 
+latitude, 15°06'E longitude. As shown in Figure 1, it lies 175 west-southwest of Stockholm and 210 km 
+northeast of Goteborg. While there is a small village called Zinkgruvan surrounding the mine 
+installations, the nearest significant communities are Åmmeberg and Askersund, 10 km and 15 km 
+NW respectively from the mine. These towns house the majority of the mine employees.
+
+Figure 1: Property Location Map
+
+
+
+Page 11 of 66
+
+4.2 Property Description
+
+Zinkgruvan holds two exploitation concessions covering the deposit and its immediate area (Figure 2).  
+The "Zinkgruvan Concession", consisted originally of a large number of small mining rights, was 
+consolidated in 2000 into one concession covering an area of 254 ha. The "Klara Concession" was 
+granted in 2002 and covers 355 ha, mainly over "new areas" in the western part of the deposit. 
+"Zinkgruvan" and "Klara" are valid until 2025 and 2027. If mining continues after these years, the 
+concessions can be extended for periods of 10 years. 
+
+The two exploitation concessions are entirely held by ZMAB. The surface land in the concessions 
+areas belong mainly to private individuals. The regulations of the exploitation concessions involve no 
+particular restrictions on the mining operation. The Klara concession has, however, one restriction 
+stipulating that mining must always be done under a minimum rock cover of at least 150m thick and in 
+planned residential areas the cover has to be 400m. This restriction has no impact on mining because 
+the ore zones in the Klara concession are found at depths below 400m.
+
+Figure 2: Exploitation Concessions
+
+
+
+Page 12 of 66
+
+5 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES AND INFRASTRUCTURE AND 
+PHYSIOGRAPHY
+
+5.1 Access
+
+The property can be reached from Stockholm along highway E18 in a westerly direction for a distance 
+of 200 km to Örebro; from Örebro southward on highway E20 and County Road 50 for a distance of 
+50 km to Askersund, and then by a secondary paved road for a further 15 km through Åmmeberg to 
+Zinkgruvan.  Access to Örebro is also possible by rail and by aircraft on scheduled flights from 
+Copenhagen amongst other locations.
+
+Askersund is located at the north end of Lake Vättern, the second largest lake in Sweden. The largest 
+lake in the country, Lake Vänern, is some 50 km due west of Askersund. The port of Otterbäcken on 
+Lake Vänern is about 100 km from Zinkgruvan by road. The port of Göteborg on Sweden's west coast 
+is accessible by lake and canal from Otterbäcken, a distance of some 200 km.
+
+5.2 Climate
+
+The warm Gulf Stream in the Atlantic gives Sweden a milder climate than other areas at the same 
+latitude.  Stockholm, the capital, is at almost the same latitude as southern Greenland but has an 
+average temperature of 18ºC in July.  The winter temperatures average slightly below freezing and 
+snowfall is moderate.
+
+Temperature records for Zinkgruvan show that the mean annual temperature is 5.5ºC.  Mean monthly 
+temperatures are below freezing from December through March.  The coldest month is February, with 
+an average maximum temperature of -4.1ºC and an average minimum of -11.1ºC.  The warmest 
+month is August with an average maximum temperature of 18.2ºC and an average minimum of 
+12.2ºC.  Annual precipitation is about 750 mm, ranging from a low of 11 mm in March to a high of 144 
+mm in August.
+
+5.3 Local Resources and Infrastructure
+
+The community of Askersund has a population of about 14,000.  The village of Zinkgruvan has about 
+290 inhabitants.  Zinkgruvan is the largest private employer in the municipality with about 280 
+employees.  Other local economic activities include agriculture, construction and light service 
+industries.  The town of Askersund has a modest tourist industry in the summer and is a full service 
+community.
+
+The nearest airport is in Örebro with flights to Copenhagen and other centres.  Örebro also hosts a 
+university and considerable light and heavy industry.  As with virtually all of southern Sweden there is 
+an extensive network of paved highways, rail service, excellent telecommunications facilities, national 
+grid electricity, an ample supply of water and a highly educated work force.
+
+
+
+Page 13 of 66
+
+5.4 Physiography
+
+The property is located in very gently rolling terrain at about 175 metres above mean sea level ("masl") 
+and relief in the area is 30 m to 50 m. The land is largely forest and drift covered and cut by numerous 
+small, slow moving streams, typical of glaciated terrain and very reminiscent of boreal-forested areas 
+of Canada such as the Abitibi area of northern Ontario and Quebec. Outcrop is scarce.
+
+
+
+Page 14 of 66
+
+6 HISTORY
+
+The Zinkgruvan deposit has been known since the 16th century but it was not until 1857 that large 
+scale production began under the ownership of the Vieille Montagne Company of Belgium.  Vieille 
+Montagne merged into Union Miniere in 1990.  The earliest recorded mining activity in the area dates 
+from approximately 1700.  This was from the Isåsa mine, immediately to the north of the present 
+Zinkgruvan operation.  The mine operated intermittently until the mid 1800s, but never made a profit 
+and was shut down permanently in 1845.
+
+Interest in the present Zinkgruvan area as a potential zinc producer dates from 1846 - 47.  Trial mining 
+and smelting were carried out but the operation was unprofitable because of the large quantities of 
+coal required for reducing the ore.
+
+The Swedish owner of the property subsequently made contact with Vieille Montagne, the world 
+leader in the mining and processing of zinc ores at that time. The Belgian company agreed to 
+purchase the properties, including mineral rights and extensive surface rights in farm and forest land 
+and in 1857 a Royal Warrant was issued by the Swedish Crown authorizing this purchase by a foreign 
+company and documenting the terms of operation of the mine.
+
+The first shipment of ore from Zinkgruvan to Belgium was made in 1860.  Vieille Montagne 
+metallurgists, accustomed to treating oxidized ores in carbonate gangues, encountered severe 
+technical problems in smelting the sulphide ores, however, the problem was eventually solved by the 
+addition of a roaster on site in 1864.
+
+Processing, including roasting was carried out at Åmmeberg, with its small port facility on Lake 
+Vättern.  Zinkgruvan still has some real estate holdings in and around the village.  The former tailings 
+area now forms a golf course.   From the port, shipments of ore and (later) concentrate were shipped 
+out through the Swedish lake and canal system to the sea and on to Belgium.
+
+In the years immediately following the opening of the mine, production was carried out on a modest 
+scale.  Hand sorting and heavy media separation were sometimes employed to upgrade mined 
+material.  The rate of production was around 300,000 tonnes annually ("tpa") until the end of 1976. 
+
+In the mid-1970s, the company decided to expand production to 600,000 tpa.  A new main shaft was 
+sunk to gain access to additional deeper ore and the mining method was modified to allow for heavier, 
+mechanized equipment.  A new concentrator and tailings disposal facility were built adjacent to the 
+mine and the Åmmeberg facilities were largely rehabilitated and abandoned.  The new facilities were 
+brought on line at the beginning of 1977 and the rate of production gradually began to increase 
+towards the target of 600,000 tpa, which was achieved in 1982. Since then the production rate has 
+been further increased and in 2008 the production was 900,000 tonnes.
+
+
+
+Page 15 of 66
+
+In late 1995, North Limited of Australia purchased the mine from Union Miniere as part of a zinc 
+strategy and in addition to mining, carried out an aggressive exploration program in the immediate and 
+surrounding area.  In August 2000, Rio Tinto became the owner of Zinkgruvan when it acquired North 
+Limited.  Lundin Mining Corporation acquired the mine from Rio Tinto in June 2004 and is now the 
+owner of Zinkgruvan Mining AB.
+
+In December 2004, Silver Wheaton Corp. purchased the life of mine silver production from the 
+Zinkgruvan mine.
+
+
+
+Page 16 of 66
+
+7 GEOLOGICAL SETTING
+
+7.1 Regional and Local Geology
+
+Zinkgruvan is located in the SW corner of the Proterozoic-aged Bergslagen greenstone belt/mining 
+district, famed for its numerous iron ore and base metal mines, notably the Falun deposit (200 km 
+north of Zinkgruvan), which saw production from before the year 1000 until 1992. The belt is shown in 
+Figure 3.
+
+Figure 3: Simplified Regional Geology Map
+
+The ore-bearing Bergslagen district is part of the southern volcanic belt of the Svecofennian Domain.  
+The supracrustal rocks are dominated by felsic metavolcanic successions that can be up to 10 km 
+thick. Limestones, calcsilicates and mineralized deposits are commonly found within the 
+metavolcanics.  The district is comprised of a series of small proximal basins in a continental rift 
+environment.  The active extensional stage was characterized by felsic volcanism and intrusions 
+followed by subsidence and sedimentation.
+
+The Zinkgruvan deposit is situated in an east-west striking synclinal structure within the lower 
+Proterozoic Svecofennian supracrustal sequence (Figure 4).  This sequence consists of metavolcanic 
+and metasedimentary rocks 1.90 to 1.88 billion years old, which rest on an unknown basement.
+
+
+
+Page 17 of 66
+
+Figure 4: Generalized Property Geology Map
+
+During early stages of the orogeny 1.87 to 1.85 billion years ago, differentiated, I-type granitoids, 
+ranging from gabbro to granite in composition intruded the Svecofennian sequence.  From 1.84 billion 
+years ago until 1.77 billion years ago further intrusion occurred, forming late orogenic, undifferentiated, 
+S-type plutons and dikes associated with migmatites, comprising granites, aplites and a large number 
+of pegmatites.  Finally, post-orogenic granites belonging to the NNW trending Transscandinavian 
+granite-porphyry belt created a large volume of granitic intrusion about 1.73 billion years ago.
+
+The supracrustal rocks are divided into the following three lithostratigraphic groups:
+
+• Metavolcanic group in the lower part of the stratigraphy;
+• Metavolcano-sedimentary group; and
+• Metasedimentary group, which occupies the highest stratigraphic position of the
+
+supracrustal rocks in the Zinkgruvan area. 
+
+The metavolcanic group comprises mainly massive, fine-grained, red, felsic metavolcanic rocks which 
+are in part quartz-microcline porphyritic with a low ( 5%) biotite content. They occur mainly in the 
+northern part of the area and south of the Zinkgruvan basin structure. Some of the rocks in the 
+metavolcanic group are assumed to have an ignimbritic origin.
+
+
+
+Page 18 of 66
+
+The rocks of the metavolcano-sedimentary group are composed of mixed, chemically precipitated, and 
+tuffaceous metasediments. The major rock type in this group is a metatuffite, which is commonly well 
+banded and sometimes extremely finely laminated.  Calc-silicate rocks, marbles, calc-silicate-bearing 
+quartzites, quartzitic tuffaceous metasediments and sulphide ores are intercalated with the 
+metatuffites.  All of these rocks are intruded by metabasic sills and dikes, usually 2 to 3 m wide.
+
+The metasedimentary group contains mainly argillic, clastic metasediments, which have a high biotite 
+content (>30%).  They are strongly recrystallized and transformed to veined gneisses.  In upper parts 
+of the stratigraphy these have been migmatized and have undergone some anatexis to form grey, 
+medium grained, biotite-rich, massive granitoids. In the lower part of the group, disseminated 
+pyrrhotite occurs in garnet-bearing siliceous beds of primary exhalative origin.
+
+Most of the mineralization in the district is associated with the metavolcano-sedimentary group.  The 
+Zinkgruvan deposit, together with a number of small bodies of Zn-Pb mineralization are situated in the 
+higher part of the metavolcano-sedimentary group.  Higher up in the stratigraphy a stratiform pyrrhotite 
+mineralization occurs in the uppermost part of the metavolcano-sedimentary group and in the lower 
+part of the metasedimentary group.
+
+As a result of repeated deformation during the Svecofennian orogeny, the relatively incompetent 
+supracrustal rocks were isoclinally folded together with the more competent, primorogenic granitoid 
+massifs.  The metamorphism is low-pressure, upper amphibolite facies with migmatization and partial 
+melting of the biotite-rich rocks in the metasedimentary group.  Sillimanite and cordierite are common 
+index minerals in these rocks.  The low biotite rocks of the metavolcano-sedimentary group, which 
+underwent the same high-temperature metamorphism exhibit well preserved, recrystallized, primary 
+bedding.
+
+Regional deformation ended before regional metamorphism, as the late orogenic granites have not 
+been affected by the regional deformation.  The later granites of the Transscandinavian granite-
+porphyry belt have deformed the country rock during their intrusion, causing a local folding parallel to 
+subparallel to their margins.
+
+Brittle fracturing is marked by NNE-trending fault systems resulting in large-scale block movements 
+between sections of the country rock.  The Knalla fault, separating the Nygruvan and Burkland ore 
+zones is likely an example of such a fault.  Movements of several hundred metres are occasionally 
+observed along such faults (Figure 4).  These fault systems postdate an east trending dolerite dike 
+swarm, which has an age of about 1.53 billion years.
+
+7.2 Deposit Geology
+
+The massive sulphide Zn-Pb-Ag and disseminated Cu mineralisation are hosted by a metavolcano-
+sedimentary sequence with associated carbonates and cherts and extend for some 5 km along strike. 
+Structurally, the deposit has undergone several phases of folding and is divided into two distinct areas 
+
+
+
+Page 19 of 66
+
+by the regional NNE-SSW-trending Knalla fracture/fault zone.  The deposit geology is shown in 
+Figures 4 and 5.
+
+Stratigraphy is overturned such that the stratigraphic footwall forms the structural hanging wall.  From 
+the stratigraphic footwall (oldest) to the hanging wall (youngest), the deposit geology is presented 
+schematic as follows:
+
+• Felsic metatuffite (sometimes quartzitic and with occasional oxide iron formation beds);
+• Marble, hosting  the copper mineralization in the Burkland-Sävsjön area;
+• Massive sulphide Zn, Pb;
+• Calcsilicate bedded metatuffite;
+• Marble;
+• Felsic metatuffite with disseminated pyrrhotite near the upper stratigraphic contact; and
+• Argillic metasediment.
+
+Figure 5: 650 Level Plan; Nygruvan Mine
+
+The Nygruvan section of the mine, which has provided the bulk of the production until recently, is 
+situated to the east of the Knalla fracture/fault zone and consists of a single, fairly regular, tabular 5 m 
+- 25 m thick ore horizon, striking NW-SE, dipping 60° to 80° to the NE and with a near-vertical plunge.  
+It outcrops and persists to at least 1,300 m vertical depth.  Figures 5 and 6 show the 650 level plan 
+and schematic cross-section through the Nygruvan area respectively.
+
+
+
+Page 20 of 66
+
+Figure 6: Schematic Cross-section - Nygruvan
+
+The western or Knalla section of the mine, striking generally NE-SW (although quite variable locally) 
+and dipping NW, consists of several bodies of highly contorted Zn-Pb mineralization of quite variable 
+thickness (3 m – 40 m).  Dips are variable from near vertical to sub-horizontal. Plunges are also 
+variable with the Burkland body plunging moderately NE and Cecilia and Dalby plunging NW.  
+
+
+
+Page 21 of 66
+
+Burkland extends from 200 m to depths in excess of 1,500 m vertical.  It flattens considerably at depth 
+making exploration drilling and interpretation of results difficult.   Figures 7 and 8 show the 800 level 
+Burkland plan and a schematic cross-section through the Knalla area respectively.
+
+Figure 7: 800 Level Plan - Burkland Zn/Pb and Cu Zones
+
+
+
+Page 22 of 66
+
+Sitting in the immediate structural hanging wall of the Sävsjön-Burkland ore body is a copper
+(chalcopyrite) stringer zone hosted by dolomitic marbles, in turn overlain by the oldest unit in the mine 
+area, a metatuffite hyrothermally altered to a quartz-microcline rock (Figure 7). 
+
+The copper mineralization can be followed sporadically from the Sävsjön area in the west to the 
+Burkland area in the east at depths of between 300 and 400 m.  At Burkland, it thickens and follows 
+continuously the plunge of Burkland Zn-Pb-Ag orebody down dip. Core drilling has indicated the 
+copper mineralization at a depth of 1,500m.
+
+The copper zone dips steeply NW in its upper part but flattens out at depth. It is cut off latterly to the 
+NE by the Knalla fault and has been closed off by drilling to the SW. 
+
+Figure 8: Schematic Cross-section - Knalla
+
+The plan position of the chalcopyrite copper zone is shown in Figure 7.
+
+The metavolcano-sedimentary group consists mainly of a potassium-rich metatuffite with intercalations 
+of calcsilicate rocks, marbles, quartzites and sulphides. These intercalations give the metavolcano-
+sedimentary group, a pronounced stratification especially in the ore zone and its stratigraphic hanging 
+wall.
+
+
+
+Page 23 of 66
+
+The metatuffite is a homogenous, usually massive, quartz-microcline-biotite rock of rhyolitic to dacitic 
+composition. It has a granoblastic texture and is often gneissic.  The stratigraphy of the metavolcano-
+sedimentary group is best developed in the eastern part of the Nygruvan area where the sequence is 
+thickest. Metabasic sills and dikes intruding the metavolcanic and the sedimentary group are the 
+oldest intrusions. Dykes and irregular, massive, grey, usually coarse-grained pegmatites of granitic 
+composition are relatively common in the folded areas.
+
+There is clear evidence of hydrothermal alteration in the mine sequence. Altered rocks have been
+heavily depleted of Mg, Mn and Fe, although there is some disagreement regarding Mn depletion.  
+Sodium depletion is less evident in the mine area, although the Na/K ratio decreases upwards through 
+the footwall sequence of progressively more altered metatuffite. There is significant enrichment in Ba, 
+K, S and Ca.
+
+
+
+Page 24 of 66
+
+8 DEPOSIT TYPES
+
+While the most appropriate genetic model for Zinkgruvan is still somewhat controversial, evidence, 
+particularly the presence of what appears to be a copper rich stringer zone stratigraphically below the 
+Burkland ore body, seems to favour a volcanogenic ("VMS") model in a distal environment.  In this 
+model, mineralized hydrothermal fluids ascended through a vent system and deposited copper 
+mineralization just below the paleosea floor and lead-zinc sulphide mineralization in shallow, fairly flat-
+lying sea floor depressions during a particularly quiescent period. However, some researchers prefer 
+a sedimentary-exhalitive ("SEDEX") model.
+
+
+
+Page 25 of 66
+
+9 MINERALIZATION
+
+9.1 Zinc / Lead Orebodies
+
+Sphalerite and galena are the dominant sulphide minerals.  They generally occur as massive, well 
+banded and stratiform layers between 5 to 25 m thick.  At Nygruvan there are two parallel horizons 
+(mainly in the eastern portion of the orebody), separated by 3 to 8 m of gneissic metatuffite (quartz, 
+microcline, biotite, and minor muscovite, chlorite and epidotic). Chalcopyrite is present in small 
+amounts (<0.2% Cu).  Pyrrhotite, pyrite and arsenopyrite are present although the amount of pyrrhotite 
+and pyrite is typically low (<1% each). 
+
+Metamorphism and deformation have mobilised galena into veins and fissures sub-parallel to original 
+bedding in places.  Native silver was even more mobile and is often found in small fissures.  
+Remobilization is most commonly observed in the Pb-rich western part of Nygruvan and in the 
+Burkland area.  In both the Nygruvan and Knalla areas there is an increase in Zn-Pb grades towards 
+the stratigraphic hanging wall of the massive sulphide horizon.  Contacts of the mineralization with the 
+host stratigraphy are generally very sharp, more so on the stratigraphic hangingwall than footwall.
+
+In the Knalla portion of the mine, the structure is more complex and structural thickening is common. 
+There are often two to four parallel ore horizons separated by narrow widths of metatuffite. The Knalla 
+area consists of five individual Zn-Pb bodies for which Mineral Reserves and/or Mineral Resources 
+have been estimated.  Exploration is ongoing to further define and expand them along what is a 
+continuous although highly contorted horizon. 
+
+The mineralised bodies are, from NE to SW, Burkland, Savsjon, Mellanby, Cecilia and Borta Bakom.  
+In addition, the Lindangen zone occurs close to surface above Mellanby on the longitudinal section 
+and was exploited earlier in the mine's life. It hosts a small resource, which is unlikely to be exploited 
+because of its proximity to surface.
+
+The only significant difference in mineralogy from Nygruvan to Knalla is that the Co and Ni content are 
+higher in the Burkland - Sävsjön deposit and are of a sufficient level that to impact metallurgy and 
+concentrate quality.
+
+9.2 Copper Mineralisation
+
+Copper stockwork mineralization was noted on the structural hanging wall of the Burkland deposit 
+early in its exploration history. During 1996-1997 resource definition drilling at Burkland led to the 
+recognition of significant hanging wall copper mineralization and a copper-specific drilling program 
+was undertaken. 
+
+A Probable Mineral Reserve of 2.9 Mt grading 2.6% Cu, 0.5% Zn,  28 g/t Ag,  an Indicated Mineral 
+Resource of 0.46 Mt grading 2.9% Cu, 0.5% Zn, 30 g/t Ag and an Inferred Mineral Resource of 0.55 
+
+
+
+Page 26 of 66
+
+Mt grading 3.0% Cu, 0.1% Zn, 42 g/t Ag have since been defined. Infill drilling (30 x 30m) and further 
+exploration drilling are ongoing.
+
+The dip of the copper resource is steep (80 degrees) at higher levels (600-700m). It flattens out to 45 
+degrees at depths below 1,000m. The plunge is about 60 degrees towards the NNE.
+
+The host rock is a dolomitic marble with variable amounts of porphyroblastic Mg-silicates.  
+Chalcopyrite is the main copper mineral and occurs as fine-grained disseminations infilling between 
+dolomite grains or massive lumps and irregular veins up to several cm thick. Cubanite, CuFe2S3, is 
+also present and occurs as lamellae in chalcopyrite. Bornite is present, while tetrahedrite is rare.  
+Minor amounts of arsenopyrite are found locally. In its footwall plunge the copper mineralization 
+sometimes merges with the Burkland Zn-Pb ore body (Figure 7). Here it usually contains significant 
+amounts of sphalerite and some galena. 
+
+The Burkland copper resource is best developed at depths between 700 and 1,100 m. It has a strike 
+length of 100 to 180 m while the width varies from 5 up to 60 m with an average around 20 m. Up dip 
+the copper resource wedges out and become uneconomic above the 600 m level. From 1,100 m and 
+down to a depth of 1,200 m the width of the mineralization decreases to10 m. Infill drilling has not 
+taken place below this depth and no resource has yet been defined. However, the copper 
+mineralisation has been shown to extend to a depth of 1,500 m by core drilling.
+
+The disseminated character of the mineralization makes it sensitive to changes in the copper cut off 
+grade (Cu %). Decreasing the present used cut off grade of 2.0% to 1.5% Cu, the amount of Cu metal 
+increases by approximately 25% and the ore tonnage by approximately 33%.
+
+
+
+Page 27 of 66
+
+10 EXPLORATION
+
+The Zinkgruvan deposit has been known since the 16th century but it was not until 1857 that large 
+scale production began under the ownership of the Vieille Montagne Company of Belgium.  Since then 
+exploration of the deposit has progressed continuously. 
+
+With the expansion of the mine capacity in the mid-1970's exploration increased and became more 
+aggressive in the beginning of the 1980's.  At first, focus was on the continuation of the Nygruvan 
+mine at depth, but after that and at present the focus is towards the western half of the mining area 
+and the Knalla Mine at depth.
+
+Exploration by core drilling dominates, undertaken both from surface and underground.  Most of the 
+exploring drilling takes place underground from dedicated exploration drifts.  Since the 1980's 
+approximately 3,100 drill holes have been completed and the total length of drill core amounts to 
+approximately 480 km.
+
+
+
+Page 28 of 66
+
+11 DRILLING
+
+Diamond drilling data is the only data used for resource definition, stope definition and  grade control.  
+In the last 10 years between 5,700 and 34,000 m of drilling have been completed on the mine site 
+annually and approximately 20% of that was of a reconnaissance nature.
+
+Reconnaissance drilling for new mineralization is normally carried out from exploration drifts and 
+underground holes may be up to 1,200 m long. Occasionally surface holes are drilled.
+
+To qualify as Inferred Resources drill spacing is generally 100m vertical by 100m horizontal with no 
+mineralization exposed by development.  Indicated Resource drill spacing is in general 50 by 50m with 
+some mineralization exposed by development.  Measured Resources have drill spacing of 30 to 50m 
+and are often well exposed by development. Stope definition holes generally have a maximum 
+spacing of 15 to 20 m.
+
+Diamond drilling is done by contractors.  Holes over 100 m in length are surveyed using a Maxibor 
+instrument with readings taken every 3 m.  Core size is generally 28 - 36 mm for underground holes 
+and 28 – 39 mm for surface holes. Recovery is considered excellent, averaging near 100%.
+
+Drill core is delivered to a modern, well lit core shack on the mine site.  It arrives in labelled wooden 
+core trays.  The geologist calculates Q values (a geotechnical measurement combining several 
+measures) and proceeds to geologically log the core using Prorok a software (developed and 
+employed in Sweden) data entry module and predefined lithological codes.  There is also a provision 
+for a written description.  One geologist is assigned to enter all drill logs into the database. 
+
+
+
+Page 29 of 66
+
+12 SAMPLING METHOD AND APPROACH
+
+The geologist marks the "from - to" for assay samples on the box and this "from - to" serves as the 
+sample number, which he or she enters on a sample record sheet.  The sample length is chosen 
+based on sulphide content and varies up to a maximum length of 3.0 m (minimum of 0.10 m).  The 
+request for analysis follows the sample from the core shed until the sample has undergone all stages 
+of sample preparation.
+
+A technician splits the core using a hydraulic splitter and then places the split portion in a bag marked 
+with the geologist supplied sample number.  A diamond saw is used occasionally.  The drill core 
+samples are transported in manually labelled paper bags to the sample preparation facility.
+
+Since 2007, photographs have been taken of all drill cores. The exploration drill cores are all stored in 
+a warehouse on site.  In-fill drilling cores are disposed of after logging and sampling.
+
+
+
+Page 30 of 66
+
+13 SAMPLE PREPARATION, ANALYSES AND SECURITY
+
+13.1 Sample Preparation
+
+On arrival at the on-site laboratory, located in the concentrator, the drill core samples are dried and 
+jaw crushed to <5 mm.  The samples are then split to 100 – 150 g by a mechanical splitter.
+
+Prior to 2002, the sample grain size was reduced to <38 µm in a "Tema mill", and since then, a Herzog 
+automated pulveriser capable of handling 60 samples at a time has been used and with the sample 
+reduced to <36 microns.  The pulveriser is air and water cleaned between sample runs.
+
+The entire milled sample is stored in a manually labelled, sealed plastic cup.
+
+Before samples are submitted, QA/QC duplicate and dolerite blanks are inserted and samples for 
+external check assay are selected.
+
+All QA/QC samples are inserted or selected at irregular intervals.  Duplicate frequency varies between 
+every 17th and 21st sample, dolerite blanks between every 23rd and 25th and external check samples 
+are selected for every 23rd and 27th sample.
+
+Shipments are made when a level of at least 250 samples is reached or when results are requested 
+from important samples.
+
+13.2 Assaying
+
+Prior to 2001, all geological samples were assayed in the Zinkgruvan laboratory.  From April 2001, 
+assaying was moved to the ACME Analytical Laboratories, Vancouver, by shipping 10 g (40 g since 
+September 2008) pulverised samples.  Since September 2002, all geological samples have been 
+assayed by ACME.
+
+ALS Chemex has been used for the quality control samples since autumn 2004. 
+
+13.2.1 Zinkgruvan Laboratory Analytical Method
+
+In the period 1979-2002 all geological samples were analysed by Atomic Absorption Spectroscopy at 
+Zinkgruvan. 
+
+All geological samples were assayed for Zn, Pb, Ag, Cu, Fe, Co and Ni in two separate digestions:
+
+1) 250 mg was collected from the pulp by a spoon and was boiled in 10 ml HNO3, HF was added 
+and boiled off. Sublimate was re dissolved in HCl. After cooling, the sample was diluted by 
+H2O to 250 ml. Analyse for Zn, Pb, Ag, Cu and Fe by Atomic Absorption (AAS) was finally 
+completed.
+
+
+
+Page 31 of 66
+
+2) 500 mg was collected from the pulp by a spoon and was boiled in 15 ml Aqua Regia with 6 ml 
+HF and 5 ml HClO4. Boiling reduced solution and residue was dissolved in H2O. Analyse for 
+Co and Ni was carried out by AAS.
+
+Analytical results were collected manually and entered by hand, first on the original request for 
+analysis, and then entered manually into Excel spreadsheets (one per drill hole/analytical request) 
+with the same format as the request for analysis.
+
+Data was entry checked by the laboratory personnel before release to the project geologists. The 
+project geologist checked correspondence between the assay results and the geological logging 
+before the data was approved for incorporation in the drill hole database.
+
+The AAS instrument routine detection limits are presented in table 5.
+
+Table 5: Detection Limits for ZMAB Laboratory Analyses
+
+Element Routine limits of detection
+Zn 0.05 %
+Pb 0.05 %
+Ag 5 g/t
+Cu 5 ppm
+Fe 0.02 %
+Co 5 ppm
+Ni 5 ppm
+
+13.2.2 ACME Analytical Method
+
+From September 2002, all geological samples have been assayed by ACME. Routine assaying is by 
+ICP-ES, program G7AR, a program that uses a 1 g pulp sample diluted in hot Aqua Regia, which is 
+then analyzed by ICP-ES. 
+
+The program covers 23 elements, those of critical importance being Zn, Pb, Ag, Cu, Co, Ni and in 
+addition Al, As, Bi, Ca, Cd, Cr, Fe, Hg, K, Mg, Mn, Mo, Na, P, Sb, Sr and W.
+
+Over limit analysis on Ag (Ag >300 ppm) is done by fire assay (FA).
+
+Elements and detection limits are presented in Table 6.
+
+
+
+Page 32 of 66
+
+Table 6: ACME ICP-ES Method
+Element Detection limit
+
+Ag 2 g/t
+Al 0.01%
+As 0.01%
+Bi 0.01%
+Ca 0.01%
+Cd 0.001%
+Co 0.001%
+Cr 0.001%
+Cu 0.001%
+Fe 0.01%
+Hg 0.001%
+K 0.01%
+
+Mg 0.01%
+Mn 0.01%
+Mo 0.001%
+Na 0.01%
+Ni 0.001%
+P 0.001%
+
+Pb 0.01%
+Sb 0.001%
+Sr 0.001%
+W 0.001%
+Zn 0.01%
+
+Note: Highlights in table indicate partial digestion if refractory minerals are present
+
+13.2.3 ALS Analytical Method
+
+Comparative quality control analyses are done using ICP-AES, program OG46, which uses Agua 
+Regia dilution of the sample. The analysis is run for Ag, Co, Cu, Fe, Ni, Pb and Zn.
+
+Over limit analysis on Pb (Pb>20%) and Zn (Zn>30%) is run by volumetric analysis using titration. 
+Over limit analysis on Ag (Ag>1500 ppm) is run by FA and routine bullion assays are done by fire 
+assay with gravimetric finish.
+
+Elements and detection limits are presented in Table 7. 
+
+
+
+Page 33 of 66
+
+Table 7: ALS ICP-AES Method
+
+Element Detection range
+Ag 1-1500 ppm
+Co 0,001-20 %
+Cu 0,001-40 %
+Fe 0,01-100 %
+Ni 0,001-10 %
+Pb 0,001-20 %
+Zn 0,001-30 %
+
+13.3 Security
+
+The drill core remains within the secure mine compound during the entire logging and splitting 
+process, and sample preparation is also carried out on site in secure facilities.  All sample batches are 
+packaged securely and sample numbering is checked at each stage of the process.
+
+
+
+Page 34 of 66
+
+14 DATA VERIFICATION
+
+14.1 QA/QC
+
+From 2002, Zinkgruvan has had a systematic QA/QC program in place. As noted in Section 13, 
+duplicate and blanks are inserted at irregular intervals in the Zinkgruvan preparation laboratory prior to 
+shipment to Vancouver and check assays are selected for external assay (ALS Chemex) at irregular 
+intervals. In additional to the Zinkgruvan quality control samples, ACME inserts additional blanks, pulp 
+duplicates and commercial standards.
+
+Before any data set is accepted for incorporation in to the Drillhole Database, a standardized format, 
+quality report, documenting all internal and external information with respect to QC is compiled.  The 
+batch quality report also includes checks against control charts with pre-set warning and action limits.
+
+14.2 Verification by Authors
+
+The principal authors of this report have been employed at Zinkgruvan for more than 20 years and 
+have overseen and directly supervised the collection of most of the data used in the resource 
+estimation.
+
+
+
+Page 35 of 66
+
+15 ADJACENT PROPERTIES
+
+The Zinkgruvan property is situated at the southernmost end of the Bergslagen mineralised belt, which 
+to the north hosts numerous iron ore and base metal deposits many of which have seen production.  
+At the present time, the only significant other production from the belt is from the Garpenberg zinc-
+silver mine, operated by Boliden, which is located 175 km to the north (see Figure 3).
+
+
+
+Page 36 of 66
+
+16 MINERAL PROCESSING AND METALLURGICAL TESTING
+
+The current processing plant, its metallurgical performance and copper metallurgical testwork is 
+described in Section 23.2 of this report. 
+
+
+
+Page 37 of 66
+
+17 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES
+
+The Zinkgruvan Mineral Reserve and Mineral Resource estimates are shown in Tables 8, 9, 10, 11, 
+12, 13 and 14.  The Mineral Resources are reported exclusive of the Mineral Reserves. 
+
+The Mineral Resource and Mineral Reserves are reported and prepared in accordance with the 
+requirements of National Instrument 43-101 and the guidelines published by the Council of the 
+Canadian Institute of Mining, Metallurgy and Petroleum (¨CIM Standards¨). 
+
+Zinc-Lead Mineral Resources at Zinkgruvan are calculated using Net Smelter Return (NSR) cut-off 
+values which vary slightly between different mining areas with an average of 250 SEK/t and minimum 
+mining widths varying from 3 to 5 m.
+
+In converting Zinc-Lead Mineral Resources to Mineral Reserves an average economic cut-off of 250 
+SEK/t is used.  For the Burkland deposit, 12% zero-value wall rock and 3% zero-value backfill dilution, 
+95% mining recovery and 3% mucking loss factors are applied to Mineral Resource estimates .  For 
+the Nygruvan deposit, the corresponding figures are wall rock dilution 20 - 25%, mining recovery 95%
+and mucking loss 5%.  There is no backfill factor required for Nygruvan. 
+
+The NSR cut-off values are calculated using the following factors: zinc 1% /t = 81.6 SEK, lead 1%/t =
+69.2 SEK and silver 1g/t = 0.92 SEK.
+
+In calculating the Copper Resources and Reserve a cut-off of 2.0% Cu has been used.
+
+17.1 Resource and Reserve Areas
+
+The bulk of the Reserves and Resources are hosted by the Burkland deposit, with a smaller portion 
+remaining in the Nygruvan deposit.  Smaller tonnages are hosted by the Savsjon, Mellanby, Cecilia, 
+Borta Bakom and Lindangen deposits, all of which lie south west of Burkland. Apart from Lindangen, 
+a portion of which lies within the crown pillar, none of these deposits are fully defined.
+
+Mineral Resources and Mineral Reserves are reported for both zinc-lead and copper mineralization.  
+Copper Mineral Resources for the copper zone that lies on the hanging wall of the Burkland deposit
+have been reported previously, however this is the first time reporting of a copper Mineral Reserve at 
+Zinkgruvan.  Resource and Reserve blocks for the Nygruvan and Knalla zones are shown in Figures 9 
+and 10 respectively.
+
+
+
+Page 38 of 66
+
+Figure 9 Nygruvan Resource and Reserve Long Section
+
+Figure 10 Knalla Resource and Reserve Long Section
+
+
+
+Page 39 of 66
+
+17.2 Specific Gravity
+
+The Zinkgruvan deposit has been extensively drilled from exploration and development drifts 
+underground. The mineral resources presented in this report are defined by approximately 3,000 drill
+holes.
+
+The density of individual drill core sections (and ore blocks) of zinc-lead mineralisation is estimated by 
+a regression formula using the assayed grade of zinc and lead.  In the formula, these grades are 
+transformed to sphalerite and galena with densities of 4.0 and 7.5 g/cm3, respectively The rest of the 
+mass of the assayed sections are assumed to consist of gangue minerals (quartz, feldspar, calcite and 
+skarn minerals) with an average density of 2.7 g/cm3.
+
+The following formula is used in calculating density of zinc-lead mineralisation.
+
+100
+D = ---------------------------------------------------------------------------------------
+
+  100 – Zn% x 1,49  - Pb% x 1,15   +      Zn% x 1,49 +    Pb% x 1,15
+ 2,7                                         4,0                     7,5
+
+In calculating the average grade and tonnage of the copper resources, no specific density formula has 
+been developed. It is assumed that the average density is 2.86 g/cm3. This figure is the average of a 
+large number of density measurements taken of copper mineralisation samples from drill cores.
+
+17.3 Resource Estimation Procedures
+
+During the long history of Zinkgruvan the method used to estimate resources and reserves has 
+changed with time.  This is partly due to general technical developments but also to the use of 
+different mining methods.  At present two primary methods are used; Block Modelling with Ordinary 
+Kriging and estimation by the Polygonal Method.  In Nygruvan, a small tonnage is estimated using a 
+third technique, the Sectional Method.
+
+17.3.1 Estimation by Block Model Method
+
+Block modelling with Ordinary Kriging is the main estimation method.  This method is applied to the 
+entire Burkland area, which contains most of the present zinc-lead reserves as well as those of 
+copper.
+
+The calculations are done using the Propack software (Prorock AB).  The CAD program Microstation 
+(Bentley Ltd) is used for wireframe modelling and data is stored in a secure Oracle database.
+
+
+
+Page 40 of 66
+
+The mineralized wireframe solids are based on drill core intersections.  In mining areas with 
+development in the ore zone, the wireframe are adjusted to match the geological mapping of the 
+underground exposures. 
+
+The block models comprise parent blocks measuring 10 m x 5 m x 10 m (length x width x height). In 
+order to better match the geometry of the wireframe the parent block can, at the boundary of the 
+wireframe, be sub-divided into a 2 x 2 x 2 array of sub-blocks, with up to 8 sub-blocks in total.  In a 
+second step these sub-blocks can be subdivided into an additional 2  x 2  x 2 array, resulting in sub-
+blocks that are 1/64 of the volume of the parent block.
+
+Drill hole samples within the wireframe model are composited to a maximum of 2.0 metres. A search 
+ellipse with a radius of 100 m x 20 m x 200 m (strike x width x dip) is used for the lead-zinc zones and 
+45m x 9m x 18m for the copper zone. Separate variogram parameters have been developed for lead, 
+zinc and copper.  The Ordinary Kriging Method is used in estimating block grades. 
+
+17.3.2 Estimation by Polygonal Method
+
+The Polygonal Method is mainly used in areas with randomly, and often sparsely, distributed drill-
+holes. Most of the zinc-lead mineralization classified as Inferred and Indicated Resources (except 
+Burkland) are estimated by this method.  A large proportion of Reserves and Resources in Nygruvan 
+are estimated by the Polygon Method.
+
+The irregular polygons around the drill holes are constructed by using perpendicular bisectors to tie-
+lines between the drill holes.  The polygons are projected towards a vertical plane, sub-parallel with 
+the strike direction. The intersections of the holes are oriented horizontally and perpendicully towards 
+the projection plane.  The grade and the horizontal thickness of each hole are assumed to remain 
+constant throughout the polygon area.
+
+In the estimation of resource grades and tonnage, Mass Weighted Means of grades are used. The 
+average grade of a series of adjacent drill hole intersections are calculated by weighting their grades 
+in proportion to their masses (mass = volume x density). As the drill cores have an almost constant 
+cross sectional area, lengths of the intersections are used instead of volumes, in calculating masses of 
+intersections.  The densities of intersections are calculated by using the formula shown above. The 
+formula below shows how the average Zn grade of three adjacent intersections in a drill hole is 
+calculated. 
+
+Zn =  Zn1 x L1 x D1 + Zn2 x L2 x D 2 + Zn3 x L3 x D3
+L1 x D1 + L2 x D2 + L3 x D3
+
+D = density, L = length of section. 
+
+
+
+Page 41 of 66
+
+17.3.3 Estimation by Sectional Method
+
+The Sectional Method was used historically at Zinkgruvan, primarily in the Nygruvan Mine, where 
+sublevel benching was employed.  Reserves of about 300,000 tonnes above the 875m level are 
+calculated by this method.
+
+In the development stage of sublevel benching, the roof of each horizontal longitudinal drift inside the 
+relatively narrow (<8m) ore is geologically mapped. This mapping, locally supported by drilling (ore 
+width >8 m), defines the shape and size of the horizontal sections used in the estimation of the 
+volume/tonnage by extending its area for half a section spacing on either side. The grades are 
+estimated from the core drilling and local channel sampling in the roof of the development drifts within 
+the ore body.   The average grades and density of the channel samples are calculated in the same 
+way as the drill cores (see section 17.3.2).  The overall grade and density of each intersection is 
+assigned to an area of ore defined on the basis of half the distance to the adjacent bore hole / row of 
+channel samples.
+
+17.4 Mineral Resource and Reserve Tabulation
+
+The Zinkgruvan Mineral Reserve and Mineral Resource estimates are shown in Tables 8, 9, 10, 11, 
+12, 13 and 14 below.  The Mineral Resources are reported exclusive of the Mineral Reserves.
+
+
+
+Page 42 of 66
+
+ Table 8: Proven Zinc-Lead Mineral Reserve at December 31, 2008
+
+Location Mining Area ktonnes Zn % Pb % Ag g/t Method Dilution
+NYGRUVAN
+
+650 10 104 12,2 7,8 118 Polygonal 25%
+800 305 52 6,9 0,7 20 Polygonal 25%
+875 305 82 6,0 0,6 21 Polygonal 25%
+950 240-260 106 10,7 2,5 51 Polygonal 22%
+980 240-260 74 14,9 2,7 73 Block Model 22%
+
+1133 240-260 1 201 14,9 4,4 82 Block Model 22%
+Total 1 619 13,7 4,1 77
+
+KNALLA
+Burkland 450 393 7,0 5,5 123 Block Model 15%*
+
+650 1 268 7,1 5,4 112 Block Model 15%*
+800 244 9,7 6,0 107 Block Model 15%*
+960 1 332 6,9 4,8 93 Block Model 15%*
+
+1300 3 795 9,9 5,8 133 Block Model 15%*
+Sävsjön 450 111 6,5 2,7 70 Polygonal 25%
+
+Total 7 143 8,6 5,5 119
+
+TOTAL 8 762 9,6 5,2 112
+
+Note:-
+o Standard polygonal modelling method uses calculated horizontal economic thicknesses and a 
+
+Minimum Width (MMW) based on orientation of mineralisation and planned mining method.
+o Similarly, calculated economic intervals are used for wireframe interpretation, which are then 
+
+used to constrain block modelling.
+o Ordinary kriging has been used for block model grade interpolation.
+o Economic cut-off values vary according to planned mining method.
+o Tonnage and grades are adjusted to estimated dilution (including fill dilution) and recovery at
+
+the conversion of resources to reserves.
+
+
+
+Page 43 of 66
+
+Table 9: Probable Zinc-Lead Mineral Reserve at December 31, 2008
+
+Location Mining Area ktonnes Zn % Pb % Ag g/t Method Dilution
+NYGRUVAN
+
+475 G 186 8,1 6,1 100 Polygonal 25%
+1060 C 224 14,7 2,1 63 Block Model 25%
+1000 D 114 7,3 0,8 41 Block Model 25%
+1100 F 319 6,3 0,8 26 Block Model 25%
+1250 A 243 12,1 2,5 58 Block Model 25%
+Total 1 086 9,7 2,4 55
+
+KNALLA
+Sävsjön 350 - 469 143 8,1 2,6 63 Polygonal 20%
+Cecilia 450 - 637 544 7,5 1,9 39 Polygonal 20%
+
+Burkland 1310-1365 227 5,2 5,0 99 Blockmodel 15%*
+Total 914 7,0 2,8 58
+
+TOTAL 2 000 8,5 2,5 56
+
+Notes:-
+
+o Standard polygonal modelling method uses calculated horizontal economic thicknesses and a 
+Minimum Mining Width (MMW) based on orientation of mineralisation and planned mining 
+method.
+
+o Similarly calculated economic intervals are used for wireframe interpretation, which are then 
+used to constrain block modelling.
+
+o Ordinary kriging has been used for block model grade interpolation.
+o Economic cut-off values vary according to planned mining method.
+o Tonnage and grades are adjusted to estimated dilution (including fill dilution) and recovery
+
+
+
+Page 44 of 66
+
+Table 10: Measured Zinc-Lead Mineral Resource at December 31, 2008
+
+Location Mining Area ktonnes Zn % Pb % Ag g/t Method
+NYGRUVAN
+
+305 E 950 425 5,8 0,7 21 Polygonal
+300 96-97 52 9,6 1,8 42 Polygonal
+
+Total 477 6,2 0,8 23
+
+KNALLA
+Cecilia 637-680 76 6,5 1,7 27 Polygonal
+
+Total 76 6,5 1,7 27
+
+TOTAL 553 6,3 0,9 24
+
+Notes:-
+o Standard polygonal modelling method uses calculated horizontal economic thicknesses and a 
+
+Minimum.
+o Mining Width (MMW) based on orientation of mineralisation and planned mining method.
+
+
+
+Page 45 of 66
+
+Table 11: Indicated Zinc-Lead Mineral Resource at December 31, 2008
+
+Location Mining Area ktonnes Zn % Pb % Ag g/t Method
+NYGRUVAN
+
+10 410 15 4,1 2,9 39 Polygonal
+1000 K1 253 6,4 0,8 31 Block Model
+
+819-1003 205 672 7,0 5,2 92 Polygonal
+Total 940 6,8 4,0 75
+
+KNALLA
+150 I 312 7,4 5,0 109 Polygonal
+350 J 149 7,2 4,4 58 Polygonal
+250 U 173 8,1 3,6 112 Polygonal
+
+Burkland 1365 - 1475 1008 11,2 6,6 186 Block Model
+Sävsjön Z 469 - 560 192 7,7 3,1 108 Polygonal
+
+Cecilia 250-450 1 016 10,9 2,8 58 Polygonal
+Total 2 850 10,0 4,6 116
+
+TOTAL 3 790 9,2 4,4 105
+
+Notes:-
+o Standard polygonal modelling method uses calculated horizontal economic thicknesses and a 
+
+Minimum Mining Width (MMW) based on orientation of mineralisation and planned mining 
+method.
+
+o Similarly calculated economic intervals are used for wireframe interpretation, which are then 
+used to constrain block modelling.
+
+o Ordinary kriging has been used for block model grade interpolation.
+
+
+
+Page 46 of 66
+
+Table 12: Inferred Zinc-Lead Mineral Resource at December 31, 2008
+
+Location Mining Area ktonnes Zn % Pb % Ag g/t Method
+NYGRUVAN
+
+B 1225 82 9,8 3,6 62 Polygonal
+Total 82 9,8 3,6 62
+
+KNALLA
+Borta Bakom 500-750 1 270 11,2 3,5 59 Polygonal
+
+Mellanby 570-680 565 8,2 3,7 77 Polygonal
+Mellanby 770-830 330 10,3 4,1 87 Polygonal
+
+I 150 109 11,5 3,8 75 Polygonal
+Sävsjön XY 650 1 080 7,6 3,1 77 Polygonal
+Sävsjön VW 525 648 9,6 1,0 47 Polygonal
+
+Burkland 1475-1500 115 17,1 5,5 117 Block Model
+Total 4 117 9,7 3,1 69
+
+TOTAL 4 199 9,7 3,1 68
+
+Notes:-
+o Standard polygonal modelling method uses calculated horizontal economic thicknesses and a 
+
+Minimum Mining Width (MMW) based on orientation of mineralisation and planned mining 
+method.
+
+o Similarly calculated economic intervals are used for wireframe interpretation, which are then 
+used to constrain block modelling.
+
+o Ordinary kriging has been used for block model grade interpolation.
+
+
+
+Page 47 of 66
+
+Table 13: Probable Copper Mineral Reserves at December 31, 2008
+
+Location Level ktonnes Zn % Pb % Ag g/t Cu % Method Dilution
+
+KNALLA
+Cu 590-1040 2 895 0.5 0.0 28 2.6 Block Model 11%*
+
+Notes:
+o Ordinary kriging has been used for block model grade interpolation.
+o Tonnage and grades are adjusted to estimated dilution and recovery and includes fill dilution.
+
+Table 14: Copper Mineral Resources at December 31, 2008
+
+Notes: 
+o Ordinary Kriging has been used for block model grade interpolation.
+
+Location Level ktonnes Zn % Pb % Ag g/t Cu % Method
+KNALLA
+Indicated Mineral Resource
+
+Cu 1090 460 0,5 0,0 30 2.9 Block Model
+
+Inferred Mineral Resources
+Cu 1200 550 0,1 0,0 42 3,0 Block Model
+
+
+
+Page 48 of 66
+
+18 OTHER RELEVANT DATA AND INFORMATION
+
+There is no other relevant data or information to report.
+
+
+
+Page 49 of 66
+
+19 INTERPRETATION AND CONCLUSIONS
+
+Zinkgruvan is a mature mining operation with well established technical parameters in both the mine 
+and processing plant.  The orebody geology and geometry are well understood, and the mine has a 
+longstanding, successful record of upgrading Resources and converting Resources to Reserves
+through systematic underground development,diamond drilling and mine planning.
+
+The mine operates in a well-established fiscal and legal setting.  Environmental issues are clearly 
+understood and have been managed in a professional manner.  The local infrastructure and workforce 
+are both stable and predictable.
+
+The Mineral Resource and Mineral Reserve estimation methodology is in accordance with industry 
+standards, and has been proven over time through the exploration and mining cycle.  Technical 
+parameters used to convert Resources to Reserves are based on years of experience and have 
+proven to be appropriate.   Mineral Resources and Mineral Reserves are estimated in accordance with 
+NI 43-101. 
+
+The metallurgical performance of the zinc-lead mineralisation is also well established and consistent.  
+There is little variation in run-of-mine ore over time and recoveries and concentrate grades are stable 
+and predictable.
+
+Deep intersections of ore grade material at the same stratigraphic position as the main Zinkgruvan ore 
+horizon strongly suggest continuation to depth of the main ore zones in three areas. The areas are 
+Burkland below 1,500m, the western part of Nygruvan at depth and the extension of the 
+Mellanby/Cecilia zones (see figures 9 and 10).  Based on past experience it is considered likely that 
+the Mineral Resources will continue to expand with additional exploration work.  Given the depth of 
+likely new discoveries and extensions and that of the current underground working, further exploration 
+work will involve more underground development and diamond drilling.
+
+The planned initiation of copper production in 2011 at Zinkgruvan offers the potential to increase the 
+overall production rate and provide diversification of metal production, reducing the economic 
+sensitivity of the mine to lead and zinc prices.
+
+
+
+Page 50 of 66
+
+20 RECOMMENDATIONS
+
+This section is not applicable.
+
+
+
+Page 51 of 66
+
+21 REFERENCES
+
+Hedström, P., Simeonov, A., Malmström, L., 1989; The Zinkgruvan Deposit, South-Central Sweden: A 
+Proterozoic, Proximal Zn-Pb-Ag Deposit in Distal Volcanic Facies: Economic Geology, v 84, pp 1235-
+1261.
+
+Sädbom, S., 2002; Extern och intern analysering av geologiska  prover samt kvalitetskontroll vid 
+analysering (External and internal assaying of geological samples and quality control at assaying), 
+Internal Report, ZMAB.
+
+Sullivan, J., MacFarlane, R., Cheeseman, S., 2004; A Technical Review of The Zinkgruvan Mine in 
+South-Central Sweden, a report from Watts, Griffis and McQuart Limited to South Atlantic Ventures 
+Ltd. 
+
+
+
+Page 52 of 66
+
+22 DATE AND SIGNATURE
+
+22.1 Certificate of Per Hedström
+
+I, Per Hedström, of Åmmeberg, Sweden, do hereby certify that as an author of this technical report on
+"Mineral Reserves and Mineral Resources of the Zinkgruvan mine in South Central Sweden 
+December  2008", I hereby make the following statements:
+
+o I am employed as Senior Geologist with Zinkgruvan Mining AB with a business address SE-
+696 81, Zinkgruvan, Sweden.
+
+o I am a graduate of the University of Lund, Sweden (BSc Geology and Chemistry 1972).
+
+o I am a member of the Australasian Institute of Mining and Metallurgy and am an approved 
+Qualified Person in accordance to the rules of SveMin and FAERI regarding disclosure of 
+mineral resources.
+
+o I have worked in the base metal mining industry since graduation and have over 35 years of 
+experience.
+
+o I have read the definition of "qualified person" set out in National Instrument 43-101 (NI 43-101) 
+and certify, that by reason of my education, affiliation with a professional association (as 
+defined in NI 43-101) and past relevant work experience, I fulfill the requirements to be a 
+"qualified person" for the purpose of NI 43-101.
+
+o I have worked at the Zinkgruvan mine since 1981. 
+
+o I am responsible for the preparation of Sections 1-22 of this Technical Report titled "Mineral
+Reserves and Mineral Resources of the Zinkgruvan mine in South-Central Sweden, December 
+2008" dated March 2009
+
+o Due to my position as Senior Geologist with Zinkgruvan Mining I am not considered 
+independent of the issuer applying all of the tests in section 1.4 of the instrument.
+
+o As of the date of this certificate, to my knowledge, information and belief, the sections of this 
+Technical Report for which I am responsible contains all scientific and technical information that 
+is required to be disclosed to make the Technical Report not misleading.
+
+o I have read National Instrument 43-101 and sections for which I am responsible in this 
+Technical Report have been prepared in compliance with NI 43-101 and Form 43-101F
+
+Signed dated this 31st day of March, 2009 at Zinkgruvan, Sweden
+
+Per Hedström
+
+
+
+Page 53 of 66
+
+22.2 Certificate of Lars Malmström
+
+I, Lars Malmström, of Zinkgruvan, Sweden, do hereby certify that as an author of this technical report 
+on "Mineral Reserves and Mineral Resources of the Zinkgruvan mine in South Central Sweden 
+December 2008", I hereby make the following statements:
+
+o I am employed as Chief Geologist with Zinkgruvan Mining AB with a business address SE-696 
+81 Zinkgruvan, Sweden.
+
+o I am a graduate with a degree in B.Sc. from the University of Lund in Geology and Chemistry in 
+1975.
+
+o I am a member of the Australasian Institute of Mining and Metallurgy (Membership Number 
+208639) and am also an approved Qualified Person in accordance to the rules of SveMin and 
+FAERI regarding disclosure of mineral resources (certificate no. 56).
+
+o I have worked in the base metal mining industry since graduation and have over 26 years of 
+experience.
+
+o I have read the definition of "qualified person" set out in National Instrument 43-101 (NI 43-101) 
+and certify, that by reason of my education, affiliation with a professional association (as 
+defined in NI 43-101) and past relevant work experience, I fulfill the requirements to be a 
+"qualified person" for the purpose of NI 43-101.
+
+o I have worked at the Zinkgruvan mine since 1982. 
+
+o I am responsible for the preparation of Section 1 to 22 of this Technical Report titled "Mineral
+Reserves and Mineral Resources of the Zinkgruvan mine in South-Central Sweden, December
+2008" dated March 2009.  
+
+o Due to my position as Chief Geologist with Zinkgruvan Mining AB I am not considered 
+independent of the issuer applying all of the tests in section 1.4 of the instrument.
+
+o As of the date of this certificate, to my knowledge, information and belief, the sections of this 
+Technical Report for which I am responsible contains all scientific and technical information that 
+is required to be disclosed to make the Technical Report not misleading.
+
+o I have read National Instrument 43-101 and sections for which I am responsible n this 
+Technical Report have been prepared in compliance with NI 43-101 and Form 43-101F
+
+Signed dated this 31st day of March, 2009 at Zinkgruvan, Sweden. 
+
+Lars Malmström
+
+
+
+Page 54 of 66
+
+22.3 Certificate of Doug Syme
+
+I, Doug Syme, of Zinkgruvan, Sweden, do hereby certify that as an author of this technical report on
+"Mineral Reserves and Mineral Resources of the Zinkgruvan mine in South Central Sweden 
+December 2008", I hereby make the following statements:
+
+o I am employed as General Manager with Zinkgruvan Mining AB with a business address SE-
+696 81 Zinkgruvan, Sweden.
+
+o I am a graduate with a degree in Bachelor of Engineering from Curtin University (Western 
+Australian School of Mines) 
+
+o I am a member of the Australasian Institute of Mining and Metallurgy (CP) (Membership 
+Number 108998) 
+
+o I have worked in the base metal mining industry since 1990 and have over 18 years of 
+experience.
+
+o I have read the definition of "qualified person" set out in National Instrument 43-101 (NI 43-101) 
+and certify, that by reason of my education, affiliation with a professional association (as 
+defined in NI 43-101) and past relevant work experience, I fulfill the requirements to be a 
+"qualified person" for the purpose of NI 43-101.
+
+o I have worked at the Zinkgruvan mine as General Manager since December 2008. 
+
+o I am responsible for the preparation of Section 23 of this Technical Report titled "Mineral 
+Reserves and Mineral Resources of the Zinkgruvan mine in South-Central Sweden, December
+2008" dated March 2009.  
+
+o Due to my position as General Manager with Zinkgruvan Mining AB I am not considered 
+independent of the issuer applying all of the tests in section 1.4 of the instrument.
+
+o As of the date of this certificate, to my knowledge, information and belief, the sections of this 
+Technical Report for which I am responsible contains all scientific and technical information that 
+is required to be disclosed to make the Technical Report not misleading.
+
+o I have read National Instrument 43-101 and sections for which I am responsible n this 
+Technical Report have been prepared in compliance with NI 43-101 and Form 43-101F
+
+Signed dated this 31st day of March, 2009 at Zinkgruvan, Sweden. 
+
+Doug Syme 
+
+
+
+Page 55 of 66
+
+23 ADDITIONAL REQUIREMENTS FOR PRODUCTION PROPERTIES
+
+23.1 Mining Operations
+
+The long mining history of Zinkgruvan has seen a dramatic development in the technologies and 
+systems used to mine and process the ores. A new shaft and processing facility was build in 1977 and 
+since that time new equipment and automation have been introduced to both the mine and mill 
+operations. 
+
+In the mid-1990s, the increasing size of the underground mined out areas, coupled with the inherently 
+high horizontal ground stress led to increasing difficulty in maintaining stability of the stope 
+hangingwalls. As a result, the mining methods and sequences were changed and a new paste backfill 
+system was installed in 2001.  Mine production reached 900,000 tonnes in 2008 which was the 
+highest level in the history of the operation.
+
+A schematic 3D figure over the mine is shown in Figure 11 and a plan of the general site of the 
+Zinkgruvan operations is shown in Figure 12
+
+Figure 11: Schematic 3D figure over the mine
+
+
+
+Page 56 of 66
+
+Figure 12: General Site Plan
+
+The Zinkgruvan underground mine has three shafts with current mining focused on the Burkland and 
+Nygruvan deposits.  Shafts P1 and P2 at Nygruvan are 735 and 900m deep respectively, with P1 used 
+for hoisting personnel and P2 used for ore and waste hoisting, materials and personnel.  In 2008, a 
+ramp from surface down to a depth of 350 m was started to connect to the existing internal 
+infrastructure in the mine. The Knalla shaft, P3, is 350 m deep and is not a significant part of the 
+current or future operating plan and serves only as an emergency egress and to support mine 
+ventilation.
+
+23.1.1 Mining Methods
+
+In the Burkland deposit, long hole panel stoping is used with a sequence of primary and secondary 
+stopes.  Stope dimensions are 38 m high by 20 m wide for the primary stopes and 25 m wide for the 
+secondary stopes.  Stope access is typically developed in the footwall from the ramp system with this 
+development at 5 m x 5 m size.  Stope accesses are developed on the upper horizon for drilling and 
+on the lower level for mucking with remote control LHDs.  The panel stoping mining method and 
+sequence are shown in Figure 13.
+
+
+
+Page 57 of 66
+
+Figure 13: Schematic of the Panel Stoping Method
+
+On completion of mining, the stopes are backfilled with paste fill with 4% cement content for the 
+primaries and a lower strength 2% cement content for the secondaries.
+
+Sill pillars at the 800 m, 650 m, and 450 m levels have been left to separate mining areas and provide 
+ground support between active mining areas and previously mined and backfilled areas. 
+
+In the Nygruvan deposit, sublevel benching is employed followed by paste backfilling.  Rib pillars 
+previously left between stopes for ground support have become unnecessary with the introduction of 
+the tight paste fill system.  Stoping is carried out with 15 m sublevels and stope lengths of 30 m. (see 
+Figure 14).
+
+
+
+Page 58 of 66
+
+Figure 14: Schematic of the Bench Stoping Method
+
+Ore from Burkland and Nygruvan is fed through an ore pass system to the 800 and 900 levels
+respectively, where it is transported by truck to the crusher at the P2 shaft.
+
+23.1.2 Production Schedule
+
+A long term mine production forecast, based on the reserves reported in Section 17, has been 
+developed. The plan aims to increase and then maintain zinc-lead output at circa 1.0 mtpa and to 
+ramp copper production up to 300,000 tpa from 2012. Close attention is paid to the development 
+needs of the production forecast to ensure that development metres are achievable and smoothed, 
+and that total extraction needs do not exceed the shaft capacity. 
+
+The estimated mine production forecast over the next 10 years is as follows in Table 15:
+
+
+
+Page 59 of 66
+
+Table 15: Mine Production Forecast 2009-2018
+
+Zinc Lead 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Tonnes, kt 990 929 947 900 1,033 870 899 1,092 918 982
+Grade, %Zn 8.0 8.0 8.6 8.3 8.6 8.6 8.2 8.5 7.7 9.1
+Grade, %Pb 4.4 4.8 4.7 4.4 3.9 4.3 4.0 4.0 3.1 4.1
+Grade, g/tAg 80 87 88 76 71 80 88 82 74 86 
+Copper
+Tonnes, kt 42 131 248 310 300 304 302 310 303
+Grade, %Cu 2.7 2.9 2.8 2.6 2.2 2.2 2.4 2.3 2.4
+Grade, g/tAg 22 21 27 26 26 25 27 22 28
+
+23.2 Metallurgical Process
+
+The Zinkgruvan concentrator is located immediately south of the P2 main production shaft. The 
+concentrator was built in 1977 to replace the facility at the Åmmeberg site and eliminate the surface 
+rail haulage of the ore. From the 1990's progressive upgrading of the concentrator has taken place 
+with the principal improvements listed below:
+
+o 1999 - New large volume zinc and lead flotation machines
+o 1999 - Pressure filter for zinc concentrate
+o 2001 - Tailings paste plant, pump and underground distribution system
+o 2005 - Pressure filter for lead concentrate
+o 2007 - Speed control AG mill
+o 2008 - New surface crushing plant.
+
+23.2.1 Concentrator Flowsheet
+
+The current Zinkgruvan flowsheet employs crushing and autogenous grinding, bulk flotation, 
+concentrate regrind, selective flotation separation of lead concentrates from zinc concentrates, 
+followed by thickening and filtration of the individual lead and zinc concentrates.  The concentrator 
+tailings are thickened and filtered to prepare paste backfill for the underground operations.  The paste 
+backfill plant is annexed to the concentrator building and operated as an integral part of the 
+concentrator operation. The concentrator flowsheet (not including the paste fill plant) is shown in 
+Figure 15.
+
+
+
+Page 60 of 66
+
+ 
+Figure 15: Schematic of the Concentrator Flowsheet
+
+The concentrator operations receive primary crushed ore from underground at a nominal minus 250 
+mm.  The plus 90 mm run-of-mine ore is separated by a static grizzly and stockpiled separately to be 
+used as grinding media in the autogenous primary grinding mill.  The finer fraction is separated by a 
+vibrating screen at 15 mm with the plus 15 mm fraction reduced by cone crushing.
+
+The grinding and regrinding circuits and the flotation and concentrate dewatering are located in two 
+separate and spacious bays equipped with overhead cranes and standby pump installations all 
+designed for ease of operation and maintenance.
+
+The flotation circuit is monitored by an on-stream analyser and the mill flowsheet has a central 
+process control system.  Large volume flotation cells were retrofitted into the mill in the 1999 with the 
+bulk flotation completed with 38 and 40m3 tank cells and the selective flotation completed with 16m3
+
+cells. The bulk flotation is carried out at a pH of 8 and the selective flotation at a pH of 7.  To achieve 
+the required liberation, the bulk flotation scavenger concentrate and tails as well as the coarser 
+fraction of the cleaner concentrate are reground in a ball mill prior to selective flotation. Both zinc and 
+lead concentrates are thickened followed by filtering with a pressure filter.
+
+The concentrator has a separate covered concentrate storage building and truck load out for delivery 
+of the concentrate to the shipping terminal at Otterbäcken on Lake Vänern. At Otterbäcken the 
+concentrates are loaded on to ships (maximum capacity 4,000 tonnes) for transport to smelters 
+located in Europe. 
+
+
+
+Page 61 of 66
+
+The mining and milling operation is supported by a well equipped assay lab located in the concentrator 
+building.  The lab processes about 6,000 samples per annum.
+
+23.2.2 Metallurgical Results
+
+The current flowsheet achieves recoveries of 87% and 93% respectively for the lead and zinc to 
+concentrates.  Approximately 70% of the contained silver is recovered to the lead concentrate.  Silica 
+and cobalt have periodically triggered penalties with Zinkgruvan zinc smelting contracts.  The 
+operating results achieved by the current flowsheet since 2004 are shown in Table 16.
+
+Table 16: Concentrator Operating Results 2004 to 2008
+
+2004 2005 2006 2007 2008
+Tonnes Milled (x 1000 ) 734,0 809,0 805,7 878,8 895,0
+
+Head Grade Zn (%) 9,1 9,4 10,3 8,3 7,9
+Pb (%) 4,9 5,1 4,6 4,4 4,3
+Ag (g/t) 99 95 93 85 82
+
+Recovery Zn (%) 92,1 93,0 93,8 93,9 93,4
+Pb (%) 87,6 89,4 88,5 87,7 86,4
+Ag (g/t) 75,4 76,1 74,7 72,6 71,6
+
+Zn concentrate X 1000 112,7 129,8 140,5 126,9 123,4
+Zn Conc Grade Zn (%) 54,7 53,9 54,0 53,9 53,2
+
+Pb concentrate X 1000 43,7 50,0 42,4 44,2 43,1
+Pb Conc Grade Pb (%) 72,0 73,4 75,0 76,1 76,7
+
+Ag (g/t) 1247 1161 1291 1230 1222
+
+Mill Operating Time (%) 75,9 84,4 86,6 90,4 87,5
+
+A simple regression formula, based on historic head grades and recoveries, has been developed to 
+predict zinc, lead and silver recoveries going forward and is used in the economic analysis below. 
+
+23.2.3 Backfill Plant
+
+Tailings from the mill are initially pumped to a conventional thickener. A dedicated paste fill plant 
+dewaters the thickened tailings further using a vacuum disc filter, prior to mixing the tailings with 
+cement and delivering it to the underground stopes via a positive displacement pump. A distribution 
+system consisting of horizontal steel pipes and vertical boreholes delivers the mixed paste fill to the 
+desired stope, with distances sometimes exceeding 2 km. Cement contents vary between 2 and 8% 
+cement by weight, depending on stope size and the required strength of the fill. By adding cement to 
+
+
+
+Page 62 of 66
+
+the tailings some supportive strength of the backfill is gained but the fill is also stabilized to prevent 
+liquefaction from seismic events and/or water saturation.
+
+23.2.4 Tailings
+
+The concentrator final tailings are pumped approximately 4 km south of the plant site to a tailings 
+management area. The tailings dam and surrounding area are shown in Figure 12. The tailings area 
+consists of elevated earth filled dams to contain the tailings flow. One decant structure drains the 
+water to a holding pond for recycle to the mill. The current containment structure is at an elevation of 
+194masl. The dam is raised in phased lifts and has a final permitted height of 200masl.
+
+A Bank Guarantee for 80 million SEK is in place to cover current estimated reclamation costs of the 
+tailings facility. 
+
+23.2.5 Copper Production
+
+A copper resource has been delineated on the hanging wall of the Burkland deposit. A Probable 
+Reserve of 2.9 Mt at 2.6 % Cu using a cut-off grade of 2.0% Cu is reported at the end of 2008.
+
+During 2007-2008 a 100t copper ore sample was hoisted from mine development on the 800 m level. 
+With this sample, bench scale and pilot plant test have been carried out by MINPRO, a Swedish 
+mineral laboratory contractor.
+
+The pilot plant test shows that a copper concentrate can be produced with 25% Cu with a recovery of 
+>92%. The results are shown in the Table 17 below.
+
+Table 17 – Copper Metallurgical Testwork Results
+
+Products Weight % Cu grade Ag grade Cu recovery Ag recovery
+Cu conc. 8,8 25,4 150 92,8 78,4
+Tailings 91,2 0,19 4 7,2 21,6
+Feed 100,0 2,4 17 100,0 100,0
+
+The copper concentrate from this pilot plant test had high grades of arsenic at 0.9%. However, the 
+bench scale tests shows that the arsenic content in the concentrate can be depressed to <0.4% if the 
+pH in the flotation circuit is high or a special copper collector is used.
+
+A new conventional copper circuit is being installed to treat the 300,000 tpa copper ores. The flotation 
+and filtering elements of the circuit will be installed within the existing mill building while the new 
+grinding mill necessitates a new extension. First copper concentrate production is due in 2011.
+
+
+
+Page 63 of 66
+
+23.3 Marketing
+
+Zinkgruvan produces approximately 130,000 tpa of zinc concentrate and 45,000 tpa of lead 
+concentrate.  The lead concentrate contains payable silver.  The quality of the concentrate is uniformly 
+high and it is readily accepted by all customers.
+
+Concentrate is transported by truck 100 km to the port of Otterbäcken on Lake Vänern. From there 
+the concentrate is shipped in vessels of 4,000 t capacity through the Trollhätte canal to Goteborg and 
+from there to European smelters.  All concentrate haulage from the mine, storage and handling at the 
+port and onward transportation is handled by third party contractors.
+
+In December 2004, an agreement was made to sell the life of mine silver production to SLW.  Up to 
+year 2009, 7.3 million ounces have been sold to SLW.
+
+23.4 Contracts
+
+The Zinkgruvan mine relies on contractors for a variety of services including diamond drilling, mine 
+development, equipment maintenance, concentrate haulage and loading. These contracts are within 
+industry norms for activities of these types.  
+
+Zinkgruvan zinc and lead concentrates are sold to various European smelter customers under 
+contracts of various lengths. The payment terms are typical of those for traded base metal sulphide 
+concentrates.
+
+23.5 Environmental Considerations
+
+Zinkgruvan has an environmental department responsible for all environmental matters throughout the 
+site.
+
+In November 2002, Zinkgruvan renewed its Environmental Licence to allow increased mine production 
+from 900,000 tpa to 1,500,000 tpa and to deposit another 5 million m3 of tailings at the existing tailings 
+facility. The additional mined tonnage includes a permitted maximum 500,000 tpa from the copper 
+zone. This Environmental Licence is valid to December 2017.
+
+The Environmental Licence contains conditions covering mine production levels, tailings disposal, 
+water discharge limits, hazardous materials, process chemicals, water recirculation, noise levels, dust 
+pollution, waste handling, energy use and closure planning.
+
+
+
+Page 64 of 66
+
+23.6 Taxes
+
+Corporate tax in Sweden has been reduced recently to 26.3%. Prior to 1st January 2009 the 
+corporate tax rate was 28.0%. 
+
+Royalty legislation also changed relatively recently with some landowners now entitled to royalties 
+from exploitation licence holders. However, Zinkgruvan's exploitation licences were granted prior to 
+2005 and attract no royalty payments.
+
+23.7 Capital and Operating Cost Estimates
+
+Capital cost forecasts for the next 5 years are shown below (Table 18), with the copper project 
+individually identified. Development and drilling includes major waste development in the mine and 
+exploration diamond drilling that is capitalised.
+
+Table 18 Capital Cost Forecast 2008 - 2013
+
+mSEK 2009 2010 2011 2012 2013
+Development & Drilling 106.9 105.3 98.6 103.4 97.4
+Sustaining 13.9 47.5 47.7 35.3 39.0
+Copper Project 85.8 79.7 - - -
+Total 206.5 232.4 146.3 138.7 136.4
+
+The total and unit operating cost forecast for the next five years are shown in Table 19 below:
+
+Table 19 Operating Cost Forecast 2008 - 2013
+
+mSEK 2009 2010 2011 2012 2013
+Mining 241.9 242.5 295.8 301.1 322.6
+Processing 106.5 106.4 118.9 118.7 130.3
+G&A 78.8 78.8 78.8 78.8 78.8
+Transport and Freight 51.2 49.8 58.1 55.3 63.4
+Total 478.4 477.4 551.6 553.9 595.1
+SEK/tonne milled
+Mining 244.3 261.2 264.3 262.4 240.2
+Processing 107.6 114.5 106.3 103.4 97.0
+G&A 79.6 84.8 70.4 68.6 58.7
+Transport and Freight 51.7 53.6 51.9 48.2 47.2
+Total 483.3 514.1 492.9 482.7 443.2
+
+
+
+Page 65 of 66
+
+The copper plant is due to commence copper concentrate production from 2011 onwards. A further 5 
+mill operators and 2 maintenance staff will be recruited and the total unit treatment cost for copper ore 
+is estimated at approximately SEK 96 / t milled. 
+
+23.8 Economic Analysis
+
+A pre-tax economic analysis has been performed on Zinkgruvan using the long term production 
+forecast as a base. The assumptions incorporated within the model are as follows:
+
+Interest Rate and Inflation
+
+o Inflation all costs are in 2009 SEK or dollars, no inflation factor was applied
+
+Exchange Rate
+
+o SEK 7.60 per US$
+
+Metal Prices
+
+o Zinc US$1,874 / tonne
+o Lead US$1,389 / tonne
+o Copper US$4,409 / tonne
+o Silver As per the sale to SLW agreement
+
+Sensitivities
+
+Sensitivities to the analysis have been run on variations of the following items:
+
+o Metal prices (except silver)
+o Metal grades
+o Operating costs
+o Exchange rates
+
+Details of the economic and sensitivity analysis are shown in the Tables 20 and 21 below:
+
+Table 20 Project Cash Flow (million US dollars)
+
+US$m 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Cash Flow* 39.0 33.3 59.8 54.7 69.5 53.2 48.8 73.2 41.6 72.4 
+*Note: the cash flow shown in Table 20 is in 2009 US$ and before taxes and is based on the assumptions shown 
+above. 
+
+
+
+Page 66 of 66
+
+Table 21 Sensitivity Analysis (million US dollars)
+
+US$m 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
++ 10% price 52.6 46.6 75.8 70.2 87.2 68.4 63.7 91.5 55.6 89.7
+- 10% price 25.4 20.0 43.8 39.2 51.8 38.0 33.8 54.9 27.5 55.1
+
++ 5% grade 45.1 39.6 67.3 62.0 77.7 60.4 55.9 81.8 48.1 80.6
+- 5% grade 32.9 27.0 52.3 47.5 61.3 46.1 41.7 64.6 35.0 64.3
+
++ 10% opex 31.3 25.6 51.2 46.1 60.4 44.7 40.0 64.0 33.2 64.0
+- 10% opex 46.7 40.9 68.3 63.4 78.6 61.8 57.6 82.3 49.9 80.8
+
++ 10% FEx 35.1 29.9 53.9 49.4 62.7 48.0 44.0 66.1 37.4 65.4
+- 10% FEx 43.8 37.4 66.9 61.3 77.7 59.6 54.7 81.9 46.6 81.0
+
+Note: The various cash flows of the sensitivity analysis shown in Table 21 are in 2009 US$ and before taxes and 
+
+are based on variants in all metal prices (except Silver), metal grades, onsite operating costs and exchange rates.
+
+23.9 Payback
+
+The mine is currently funding all capital requirements through cash flow
+
+23.10 Mine Life
+
+Current reserves support a mine life in excess of 10 years at current production rates. It is projected 
+that the current resources can be converted to reserves and the mine life extended further.  
+
+
+'

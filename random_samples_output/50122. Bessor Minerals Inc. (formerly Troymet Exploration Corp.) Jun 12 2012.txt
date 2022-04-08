@@ -1,0 +1,2722 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Key Qualifying Report April 17 2012.docx
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+TECHNICAL REPORT 
+KEY PROPERTY, 
+
+British Columbia, Canada 
+ 
+ 
+
+Nechako Plateau 
+Omineca Mining Division 
+
+NTS 93F/2W 
+53 ° 06 ' N Latitude 
+
+124 ° 52 ' W Longitude 
+ 
+ 
+
+ 
+Report By: 
+
+ 
+Scott Casselman, B.Sc., P.Geo 
+
+Casselman Geological Services Ltd. 
+33 Firth Road 
+
+Whitehorse, Yukon, Canada 
+ 
+ 
+ 
+ 
+
+Report For: 
+ 
+
+Troymet Exploration Corp. 
+1963 Comox Avenue 
+Comox, BC, Canada 
+
+ 
+ 
+ 
+ 
+
+May 18, 2012
+
+
+
+i 
+
+TABLE OF CONTENTS 
+
+1.0  Summary ......................................................................................................................... 1 
+2.0  Introduction ..................................................................................................................... 2 
+2.1  Terms of Reference .................................................................................................. 2 
+3.0  Reliance on Other Experts .............................................................................................. 2 
+4.0  Property Description and Location .................................................................................. 3 
+5.0  Accessibility, Climate, Local Resources, Infrastructure and Physiography ..................... 6 
+6.0  History ............................................................................................................................. 7 
+7.0  Geological Setting and Mineralization ............................................................................. 9 
+
+7.1  Regional Geology ..................................................................................................... 9 
+7.2 Property Geology .................................................................................................... 13 
+7.3 Surficial Geology ..................................................................................................... 14 
+7.4 Mineralization .......................................................................................................... 18 
+
+8.0  Deposit Types ............................................................................................................... 19 
+9.0  Exploration .................................................................................................................... 20 
+10.0  Drilling ........................................................................................................................... 33 
+11.0  Sample Preparation, Analyses and Security ................................................................. 36 
+12.0  Data Verification ............................................................................................................ 37 
+13.0  Mineral Processing and Metalurgical Testing ................................................................ 38 
+14.0  Mineral Resource Estimate ........................................................................................... 38 
+15.0  Adjacent Properties ....................................................................................................... 38 
+16.0  Other Relevant Data and Information ............................................................................ 38 
+17.0  Interpretation and Conclusions ..................................................................................... 39 
+18.0  Recommendations ........................................................................................................ 40 
+19.0  References .................................................................................................................... 41 
+20.0  Certificate of Qualified Person ...................................................................................... 44 
+ 
+
+ 
+LIST OF TABLES 
+
+Table 4.1 Claim Status .............................................................................................................. 3 
+Table 7.1 Regional Geology Legend ....................................................................................... 11 
+Table 7.2 Surficial Geology Legend ........................................................................................ 17 
+Table 10.1 Drill Hole Technical Data ......................................................................................... 33 
+Table 12.1 Comparison of Historic Soil Sample Data to Troymet Data ..................................... 37 
+ 
+
+ 
+
+
+
+ii 
+
+ 
+
+LIST OF FIGURES 
+
+Figure 4.1 Property Location Map ........................................................................................ 4 
+Figure 4.2 Claim Map ................................................................................................................. 5 
+Figure 7.1 Regional Geology .................................................................................................... 12 
+Figure 7.2 Property Geology .................................................................................................... 15 
+Figure 7.3 Surficial Geology ..................................................................................................... 16 
+Figure 9.1 Airborne Magnetic Survey Results .......................................................................... 23 
+Figure 9.2 Airborne Electromagnetic Survey results ................................................................ 24 
+Figure 9.3 Induced Polarization Survey Chargeability (N=5) .................................................... 25 
+Figure 9.4 Soil Geochemical Survey - Gold (ppm) ................................................................... 26 
+Figure 9.5 Soil Geochemical Survey - Silver (ppm) .................................................................. 27 
+Figure 9.6 Soil Geochemical Survey - Copper (ppm) ............................................................... 28 
+Figure 9.7 Soil Geochemical Survey - Molybdenum (ppm) ...................................................... 29 
+Figure 9.8 Soil Geochemical Survey - Zinc (ppm) .................................................................... 30 
+Figure 9.9 Soil Geochemical Survey - Lead (ppm) ................................................................... 31 
+Figure 9.10 Compilation Map ..................................................................................................... 32 
+Figure 10.1 2011 Drill Hole Plan Map ......................................................................................... 34 
+ 
+ 
+ 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  1  
+   
+ 
+
+1.0 SUMMARY 
+
+The Key Property is situated on the Nechako Plateau of central British Columbia, 
+approximately 120 kilometres southwest of Vanderhoof.  Troymet Exploration 
+Corp. first acquired the Key Property in 2007 and continued expanding the 
+property through staking and acquisition through 2009.  The property currently 
+consists of 24 mineral tenures comprising 8,853 hectares.  
+
+Exploration success on the neighboring Blackwater Project of New Gold Inc. has 
+spurred Troymets' evaluation at Key.  In March 2012, New Gold announced a 
+NI43-101 compliant mineral resource estimate for the Blackwater Deposit of 174 
+million tonnes averaging 0.98 g/t Au and 4.6 g/t Ag, at a cut-off of 0.4 g/t gold. 
+
+The property area had been explored intermittently from 1982 through 1994 by 
+previous operators.  From 2008 to the present Troymet has completed airborne 
+geophysical surveying, prospecting, rock sampling, soil geochemical surveys, IP 
+surveying and 1,590 m of diamond drilling. 
+
+The geological setting at the Key Property is similar to that at the Blackwater 
+Deposit and is characterized by bimodal volcanic rocks with overlying submarine 
+sediments, which are intruded by altered, magnetite-bearing monzonite. 
+
+IP geophysical survey has identified sizeable chargeability anomalies in the 
+Good News Lake area that are related to significant concentrations of 
+disseminated and stockwork pyrite with anomalous copper, molybdenum, gold, 
+silver and zinc mineralization. 
+
+Prospecting programs on the property and soil geochemical sampling have 
+identified a number of gold anomalies with significant values.  Many of the soil 
+geochemical anomalies have coincident airborne conductors. 
+
+Soil geochemical surveying has returned a number of areas with multiple metal 
+associations consisting of gold, silver, copper, molybdenum, lead, zinc and 
+arsenic.  Eight highly anomalous areas with multiple elemental associations 
+have been identified. 
+
+The geological setting is conducive to porphyry and volcanogenic massive 
+sulphide deposits and structurally controlled and intrusive hosted precious 
+metals deposits. 
+
+Recommendations for future work on the property are to expand the airborne 
+geophysical and soil sample surveys, continue to define drill targets with IP 
+geophysical surveys, and a next phase of drilling consisting of 2,000 to 3,000m.  
+
+The estimated the cost to complete the proposed integrated exploration program 
+is approximately $1.5 M. 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  2  
+   
+ 
+
+2.0 INTRODUCTION 
+
+Troymet Exploration Corp. first acquired the Key Property in 2007 and continued 
+expanding on the property through staking and acquisition through 2009.  The 
+property area was originally identified as prospective for epithermal-style 
+precious metals mineralization. 
+
+Exploration success on the neighboring Blackwater Project of New Gold Inc. has 
+corroborated this potential.  New Gold acquired the Blackwater Project from 
+Richfield Ventures Corp. in June 2011.  From June 2009 to the present, Richfield 
+and, subsequently, New Gold have completed sufficient exploration and drilling 
+to define a mineral resource estimate for the deposit of 174 million tonnes 
+averaging 0.98 g/t Au and 4.6 g/t Ag, at a cut-off of 0.4 g/t gold. 
+
+The exploration success at Blackwater has spurred Troymets' evaluation at Key.  
+From 2008 to the present Troymet has completed an airborne geophysical 
+survey, prospecting and sampling, extensive soil geochemical surveys, induced 
+polarization surveying and 1,590 m of diamond drilling. 
+
+This report documents the exploration activities and results from Troymets' work 
+and incorporates historical work on the property by previous claim holders.  
+
+2.1 TERMS OF REFERENCE 
+
+Troymet has commissioned Casselman Geological Services Ltd. to prepare an 
+updated report utilizing the NI43-101 standard to document the exploration 
+progress on the Key Property.   
+
+Scott Casselman, B.Sc., P.Geo., of Casselman Geological Services Ltd is the 
+qualified person as defined by National Instrument 43-101, responsible for the 
+preparation of this report.  Mr. Casselman is independent of Troymet Exploration 
+Corp. and managed the exploration programs on this project from May 11 to 
+June 14, 2010, November 4 to 19, 2010, and from February 1 to April 1, 2011. 
+Mr. Casselman most recently visited the property from May 8 and 9, 2012. 
+
+3.0 RELIANCE ON OTHER EXPERTS 
+
+This report relies on historical exploration information and data gathered from 
+existing reports prepared by other consultants and companies.  These reports 
+are cited in the references.  Certain historical data is incorporated in the data set 
+and interpretation of results. This data was collected prior to the inception of the 
+NI43-101 standard and the companies may not have followed rigorous quality 
+assurance/quality control as is the current practice with respect to geochemical 
+data. 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  3  
+   
+ 
+
+4.0 PROPERY DESCRIPTION AND LOCATION 
+
+The Key Property is situated on the Nechako Plateau of central British Columbia, 
+on NTS map sheet 93F/02 at 53o 06', north latitude and 124o 52' west longitude, 
+approximately 120 kilometres southwest of Vanderhoof, BC as shown in Figure 
+4.1.  The project site is located on Tsacha Mountain, and is immediately 
+northwest of Tsacha Lake. 
+
+The Key Property is in the Omineca Mining Division and consists of 24 mineral 
+tenures comprising 8,853 hectares as shown in Figure 4.2.  The KEY 1-8 claims 
+were acquired in 2007, the LOCK 1-12 claims were staked in 2008 and the 
+Yellow and Black claims in 2009. The property is owned 100% by Troymet 
+Exploration Corp of Comox, B.C. The Key and Lock claims are subject to a 3% 
+NSR, 2% of which may be purchased at any time for $1,000,000 in cash or 
+stock; the Yellow and Black claims, purchased in 2010, are subject to a 2% NSR 
+of which 1.5% may be purchased at any time for $750,000. Claim information is 
+included in Table 4.1, below. 
+ 
+Table 4.1 Claim Status  
+
+Tenure Number Claim Name Issue Date Good To Date Area (ha) 
+
+564994 KEY 1 2007/aug/24 2020/aug/31 485.2487 
+
+564995 KEY 2 2007/aug/24 2020/aug/31 485.1576 
+
+564996 KEY 3 2007/aug/24 2020/aug/31 485.1582 
+
+564997 KEY 4 2007/aug/24 2020/aug/31 465.9964 
+
+564998 KEY 5 2007/aug/24 2020/aug/31 388.2569 
+
+564999 KEY 6 2007/aug/24 2020/aug/31 388.22 
+
+565000 KEY 7 2007/aug/24 2020/aug/31 116.4995 
+
+565001 KEY 8 2007/aug/24 2020/aug/31 97.0969 
+
+589167 LOCK 1 2008/jul/30 2020/aug/31 485.5725 
+
+589177 LOCK 2 2008/jul/30 2020/aug/31 485.8043 
+
+589183 LOCK 3 2008/jul/30 2020/aug/31 484.9251 
+
+589231 LOCK 4 2008/jul/30 2020/aug/31 485.1599 
+
+589232 LOCK 5 2008/jul/30 2020/aug/31 485.3926 
+
+589234 LOCK 6 2008/jul/30 2020/aug/31 388.4408 
+
+589236 LOCK 7 2008/jul/30 2020/aug/31 466.1523 
+
+589238 LOCK 8 2008/jul/30 2020/aug/31 233.0756 
+
+589241 LOCK 9 2008/jul/30 2020/aug/31 407.6482 
+
+589242 LOCK 10 2008/jul/30 2020/aug/31 465.66 
+
+589243 LOCK 11 2008/jul/30 2020/aug/31 193.9704 
+
+589244 LOCK 12 2008/jul/30 2020/aug/31 388.5506 
+
+642003 YELLOW & BLACK 2009/sep/27 2020/aug/31 174.857 
+
+642004 BLACK & YELLOW 2009/sep/27 2020/aug/31 174.857 
+
+642023 BLACK 2009/sep/27 2020/aug/31 388.6087 
+
+642024 YELLOW 2009/sep/27 2020/aug/31 233.1985 
+
+ 
+The claim information has been verified with the BC Government Mineral Titles 
+Online database, current to May 18, 2012 (http://webmap.em.gov.bc.ca/mapplace).  All 
+claims are in good standing and are valid until August 31, 2020. 
+
+
+
+!(
+
+!(
+
+!(
+
+!(
+
+!(
+!(
+
+!(
+
+!(
+
+!(
+
+!(
+
+!(
+
+!(
+
+!(
+
+!(
+
+!(
+!(
+
+!(
+!(
+
+[_Key
+Property
+
+Pacific
+
+Ocean
+
+ALBERTA
+
+Nelson
+
+Vernon
+
+Kelowna
+
+Quesnel
+
+Terrace
+
+Merritt
+
+Kamloops
+
+Smithers
+
+Vancouver
+
+Penticton
+
+Mackenzie
+
+Revelstoke
+
+Vanderhoof
+
+Dawson Creek
+
+Williams Lake
+
+Fort St. John
+
+Prince George
+
+115°0'0"W
+
+120°0'0"W
+
+120°0'0"W
+
+125°0'0"W
+
+125°0'0"W130°0'0"W
+
+5
+5
+
+°0
+'0
+
+"N
+
+5
+5
+
+°0
+'0
+
+"N
+
+5
+0
+
+°0
+'0
+
+"N 5
+0
+
+°0
+'0
+
+"N
+
+TROYMET EXPLORATION CORP.
+KEY PROPERTY
+
+Figure 4.1 : Property Location Map
+
+CASSELMAN GEOLOGICAL SERVICES LTD.
+
+±
+
+0 100 20050 Kilometers
+
+1:5,000,000
+
+
+
+589177
+
+589167
+
+589232
+
+564994
+
+564995 564996 589231
+
+589183
+
+589236
+
+564997
+
+589242
+
+589241
+
+642023
+
+589244
+
+589234
+
+564998
+
+564999
+
+642024
+
+589238
+
+589243
+
+642004 642003
+
+565000
+
+565001
+
+KEY 1
+
+KEY 2 KEY 3
+
+KEY 4
+
+KEY 5 KEY 6
+
+LOCK 2
+
+LOCK 1
+
+LOCK 5
+
+LOCK 4
+
+LOCK 3
+
+LOCK 7
+
+LOCK 9
+
+BLACK
+
+LOCK 10
+
+LOCK 6
+LOCK 8
+
+YELLOW
+
+KEY 7
+
+KEY 8
+
+LOCK 12
+
+LOCK 11
+
+BLACK & YELLOW
+
+YELLOW & BLACK
+
+124°50'0"W
+
+124°50'0"W
+
+124°55'0"W
+
+124°55'0"W
+
+125°0'0"W
+
+125°0'0"W
+
+5
+3
+
+°5
+'0
+
+"N
+
+5
+3
+
+°5
+'0
+
+"N
+
+±
+
+0 2 4
+Kilometers
+
+Tsacha
+Lake
+
+1:75,000
+
+TROYMET EXPLORATION CORP.
+KEY PROPERTY
+
+Firgure 4.2: Claim Location Map
+
+NTS: 93F/02           Ominica Mining Division
+Date: February 6, 2012
+
+Casselman Geological Services Ltd.
+
+Ootsa-Green
+
+4000 Rd
+
+Bl
+ue
+
+ R
+oa
+
+d
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  6  
+   
+ 
+
+In BC, claims are good for one year and may be renewed for up to 10 years 
+provided expenditures for exploration and development work in the amount of 
+$0.40 per hectare per year is performed and recorded with the provincial 
+government.  Alternatively, the claim holder can file for "payment instead of 
+exploration and development" in the amount of $0.40 per hectare. 
+
+The property is located on Crown Land and the surface rights are 
+unencumbered.  The author is not aware of any existing environmental liabilities 
+on the property. 
+
+ 
+
+5.0 ACCESIBILITY, CLIMATE, LOCAL RESOURCES, 
+INFRASTRUCTURE AND PHYSIOGRAPHY 
+
+The Key Property is accessible by logging roads from Vanderhoof.  The eastern 
+part of the property is accessed by travelling to km 99.5 on the Kluskus Forest 
+Service Road (Kluskus FSR) then 60 km south on the Blue Road to the eastern 
+property boundary. The western part of the property is accessed from km 154 on 
+the Kluskus Road, then to km 8 on the Green/2000 road to the western property 
+boundary. There are a number of trails and clear cuts on the property which 
+provided access by 4x4 vehicle or ATV. 
+
+The property covers Tsacha Mountain and extends southerly over a series of 
+rolling hills, all of which form part of the Fawnie Range within the Nechako 
+Plateau. Upland slopes are generally well drained with few lakes or marshes. 
+Lower creek valleys are broad and swampy. Topography on the property is 
+moderate, with elevations ranging from 1,360 metres at Good News Lake to 
+1,860 metres at the summit of Davidson Mountain.  
+
+The property is largely covered by spruce and lodgepole pine with a light 
+undergrowth of huckleberry and alder. A large percentage of pine has been 
+affected by infestation of the Mountain Pine Beetle. Alpine vegetation 
+predominates above tree-line at 1,650 metres.  
+
+Outcrop exposure is generally good at higher elevations, but becomes 
+increasingly masked by glacial till towards the valley bottoms. Overall, there is 
+less than 5% outcrop. 
+
+The area has continental climatic weather, with warm summers and cold winters. 
+Mean daily temperatures range from -15°C in January to 16°C in July with the 
+coldest recorder temperature of -45°C in January of 1991 and the hottest 
+recorded temperature of 35°C on August 9, 1981.  The area generally receives 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  7  
+   
+ 
+
+495 mm of precipitation, which between the months of September and May is 
+predominantly as snow and from June through August is as rain. 
+
+The area undergoes active logging, particularly in the winter months and lessor 
+so in the summer months, when most of the road and cut block development 
+occurs.  Generally there is limited logging activity and road development in the 
+periods of winter freeze-up and spring thaw. 
+
+The project is 120 km from Vanderhoof, and 220 km from Prince George, BC.  
+Vanderhoof has a population 4,100 and Prince George has 75,800.  Prince 
+George is the major commercial and government centre for northern BC and has 
+a diversity of services and suppliers and is serviced daily by numerous 
+commercial flights from British Columbia and Alberta.  Both communities have 
+active and vibrant forestry sectors. 
+
+There are no permanent facilities on the property as all previous work was 
+performed from tent and trailer camps. 
+
+ 
+
+6.0 HISTORY 
+
+There is little documented history of exploration in the property area prior to the 
+late 1960's, when Rio Tinto Canadian Exploration Ltd. carried out stream and 
+lake sediment sampling surveys throughout the Nechako Plateau.  The Rio Tinto 
+work was searching primarily for copper-molybdenum porphyry deposits 
+(Hoffman, 1976). Follow-up work on one of the anomalies by Rio Canex (1969-
+71) and Granges Exploration Ltd./Cominco Ltd. (1976-present) led to the 
+discovery in 1979 of the Capoose silver-lead-zinc deposit approximately twenty-
+seven kilometres northwest of the Key property. 
+
+Following the discovery at Capoose, claims were staked over several other 
+geochemical anomalies underlain by similar lithologies in the Fawnie Range. 
+Prism Resources Ltd. staked the southwestern slope of Tsascha Mountain in 
+1980 as the Mstsacha claim and collected 130 reconnaissance soil, silt and rock 
+samples, identifying a broad Cu-Pb-Zn geochemical anomaly southwest of Good 
+News Lake, with maximum values of 113 ppm Cu, 102 ppm Pb and 450 ppm Zn 
+(Harivel and Livingston, 1981).  The following year, Prism re-analyzed 124 
+samples for gold and arsenic (14 silt samples, 89 soil samples and 21 rock 
+samples).  Of these, 32 samples were also analyzed for copper, zinc, lead and 
+silver. These returned low gold values, but anomalous zinc and arsenic. Prism 
+also reported a "manganiferous jasperoid unit" associated with rhyolitic 
+pyroclastics (Livingston and Harivel, 1982). 
+
+In 1982, Placer Developments Ltd. optioned the Mstsacha claim and conducted 
+a limited soil and stream sediment sampling program. This program identified a 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  8  
+   
+ 
+
+400-600 metre wide copper-zinc-lead-arsenic soil anomaly trending southwest 
+from Tsacha Mountain. Minor pyrite and rare chalcopyrite were also noted as 
+disseminations and stringers in silicified rhyodacite and andesite (Kimura, 1982). 
+
+In 1984, BP Minerals staked the Jon 3-5 claims immediately north and east of 
+the Mstsacha claim and conducted a small exploration program. Three of their 
+rock samples exceeded 0.15% zinc (Smith, 1984). The Mstsacha and the Jon 
+claims later lapsed. 
+
+The area around Mt Tsacha was re-staked in June, 1991 as the Ram 1 and 2 
+claims by Sleeping Gold Ltd.  Sleeping Gold conducted geological mapping and 
+prospecting in June of 1992. 
+
+The BC Geological Survey undertook a regional lake sediment sampling 
+program throughout portions of the 93F map sheet in 1993. Three samples were 
+collected from the Ram claims including one from Good News Lake and two 
+from ponds on the southwestern flank of Tsacha Mountain. Two more samples 
+were collected immediately north of the Ram property from lakes draining the 
+northern flank of Tsacha Mountain. Between them, these five samples returned 
+three arsenic, two antimony, three bismuth, one copper, one molybdenum and 
+one zinc value exceeding the 95th percentiles for the entire survey (Cook and 
+Jackaman, 1994). 
+
+In 1994, Western Keltic Mines Ltd. Optioned the Ram claims and carried out soil 
+sampling program in the south western corner of the Ram 2 claim, in an effort to 
+confirm and define geochemical anomalies previously reported by Prism and 
+Placer. Ninety-two soil samples were collected and confirmed the presence of 
+widespread gold, zinc, lead and arsenic soil geochemical anomalies in the south 
+western corner of the claim. Twenty-two soil samples exceed 400 ppm zinc, with 
+a maximum of 2,168 ppm. Highly anomalous zinc values trend north-westerly for 
+one kilometre, and remain open to the southeast (Awmack, 1994). 
+
+Awmack (1994) postulated that quartz-eye rhyolite units on the Ram claims 
+could be Hazelton Group extrusive rocks, and recommended further 
+investigation for potential volcanogenic massive sulphide (VMS) mineralization. 
+The presence of strong soil geochemical anomalies for gold, lead, arsenic, silver 
+and zinc in the vicinity of the rhyolite outcrops was also recognized by Awmack 
+as identical to that which characterizes the Eskay Creek VMS deposit. The gold-
+rich Eskay Creek deposit, located approximately 500 kilometres to the 
+northwest, is hosted within mudstone overlying Hazelton Group felsic volcanics. 
+Nearby, stratabound zinc mineralization is hosted by a similar Hazelton Group 
+felsic volcanic/sedimentary package on the Buck prospect, 15 kilometres 
+northwest of the property. However, following the 1994 program, no further work 
+was done and the claims were allowed to lapse. 
+
+Marksmen Resources Ltd. staked the Key Property in 2005 and later transferred 
+the claims to a Signet Minerals Inc., a company that was spun off of Marksmen.  
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  9  
+   
+ 
+
+In 2006, Signet transferred the property to Troymet, a spin-off company of 
+Signet. 
+
+ 
+
+7.0 GEOLOGICAL SETTING AND MINERALIZATION 
+
+7.1 REGIONAL GEOLOGY 
+
+H. W. Tipper mapped the Nechako River map sheet from 1949 to 1952 at a 
+scale of 1:253,440 (Tipper, 1963). The ages and regional correlations of several 
+units were later re-assigned by Tipper et al (1974) in their 1:1,000,000 
+compilation. The southern Nechako Plateau, including all of the Key Property 
+area was mapped at 1:100,000 scale in the 1990s by the British Columbia 
+Geological Survey (Diakow and Levson, 1997).  Figure 7.1 is predominantly 
+compiled from the 1997 work of Diakow and Levson, but does incorporate some 
+of the older regional mapping work of Tipper.  The Stratigraphic Column in Table 
+7.1 is compiled from Diakow and Levson.   
+
+The oldest rocks in the area are Lower and Middle Jurassic volcanic and 
+sedimentary rocks of the Entiako Formation of the Hazelton Group. These rocks 
+consist largely of rhyolite ash flow tuff and lapilli tuff (unit 2c, on Figure 7.1) and 
+black mudstone (unit 2e).  Unit 2C of the Entiako Formation is the host unit for 
+the Blackwater Deposit, north of the Key Property. 
+
+The Entiako Formation rocks are overlain by volcanic rocks of the Naglico 
+Formation of the Hazelton Group.  The Naglico Formation in the region of the 
+Key Property consists of basaltic and andesitic flows (unit 3a), lapilli tuff, ash tuff 
+and crystal tuff (unit 3b). 
+
+Small remnants of Middle and Upper Jurassic rocks of the Ashman Formation 
+(unit 4b) of the Bowser Group have been observed north and southwest of the 
+Key Property. These consist of sandstone, siltstone, mudstone and minor chert 
+and conglomerate. 
+
+Middle Eocene rocks of the Ootsa Lake Group are dominant in the northern part 
+of the map area, immediately north of the Key Property.  These consist of 
+andesitic flows and volcaniclastic rocks (9a), rhyolitic ash-flow tuff (9b), andesitic 
+lava flows (9d), rhyolite lava flows (9e) and a local andesitic flow member (9di – 
+sub-member of 9d). 
+
+The youngest rocks in the region are Miocene to Pliocene, olivine basalt flows of 
+the Chilcoten Group (unit 11).   A few small remnants of these flows are 
+observed around the periphery of the Key Property, but it dominates the terrain 
+south of Tsacha Lake. 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  10  
+   
+ 
+
+The Bowser and Hazelton Group rocks are intruded by Late Cretaceous to Early 
+Cretaceous quartz monzonite (unit B), porphyritic granodiorite (unit Bp) and 
+monzonite (unit C) of the Capoose Batholith (Diakow and Levson, 1997). 
+
+Narrow, Late Cretaceous felsite sills (unit D) can be observed throughout the 
+area, however they are generally too small for the map scale presented here. 
+Larger sills are observed in the southwest corner of the map. 
+
+Tertiary intrusions of gabbroic dykes and small plugs (unit I) and quartz feldspar 
+porphyry plugs (unit G) have been mapped within the Key Property boundaries.  
+These are most likely feeders to the Ootsa Lake Group volcanics. 
+
+Low grade regional metamorphism and weak deformation are pervasive on the 
+Nechako Plateau. Contact metamorphism is pronounced around intrusions. 
+Tipper (1959) observed that the overall lack of structural features may, in part, 
+be attributed to the abundance of often structureless volcanics. The older rocks 
+of the Hazelton Group are more strongly deformed in comparison to other rock 
+types, with bedding often dipping to 70 degrees to the west or northwest. 
+
+  
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  11  
+   
+ 
+
+Table 7.1 Regional Geology Legend (after Diakow and Levson, 1997) 
+ 
+
+VOLCANIC and SEDIMENTARY ROCKS 
+ 
+
+NEOGENE - MIOCENE TO PLIOCENE - CHILCOTIN GROUP 
+11 Olivine basalt lava flows: weather brown, crudely layered and columnar jointed, massive to vesicular, typically aphanitic or 
+
+olivine phyric. 
+ 
+
+MIDDLE EOCENE - OOTSA LAKE GROUP 
+9a Andesitic lava flows and volcaniclastic rocks: dark green to maroon, coarsely porphyritic flows and tuff breccia; minor 
+
+interbedded ash-tuff; rare block tuff and laminated black siltstone. 
+ 
+
+9b Rhyolitic ash-flow tuff: grey green, unwelded to weakly welded, crystal fragments (25-30%) characterized by resorbed and 
+prismatic quartz (5-15%, avg. 2mm diameter), plagioclase, potassium feldspar (2-7%) and rare sericitized biotite, lithic 
+fragments (5-20%) typically of lapilli size consist of cognate quartz phyric rhyolite flow banded and aphanitic rhyolite, and 
+porphyritic andesite; the groundmass when stained indicates weak to moderate potassium feldspar; minor block-lapilli tuff; rare 
+bedded sections of quartz-bearing sandstone derived from the underlying ashflows. 
+
+ 
+
+9d Andesitic lave flows: maroon and dark green, typically porphyritic with 20-30% slender plagioclase up to 5 mm and sparse 
+pyroxene phenocrysts, minor amygdaloidal flows with quartz, epidote and chlorite amygdaloidal flows with quartz, epidote and 
+chlorite amygdules. 
+
+ 
+
+9e Rhyolitic lava flows (ca. 49.2±1 to 49.9±1.7 Ma): mauve, cream, light green or grey, aphanitic to sparsely porphyritic, flow 
+laminated textures predominate but are commonly overprinted by solitary and coalescing spherulites, porphyritic flows contain 
+plagioclase, up to 5% quartz and traces of rare sericitized biotite; autobrecciated flows. Basal conglomerate, dominated by 
+hornblende-biotite qtz monzonite cobbles and boulders. 
+
+ 
+
+9di Subunit of 9d. Local andesitic flow member that contains plagioclase laths up to 1.2 cm. 
+ 
+
+MIDDLE and UPPER JURASSIC – BOWSER GROUP – ASHMAN FORMATION 
+4b Sandstone, siltstone, mudstone and minor chert and conglomerate: Sandstone is olive green. Siltstone contains abundant 
+
+plagioclase and lesser pyroxene grains. Mudstone may contain recessive limey concretions. Bivalves and ammonites are 
+moderately abundant. 
+
+ 
+
+LOWER and MIDDLE JURASSIC – HAZELTON GROUP, NAGLICO FORMATION 
+3a Basalt and andesitic lava flows: dark green and maroon, characterized by vitreous pyroxene phenocrysts (trace to 15%), 
+
+textural varieties include dense aphanitic flows, crowded plagioclase (~30-40% equant subhedral plagioclase <3 mm in 
+diameter) to coarse grained porphyries (plagioclase to 6 mm), and amygdaloidal porphyry; minor flow breccia; rare 
+hyaloclastite. Epidote, quartz, calcite and hematite as clots and in veinlets. 
+
+ 
+
+3b Lapilli tuff, ash tuff and crystal-ash tuff, rare accretionary lapilli tuff: maroon and light green; minute (generally <1.5 mm) broken 
+quartz grains are diagnostic but scarce (1-2%); faint to distinctly layered fine grained interbeds. 
+
+ 
+
+LOWER and MIDDLE JURASSIC – HAZELTON GROUP, ENTIAKO FORMATION 
+2c Rhyolite ash-flow tuff, lapilli tuff: off-white, grey and pink, well indurated, weakly to moderately welded, diagnostic subrounded 
+
+to elliptical resorbed quartz phenocrysts up to 3 mm (1-7%), lithic pyroclasts include flow-laminated rhyolite, porphyritic andesite 
+and rare granodiorite. Scarce rhyolitic lava flows with white or black flow laminae. 
+
+ 
+
+2e Black mudstone, locally with discrete white ash-tuff laminae and minor disseminated pyrite; limy siltstone containing scarce 
+grey and brownish impure limestone layers and concretions, minor feldspathic siltstone and sandstone. Locally contains 
+Toarcian ammonites (Kanense zone) and the small delicate bivalve, Bositra. 
+
+ 
+
+INTRUSIVE ROCKS 
+TERTIARY – PROBABLY EOCENE 
+I Biotite-feldspar porphyry dikes or small plugs: most are too narrow to represent at the current map scale. Phenocrysts include 
+
+<20% subhedral plagioclase (2-7mm in diameter) and up to 7% vitreous and chloritized biotite in a light grey groundmass. They 
+cut rhyolitic ash-flow tuffs of Unit 9b. 
+
+ 
+
+G Quartz-feldspar porphyry plugs and dikes: light grey, pink and cream colored, quartz phenocrysts (5-15%), locally 5% combined 
+hornblende and lesser biotite phenocrysts; miariolitic cavities in some plutons. 
+
+ 
+
+POSSIBILY LATE CRETACEOUS 
+D Felsite sills (ca. 73.8+2.9/-0.1 Ma): greyish green, fine grained and equigranular, contain sparse plagioclase phenocrysts up to 
+
+4 millimetres long and up to 5% fine grained biotite flakes, weather to distinctive clinkery, conchoidal fractured fragments. Small 
+widely scattered exposures in the vicinity of the Tsacha prospect where they locally cut mineralized quartz veins. 
+
+ 
+
+LATE JURASSIC to EARLY CRETACEOUS 
+C Quartz diorite plugs: grey-green, medium-grained equigranular texture, hornblende dominant (<20%) over biotite (<3%); locally 
+
+contains xenoliths of augite porphyry or fine grained diorite. Small bodies mapped near, and locally intruded by Unit B. 
+ 
+
+B Quartz monzonite and granodiorite (ca. 148.1 ± 0.6 Ma): Capoose batholith; pink, medium to coarse grained and equigranular; 
+up to 15% combined fresh biotite and hornblende; numerous fine-grained grey dioritic xenoliths. South of Capoose Lake a 
+probable unmapped granodiorite or quartz monzonite pluton, separate from the Capoose batholith, yields a potassium-argon 
+age of 67.1 ± 2.3 Ma. 
+
+ 
+
+Bp Porphyritic granodiorite and monzonite found locally along the border of the Capoose batholith in the Naglico Hills. 
+
+
+
+3a
+
+2c
+
+9e
+
+B
+
+9b
+
+3b
+
+9b
+3a
+
+3a
+
+3b
+
+2c
+
+2c
+
+9d
+
+2c
+
+B
+
+B
+
+9d
+
+I
+
+9d 9b
+
+11 11
+
+9b
+
+9b
+
+9a
+
+3a
+
+2e
+
+2c
+
+2c
+
+9e
+
+11
+
+9b
+9b
+
+Bp
+
+11
+
+9di
+
+9d
+
+3a
+
+G
+
+I
+
+3a
+
+9a
+
+9a
+
+4b
+
+2cB
+
+9b9b
+9di
+
+9di
+
+B
+
+3a
+
+9b
+
+11
+
+124°50'0"W
+
+124°50'0"W
+
+124°55'0"W
+
+124°55'0"W
+
+125°0'0"W
+
+125°0'0"W
+
+5
+3
+
+°1
+0
+
+'0
+"N
+
+5
+3
+
+°1
+0
+
+'0
+"N
+
+5
+3
+
+°5
+'0
+
+"N
+
+5
+3
+
+°5
+'0
+
+"N
+
+±
+
+0 2,000 4,0001,000
+Meters
+
+TROYMET EXPLORATION CORP.
+KEY PROPERTY
+
+Figure 7.1 : Regional Geology Map
+
+Omineca Mining Division     NTS: 93F02
+February 13, 2012
+
+CASSELMAN GEOLOGICAL SERVICES LTD
+
+1:75,000
+
+Blackwater
+Deposit
+
+Tsacha
+Lake
+
+Modified from Tipper (1963) and Diakow, et. al. (1997)
+
+11
+
+2c
+
+2e
+
+3a
+
+3b
+
+4b
+
+9a
+
+9b
+
+9d
+
+9e
+
+B
+
+Bp
+
+Neogene - Miocene to Pliocene - Chilcotin Group
+   Olivine basalt lava flows
+Middle Eocene - Ootsa Lake Group
+   Andesitic lava flows and volcaniclastic rocks
+   Rhyolitic ash-flow tuff
+   Andesitic lava flows
+   Rhyolitic lava flows
+   Andesitic flow (sub-member of 9d)
+Middle and Upper Jurassic - Bowser Group - Ashman Formation
+   Conglomerate, sandstone, siltstone and minor mudstone
+Lower and Middle Jurassic - Hazelton Group, Naglico Formation
+   Basalt and andesiticlava flows
+   Lapilli tuff, ash tuff and crystal-ash tuff
+Lower and Middle Jurassic - Hazelton Group, Entiako Formation                 
+   Rhyolite ash-flow tuff, lapilli tuff
+   Black Mudstone
+Tertiary - Propably Eocene
+   Gabbroic dykes or small plugs
+   Quartz feldspar porphyry plugs
+Late Cretaceous
+   Felsite sills
+Late Jurassic to Early Cretaceous
+   Quartz monzonite and granodiorite
+   Pophyritic granodiorite and monzonite
+   Quartz diorite
+Regional Structure
+
+9di
+
+C
+
+D
+
+G
+
+I
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  13  
+   
+ 
+
+7 . 2  PROPERTY GEOLOGY 
+
+Detailed property scale mapping has not been conducted by Troymet.  The 
+interpretation presented here is primarily the work of Awmack (1994) and 
+includes observations from drill core from the 2011 program. A property geology 
+map is included as Figure 7.2. 
+
+Outcrop exposure on the property is limited to approximately 5 %.  The majority 
+of geological mapping undertaken to date has occurred in the central portion of 
+the property, around Mt Tsacha and Good News Lake.  This area is largely 
+underlain by a sequence of Lower to Middle Jurassic Hazelton Group mafic to 
+intermediate volcanics with minor epiclastic sediments. These have been 
+intruded by later felsic dykes thought to be feeders to the Tertiary Ootsa Lake 
+rhyolites. 
+
+South of Mt Tsacha felsic to intermediate volcanic tuffs and lesser breccias 
+dominate. These units weather light brown with irregular blocky fracturing. On 
+fresh surfaces, the tuff breccia is comprised of dark green grit-textured debris 
+with areas of large sub-angular to sub-rounded, fragments. The tuffs contain 
+<1% disseminated pyrite and are altered by chlorite and epidote. The breccia 
+unit is similar in composition, colour and texture of the matrix, but contains 
+purple, siliceous, feldspar porphyritic fragments. These units have been 
+assigned to the Lower to Middle Jurassic Hazelton Group on the basis of these 
+felsic fragments. 
+
+Mafic flows outcrop on the southern flank of Tsacha Mountain, on a knob south 
+of Good News Lake and in the saddle west of the lake. The flows weather to 
+light brown and contain euhedral feldspar phenocrysts within a purplish dark 
+green aphanitic matrix. This unit is strongly magnetic and very siliceous. The 
+flows encountered south of the lake are well laminated and contain 0.5 to 1.0 
+centimetre spherulites cored by magnetite. Minor folding was noted within the 
+flows. The purplish colour of this unit may be indicative of hematite and sub 
+aerial deposition. 
+
+Hazelton Group epiclastic rocks were mapped on the peak of Tsacha Mountain. 
+These are light grey weathering, interbedded argillite and siltstone. The beds 
+strike northwesterly and have moderate easterly dips. The sediments are black 
+on freshly broken surfaces and contain 2-3% finely disseminated pyrite. 
+
+Quartz eye rhyolite dykes occur periodically throughout the property cross-
+cutting stratigraphy.  The rhyolite is a chalky white and contains up to 20%, 2-3 
+millimetre anhedral quartz grains and subordinate euhedral feldspar phenocrysts 
+up to 5 millimetres in length. The rhyolite has been tentatively listed as Eocene 
+but until conclusive age dates and stratigraphic relationships are determined the 
+rhyolite unit(s) could be assigned to either the Hazelton or Ootsa Lake Groups. 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  14  
+   
+ 
+
+The geology of the western part of the property is interpreted from the 5 drill 
+holes drilled in 2011 and on the airborne geophysical response. The area is 
+underlain by mafic to intermediate plagioclase-pyroxene porphyritic flows, 
+plagioclase-bearing crystal tuff, ash tuff and coeval, dioritic intrusive rocks. 
+
+ 
+
+7 . 3  SURFICIAL GEOLOGY 
+
+The surficial geological mapping of the property was performed by airphoto 
+interpretation by Levson (2011) and is presented in Figure 7.3. The interpretation 
+has not yet been verified by ground truthing with the exception of a few localities 
+in the northeast part of the property and around Good News Lake during the May 
+8 visit.  The field obsevations in these areas corroborated Levsons' 
+interpretation. 
+
+The property is predominantly underlain by thin, morainal till blanket (Mb) and till 
+veneer (Mv), and/or colluvial blanket (Cb) and colluvial veneer (Cv).  These units 
+appear to cover the majority of north and south facing slopes and ridge tops 
+throughout the property with the exception of the low-lying valley bottoms and 
+areas of outcrop. 
+
+The central, unnamed valley that runs diagonally through the property northwest 
+from Tsacha Lake is underlain by glaciofluvial deposits (FGk), organic deposits 
+(O), fen deposits (O2), and alluvial fan deposits (Af).  A glaciofluvial esker has 
+been mapped on the west side of Good News Lake. 
+
+Outcrop is generally observed on ridge and mountain tops and is estimated to be 
+less than 5% of the property area.  In areas of colluvial or till veneer, the 
+overburden thickness can be expected to be 1 to 2 metres thick. 
+
+
+
+Key-11, 12
+Key-10
+
+Key-09
+
+Key-08
+
+Key-07
+
+Key-06
+Key-05
+
+Key-04
+
+Key-03
+
+Key-01, 02
+
+Mf
+
+Ar
+
+Mvc
+
+Mvc
+
+Mvc
+Mvc
+
+Mvc
+
+Md
+Mvc
+
+Mvc
+Mvc
+
+Mvc
+
+Mvc
+
+Mvc
+Rd
+
+Rd
+
+Mf
+
+Mf RdMf
+
+Mvc
+
+Mvc
+
+368000
+
+368000
+
+370000
+
+370000
+
+372000
+
+372000
+
+374000
+
+374000
+
+376000
+
+376000
+
+378000
+
+378000
+
+5
+8
+
+8
+0
+
+0
+0
+
+0
+
+5
+8
+
+8
+0
+
+0
+0
+
+0
+
+5
+8
+
+8
+2
+
+0
+0
+
+0
+
+5
+8
+
+8
+2
+
+0
+0
+
+0
+
+5
+8
+
+8
+4
+
+0
+0
+
+0
+
+5
+8
+
+8
+4
+
+0
+0
+
+0
+
+5
+8
+
+8
+6
+
+0
+0
+
+0
+
+5
+8
+
+8
+6
+
+0
+0
+
+0
+
+5
+8
+
+8
+8
+
+0
+0
+
+0
+
+5
+8
+
+8
+8
+
+0
+0
+
+0
+
+5
+8
+
+9
+0
+
+0
+0
+
+0
+
+5
+8
+
+9
+0
+
+0
+0
+
+0 ±
+
+0 1 20.5
+Kilometers
+
+TROYMET EXPLORATION CORP.
+KEY PROPERTY
+
+Figure 7.2 : Property Geology Map
+
+NTS: 93F02                      Mining Division: Omineca
+Projection: UTM, Zone 10               Datum: NAD 83
+
+Date: February 23, 2012                      Drawn by: SC
+
+CASSELMAN GEOLOGICAL SERVICES LTD
+
+1:50,000
+
+Tsacha
+Lake
+
+Modified from Awmack (1994)
+
+Legend
+
+Ar
+
+Md
+
+Mf
+
+Mvc
+
+Rd
+
+Drill holes
+
+Outcrop
+
+Argillite, siltstone, conglomerate
+
+Mafic dyke
+
+Mafic flow
+
+Mafic volcaniclastic
+
+Rhyolite dyke
+
+Key-01
+
+Good News
+Lake
+
+
+
+Mb
+
+Mb
+
+Mb
+
+Mb
+
+Mbv
+
+Mb
+
+Mbv/R
+
+Mvb
+
+Mvb
+
+Mb
+
+FGh//Mb
+
+Mb/FG
+
+Mb Mb
+
+Mv/Cv
+
+Mbv/Rh
+
+Mb
+
+Mb//FG
+
+Mv/Cv
+
+Mbv^Rh
+
+Mb
+
+Mbv/Rh
+
+Mb/FGh
+
+FGr
+
+Mb//O
+
+Mb/Cb
+
+R/Cv
+
+O
+
+Mvb/Cb
+
+FGr/Mb
+
+Mvb
+
+Mb//FG
+Mb/FGh
+
+R/Cv
+
+Af
+
+Mb
+
+Mb
+
+FGh/Mb
+Mv/Cv
+
+Mb/FG
+
+O2
+
+Mb
+
+FGh/Mb
+
+O
+
+FGr
+
+R/Cv
+
+Mb/FG
+
+R/Cv
+
+Mb
+
+O
+
+Mb/O
+
+124°50'0"W
+
+124°50'0"W
+
+124°55'0"W
+
+124°55'0"W
+5
+
+3
+°5
+
+'0
+"N
+
+5
+3
+
+°5
+'0
+
+"N
+
+±
+
+0 1 2
+
+Kilometers
+
+Tsacha
+Lake
+
+1:60,000
+
+TROYMET EXPLORATION CORP.
+KEY PROPERTY
+
+Firgure 7.3: Surficial Geology Map
+
+Ominica Mining Division       NTS: 93F/02
+February 9, 2012
+
+Casselman Geological Services Ltd.
+
+Af
+
+Ap
+
+Cb
+
+Cv
+
+FGe
+
+FGk
+
+Mb
+
+Mv
+
+O
+
+O2
+
+R
+
+Organic Deposits
+
+Fen Deposits
+
+Floodplain Deposits
+
+Alluvial Fan Deposits
+
+Colluvial Blanket
+
+Colluvial Veneer
+
+Glaciofluvial Esker Deposits
+
+Glaciofluvial Kame Deposits
+
+Morainal Till Blanket
+
+Morainal Till Veneer
+
+Bedrock Outcrop
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  17  
+   
+ 
+
+Table 7.2 SURFICIAL GEOLOGY LEGEND (from Levson, 2011) 
+ 
+
+O ORGANIC DEPOSITS: mainly peat mosses, sedges, reeds and organic muds occurring in bog and 
+fen environments; typically less than a few metres thick; formed by the accumulation of plant material 
+in various stages of decomposition; mainly occurs in closed depressions overlying clay-rich poorly 
+drained till or glaciolacustrine sediments. 
+
+ 
+
+O2 Fen deposits: organics less than a few metres thick occurring in marshy wetland areas; fen deposits 
+occur in minerotrophic environments fed by mineral-rich groundwater or streams; the water table is 
+commonly at or near the surface; soils are less acidic than bogs and have relatively high levels of 
+dissolved minerals; vegetation cover is mainly sedges, and rushes, with shrubs like willow and alder. 
+
+ 
+
+A ALLUVIAL DEPOSITS: river, stream and alluvial fan deposits up to several metres thick; includes 
+sorted sands and gravels, floodplain silts and organic detritus; commonly stratified. 
+
+ 
+
+Ap Floodplain deposits: mainly overbank silts, clays and organic detritus overlying sands and gravels; 
+occurs at or near modern creek levels; sands and gravels occur at surface along active and recently 
+active channels; organic rich muds common at surface; unvegetated in recently active areas and with 
+shrub or partial tree cover elsewhere. 
+
+ 
+
+Af Alluvial fan deposits: moderately well to poorly sorted silt, sand, gravel and diamicton; usually at 
+least several metres thick forming fans along stream channels at the break of slope in valley bottoms. 
+
+ 
+
+C COLLUVIAL DEPOSITS: slope deposits and other mass wasting debris varying from less than a 
+metre to several metres thick; unsorted, massive to crudely stratified diamicton deposited by gravity-
+induced movement; composition dependent on source material; occurs mainly along steep stream 
+valley walls and below rock cliffs (talus). 
+
+ 
+
+Cb Colluvial blanket: slope deposits generally up to 10 m thick; mainly diamicton including debris flow 
+deposits and talus debris below rock cliffs; slopes moderately steep; slope movements slow or largely 
+inactive. 
+
+ 
+
+Cv Colluvial veneer: thin (typically < 2 m), discontinuous cover of slope debris; mainly diamicton; occurs 
+mainly around rocky hill tops and slopes. 
+
+ 
+
+LATE-GLACIAL SEDIMENTS 
+ 
+
+FG GLACIOFLUVIAL DEPOSITS: stratified sand and gravel with minor diamicton; deposited by glacial 
+meltwater; commonly discontinuous and interspersed with glacial deposits (e.g. FG/Mb); often occurs 
+as a veneer over till or underlies thin drapes of meltout till; deposits may be ridged (FGr), hummocky 
+(FGh) or kettled (FGk). 
+
+ 
+
+FGe Esker deposits: sands and gravels occurring within long sinuous ridges typically 1-10 metres high; 
+overlying meltout tills are discontinuous but locally up to a few metres thick. 
+
+ 
+
+FGk Kame deposits: sands and gravels occurring as hills and broad ridges; deposits typically are up to 
+several metres thick. 
+
+ 
+
+GLACIAL SEDIMENTS 
+ 
+
+M Morainal deposits: glacially derived diamicton (mixture of mud, sand and gravel) deposited by the 
+Cordilleran Ice Sheet; typically massive, matrix-supported and up to several metres thick; includes 
+lodgement till deposited at the base of the glacier as well melt-out till derived from within the ice. 
+
+ 
+
+Mb Till blanket: glacial sediment (mainly basal till), typically a few to several metres thick, forming flat to 
+gently undulating topography; generally fine-grained (silt and/or clay rich); clasts commonly striated; 
+drumlins and flutes rare in the map area. 
+
+ 
+
+Mv Morainal veneer: glacial sediments forming a thin veneer over bedrock; common in hilly topography. 
+ 
+
+PRE-QUATERNARY DEPOSITS 
+ 
+
+R BEDROCK: Rock outcrops on hill tops and steep slopes; interspersed with colluvial sediments (R/Cv) 
+or thin till (R/Mv); some areas with thicker cover but still strong bedrock-controlled topography (e.g. 
+Mb/R). 
+
+ 
+
+X Isolated outcrop: individual outcrops not shown in areas dominated by bedrock (e.g. R/Cv or R/Mv). 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  18  
+   
+ 
+
+ 
+7.4 MINERALIZATION 
+
+Several styles of mineralization have been observed on the Key Property.  The 
+geological setting suggests the potential for epithermal-style precious metals 
+mineralization, porphyry copper/molybdenum, and volcanogenic massive 
+sulphide (VMS) precious and base metals mineralization. 
+
+Prospecting and surface sampling has returned a number of anomalous gold 
+values, as well as significant silver, zinc and tungsten. In the western part of the 
+property a surface grab sample collected in 2010 returned 4.57 g/t Au from a 
+pyrite vein in intermediate volcanic rocks.  Drilling in the area in 2011, 
+encountered coarse pyritic veins and disseminations in mafic to andesitic 
+volcaniclastic rocks but returned only weakly anomalous gold and silver values. 
+
+In the Good News Lake area porphyry-style, fine-grained molybdenite is 
+observed in smokey-grey quartz-pyrite veinlets and stringers in felsic and 
+intermediate volcaniclastic rocks. Drill hole Key-07 intercepted 177.00 m 
+averaging 177 ppm Mo. As well, occasional galena and sphalerite-bearing veins 
+have been observed; drill hole Key-07 intercepted 1.00 m of grading 4,680 ppm 
+Zn; hole Key-08 intercepted 2.55 m grading 957 ppm Pb and 1,627 ppm Zn and 
+an additional 8.05 m grading 1,719 ppm Zn; hole Key-09 intercepted 5.00 m of 
+2,279 ppm Zn with 11.1 g/t Ag and 0.30 m with 4,080 ppm Pb and 7.1 g/t Ag. 
+
+North of Good News Lake, hole Key-10 encountered porphyry-style, pervasive 
+disseminated pyrite with scattered chalcopyrite mineralization.  Drill intercepts 
+included 2.94 m grading 1,393 ppm Cu; 2.50 m of 1,268 ppm Cu and 0.77 m of 
+1,005 ppm Cu.  
+
+On the top of Mt Tsacha, submarine exhalative, or VMS style mineralization is 
+observed as sphalerite in black shale, where a grab sample from the 2010 
+program returned 1.23% Zn and another 1.07% Zn.  Anomalous precious metals 
+values have also been obtained from rock samples in the Mt Tsacha area.  
+
+ 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  19  
+   
+ 
+
+8.0 DEPOSIT TYPES 
+
+The copper and molybdenum mineralization observed with abundant quartz-
+pyrite veining and disseminated pyrite suggests the potential for porphyry style 
+mineralization at Key. McClintock (2011) suggested the potential for porphyry 
+style occurrences after reviewing the property geology and drill results, noting 
+that "two large high-magnetic features identified from the VTEM survey are 
+interpreted by the VTEM survey contractor's geophysicist as likely sourced by an 
+intrusive complex. The features occur in the east central and west central 
+portions of the claim block and are referred to in this memo as the East Magnetic 
+Complex (EMC) and the Western Magnetic Complex (WMC)." 
+
+The Key Property also has potential for volcanogenic massive sulphide (VMS) 
+style of mineralization.  Evidence for this is; bi-modal felsic and mafic volcanic 
+rocks;h overlying black, deeper basin argillite and shales; and anomalous zinc-
+lead-copper base metals mineralization. Awmack (1994) recognized the potential 
+for VMS style mineralization stating "workers have noted stratified felsic rocks on 
+the Ram claims and quartz-eye rhyolites in the 1994 grid area could be Hazelton 
+Group extrusives. If so, then this portion of the Ram property deserves further 
+investigation for volcanogenic massive sulphide (VMS) mineralization. The gold-
+rich Eskay Creek VMS deposit is hosted within mudstone overlying Hazelton 
+Group felsics, approximately 500 kilometres to the northwest and stratabound 
+zinc mineralization is hosted by a similar Hazelton Group felsic/sediment 
+package on the Buck prospect, 15 kilometres to the northwest. Strong multi-
+element, multi-station soil geochemical anomalies for gold, lead, arsenic, silver 
+and zinc in the vicinity of the rhyolite outcrops remain unexplained, but this metal 
+suite is identical to that which characterises Eskay Creek and could be due to a 
+similar style of mineralization." 
+
+The Blackwater Deposit of New Gold Inc, located 5 km north of the Key Property 
+hosts an indicated mineral resource of 174 million tonnes averaging 0.98 g/t Au 
+and 4.6 g/t Ag, at a cut-off of 0.4 g/t gold (New Gold Press Release, 2012).  The 
+deposit is hosted in a structurally raised block of the Nechako Uplift that 
+juxtaposes older Jurassic arc related rocks of the Hazelton and Bowser Lake 
+groups with younger Eocene extensional related rocks of the Ootsa Lake and 
+Endako groups.  Gold Mineralization in the Blackwater Deposit occurs as 
+microscopic gold with pyrite in grey chalcedonic, silica-filled, micro-fractures  in 
+dacite-andesite tuff of the Entiako Formation of the Hazelton Group.  Similar 
+geology trends from Blackwater south onto the Key Property. Hence, the 
+potential for a similar style of mineralization exists on the Key Property. 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  20  
+   
+ 
+
+9.0 EXPLORATION 
+
+This section describes exploration programs conducted on the Key Property by 
+Troymet Exploration from 2005 to the present. Prior exploration activities are 
+described in the History section of this report. 
+
+The property was acquired by staking in 2005 and later added to in 2008 and 
+2010. In 2008, Troymet conducted its first exploration activity contracting 
+Geotech Ltd to conduct a helicopter-borne VTEM survey.  The 165 line-kilometre 
+survey covered 8 of the 20 claims in the core of the claim block.  The survey 
+measured magnetic and electromagnetic properties. 
+
+Troymet had an interpretation of the airborne geophysical survey results 
+performed by BECI Exploration Consulting following the survey (Scrivens, 2008). 
+Scrivens interpretation identified two regions of high magnetism; one in the 
+western part of the property and one in the east (Figure 9.1).  These are believed 
+to be caused by magnetic intrusions.  A linear magnetic high is evident along the 
+eastern margin of Mt Tsacha.  This feature was interpreted to be caused by 
+magnetic mineralization controlled within a fault along that trend.  Several other 
+fault structures were also identified by breaks in magnetic intensity. 
+
+The electromagnetic component of the survey identified four conductors; P1A, 
+P1B, P2 and P3 (Figure 9.2).  Conductors P1A and P1B are discrete, double 
+peak, high amplitude anomalies that suggest shallow conductive targets, each 
+with a coincident magnetic response (Scrivens, 2008). Conductors P2 and P3 
+are considered lower priority anomalies, both have relatively low amplitude 
+responses, suggesting deeper extent and appear to be flat lying. These also 
+have a coincident magnetic response, but it is of lower magnitude. 
+
+In 2010, Troymet conducted an exploration program to follow up on the historic 
+anomalous soil and rock sampling results and to evaluate the electromagnetic 
+conductors identified by the airborne geophysical survey.  The program covered 
+areas of exposed bedrock on Tsacha Mountain and ridges surrounding Good 
+News Lake. Several traverses were also conducted in the west-central part of 
+the property and towards Davidson Mountain in the north.  A total of 180 rock 
+samples, 6 stream sediment and 3 soil samples were collected. 
+
+Highlights of the program were two rock samples on Tsacha Mountain; one that 
+returned 1.23% zinc and the other 0.23% copper. A sample collected on the 
+western part of the property returned 4.57 g/t gold, 15.1 g/t silver, 1685 ppm 
+copper, and 186 ppm zinc.  This sample was collected from a rusty, oxidized, 
+siliceous, felsic volcanic rock containing 5 to 7% pyrite in a 1 cm wide vein.  A 
+sample of intermediate volcaniclastic rock containing 2% pyrite collected from 
+the ridge south of Good News Lake returned 0.22 g/t gold, 14.3 g/t silver, 1365 
+ppm copper, and 260 ppm tungsten. 
+
+ 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  21  
+   
+ 
+
+In 2010 and 2011, the company conducted 19.5 line-km of induced polarization 
+geophysical surveying on two grids; the Crag Grid on the western part of the 
+property and the Good News Lake Grid in the east.  Also during that time, the 
+company conducted a soil sampling program that blanketed the eastern part of 
+the property and partially covered the western part.  
+
+The IP survey identified 4 weakly chargeable zones on the Crag Grid that ranged 
+from 4.5 to 6.7 mv/v (IP-1 to IP-4, Figure 9.3).  Anomaly IP-1 is coincident with 
+the rock sample that contained 4.57 g/t Au. 
+
+On the Good News Lake grid, the IP survey identified a zone west of Good News 
+Lake measuring 500m by 600m with a strong chargeability of 40 mv/v (IP-5) and 
+a second zone north of the lake that extended over 2.3 km (IP-6). This second 
+chargeable zone has a maximum amplitude of 55 mv/v, it was covered by 2 lines 
+and remains open to the north and southeast. 
+
+Soil sample data from the 2010 and 2011 programs was combined with historical 
+data from sampling programs in 1980, 1982, 1984, and 1994.  The property is 
+predominantly underlain by a consistent till and/or colluvial blanket or veneer.  
+This material is well suited for evaluation of the property by soil sampling.  The 
+soil sampling programs have returned significant anomalous zones for base 
+metals copper, zinc, lead and molybdenum and for gold and silver.  Figures 9.4 
+to 9.9 illustrate the soil geochemical response for gold, silver, copper, 
+molybdenum, zinc and silver, respectively. 
+
+The gold and silver maps show a generally similar pattern.  There is a sizeable 
+anomaly west and south of Good News Lake that is well defined, generally 
+circular, but does appear to be offset dextrally by the GN Fault.  A second area 
+of significant gold and silver occurs along the East Fault.  The East Fault 
+anomalies, because of the proximately to the fault, may be representing 
+structurally controlled mineralization in bedrock.  The East Fault region is also 
+anomalous for copper and strongly anomalous for molybdenum. 
+
+Throughout the property are a number of smaller, isolated gold and silver 
+anomalies, such as along the Valley Fault, in the south and southeast part of the 
+surveyed area, in the western part of the soil grid and in the far northern part of 
+the soil grid.   While these anomalies are generally one, two or three station 
+anomalies, considering that the sample density is 200 m line spacing with 50 m 
+station spacing, these could be originating from a mineralized source of 
+significant size. 
+
+The soil survey copper map shows a generally broad circular region with spotty 
+anomalous values that is roughly coincident with the buried magnetic Intrusion -
+2.  In general, the rest of the survey area is relatively subdued for copper. 
+
+ 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  22  
+   
+ 
+
+Similar to the copper map, the molybdenum map shows an anomalous area 
+around Good News Lake and along the East Fault, with the rest of the survey 
+area being relatively subdued.  The molybdenum anomaly along the East Fault is 
+particularly strong and well defined.  The blank spot in the molybdenum map 
+north of Good News Lake is a result of molybdenum not being analyzed in some 
+of the older, historic soil sample programs. 
+
+The lead and zinc soil geochemical maps show coincident anomalous regions 
+from the top of Tsacha Mtn to west of Good News Lake.  The western part of the 
+anomaly appears to be bound by the GN and Valley Faults.  The anomaly on 
+Tsacha Mtn is underlain by argillite and siltstone.  Prospecting in this area has 
+returned a number of samples with highly anomalous zinc values.  The lead and 
+zinc mineralization in this area may be formational. 
+
+The anomalous soil geochemical results show some definite patterns and areas 
+of coincident metal association.  These are highlight in the Compilation Map, 
+Figure 9.10.  Eight highly anomalous areas with multiple elemental associations 
+have been identified. There are also a few isolated anomalies that are 
+significant. The eight anomalies are identified as the Far North Zone, the Blue 
+Road Zone, the East Fault Zone, the Mt Tsacha Zone, the GN West Zone, the 
+GN Lake Zone, the Valley Fault Extension Zone and the Green Zone. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  33  
+   
+ 
+
+10.0 DRILLING 
+
+The only drilling on the property was that conducted by Troymet in the winter of 
+2011.  In that program, 12 holes were drilled for a total of 1,590 m.  Six of the 
+holes were drilled to test IP chargeability anomalies at the Crag Grid; the 
+remaining six holes tested IP chargeability anomalies at the Good News Lake 
+Grid (Figure 10.1).  All drill core was NQ size. Overall core recovery was 89%.  
+Drill hole technical information is as follows: 
+
+Table 10.1 Drill hole technical data 
+
+  NAD 83 UTM, Zn 10         
+Hole East North Elevation Azimuth Dip Depth (m)
+
+Key-01 370582 5884740 1340 270 -50 21.24
+Key-02 370583 5884740 1340 270 -50 12.19
+Key-03 370490 5884811 1326 90 -45 131.06
+Key-04 371014 5884957 1352 90 -45 259.08
+Key-05 370945 5885046 1384 270 -50 121.92
+Key-06 371569 5885284 1375 90 -45 65.53
+Key-07 374494 5883960 1463 84 -45 318.82
+Key-08 374366 5883966 1481 270 -45 125.58
+Key-09 374544 5883782 1458 90 -45 138.38
+Key-10 376592 5884576 1362 90 -45 204.22
+Key-11 374922 5884612 1428 270 -45 30.48
+Key-12 374957 5884668 1428 260 -60 160.63
+ 
+
+Drill holes Key-01, 02 and 03 were drilled to test a coincident IP chargeability 
+anomaly where a rock sample containing the 4.57 g/t Au rock sample was 
+collected.  Holes Key-01 and Key -02 encountered difficult ground conditions 
+and were lost at shallow depths. Hole Key-03 was drilled from the opposite 
+direction targeting the same zone and encountered intermediate volcaniclastic 
+rocks with up to 8% coarse pyrite.  The best result was 0.022 g/t gold over 0.50 
+m. 
+
+Drill hole Key-04 was drilled to test airborne conductor P2.  It encountered mixed 
+intermediate volcaniclastics and flows with little to no sulphide mineralization.  
+From 67.06 to 67.26 m down hole a fault zone with black, magnetic material was 
+encountered.  This fault zone was the only interval encountered to explain 
+conductor P2.  A weakly anomalous intercept was intercepted from 90.53 m to 
+101.35 m (10.82 m), which returned 0.055 g/t gold.  This interval is characterized 
+as moderately silicified, slightly magnetic, brecciated intermediate volcaniclastic 
+rock. It contains no sulphide mineralization. 
+
+
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  35  
+   
+ 
+
+Drill holes Key-05 and Key-06 were drilled to test IP chargeability anomaly IP-2 
+and airborne conductor P1B, respectively.  Both holes intersected similar rock 
+types, consisting of intermediate volcaniclastics and flows and a plagioclase 
+porphyry dyke at the top of Key-06.  Neither hole encountered significant 
+sulphide mineralization and returned no significant base or precious metals 
+values.  Airborne conductor P1B is explained by a clay filled fault zone in hole 
+Key-06 which is intermittently encountered from 27.40 m to the bottom of the 
+hole. 
+
+Drill holes Key-07, 08 and 09 were drilled within the strong IP chargeability 
+anomaly IP-5.  They encountered bimodal felsic and intermediate volcaniclasitic 
+rocks containing 2 to 8% disseminated and stringer pyrite mineralization 
+throughout.  These 3 holes, while drilled approximately 200 metres apart 
+encountered three different styles of mineralization. In hole, Key-07 the felsic 
+bands frequently contained quartz-molybdenite stringers from 0.5 to 2%.  The 
+best molybdenum intercept in hole Key-07 was 177.0 m grading 181 ppm Mo 
+from 52.0 to 229.0 m. Key-07 also intercepted 0.47% zinc from 58.00 to 59.00 
+m. 
+
+Hole Key-08 encountered occasional, narrow intervals of anomalous gold, 
+copper, molybdenum, lead and zinc, with the most significant intercept being 
+4.30 m of 0.114 g/t gold from 59.00 to 63.30 m.  Hole Key-09 had similar, 
+occasional intervals of anomalous gold, copper, molybdenum, lead and zinc, 
+with the most significant being 5.00 m grading 11.1 g/t silver and 0.22% zinc 
+from 41.80 to 46.80 m. 
+
+Hole Key-10 was drilled to test the IP chargeability anomaly IP-6 near the East 
+Fault.  It encountered felsic and intermediate volcaniclastic rocks throughout with 
+variable amounts of disseminated pyrite from 0.5 to 10%.  The hole contained 
+anomalous but sub-economic copper concentrations, averaging 375 ppm over 
+188.98 m.  The copper occurs as chalcopyrite mineralization mixed with the 
+pyrite and is disseminated throughout the hole.  The disseminated pyrite and 
+chalcopyrite explain the IP chargebility. 
+
+Hole Key-11 and Key-12 were drilled on the western side of IP chargeability 
+anomaly IP-6, which is coincident with a circular magnetic low feature, 
+interpreted to be and intrusive diatreme. Key-11 was lost in overburden at 30.48 
+m. Key 12 encountered a monzonite body which was intruded by a later mafic 
+dyke.  The mafic dyke was barren of sulphide mineralization, while the 
+monzonite was generally pervasively clay and sericite altered and contained 1 to 
+9 % pyrite with minor chalcopyrite mineralization.  From 112.60 m to the bottom 
+of the hole the monzonite had slightly elevated copper values and the occasional 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  36  
+   
+ 
+
+elevated molybdenum values.  Although uneconomic, the hole demonstrated 
+moderate to strong clay and sericite alteration and significant quartz veining. 
+
+ 
+
+11.0  SAMPLE PREPARATION, ANALYSES AND SECURITY 
+
+All of the samples collected by Troymet were analyzed at ALS Chemex Labs in 
+North Vancouver, BC. Rock samples were generally of bedrock, although the 
+occasional float sample was collected. Some of the rock samples were 
+measured chip samples.  Approximately 0.5 to 1.0 kg of rock was collected for 
+each sample and was placed in a uniquely labeled poly bag.  Sample sites were 
+recorded by GPS and marked by flagging with the sample number. 
+
+Soil samples were collected by mattocks or soil auger and were generally 
+collected at 20 to 30 cm depth in the "B" soil horizon. Nominally 0.3 kg of 
+material was placed in a uniquely labeled, kraft, wet-strength sample bag.  
+Sample location was recorded by GPS and marked by flagging.  
+
+Stream sediment samples were collected by scooping 0.30 kg of silt from the 
+margin of the active stream channel; coarse rocks were filtered out of the 
+sample.  The sample location was recorded by GPS and site marked with 
+flagging. 
+
+Drill core sample intervals were identified by a geologist and split using a 
+conventional core splitter.  Core sample intervals varied depending on the style 
+of mineralization. Generally a maximum sample interval was 2.0 m for 
+homogeneous "porphyry" style mineralization.  For potential precious metals-
+bearing rock, sample intervals of 1 m or less were used.  Sample intervals 
+respected geological contacts.  Core samples were placed in poly ore bags and 
+labeled with unique sample tags provided by the laboratory. 
+
+All samples were sealed in rice bags and secured with uniquely numbered 
+security tags and delivered to ALS Chemex in Whitehorse, or to Greyhound in 
+Prince George, for delivery to ALS Chemex in North Vancouver. For the drill 
+program standards and blanks were randomly inserted into the sample stream 
+and a sample duplicate was collected every 50th sample.  The sample duplicates 
+were shipped to Acme Analytical Laboratories in Vancouver for analysis. 
+
+Rock and drill core samples were crushed to >70% <2 millimeters and 
+pulverizing a 250-g split to >85% -75 mm according to Chemex's Prep 31 
+procedure.  The stream sediment and soil samples dried, then screened to -80 
+mesh to obtain the sample pulp. 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  37  
+   
+ 
+
+The pulverized or screened sample was then analyzed for 41 elements by Aqua 
+Regia digestion and Inductively Coupled Plasma Spectroscopy (ICP-AES) 
+according to the Chemex Group ME-ICP41 analytical package and analyzed for 
+gold by Fire Assay with Atomic Absorbtion finish according to the Au-AA23 
+analytical package.  
+
+Duplicate samples sent to Acme Analytical Laboratories were processed by 
+crushing to >70% <-10 mesh and pulverizing a 250 g split to >95% -150 mesh 
+according to the Acme R200-250 procedure.  The samples were then analyzed 
+for 41 elements by "Four Acid" digestion and Inductively Couple Plasma Mass 
+Spectroscopy (ICP-MS) by Acme's 1EX procedure.  As well, all samples were 
+analyzed for gold by fire assay and Inductively Coupled Plasma Emission 
+Spectroscopy (ICP-ES) on a 30 gm sample by procedure 3B-01. 
+
+ 
+
+1 2 . 0  DATA VERIFICATION 
+
+All of the samples collected by Troymet were analyzed at ALS Chemex Labs. 
+Samples collected on the property in 1992 and 1994 programs were also 
+analyzed at Chemex Labs, using similar analytical techniques.  Soil samples 
+collected in 1984 were analyzed at Acme Labs; samples collected prior to 1992 
+were analyzed by private labs using slightly different methodology, however 
+statistical analyses demonstrate the values are within a reasonably acceptable 
+range according to the table below: 
+
+Table 12.1 Comparison of historic soil sample data to Troymet data. 
+
+Au 
+(ppm) 
+
+Ag 
+(ppm) 
+
+Cu 
+(ppm) 
+
+Mo 
+(ppm) 
+
+Pb 
+(ppm) 
+
+Zn 
+(ppm) 
+
+1980 - 
+1994 # of samples 427 395 418 151 416 417
+
+Minimum <0.005 <0.02 <1 <1 <2 2
+Maximum 0.420 4.2 260 62 390 2170
+Standard 
+Deviation 0.033 0.36 36.1 5.8 26.2 239.7
+Average 0.008 0.29 28.5 3.2 20.9 236.1
+
+2010 - 
+2011 # of samples 3916 3917 3917 3917 3917 3917
+
+Minimum <0.005 <0.05 1.55 0.24 0.67 6.9
+Maximum 0.871 5.33 802.00 108.50 200.00 1320.0
+Standard 
+Deviation 0.0187 0.250 34.498 4.679 5.914 58.04
+Average 0.0033 0.199 20.397 1.749 10.106 84.21
+
+ 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  38  
+   
+ 
+
+The detection limits for molybdenum, lead and zinc were substantially lower in 
+the 2011 analyses as compared to the historic data (two decimal places versus 
+whole numbers), however, in general, the historical data does appear to of 
+reliable quality and the author is sufficiently confident of its use in combination 
+with the current data set. 
+
+ 
+
+13.0 MINERAL PROCESSING AND METALLURGICAL TESTING  
+
+No mineral processing or metallurgical work has been performed on material 
+from the Key Property. 
+
+ 
+
+14.0 MINERAL RESOURCE ESTIMATE 
+
+A mineral resource has not been identified at the Key Property and no resource 
+estimates have been calculated. 
+
+ 
+
+15.0 ADJACENT PROPERTIES 
+
+The Blackwater Property of New Gold Inc, hosts the Blackwater Deposit and is 
+located immediately north of the Key Property.  In April of 2012, New Gold 
+published an updated mineral resource estimate for the deposit of 174 million 
+tonnes averaging 0.98 g/t Au and 4.6 g/t Ag, at a cut-off of 0.4 g/t gold (New 
+Gold Press Release, 2012). Definition drilling continues on the deposit. 
+
+The Capoose Silver Deposit, also owned by New Gold Inc., is located 27 
+kilometres northwest of the Key Property. The Capoose deposit contains 20 
+million tonnes grading 48 g/tonne silver and 0.5 g/tonne gold (Schroeter and 
+Panteleyev, 1986).  The Capoose Lake Batholith itself has been explored for 
+porphyry-style copper-molybdenum mineralization, with the best prospects 
+lying a few kilometres northwest of the Capoose Silver Deposit. 
+
+ 
+
+16.0 OTHER RELEVANT DATA AND INFORMATION 
+
+There is no other relevant data or information available that has not been 
+included in this report. 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  39  
+   
+ 
+
+17.0 INTERPRETATION AND CONCLUSIONS 
+
+The geological setting of the Key Property is similar to that of the Blackwater 
+Deposit and the Capoose Deposit.  At Key, bimodal volcanic rocks are intruded 
+by altered, magnetite-bearing monzonite, which airborne magnetic response has 
+identified as two large buried intrusions; one in the west and one in the east.  
+The IP geophysical survey has identified sizeable chargeability anomalies in the 
+Good News Lake area that relate to significant concentrations of disseminated 
+and stockwork pyrite with anomalous chalcopyrite and molybdenite 
+mineralization.  Preliminary diamond drilling on the property, in 2011, 
+corroborates the porphyry potential. 
+
+Prospecting programs on the property and soil geochemical sampling have 
+identified a number of gold anomalies with significant values.  Many of the soil 
+geochemical anomalies have coincident airborne conductors associated with 
+them, particularly at anomaly P1A and along the East Fault.  The most 
+significant anomalies identified to date occur in the eastern and northeastern 
+part of the property.  The Far North Zone has gold associated with silver, 
+molybdenum and lead; The Blue Road Zone and East Fault zones have an Au-
+Ag-Cu-Mo association; The Mt Tsacha Zone is Zn-Pb-Cu dominant with lessor 
+Ag-Au; and the GN Lake Zone has a Au-Ag-Cu-Mo-Pb-Zn metal association.   
+All these anomalies remain to be drill tested. 
+
+The soil geochemical anomalies are concentrated in the eastern part of the 
+property, although on the western side, about one third of the property has not 
+yet been tested by prospecting or soil sampling.  The surficial geological 
+mapping indicates that these anomalies are real and probably represent sources 
+of mineralization that is not far removed. Many of these anomalies remain to be 
+further evaluated with prospecting, ground geophysics and drilling. 
+
+The geological setting is conducive for porphyry type, volcanogenic massive 
+sulphide deposit type, structurally controlled and intrusive hosted precious 
+metals mineralization. 
+
+ 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  40  
+   
+ 
+
+18.0  RECOMMENDATIONS 
+
+Recommendations for future work on the property are to expand the airborne 
+geophysical and soil sample surveys over the extent of the property area.  These 
+surveys have provided useful background information and helped identify targets 
+for follow-up work. The soil sample density at present is nominally 200 m line 
+spacing and 50 m station spacing.  While this density is probably sufficient for a 
+large porphyry-style target, it should be tightened to identify and delineate 
+structurally controlled veins, VMS or epithermal precious metals targets. 
+
+The IP survey has been able to identify areas of significant sulphide 
+mineralization in the Good News Lake area.  There remain significant 
+chargeability anomalies north of Good News Lake that have not been fully 
+defined.  IP should prove to be a useful tool to identify and locate drill targets in 
+the Mt Tsacha and East Fault areas. 
+
+There are drill targets that are ready to drill, namely airborne conductor P1A and 
+the soil geochemical anomalies on the eastern and northeastern part of the 
+property.  The geochemical anomalies, however, will be easier to target with in-
+fill soil geochemical surveying and IP data.  A program including 2,000 to 3,000 
+m of drilling is recommended. 
+
+The estimated the cost to complete the next phase of the proposed, integrated 
+exploration program is approximately $1.0 to 1.5 M. 
+
+ 
+
+Respectfully submitted, 
+
+ 
+
+"Signed and Sealed" 
+
+Scott Casselman, P. Geo. 
+
+ 
+
+ 
+
+ 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  41  
+   
+ 
+
+1 9 . 0  REFERENCES 
+
+Andrew, K.P.E. (1988): Geology and Genesis of the Wolf Precious Metal 
+Epithermal Prospect and the Capoose Base and Precious Metal 
+Porphyry-Style Prospect; MSc Thesis, University of British Columbia. 
+
+Andrew, K.P.E. and Godwin, C.I. (1987): Capoose Precious and  Base Metal 
+Prospect, Central British Columbia, b Geological Fieldwork 1986; British 
+Columbia Ministry of Energy, Mines and Petroleum Resources. Paper 
+1987-1, p. 53-55. 
+
+Andrew, K.P.E., Godwin, C.I. and Cann, R.M. (1986): Wolf Epithermal Precious 
+Metal Vein Prospect, Central British Columbia, Geological Fieldwork 1985; 
+British  Columbia Ministry of Energy, Mines and Petroleum Resources 
+Paper 1986-1, p. 317-320. 
+
+Awmack, H.J. (1991): 1991 Geological, Geochemical and Geophysical Report on 
+the Fawn Property; Report submitted for assessment credit to the British 
+Columbia  Ministry of Energy, Mines and Petroleum Resources. 
+
+Awmack, H.J. (1994): 1994 Geological and Geochemical Report on the Ram 1-2 
+Claims; Report submitted for assessment credit to the British Columbia 
+Ministry of Energy, Mines and Petroleum Resources. #23,520. 
+
+Cann (1984): Geology, Geochemistry and Trenching, Wolf Claims; British 
+Columbia Ministry of Energy, Mines and Petroleum Resources. 
+Assessment Report # 13,968. 
+
+Casselman, S. G. (2011): Fall 2010 Soil Geochemical and Induced Polarization  
+Geophysical Survey Report for the Key Property; Report submitted for 
+assessment credit to the British Columbia Ministry of Energy, Mines and 
+Petroleum Resources. 
+
+Caulfield, D.A (1992) 1992 Geological and Geochemical Report on the RAM 1-2 
+Claims; Report submitted for assessment credit to the British Columbia 
+Ministry of Energy, Mines and Petroleum Resources. #22,539. 
+
+Diakow, L. J., and Levson, V. M. (1997). Bedrock and Surficial Geology of the 
+Southern Nechako Plateau, Central British Columbia. British Columbia 
+Geological Survey Branch, Geoscience Map 1997-2. 
+
+Harivel, C. and K.W. Livingston (1981): Report on 1980 Reconnaissance 
+Geochemical Sampling, Mstsacha Mineral Claim; British Columbia 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  42  
+   
+ 
+
+Ministry of Energy, Mines and Petroleum Resources. Assessment Report 
+#9,632. 
+
+Hoffman, S.J. (1976): Mineral Exploration of the Nechako Plateau, Central British 
+Columbia, Using Lake Sediment Geochemistry; Ph.D. Thesis, University 
+of  British Columbia, 338 p. 
+
+Hurley, T., (2008): Assessment Report on the 2008 Airborne VTEM Survey, Key 
+Property; British Columbia Ministry of Energy, Mines and Petroleum 
+Resources. Assessment Report #30,346. 
+
+Kimura, E.T. (1982): Geochemical Report on Mstsacha Mineral Claim; British 
+Columbia Ministry of Energy, Mines and Petroleum Resources. 
+Assessment Report #10,638. 
+
+Levson, V., (2011): Surficial Geology - Key Property. Private company map. 
+
+McClintock, J. (2011): Exploration Potential for Porphyry Copper, Key Property. 
+Private company memo. 
+
+New Gold Ltd, (2012): New Gold Announces Further Increase in Gold Resources 
+at Blackwater Project. March 7, 2012 Company Press Release. 
+
+Livingston, K.W. and C. Harivel (1982): Geochemical Report, Mstsacha Mineral 
+Claim;  British Columbia Ministry of Energy, Mines and Petroleum 
+Resources.  Assessment Report #10,315. 
+
+Schroeter, T.G. and A. Panteleyev (1986): Lode Gold-Silver Deposits, British 
+Columbia, Mineral Deposits of Northern Cordillera; CIM Special Volume 
+37, p.  178-190. 
+
+Scrivens, S. (2008): Report on a Helicopter-Borne VTEM System 
+Electromagnetic & Magnetic Survey by BECI Exploration Consulting. 
+Private company report. 
+
+Simpson, R. G., (2011): Technical Report, Blackwater Gold Project, New Gold 
+Inc. Private 43-101 report. 
+
+Smith, M. (1984): Geochemical, Geological Reconnaissance of the Jon 3, 4, 5 
+Claims; British Columbia Ministry of Energy, Mines and Petroleum 
+Resources. Assessment Report #14,215. 
+
+Tipper, H.W. (1959): Revision of the Hazelton and Takla Groups of Central 
+British  Columbia; Geological Survey of Canada Bulletin 47, 51 pp. 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  43  
+   
+ 
+
+Tipper, H.W. (1963): Nechako River Map-Area, British Columbia;Geological 
+Survey of Canada Memoir 324, 59 pp 
+
+Tipper, H.W., Campbell, R.B., Taylor, G.C. and Stott, D.F. (1974): Parsnip River, 
+Geological Survey of Canada, Map 1424A. 
+
+Torgerson, D. K. (2010): 2010 Assessment Report for the Key Property; Report 
+submitted for assessment credit to the British Columbia Ministry of 
+Energy, Mines and Petroleum Resources. 
+
+Zbitnoff, G.W. (1988): Diamond Drilling Report on PEM Claim; British Columbia 
+Ministry of Energy, Mines and Petroleum Resources. Assessment Report 
+#17,032. 
+
+
+
+TROYMET EXPLORATION CORP. 
+
+  44  
+   
+ 
+
+2 0 . 0  CERTIFICATE OF QUALIFIED PERSON  
+
+I, Scott Casselman of Whitehorse Yukon, do hereby certify as author of this 
+"Technical Report, Key Property, British Columbia, Canada", dated 18 May, 
+2012, make the following statements: 
+
+ I am a consulting geologist, employed by Casselman Geological Services 
+Ltd, 33 Firth Road, Whitehorse, Yukon, Y1A 4R5. 
+
+ I have a B.Sc. in Geology from the Carleton University of Ottawa, obtained in 
+1985. 
+
+ I am a member in good standing of the Association of Professional Engineers 
+and Geoscientists of British Columbia, License #20032. 
+
+ I have practiced my profession in mineral exploration continuously since 
+1985.  I have over twenty six years of experience in mineral exploration.  
+
+ I have read the definition of "qualified person" set out in National Instrument 
+43-101 (NI 43-101) and certify that, by reason of my education, affiliation with 
+a professional association (as defined in NI 43-101) and past relevant work 
+experience, I fulfill the requirements to be a "qualified person" for the purpose 
+of NI 43-101. 
+
+ I am responsible for all sections of this Technical Report.   
+
+ I was field supervisor on this project as an independent consultant from May 
+11 to June 14, 2010, November 4 to 19, 2010, and from February 1 to April 
+1, 2011. I most recently visited the KEY property from May 8, 2012. 
+
+ As of the date of this Certificate, to the best of my knowledge, information 
+and belief, this Technical Report contains all scientific and technical 
+information that is required to be disclosed to make the Technical Report not 
+misleading. 
+
+ I am independent of the Issuer as described in Section 1.5 NI 43-101. 
+
+ I have read NI 43-101 and the Technical Report has been prepared in 
+compliance with NI 43-101 and Form 43-101F1. 
+
+Signed and dated this 18th day of May, 2012 at Whitehorse, Yukon. 
+
+"Signed and Sealed" 
+
+Scott Casselman, P.Geo. 
+Geologist 
+Casselman Geological Services Ltd. 
+
+ 
+
+
+'

@@ -1,0 +1,3181 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - KIT 43101 Feb 14 2018_new date
+
+
+NI 43‐101 Independent Technical Report on 
+the Kittson‐Cobalt Property 
+
+Kittson, Coleman, and Brigstocke Townships 
+
+Larder Lake Mining Division, Ontario, Canada 
+
+NTS Map Sheet 31/M05 
+
+Centered on UTM NAD83 Zone 17 582,500 mE, 5,246,000 mN 
+
+ 
+
+ 
+
+Prepared for:  Power Americas Minerals Corporation 
+
+Suite 1080, 789 West Pender Street 
+
+Vancouver, BC  V6C 1H2 
+
+ 
+
+Prepared by:  Steven Flank, M.Sc., P.Geo. 
+
+      124 Sherwood Drive 
+
+Thunder Bay, ON  P7B 6L1  
+
+ 
+
+Effective Date:  December 18, 2017 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+Table of Contents 
+
+Table of Contents ............................................................................................................................... 2 
+
+List of Figures ..................................................................................................................................... 3 
+
+List of Tables ...................................................................................................................................... 4 
+
+1 Summary ................................................................................................................................... 5 
+
+2 Introduction ............................................................................................................................. 7 
+
+2.1 Issuer for Whom the Technical Report is Written ...................................................................... 7 
+
+2.2 Purpose of the Technical Report ................................................................................................... 7 
+
+2.3 Sources of Information and Data .................................................................................................. 7 
+
+2.4 Details of the Personal Inspection on the Property by the Qualified Person ............................ 7 
+
+2.5 Terms of Reference, Units of Measure, Currency ...................................................................... 12 
+
+3 Reliance on Other Experts ...................................................................................................... 14 
+
+4 Property Location and Description ........................................................................................ 15 
+
+4.1 Area and Location of the Property .............................................................................................. 15 
+
+4.2 Mineral Tenure ............................................................................................................................. 15 
+
+4.3 Surface Rights Holders ................................................................................................................ 15 
+
+4.4 Exploration Plans and Permits .................................................................................................... 17 
+
+4.5 Issuer's Title or Interest in the Property .................................................................................... 17 
+
+4.6 Any Other Land Tenure Agreements ......................................................................................... 18 
+
+4.7 Environmental Liabilities ............................................................................................................ 19 
+
+4.8 Any Other Significant Risks Affecting the Ability to Perform Work ....................................... 19 
+
+5 Accessibility, Climate, Local Resources, Infrastructure, Physiography .............................. 20 
+
+5.1 Accessibility .................................................................................................................................. 20 
+
+5.2 Climate and Operating Season ................................................................................................... 20 
+
+5.3 Infrastructure, Local Resources, Power, Water, Personnel, Potential Tailings Storage, 
+Waste Disposal, Heap Leach Pads, Processing Plant Sites ....................................................... 21 
+
+5.4 Physiography ................................................................................................................................ 22 
+
+6 History ..................................................................................................................................... 22 
+
+7 Geological Setting and Mineralization .................................................................................. 23 
+
+7.1 Regional Geology ......................................................................................................................... 23 
+
+7.2 Property Geology .......................................................................................................................... 23 
+
+7.2.1 Shakt‐Davis Mine ....................................................................................... 24 
+
+7.2.2 Cobalt‐Kittson Mine................................................................................... 24 
+
+7.3 Mineralization .............................................................................................................................. 24 
+
+8 Deposit Types.......................................................................................................................... 27 
+
+9 Exploration ............................................................................................................................. 28 
+
+10 Drilling .................................................................................................................................... 32 
+
+10.1 Methods Employed ...................................................................................................................... 32 
+
+10.2 Drill Log Summaries .................................................................................................................... 33 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+KIT‐17‐001 ................................................................................................................. 33 
+
+KIT‐17‐002 .................................................................................................................34 
+
+KIT‐17‐003 .................................................................................................................34 
+
+KIT‐17‐004.................................................................................................................34 
+
+KIT‐17‐005 .................................................................................................................34 
+
+KIT‐17‐006 ................................................................................................................34 
+
+KIT‐17‐007 ................................................................................................................. 35 
+
+10.3 Summary of Drilling Results ....................................................................................................... 35 
+
+11 Sample Preparation, Analysis, and Security .......................................................................... 35 
+
+12 Data Verification .................................................................................................................... 36 
+
+13 Mineral Processing and Metallurgical Testing ..................................................................... 40 
+
+14 Mineral Resource Estimates .................................................................................................. 40 
+
+23 Adjacent Properties ................................................................................................................ 40 
+
+24 Other Relevant Data and Information ................................................................................... 41 
+
+25 Interpretations and Conclusions ............................................................................................ 41 
+
+26 Recommendations ................................................................................................................... 41 
+
+26.1 General .......................................................................................................................................... 41 
+
+26.2 Phase 1 Recommendations .......................................................................................................... 42 
+
+26.3 Phase 2 Recommendations .......................................................................................................... 43 
+
+27 References ............................................................................................................................... 44 
+
+28 Certificate of the Author ........................................................................................................ 46 
+
+Appendix I Assay Certificate of Verification Samples ......................................................... 47 
+
+List of Figures 
+
+Figure 1 ‐ Kittson‐Cobalt Property showing the core storage site, helicopter landing site, and the 
+
+map area shown in Figure 2. .......................................................................................................... 8 
+
+Figure 2 ‐ Tracks and waypoints of the QP during his site visit, December 17
+th
+
+, 2017. ................................. 9 
+
+Figure 3 ‐ Shaft 1 of the historic Shakt‐Davis mine, marked with flagging tape. ......................................... 10 
+
+Figure 4 ‐ Relict boilers left on‐site from historic mining at Shakt‐Davis in the early 1920s. .................... 10 
+
+Figure 5 ‐ Corner post #3 from claim number 4279296 on the Kittson‐Cobalt Property. ........................... 11 
+
+Figure 6 ‐ Corner post #4 from claim number 4279295 on the Kittson‐Cobalt Property. ........................... 11 
+
+Figure 7 ‐ Location of the Kittson‐Cobalt Property in northeastern Ontario, Canada. .............................. 16 
+
+Figure 8 ‐ Kittson‐Cobalt Property claim map. .............................................................................................. 18 
+
+Figure 9 ‐ Patents within the Kittson‐Cobalt Property with surface rights holders. ................................... 19 
+
+Figure 10 ‐ Access to the Kittson‐Cobalt Property (Google Maps, 2017). ..................................................... 22 
+
+Figure 11 ‐ Regional Geology (from OGS Map P3581, 2006; figure provided by Power Americas' 
+
+consultant Fladgate Exploration). ................................................................................................ 25 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+Figure 12 ‐ Regional geology of Kittson, Coleman, and Gillies Limit Townships (Born and Hitch, 
+
+1988). .............................................................................................................................................. 26 
+
+Figure 13 ‐ Property Geology including MDIs (from Ontario Geological Survey, 2017; geology 
+
+from OGS Map P3581, 2006; figure provided by Power Americas' consultant Fladgate 
+
+Exploration). .................................................................................................................................. 27 
+
+Figure 14 ‐ Location of 150 prospecting samples collected on the northern portion of the Kittson‐
+
+Cobalt Property in 2017. ................................................................................................................ 28 
+
+Figure 15 ‐ Highlights of the 2017 prospecting Program in the northern portion of the Kittson‐
+
+Cobalt Property (geology from OGS Map P3581, 2006; figure provided by Power 
+
+Americas' consultant Fladgate Exploration). ............................................................................... 31 
+
+Figure 16 ‐ Drill hole collar locations from the 2017 Drill Program conducted by Fladgate 
+
+Exploration for Power Americas (figure supplied by Fladgate Exploration). ........................... 33 
+
+Figure 17 ‐ Snow‐covered muck pile near Shaft #1 at Shakt‐Davis from which a verification 
+
+sample was taken. .......................................................................................................................... 37 
+
+Figure 18 ‐ Collecting sample KT‐SF‐001 near Shaft #1 in a muck pile. ........................................................ 38 
+
+Figure 19 ‐ Collar for KIT‐17‐002 drilled in 2017 by Fladgate Exploration for Power Americas. ................. 39 
+
+List of Tables 
+
+Table 1 ‐ GPS coordinates of locations visited during the site visit (UTM NAD83 Zone 17N). .................... 8 
+
+Table 2 ‐ Glossary of Terms. ............................................................................................................................ 12 
+
+Table 3 ‐ Units of Measure. ............................................................................................................................... 13 
+
+Table 4 ‐ List of Claims for the Kittson‐Cobalt Property. .............................................................................. 17 
+
+Table 5 ‐ Climate of Earlton, Ontario (Environment Canada, 2006). ........................................................... 20 
+
+Table 6 ‐ Prospecting samples from the 2017 program returning >0.1 wt% Co. .......................................... 29 
+
+Table 7 ‐ Drill collar information. ................................................................................................................... 32 
+
+Table 8 ‐ Database vs. site visit coordinates of grab samples on Kittson‐Cobalt Property. ........................ 37 
+
+Table 9 ‐ Verification sampling of muck piles on the Kittson‐Cobalt Property. ......................................... 38 
+
+Table 10 ‐ Diamond drill hole collar coordinates collected during site visit ................................................ 39 
+
+Table 11 ‐ Summary budget for proposed exploration on the Kittson‐Cobalt Property. ............................. 43 
+
+ 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+1 Summary 
+Property Description and Ownership 
+
+Mr. Steven Flank, M.Sc., P.Geo. has been retained by Power Americas Minerals Corporation to produce a 
+
+NI 43‐101‐compliant Technical Report on its Kittson‐Cobalt Project. This report has been prepared in 
+
+accordance with National Instrument 43‐101, Companion Policy NI 43‐101CP, and Form 43‐101F.  
+
+The claims of the Kittson‐Cobalt Property are registered to both Neil Pettigrew (5 claims) and Benjamin 
+
+Kuzmich (10 claims) (see Table 4Five (5) mineral claims currently registered to Neil Pettigrew were 
+
+purchased through an option agreement whereby, under the terms of the Option Agreement, Power 
+
+Americas earned a 100% interest in the Property for an aggregate purchase price of $1,155,000 paid by a 
+
+combination of common shares and cash, of which $1,125,000 of the purchase price was satisfied by the 
+
+issuance of 25,000,000 common shares at a deemed price of $0.045 per common share and a one time 
+
+only $30,000 payment. The Property is subject to an underlying 2% Net Smelter Return (NSR) royalty in 
+
+favour of the underlying optioner, Mr. Neil Pettigrew, of which 1.5% may be purchased by the Company 
+
+for $1 million (see Power Americas Press Release dated Jan 23, 2017).  Power Americas has warranted in 
+
+writing that the terms of the option agreement have been met and Power Americas now owns 100% of 
+
+these 5 claims.  
+
+Ten (10) additional claims registered to the original claim staker, Mr. Ben Kuzmich, are subject to an 
+
+option agreement disclosed by the company on November 22
+nd
+
+, 2017.  Power Americas can acquire 100% 
+
+interest in the claims under the terms of a share purchase agreement for a purchase price of $1,430,000 
+
+payable by the issuance of 13,000,000 common shares of the Company at a deemed price of $0.11 per 
+
+share. This transaction is subject to TSX Venture Exchange approval.  
+
+There are deep mining roots in the entire Cobalt Mining Camp, of which the Kittson‐Cobalt Property is 
+
+a part. Although full‐scale mining on the Property last took place over 70 years ago, the area is steeped 
+
+in mining tradition and history, with old headframes and mill sites peppering the landscape. The town 
+
+of Cobalt, Ontario, is only 40 km due east, and many exploration companies are actively working in the 
+
+area. The Kittson‐Cobalt Project is located 10 km north of Latchford, Ontario, and 130 km north of North 
+
+Bay, Ontario, within NTS map sheet 31/M05 in the Larder Lake Mining Division of Northeastern 
+
+Ontario. It is centered on UTM coordinates (NAD83 Zone 17N) 582,500 mE, 5,246,000 mN and 
+
+comprises 15 contiguous unpatented mineral claims totaling 196 units and 3082 ha (30.82 km
+2
+). There is 
+
+a valid exploration permit and plan related to 5 out of 15 of the claims making up the Property, granted 
+
+by the Ontario Ministry of Northern Development and Mines (PR‐16‐10965, PL‐16‐10653). 
+
+Geology and Mineralization 
+
+The Kittson‐Cobalt Property lies within Ontario's Proterozoic Southern Province, and is part of the 
+
+central Cobalt Group of the Huronian Supergroup. The Property is dominated by Lorrain Formation 
+
+arkoses and quartz arenites which are underlain by upper Gowganda Formation wackes, siltstones and 
+
+mudstones. Nipissing diabase dykes and sills intruded along the Lorrain‐Gowganda contact, providing 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+pathways for Co‐ and Ag‐bearing fluids to migrate into related fractures. The Latchford Fault, which is a 
+
+dominant regional structure, runs through the eastern edge of the Property.  
+
+There are two past‐producing Co‐Ag mines on the Property, namely the Cobalt‐Kittson and Shakt‐Davis 
+
+Mines. The Darby Mine (also known as the Edison Mine), falls just off the property within a privately‐
+
+held patent. Unlike the nearby Cobalt silver camp, these three mines were developed primarily for their 
+
+cobalt, as well as gold (locally >1 oz/ton). The target of mining at the three mines was a 70‐120 m wide 
+
+diabase dyke which cut Lorrain Formation arkoses near the Gowganda‐Lorrain contact.  
+
+Smaltite (CoAs2) and other cobalt‐nickel sulpharsenide minerals occur in quartz‐calcite veins which are 
+
+vertically dipping, varying in width between 0.1‐1.5 m. These mineralized veins are hosted within 
+
+fractures and faulted zones parallel to the diabase dyke, and are focused along both the contacts of the 
+
+diabase dyke and in parallel fractures. All three historic mines saw limited production in the pre‐1950's 
+
+era. The Shakt‐Davis mine had the most underground development. 
+
+Status of Exploration 
+
+Power Americas is actively exploring the Kittson‐Cobalt Property, having very recently completed both a 
+
+prospecting and diamond drilling program in late 2017. The focus of the current Technical Report is to 
+
+verify and report on this recent exploration and any results available at the time of writing. Power 
+
+Americas has indicated to the Author that the company is planning a follow‐up winter drill program. 
+
+Conclusions and Recommendations 
+
+The Kittson‐Cobalt Property contains two past‐producing Co‐Ag mines. Results from initial prospecting 
+
+have demonstrated continued %‐level Co‐bearing mineralization. These samples also contain variable 
+
+amounts of Ag. There is continued merit in exploring the contact between Lorrain and Gowganda 
+
+metasediments in the vicinity of the Nipissing diabase units for further occurrences of Co‐bearing 
+
+mineralization, as there is potential for additional cobalt mineralization to be discovered in and around 
+
+the past‐producing mines as well as within the larger Property boundary.  
+
+The Cobalt mining camp has seen renewed interest from mineral exploration companies recently as 
+
+prices of Cobalt have risen sharply in the past two years.  This has resulted in explorers staking large 
+
+tracts of land to better assess the mineralizing systems responsible for the numerous historical mines in 
+
+the Cobalt area.  Mines in the Cobalt camp primarily targeted Ag mineralization while mines in the 
+
+vicinity of the Kittson‐Cobalt property, including the Shakt‐Davis and the Cobalt‐Kittson mines, were 
+
+known to be significantly more Co rich.  As such the Kittson‐Cobalt Property represents and excellent 
+
+opportunity to better evaluate Co‐rich mineralization in the Cobalt camp. 
+
+Recommended work on the Kittson‐Cobalt Property involves continued drilling in and around the 
+
+Shakt‐Davis Mine, Cobalt‐Kittson Mine, and directly north of the Edison mine within claims held by 
+
+Power Americas Minerals Corporation. 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+2 Introduction 
+2.1 Issuer for Whom the Technical Report is Written 
+
+Mr.  Steven Flank, M.Sc., P.Geo. was engaged by the Issuer, Power Americas Minerals Corporation 
+
+("Power Americas"), to prepare an Independent Technical Report for its Kittson‐Cobalt Property (the 
+
+"Property"), near Latchford, Ontario, Canada. The Technical Report is compliant with National 
+
+Instrument 43‐101, companion policy NI 43‐101CP, and Form 43‐101F. Mr. Flank serves as the 
+
+Independent Qualified Person ("QP") in accordance with Section 1.5 of NI 43‐101CP (Companion Policy) 
+
+in that there is no circumstance that, in the opinion of a reasonable person aware of all relevant facts, 
+
+could interfere with the QP's judgment regarding the preparation of the Technical Report. Mr. Flank is a 
+
+member in good standing with the Association of Professional Geoscientists of Ontario (APGO #2695). 
+
+The Statement of Qualifications for the QP is presented in Section 28.  
+
+The QP's scope of work entailed reviewing available historical information, examining select drill core 
+
+intercepts available in Thunder Bay at the offices of Fladgate Exploration Consulting Corporation 
+
+("Fladgate Exploration") from Power Americas' 2017 drill program, visiting the project site, verifying 
+
+the location of two claim posts, collecting two verification samples near a historic shaft, and analysing 
+
+these samples for Au, Ag, and base metals such as Co. The QP also summarized these findings and 
+
+provided recommendations for future exploration work.  
+
+2.2 Purpose of the Technical Report 
+
+The purpose of this Technical Report is to provide an independent review of Power Americas' Kittson‐
+
+Cobalt Property, verifying the validity of their geochemical database, examining available drill core, and 
+
+conducting a site visit to confirm access to the Property and to verify any significant work completed on 
+
+the Property. The Property is a significant acquisition for the Company and this report will be used to 
+
+comply with TSX Venture Exchange regulatory requirements. 
+
+An independent site visit was conducted, whereupon two verification samples were taken for 
+
+independent analysis. Except for the purposes legislated under provincial securities laws, any other use 
+
+of this report, by any third party, is at the party's sole risk. The data supporting the statements made in 
+
+this report have been verified for accuracy and completeness by the Author.  
+
+2.3 Sources of Information and Data 
+
+In conducting this study, the Author consulted and utilized various sources of information and data, 
+
+including government publications and publicly available assessment reports. A list of the various 
+
+sources used to prepare the current report is given in the 'References' section. 
+
+2.4 Details of the Personal Inspection on the Property by the Qualified Person 
+
+On December 17
+th
+
+, 2017, the Author and QP, Mr. Steven Flank, M.Sc., P.Geo., accompanied by 
+
+prospector Mr. David Clement, visited the Kittson‐Cobalt Property near Latchford, Ontario. The 
+
+Property was accessed by helicopter chartered from Expedition Helicopters in North Bay, Ontario. The 
+
+helicopter landed in a clearing on the northeast shore of Kitt Lake (known locally as 'Trout Lake') at 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+approximately 582,140 mE, 5,246,070 mN (UTM NAD83 Zone 17), proximal to cabins used as a basecamp 
+
+during exploration activities conducted in 2017 (Figure 1 and Figure 2). 
+
+A smaller scale map showing the site visit area is shown below, illustrating the helicopter landing site, 
+
+historic adit and shafts of the Shakt‐Davis mine, drill collar locations from the Power Americas' 2017 drill 
+
+program, claim post verification location, and the eastern border with an adjacent patent (Figure 2). 
+
+Coordinates for some of these features are listed in Table 1. 
+
+Table 1 ‐ GPS coordinates of locations visited during the site visit (UTM NAD83 Zone 17N). 
+
+Site Description  Easting  Northing 
+
+Shaft 1  582352  5246021 
+
+Shaft 2  582398  5246049 
+
+Shaft 4  582485  5246090 
+
+Adit  582195  5246047 
+
+Claim Post 4279295 (#4) & 4279296 (#3)  582385  5246169 
+
+ 
+Figure 1 ‐ Kittson‐Cobalt Property showing the core storage site, helicopter landing site, and the map 
+
+area shown in Figure 2. 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+ 
+Figure 2 ‐ Tracks and waypoints of the QP during his site visit, December 17
+
+th
+, 2017.  
+
+ 
+
+ 
+
+From the landing site, Mr. Flank and Mr. Clement proceeded east on foot along an access trail towards 
+
+the historic Shakt‐Davis mine. The mine site includes an open adit, as well as three open shafts, which 
+
+appear as large, deep holes (Figure 3). The partially collapsed adit is located at the foot of a large hill 
+
+located on the property of the cabin owner near the helicopter landing site. The open shafts are situated 
+
+along a NE‐SW trend following a semi‐continuous trench (Figure 2). Flagging tape was observed around 
+
+Shaft 1 (Figure 3), however there was no hazard markings around Shafts 2 or 4. Shaft 3 is known to be a 
+
+winze and was therefore not observed on surface. 
+
+Historical mining equipment is abandoned on site, located within 100 m of the adit, appearing to be 
+relicts of mining operations at Shakt‐Davis (Figure 4). All of the above features are recorded in the 
+
+Abandoned Mines Information System (AMIS File 03723) and are classified as "active hazards", therefore 
+
+extreme caution must be taken. 
+
+ 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+ 
+
+Figure 3 ‐ Shaft 1 of the historic Shakt‐Davis mine, marked with flagging tape. 
+
+ 
+
+ 
+
+Figure 4 ‐ Relict boilers left on‐site from historic mining at Shakt‐Davis in the early 1920s. 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+Claim post #4 for claim 4279295 (which is also post #3 for claim 4279296) was located by following the 
+
+E‐W trending, northern claim line for claim 4279295 (Figure 2). The location of this claim post 
+
+corresponded to the digital location according to Claimaps and the Ontario Ministry of Northern 
+
+Development and Mines, and the size of the post meets the requirements set out in the Mining Act 
+
+(Figures 5 and 6). The claim line was followed on foot for 475 m to the east, until its termination at 
+patent JB34.  
+
+Most of the drill core from the 2017 drilling program conducted by Fladgate Exploration (on behalf of 
+
+Power Americas) is stored 2.5 km from the drill sites at a boat launch on claim 4279297 (Figure 1). 
+There was insufficient room at this boat launch, and also insufficient ice thickness on the Montreal 
+
+River to the east to safely land the helicopter, therefore the Author did not inspect the drill core stored 
+
+in the field. However, drill core intervals from holes KIT‐17‐006 and ‐007 are stored in Thunder Bay, 
+
+Ontario, at the offices of Fladgate Exploration. These sections of drill core were made available to the 
+
+Author for inspection. The Author compared the drill logs to the available drill core and noted that the 
+
+lithology and mineralization was logged accurately. Sample positions were clearly marked on the split 
+
+core, and sample tags were stapled to the core box indicating each sample interval. At the time of core 
+
+inspection, assay results for these drill holes were not available. 
+
+ 
+
+ 
+
+Figure  5 ‐ Corner post #3 from claim number 
+
+4279296 on the Kittson‐Cobalt Property. 
+
+ 
+
+Figure 6 ‐ Corner post #4 from claim number 
+
+4279295 on the Kittson‐Cobalt Property. 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+2.5 Terms of Reference, Units of Measure, Currency 
+
+The Metric System or SI System is the primary system of measure and length used in this report and is 
+
+generally expressed in kilometers, meters and centimeters; volume is expressed as cubic meters, mass 
+
+expressed as cubic meters, mass expressed as metric tonnes, area as hectares, and zinc, copper and lead 
+
+grades as percent (%) or parts per million (ppm). The precious metal grades (such as gold) are generally 
+
+expressed as grams/tonne (g/t) but may also be in parts per billion (ppb) or parts per million (ppm). 
+
+Conversions from the SI or Metric System to the Imperial System are provided below and quoted where 
+
+practical. Many of the geologic publications and more recent work assessment files now use the SI 
+
+system but older work assessment files almost exclusively refer to the Imperial System. Metals and 
+
+mineral acronyms in this report conform to mineral industry accepted usage. 
+
+Table 2 ‐ Glossary of Terms. 
+
+Term  Meaning  Term  Meaning 
+
+AEM  Airborne Electromagnetic  Na  sodium 
+
+Ag  Silver  Na2O  sodium oxide 
+
+Al  Aluminum  NAD 83  North American Datum of 1983 
+
+Al2O3  aluminum oxide  NE  northeast 
+
+AW  apparent width  NI  National Instrument 
+
+As  Arsenic  Ni  nickel 
+
+Au  Gold  NSR  net smelter return 
+
+Ba  Barium  NTS  National Topographic System 
+
+Be  Beryllium  OGS  Ontario Geological Survey 
+
+Bi  Bismuth  P  phosphorous 
+
+C  carbon dioxide  P2O5  phosphorous oxide 
+
+Ca  Calcium  Pb  lead 
+
+CaO  calcium oxide  Pd  palladium 
+
+Cd  Cadmium  pH  acidity 
+
+Co  Cobalt  Pt  platinum 
+
+CO2  carbon dioxide  QA/QC  Quality Assurance/Quality Control 
+
+Cr  Chromium  S  south 
+
+Cr2O3  chromium oxide  S  sulphur 
+
+Cu  Copper  Sb  antimony 
+
+DDH  diamond drill hole  SE  southeast 
+
+DW  drilled width  Se  selenium 
+
+E  East  SiO2  silicon oxide 
+
+EM  electromagnetic  Sn  tin 
+
+Fe  Iron  SO2  sulphur dioxide 
+
+Fe2O3  iron oxide (ferric oxide‐hematite)  Sr  strontium 
+
+Fe3O4  iron oxide (ferrous oxide‐magnetite)  Sum  summation 
+
+HLEM  horizontal loop electromagnetic  SW  southwest 
+
+H2O  hydrogen oxide (water)  Ti  titanium 
+
+IP  induced polarization  TiO2  titanium oxide 
+
+K  Potassium  Tl  thallium 
+
+K2O  potassium oxide  TW  true width 
+
+Li  Lithium  U  uranium 
+
+LOI  loss on ignition (total H2O, CO2 and SO2 content)  U3O8  uranium oxide (yellowcake) 
+
+Mg  Magnesium  UTM  Universal Transverse Mercator 
+
+MgO  magnesium oxide  V  vanadium 
+
+Mn  Manganese  V2O5  vanadium oxide 
+
+MNDM  Ministry of Northern Development and Mines  VLF  very low frequency 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+Term  Meaning  Term  Meaning 
+
+MnO  manganese oxide  VLF‐EM  very low frequency‐electromagnetic 
+
+Mo  Molybdenum  W  west 
+
+Mt  millions of tonnes  Y  yttrium 
+
+N  North  Zn  zinc 
+
+NW  northwest 
+
+ 
+
+Table 3 ‐ Units of Measure. 
+
+Units of Measure  Abbreviation  Units of Measure  Abbreviation 
+
+Above mean sea level  amsl  Litre  L 
+
+Ampere  A  Litres per minute  L/m 
+
+Annum (year)  a  Megabytes per second  Mb/s 
+
+Billion years ago  Ga  Megapascal  MPa 
+
+British thermal unit  Btu  Megavolt‐ampere  MVA 
+
+Candela  cd  Megawatt  MW 
+
+Carat  ct  Metre  m 
+
+Carats per hundred tonnes  cpht  Metres above sea level  masl 
+
+Carats per tonne  cpt  Metres per minute  m/min 
+
+Centimetre  cm  Metres per second  m/s 
+
+Cubic centimetre  cm
+3
+  Metric ton (tonne)  t 
+
+Cubic feet per second  ft
+3
+/s or cfs  Micrometre (micron)  μm 
+
+Cubic foot  ft
+3
+  Microsiemens (electrical)  μs 
+
+Cubic inch  in
+3
+  Miles per hour  mph 
+
+Cubic metre  m
+3
+  Milliamperes  mA 
+
+Cubic yard  yd
+3
+  Milligram  mg 
+
+Day  d  Milligrams per litre  mg/L 
+
+Days per week  d/wk  Millilitre  mL 
+
+Days per year (annum)  d/a  Millimetre  mm 
+
+Dead weight tonnes  DWT  Million  M 
+
+Decibel adjusted  dBa  Million tonnes  Mt 
+
+Decibel  dB  Minute (plane angle)  ' 
+
+Degree  °  Minute (time)  min 
+
+Degrees Celsius  °C  Month  mo 
+
+Degrees Fahrenheit  °F  Newton  N 
+
+Diameter  ø  Newtons per metre  N/m 
+
+Dry metric ton  dmt  Ohm (electrical)  Ω 
+
+Foot  ft  Ounce  oz 
+
+Gallon  gal  Parts per billion  ppb 
+
+Gallons per minute (US)  gpm  Parts per million  ppm 
+
+Gigajoule  GJ  Pascal  Pa 
+
+Gram  g  Pascals per second  Pa/s 
+
+Grams per litre  g/L  Percent  % 
+
+Grams per tonne  g/t  Percent moisture (relative humidity)  % RH 
+
+Greater than  >  Phase (electrical)  Ph 
+
+Hectare (10,000 m2)  ha  Pound(s)  lb 
+
+Hertz  Hz  Pounds per square inch  psi 
+
+Horsepower  hp  Power factor  pF 
+
+Hour  h (not hr)  Quart  qt 
+
+Hours per day  h/d  Revolutions per minute  rpm 
+
+Hours per week  h/wk  Second (plane angle)  " 
+
+Hours per year  h/a  Second (time)  s 
+
+Inch   "(symbol, not " )  Short ton (2,000 lb)  st 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+Units of Measure  Abbreviation  Units of Measure  Abbreviation 
+
+Joule  J  Short ton (US)  t 
+
+Joules per kilowatt‐hour  J/kWh  Short tons per day (US)  tpd 
+
+Kelvin  K  Short tons per hour (US)  tph 
+
+Kilo (thousand)  k  Short tons per year (US)  tpy 
+
+Kilocalorie  kcal  Specific gravity (g/cm
+3
+)  SG 
+
+Kilogram  kg  Square centimetre  cm
+2
+ 
+
+Kilograms per cubic metre  kg/m
+3
+  Square foot  ft
+
+2
+ 
+
+Kilograms per hour  kg/h  Square inch  in
+2
+ 
+
+Kilograms per square metre  kg/m
+2
+  Square kilometre  km
+
+2
+ 
+
+Kilojoule  kJ  Square metre  m
+2
+ 
+
+Kilometre  km  Thousand tonnes  kt 
+
+Kilometres per hour  km/h  Tonne (1,000kg)  t 
+
+Kilonewton  kN  Tonnes per day  t/d 
+
+Kilopascal  kPa  Tonnes per hour  t/h 
+
+Kilovolt  kV  Tonnes per year  t/a 
+
+Kilovolt‐ampere  kVA  Total dissolved solids  TDS 
+
+Kilovolts  kV  Total suspended solids  TSS 
+
+Kilowatt  kW  Volt  V 
+
+Kilowatt hour  kWh  Week  wk 
+
+Kilowatt hours per short ton (US)  kWh/st  Weight/weight  w/w 
+
+Kilowatt hours per tonne (metric ton)  kWh/t  Wet metric ton  wmt 
+
+Kilowatt hours per year  kWh/a  Yard  yd 
+
+Kilowatts adjusted for motor efficiency  kWe  Year (annum)  a 
+
+Less than  <  Year  yr 
+
+ 
+
+The term grams/tonne (g/t) is expressed as "grams per tonne" where 1 gram/tonne = 1 ppm (parts per 
+
+million) = 1000 ppb (parts per billion). Other abbreviations include oz/t = ounce per short ton; Moz = 
+
+million ounces; Mt = million tonnes; t = tonne (1000 kilograms); SG = specific gravity; lb/t = pound/ton; 
+
+and st = short ton (2000 pounds). Dollars are expressed in Canadian currency (CAD$) unless otherwise 
+
+noted. Base and certain industrial metal and mineral prices are stated as US$ per tonne (US$/t), precious 
+
+metal prices are stated in US$ per troy ounce (US$/oz) and uranium and certain industrial metal and 
+
+mineral prices are stated in US$ per pound (US$/lb). Unless otherwise noted, Universal Transverse 
+
+Mercator ("UTM") coordinates are provided using North American Datum 1983 ("NAD83") Zone 17N.  
+
+3 Reliance on Other Experts 
+While exercising all reasonable diligence in checking, confirming and testing, the Author has relied 
+
+upon Power Americas' and their consultants' presentation of its project data in formulating his opinion. 
+
+The agreements under which Power Americas holds title to the mineral claims for this project have not 
+
+been reviewed by the Author and the Author offers no legal opinion as to the validity of the mineral title 
+
+claimed. A description of the property, and ownership thereof, is provided for general information 
+
+purposes only. 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+Comments on the state of environmental conditions, liability, and estimated costs have been made 
+
+where required by NI 43‐101. The author offers no opinion on the state of the environment on the 
+
+property. The statements are provided for information purposes only. 
+
+The descriptions of geology, mineralization and exploration used in this report are taken from 
+
+government documents and peer‐reviewed journals. The conclusions of this report rely on data available 
+
+in published and unpublished reports and information supplied by Power Americas and their 
+
+consultants. The information provided to Power Americas was supplied by reputable companies or 
+
+government agencies and the authors have no reason to doubt their validity. 
+
+Some of the figures and tables for this report were supplied to the Author by Power Americas and their 
+
+consultant, Fladgate Exploration. All of the photographs were taken by the Author of this report during 
+
+his site visit. In the cases where figures or tables were supplied by other individuals or Power Americas 
+
+they are referenced below the inserted item. 
+
+Land tenure information for staked claims has been obtained from the MNDM web site, which contains 
+
+a disclaimer as to the validity of the provided information. 
+
+4 Property Location and Description 
+4.1 Area and Location of the Property  
+
+The Kittson‐Cobalt Property is located 10 km northwest of Latchford, Ontario (population ~400), and 
+
+130 km north of North Bay, Ontario, Canada (population 52,000) (Figure 7). The property is centered at 
+UTM coordinates 582,500 mE, 5,246,000 mN. It is located on the western shore of the Montreal River, 
+
+which becomes Bay Lake further to the south near Latchford. The Property is also located approximately 
+
+30 km due west of Cobalt, Ontario, which experienced an immense silver mining boom in the early 
+
+1900's and is now seeing renewed interest in cobalt exploration. 
+
+4.2 Mineral Tenure 
+
+The property consists of 15 mineral claims containing 196 units and 3082 ha (Table 4 and Figure 8). The 
+
+claims are situated within Kittson, Coleman, and Brigstocke Townships, in the Larder Lake Mining 
+
+Division, and are in good standing with the Ontario Ministry of Northern Development and Mines 
+
+(MNDM) as of the effective date of this report (December 18, 2017). 
+
+4.3 Surface Rights Holders 
+
+Surface titles to lands covered by the Kittson‐Cobalt Property are held by a mixture of the Province of 
+
+Ontario (the "Crown"), as well as private surface rights holders. In Ontario the Mining Act states under 
+
+Subsections 6(1) and 13(1) of the Ontario Regulation 308/12 that an early exploration proponent is 
+
+required to provide notice of intent to submit an Exploration Plan or apply for Exploration Permit to 
+
+surface rights owners associated with the lands on which prescribed early exploration activities are 
+
+proposed. The notification is to include: 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+ A complete Notice of Intent to Submit an Exploration Plan or Exploration Permit Application 
+(Notice of Intent) 
+
+ a copy of a proposed Exploration Plan or Exploration Permit Application 
+ A map that shows the location of the proposed exploration activities. 
+
+Having provided the notification to SRO, the proponent must provide to director of exploration 
+
+confirmation that the required notice to all surface rights owners of the mining lands have been 
+
+provided, when submitting an exploration plan or exploration permit application. The proponent is 
+
+considered to have provided the confirmation by certifying the Surface Rights Owner Notification 
+
+section of the forms for Exploration Plan or Exploration Permit Application. Failure to provide 
+
+notification to the SRO and/or to provide the confirmation to the Director renders the application 
+
+incomplete. Power Americas has indicated it has provided adequate consultation with the surface rights 
+
+holders during the permitting process. A list of all private land owners within the Property was reviewed 
+
+by the Author. In Ontario the Mining Act allows for exploration. A map showing the various patents 
+
+where surface rights are present is presented in Figure 9. 
+
+ 
+
+Figure 7 ‐ Location of the Kittson‐Cobalt Property in northeastern Ontario, Canada. 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+Table 4 ‐ List of Claims for the Kittson‐Cobalt Property. 
+
+Township 
+Claim 
+
+Number 
+Units 
+
+Recording 
+Date 
+
+Claim Due Date 
+Yearly Work 
+Requirement 
+
+Ownership 
+
+KITTSON  4264414  16  2017‐Oct‐31  2019‐Oct‐31  $6,400  Benjamin Kuzmich (100%) 
+
+KITTSON  4264415  16  2017‐Oct‐31  2019‐Oct‐31  $6,400  Benjamin Kuzmich (100%) 
+
+KITTSON  4264416  16  2017‐Oct‐31  2019‐Oct‐31  $6,400  Benjamin Kuzmich (100%) 
+
+KITTSON  4264417  16  2017‐Oct‐31  2019‐Oct‐31  $6,400  Benjamin Kuzmich (100%) 
+
+KITTSON  4264418  16  2017‐Oct‐31  2019‐Oct‐31  $6,400  Benjamin Kuzmich (100%) 
+
+KITTSON  4279293  13  2016‐Jun‐22  2018‐Jun‐22  $5,200  Neil Pettigrew (100%) 
+
+COLEMAN  4279294  6  2016‐Jun‐22  2018‐Jun‐22  $2,400  Neil Pettigrew (100%) 
+
+COLEMAN  4279295  15  2016‐Jun‐22  2018‐Jun‐22  $6,000  Neil Pettigrew (100%) 
+
+COLEMAN  4279296  9  2016‐Jun‐22  2018‐Jun‐22  $3,600  Neil Pettigrew (100%) 
+
+KITTSON  4279297  13  2016‐Jun‐22  2018‐Jun‐22  $5,200  Neil Pettigrew (100%) 
+
+COLEMAN  4287873  4  2017‐Oct‐06  2019‐Oct‐06  $1,600  Benjamin Kuzmich (100%) 
+
+COLEMAN  4287874  8  2017‐Oct‐06  2019‐Oct‐06  $3,200  Benjamin Kuzmich (100%) 
+
+COLEMAN  4287875  16  2017‐Oct‐06  2019‐Oct‐06  $6,400  Benjamin Kuzmich (100%) 
+
+BRIGSTOCKE  4287876  16  2017‐Oct‐06  2019‐Oct‐06  $6,400  Benjamin Kuzmich (100%) 
+
+BRIGSTOCKE  4287877  16  2017‐Oct‐06  2019‐Oct‐06  $6,400  Benjamin Kuzmich (100%) 
+
+Total  15  196      $78,400   
+
+ 
+
+4.4 Exploration Plans and Permits 
+
+A valid exploration plan and permit exists for the 5 original 'core' claims within the Kittson‐Cobalt 
+
+Property (PR‐16‐10965 and PL‐16‐10653) in the name of Mr. Neil Pettigrew, from whom Power Americas 
+
+Minerals Corporation has an option agreement. There is no exploration plan or permit in place for the 
+
+remaining 10 claims. 
+
+4.5 Issuer's Title or Interest in the Property 
+
+The claims of the Kittson‐Cobalt Property are registered to both Neil Pettigrew (5 claims) and Benjamin 
+
+Kuzmich (10 claims) (see Table 4Five (5) mineral claims currently registered to Neil Pettigrew were 
+
+purchased through an option agreement whereby, under the terms of the Option Agreement, Power 
+
+Americas earned a 100% interest in the Property for an aggregate purchase price of $1,155,000 paid by a 
+
+combination of common shares and cash, $1,125,000 of the purchase price was satisfied by the issuance 
+
+of 25,000,000 common shares at a deemed price of $0.045 per common share and a one time only 
+
+$30,000 payment. The Property is subject to an underlying 2% Net Smelter Return (NSR) royalty in 
+
+favour of the underlying optioner, Mr. Neil Pettigrew, of which 1.5% may be purchased by the Company 
+
+for $1 million (see Power Americas Press Release dated Jan 23, 2017).  Power Americas has warranted in 
+
+writing that the terms of the option agreement have been met and Power Americas now owns 100% of 
+
+these 5 claims.  
+
+Ten (10) additional claims registered to the original claim staker, Mr. Ben Kuzmich are subject to an 
+
+option agreement disclosed by the company on November 22
+nd
+
+, 2017.  Power Americas can acquire 100% 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+interest in the properties under the terms of a share purchase agreement for a purchase price of 
+
+$1,430,000 payable by the issuance of 13,000,000 common shares of the Company at a deemed price of 
+
+$0.11 per share. This transaction is subject to TSX Venture Exchange approval.  
+
+ 
+Figure 8 ‐ Kittson‐Cobalt Property claim map.  
+
+ 
+
+4.6 Any Other Land Tenure Agreements 
+
+There are no other land tenure agreements known to the Author. The property has not been legally 
+
+surveyed to date and there is no requirement to do so. 
+
+UTM NAD83 (Zone 17) 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+4.7 Environmental Liabilities 
+
+To the best of the Author's knowledge, there are no known environmental liabilities within the Kittson‐
+
+Cobalt Property. Historic mine workings are known to the MNDM and are the responsibility of the 
+
+patent holder(s).   
+
+ 
+
+Figure 9 ‐ Patents within the Kittson‐Cobalt Property with surface rights holders. 
+
+ 
+
+4.8 Any Other Significant Risks Affecting the Ability to Perform Work 
+
+As of the effective date of this report, the Author is not aware of any other significant factors that may 
+
+affect access, title, or the right to work on the Kittson‐Cobalt Property. 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+5 Accessibility, Climate, Local Resources, Infrastructure, 
+Physiography 
+
+5.1 Accessibility 
+
+The Kittson‐Cobalt property is accessed in the summer months by driving north from Latchford, 
+
+Ontario, a small town with population of 400, which is 130 km north of North Bay along Trans‐Canada 
+Hwy 11. Roughly 5 km north of Latchford is a turn‐off at Gillies westward towards Portage Bay. The 
+
+property is accessible by boat across the Montreal River near 'Booming Out Point' (Error! Reference 
+
+source not  found.). In the winter months the property is accessible by helicopter, landing near the 
+
+northwest bay of Kitt Lake (locally known as 'Trout Lake'). Portions of the Montreal River and Bay Lake 
+
+may not freeze during the winter months, and therefore winter crossings are not advised. Logging roads 
+
+exist towards the south end of the property, which connect to the Red Squirrel Road accessed through 
+
+the town of Temagami North. Permission is required to use these roads from the Ontario Ministry of 
+
+Natural Resources. 
+
+5.2 Climate and Operating Season 
+
+The climate at Earlton, Ontario (10 km NW of the Kittson‐Cobalt Property), is typical of northern 
+
+Ontario. During the winter months (Dec‐Mar), minimum temperatures of ‐10 to ‐20˚C are common 
+
+(Table  5) and snowfall ranges from 20 to 40 cm monthly (Earlton Weather Station, Environment 
+
+Canada, 2006). During the summer months (June‐Aug), the daily maximum temperatures range from 20 
+
+to 25˚C. Mineral exploration programs are best carried out during the summer months as barges can be 
+
+used to ferry equipment and personnel across the lake. Prospecting can only be done in the non‐winter 
+
+months because of snow cover, and any winter drill programs require helicopter support and are limited 
+
+by the weight restriction of slung material. 
+
+ 
+
+Table 5 ‐ Climate of Earlton, Ontario (Environment Canada, 2006). 
+
+Months  Normal  Warmest  Coldest 
+
+January  ‐9.8°C  ‐4.5°C  ‐15.1°C 
+
+February  ‐14.5°C  ‐8.0°C  ‐21.1°C 
+
+March  ‐4.0°C  0.7°C  ‐8.7°C 
+
+April  4.7°C  11.4°C  ‐2.1°C 
+
+May  12.5°C  19.6°C  5.4°C 
+
+June  16.0°C  23.1°C  8.9°C 
+
+July  18.8°C  25.4°C  12.1°C 
+
+August  15.9°C  22.7°C  9.0°C 
+
+September  10.9°C  16.9°C  4.8°C 
+
+October  4.5°C  8.7°C  0.4°C 
+
+November  0.3°C  3.4°C  ‐2.9°C 
+
+December  ‐5.7°C  ‐1.4°C  ‐9.9°C 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+5.3 Infrastructure, Local Resources, Power, Water, Personnel, Potential Tailings 
+Storage, Waste Disposal, Heap Leach Pads, Processing Plant Sites 
+
+There is a very experienced workforce available across northeastern Ontario, with personnel available in 
+
+Sudbury, Timmins, North Bay, and across to Thunder Bay in the northwest. Contractors, equipment and 
+
+supplies can be brought in from New Liskeard, Ontario, or Timmins.  The Property is 10 km west of the 
+
+all‐weather Trans‐Canada Highway (#11) that extends north from North Bay and carries on 
+
+northwestward to Cochrane and Kapuskasing. Power is readily accessible from hydro lines along this 
+
+route. No potential encumbrances for future mining operations are expected based on the sufficiency of 
+
+surface rights for potential waste disposal areas, heap leach pad areas and potential processing plant 
+
+sites in addition to the nearby availability and sources of power and water. 
+
+The Property is located 90 km southeast of Glencore's Kidd Creek mining operations in Timmins, 
+
+Ontario. The Timmins area is well known for its mining heritage, and current gold and base‐metal 
+
+operations and infrastructure. An experienced mining work force, along with mining/exploration 
+
+services and equipment, are readily available from this mining center.  
+
+There is an airport in Timmins with service to major centers such as Toronto and Montreal, as well as 
+
+access to two CN rail lines, one that runs east‐west along the Trans‐Canada Highway, and another that 
+
+runs north‐south along Highway 634, passing 25 km from the project site (Error! Reference source not 
+
+found.). 
+
+ 
+
+Kittson‐Cobalt 
+
+Property 
+
+"Booming Out" Point 
+
+Portage 
+
+Bay Rd 
+
+Portage  
+Bay 
+
+Trans‐Canada 
+Hwy 11 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+Figure 10 ‐ Access to the Kittson‐Cobalt Property (Google Maps, 2017). 
+
+5.4 Physiography 
+
+The Kittson‐Cobalt Property is topographically variable, with a mixture of tall ridges, swampy marches, 
+
+lakes, and is situated at 240 masl on average. The Montreal River passes along the eastern edge of the 
+
+Kittson‐Cobalt claims, draining southeastward towards Lake Nipissing. Bedrock exposure is also 
+
+variable, with many outcrops along the ridge yet significant vegetation cover and quite thick forest 
+
+including old‐growth maple, white pine, red pine, black spruce, balsam, and cedar, with alder, poplar 
+
+and birch trees closer to creeks and rivers. 
+
+6 History 
+In the early 1900's, several high grade Co‐Ag‐veins containing Ni and varying amounts of Au were 
+
+explored in the region, many striking NE‐SW (e.g. Watts, 1993). Marginal notes on OGS Map P3116 
+
+declare that "mineral exploration for silver and cobalt within the map area dates from 1910 with 
+
+prospecting, trenching, shaft‐sinking, and tunneling at the Canadian prospect (Cobalt‐Kittson mine), 
+
+located on the Montreal River (Kittson Township), and at the Shakt‐Davis Mine on the northeastern 
+
+shore of Kitt Lake near the Kittson‐Coleman Townships boundary." 
+
+In 1923 an Ontario Department of Mines report describes work carried out by Crescent Silver Cobalt 
+
+Mining Co. and a "pronounced fault vein exposed by stripping for a length of 2000 ft (610m) on surface, 
+
+upwards to 3 ft wide has given native silver in several places" (Burrows, 1926).  
+
+The next reported work on the prospect was in 1927 when the Cobalt‐Kittson Silver Mining Syndicate 
+
+did some surface work, installed a small mining plant, and sank a 2‐compartment shaft to a depth of 250 
+
+ft (ODM Report in Resident Geologist's Office, Cobalt). The following year, Cobalt‐Kittson Mines Ltd. 
+
+was incorporated to acquire and further develop the property. The following is an excerpt from an 
+
+Assessment Report written by H. Watts (1993) detailing the history of exploration near Shakt‐Davis: 
+
+ "During  1928 and  1929 and  the  early part of  1930,  this  company deepened  the 
+
+shaft to 628 ft and carried out lateral work on 4 levels: 30 ft on the 60 ft level, 386 
+
+ft on  the 250  ft  level, 860  ft on  the 450  ft  level, and 400  ft on  the 625  ft  level. 
+
+Values  in  Co,  Ag,  Au  and  Ni  were  encountered  but  no  positive  ore  shoots 
+
+outlined. Channel  samples  from  the 450  ft  level  said  to be  from a vein  2.5‐4  ft 
+
+wide, are reported to have averaged 2‐4% Co, 4‐13% Cu, 3‐6 oz/ton Ag, and $4‐
+
+$7/ton  Au  (Au  @  $20.67/oz;  equating  to  5.4‐9.6  g/t  Au).  High  grade  Co 
+
+mineralization was reported also  from  the other  levels. The  total production of 
+
+the mine was  600  pounds  of  cobalt  (smaltite)  and  operations  ceased  in  1930" 
+
+(ODM Report in Resident Geologist's Office, Cobalt. 
+
+In 1935, Kittson Hazelton Gold Mines Ltd., an amalgamation of Cobalt‐Kittson Mines Ltd. and Hazelton 
+
+Porcupine Gold Mines Ltd. was incorporated and acquired the claims, however, no development work 
+
+was carried out. In 1947, title to the property was transferred to Canadian Cobalt and Metals Company 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+Ltd. The shaft was dewatered in 1949, and it is reported that a small amount of diamond drilling was 
+
+done although no records remain (Johns, 1985). Limited diamond drilling of an unknown amount was 
+
+carried out in 1951 and was followed by minor underground development in 1953 and 1964 by Aconic 
+
+Mining Corporation (OGS Map P3116). Two drill holes are reported by A. Arsenault in 1968 and 1971, 
+
+with no assays and very meager drill log descriptions.  
+
+During a 1987 OGS mapping survey over the Brigstocke and Kittson Townships a single sample was 
+
+collected on the eastern shore of Harris Lake. This sample was collected of a quartz‐pyrite vein hosted in 
+
+diabase which returned 0.02 oz/t Au, 1370 ppm Co, 730 ppm Cu and <0.10 oz/t Ag (Born and Burbidge 
+
+1988; 1997). No follow up work on this sample has been recorded. 
+
+Minor prospecting, trenching, and blasting was carried out on the property by H. Watts between 1991 
+
+and 2011. A magnetometer and electromagnetometer survey was conducted over the property by the 
+
+same prospector in 1991 (Watts, 1992). A high resolution magnetic helicopter‐borne geophysical survey 
+
+was flown by Fugro in 2006 for Temex Resources Corp., as they held an extensive claim package in the 
+
+region at this time. A till‐sampling program was also carried out in 2006 and 2007 for Contact Diamond 
+
+Corp. across portions of the current property (Montgomery, 2008). 
+
+Strike Minerals optioned the Kittson‐Cobalt property from H. Watts in 2007. Strike's Aug 26
+th
+
+ 2008 
+
+MD&A indicates exploration costs of $207,007 on the property suggesting they did some work, with a 
+
+total write down of $227,007. They state they drilled 4 holes. Two to the east and two to the west of the 
+
+Kittson‐Cobalt shaft, one each aimed above and below the drift level on either side. No assessment 
+
+report was ever filed for this drilling and the option was allowed to lapse, more than likely due to falling 
+
+commodity prices associated with the Global Financial Crisis of 2008/2009.  
+
+7 Geological Setting and Mineralization 
+7.1 Regional Geology 
+
+The Kittson‐Cobalt property lies within the eastern portion of Ontario's Proterozoic Southern Province. 
+
+More specifically, the property falls within the central Cobalt Group of the Huronian Supergroup. The 
+
+Kittson‐Cobalt property is dominated by Lorrain Formation arkoses and quartz arenites underlain by 
+
+upper Gowganda Formation wackes, siltstones and mudstones. Nipissing diabase dykes and sills 
+
+intruded along the Lorrain‐Gowganda contact. 
+
+The dominant regional structure trends to the northwest and is represented by the Latchford Fault 
+
+which runs through Bay Lake on the eastern edge of the property. The area has been intruded by 
+
+Nipissing diabase sills. Regional geology is illustrated on Figure 11 andFigure 12. 
+
+7.2 Property Geology 
+
+An illustration of property geology is included in Figure 13. The Kittson‐Cobalt property includes two 
+
+historic producing Co‐Ag mines, namely the Kittson‐Cobalt Mine and the Shakt‐Davis Mine. A third 
+
+past‐producing mine called the Darby Mine (also known as the Edison Mine), falls just off the property 
+
+on a privately‐held patent. These mines, unlike those in the nearby Cobalt silver camp, were developed 
+
+
+
+  Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+primarily for their cobalt content, and interestingly possessed significant gold contents (locally >1 
+
+oz/ton). The mines are hosted in a 70‐120 m wide diabase dyke cutting arkoses of the lower Lorrain 
+
+Formation near the Gowganda‐Lorrain contact. Smaltite, and other cobalt‐nickel sulpharsenide 
+
+minerals occur in calcite veins which are vertically dipping, varying in width between 0.1‐1.5 m. These 
+
+mineralized veins are hosted within fractures and faulted zones parallel to the diabase dyke, and are 
+
+focused along both the contacts of the diabase dyke and in parallel fractures. As a general rule, values 
+
+for Co, Ag, Cu, and Au are usually higher in the calcite‐bearing, rather than quartz‐bearing veins. This is 
+
+characteristic of the Kittson area, in contrast to the Cobalt mining camp. All three historic mines saw 
+
+very limited production in the pre‐1950's era. The Shakt‐Davies mine had the most underground 
+
+development.  
+
+7.2.1  Shakt‐Davis Mine 
+
+At the Shakt‐Davis mine several major calcite veins are hosted in a fractured and faulted zone within 
+
+Nipissing diabase. This zone strikes northeast (60°) parallel to a 120 m thick vertical diabase dyke. The 
+main vein varies from 1 to 7 m, whereas the vertically oriented chimney vein ranges from 1 to 3 m wide. 
+
+Both are vertically oriented and contain smaltite (Co), cobaltite (Co), gersdorffite (Co), erythrite (Co), 
+
+annabergite (Ni), pyrite, chalcopyrite (Cu), and niccolite (Ni). From assessment files in the Cobalt 
+
+MNDM office, "Assays and analyses indicated 1.5% Co and minor Ag over a width of 1.37 m with select 
+
+grab samples indicating up to 4% Co, and others with up to 2.72 oz/t Au. A further test of hand‐picked 
+
+ore indicated values of 0.87 oz/t Au, 0.25 oz/t Ag, 7.92% Co, and 7.72% Ni. Another smaltite ore sample 
+
+returned 97 oz/ton Ag, 0.336% Co, and 0.18% Ni (Born and Hitch, 1990) Grab samples collected by N. 
+
+Pettigrew in 1987 from the mine dump yielded assay values of 0.25% Co, 0.75% Ni, 0.06% Cu, 0.10 oz/t 
+
+Au, and <0.10 oz/t Ag (N. Pettigrew, personal communication). 
+
+7.2.2 Cobalt‐Kittson Mine 
+
+The Kittson‐Cobalt mine is hosted in a 70 m wide diabase dyke cutting arkoses of the lower Lorrain 
+Formation near the Gowganda‐Lorrain contact. Chalcopyrite, smaltite and pyrite occur in several north‐
+
+trending calcite veins which are vertically oriented and 4 to 100 cm wide. The veins are hosted in 
+
+fractured and faulted zones parallel to the dyke. Assay results from Johns (1985) indicate 0.08 and 0.20 
+
+oz/t gold. The total production of the mine was 600 pounds of smaltite (cobalt sulpharsenide) from the 
+
+598 ft level (R. Thomson; Resident Geologist's Files, Ontario Ministry of Northern Development and 
+
+Mines, Kirkland Lake; OGS Map P3116). 
+
+7.3 Mineralization 
+
+The main target on the Kittson‐Cobalt property is calcite‐quartz veins hosting Co‐Ag‐Ni‐Au‐Cu 
+
+mineralization, such as arsenides (e.g. smaltite, skutterudite, cobaltite, etc.) and sulfides (e.g. 
+
+chalcopyrite, pyrite, etc.). Veins are typically 1 to 7 m wide with the most calcite‐rich portions typically 
+
+higher in Co, Ag, Cu and Au content. This is more typical of the Gowganda mining camp than the 
+
+nearby Cobalt mining camp where the quartz‐rich portions of the veins typically carried the better 
+
+grades of mineralization (OGS Misc. Paper #137, 1987). Calcite alteration may therefore be a vector to 
+
+economic mineralization on the Kittson‐Cobalt Property. 
+
+
+
+ 
+ 
+
+Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+ 
+
+ 
+
+Figure 11 ‐ Regional Geology (from OGS Map P3581, 2006; figure provided by Power Americas' consultant Fladgate Exploration). 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+ 
+
+Figure 12 ‐ Regional geology of Kittson, Coleman, and Gillies Limit Townships (Born and Hitch, 1988). 
+
+Shakt‐Davis Mine 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+ 
+
+Figure 13 ‐ Property Geology including MDIs (from Ontario Geological Survey, 2017; geology from OGS 
+
+Map P3581, 2006; figure provided by Power Americas' consultant Fladgate Exploration). 
+
+8 Deposit Types 
+The main target on the Kittson‐Cobalt property is calcite‐quartz veins hosting Co‐Ag‐Ni‐Au‐Cu 
+
+mineralization, such as arsenides (e.g. smaltite, skutterudite, cobaltite, etc.) and sulfides (e.g. 
+
+chalcopyrite, pyrite, etc.). Veins are typically 1 to 7 m wide with the most calcite‐rich portions typically 
+
+higher in Co, Ag, Cu and Au content. This is more typical of the Gowganda mining camp than the 
+
+nearby Cobalt mining camp (where the quartz‐rich portions of the veins typically carried the better 
+
+Property Geology 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+grades of mineralization (OGS Misc. Paper #137, 1987). Calcite alteration may therefore be a vector to 
+
+economic mineralization on the Kittson‐Cobalt Property. 
+
+9 Exploration 
+A total of 150 prospecting rock samples were collected during prospecting activities throughout the 
+
+summer and fall 2017 by Fladgate Exploration Consulting Corporation for Power Americas Minerals 
+
+Corporation. Samples were chosen based on visual observations of Co‐Cu‐Ni‐Ag‐bearing arsenides, 
+
+sulfarsenides, oxides, and sulfides. Samples were collected across the northern block of claims in areas 
+
+targeted for favourable geological units and/or historical workings, and are therefore biased towards 
+
+mineralized samples. Samples were not collected in a systematic method, for instance along a grid 
+
+pattern, yet specifically targeting mineralization. The collection sites of the prospecting samples is 
+
+illustrated in Figure 14. 
+
+ 
+
+Figure 14 ‐ Location of 150 prospecting samples collected on the northern portion of the Kittson‐Cobalt 
+
+Property in 2017. 
+
+ 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+Samples were analysed for Au, Ag, and a suite of base metals including Co, Cu, Ni, Mn, Pb, and Zn. 
+
+Other elements were also included in the analyses, such as those present in the gangue minerals, in 
+
+order to determine bulk mineralogy. Samples were analysed at Activation Laboratories in Thunder Bay, 
+
+Timmins, and Ancaster, depending on the analytical package. The analytical codes used include 1A2‐Au‐
+
+50g (fire assay/AAS), 1E‐Ag (aqua regia digest/ICP‐OES), and 8‐peroxide‐all elements (Na2O2 digest/ICP‐
+
+OES). The Author notes that no standards or blanks were included in the sample stream.  
+
+Significant results were returned for 25% of the total number of prospecting samples, which are those 
+
+containing >0.1% Co (Table 6). Locations for this subset of samples are illustrated in Figure 15.  
+
+ 
+
+Table 6 ‐ Prospecting samples from the 2017 program returning >0.1 wt% Co. 
+
+Sample 
+Number 
+
+Au 
+(g/t) 
+
+Ag 
+(g/t) 
+
+As 
+(wt.%) 
+
+Co 
+(wt.%) 
+
+Cu 
+(wt.%)
+
+Fe 
+(wt.%) 
+
+Ni 
+(wt.%) 
+
+Pb 
+(wt.%) 
+
+S 
+(wt.%)
+
+Detection  
+Limit 
+
+0.005  0.20  0.01  0.002  0.005  0.05  0.005  0.01  0.01 
+
+469020  0.035  2.8  5.49  3.66  0.012  5.86  0.503  < 0.01  2.4 
+
+469019  0.033  1.7  5.35  3.59  0.041  6.09  0.582  < 0.01  2.16 
+
+469028  0.025  0.7  4.83  3.41  <0.005  5.13  0.358  < 0.01  2.16 
+
+469022  0.029  1.3  4.61  3.32  0.025  4.87  0.362  < 0.01  2.2 
+
+469002  0.093  3.9  4.77  3.23  0.028  6.16  0.439  < 0.01  2.31 
+
+469024  0.023  4.9  4.5  3.11  0.167  7.75  0.312  < 0.01  1.51 
+
+469003  0.035  4.6  3.25  2.13  0.012  3.44  0.275  < 0.01  1.48 
+
+469005  0.012  1.5  2.98  2.02  0.048  5.28  0.192  < 0.01  1.26 
+
+469025  0.085  0.7  3.42  1.89  0.018  5.11  0.429  < 0.01  1.31 
+
+469001  3.850  2.9  4.00  1.58  <0.005  5.71  0.547  < 0.01  0.98 
+
+469004  0.015  2.2  2.16  1.44  0.018  4.41  0.163  < 0.01  0.94 
+
+469023  0.013  3.5  2.44  1.42  0.159  8.02  0.144  < 0.01  0.72 
+
+469029  0.013  0.6  1.36  1.01  0.014  6.97  0.067  < 0.01  0.48 
+
+469114  0.184  3.3  0.15  0.972  0.992  17.7  0.079  0.01  17.8 
+
+469018  0.013  0.9  1.37  0.941  <0.005  5.08  0.077  < 0.01  0.52 
+
+469026  0.015  0.2  1.22  0.783  <0.005  5.14  0.111  < 0.01  0.51 
+
+469034  0.084  <0.2  1.18  0.774  0.009  5.55  0.137  < 0.01  0.47 
+
+469021  0.007  0.6  1.01  0.723  <0.005  4.25  0.074  < 0.01  0.41 
+
+469027  0.010  0.3  0.76  0.524  <0.005  5.34  0.062  < 0.01  0.29 
+
+469041  0.016  0.3  0.8  0.486  0.036  3.58  0.059  < 0.01  0.32 
+
+469042  0.018  3.2  0.82  0.483  0.076  3.05  0.055  < 0.01  0.42 
+
+469040  0.014  0.3  0.72  0.430  0.005  4.11  0.053  < 0.01  0.26 
+
+469032  0.026  <0.2  0.38  0.300  <0.005  4.37  0.043  < 0.01  0.17 
+
+469035  0.016  0.2  0.34  0.243  0.039  1.35  0.042  < 0.01  0.28 
+
+469049  0.008  1.4  0.57  0.227  0.206  2.97  0.022  < 0.01  0.43 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+Sample 
+Number 
+
+Au 
+(g/t) 
+
+Ag 
+(g/t) 
+
+As 
+(wt.%) 
+
+Co 
+(wt.%) 
+
+Cu 
+(wt.%)
+
+Fe 
+(wt.%) 
+
+Ni 
+(wt.%) 
+
+Pb 
+(wt.%) 
+
+S 
+(wt.%)
+
+Detection  
+Limit 
+
+0.005  0.20  0.01  0.002  0.005  0.05  0.005  0.01  0.01 
+
+469033  0.045  0.2  0.29  0.199  0.01  6.22  0.029  < 0.01  0.13 
+
+469006  3.580  0.6  0.29  0.191  <0.005  6.12  0.049  < 0.01  0.11 
+
+468959  0.154  0.7  0.22  0.174  <0.005  3.61  0.014  < 0.01  0.12 
+
+469044  0.005  3.1  0.42  0.150  1.260  1.86  0.015  0.04  1.41 
+
+469045  0.01  6.6  0.3  0.142  2.600  4.55  0.015  0.07  2.72 
+
+468960  0.116  1.1  0.15  0.136  0.009  6.78  0.013  0.03  2.5 
+
+469030  0.014  <0.2  0.2  0.136  <0.005  5.16  0.023  < 0.01  0.12 
+
+469039  0.387  0.4  0.2  0.136  <0.005  3.22  0.024  < 0.01  0.1 
+
+469038  0.035  10.9  0.21  0.135  0.006  1.91  0.033  0.06  0.18 
+
+469047  0.006  2.8  0.27  0.135  0.543  5.44  0.023  < 0.01  0.65 
+
+469048  0.009  2.0  0.23  0.134  0.166  5.22  0.021  < 0.01  0.27 
+
+469007  0.609  3.8  0.16  0.120  7.12  11.8  0.026  0.02  10.4 
+
+ 
+
+The prospecting sample containing the highest amount of Co was found adjacent to the past‐producing 
+
+Shakt‐Davis Mine. Many other samples returned values between 1 and 4% Co at this location. Lower 
+
+grade but still significant Co mineralization was found just north of the past‐producing Edison Mine 
+
+(within Power Americas' claims), as well as further north near the Cobalt‐Kittson Mine. Intriguing 
+
+results were also discovered along the corridor of claims towards the south‐southwest, where a sample 
+
+containing 0.97% Co was found. Collectively, these prospecting samples confirm the presence of 
+
+significant Co‐bearing mineralization within the Kittson‐Cobalt Property, and highlight areas for future 
+
+exploration consideration. 
+
+ 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+ 
+
+Figure 15 ‐ Highlights of the 2017 prospecting Program in the northern portion of the Kittson‐Cobalt Property (geology from OGS Map P3581, 
+
+2006; figure provided by Power Americas' consultant Fladgate Exploration). 
+
+2017 Prospecting Results 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+10 Drilling 
+10.1 Methods Employed 
+
+Between September 12
+th
+
+ and November 15
+th
+
+, 2017, Power Americas drilled seven shallow BTW‐sized 
+
+diamond drill holes totaling 166 m using an ultralight Winkie drill. This drilling was undertaken by 
+
+Fladgate Exploration Consulting Corporation of Thunder Bay, Ontario, with Neil Pettigrew, P.Geo, 
+
+acting as the Qualified Person and supervisor of the program. 
+
+Drill core was logged and split on site, using a gas‐powered core saw. One half of the split core was 
+
+placed into a sequentially numbered plastic sample bag conforming to the numbers identified in the 
+
+sample tag book along with an identification tag from the sample tag book and the bags were securely 
+
+fastened. The other half of the drill core was returned to the core box in its original position for future 
+
+reference. The boxes containing the remaining half core were stacked and are currently stored on‐site, 
+
+at a boat launch on claim 4279297. Standards and blanks were alternately inserted every 20
+th
+
+ sample. 
+
+Standards were sourced from CDN Resource Laboratories Ltd. of Langley, British Columbia, and blank 
+
+material from Nelson Granite Ltd., of Kenora, Ontario. Samples were then transported by Fladgate staff 
+
+to Manitoulin Transport in New Liskeard, Ontario, who then shipped them to Actlabs in Timmins 
+
+where they were received by the laboratory staff. The same analytical methods were employed for the 
+
+drill core samples as for the prospecting, including Au by fire assay/AAS), Ag by aqua regia digest/ICP‐
+
+OES, and Co, Ni and other base metals by peroxide fusion/ICP‐OES). 
+
+All drill holes were drilled on claims 427924 and 4279295 (Figure 16). The locations and 
+
+collar details of each hole are listed below in  
+
+Table 7. Drill core sample sizes ranged from 0.3 to 2.0 m, but averaged 1.1 m. All reported sample widths 
+
+are drilled core lengths, true widths are unknown as the exact orientation of the cobalt mineralized 
+
+veins within the fracture zone(s) are unknown at this time.  
+
+ 
+
+Table 7 ‐ Drill collar information. 
+
+Hole 
+Number 
+
+NAD83 
+Z17 
+
+Easting 
+
+NAD83 
+Z17 
+
+Northing 
+
+Elevation 
+(m) 
+
+Azimuth  Dip  Depth 
+(m) 
+
+KIT‐17‐001  582380.4  5246036.0  364.5  330  ‐45  25.9 
+
+KIT‐17‐002  582380.8  5246035.3  364.5  330  ‐65  25.5 
+
+KIT‐17‐003  582390.8  5246045.8  363  330  ‐45  19.5 
+
+KIT‐17‐004  582361.8  5246022.2  365  330  ‐45  3.6 
+
+KIT‐17‐005  582362.1  5246021.6  365  330  ‐65  35 
+
+KIT‐17‐006  582391.1  5246045.2  363  330  ‐65  29 
+
+KIT‐17‐007  582407.9  5246054.3  364  330  ‐65  27.5 
+
+ 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+ 
+
+Figure 16 ‐ Drill hole collar locations from the 2017 Drill Program conducted by Fladgate Exploration for 
+
+Power Americas (figure supplied by Fladgate Exploration). 
+
+ 
+
+10.2 Drill Log Summaries 
+
+Fladate Exploration personnel indicated that assays from the drill program were not yet available as of 
+
+the Effective Date of this report. However, drill logs were made available for examination and are 
+
+summarized below.  
+
+KIT‐17‐001 
+
+This first drill hole was 26m in length and targetted the Shakt‐Davis fracture zone beneath overburden 
+trenches. It intercepted medium‐ coarse‐grained non‐magnetic Nipissing diabase between 1.3 and 6 m, 
+
+followed by 4m of fine‐ to medium‐grained diabase with local quartz‐carbonate alteration and small 
+clacite‐smaltite‐chalcopyrite‐bearing veinlets. This intersection contained local "cobalt bloom" along 
+
+fractures and also smaltite mineralization. After this unit, the hole became more magnetic, and from 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+10.75m to 20.9m is described as Nipissing diabase which is strongly magnetic containing skeletal 
+
+magnetite.  
+
+KIT‐17‐002 
+
+The second drill hole was 25.5m in length and was an undercut of the first drill hole. It intercepted 
+
+medium‐grained moderately‐magnetic Nipissing diabase between 1.5 and 5 m, followed by a similar unit 
+
+but more magnetic between 5 and 10 m depth. A more altered unit of diabase was encountered 
+between 10 and 14.9 m depth, with pervasive carbonate veining. After this unit, the rocks became more 
+massive and magnetic up to 21.75m depth, and then until the end of the hole was diabase containing 
+
+pervasive quartz‐carbonate alteration and disseminated smaltite mineralization.  
+
+KIT‐17‐003 
+
+The third drill hole was 19.5m in length situated just west of the 2
+nd
+
+ Shakt‐Davis shaft. It intercepted 
+
+massive medium‐grained moderately‐magnetic Nipissing diabase for the first 6m with trace smaltite 
+mineralization, followed by 5m of the quartz‐carbonate‐altered diabase unit containing "cobalt bloom" 
+and minor smaltite mineralization. The Nipissing diabase unit is encountered below 11m depth in the 
+
+hole, again containing "cobalt bloom" and disseminated smaltite mineralization until 19.5m.  
+
+KIT‐17‐004 
+
+The fourth drill hole was only 3.6 m in length, situated just east of the 1
+st
+ Shakt‐Davis shaft. It was 
+
+originally targetting the Shakt‐Davis fracture zone, however only intercepted the top Nipissing diabase 
+
+unit with no "cobalt bloom" observed, however local disseminated smaltite observed near fractures from 
+
+3.1 to 3.6 m depth. Hole was abandoned as it passed through a sand‐filled seam.  
+
+KIT‐17‐005 
+
+Hole 5 targeted an undercut of hole 4, in order to achieve a longer drill hole length in the same area. 
+
+This hole ended up being 35 m in length and the first 22.6 m was the medium‐grained, massive 
+
+Nipissing diabase with minor disseminated smaltite mineralization adjacent to epidote‐filled joints and 
+
+fractures. Some quartz‐carbonate‐filled fractures were also encountered. From 22.6 to 29 m depth the 
+
+rock unit became pervasively carbonate altered, with the occurrence of a silvery‐grey replacement 
+
+mineral (perhaps a Ni‐sulfide or fine‐grained smaltite?), up to 3%. The remaining 6m of the hole is 
+
+returned to Nipissing diabase, relatively unmineralized and massive with local calcite‐filled fractures 
+
+and strong sausseritization. 
+
+KIT‐17‐006 
+
+Hole 6 was an undercut of hole 3, just west of the 2
+nd
+
+ Shakt‐Davis shaft, and reached 29m in length. The 
+
+first 10 m intercepted the massive, moderately magnetic Nipissing diabase which was locally cut by 
+
+epidote‐calcite‐filled fractures with trace disseminated smaltite. Between 10.5 and 13.7 m depth 
+appeared to be the pervasively‐carbonate‐altered diabase unit, similar to the other drill holes. This unit 
+
+contained a calcite‐dolomite breccia vein and >10% of a 'silver grey' replacement mineral (described as 
+
+either smaltite or a 'bronzy sulphide'). The hole returned to the more massive Nipissing diabase this 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+time with 'cobalt bloom' along fractures. Then returned back to the pervasively quartz‐carbonate‐
+
+altered unit between 17 and 23 m depth. The hole ended in massive Nipissing diabase at 29m.  
+
+KIT‐17‐007 
+
+Hole 7 was targetting the Shakt‐Davis fracture zone, just east of the 2
+nd
+
+ Shakt‐Davis shaft, and reached 
+
+27.5 m in length. The first 15.5 m intercepted the massive, moderately magnetic Nipissing diabase. 
+Between 15.5 and 27.5 m depth appeared to be the pervasively quartz‐carbonate‐altered diabase unit, 
+similar to the other drill holes, yet lots of mineralization encountered in the form of "cobalt bloom" and 
+
+the same 'bronzy sulfide' mineral that might be a Ni‐arsenide or smaltite. The hole ended in this 
+
+perceived mineralized unit. 
+
+10.3 Summary of Drilling Results 
+
+The drilling targeted the Shakt‐Davis fracture zone beneath overburden‐filled pits and trenches. The 
+
+historic trenching had been so thorough that very little in  situ vein material remained in bedrock at 
+
+surface making evaluation of the grade and thickness of the fracture zone difficult. The program 
+
+intersected the fracture zone that hosts the Shakt‐Davis mineralization over a strike length of 55 m and 
+
+tested it to a maximum depth of ~30 m. The fracture zone ranged from 5 to 13 m wide (drilled core 
+
+length) and hosted several 0.1‐1.0 m quartz‐carbonate veins surrounded by intense carbonate alteration. 
+
+Although assay results were not available as of the effective date of this report, observations within the 
+
+drill logs suggest that the majority of cobalt mineralization occurs as smaltite within quartz‐carbonate 
+
+veins hosted within a brittle fracture zone, and a significant portion may also occur as erythrite ("cobalt 
+
+bloom"), a powdery pink coating on joint and fracture surfaces.  
+
+11 Sample Preparation, Analysis, and Security 
+No sample preparation was needed for the prospecting samples. Collected samples were put directly 
+
+into individual sample bags with sample tags and transported by truck back to Thunder Bay, Ontario, in 
+
+the possession of the QP for Fladgate Exploration, Neil Pettigrew. Samples were transported directly to 
+
+Activation Laboratories in Thunder Bay, Ontario where they were then received, processed, and 
+
+analyzed.  As mentioned above, the analytical codes used include 1A2‐Au‐50g (fire assay/AAS), 1E‐Ag 
+
+(aqua regia digest/ICP‐OES), and 8‐peroxide‐all elements (Na2O2 digest/ICP‐OES). No standards or 
+
+blanks were included in the sample stream of the prospecting samples, however standards and blanks 
+
+were alternatively placed every 20 samples for the drilling.  
+
+All of the drill core was logged and split onsite using a gas powered core saw. One hundred percent of 
+
+the core was split and sampled. The remaining half of the core was replaced in the core boxes and the 
+
+core is stored onsite. Standards and blanks were alternately inserted every 20
+th
+
+ sample. Standards were 
+
+sourced from CDN Resource Laboratories Ltd. of Langley, British Columbia, and blank material from 
+
+Nelson Granite Ltd., of Kenora, Ontario. No duplicate samples were included in the sample stream. The 
+
+nature and extent of QA/QC procedures implemented in the drill program are sufficient for a 166 m 
+
+program, in order to provide adequate confidence in the data received. All drill core samples were 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+transported by Fladgate Exploration personnel to Manitoulin shipping in New Liskeard, Ontario, and 
+
+shipped directly to the Timmins location of Activation Laboratories for analysis, with security tags in 
+
+place. Samples were received, processed, and analysed following same methods as described above for 
+
+the prospecting samples. 
+
+Activation Laboratories is independent of the Issuer of this Technical Report. It is an accredited 
+
+analytical facility, with a Quality Control System accredited to "international quality standards through 
+
+the International Organization for Standardization/International Electrotechnical Commission 
+
+(ISO/IEC) 17025 (ISO/IEC 17025 includes ISO 9001 and ISO 9002 specifications), with CAN‐P‐1578 
+
+(Forensics), CAN‐P‐1579 (Mineral Analysis) and CAN‐P‐1585 (Environmental) for specific registered tests 
+
+by the SCC. The accreditation program includes ongoing audits which verify the QA system and all 
+
+applicable registered test methods." (Source: www.actlabs.com) 
+
+In the Author's opinion, the sample preparation techniques, sample security, and analytical procedures 
+
+followed for both the prospecting and drill core samples is adequate for this stage of exploration. 
+
+12 Data Verification 
+Data associated with the 2017 prospecting, sampling, and drilling program conducted by Fladgate 
+
+Exploration on behalf of Power Americas has been entered into a master database in Microsoft Excel 
+format, and this database has been reviewed and verified by the Author. Listed information includes 
+
+sample IDs, UTM coordinates, dates, descriptions, and assay results. All samples within the database are 
+
+accounted for in laboratory certificates and approximately 10% of the data was verified for accuracy. No 
+
+assay results were available for the drill core at the time of writing this document.   
+
+One aspect of the site visit performed by the Author was to collect a few verification samples in and 
+
+around the 2017 prospecting and drilling programs. The site visit was conducted in December, and there 
+
+was roughly 30 cm of snow cover blanketing all outcrops and historic mine workings and waste piles, 
+
+therefore it was challenging to locate outcrop from which to take verification samples. In order to find 
+
+samples that might be comparable to those in the Power Americas sample database, muck piles adjacent 
+
+to the shafts were investigated. Two samples with orange flagging tape and numbering corresponding to 
+
+prospecting samples 469022 and 469025 were located in muck piles adjacent to Shafts 2 and 1, 
+
+respectively (Figure 17). 
+
+  
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+ 
+
+Figure 17 ‐ Snow‐covered muck pile near Shaft #1 at Shakt‐Davis from which a verification sample was 
+
+taken. 
+
+ 
+
+The coordinates were compared to those in the Power Americas master database and found to be 
+
+accurate to within 5‐10 m (Figure 2, Table 8).  
+
+ 
+
+Table 8 ‐ Database vs. site visit coordinates of grab samples on Kittson‐Cobalt Property. 
+
+Sample ID  Easting 
+Database 
+
+Northing 
+Database 
+
+Easting 
+Site Visit 
+
+Northing 
+Site Visit 
+
+469022  582406  5246054  582410  5246050 
+
+469025  582350  5246037  582355  5246028 
+
+ 
+
+The Author then collected two grab samples (KIT‐SF‐001 and KIT‐SF‐002) from the muck piles adjacent 
+
+to Shaft 1 and 2, respectively, to verify reported Co‐Ag mineralization in the area (Figure 18). Both 
+
+samples were observed to have visible Co‐oxide mineralization ("Co‐bloom"), likely corresponding to 
+
+pink‐coloured erythrite. Sample coordinates and ID's are shown in Table 8. The samples were 
+
+transported by the Author back to Thunder Bay, Ontario, and submitted to Activation Laboratories Ltd. 
+
+(ActLabs) at their Thunder Bay lab on Round Blvd. Samples were analysed using the same analytical 
+
+methods as employed during Power Americas' 2017 exploration programs for Au, Ag, Co, Ni, among 
+
+other base metals. The assay certificates are included in Appendix I and results displayed in Table 9. 
+
+   
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+ 
+
+Figure 18 ‐ Collecting sample KT‐SF‐001 near Shaft #1 in a muck pile. 
+
+ 
+
+Table 9 ‐ Verification sampling of muck piles on the Kittson‐Cobalt Property. 
+
+Sample ID  Lab ID  Easting  Northing  Co 
+
+(%) 
+
+Ag 
+
+(ppm) 
+
+Au (ppb)  Ni (%) 
+
+KT‐SF‐001  587501  582353  5246028  0.479  0.5  < 5  0.035 
+
+KT‐SF‐002  587502  582409  5246050  0.965  1.3  15  0.143 
+
+ 
+
+Analysis of the two verification samples revealed the presence of Co (0.48 and 0.97 wt%) and Ag (0.5 
+
+and 1.3 ppm). These metals are most likely contained within the observable "Co bloom" (erythrite), 
+
+however a more detailed petrological study could determine the specific type(s) of mineralization 
+
+present. Anomalous Ni was also present, consistent with historical descriptions of Co‐Ni‐bearing 
+
+skutterudite ([CoNi]As2) mineralization in the vicinity of the Kittson‐Cobalt property and specifically 
+
+the Shakt‐Davis mine (Born and Hitch, 1990). Results of those samples corroborate the presence of Co, 
+
+Ni, As, S, and Ag on the Kittson‐Cobalt Property, within the range of values reported from the 
+
+prospcting samples collected by Power Americas.  
+
+Four diamond drill hole collars, marked with birch timbers placed into the open holes, were observed 
+
+on the Property, an example of which is shown in Figure 19. Collar coordinates taken by the Author 
+
+during the site visit corresponded well to those listed in Power Americas' database (Table 10). 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+Table 10 ‐ Diamond drill hole collar coordinates collected during site visit 
+
+Drill Hole 
+ID 
+
+Easting 
+Database 
+
+Northing 
+Database 
+
+Easting 
+Site Visit 
+
+Northing 
+Site Visit 
+
+KIT‐17‐002  582380.8  5246035.3  582389  5246036 
+
+KIT‐17‐003  582390.8  5246045.8  582398  5246040 
+
+KIT‐17‐006  582391.1  5246045.2  582398  5246040 
+
+KIT‐17‐007  582407.9  5246054.3  582415  5246047 
+
+ 
+
+The Author has verified the existence of the drill core produced during the fall 2017 drill program by 
+
+Fladgate Exploration, a portion of which is stored in their offices in Thunder Bay, Ontario, on behalf of 
+
+Power Americas. It is the QP's opinion that the available data is adequate for the purposes used in this 
+
+technical report. 
+
+   
+
+ 
+
+Figure 19 ‐ Collar for KIT‐17‐002 drilled in 2017 by Fladgate Exploration for Power Americas. 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+13 Mineral Processing and Metallurgical Testing 
+No mineral processing or metallurgical testing programs have been undertaken for this Technical 
+
+Report.  
+
+14 Mineral Resource Estimates 
+No mineral resource estimates have been undertaken for the Kittson‐Cobalt Property. 
+
+23 Adjacent Properties 
+The Kittson‐Cobalt Property is part of the larger Cobalt Mining Camp. The area is steeped in mining 
+
+tradition and history, with old headframes and mill sites peppering the landscape and recent interest in 
+
+cobalt exploration has brought many companies into the area to explore. The two companies working in 
+
+close proximity to the Kittson‐Cobalt Property are Tri‐Origin Exploration Ltd. on their South Abitibi 
+
+gold project (http://www.triorigin.com/), and MetalsTech Bay Lake Cobalt Inc., an Australian junior 
+
+mining company, on their Bay Lake Cobalt project (http://www.metalstech.net/projects/bay‐lake‐high‐
+
+grade‐cobalt/). Information from these companies is publicly available on their websites. 
+
+Tri Origin's South Abitibi project lies 1 km south of the southern boundary of claim 4287875 of the 
+
+Kittson‐Cobalt Property. The property is presently being explored for gold and base metal potential in 
+
+Archean rocks underlying the Proterozoic rocks hosting cobalt mineralization. From a news release 
+
+disseminated by Tri Origin in August of 2017, their main exploration target covers a 15 km long trend of 
+
+poorly‐mapped, prospective volcanic rocks of the southern Abitibi greenstone belt. Results of Tri 
+
+Origin's geological investigations indicate that 50% of this area is covered by younger sedimentary 
+rocks of Proterozoic age, and 50% by older Archean volcanic rocks. The Proterozoic rocks have only 
+received a cursory amount of surface prospecting. Tri‐Origin has recently completed geological 
+
+mapping, prospecting, and a limited diamond drilling program targeting the underlying Archean rocks 
+
+and found anomalous nickel, zinc, copper and cobalt. No resource estimates have been completed on 
+
+this project. 
+
+The Bay Lake Cobalt project held by MetalsTech Bay Lake Cobalt Inc. is contiguous to the easternmost 
+
+border of the Kittson‐Cobalt Property and claim 4287875. Information on the MetalsTech website 
+
+indicates that they have held the project since April 2017. While there are historic mining shafts on the 
+
+property, MetalsTech is the first company to complete any modern exploration. Recent results of the 
+
+exploration work done by MetalsTech, included in the corporate presentation on website, indicate 
+
+surface sampling results of for example 15.36% cobalt.  
+
+The QP and Author of this report has been unable to verify the information described above (in Section 
+
+23 "Adjacent Properties"). This information is not necessarily indicative of the mineralization on Power 
+
+Americas' Kittson‐Cobalt Property, which is the subject of the current Technical Report.  
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+24 Other Relevant Data and Information 
+There is no further relevant data or information needing to be disclosed that is not already part of this 
+
+43‐101 Technical Report in another section. 
+
+25 Interpretations and Conclusions 
+The mineralization on the Kittson‐Cobalt Property is hosted in Proterozoic quartz‐carbonate veins 
+
+within brittle fracture zones in Nipissing diabase. These fracture zones are roughly parallel to an 
+
+extensive E‐W‐trending diabase dyke system. Historical work indicates this project represents a cobalt‐
+
+gold‐rich, silver‐poor example of the more classical silver‐rich mineralization found in the Cobalt camp 
+
+proper, directly east of the Kittson‐Cobalt Property. This cobalt‐gold style of mineralization is found 
+
+elsewhere in the larger cobalt embayment such as in the Silver Centre and Temagami areas, and was 
+
+historically not as extensively exploited due to their lower silver grades. As a result, whereas much of the 
+
+near‐surface silver‐rich cobalt‐type mineralization has been mined‐out, much of the lower silver, higher 
+
+cobalt‐type mineralization remains in the ground. 
+
+A modest prospecting and drilling program was conducted by Fladgate Exploration, on behalf of Power 
+
+Americas, with assay results for only the prospecting samples available to the Author as of the effective 
+
+date of this report. Significant results were returned from the prospecting samples, with >0.1% Co in 25% 
+
+of the 150 sample population. The highest value achieved was 3.66% Co, from a sample taken near the 
+
+past‐producing Shakt‐Davis Mine. There are no reasonable circumstances that may affect either the 
+
+reliability or level of confidence in the exploration information presented herein for this early‐stage 
+
+"grassroots" project.   
+
+The Kittson‐Cobalt Property merits continued exploration, as limited work performed to date by Power 
+
+Americas supports the reported historic cobalt grades and widths. The project encompasses an extensive 
+
+prospective E‐W‐trending fracture zone, only portions of which have been tested historically. While 
+
+substantial underground development was conducted on the project, very few historic records of this 
+
+work remain, making evaluation of the cobalt mineralization difficult. Therefore, a modern exploration 
+
+program including diamond drilling is required in order to better evaluate the quality and quantity of 
+
+the cobalt mineralization on the project.  
+
+The Cobalt area has been mined extensively in the past, including from shafts within the Kittson 
+
+Property boundaries.  This does not guarantee that mineralized zones being explored today will have 
+
+economic grades or widths by todays standards.   
+
+26 Recommendations 
+26.1 General 
+
+There are three past‐producing Co‐Ag mines on, or near, Power Americas' Kittson‐Cobalt Property, 
+
+including the Shakt‐Davis, Cobalt‐Kittson, and Edison Mines. From these historical workings as well as 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+the extensive Ag mining that took place to the east near Cobalt, Ontario, the geological model 
+
+constraining the mineralization is quite well known. "Copper, cobalt, silver, and gold mineralization is 
+
+related to Nipissing diabase dikes and sills intruding arkoses of the Lorrain Formation and laminated 
+
+shaley mudstones of the Firstbrook Member in the Gowganda Formation" (OGS Misc. Paper #137, 1987). 
+
+It was even mentioned that "the same narrow (70 m wide) Nipissing diabase dike hosts all three 
+
+deposits", referring to the three mines in and around the Kittson‐Cobalt Property.  
+
+Prospecting sampling conducted by Fladgate Exploration for Power Americas in the fall of 2017 centered 
+
+mostly around the past‐producing mines has resulted in samples containing 3.66 wt% Co. A verification 
+
+sample collected by the Author during the site visit contained 0.976 wt% Co, confirming the presence of 
+
+this base metal, along with Ni, As, and Ag. Visual inspection of the mineralogy suggests significant "Co 
+
+bloom", or erythirite, a pink‐coloured Co‐As‐bearing hydroxide which may become the target mineral 
+
+for exploration. Smaltite, or skutterudite, is also suggested, by the presence of Ni, Co, and As in the 
+
+same sample. It has been documented that "mineralized veins in the Kittson occur in parallel fracture 
+
+zones near margins of the diabase body…and as a general rule, values of Co, Ag, Cu, and Au are usually 
+
+higher in calcite rather than quartz veins…which is more similar to the Gowganda than the Cobalt 
+
+mining camp…" (OGS Misc. Paper #137, 1987).  
+
+Continued exploration of this Property is warranted, due to the apparent Co grades within the modest 
+
+2017 prospecting program, as well as the favourable extent to which the Property covers past‐producing 
+
+Co‐Ag mines and the contact regions between intruding Nipissing diabase and host metasediments of 
+
+the Lorrain and Gowganda Formations. A short 166 m drill program was completed by Power Americas 
+
+late in 2017, however as of the Effective Date of this report, Fladgate Exploration informed the Author 
+
+that assay results were not yet available to review. Given the relatively limited scope of this 
+
+reconnaissance drilling program, the Author is satisfied that results from the 2017 drilling program 
+
+would not materially affect the conclusions of the current Technical Report.  
+
+26.2 Phase 1 Recommendations 
+
+While the historic mining areas within the Kittson‐Cobalt Property are known to contain cobalt 
+
+mineralization, very little documentation survives from when they were in operation, making it difficult 
+
+to evaluate their economic potential. This is further exacerbated by the lack of recent diamond drilling. 
+
+Phase 1 of the recommended work therefore involves a diamond drill program targeting specific areas 
+
+outlined from the compilation effort.  
+
+A modest drill program consisting of 9‐10 diamond drill holes located near the historic Shakt‐Davis 
+
+mine would further elucidate the nature and extent of mineralization at this prospective site. 
+
+Prospecting around the historic Cobalt‐Kittson mine has produced samples containing 0.15‐0.24 wt% 
+
+Co, warranting inclusion of this area in the drill plans as well. Prospecting throughout the entire 
+
+Property, including the two southern claims, should also continue, as well as north of the historic 
+
+Edison mine, within the Kittson‐Cobalt Property boundaries. 
+
+A summary of proposed expenditures for the Phase I drilling portion of the program is shown in Table 
+
+11. 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+Table 11 ‐ Summary budget for proposed Phase 1 exploration on the Kittson‐Cobalt Property. 
+
+Description  Rate  Per Unit  Units  Total 
+
+Personnel 
+
+Senior Geologist 1  $800  day  21  $16,800 
+
+Project Manager 1  $600  day  30  $18,000 
+
+Geotechnician 1  $500  day  30  $15,000 
+
+Drilling Contractor (not including helicopter)  $145  m drilled  1000  $145,000 
+
+Mobilization/Demobilization 
+
+Mob/demob costs  $10,000 $10,000 
+
+Helicopter support  $75,000     $75,000 
+
+Equipment 
+
+2 Trucks  $1,750  Each/month  1  $3,500 
+
+2 Snow Machines  $2,000  Each/month  1  $4,000 
+
+1 Trailer Rental  500  Month  1  $500 
+
+Winter Camp  $15,000 month  1  $15,000 
+
+Consumables 
+
+Food  $40  person days  70  $2,800 
+
+Fuel (winter camp)  $40  person days  70  $2,800 
+
+Sample Materials  $2  sample  500  $1,000 
+
+Truck kms (including fuel)  $0.50  km  5000  $2,500 
+
+Samples 
+
+Assays  $50.00  sample  500  $25,000 
+
+Sub‐Total $336,900 
+
+15% Contingency       $50,535 
+
+Grand Total       $387,435 
+
+ 
+
+26.3 Phase 2 Recommendations 
+
+Phase 2 recommended exploration is contingent upon the success of the Phase 1 drilling program. This 
+
+second phase of exploration for the Kittson‐Cobalt Property would involve continued drilling within 
+
+areas of interest, targeting veins and fracture zones that contained Co‐bearing mineralization discovered 
+
+from Phase 1. This program would target these known zone(s) of mineralization at greater depth, and 
+
+along strike, staying within the favourable geological contact zone. 
+
+  
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+27 References 
+Ayer, J.A., Chartrand, J.E., Grabowski, G.P.D., Josey, S., Rainsford, D., and Trowell, N.F. (2006) 
+
+Geological compilation of the Cobalt‐Temagami area, Abitibi greenstone belt. Ontario 
+
+Geological Survey, Preliminary Map P.3581, scale 1:100,000. 
+
+Bekker A., Kaufman A.J., Karhu J.A., and Eriksson K.A. (2005) Evidence for Paleoproterozoic cap 
+
+carbonates in North America: Precambrian Research, 137, 167‐206. 
+
+Bekker, A., Karhu J.A., and Kaufman A.J. (2006) Carbon isotope record for the onset of the Lombardi 
+
+carbon isotope excursion in the Great Lakes area, North America: Precambrian Research, 148, 
+
+145‐180. 
+
+Bennett, G., Dressler, B. O., and Robertson, J. A. (1992) The Huronian Supergroup and Associated 
+
+Intrusive Rocks . In: Geology of Ontario Chapter 14. Ontario Geological Survey.  Special Volume 
+
+4, Part 1, p. 549‐592. 
+
+Born, P., Burbidge, G.H. (1988) Precambrian Geology of Brigstocke Township, District of Timiskaming: 
+
+Ontario Geological Survey, Map P.3115. Geological Series‐Preliminary Map scale 1:15 480. Geology 
+
+1987. 
+
+Born, P., Burbidge, G.H., 1997. Precambrian Geology, Brigstocke and Kittson Townships: Ontario 
+
+Geological Survey Report 275. Pp 43, 47. 
+
+Born, P. and Hitch, M.W. (1990) Precambrian geology, Bay Lake area; Ontario Geological Survey, 
+
+Report 276, 81p. 
+
+Goodz, M.D., Watkinson D.H., Smejkal V., and Pertold Z. (1986) Sulphur‐isotope geochemistry of silver 
+
+– sulpharsenide vein mineralization, Cobalt, Ontario: Canadian Journal of Earth Sciences, 23, 
+
+1551‐1567. 
+
+Easton, R.M. (2000) Metamorphism of the Canadian shield, Ontario, Canada. II. Proterozoic 
+
+metamorphic history: The Canadian Mineralogist, 38, 319‐344. 
+
+Fedo, C.M., Young, G.M., Nesbitt, H.W., and Hanchar, J.M. (1997) Potassic and sodic metasomatism in 
+
+the Southern Province of the Canadian Shield: evidence from the Paleoproterozoic Serpent 
+
+Formation, Huronian Supergroup, Canada: Precambrian Research, 84, 17‐36. 
+
+Kerrich, R., Strong, D.F., Andrews, A.J., and Owsiacki, L. (1986) The silver deposits at Cobalt and 
+
+Gowganda, Ontario: III. Hydrothermal regimes and source reservoirs – evidence from H, O, C, 
+
+and S isotopes and fluid inclusions: Canadian Journal of Earth Sciences, 23, 1519‐1550. 
+
+Percival, J. A., and Easton, R. M. (2007) Geology of the Canadian Shield in Ontario: An Update. 
+
+Geological Survey of Canada, Open File 5511.  
+
+Potter, E.G., and Taylor, R.P. (2009) The lead isotope composition of ore minerals from precious metal‐
+
+bearing, polymetallic vein systems in the Cobalt Embayment, northern Ontario: metallogenetic 
+
+implications: Economic Geology, 104, 869‐879. 
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+Schwinn, G., Wagner, T., Baartartsogt, B., and Markl, G. (2006) Quantification of mixing processes in 
+
+ore‐forming hydrothermal systems of stable isotope and fluid inclusion studies: Geochimica et 
+
+Cosmochimica Acta, 70, 965‐982. 
+
+Thurston, P.C., and Stott, G.M. (1988) Northwestern Superior Province; p.12‐17 in Summary of Field 
+
+Work and Other Activities 1988, by the Ontario Geological Survey, edited by A.C.  Colvine, 
+
+M.E.  Cherry, Burkhard 0. Dressler, P.C. Thurston, C.L.  Baker, R.B.  Barlow, and Chris 
+
+Riddle, Ontario Geological Survey, Miscellaneous Paper 137, 498p. 
+
+Veizer, J., Hoefs J., Lowe D.R., and Thurston P.C. (1989) Geochemistry of Precambrian carbonates: II. 
+
+Archean greenstone belts and Archean sea water: Geochimica et Cosmochimica Acta, 53, 859‐
+
+871. 
+
+Veizer, J., Clayton R.N., and Hinton R.W. (1992) Geochemistry of Precambrian carbonates: IV. Early 
+
+Paleoproterozoic (2.25 ± 025) seawater: Geochimica et Cosmochimica Act 56, 875‐885. 
+
+Watts, H. A. (1997) Report on Prospecting Activities, Shakt‐Davis Mine Property, Coleman Township, 
+
+Larder Lake Mining Division, Ontario. 
+
+Watts, H. A. (2001) Report on Prospecting Activities, Mining Claim #1151271, Coleman Township, Larder 
+
+Lake Mining Division, Ontario. 
+
+Watts, H. A. (2010) Report on Prospecting Activities, Mining Claim #225489, Coleman Township, Larder 
+
+Lake Mining Division, Ontario. 
+
+Williams, H. R., Stott, G. M., Thurston, P. C., Sutcliffe, R. H., Bennett, G., Easton, R. M., and Armstrong, 
+
+D. K. (1992) Tectonic evolution of Ontario: Summary and synthesis. In: Geology of Ontario, 
+
+Ontario Geological Survey, Special Volume 4, Part 1, p. 1255‐1332. 
+
+ 
+
+ 
+
+  
+
+
+
+
+
+ 
+ Kittson‐Cobalt Property – Power Americas Minerals Corporation 
+
+Appendix I  Assay Certificate of Verification Samples 
+
+
+
+    Quality Analysis ...                                                                        Innovative Technologies
+
+                                                                                                                             Date Submitted:                                                                                                                                                            18-Dec-17
+
+                                                                                                                            Invoice No.:                                                                                                                                                           A17-14357
+
+                                                                                                                           Invoice Date:                                                                                                                                                          21-Dec-17
+
+                                                                                                                          Your Reference:                                                                                                                                                         
+
+       Steven Flank
+
+       124 SHERWOOD DRIVE
+
+       THUNDER BAY ON P7B6L1
+
+       Canada
+
+       ATTN:    Steven Flank
+
+CERTIFICATE OF ANALYSIS
+
+2 Rock samples were submitted for analysis.
+
+The following analytical package(s) were requested: Code 1A2-50-Timmins Au - Fire Assay AA
+
+Code 1E-Ag Timmins Aqua Regia ICP(AQUAGEO)
+
+Code 8-Peroxide ICP Timmins Sodium Peroxide Fusion ICP Timmins
+
+REPORT A17-14357
+
+This report may be reproduced without our consent. If only selected portions of the report are reproduced, permission must be obtained. If no instructions were
+given at time of sample submittal regarding excess material, it will be discarded within 90 days of this report. Our liability is limited solely to the analytical cost
+of these analyses. Test results are representative only of material submitted for analysis.
+
+Notes:
+
+If value exceeds upper limit we recommend reassay by fire assay gravimetric-Code 1A3.
+
+Values which exceed the upper limit should be assayed for accurate numbers.
+
+CERTIFIED BY:
+
+Emmanuel Eseme , Ph.D.
+Quality ControlACTIVATION LABORATORIES LTD.
+
+1752 Riverside Drive, Timmins, Ontario, Canada, P4R 1N1 
+TELEPHONE +705 264-0123 or +1.888.228.5227 FAX +1.905.648.9613 
+
+Page 1/4
+
+
+
+E-MAIL Timmins@actlabs.com ACTLABS GROUP WEBSITE www.actlabs.com
+
+Page 2/4
+
+
+
+Results                        Activation Laboratories Ltd.                            Report: A17-14357
+
+Analyte Symbol Al As Be Ca Co Cr Cu Fe K Li Mg Mn Ni Pb S Sb Si Ti W Zn Au Ag
+
+Unit Symbol % % % % % % % % % % % % % % % % % % % % ppb ppm
+
+Lower Limit 0.01 0.01 0.001 0.01 0.002 0.01 0.005 0.05 0.1 0.01 0.01 0.01 0.005 0.01 0.01 0.01 0.01 0.01 0.005 0.01 5 0.2
+
+Method Code FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FA-AA AR-ICP
+
+587501 4.81 0.63 < 0.001 2.10 0.479 < 0.01 0.018 3.00 0.2 < 0.01 1.22 0.08 0.035 < 0.01 0.30 < 0.01 33.1 0.56 < 0.005 0.01 < 5 0.5
+
+587502 4.03 1.43 < 0.001 3.68 0.965 < 0.01 0.012 4.55 0.2 < 0.01 1.89 0.16 0.143 < 0.01 0.58 < 0.01 30.5 0.64 < 0.005 < 0.01 15 1.3
+
+Page 3/4
+
+
+
+QC                        Activation Laboratories Ltd.                            Report: A17-14357
+
+Analyte Symbol Al As Be Ca Co Cr Cu Fe K Li Mg Mn Ni Pb S Sb Si Ti W Zn Au Ag
+
+Unit Symbol % % % % % % % % % % % % % % % % % % % % ppb ppm
+
+Lower Limit 0.01 0.01 0.001 0.01 0.002 0.01 0.005 0.05 0.1 0.01 0.01 0.01 0.005 0.01 0.01 0.01 0.01 0.01 0.005 0.01 5 0.2
+
+Method Code FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FUS-
+
+Na2O2
+
+FA-AA AR-ICP
+
+GXR-1 Meas 26.3
+
+GXR-1 Cert 31.0
+
+GXR-4 Meas 3.3
+
+GXR-4 Cert 4.0
+
+PTM-1a Meas 0.22 2.01 24.0 46.8 22.4
+
+PTM-1a Cert 0.220   2.05   24.96   47.44   22.4
+
+GXR-6 Meas 0.3
+
+GXR-6 Cert 1.30
+
+Oreas 74a
+
+(Fusion) Meas
+
+< 0.01 0.059 0.18 0.126 13.8 3.25 7.45 15.2
+
+Oreas 74a
+
+(Fusion) Cert
+
+0.005 0.058   0.18   0.124   13.7   3.24   7.25   15.14
+
+MP-1b Meas 2.34 2.46 3.11 8.14 < 0.01 2.06 13.3 16.6 0.110 16.4
+
+MP-1b Cert   2.30   2.47 3.07   8.19   0.024 2.09   13.79   16.79   0.110 16.7
+
+OREAS 13b
+
+(fusion) Meas
+
+8.35 5.55 1.09 8.58 2.3 3.00 0.13 1.16 22.4 0.71
+
+OREAS 13b
+
+(fusion) Cert
+
+  8.41   5.57   1.08   8.41   2.30   3.01   0.130   1.19   22.9   0.711
+
+OREAS 13b
+
+(4-Acid) Meas
+
+0.8
+
+OREAS 13b
+
+(4-Acid) Cert
+
+  0.86
+
+CCU-1d Meas 24.2 29.4 0.27 2.66
+
+CCU-1d Cert   23.93   29.26   0.262   2.63
+
+CZN-4 Meas 0.07 0.04 0.011 0.420 0.18 34.7 0.32 54.4
+
+CZN-4 Cert   0.0715   0.0356 0.0094   0.403   0.1861   33.07   0.295   55.07
+
+OREAS 621
+
+(Peroxide Fusion)
+
+Meas
+
+6.48 0.01 < 0.001 2.01 0.005 < 0.01 0.377 3.80 2.2 0.51 0.06 1.34 4.39 0.01 27.0 0.18 < 0.005 5.32
+
+OREAS 621
+
+(Peroxide Fusion)
+
+Cert
+
+6.63 0.009 0.0002 2.00 0.003 0.005 0.368 3.71 2.23 0.516 0.06 1.33 4.51 0.0146 28.1 0.181 0.0003 5.22
+
+OREAS 203 Meas 829
+
+OREAS 203 Cert 871
+
+OREAS 224 Meas 2050
+
+OREAS 224 Cert   2150.0
+
+00
+
+587502 Orig 1.3
+
+587502 Dup 1.3
+
+Method Blank < 0.01 < 0.01 < 0.001 < 0.01 < 0.002 < 0.01 < 0.005 < 0.05 < 0.1 < 0.01 < 0.01 < 0.01 < 0.005 < 0.01 < 0.01 < 0.01 < 0.01 < 0.01 0.007 < 0.01
+
+Method Blank < 0.2
+
+Method Blank < 0.2
+
+Method Blank < 5
+
+Method Blank < 5
+
+Powered by TCPDF (www.tcpdf.org)
+
+Page 4/4
+
+http://www.tcpdf.org
+
+'

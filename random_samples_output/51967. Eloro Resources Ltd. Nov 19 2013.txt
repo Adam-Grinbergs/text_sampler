@@ -1,0 +1,2866 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Simkar 43-101 2013 Resource Report-FINAL.doc
+
+
+ 
+ 
+ 
+
+NATIONAL INSTRUMENT 43-101 
+TECHNICAL REPORT 
+
+SIMKAR GOLD PROPERTY 
+ 
+
+Louvicourt Township, Quebec Canada 
+NTS 32C/04 
+
+ 
+ 
+
+Prepared for: 
+ 
+
+ 
+ 
+
+and 
+
+] 
+ 
+
+ 
+by 
+
+ 
+ 
+ 
+ 
+ 
+ 
+MRB & Associates                Abderrazak Ladidi M.Eng., P.Geo 
+Suite 2100       abderrazak@mrbweb.com 
+1748 chemin Sullivan,              
+Val-d'Or, QC  J9P 7H1 
+Tel: (819) 874-8768 Fax: (819) 874-8771    November 19th, 2013 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 2 
+ 
+
+ 
+TABLE OF CONTENTS 
+
+ 
+1.0 SUMMARY ............................................................................................................. 4 
+
+1.1 Property Description and Ownership ....................................................................... 4 
+1.2  Geology and Mineralization ............................................................................... 5 
+1.3  Recent Exploration ........................................................................................... 6 
+1.4  Resource Estimation ........................................................................................ 6 
+1.4  Conclusions and Recommendations .................................................................... 8 
+
+2.0  INTRODUCTION ................................................................................................. 9 
+2.1 Site Visits ........................................................................................................... 9 
+2.2 Sources of Information ....................................................................................... 10 
+2.3  Units and Abbreviations .................................................................................. 10 
+
+3.0  RELIANCE ON OTHER EXPERTS ........................................................................... 11 
+4.0  PROPERTY DESCRIPTION AND LOCATION ............................................................ 12 
+
+4.1  Environmental Liabilities ................................................................................. 16 
+4.2  Work Permits and Plans .................................................................................. 16 
+4.3  Details of Property Agreement ......................................................................... 16 
+
+5.0  ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRAS. AND PHYSIOGRAPHY .......... 17 
+6.0  HISTORY ......................................................................................................... 18 
+
+6.1  Early Work, 1939-1995 .................................................................................. 18 
+6.2  Work by Megastar, 1996-2004 ........................................................................ 20 
+6.3  Work by Megastar, 2006-2008 ........................................................................ 20 
+6.4  Work by Eloro, 2010-2013 .............................................................................. 21 
+
+7.0  GEOLOGICAL SETTING ...................................................................................... 22 
+7.1  Regional Geological Setting ............................................................................. 22 
+7.2  Property Geology ........................................................................................... 22 
+7.3  Metamorphism and Alteration .......................................................................... 24 
+
+8.0  DEPOSIT TYPES AND MINERALIZATION ............................................................... 26 
+8.1 Deposit types .................................................................................................... 26 
+8.2 Mineralization ................................................................................................... 26 
+
+8.2.1  B-Zone .................................................................................................. 27 
+8.2.2  A-Zone .................................................................................................. 28 
+8.2.3  C-Zone .................................................................................................. 28 
+8.2.4  Pillar Zone .............................................................................................. 29 
+8.2.5  B-A Deformation Feature .......................................................................... 29 
+8.2.6  East Zone Shear ...................................................................................... 30 
+8.2.8  Montana Zone ......................................................................................... 31 
+8.2.9   East Boundary Zone ................................................................................ 31 
+8.2.10   Western Boundary Zone ....................................................................... 32 
+8.2.11   Base-metal Mineralization ...................................................................... 32 
+
+9.0 EXPLORATION ..................................................................................................... 33 
+10.0 DRILLING .......................................................................................................... 33 
+11.0  SAMPLE PREPARATION, ANALYSES AND SECURITY ............................................. 34 
+12.0   DATA VERIFICATION ...................................................................................... 35 
+
+12.1 Analysis of Quality Control Data from Assay results .............................................. 35 
+12.2 CSRM Standards .............................................................................................. 36 
+12.3 Blanks ............................................................................................................ 36 
+12.4 Coarse-pulp duplicates: .................................................................................... 37 
+12.5 SUMMARY OF QAQC ANALYSES.......................................................................... 38 
+
+13.0  MINERAL PROCESSING AND METALLURGICAL TESTING ...................................... 39 
+14.0  MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES ................................... 40 
+
+14.1 Data .............................................................................................................. 40 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 3 
+ 
+
+14.2 Modelling ........................................................................................................ 40 
+14.2.2 Mineralization modelling ................................................................................. 40 
+14.2.3 Surface topography and overburden ................................................................ 40 
+14.3 Underground development and stopes ................................................................ 40 
+14.4 Statistical Analysis ........................................................................................... 46 
+14.4.1 General Statistics and Grade Capping .............................................................. 46 
+14.4.2 Compositing ................................................................................................. 46 
+14.6 Variography .................................................................................................... 46 
+14.7 Block Modelling ............................................................................................... 48 
+14.8 Grade Estimation Methodology .......................................................................... 48 
+14.9 Grade Estimate Validation ................................................................................. 50 
+14.9.1 Composites vs interpolated block .................................................................... 50 
+14.9.2 Classification ................................................................................................ 50 
+14.10 Resource Estimate ......................................................................................... 51 
+
+15.0 ADJACENT PROPERTIES ...................................................................................... 51 
+16.0  OTHER RELEVANT DATA AND INFORMATION ..................................................... 51 
+17.0  INTERPRETATION AND CONCLUSIONS .............................................................. 51 
+18.0  RECOMMENDATIONS...................................................................................... 52 
+19.0  REFERENCES ................................................................................................ 53 
+CERTIFICATE OF QUALIFICATION ................................................................................ 54 
+ 
+ 
+LIST OF FIGURES 
+ 
+Figure 4-1: Simplified map showing regional location of the Simkar Property ..................... 12 
+Figure 4-2: Map showing local geology and location of Simkar Gold Property ...................... 13 
+Figure 7-1: Simplified geological map of the Simkar Property area .................................... 22 
+Figure 8-1: Diagrammatic composite east-west long section ............................................ 26 
+Figure 12-1: Summary of Blank assay values from the 2010 to 2012 drilling programs ........ 36 
+Figure 12-2: Correlation of original and duplicate assay results. ....................................... 36 
+Figure 14-1: Isometric view (looking north) showing the interpreted mineralized zones ....... 41 
+Figure 14-2: Section 9075E (looking East) .................................................................... 42 
+Figure 14-3: Section 8925E (looking East) .................................................................... 43 
+Figure 14-4: Isometric view of the underground void model ............................................. 44 
+Figure 14-5: Zone C search ellipse orientation based on variography ................................ 46 
+ 
+ 
+LIST OF TABLES 
+ 
+Table 4-1: List of mining concessions ........................................................................... 14 
+Table 6-1: Summary of Diamond drilling programmes by Eloro 2010-2012 ........................ 20 
+Table 12-1: Percentage of success for each standard type. .............................................. 35 
+Table 14-1 Eloro Diamond-Drilling at Simkar project ....................................................... 39 
+Table 14-2: Summary of Variography ........................................................................... 46 
+Table 14-3: Simkar Block model parameters ................................................................. 47 
+Table 14-4: Domain Coding of Wireframes, Solids and Surfaces in the Block Model. ............ 47 
+Table 14-5: Attributes of the Block Model Project ........................................................... 47 
+Table 14-6: Sample Search Parameters ........................................................................ 48 
+Table 14-7: Comparison Between Composites and Interpolated (OK-Model) Blocks ............. 49 
+Table 14-8 Simkar Project Resources** at Various Cut-off Grades .................................... 50 
+Table 18-1: Budget for Recommended Work Programs .................................................... 51 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 4 
+ 
+
+1.0 SUMMARY 
+ 
+This technical report (the "Report") was prepared at the request of Mr. Jean-Marc Lacoste, 
+President and Chief Executive Officer of Monarques Resources Inc., ("Monarques"), and Mr. 
+Thomas Larsen, President and CEO of Eloro Resources Ltd. ("Eloro"). Monarques is a 
+Canadian-based, public company, currently trading on the Toronto Venture Stock Exchange 
+(TSX:V) under the symbol of MQR, whereas Eloro is a Canadian based, publicly-held company 
+trading on the TSX Venture Exchange under the symbol of ELO. Monarques is a reporting 
+issuer in British Columbia, Alberta, Ontario and Québec, with its corporate office at 450, Gare 
+du Palais Street, Québec (Québec), Canada G1K 3X2. Eloro is a reporting issuer in British 
+Columbia, Alberta and Ontario, with its corporate office at 20 Adelaide Street East, Suite 301, 
+Toronto (Ontario), Canada M5C 2T6. 
+ 
+In August of 2013, Monarques and Eloro commissioned the author, Mr. Abderrazak Ladidi (the 
+"Author") of MRB & Associates Inc. ("MRB"), of Val-d'Or, Quebec, to prepare a Mineral 
+Resource Estimate and accompanying Technical Report (the "Report") in accordance with 
+National Instrument (NI) 43-101 on the Simkar Gold Project (the "Project" or, the "Property"), 
+which comprises two (2) contiguous mining concessions (2.26 km2) and eleven mineral claims 
+(1.77 km2) in the prolific Val-d'Or Gold Mining Camp, 20 km east of Val-d'Or, Québec. The 
+Simkar Project is currently being explored pursuant to an option agreement with Eloro 
+Resources Ltd. (TSX-V: ELO), whereby Monarques was granted the right to earn a 50% 
+interest in the Project. Monarques are the current operators on the Property and are carrying 
+out a diamond-drilling campaign; however, the results of this campaign are not included in 
+this Report. As at November 1st the current drilling program had completed a cumulative total 
+of 4209 metres in 13 holes. Eloro's last exploration work on the Property was completed on 
+January 13th, 2013. 
+ 
+Under the terms of the agreement Eloro Resources Ltd. has sold an undivided 50% interest in 
+the Property in exchange for a commitment by Monarques to perform $750,000 of exploration 
+work on the Property. Following the fulfilment of the exploration work commitment, Eloro and 
+Monarques will form a joint venture with respect to the Property which will be operated by 
+Monarques. If the exploration work commitment is not completed on or before June 30, 2014, 
+the Company will have the right to rescind the sale and take back the interest in the Property 
+sold to Monarques. 
+ 
+Eloro has also issued 8 million common shares to Monarques by way of private placement at a 
+price of $0.015 per share. In a concurrent transaction, Eloro has also issued 3 million shares 
+to an arm's length creditor at a deemed value of $0.05 per share. Following the completion of 
+the private placement and the shares for debt issuance Monarques holds approximately 12.8% 
+of the issued and outstanding common shares of Eloro.  
+
+The purpose of the Report is to provide an independent Mineral Resource Estimate (MRE) for 
+the Simkar Project, prepared in accordance with NI 43-101. The Report will be filed on the 
+System for Electronic Document Analysis and Retrieval (SEDAR) (http://www.sedar.com/), as 
+required under applicable securities regulations. 
+ 
+1.1 Property Description and Ownership 
+ 
+The Simkar Project is an early-stage exploration property within the National Topographic 
+System (NTS) map sheet 32C/04 in Louvicourt Township, approximately 20 km east of Val-
+d'Or, Quebec. It consists of comprises two (2) contiguous mining concessions (2.26 km2) and 
+eleven mineral claims (1.77 km2) totalling 225.63 ha. The Property hosts a high-grade, 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 5 
+ 
+
+intrusion-related, shear zone, gold-quartz vein system, characteristic of most gold deposits in 
+Val-d'Or Gold Mining District.  
+ 
+At present, there is no commercial production on the Property; however, there are extensive 
+underground mine workings and stopes, from a former gold producer (Louvicourt Goldfield) on 
+the Property. 
+ 
+Prior production from the mine on the property came from three main zones – the A Zone, B 
+Zone, and C Zone. Exploration by Megastar Resources (1996-2004) identified three additional 
+gold-bearing zones (Pillar Zone, F Zone, and Montana Zone), and identified a high-potential 
+structure named the East Zone Shear. 
+ 
+
+Previous Production from Louvicourt Goldfields Mine 
+From To Tons of ore mined Grade (grams/tonne) oz produced 
+1945 1949 261,591 4.62 31,915 
+1987 1993 71,068 8.42 20,000 
+
+ 
+1.2 Geology and Mineralization 
+ 
+The Simkar Property is located within the Late Archean Abitibi Greenstone Belt. It is underlain 
+by a thick sequence of complexly intercalated volcanic flows and pyroclastics of the Malartic 
+Group. Typical of the region, the sequence strikes east-west and dips steeply to the north with 
+top directions to the south. The rocks have undergone greenschist facies metamorphism. 
+ 
+Quartz-feldspar porphyry dykes and sills intrude the intercalated volcanic flows and pyroclastic 
+sequences in the central and southern parts of the Property. These intrusions trend east and 
+northeast, and dip steeply to the south. Five diorite sills underlie the Property, south of the 
+baseline (from north to south); B-diorite, A-diorite, East diorite, Southwest diorite, and the 
+Southeast diorite. The diorites are closely associate, spatially, with mineralization.  
+ 
+The Simkar Property contains Archean gold-vein systems that generally strike easterly. The 
+high-grade, intrusion-centred gold-quartz vein system is similar to the Sigma-Lamaque 
+deposit in Val-d'Or and many other camps in the Abitibi Belt. A secondary type of target on 
+the Property, little-investigated to date, are Noranda- or Matagami-type volcanogenic massive 
+sulphide (VMS) deposits, one of which may underlie the northwest part of the Property, at 
+around 1000 m depth.  
+ 
+Shear zones and intrusions play an important role in controlling the mineralization along the 
+Larder Lake - Cadillac Tectonic Zone, the focus of gold mining activity in the south eastern 
+Abitibi Greenstone Belt. The mineralized zones or "shoots" at Simkar follow second order 
+(Riedel) shear patterns and consist of quartz-carbonate-tourmaline vein systems that locally 
+form stock-works (vein arrays). The mineralized zones contain mainly pyrite, minor 
+chalcopyrite, and trace pyrrhotite, sphalerite, molybdenite, telluro-bismuthite and native gold. 
+Gold occurs mainly in quartz-pyrite veins as fine inclusions within pyrite or at its boundaries, 
+and is closely associated with the bismuth telluride.  
+ 
+The primary (most abundant) set of Riedel veins dips 40º towards 320º. A second set dips 35º 
+towards 220°. The intersection of these two sets plunges 25° towards 270º, and defines the 
+long axis and plunge of the ore zones.  
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 6 
+ 
+
+The various mineralized veins and structures on the Property exhibit a variety of features 
+individually; however, they all have certain characteristics in common, which are also typical 
+of most Abitibi camps. Typically, mineralized zones on the Simkar Property feature quartz-
+tourmaline veinlets/veins/stockwork with some carbonate and sulphides. The sulphide content 
+of veins varies from 3 percent to over 50%, with pyrite by far the dominant sulphide, typically 
+70-95% of total sulphides. Other sulphides are chalcopyrite with lesser gold/electrum, galena, 
+and sphalerite.  
+ 
+1.3 Recent Exploration 
+ 
+The 2004 and earlier exploration work has been described in a previous Technical Report 
+(Pelletier, 2004).  
+ 
+Megastar Development Corp. undertook additional work in 2006 and 2007. Their work 
+consisted of digitization of underground mine workings, the creation of a diamond-drill hole 
+database, surface geophysics, and a 2007 drilling program of 15 NQ diamond-drill holes 
+totalling 4,340 metres. 
+ 
+The holes intersected targets in the B, C, and East Shear zones, plus other targets. These 15 
+holes were added to the pre-existing database of over 500 drill holes and sample channels. 
+ 
+A 2008 NI 43-101 Technical Report commissioned by Megastar, and prepared by Chlumsky, 
+Armbrust & Meyer (Bourgoin and Sandefur, 2008) included a Resource Estimate of the Simkar 
+Property; however, the estimate is no longer considered valid as it was calculated using an 
+unconstrained, nearest-neighbour method.   
+ 
+From 2009-2013 Eloro Resources were the principle operators on the Property completing 
+23,778 cumulative metres of diamond-drilling in 54 surface holes, and collecting 8,352 core 
+intervals samples for assay.  
+ 
+in October 2013, Monarques commenced a diamond-drilling programme on the Property, 
+which is currently on-going. As at the date of this Report, 4200 metres in 13 holes have been 
+drilled; however, data from the current exploration programme are not included in this Report. 
+ 
+The database for the current Mineral Resource Estimate modelling incorporates 590 surface 
+and underground diamond-drill holes, comprising 79,590 total metres, and results from 
+14,506 sampled intervals. 
+ 
+1.4 Resource Estimation 
+ 
+The mineral Resources reported herein were calculated using the Canadian Institute of Mining, 
+Metallurgy and Petroleum (CIM), CIM Standards on Mineral Resources and Reserves, 
+Definitions and Guidelines prepared by the CIM Standing Committee on Reserve Definitions 
+and adopted by CIM Council on Dec 11, 2005. 
+ 
+The current Simkar Project Mineral Resource Estimate was calculated using conventional 
+statistical analysis, variography and grade interpolation via Gemcom® block modelling. 
+Utilizing 1.0 m long assays for gold (Au), the block models, within an interpreted three-
+dimensional (3D) solid domain were coded with the rock codes, bulk density, and classified 
+into the Measured, Indicated and Inferred categories. 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 7 
+ 
+
+The Inferred Resource estimate in this report was developed to determine whether further 
+exploration on the Simkar Property was warranted. Highlights of the estimation procedure 
+include: 
+
+ A Gemcom database developed by MRB was used in the estimate, using the GEMCOM 
+down-hole survey calculations and GEMLOGGER drill-logs; 
+
+ Some inconsistencies and minor errors were noted in the database. MRB believes that 
+the effect of these is not significant, given the inherent uncertainty in the Resource 
+estimation process; 
+
+ Calculations were done using the Gemcom block models software system; 
+ ordinary Kriging algorithm was used for the primary estimate within anisotropic 
+
+elliptical search ranges (where appropriate) and using suitable parameters. The search 
+distances used for the estimates are based upon an expansion factor of the semi-
+variogram ranges. A block size of 10 m x 1 m x 10 m was employed; 
+
+ A bulk density of 2.70 tonnes per cubic metre was used for this estimated resource 
+based on theoretical densities and practices in mine exploiting similar minerals in the 
+region Capping of gold grades did not significantly change the Resource estimate within 
+any one set of parameters, therefore caps were not applied. 
+
+ 
+The following table presents a summary of the Resources1, using ore blocks. Based on these 
+parameters, a 3.0 gpt cut-off grade appears reasonable at this stage of the project. 
+ 
+
+Cut off: grams 
+
+per tonne (gpt)
+
+Tonnes 
+
+(x1000)
+
+Grade 
+
+(gpt)
+Ounces
+
+Tonnes 
+
+(x1000)
+
+Grade 
+
+(gpt)
+Ounces
+
+Tonnes 
+
+(x1000)
+
+Grade 
+
+(gpt)
+Ounces
+
+Tonnes 
+
+(x1000)
+
+Grade 
+
+(gpt)
+Ounces
+
+2.0 550.87 3.73 74,473.13 34.10 4.84 5,125.12 214.53 3.82 23,909.37 248.62 4.36 29,034.49
+
+3.0* 321.21 4.76 57,324.50 19.04 6.08 3,950.62 91.10 4.99 14,314.46 110.14 5.54 18,265.08
+
+4.0 183.48 6.50 42,430.01 14.37 6.73 3,420.27 50.93 5.86 9,865.79 65.30 6.30 13,286.06
+
+Measured Indicated Measured + IndicatedInferred
+
+ 
+* a cut-off grade of 3 g/t was used for this project 
+1 The current Mineral Resource Estimate was calculated using the Canadian Institute of Mining, 
+Metallurgy and Petroleum (CIM) Standards on Mineral Resources and Reserves, Definitions 
+and Guidelines prepared by the CIM Standing Committee on Reserve Definitions. Mineral 
+resources, which are not mineral reserves, do not have demonstrated economic viability. The 
+mineral resource estimate may be materially affected by environmental, permitting, legal, 
+title, taxation, socio-political, marketing, or other relevant issues. Furthermore, the quantity 
+and grade of estimated Inferred Resource reported herein are uncertain and there has been 
+insufficient exploration to categorize them as an Indicated or Measured Resource. It is 
+uncertain if further exploration will result in reclassification of Inferred Mineral Resources to 
+the Indicated or Measured Mineral Resource categories. The tonnage numbers are rounded 
+according to NI 43-101 standards. Grades are calculated from Au concentrations determined 
+from sample assays completed by ALS Minerals using conventional Fire Assaying with 30 g 
+fusions and AAS finish. 
+ 
+Mineral Resources are not mineral Reserves and therefore do not have demonstrated 
+economic viability. The estimate of mineral resources may be materially affected by 
+environmental, permitting, legal, title, taxation, socio-political, marketing, or other relevant 
+issues. 
+ 
+The quantity and grade of reported Inferred Resources in this estimation are conceptual in 
+nature. There has been insufficient exploration to define an Indicated mineral resource on the 
+Property, and it is uncertain if further exploration will result in discovery of an Indicated or 
+Measured mineral Resource on the Property. 
+ 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 8 
+ 
+
+1.4 Conclusions and Recommendations 
+ 
+Recent work on the Simkar Project has confirmed that the formerly explored and exploited 
+gold bearing structures on these properties continue to show potential for hosting additional 
+mineralization, and merit additional exploration work.  
+ 
+The resources were estimated using ordinary kriging and a parallel estimate was conducted 
+using the inverse distance squared method as a check. The majority of the resource has been 
+classified as Inferred; more drilling information is judged necessary to identify Indicated and 
+Measured resources. 
+ 
+The block size dimension (10m X 1m X 10m) was based on the existing drilling pattern and 
+mine planning considerations.  
+ 
+Although there are some discrepancies for the individual pulp re-assays, the QAQC program 
+employed for the Simkar Project was more than adequate. 
+ 
+Based on his review of the Simkar Project, the author makes the following recommendations:  
+
+ Phase I - additional diamond-drilling should be carried out with a concurrent, thorough 
+sampling protocol, to expand the estimated Mineral Resources and provide core 
+material for initial metallurgical testing, which will help to determine the characteristics 
+of the mineralized zones;  
+
+ Phase II - Additional diamond-drilling to further increase the resource volume and to 
+upgrade Inferred Resources to the Indicated category. Supplementary metallurgical 
+testing and bulk sampling to determine  potential processing and recovery scenarios. 
+
+ 
+A diamond-drilling campaign that will qualify as part of the Phase I recommended programme 
+is currently underway on the Project, pursuant to the active Joint Venture agreement between 
+Monarques and Eloro. The current campaign, which is expected to be completed by mid-
+December 2013, is budgeted at $750,000, of which approximately $600,000 has been 
+expended.  
+ 
+The recommended Phase II exploration programme is contingent on favourable results from 
+the Phase I programme. 
+ 
+The investment required for both phases is $5,692,500; expenditures for Phase I of the 
+work program are estimated at $1,950,000, whereas expenditures for Phase II of the work 
+program are estimated at $3,000,000. 
+ 
+Abderrazak Ladidi (the "Author"), who is completely independent of Monarques Resources Ltd. 
+and Eloro Resources Ltd., and is a Qualified Persons (QP) under the terms of National 
+Instrument (NI) 43-101, is responsible for all Sections in this Report.  
+ 
+Mr. Ladidi carried out site visits to the Simkar Property on January 14th, 2013 and August 10th, 
+2013. On both occasions, Mr. Ladidi was accompanied by Bryan Sinkunas of MRB & 
+Associates.  
+ 
+ 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 9 
+ 
+
+2.0 INTRODUCTION 
+ 
+At the request of Monarques Resources Ltd. ("Monarques"), and Eloro Resources Ltd. 
+("Eloro"), Abderrazak Ladidi of MRB & Associates ("MRB"), who is completely independent of 
+Monarques and Eloro and a Qualified Person (QP) under the terms of National Instrument (NI) 
+43-101, was contracted to prepare this Technical Report. 
+ 
+Monarques Resources Ltd., of Val-d'Or, QC is a public company listed on the TSX Venture 
+Exchange trading under the symbol MRQ. Eloro is a Canadian based, publicly-held company 
+trading on the TSX Venture Exchange under the symbol of ELO. This report is intended to be 
+used for public filing in Canada by Monarques. 
+ 
+The following Report presents an initial Resource Estimate, prepared by MRB, regarding the 
+gold deposit underlying the Simkar Property, located in Louvicourt Township, approximately 
+20 km east of the city of Val-d'Or, Québec, Canada.  
+ 
+This report does not incorporate parameters from previously released resource estimates for 
+the Simkar deposit. The estimates of mineral resources contained in this report conform to the 
+CIM Mineral Resource and Mineral Reserve definitions referred to in NI 43-101, Standards of 
+Disclosure for Mineral Projects. 
+ 
+Both Monarques and Eloro have accepted that the qualifications, expertise, experience, 
+competence and professional reputation of MRB's Principals and Associate Geologists and 
+Engineers are appropriate and relevant for the preparation of this Report. Monarques and 
+Eloro have also accepted that MRB's Principals are members of professional bodies that are 
+appropriate and relevant for the preparation of this Report. 
+ 
+The purpose of the current Report is to provide an independent, technical report and Mineral 
+Resource Estimate for the Simkar Property. MRB understands that this Report will be used to 
+support the public disclosure of the Monarques mineral resource estimate regarding Simkar, 
+announced on October 15th, 2013 (refer to the Monarques News Release, dated October 15, 
+2013). This Report will be filed on SEDAR as required by NI 43-101. 
+ 
+This Report is considered current as at November 19th, 2013. The effective date of the Report 
+is August 30th, 2013. 
+ 
+2.1 Site Visits 
+ 
+Site visits to the Simkar Property were carried out on January 14th, 2013 and August 10th, 
+2013 by Mr. Abderrazak Ladidi, P.Geo., of MRB, a Qualified Person (QP) as defined in NI 43-
+101. On both occasions, Mr. Ladidi was accompanied by Bryan Sinkunas of MRB. During the 
+site visits Mr. Ladidi explored the general landscape and surface features of the Property. A 
+number of drill-sites (inactive) and outcrops were visited. It was noted that all visited drill 
+collars were correctly labelled and accurately reflected the azimuth and dip recorded on the 
+logs. Mr. Ladidi also reviewed Eloro's drill core from the Project, which is stored at a secure 
+facility in Val-d'Or, Québec, and noted that the core on hand was securely stored and in very 
+good condition. Core trays were well labelled, and observation suggested that the core 
+cutting/splitting was well done. Sample tags were noted as being in place, and the tags and 
+sampled sections corresponded to those indicated in the core logs.  
+
+
+
+ 2013 Technical Report - Simkar Gold Property 10 
+ 
+
+2.2 Sources of Information 
+ 
+This report is based, in part, on internal technical reports prepared by Eloro employees (who 
+are also QP's as defined in NI 43-101) and maps, published government reports, company 
+letters and memoranda, and public information as listed in the "References" (Section 19.0), at 
+the conclusion of this report. Several sections from reports authored by other consultants have 
+been directly quoted or summarized in this report, and are so indicated where appropriate. 
+The authors of this Report take responsibility for the entire report, including information 
+contained herein which has been provided by other experts. 
+ 
+2.3 Units and Abbreviations 
+ 
+For reported historical resource estimates, a conversion factor of 0.907 has been used in this 
+Report to convert short tons (tons) to metric tonnes (t). Metal values are reported in 
+percentage (%). Costs are reported in Canadian dollars ($) unless otherwise stated. 
+ 
+Grid coordinates are given in the UTM NAD 83 (Zone 19) and latitude / longitude system; 
+maps are either in UTM coordinates or latitude / longitude system. 
+ 
+For the purpose of this report, all common measurements are given in metric units. All 
+tonnages shown are in metric tonnes (1,000 kilograms), and precious-metal concentrations 
+are given in grams (gm) or grams per metric tonne (gpt). Unless otherwise indicated, all dollar 
+values are given in Canadian Dollars. 
+ 
+To convert to English units, the following factors should be used: 
+1 short ton = 0.907 metric tonne 
+1 troy ounce = 31.103 grams (gm) 
+1 troy ounce/short ton = 34.286 gpt 
+ 
+The following is a list of abbreviations used in this report: 
+ 
+
+Abbreviation Unit or Term 
+Au gold 
+CAD$ Canadian dollar 
+g or gm gram 
+g/t or gpt grams per tonne 
+GIS geographic information system 
+GPS global positioning system 
+ha hectare 
+kg kilogram 
+km kilometre 
+m metre 
+M million 
+
+NI 43-101 
+Canadian Securities Administrators' National Instrument 43-
+101 
+
+oz troy ounce 
+ppb parts per billion 
+ppm parts per million 
+QA quality assurance 
+QC quality control 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 11 
+ 
+
+Std. Dev. standard deviation 
+t or tonne metric ton 
+US$ United States dollars 
+UTM Universal Transverse Mercator 
+yr year 
+/ per 
+
+ 
+ 
+3.0 RELIANCE ON OTHER EXPERTS 
+ 
+The Author has assumed, and relied on the fact, that all the information and existing technical 
+documents listed in the References section herein (refer to Section 19.0) are accurate and 
+complete in all material aspects.  
+ 
+Although copies of the tenure documents, operating licenses, permits, and work contracts were 
+reviewed, an independent verification of land title and tenure was not performed. The Author 
+has not verified the legality of any underlying agreement(s) that may exist concerning the 
+licenses or other agreement(s) between third parties but has relied on Monarques and Eloro to 
+have conducted the proper legal due diligence.  
+ 
+Information on tenure and permits was obtained from the Ministère des Ressources Naturelles 
+et de la Faune Québec (MRNFQ) website at https://gestim.mines.gouv.qc.ca, and the MRNFQ 
+GESTIM claim management system. 
+ 
+A draft copy of this Report has been reviewed for factual errors by Monarques and Eloro. MRB 
+has relied on Eloro's historical and current knowledge of the Simkar Property in this regard. 
+Any statements and opinions expressed in this document are given in good faith and in the 
+belief that such statements and opinions are not false and misleading at the date of this 
+Report. 
+ 
+The Author approves and takes responsibility for the entire Report, including information 
+contained herein which has been provided by other experts. 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 12 
+ 
+
+4.0 PROPERTY DESCRIPTION AND LOCATION 
+ 
+The Property is located in the south-eastern part of the Abitibi Greenstone Belt proximal to the 
+Val-d'Or gold camp (Figure 4-1). The Abitibi Greenstone Belt is within the Abitibi Subprovince 
+of the Canadian Shield, and extends in an east-west direction for over 500 kilometres from 
+Chibougamau, Quebec in the northeast to west of Timmins, Ontario, making it the largest 
+greenstone belts in the world. It is a productive gold and base-metal producing region. 
+ 
+The Simkar Property is in western Québec, approximately 20 kilometres east of the 
+municipality of Val-d'Or, and overlies part of Louvicourt Townships. The Property lies within 
+National Topographic System (NTS) map sheet 32C/04 (see Figure 4-1 and Figure 4-2). The 
+shaft of the former Louvicourt Gold Mine (near the centre of the Property) using the Universal 
+Transverse Mercator (UTM) system, is approximately 308915 E, 5326620 N (North American 
+Datum (NAD) 83, Zone 19), or Latitude 48º-03'-51.17" north, Longitude 77º-33'-53.70" west. 
+A summary of the individual concessions and claims is shown in Table 4-1. 
+ 
+The Mining Licences have no encumbrances of any kind. The 11 claims, formerly known as the 
+Louvicourt Property, were obtained by Eloro from KWG Resources Inc. (TSX-V: KWG) 
+("KWG"), which retains a net smelter return ("NSR") royalty on gold production from the 
+Louvicourt Property that is 1% of the NSR, plus an additional 1% of the NSR exceeding $2,000 
+per troy ounce, plus an additional 1% of the NSR exceeding $3,000 per troy ounce. Eloro has 
+done no work on these claims since their acquisition, nor is there any work underway on these 
+claims. 
+ 
+At the time of the agreement between Eloro and Monarques, the mining leases and claims 
+comprising the Simkar Project were in good standing. In order to maintain the concessions, 
+Monarques must make annual payments to the government of Quebec totalling approximately 
+$19,000. 
+ 
+Interest in the Property stems from an Archean gold-vein systems that underlies the Property. 
+The high-grade, intrusion-centred gold-quartz vein system is similar to the Sigma-Lamaque 
+deposit in Val-d'Or and many other camps in the Abitibi Belt. A secondary type of target on 
+the Property, little-investigated to date, are Noranda- or Matagami-type volcanogenic massive 
+sulphide (VMS) deposits, one of which may underlie the northwest part of the Property, at 
+depth 
+ 
+The recommended exploration work is in accordance with the Province of Québec's natural 
+resources, environmental and cultural legislation. 
+ 
+The reader is cautioned that previous mineral resources estimates on the Simkar Project are 
+not considered valid.  
+ 
+Currently, there are no known risk factors that would affect access, title, or the right or ability 
+to perform work on the property, nor are there any legal restrictions or impediments to 
+accessing the Property. There are no physical restrictions to gaining overland access to the 
+claims other than the conditions of the unmaintained secondary and tertiary access roads in 
+the vicinity of the Property. 
+ 
+Part of the permit application process involves consultation with First Nations, which will have 
+to be acted upon directly by Monarques as primary operator. First Nations' land claims have 
+not been comprehensively settled in Québec, and their future impact on the property's access, 
+title or the right and ability to perform work remain unknown. 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 13 
+ 
+
+ 
+Figure 4-3: Simplified map showing regional location of the Simkar Property
+
+
+
+ 2013 Technical Report - Simkar Gold Property 14 
+ 
+
+ 
+
+ 
+Figure 4-4: Map showing local geology and location of Simkar Gold Property
+
+
+
+ 2013 Technical Report - Simkar Gold Property 15 
+ 
+
+Table 4-2::  LLiisstt  ooff  mmiinniinngg  ccoonncceessssiioonnss  
+SIMKAR GOLD PROJECT 
+
+Mining 
+Licence Block # Status Area (ha) Rent  
+
+Banked 
+credits Work required Registered Owner 
+
+CM 340 15 active 184.92 $0.00 $0.00 $6,472.20
+Eloro Resources Ltd (50%) 
+Monarques Resources Inc (50%) 
+
+CM 348 16 active 40.71 $0.00 $0.00 $1,419.95
+Eloro Resources Ltd (50%) 
+Monarques Resources Inc (50%) 
+
+Sub-total     225.63 $0.00 $0.00 $7,892.15  
+
+Claim Recording Date Due date 
+Area: 
+
+Hectares Rent 
+Banked 
+credits Work required Registered Owner 
+
+5072880 03/25/91 12/14/14 16 $27.75 $54,573.77 $1,000.00
+Eloro Resources Ltd (50%) 
+Monarques Resources Inc (50%) 
+
+5072881 03/25/91 12/14/14 16 $27.75 $0.00 $1,000.00
+Eloro Resources Ltd (50%) 
+Monarques Resources Inc (50%) 
+
+5072882 03/25/91 12/14/14 16 $27.75 $0.00 $1,000.00
+Eloro Resources Ltd (50%) 
+Monarques Resources Inc (50%) 
+
+5072883 03/25/91 12/14/14 16 $27.75 $47,937.50 $1,000.00
+Eloro Resources Ltd (50%) 
+Monarques Resources Inc (50%) 
+
+5072619 03/25/91 12/14/14 16 $27.75 $0.00 $1,000.00
+Eloro Resources Ltd (50%) 
+Monarques Resources Inc (50%) 
+
+5072620 03/25/91 12/14/14 16 $27.75 $0.00 $1,000.00
+Eloro Resources Ltd (50%) 
+Monarques Resources Inc (50%) 
+
+5072621 03/25/91 12/14/14 16 $27.75 $64,960.34 $1,000.00
+Eloro Resources Ltd (50%) 
+Monarques Resources Inc (50%) 
+
+5072622 03/25/91 12/14/14 16 $27.75 $64,004.33 $1,000.00
+Eloro Resources Ltd (50%) 
+Monarques Resources Inc (50%) 
+
+5072623 03/25/91 12/14/14 16 $27.75 $0.00 $1,000.00
+Eloro Resources Ltd (50%) 
+Monarques Resources Inc (50%) 
+
+5072624 03/25/91 12/14/14 16 $27.75 $0.00 $1,000.00
+Eloro Resources Ltd (50%) 
+Monarques Resources Inc (50%) 
+
+5073185 03/25/91 12/14/14 16 $27.75 $0.00 $1,000.00
+Eloro Resources Ltd (50%) 
+Monarques Resources Inc (50%) 
+
+Sub-total     176  $305.25 $231,475.94 $11,000.00   
+Total     401.63  $305.25 $231,475.94 $18,892.15   
+
+
+
+ 2013 Technical Report - Simkar Gold Property 16 
+ 
+
+4.1 Environmental Liabilities  
+ 
+There has been a significant amount of exploration work performed on the Property since it 
+was optioned by Eloro in 2009. There is currently a diamond-drilling programme underway on 
+the Property by Monarques; however, results of this work are not included in this Report. The 
+Property was explored historically by trenching and pitting, surface-geophysical surveys, 
+sampling/prospecting, and diamond-drilling programmes that included grid-cutting and 
+clearing of drill-sites. An historic mine, the Louvicourt Goldfields Mine operated on the 
+Property from 1945 to 1949 and from 1985 to 1993. There are few vestiges of this previous 
+work other than the foundations of the mine buildings and the shaft opening (covered). Past 
+mining on the Property was done long prior to Eloro's acquisition of the Property and 
+Monarques subsequent earn-in deal with Eloro, and any future potential liability regarding 
+tailings or old mine workings are "grandfathered" to the government of Quebec. There and no 
+environmental issues related to said historic exploration and mining programs, and there is no 
+current commercial production on the Property.  
+ 
+The author is familiar with the Property, is knowledgeable about the environmental regulations 
+in Quebec and in Canada. As of the writing of this report, the Author is not aware of any back-
+in rights, payments or other agreements, encumbrances or environmental liabilities to which 
+the Property could be subject; nor are there known environmental or land claim issues 
+pending with respect to the Property. 
+ 
+4.2 Work Permits and Plans 
+ 
+Depending on how the recommended work on the Property is carried out, Monarques, as 
+Operator, may be required to obtain some or all of the following Work Permits: Land Use; 
+Timber & Cutting; Explosives; Water Crossings; Road Construction, and; Permission to Test 
+Material. In addition aboriginal communities potentially affected by the exploration plan 
+activities will have to be notified and be given the opportunity to provide feedback before the 
+proposed activities are carried out.  
+  
+4.3 Details of Property Agreement 
+ 
+The Simkar Project is currently being explored pursuant to an option agreement between Eloro 
+Resources Ltd. and Monarques Resources Ltd., whereby Monarques was granted the right to 
+earn a 50% interest in the Project. 
+ 
+Under the terms of the agreement Eloro has sold an undivided 50% interest in the Property in 
+exchange for a commitment by Monarques to perform $750,000 of exploration work on the 
+Property. Following the fulfilment of the exploration work commitment, Eloro and Monarques 
+will form a joint venture with respect to the Simkar Property, which will be operated by 
+Monarques. If the exploration work commitment is not completed on or before June 30, 2014, 
+Eloro will have the right to rescind the sale and take back the interest in the Simkar Property 
+sold to Monarques. 
+ 
+Eloro has also issued 8 million common shares to Monarques by way of private placement at a 
+price of $0.015 per share. In a concurrent transaction, Eloro has also issued 3 million shares 
+to an arm's length creditor at a deemed value of $0.05 per share. Following the completion of 
+the private placement and the shares for debt issuance, Monarques holds approximately 
+12.8% of the issued and outstanding common shares of Eloro. 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 17 
+ 
+
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND 
+PHYSIOGRAPHY 
+ 
+The Simkar Property is accessible by gravel road that branches from Highway 117 (the Trans- 
+Canada Highway) near the settlement of Colombière, located between Val-d'Or and Louvicourt 
+(see Figure 4-2). The distance between Val-d'Or and Colombière is 17 km. A gravel road, the 
+Chemin de la Sabourin, leaves the highway northwest of the Property boundary. The 
+Louvicourt Gold Mine shaft is found approximately 3.7 km south of Highway 117 along this 
+gravel road. 
+ 
+Val-d'Or is a comprehensive mining centre capable of providing personnel, contractors, 
+equipment and supplies to mining and exploration operations in the area. Electricity is 
+relatively inexpensive and is maintained by Hydro-Quebec. Power is available from a provincial 
+hydro transformer located at the community of Louvicourt, approximately 20 kilometres east 
+of the Property. There is ample local supply of water, both potable and for processing. 
+ 
+The topography of the Project is generally flat, half covered by marshes, with forest vegetation 
+consisting primarily of black spruce, jack pine, poplar, birch, and alder. 
+ 
+The area has a typical continental boreal climate, comparable to communities at the same 
+latitude in mid Canada like Timmins, Sudbury and Thunder Bay. Snow stays on the ground 
+from mid-November and the ice leaves the lakes about early-mid May. Winters can be bitterly 
+cold with temperature averaging –15°C in January and February. The ground is frost free from 
+May to October. Summers are warm and relatively dry with a mean temperature of 22°C. 
+Precipitation is moderate, ranging from 200 to 500 millimetres annually, with half of it arriving 
+as snow. 
+ 
+There is sufficient space, and access to surface rights, for exploration work and for any 
+eventual mining operations, tailings storage, waste disposal, and processing plants. 
+ 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 18 
+ 
+
+6.0 HISTORY 
+ 
+This section was prepared in large part from a report by Davis (1989), and from other private 
+reports and published articles. 
+ 
+6.1 Early Work, 1939-1995 
+ 
+1939: The Simkar claims were originally staked by J. J. Simard and C. Karpus in May 1939 to 
+cover extensions of gold showings on the neighbouring Met-Mac property to the east. In July 
+1939, Senator J. H. Rainville and Associates of Montreal purchased the Simkar claims. By 
+August 1939, stripping and trenching along the eastern boundary had been completed yielding 
+negative results. A discovery in the southwest part of the property was subsequently exposed 
+by trenches for a length of 80 feet. During the period October 18 to November 10, 1939, nine 
+surface diamond-drill holes totalling 643.4 metres (2,111 feet) were completed to investigate 
+the discovery (Karpus) vein. Significant results included 0.60 oz./ton Au across 1.7 ft., 0.23 
+oz./ton Au across 1.8 ft., 0.09 oz/ton Au across 2.2 ft. and 0.15 oz/ton Au across 16 feet. 
+ 
+1940 to 1943: No work was completed. 
+ 
+1944: The Simkar property was acquired by the newly formed Louvicourt Goldfields 
+Corporation. In July 1944 a 10,000 foot surface diamond-drilling program was started. Due to 
+encouraging results (discovery of the A and B zones) 42 drill holes yielding a total footage of 
+8,971 metres (29,432 feet) were completed. 
+ 
+1945 to 1947: In September 1945, Louvicourt Goldfields Corporation announced the decision 
+to put the property into production. This would involve sinking a four-compartment shaft and 
+installation of a 750 ton per day mill. A four-compartment vertical shaft was sunk to a depth of 
+975 feet with levels excavated at 225, 375, 525, 675, 825 and 975 feet. Underground 
+development was completed on the 225, 375, 525 and 675 levels. The total underground 
+program consisted of 3,927 metres (12,883 feet) of drifting and crosscutting, 2,346 metres 
+(7,696 feet) of raising and 18288 metres (60,000 feet) of underground diamond-drilling. A 
+400 ton per day mill was constructed and began treatment of the Simkar ore on April 20, 
+1947. 
+ 
+1947 to 1949: Mining and underground exploration was suspended on May 7, 1949, with the 
+mill continuing treatment until July 1949. During the period April 20, 1947 to July 1949 the 
+mill processed 261,590 tons of ore yielding an average grade of 0.123 oz./ton Au with a mill 
+recovery of 94.71%. This production was from three separate zones; the A, B and C. The 
+mining and milling were suspended when the operating costs ($5.00 to $5.50 per ton) 
+exceeded the recovered values of $4.00 to $4.50 per ton. Salvage of all underground 
+equipment and installation (track, pipe, etc.) was completed before the mine closing. 
+ 
+A consulting report by E. G. Bishop in 1948 suggested that 1) not enough stope preparation 
+had been completed before production began; 2) stope preparation costs were too high; 3) a 
+mining rate of 400 tons per day was too high for the property; 4) mill tailing losses were 
+excessive from 0.39 g (0.011 oz./ton Au) to 0.44 g (0.013 oz./ton Au); 5) the sampling 
+techniques applied did not provide a reliable estimate of ore grades. 
+ 
+1950: Surface diamond-drilling to a total of 6,100 metres (20,000 feet) was drilled to explore 
+for gold mineralization elsewhere on the property. As a result of this drilling, a "new" zone 
+(East Zone) was discovered. This East Zone was traced for 300 feet and was situated 600 feet 
+east of the last heading on the 375 foot level C-Zone drift. 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 19 
+ 
+
+1951 to 1967: No work as completed. 
+ 
+1968: A Turam electromagnetic survey was completed by Louvicourt Goldfields Corporation in 
+order to investigate the base metal potential of the property. 
+ 
+1972: Louvicourt Goldfields Corporation carried out an assessment of the gold potential of the 
+property. The result of this study and the location of relevant sections, plans and paper are 
+unknown. 
+ 
+1973 to 1981: No work was completed. 
+ 
+1982: Goldlund Mines attempted to revive the dormant Louvicourt Goldfields Corporation 
+property. There is no record concerning any exploration completed at this time. 
+ 
+1982 to 1986: Numerous exploration companies assessed the Simkar property but no deal 
+with Louvicourt Goldfields Corporation was made. 
+ 
+July 1987: A summary and evaluation of the gold potential of the Louvicourt Goldfields 
+property was completed by Christopher R. Davis. The conclusions of this report were that the 
+identified ore zones appeared to be open in one or more directions and favourable structure 
+and lithologies continue across the entire property. A two phase exploration program was 
+recommended consisting of a compilation, geophysics, surface drilling Phase #1, and a Phase 
+2 (dependent on Phase #1 results) underground exploration program. 
+ 
+August 11, 1987: Louvicourt Gold Mines Inc. (formerly Louvicourt Goldfields Corporation) 
+executed a farm-out agreement with Fonteneau Resources Limited outlining an expenditure of 
+$7 million in order to earn a 50% interest in the Simkar Project property. Fonteneau 
+Resources Ltd. Assigned this agreement to Ronrico Explorations Ltd. Ronrico assumed all 
+Fonteneau's rights and some of Fonteneau's obligations in the property. 
+ 
+October 1987 to February 29, 1988: During this period, Louvicourt Mining Management 
+Company Ltd. Administered a $3 million exploration program for Ronrico Explorations Ltd. The 
+program consisted of detailed surface mapping; VLF, magnetometer, and HLEM geophysical 
+surveys; initial sampling of the old tailings pond; overburden investigation drilling; a crown 
+pillar investigation drill program; partial to complete installation of required surface 
+infrastructure; and 10,114.79 metres (33,185.01 feet) of surface exploration diamond-drilling. 
+ 
+The 1987-88 exploration program objectives were to further investigate the A, B and C zones 
+gold mineralization; assess and investigate the potential of the "new" zone (East Zone); 
+compile and present all available previous data; and define ore reserve potential accessible 
+from the existing underground excavations. 
+ 
+1988 to 1993: During this period of time MEGA Mining Management Ltd. Administered a 
+$4.64 million exploration program for Ronrico Explorations Ltd. 
+ 
+The program consisted of 1,510.70 metres (4,956.36 feet) of surface diamond-drilling, 
+6,502.50 metres (21,333.66 feet) of underground diamond-drilling, completion of the surface 
+infrastructure installations, dewatering of the underground exploration site, underground 
+rehabilitation (shaft, drifts, raises), 639.10 metres (2,096.78 feet) of drifting, 299.70 metres 
+(983.27 feet) of crosscutting, 179.50 metres (588.91 feet) of raising, complete remapping and 
+sampling of the underground workings, compilation of available data, a structural analysis, 
+and mineralogical and chemical studies. The surface infrastructure installations for the 
+underground exploration consisted of a 3.7 kilometres electrical line, a 50 ft. x 130 ft. service 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 20 
+ 
+
+building housing the hoist, compressors, shops and warehouse, five temporary trailers housing 
+offices and dry facilities, a 90 foot head frame with a 40 ft. x 40 ft. shaft house, an Ingersoll-
+Rand 72 in. x 60 in. 350 Hp hoist with 1 1/8 in. cable, septic field, water well, 138 ft. x 105 ft. 
+settlement basin, and two Ingersoll-Rand compressors model Ep-250. 
+ 
+The objectives of the 1988-89 exploration programs were to prove up the existence of ore in 
+the A, B, C and East zones by underground excavations (i.e. Drifts, raises, crosscuts) and 
+diamond-drilling, to define potential ore reserves remaining in the previous underground 
+workings, to define new auriferous structures, and to calculate an ore reserve estimate for the 
+property. 
+ 
+The underground development work to access the East Zone on levels 2 and 3 led to the 
+extraction of 71,068 metric tonnes at a grade of 8.42 g/t Au (20,000 Oz. Au). Approximately 
+$12 Million was spent during this phase of underground development work. 
+ 
+6.2 Work by Megastar, 1996-2004 
+ 
+1996: Megastar Development Corp. acquired all rights, titles and interests of the Simkar gold 
+mine in 1996. 
+ 
+1996-2004: Megastar completed an Induced potential (IP) ground geophysical survey over 
+the entire property along with limited diamond-drilling work; 9 holes in 1997 (2,763 m) and 3 
+holes in 2004 (900 m). Most of this drilling was designed to test geophysical anomalies. 
+ 
+Subsequent to the 2004 drilling work, Megastar contracted InnovExplo Inc., an independent 
+geological consulting firm based in Val-d'Or QC, to prepare a NI 43-101 compliant technical 
+report on the Simkar property (Pelletier, 2004).  
+ 
+6.3 Work by Megastar, 2006-2008 
+ 
+2006: From April to December of 2006, Megastar completed 3D mine modelling work which 
+consisted in the digital construction of all underground mine workings, along with the creation 
+of a diamond-drill hole database. All of this digital data was then imported into one 
+comprehensive 3D database on GEMCOM software. 
+ 
+The 3D mine modelling completed in 2006 was followed by geological interpretation work 
+which in turn led to a surface drilling program designed to test several targets outlined by the 
+3D study. 
+ 
+2007: During February and March 2007, Megastar completed down-hole Pulse EM work on 4 
+historical drill holes in the northern part of the Property. The survey was conducted by TMC 
+Geophysics of Val-d'Or QC and was done on holes 90-19, 90-39, 97-07, and 04-SKR-01. All 
+four holes were probed using the Crone Geophysics Pulse- EM (PEM) using a 16.66 millisecond 
+time-base, a 1500 microsecond ramp-time and 20 sampling windows (channels). The survey 
+did not detect any definite responses, which indicates the absence of conductive mineralized 
+zones within a radius of approximately 150 metres surrounding the borehole axis. 
+ 
+From March 4th, 2007 to May 25th, 2007, Megastar completed a 15 hole, 4,340 m, BQ-sized 
+diamond-drilling programme on the property. A total of 1,788 samples of the core were 
+collected and assayed for gold content. The drilling program was designed to further evaluate 
+the gold-quartz vein systems in the southern part of the property, as well as the potential 
+copper-zinc-gold-silver volcanogenic massive sulphide type mineralization in the northern part 
+of the property. 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 21 
+ 
+
+ 
+2008: A 43-101 Technical Report on the Simkar property was prepared for Megastar by 
+Martin Bourgoin of MRB & Associates, and Robert Sandefur of Chlumsky, Armbrust and Meyer 
+LLC (Bourgoin and Sandefur, 2008). The resource estimate published in this report was 
+calculated using an unconstrained, nearest-neighbor method and is no longer considered as 
+valid. 
+ 
+6.4 Work by Eloro, 2010-2013 
+ 
+Eloro optioned the Simkar Property from Megastar Development Corp. in 2009 and purchased 
+it outright in 2010. From 2010 to 2012, Eloro completed 23,778 cumulative metres of 
+diamond-drilling in 54 surface holes, and collecting 8,352 core intervals samples for assay 
+(Table 6-1).  
+ 
+
+Table 6-2: Summary of Diamond drilling programmes by Eloro 2010-2012 
+Year Holes Total (m) Samples 
+2010 23 8,385 2,552 
+
+2011 (I) 14 6,710 1,733 
+
+2011 (II) 5 3,880 1,886 
+
+2012 12 4,803 2,181 
+
+Totals= 54 23,778 8,352 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 22 
+ 
+
+7.0 GEOLOGICAL SETTING 
+ 
+The Simkar Property is located within the Late Archean, Abitibi Greenstone Belt (AGB), which 
+is part of the central core of the North American craton known as Superior Province. The 
+Abitibi Greenstone Belt is the largest, and perhaps the best-studied Archean greenstone 
+terrane in the world, and hosts significant mineral resources. 
+ 
+7.1 Regional Geological Setting 
+ 
+The Simkar Property is situated in Louvicourt Township in the south-eastern part of the AGB. 
+Louvicourt Township is underlain by the east-striking volcano-sedimentary Malartic Group, 
+which is faulted against the older meta-sedimentary Pontiac Supergroup located to the south 
+(Figure 7-1). Both sequences strike 060° to 090°, dip steeply north and young towards the 
+south. 
+ 
+The volcanic rocks of the Malartic Group are subdivided into two sub-groups: The Lower 
+Malartic to the north composed of ultramafic and basalt flows with greywacke-argillite 
+intercalations, whereas the Upper Malartic to the south, consists of basalt and andesite flows 
+and fine to coarse grained pyroclastics. A spherulitic intermediate volcanic flow has been 
+traced for 25 kilometres across the district. 
+ 
+The Pontiac Supergroup is located in the southern part of the district. It consists of 
+conglomerate, argillite, greywacke and mica schist, and is separated from the Malartic Group 
+by the Cadillac Fault. 
+ 
+Both the Pontiac Supergroup and Malartic Group have been metamorphosed to greenschist 
+facies. In contact with later intrusive bodies, the rocks may demonstrate a higher degree of 
+metamorphism. 
+ 
+Three classes of intrusive rocks have been recognized (Quebec Provincial Report RG135 - 
+Sharpe, 1968); diorite to granodiorite plutons (e.g., Bourlamaque Batholith); quartz-feldspar 
+porphyry dykes and sills; and gabbro-diorite dykes and sills (e.g., Duraine sill). 
+ 
+Numerous east-west and northeast-southwest trending shear zones occur throughout the 
+region, transecting all rock types and lithologies. The majority of the east-west shears exhibit 
+a reverse sense of movement (north-south compression) accompanied by distinct sub vertical 
+stretching and horizontal shortening components. These shear zones provide favourable 
+structures for potential gold mineralization. Most of the region's gold mineralization is spatially 
+associated with these types of shears and related fracture fillings. 
+ 
+7.2 Property Geology 
+ 
+The Simkar Property is underlain by a thick sequence of complexly intercalated volcanic flows 
+and pyroclastics of the Malartic Group. Typical of the region, the sequence strikes east-west 
+and dips steeply to the north with top directions to the south (see Map 1). 
+ 
+A complex of semi-concordant diorite-gabbro sills cut by quartz-feldspar porphyry dykes 
+intrudes the intercalated volcanic flows – pyroclastic sequence in the central and southern 
+parts of the Property. These intrusions trend east-west to the northeast-southwest, and dip 
+steeply to the south. The diorite sills are typically continuous and regular, whereas the 
+porphyry dykes are more discontinuous and highly irregular in outline. 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 23 
+ 
+
+ 
+
+ 
+ 
+
+Figure 7-2: Simplified geological map of the Simkar Property area 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 24 
+ 
+ 
+The coexistence of albite and epidote and the presence of chlorite indicate that the rock units 
+underlying the Simkar Property have undergone green schist grade metamorphism. A slightly 
+higher grade of metamorphism is evident in rock units adjacent to the later stage quartz-feldspar 
+porphyry dykes. 
+ 
+Five diorite sills underlie the Property south of the baseline (from north to south); B-diorite, A-
+diorite, East diorite, Southwest diorite, and the Southeast diorite. The B, A, Southwest and East 
+diorite sills are actually branches of one longer diorite sill which traverses the Property and region 
+(Lourmet sill) but for this report each will be discussed or referred to as separate diorite sills. 
+ 
+The B-diorite is bounded by the Main Porphyry to the south and the Simard Shear to the north. It 
+has a confirmed strike length of 1,200 metres (3,950 feet) and has been defined to a maximum 
+depth of 640 metres (2,100 feet). It strikes into the Aur Resources' Annamaque property to the 
+west. The eastern extent of the B-diorite sill is unknown due to a lack of drill hole intersections, 
+and the masking effect of thick overburden. 
+ 
+The A-diorite is bounded by the Main Porphyry to the north and is assumed to be the southern 
+extreme of the B-diorite. It trends approximately east-west and dips steeply to the south. At the 
+present time, its eastern extent is unknown. 
+ 
+Near the south central part of the Property, the A-diorite branches into southern parallel diorite 
+sills or zones; the East diorite and Southwest diorite. 
+ 
+The East diorite occurs in the eastern part of the Property. It has a confirmed strike length of 
+1000 metres (3250 feet) and extends onto the adjacent Sigma Mine's Lapaska property. 
+Eastward, the north part of the East diorite apparently separates into two narrow terminal sills. 
+ 
+The southwest diorite extends westward along the southern limit of the Property. This diorite has 
+been a target of exploration on the adjacent properties; to the south and west. 
+ 
+The Southeast diorite occurs in the south-eastern part of the Property. It is cut by a small north-
+northwest trending normal, to strike slip fault with a dextral sense of displacement to the west, 
+and can be traced onto the eastern adjacent property. No exploration has yet been directed 
+toward this sill. 
+ 
+Numerous quartz-feldspar porphyry dykes intrude the diorite sills and volcanic flows – pyroclastic 
+sequence. The largest and most continuous of these porphyry dykes is the Main porphyry which 
+separates the B and A diorite sills. It has a confirmed strike length of 1200 metres (3950 feet) 
+and can be traced onto and across the adjacent properties to the west. Its eastern extension is 
+presently unknown, but the Lapaska property adjacent to the east is underlain by a similar 
+continuous porphyry dyke. No porphyry dykes have been defined north of the Simard Shear. The 
+greatest concentration of porphyry dykes occurs in the south central part of the Property near 
+the shaft and underground workings. 
+ 
+Numerous east-west trending shear zones have been identified. These shears vary in dip for 45° 
+south to 85°north, and show a reverse sense of movement. The longest of the identified shear 
+zones are the Dunraine Shear separating the B-diorite from the Northern Volcanics, the East 
+Zone Shear and the C-Zone Shear. The East Zone and C-Zone shears are of particular 
+importance in that significant gold mineralization is associated with both. 
+ 
+7.3 Metamorphism and Alteration 
+ 
+Rocks on the Simkar Property appear to have undergone three phases of alteration, consisting of 
+a broad regional chloritization phase and a localized silicification-sericitization phase. 
+ 
+The ubiquitous occurrence of chlorite and carbonate (calcite) throughout the Simkar lithologies is 
+the result of a regional green schist grade metamorphism. Chlorite and calcite occur as mineral 
+replacements in all lithologies except in the quartz-feldspar porphyry dykes, and as joint surface 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 25 
+ 
+coatings. Calcite is also common within small discontinuous veinlets in both the volcanics and 
+diorite dykes. Sauvé (1985) notes that the addition of potassium at this time has resulted in the 
+alteration of ferromagnesium minerals to biotite. 
+ 
+The Simkar and adjacent properties underwent a phase of moderate to strong propylitization. 
+This hydrothermal alteration has resulted in the development of epidote, calcite, sericite and 
+saussurite. These alteration products occur within all rock types as mineral replacements (i.e., 
+sericite, saussurite replacement of plagioclase) and as a late stage open space filling (i.e. Epidote 
+and calcite veins). The quartz-feldspar porphyry dykes were particularly affected by this phase of 
+propylitization. 
+ 
+A later-stage phase of silicification and sericitization accompanied the emplacement of quartz 
+tourmaline veins, following a remobilization event which was possibly contemporaneous with the 
+intrusion of quartz-feldspar porphyry dykes and/or by later movement along the larger shear 
+zones. Silicified and sericitized alteration halos ranging in thickness from 1 centimetre to 30 
+centimetres commonly occur adjacent to quartz veins. Up to 10% pyrite is also common in these 
+halos as medium to coarse grained disseminations. 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 26 
+ 
+ 
+8.0 DEPOSIT TYPES AND MINERALIZATION 
+ 
+8.1 Deposit types 
+ 
+The Simkar Property hosts an Archean, high-grade, shear-zone associated, gold-bearing, fault-fill 
+and extensional quartz vein system, characteristic of the gold deposits in the Val-d'Or Gold 
+Mining District. As Eloro's exploration has advanced, similarities between the gold mineralization 
+at Simkar and that of the well-studied Sigma Mine in Val-d'Or, continue to be recognized.  
+ 
+Sigma/Louvicourt-type mineralization is the result of fracturing of the relatively competent sill-
+like (mainly diorite) intrusions followed by the growth of en-echelon vein systems. Progressive 
+deformation causes dilation, and repeated reopening results in "crack and seal" veins, often with 
+bands of tourmaline that form with successive infillings. The veins pinch and swell, and often 
+branch and intersect in response to localized stress fields.  
+ 
+The auriferous veins in these types of deposits typically include: 1) moderately to steeply dipping 
+fracture-fill veins within, and parallel to, the shear zones (south dipping at Simkar); 2) 
+moderately dipping extensional-shear veins (north-dipping at Simkar), and; 3) sub-horizontal 
+extensional veins in the structurally competent intrusions, which at Simkar comprise diorite 
+dykes sub-parallel to the regional strike (see Figures 1 and 2). The fracture-fill auriferous veins 
+show a clear affinity for the more competent intrusive rocks (diorite, quartz-feldspar porphyry), 
+whereas shear zones and their gold-bearing veins are typically located in the more ductile 
+surrounding volcanic rocks. As a result of the stress-controlled structural permeability, the 
+mineralization along the various vein systems at Simkar is unevenly distributed, with linear and 
+irregular mineralized shoots separated by lower grade zones and barren fault segments. At 
+Simkar, as at Sigma, both the fault-fill and extensional veins are distributed in an en-echelon or 
+stepping pattern both along strike and down dip making the targeting of the mineralized zones 
+difficult from surface. 
+ 
+8.2 Mineralization 
+ 
+This section relies heavily on the report by Bourgoin and Sandefur (2008), which in turn was 
+largely based on the report by Davis (1989). 
+ 
+The Simkar Property hosts a number of quartz lodes, as described below. These generally strike 
+easterly. Figure 8-1 is a diagrammatic composite east-west long section, with the major zones 
+projected into the plane of the section. 
+ 
+The gold ores mined by from the underground workings during the period 1946 to 1949 came 
+from three main zones (north to south); the B-Zone, A-Zone, and C-Zone. Other gold-bearing 
+structures were investigated at this time, but were not developed and fully evaluated. The recent 
+exploration has determined three new gold-bearing zones and identified one high potential 
+structure, the East Zone Shear.
+
+
+
+ 2013 Technical Report - Simkar Gold Property 27 
+ 
+ 
+
+ 
+ 
+
+Figure 8-2: Diagrammatic composite east-west long section; major zones are projected 
+into the plane of the section 
+
+ 
+The following sections describe each zone: 
+ 
+8.2.1 B-Zone 
+ 
+The B-Zone occurs within the B-diorite, north of the Main Porphyry. It consists of a series of en 
+echelon, steeply-dipping ore shoots plunging westward (260°) at 20 to 25 degrees. The ore 
+shoots above the 525 foot level were partially to completely mined out from 1947 to 1949. These 
+shoots averaged 10 to 15 metres thick, 15 to 20 metres wide, and 65 metres long. The largest 
+shoot defined was 30 metres thick, 30 metres wide and 150 metres long. 
+ 
+The B-Zone mineralized shoots are composed of a complex pattern (stockwork) of quartz-
+tourmaline veins and altered pyritic fractured wall rock. The individual veins and fracture zones 
+range in thickness from 10 centimetres to 3 metres and appear to have a maximum strike length 
+of 20 metres (66 feet). Three main vein sets have been observed in the B-Zone: 
+ 
+
+1. Striking east with shallow to steep north dips 
+2. Striking east with shallow south dips 
+3. Striking north with shallow west dips 
+
+ 
+All three vein sets carry gold. Their relative ages have not been determined. These vein sets are 
+believed to occupy oblique extension fractures. All quartz veins and altered facture zones 
+terminate within two metres of the B-diorite contacts. 
+A petrographic analysis of the B-Zone veins by Sauvé in 1985 indicated that they consist of 
+quartz with minor carbonate, tourmaline, pyrite, and chalcopyrite. The carbonate and tourmaline 
+are most abundant near vein margins. The adjacent wall rock is chloritized, silicified, and 
+sericitized. 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 28 
+ 
+ 
+The sulphide content of the veins ranges from 1% to 20%, and consists of euhedral pyrite, 
+chalcopyrite, pyrrhotite (as inclusions in pyrite), traces of molybdenite, and marcasite and 
+telluro-bismuthinite as rare inclusions in pyrite. Gold occurs as 5 to 25 micron inclusions in pyrite 
+and as fine grained disseminations in quartz vein micro fractures. 
+ 
+Recent exploration has investigated the potential down-plunge extension of the B-Zone below the 
+525 foot level. Significant B-Zone veining and gold mineralization has been outlined to the 825 
+foot level by underground diamond-drilling. This mineralization appears to have the same 
+characteristics as that previously mined: i.e. mineralization occurs within plunging shoots, 
+irregular veining and alteration patterns, and steep dips. One narrow shoot is interpreted as 
+being north-dipping (as opposed to the habitual south dips). This anomalous feature could be 
+explained as being an isolated north-dipping quartz-tourmaline vein or altered facture zone. 
+ 
+8.2.2 A-Zone 
+ 
+The A-Zone occurs within the A-diorite, south of the Main Porphyry. Significant gold 
+mineralization within the A-Zone occurs in three different modes; a) small stockwork, b) 
+000/042°W quartz-tourmaline-pyrite veins, and c) 090/065°S quartz-tourmaline-pyrite veins. 
+ 
+Small stockwork of quartz-tourmaline-carbonate-pyrite veins occur as isolated occurrences within 
+the A-diorite. They make up less than 10% of the total gold-bearing structures in the A-Zone. It 
+is possible that these "stockwork-like" areas are simply the result of the irregular overlapping and 
+subsequent folding of the irregular overlapping and subsequent folding of the 090/065°S and 
+000/042°W vein sets. 
+ 
+The 000/042°W quartz-pyrite veins have been defined to a maximum vertical depth of 140 
+metres. They have a strike length of approximately 20 metres but the dip length is considerably 
+longer (250 metres). They occur only in the A-diorite and are bounded by the Main Porphyry to 
+the north and agglomerated units to the south. The veins consist of quartz with tourmaline and 
+chlorite as distinct bands. Up to 2% pyrite occurs as fine grained disseminations along mafic 
+bands and vein boundaries. A later set of near vertical dipping veinlets and fractures occurs 
+across the west dipping veins. No alteration or shearing is evident in the host diorite. Up to 10% 
+coarse grained pyrite is common in wall rock adjacent to the veining. The 000/042°W veins 
+appear to have been introduced into a brittle fractured diorite with a dominate north-south 
+striking west dipping joint set. 
+ 
+The 090/065°W south dipping veins occur in the A-diorite but below the 000/042°W Vein 
+Domain. These south dipping veins were the target of most of the previous mining in the A-Zone. 
+They are irregular in character and consist of quartz-tourmaline-chlorite-pyrite. The host diorite 
+is weakly foliated but does appear to be sheared. The veins and associated gold mineralization 
+plunge 020° to 025° west, as is the case for all gold-bearing structures on the Simkar Property. 
+ 
+The potential for increased reserves in the A-Zone is high. Scattered drill intercepts along strike 
+and at depth have encountered favourable structure and gold values. 
+ 
+8.2.3 C-Zone 
+ 
+The C-Zone is situated approximately 200 metres south of the shaft in the East-A diorites. It 
+consists of a 10 centimetre to 70 centimetre thick sulphide-filled fracture zone within a narrow 
+(two metre thick) shear zone (C-Zone Shear). This shear zone strikes 070°, dips at 090°, and 
+has a minimum strike length of 200 metres. The C-Zone Shear may represent an auxiliary 
+structure to the dominant East Zone Shear to the north. 
+ 
+A petrographic study of the C-Zone indicated that it consists of coarse aggregate vein quartz and 
+carbonate with 3-5% chlorite and accessory biotite and rutile-leucoxene. The sulphide 
+assemblage consists of up to 85% pyrite, 5% chalcopyrite, and ilmenite with trace gold and 
+electrum. 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 29 
+ 
+ 
+Previous C-Zone exploration and production was concentrated between the 375 foot and 225 foot 
+levels. A drift on the 375 foot level followed the C-Zone Shear for a length of 170 metres and 
+defined gold mineralization for a length of 145 metres. Sampling of this drift in 1988 indicated 
+that only 53.60 metres of this drift actually contains economic gold mineralization. Two sections 
+of drift yielded (34.29 g/tonne Au cut) 5.35 g/t Au over 1. 22 m for a length of 18.60 metres, 
+and 6.92 g/t Au over 1. 33 m for a length of 35.00 metres. 
+ 
+The economic gold mineralization within the C-Zone Shear probably plunges approximately 20° 
+west. This 20° plunge is common to the gold-bearing zones on the Property. 
+ 
+There has been no serious exploration up or down the presumed plunge in the C-Zone Shear. 
+One deep drill hole (number unknown) on the 675 foot level confirms the presence of the C-Zone 
+Shear and assayed 8.57 g/t Au over 0.41 m. 
+ 
+8.2.4 Pillar Zone 
+ 
+The Pillar Zone occurs within the A-diorite at a vertical depth of 205 metres, in the down plunge 
+projection of the upper A-Zones. It consists of numerous sub-zones (P Main, P1, P2, P3, and P4) 
+but these will be discussed as a whole. 
+ 
+On the 675 foot level, the Pillar Zone occurs as a series of northeast-striking, north-dipping 
+fracture zones which have been strongly altered and impregnated by quartz-tourmaline veinlets. 
+The zone occurs only in the A-diorite and is bounded to the north by the Main Porphyry. 
+Alteration consists of carbonatization, minor silicification, and tourmalization. Up to 10% pyrite 
+occurs as fine grained subhedral disseminations within the alteration envelope. 
+ 
+The Pillar Zone plunges westward at 20° and has been defined from the 675 foot level to a 
+vertical depth of 300 metres. At this point the Pillar Zone appears to pinch out. 
+ 
+Drill holes completed beyond this termination in the A-diorite did not intersect Pillar zone-type 
+mineralization but did encounter significant A-Zone mineralization. This deeper A-Zone 
+mineralization appears to occur in near vertical to slightly south dipping fracture zones. It is 
+characterized by quartz-tourmaline-carbonate veins within intensely altered diorite. Up to 5% 
+pyrite occurs as fine to medium grained disseminations. The actual style of mineralization 
+resembles the Pillar Zone (i.e. altered diorite with abundant pyrite) but its structure is different 
+(i.e. possible vertical dipping versus shallowly north dipping). Further drilling at depth in this area 
+is warranted as gold grades are slightly higher than those in the upper part of the A-diorite. 
+ 
+8.2.5 B-A Deformation Feature 
+ 
+The B-Zone shoots occur north of the Main Porphyry in the B-diorite, whereas the A and Pillar 
+zones occur south of the Main Porphyry in the A-Diorite. 
+ 
+The A, B and Pillar zones all occur within a structural unit that strikes 096° and dips south at 45° 
+to 55°. The ore zones within the structural unit plunge west at 261°/20°. 
+The Deformation Feature ranges in thickness from 8 to 25 metres and has a confirmed strike 
+length of 600 metres. It strikes and dips discordantly to the contacts. 
+ 
+The Main Porphyry is thinner where the Deformation Feature crosses it. This thinning suggests 
+that the porphyry failed by shearing to the deformation stress whereas the development of 
+stockwork-type veins in the diorites indicates a response by fracturing. This fracturing response 
+to the deformation provided an excellent location for the development of the veining and gold 
+mineralization. The lack of significant veining in the porphyry is a result of its ductile response to 
+the deformation. Folding of some of the veining represents the effect of a later regional 
+deformation. 
+ 
+ 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 30 
+ 
+ 
+Scattered drill hole intersections up and down dip along this B-A Deformation Feature or trend 
+have encountered significant gold values in the Northern Volcanics and Southern Agglomerates. 
+Further exploration of this feature may locate additional reserves. 
+ 
+A structural analysis of the Simkar Property by Hugon in 1988 suggested that other similar 
+structures to that of the B-A Deformation Feature may occur since such features are commonly 
+repeated on a regular spacing. The B-A Deformation Feature and the East Zone Shear have 
+similar attitudes and are now believed to be two major parallel structures (deformation zones) 
+crossing the Simkar Property. Where these two structures cross favourable diorite units, veining 
+with gold mineralization can be expected. The potential in other rock units (agglomerate) 
+traversed by these structures appears reasonable in view of the many "ore-grade" drill 
+intersections obtained to date. 
+ 
+8.2.6 East Zone Shear 
+ 
+The East Zone Shear is located approximately 350 metres east of the Simkar shaft. It has a 
+minimum strike length of 850 metres and has been traced to a vertical depth of at least 200 
+metres. It strikes discordantly across the East diorite at 90 0 to 100 0 with dips ranging from 55° 
+to 85° south. At a depth of approximately 200 metres it crosses into the southern sequence of 
+flows and pyroclastics. The East Zone Shear has an average thickness of six metres but shows 
+pinch and swell characteristics. Foliation is well developed and commonly undulating both along 
+strike and at depth. 
+ 
+Three gold-bearing zones have been defined: the East Zone, Lavallee Zone, and the Beauchemin 
+zone. 
+ 
+The East Zone occurs between sections 8000E and 8320E. It consists of three westerly plunging 
+(25°) ore shoots, each carrying up to three quartz-tourmaline-pyrite veins and numerous narrow 
+extensional veinlets. The veins have irregular thicknesses (from 0.15 metres to 1.50 metres) and 
+commonly show boudinage. They dip parallel to the East Zone Shear and locally show evidence 
+of a later deformation within the shear zone (brecciation and folding). Wall rock between the 
+individual veins is typically silicified, well foliated and pyritized. Up to 90% pyrite and chalcopyrite 
+occur within the veins. Galena, sphalerite, and bismuth telluride occur in trace amounts. The gold 
+mineralization typically occurs within a pyrite host as rounded inclusions or as pyrite boundary 
+fillings. Gold also occurs as interstitial fillings between quartz and carbonate. 
+ 
+The largest defined ore shoot (E4) is 250 metres long, 30 metres wide and 1.52 metres thick. 
+Two other parallel shoots have been defined. The potential for the existence of similar ore shoots 
+to the east is good. The East Zone Shear is believed to extend eastward for 750 metres to the 
+Lapaska boundary. 
+ 
+The Lavallee Zone is located in the East Zone Shear immediately west of the East Zone ore 
+shoots. Only limited exploration has been directed towards the Lavallee Zone. On the 375 level a 
+strike length of 26.60 metres of sub economic mineralization was encountered averaging 3.56 g/t 
+Au over 1.24 m (34.29 g/tonne Au cut) or 2.89 g/t Au over 1.24 m (17.14 g/tonne Au cut). The 
+Lavallee Zone on the 375 level is a steep dipping quartz-pyrite vein within a sheared quartz-
+porphyry dyke. 
+ 
+Above the level the vein disappears but the fracture set continues. No drilling has been 
+completed to evaluate the up- or down-plunge potential. 
+ 
+The Beauchemin Zone occurs approximately 500 metres west of the East Zone. The Beauchemin 
+Zone consists of two quartz-carbonate vein-alteration zones within sheared and fractured diorite. 
+The mineralization trends parallel to the weak foliation, striking 092° and dipping 73° south. Up 
+to 10% fine grained pyrite occurs within the veins and associated alteration holes. Sampling of 
+the drift and raise did not obtain economic gold values. Further exploration of this zone may be 
+warranted. 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 31 
+ 
+ 
+8.2.7 F-Zone 
+ 
+The F-Zone occurs within the East Zone Shear where the shear crosses into the agglomerates. 
+The F-Zone has been cut by three drill holes. The host rock is agglomerate, in contrast to the 
+diorites which act as host rocks for the rest of the ore bodies on the Property. 
+ 
+The fact that the East Zone Shear contains significant gold mineralization in both diorite and 
+agglomerate greatly enhances the exploration potential of this structure. The F-Zone is 
+characterized by quartz-tourmaline shear veins occurring within weakly sheared, highly fractured 
+agglomerate. Up to 3% pyrite occurs as medium to fine grained disseminations. Traces of 
+chalcopyrite have also been noted. No pyrite mineralization has been seen in the wall rock. 
+ 
+8.2.8 Montana Zone 
+ 
+The Montana Zone is characterized by mineralized surface showings near the breakthrough point 
+of ventilation raise 224-C. This surface gold showing is represented by sulphide burns in diorite 
+bordering a crosscutting feldspar porphyry dyke. The showing had been sampled by the M.E.R. 
+(Ministere Energie et Ressources) and returned the following values: 0.18, 1.53 and 0.54 oz. 
+gold per ton across 2, 3 and 3 feet. It was later re-sampled by Chris Davis (Davis, 1989), in the 
+summer of 1988 and a grab sample returned an assay of 57.50 grams / tonne gold over 1.07 
+metres (1.58 oz. gold/ton over 3.5 feet). 
+ 
+This showing had always been thought to represent surface outcropping of the C-Zone, a near 
+vertical massive sulphide lens approximately 5-8 inches in width, which had been worked from 
+underground in 1949. The fall 1989 surface diamond core drilling program however has 
+discredited this theory, proving instead that the C-Zone pinches out approximately fifty (50) 
+metres below surface. 
+It was then decided, in 1990, to investigate this small sulphide stringer through a tight grid of 
+shallow surface diamond-drill holes in order to explore the possibility of extracting the narrow 
+vein using an open cut surface mining method. 
+ 
+As drilling progressed however, two other narrow mineralized veins were intersected south of the 
+original zone, later named the Montana Zone. The other two veins, south of the Montana Zone 
+were named the Idaho and Utah Zones. 
+ 
+These narrow mineralized veins are approximately ten (10) metres apart, sub-parallel and dip 
+steeply to the south. They are characterized by their high sulphide content (mostly pyrite with 
+minor chalcopyrite), narrow widths and are almost always associated with the presence of 
+carbonate alteration. All three zones occur within a strongly magnetic, non-sheared diorite sill 
+which in turn is bordered by a feldspar porphyry dyke to the north, and intermediate tuffaceous 
+volcanics to the south. 
+ 
+The most prominent of the three zones, the Montana Zone, has been traced out for a strike 
+length of forty-five (45) metres and down to a depth of sixty (60) metres. It remains open to the 
+east and at depth. The Utah and Idaho Zones, however, remain open to the east, west and to 
+depth. 
+ 
+8.2.9  East Boundary Zone 
+ 
+Surface diamond-drilling on Sigma Mines' Lapaska property adjacent to the eastern boundary 
+located a quartz-impregnated fracture system similar to that of the B-Zone ore shoots. 
+Significant intersections from the three completed drill holes included; 10.63 g/t Au over 1.00 m, 
+18.86 g/t Au over 0.55 m, and 9.60 g/t Au over 3.05 m. 
+ 
+Two drill holes put down by Louvicourt Goldfields Corporation in this area encountered a large 
+diorite sill with some porphyry. Trace gold values were obtained from the sill. An intersection of 
+2.40 g/t Au over 1.52 m was obtained from immediately adjacent mafic agglomerate. 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 32 
+ 
+ 
+Approximately 930 metres of this favourable diorite-porphyry complex has yet to be explored on 
+the Simkar Property. 
+ 
+8.2.10  Western Boundary Zone 
+ 
+A diamond-drill program was completed by El Sol Gold Mines Limited immediately west of the 
+Simkar Property in 1947. It encountered numerous economic gold intersections. These 
+intersections occur within apparently north-south striking, west dipping quartz-tourmaline veins 
+ranging in thickness from 0.50 metres to 3 metres. These veins occur in diorite between a depth 
+of 244 metres (800 feet) and 510 metres (2000 feet). The Zone may represent the down plunge 
+continuation of the Simkar Property A-Zone mineralization. 
+ 
+The best intersections from the El Sol diamond-drilling include; 11.55 g/t Au over 2.13 m, 8.23 
+g/t Au over 2.74 m, 4.80 g/t Au over 5.49 m, 9.60 g/t Au over 1.83 m, 24.69 g/t Au over 1.52 
+m, and 16.46 g/t Au over 1.22 m. 
+ 
+On September 20, 1982, C. E. Page, Chief Geologist for Tex-Sol Explorations Ltd. (formerly El Sol 
+Gold Mines Limited) published in a memorandum an ore reserve for the Tex-Sol structures of 
+50 000 tons averaging 0.33 ounces per ton (Bubar, 1988). Three holes were put down by Ronrico 
+in 1987 to test the area up-plunge from the Tex-Sol mineralization. Only minor veining was 
+encountered as the drill holes deviated away from the projected target area. 
+ 
+8.2.11  Base-metal Mineralization 
+ 
+There are indications that the volcanogenic massive sulphide (VMS) type mineralization, similar 
+to Noranda, might be present along the northern perimeter of Simkar concession. The rhyolitic 
+volcanic horizon within the Val-d'Or Formation (part of the Malartic Group) appears to be hosting 
+volcanogenic massive sulphides. The area in question, Colombière, lies along the northern 
+perimeter of the Property and encouraging results were achieved by Megastar in 1997. Only five 
+drill holes had been completed on this target to date. Possible analogies to the geology and 
+mineralization at the Matagami VMS camp would also need to be investigated. 
+ 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 33 
+ 
+ 
+9.0 EXPLORATION 
+ 
+Monarques have not completed any work on the Property since its acquisition. A summary of the 
+historical exploration work is described in Section 6.0.  
+ 
+ 
+10.0 DRILLING 
+ 
+A diamond-drilling programme by Monarques is currently underway and on-going. No results 
+from this current drilling programme are available for, nor included in, this Report. 
+
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 34 
+ 
+ 
+11.0 SAMPLE PREPARATION, ANALYSES AND SECURITY* 
+ 
+*The following applies to the sample preparation, analyses and security protocols that 
+were established and followed by MRB & Associates, for Megastar Development Corp. 
+and Eloro Resources Ltd., during Eloro's tenure as Property operators.  
+ 
+Sample preparation was performed at ALS-Chemex, whereby upon reception, the samples were 
+dried, weighed, crushed and pulverized before analysis.  
+ 
+ALS Chemex has attained ISO 9001:2000 registration at all of its laboratories. In North America, 
+ALS are accredited to ISO 9001:2000, which requires evidence of a quality management system 
+covering all aspects of the organisation. To ensure compliance with this system regular internal 
+audits are undertaken by staff members specially trained in auditing techniques. In addition, ALS 
+Chemex is currently working towards accreditation to ISO 17025, which provides specific 
+assessment of our laboratories' analytical competence for specific analytical techniques. The 
+combination of the two ISO standards provides clients complete assurance regarding the quality 
+of every aspect of ALS Chemex operations.  
+ 
+Core from Megastar's 2007 and Eloro's 2010-2012 diamond-drill programmes were logged, and 
+sample intervals selected, by independent consulting geologists working for MRB & Associates. 
+Core intervals that required sampling were marked off and tagged. Sample intervals were a 
+minimum of 0.3 metres long and a maximum of 1.5 metres long and respected any lithological 
+contacts. Core cutting was conducted by an MRB Technician using a rock saw. Approximately half 
+of the core was bagged for assay purposes, and the remaining half placed back in the core box 
+with its duplicate sample tag for future reference purposes. The submitted sample included both 
+pieces of core and fines, carefully collected and placed in a plastic bag and sealed. After each 
+sample, the Technician cleaned the area to avoid any cross contamination between samples. 
+Individually bagged samples were placed in rice shipping bags, secured and dropped-off at ALS 
+Laboratories for analysis.  
+ 
+From 2007 to 2013, MRB logged 69 diamond-drill holes for Megastar and Eloro, and collected a 
+total of 10,140 samples, including duplicates, blanks and standards, that were submitted to ALS 
+Chemex of Val-d'Or, Quebec for gold assaying, using a standard 30 gram fire assay with an AA 
+finish. No aspect of the sample preparation was conducted by an employee, officer, director or 
+associate of Eloro or Megastar. 
+ 
+All logging and sampling work was supervised by Qualified Persons as defined by NI 43-101. The 
+Author considers that the core sampling, security of samples, sample preparation and analysis 
+programmes were conducted in a satisfactory method and meet the standards set out in NI-43-
+101. The adequacy of any reported values prior to 2007 is unknown as no discussions exists as 
+per sample preparation, security and analytical procedures.  
+ 
+The reader is referred to previous 43-101 Technical Reports (Pelletier, 2004; Bourgoin and 
+Sandefur, 2008; Kramo, 2010), available on SEDAR (http://www.sedar.com/), for details of 
+sample preparation, analysis and security from previous programmes completed on the Property. 
+ 
+The Author is not aware of any drilling, sampling or recovery factors that would impact the 
+reliability of results reported from the assayed drill core. 
+ 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 35 
+ 
+ 
+12.0  DATA VERIFICATION 
+ 
+MRB has confirmed that the assaying procedure and results listed in the diamond-drill logs are 
+conformable with standard procedures. 
+ 
+MRB collected and analysed a total of 8,352 samples during three programs drilling (2010-2012) 
+ 
+MBS's samples were collected and transported to the ALS Chemex assay laboratory of Val-d'Or 
+for analyses.  
+ 
+No bulk-density (specific gravity) tests have been performed on the Simkar mineralized zones. A 
+value of 2.70 g/cm3 (tonnes/m3), based on theoretical densities and practices in mines exploiting 
+similar mineralization in the region, was used to calculate their Inferred Resource estimate. 
+ 
+A review of all the pertinent and available Assessment files (GM's) has been completed. MRB has 
+reviewed the reports containing information on the Simkar Property and believes the information 
+to be accurate.  
+ 
+The author believes the sampling, sampling preparation, security, and analytical procedures to be 
+adequate and is not aware of any sampling problems that would impact the accuracy and 
+reliability of the assay results. The Author has not independently verified any other data included 
+in report from previous exploration programs. 
+
+12.1 Analysis of Quality Control Data from Assay results 
+ 
+The current sampling and QAQC procedures for this project were set up by MRB & Associates.  
+ 
+The QAQC routine program for the Simkar project includes the use of Certified Standard 
+Reference Materials (CSRM), blanks and duplicates. 
+ 
+QAQC procedure Routine (2010 -2013):  
+A comprehensive QAQC program was carried out since 2010 by MRB. For every 75 samples sent 
+to the laboratory, the following QAQC materials were inserted: 
+ 
+
+1. three of the six (6) utilized standards, issued from the internationally certified Rock Labs 
+laboratory, having values of 1.027, 1.760, 1.780, 5.909, 5.867 and 8.685 gpt, 
+respectively; 
+
+2. three blanks (composed of crushed decorative marble gravel) to test for analytical 
+contamination and validate detection limits; 
+
+3. three pulp-duplicate samples to help estimate the precision of the various sample 
+preparation steps. 
+
+ 
+For every 75 samples, there were nine (9) QAQC samples introduced into the sample stream that 
+was submitted to ALS. The QAQC samples were inserted at regular intervals within the sample 
+batch. A total of 291 CSRM standards, 235 blanks and 209 pulp duplicates, representing 9.18% 
+of total sample submissions from the 2010 to 2012 drilling programs, were submitted. 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 36 
+ 
+
+12.2 CSRM Standards  
+ 
+A total of 291 CSRM standards were included within all the samples sent to the laboratory. The 
+summary statistics for the standards used during the current study and the assigned grades are 
+displayed in Table 12-1. 
+
+ 
+Table 12-1: Percentage of success for each standard type. 
+
+Standard 
+Expected 
+
+value 
+(EV) 
+
+Standard 
+deviation 
+
+Number 
+of 
+
+standards 
+
+Mean 
+value 
+(from 
+ALS) 
+
+EV Range       
+(EV± 2 std 
+
+dev) 
+
+% of 
+success 
+
+SN50 8.685 1.43 84 8.247 5.825 to11.545 94.94% 
+Si42 1.760 1.22 42 1.990 -0.680 to 4.200 90.48% 
+Si54 1.780 0.26 52 1.700 1.260 to 2.300 96.15% 
+SL46 5.867 0.24 42 5.790 5.387 to 6.347 90.48% 
+SL51 5.909 1.01 34 5.634 3.889 to 7.929 97.06% 
+SG56 1.027 0.03 37 0.998 0.967 to 1.087 86.49% 
+
+  
+The data from Table 12-1 shows that 92.6% of all assayed standards passed the ±2 standard 
+deviation test. Ideally, for optimal accuracy, 95% of all the samples should pass the test. 
+Nevertheless, the bulk of standards show a reasonable accuracy even though SG56 is clearly 
+below expectations. 
+ 
+When comparing the mean values provided by ALS Chemex with the expected values, the 
+averages are very close, indicating that the data gathered since 2010 is accurate and can be 
+used to generate a mineral resources estimate. 
+
+12.3 Blanks  
+ 
+MRB has utilised one type of blank into the QAQC routine procedure to test the potential 
+contamination at different sample preparation stages. A total of 235 blanks were submitted to 
+ALS Chemex from the 2010 to 2012 drilling programs, (Figure 12-1). From these, 94.89% 
+returned results lower than twice the detection limit (0.02 gpt). Twelve samples returned assay 
+values higher than the detection limit but were not greater than 0.1 g/t. Although two samples 
+were greater than 0.02g/t with very little contamination and should not be a problem for the 
+estimated resource. 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 37 
+ 
+ 
+
+ 
+Figure 12-1: Summary of Blank assay values from the 2010 to 2012 drilling programs. 
+
+The red circle indicates the 2 values over the detection limit. 
+ 
+
+12.4 Coarse-pulp duplicates: 
+ 
+In all, 209 pulp samples were re-assayed by ALS Chemex. The mean of the re-assays is 0.20 
+gpt, whereas the mean of the original assays was 0.19 gpt - yielding a 96% coefficient of 
+correlation. The result demonstrates the ability of the laboratory to replicate the global average 
+despite some discrepancies for the individual assays. A scatter plot (Figure 12-2) shows the 
+correlation between the first and second analyses.  
+ 
+
+ 
+Figure 12-2: Correlation of original and duplicate assay results.
+
+0.02 Au gpt 
+2 * 0.01 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 38 
+ 
+
+12.5 SUMMARY OF QAQC ANALYSES  
+ 
+Based on the data provided by the employed QAQC procedures, the Simkar Project shows 
+acceptable results, notwithstanding minor discrepancies with a few individual pulp assays, which 
+is typical for nugget-type gold deposits, especially where visible gold is present. 
+ 
+Going forward, it is the Author's opinion that a rigorous industry standard QAQC procedure 
+should be implemented during the insertion of control samples into the stream of core samples 
+for the Simkar Project. The Author also strongly recommends that the assays of blank, standard 
+and duplicate samples be monitored by means of control charts rather than manually, and he 
+further recommends that a fixed percentage of samples should be sent to a secondary 
+laboratory, during future drilling programs, in order to confirm the results, as no details have 
+been supplied from any external laboratory checks since 2010.  
+ 
+The statistics of the CSRM are within the industry standard threshold limits and are considered 
+accurate. The level of contamination appears very low as the blank samples do not display any 
+evidence of significant contamination. The coarse-pulp duplicates show a slight negative bias for 
+some standards when compared to the expected value of these standards. The Author is of the 
+opinion that the employed QAQC program was sufficient to support the mineral resources 
+reported herein. 
+ 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 39 
+ 
+ 
+13.0 MINERAL PROCESSING AND METALLURGICAL TESTING  
+ 
+Neither Monarques nor Eloro have undertaken any metallurgical investigations of the Simkar 
+Project gold mineralization.  
+ 
+Historic mineral processing, metallurgical and recovery studies and results were reported by 
+Pelletier (2004), as reproduced below with minor edits. 
+ 
+
+Historical data reports, at the end of the mining in July 1949 after processing a total of 
+261,591 tonnes of mill-feed and production of 31,915 ounces of gold, an equivalent to 
+0.123 oz/t of gold grade recovered. The records indicate that the average head grade was 
+0.135 oz/t gold for that period which translates to the hydro-metallurgical recovery rates 
+of 90%. 
+ 
+During the month of June 1989, a total of 9,759 tons of Simkar mineralization was 
+processed at Aurizon Mines Ltd. Beacon mill facility. This tonnage included 7,096 tons of 
+development muck from 375 and 525 East zone drift, all the East Zone raises (i.e., 822, 
+825, 830) and limited muck from the shaft spill pocket, and 2,663 tons of muck from the 
+375 and 525 East Zone sub-drifts. These sub-drifts were kept to a mining width of 1.22 to 
+1.52 metres. 
+ 
+The Beacon mill is a conventional cyanidation mill with a daily capacity of 750 tons per 
+day. The Simkar mineralization was batch-processed at a maximum daily rate of 550 tons 
+per day. Only muck from Simkar was processed at the mill during the Simkar bulk test. 
+According to Baker (1990), "the bulk sample test indicated that the East Zone 
+mineralization is amenable to a straight cyanidation process and the grade can be 
+successfully estimated utilizing the muck and chip sample programs initiated during the 
+1989 program. The grade estimated in the ore reserve calculation for the East Zone 
+compares favourably with the mill results for the sub-drift muck pile". However, Baker did 
+not mentioned in this report the mile head grade, the final calculated mill grade nor the 
+recovery. 
+ 
+In April 1991, 6,000 tonnes of material grading 0.29 oz/t was shipped to the Ferderber 
+processing facility for treatment. Exploration and mining tests ceased in March 1992. No 
+details on the milled grade and on the recovery were found in the reports. 
+
+ 
+No milling or metallurgical testing has been done on the Simkar Property for base metals. 
+ 
+ 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 40 
+ 
+ 
+14.0 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES  
+
+14.1 Data  
+Eloro resources began exploration on the Simkar Project deposit in 2009. In total, Eloro drilled 
+23,779 m in 54 holes and collected 8,352 samples for assay (Table 14-1).  
+
+14.2 Modelling  
+ 
+All modelling done for this resource estimate was performed by MRB based on the drill-hole 
+database supplied to MRB by Eloro. The modelling of the mineralized zones, topographic and 
+overburden surfaces was carried out using GEMS 6.5 software. 
+
+14.2.2 Mineralization modelling  
+ 
+Based on a cut-off of 3 g Au/t, five individual zones (A, B, C, D and South) were modelled. As the 
+mineralized zones are often closely associated, spatially, with so-called porphyry dykes, the local 
+geology was also used to delineate the mineralized zones. The porphyry dykes cross-cut (i.e., are 
+younger than) the gabbro–diorite intrusions. Mineralization is associated with two of the porphyry 
+dykes. Figure 14-1 shows the location of the mineralized zones (isometric and view), whereas 
+Figure 14-2 and Figure 14-3 are cross-sections (looking East) of the deposit. 
+
+14.2.3 Surface topography and overburden  
+ 
+MRB & Associates constructed a 3-D wireframe model of the surface topography based upon 
+topographic pick-up of the drill-hole collars of the Simkar project. The wireframe model is in 
+reasonable agreement with the drill-hole collars and provides a good representation of the 
+predominantly flat, low-lying terrain in the immediate vicinity of the Project. Although not strictly 
+accurate, the depth of overburden was taken as the length of the casing used for the hole; 
+however, the difference between the length of hole-casing and the true depth of overburden is 
+not considered material for this study. The bedrock and topographic surfaces should nonetheless 
+be refined with additional data for more detailed modelling.  
+
+14.3 Underground development and stopes  
+ 
+The digital modelling of the underground stopes for the Simkar project, was completed using an 
+extrusion technique, for intersecting solids. The cartographic figures of the underground raises 
+were not available, instead the opening design combined with the opening of longitudinal design 
+were used to reconstruct a three dimensional volume of each stope. This method provided the 
+best representative approximation of the volume of the stopes. 
+ 
+A shortcoming of this method is that the inclinations of the stopes are not well represented. 
+Subsequent to the modelling of the mineralized zones, some of the modelled stopes were 
+modified to reflect their chronicled inclination.  
+ 
+Representations of the underground galleries were generated by digitizing the contour map and 
+extruding a constant height of 2.5 metres. The elevation of the drifts was deduced from section 
+and longitudinal maps. The main drive levels were modelled along with the underground stopes. 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 41 
+ 
+ 
+                                   Table 14-1 Eloro Diamond-Drilling at Simkar project 
+
+Campaign Number of Holes Cumulative Length (m) Number of samples 
+
+2010          (Eloro) 23 8,385 2,552 
+2011 (I)         " 14 6,710 1,733 
+2011 (II)        " 5 3,881 1,886 
+2012              "    12 4,803 2,181 
+
+Totals= 54 23,779 8,352 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 42 
+ 
+
+ 
+Figure 14-1: Isometric view (looking north) showing the interpreted mineralized zones  
+
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 43 
+ 
+
+ 
+ 
+
+Figure 14-2: Section 9075E (looking East) 
+ 
+ 
+ 
+
+Assays (gpt Au)
+1 - 3
+3 - 5
+> 5
+
+Block Model 
+Grades (gpt Au)
+
+0.1 - 1
+
+1 - 3
+
+3 - 5
+
+> 5
+
+A - Zone
+
+B - Zone
+
+C - Zone
+
+D - Zone
+
+South Zone
+
+Mineralized Zones
+
+Underground Infrastructures
+Stope
+
+Drift
+
+Lithology
+
+Sediment
+Tuff
+
+Felsic Volcanic
+
+Mafic Volcanic
+Intermediate Volcanic
+
+Overburden
+Agglomerate
+
+Felsic Intrusion
+Intermediate Intrusion
+
+Mafic Intrusion
+Quartz Vein
+
+
+
+ 2013 Technical Report - Simkar Gold Property 44 
+ 
+
+ 
+Figure 14-3: Section 8925E (looking East) 
+
+ 
+ 
+ 
+
+Assays (gpt Au)
+1 - 3
+3 - 5
+> 5
+
+Block Model 
+Grades (gpt Au)
+
+0.1 - 1
+
+1 - 3
+
+3 - 5
+
+> 5
+
+A - Zone
+
+B - Zone
+
+C - Zone
+
+D - Zone
+
+South Zone
+
+Mineralized Zones
+
+Underground Infrastructures
+Stope
+
+Drift
+
+Lithology
+
+Sediment
+Tuff
+
+Felsic Volcanic
+
+Mafic Volcanic
+Intermediate Volcanic
+
+Overburden
+Agglomerate
+
+Felsic Intrusion
+Intermediate Intrusion
+
+Mafic Intrusion
+Quartz Vein
+
+
+
+ 2013 Technical Report - Simkar Gold Property 45 
+ 
+
+ 
+Figure 14-4: Isometric view of the underground void model used for Simkar Project Resource estimate 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 46 
+ 
+
+14.4 Statistical Analysis  
+
+14.4.1 General Statistics and Grade Capping 
+ 
+As a standard industry practice, designed to reduce the influence of statistically anomalous 
+sample data on resource estimations, higher-grade assay values are typically capped, prior to 
+compositing, at levels determined by various means, including examination of probability 
+distribution data.  
+ 
+For the Simkar Project, log-normal probability curves were produced for all gold assays 
+located within each mineralized zone in order to examine the distributions of the data. Both 
+drill data and underground sampling data exhibit strong positive skews with exceptionally long 
+tails and maximum assay values well beyond the standard deviations. 
+ 
+Sample assays were capped at values that coincided with inflection points on the high end of 
+the probability curves. Setting maximum assay values reduced the average Au assay grades 
+for compositing. Appendix I, includes a summary, by zone, of capping levels and assay 
+statistics. 
+
+14.4.2 Compositing  
+ 
+Prior to the undertaking of a statistical analysis, the samples were composited into equal 
+lengths to yield constant-volume samples. 
+ 
+MRB analyzed the mean-length of the drill-hole samples in order to determine appropriate 
+composite lengths, the results of the study for vein samples indicated that 0.8 m composite 
+length was optimal. 
+ 
+In summary, MRB has used 0.8 m composites within the gold mineralisation model for all 
+subsequent statistical, geostatistical and grade interpolation 
+
+14.6 Variography  
+ 
+Variography was completed for the gold samples contained within each mineralized zone. The 
+variogram for each mineralized zone was plotted and an autofit routine was run to determine 
+an approximate curve fit. The results of the variography in the unfolded X-Y plane (Table 14-
+2), were used to determine the search parameters for grade estimation.  
+ 
+Grade variography was generated and modelled in preparation for the estimation of gold 
+grades. The variography was completed based directly on the 1.0 m down-hole composite 
+data. A standard approach was used to generate and model the variography for each of the 
+domains:  
+
+1. Examination of the orientations and dips of the solids representing the domains to be 
+studied to help in the determination of the axes of better continuity; 
+
+2. Generate and model the down-hole direction variogram, which allows the determination 
+of the nugget effect (closed spaced variability); 
+
+3. Calculate and model the major-, semi-major and minor-axes of continuity.  
+ 
+Figure 14-5 shows an example of the orientation of a search ellipse (in Zone C) based on the 
+variography study. It is noteworthy that the rake established by the search ellipse corresponds 
+to the rake of mineralization. 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 47 
+ 
+
+Table 14-2: Summary of Variography 
+
+Zones Nugget Structure Azimuth Dip 
+
+A 0.3 X:25 Y:10 Z:25 Sill: 1 112 0 
+
+B 0.43 X:20 Y:10 Z:15 Sill: 1 95 0 
+
+C 0.4 X:44 Y:44 Z:13 Sill: 1 101 0 
+
+South 0.5 X:35 Y:30 Z:20 Sill:1 90 0 
+
+D 
+0.5? 
+
+(there are not 
+enough analyses) 
+
+X:50 Y:50 Z:50 Sill: 1 212 0 
+
+ 
+ 
+
+ 
+ 
+
+Figure 14-5: Zone C search ellipse orientation based on variography 
+ 
+
+ 
+ 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 48 
+ 
+
+14.7 Block Modelling 
+  
+A block model was constructed using the GEMS (version 6.5) database. Block model 
+parameters are summarized in Table 14-3. The block dimension (10 m X 1 m X 10 m) is 
+based on the existing drilling pattern (25 m X 25 m) and the former-mine planning 
+considerations.  
+ 
+
+Table 14-3: Simkar Block model parameters 
+
+ East North Elevation 
+
+Coordinates (UTM NAD 83 Zone 19) 308500 5326200 5050 
+
+Block size 10 1 10 
+
+Number of Block 110 550 60 
+
+Rotation 0 0 0 
+
+ 
+The domain coding (rock-type model) was based on the various wireframe constraints. Table 
+14-4 presents the domain coding of the various wireframes, solids and surfaces used in the 
+block model. 
+ 
+
+Table 14-4: Domain Coding of Wireframes, Solids and Surfaces in the Block Model. 
+Type Solid /Surface name Description Block model Code 
+
+Surfaces Topo-surface 
+Topo-Surface 
+Base of the 
+overburden 
+
+0 
+1 
+
+Grade envelope 
+
+A zone 
+B Zone 
+C Zone 
+D zone 
+
+South zone 
+
+Mineralized zone 
+Mineralized zone 
+Mineralized zone 
+Mineralized zone 
+Mineralized zone 
+
+400 
+500 
+100 
+300 
+200 
+
+Stopes   110 
+ 
+Within the block model, a series of models were incorporated for recording the different 
+attributes assigned and calculated in the block model development, the attributes of the block 
+model project are listed in Table 14-5. 
+ 
+
+Table 14-5: Attributes of the Block Model Project 
+Model Name Description 
+
+Rock type Sub-domain coding 
+Density Specific gravity 
+% solid % of the block 
+Au_OK Ordinary kriging Au(cut) 
+
+ 
+
+14.8 Grade Estimation Methodology  
+ 
+For the Simkar Project, an ordinary Kriging algorithm was used for the primary estimate within 
+anisotropic elliptical search ranges (where appropriate) and using suitable parameters. The 
+search distances used for the estimates are based upon an expansion factor of the semi-
+
+
+
+ 2013 Technical Report - Simkar Gold Property 49 
+ 
+
+variogram ranges. Individual searches have been specified for each data field, GEMS 6.5 
+software was used for the estimates. The grade estimates were generated using 0.8 m core-
+length composites. The blocks that are included in one particular zone are estimated only with 
+the composites coded within that zone. The estimated ordinary Kriging ("OK") have been done 
+using the sample search parameters shown in Table 14-6. 
+  
+
+Table 14-6: Sample Search Parameters 
+
+Interpolation 
+profile 
+
+Rock 
+code Pass Method  Azimuth dip 
+
+Sample Search Sample 
+
+X Y Z Min Max 
+Max 
+per 
+hole 
+
+A_OK39_1 400 1 OK 112 0 25 10 25 11 35 5 
+
+A_OK39_2 400 2 OK 112 0 45 20 55 6 35 5 
+
+A_OK39_3 400 3 OK 112 0 75 25 60 1 35 5 
+
+B_OK30_1 500 1 OK 095 0 20 10 15 7 35 3 
+
+B_OK30_2 500 2 OK 095 0 35 20 40 4 35 3 
+
+B_OK30_3 500 3 OK 095 0 75 40 60 1 35 3 
+
+CO_OK77_1 100 1 OK 101 0 20 10 15 6 25 3 
+
+CO_OK77_2 100 2 OK 101 0 35 15 25 4 25 3 
+
+CO_OK77_3 100 3 OK 101 0 60 30 25 1 25 3 
+
+CE_OK77_1 100 1 OK 101 0 20 10 15 6 25 3 
+
+CE_OK77_2 100 2 OK 101 0 35 15 25 4 25 3 
+
+CE_OK77_3 100 3 OK 101 0 60 30 25 1 25 3 
+
+SE_OK92_1 200 1 OK 090 0 35 30 20 7 25 3 
+
+SE_OK92_2 200 2 OK 090 0 64 50 35 1 25 3 
+
+SW_OK92_1 200 1 OK 090 0 35 30 25 7 25 3 
+
+SW_OK92_2 200 2 OK 090 0 64 50 35 1 25 3 
+
+DW_OK15_1 300 1 OK-ID2 212 0 50 50 50 1 75 3 
+
+DE_OK15_1 300 1 
+OK-
+ID2 212 0 50 50 50 1 75 3 
+
+ 
+First pass: minimum of 6 and maximum of 35 composites collected within a search ellipse that 
+corresponds to the range of the first structure identified by variographic studies (generally 
+<30 m for the major axis). A maximum of two composites per drill-hole were used for any 
+single block estimate.  
+ 
+Second pass: minimum of 3 and maximum of 35 composites within a search ellipse large 
+enough to estimate all blocks within the mineralized zones. Notably, the D Zone composite 
+minimum is 1, whereas the composite maximum is 75. 
+ 
+ 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 50 
+ 
+
+14.9 Grade Estimate Validation  
+ 
+Validation of the interpolation techniques and resulting block model included, but were 
+not limited to, the following: 
+
+• Point validation using kriging and inverse distance cubed; 
+• Visual inspection of the block grades in comparison to surrounding data values; 
+• Comparison of block and sample means. 
+
+14.9.1 Composites vs interpolated block  
+ 
+Block grade estimates for the remaining resources were compared with sample composite 
+grades. Table 14-7 presents the average grade of the cut 0.8 m composites and of the blocks 
+interpolated for each individual zone of the deposit.  
+
+ 
+Table 14-7: Comparison Between Composites and Interpolated (OK-Model) Blocks 
+
+ 
+ 
+A slight difference was observed between the Mean-Grade-Composites and Mean-Grade-OK-
+Model values for the A Zone, B Zone and C Zone, but not for the South Zone or D Zone. These 
+values should normally be equal for all zones. In the case of the A Zone, B Zone and C Zone, 
+the average Composite values are higher than the average OK-Model values because the 
+volume occupied by the stopes were not included in the OK-Model calculations. 
+
+14.9.2 Classification  
+ 
+MRB has considered sampling density and distance from samples in order to classify the 
+mineral resource according to the terminology, definitions and guidelines given in the 
+Canadian Institute of Mining, Metallurgy and Petroleum (CIM) Standards on Mineral Resources 
+and Mineral Reserves, as required by NI 43-101. 
+ 
+Data quality, drill-hole spacing and the interpreted continuity of grades controlled by the veins 
+and mineralized-shoots have allowed MRB to classify parts of the veins in the Measured, 
+Indicated and Inferred Mineral Resource categories respectively.  
+ 
+It is becoming increasingly common practice to apply some basic economic considerations to 
+determine which part of the Mineral Resource has reasonable prospects for economic 
+
+Zone Volume (m³) 
+
+Mean grade Mean grade Difference 
+
+Composite 
+(g/t) OK-Model (g/t) OK/Comp 
+
+A 295801 0.98 0.72 -17% 
+
+B 297416 1.72 0.81 -30% 
+
+C 298444 2.00 1.60 -20% 
+
+South 297354 1.62 1.66 1% 
+
+D 295822 0.82 0.93 12% 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 51 
+ 
+
+extraction by underground mining methods. To define the economic part of the Mineral 
+Resource at Simkar, MRB has assumed a grade of 3.0 g/t to be required over a minimum 
+mining width of 1.6 m. These parameters pared areas of lower grade material within thinner 
+parts of the vein-systems from the resulting estimate. A comparison of the resulting areas 
+where resources can be defined, to the historic mined areas, shows a strong correlation. 
+
+14.10 Resource Estimate  
+ 
+Table 14-8 presents the resource estimate at 2.0 gpt, 3.0 gpt and 4.0 gpt cut-offs for the 
+different mineralized zones using the ordinary Kriging model. 
+ 
+
+Table 14-8 Simkar Project Resources** at Various Cut-off Grades 
+
+Cut off: grams 
+
+per tonne (gpt)
+
+Tonnes 
+
+(x1000)
+
+Grade 
+
+(gpt)
+Ounces
+
+Tonnes 
+
+(x1000)
+
+Grade 
+
+(gpt)
+Ounces
+
+Tonnes 
+
+(x1000)
+
+Grade 
+
+(gpt)
+Ounces
+
+Tonnes 
+
+(x1000)
+
+Grade 
+
+(gpt)
+Ounces
+
+2.0 34.10 4.84 5,125 214.53 3.82 23,909 248.62 4.36 29,034 550.87 3.73 74,473
+
+*3.0 19.04 6.08 3,950 91.10 4.99 14,314 110.14 5.54 18,265 321.21 4.76 57,325
+
+4.0 14.37 6.73 3,420 50.93 5.86 9,866 65.30 6.30 13,286 183.48 6.50 42,430
+
+Measured Indicated Measured + Indicated Inferred
+
+* a cut‐off grade of 3 g/t was used for this project  
+**Cautionary note: Due to the uncertainty that may be attached to Inferred Mineral 
+Resources, it cannot be assumed that all or any part of an Inferred Mineral Resource will be 
+upgraded to an Indicated or Measured Mineral Resource as a result of continued exploration. 
+The estimate of mineral resources may be materially affected by environmental, permitting, 
+legal, title, taxation, socio-political, marketing, or other relevant issues. Also, mineral 
+resources that are not mineral reserves do not have demonstrated economic viability. There 
+are no mineral reserves presently identified for the Simkar deposit.  
+ 
+ 
+15.0 ADJACENT PROPERTIES 
+ 
+The mineral Resources reported herein are contained entirely within the Simkar Property. 
+ 
+Geological information from other mines and prospects in the adjacent parts of the Abitibi Belt 
+have been used to aid in formulation of geological ideas and target concepts. 
+ 
+ 
+16.0 OTHER RELEVANT DATA AND INFORMATION 
+ 
+The authors are not aware of any additional information, the exclusion of which would tend to 
+make this report misleading. 
+ 
+ 
+17.0 INTERPRETATION AND CONCLUSIONS 
+ 
+Recent work on the Simkar Project has confirmed that the formerly explored and exploited 
+gold bearing structures on these properties continue to show potential for hosting additional 
+mineralization, and merit additional exploration work.  
+ 
+The resources were estimated using ordinary kriging and a parallel estimate was conducted 
+using the inverse distance squared method as a check. The majority of the resource has been 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 52 
+ 
+
+classified as Inferred; more drilling information is judged necessary to identify Indicated and 
+Measured resources. 
+ 
+The block size dimension (10 m X 1 m X 10 m) was based on the existing drilling pattern and 
+mine planning considerations.  
+ 
+Although there are some discrepancies for the individual pulp re-assays, the QAQC program 
+employed for the Simkar Project was more than adequate.  
+ 
+ 
+18.0 RECOMMENDATIONS 
+ 
+Based on his review of the Simkar Project, the author makes the following recommendations:  
+
+ Phase I - additional diamond-drilling should be carried out with a concurrent, thorough 
+sampling protocol, to expand the estimated Mineral Resources and provide core 
+material for initial metallurgical testing, which will help to determine the characteristics 
+of the mineralized zones;  
+
+ Phase II - Additional diamond-drilling to further increase the resource volume and to 
+upgrade Inferred Resources to the Indicated category. Supplementary metallurgical 
+testing and bulk sampling to determine  potential processing and recovery scenarios. 
+
+ 
+A diamond-drilling campaign that will qualify as part of the Phase I recommended programme 
+is currently underway on the Project, pursuant to the active Joint Venture agreement between 
+Monarques and Eloro. The current campaign, which is expected to be completed by mid-
+December 2013, is budgeted at $750,000, of which approximately $600,000 has been 
+expended.  
+ 
+The recommended Phase II exploration programme is contingent on favourable results from 
+the Phase I programme. Table 18-1 shows a budget for the recommended Phase I and Phase 
+II programs. 
+ 
+
+Table 18-2: Budget for Recommended Work Programs  
+Phase Nature Of Work Amount 
+
+Phase I 
+
+Diamond-drilling to expand the estimated Mineral 
+Resources and provide core material for initial 
+metallurgical testing to determine the characteristics of 
+the mineralized zones. 
+
+$1,950,000* 
+
+Phase II 
+
+Additional diamond-drilling to further increase the 
+resource volume and to upgrade Inferred Resources to 
+the Indicated category. Further metallurgical testing 
+and bulk sampling to determine potential processing 
+and recovery methods.  
+
+$3,000,000 
+
+Subtotal $4,950,000 
+
+Total (subtotal + 15%) $5,692,500 
+*$750,000 of this amount comprises the budgeted expenses for the current drilling campaign, 
+of which approximately $600,000 has been expended as of the date of this Report.  
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 53 
+ 
+
+19.0 REFERENCES 
+ 
+Baker, N.W., 1989, Simkar Property interim report covering the evaluation program from 
+February 1989 to October 1989, Louvicourt Township, Quebec: Baker Geological Services Ltd, 
+October 1989.  
+ 
+Baker, N.W., 1990, The Simkar Gold Mine: a technical and economic study. Louvicourt 
+Township, Québec. 
+ 
+Baldys, C., 2003, Geological report (NI 43-101F1) on 1997 diamond-drilling program on 
+Simkar Property. NI 43-101 Technical report.  
+ 
+Bourgoin, M., 1990, Louvicourt Gold Mines property, winter 1990 diamond-drilling report 
+GM49481. Louvicourt Gold Mines Inc. Ronrico Exploration Ltd.  
+ 
+Bourgoin, M., 2007, 2007 Assessment work report, Simkar Property, Val-d'Or QC: : prepared 
+for Megastar Development Corp., dated 30 November, 2007. 127 pages in pdf format. Date, 
+J., Wanatabe, Y., Saeki, Y., 1983, Zonal alteration around the Fukasawa Kuroko Deposits, 
+Akita Prefecture, Northern Japan. Economic Geology, Monograph 5, pp.365- 386.  
+ 
+Bourgoin, M. and Sandefur, R. 2008, Technical report (NI 43-101) Simkar Property Val-d'Or, 
+Quebec. Prepared for Megastar Development Corporation by Chlumsky, Armbrust & Meyer 
+(CAM), LLC, 128 Pages. Available on SEDAR (http://www.sedar.com/ ). 
+ 
+Davis, C.R., 1989, The Simkar Property: A description and evaluation. Mega Mining 
+Management Ltd. Agent for Louvicourt Gold Mines Inc. and Ronrico Explorations Ltd.  
+ 
+Graham, R.B., Ingham, W.G., Robinson, W.G., Weber, W., 1953, Mining properties and 
+development in Abitibi-East, Abitibi-West and Rouyn Noranda Counties during 1950 and 1951. 
+Ministère des Mines du Québec, R.P. no. 283  
+ 
+Karvinen, W.O., 1985, Geology of the Lamaque Mine Property Val-d'Or, Québec. Projet IREM 
+P-83-21, 7e rapport. Ph.D., January 28. 35 p.  
+ 
+Lavoie, C., 1997, Induced polarization survey, Simkar Project, Anglaumaque Exploration Inc., 
+Megastar Ventures Ltd.  
+ 
+Pelletier, C, 2004, Technical Report (NI 43-101 F1) on the 2004 drilling program, Simkar 
+Property, Val-d'Or, Quebec: prepared for Megastar Development Corp., dated 6 December, 
+2004. 113 pages in pdf format. 
+ 
+Proulx, M. 2008 – Stripping and Channel Sampling Report, Simkar Property Louvicourt 
+Township 32C04. Presented to Megastar Development Corporation. 17 Pages. 
+ 
+Ross, S.H., 1941, Mining properties and development work in Abitibi and Temiscaming 
+counties during year 1940. Bureau of Mines of Québec, R.P. 161, pp. 23-24.  
+ 
+Sauvé, P., 1985, Géologie de la mine d'or Louvicourt Goldfield – Région de Val-d'Or. Ministère 
+de l'Énergie et des Ressources, MB 85-43.  
+
+
+
+
+
+ 
+
+Appendix I 
+Summary of capping levels and assay statistics by mineralized zone. 
+
+ 
+
+
+
+ 
+
+A Zone:  
+
+ 
+ 
+ 
+ 
+
+ 
+B Zone: 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 57 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 58 
+ 
+
+C Zone: 
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 59 
+ 
+
+South Zone:  
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+ 2013 Technical Report - Simkar Gold Property 60 
+ 
+
+D Zone: 
+
+ 
+ 
+
+ 
+ 
+
+
+'

@@ -1,0 +1,3508 @@
+b"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - 2010 LA NORIA TECHNICAL REPORT p 1-25
+
+
+ 
+ 
+
+ 
+ 
+
+2010 TECHNICAL REPORT 
+ON THE 
+
+LA NORIA MINERAL PROJECT,  
+SINALOA, 
+MEXICO 
+
+ 
+ 
+ 
+ 
+ 
+
+Prepared For: 
+ 
+
+Evrim Metals Corporation 
+Suite 600, 850 West Pender Street 
+
+Vancouver, BC, Canada 
+V6C 2V6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Prepared By: 
+ 
+
+Allan T. Montgomery, M.Sc., P.Geo. 
+361 Brimley Court, Kingston, Ontario 
+
+Canada, K7M 7B3 
+ 
+ 
+ 
+
+October 1, 2010 
+
+
+
+2 
+ 
+
+TABLE OF CONTENTS 
+
+TABLE OF CONTENTS ...................................................................................................................................... 2 
+LIST OF APPENDICES ....................................................................................................................................... 3 
+LIST OF TABLES ................................................................................................................................................ 3 
+LIST OF FIGURES .............................................................................................................................................. 3 
+1.0 SUMMARY ............................................................................................................................................... 4 
+2.0 INTRODUCTION ...................................................................................................................................... 7 
+3.0 RELIANCE ON OTHER EXPERTS ......................................................................................................... 8 
+4.0 PROPERTY DESCRIPTION AND LOCATION ...................................................................................... 9 
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE, PHYSIOGRAPHY ...  13 
+6.0 HISTORY ................................................................................................................................................. 14 
+7.0 GEOLOGICAL SETTING ....................................................................................................................... 17 
+
+7.1 Regional Geology.............................................................................................................  17 
+7.2 Propert y Geology.............................................................................................................   20 
+
+8.0 DEPOSIT TYPES .................................................................................................................................... 23 
+9.0 MINERALIZ ATION ................................................................................................................................ 23 
+
+9.1 Los Laureles..................................................................................................................... 25 
+9.2 El Tiro.............................................................................................................................. 29 
+9.3 El Zapote.......................................................................................................................... 30 
+9.4 El Naranjos....................................................................................................................... 31 
+9.5 El Cobrozo....................................................................................................................... 32 
+
+10.0 EXPLORATION ...................................................................................................................................... 32 
+10.1 2004/2005 Exploration Work by Kennecott.................................................................... 32 
+10.2 2006 - 2008 Exploration Work by Kiska (Geoinformatics)............................................ 33 
+
+  10.2. 1 Soil geochemistry............................................................ 36 
+  10.2. 2  Rock geochemistry.......................................................... 41 
+  10.2. 3 Geological mapping......................................................... 44  
+  10.2. 4 Geophysics....................................................................... 44 
+  10.2. 5  Summary of exploration work completed by Kiska  
+
+(Geoinformatics).............................................................. 45 
+11.0 DRILLING ............................................................................................................................................... 45 
+12.0 SAMPLING METHOD AND APPROACH ............................................................................................ 48 
+
+12.1 Historic Sampling............................................................................................................. 48 
+12.2 Sam pling by Kennecott.................................................................................................... 48 
+12.3 Sampling by Kiska (Geoinformatics)............................................................................... 49 
+
+13.0 SAMPLE PREPARATION, ANALYSES AND SECURITY ................................................................. 51 
+14.0 DATA VERIFICATION .......................................................................................................................... 54 
+15.0 ADJACENT PROPERTIES ..................................................................................................................... 55 
+16.0 MINERAL PROCESSING AND METALLURGICAL TESTING ........................................................ 56 
+17.0 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES .................................................... 57 
+18.0 OTHER RELEVANT DATA AND INFORMATION ............................................................................ 57 
+19.0 INTERPRETATION AND CONCLUSIONS .......................................................................................... 57 
+20.0 RECOMME NDATIONS ......................................................................................................................... 60 
+
+20.1 Program ............................................................................................................................ 60 
+20.2 Budget...... ........................................................................................................................ 61 
+
+ 
+
+
+
+3 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+21.0 REFERENCES ........................................................................................................................................... 63 
+22.0 DATE AND SIGNATURE PAGE ............................................................................................................. 65 
+ 
+
+LIST OF APPENDICES 
+
+Appendix A: 2007 IP/Resistivity Geophysics Sections 
+Appendix B: 2008 QA/QC data (Geoinformatics) 
+ 
+
+LIST OF TABLES 
+
+Table 1: List of exploration concessions, La Noria property .............................................................................. 11 
+Table 2: List of composite assays from 2007 – 2008 drilling, La Noria project ................................................ 25 
+Table 3: List of 2007-2008 drill holes ................................................................................................................ 46 
+ 
+
+LIST OF FIGURES 
+
+Figure 1. Property location. ................................................................................................................................ 10 
+Figure 2. Claim Map. .......................................................................................................................................... 10 
+Figure 3.Reg ional m etallogeny of western Mexico and contig uous USA showing the dis tribution of  
+
+Laramide porphyry and related deposits (Staude and Barton, 2001).. ....................................................... 17 
+Figure 4. Distribution of porphyry and other deposits in western United States of Am erica (Hildenbrand 
+
+et al., 2000). ................................................................................................................................................ 19 
+Figure 5. Regional Geology ................................................................................................................................ 21 
+Figure 6. Mineralization and rock types, Los Laureles prospect. ....................................................................... 27 
+Figure 7. Interpretive geological cross-section, Los Laureles prospect. ............................................................. 28 
+Figure 8. Mineralization and rock types, El Tiro, El Zapote and El Naranjo prospects . ................................... 30 
+Figure 9. Airborne geophysical plan map, La Noria property. ........................................................................... 33 
+Figure 10. Plan map of 2004-2005 Kennecott rock, soil and stream sediment samples (Mo, Cu). .................... 34 
+Figure 11. 2006-2008 roc k and soil sam ple, drill hole a nd IP line location map, La Noria and El Tiro 
+
+concessions. ................................................................................................................................................ 35 
+Figure 12. Correlations coefficients for 2006-2008 soil sample analytical results, La Noria project. ................ 37 
+Figure 13. Los Laureles 2006-2008 copper (A) and molybdenum (B) rock and soil geochemistry ................... 38 
+Figure 14. El Tiro 2006-2008 copper (A) and molybdenum (B) rock and soil geochemistry ............................ 39 
+Figure 15. El Zapote 2006-2008 lead-zinc (A) and molybdenum (B) rock and soil geochemistry .................... 40 
+Figure 16. El Naranjo 2006-2008 copper (A) and molybdenum (B) rock and soil geochemistry ...................... 42 
+Figure 17. Photo of drill collar monument, DDEN-07-03, -04. .......................................................................... 46 
+ 
+ 
+ 
+  
+
+
+
+4 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+1.0  SUMMARY 
+
+ 
+
+Evrim Metals Corporation ("Evrim"), a Vancouver, British Columbia-based 
+
+natural resources company, has entered into an agreement with Kiska Metals 
+
+Corporation ("Kiska") (TSX.V: KSK) to acquire the rights to Kiska's La Noria 
+
+exploration project, located in a metallogenically important region of Mexico. The 
+
+La Noria project includes two contiguous mineral concessions totalling 18,453 
+
+hectares. Kennecott Exploration Company ("Kennecott") through its Mexican 
+
+subsidiary holds a 2% net smelter return royalty on the property. The property 
+
+surrounds but does not include the Azulitas NI43-101 compliant resource of 5.6 Mt 
+
+@ 0.9% Cu equivalent (Ghayem et al., 2008).  
+
+La Noria is located in central Sinaloa State, situated within the foothills of the 
+
+Sierra Madre Occidental Mountains at elevations of between 160 and 250 m a.s.l. 
+
+The project area is located along the western flank of a NNW-trending, Laramide-
+
+age, Cretaceous – Paleocene granitic batholithic zone, which extends through 
+
+Sinaloa and Sonora states, and which hosts major porphyry copper deposits along 
+
+its eastern flanks (e.g., Cananea and La Caridad). The claims are underlain 
+
+predominantly by equigranular intrusive rocks mapped regionally as 
+
+undifferentiated Late Cretaceous granodiorite. Small, medium- to coarse-grained 
+
+and locally porphyritic quartz monzonite intrusive bodies are spatially associated 
+
+with areas of Cu-Mo-Ag mineralization on the La Noria property.   
+
+La Noria represents an early-stage exploration project. The main targets on 
+
+the property are breccia-hosted, disseminated and structurally-controlled, intrusion-
+
+related Cu-Mo-Ag mineralization. Initial work on the property by Kennecott in 
+
+2004/2005, and subsequent work by Geoinformatics Exploration Inc. 
+
+("Geoinformatics") (Geoinformatics merged with Rimfire Minerals Corporation 
+
+(TSX.V: RFM) in 2009 to form Kiska Metals Corporation) between 2006 and 
+
+
+
+5 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+2008, has included stream sediment, soil and rock sampling, hand trenching, 
+
+airborne magnetic and ground IP/resistivity geophysical surveys and the 
+
+completion in 2007/2008 of 12 HQ diamond drill holes totalling 2901.5 m (9519 
+
+feet). This work identified several areas of anomalous Cu, Mo, Ag ± Pb, Zn and 
+
+Au geochemistry in soil, rock and stream sediment samples, as well as areas of Cu-
+
+Mo-Ag mineralization in outcrop and in drill core. Work to date has focused on 
+
+five areas of interest, including Los Laureles (and its SE extension, "East 
+
+Breccia"), El Zapote, El Tiro, El Naranjo and El Cobrozo. Of these, Los Laureles 
+
+is the most advanced. Here, Cu-Mo-Ag mineralization is hosted within quartz-
+
+tourmaline-magnetite-sulphide matrix breccia which is exposed discontinuously 
+
+within an ~ 1100 x 100-800 m, NW-trending zone of elevated Cu-Mo±Au in soils. 
+
+Five drill holes totalling 1276.7 metres (4189 ft) completed at Los Laureles 
+
+intersected mineralized intervals including 44 m @ 0.53% Cu, 0.12% Mo and 8.3 
+
+g/t Ag (DDLL-08-05) and 70.2 m @ 0.13% Cu, 0.16% Mo and 15.8 g/t Ag 
+
+(DDLL-07-03). Mineralization encountered in drilling at Los Laureles remains 
+
+open at depth and along strike.  
+
+Within the El Naranjo area, six drill holes totalling 1424.5 m (4673 feet) 
+
+tested a ~ 1600 x 100 - 300 m, ENE-trending zone of elevated Cu±(Mo, Au, As, 
+
+Ag) in soil, rock and stream sediment samples. Broad areas of elevated Cu and Ag 
+
+were encountered in this drilling, e.g., 52 m @ 0.15% Cu and 3.7 g/t Ag (DDEN-
+
+07-04). A single, 200 m-long drill hole completed adjacent to the Azulitas property 
+
+in the western claim area intersected elevated Cu ± Mo.           
+
+Exploration work completed by Kennecott and Geoinformatics between 2005 
+
+and early 2008 on the La Noria concession, including all aspects of the collection, 
+
+handling and assaying of soil, stream sediment, rock and core samples met or 
+
+exceeded industry best practices according to technical reports by SRK (Ham, 
+
+2006; Ghayem et al., 2008). All sample anayses have been completed by ALS 
+
+
+
+6 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+Chemex, North Vancouver, British Columbia, an internationally accredited (ISO 
+
+17025:2005) analytical laboratory. Preparation of samples collected by 
+
+Geoinformatics was completed at the ALS Chemex preparation facility in 
+
+Hermosillo, Sonora, Mexico, prior to shipment of pulps to Canada. Samples were 
+
+analyzed for Au by fire assay-atomic absorption and for a suite of 33 elements by 
+
+four-acid digestion and inductively coupled plasma atomic emission spectroscopy.  
+
+Quality control measures implemented by Kennecott at La Noria exceeded 
+
+industry best practices (Ham, 2006). Geoinformatics implemented quality control 
+
+procedures similar to those developed by Kennecott (Ghayem et al., 2008). 
+
+External and internal quality control data collected between 2005 and early 2008 
+
+on the property were analyzed by SRK (Ghayem et al., 2008) who concluded that 
+
+assay data produced by ALS Chemex were generally reliable. QA/QC reports 
+
+pertaining to 2008 data from the La Noria property similarly suggest that analytical 
+
+data (Cu, Au) are reliable and accurate.  
+
+Exploration work completed to date on the property has identified areas of 
+
+potential economic interest. Further work is warranted and recommended. A 
+
+program would consist of geological mapping and prospecting of the El Zapote
+
+and El Tiro soil anomalies, including trenching of anomalous zones of existing
+
+soil geochemistry is proposed. Further work would focus on the Los Laureles
+
+breccia including detailed mapping and sampling within the Los Laureles and East
+
+Breccia zones and the completion of Induced Polarization (IP) and ground magnetics
+
+surveys over the entire system including the East Breccia. Diamond drilling would
+
+consist of follow up along strike and down dip of successful 2008 drilling results on
+
+the western portion of the Los Laureles breccia and diamond drill testing of targets
+
+delineated over the eastern portion of the Los Laureles breccia zone. The estimated
+
+budget to complete the first phase work is $701,944 USD.
+
+ 
+
+
+
+7 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+2.0  INTRODUCTION  
+
+ 
+
+At the request of Paddy Nicol, President and Chief Executive Officer of 
+
+Evrim Metals Corporation, a private corporation registered in British Columbia 
+
+with its Registered Office at Suite 600, 850 West Pender Street in Vancouver, the 
+
+author has been retained to provide a Technical Report describing the La Noria 
+
+exploration project located in the state of Sinaloa, Mexico, for the purpose of 
+
+listing the Company on the Canadian Natural Resources Limited Exchange and to 
+
+satisfy the requirements of the British Columbia Securities Commission and 
+
+National Instrument 43-101. Evrim has entered into an agreement with Kiska 
+
+Metals Corporation to acquire the rights to the La Noria project. Kiska formed in 
+
+2009 through the merger of Rimfire Minerals Corp. and Geoinformatics 
+
+Exploration Inc. Geoinformatics acquired the rights to the La Noria project in 2006 
+
+from the Mexican subsidiary of Kennecott Exploration Company, who retain a 2% 
+
+net smelter return royalty on the property.  
+
+The subject property includes two contiguous claims situated along the 
+
+western flank of a NNW-trending, Cretaceous-Paleocene granitic batholithic zone 
+
+that extends north from Sinaloa through Sonora, forming part of the Laramide 
+
+orogeny (Gastil et al., 1992). The mineral potential in the area is for magmatic-
+
+hydrothermal Cu-Mo-Ag and potentially Au mineralization. This report provides a 
+
+summary of all technical and scientific information regarding the La Noria mineral 
+
+project held by Kiska Metals Corporation, the plans of operation for the project, as 
+
+well as an opinion of the exploration potential and recommendations for further 
+
+work.   
+
+Technical information presented in this report is a summary from published 
+
+and unpublished technical data, including corporate presentations, technical reports 
+
+and other data made available by Kiska to the author, of data collected during a site 
+
+
+
+8 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+visit by the author to the project, and of information obtained through discussions 
+
+with Kiska personnel. The author has no reason to doubt the reliability of the 
+
+information provided by Kiska. All references cited are listed in Section 21.0 of 
+
+this report. 
+
+A personal visit was made by the author to the La Noria project during May 
+
+19th – 22nd, 2010. The visit comprised evaluation of the main areas of geological 
+
+interest and a review of the work completed by Kiska (Geoinformatics) personnel 
+
+at these sites, including review of drill core from a sub-set of holes and a partial 
+
+review of other field work, including mapping, sampling and trenching. The author 
+
+was accompanied during the property visit by Kiska project manager and geologist 
+
+Rene Romero. The purpose of the site visit was to evaluate the mineral potential on 
+
+the property and to assess the extent and quality of work completed to date by 
+
+Kiska (Geoinformatics).    
+
+ 
+
+3.0  RELIANCE ON OTHER EXPERTS 
+
+ 
+
+This report has been prepared by Allan Montgomery (P.Geo.) for Evrim 
+
+Metals Corporation. The opinions contained herein are based in part on 
+
+information, including analytical results, provided by Kiska and upon reports 
+
+produced and commissioned by Kiska.       
+
+The writer of this report has not researched claim ownership information such 
+
+as property title and mineral rights and has relied on information provided by 
+
+Kiska as to the actual mineral title status.  
+
+The author of this report is not an expert in the assessment of potential 
+
+environmental liabilities and as such no verification was conducted and no opinion 
+
+is expressed herein regarding the environmental aspect of the La Noria project. 
+
+
+
+9 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+The author has been informed by Kiska that there are no known litigations 
+
+potentially affecting the La Noria project.       
+
+ 
+
+4.0  PROPERTY DESCRIPTION AND LOCATION 
+
+ 
+
+The La Noria Cu-Mo-Ag property, the subject of this report, is located 
+
+approximately 60 km northeast of the city of Mazatlán, in south-central Sinaloa 
+
+State, Mexico (Fig. 1). Mazatlan is a commercial centre, port and tourist 
+
+destination, with an international airport. The property, centred at 106° 70' West 
+
+Longitude and 23° 35' North Latitude, consists of 2 contiguous mining concessions 
+
+totalling 18,453.20 hectares (~ 184 km2) (Fig. 2; Table 1). The boundaries of the 
+
+La Noria and El Tiro concessions have been legally surveyed in accordance with 
+
+Mexican government requirements. There are currently twenty-one smaller mining 
+
+lots within the La Noria mining concession covering an area of 24.39 km2 which 
+
+do not form part of the La Noria project (stippled areas, Fig. 2). These claims host 
+
+the Azulitas NI43-101 compliant mineral resource of 5.6 Mt @ 0.9% Cu 
+
+equivalent (Ghayem et al., 2008).  
+
+The La Noria and El Tiro concessions are 100% owned by Kiska Metals 
+
+Corporation ("Kiska") (TSX.V: KSK) through its wholly owned Mexican 
+
+subsidiary Minera Geoinformatica S.A. de C.V. (Table 1), with Kennecott 
+
+Exploration Company ("Kennecott") through its Mexican subsidiary, Minera 
+
+Kennecott S.A. de C.V., holding a 2% net smelter return royalty on the La Noria 
+
+and El Tiro claims. The property (excluding the El Tiro concession, which was 
+
+granted in 2009) was originally acquired by Geoinformatics Exploration Inc. 
+
+("Geoinformatics") in May, 2006 as part of a strategic alliance with Kennecott. In 
+
+August, 2009 Geoinformatics merged with Rimfire Minerals Corporation (TSX.V: 
+
+RFM) forming Kiska Metals Corporation.
+
+
+
+10 
+ 
+
+ 
+ 
+
+Fig. 2. Claim map. Stippled area internal to the claim block includes the Azulitas, Las Minas, La Verde and other 
+properties which do not form part of the subject property. Stars: Yellow=prospect; black=mineral resource.
+
+Fig. 1. Property location. 
+
+
+
+11 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+Table 1 List of exploration concessions, La Noria property. 
+
+NAME OWNERSHIP TITLE # FILE # 
+AREA 
+(has) 
+
+GRANT 
+DATE 
+
+EXP. 
+DATE LOCATION 
+
+LA 
+NORIA 
+
+Minera 
+Geoinformatica 
+
+S.A de C.V. 
+
+T-
+223498 
+
+E-
+95/12135 
+
+13,963.12 11-Jan-05 10-Jan-55 Mazatlan / Concordia, 
+Sinaloa 
+
+EL 
+TIRO 
+
+Minera 
+Geoinformatica 
+
+S.A de C.V. 
+
+T-
+234051 
+
+E-
+95/12930 
+
+4,490.07 22-Ma y-09 21-May-59 Mazatlan / Concordia, 
+Sinaloa 
+
+   Total: 18,453.20    
+
+ 
+
+ Evrim Metals Corporation ("Evrim") has entered into an agreement with 
+
+Kiska Metals Corporation to acquire the rights to ten projects in Mexico including 
+
+the La Noria project. The terms of the agreement between Evrim and Kiska are 
+
+based on an initial share payment and performance based shares and/or cash 
+
+payments. The initial purchase price for the Mexico assets and a proprietary dataset 
+
+is $1,000,000 paid in 2,000,000 common shares of Evrim. The performance shares 
+
+or cash payments, as they apply to the La Noria project, include 10,000 common 
+
+shares per year every September 17th until 2015, or, in the event that Evrim 
+
+successfully options, joint ventures, or negotiates an earn in agreement with a third 
+
+party, Evrim will pay 50,000 shares for every year of the third party agreement, 
+
+until September 17th, 2015.  In the event of a sale of at least 51% interest in La 
+
+Noria, or the exercise of an option or earn in to acquire 51% interest in to the 
+
+project, Evrim will issue 250,000 shares, or can elect to pay $250,000.  In the event 
+
+of a positive decision to put a deposit on La Noria into development based on a 
+
+positive feasibility study, Evrim will issue an additional 1,000,000 common shares 
+
+to Kiska. 
+
+ Surface rights do not form part of the ownership and separate agreements 
+
+with local landowners are required to conduct exploration work including drilling 
+
+and road building on the property.     
+
+Several areas of mineralization have been identified within the La Noria and 
+
+El Tiro concessions during multiple early-stage exploration campaigns through 
+
+
+
+12 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+prospecting, geophysical surveys, soil, rock and stream sediment sampling and 
+
+diamond drilling. The main areas of interest defined to date on the project include 
+
+the Los Laureles, El Tiro, El Naranjo, El Zapote and El Cobrozo targets (Fig. 2). 
+
+Of these, the most advanced is Los Laureles which consists of a > 500 m long, 
+
+NW-trending, structurally-controlled tourmaline-quartz matrix intrusive breccia, 
+
+which cuts granodiorite and quartz monzonite characterized by equigranular to, 
+
+locally, sub-porphyritic to porphyritic textures.  
+
+Kiska informed the author that exploration work carried out on the property 
+
+discussed herein, including sampling, drilling, geophysics, trenching and access 
+
+road construction related to drilling, was completed in accordance with regulations 
+
+related to exploration activities in the state of Sinaloa. Permits to perform work 
+
+such as drilling and road building in Mexico require environmental and 
+
+archaeological studies and written agreements with local land holders. This 
+
+documentation is submitted to the Secretaria de Medio Ambiente del Gobierno as 
+
+part of the application process for a final work permit. Such permits have been 
+
+obtained by Kiska for work in the Los Laureles, El Naranjo and El Zapote areas. 
+
+Permits have not been solicited to date for the El Tiro nor El Cobrozo areas.  
+
+The Presidio River transects the La Noria claim and in 2008 a dam was 
+
+completed 13 km downstream of the property. This project is not expected to have 
+
+an impact on any future exploration work on the property.  
+
+Taxes are payable every 6 months to maintain the claims in good standing. 
+
+Currently, the annual property tax payments total $CDN 39,743.66.  In addition, 
+
+there are annual work expenditures that must be met which are based on fixed rates 
+
+associated with the size and age of each claim. Excess work expenditures can be 
+
+forwarded indefinitely and the La Noria concession presently has a large surplus 
+
+and does not require work related expenditures for several years.  The El Tiro 
+
+claim requires approximately $25,500 ($US) in expenditures during 2010. 
+
+
+
+13 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+5.0  ACCESS, CLIMATE, LOCAL RESOURCES, INFASTRUCTURE AND 
+
+PHYSIOGRAPHY 
+
+ 
+
+The property is situated in hilly to moderately rugged terrain in the foothills 
+
+of the Sierra Madre Mountains within the Rio Presidio watershed. Elevations on 
+
+the property range between ~ 160 and 250 m a.s.l. The property area is 
+
+characterized by a semi-tropical climate with a short wet season extending from 
+
+mid-June to mid-September and a longer dry season throughout the remainder of 
+
+the year. The weather during the property visit (May) was characterized by hot 
+
+sunny days with moderate humidity and temperatures in the mid- to high- 30s to 
+
+low-40s. Vegetation consists mainly of mesquite, thorny bushes and shrubs, with 
+
+deciduous trees and cacti.  
+
+The property is accessed via paved highway 15 north from Mazatlán ~ 10 km 
+
+to the town of Habal, then ~ 23 km NE along paved and well-maintained 2-wheel 
+
+drive dirt roads to the town of La Noria and a further ~ 19 km to the village of El 
+
+Placer within the property limits where Kiska maintains a core storage and logging 
+
+facility. Within the property a network of unpaved good condition roads and foot 
+
+and animal trails provides reasonable access to most parts of the property. Dense 
+
+thorny under bush impedes access by foot to some areas. The property can be 
+
+worked year round, however during the rainy season road and foot access to some 
+
+areas would be hampered by high river levels and thick foliage.  
+
+Surface ownership in the area is held by several individual owners. During 
+
+past work programs, contracts allowing access and work on private land have been 
+
+entered into on an individual basis as needed.  
+
+Few supplies are available in the small neighboring communities and the 
+
+main supply centre for the project is Mazatlán. The new dam along Rio Presidio 13 
+
+km downstream of the property will supply water for irrigation and industry. 
+
+
+
+14 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+Power lines service a number of small villages that are located within the project 
+
+area. No permanent exploration camp has been constructed on site and during past 
+
+programs Kiska (Geoinformatics) personnel have travelled daily to and from 
+
+Mazatlán. A rented house in the village of El Placer serves as core storage and 
+
+logging facility. The most important local resource is the availability of an able and 
+
+willing work force. The local economy based mainly on subsistence farming is 
+
+associated with low employment levels during much of the year.  
+
+ 
+
+6.0  HISTORY  
+ 
+
+The property history described herein prior to Geoinformatics involvement is 
+
+taken in large part from Ham (2006). The details of subsequent work programs are 
+
+summarized in large part from unpublished Kiska corporate reports and data and 
+
+from discussions with Kiska personnel.  
+
+Little information is available on the history of exploration of the La Noria 
+
+claims prior to the work by Kennecott. There are minor workings on the property 
+
+near the Las Minas area by local farmers and residents, which have primarily been 
+
+for gold mineralization. Some panning of gold in the local creeks near the Las 
+
+Minas prospect by the local community has also been reported to the Kennecott 
+
+exploration staff (Ham, 2006). These areas were not visited by the author during 
+
+the property evaluation. In the 1960's, the concession was held by the Guggenheim 
+
+Consortium, an American investment group focused on base-metal exploration, 
+
+extraction and processing in NW Mexico and elsewhere (www.funding 
+
+universe.com/company-history/Grupo-Mexico-SA-de-CV-Company-
+
+History.html). The Guggenheim group identified several areas of mineralization on 
+
+the property and undertook a nine-hole drill campaign in 1965 targeting the 
+
+Azulitas prospect (Fig. 2), which reportedly returned positive results (Ham, 2006). 
+
+
+
+15 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+However no data or drill core is available from this program and thus this work 
+
+cannot be validated and therefore is not considered further here.  
+
+Minera Kennecott S.A. de C.V., a Mexican subsidiary of Kennecott, took 
+
+possession of the property in May 2004 and undertook a preliminary exploration 
+
+program which included soil, stream and rock chip sampling, an airborne magnetic 
+
+geophysical survey completed over the entire La Noria concession and internal 
+
+claims, minor bulldozer trenching, geological mapping and a follow-up twelve-
+
+hole (2,444 m) HQ drill program in 2005 (Ham, 2006). This work was mainly 
+
+conducted within the Azulitas and neighboring Las Minas and La Verde properties, 
+
+which do not form part of the current La Noria concession held by Kiska. Minor 
+
+soil, rock and stream-sediment sampling was conducted on the La Noria 
+
+concession during this program (Ham, 2006). Drilling by Kennecott included six 
+
+holes drilled into the Azulitas prospect, four holes completed at the Las Minas 
+
+prospect, ~ 1.5 km WSW of Azulitas, and two holes investigating other targets in 
+
+the Azulitas-Las Minas area. None of these holes lie within the current property. 
+
+Mineralization encountered in this drilling included 165.8 m at 0.76% Cu, 0.03% 
+
+Mo, 0.1 g/t Au and 14.4 g/t Ag in drill hole DDLN05-03 (Ham, 2006).  
+
+In the second half of 2005 Kennecott undertook a regional sampling program, 
+
+which encompassed much of the La Noria claim (Ham, 2006), during which 199 
+
+stream sediment samples were collected. This stream sediment sampling program 
+
+identified nine areas of interest defined by elevated Cu and/or Au, Mo, Pb and Zn 
+
+contents in stream sediment samples. Areas identified within the La Noria 
+
+concession include the El Zapote, Los Laureles, El Naranjo and El Cobrozo targets 
+
+(Fig. 2). Follow-up work carried out by Kennecott in the same year included soil 
+
+and rock chip sampling at El Naranjo and rock chip sampling at El Zapote. Soil 
+
+sampling along widely-spaced, N-S oriented grid lines at El Naranjo delineated a 
+
+2.0 x 0.4 km, NE-trending zone of >300 ppm Cu in soils (elevated Cu contents in 
+
+
+
+16 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+soils ranged from 296 to 990 ppm: Ham, 2006). Rock samples from this area 
+
+contained between 111 and 1385 ppm Cu. Preliminary mapping in the El Naranjo 
+
+area by Kennecott identified a NE-trending sericitic alteration zone corresponding 
+
+with the area of elevated Cu in soils (Ham, 2006, and references therein). A limited 
+
+number of rock chip samples were collected in the El Zapote area but failed to 
+
+return results of economic interest.  
+
+Kennecott decided late in 2005 that the results of the drilling and related work 
+
+did not meet its corporate investment criteria and the property was transferred to 
+
+Geoinformatics at this time (Ham, 2006). 
+
+Since acquiring the property in late 2005, Kiska (work performed as 
+
+Geoinformatics) preformed property-wide exploration including soil-sampling 
+
+surveys, induced polarization (IP) ground geophysics over select areas, hand 
+
+trenching, preliminary geological mapping of limited extent, access road 
+
+construction and HQ-diameter diamond drilling. In 2006, Kiska (Geoinformatics) 
+
+drilled 11 diamond drill holes (2039 m) on the Azulitas property which does not 
+
+form part of the current holdings (Ghayem et al., 2008).  An additional 17 holes 
+
+(3941 m) were completed in 2007 (Ghayem et al., 2008) and 4 holes (1475 m) in 
+
+2008. Of the 2007/2008 drilling, 12 holes totalling 2901.5 m (9519 feet) were 
+
+completed within the La Noria concession currently held by Kiska and reported on 
+
+here (Ghayem et al., 2008 and unpublished data provided by Kiska). Five of these 
+
+holes were drilled at the Los Laureles prospect, six at the El Naranjo prospect and 
+
+one drill hole was completed ~ 100 metres east of the Las Minas II claim on the La 
+
+Noria concession in the Azulitas area. In 2008 and 2009 Kiska (Geoinformatics) 
+
+did not renew their option agreements on the La Verde, Las Minas, El Cascabel 
+
+and Azulitas claims (the Azulitas, Las Minas and contiguous properties internal to 
+
+the La Noria concession). In 2009 the El Tiro concession was granted. Current 
+
+holdings of Kiska include the La Noria and El Tiro concessions (Fig. 2). 
+
+
+
+17 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+To the author's knowledge, no other systematic geological or exploration 
+
+work has been completed on the La Noria property, and no mineral production is 
+
+known to have occurred on the property.   
+
+ 
+
+7.0  GEOLOGICAL SETTING 
+ 
+
+7.1 Regional Geology 
+
+ 
+
+ (Extracted from Ham, 2006) 
+
+ 
+
+The La Noria 
+
+property is located on 
+
+the western flank of a 
+
+NNW-trending 
+
+Cretaceous – Paleocene 
+
+granitic batholithic zone 
+
+that extends through 
+
+Sinaloa and Sonora 
+
+states. Laramide 
+
+porphyry copper 
+
+deposits are associated 
+
+with the eastern flanks 
+
+of this batholithic zone 
+
+in Sonora (e.g., Cananea 
+
+and La Caridad; Fig. 3). 
+
+Porphyry copper deposits 
+
+extend into the south-
+
+Fig. 3. Regional metallogeny of western Mexico and contiguous USA 
+showing the distribution of Laramide porphyry and related deposits (Staude 
+and Barton, 2001).  
+
+
+
+18 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+western USA (Arizona, New Mexico) and lie within the magmatic arc terrain of 
+
+the western USA (Fig. 4; Hildebrand et al., 2000). The Laramide orogeny involved 
+
+ENE- to WSW-directed shortening during the Late Cretaceous to early Eocene 
+
+(i.e., between ~80-40 Ma "million years ago") that gave rise to the Rocky 
+
+Mountain fold and thrust belt in Canada, the Laramide block uplifts in the USA 
+
+and development of the Sierra Oriental fold and thrust belt in Mexico (Coney and 
+
+Reynolds, 1977; Bird, 2002). The magmatic arc was relatively stationary on the 
+
+western side of Baja California from about 120-105 Ma but slowly migrated to 
+
+Sonora at about 90 Ma. From ~ 80 Ma, the subducting plate (Farallon plate) 
+
+shallowed (Coney and Reynolds, 1977) leading to arc migration eastward. As a 
+
+result, widespread magmatism shifted rapidly to the east, which resulted in a shift 
+
+of calc-alkaline to progressively more alkaline rocks in the east (Damon et al, 
+
+1983; Valencia-Moreno et al., 2003). Numerous mineral deposits are related to this 
+
+magmatism in the USA (southern New Mexico, Arizona) and Mexico (such as La 
+
+Caridad dated ~55 Ma, Valencia et al., 2005; Staude & Barton, 2001). Progressive 
+
+southwest retreat and steepening of the subducting plate began about 50 Ma 
+
+resulting in uplift of the North American plate (Bird, 2002). From about ~40-20 
+
+Ma calc-alkaline magmatism dominated much of central and western Mexico. This 
+
+stage marks the beginning of orogenic collapse/slab roll back in north western 
+
+Mexico and core complex formation with northeast-southwest directed extension 
+
+(Bird, 2002). From about 20 Ma, local stress fields were dominated by the 
+
+northwest movement of the Pacific plate resulting in predominantly dextral shear 
+
+along the orogenic margin.  
+
+The significance of the Laramide orogeny and younger plate movement is that 
+
+the orientation of the major structures across both the southwestern United States 
+
+and western Mexico are dominated by NW-SE- and NE-SW - trending structures. 
+
+The distribution of porphyry copper (±Mo, ±Au) centres within Mexico and 
+
+
+
+19 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+contiguous USA has a strong northwest trend (following the overall trend of the 
+
+arc) (Figs. 3 and 4) and mineralization is related to magmatism associated with the 
+
+Laramide orogeny (Staude & Barton, 2001). From northern Mexico to west-central 
+
+Arizona, a 650 
+
+km-long belt of 
+
+copper bearing 
+
+plutons coincides 
+
+with NW-trending 
+
+structures that are 
+
+intersected by NE-
+
+trending structures 
+
+(Hildenbrand et 
+
+al., 2000). Within 
+
+this copper belt 
+
+mineralization is 
+
+hosted by plutons 
+
+that are on or 
+
+adjacent to major 
+
+NW- and NE-
+
+striking faults 
+
+(Hildenbrand et 
+
+al., 2000).  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fig. 4. Distribution of porphyry and other deposits in western United States  
+(Hildenbrand et al., 2000). 
+
+
+
+20 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+7.2  Property Geology   
+
+ 
+
+(Extracted in part from Ham, 2006) 
+
+ 
+
+The geological setting within the La Noria and El Tiro concessions was first 
+
+documented by Secretaría de Economía, Carta Geológico-Minera La Noria F13-
+
+A26 (1983) and La Ciudad F13-A27 (1983) and parts of the property have 
+
+subsequently been described by Ham (2006) and Ghayem et al. (2008, and 
+
+references therein). The La Noria concession is located on the western margin of a 
+
+Cretaceous – Paleocene granitic batholith which intrudes Cretaceous and Paleozoic 
+
+metamorphosed sedimentary rocks (Fig. 5). This rock package was uplifted and is 
+
+overlain by late Paleogene and Neogene volcanic and sedimentary rocks. Regional 
+
+scale NW- and NE-striking normal faults, interpreted as reactivated Cretaceous 
+
+structures that developed during the Laramide orogeny, and lineaments interpreted 
+
+remotely occur in the area of the claims (Fig. 5), suggesting that the geological and 
+
+structural setting of the property is similar to other areas of the Laramides. 
+
+Outcrop on the property is mainly limited to creeks, hill tops and road cuts, 
+
+however is of sufficient abundance to provide a general picture of the geological 
+
+setting. The property is underlain predominantly by intrusive rocks, mapped 
+
+regionally as undifferentiated Late Cretaceous granodiorite (Fig. 5). Permo-
+
+Carboniferous metasedimentary strata underlie the south-central part of the claims, 
+
+while Early Cretaceous, intermediate composition, metavolcanic rocks are 
+
+documented in the north-western corner of the property. Field observations (this 
+
+study; see also Ham, 2006: Azulitas area) indicate that medium-grained, 
+
+intermediate composition intrusions underlie most of the property and that minor, 
+
+intermediate to felsic composition, fine- and coarse-grained and porphyritic, 
+
+probable calc-alkaline intrusions also occur on the claims. The main rock types are  
+
+
+
+21 
+ 
+
+Fig. 5. Regional geology. 
+
+
+
+22 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+granodiorite, monzonite to quartz monzonite and granite. Distinctly porphyritic 
+
+quartz monzonite, characterized by the presence of feldspar phenocrysts up to ~ 1 
+
+cm in length, occurs at the Los Laureles prospect, and quartz-eye porphyry sub-
+
+crop was noted at one location in the El Zapote area. Compositional and textural 
+
+variations amongst the intrusive suite may represent multiple intrusive events.   
+
+Most intrusive rocks noted on the property vary from fresh to weakly altered 
+
+and weathered, however areas of strong alteration were observed locally, and a 
+
+deeply weathered (i.e., >30 m) profile encountered in drill hole DDLL08-05 at the 
+
+Los Laureles prospect appears to reflect a remnant supergene zone of unknown age 
+
+and extent.   
+
+The distribution of hydrothermal alteration and mineralization on the property 
+
+suggests that structural controls were probably important during hydrothermal 
+
+activity and related mineral deposition. A prominent NNW-trending normal fault 
+
+passes ~ 5 km west of the property, which divides Cenozoic volcanic deposits to 
+
+the west from Cretaceous intrusive rocks. The latest movement along this structure 
+
+presumably post-dates the hydrothermal activity documented on the claims. Less 
+
+prominent NE- and NW-trending faults and circular structures of unknown age 
+
+have been interpreted within the claims (Fig. 5). Ham (2006, and references 
+
+therein) interpret the main structural trends on the project as NE, ENE, EW. A few 
+
+joints and quartz veinlets measured during the property visit were found to strike 
+
+NW and N. At the El Naranjo prospect, the main area of anomalous geochemistry 
+
+trends ~ ENE. The WNW – ESE (~ 100°) alignment of alteration at the El Tiro 
+
+prospect (evident as a series of small topographic highs which correspond with 
+
+zones of oxidation and silicification) and the overall NW- to WNW-trend of the 
+
+mineralized zone and adjacent west-dipping fault interpreted at the Los Laureles 
+
+prospect, suggest that WNW- to NW-oriented structures may have been important 
+
+
+
+23 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+to mineralization. A WNW-trending, moderately west-dipping syn-mineral fault 
+
+has also been documented at the Las Minas prospect (Ham, 2006: Fig. 13).   
+
+ 
+
+8.0  DEPOSIT TYPES 
+
+ 
+
+Preliminary investigations by Kennecott and Kiska (Geoinformatics) suggest 
+
+that the La Noria property is most prospective for discovery of structurally-
+
+controlled, breccia- and fracture-related Cu-Mo-Ag mineralization, possibly of 
+
+porphyry-related Cu (±Mo) magmatic-hydrothermal affinity. The intrusive 
+
+environment and inferred Late Cretaceous age of intrusive rocks at La Noria (i.e., 
+
+Laramide age; associated with Cu±Mo porphyry and skarn deposits in 
+
+northwestern Mexico and southwestern USA; Staude and Barton, 2001) and the 
+
+occurrence of alteration and mineralization characteristic of porphyry Cu-Mo 
+
+systems (e.g., Seedorff et al., 2005) lends support to this interpretation. A number 
+
+of anomalous Au values in samples collected on the property (e.g., Ham, 2006) and 
+
+reported on adjacent claims (Strickland, 2008) suggest that the La Noria property 
+
+may also be prospective for discovery of vein-related and structurally-controlled 
+
+Au mineralization.   
+
+ 
+
+9.0  MINERALIZATION 
+
+ 
+
+The La Noria property currently contains five main areas of interest at 
+
+different stages of early exploration. Historically, work in the area has focused on 
+
+the Azulitas property and surrounding prospects (e.g., Ghayem et al., 2008) which 
+
+do not lie within the current La Noria property. Nevertheless, mineralization at 
+
+Azulitas is well documented and shares some characteristics with that recognized 
+
+on the claims, and therefore a brief review of Azulitas, taken from Ham (2006), is 
+
+
+
+24 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+provided here. Azulitas comprises Cu-Mo-Ag±(Au)±(Pb,Zn) mineralization 
+
+associated with chalcopyrite, pyrite, molybdenite, minor bornite, sphalerite and 
+
+galena hosted within a zone of variably fractured and altered quartz monzonite. 
+
+Locally, minor clast-supported breccias are developed. Alteration associated with 
+
+mineralization at Azulitas includes a potassic assemblage of biotite + magnetite ± 
+
+K-feldspar ± quartz. Biotite is progressively replaced by chlorite ± actinolite to 
+
+more distal zones where biotite is completely replaced by chlorite (propylitic 
+
+zone). Early potassic alteration is overprinted by sericite-chlorite-quartz 
+
+(intermediate argillic) to sericite-quartz-pyrite (phyllic) alteration assemblages. 
+
+Tourmaline rosettes occur within and adjacent to quartz veins and brecciated clasts 
+
+and are typically associated with the youngest fractures.    
+
+Mineralization identified to date on the La Noria concession includes 
+
+intrusive-hosted, structurally-controlled, fracture- and breccia-related Cu-Mo-Ag 
+
+mineralization. The main sulphides noted include pyrite, chalcopyrite, molybdenite 
+
+and minor bornite. Secondary copper minerals are common in some areas. 
+
+Alteration types recognized on the property include potassic (noted during the 
+
+property visit as K-feldspar replacing breccia fragments and host intrusive rocks at 
+
+Los Laureles), quartz-sericite ("phyllic"), quartz flooding ± magnetite, argillic and 
+
+chloritic±epidote ("propylitic"). Magnetite occurs in association with tourmaline-
+
+quartz breccias and siliceous alteration zones at Los Laureles and has been noted in 
+
+association with potassic alteration at the Azulitas occurrence (Ham, 2006). 
+
+Primary magnetite appears to have been largely destroyed in intrusive rocks within 
+
+areas of hydrothermal activity, as suggested by the lack of magnetism in 
+
+moderately to strongly altered rocks on the property. Although exposure is limited 
+
+in many areas of the property, much of the property appears to be underlain by 
+
+relatively fresh or weakly altered intrusive rocks.  
+
+
+
+25 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+The main areas of interest defined to date on the La Noria property include 
+
+the Los Laureles, El Tiro, El Zapote, El Naranjo and El Cobrozo targets (Fig. 2). 
+
+Of these, initial drilling campaigns have been completed at Los Laureles and El 
+
+Naranjo, highlights from which are listed in Table 2. Average values reported in 
+
+this table are weighted on the basis of sample length.  
+
+ 
+Table 2. List of composite assays from 2007 – 2008 drilling, La Noria project 
+
+(DDLL=Los Laureles; DDEN=El Naranjo). 
+
+Hole From (m) To (m) Width (m) Cu (%) Mo (%) Ag (ppm)
+DDLL‐07‐01 201 211 10 0.40 0.19 11.2
+
+234 240 6 0.40 0.02 17.5
+DDLL‐O7‐02 226 234 8 0.30 0.23 9.7
+DDLL‐07‐03 6.8 77 70.2 0.13 0.16 15.8
+
+61 108 47 0.33 0.06 14.9
+DDLL‐08‐04 39 76 37 0.22 0.03 6.1
+
+112 121 9 0.35 0.01 6.9
+131 182 51 0.24 6.5
+
+incl. 165 169 4 0.81 26.7
+and 179 182 3 0.69 9.4
+
+206 230 24 0.42 0.01 10.8
+DDLL‐08‐05 0 96 96 0.26 0.07 12.6
+
+incl. 30 74 44 0.53 0.12 8.3
+105 124 19 0.23 0.02 4.5
+142 185 43 0.03 2.0
+
+DDEN‐07‐02 73.5 105 31.5 0.15 2.1
+DDEN‐07‐03 39 91 52 0.15 3.0
+
+103 129 26 0.15 3.3
+DDEN‐07‐04 60 112 52 0.15 3.7
+
+incl. 77 84 7 0.26 6.0
+128 156 28 0.12 2.6
+118 126 8 0.13 2.8  
+
+ 
+
+9.1  Los Laureles 
+
+ 
+
+Los Laureles is the most advanced of the five exploration targets defined to 
+
+date on the property. The area was first identified by Kennecott in 2005 on the 
+
+
+
+26 
+ 
+
+                     La Noria Cu‐Mo‐Ag project, Sinaloa Mexico 
+
+basis of an anomalous stream sediment result of 235 ppm Cu (Ham, 2006). Five 
+
+HQ diamond drill holes totalling 1276.7 m (4189 feet) completed at Los Laureles 
+
+in 2007/ 2008 tested breccia-related Cu-Mo-Ag mineralization exposed at surface 
+
+along a segment of a NW-trending Cu-Mo±Au soil anomaly. Mineralization 
+
+exposed in outcrop and encountered in drilling is hosted by quartz-
+
+tourmaline±pyrite±magnetite-matrix, intrusive breccia (Fig. 6a). Breccias grade 
+
+outward into fractured and weakly-brecciated, equigranular granodiorite and 
+
+equigranular to porphyritic, plagioclase-K-feldspar-quartz-hornblende-(biotite) 
+
+quartz monzonite (Fig. 6b). Interpretations by Kiska are that the mineralization at 
+
+Los Laureles is associated with a west-dipping, downward-tapering pipe (Fig. 7).  
+
+Drill hole DDLL08-05 (44 m @ 0.53% Cu, 0.12% Mo, 8.3 g/t Ag; Table 2) 
+
+from the Los Laureles area was reviewed by the author during the property visit. 
+
+This hole intersected mineralized intrusive breccia, which grades downward into 
+
+zones of fracturing and quartz-tourmaline and pyritic veining. The main sulphides 
+
+noted include pyrite, chalcopyrite, molybdenite and minor bornite (Fig. 6c). 
+
+Abundant secondary Cu minerals were noted in the upper part of the hole where 
+
+chalcopyrite was absent. Hydrothermal alteration and veining in this hole include 
+
+quartz-tourmaline veinlets with K-feldspar halos, suggesting that secondary K-
+
+feldspar and quartz-tourmaline alteration (and mineralization) may have been 
+
+coeval. Secondary K-feldspar was also noted along the margins of breccia clasts 
+
+(Fig. 6d), as halos to magnetite-pyrite veinlets and altering host intrusive rocks. 
+
+Sericite and chlorite alteration, the latter best developed marginal to the main 
+
+mineralized zone, also characterize this hole. The presence of hydrothermal 
+
+magnetite in breccias and veinlets, which locally imparts a strong magnetism on 
+
+the mineralized zone, may account for an airborne magnetic high centred at Los 
+
+Laureles. Near the collar of DDLL08-03 in the Los Laureles area magnetite occurs 
+
+in a silicified zone as very coarse, acicular needles up to ~ 30 cm in length.          
+
+
+
+27 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fig. 6. Mineralization and rock types, Los Laureles prospect. A. Tourmaline-quartz matrix breccia float. B. 
+Strong fracturing in altered intrusive adjacent to the main breccia zone. C. Pyrite and molybdenite (Mo) in quartz-
+tourmaline breccia, DDLL-08-05 (43.9 m; 0.30% Cu, 0.10% Mo, 4.0 g/t Ag/1.0 m). D. Quartz-tourmaline matrix 
+breccia with pink, K-feldspar alteration halos at the edges of intrusive clasts, DDLL-08-05 (54.4 m; 0.34% Cu, 
+0.03% Mo, 2.3 g/t Ag/1.0 m). E. Jarosite veinlets cutting strongly oxidized quartz-tourmaline altered intrusive in 
+the upper part (38 m) of hole DDLL-08-05 (0.51% Cu, 0.38% Mo, 3.0 g/t Ag/1.0 m). F. Float block of coarse 
+feldspar-porphyry, Los Laureles area.  
+
+
+
+28 
+ 
+
+Relatively high-grade mineralization encountered in the upper part of drill 
+
+hole DDLL08-05 corresponds with a zone of strong oxidation and development of 
+
+secondary copper oxides and sulfides. Oxidation, extending from the top of the 
+
+hole to ~ 95 m, is characterized by locally intense argillic and secondary Fe-oxide 
+
+and hydroxide minerals including jarosite and hematite veinlets (Fig. 6e). Copper 
+
+minerals noted include malachite, azurite and chalcocite (?). Pyrite and 
+
+molybdenite were noted in this part of hole DDLL-08-05 but chalcopyrite was not, 
+
+suggesting that if originally present it may have been converted to secondary 
+
+minerals during the oxidation event. Continuing down hole are alternating zones of 
+
+brecciated and fractured quartz monzonite with generally lower (Cu, Mo) grades. 
+
+Narrow intervals associated with higher Cu grades encountered in the lower part of 
+
+the hole correspond to mineralized breccia zones.  
+
+Although intrusive rocks noted on the property are predominantly medium- to 
+
+coarse-grained and equigranular, porphyritic to sub-porphyritic quartz monzonite 
+
+Fig. 7. Interpretive cross-section, Los Laureles prospect (Unpublished data, Kiska Metals Corp.). 
+
+
+
+29 
+ 
+
+occurs in close spatial proximity to mineralization at Los Laureles (Fig. 6f). This 
+
+spatial proximity may indicate a genetic link between this intrusive unit and Cu-
+
+Mo-Ag mineralization at Los Laureles.    
+
+SE of the main area of drilling at Los Laureles, elevated Cu±Mo values in 
+
+soils along a ~ 500 m, ESE-trending zone, referred to as East Breccia, correspond 
+
+with an area where breccias have been mapped in outcrop. This area has not been 
+
+drill tested.  
+
+ 
+
+9.2  El Tiro 
+
+ 
+
+El Tiro, centred approximately 4 km ESE of the central Los Laureles area, is a 
+
+relatively early-stage target, characterized by a broad, ~ NW-trending area of 
+
+elevated Cu in soils, bordered to the east by areas of elevated Mo in soils. Work to 
+
+date in this area has included collection of soil, stream sediment and limited rock 
+
+chip samples. A traverse across the southern part of the El Tiro Cu soil anomaly 
+
+during the property visit identified weakly to moderately chlorite ± epidote (i.e., 
+
+propylitic) altered, medium-grained, moderately magnetic diorite or granodiorite in 
+
+outcrop and subcrop. Mineralization noted within this unit included minor 
+
+disseminated pyrite and, at one location, minor fracture-controlled neotocite (?) 
+
+(Fig. 8a). The area visited corresponds to a N- to NE-trending airborne magnetic 
+
+high (Ham, 2006), possibly the geophysical expression of the diorite/granodiorite. 
+
+Further to the east, coarse-grained, weakly magnetic, biotite-bearing ~ granite is 
+
+exposed along the Juananica River.    
+
+A WNW-trending series of topographic highs occurs SW of and parallel to 
+
+the main area of elevated Cu in soils in the El Tiro area. This zone is characterized 
+
+by silicification, sericitic alteration, minor, narrow, quartz-tourmaline veinlets and 
+
+locally strongly developed Fe-oxides. The WNW trend of this alteration suggests 
+
+that it may be controlled along a WNW fault structure. 
+
+
+
+30 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9.3  El Zapote 
+
+ 
+
+El Zapote is an early stage target, located approximately 3 km north of Los 
+
+Laureles. This prospect was initially identified by Kennecott in 2005 through 
+
+stream sediment sampling, which returned <5 to 944 ppb Au, 39 to 299 ppm Cu 
+
+and 2 to 90 ppm Mo (Ham, 2006). The main area of interest, situated within a low-
+
+lying area immediately east of the Presidio River is a multi-element (Zn-Pb-Ag-
+
+Mo-As±Cu-Au) soil geochemical anomaly. A second, smaller area of interest 
+
+straddling the Presidio River and centred ~ 1.5 km to the WSW of the main 
+
+anomaly is defined by elevated Zn-Pb±Au-Ag in soils. The El Zapote area is 
+
+widely overburden covered, however preliminary geological interpretations by 
+
+Kiska suggest that a granodiorite (stock ?) underlies the central part of the main 
+
+Fig. 8. Mineralization and rock types, El Tiro, El Zapote and El Naranjo prospects. A. Secondary copper mineral 
+(black) on fractured and weakly propylitically altered granodiorite, El Tiro prospect. B. Sheared, pale grey-white 
+limonitic ~ granodiorite hosting minor fracture-controlled chalcopyrite and molybdenite, El Zapote area. C. 
+Close-up of B. Mo=molybdenite. D. Secondary copper minerals on altered quartz-monzonite, El Naranjo area.   
+
+
+
+31 
+ 
+
+soil anomaly, bordered to the east by a granitic pegmatite and small quartz 
+
+porphyry bodies. A traverse across the area during the property visit did not 
+
+identify pegmatitic rocks. Rocks noted included medium-grained, equigranular, 
+
+biotite-bearing granodiorite and, at one location, a small exposure of quartz - 
+
+feldspar porphyry. Intrusive rocks noted in the area were weakly chlorite altered 
+
+or, rarely, strongly sericitically altered. Minor intrusive hosted pyrite, chalcopyrite 
+
+and fracture-controlled molybdenite, as well as several, scattered occurrences of 
+
+fracture-controlled malachite, and a few narrow (<2 cm) quartz veins with 
+
+malachite, were noted within the El Zapote grid. Along the north side of the 
+
+Presidio River in the western part of the grid, samples from a ~ 280 m exposure of 
+
+fractured, weakly limonitic and weakly chlorite altered, medium-grained 
+
+granodiorite returned assay values of between 4 and 2280 ppm Mo and 55 and 
+
+1415 ppm Cu from semi-continuous sampling (Figs. 8b, c). Copper and 
+
+molybdenum values in samples collected along this zone reflect minor chalcopyrite 
+
+and molybdenite along fractures and hosted by rare, narrow quartz veinlets.         
+
+   
+
+9.4  El Naranjo 
+
+ 
+
+The El Naranjo prospect, located ~ 2.5 km SW of Los Laureles (Fig. 2), 
+
+corresponds with an ENE-trending zone of elevated Cu±(Mo, Au, As, Ag) in soils 
+
+and rocks (Au values in rocks <5 to 6790 ppb). This area was initially identified by 
+
+Kennecott in 2005, where stream sediments returned Cu values of 461 and 599 
+
+ppm (Ham, 2006). The area corresponds spatially with a prominent NE-trending 
+
+magnetic low and with a zone of sericitic alteration (Ham, 2006). Six HQ drill 
+
+holes totalling 1424.5 m (4673 feet), completed in 2007 by Kiska 
+
+(Geoinformatics), tested the soil anomaly along a ~ 1.0 km length. Drilling 
+
+intercepted wide intervals of elevated Cu and Ag (Table 2) associated with minor, 
+
+fracture-controlled chalcopyrite. A traverse through the El Naranjo area during the 
+
+
+
+32 
+ 
+
+property visit identified medium- to fine-grained granodiorite and quartz 
+
+monzonite, locally affected by strong sericite alteration, and cut by minor quartz-
+
+tourmaline-matrix breccia and rare quartz veinlets. Minor malachite and 
+
+molybdenite along fractures were noted locally (Fig. 8d).          
+
+ 
+
+9.5  El Cobrozo 
+
+ 
+
+The El Cobrozo prospect is located in the NE corner of the claims, ~ 5 km 
+
+northeast of Los Laureles (Fig. 2). This area was identified by Kennecott on the 
+
+basis of an anomalous stream sediment sample result of 258 ppm Cu. The area was 
+
+not visited by the author during the property exam but was noted to correspond 
+
+with a color anomaly. 
+
+ 
+
+10.0  EXPLORATION 
+
+ 
+
+10.1  2004/2005 Exploration work by Kennecott  
+
+ 
+
+The details of exploration work completed by Kennecott during 2004 and 
+
+2005, including work carried out on the La Noria concession, were presented in a 
+
+technical report prepared by SRK Consulting (Canada) Inc. in April 2006 (Ham, 
+
+2006). Work completed on the La Noria concession by Kennecott included a 
+
+helicopter-borne aeromagnetic geophysical survey, covering the entire La Noria 
+
+claim (Fig. 9), limited geological mapping and collection of 118 soil, 167 stream 
+
+sediment and 233 rock samples. Sampling by Kennecott identified several areas of 
+
+interest on the current claims including the Los Laureles, El Zapote, El Naranjo 
+
+and El Cobrozo target areas (Figs. 10a, b; Ham, 2006).
+
+
+
+33 
+ 
+
+ 
+
+ Grid-based soil sampling and rock sampling by Kennecott at the El Naranjo 
+
+prospect (Ham, 2006) identified an area of elevated Cu (Figs. 10a, b). The 2005 
+
+program by Kennecott culminated in completion of 12 HQ diamond drill holes in 
+
+the Azulitas and Las Minas areas (Ham, 2006). None of these holes are located 
+
+within the current property boundary.   
+
+ 
+
+10.2 2006 – 2008 Exploration Work by Kiska (Geoinformatics) 
+
+ 
+
+ Following transfer of the property in early 2006 from Kennecott to 
+
+Geoinformatics (Ghayem et al., 2008), exploration work completed between     
+
+Fig. 9. Airborne geophysical plan map (Reduced to pole) (Van Reed and Szidarovsky, 2008). Yellow stars represent 
+mineral prospects and target areas on the La Noria property; black star represents the Azulitas resource. 
+
+
+
+34 
+ 
+
+ 
+
+Fig. 10. 2004-2005 Kennecott rock, soil and stream sediment samples. A. Copper. B. Molybdenum (Ham, 2006). 
+Claims internal to the La Noria concession (Azulitas and adjacent claims) do not form part of the La Noria 
+property. 
+
+
+
+35 
+ 
+
+March 2006 and 2008 on the La Noria and El Tiro1 concessions included collection 
+
+and analysis of 4084 soil and 1060 rock samples, including float, grab, chip and 
+
+channel samples, hand trenching, 8 lines of ground IP/Resistivity geophysics 
+
+totalling 14.4 km, completed over the Los Laureles, El Naranjo and El Zapote 
+
+areas (Van Reed and Szidarovsky, 2008), reconnaissance geological mapping and, 
+
+in 2007 and 2008, completion of 12 HQ-diameter diamond drill holes totalling 
+
+2901.5 m (9519 feet) (Fig.11). Access trails were built to accommodate drilling. 
+
+Drilling included 6 holes (1425 m) completed at the El Naranjo prospect, testing a 
+
+ENE-trending zone of anomalous soil, rock and stream sediment geochemistry, 5 
+
+holes (1277 m) at Los Laureles, which targeted mineralized breccias exposed at 
+
+surface which correspond with anomalous soil and rock geochemistry, and one 200 
+
+                                                 
+1 The El Tiro Concession was granted in 2009. 
+
+Fig. 11. 2006-2008 rock and soil sample, drill hole and IP line location map, La Noria and El Tiro concessions. 
+Yellow stars = prospects; black star = Azulitas resource. 
+
+
+
+36 
+ 
+
+m hole collared ~100 m east of the Las Minas II claim in the western part of the La 
+
+Noria property (Fig. 11). Areas drill tested also correspond with geophysical 
+
+targets and mineralization exposed at surface.  
+
+ 
+
+10.2.1 Soil geochemistry 
+
+Between 2006 and 2008 a total of 4084 soil samples, covering 2354 hectares 
+
+were collected by Geoinformatics technicians on the La Noria and El Tiro 
+
+concessions. Sampling included 1197 soils collected from a contiguous, ~ 656 
+
+hectare area covering the Las Laureles and El Naranjo areas, 912 soils covering ~ 
+
+976 hectares collected in the El Tiro area, 982 soils (~ 472 hectares) collected in 
+
+the El Zapote area and 993 soils collected within a ~ 250 hectare area surrounding 
+
+the Azulitas, Las Minas and El Verde concessions (mainly extension of lines onto 
+
+the La Noria claim from soil grids centred over these showings; Fig. 11). Soil 
+
+sampling was completed along 100 m-spaced grid lines at 100 and 50 m intervals 
+
+in the Las Laureles, El Naranjo, El Tiro and El Zapote areas and at 25 m sample 
+
+intervals adjacent to the Azulitas area in the western part of the claims. Soil 
+
+sampling by Kiska (Geoinformatics) in the El Naranjo area expanded upon widely-
+
+spaced soil coverage completed by Kennecott in this area in 2005 (Ham, 2006). No 
+
+soil sampling prior to 2006 is known to have taken place at Los Laureles, El Tiro 
+
+or El Zapote. Samples were collected at depths of between 10 and 30 cm from B-
+
+horizon material where available. Sample sites were located by hand held GPS. 
+
+Sample locations were not marked in the field.  
+
+Soil sample results include areas of elevated Cu, Mo, Pb, Zn, Ag, Au and 
+
+other elements (Figs. 13-16). Correlation coefficients suggest Au-Ag-As-Bi-
+
+(Mo,Pb,Cu,Sb) and Zn-Cd-Mn-Pb-(Ag,Sb,Cu,Mg) groupings (Fig. 12). 
+
+ 
+
+
+
+37 
+ 
+
+Soil sampling in the Los Laureles area identified a ~ 1100 x 100-800 m, NW-
+
+trending area of elevated Cu (≥500 ppm)-Mo±Au in soils with a central zone of 
+
+>1000 ppm Cu (Fig. 13). Elevated Zn, Pb, Ag and Sb also occur locally in soils 
+
+within this area. The central part of this anomaly corresponds with Cu-Mo-Ag 
+
+mineralization identified in outcrop and drilling at the prospect. A second area 
+
+defined by Cu ≥500 ppm ± Mo in soils extends ~ 500 m to the ESE. This area, 
+
+referred to as "East Breccia", has not been tested by drilling.   
+
+In the El Tiro area soil sampling has been completed over a ~ 3 x 3 km grid, 
+
+centred ~ 4 km ESE of the Los Laureles prospect (Fig. 14). Within the El Tiro grid 
+
+a ~ 2.5 x 1.2 km, NW-trending zone of >250 ppm Cu in soils has been identified, 
+
+with a central zone of ≥500 ppm Cu in soils. Elevated Mo (≥25 ppm) occurs in 
+
+soils in two areas east of the Cu zone (Fig. 14). Scattered, elevated Ag, Zn and Au 
+
+contents in soils also occur within the El Tiro grid.  
+
+In the El Zapote area, centred ~ 3 km north of Los Laureles, soil sampling 
+
+over a ~ 5 km2 area has delineated an ~ 800 x 800 m zone of elevated Zn-Pb-Ag-
+
+Mo-As±(Cu-Au) and a second ~ 500 x 500m area, located ~ 2.5 km to the SW, of 
+
+elevated Zn±Pb±Au±Ag in soils (Fig. 15). Copper contents in soils here are mostly 
+
+≥250 ppm.  
+
+Fig. 12.  Correlations coefficients for 2006 – 2008 soil sample analytical results, La Noria project. 
+
+
+
+38 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fig. 13. Los Laureles 2006-2008 copper (A) and molybdenum (B) rock and soil geochemistry.  
+ 
+
+
+
+39 
+ 
+
+ 
+Fig. 14. El Tiro 2006-2008 copper (A) and molybdenum (B) rock and soil geochemistry.  
+
+
+
+40 
+ 
+
+ 
+Fig. 15. El Zapote 2006-2008 lead-zinc (A) and molybdenum (B) rock and soil geochemistry. 
+
+
+
+41 
+ 
+
+At the El Naranjo prospect soil sampling by Kiska (Geoinformatics) has 
+
+outlined a ~ 1600 x 100 – 300 m, ENE- to NE-trending area of elevated Cu (>500 
+
+ppm) in soils hosting a central zone of >1000 ppm Cu (Fig. 16). Scattered, elevated 
+
+Au (individual values between <5 and 1175 ppb), Mo, Ag and As (strong in the 
+
+SW corner of the grid) in soils occur locally within this area. This area of 
+
+anomalous soil geochemistry in part overlies the area of high Cu contents in soils 
+
+reported by Ham (2006) (Fig. 10). 
+
+Soil sampling by Kiska (Geoinformatics) adjacent to the Azulitas/Las Minas 
+
+claims identified areas of elevated Au, Ag, Pb, Zn, As (Cu, Mo ± Bi, Sb) in soils 
+
+NE and SW of the Azulitas prospect. 
+
+ 
+
+10.2.2 Rock geochemistry  
+
+Between 2006 and 2008, 1060 rock samples were collected by Kiska 
+
+(Geoinformatics) personnel on the La Noria property, including grab, chip, channel 
+
+and float samples. Sampling was focused in the El Naranjo (458) and El Zapote 
+
+(434) areas (Fig. 11). Samples were collected along road cuts, from surface 
+
+outcrops, in shallow hand trenches and from historical adits. Rock chips were 
+
+primarily collected during the mapping and soil geochemical sampling program. 
+
+Channel samples were collected along road cuts and elsewhere in areas deemed by 
+
+Kiska (Geoinformatics) personnel to be prospective, with higher density sampling 
+
+in exposed gossan-like weathering profiles or where any secondary or supergene 
+
+mineralization was noted.  
+
+A review of two channel sample sites in the El Zapote and El Naranjo areas 
+
+suggests that these samples represent "composite chips" rather than true 
+
+"channels", i.e., evidence for continuous extraction of material along a "channel"  
+
+
+
+42 
+ 
+
+ 
+Fig. 16. El Naranjo 2006-2008 copper (A) and molybdenum (B) rock and soil geochemistry. 
+
+
+
+43 
+ 
+
+was not observed at the two sites visited. As such, they may less accurately 
+
+represent the average grade of the sampled lengths than is implied using the term 
+
+"channel". Hand trenches visited in the El Naranjo area were back filled, and thus 
+
+no assessment of the nature or quality of these samples is provided here. No 
+
+geological notes pertaining to the trenches were made available to the author and 
+
+therefore the significance of the sample results is uncertain.   
+
+Elevated Cu and Mo values are associated with rocks collected from several 
+
+areas of the property. At the Los Laureles prospect, rock samples returned values 
+
+of between <1 and 14,250 ppm Cu and <1 and 1750 ppm Mo (Fig. 13). Copper and 
+
+Mo contents of rocks collected at El Tiro were generally low with the exception of 
+
+1480 ppm Mo in one sample (Fig. 14) and weakly elevated Cu values (≤ 639 ppm 
+
+Cu) associated with a few samples from this area collected by Kennecott. At El 
+
+Zapote, Cu contents in rocks range between 7 and 2690 ppm. Most samples 
+
+analyzed contain <250 ppm Cu. Molybdenum values between 4 and 2280 ppm 
+
+were returned from a series of "channel" samples (average value of 175 samples 
+
+collected over a ~ 250 m interval was 0.03% Mo) from fractured, weakly-altered 
+
+granodiorite, exposed at the western extent of the El Zapote soil grid (Figs. 8b, c 
+
+and 15). In the El Naranjo area, where 458 rock samples were collected, mostly 
+
+from hand trenches excavated at the northern end of the area of drilling, results 
+
+include values of between 5 to 14,700 ppm Cu and <1 and 755 ppm Mo (most < 5 
+
+ppm Mo). Several samples in the El Naranjo area contain >1000 ppm Cu.      
+
+Gold contents in rock samples from the La Noria property are mostly low 
+
+(i.e., <250 ppb). The highest values are from the El Naranjo and Los Laureles 
+
+areas. Five grab samples from the El Naranjo prospect returned values ranging 
+
+between 0.5 g/t and 6.8 g/t Au while at Los Laureles, one grab sample returned 
+
+1165 ppb Au.  
+
+
+
+44 
+ 
+
+10.2.3  Geological mapping 
+
+Although initial geological mapping and interpretations have been completed 
+
+in some areas of the property, this work is very preliminary in nature and is not 
+
+discussed in detail here. The geological setting is mainly intrusive, however several 
+
+distinct intrusive units occur on the property and breccia zones are associated with 
+
+some of the mineralized areas (e.g., Los Laureles). 
+
+ 
+
+10.2.4  Geophysics  
+
+In addition to the airborne magnetic survey flown by Kennecott over the 
+
+property in 2004 (Fig.9; Ham, 2006), geophysical work completed on the La Noria 
+
+property has included completion of 14.4 line-kilometres of 100 m spacing dipole-
+
+dipole IP and resistivity. This work was completed between November and 
+
+December, 2007 in a reconnaissance fashion along 8, 1800 metre-long, variably 
+
+oriented lines in the Los Laureles, El Naranjo and El Zapote areas (Fig. 11). The 
+
+survey was completed by Zonge Engineering and Research Organization Inc., 
+
+Tucson, Arizona. The methods and results of this survey are described in detail in 
+
+Van Reed and Szidarovsky (2008). IP and resistivity pseudosections and modeled 
+
+data are presented in Appendix A. Three lines (lines 7, 8 and 14) completed at the 
+
+Los Laureles prospect identified a shallow IP response which corresponds 
+
+approximately with the mineralized breccia identified on surface and in drilling in 
+
+this area. A deep IP source is postulated by Van Reed and Szidarovsky (2008) at 
+
+the southern end of line 14 at Los Laureles. IP/resistivity data collected along two 
+
+lines (lines 3 and 6) in the El Naranjo area reveal a shallow chargeability anomaly 
+
+centred at about station 800 on line 6. Modeled data appear to suggest that this 
+
+feature deepens to the west. Line 9, completed in the El Zapote area, reveals a 
+
+broad chargeability anomaly at depth. This area corresponds approximately with an 
+
+
+
+45 
+ 
+
+aeromagnetic low central to the zone of anomalous soil geochemistry identified in 
+
+the area. Resistivity data collected in conjunction with the IP survey in general 
+
+shows little variation (Van Reed and Szidarovsky, 2008). 
+
+ 
+
+10.2.5  Summary of exploration work completed by Geoinformatics 
+
+The work completed to date by Kiska (Geoinformatics) has highlighted 
+
+several areas of interest including base- and precious-metal concentrations in soil 
+
+and rock samples. In general, soil and rock sampling in conjunction with the 
+
+airborne magnetic survey provide a good database on which to further evaluate the 
+
+property and on which to target drilling.  
+
+ 
+
+11.0  DRILLING 
+
+ 
+
+In 2007 and 2008 Kiska (Geoinformatics) completed twelve HQ-diameter 
+
+diamond drill holes totalling 2901.5 m (9519 feet) on the La Noria property. 
+
+Drilling included six holes in the El Naranjo area, which tested a NE-trending zone 
+
+of elevated Cu in soils, rocks and stream sediments, 5 holes drilled at the Los 
+
+Laureles showing, testing a NW-trending zone of mineralized tourmaline-quartz-
+
+magnetite - matrix intrusive breccia associated with anomalous Cu-Mo±Au in 
+
+soils, rocks and stream sediments, and a single hole drilled ~ 100 m east of the 
+
+Azulitas claim (Fig. 11). Drilling was completed by Godbe Drilling LLC of 
+
+Montrose, CO, operating in Mexico under Perforaciones Godbe de Mexico S.A. de 
+
+C.V. Kiska (Geoinformatics) used the same field and drilling procedures as used 
+
+by Kennecott at Azulitas (Ghayem et al., 2008).   
+
+
+
+46 
+ 
+
+   Drill hole locations were established 
+
+with hand held GPS and hole azimuth and 
+
+dip were determined with a compass. 
+
+Down hole deviations were monitored 
+
+using a Reflex EZ-Shot tool on regular 50 
+
+m intervals. Upon completion, drill hole 
+
+collars were surveyed using hand held 
+
+GPS and marked with cement blocks 
+
+inscribed with the hole number and PVC 
+
+pipe (Fig. 17). Boxed core from all holes 
+
+completed is currently stored on the property in a rented core storage facility in the 
+
+town of El Placer. Drilling data are summarized in Table 3. A summary of 
+
+analytical results from drilling is presented in Table 2. 
+ 
+
+Table 3. List of 2007-2008 drill holes. 
+
+ 
+
+Drilling in the Los Laureles area tested mineralization exposed at surface, 
+
+where rock samples contain up to 1.4% Cu, 0.17% Mo and 1 g/t Au. This drilling 
+
+intersected areas of mineralized quartz-tourmaline-(magnetite) ± sulphide-matrix 
+
+Hole 
+UTM 
+
+easting 
+UTM 
+
+Northing 
+
+Collar 
+elevation 
+(m a.s.l.) Area 
+
+Length 
+(m) Dip Azimuth 
+
+Date 
+Completed 
+
+DDLN_07_18 3 82802 2608678 138 Las Minas 200.00 -55 180 06/03/2007 
+DDLL_07_01 3 91827 2608782 366 Los Laureles 289.85 -50 040 26/11/2007 
+DDLL_07_02 3 91574 2608867 335 Los Laureles 285.90 -50 040 14/12/2007 
+DDLL_07_03 3 91699 2609306 437 Los Laureles 109.30 -50 220 14/01/2008 
+DDLL_08_04 3 91955 2609112 440 Los Laureles 289.75 -45 220 22/01/2008 
+DDLL_08_05 3 91657 2609100 420 Los Laureles 302.25 -45 050 01/02/2008 
+DDEN_07_01 3 90189 2606815 358 El Naranjo 303.81 -55 360 06/04/2007 
+DDEN_07_02 3 90307 2606822 244 El Naranjo 219.92 -50 360 11/04/2007 
+DDEN_07_03 3 90648 2607001 319 El Naranjo 200.21 -50 360 26/04/2007 
+DDEN_07_04 3 90648 2607001 319 El Naranjo 200.08 -70 360 05/05/2007 
+DDEN_07_05 3 90970 2607125 382 El Naranjo 294.15 -50 340 14/05/2007 
+DDEN_07_06 3 89870 2606693 407 El Naranjo 206.31 -50 340 23/05/2007 
+
+Fig.17. Diamond drill holes DDEN-07-03, -04 
+marked in the field.   
+
+
+
+47 
+ 
+
+breccia and adjacent, variably mineralized, fractured and weakly brecciated 
+
+equigranular granodiorite and equigranular to porphyritic quartz monzonite. The 
+
+main area of brecciation intersected in drilling has been interpreted by Kiska 
+
+geologists as a west-dipping, downward-tapering, structurally-controlled zone 
+
+adjacent to a NW-striking, moderately W-dipping fault (Fig. 7). Significant drill 
+
+intersections from the Los Laureles area (Table 2) include hole DDLL08-05, which 
+
+returned 96 m @ 0.26% Cu, 0.07% Mo and 12.6 ppm Ag, including 44 m @ 
+
+0.53% Cu, 0.12% Mo and 8.3 g/t Ag. This hole intersected mineralized breccia 
+
+from surface to a depth of ~ 50 m, followed by a wide zone of fracturing and weak 
+
+brecciation hosting variable mineralization. Sulphides present include pyrite, 
+
+chalcopyrite, chalcocite (?) and minor bornite. Mineralization encountered to a 
+
+depth of ~ 35 m occurs within a strongly oxidized zone. Deeper in the hole, 
+
+secondary copper minerals diminish. Hole DDLL-07-03, the northerly-most hole 
+
+completed at Los Laureles, intersected 70.2 m @ 0.13% Cu, 0.16% Mo and 15.8 
+
+g/t Ag (Table 2). Drilling down dip and to the west of mineralization exposed at 
+
+surface and encountered in shallow drill holes intersected narrow zones of similar-
+
+grade mineralization (e.g., DDLL07-02: 8 m @ 0.30% Cu, 0.23% Mo; Fig. 7). 
+
+Drill core from Los Laureles contained between <5 and 1000 ppb Au, with most 
+
+samples containing <50 ppb Au.     
+
+A breccia zone mapped ESE of the area of drilling at Los Laureles (East 
+
+Breccia) and associated with elevated Cu ± Mo in soils remains untested by 
+
+drilling. The approximate alignment of the Los Laureles area with alteration zones 
+
+in the El Tiro area to the ESE may reflect shared structural controls along an 
+
+inferred EW to ESE corridor.          
+
+Drilling in the El Naranjo area tested inferred mineralization subjacent to an 
+
+ENE- to NE-trending Cu soil, rock and stream sediment anomaly. Drill holes were 
+
+collared at ~ 100 to 300 m spacing and completed to depths of between ~ 200 and 
+
+
+
+48 
+ 
+
+300 m, testing ~ 1.0 km strike along the zone of anomalous geochemistry in the El 
+
+Naranjo area (Fig. 16). Drilling at El Naranjo intersected wide zones of anomalous 
+
+Cu ± Ag, e.g., 52 m @ 0.15% Cu and 3.7 g/t Ag in hole DDEN-07-04 (Table 2). 
+
+Interpretations by Kiska geologists (Pers. Comm., Rene Romero, May 2010) are 
+
+that the main zone of inferred mineralization may not have been intercepted in this 
+
+drilling.    
+
+Drill hole DDLN07-18, collared ~ 100 m east of the Las Minas II claim 
+
+boundary in the western part of the La Noria concession (Fig. 11), tested 
+
+anomalous Cu and Au in soils. This hole intersected a ~90 m interval of 
+
+geochemically anomalous Cu values (i.e., 100 – 1400 ppm).  
+
+ 
+
+12.0  SAMPLING METHOD AND APPROACH 
+ 
+
+12.1 Historical Sampling 
+ 
+
+There are no records of the sample preparation, analyses and security 
+
+procedures used prior to Kennecott.  
+
+ 
+
+12.2 Sampling by Kennecott 
+ 
+
+Rock, soil, stream sediment and drill core sampling methods and procedures 
+
+used by Kennecott, including all aspects of the field sampling and sample 
+
+description, handling of samples and preparation for dispatch to the assay 
+
+laboratory, are described by Ham (2006). According to Ham (2006), Kennecott 
+
+geologists rigorously followed the internal sampling procedures in accordance with 
+
+their quality control protocols for all soil, rock, channel, stream sediment, and drill 
+
+core samples.   
+
+
+
+49 
+ 
+
+12.3 Sampling by Kiska (Geoinformatics)  
+ 
+
+Kiska informed the author that Geoinformatics followed all of the sampling 
+
+and sample handling procedures developed by Kennecott during the 2006 through 
+
+2008 exploration campaigns, consistent with reporting in 2008 by SRK (Ghayem 
+
+et al., 2008).  
+
+Between 2006 and 2008 a total of 4084 soil samples covering ~ 2354 hectares 
+
+were collected by Geoinformatics technicians supervised by qualified geologists on 
+
+the La Noria and El Tiro concessions (Fig. 11). Soil samples were collected at 25, 
+
+50 and 100 m intervals along 100 m-spaced, NS-oriented lines (Fig. 11). On 
+
+average, 450 grams of B-horizon soil was collected at each sample site, typically 
+
+from depths of between 10 and 30 cm. Samples were placed in porous cloth bags. 
+
+Sample locations were not marked in the field.   
+
+Between 2006 and 2008 Geoinformatics personnel also collected a total of 
+
+1060 rock samples, mainly from the El Naranjo and El Zapote areas, including 
+
+grab, chip, channel and float samples. Samples were collected along road cuts, 
+
+from surface outcrops, in shallow hand trenches and from historical adits. Rock 
+
+chips were primarily collected during the mapping and soil geochemical sampling 
+
+program.  
+
+A large number of samples (~ 715), reported as channel samples were 
+
+collected from shallow hand trenches and along semi-continuous rock exposures in 
+
+the El Naranjo and El Zapote areas. Two channel sample locations were reviewed 
+
+by the author during the property visit, including one site in the El Naranjo area 
+
+and a second site in the El Zapote area. At both locations evidence of continuous 
+
+"channel" sampling was not observed and, in the opinion of the author, samples are 
+
+better described as composite chips across the stated sample widths. A hand trench 
+
+
+
+50 
+ 
+
+visited in the El Naranjo area consisted of a ~ 0.3 to 0.5m wide x ~ 0.5 m deep 
+
+excavation. It had been back-filled and the author was informed by Kiska that hand 
+
+trenches are routinely back-filled on the property as is requested by local residents. 
+
+The author was also informed that sample descriptions were generally not collected 
+
+during trench sampling but that trench samples represent continuous chips or 
+
+channels of bedrock. The author has no reason to believe that this sampling was 
+
+not carried out in accordance with industry standards. 
+
+A total of 2809 core samples were collected from drilling completed on the 
+
+La Noria concession during the 2007 and 2008 programs. Depending on 
+
+mineralization present, sample intervals were between 1 and 3 m. Holes were 
+
+sampled over their entire lengths including across visibly non-mineralized 
+
+material, sampled for consistency. All drill core was sampled by sawing the core in 
+
+half and sending half for assay and storing the other half in boxes on site, with 
+
+sample intervals and numbers appropriately labeled and marked with numbered 
+
+tags stapled to boxes. All handling and sampling of core was supervised by Kiska 
+
+(Geoinformatics) geologists. The core sampling method employed and sample 
+
+intervals used as described to the author and as evident from the core examined are 
+
+considered by the author appropriate for the style of mineralization encountered in 
+
+drilling and being targeted on the property. The core sampling methods employed 
+
+would in the author's opinion effectively capture the average grades and provide 
+
+an accurate representation of the mineralization present without overrepresentation 
+
+of any higher grade intervals.  
+
+Kiska has informed the author that no know recovery factors could impact the 
+
+reliability or accuracy of the drill results.     
+
+The sample composite assays listed in Table 2 may not reflect true widths of 
+
+mineralization. The orientations of mineralized zones encountered in drilling at El 
+
+
+
+51 
+ 
+
+Naranjo are unknown and thus true widths are undetermined. Current 
+
+interpretations of mineralization at Los Laureles suggest that drill intercepts may 
+
+approximately represent true widths (Fig. 7).    
+ 
+
+13.0 SAMPLE PREPARATION, ANALYSIS AND SECURITY 
+
+ 
+
+Kiska has informed the author that sample practices implemented by 
+
+Geoinformatics on the La Noria project between 2006 and 2008 were the same as 
+
+those developed and implemented by Kennecott on the La Noria project (Ham, 
+
+2006). This is consistent with information reported previous by SRK (Ghayem et 
+
+al., 2008). No documentation was made available to the author to indicate the 
+
+security measures taken to ensure chain of custody of all samples submitted for 
+
+analysis. However, the following information relating to sample handling was 
+
+provided. Core samples sent for analyses were labeled, bagged, sealed with plastic 
+
+cable ties and placed in sacks appropriately labeled with sample numbers and 
+
+addresses and sealed. ALS-Chemex picked samples up at site for transport to their 
+
+preparation laboratory in Hermosillo. If Chemex transportation was unavailable 
+
+samples were transported by Kiska (Geoinformatics) personnel to Mazatlan where 
+
+they were shipped via DHL to the ALS-Chemex Hermosillo preparation laboratory 
+
+(Ignacio Salazar #688 Col. Viñedos, Hermosillo, Sonora, 83127). Prior to shipment 
+
+of pulps for analysis to ALS-Chemex in North Vancouver, B.C., samples were 
+
+crushed to ninety percent passing -10 mesh screen (CRU-32). A sub-sample of 
+
+1,000 grams was prepared using a riffle splitter (SPL-21) and pulverized to eighty-
+
+five percent passing -75 micron (PUL-32). One hundred grams of each pulverized 
+
+sample were shipped directly to the ALS-Chemex laboratory in North Vancouver 
+
+for assaying using two separate analytical procedures. 
+
+
+
+52 
+ 
+
+The ALS Chemex North Vancouver laboratory is a fully equipped analytical 
+
+laboratory (http://www.alsglobal.com) accredited to ISO 17025:2005 by the 
+
+Standards Council of Canada for a number of specific test procedures, including 
+
+fire assay for gold with atomic absorption and gravimetric finish, multi-element 
+
+inductively coupled plasma optical emission spectroscopy ("ICP-AES") and 
+
+atomic absorption assays for silver, copper, lead and zinc. Drill core, rock, soil and 
+
+stream sediment samples submitted by Kiska (Geoinformatics) were prepared 
+
+using industry standard procedures. Gold was assayed using a standard fire assay 
+
+procedure and atomic absorption finish (method code: Au-AA23) on thirty gram 
+
+charges. A suite of thirty-three elements was analyzed by four-acid digestion and 
+
+ICP-AES (method code ME-ICP61) on 0.5 gram sub-samples. Elements exceeding 
+
+concentration limits of ICP-AES were re-assayed by single element aqua regia 
+
+digestion and atomic absorption spectrometry (method code element-AA46).  
+
+The quality assurance and quality control program implemented by Kennecott 
+
+during exploration work conducted on the La Noria project prior to 2006 exceeded 
+
+industry best practices as reviewed by SRK in 2006 (Ham, 2006). Geoinformatics 
+
+implemented the same quality control procedures during work completed in 2006 
+
+to early 2008 (Ghayem et al., 2008) and the author was informed by Kiska that 
+
+these same practices continued to be implemented during the balance of work 
+
+undertaken in 2008. Control samples were inserted in all batches of twenty samples 
+
+submitted for preparation and assaying at a rate of one blank, one project specific 
+
+standard and one duplicate. The duplicate sample was prepared by the preparation 
+
+laboratory from coarsely crushed sample prior to pulverization. The sample blank 
+
+was sourced from a quarry near the village of San Marco and consisted of visibly 
+
+un-mineralized rhyolite porphyry, sized manually to replicate core fragments. 
+
+Geoinformatics chose to use commercially available certified control samples. 
+
+Three copper-gold certified control sample types were purchased from CDN 
+
+
+
+53 
+ 
+
+Resources Laboratories Ltd. (www.cdnlabs.com; #2, 20148 - 102nd Avenue, 
+
+Langley, B.C., Canada, V1M 4B4, 604-882-8422). Geoinformatics also relied on 
+
+the internal control measures implemented by the primary laboratory. 
+
+External and internal quality control data collected between 2005 to early 
+
+2008 by Geoinformatics and Kennecott covering all exploration work on the La 
+
+Noria property (both internal claims, which currently do not form part of the La 
+
+Noria project, and the current La Noria and El Tiro concessions) were evaluated by 
+
+SRK (Ghayem et al., 2008) who concluded that in general, copper, molybdenum 
+
+and silver values can be reasonably reproduced from coarse reject duplicates and 
+
+pulp replicate assays, suggesting that the assay results reported by ALS-Chemex 
+
+are generally reliable. In addition, Kiska made available to the author two quality 
+
+control reports pertaining to the analysis of 2008 quality control data from the La 
+
+Noria property (Geoinformatics, 2008a, b). These reports, appended to this 
+
+technical report (Appendix B), are consistent with the general conclusion that 
+
+analytical data produced by ALS-Chemex from samples submitted by 
+
+Geoinformatics from the La Noria property are reliable.  
+
+Although the author has not independently verified the quality of the 2007 
+
+and 2008 analytical data, earlier Technical reporting by SRK and QA/QC reports 
+
+provided to the author by Kiska (Geoinformatics) suggest that the quality of the 
+
+data is within acceptable limits and that Kiska (Geoinformatics) used sampling, 
+
+sample preparation and analytical procedures adequate and compatible with 
+
+industry standards for an early-stage exploration project.   
+
+ 
+
+ 
+
+ 
+
+
+
+54 
+ 
+
+14.0 DATA VERIFICATION 
+
+ 
+
+The author conducted a site visit to the La Noria project May 19th to 22nd, 
+
+2010. The visit comprised evaluation of the main areas of geological interest and a 
+
+review of the work completed by Kiska (Geoinformatics) personnel at these sites, 
+
+including review of drill core from a sub-set of holes and a review of areas of other 
+
+field work including mapping, sampling and trenching. The author was 
+
+accompanied during the property visit by Kiska project manager and geologist 
+
+Rene Romero.  
+
+While check assays were not carried out by the author on samples from the La 
+
+Noria project, the identification of visible copper ± molybdenite mineralization at 
+
+several locations in drill core and outcrop clearly indicates the presence, at least 
+
+locally, of Cu- ± Mo-bearing material on this project. In drill core examined, 
+
+anomalous Cu and Mo assay values were, in most cases, associated with intervals 
+
+of visible Cu (chalcopyrite, secondary Cu minerals, bornite) and/or Mo 
+
+(molybdenite) mineralization. Copper and/or Molybdenum mineralization was 
+
+noted in the field at most sites visited that were associated with anomalous rock 
+
+sample results.  
+
+There is a lack of sampling details attached to a percentage of the work 
+
+reviewed, in particular the lack of descriptive data associated with trench sampling, 
+
+however the sampling and analytical procedures followed, as reported to the author 
+
+by Kiska, in the opinion of the author, are reliable. Core sampling and handling 
+
+procedures as described to the author and evident from drill core examined, in the 
+
+opinion of the author, meet or exceed industry standards.   
+
+In addition, sampling protocols and other sampling handling procedures put in 
+
+place by Kiska (Geoinformatics) during work completed by Geoinformatics in 
+
+2006 to early 2008 were evaluated and are reported on in SRK Consulting 
+
+
+
+55 
+ 
+
+(Canada) Inc. technical reports (Ham, 2006; Ghayem et al., 2008). Although these 
+
+reports include work completed on the Azulitas and surrounding claim blocks, 
+
+which do not form part of the current property, they also incorporate sampling and 
+
+other work carried out by Geoinformatics and Kennecott on the La Noria 
+
+concession during this period. The authors of these reports express the opinion that 
+
+field procedures used by Geoinformatics met or exceeded industry best practices.  
+
+All analyses reported on here have been conducted by an internationally 
+
+recognized and accredited laboratory (ALS-Chemex Laboratories). External and 
+
+internal quality control data collected between 2005 to early 2008 by 
+
+Geoinformatics and Kennecott covering all exploration work on the La Noria 
+
+property (both internal claims and the current La Noria concession) were evaluated 
+
+by SRK (Ghayem et al., 2008) who concluded that in general, copper, 
+
+molybdenum and silver values the assay results reported by ALS-Chemex are 
+
+generally reliable. Quality control reports pertaining to the analysis of quality 
+
+control data for 2008 from the La Noria property (Geoinformatics, 2008a, b) 
+
+further suggest that analytical data (Cu, Au) produced by ALS-Chemex are 
+
+reliable. Analytical data in the form of electronic data bases provided to the author 
+
+by Kiska and reported on here have been checked for consistency against PDF files 
+
+of original ALS-Chemex analytical certificates.          
+   
+
+15.0 ADJACENT PROPERTIES 
+
+ 
+
+Third party claims are located within the boundaries of the La Noria 
+
+concession (Fig. 2). This group of claims hosts the NI43-101 compliant Azulitas 
+
+mineral resource (5.63 Mt @ 0.90% Cu equivalent using a 0.30% Cu-eq. cut-off: 
+
+Ghayem et al., 2008). The following description of mineralization at Azulitas is 
+
+taken from Ghayem et al. (2008). Mineralization comprises breccia and fracture-
+
+
+
+56 
+ 
+
+related polymetallic sulphides contained within a granodiorite intrusion with minor 
+
+monzonite porphyry phases. Surface drilling and outcrop has delineated a steeply 
+
+plunging pipe-like sulphide body measuring approximately 300 m in its long axis 
+
+by 50 m. Hence, the main deposit is structurally controlled. The main sulphides are 
+
+chalcopyrite, pyrite, molybdenite, pyrrhotite with minor bornite, sphalerite and 
+
+galena. In the periphery of the body, sulphides fill fracture sets that locally grade 
+
+into minor clast-supported breccias. The deposit exhibits classic early potassic 
+
+alteration characterized by biotite-magnetite-K-feldspar-quartz-chalcopyrite 
+
+alteration assemblages, overprinted by later sericite-chlorite-quartz (intermediate 
+
+argillic) to sericite-quartz-pyrite (phyllic) alteration assemblages. Molybdenum is 
+
+subordinate to the copper mineralization and exhibits no direct relationship to 
+
+chalcopyrite mineralization. It occurs as coarse infill within brecciated and highly 
+
+fractured portions of the mineralized system, typically within intense sericite-
+
+chlorite altered zones. 
+
+Immediately north of and contiguous with the La Noria property is the  
+
+Chapalota property of Riversi de Resources Inc. (TSX-V. RRI) currently optioned 
+
+to Arcus Development Group Inc. (TSX-V .ADG). Arcus is explori ng this earl y-
+
+stage project for mesothermal vein-related gold mineralization (Strikland, 2008).   
+
+The information discussed in relation to these properties is not necessarily 
+
+indicative of the mineralization on the La Noria concession. 
+
+ 
+
+16.0 MINERAL PROCESSING AND METALLURGICAL TESTING 
+
+ 
+
+No metallurgical test work has been conducted on any samples from the La 
+
+Noria Concession.  
+
+ 
+
+
+
+57 
+ 
+
+17.0 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES 
+
+ 
+
+The La Noria property represents an early-stage exploration project. At this 
+
+time no mineral resource or reserve has been established on the La Noria 
+
+concession. 
+ 
+
+18.0 OTHER RELEVANT DATA AND INFORMATION 
+
+ 
+
+No relevant data or information has knowingly been omitted by the author. 
+ 
+
+19.0 INTERPRETATION AND CONCLUSIONS 
+
+ 
+
+The author has received and reviewed technical data from exploration 
+
+programs completed in 2006 – 2008 by Kiska Metals Corporation 
+
+(Geoinformatics) on their La Noria property, Sinaloa State, Mexico. The work 
+
+completed includes grid-based soil sampling, rock sampling, IP/resistivity ground 
+
+geophysical surveys, preliminary geological mapping and follow-up diamond 
+
+drilling at three locations. The work focused on five areas of interest, including the 
+
+Los Laureles, El Zapote, El Tiro, El Naranjo and El Cobrozo areas. The most 
+
+advanced target on the project is the Los Laureles prospect, located in the east-
+
+central part of the claims. Five HQ-diameter diamond drill holes totalling 1276.7 m 
+
+(4189 feet) were completed at Los Laureles testing breccia-related Cu-Mo-Ag 
+
+mineralization exposed in outcrop and located within a ~ 1100 m x 100-800 m 
+
+wide zone of elevated Cu-Mo±Au geochemistry in soils. Drill results from Los 
+
+Laureles included 44 m @ 0.53% Cu, 0.12% Mo and 8.3 g/t Ag. Breccia-related 
+
+mineralization encountered in drilling at Los Laureles remains open at depth and 
+
+along strike. A review of drill core from the Los Laureles area revealed that higher-
+
+
+
+58 
+ 
+
+grade, near-surface copper mineralization in hole DDLL-08-05 in part reflects a 
+
+supergene enrichment zone. IP data may indicate a deep sulphide zone at Los 
+
+Laureles.  
+
+Six HQ diamond drill holes totalling 1424.5 m (4673 feet) were completed at 
+
+the El Naranjo prospect, centred ~ 2.5 km SW of Los Laureles. Drilling tested a 
+
+ENE- to NE-trending zone of elevated Cu and other metals in soil, rock and stream 
+
+sediment samples, extending ~ 1600 m. Widely-spaced drilling along ~ 1.0 km of 
+
+this zone encountering broad intersections of anomalous Cu ± Ag, e.g., 52 m @ 
+
+0.15% Cu and 3.7 g/t Ag. The significance of drill results at El Naranjo is unclear.     
+
+Soil sampling in the El Zapote area, ~ 3 km north of Los Laureles, has 
+
+outlined an ~ 800 x 800 m area containing zones of elevated Zn, Pb, Ag, Mo, 
+
+As±(Cu-Au). A second smaller area defined by anomalous soil and rock sample 
+
+results was identified to the SW of the main anomaly. Copper and molybdenite 
+
+mineralization in this area occur within fractured and locally sheared, weakly 
+
+chloritic, medium-grained granodiorite. Molybdenum and copper values from a 
+
+series of "channel" samples collected along a ~ 250 m exposure of granodiorite at 
+
+the western margin of the soil grid range between 4 and 2280 ppm Mo and 55 and 
+
+1415 ppm Cu (average value 0.03% Mo, 0.06% Cu) (Figs. 8b and c). Anomalous 
+
+soil results in other areas of the El Zapote grid remain unexplained. Parts of the El 
+
+Zapote grid are underlain by thick fluvial sedimentary deposits, locally up to 
+
+several metres in thickness. During the course of future work in this area it should 
+
+be established whether or not any of this material is represented in the soil data.     
+
+In the El Tiro area, east of Los Laureles, a broad zone of elevated Cu (>250 
+
+ppm) ± Mo in soils is underlain in part by weakly altered granodiorite and/or 
+
+diorite. Minor fracture-related secondary Cu mineralization was noted at one 
+
+location within the El Tiro grid, however the source of the wide-spread elevated 
+
+
+
+59 
+ 
+
+copper ± molybdenum contents in soils remains unexplained. No drilling has been 
+
+completed to date in this area.   
+
+The El Cobrozo area, in the north-eastern part of the claims, has seen the least 
+
+amount of work to date. This area was not visited by the author and lacks sample 
+
+data.      
+
+In the opinion of the author the work completed by Kiska (Geoinformatics) on 
+
+the La Noria property, including the density and quantity of sampling, was 
+
+appropriate for an early-stage project and for the style of mineralization observed 
+
+and being targeted (i.e., disseminated, fracture and breccia related sulphide 
+
+mineralization). The data appear to adequately and reliably represent the 
+
+mineralization present in drill core and surface exposures reviewed. Anomalous 
+
+soil sample results remain unexplained in some areas of the property, and further 
+
+work is required to evaluate these areas. The analytical data appear reliable given 
+
+the observed mineralization in core and surface exposures reviewed. Certain 
+
+samples lack sampling details and in some cases sample sites were back-filled 
+
+and/or lack labels in the field making their evaluation difficult. Surface samples at 
+
+two locations on the property referred to as channel samples appear, in the opinion 
+
+of the author, to more closely reflect composite chips. All analyses reported on 
+
+here have been conducted by an internationally accredited laboratory (ALS-
+
+Chemex Laboratories) and analytical data presented and reported on are believed 
+
+to be reliable and accurate.  
+
+The results reported on here indicate that the La Noria property hosts 
+
+intrusive-related Cu-Mo-Ag magmatic-hydrothermal mineralization associated 
+
+with zones of brecciation and fracturing. At the Los Laureles prospect 
+
+mineralization encountered in drilling remains open along strike and at depth. 
+
+Geochemical anomalies defined in the El Zapote and El Tiro areas represent 
+
+additional areas of interest which have not been fully explained and are potential 
+
+
+
+60 
+ 
+
+drill targets. Drilling in the El Naranjo area has confirmed the presence of Cu and 
+
+Ag mineralization in the sub-surface. An area of strong As (± Au, Bi, Sb) in soils 
+
+at the SW extent of the soil grid/area of drilling in the El Naranjo area does not 
+
+appear to have been intersected in the drilling.   
+
+In the opinion of the author, the work completed to date on the La Noria 
+
+property met its original objectives of testing for and identifying areas of potential 
+
+economic interest. The project is at an early stage and the results to date indicate 
+
+that the geological and structural setting is prospective for discovery of Cu-Mo-Ag 
+
+mineralization. Further exploration work is warranted and recommended. 
+
+ 
+
+20.0 RECOMMENDATIONS 
+
+ 
+
+         Based on the results of work completed to date on the property it is the opinion of the
+
+author that Kiska's La Noria project is of sufficient merit to warrant further exploration.
+
+A work program is recommended designed to further delineate and test targets at Los 
+
+Laureles, El Tiro and El Zapote and to evaluate other areas of the claims.
+
+ 
+
+20.1 Program 
+
+        The program would consist of geological mapping and prospecting of the El Zapote
+
+and El Tiro soil anomalies, including trenching of anomalous zones of existing soil
+
+geochemistry. Further work would focus on the Los Laureles breccia including detailed
+
+mapping and sampling within the Los Laureles and East Breccia zones and the
+
+completion of Induced Polarization (IP) and ground magnetics surveys over the entire
+
+system including the East Breccia. Diamond drilling would consist of follow up along 
+
+strike and down dip of successful 2008 drilling results on the western portion of the
+
+ Los Laureles breccia and diamond drill testing of targets delineated over the eastern
+
+ portion of the Los Laureles breccia zone. The estimated budget to complete the
+
+ first phase work is $701,944 USD.
+
+ 
+
+
+
+61 
+
+         20.2 Budget 
+
+UNITS RATE SUBTOTAL TOTAL
+WAGES:
+
+Project Geologist 16 400$         6,400.00$     
+Geologist 55 200           11,000.00     
+Sampler 55 55             3,025.00       
+Sampler 55 55             3,025.00       
+IP Helper 55 40             2,200.00       
+IP Helper 55 40             2,200.00       
+
+27,850.00     
+RENTALS 
+
+Phone 2 350.00$    700.00$        
+Truck 1 16 140.00      2,240.00       
+Truck 2 55 140.00      7,700.00       
+Truck 3 55 140.00      7,700.00       
+
+18,340.00     
+SUBCONTRACTS
+
+IP Geophysics (30 Line Kilometres) 90,000.00$   
+Ground Magnetics 10,000.00     
+Diamond Drilling (1400m + Water Truck) 350,000.00   
+
+450,000.00   
+
+ANALYSES
+Silts 20 31 620.00$        
+Soils 250 31 7,750.00       
+Rock Geochem Basic 950 34 32,300.00     
+
+40,670.00     
+
+EXPENSES
+Accomodation 110 45 4,950.00$     
+Meals 110 25 2,750.00       
+Camp Supplies 110 20 2,200.00       
+Gasoline 110 25 2,750.00       
+Sampling Supplies 5,000.00       
+Saftey Supplies 250.00          
+
+17,900.00$    
+
+
+
+62 
+
+ESTIMATED POST-FIELD EXPENSES
+
+Report 15,000.00$           
+15,000.00      
+
+SUBTOTAL 569,760.00    
+TOTAL 569,760.00$  
+
+CONTINGENCY 10% 56,976.00      
+SUBTOTAL 626,736.00    
+
+HST 12% 75,208.32      
+
+GRAND TOTAL 701,944.32$  
+
+ 
+
+
+
+63 
+ 
+
+21.0 REFERENCES 
+
+ 
+
+Bird, P., 2002. Stress direction history of the western United States and Mexico 
+
+since 85 Ma. Tectonics, v. 21, 1014.   
+
+Coney, P.J., Reynolds, S.J., 1977. Cordilleran Benioff zones. Nature 270, 403 – 
+
+406. 
+
+Gastil, G., Wracher, M., Strand, G., Kear, L., Eley, D., Chapman, D., Anderson, 
+
+C., 1992. The tectonic history of the southwestern United States and Sonora, 
+
+Mexico, during the past 100 M.Y. Tectonics, v. 11, 990-997. 
+
+Geoinformatics, 2008a. QAQCR Summary report produced 10/4/2008. Internal 
+
+report on quality control samples for copper analysis by Geoinformatics 
+
+Exploration Inc. 9p. 
+
+Geoinformatics, 2008b. QAQCR Summary report produced 10/4/2008. Internal 
+
+report on quality control samples for gold analysis by Geoinformatics 
+
+Exploration Inc. 9p. 
+
+Ghayem, E., Weiershäuser, L., Couture, J-F., 2008. Mineral resource estimation, 
+
+Azulitas polymetallic deposit, Sinaloa, Mexico. Independent technical report 
+
+prepared by SRK Consulting (Canada) Inc. for Geoinformatics Exploration 
+
+Inc., 101 pages.  
+
+Ham, A., 2006. Technical report on the La Noria exploration concession, Sinaloa, 
+
+Mexico. Independent technical report prepared by SRK Consulting (Canada) 
+
+Inc. for Geoinformatics Exploration Inc., 123 pages.  
+
+Hildenbrand, T.G., Berger, B., Jachens, R.C., Ludington, S., 2000. Regional crustal 
+
+structures and their relationship to the distribution of ore deposits in the 
+
+western United States based on magnetic and gravity data. Economic 
+
+Geology, v. 95, 1583-1604.  
+
+
+
+64 
+ 
+
+Seedorff, E., Dilles, J. H., Proffett, J. M., Jr., Einaudi, M. T., Zurcher, L., Stavast, 
+
+W. J. A., Barton, M. D., and Johnson, D. A., 2005. Porphyry deposits: 
+
+Characteristics and origin of hypogene features: 100th Anniversary Volume 
+
+of Economic Geology, 251-298.   
+
+Staude, J.G., Barton, M.D., 2001. Jurassic to Holocene tectonics, magmatism and 
+
+metallogeny of northwestern Mexico. GSA Bulletin, v. 113, 1357-1374.  
+
+Strickland, D., Technical Report on the Chapalota Property, Sinaloa, Mexico. 
+
+Independent technical report prepared for Arcus Development Group Inc., 31 
+
+pages.    
+
+Valencia, V.A., Ruiz, J., Barra, F., Geheris, G., Ducea, M., Titley, S.R., Ochoa-
+
+Landin, L., 2005. U-Pb and Re-Os molybdenite geochronology from La 
+
+Caridad porphyry copper deposit: insights for the duration of magmatism and 
+
+mineralization in Nacozari District, Sonora, Mexico. Mineralium Deposita, v. 
+
+40, 175-191.  
+
+Van Reed, E., Szidarovsky, A., 2008. Dipole-dipole time domain IP/resistivity 
+
+surveys, La Noria Project, Los Naranjos, Los Laureles and El Zapote sites, 
+
+Sinaloa, Mexico. Unpublished technical report prepared for Minera 
+
+Geoinformatica, S.A. de C.V. by Zonge Engineering and Research 
+
+Organization Inc., 24p. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+65 
+ 
+
+22.0 DATE AND SIGNATURE PAGE 
+ 
+
+ To accompany the report entitled: 2010 Technical Report on the La Noria Mineral 
+Project, Sinaloa, 
+
+Mexico, dated October 1, 2010. 
+ 
+I, Allan Montgomery, residing at 361 Brimley Court, Kingston, Ontario do hereby certify that: 
+ 
+1) I am an independent Consulting Geologist with an office at 361 Brimley Court, Kingston, Ontario, 
+
+Canada: 
+
+2) I am a graduate of the University of British Columbia, Vancouver, B.C., Canada, with a B.Sc. in 
+Geology. I obtained an M.Sc. in Geology (Minex) from Queen's University, Kingston, Ontario in 
+2003. I am currently enrolled in a Ph.D. program at Queen's University. I have practiced my 
+profession continuously since 1986; 
+
+3) I am a registered Professional Geoscientist with the Association of Professional Engineers and 
+Geoscientists of British Columbia (APEGBC) (#19929) in good standing; 
+
+4) I have personnally inspected the La Noria project during a site visit completed in between May 19th 
+and 22nd, 2010; 
+
+5) I have read the definition of "qualified person" set out in National Instrument 43-101 and certify that 
+by virtue of my education, affiliation to a professional association and past relevant work experience, 
+I fulfill the requirements to be a "qualified person" for the purposes of National Instrument 43-101 
+and this technical report has been prepared in compliance with National Instrument 43-101 and Form 
+43-101F1; 
+
+6) I, as a qualified person, am independent of the issuer as defined in Section 1.4 of National Instrument 
+43-101; 
+
+7) I am responsible for the preparation of all sections of this technical report entitled "2010 Technical 
+Report on the La Noria Mineral Project, Sinaloa, Mexico"; 
+
+8) I was retained by Evrim Metals Corporation to prepare a technical report for the La Noria exploration 
+project in accordance with NI 43-101 and Form 43-101F1 guidelines. The preceding report is based 
+on a site visit, on review of project files and discussions with Kiska Metals Corporation personnel; 
+
+9) That, as of the date of this certificate, to the best of my knowledge, information and belief, this 
+technical report contains all scientific and technical information that is required to be disclosed to 
+make the technical report not misleading; 
+
+10) I hereby consent to use of this report for submission to any Provincial regulatory authority; 
+
+11) I consent to the filing of the technical report with any stock exchange and other regulatory authority 
+and any publication by them for regulatory purposes, including electronic publication in the public 
+company files on their websites accessible by the public, of the technical report. 
+  
+
+         "A. Montgomery"  
+ 
+Kingston, Canada Allan Montgomery, M.Sc., P.Geo 
+October 1, 2010 Consulting Geologist 
+
+  
+
+
+
+
+"

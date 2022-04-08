@@ -1,0 +1,7584 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Technical_rpt_2_28_13
+
+
+NI43-101 TECHNICAL REPORT
+
+GP PROJECT
+
+Effective Date: January 10, 2012
+
+Issue Date: February 28, 2013
+
+Kamloops Mining Division
+Merritt Area, British Columbia, Canada
+
+TRIM Sheets 092I034, 092I034
+UTM (NAD 83) ZONE 10 617000E 5582000N
+
+FOR
+
+CAROLINA CAPITAL CORP.
+2075 West 37th Avenue
+
+Vancouver, BC, V6M 1N7
+
+Wesley Raven, P. Geo.
+
+February 28, 2013
+
+
+
+2
+
+DATE AND SIGNATURE PAGE
+
+Effective Date of the report: January 10, 2012
+
+Date Report Signed: February 28, 2013
+
+"Wesley Raven"
+
+Wesley Raven, B.Sc., P.Geo
+Consulting Geologist, Qualified Person
+
+
+
+3
+
+CERTIFICATE OF AUTHOR – Wesley Raven
+
+1. I, WESLEY RAVEN, P.Geo., of 108-1720 West 12th Avenue, Vancouver, British
+Columbia hereby certify:
+
+2. I am the-author of the report entitled "NI43-101 Technical Report, GP Property,
+Kamloops Mining Division", dated February 28, 2013.
+
+3. I was retained as an independent geological consultant to Carolina Capital Corp.
+
+4. I am a graduate of the University of British Columbia (1983) and hold a B.Sc. degree in
+geology. I have been employed in my profession by various companies since 1983. I am
+a member of the Association of Professional Engineers and Geoscientists of British
+Columbia, and have been registered since 1992. I am a Fellow of the Geological
+Association of Canada and have been a member since 1989. I am a qualified person for
+the purposes of this Instrument on the basis of my education, affiliation with a
+professional association and past relevant work experience, which includes work in
+epithermal vein systems in central British Columbia and in Nevada.
+
+5. I made a one-day site visit to the GP on January 10, 2012.
+
+6. I am responsible for all items of this technical report on the GP Property, from
+information obtained by myself during the property examination and from the sources
+listed in the References section of this report.
+
+7. I am independent of, and have no direct involvement with Carolina Capital Corp. or
+with Qualitas Holdings Corp. or Mike Magrum or Novus Gold Corp. as defined in NI
+43-101, Section 1.5 and in Section 3.5 of the Companion Policy to NI 43-101.
+
+8. I have no prior involvement on the GP Property except for my time spent on reviewing
+the historical database, reviewing available government maps and reports, my site visit,
+and preparation of this technical report.
+
+9. I have read NI 43-101, Form 43-101F1, and 43-101CP and the technical report has been
+prepared in compliance with those regulations.
+
+10. As of the date of this report I am not aware of any material fact or material change with
+respect to the subject matter of the report that is not reflected in the report, the omission
+to disclose which makes the report on the subject properly misleading.
+
+"Wesley Raven"
+_____________________________
+
+Wesley Raven, P. Geo.
+DATED at Vancouver, British Columbia, this 28th day of February, 2013.
+
+
+
+4
+
+TABLE OF CONTENTS
+
+DATE AND SIGNATURE PAGE ............................................................................................................ 2
+CERTIFICATE OF AUTHOR – Wesley Raven, P.Geo.......................................................................... 3
+1.0 SUMMARY ........................................................................................................................................... 5
+2.0 INTRODUCTION ................................................................................................................................ 6
+3.0 RELIANCE ON OTHER EXPERTS ................................................................................................... 6
+4.0 PROPERTY DESCRIPTION AND LOCATION .............................................................................. 6
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND
+PHYSIOGRAPHY .................................................................................................................................... 11
+6.0 HISTORY............................................................................................................................................. 12
+7. 0 GEOLOGICAL SETTING AND MINERALIZATION................................................................. 12
+
+7.1 Geology of the Spences Bridge Group ............................................................................... 15
+7.2 GP Property Geology............................................................................................................ 17
+7.3 Mineralization ....................................................................................................................... 19
+
+8.0 DEPOSIT TYPES ................................................................................................................................ 21
+9.0 EXPLORATION ................................................................................................................................. 22
+10.0 DRILLING......................................................................................................................................... 28
+11.0 SAMPLE PREPARATION, ANALYSES AND SECURITY........................................................ 28
+12.0 DATA VERIFICATION................................................................................................................... 29
+13.0 MINERAL PROCESSING AND METALLURGICAL TESTING .............................................. 30
+14.0 MINERAL RESOURCE ESTIMATES............................................................................................ 30
+15.0 MINERAL RESERVE ESTIMATES................................................................................................ 30
+ITEMS 16.0-22.0 ADDITIONAL REQUIREMENTS FOR ADVANCED TECHNICAL
+REPORTS ............................................................................................................................. 30
+23.0 ADJACENT PROPERTIES.............................................................................................................. 30
+24.0 OTHER RELEVANT DATA ND INFORMATION..................................................................... 30
+25.0 INTERPRETATION AND CONCLUSIONS................................................................................ 30
+26.0 RECOMMENDATIONS.................................................................................................................. 31
+27.0 REFERENCES................................................................................................................................... 33
+
+LIST OF FIGURES
+
+Figure 1. Location Map ............................................................................................................................. 8
+Figure 2. Claim Map .................................................................................................................................. 9
+Figure 3. Regional Geology .................................................................................................................... 14
+Figure 4. Spences Bridge Group Location ............................................................................................ 16
+Figure 5. GP Property Geology .............................................................................................................. 18
+Figure 6. Soil Sample Anomalous Trends ............................................................................................ 20
+Figure 7. GP Rock & Silt Samples .......................................................................................................... 24
+Figure 8. Au Soil Geochemistry ............................................................................................................. 26
+Figure 9. As Soil Geochemistry .............................................................................................................. 27
+
+LIST OF TABLES
+
+Table 1. List of Tenures ........................................................................................................................... 10
+Table 2. 2011 Rock Samples .................................................................................................................... 23
+Table 3. 2012 Summary of Standard Performance .............................................................................. 29
+Table 4. 2012 Rock Samples .................................................................................................................... 30
+Table 5. 2012 GP Budget.......................................................................................................................... 32
+
+
+
+5
+
+1.0 SUMMARY
+
+Carolina Capital Corp. is earning a 100% interest, subject to a 2.0% net smelter return
+(NSR) royalty in the GP property, an epithermal precious metal project. The property is
+currently 50% owned by Qualitas Holdings Corp., a private British Columbia Corporation that
+is arm's length to Carolina Capital Corp. and Mike Magrum, a private individual also at arms'
+length to Carolina Capital Corp. Mike Magrum's 50% interest in the property was assigned
+from Novus Gold Corp. The road accessible GP property lies 5 kilometres southwest of Spences
+Bridge, British Columbia and consists of four claims totaling 1978 hectares.
+
+The GP property lies within the Lower Cretaceous Spences Bridge Group, an andesitic
+to rhyolitic volcanic arc belt of rocks, lying in south central British Columbia. This belt stretches
+from the north of Princeton to the west of Cache Creek with additional outliers continuing
+further north to Gang Ranch. The Spences Bridge Gold Belt is emerging as a new epithermal
+precious metal exploration target.
+
+The GP property is largely underlain andesitic lava flows of the Spius Formation. Local
+interbeds of Pimainus Formation volcaniclastics were noted lower down the slopes on the
+western part of the property. Abundant epithermal quartz detritus was noted throughout the
+western half of the property, including agates, discontinuous veins and veinlets, clots, blowouts
+and felsenmeer.
+
+A program of prospecting, property wide grid soil sampling and rock sampling was
+completed during the fall of 2011. The 2011 GP property exploration program has met with
+some success. A NW trending Au-in-soil and As-in-soil linear anomaly in excess of three
+kilometres in length was located during the 2011 program. In additional, several areas of
+chalcedonic quartz rubble, felsenmeer and veins were noted along this trend.
+
+The GP property warrants further exploration for epithermal precious metals deposits.
+The northern section of the property wide grid, encompassing the NW trending anomaly needs
+to prospected and the soil grid needs to be tightened to from the current 200 metres by 50
+metres to 50 metres by 25 metres over an area 3,000 metres long by 1,700 metres wide. The cost
+of this program is estimated at $225,000.
+
+
+
+6
+
+2.0 INTRODUCTION
+
+The purpose of this report is to summarize the work completed on the GP property in an
+NI43-101 compliant report for Carolina Capital Corp. who will use the report to constitute
+Carolina Capital Corp.'s Qualifying Transaction under TSX Venture Exchange Policy 2.4 Capital
+Pool Companies. Carolina Capital Corp. expects it will be a Tier 2 Mining Issuer upon Exchange
+approval of the Qualifying Transaction. Carolina Capital Corp is earning a 100% interest in the
+GP property from Qualitas Holdings Corp. and Mike Magrum, who jointly hold the property,
+each having a 50% interest.
+
+This report has been prepared as the request of Suzanne Wood, President and CEO of
+Carolina Capital Corp. utilizing the sources listed in the "References" section of this report and
+from information obtained by the author from a site visit. The site visit was completed on
+January 10, 2012 during which time the author collected 3 rock samples from just west of the
+western property boundary which were submitted to Acme Analytical for analyses.
+
+3.0 RELIANCE ON OTHER EXPERTS
+
+The author is not relying on a specific report or opinion of any experts. Information
+regarding the general geologic setting has been taken from various Provincial and Federal
+mapping programs by the Ministry of Energy Mines and Petroleum Resources and well as the
+Geological Survey of Canada. In addition the author has reviewed publically available
+documents such as Assessment Reports on properties in the general area as well as a review of
+Minfile data from Provincial Government archives. The ownership of the claims comprising the
+property and the ownership of the surrounding claims has been taken from the Mineral Titles
+Online (MTO) database maintained by the British Columbia Ministry of Energy and Mines. The
+data on this site is assumed to be correct. The author checked the claim status and ownership of
+the property on MTO at both the effective and issue dates of this technical report.
+
+The section on the History of the property area has been taken from the British
+Columbia Ministry of Energy and Mines Assessment Files. The geological assessment reports
+have been written by competent geologists and engineers to the industry standards of the day.
+The rock, soil and silt analyses were completed by reputable Canadian assay labs, in accord
+with the industry standards of the day.
+
+4.0 PROPERTY DESCRIPTION AND LOCATION
+
+The GP property lies on TRIM claim sheets 092I034 and 092I044 in the Kamloops Mining
+Division (Figure 1). The property consists of four contiguous mineral tenures totaling 1,978.28
+hectares as listed in Table 1 and shown on Figure 2. The mineral tenures are for sub-surface
+rights only, there are no surface rights associated with the tenure. Qualitas Holdings Corp. is
+the registered owner, having a 100% interest in the subject claims; Carolina Capital Corp's
+option agreement is described at the end of this section. The geographic center of the property is
+at approximately 617000E; 5582000N in UTM ZONE 10, (NAD 83), or at 50° 22' 42.3" north
+latitude and 121° 21' 16.0" west longitude. The property is located approximately four
+kilometres southwest of Spences Bridge, BC, and lies between Trans-Canada Highway 1 and
+Provincial Highway 5. Access is via secondary road systems from the Trans-Canada Highway,
+south of Spences Bridge, which provide reasonable access throughout much of the claims.
+
+
+
+7
+
+In order to maintain the claims in good standing assessment work must be done and
+filed with the Provincial Government. Effective July 1, 2012 the Provincial Government changed
+the assessment requirements to maintain mineral tenure in good standing, the changes are as
+follows:
+
+ $5 per hectare for each of the first and second anniversary years;
+
+ $10 per hectare for each of the third and fourth anniversary years;
+
+ $15 per hectare for each of the fifth and sixth anniversary years, and;
+
+ $20 per hectare for each subsequent anniversary year;
+
+ There will be no filing fee, that will be charged only for claim acquisition.
+
+
+
+8
+
+Datum NAD 83 Zone 10 Figure 1. Location Map
+
+
+
+
+
+VancouverVancouverVancouverVancouverVancouverVancouverVancouverVancouverVancouver
+
+LillooetLillooetLillooetLillooetLillooetLillooetLillooetLillooetLillooet
+
+MerrittMerrittMerrittMerrittMerrittMerrittMerrittMerrittMerritt
+
+
+
+
+
+
+CacheCacheCacheCacheCacheCacheCacheCacheCache
+
+CreekCreekCreekCreekCreekCreekCreekCreekCreek
+
+HopeHopeHopeHopeHopeHopeHopeHopeHope PrincetonPrincetonPrincetonPrincetonPrincetonPrincetonPrincetonPrincetonPrinceton
+
+5
+,5
+
+0
+0
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+5
+
+0
+,0
+
+0
+0
+
+m
+N
+
+5
+,7
+
+0
+0
+
+,0
+0
+
+0
+m
+
+N700,000 mE
+
+5
+,6
+
+0
+0
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,6
+5
+
+0
+,0
+
+0
+0
+
+m
+N
+
+600,000 mE 650,000 mE 700,000 mE
+
+600,000 mE 650,000 mE500,000 mE 550,000 mE
+
+500,000 mE 550,000 mE
+
+5
+,6
+
+0
+0
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,6
+5
+
+0
+,0
+
+0
+0
+
+m
+N
+
+5
+,7
+
+0
+0
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+5
+
+0
+,0
+
+0
+0
+
+m
+N
+
+5
+,4
+
+5
+0
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+0
+
+0
+,0
+
+0
+0
+
+m
+N
+
+G
+o
+ld
+
+B
+elt
+
+G
+o
+ld
+
+B
+elt
+
+G
+o
+ld
+
+B
+elt
+
+G
+o
+ld
+
+B
+elt
+
+G
+o
+ld
+
+B
+elt
+
+G
+o
+ld
+
+B
+elt
+
+G
+o
+ld
+
+B
+elt
+
+G
+o
+ld
+
+B
+elt
+
+G
+o
+ld
+
+B
+elt
+
+kilometres
+
+60300
+
+GPGPGPGPGPGPGPGPGP
+
+PropertyPropertyPropertyPropertyPropertyPropertyPropertyPropertyProperty
+S
+
+p
+en
+
+ces
+
+S
+p
+en
+
+ces
+
+S
+p
+en
+
+ces
+
+S
+p
+en
+
+ces
+
+S
+p
+en
+
+ces
+
+S
+p
+en
+
+ces
+
+S
+p
+en
+
+ces
+
+S
+p
+en
+
+ces
+
+S
+p
+en
+
+ces
+
+B
+rid
+
+g
+e
+
+B
+rid
+
+g
+e
+
+B
+rid
+
+g
+e
+
+B
+rid
+
+g
+e
+
+B
+rid
+
+g
+e
+
+B
+rid
+
+g
+e
+
+B
+rid
+
+g
+e
+
+B
+rid
+
+g
+e
+
+B
+rid
+
+g
+e
+
+
+
+9
+
+Datum NAD 83 Zone 10 Figure 2. Claim Map
+
+5
+,5
+
+8
+5
+
+,0
+0
+
+0
+m
+
+N
+625,000 mE 627,500 mE
+
+5
+,5
+
+8
+2
+
+,5
+0
+
+0
+m
+
+N
+5
+
+,5
+8
+
+7
+,5
+
+0
+0
+
+m
+N
+
+5
+,5
+
+7
+7
+
+,5
+0
+
+0
+m
+
+N
+
+625,000 mE
+
+5
+,5
+
+7
+5
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+8
+
+0
+,0
+
+0
+0
+
+m
+N
+
+620,000 mE 622,500 mE
+
+622,500 mE620,000 mE
+
+612,500 mE
+
+612,500 mE
+
+615,000 mE
+
+615,000 mE
+
+617,500 mE
+
+617,500 mE
+
+5
+,5
+
+8
+0
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+8
+2
+
+,5
+0
+
+0
+m
+
+N
+
+610,000 mE
+
+5
+,5
+
+8
+5
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+8
+
+7
+,5
+
+0
+0
+
+m
+N
+
+610,000 mE
+
+5
+,5
+
+7
+5
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+7
+
+7
+,5
+
+0
+0
+
+m
+N
+
+0 2 4
+
+kilometres
+
+383,676383,676383,676383,676383,676383,676383,676383,676383,676
+
+503,075503,075503,075503,075503,075503,075503,075503,075503,075
+
+568,655568,655568,655568,655568,655568,655568,655568,655568,655
+
+383,680383,680383,680383,680383,680383,680383,680383,680383,680
+
+383,675383,675383,675383,675383,675383,675383,675383,675383,675
+
+383,678383,678383,678383,678383,678383,678383,678383,678383,678
+
+383,679383,679383,679383,679383,679383,679383,679383,679383,679
+
+503,071503,071503,071503,071503,071503,071503,071503,071503,071
+
+503,084503,084503,084503,084503,084503,084503,084503,084503,084
+
+383,681383,681383,681383,681383,681383,681383,681383,681383,681
+
+516,059516,059516,059516,059516,059516,059516,059516,059516,059
+
+516,062516,062516,062516,062516,062516,062516,062516,062516,062
+503,067503,067503,067503,067503,067503,067503,067503,067503,067
+
+383,682383,682383,682383,682383,682383,682383,682383,682383,682
+
+706,301706,301706,301706,301706,301706,301706,301706,301706,301
+
+383,677383,677383,677383,677383,677383,677383,677383,677383,677
+
+383,661383,661383,661383,661383,661383,661383,661383,661383,661
+
+839,623839,623839,623839,623839,623839,623839,623839,623839,623
+
+845,590845,590845,590845,590845,590845,590845,590845,590845,590
+
+846,472846,472846,472846,472846,472846,472846,472846,472846,472
+
+605,238605,238605,238605,238605,238605,238605,238605,238605,238
+
+897,472897,472897,472897,472897,472897,472897,472897,472897,472
+
+903,349903,349903,349903,349903,349903,349903,349903,349903,349903,369903,369903,369903,369903,369903,369903,369903,369903,369
+
+903,389903,389903,389903,389903,389903,389903,389903,389903,389 903,409903,409903,409903,409903,409903,409903,409903,409903,409
+
+903,469903,469903,469903,469903,469903,469903,469903,469903,469903,489903,489903,489903,489903,489903,489903,489903,489903,489
+
+903,509903,509903,509903,509903,509903,509903,509903,509903,509921,969921,969921,969921,969921,969921,969921,969921,969921,969
+
+
+
+10
+
+Table 1. List of Tenures
+
+Tenure Number Claim Name Owner Map Number Issue Date
+Good To
+
+Date* Area (ha)
+
+903349 GP 1
+Qualitas Holdings
+
+Corp.
+092I 2011/sep/28 2015/oct/31 494.56
+
+903369 GP 2
+Qualitas Holdings
+
+Corp
+092I 2011/sep/28 2015/oct/31 494.56
+
+903389 GP 3
+Qualitas Holdings
+
+Corp
+092I 2011/sep/28 2015/oct/31 494.35
+
+921969 GP 5
+Qualitas Holdings
+
+Corp
+092I 2011/oct/23 2015/oct/31 494.83
+
+4 claims 1,978.282452.31
+
+NOTE: The "Good to Date" at the Effective Date of the Report was September 28, 2012.
+The Good to Date shown in the table above reflects assessment credits applied to the claims
+from a report filed on July 29, 2012. That assessment report was based on the 2011 work
+program which was reviewed by the author prior to the site visit; the salient points of that work
+are summarized in this Technical Report.
+
+The claims were acquired by staking by Qualitas Holdings Corp. Qualitas vended a 50%
+interest in the claims to Novus Gold Corp. on October 12, 2011. To earn its' interest Novus Gold
+Corp. completed $112,500 in exploration expenditures. Subsequent to the effective date of this
+report Novus Gold Corp. assigned its' 50% interest in the subject claims to Mike Magrum on
+March 30, 2012 with Qualitas Holdings Corp retaining its' 50% interest (collectively the
+"Optionors").
+
+In an agreement made on November 20, 2012, Carolina Capital Corp. ("Optionee") can
+earn a 100% interest in the PC property subject to a 2.0% Net Smelter Return Royalty (NSR) by
+making cash and share issuances and completing work commitments as listed below:
+
+ Pay to the Optionors a non-refundable deposit of $10,000 upon receipt of a 43-
+101 compliant Technical Report from the Optionors;
+
+ Pay to the Optionors $15,000 and issue to the Optionors 200,000 common shares
+of the Optionee upon Exchange Approval of the purchase agreement;
+("Exchange Approval");
+
+ On the first anniversary of Exchange Approval, issue to the Optionors 200,000
+common shares of the Optionee;
+
+ On or before the second anniversary of Exchange Approval issue to the
+Optionors 300,000 common shares of the Optionee.
+
+In addition to the payments described above the Optionee shall make approved
+expenditures (as defined in Policy 1.1 of the Exchange) of not less than $100,000 (the "Required
+Expenditures") on or before the 1st anniversary of the date of Exchange Approval.
+
+In the event the Agreement is terminated without the Optionee having completed the
+full amount of Required Expenditures, the Optionee shall pay to the Optionors as liquidated
+damages the difference between $100,000 and the amount of Approved Expenditures actually
+completed by such time.
+
+Upon completion of the terms described above the Optionors will transfer a 100%
+undivided interest in and to the subject property free and clear of all encumbrances, subject to
+
+
+
+11
+
+the NSR described above. The NSR can be purchased back at the rate of $500,000 for each 0.5%
+royalty.
+
+The author is not aware of any environmental liabilities associated with the GP
+property. The recommended work program will follow up soil sampling which does not
+require a permit if there is no timber cutting. In the event the follow up soil sampling program
+is successful, excavator trenching and/or diamond drilling programs will be the next step.
+These programs will require permits that according to the British Columbia Ministry of Energy,
+Mines and Petroleum Resources should take six months or less. The author is not aware of a
+current Notice of Work on the claims that would allow for ground disturbance. Part of the
+permit application process will involve consultation with First Nations, which will have to be
+acted upon directly by Carolina Capital Corp. Land claims have not been settled in this part of
+British Columbia and their future impact on the property's access, title or the right and ability to
+perform work remain unknown.
+
+The author is not aware of any other significant factors or risks that may affect access,
+title or the right or ability to perform work on the GP property. There may be grazing rights
+held by ranchers within the general area and a courtesy would be to contact any local ranchers
+
+to advise them of work being done in the area. In addition the author is not aware of any legal
+impediments to the site access, at the time of the site visit there were no difficulties in gaining
+access to the claims other than winter road conditions.
+
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES,
+INFRASTRUCTURE AND PHYSIOGRAPHY
+
+The GP project is located five kilometres southwest of the village of Spences Bridge, BC.
+Road access is via the Trans-Canada Highway south from Spences Bridge. Gravel roads provide
+access throughout much of the claim block.
+
+The topography is steep and rugged with elevations ranging from 220 metres at the
+Thompson River to over 1,280 metres on the upper slopes. The claims are generally covered
+with open stands of pine, with lesser spruce and fir. The underbrush is thin except within creek
+drainages.
+
+The climate of this part of the province is typical of the southern interior of British
+Columbia. The summer field season is generally warm and dry and runs from mid- to late-
+April through to late-October. Winters are cold with significant snow accumulations,
+particularly at the higher elevations. Temperatures can dip to minus 20 Celsius for extended
+periods.
+
+The logistics of working in this part of the province are excellent. Gravel road access will
+allow the movement of supplies and equipment by road. Heavy equipment should be available
+locally in Merritt, as are supplies, fuel and lodging. The city of Kamloops, BC, is large enough
+to provide virtually any equipment and personnel required for more advanced exploration
+phases. From Spences Bridge to Merritt BC via road is a distance of approximately 65
+kilometres via Provincial Highway 8, from Spences Bridge to Kamloops is approximately 133
+kilometres via Trans-Canada Highway 1. At this stage of exploration there is sufficient water
+and power to conduct the exploration programs, water is more abundant in the spring and fall
+
+
+
+12
+
+months. Depending on the type of exploration program to be conducted, the field season
+generally runs from late-April to early-November.
+
+The project is at an early stage of exploration so no discussion of potential tailings
+storage areas, potential waste disposal areas, heap leach pad areas and potential processing
+plant sites is applicable at this stage.
+
+6.0 HISTORY
+
+There was no recorded exploration on the GP property prior to the initial discoveries of
+epithermal precious metal mineralization in the Spences Bride Group rocks by Almaden
+Minerals Ltd. in the early 2000's. This spurred a staking rush that resulted in the staking of the
+entire Spences Bridge Group by 2005.
+
+Preliminary stream sediment sampling and rock sampling was completed on the
+Goldpan Shamrock Property in late 2005 early 2006 by 665777 B.C. Ltd. Two drainages on the
+east side of the Thompson River were found to be anomalous in gold, returning values of 25
+ppb and 30 ppb (Henneberry, 2006, Assessment Report 28521). 665777 B.C. Ltd subsequently
+optioned the Goldpan Shamrock property to Strongbow Exploration Inc. who in turn optioned
+them to Tanqueray Resources Ltd. The Golden Shamrock property was considerably larger than
+the GP property and at that time encompassed what is the present day GP property; the 2005-
+2006 exploration program by 665777 B.C. Ltd. was comprised of silt sampling and prospecting
+with the collection of 24 silt samples and 47 rock samples. The two anomalous results from
+drainages on the east side of the Thompson River are from creeks or dry gullies that drain the
+southernmost claim of the GP property, tenure number 921969.
+
+Tanqueray completed a program of property wide silt sampling, road soil sampling,
+rock sampling and follow-up grid soil sampling in the summer of 2006. This work was
+completed on the Golden Shamrock property and consisted of the collection of 36 rock samples,
+27 silt samples and 963 soil samples. Portions of this work was completed on the present day
+GP Property and led to an anomalous trend described below. A soil grid over the western side
+of the property located convergent linear gold-in-soil anomalies lower down the ridge,
+indicating possible precious metal bearing structures. Abundant fine grained quartz detritus
+was located throughout the property, suggesting the present erosional level of the claim block
+may be within the silica cap of a buried epithermal system. (Henneberry, 2007, Assessment
+Report 28824).
+
+Strongbow Exploration Inc. completed a small follow up program in 2007, though the
+program was outside of the present GP property boundary (Jackson and Gale, 2008). (There is
+no record of any exploration on the present GP property since the 2007 program.
+
+There are no known mineral resources or reserves, historical or otherwise, on the GC
+property nor is there any record of mineral production from the property.
+
+7.0 GEOLOGICAL SETTING AND MINERALIZATION
+(Summarized from MINFILE 092G, 092H, 092I, 092J, 092O, 092P; Green and Trupia, 1989)
+
+The Spences Bridge Gold Belt lies within the Intermontane Tectonic Belt of Central
+British Columbia, proximal to its western boundary with the Coast Plutonic Belt. The
+Intermontane Belt is a region of relatively low topographic and structural relief, while the Coast
+
+
+
+13
+
+Plutonic Belt is a region of high topographic and structural relief. The regional map (Figure 3)
+also shows small elements of Insular Belt to the extreme southwest and the Omineca Belt to the
+extreme northeast. The elements of these latter two belts have no relevance to the Spences
+Bridge Gold Belt and warrant no further discussion.
+
+The two primary belts are further divided into nine lithographic terranes in the map
+area: Coast Complex, Harrison, Cadwallader, Bridge River, Shuksan, Methow, Stikinia, Cache
+Creek and Quesnellia, respectively from west to east. Each terrane is bounded by major faults.
+
+The Harrison and Coast Complex terranes are not directly relevant to the Spences Bridge
+Group and its mineralization.
+
+
+
+14
+
+Datum NAD 83 Zone 10 Figure 3. Regional Geology
+
+5
+,5
+
+9
+0
+
+,0
+0
+
+0
+m
+
+N
+
+625,000 mE 630,000 mE
+
+5
+,5
+
+8
+5
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+9
+
+5
+,0
+
+0
+0
+
+m
+N
+
+625,000 mE 630,000 mE
+
+5
+,5
+
+7
+5
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+8
+
+0
+,0
+
+0
+0
+
+m
+N
+
+615,000 mE 620,000 mE
+
+620,000 mE615,000 mE
+
+610,000 mE605,000 mE
+
+605,000 mE 610,000 mE
+
+5
+,5
+
+7
+5
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+8
+
+0
+,0
+
+0
+0
+
+m
+N
+
+600,000 mE
+
+5
+,5
+
+8
+5
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+9
+
+0
+,0
+
+0
+0
+
+m
+N
+
+5
+,5
+
+9
+5
+
+,0
+0
+
+0
+m
+
+N
+
+0 4 8
+
+kilometres
+
+EOCENE
+
+Kamloops Group sediments
+
+CRETACEOUS
+
+Spences Bridge Group volcanics
+
+TRIASSIC TO JURASSIC
+
+Guichon Creek Batholith
+
+TRIASSIC
+
+Nicola Group volcanics
+
+PERMIAN TO TRIASSIC
+
+Mt. Lytton Complex
+
+PENNSYLVANIAN TO TRIASSAC
+
+Cache Creek Complex
+
+Fault
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+
+The Cadwallader Terrane lies to the west of the northern outliers of the Spences Bridge
+Group. It comprises a series of Cretaceous clastic sediments and the Powell River Group
+volcaniclastics. The Bridge River Terrane consists of Mississippian to middle Jurassic marine
+sedimentary and volcanic rocks. The Shuksan Terrane consists primarily of Cretaceous
+intrusives and high grade metamorphic rocks.
+
+The Methow Terrane forms much of the boundary between the two belts. It comprises
+sequences of Jurassic through to Cretaceous, predominantly fine grained, clastic sediments.
+
+The south end of the Stikinia Terrane includes Cretaceous clastic sediments and a series
+of Jurassic through to Cretaceous intrusives.
+
+The geology of the Cache Creek Terrane is complex with units ranging in age from
+Pennsylvanian to middle Jurassic. The rocks include a mélange of Permian to Pennsylvanian
+carbonates with minor clastic sediments and volcanics in the eastern and central sections and a
+series of Permian to middle Jurassic clastic sediments with minor carbonates and volcaniclastics
+to the west.
+
+The Quesnellia Terrane consists primarily of the upper Triassic Nicola Group clastic
+sediments, and volcanic rocks with associated late Triassic - early Jurassic intrusions. The most
+important is the Guichon Creek Batholith, which hosts the Highland Valley copper deposits.
+
+The Methow, Stikinia, Cache Creek and Quesnellia Terranes through much of the map
+area are covered by Cretaceous and/or Tertiary sedimentary and volcanic overlap assemblages.
+These include Miocene - Pliocene plateau basalts and coarse clastic sediments of the Chilcotin
+Group, Eocene to Oligocene volcanics and Eocene basalt and andesite, local rhyolite, breccia,
+tuff and sandstone thought to be related to the Kamloops Group. Spences Bridge Group flows
+and volcaniclastics occur as a series of outliers though the lower end of the Stikinia Terrane in
+the north and as a large belt within the Quesnellia Terrane in the south.
+
+The middle to upper Cretaceous Spences Bridge Group has recently been identified as a
+significant target for epithermal precious metal mineralization. This group forms a northwest
+trending volcanic belt consisting of a thick sequence of gently folded volcanics with lesser
+sediments dipping shallowly to the northeast. Rocks of the Spences Bridge Group are believed
+to have formed as a chain of stratovolcanoes associated with subsiding, fault-bounded basins
+(Thorkelson, 1985).
+
+Glacial drift and alluvium deposits were deposited in creek and river valleys by south
+moving Pleistocene glaciers.
+
+7.1 Geology of the Spences Bridge Group
+The Spences Bridge Group forms a northwest trending belt from 3 to 24 kilometres wide
+
+extending from north of Princeton through to east of Lillooet. (Duffel and McTaggart, 1952),
+(Figure 4). A faulted extension of the belt occurs as a series of outliers in the Churn Creek /
+Empire Valley area west of 100 Mile House (Thorkelson, 2006). The group is estimated to be up
+to 3,400 metres in thickness. (Thorkelson, 2006).
+
+
+
+16
+
+Datum NAD 83 Zone 10 Figure 4. Spences Bridge Group Location
+
+PrincetonPrincetonPrincetonPrincetonPrincetonPrincetonPrincetonPrincetonPrinceton
+
+HopeHopeHopeHopeHopeHopeHopeHopeHope
+
+Boston BarBoston BarBoston BarBoston BarBoston BarBoston BarBoston BarBoston BarBoston Bar
+
+VancouverVancouverVancouverVancouverVancouverVancouverVancouverVancouverVancouver
+
+KamloopsKamloopsKamloopsKamloopsKamloopsKamloopsKamloopsKamloopsKamloops
+
+Cache CreekCache CreekCache CreekCache CreekCache CreekCache CreekCache CreekCache CreekCache Creek
+
+LillooettLillooettLillooettLillooettLillooettLillooettLillooettLillooettLillooett
+
+MerrittMerrittMerrittMerrittMerrittMerrittMerrittMerrittMerritt
+
+LyttonLyttonLyttonLyttonLyttonLyttonLyttonLyttonLytton
+
+Spences BridgeSpences BridgeSpences BridgeSpences BridgeSpences BridgeSpences BridgeSpences BridgeSpences BridgeSpences Bridge
+
+700,000 mE
+
+5
+,5
+
+5
+0
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,6
+0
+
+0
+,0
+
+0
+0
+
+m
+N
+
+700,000 mE600,000 mE 650,000 mE
+
+5
+,5
+
+0
+0
+
+,0
+0
+
+0
+m
+
+N
+
+600,000 mE 650,000 mE500,000 mE 550,000 mE
+
+5
+,5
+
+5
+0
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,6
+0
+
+0
+,0
+
+0
+0
+
+m
+N
+
+550,000 mE500,000 mE
+
+5
+,4
+
+5
+0
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+0
+
+0
+,0
+
+0
+0
+
+m
+N
+
+60
+
+777777777
+
+PondPondPondPondPondPondPondPondPond
+
+30
+
+kilometres
+
+0
+
+333333333
+
+444444444
+
+555555555
+
+888888888
+
+999999999
+101010101010101010
+
+131313131313131313
+666666666
+
+111111111 11 GP Property11 GP Property11 GP Property11 GP Property11 GP Property11 GP Property11 GP Property11 GP Property11 GP Property
+
+222222222
+
+121212121212121212
+
+1. Skoonka Creek (SBW/AMM)
+
+2. Prospect Valley (AVX/BKR)
+
+3. Dora (AEX)
+
+4. Shovelnose (SBW/WHN)
+
+5. BM (VCV)
+
+6. Nicoamen River (AMM/FMR)
+
+7. Otter (INI)
+
+8. Ponderosa (AMM)
+
+9. Merit (AMM)
+
+10. Inn (SBW)
+
+11. GP
+
+12. PC
+
+13. SB
+
+
+
+17
+
+The Spences Bridge Group is thought to be the volcanic representation of the closure of
+the oceanic basin between Wrangellia to the west and the assemblage of intermontane terranes
+(the accreted part of ancestral North America) to the east. Spences Bridge rocks were deposited
+on two main basement types: west of the Village of Spences Bridge, they overlie the mainly
+Paleozoic Cache Creek terrane; to the east, they overlie plutonic and volcanic rocks of the late
+Triassic Nicola Arc, part of the Quesnellia terrane. (Thorkelson 2006).
+
+Shortly after eruption on the Spences Bridge Group began, tectonism led to the
+deposition of a near-basal conglomerate that contains clasts of Triassic granitoids and Nicola
+volcanic rocks. These rocks commonly show foliations and lower greenschist metamorphism
+which are not evident in the Spences Bridge Group, suggesting Spences Bridge rocks were
+deposited on the basement after deposition of the Nicola Group, deformation and
+metamorphism, and exhumation. (Thorkelson, 2006).
+
+The Spences Bridge Group consists of two formations: the Pimainus Formation and the
+overlying Spius Formation. The Pimainus Formation is highly variable, containing lava, tephra,
+fanglomerate, lahar, sandstone, and coal. Volcanic compositions range from basalt to rhyolite. It
+is most reasonably thought of as a stratovolcano assemblage. The overlying Spius Formation
+consists almost entirely of amygdaloidal andesitic lava, ranging from pahoehoe to aa types. In
+some places, the contact is conformable and hard to identify, while in others, lacustrine beds
+separate the two formations. (Thorkelson, 2006).
+
+The Spences Bridge Group is preserved in the Nicoamen structural depression, a
+complex synclinorium crosscut by normal faults. It may have been forming at the same time as
+the Spences Bridge Group. Presently, the Spius Formation is largely confined to the centre of the
+structural depression but appears to be the relic of an extensive shield volcano with a few
+cinder cones. (Thorkelson, 2006).
+
+Structurally, the Spences Bridge Group is generally gently folded, with dips from 10o to
+40o. Individual flows and beds do not appear to be widespread. There appears to be some
+faulting within the group but the lack of marker horizons makes measurement of any
+displacement difficult. (Duffel and McTaggart, 1952).
+
+7.2 GP Property Geology – (summarized from Henneberry, 2006; 2007)
+According to the British Columbia government MapPlace website, the GP property is
+
+underlain by rocks of the Spius and Pimainus Formations of the Spences Bridge Group.
+Mapping suggests the ridge tops and higher ground is underlain by andesitic lava flows of the
+Spius Formation. Local interbeds of Pimainus Formation volcaniclastics were noted lower down
+the slopes on the western part of the property. Abundant epithermal quartz detritus was noted
+throughout the western half of the property, including agates, discontinuous veins and veinlets,
+clots, blowouts and felsenmeer. The outcrop exposure is excellent throughout the property.
+
+The Spius Formation andesite underlies most of the claim block. The rock is usually dull
+grey weathering, but green to green-black on fresh surfaces. It ranges from porphyritic (with
+plagioclase laths to 1 cm in size) to aphanitic and is locally vesicular. Alteration consists
+primarily of patchy hematite, with local limonite and carbonate. Carbonate, as indicated by the
+orange lichen is more common at lower elevations. Quartz is common throughout the andesite
+on a property wide scale. Agates, quartz shards and weathered amygdules were commonly
+noted in the soil sampling traverses.
+
+
+
+18
+
+Datum NAD 83 Zone 10 Figure 5. GP Property Geology
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+622,000 mE
+
+5
+,5
+
+7
+8
+
+,0
+0
+0
+
+m
+N
+
+622,000 mE
+
+5
+,5
+
+8
+3
+
+,0
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+4
+,0
+
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+1
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+7
+
+9
+,0
+
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+0
+
+,0
+0
+
+0
+m
+
+N
+5
+,5
+
+8
+2
+,0
+
+0
+0
+
+m
+N
+
+620,000 mE619,000 mE 621,000 mE
+
+619,000 mE 620,000 mE 621,000 mE617,000 mE 618,000 mE
+
+617,000 mE 618,000 mE
+
+5
+,5
+
+8
+3
+
+,0
+0
+0
+
+m
+N
+
+615,000 mE 616,000 mE
+5
+,5
+
+8
+4
+,0
+
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+5
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+7
+
+8
+,0
+
+0
+0
+
+m
+N
+
+615,000 mE 616,000 mE
+
+5
+,5
+
+8
+1
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+7
+
+9
+,0
+
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+0
+
+,0
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+2
+,0
+
+0
+0
+
+m
+N
+
+0 1 2
+
+kilometres
+
+Spius Formation andesites
+
+Pimainus Formation volcaniclastics
+
+Quartz felsenmeer, f loat, agates
+
+
+
+
+
+
+
+
+19
+
+The Pimainus Formation volcaniclastics were noted in a small area in the south-central
+portion of the GP property. The volcaniclastics range from lapilli tuff to block and ash fall tuff.
+On fresh surface the stone is grey green. These units generally consist of a dark green, aphanitic
+matrix with white plagioclase lapilli ranging in concentration from less than 1% to over 40%.
+Bombs of andesitic lava are common through these units, with bombs generally from 10 to 50
+cm and occasionally in excess of 1 metre in size. Individual bomb or lapilli rich horizons do not
+appear to be traceable over distance.
+
+7.3 Mineralization
+
+The exploration target for the GP property is a low sulphidation epithermal precious
+metal deposit. Bedrock mineralization has yet to be found on the GP property. The exploration
+completed to date consisted of property wide soil geochemical surveys along with preliminary
+rock sampling and prospecting.
+
+The property wide soil sampling was successful in highlighting a NW trending Au-As
+anomaly in excess of 3 kilometres in length. Gold values along the trend ranged from 3 to 192
+ppb Au. There is abundant quartz float and felsenmeer located along the trend as well. This is a
+high priority target on the property.
+
+
+
+20
+
+Datum NAD 83 Zone 10 Figure 6. Soil Sample Anomalous Trends
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+622,000 mE
+
+5
+,5
+
+7
+8
+
+,0
+0
+0
+
+m
+N
+
+622,000 mE
+
+5
+,5
+
+8
+3
+
+,0
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+4
+,0
+
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+1
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+7
+
+9
+,0
+
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+0
+
+,0
+0
+
+0
+m
+
+N
+5
+,5
+
+8
+2
+,0
+
+0
+0
+
+m
+N
+
+620,000 mE619,000 mE 621,000 mE
+
+619,000 mE 620,000 mE 621,000 mE617,000 mE 618,000 mE
+
+617,000 mE 618,000 mE
+
+5
+,5
+
+8
+3
+
+,0
+0
+0
+
+m
+N
+
+615,000 mE 616,000 mE
+
+5
+,5
+
+8
+4
+,0
+
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+5
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+7
+
+8
+,0
+
+0
+0
+
+m
+N
+
+615,000 mE 616,000 mE
+
+5
+,5
+
+8
+1
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+7
+
+9
+,0
+
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+0
+
+,0
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+2
+,0
+
+0
+0
+
+m
+N
+
+  
+
+  
+
+  
+
+  
+
+ 
+  
+
+
+
+
+ 
+
+    
+
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+   
+
+   
+
+
+
+
+ 
+
+
+
+
+    
+
+  
+
+
+
+
+
+  
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+  
+
+
+   
+
+
+
+
+
+  
+
+
+ 
+
+   
+
+
+
+
+
+
+     
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+   
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20 1
+
+kilometres
+
+Spius Formation andesites
+
+Pimainus Formation volcaniclastics
+
+Quartz felsenmeer, f loat, agates
+
+
+
+
+
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+
+
+21
+
+8.0 DEPOSIT TYPES
+
+The GP property is being explored for low sulphidation epithermal precious metals
+deposits. The following summary is condensed from British Columbia Ore Deposit Models
+(Panteleyev, 1996).
+
+Low sulphidation epithermal deposits are typically hosted in volcanic island and
+continent-margin arcs and continental volcanic fields with extensional structures. These
+deposits can form in most types of volcanic rocks, though calcalkaline andesitic compositions
+predominate. Low sulphidation deposits can be any age, though Tertiary deposits are the most
+abundant. Jurassic deposits are important in British Columbia (Toodoggone).
+
+Ore zones are typically localized in structures, but may occur in permeable lithologies.
+Upward-flaring ore zones centred on structurally controlled hydrothermal conduits are typical.
+Large (> 1 m wide and hundreds of metres in strike length) to small veins and stockworks are
+common with lesser disseminations and replacements. Vein systems can be laterally extensive
+but ore shoots have relatively restricted vertical extent. High-grade ores are commonly found in
+dilational zones in faults at flexures, splays and in cymoid loops.
+
+In some districts the epithermal mineralization is tied to a specific metallogenetic event,
+either structural, magmatic, or both. The veins are emplaced within a restricted stratigraphic
+interval generally within 1 km of the paleosurface. Mineralization near surface takes place in
+hotspring systems, or the deeper underlying hydrothermal conduits. Normal faults, margins of
+grabens, coarse clastic caldera moat-fill units, radial and ring dike fracture sets and both
+hydrothermal and tectonic breccias are all ore fluid channeling structures. Through-going,
+branching, bifurcating, anastomosing and intersecting fracture systems are commonly
+mineralized. Hanging wall fractures in mineralized structures are particularly favourable for
+high-grade ore.
+
+Veins are comprised of quartz, amethyst, chalcedony, quartz pseudomorphs after
+calcite, and calcite. They may contain lesser amounts of adularia, sericite, barite, fluorite, Ca-
+Mg-Mn-Fe carbonate minerals such as rhodochrosite, hematite and chlorite. Veins commonly
+exhibit open-space filling, symmetrical and other layering, crustification, comb structure,
+colloform banding and multiple brecciations.
+
+Mineralization within the veins consists of pyrite, electrum, gold, silver and argentite,
+with lesser chalcopyrite, sphalerite, galena, tetrahedrite, silver sulphosalt and/or selenide
+minerals. Deposits can be strongly zoned along strike and vertically. Deposits are commonly
+zoned vertically over 250 to 350 m from a base metal poor, Au-Ag-rich top to a relatively Ag-
+rich base metal zone and an underlying base metal rich zone grading at depth into a sparse base
+metal, pyritic zone. From surface to depth, metal zones contain: Au-Ag-As-Sb-Hg, Au-Ag-Pb-
+Zn-Cu, Ag- Pb-Zn.
+
+Alteration is an important in low sulphidation epithermal deposits. Silicification is
+extensive in ores as multiple generations of quartz and chalcedony are commonly accompanied
+by adularia and calcite. Pervasive silicification in vein envelopes is flanked by sericite-illite-
+kaolinite assemblages. Intermediate argillic alteration [kaolinite-illite- montmorillonite
+(smectite)] formed adjacent to some veins; advanced argillic alteration (kaolinite-alunite) may
+form along the tops of mineralized zones. Propylitic alteration dominates at depth and
+peripherally.
+
+
+
+22
+
+Prospecting for mineralized siliceous and silica-carbonate float or vein material with
+diagnostic open-space textures is an effective exploration method. Very Low Frequency (VLF)
+geophysical surveys can be effective in tracing structure, while radiometric surveys may outline
+strong potassic alteration of wallrocks. Geochemical sampling is also an effective exploration
+method with elevated values in the ore metals: Au, Ag, Zn, Pb, Cu as well as elevated values for
+pathfinder elements: As, Sb, Ba, F, Mn and locally Te, Se and Hg. Finally, silver deposits
+generally have higher base metal contents than Au and Au-Ag deposits.
+
+Other low sulphidation epithermal deposit examples include: Creede, Colorado USA;
+Toodoggone Camp, B.C.; Blackdome, B.C.; Premier, B.C.; Comstock Lode, Nevada USA and
+Pachuca, Mexico.
+
+9.0 EXPLORATION
+
+The only recently completed exploration work on the GC Property was that undertaken
+on behalf of Novus Gold Corp. to earn its' 50% interest in the property from Qualitas Holdings
+Ltd., this interest was subsequently optioned to Mike Magrum. Caroline Gold Corp. has not
+conducted any exploration work on the PC Property.
+
+Two distinct sampling surveys were completed as part of the 2011 exploration program
+on the GP property: road side and grid soil sampling and rock sampling. A total of 1,806 soil
+samples and 15 rock samples were taken during the October-November 2011 exploration
+program.
+
+Rock samples collected in 2011 ranged in weight from 1 to 3 kilograms for float samples
+and 2.5 to 8 kilograms for bedrock chip samples. Float samples consisted of chips taken from
+one or two larger cobbles, or of several smaller fragments collected from an area of a few square
+metres. Individual samples were placed in labeled plastic bags, with an assay ticket also placed
+in the same bag. The sample locations were marked in the field with pink flagging and labeled
+with Tyvex tags. UTM coordinates, in the map datum NAD 83, were recorded with a handheld
+Global Positioning System (GPS) unit.
+
+The soil sampling survey was property wide and consisted of 50 metre spaced samples
+along 200 metre spaced lines. The last three lines at the southern end of the property were not
+sampled due to weather. Each soil line was flagged and sampled at 50 metre intervals along the
+line measured with a hip chain. Soil bags and flagging were pre-numbered the day before. At
+each sample location a 500 to 1000 gram sample of the soil from the "B" horizon was taken and
+placed in the corresponding soil bag. Each sample location was marked as a waypoint in a GPS
+unit in the map datum NAD 83. The data was downloaded nightly to computers.
+
+The author is not aware of any sampling or recovery factors that could materially impact
+the accuracy and reliability of the assay results. The author believes the samples taken by Novus
+Gold Corp. personnel to be representative and does not feel there are any factors that may have
+resulted in sample bias. There is no chance of bias in the soil sampling as these samples are just
+blind samples taken at regular intervals. The prospecting rock samples are generally grabs of
+bedrock material or float.
+
+The lithologies documented on the GP property include: volcaniclastics and andesitic
+flows of the Spences Bridge Group. There has not yet been bedrock mineralization located on
+
+
+
+23
+
+the GP property. The exploration target is low sulphidation epithermal precious metal
+mineralization which can be confined to quartz veins or fault zones, though it may be
+disseminated throughout porous units.
+
+Fifteen rock samples were taken during the 2011 exploration program (Table 2, Figure
+7). Thirteen of the samples returned gold values below detection limits and the other two did
+not exceed 2 ppb Au.
+
+Table 2. 2011 Rock Samples
+
+Sample No. Type Width ppm As ppb Au
+
+GP11-GWR01 andesite grab 1.1 <0.5
+
+GP11-GWR02 quartz vein float 0.6 <0.5
+
+GP11-GWR03 chalcedonic quartz float <0.5 <0.5
+
+GP11-GWR04 quartz breccia float 1.8 <0.5
+
+GP11-GWR05 quartz vein float 0.7 <0.5
+
+GP11-GWR06 quartz vein float 0.5 <0.5
+
+GP11-GWR07 chalcedonic quartz grab 4.4 <0.5
+
+GP11-GWR08 chalcedonic quartz float 1.9 <0.5
+
+GP11-GWR09 chalcedonic quartz float 133.8 1.4
+
+GP11-GWR10 chalcedonic quartz float <0.5 <0.5
+
+GP11-DH134 quartz float float <0.5 <0.5
+
+GP11-JT-R-001 chalcedonic quartz grab 1 <0.5
+
+GP-11 JT R-001 chalcedonic quartz grab <0.5 <0.5
+
+GP-11 JT R-002 shear with malachite grab 0.6 0.9
+
+GP-11 JT R-004 andesite grab <0.5 <0.5
+
+
+
+24
+
+Datum NAD 83 Zone 10 Figure 7. GP Rock Samples
+
+
+
+25
+
+The gold soil survey successfully located a NW trending linear zone over 3 kilometres
+long as shown on Figure 8. This zone was not evident on all lines in the gold plot. The strongest
+part of the anomaly appears to be at the northern end of the grid.
+
+The arsenic plot (Figure 9) appears to highlight the same trend as shown on the gold
+plot, though it appears to have shifted down slope, a possible function of soil creep. The arsenic
+is more consistent than the gold and also appears to extend the linear anomaly over a kilometre
+further to the south. There is also a broad area of elevated arsenic in the northwest corner of the
+property that has no definitive trend. This may be related to lithology even though general
+geologic mapping shows much of the property underlain by the same unit; the gold response in
+this area is quite low so the NW trending anomaly remains the best target.
+
+
+
+26
+
+Datum NAD 83 Zone 10 Figure 8. Au Soil Geochemistry
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+622,000 mE
+
+5
+,5
+
+7
+8
+
+,0
+0
+
+0
+m
+
+N
+
+622,000 mE
+
+5
+,5
+
+8
+3
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+8
+
+4
+,0
+
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+1
+
+,0
+0
+0
+
+m
+N
+
+5
+,5
+
+7
+9
+
+,0
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+0
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+8
+
+2
+,0
+
+0
+0
+
+m
+N
+
+620,000 mE619,000 mE 621,000 mE
+
+619,000 mE 620,000 mE 621,000 mE617,000 mE 618,000 mE
+
+617,000 mE 618,000 mE
+
+5
+,5
+
+8
+3
+
+,0
+0
+
+0
+m
+
+N
+
+615,000 mE 616,000 mE
+
+5
+,5
+
+8
+4
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+8
+
+5
+,0
+
+0
+0
+
+m
+N
+
+5
+,5
+
+7
+8
+
+,0
+0
+
+0
+m
+
+N
+
+615,000 mE 616,000 mE
+
+5
+,5
+
+8
+1
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+7
+
+9
+,0
+
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+0
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+8
+
+2
+,0
+
+0
+0
+
+m
+N
+
+  
+
+  
+
+  
+
+  
+
+ 
+  
+
+
+
+
+ 
+
+    
+
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+   
+
+   
+
+
+
+
+ 
+
+
+
+
+    
+
+  
+
+
+
+
+
+  
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+  
+
+
+   
+
+
+
+
+
+  
+
+
+ 
+
+   
+
+
+
+
+
+
+     
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+   
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20 1
+
+kilometres
+
+Spius Formation andesites
+
+Pimainus Formation volcaniclastics
+
+Quartz felsenmeer, f loat, agates
+
+
+
+
+
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+
+
+27
+
+Datum NAD 83 Zone 10 Figure 9. As Soil Geochemistry
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+622,000 mE
+
+5
+,5
+
+7
+8
+
+,0
+0
+
+0
+m
+
+N
+
+622,000 mE
+
+5
+,5
+
+8
+3
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+8
+
+4
+,0
+
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+1
+
+,0
+0
+0
+
+m
+N
+
+5
+,5
+
+7
+9
+
+,0
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+0
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+8
+
+2
+,0
+
+0
+0
+
+m
+N
+
+620,000 mE619,000 mE 621,000 mE
+
+619,000 mE 620,000 mE 621,000 mE617,000 mE 618,000 mE
+
+617,000 mE 618,000 mE
+
+5
+,5
+
+8
+3
+
+,0
+0
+
+0
+m
+
+N
+
+615,000 mE 616,000 mE
+
+5
+,5
+
+8
+4
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+8
+
+5
+,0
+
+0
+0
+
+m
+N
+
+5
+,5
+
+7
+8
+
+,0
+0
+
+0
+m
+
+N
+
+615,000 mE 616,000 mE
+
+5
+,5
+
+8
+1
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+7
+
+9
+,0
+
+0
+0
+
+m
+N
+
+5
+,5
+
+8
+0
+
+,0
+0
+
+0
+m
+
+N
+5
+
+,5
+8
+
+2
+,0
+
+0
+0
+
+m
+N
+
+  
+
+  
+
+  
+
+  
+
+ 
+  
+
+
+
+
+ 
+
+    
+
+  
+
+
+
+
+
+   
+
+
+
+
+
+
+
+   
+
+   
+
+
+
+
+ 
+
+
+
+
+    
+
+  
+
+
+
+
+
+  
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+  
+
+
+   
+
+
+
+
+
+  
+
+
+ 
+
+   
+
+
+
+
+
+
+     
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+   
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20 1
+
+kilometres
+
+Spius Formation andesites
+
+Pimainus Formation volcaniclastics
+
+Quartz felsenmeer, f loat, agates
+
+
+
+
+
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+N
+W
+
+T
+re
+
+n
+d
+
+
+
+28
+
+10.0 DRILLING
+
+There has not been any drilling completed on the GC property.
+
+11.0 SAMPLE PREPARATION, ANALYSIS AND SECURITY
+
+The three rock samples collected by the author remained in the authors possession at all
+times and were dropped off by the author directly to Acme Analytical Laboratories Ltd. Acme
+is an ISO/IEC 17025:2005 accredited laboratory from the Standards Council of Canada. The
+samples were analysed for gold and multi-element ICP analysis.
+
+This following discussion in this section is on the soil sampling program conducted by
+Mammoth Geological Ltd. on behalf of Novus Gold Corp.; the only significant work program
+conducted on the GP Property.
+
+All soil samples were brought back to town by Mammoth Geological crews at the hotel
+in which they were staying. The samples were put in sequence and placed 12 to 15 in a 13" by
+18" poly bag. Three poly bags were then placed in a rice bag. One standard, sealed in a Ziploc
+bag, was also placed in the rice bag. The bag was then zap strapped and shipped in groups of 10
+to 20 rice bags to Acme Analytical Laboratories Ltd. in Vancouver, British Columbia by
+Mammoth Geological Ltd. (the geological contractor) personnel or by Greyhound Bus from
+Merritt. Rock samples were handled similarly, though only 10 to 12 samples were placed in the
+rice bags. Since these were preliminary surveys no sample splitting or reduction was necessary.
+The rice bags were stored in the motel rooms of Mammoth Geological Ltd. personnel until there
+were a sufficient number to make a shipment to the lab. Mammoth Geological Ltd. is
+independent of both Novus Gold Corp. and Qualitas Holdings Corp.
+
+All samples from the 2011 exploration program were analyzed at Acme Analytical
+Laboratories Ltd. in Vancouver, an ISO 9001 certified lab. Acme Analytical is independent of
+Qualitas Holdings Corp., Novus Gold Corp., Mike Magrum, Mammoth Geological and
+Carolina Capital Corp. The sample preparation procedures are as follows: Silt and soil samples
+are first dried at 60oC and sieved at -80 mesh to obtain a 100 gram pulp. Depending on the
+amount of -80 mesh material obtained, a 7.5, 15 or 30 gram sub-sample is cut and leached with
+90ml or 180ml of 2-2-2 HCl-HNO3-H2O solution at 95oC for one hour, followed by dilution to
+300ml or 600ml and 36 element ICP-MS.
+
+Rock samples are crushed to 70% passing through a 10 mesh screen. A 250 gram split is
+pulverized to 95% passing through a 150 mesh screen. A 30gm sub-sample of the pulverized
+pulp is leached with 90ml or 180ml of 2-2-2 HCl-HNO3-H2O solution at 95oC for one hour,
+followed by dilution to 300ml or 600ml and 36 element ICP-MS.
+
+The exploration programs completed by Novus Gold Corp. are preliminary surveys. The
+quality control procedures employed included duplicates and standards supplied by CDN
+Resources Laboratories Ltd. A total of 30 standards were employed at regular intervals
+throughout the sample stream. The CDN standards performed relatively well for gold with
+only two of 17 analyses outside of the sample range for Standard CDN-GPS-2, and only two of
+13 analyses outside of the sample range for Standard CDN-CGS-27 as shown in Table 4. The
+copper analyses for CDN-CGS-27 performed poorly with only 3 of 13 analyses reporting within
+the range, but that may be a function of the analytical technique.
+
+
+
+29
+
+The author feels the sample preparation, security and analytical procedures for the
+preliminary ground surveys on the PC property were adequate for this type of exploration
+program.
+
+Table 3. Summary of Standard Performance
+
+CDN-GPS-2 CDN-CGS-27
+
+Ranges 194-234 Ranges 386-478 3640-3940
+
+Sample No ppb Au ppm Cu Sample No ppb Au ppm Cu
+
+PCS-028 190 58 PCS-051 405 3373
+
+PCS-040 207 65 PCS-043 408 3660
+
+PCS-050 207 63 PCS-037 427 3477
+
+PCS-046 214 66 PCS-027 430 3627
+
+PCS-052 215 66 PCS-041 438 3126
+
+PCS-058 215 66 PCS-053 438 3661
+
+PCS-034 216 62 PCS-039 444 3613
+
+PCS-056 217 65 PCS-055 446 3757
+
+PCS-042 218 58 PCS-049 451 3422
+
+PCS-038 222 62 PCS-033 466 3672
+
+PCS-050 223 68 PCS-045 467 3132
+
+PCS-059 225 69 PCS-047 485 3392
+
+PCS-044 226 65 PCS-035 574 3618
+
+PCS-048 228 64
+
+PCS-057 232 68
+
+PCS-054 234 69
+
+PCS-036 266 62
+
+12.0 DATA VERIFICATION
+
+The author reviewed the verification procedure utilized by Mammoth Geological for the
+soil sampling program they conducted on behalf of Novus Gold in 2011. The author is satisfied
+with the sampling protocols and procedures. A review of the assay data shows no irregularities
+in the author's opinion.
+
+Author Raven collected three rock grab samples during the site visit, labeled GP1 to
+GP3. The samples were taken from just west of the western property boundary as a washout on
+the access road blocked vehicle access. There was sufficient snow at the higher elevations that
+even if the washout had been navigable it is doubtful the anomalous trend in the north-central
+portion of the property could have been reached. Samples GP1 and GP3 are both amygdaloidal
+andesitic units that are weakly magnetic, with moderately hematite staining on fracture surfaces
+and contained carbonate blebs up to a few percent; occasional veinlets and fracture coatings of
+chalcedony were noted. Sample GP2 was a grab of quartz-chalcedony float, this type of material
+is commonly associated with epithermal mineralization, often as cap rock over potential
+mineralization at depth. The samples collected by the author match the description of the
+Pimainus Formation volcaniclastics and the chalcedonic veining noted at other locations within
+the property. None of the samples from the site visit returned any significant gold or arsenic
+values and are shown in Table 3.
+
+
+
+30
+
+Table 4. 2012 Rock Samples
+
+Sample No Description Type Au (ppb) As (ppm)
+
+GP1 Altered andesite Grab (float) <0.5 1.3
+
+GP2 Chalcedonic quartz Grab (float) 0.6 <0.5
+
+GP3 Altered andesite Grab (float) <0.5 1.4
+
+The author is therefore satisfied that the data is adequate for the exploration programs it
+supports for the purpose of this technical report.
+
+13.0 MINERAL PROCESSING AND METALLURGICAL TESTING
+
+There has been no mineral processing or metallurgical testing undertaken on the GP
+property.
+
+14.0 MINERAL RESOURCE ESTIMATES
+
+There are presently no mineral resources on the GP property.
+
+15.0 MINERAL RESERVE ESTIMATES
+
+There are presently no mineral reserves on the GP property.
+
+ITEMS 16.0 TO 22.0 ADDITIONAL REQUIREMENTS FOR
+ADVANCED TECHNICAL REPORTS
+
+These sections are not included in this technical report on the GP Property. The subject
+property is at an early stage of exploration and these sections are not relevant as they pertain to
+advanced level projects.
+
+23.0 ADJACENT PROPERTIES
+
+This technical report is not relying on data from adjacent properties.
+
+24.0 OTHER RELEVANT DATA AND INFORMATION
+
+There is no additional relevant data or information known that is not disclosed on the
+GP property.
+
+25.0 INTERPRETATION AND CONCLUSIONS
+
+The Carolina Capital Corp. GP property is situated in a geological environment that has
+exploration potential. Mineral exploration for precious metal bearing epithermal quartz veins in
+the subarial volcanics of the Spences Bridge Group was initiated in 2001, after follow-up of a
+
+
+
+31
+
+number of Regional Geochemistry Survey gold anomalies. This resulted in a number of
+significant vein discoveries, including: Shovelnose Mountain, Prospect Valley, Ponderosa,
+Sullivan Ridge and Nic in the Merritt area (Diakow, 2008; Diakow and Barrios, 2009) and
+Skoonka Creek further to the north in the Lytton area.
+
+Exploration highlights from the Spences Bridge Gold Belt include:
+
+ Almaden Minerals Ltd. and Strongbow Exploration Inc. reporting drill results including
+18.4 gpt Au over 12.8 m from their Skoonka Creek Joint Venture in the Almaden news
+release dated November 29, 2005.
+
+ Altair Ventures Inc. released a 43-101 compliant resource of 10.07 million tonnes grading
+0.511 gpt Au for a total of 166,000 ounces of gold from the North and South Zones on
+their Prospect Valley property on October 19, 2011.
+
+(The author has been unable to verify the drill results from Skoonka Creek or Prospect
+Valley and these drill results are not necessarily indicative of the mineralization on the PC
+property).
+
+The 2011 GP property exploration program has met with some success. A NW trending
+Au-in-soil and As-in-soil linear anomaly in excess of three kilometres in length was located
+during the 2011 program. In additional, several areas of chalcedonic quartz rubble, felsenmeer
+and veins were noted along this trend.
+
+This multi-element anomaly needs to be followed up and evaluated further.
+
+The author is unaware of any significant risks or uncertainties that could affect the
+reliability or confidence of the exploration data presented in this report. Previous work
+programs, mainly the soil geochemistry, utilized analytical standards for quality control
+assurance and the results reported indicate no irregularities in the assay procedures. The project
+is at an early stage and thus there are no mineral resource or reserve estimates nor projected
+economic outcomes.
+
+26.0 RECOMMENDATIONS
+
+The GP property warrants further exploration for epithermal precious metals deposits.
+The NW trending Au-As anomaly needs to be further evaluated.
+
+The northern section of the property wide grid, encompassing the NW trending
+anomaly needs to prospected and the soil grid needs to be tightened to from the current 200
+metres by 50 metres to 50 metres by 25 metres over an area 3000 metres long by 1700 metres
+wide, this will results in the collection of approximately 3,875 soil samples.
+
+
+
+32
+
+Table 5. 2012 PC Property Budget
+
+2012 GP Property Budget
+
+Prospecting and Mapping:
+
+Two man prospecting crew all in 15 days @ $1,650 $24,750
+
+Analysis - soil samples @ $20 $0
+
+Analysis - rock 50 samples @ 35 $1,750
+
+Analysis - standards 2 samples @ $20 $40
+
+Geochemistry:
+
+Two man soil crew all in 77 days @ $1,200 $92,400
+
+Analysis - soil 3875 samples @ $20 $77,500
+
+Analysis - rock 0 samples @ 35 $0
+
+Analysis - standards 80 samples @ $20 $1,600
+
+Equipment and Supplies: $3,000
+
+Travel $7,500
+
+Supervision $5,000
+
+Documentation $5,000
+
+Contingency $6,460
+
+Total Budget $225,000
+
+Further work on the property would be contingent upon the above recommended
+program successfully delineating the soil geochemical anomalies and the continuity of
+anomalies from line to line.
+
+
+
+33
+
+27.0 REFERENCES
+
+Diakow,L.J. (2008): Spences Bridge Bedrock Mapping Project: Preliminary Results from the
+Merritt Region, South-Central British Columbia (Parts of NTS 092H/14, 15, 092I/02). British
+Columbia Ministry of Energy, Mines and Petroleum Resources Geological Fieldwork 2007,
+Paper 2008-1, pp 1-4.
+
+Diakow,L.J. and Barrios,A. (2009): Geology and Mineral Occurrences of the Mid-Cretaceous
+Spences Bridge Group near Merritt, Southern British Columbia (Parts of NTS 092H/14, 15,
+092I/02, 03). British Columbia Ministry of Energy, Mines and Petroleum Resources Geological
+Fieldwork 2008, Paper 2009-1, pp 63-80.
+
+Duffell, S. and McTaggart, K. C. (1952): Ashcroft Map-Area, British Columbia (BC); Geological
+Survey of Canada Memoir 262.
+
+Green, K.C. and Trupia, S. (1989): Structure, Stratigraphy and Industrial Minerals in the Gang
+Ranch Area, Southern British Columbia (920/8,9). British Columbia Ministry of Energy and
+Mines Geological Fieldwork 1988, Paper 1989-1, pages 519-523.
+
+Henneberry, R.T. (2006): Geological Report Pima Property. British Columbia Ministry of Energy
+and Mines Assessment Report 28708.
+
+Henneberry, R.T. (2007): Geological Report Clapperton Property. British Columbia Ministry of
+Energy and Mines Assessment Report 28947.
+
+Jackson, J. and Gale, D.F. (2008): 2007 Report on Prospecting Activities: Soil and Silt Sampling,
+Prospecting, Mapping and Geochemistry. Spences Bridge Properties: Goldpan-Shamrock, Silk,
+Manning and Southern Belle. British Columbia Ministry of Energy and Mines Assessment
+Report 29643.
+
+http://www.empr.gov.bc.ca/Mining/Geoscience/MapPlace/MainMaps/Pages/default.aspx.
+The British Columbia Ministry of Energy and Mines MapPlace website provided the regional
+geological map and legend.
+
+Panteleyev, A. (1996): Epithermal Au-Ag: Low Sulphidation, in Selected British Columbia
+Mineral Deposit Profiles, Volume 2 - Metallic Deposits, Lefebure, D.V. and Hõy, T, Editors,
+British Columbia Ministry of Employment and Investment, Open File 1996-13, pages 41-44.
+
+Rice, H. M. A. (1947): Geology and Mineral Deposits of the Princeton Map-Area, British
+Columbia. Geological Survey of Canada Memoir 243.
+
+Thorkelson, D. J. (1985): Geology of the Mid-Cretaceous Volcanic Units near Kingsvale,
+southwestern British Columbia. Geological Survey of Canada Paper 85-16, p. 333-339.
+
+Thorkelson, D. J. (2006): Notes for Geological Field Trip – Spences Bridge – Merritt Area for
+Strongbow Exploration Inc. May 8-9, 2006.
+
+
+'

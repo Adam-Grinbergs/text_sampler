@@ -1,0 +1,3881 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TECHNICAL REPORT on the 
+
+CHACALA PROPERTY 
+
+DURANGO STATE, MEXICO 
+
+for 
+
+PARLANE RESOURCE CORP. 
+
+UTM Location, (Nad 27, Mexico, Zone 13):
+ 
+
+323500E
+ 
+
+2745000N
+ 
+
+David Gunning, P.Eng.
+ 
+
+Piotr Lutynski, P.Eng.
+ 
+
+December 23,2009
+ 
+
+
+
+TABLE OF CONTENTS
+ 
+
+Table of Contents i
+ 
+
+Summary 1
+ 
+
+Introduction 4
+ 
+
+Reliance on Other Experts ................................................................................•..........................................5
+ 
+
+Property Description and Location ............................................................................•................................5
+ 
+
+Accessibility, Climate, Local Resources, Infrastructure and Physiography 9
+ 
+
+History 11
+ 
+
+Geological Setting 13
+ 
+
+Deposit Types .........................................•......•........................................................................•......................15
+ 
+
+Mineralization 17
+ 
+
+Exploration 18
+ 
+
+Drilling 27
+ 
+
+Sampling Method and Approach ...............................................................•.................................................27
+ 
+
+Sample' Preparation, Analyses and Security 28
+ 
+
+Data Verification 29
+ 
+
+Adjacent Properties .,........................................•...........................................................................................30
+ 
+
+Mineral Processing and Metallurgical Testing 30
+ 
+
+Mineral Resource and Mineral Reserve Estimates 30
+ 
+
+Other Relevant Data and Information 30
+ 
+
+Interpretation and Conclusions 30
+ 
+
+Recommendations 33
+ 
+
+Cost Estimate 34
+ 
+
+References 35
+ 
+
+Certificates of Qualifications 37
+ 
+
+http:�......�........................................................................�
+
+
+ii 
+
+LIST OF ILLUSTRATIONS 
+
+Figure 1 Chacala Property - Location Map 6 
+
+Figure 2 Chacala Property - Tenure Map 8 
+
+Figure 3 Chacala Property - Access Map 10 
+
+Figure 4 Sierra Madre Occidental and Regional Mines and Projects 13 
+
+Figure 5 Chacala Geology 14 
+
+Figure 6 Epithermal Vein Model- Buchanan, 1981 16 
+
+Figure 7a Chacala Project - Candelaria Target 20 
+
+Figure 7b Chacala Project - San Juan - EI Oro Target 23 
+
+Figure 7c Chacala Project - Otatal Target 25 
+
+Figure 7d Chacala Project - Nortena Target 26 
+
+LIST OF TABLES 
+
+Table 1 Chacala Property - Tenure List 7 
+
+Table 2a Rock Samples Collected by Detector Exploraciones from the Otatal, San Juan ­
+
+EI Oro, and Nortena Targets 19 
+
+Table 2b Rock Samples Collected by Detector Exploraciones from the Candelaria Trenches .. 22 
+
+Table 3 Rock Samples Collected by the Authors from the Candelaria Target 22 
+
+Table 4 Rock Samples Collected by the Authors from the San Juan - EI Oro Targets 24 
+
+Table 5 Rock Samples Collected by the Authors from the Otatal Target 25 
+
+Table 6 Rock Samples Collected by the Authors from the Nortena Target 27 
+
+Table 7 Data Verification Table 30 
+
+LIST OF APPENDICES 
+
+Appendix 1 Mineral Title Opinion 39 
+
+
+
+1
+ 
+
+SUMMARY 
+
+Parlane Resource Corp. (the "Company") announced in a news release dated November 5,2009 that it had 
+
+entered into an option agreement with Minera Zeppy, SA de C.V. (Zeppy) to acquire an interest in the 
+
+Chacala silver-gold property. 
+
+The Chacala property is located in Durango State, approximately 142 km by road from the city of Culiacan 
+
+(Figure 1 and 3). It consists of a block of mostly contiguous exploration and exploitation concessions located 
+
+around the village of Chacala and referred to in this report as the Chacala property. The Chacala property 
+
+consists of thirteen mineral concessions totalling 11,453 ha: Mina del Otatal, Ampliaci6n del Otatal, L1uvia de 
+
+Oro, Los Chapotes, Los Chapotes Fracc.2, Candelaria, Valeria, Melisa, Los Chacalotes, Los Chacalotes 
+
+Fracc. 2, Los Chacalotes Fracc. 3, San Marcos, and Carolina. 
+
+On the Chacala property the mineral rights (to the different parts of the property) belong to Exploraciones 
+
+Mineral del Tambor, SA de C.V., Manuel Beltran Meza, Eduardo Alfonso Navaro Contreras, Jose Augustin 
+
+Garcia Garcia, and Eduardo Alfonso Navaro Contreras (Table 1). The closest expiry date for any of the 
+
+Chacala mineral claims is December 18, 2041. 
+
+All the above mentioned mineral property owners are represented by Minera Zeppy, SA de C.V. (Zeppy) and 
+
+Jose Augustin Garcia Garcia who entered into an option agreement with Parlane Resource Corp. 
+
+The surface rights to the Chacala property belong to the local owners. The mineral claim holders obtained 
+
+verbal permission from the individual property owners to access and conduct exploration activity on their land. 
+
+To conduct future exploration work there has to be an official agreement with local property owners and a 
+
+water use permit should be acquired prior to drilling. 
+
+The Chacala property is located in the metallogenic Au-Ag belt of the NW Sierra Madre Occidental known for 
+
+hosting deposits like Dolores, Mulatos, Moris, Topia, La Cienega, Basis, Santa Matia del Oro, Guadelupe de 
+
+los Reyes, Rosario (Plomosa mine), San Dimas, and Toyalita. 
+
+The property is underlain by a metamorphic Jurassic (?) basement rock consisting of flysch type meta­
+
+sandstones and -mudstones overlain by the Triassic andesite (Lower Volcanic Series) and rhyolite (Upper 
+
+Volcanic Series) volcanic sequences of Sierra Madre Occidental and subsequently overlain by younger 
+
+Tertiary volcanics and alluvia. Cretaceous granodiorites and andesite dikes have intruded the above 
+
+mentioned volcaniclastic complex. 
+
+Mineralization on the Chacala property is principally structurally controlled and mainly hosted in intrusive rocks 
+
+and less commonly in andesite volcanics and metasediments. It is possible that in some locations 
+
+
+
+2
+ 
+
+mineralization could form mantos and disseminated ore bodies. The majority of structures on the Chacala 
+
+property have NW-SE or NE-SW trend. 
+
+Detector Exploraciones S.A de C. V. has performed exploration work on the Chacala property on behalf of 
+
+Zeppy during 2009. Detector Exploraciones identified four distinct exploration targets: Candelaria, San Juan ­
+
+EI Oro, Otatal, and Nortefia, All the above mentioned target areas were mapped and field geological 
+
+observations were compared and merged with available regional geological data. Rock chip samples were 
+
+collected across the structures of the main identified showings and sent for analysis. Only the Candelaria 
+
+structure was explored in detail with a total of 270 meters of trench being excavated using a small back hoe. 
+
+A total of 158 mandays were spent on the trenching, mapping, rock sampling, and prospecting. In total of 235 
+
+samples were collected from the property by Detector Exploraciones of which 80 have been assayed 
+
+(Table 2a and Table 2b). Minera Zeppy reports that in addition to $80,000 which was spent acquiring 
+
+additional claims, some $160,000 was spent on geological work, with a further $40,000 in expenditures on 
+
+road maintenance and another $20,000 on geological consulting. 
+
+To date, four distinct exploration targets have been identified: Candelaria, San Juan - EI Oro, Otatal, and 
+
+Nortefia. Mineralization on the Chacala property appears to be principally structurally controlled, and rock 
+
+samples collected by the authors from the identified targets revealed the presence of significant silver-gold 
+
+mineralization. Silver and gold mineralization is commonly associated with the presence of strongly anomalous 
+
+As, Pb, Zn, and Cu. 
+
+Since 1991 the Chacala property has been explored by various groups including Luismin, Pefioles, Kobex, 
+
+Saddlerock, Hochschild, Kinross, and Minera Mexicana Sombrerete. It appears that no systematic exploration 
+
+has occurred on the property and none of the targets have been drill tested. 
+
+Candelaria Target 
+
+The Candelaria target is over 800m long, has azimuth 040 degrees, and dips approximately 80 degrees to the 
+
+SE. Only 100m of the total strike length of this target was mined and explored from 4 mining levels located 
+
+approximately 22m below each other (Candelaria mine) to a depth of less than 80m and through a total of 
+
+approximately 430m of underground workings. Recent trenching by Detector Exploraciones across 
+
+approximately 700m of the southwestern extension of the La Candelaria vein indicated that the target zone is 
+
+forming over 15m wide zone with several sub-parallel veins locally up to 2m wide. 
+
+The most anomalous assay result obtained by the authors at Candelaria was 1.7m grading 1.7 glt gold and 46 
+
+glt silver. Silver and gold mineralization in Candelaria is associated with the presence of white quartz, 
+
+tourmaline, and the mineralized structure is hosted in a granodiorite intrusion. 
+
+
+
+3
+ 
+
+San Juan and EI Oro Targets 
+
+The EI Oro and San Juan targets are probably controlled by two different structures cross cutting at low angle 
+
+but the combined length of EI Oro and San Juan structures can be presently estimated at approximately 
+
+300m. The trend of the San Juan structure is 325/44NE, and the EI Oro structure appears to trend at 
+
+270/40NE. Although these vein attitudes are similar the mineralization seen in the assay results from the two 
+
+locations is quite different. The trace of the structures was not followed up by the authors. 
+
+The San Juan structure has a reported limited historical production of silver and gold extracted from 4 mining 
+
+levels, the mining activity was reportedly suspended in the early 1990's. At the EI Oro, there is the 
+
+appearance of horizontal tension veins sub-parallel to the main EI Oro vein hosted in fragmental rocks andlor 
+
+breccias. In these locations there is the potential for greater mining thicknesses. All samples collected by the 
+
+authors from the San Juan and EI Oro targets returned highly anomalous assay results. The most significant 
+
+sample from San Juan target is 0.8m grading 68.95 glt gold and 140 glt silver, and from the EI Oro target 
+
+0.8m with 1.33 glt gold, 557 glt silver, 6.8 % zinc, and 11.1% lead. 
+
+Otatal Target 
+
+The Otatal target forms a prominent outcrop consisting of an up to 8m wide siliceous structure, hosted in a 
+
+granodiorite intrusion. The Otatal structure was traced by the authors for approximately 60m. The structure 
+
+trends at 014/80E and the strength of silicification suggests a much larger, regional extent of the EI Otatal 
+
+structural target. One 8-m deep shaft is the only indication of past mining activity. 
+
+The most anomalous assay result obtained by the authors at Otatal is 0.7m grading 4.26 glt gold, 131 glt 
+
+silver. and 2.5% lead. A hilly topography and mineralization resistant to weathering make Otatal a relatively 
+
+easy target for exploration. 
+
+Norteiia Target 
+
+The Norteiia mineralization appears to be controlled by structures cross cutting conglomerates and breccias. It 
+
+is possible that the mineralized structures cross cut the clastic (or brecciated) host rock and form a 
+
+disseminated low-grade mineralization or mantos. Lack of underbush in some upper parts of the Norteiia 
+
+target indicates possible presence of disseminated sulphides in rock. This observation supports the possible 
+
+existence of disseminated sulphide mineralization on this target. 
+
+Recommendations 
+
+A two phase exploration program is recommended to quickly evaluate the property. The targets include 
+
+structurally controlled quartz veins, stockworks, and breccias with Ag-Au mineralization often with elevated Cu­
+
+Pb-Zn-As as well as disseminated Au-Ag mineralization in a host rock. The Phase 1 program should include 
+
+building access roads, preparation of orthophoto and digital topographic maps, geological mapping, 
+
+
+
+4 
+
+geochemical sampling, trenching, petrographic and fluid inclusion studies, ground magnetic and IP-resistivity 
+
+surveys (possibly NSAMT). The work is estimated to cost approximately US$260,000. 
+
+Contingent on the success of Phase I, a Phase II exploration program is recommended which would include 
+
+2,000 metres of diamond drilling. Drill targets tested in Phase II would have been developed in Phase I, the 
+
+total cost of which is estimated at US$820,000 including a 20% contingency due to the difficult access. The 
+
+total estimate for the two phases of exploration is $1.08 million. 
+
+INTRODUCTION 
+
+At the request of Robert Eadie, President of Parlane Resource Corp., the authors visited the property between 
+
+September 11 and 15, 2009 accompanied by Hector Duran Garcia and Victor Manuel Luna Castillo, both of 
+
+Detector Exploraciones SA de C.V. representing Minera Zeppy, SA de C.v. The most recent work done on 
+
+the property was during 2009 by Detector Exploraciones who conducted mapping, rock sampling, and 
+
+prospecting programs over the entire property and trenching of the Candelaria structure for Minera Zeppy. 
+
+On September 11, 2009 the authors examined the surface sampling of trenches from the Candelaria vein 
+
+system. On September 13, 2009 the authors walked out and sampled the El Oro - San Juan vein systems. On 
+
+September 14,2009 the authors visited and sampled the Otatal structural target, and on September 15 the 
+
+Norteiia area. This report describes the exploration history and geology of the Chacala property and makes 
+
+recommendations for further work. This report has been prepared to support the acquisition of the property 
+
+and will also be used to support required filing with any Canadian regulatory authorities. 
+
+The material found in this technical report is based on the property examination conducted by the authors and 
+
+a compilation of Detector Exploraciones 2009 report, program updates, consultant reports, and corporate 
+
+press releases available for review. There were no limitations put on the authors in preparation of this report. 
+
+The authors have relied on the data contained in this report, namely Detector Exploraciones SA de C.V. 
+
+technical report dated July 2009 (Informe de La Primera Etapa de Los Trabajos Realizados en el Proyecto 
+
+"Chacala, Mpio. Tamazula, estado de Durango. Por: Detector Exploraciones SA de C.V., Junio 2009). 
+
+Therefore, in writing this technical paper the authors have relied on the truth and accuracy of the sources 
+
+presented to them which are listed in the Reference section of this report but have also performed checks 
+
+against historical data in order to provide verification of the data. 
+
+The data for this December 23,2009 Chacala property technical report are principally contained in the 
+
+following report and maps: 
+
+Informe de La Primera Etapa de Los Trabajos Realizados en el Proyecto "Chacala. 
+
+Mpio. Tamazula, estado de Durango 
+
+Por: Detector Exploraciones SA de C.V., Junio 2009 
+
+
+
+5
+ 
+
+All references to currency in this report are in US dollars. All units in this report are metric unless otherwise 
+
+stated. Standard abbreviations for elements of the Periodic Table and metric units are used. 
+
+RELIANCE ON OTHER EXPERTS 
+
+The authors have not reviewed the land tenure or the legal status or ownership of the properties or underlying 
+
+option or joint venture agreements except where disclosed in publicly disseminated news releases. Title to the 
+
+Chacala property has been reviewed by management of Parlane Resource Corp. who have provided the 
+
+authors with a title opinion which is located in Appendix 1, and take responsibility for its accuracy. The results 
+
+and opinions expressed in this report are based on the field observations of the authors, and the geological 
+
+and technical data listed in the References. The authors have studied the information provided by Detector 
+
+Exploraciones SA de C.V. and believe the information to be reliable, but the authors have not made an in­
+
+depth independent investigation to verify its accuracy and completeness. 
+
+The opinions, conclusions and recommendations presented in this report are conditional upon the accuracy 
+
+and completeness of the information supplied by Detector Exploraciones SA de C.V. and the understanding 
+
+that no information has been withheld that would materially affect the conclusions and recommendations 
+
+stated. The authors reserve the right, but will not be obliged, to revise this report if additional information 
+
+becomes known to the authors subsequent to the date of this report. 
+
+PROPERTY DESCRIPTION AND LOCATION 
+
+The Chacala property is located in Durango State, approximately 91 km E of the city of Culiacan(located in 
+
+neighbouring Sinaloa State), in the Municipality of Tamazula (Figure 1 and 3). The UTM coordinates for the 
+
+centre of the Chacala property are 323500E & 2745000N(Nad 27 for Mexico, zone 13), Map sheet G13-C54 
+
+Chacala. 
+
+
+
+6
+ 
+
+""""r-----f--,-,-.."...-.."...-.."...-:l-----\,.... 
+
+ee .. r----i--'--'---'--~+---------1...... 
+
+,""at 
+
+Figure 1. Chacala Property - Location Map 
+
+The Chacala property consists of a block of mostly contiguous exploration and exploitation concessions 
+
+located around the village of Chacala and referred to in this report as the Chacala property. The Chacala 
+
+property consists of thirteen mineral concessions totalling 11,453 ha (Table 1). 
+
+In Mexico, the location of a concession is determined by the location of a single claim monument, with all 
+
+corners being located based on surveyed distances and bearings from that monument. These distances and 
+
+bearings must be determined and verified by a licensed surveyor. The monument may be placed outside of 
+
+the claim boundaries. Although the perimeter lines may not have been partially or entirely surveyed, the 
+
+method of locating the claim corners constitutes a legal survey. 
+
+A summary of the claim tenure information is located in Table 1. Title to the Chacala property claims has been 
+
+reviewed and verified by the management of Parlane Resource Corp. and a legal title opinion is located in 
+
+Appendix 1. The claims that comprise the Chacala property are shown in Figure 2. The closest expiry date for 
+
+any of the Chacala mineral claims is December 18,2041. 
+
+
+
+7 
+
+Table 1 - Chacala Property - Tenure List 
+
+MineralClaim TiDeNumber Expirv Date Exploration Explonation Annual Fee 1 AreaftJa Owner 
+Mina del otatal 193002 December18,2041 Explotiltion 100.0000 Exploraciones MinerasdelTambor,S.A.deC.V. ("EMT") 
+AmpHaclOn del otalal 194367 December29, 2041 Exploration 900.0000 Explorac;ones MlnerasdelTambor,SA deC.V. C'EMr) 
+LJuyja deOro 222624 July 29, 2054 Explolalion 168.4084 ManuelCoronel Beltran 
+LosChapotes 232603 September25,2058 Explolalion 895.5649 ManuelBeltranMeza(50%)and EduardoAlfonsoNevarreConlreras(60'11» 
+los Chapotes Frace. 2 232604 September25.2058 Explotalion 43.9092 Manuel BeltranMeza (50%) and Eduardo Alfonso Navarro Contreras (50%) 
+
+candelaria 227598 July17, 2056 Explolalion 300.0000 Manuet Bertran Meza(50%) and Eduardo AlfonsoNavarroContreras (SO'%) 
+
+~alefia 228969 June25, 2057 Explolalion 100.0000 ManuelBellJiin Meza 
+Melisa 232192 July3, 2058 ExplOlalion 240.0000 ManuelBellJiin Meza 
+Los Chacalotes 233059 December4,2058 Explolation 7830A392 Jose AgustinGareia Garcia 
+LosChacarotes Frace. 2 233060 December4,2058 Explolation 435.0721 JoseAgustinGarciaGarcia 
+LosChacalotes Frace. 3 233061 December4, 2058 Explolation 142.9137 JoseAgustinGarciaGarcia 
+SanMarcos 232196 JUly3, 2058 Explolalion 237.8263 ManuelBellJiin Meza 
+
+Carolina 232902 November3, 2058 Explolalion 69.2613 Eduardo AlfonsoNavarroContreras 
+
+Total USS26,OOO 11453.3951 
+
+Note: 1 - Fees are due to the government twice a year, in January and in July. The "Annual Fee" column is 
+
+the sum of both payments in US dollars. Fees are based on the number of hectares comprising the 
+
+concession and the date of issue of the concession title, and are accrued in Mexican Pesos, which in the table 
+
+above have been converted to US dollars at the exchange rate of 13.00 pesos per US dollar. The total fees for 
+
+2009 rise to approximately US$26,000. 
+
+There are no surface rights associated with the Chacala property, small parcels of surface rights belong to 
+
+individual local owners. The mineral claim holders obtained verbal permission from the individual property 
+
+owners to access and conduct exploration activity on their land. To conduct future exploration work there has 
+
+to be an official agreement with local property owners and a water use permit should be acquired prior to 
+
+drilling. 
+
+,On the Chacala property four distinct mineralized zones have been identified: Candelaria, San Juan - EI Oro, 
+
+Otatal, and Nortefia, The Candelaria, Jan Juan - EI Oro mineralized zones are located in the central-eastern 
+
+side of the property, the Otatal mineralized zone is located in the north-western side of the property and 
+
+Nortefia mineralizd zone is located in the south-western side of the property. None of the mineralized zones on 
+
+the Chacala property have a verified resources or reserves that would meet 43-101 standards. In all four 
+
+zones (Candelaria, San Juan - EI Oro, Otatal, and Nortena) several historical workings have been identified. 
+
+The most extensive are located in the Candelaria and San Jose and EI Oro target areas. 
+
+Due to limited historical exploration data available, it is impossible to predict if the mineralized zones, specially 
+
+the Otatal and Nortefia, extend beyond the Chacala property boundary. 
+
+No waste deposits, or tailing ponds have been identified on the property. At San Juan an underground train 
+
+rails indicate the use of the mechanical equipment at this mine. 
+
+
+
+8
+ 
+
+~ ~
+ 0: ::. 
+...............,... ,..... ,.'.j' .0 or .
+••••••••• '.' •• 0 • 0 ••• 0 •• :•• 0 ••••••• 0 • 
+
+27r'~rrmT~~~~~,.~.. ~... ~ 0 •••••••• o. 
+
+M,,,.""iO....; 
+19Xa2 
+
+, •••• " •• , ",' 
+
+~.7.4t!QOO.I')1N ' 
+o 0 
+
+. -.­
+
+~-!4QOOO.I')1N.. -:...
+
+W. 
+E 
+o· 
+O' 
+tn' 
+o.... .......
+ 
+t::'). 
+
+. 
+
+. 
+
+•••••• , u 
+
+........................ (> •••••••••
+ 
+
+0.0. • • • • • • • •••••••••• : •••••••••••• -:••••• 0 •L..r------...... 
+
+0 ••••••••••• ~ ••••••••••••• :- • 
+
+lO;~ 
+
+......~:lO .... 
+
+I.OsCl'Ji9SH' 
+Ftao:2,Z~ ~ 
+
+. 
+
+"." :- : : , : . 
+
+o 2.5km--....-­
+w. w: 
+
+E:E: 
+0­
+
+0' 
+0­ O' 
+tn' so:t-: N:
+
+N. 
+t::'). co­
+...... 
+
+. 
+
+w+£ 
+.000· ••••• :~ •••••• 
+
+.......... : .
+ 
+
+I---~ 
+
+Ifanm
+ 
+:m19f,
+ 
+
+, . 
+
+Figure 2. Chacala Property - Tenure Map 
+
+To conduct future exploration work there has to be an official agreement with local property owners and a 
+
+water use permit should be acquired prior to drilling. Neither of these permits are expected to be onerous to 
+
+obtain. 
+
+In a news release dated November 5,2009, Parlane Resource Corp. (the "Company") announced that it had 
+
+entered into an option agreement with Minera Zeppy, SA de C.V. (Zeppy) and Jose Augustin Garcia Garcia 
+
+to acquire an interest in the Chacala gold-silver property. 
+
+
+
+9
+ 
+
+Under the terms of the option agreements, the Company can earn 90% right and interest in the Chacala 
+
+property by paying; (i) to ZEPPY a total of US$1,250,000.00 (one million two hundred and fifty thousand 
+
+dollars 00/100 currency of the United States of America), plus the required 15% Mexican Value Added Tax 
+
+(IVA)and (ii) to Garcia US$250,000. In addition to the cash payments Parlane will issue a total of 3,320,000 
+
+(three million twenty thousand) common shares of Parlane ("Parlane Shares"). The cash payments and 
+
+Parlane Shares are scheduled to be issued on or before 18 months after completing the regulatory 
+
+requirements of the transaction ("Closing"). 
+
+In addition to the cash payments and share issuance, Parlane must incur in US$10,000,000 to fully earn their 
+
+interest in the Mining Concessions. 
+
+ZEPPY shall retain a 3% fully assignable NSR royalty on each of 4 exploration projects. Parlane or its Mexican 
+
+subsidiaries shall have the option, within the first 5 years of the option agreement, to purchase up to 2 
+
+percentage points of the NSR royalty for each of the exploration projects by paying the amount of 
+
+$US1,000,000 for each 1 percentage point of each of the exploration projects. Subsequent to the first five 
+
+years of the option agreement, the NSR buyout will increase to $US1,500,000 for each percentage point of 
+
+each of the exploration projects. There is no royalty on the L1uvia de Oro concession 
+
+Minera Zeppy, SA de C.V. and its subsidiary companies have warranted that the claims: 
+
+•	 are validly issued in the names of Exploraciones Mineras del Tambor, SA de C.V., Manuel 
+
+Coronel Beltran, Manuel Beltran Meza, Jose Agustin Garcia Garcia, and Eduardo Alfonso 
+
+Navarro Contreras. 
+
+•	 are in good standing; 
+
+•	 have no outstanding work orders or legal actions pending; 
+
+•	 are properly located and recorded; 
+
+•	 are not subject to any litigation that Minera Zeppy, SA de C.V. are aware of; 
+
+•	 are free and clear of all liens and encumbrances. 
+
+•	 have no known environmental liabilities that Minera Zeppy, SA de C.V.are aware of. 
+
+Title to the concessions constituting the Chacala property has been reviewed by management of Parlane 
+
+Resource Corp. who take responsibility for its accuracy (Appendix 1). 
+
+ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND PHYSIOGRAPHY 
+
+Access to the Chacala property from Culiacan City is via paved Highway driving northeast to the town of 
+
+Chapotan (via Tamazula, approximately a 2-hour drive). From this point a gravel road leads southeast to the 
+
+village of Chacala located approximately in the centre of the concession (approximately a 2-hour drive). A 
+
+straight-line distance between Culiacan and Chacala is approximately 65 km. The total distance by road is 
+
+approximately 142 km, of which approximately 112 km is paved and approximately 30 km is gravel road. The 
+
+total travel time from Culiacan to the village of Chacala is approximately 4 hours. 
+
+
+
+10 
+
+• 
+
+M 
+
+II....---_...._.•..;.... ~ 
+
+D 
+
+LEGEND 
+
+Capita of State 
+
+Town 
+
+Main Paved Road 
+
+SecondaryPavedRoad 
+
+Gravel Road 
+
+Airport 
+
+Chacala Project. 
+
+Figure 3. Chacala Property - Access Map 
+
+The Chacala property lies on the western side of Sierra Madre Occidental. It is limited to the east by the 
+
+Uplands with Basin and Range provinces and to the west is bounded by the Buried Range province. In the 
+
+Durango area the basins have elevations of 1900m to 2100m, and the higher peaks rise to 3000m. The 
+
+climate is generally dry with sporadic, often violent rainstorms in the hot summer months. The average 
+
+precipitation in the property area is about 600 mm mainly between May and October. The winter months are 
+
+cool and dry; snow is rare but night-time temperatures approaching the freezing mark are common in the 
+
+higher elevations. Yearly average temperatures are about 25 degrees Celsius. Grasses, small trees and 
+
+shrubs along with several varieties of cacti make up most of the vegetation on the steep hillsides, and larger 
+
+trees are found near springs and streams. 
+
+The Chacala property area is not densely populated and mostly undeveloped. Both the quality of 
+
+infrastructure and population density increases towards the city of Tamazula and Culiacan. There is 11OV 
+
+electrical power in the village of Chacala serviced by a commercial electrical grid, however industrial service 
+
+might need additional grid infrastructure. Any of the materials and supplies required to support exploration 
+
+and mining activities are available in Culiacan, Tamazula and Durango City. Labour needed to support 
+
+exploration and mining activities can be available locally but skilled labour would probably need to be sourced 
+
+in Culiacan, Tamazula or Durango. Public telephone service is available in the town of Chacala and apparently 
+
+there is an Internet access in a local Chacala school (not verified by the authors). 
+
+No environmental reports were provided for the property presumably due to the early stage of exploration of 
+
+the property. The property has ample land suitable for the construction of any proposed mine or mill 
+
+structures and facilities, including tailings storage or waste disposal areas and heap leach pads. Surface rights 
+
+
+
+are owned primarily by Manuel Beltran Meza and several small property owners. Permission for access to 
+
+mineral concessions for exploration and possible development must be negotiated with the surface property 
+
+owners which is normally not a problem in Mexico. The writers had casual encounters with various property 
+
+owners during their visit and the property owners appear amenable to exploration and development at this 
+
+time, but no formal negotiations have been initiated (verbal information). 
+
+Some of the small streams on the property carry sufficient water for mining operations at the time of the site 
+
+visit during the rainy season. These streams are much smaller at the end of the dry season however some of 
+
+them are reported to run all year and there should be the opportunity to drill wells to provide additional water. 
+
+There are no water rights associated with the property at this time. 
+
+HISTORY 
+
+For the last 80 years most of the mines in the Chacala district have been inactive. Exceptions are EI Cobre 
+
+and El Porvenir mines (located on a different concession not currently a part of the Chacala property) which 
+
+have seen limited production and the San Juan mine which operated briefly but ceased production in 
+
+approximately 1990 (personal communication with Mr. Manuel Beltran Meza). The CRM Durango reports that 
+
+in total roughly 150,000 tonnes were produced from these mines. 
+
+Since 1991 the Chacala property has been explored by various groups including Luismin, Peiioles, Kobex, 
+
+Saddlerock, Hochschild, Kinross, and Minera Mexicana Sombrerete. Although most of these groups appear to 
+
+have performed only cursory prospecting programs, the authors have located some reports which detail more 
+
+extensive sampling programs along some of the known structures. 
+
+Mining in the early 1900's at the Candelaria mine extracted roughly 100m of the total strike length of this vein 
+
+from 4 mining levels located approximately 22m below each other (Candelaria mine) to a total depth of less 
+
+than 80m with approximately 430m of underground workings. Based on the historical mine level plans and 
+
+sections, it is assumed that the vein had an azimuth of 040 degrees and a dip approximately 65-70 degrees to 
+
+the NE. A crude estimate of production based on long section area and thickness at the mine entrance is that 
+
+50,000 tonnes were mined, no reliable reports of the grade of mineralization has been found by the authors. 
+
+The Candelaria structure has been explored in the past by Minera Mexicana Sombrerete SA de C.V. and 
+
+Peiioles. Samples collected by Minera Mexicana Sombrerete SA de C.v. ranged from 0.1 to 6.2 glt Au and 
+
+19.1 to 81.7 glt Ag and Peiioles sampies (7 sampies) ranged from 0.12 to 109 glt Au and 4.7 to 395 glt Ag 
+
+(information is based on partial report by Minera Mexicana Sombrerete). 
+
+The San Juan mine was in sporadic production of gold and silver until the early 1990's (personal 
+) 
+
+communication with the property owner Mr. Manuel Beltran Meza). San Juan mine information is based on 
+
+mine plans included in an undated partial report by Minera Mexicana Sombrerete. The vertical section in the 
+
+San Juan report shows 4 mining levels with roughly 400 meters of total length and indicates the presence of 
+
+unmined mineralized blocks and proposes limits to the economic mineralization. The total vertical depth of 
+
+
+
+12 
+
+this mine is approximately 60 metres but the workings were not accessible during the site visit and 
+
+consequently the authors are unable to verify the accuracy of this plan however the location of the shafts and 
+
+adit seem to be correct. 
+
+The EI Oro Mine is assumed to have been worked coincident with the San Juan mine, it has some 
+
+underground development and an unknown historical production. At the present time only the first few meters 
+
+of the mine are accessible. Based on conversations with local people the El Oro mine has two levels of 
+
+approximately 300m in total length. The presence of railway tracks disappearing under rock rubble are 
+
+presumed to indicate the entrance to the lowest level of the EI Oro mine upon a significant waste rock dump. 
+
+The authors have not located any readable mine plans for the El Oro structure. 
+
+The Otatal target has one shallow (approximately 8m deep verbal information from Mr. Manuel Beltran Meza) 
+
+flooded shaft located at the base of the main showing, a partial report provided by the property owner indicates 
+
+that numerous samples were taken across the structure over 500 meters reported by H.L. King P. Eng. of 
+
+Kobex in 1997. In general the samples carry gold, silver and base metal values. Many of the samples contain 
+
+more than 1.5 glt Au with 40-120 glt Ag over thicknesses of 3 to 20 meters. The best samples reported are 11 
+
+glt Au and 134 glt over 2m near the short shaft and 3.1 glt Au and 63 glt Ag over 4.6 meters. The worst 
+
+sample shown on the plan is 0.75 glt Au and 22 glt Ag at the very north of the exposure but the authors can 
+
+not be certain that other lower values were not also omitted. 
+
+Additional work on the Otatal target has been performed by Perioles and Hochschild. Perioles collected 28 
+
+samples with one sample returning 17.6 glt Au and 200 glt Ag and the rest less than 1.86 glt Au and 108 glt 
+
+Ag. Hochschild collected 27 samples with assay value ranging from detection limit to 2.37 glt Au and detection 
+
+limit to 70 glt Ag. Although the exact date of sampling by Perioles and Hochschild at the Otatal target is 
+
+unknown, it appears to have been done in the last few years. The map contained in the Minera Mexicana 
+
+Sombrerete (not dated) report shows the rough location of the samples collected by Perioles and Hochschild 
+
+all of which seem to have been collected from a very small area near the main Otatal showing (information 
+
+based on the map in the undated Minera Mexicana Sombrerete report). The results obtained by all historical 
+
+samples appear to be relatively similar. 
+
+The Norteria target has several underground workings and small"taunas" (small grinding basins) in the 
+
+stream beds but there is no information available regarding production from this area and none of the 
+
+workings were accessible during the site visit, as our guides were unaware of them. Significant exploration of 
+
+this area was conducted by Luismin (date of Luismin activity is unknown to the authors and the information 
+
+was provided subsequent to the site visit in a partial report written by Minera Mexicana Sombrerete). Luismin 
+
+identified two principal targets in the Norteria area; the first target is a 500m long La Guadalupana-La Platosa 
+
+structure, and the second target represents disseminated mineralization within an area 160m by 250m. One of 
+
+the maps indicates a soil (rock) sampling grid that covers an area of approximately 300m by 500m. These two 
+
+
+
+13
+ 
+
+targets were not visited by the authors. Mineralization indicated in the report acknowledges presence of gold, 
+
+silver, lead and zinc as well as mercury and arsenic. 
+
+GEOLOGICAL SETTING 
+
+The Chacala property is located in the province of Sierra Madre Occidental and in a subprovince of Gran 
+
+Meseta and Canones Duranguenses (Figure 4). 
+
+Regional geology is underlined by Jurassic basement rocks overlain by andesitic Triassic andesitic 
+
+volcaniclastic and dacitic volcanic sequences subsequently overlain by younger Tertiary rock formations. The 
+
+above mentioned rock units were intruded by the Cretaceous granodiorite and andesite intrusions (Figure 5). 
+
+Figure 4. Sierra Madre Occidental and Regional Mines and Projects 
+
+The metasedimentary and volcaniclastic complex of Sierra Madre Occidental has been intruded by 
+
+Cretaceous granodiorites and andesite dikes. The 'basin and range' topography reflects a series of N to NW 
+
+trending regional linear grabens bounded by normal faults along the range fronts. Block faulting down the 
+
+steep slopes of the Sierra is also a common phenomenon in the region. 
+
+
+
+14
+ 
+
+The oldest exposed rocks at the Chacala property are metamorphic basement rock (Jurassic-?) consisting of 
+
+flysch type meta-sandstones and -mudstones. The metasedimentary basement rocks are overlain by the 
+
+Triassic andesitic volcaniclastics belonging to the Lower Volcanic Series (volcanico superior) subsequently 
+
+overlain by the rhyolithic Upper Volcanic Series (volcanico superior). The younger Tertiary volcanics and 
+
+alluvia overlie all the above mentioned rock units. The metasedimentary and volcaniclastic complex of Sierra 
+
+Madre Occidental has been intruded by Cretaceous granodiorites and andesite dikes (Figure 5). 
+
+Geology - Chacala Project 
+
+1"-'. 
+-e-; (").
+("). . . . . .. - _ . 
+
+Legend 
+
+I_WlOoIw 
+
+II==o.tnc, mIA 
+CRETACICO 
+JNllllIllOIl 
+
+==:;.""'" 
+
+II~ 
+JlJRAsICO 
+I!lV'Fl:1UOll 
+
+II=-­
+
+o 2.5km 
+
+GeologyMap is basedon: 'Carta Geologico - Minera Chacala. G13C54"by servicio Geologico Mexicano'andmapping done by OetectorExploraciones SA de C.Y 
+
+Figure 5. Chacala Geology 
+
+The sequence of rhyolite ignimbrites, breccias and tuffs belonging to the Upper Volcanic Series, normally 
+
+found overlying the andesite sequences of Lower Volcanic Series, is not exposed well in the Chacala area. 
+
+The Upper Volcanic Series is probably present at the Otatal target. 
+
+At Candelaria mineralized structures are hosted in a granodiorite intrusion. At Otatal the main mineralized 
+
+structure is hosted at the contact (?) of granodiorite intrusion and metasediment. At EI Oro the host rock for 
+
+
+
+15
+ 
+
+mineralized structures is a brecciated volcaniclastic and at San Juan probably a vesicular flow. The Norteiia 
+
+project is underlain by metasediments mainly represented by fine-grained black siltstone interbedded or 
+
+possibly overlain by a conglomerate. The conglomerate can be divided into two types. One type of 
+
+conglomerate contains white rhyolitic subrounded fragments up to 10cm in diameter and fragments of black 
+
+metasediment within metasedimentary sandy matrix. The second type of conglomerate is lacking rhyolitic 
+
+fragments. The presence of rhyolitic fragments can indicate that this rock unit could be on top of the 
+
+stratigraphical sequence and could represent the first volcanic activity after the clastic sedimentary period. 
+
+Bedding measured in the upper part of the property was 120/84S indicating that at least in some parts of the 
+
+property bedding is almost vertical. In the top part of the visited area, presence of quartzite and breccias with 
+
+quartzite fragments have been identified by the authors. 
+
+DEPOSIT TYPES 
+
+The Chacala property is considered to be a silver-gold epithermal vein target. Low sulphidation vein systems 
+
+are commonly characterised by their low sulphide contents, quartz-adularia-sericite alteration mineralogy, and 
+
+lack of extensive wall-rock alteration. The classic idealised model for these systems, as proposed by 
+
+Buchanan (1981), incorporates a system of sub-vertical veins that passes upwards into a mushroom-shaped 
+
+sub-horizontal "silica cap" at or near the paleosurface (Figure 6). Deep in the system, the veins have relatively 
+
+low precious metal to base metal ratios, but this ratio increases higher in the system to the point where base 
+
+metal sulphides and pyrite are often present in only minor amounts. In some cases, such as the famous 
+
+Comstock Lode in Nevada, the veins contain high grade or "bonanza" sections with elevated silver or silver­
+
+gold grades. The highest levels in the system, including the "silica cap", commonly have anomalous mercury, 
+
+arsenic and antimony geochemistry with low precious and base metal values. 
+
+The geology and style of mineralization at Chacala are similar to those of other silver producing districts in the 
+
+western Americas. Mexico is home to many silver-gold districts that are discussed in the "Adjacent 
+
+Properties" section of this report and is second to only Peru in world silver production. The following 
+
+discussion is intended to provide examples of mining districts that have geology and mineralization that are 
+
+similar in general style to those at the Chacala property. There is no intention to draw direct comparisons 
+
+between Chacala and any other mining districts or properties. The authors have been unable to verify the 
+
+below mentioned information and this information is not necessarily indicative of the mineralization on the 
+
+Chacala property that is the subject of this technical report. 
+
+
+
+16
+ 
+
+100 Empey (CIa,,) 
+Rare gold Zeolltes.Calcile 
+usually in Clays (Agale) CRYSTALLINE CARIlONATE(± agate± parallelbladed± molds) 
+
+\pyrite Cakile 
+
+I 
+LATIlCEBLADED+BLADED CARBONATE(± agate ± amelhy~) 
+
+100 CH 
+
+GOld in PYril. MASSIVE OIALCEDONIC(± lattice bladed ±moss::tagalc) 
+
+/ 
+
+II i/ Ag-sulfosaltS Quartz
+[ 
+
+/ 1.., •••••••• ::. CalciIe
+ 
+200 \ .:.:::.:.; / Pyri,.
+ 
+
+MOSS+ OIALCEDONlC> CRYSTAlLINE (± Ia";", bladed 
+200 ± sulf"" bands ± mossadularia) \?=:::.: / r~"=' { (IW; FI) l:· ....: 1= 
+
+CC CRYSTALLINE>MOSS+ CHALCEDONIC(±.-lle adularia 
+AD ~~ / PRECIOUS METAL ~1 ~~ ± sulfidebands.t diS3eminaled suJrlde~) 
+
+300 r~·: I JNm<VAL -" Pyri,. I
+x\~m_,_.~~.~~._400 \~ ~ {~~ 1; !f~" 
+
+I 
+I 
+
+250 
+I I 1--­I 
+
+~ CRYSTAlllNE QUARlZ + CARBONATE(crustilorm) 
+sao I / 
+
+T('C)IlB'I1I ScaJc model(or zoningof lU.turcs,. aheration. ore and gangue mint;raIogyin I typicalboiliag zone epithennal vein.BasedCD Iht mode!of 
+(M) Buchanan(1981)wilh ItmpCI1ture ref1cc:ting the level for boiling under hydrostatic; conditionsof .. nuid containing 2.84~ NaCl. Alteration 
+
+zones PR= prop)'litic;5J"'"Silica;AD = Adularia;ILL = Dlite;SER = Sericite; CEL == Cdadonite; AL =Alunite-kaolinite p)'riIe.SecBuc:banan 
+(198) fordctails.Qapitaileuc:rs in teJtrutt columnrefer 10 ~uper UII1CS; CH ""OJakcdonic; CC = Crustifonn·CoJloform; X = Crysta1line. 
+
+Figure 6. Epithermal Vein Model - Buchanan, 1981 
+
+In Mexico, the Topia, Guadalupe y Calvo and Tayoltita districts have numerous mineralized veins hosted in the 
+
+older volcanic rocks underlying the rhyolitic Sierra Madre Occidental ignimbrite "cap". Guadalupe y Calvo is 
+
+somewhat unusual, with a low silver to gold ratio of 20:1. The veins in this district have produced more than 
+
+two million tons of ore. Topia is a classic polymetallic fissure vein district. It has a rich production history with 
+
+recorded production since 1950 of 1.3 million tonnes of ore, yielding 15.4 million ounces of silver with roughly 
+
+18,500 ounces of gold. Combined lead and zinc grades at Topia are almost 8%. The authors have been 
+
+unable to verify the above mentioned information and this information is not necessarily indicative of the 
+
+mineralization on the Chacala property that is the subject of this technical report. 
+
+The Tayoltita mine in the San Dimas district, located approximately 170 km east of the Chacala property, has 
+
+a historic silver to gold ratio of about 80 t0100:1 and production of roughly 30 million tons from over 80 veins. 
+
+The three deposits in the San Dimas district (Tayoltita, Santa Rita and San Antonio) are high grade, low 
+
+sulphidation, and silver-gold-epithermal vein deposits characterized by adularia-sericitic alteration. The proven 
+
+and probable mineral reserves at San Dimas district three operating mines (Tayoltita, Santa Rita and San 
+
+Antonio) are reported to be approximately 3.25 million tonnes at 421 glt Ag. The total inferred mineral 
+
+resources at the three mines, diluted, are reported to be approximately 17.27 million tonnes at an estimated 
+
+grade of 321 glt Ag (Silver Wheaton Corp. 2009 News Release). The authors have been unable to verify the 
+
+above mentioned information and this information is not necessarily indicative of the mineralization on the 
+
+Chacala property that is the subject of this technical report. 
+
+The Fresnillo silver mining district in Zacatecas State contains many high-silver vein deposits. One of the 
+
+larger, classic veins of this camp is the Santo Nino vein. This mineralized vein is not well exposed at surface; 
+
+
+
+17
+ 
+
+instead, at surface there is a small stockwork of small veins and veinlets that may define the vein at depth. 
+
+The Santo Nino vein was discovered by drilling at a depth of 300m below the surface and has now been 
+
+traced for 2.5 km in length and 500m in depth with a vein width of 0.1-4.0 m. (average 2.5 m). The initial 
+
+discovery hole in 1975 intersected 1,087 gft silver, 1.62 gft gold 0.4% lead and 0.7% zinc over a true width of 
+
+3.0 m. This vein has become the largest silver producer in the Fresnillo camp, 1988 reserves of 1.2 million 
+
+tonnes 769gft silver, 0.56gft gold, 0.99% zinc, 0.50% lead and 0.03% copper (Gemmel et ai, 1988). The 
+
+authors have been unable to verify the above mentioned information and this information is not necessarily 
+
+indicative of the mineralization on the Chacala property that is the subject of this technical report. 
+
+There are three prominent silver-gold districts in the central Andes of southern Peru, namely Cailloma, 
+
+Orcopampa and Arcata. Erickson and Cunningham describe these deposits as adularia-sericite-type, silver­
+
+rich, polymetallic, and base-metal veins. The silver to gold ratio in these deposits is generally more than 300:1 
+
+and production from the three districts has averaged about 500 gft silver. As at Chacala, the mineralization 
+
+occurs in fissure-filling veins along subparallel faults cutting intrusives as well as andesitic flows, breccias, and 
+
+pyroclastics and clastic rock units as well as intrusives. Each of these districts has multiple veins in areas of 
+
+10-15 square km with individual veins generally less than two meters in thickness but up to three kilometres in 
+
+length. Mineralization is reported to occur over a vertical interval of 300-450 metres. The combined historic 
+
+production and reported current reserves of these three Peruvian districts is estimated to range between 8 and 
+
+9 million tonnes, at grades of 400 ppm Ag and 1.3 to 3 ppm Au (Erickson and Cunningham, 1993). The 
+
+authors have been unable to verify the above mentioned information and this information is not necessarily 
+
+indicative of the mineralization on the Chacala property that is the subject of this technical report. 
+
+MINERALIZATION 
+
+Mineralization on the Chacala property is principally structurally controlled and mainly hosted in intrusive rocks 
+
+and less commonly in andesite volcanics and metasediments. The majority of structures in the Chacala area 
+
+trend NW and NE. It is possible that in some locations (e. g. Norteria) mineralization could also form mantos 
+
+and disseminated ore bodies. 
+
+Four distinct mineralized targets have been identified on the Chacala property: Candelaria, San Juan - EI Oro, 
+
+Otatal, and Nortefia 
+
+At the Candelaria mineralization was traced for over 700m and is associated with the presence of quartz­
+
+tourmaline veins locally containing pyrite and copper oxides. Mineralized structures are hosted in a 
+
+granodiorite intrusion that appears to be unmineralized. 
+
+The mineralized target zone is over 15m wide with several sub-parallel veins locally up to 2m wide but the 
+
+majority of the veins are less than 1m wide. The trend of the Candelaria structure measured at the entrance to 
+
+
+
+18 
+
+the Candelaria is estimated at 040/82 NE but the authors observed that the dip of the structure could also be 
+
+to the west. 
+
+At the San Juan target mineralization is not well visible and is contained in a manganese (?) rich horizon. 
+
+Mineralization at San Juan appears to be structurally controlled and the structural trend has an attitude of 
+
+325/44NE. At the EI Oro target visible mineralization consists of pyrite and galena hosted in brecciated host 
+
+rock. The main EI Oro structure is very similar to the San Juan structure where mineralization is hosted in a 
+
+black manganese (?) rich horizon with pyrite and galena rich lenses. EI Oro structure appears to trend at 
+
+270/40NE. The combined length of EI Oro and San Juan structures can be presently estimated at 
+
+approximately 300m. 
+
+At the Otatal target quartz rich structure can rich 8m in width and was traced by the authors for approximately 
+
+60m.. Visible mineralization contains locally pyrite and traces of malachite. The structure trends at 014/80E 
+
+and the strength of silicification suggests a much larger, regional extent of the Otatal structural target. 
+
+The Nortefia mineralization is hosted in conglomerate, breccias (?), and metasediments. At the the Nortena 
+
+target two types of mineralization have been identified. The first type represents a structurally controlled 
+
+mineralization also confirmed through several small underground developments (not accessible) located along 
+
+the structurally controlled targets. The second type is a disseminated oxidized sulphide mineralization exposed 
+
+as a gossan in the upper parts of the property. The possible disseminated nature of the Nortefia target could 
+
+cover area over 0.5 by 0.5 km. 
+
+EXPLORATION 
+
+Detector Exploraciones performed the most recent exploration work on the Chacala property during 2009. 
+
+During this time several targets were tested mainly by trenching, mapping, rock sampling, and prospecting to 
+
+determine the validity of historical reports from the various showinqs, Detector Exploraciones crew consisting 
+
+of 2 to 4 geologsts and field assistants identified four distinct exploration targets: Candelaria, San Juan - EI 
+
+Oro, Otatal, and Nortefia, All the above mentioned target areas were mapped and field geological 
+
+observations were compared and merged with available regional geological maps. Geologists identified the 
+
+main showings and took rock chip samples across the structures for analysis. Only the Candelaria structure 
+
+was explored in detail with a total of 270 meters of trench being excavated using a small back hoe. From the 
+
+Candelaria target a total of 63 samples were collected by Detector Exploraciones and sent to ALS-Chemex 
+
+laboratory for analysis (Table 2b). From the EI Oro target 6 rock chip samples, from the San Juan target 2 chip 
+
+and 1 grab samples, from the Otatal target 4 chip samples, and from the Nortefia target 1 chip and 3 grab 
+
+samples were collected by Detector Exploraciones and sent to ALS-Chemex laboratory for analysis (Table 
+
+2a). 
+
+
+
+19 
+
+A total of 20 mandays were spent on the trenching program and 138 mandays were spent mapping and 
+
+prospecting. In total, 235 samples were collected from the property by Detector Exploraciones of which 80 
+
+have been assayed. 
+
+Minera Zeppy reports that in addition to $80,000 which was spent acquiring additional claims, some $160,000 
+
+was spent on geological work, with a further $40,000 in expenditures on road maintenance and another 
+
+$20,000 on geological consulting. The partial break down of the geological work conducted by Detector 
+
+Exploraciones since June of 2009 is shown in the following table. 
+
+Work done DayS $/day Total 
+MappinQ, trenchinq, prospecting, rock sarnplinq 158 500 79,000 
+
+Truck rental 164 125 20,500 
+Back hoe trenohlnq 14 500 7,000 
+
+Assays 80 37 2,960 
+Total 109,460 
+
+Since 1991 the Chacala property has been explored by various groups including Luismin, Pefioles, Kobex, 
+
+Saddlerock, Hochschild, Kinross, and Minera Mexicana Sombrerete. Only partial reporting of the results from 
+
+previous work have been located to date and this information is summarized in the History section of this 
+
+report. 
+
+Based on Detector Exploraciones work, four distinct exploration targets have been identified: Candelaria, San 
+
+Juan - EI Oro, Otatal, and Nortefia. Rock samples collected by the authors from the identified targets revealed 
+
+the presence of significant silver-gold mineralization. Silver and gold mineralization is commonly associated 
+
+with the presence of strongly anomalous As, Pb, Zn, and Cu (Table 2a, 2b). 
+
+Table 2a. Rock Samples collected by Detector Exploraciones from the Otatal, San Juan - EI Oro, and 
+
+Nortena Targets 
+
+sample No. E N0<I27z13 Mex N Nad27z13l1ax location Sample width [rIl] AulPpm] Ag[ppm] As [ppm] Cu [ppm] Pb[ppm] Sb[ppm] Zn [ppm] 
+CLR015 325706 2745671 SOro 1.00 0.096 7.4 2550 206 131 18 64 
+CLR017 324574 2746873 8 Oro 3.30 1.415 1500 521 8500 >10000 246 >10000 
+CLR019 324574 2746873 8 Oro 1.00 0.181 22.9 50 273 2040 11 4340 
+CHII008 324221 27466Q3 ElOra 0.60 0.099 1.4 1040 55 33 5 48 
+OROOOl 324611 2746676 ElOra 1.10 0.878 >100 1565 1270 >10000 43 >10000 
+
+OR0002 324611 2746676 8 Oro 0.60 4.64 278 1570 2800 >10000 40 >10000 
+CLR026 324644 2746845 SanJuan 0.10 0.943 1.6 50 253 74 <2 117 
+SJNool 324860 2746519 SanJuan 0.80 33.9 113 63 84 266 <2 364 
+SJN002 324860 2746519 San Juan NA 0.149 2.4 87 8 55 3 108 
+NORool 317050 2742400 Nortena 0.80 0.327 34 2400 163 653 19 140 
+NOROO2 317005 2742400 Nortel\a Greb 0.029 1 63 7 27 3 40 
+NOROO3 317148 274226Q Nortel\a Grab 0.Q75 2.8 86 25 274 2 286 
+NOR004 317148 274226Q Nortefta Grob 0.15 0.6 303 51 24 6 70 
+OlA004 312880 2749930 Olalel 4.00 0.276 3.5 122 90 365 <2 134 
+OlA005 312880 2749930 Ololal 2.70 1.375 23.8 579 236 1245 9 56 
+OTA006 312880 2749930 Olalal 1.80 0.399 20.8 329 339 260 7 110 
+OTA007 312850 2749930 Olatal 1.70 2.28 105 243 1255 >10000 6 275 
+
+Candelaria Target 
+
+The Candelaria vein is over 800m long, has azimuth 040 degrees, and dips approximately 80 degrees to the 
+
+SE. The Candelaria mine covers only 100m of the total strike length of this vein with access on 4 levels 
+
+located approximately 22m below each other to a depth of less than 80m and through a total of approximately 
+
+
+
+20 
+
+430m of underground workings. Recent trenching by Detector Exploraciones along 100m of the southwestern 
+
+strike extension of the La Candelaria vein has exposed a target zone consisting of a 15m wide zone with 
+
+several sub-parallel veins locally up to 2m wide. 
+
+The southwestern extension of the Candelaria vein has no known underground development and there are no 
+
+signs of mining activity. 
+
+To confirm geological observations and sampling reported by Detector Exploraciones the authors visited the 
+
+main entrance to the Candelaria mine and trench 1, 2, 3, and 16. Sample intervals and sample numbers 
+
+collected by Detector Exploraciones at Candelaria were well marked in the field with paint and sample 
+
+numbers were visible (Table 2b). 
+
+27.4MQO.mN ... 
+
+'.
+2T'H-?QO·rN : . ~.,::: ,..-:" ; . 
+
+. . . C07V04 .... "'IR:O~/' 
+. .. '.'. 
+
+. .. : ... +.:s.-...... 
+: w' z . 
+. . . 
+
+..' 
+,.,7• 
+
+.., 
+
+.' . 
+,R 0.06 
+
+• • • • • • , • • : • • • • • • • • .:. • • • • > • • ~:. • • • • • • • • .: ;":' • • • • • • .:. • • • • 
+
+C07V01 
+
+C07V03 '.' '
+. 'C07V02 
+
+C~7V05 . • ..)R' 005 "&":l: 
+: :' : : C09V04 >........1' ....0··1.· ~'9' : 
+
+·.. :r : C~~~~~3 :.'·: ..~.98V :X·······:·········:· 
+.! C09V01....... ..... : "&"'J~
+ 
+
+C11V04: R 01~···· ~: >
+ 
+'. . C11V03 :..... ...... &":l' 
+
+100m 
+
+Legend 
+
+o 
+
+c:=J Candelaria 
+mineralized trend 
+
+84369 Samples collected by 
+the Authors 
+
+C03V07 Samples collected b)' 
+IR001 Detector Exploraciones 
+
+SA de C.V. 
+
+:C10V08 
+
+cf(jVl~R7 
+C10V05 
+
+. C10V04:" ..... 
+. C10V03 
+C10V02 
+
+C1oV01 
+
+7.4'ilttO.\l.mt{ .•.. C.1.1V02.. .: . ~ 
+· C1:1V01 
+
+;-.,-~~ 
+
+.' 
+: ~.12V01 : 
+
+· .. ~ C1GVa.5.~ : .. : .. '~6l' . 
+· C16V04.······./ '2 . 
+IR 012.'4·IR01 ...• Q}7': C1.6V?;it~ ..'.• J: 
+
+C16V~ 8;4;372 
+· .;....-;­ :...,........:. ~ ..... 
+
+": "& 
+C16V01* ~ '795 : .~ 
+· g 7~ : C13V02.g
+
+·\.. : Pl· ; C13VO'1' : / .t:t . 
+
+Figure 7a. Chacala Project - Candelaria Target 
+
+
+
+21 
+
+To verify previously reported assay values the authors collected one sample from the entrance of the 
+
+Candelaria mine and one sample from each trench 2,3 and 16 (the most southern exposure of the vein). 
+
+Sample IR001 collected by Detector Exploraciones at the entrance to the Candelaria was re-sampled by the 
+
+authors (sample 84369). On the same wall, there was also another sample number HM50484 visible from 
+
+previous unknown samplers. It is possible that the previous visiting project sampling crew was representing 
+
+Hochschild Mining. The most anomalous assay result obtained by the authors at Candelaria was 1.7m 
+
+grading 1.7 g/t gold and 46 g/t silver. 
+
+The Candelaria structure is hosted in argilically altered and iron-oxidized granodiorite. Silver and gold 
+
+mineralization in La Candelaria is associated with the presence of white quartz and tourmaline with locally 
+
+seen malachite stains. 
+
+Some of the exposed structures in trenches could are up to 2 m in width, but the majority of the veins are less 
+
+than 1m wide. The trend of the Candelaria structure measured at the entrance to the Candelaria mine, in 
+
+trenches and calculated from the mining plans provided to the authors by Detector Exploraciones is estimated 
+
+at 040/82 NE. In one location (trench, sample 84370) the authors observed that the dip of the structure was to 
+
+the west. 
+
+
+
+22 
+
+Table 2b. Rock Samples collected by Detector Exploraciones from the Candelaria Trenches 
+
+Sample No. E Nad27z13 Mex N Nad27z13 Mex Location Sample width [m) Au [ppm) Ag[ppm] As [ppm) Cu(ppm] Pb (ppm) Sb(ppm) Zn [ppm] 
+
+C01V01 323998 2744392 Trench C01 0.30 0.148 0.600 1415 379 73 12 40 
+COW02 324000 2744390 Trench C01 0.30 12.100 43.900 > 10000 2850 51 95 80 
+C01V03 324000 2744390 Trench C01 0.30 0.329 1.80 2790 3690 13 9 102 
+COW04 324000 2744389 Trench C01 0.70 0.650 14.50 > 10000 1150 35 48 24 
+C02V01 323964 2744348 Trench CO2 1040 0.343 11.70 4160 730 128 16 64 
+C02V02 323962 2744350 Trench CO2 DAD 0.173 26.50 2040 1530 177 13 122 
+C02V03 323957 2744355 Trench CO2 0040 0.365 16.10 > 10000 657 550 20 40 
+
+C02V04 323956 2744356 Trench C02 0.45 0.035 1040 1060 159 54 25 87 
+C02V05 323956 2744357 Trench CO2 0.28 0.042 3.00 1290 280 65 15 44 
+C03V01 323918 2744299 Trench C03 5.00 0.029 13.60 6400 295 179 69 22 
+C03V02 323914 2744302 Trench C03 0.35 0.460 19.40 > 10000 10BO 42 44 14 
+C03V03 323914 2744302 Trench C03 0.80 0.032 0.90 1035 613 18 4 117 
+
+C03V04 323913 2744303 TrenchC03 0.11 0.018 1.20 937 672 49 11 180 
+C03V05 323912 2744303 Trench C03 0.10 0.053 1.60 1770 228 49 9 58 
+C03V06 323908 2744306 Trench C03 0.15 0.024 1.10 > 10000 371 164 14 162 
+C03V07 323906 2744308 Trench C03 1.60 1.590 24.70 > 10000 948 104 31 15 
+C04V01 323821 2744222 Trench C04 1.50 0.016 0.50 2280 586 79 9 26 
+C04V02 323836 2744209 Trench C04 1.40 0.037 4.90 6500 272 131 93 219 
+COlV01 323773 2744153 Trench C07 0.60 0.038 2.90 1475 672 94 19 102 
+COlV02 323775 2744151 Trench C07 0.20 0.010 3.20 226 205 183 9 118 
+COlV03 323775 2744150 Trench C07 0.30 0.005 0.20 170 117 49 7 67 
+COlV04 323778 2744146 Trench C07 0.30 0.068 1.00 180 34 79 5 18 
+C07V05 323784 2744137 Trench C07 1.00 0.839 129.00 > 10000 850 573 45 21 
+C08V01 323724 2744104 Trench C08 0.30 1.505 52.30 > 10000 702 1220 244 59 
+C09V01 323705 2744078 Trench C09 0.85 0.011 0.40 854 85 114 6 31 
+
+C09V02 323704 2744078 Trench C09 1.15 0.033 0.90 1100 166 37 5 46 
+C09V03 323704 2744079 Trench C09 0.70 0.077 1.50 4660 129 82 14 27 
+C09V04 323699 2744084 Trench C09 0.50 0.012 < 0.2 1890 336 140 35 113 
+C10V01 323663 2744014 Trench C10 1.20 0.154 <0.2 4320 570 74 34 112 
+C10V02 323662 2744015 Trench C10 1.25 0.026 <0.2 625 172 49 5 70 
+C10V03 323662 2744015 Trench C10 0.55 0.045 <0.2 3300 897 118 37 133 
+C10V04 323661 2744016 Trench C10 2.65 0.026 <0.2 614 187 41 9 70 
+
+C10V05 323659 2744018 Trench C10 1.07 0.075 0.50 1500 108 470 28 37 
+C10V06 323659 2744019 Trench C10 1.48 0.064 <0,2 1470 207 56 22 116 
+C10V07 323657 2744020 Trench C10 1.40 0.016 <0.2 847 176 45 39 144 
+
+C10V08 323657 2744020 Trench C10 0.45 0.007 <0.2 1330 291 75 55 312 
+C11V01 323619 2743964 Trench C11 0.30 0.056 <0.02 1890 299 103 15 176 
+
+C1W02 323618 2743965 Trench Cll 0.30 0.007 0.60 222 62 25 <2 115 
+C1W03 323612 2743968 Trench C11 0.50 0.014 2.10 378 751 53 7 158 
+C11V04 323611 2743969 Trench Cl1 0.30 0.188 2.30 4180 1670 696 165 98 
+C12V01 323544 2743909 Trench C12 0.40 0.174 3.90 > 10000 778 83 50 100 
+C13V01 323509 2743871 Trench C13 1.20 0.175 0.70 1970 491 145 15 315 
+C13V02 323509 2743872 Trench C13 0.30 0.014 0.70 1250 588 143 5 189 
+C13V03 323509 2743873 Trench C13 0.14 0.010 2.00 848 590 34 4 125 
+C13V04 323509 2743874 Trench C13 0045 0.056 4.60 4260 1930 145 15 210 
+C13V05 323509 2743874 Trench C13 0.75 0.005 1.20 1340 563 14 3 120 
+C13V06 323509 2743875 Trench C13 0.65 0.355 44.60 > 10000 1800 140 27 170 
+C16V01 323445 2743748 Trench C16 0.10 8.130 520.00 > 10000 9400 2130 365 32 
+C16V02 323427 2743827 Trench C16 0.60 0.065 1.50 1200 94 12 2 105 
+
+C16V03 323439 2743856 Trench C16 0.80 0.516 63.10 > 10000 3830 2580 163 1430 
+
+C16V04 323453 2743864 Trench C16 1.00 0.162 12.90 5390 323 162 9 1130 
+C16V05 323491 2743891 Trench C16 1.30 0.057 5.10 4970 225 74 7 118 
+IR001 324020 2744426 Candelaria Adil 1.70 9.65 76.9 >10000 1780 3050 2790 164 
+IROO4 323781 2744166 Candelaria 0045 0.047 2.4 0.0895 760 127 31 267 
+IR005 323805 2744163 candelaria 2.50 0.538 48.6 >10000 929 2400 231 110 
+IR006 323867 2744226 Candelaria 5.00 0.481 48.3 >10000 722 2270 188 48 
+IR007 323936 2744304 Candelaria 1.70 0.348 97 >10000 1020 1310 862 28 
+IR008 323914 2744286 Candelaria 3.00 0.541 20.7 >10000 265 159 411 15 
+
+IR010 323505 2743848 Candelaria 0.85 0.017 1.4 0.275 478 24 13 25 
+IR012 323443 2743866 candelaria 0.80 0.015 4.4 0.0397 329 360 9 1965 
+
+IR014 323647 2744038 Candelaria 0.80 1.68 163 >10000 2840 2980 1735 464 
+IR019 323989 2744392 Candelaria 0.40 1.17 40.4 >10000 1960 42 55 23 
+
+IGUA01 323983 2744374 Candelaria 0.50 2.32 21.6 >10000 1070 481 130 177 
+
+Table 3. Rock Samples Collected by the Authors from the Candelaria Target 
+
+Sample No. E Nad27z13 Me•• N Nad27z13 Mex, Target Sample width m Au (ppm] Ag (ppm] As (ppm Cu [ppm] Pb [ppm] Sb[ppm] Zn(ppm] 
+84369 324016 2744421 Candelaria 1.7 1.614 46.4 9,153.7 1,466 396 1116.9 26 
+
+84370 323965 2744353 Candelaria 0.5 0.078 23.6 1.381.8 1,338 109 7.3 175 
+84371 323920 2744301 Candelaria 3.0 0.034 39.6 6,611.9 231 435 476.6 18 
+84372 323444 2743850 Candelaria 0.8 0.Q36 9.6 28,300.0 365 816 94.7 2,666 
+
+Beyond the presently known trace of the structure, to the SW and NE (past historical mining workings) the 
+
+Candelaria structure disappears; it could be cut off or is covered by overburden and alluvia. 
+
+
+
+23 
+
+The results from surface samples collected by the authors from Candelaria are presented in Table 3, 
+
+and assay results from surface trench samples collected by Detector Exploraciones are presented in 
+
+Table2b. 
+
+San Juan and EI Oro Targets 
+
+The EI Oro and San Juan targets are located near each other and although at first glance seem to be one 
+
+structure it is more likely that they are two different structures cross cutting at a low angle. The trace of the 
+
+structures was not followed up by the authors and there is no proof that the two mines/structures connect. The 
+
+trend of the San Juan structure is 325/44NE, and the EI Oro structure appears to trend at 270/40NE. The 
+
+combined length of EI Oro and San Juan structures can be presently estimated at approximately 300m. 
+
+The San Juan structure appears to be hosted in a vesicular flow, and there was no visible sulphide 
+
+mineralization observed. The prospective "horizon"/structure is contained in a black (manganese rich?) host 
+
+rock. The San Juan mine was in production until the 1990s (personal communication with the property owner 
+
+Mr. Manuel Beltran Meza) and gold and silver were extracted from 4 mining levels. 
+
+The EI Oro mine is hosted in volcaniclastics and breccias. The main EI Oro structure is similar to the San Juan 
+
+structure, and the authors did not observe any visible sulphides. At the EI Oro, there is the appearance of 
+
+horizontal tension veins sub-parallel to the main EI Oro vein hosted in fragmental rocks and/or breccias. In 
+
+these locations there is the potential for greater mining thicknesses. These lenses and veins have a black 
+
+matrix, are locally iron-oxidized, and contain pyrite, as well as local lenses of galena. 
+
+EI Oro and San Juan Mines· Geology and Sample Location 
+
+Legend 
+
+Alluvium 
+
+Rh,.olI16_... III 
+~,~' 
+
+An....""B_ =-' 
+
+PolymlctJc conglomo_1 
+Uetaa,ndatone . 
+
+Gt~nod~ 
+
+Argillc. Alteration 
+
+Iron O..ldotion 
+.., 
+
+F..t. 
+Interred Fault 
+
+Mln.allzed Structure 
+
+. Mine .~ 
+
+AditfT~"ch 
+
+...~: 
+. I .. 
+
+__~lCOm 
+
+Figure 7b. Chacala Project - San Juan - EI Oro Targets 
+
+
+
+24 
+
+All samples collected by the authors from the San Juan and EI Oro targets returned highly anomalous assay 
+
+results. The results from surface samples collected by the authors are presented in Table 4. The most 
+
+significant sample from San Juan target is 0.8m grading 68.95 glt gold and 140 glt silver, and from the EI Oro 
+
+target 0.8m at 1.33 glt gold, 557 glt silver, 6.8 % zinc, and 11.1% lead (Figure 7b). 
+
+Table 4. Rock Samples Collected by the Authors from the San Juan - EI Oro Targets 
+Sample No. E Nad27z13 Mex. N Nad27z13 Mex. Target Sample width [m) Au [ppm) Ag[ppm) As [ppm) Cu [ppm) Pb[ppm) Sb [ppm) Zn (ppm) 
+
+84378 324864 2746518 San Juan 0.8 68.950 140.0 433.4 74 282 2.4 153 
+84379 324859 2746519 San Juan 0.8 13.965 59.1 125.9 122 246 1.3 129 
+84380 324616 2746661 EIOro 1.1 0.950 377.0 181.5 1,729 16,900 55.1 43,500 
+84381 324614 2746662 EIOro 0.8 1.330 557.0 321.0 3,744 112,600 249.3 68,300 
+
+Otatal Target 
+
+The Otatal project is located approximately a 2-hour drive from the village of Chacala, and it takes additionally 
+
+at least one hour by foot trail to reach the main Otatal showing. The first hour of the gravel road (from Chalaca 
+
+to Mr. Manuel Beltran Meza's rancho) is quite good, and the second half of the access road to the point where 
+
+the foot trail starts (from the rancho) follows the creek and would be not accessible during rainy seasons. An 
+
+abundance of large boulders in the creek makes this section of the road rugged. This road leads to the paved 
+
+road, but the authors never checked it out. From the road, a narrow foot trail leads to the main Otatal showing. 
+
+The Otatal target forms prominent outcrop consisting of an up to 8m wide siliceous structure exposed in three 
+
+locations. The Otatal structure is hosted in a granodiorite intrusion or on the contact between granodiorite 
+
+intrusion and metasediment and was traced by the authors for approximately 60m. The structure trends at 
+
+014/80E and the strength of silicification suggests a much larger, regional extent of the Otatal structural target. 
+
+One 8m deep shaft (personal communication with the property owner Mr. Manuel Beltran Meza) is the only 
+
+indication of past mining activity. 
+
+The main structure (or the lower part of the structure) is strongly siliceous with minor intervals of clay altered 
+
+intrusive. Siliceous sections contain visible pyrite and locally chalcopyrite, and azurite (samples 84343 and 
+
+84345). The upper part of this structure (or a hanging wall) is strongly silicified and has up to 50% quartz 
+
+stockwork, strong iron-oxidation, disseminated pyrite «5%) and vugginess after leached sulphides (samples 
+
+84342 and 84344). 
+
+The results from surface samples collected by the authors are presented in Table 5. The most anomalous 
+
+assay result obtained through by the authors at Otatal is 0.7m grading 4.26 glt gold, 131 glt silver, and 2.5% 
+
+lead (Figure 7c). 
+
+
+
+25 
+
+Otatal • Geology and Sample Location 
+
+Legend 
+
+TERCIARIO 
+p~o.==-.....
+ 
+j:~ ...uamr~ 
+...ItA. 
+
+.~...... 
+CRIITACICO 
+L"lPE1lIO:a 
+
+.~­.-.~ . 
+JURAslco 
+litlPEIUOR 
+
+.~~. 
+
+ROCAS iGNEAS 
+INTRUSI\'AS ..--­ .
+.-.
+ 
+
+o 100m 
+
+Geology Map is basr<l en: "Carta Geologico - Miner. enacola. 813 C54- by 5enIicio Geoillgico Mexica""' ami mapping done ty Detector Expi<lracicne.~ SA de C.V. 
+
+Figure 7c. Chacala Project - Otatal Target
+ 
+
+Table 5. Rock Samples Collected by the Authors from the Otatal Target
+ 
+
+Sample No. E Nad27z13 Mex. N Nad27z13 Mex. Target Sample width lm] Au [ppm) Ag [ppm! As [ppm! Cu [ppm! Pb [ppm) Sb[ppm) Zn !ppm) 
+84382 312873 2749931 Otatal 2.7 1.099 31.8 533.2 514 838 10.3 183 
+84383 312882 2749940 Otatal 5.0 0.227 29.2 314.4 3,313 346 4.0 526 
+84384 312876 2749940 atatal 0.7 4.260 131.0 143.0 726 24,600 17.8 322 
+84385 312874 2749929 Otatal 1.7 0.451 45.8 302.6 130 1,706 5.7 481 
+
+A hilly topography and lack of deep overburden make Otatal a relatively easy target for exploration. 
+
+Nortefia Target 
+
+The Nortefia target is reached by a 2 hour drive from Chacala followed by a one hour walk in order to see the 
+
+central-known showing with historical underground development. 
+
+
+
+26 
+
+Norteiia - Geology and Sample Location 
+
+Geology Map is based on: 'Carta Geologico -lJinera Chacala. G13 C54- by
+ 
+5ervicio Ge~lcg!co Mexicano" and mapping done by Detector Explorac1ones SA De CV.
+ 
+
+Figure 7d. Chacala Project - Nortefia Target 
+
+The Nortefia project is underlined by metasediments mainly represented by fine-grained black siltstone 
+
+interbedded or possibly overlain by a conglomerate. The conglomerate can be divided into two types. One type 
+
+of conglomerate contains white rhyolitic subrounded fragments up to 10cm in diameter and fragments of black 
+
+metasediment within metasedimentary sandy matrix. The second type of conglomerate is lacking rhyolitic 
+
+fragments. The presence of rhyolitic fragments can indicate that this rock unit could be on top of the 
+
+stratigraphical sequence and could represent the first volcanic activity after the clastic sedimentary period. 
+
+Bedding measured in the upper part of the property was 120/848 indicating that at least in some parts of the 
+
+property bedding is almost vertical. In the top part of the visited area, presence of quartzite and breccias with 
+
+quartzite fragments have been identified by the authors. 
+
+Mineralization observed on the Nortefia target appears to be controlled by structures cross cutting 
+
+conglomerates and breccias. It is possible that the mineralized structures cross cut the clastic (or brecciated) 
+
+
+
+27
+ 
+
+host rock and form a disseminated low-grade mineralization or mantos. Lack of underbush and gossans in 
+
+some upper parts of the Norteria target indicates possible presence of disseminated sulphides in rock. This 
+
+observation supports the possible existence of disseminated sulphide mineralization on this target. 
+
+The authors collected four rock samples from this property but the assay results are insignificant with only 
+
+slightly anomalous gold up to 46 ppb and silver up to 5.5 g/t (Table 6). No reports of the historical underground 
+
+workings of the Nortefia area were available to the authors however the existence of these workings suggests 
+
+that sufficient mineralization must have been present to warrant these efforts. 
+
+Table 6. Rock Samples Collected by the Authors from the Nortena Target 
+
+Sample No. E Nad21z13 Mex. N Nad21z13 Mex. Target Sample[m] Au [ppm] Ag(ppm] As [ppm] Cu (ppm] Pb(ppm] Sb (ppm] Zn (ppm] 
+
+84386 311311 2142280 La Nortella grab 0.001 0.40 19.7 9.6 74.1 0.7 20 
+84387 317360 2742209 La Nortena 50 0.004 5.50 67.2 76.4 11.7 2.2 52 
+
+84388 317366 2742191 La Nortena 2 0.012 1.60 157.7 60.3 13.5 2.8 9 
+84389 317378 2742011 La Nortena 100 0.046 1.00 444.2 101.0 286.8 6.1 77 
+
+No reports of the historical underground workings of the Nortefia area were available to the authors however 
+
+the existence of these workings suggests that sufficient mineralization must have been present to warrant 
+
+these efforts. 
+
+DRILLING 
+
+None of the targets on the Chacala property have been drill tested. 
+
+SAMPLING METHOD AND APPROACH 
+
+Detector Exploraciones utilized past historic data to focus their prospecting of the various showings. Samples 
+
+were located using GPS and sample numbers and sample intervals were marked with paint in the field. Most 
+
+of the samples were chip/channel samples collected across the structures. 
+
+The Chacala property covers an area of approximately 10 by 10km area, and only four target areas were 
+
+sampled by Detector Exploraciones. Almost all of the samples collected by Detector Exploraciones and the 
+
+authors were continuous chip samples that intended to test a true width of the target structure. Samples were 
+
+collected with a hammer and a chisel not with a rock saw that would allow collecting a more proper channel 
+
+sample. In the author's opinion collected samples by Detctor Exploraciones and the authors were 
+
+representative of the sampled interval. Indications of samples collected by Detectores Exploraciones were 
+
+often well visible confirming continuity of their chip sampling procedure. 
+
+The Candelaria, Otatal, and San Juan-EI Oro targets are structurally controlled whereas at the Nortefia target 
+
+mineralization is both structurally controlled and possibly of a disseminated nature. Structurally controlled 
+
+targets identified on the Chacala property are relatively narrow, usually <1m in width, and only at the Otatal 
+
+target the structure could reach up to 8m in width. Possible disseminated nature of the Nortefia target that 
+
+could cover area over 0.5 by 0.5 km requires more wide spread sampling possibly on a grid basis. The 
+
+
+
+28
+ 
+
+structurally controlled targets are represented by quartz (Otatal, Norteiia), quartz-tourmaline (Candelaria), fault 
+
+zones (San Juan-EI Oro, Norteiia) hosted in an intrusive or volcaniclastic/breccia type hostrock. The higher 
+
+grade intervals (e.g. EI Oro, Otatal) often contain visible mineralization (galena, pyrite, en-oxides) but the 
+
+intention of the author's sampling was to collect representative samples not high grades. 
+
+The Candelaria structure has received a systematic approach to exploration where trenches were excavated 
+
+across the structure using a small back hoe rented in Tamazula. In most cases the authors observed that 
+
+samples were located where stated however not all samples appear to be true thickness and are not always 
+
+described properly. Samples collected at the Candelaria target covered almost 700m strike length of this 
+
+target with average less than 100m interval between sampled trenches. 
+
+At the Otatal target Detector Exploraciones and the authors sampled two outcrops located approximately 60m 
+
+apart from each other and all samples were collected across the structure. At the San Juan and EI Oro 
+
+targets Detector Exploraciones and the authors collected samples restricted only to the main mineralized 
+
+structures located at the entrance to the underground workings and sampling covered less than 10m ot the 
+
+structural trend. 
+
+At Norteiia samples collected by Detector Exploraciones and the authors were randomly spaces over 
+
+approximately 150 by 150m area. With the potential of disseminated mineralization at this target, future work 
+
+should include a more wide spread sampling. 
+
+The authors observed the personnel and the techniques used at the Chacala project by Detector 
+
+Exploraciones. In general for an early stage exploration project the procedures were adequate to initially test 
+
+the various prospects. Some improvements could be made in supervision and training of the samplers as it 
+
+was observed that although care was taken to representatively sample vein structures often the interstitial host 
+
+rock was not adequately represented. 
+
+SAMPLE PREPARATION, ANALYSIS AND SECURITY 
+
+Samples collected by Detector Exploraciones were all bagged and tagged in the field where collected and then 
+
+stored in a locked house in Chacala prior to shipment to the ALS-Chemex preparation laboratory in 
+
+Guadalajara. There was no on-site sample preparation done. The samples were sent in their original form to 
+
+the laboratory. In the ALS-Chemex preparation laboratory rock samples were dried, crushed and sieved, and 
+
+pulps were shipped to Vancouver. In Canada the samples were analyzed using ME-ICP41 and AA-Au23. 
+
+Initially, samples were not reanalysed for overlimits, but after the authors' suggestion, all samples that assayed 
+
+Au, Ag above the detection limits were re-submitted for additional re-assaying for overlimits. Detector 
+
+Exploraciones did not add internal standards, blanks or duplicates to samples shipped to the ALS-Chemex 
+
+laboratory. 
+
+
+
+29 
+
+The ALS-Chemex laboratory is a certified laboratory by Standards Council of Canada Associated Laboratories 
+
+(ALS-Chemex ISO 9001:2000 certification). 
+
+All nineteen samples collected by the authors during the September 11-15, 2009 visit were kept in their 
+
+possession and were personally delivered to the ACME Laboratory located at 852 East Hastings Street in 
+
+Vancouver. There was no on-site sample preparation done. In the ACME Laboratory samples were dried, and 
+
+then each sample was crushed to >70% minus 10 mesh (2mm), a 250 g split was pulverized to 95% passing 
+
+150 mesh. Samples collected by authors were analyzed using 36 element ICP-MS (Group 1DX2 method). 
+
+Sample splits of 0.5 g were leached in hot (95 degrees) Aqua Regia. A larger split of 15 g was separated for 
+
+gold analysis. Samples that contained assay values above the detection limits for specific elements were 
+
+reanalysed for that element. 
+
+The authors did not apply internal QAlQC programs for samples shipped to the ACME Laboratory. The 
+
+authors only reviewed the assay results of the duplicate, standard and blank samples provided by the ACME 
+
+laboratory, and the authors were satisfied with the results. The authors were also reasonably satisfied with the 
+
+assay results obtained from the sample intervals re-sampled by the authors which were initially sampled by 
+
+Detector Exploraciones (see Data Verification). 
+
+The ACME Laboratory is a certified laboratory by Standards Council of Canada Associated Laboratories (150­
+
+9001-2008 certification) and WHO cGMP (Current Good Manufacturing Practice). 
+
+For the future work on the Chacala property it is recommended that Parlane would include gold/silver 
+
+standards for insertion amongst the samples submitted to the lab. In addition blank samples should be 
+
+submitted to check the lab for sample preparation contamination. 
+
+DATA VERIFICATION 
+
+The sample location data was obtained using handheld GPS by Detector Exploraciones SA de C.V and was 
+
+verified in the field by the authors. In some cases greater detail is needed to identify individual samples within 
+
+small areas. The authors collected 4 samples to check the accuracy of the Detector work at the Candelaria 
+
+trenches, the results of which are tabulated below. 
+
+The results show that both arsenic and gold values are somewhat erratic. This could be explained by either 
+
+gold nugget effect or irregular mineralization in the veins as well as slightly different sampling methods but in 
+
+any case the check sampling has indicated anomalous to economic results in all areas of interest. 
+
+
+
+30 
+
+Table 7. Data Verification Table 
+
+Sample No. Target Sample Width [m] Au [ppm] Ag [ppm] As [ppm] Cu [ppm] Pb [ppm] Sb [ppm] Zn [ppm] 
+IR 001 La Candelaria 1.7 9.650 76.9 >10000 178 305 164 
+84369 La Candelaria 1.7 1.614 46.4 9153.7 1466 396 1116.9 26 
+
+C02V02 Trench CO2 0.5 0.173 26.5 2040.0 1530 177 13.0 122 
+84370 Trench CO2 0.5 0.078 23.6 1381.8 1338 109 7.3 175 
+
+C03V01 Trench C03 3.0 0.029 13.6 6400.0 295 179 69.0 22 
+84371 Trench C03 3.0 0.034 39.6 6611.9 231 435 476.6 18 
+IR 012 Trench C12 0.8 0.015 4.4 397.0 329 36 1965 
+84372 Trench C12 0.8 0.036 9.6 28300.0 365 816 94.7 2666 
+
+No QAlQC program is in place for the project and it is recommended that Parlane purchase some gold/silver
+ 
+
+standards for insertion amongst the samples submitted to the lab. In addition blank samples should be
+ 
+
+submitted to check the lab for sample preparation contamination.
+ 
+
+ADJACENT PROPERTIES
+ 
+
+The most significant is the El Cobre/EI Porvenir mines located in the surrounded block of claims not included
+ 
+
+in the Zeppy group. According to an anonymous published government project proposal the El Cobre/EI
+ 
+
+Porvenir prospect has similar grade to the San Juan vein. There are other showings in the area are EI Cobre
+ 
+
+Viejo, Santa Rita, Agua Zarca, La Divisa, La Toronja, La Cabrer'ia, La Reyna and EI Mantito.
+ 
+
+The Nuestra Senora deposit near the town of Cosala is rouqhly 60 km south of the project and Scorpio Mining
+ 
+
+Corp. is advancing the mine to production. The Nuestra Senora deposit is a silver, zinc, lead, and copper
+ 
+
+carbonate replacement style mineralization.
+ 
+
+MINERAL PROCESSING AND METALLURGICAL TESTING
+ 
+
+The has been no reports of mineral processing presented to the authors and there is no milling equipment
+ 
+
+present on the property however there is evidence of crude grinding and gravity concentration techniques
+ 
+
+used in the streams.
+ 
+
+MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES
+ 
+
+There are no compliant resource estimates for any of the Chacala showings.
+ 
+
+OTHER RELEVANT DATA AND INFORMATION
+ 
+
+The authors are not aware of any other data relevant to this report.
+ 
+
+INTERPRETATION AND CONCLUSIONS
+ 
+
+The Chacala property is large in area with numerous historic showings. The isolated location appears to have
+ 
+
+resulted in little systematic exploration having been done on it however, since 1991 the Chacala property has
+ 
+
+been visited by numerous groups including Luismin, Perioles, Kobex, Saddlerock, Hochschild, Kinross, Minera
+ 
+
+Mexicana Sombrerete and most recently Detector Exploraciones. The authors have obtained anomalous to
+ 
+
+economic sample results from all of the known showings all of which warrant some follow up exploration.
+ 
+
+
+
+31 
+
+Trenching of the Candelaria vein has resulted in delineation of mostly narrow quartz-tourmaline veins along a 
+
+700 meter strike length. Although Detector Exploraciones has reported two narrow samples with over 12 and 
+
+8 grams per tonne gold, and 43 and 520 grams per tonne silver from 0.3 and 0.1 meter veins, the best result 
+
+that the authors received was 1.6 glt Au and 46 glt Ag over 1.7 meters. Resampling done by the authors of 
+
+the same sample interval at the entrance to the Candelaria mine return significant difference in gold content 
+
+9.65 glt (sample collected by Detector Exploraciones) versus 1.61 glt (sample collected by the authors). The 
+
+author's sample was collected over the same sample width as the Detector Exploraciones sample and the 
+
+difference in gold content can be attributed to the gold nugget effect or irregular mineralization in the veins. 
+
+Further sampling is warranted to determine the continuity of the grade in these locations. 
+
+The San Juan and EI Oro structures lie in close proximity to one another and both structures have returned 
+
+economic gold and silver values. The best results obtained by the authors form San Juan were 68.95 glt Au, 
+
+140 glt Ag and 13.9 glt Au, 59 glt Ag, both samples were collected across 0.8 meter wide structure. These 
+
+assay results are very much similar to the assay results obtained by Detector Exploraciones of 33.9 glt Au and 
+
+113 glt Ag over the same sample width. Also, the assay results obtained from samples collected from the EI 
+
+Oro structure by the authors and Detector Exploraciones are similar. The best results obtained by the authors 
+
+are 1.33 glt Au, 557 glt Ag over 0.8 sample width and by Detector Exploraciones are 4.64 glt Au, 278 glt Ag. 
+
+The authors did not have sufficient time on the property to discern if these two occurrences possibly connect. 
+
+In either event mineralogically these structures seem related but the trace of the veins was not followed up by 
+
+the authors. The EI Oro - San Juan vein trace is covered by thin overburden and additional trenching is 
+
+warranted to follow it up, this target like Candelaria has good access. 
+
+The Otatal structure can be easily seen on surface for approximately 60m, but the width and strength of this 
+
+silicious structure lead the authors to postulate that the structure continues much further and possibly has a 
+
+regional extent. The structure is strongly siliceous and contains visible pyrite and copper mineralization. The 
+
+Otatal showlnq is located near the top of a steep mountain side, the extensions of this structure should be 
+
+located down the hill closer to the road access. Rock chip sample assay results obtained by the authors and 
+
+Detector Exploraciones are reasonably similar and indicate presence of gold ranging between between 0.23 to 
+
+4.26 glt and silver raging between 29.2 to 131 glt over sample widths 0.7 to 5.0m. Presently sampled 
+
+structural interval only evaluated a small portion of a probably much longer structural trend. Also, a strongly 
+
+siliceous nature of the vein could require a use of the rock saw to properly collect samples. 
+
+At the Norteiia target the most interesting result come from the composite grab sample collected over 50m by 
+
+the authors. Sample assayed 5.5g/t Ag and 4ppb Au indicating possibility of existence of the disseminated 
+
+mineralization. The Norteiia target has not been adequately tested or understood by the authors or Detector 
+
+Exploraciones to form any conclusions, so further prospecting should be done to better define this area. 
+
+
+
+32
+ 
+
+Quality assurance and control of sampling procedures, data management and sample analysis were all 
+
+somewhat deficient in the work on the property conducted by Detector Exploraciones. 
+
+In summary, based on the following criteria, the known mineralization on the Chacala property may be the 
+
+expression of several hydrothermal systems (pulses) producing a series of closely-spaced, sub-parallel 
+
+mineralized structures related to a regional northwest trending fault zone as well as northeastern cross cutting 
+
+structural zones. 
+
+Important geological aspects include: 
+
+•	 the existing silver-gold (copper-Iead-zinc-arsenic) mineralization identified and sampled by Detector 
+
+Exploraciones and the authors; 
+
+•	 the length of the vein systems and the existence of several NE and NW trending vein systems 
+
+(Candelaria, EI Oro, San Juan, Otatal, Norteiia), breccia system (EI Oro, Norteiia), and possibly 
+
+disseminated mineralization (Norteiia); 
+
+•	 the presence of northeast striking mineralized faults crossing the main northwestern regional trend 
+
+(e.g. Candelaria) 
+
+Further work is recommended. 
+
+
+
+33 
+
+RECOMMENDATIONS 
+
+A two phase program is recommended to quickly evaluate the potential of the Chacala property. 
+
+A Phase I exploration program is recommended to explore all targets on the Chacala property, specifically the 
+
+Candelaria, San Jose - EI Oro, and Otatal vein systems. This program will include compilation of previous 
+
+exploration data and the preparation of orthophoto and digital topographic maps, geological mapping, 
+
+geochemical and rock sampling, trenching, road repairs and geophysical surveys with an estimated budget of 
+
+$US of 260,000. Phase 1 work at the Candelaria vein system should focus on the better grade samples and 
+
+increase the trench density in the best areas to determine if ore shoots may be present. The San Jose and EI 
+
+Oro structural trend warrants more detailed chip sampling at systematic spacing within the workings and also 
+
+between workings along strike, brushing out the San Juan road may provide drill access for parts of this 
+
+target. Geochemistry will help follow the Otatal vein as well as the others but systematic sampling along the 
+
+vein where it is known will determine the worth of this showing. The Phase I exploration program should 
+
+assess the mineral potential of the Norteria target while locating drill targets for Phase 2. 
+
+Most of the mineralized structures on the Chacala property are underexplored. In valley bottoms they are 
+
+covered by overburden or alluvia, and in areas elevated they were never properly explored through trenching 
+
+or modern geochemical and geophysical exploration techniques. 
+
+The recommended geophysical program is a combined magnetic, IP and resistivity surveys (possibly NSAMT 
+
+survey) that should cover all target areas. The geophysical lines should be run at a normal angle to the trace 
+
+of the structural targets, and the depth penetration should be approximately 300m in order to obtain data from 
+
+the surface weathering and oxidation zones to fresh unweathered rock. The line separations, station 
+
+spacings, dipole separation, and type of array should be determined in consultation with a licensed 
+
+geophysicist. 
+
+Diamond drill targets should include the strike, dip, and depth extensions of the exposed veins or structural 
+
+trends. Care should be taken to try to understand potential ore shoots within the vein structures prior to drilling. 
+
+Chargeability anomalies associated with known veins, structural or disseminated targets or their inferred 
+
+extensions should be considered high priority drill targets. Tabular or linear zones of chargeability with NE or 
+
+NW strikes in covered areas should also be considered for drill testing. 
+
+All subsequent programs conducted on the Chacala property need QAlQC procedures in place which will 
+
+include the insertion of standards and blanks into the sample stream in addition to 3rd party duplicates. 
+
+Costs for Phase I of exploration are estimated at US$260,000. 
+
+
+
+34
+ 
+
+Contingent on the successful completion of Phase I, a Phase II exploration program consisting primarily of 
+
+2,000 meter of diamond drilling target areas defined in Phase I. The Phase II program as proposed will include 
+
+follow up geology, geochemistry and sampling in addition to the drilling and is estimated to cost US$820,000. 
+
+Dated at Vancouver, Canada, this 23rd day of December, 2009. 
+
+"lslDavid Gunning" 
+
+David Gunning, P. Eng. 
+
+"Is/Piotr Lutvnski" 
+
+Piotr Lutynski, P. Eng. 
+
+
+
+35 
+
+COST ESTIMATES 
+
+Phase I Cost (US$) 
+
+Orthophoto preparation $10,000 
+
+Senior Geologist, 20 days @ $700/day $14,000 
+
+Junior Geologist, 40 days@ $200/day $8,000 
+
+Samplers and helpers, 80 mandays @ $30/day $2,400 
+
+Vehicles 2 months @ $5,000/month including fuel $10,000 
+
+Assays, 1000 samples @ $40/sample $40,000 
+
+Support, office, flight Costs $20,000 
+
+Induced Polarization, Resistivity and Magnetometer Surveys $85,000 
+
+Trenching $20,000 
+
+Road building $20,000 
+
+Report $10,000 
+
+Subtotal $239,400 
+
+Contingency @ 8.6% $20,600 
+
+TOTAL: $260,000 
+
+Phase II Cost (US$) 
+
+Senior Geologist, 50 days @ $700/day $35,000 
+
+Junior Geologist, 100 days@ $200/day $20,000 
+
+Samplers and helpers, 300 mandays @ $30/day $9,000 
+
+Vehicles 4 months @ $5,000/month including fuel $20,000 
+
+Assays, 2000 samples @ $40/sample $80,000 
+
+Support, office, flight Costs $40,000 
+
+Diamond Drilling 2,000 meters @ $200/meter $400,000 
+
+Road building $50,000 
+
+Report $30,000 
+
+Subtotal $684,000 
+
+Contingency@ 20% $136,000 
+
+TOTAL: $820,000 
+
+
+
+36 
+
+REFERENCES 
+BUCHANAN, L.J.
+ 
+1981: Precious Metal Deposits Associated with Volcanic Environments in the Southwest in "Relations of
+ 
+Tectonics to Ore Deposits in the Southern Cordillera" by W. Dickenson and W. Payne, Volume XIX, pp. 237­
+
+262. 
+CARREON N. 
+2008: Proyecto Districto Chacala. Chacala, Dgo. Perioles 
+CAVEY, G., and GUNNING, D.R 
+2003: Summary Report on the Topia Project, Municipality of Topia, Durango State, Mexico for Great Panther 
+Resources Limited, OreQuest Consultants Ltd., Nov 20,2003. 
+CAVEY,G.R 
+1999: Summary Report on the Nieves Property, Zacatecas, Mexico for Quaterra Resources Inc. OreQuest 
+Consultants Ltd., Jan 6, 1999. 
+CLARK, K.F. 
+1986: Summary of the lithology, tectonic framework and metallic deposits in Sierra Madre Occidental, North­
+western Mexico. 
+CLARK, K.F. AND MELENDEZ, LUIS R 
+1991: Gold and Silver Deposits in Mexico 
+CONSEJO DE RECURSOS MINERALES (CRM) 
+1993: Monografia Geologico - Minera del Estado de Durango, Report M-10e. 
+DE CSERNA, Z. 
+1989: An outline of the geology of Mexico, in Bally, A.W., and Palmer, A.R eds. The Geology of North 
+America - An overview: Boulder, Colorado, Geological Society of America, The Geology of North America, vA 
+ERICKSEN, G.E. AND CUNNINGHAM, C.G. 
+1993: Epithermal Precious-Metal Deposits Hosted by the Neogene and Quaternary Volcanic Complex in the 
+Central Andes. GAC Special Paper 40, Mineral Deposit Modelling, pp 419-431. 
+KING L.D. 
+1997: Untitled partial report on Otatal. For Kobex 
+LOUCKS, ROBERT R, LEMISH, JOHN AND DAMON, PAUL E. 
+1988: Polymetallic Epithermal Fissure Vein Mineralization, Topia, Durango, Mexico: Part I. District Geology, 
+Geochronology, Hydrothermal Alteration, and Vein Mineralogy. Bulletin of Economic Geology, vol. 83 pp. 
+1499-1528. 
+Loucks, Robert R and Petersen, Ulrich 
+1988: Polymetallic Epithermal Fissure Vein Mineralization, Topia, Durango, Mexico: Part II. Silver Mineral 
+Chemistry and High Resolution Patterns of Chemical Zoning in Veins. Bulletin of Economic Geology vol. 83 
+pp.1529-1559. 
+LUNA CASTILLO V. et al 
+2009: Informe de La Primera Etapa de Los Trabajos Realizados en el Proyecto "Chacala., Mpio. Tamazula, 
+estado de Durango. Detector Exploraciones SA de C.V. 
+TORRES SANCHEZ JAIME 
+2007: Proyecto Chacala. Tamazula, Durango. Minera Mexicana Sombrerete SA de C.V. 
+TORRES SANCHEZ JAIME 
+2009: Proyecto La Candelaria. Tamazula Durango, Mexico. Minera Mexicana Sombrerete SA de C.V. 
+TORRES SANCHEZ JAIME 
+(Not dated): Informe Proyecto Otatal 
+(No author) 
+2008: Reporte de Actividades Geologicoas de la Estructura El Otatal, Chacala-Tamazula, Dgo. Mexico. 
+(No author) 
+2007: Partial report addressing airborn magnetic survey conducted by the Mexican government and work 
+done by Luismin in the Chacala district. Minera Mexicana Sombrerete SA de C.V. 
+New ReleaseslWebsites/Corporate filings 
+2009: November 5, 2009, PARLANE RESOURCE CORP. 
+2009: Silver Wheaton - Record Silver Reserve and Resource Levels Achieved at Luismin 
+2003: Admiral Bar Resources, Alamos Gold, Francisco Gold, Gammon Lake Resources, Minefinders 
+ORKO SILVER CORPORATION. 
+2003: News Release Dec 1, 2003. 
+
+
+
+37 
+
+2004: News Release June 21, 2004.
+ 
+Medina Araujo, G. Tarcilo
+ 
+1995: Informe Geologico de Resultados de la Exploracion Con Obra Directa y Barrenacion de Diamante
+ 
+Realizados en los Anos de 1981-1982 en el Proyecto "La Preciosa", Panuco De Coronado, Durango. Internal
+ 
+Report for Industrias LUISMIN, SA de C.v.
+ 
+LUTYNSKI, P.
+ 
+2003: Mineral Exploration in The Uruachi Area, Sierra Madre Occidental, Chihuahua, Mexico.
+ 
+LUTYNSKI, P.
+ 
+2003: Mineral Potential of Las Bolas - Los Hilos Property in the Uruachi Area. Sierra Madre Occidental,
+ 
+Chihuahua, Mexico.
+ 
+LUTYNSKI, P.
+ 
+2007: Summary of exploration work done by Golden Goliath and proposed Phase I exploration program on
+ 
+the Corona property in Sierra Madre Occidental. State of Chihuahua, Mexico.
+ 
+LUTYNSKI, P.
+ 
+2008: EI Oro project. Phase I Mineral Exploration in EI Oro - Talpujahua area, State of Mexico and
+ 
+Michoacan, Mexico. 
+1994: A Canadian Perspective of Exploring in Mexico, from a presentation given by the Mineral Deposit 
+Research Unit (MDRU) on "The Metallogeny of Mexico", April 18 -19,1994. 
+SIVERTZ, G., GUNNING, D. and CAVEY, G.R 
+2004: Summary Report on the La Parrilla Mine Project, Durango State, Mexico for 
+
+First Majestic Resource Corp. OreQuest Consultants Ltd. 
+SEDLOCK, R L., ORTEGA-GUTIERREZ, F., AND SPEED, RC. 
+1993: Tectonostratigraphic Terranes and Tectonic Evolution of Mexico, GSA Paper 278. 
+SPRING, Vand MACFARLANE G.R 
+2002: A Technical Review Of Tayoltita, Santa Rita, San Antonio, La Guitarra and San Martin Operating 
+Silver and Gold Mines in Mexico for Wheaton River Minerals Ltd., Watts, Griffis and McOuat Limited, Original 
+April 25, 2002 Revised June 5, 2002 Amended August 12, 2002 
+WEBSITES 
+2009: Goldcorp, Wheaton River Minerals Ltd., Luismin SA de C.V., Hecla Mining Company, Avino Silver and 
+Gold Mines Ltd., Scorpio Mining Corp. all visited September-October, 2009. 
+
+
+
+38 
+
+CERTIFICATE OF QUALIFICATIONS 
+
+I, Piotr Lutynski, of 5285 Sherbrooke Street, Vancouver, BC, hereby certify: 
+
+1.	 I hold a M.Sc. degree in Geological Science granted by the University of Mining and Metallurgy in Krakow, 
+
+Poland in 1980. 
+
+2.	 I am presently self-employed as a consulting geologist. 
+
+3.	 I have been a registered member in good standing of the Association of Professional Engineers and 
+
+Geoscientists of British Columbia since 1992. 
+
+4.	 I am a professional geologist and have practised my profession on a full time basis in Canada, Mexico, 
+
+Jamaica, Honduras, Nicaragua, Peru, Bolivia, Chile, Argentina, Sweden, and Poland since 1978. 
+
+5.	 I have read the definitions of "Qualified Person" set out in NI 43-101 and certify that by reason of my 
+
+education, affiliation with a professional association (as defined in NI 43-101) and past relevant work 
+
+experience, I fulfil the requirements to be a "Qualified Person" for the purposes of NI 43-101. 
+
+6.	 I am responsible for preparation of all sections of this report utilizing data summarized in the References 
+
+section of this report. 
+
+7.	 I visited the Chacala property from September 11th to 15th, 2009 and I have had no prior involvement with 
+
+the Chacala property that is the subject of the technical report. 
+
+8.	 This certificate applies to the report titled "Technical Report on the Chacala Property, Durango, Mexico" 
+
+dated December 23,2009. 
+
+9.	 I have not had and do not expect to have any direct involvement with Parlane Resource Corp. nor with any 
+
+of Parlane's subsidiary companies located in Canada or elsewhere in the world. 
+
+10. To the best of my knowledge, information and belief, this technical report contains all the scientific and 
+
+technical information that is required to be disclosed to make this technical report not misleading. 
+
+11. I am independent of Parlane Resource Corp and any of their subsidiary companies applying all the tests in 
+
+Section 1.4 of NI 43-101. 
+
+12. I have read N143-101 and N143-101F1 and the technical report has been prepared in compliance with 
+
+that instrument and form. 
+
+13. I consent to the use of this report for the purpose of complying with the requirements set out in N143-101 
+
+to support the listing requirements of Parlane Resource Corp including the acquisition of the Chacala 
+
+project and to be submitted to SEDAR for electronic filing. 
+
+"/s/Piotr Lutvnski" 
+
+Piotr Lutynski, P. Eng. 
+
+DATED at Vancouver, Canada, this 23rdday of December 2009. 
+
+
+
+39 
+
+CERTIFICATE OF QUALIFICATIONS 
+
+I, David R. Gunning, of 20356 42A Avenue, Langley British Columbia, hereby certify: 
+
+1.	 I am a graduate of the University of British Columbia (1983) and hold a BASc. degree in Mining and 
+
+Mineral Process Engineering (mining option). 
+
+2.	 I am presently self-employed as a consulting mining engineer. 
+
+3.	 I have been employed in my profession by various mining companies since graduation, and self employed 
+
+as a consultant since 1996. 
+
+4.	 I am a member of the Association of Professional Engineers and Geoscientists of British Columbia, and 
+
+have been registered since 1989. 
+
+5.	 I have read the definitions of "Qualified Person" set out in NI 43-101 and certify that by reason of my 
+
+education, affiliation with a professional association (as defined in NI 43-101) and past relevant work 
+
+experience, I fulfil the requirements to be a "Qualified Person" for the purposes of NI 43-101. 
+
+6.	 I am responsible for preparation of all sections of this report utilizing data summarized in the References 
+
+section of this report. 
+
+7.	 I visited the Chacala property between September 11th-15th, 2009 and I have had no prior involvement 
+
+with the Chacala property that is the subject of the technical report. 
+
+8.	 This certificate applies to the report titled" Technical Report on the Chacala Property, Durango, Mexico" 
+
+dated December 23,2009. 
+
+I have not had and do not expect to have any direct involvement with the Parlane Resource Corp. nor with any
+ 
+
+of Parlane's subsidiary companies located in Canada or elsewhere in the world.To the best of my knowledge,
+ 
+
+information and belief, this technical report contains all the scientific and technical information that is required
+ 
+
+to be disclosed to make this technical report not misleading.
+ 
+
+I am independent of Parlane Resource Corp. applying all the tests in Section 1.4 of NI43-101.
+ 
+
+I have read NI 43-101 and NI 43-101 F1 and the technical report has been prepared in compliance with that
+ 
+
+instrument and form.
+ 
+
+I consent to the use of this report for the purpose of complying with the requirements set out in NI 43-101 to
+ 
+
+support the listing requirements of Parlane Resource Corp. including the acquisition of the Chacala property
+ 
+
+and to be submitted to SEDAR for electronic filing.
+ 
+
+"/s/David R. Gunning" 
+
+David R. Gunning P.Eng. 
+
+DATED at Vancouver, British Columbia, this 23rd day of December, 2009. 
+
+
+
+40 
+
+APPENDIX 1
+ 
+
+MINERAL TITLE OPINION
+ 
+
+
+
+RB 
+Abogados 
+Mining Concessions 
+Tille Report 
+
+Mexico, City, November 18, 2009 
+
+Parlane Resource Corp. 
+Attention: Mr, Robert Eadie 
+Suite 750, 580 Hornby street 
+Box #113 
+Vancouver, British Columbia 
+Canada V6C 3B6 
+
+MINING CONCESSIONS
+ 
+LEGAL TITLE REPORT
+ 
+
+This report was prepared according to the information obtained from the Public Registry of 
+Mines (uPRMn) which is an agency from the Mexican Mining Bureau ("MMSn); information 
+provided by the officers of said MMB and information provided by Mr. Garcia. This Title 
+Opinion is provided at the request of Parlane Resource Corp and may be submitted to the 
+relevant regulatory authorities. The results of the due diligence conducted by this Firm are 
+the following: 
+
+LIST OF THE MINING CONCESSIONS 
+
+Chacala Prolect 
+Candelaria Manuel Beltran 300.0000 227.598 
+
+Meza (50%) and 
+Eduardo Alfonso 
+Navarro Contreras 
+50% 
+
+Mina del Otatal Exploraciones 100.0000 193.062 
+Mineras del 
+Tambor, S.A. de 
+c.v. uEMT" 
+
+Ampliaci6n del EMT 900.0000 194,367 
+Otatal 
+
+Melisa Manuel Beltran 240.0000 232.192 
+
+July 18, 
+2006 to 
+July 17. 
+2056. 
+
+December 
+19, 1991 to 
+December 
+18,2041. 
+December 
+30, 1991 to 
+December 
+29,2041. 
+Jul 4. 
+
+Tamazula, 
+Durango 
+
+Tamazula, 
+Durango 
+
+Tamazula, 
+Durango 
+
+Tamazula, 
+
+1 
+
+
+
+RB 
+Abogados 
+MiningConcessions 
+TiUe Report 
+
+Meza 2008 to Durango 
+July 3, 
+2058. 
+
+Valeria Manuel Beltran 
+Meza 
+
+100.0000 229,869 June 26, 
+2007 to 
+June 25, 
+2057. 
+
+Tamazula, 
+Durango 
+
+San Marcos Manuel Beltran 
+Meza 
+
+237.8263 232,196 July 4, 
+2008 to 
+July 3, 
+2058. 
+
+Tamazula, 
+Durango 
+
+Los Chapotes Manuel Beltran 
+Meza (50%) and 
+Eduardo Alfonso 
+Navarro Contreras 
+(50%) 
+
+885.5649 232,603 September 
+26,2008to 
+September 
+25,2058. 
+
+Tamazula, 
+Durango 
+
+Los Chapotes 
+Frace. 2 
+
+Manuel Beltran 
+Meza (50%) and 
+Eduardo Alfonso 
+Navarro Contreras 
+(50%) 
+
+43.9092 232,604 September 
+26,2008to 
+September 
+25,2058. 
+
+Tamazula, 
+Durango 
+
+Carolina Eduardo Alfonso 
+Navarro Contreras 
+
+69.2613 232,902 November 
+4,2008to 
+November 
+
+Tamazula, 
+Durango 
+
+3,2058. 
+Los Chacalotes Jose Agustin 
+
+Garcia Garcia 
+7,830.4392 233,059 December 
+
+5,2008to 
+December 
+
+Tamazula, 
+Durango 
+
+4,2058. 
+Los Chacalotes Jose Agustin 435.0721 233,060 December Tamazula, 
+Frace. 2 Garcia Garcia 5,2008to Durango 
+
+December 
+4,2058. 
+
+Los Chacalotes Jose Agustin 142.9137 233,061 December Tamazula, 
+Frace. 3 Garcia Garcia 5,2008to Durango 
+
+December 
+4,2058. 
+
+L1uvia de Oro Manuel Coronel 
+Beltran 
+
+222,624 222,624 July 30, 
+2004 to 
+
+Cosala, 
+Sinaloa 
+
+July 29, 
+2054 
+
+2 
+
+
+
+RB 
+Abogados 
+MiningConcessions 
+Title Report 
+
+RELEVANT INFORMATION OF THE CONCESSION TITLES
+ 
+
+Title Number: 227,598 
+
+Original Holder: Manuel Beltran Meza 50% 
+Eduardo Alfonso Navarro Contreras 50% 
+
+Actual Holder: Manuel Beltran Meza 50% 
+Eduardo Alfonso Navarro Contreras 50% 
+
+·See note 8. 
+Candelaria 
+
+300.0000 
+
+Tamazula, Durango 
+
+July 18, 2006 to July 172056 
+
+Book - Mining Concessions 
+Volume-358 
+Page -69 
+Number-138 
+
+Payments from years 2006 to. 2009 are 
+reflected as paid in full at the MMB, except 
+second semester of 2007; first and second 
+semester of 2008 and first and second 
+semester of 2009; the amounts owed are 
+the following: 
+
+Second semester 2007 MEX$ 1,941.00 
+First semester 2008 MEX$ 1,815.00 
+Second semester 2008 MEX$ 1,680.00 
+First semester 2009 MEX$ 2,500.00 
+Second semester 2009 MEX$ 2,315.00 
+
+·See note 1. 
+
+There are no liens or Agreements reflected 
+at the PRM records. 
+
+·See note 8. 
+
+Name of the lot: 
+
+Surface (hectares): 
+
+Location of the lot (municipality): 
+
+Term of existence: 
+
+Mining Public Registry data: 
+
+Mining taxes: 
+
+Mining works-evidencing reports: 
+
+Liens or Agreements: 
+
+3 
+
+
+
+RB 
+Abogados 
+MiningConcessions 
+Title Report 
+
+Title Number: 193,062 
+
+Original Holder: Manuel Beltran Meza 
+
+EMT 
+
+·See note 3. 
+Mina del Otatal 
+
+100.0000 
+
+Tarnazula, Durango 
+
+December 19, 1991 to December 18 2041 
+
+Actual Holder: 
+
+Name of the lot: 
+
+Surface (hectares): 
+
+Location of the lot (municipality): 
+
+Term of existence: 
+
+Mining Public Registry data: Book - Mining Concessions 
+Volume-264 
+Page -146 
+Number-582 
+
+Payments from years 1998 to 2009 are 
+reflected as paid in full at the MMB. except 
+first and second semester of 2007; first 
+semester of 2008 and first and second 
+semester of 2009; the amounts owed are 
+the following: 
+
+First semester 2007 . MEX$ 15,431.00 
+Second semester 2007 MEX$ 14,331.00 
+First semester 2008 MEX$ 4.00 
+First semester 2009 MEX$ 12,195.00 
+Second semester 2009 MEX$ 11,285.00 
+
+·See note 1. 
+
+Assignment Agreement entered into, by and 
+between Manuel Beltran Meza and EMT 
+registered under: 
+
+Book: 129 
+Volume: 4 
+Number: 207 
+Page: 171 
+Dated: November 4, 1996 
+
+Mining taxes: 
+
+Mining works evidencing reports: 
+
+Liens or Agreements: 
+
+4
+ 
+
+
+
+RB
+ 
+Abogados 
+Mining C
+Tille Rep~~ceSSions 
+
+I·See note 3. 
+
+5 
+
+
+
+RB 
+Abogados 
+Mining Concessions 
+TIlle Report 
+
+Title Number: 194,367 
+
+Original Holder: Manuel Beltran Meza 
+
+EMT 
+
+·See note 3. 
+Ampliaci6n del Otatal 
+
+900.0000 
+
+Tamazula, Durango 
+
+December 3D, 1991 to December 292041 
+
+Actual Holder: 
+
+Name of the lot: 
+
+Surface (hectares): 
+
+Location of the lot (municipality): 
+
+Term of existence: 
+
+Mining Public Registry data: Book - Mining Concessions 
+Volume-267 
+Page-113 
+Number-447 
+
+Payments from years 1998 to 2009 are 
+reflected as paid in full at the MMB, except 
+first and second semester of 2007; first 
+semester of 2008 and first and second 
+semester of 2009; the amounts owed are 
+the following: 
+
+First semester 2007 MEX$ 137,089.00 
+Second semester 2007 MEX$ 129,423.00 
+First semester 2008 MEX$ 10,750.00 
+First semester 2009 MEX$ 109,741.00 
+Second semester 2009 MEX$ 101,548.00 
+
+*See note 1. 
+
+Assignment Agreement entered into, by and 
+between Manuel Beltran Meza and EMT 
+registered under: 
+
+Book: Mining Concessions 
+Volume: 264 
+Number: 582 
+Page: 146 
+Dated: November 4, 1996 
+·See note 3. 
+
+Mining taxes: 
+
+Mining works evidencing reports: 
+
+Liens or Agreements: 
+
+6 
+
+
+
+RB 
+Abogados 
+MiningConcessions 
+Tille Report 
+
+Title Number: 232,192 
+
+Original Holder: Manuel Beltran Meza 
+
+Manuel Beltran Meza 
+
+*See note 7. 
+Melisa 
+
+240.0000 
+
+Tamazula, Durango 
+
+July 4,2008 to July 3 2058 
+
+Book - Mining Concessions 
+Volume-371 
+Page -26 
+Number-52 
+
+Second semester of 2008; and first and 
+second semester of 2009 are not reflected 
+as paid in full at the MMB; the amounts 
+owed are the following: 
+
+Second semester 2008 MEX$ 1,323.00 
+First semester 2009 MEX$ 1,339.00 
+Second semester 2009 MEX$ 1,239.00 
+
+*See note 1. 
+
+There are no liens or Agreements reflected 
+at the PRM records. 
+
+*See note 7. 
+
+Actual Holder: 
+
+Name of the lot: 
+
+Surface (hectares): 
+
+Location of the lot (municipality): 
+
+Term of existence: 
+
+Mining Public Registry data: 
+
+Mining taxes: 
+
+Mining works evidencing reports: 
+
+Liens or Agreements: 
+
+7 
+
+
+
+RB 
+Abogados 
+Mining Concessions 
+TitleReport 
+
+Title Number: 229,869 
+
+Original Holder: Manuel Beltran Meza 
+
+Manuel Beltran Meza 
+
+*See note 7. 
+Valeria 
+
+100.0000 
+
+Tamazula, Durango 
+
+June 26, 2007 to June 25 2057 
+
+Book - Mining Concessions 
+Volume-364 
+Page -125 
+Number-249 
+
+Second semester of 2008; and first and 
+second semester of 2009 are not reflected 
+as paid in full at the MMB; the amounts 
+owed are the following: 
+
+Second semester 2008 MEX$ 561.00 
+First semester 2009 MEX$ 885.00 
+Second semester 2009 MEX$ 774.00 
+
+*See note 1. 
+
+There are no liens or Agreements reflected 
+at the PRM records. 
+
+*See note 7. 
+
+Actual Holder: 
+
+Name of the lot: 
+
+Surface (hectares): 
+
+Location of the lot (municipality): 
+
+Term of existence: 
+
+Mining Public Registry data: 
+
+Mining taxes: 
+
+Mining works eVidencing reports: 
+
+Liens or Agreements: 
+
+8 
+
+
+
+RB 
+Abogados 
+Mining Concessions 
+Title Report 
+
+Title Number: 232,196 
+
+Original Holder: Manuel Beltran Meza 
+
+Manuel Beltran Meza 
+
+·See note 9. 
+San Marcos 
+
+237.8263 
+
+Tamazula, Durango 
+
+JUly 4, 2008 to JUly 3 2058 
+
+Book - Mining Concessions 
+Volume -371 
+Page -28 
+Number-56 
+
+Second semester of 2008; and first and 
+second semester of 2009 are not reflected 
+as paid in full at the MMB; the amounts 
+owed are the following: 
+
+Second semester 2008 MEX$ 1,311.00 
+First semester 2009 MEX$ 1,327.00 
+Second semester 2009 MEX$ 1.228.00 
+
+·See note 1. 
+
+There are no liens or Agreements reflected 
+at the PRM records. 
+
+"See note 9. 
+
+Actual Holder: 
+
+Name of the lot: 
+
+Surface (hectares): 
+
+Location of the lot (municipality): 
+
+Tenn of existence: 
+
+Mining Public Registry data: 
+
+Mining taxes: 
+
+Mining works evidencing reports: 
+
+Liens or Agreements: 
+
+9 
+
+
+
+RB 
+Abogados 
+MiningConcessions 
+Title Report 
+
+Title Number: 232,603 
+
+Original Holder: Manuel Beltran Meza 50% 
+Eduardo Alfonso Navarro Contreras 50% 
+
+Actual Holder: Manuel Beltran Meza 50% 
+Eduardo Alfonso Navarro Contreras 50% 
+
+#oSee note 8. 
+Los Chapotes 
+
+885.5649 
+
+Tamazula, Durango 
+
+September 26, 2008 to September 25 2058 
+
+Name of the lot: 
+
+Surface (hectares): 
+
+Location of the lot (m unicipality): 
+
+Term of existence: 
+
+Mining Public Registry data: Book - Mining Concessions 
+Volume-372 
+Page-52 
+Number-103 
+
+Second semester of 2008; and first and 
+second semester of 2009 are not reflected 
+as paid in full at the MMB; the amounts 
+owed are the following: 
+
+Second semester 2008 MEX$ 2,534.00 
+First semester 2009 MEX$ 4,933.00 
+Second semester 2009 MEX$ 4,567.00 
+
+;oSee note 1. 
+
+There are no liens or Agreements reflected 
+at the PRM records. 
+
+*See note 8. 
+
+Mining taxes: 
+
+Mining works evidencing reports: 
+
+Liens or Agreements: 
+
+10 
+
+
+
+RB 
+Abogados 
+Mining Concessions 
+Tille Report 
+
+Title Number: 232,604 
+
+Original Holder: Manuel Beltran Meza 50°A. 
+Eduardo Alfonso Navarro Contreras 50% 
+
+Actual Holder: Manuel Beltran Meza 50% 
+Eduardo Alfonso Navarro Contreras 50% 
+
+·See note 8. 
+Los Chapotes Frace. 2 
+
+43,9092 
+
+Tamazula, Durango 
+
+September 26, 2008 to September 25 2058 
+
+Name of the lot: 
+
+Surface (hectares): 
+
+Location of the lot (municipality): 
+
+Term of existence: 
+
+Mining Public Registry data: Book - Mining Concessions 
+Volume-372 
+Page -52 
+Number-104 
+
+Second semester of 2008; and first and 
+second semester of 2009 are not reflected 
+as paid in full at the MMB; the amounts 
+owed are the following: 
+
+Second semester 2008 MEX$ 128.00 
+First semester 2009 MEX$ 247.00 
+Second semester 2009 MEX$ 229.00 
+
+'*See note 1. 
+
+There are no liens or Agreements reflected 
+at the PRM records. 
+
+·See note 8. 
+
+Mining taxes: 
+
+Mining works evidencing reports: 
+
+Liens or Agreements: 
+
+1.1 
+
+
+
+RB 
+Abogados 
+MiningConcessions 
+Title Report 
+
+Title Number: 232,902 
+
+Original Holder: Eduardo Alfonso Navarro Contreras 
+
+Actual Holder: Eduardo Alfonso Navarro Contreras 
+
+·See note 6. 
+Carolina 
+
+69.2613 
+
+Tamazula, Durango 
+
+November 4, 2008 to November 3 2058 
+
+Name of the lot: 
+
+Surface (hectares): 
+
+Location of the lot (municipality): 
+
+Term of existence: 
+
+Mining Public Registry data: Book - Mining Concessions 
+Volume-373 
+Page -21 
+Number-42 
+
+Second semester of 2008; and first and 
+second semester of 2009 are not reflected 
+as paid in full at the MMB; the amounts 
+owed are the following: 
+
+Second semester 2008 MEX$ 117.00 
+First semester 2009 MEX$ 389.00 
+Second semester 2009 MEX$ 360.00 
+
+·See note 1. 
+
+There are no liens or Agreements reflected 
+at the PRM records. 
+
+·See note 6. 
+
+Mining taxes: 
+
+Mining works eVidencing reports: 
+
+Liens or Agreements: 
+
+12 
+
+
+
+RB 
+Abogados 
+MiningConcessions 
+Title Report 
+
+Title Number: 233,059 
+
+Original Holder: Jose Agustin Garcia Garcia 
+
+Jose Agustin Garcia Garcia 
+
+·See note 5. 
+Los Chacalotes 
+
+7,830.4392 
+
+Tamazula, Durango 
+
+December 5, 2008 to December 4 2058 
+
+Actual Holder: 
+
+Name of the lot: 
+
+Surface (hectares): 
+
+Location of the lot (municipality): 
+
+Term of existence: 
+
+Mining Public Registry data: Book - Mining Concessions 
+Volume-373 
+Page-100 
+Number-199 
+
+Second semester of 2008; and first and 
+second semester of 2009 are not reflected 
+as paid in full at the MMB; the amounts 
+owed are the following: 
+
+Second semester 2008 MEX$ 5,896.00 
+First semester 2009 MEX$ 43,593.00 
+Second semester 2009 MEX$ 40,340.00 
+
+·See note 1. 
+
+There are no liens or Agreements reflected 
+at the PRM records. 
+
+·See note 5. 
+
+Mining taxes: 
+
+Mining works evidencing reports: 
+
+Liens or Agreements: 
+
+13 
+
+
+
+RB 
+Abogados 
+MiningConcessions 
+Title Report 
+
+Title Number: 233,060 
+
+Original Holder: Jose Agustin Garcia Garcia 
+
+Jose Agustin Garcia Garcia 
+
+*See note 5. 
+Los Chacalotes Frace. 2 
+
+435.0721 
+
+Tamazula, Durango 
+
+December 5, 2008 to December 4 2058 
+
+Actual Holder: 
+
+Name of the lot: 
+
+Surface (hectares): 
+
+Location of the lot (municipality): 
+
+Term of existence: 
+
+Mining Public Registry data: Book - Mining Concessions 
+Volume-373 
+Page -100 
+Number-200 
+
+Second semester of 2008; and first and 
+second semester of 2009 are not reflected 
+as paid in full at the MMB; the amounts 
+owed are the following: 
+
+Second semester 2008 MEX$ 330.00 
+First semester 2009 MEX$ 2,425.00 
+Second semester 2009 MEX$ 2,244.00 
+
+*See note 1. 
+
+There are no liens or Agreements reflected 
+at the PRM records. 
+
+*See note 5. 
+
+Mining taxes: 
+
+Mining works evidencing reports: 
+
+liens or Agreements: 
+
+14 
+
+
+
+RB 
+Abogados 
+Mining Concessions 
+Tille Report 
+
+Title Number: 233.061 
+
+Original Holder: Jose Agustin Garcia Garcia 
+
+Jose Agustin Garcia Garcia 
+
+·See note 5. 
+Los Chacalotes Frace. 3 
+
+142.9137 
+
+Tamazula, Durango 
+
+December 5, 2008 to December 4 2058 
+
+Actual Holder: 
+
+Name of the lot: 
+
+Surface (hectares): 
+
+location of the lot (municipality): 
+
+Term of existence: 
+
+Mining Public Registry data: Book - Mining Concessions 
+VoJume-373 
+Page -101 
+Number-201 
+
+Second semester of 2008; and first and 
+second semester of 2009 are not reflected 
+as paid in full at the MMB; the amounts 
+owed are the following: 
+
+Second semester 2008 MEX$ 111.00 
+First semester 2009 MEX$ 799.00 
+Second semester 2009 MEX$ 739.00 
+
+·See note 1. 
+
+There are no liens or Agreements reflected 
+at the PRM records. 
+
+·See note 5. 
+
+Mining taxes: 
+
+Mining works evidencing reports: 
+
+liens or Agreements: 
+
+15 
+
+
+
+RB 
+Abogados 
+Mining Concessions 
+ntle Report 
+
+Title Number: 222,624 
+
+Original Holder: Manuel Coronel Beltran 
+
+Manuel Coronel Beltran 
+
+*See note 4. 
+
+Actual Holder: 
+
+Name of the lot: L1uvia de Oro 
+
+168.4084 
+
+Cosala, Sinaloa 
+
+July 4, 2004 to July 3 2054 
+
+Surface (hectares): 
+
+Location of the lot (municipality): 
+
+Term of existence: 
+
+Mining Public Registry data: Book - Mining Concessions 
+Volume-344 
+Page -102 
+Number-204 
+
+First and second semester of 2006; first and 
+second semester of 2007; first and second 
+semester of 2008; and first and second 
+semester of 2009 are not reflected as paid 
+in full at the MMB; the amounts owed are 
+the following: 
+
+First semester 2006 MEX$ 1,261.00 
+Second semester 2006 MEX$ 1,207.00 
+First semester 2007 MEX$ 1,734.00 
+Second semester 2007 MEX$ 1,638.00 
+First semester 2008 MEX$ 1,526.00 
+Second semester 2008 MEX$ 1,412.00 
+First semester 2009 MEX$ 2,904.00 
+Second semester 2009 MEX$ 2,688.00 
+
+*See note 1. 
+
+There are no liens or Agreements reflected 
+at the PRM records. 
+
+·See note 4. 
+
+Mining taxes: 
+
+Mining works evidencing reports: 
+
+Liens or Agreements: 
+
+16 
+
+
+
+RB 
+Abogados 
+Mining Concessions 
+Title Report 
+
+NOTES 
+
+Note 1. We are not aware if the Mining works evidencing reports were filled properly, to 
+check the foregoing we recommend requesting from the MMB the issuance of Mining 
+Obligations Compliance Certificates regarding each of the mining concession. 
+
+Note 2. At the time we conducted the due diligence requested the information was not 
+available at the Mines Bureau data files. 
+
+Note 3. We received from Mr. Jose Agustin Garcia Garcia an Assignment Agreement 
+executed between EMT and Minera Zeppy. S.A. de C.V. ("ZEPPY") by which EMT 
+assigned to ZEPPY this mining concession. This Agreement has not been registered 
+before the PRM, however, Mr. Garcia informed us that as soon as this Agreement have 
+been submitted before the PRM requesting its registering, he will provide us with the 
+relevant application evidencing the foregoing. 
+
+Note 4. We received from Mr. Jose Agustin Garcia Garcia an Assignment Agreement 
+executed between Mr. Manuel Coronel Beltran and Mr. Garcia by which EMT assigned to 
+Mr. Garcia this mining concession. This Agreement has not been registered before the 
+PRM, however. Mr. Garcia informed us that as soon as this Agreement have been 
+submitted before the PRM requesting its registering, he will provide us with the relevant 
+application evidencing the foregoing. 
+
+Note 5. We received from Mr. Jose Agustin Garcia Garcia an Assignment Agreement 
+executed between Mr. Garcia and ZEPPY by which Mr. Garcia assigned to ZEPPY this 
+mining concession. This Agreement has not been registered before the PRM, however, 
+Mr. Garcia informed us that as soon as this Agreement have been submitted before the 
+PRM requesting its registering, he will provide us with the relevant application evidencing 
+the foregoing. 
+
+Note 6. We received from Mr. Jose Agustin Garcia Garcia an Assignment Agreement 
+executed between Mr. Eduardo Alfonso Navarro Contreras and ZEPPY by which Mr. 
+Navarro assigned to ZEPPY this mining concession. This Agreement has not been 
+registered before the PRM, however, Mr. Garcia informed us that as soon as this 
+Agreement have been submitted before the PRM requesting its registering. he will provide 
+us with the relevant application evidencing the foregoing. 
+
+Note 7. We received from Mr. Jose Agustin Garcia Garcia an Assignment Agreement 
+executed between Mr. Manuel Beltran Meza and ZEPPY by which Mr. Beltran assigned to 
+
+~ZEPPY this mining concession. This Agreement has not been registered before the PRM, 
+(V however. Mr. Garcia informed us that as soon as this Agreement have been submitted 
+
+before the PRM requesting its registering, he will provide us with the relevant application 
+evidencing the foregoing. 
+
+Note 8. We received from Mr. Jose Agustin Garcia Garcia an Assignment Agreement 
+executed between Mr. Manuel Beltran Meza and Mr. Eduardo Alfonso Navarro Contreras 
+and ZEPPY by which Mr. Beltran and Mr. Navarro assigned to ZEPPY this mining 
+
+17 
+
+
+
+RB 
+Abogados 
+MiningConcessions 
+Title Report 
+
+concession. This Agreement has not been registered before the PRM. however, Mr. 
+Garcia informed us that as soon as this Agreement have been submitted before the PRM 
+requesting its registering, he will provide us with the relevant application evidencing the 
+foregoing. 
+
+Note 9. We received from Mr. Jose Agustin Garcia Garcia an Assignment Agreement 
+executed between Mr. Manuel Beltran Meza and ZEPPY by which Mr. Beltran assigned to 
+ZEPPY this mining concession. This Agreement has not been registered before the PRM. 
+however, Mr. Garcia informed us that as soon as this Agreement have been submitted 
+before the PRM requesting its registering, he will provide us with the relevant application 
+evidencing the foregoing. 
+
+Note 10. At the time we conducted this due diligence we did not find royalties registered at 
+the Public Registry of Mines over the mining concessions described in this Title Report. 
+
+CONCLUSIONS 
+
+The opinions expressed herein are subject to the qualifications and reservations .set out 
+below. 
+
+a) All the mining concessions above described are valid and existing and in conditions to 
+conduct exploration and exploitation works by their holders or operators. 
+
+b) This opinion is given solely in relation to the laws of Mexico in force at the date of this 
+opinion. We have not made any investigation of the laws of any jurisdiction other than 
+Mexico. Accordingly, we express no opinion on any such law and none is to be implied 
+herein. 
+
+b) This opinion is intended solely for the use of the addressees and their permitted 
+successors and assignees and may not be relied upon by any other person or for any 
+other purpose, nor quoted from or referred to in any other document without our express 
+and written consent. 
+
+18 
+
+
+
+
+'

@@ -1,0 +1,8561 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RPA Report
+
+
+DULUTH METALS LIMITED
+
+TECHNICAL REPORT ON THE
+MINERAL RESOURCE ESTIMATE
+FOR THE NOKOMIS DEPOSIT ON
+THE NOKOMIS PROPERTY,
+MINNESOTA, U.S.A.
+
+NI 43-101 Report
+
+Authors:
+Christopher Moreton, Ph.D., P.Geo.
+Richard E. Routledge, M.Sc., P.Geo.
+
+December 10, 2009
+
+SCOTT WILSON ROSCOE POSTLE ASSOCIATES INC.
+
+Scott Wilson Mining
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ i 
+
+TABLE OF CONTENTS 
+PAGE 
+
+1 SUMMARY .................................................................................................................. 1-1 
+Introduction ................................................................................................................ 1-1 
+Land Status................................................................................................................. 1-1 
+Exploration History .................................................................................................... 1-2 
+Geology and Mineralization ...................................................................................... 1-3 
+Mineral Resources ..................................................................................................... 1-4 
+Mineral Reserves ....................................................................................................... 1-7 
+Environmetal Status ................................................................................................... 1-7 
+Metallurgy .................................................................................................................. 1-7 
+Interpretation and Conclusions .................................................................................. 1-8 
+Recommendations ...................................................................................................... 1-9 
+
+2 INTRODUCTION AND TERMS OF REFERENCE .................................................. 2-1 
+Introduction ................................................................................................................ 2-1 
+Units and List of Abbreviations ................................................................................. 2-2 
+
+3 RELIANCE ON OTHER EXPERTS ........................................................................... 3-1 
+
+4 PROPERTY DESCRIPTION AND LOCATION ........................................................ 4-1 
+
+5 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND 
+PHYSIOGRAPHY ........................................................................................................... 5-1 
+
+6 HISTORY ..................................................................................................................... 6-1 
+
+7 GEOLOGICAL SETTING ........................................................................................... 7-1 
+
+8 DEPOSIT TYPES ......................................................................................................... 8-1 
+
+9 MINERALIZATION .................................................................................................... 9-1 
+
+10 EXPLORATION....................................................................................................... 10-1 
+
+11 DRILLING ................................................................................................................ 11-1 
+DML Drilling and Drill Hole Database ................................................................... 11-1 
+
+12 SAMPLING METHOD AND APPROACH ............................................................ 12-1 
+
+13 SAMPLE PREPARATION, ANALYSES AND SECURITY ................................. 13-1 
+
+14 DATA VERIFICATION .......................................................................................... 14-1 
+
+15 ADJACENT PROPERTIES ..................................................................................... 15-1 
+
+16 MINERAL PROCESSING AND METALLURGICAL TESTING ........................ 16-1 
+Nokomis Metallurgical Test Work .......................................................................... 16-1 
+Future Test Work ..................................................................................................... 16-6 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ ii 
+
+Mineral Processing................................................................................................... 16-6 
+17 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES .................... 17-1 
+
+Mineral Resources ................................................................................................... 17-1 
+Mineral Reserves ................................................................................................... 17-20 
+
+18 OTHER RELEVANT DATA AND INFORMATION ............................................ 18-1 
+
+19 INTERPRETATION AND CONCLUSIONS .......................................................... 19-1 
+
+20 RECOMMENDATIONS .......................................................................................... 20-1 
+
+21 REFERENCES ......................................................................................................... 21-1 
+
+22 SIGNATURE PAGE ................................................................................................ 22-1 
+
+23 CERTIFICATE OF QUALIFICATIONS................................................................. 23-1 
+
+24 ADDITIONAL REQUIREMENTS .......................................................................... 24-1 
+
+25 APPENDICES .......................................................................................................... 25-1 
+Appendix A .............................................................................................................. 25-1 
+Appendix B .............................................................................................................. 25-6 
+ 
+
+LIST OF TABLES 
+PAGE 
+
+Table 1-1   Summary of Mineral Resources at various cut-off grades ............................ 1-6 
+Table 1-2   Recommended Program and Budget ........................................................... 1-10 
+Table 2-1   Standard List of Abbreviations ...................................................................... 2-3 
+Table 4-1   Minnesota Property Leases............................................................................ 4-9 
+Table 11-1   MEX Series Holes with Zero Values ........................................................ 11-5 
+Table 14-1   Comparison of Standard and Sample Means............................................. 14-3 
+Table 16-1   Chemical Analyses – Head Grade ............................................................. 16-3 
+Table 16-2   Whole Rock Analyses – Head Grade ........................................................ 16-3 
+Table 16-3   Chemical Analyses – Flotation Conc. ....................................................... 16-5 
+Table 16-4   PLATSOL™ Results ................................................................................. 16-6 
+Table 16-5   Nokomis Metallurgical Recoveries ........................................................... 16-7 
+Table 17-1   Summary of Mineral Resources at Various Cut-off Grades ..................... 17-2 
+Table 17-2   Nokomis Deposit Drill Hole Intercepts ..................................................... 17-3 
+Table 17-3   Statistics for Assays Within the Resource Wireframes ............................. 17-7 
+Table 17-4   Statistics for Composites Within the Resource Wireframes ..................... 17-8 
+Table 17-5   Grade Comparisons for Assays, Composites and Resource Blocks........ 17-19 
+Table 20-1   Recommended Program and Budget ......................................................... 20-2 
+Table 25-1   Resource Estimates for the Combined Eastern, Central and Western Higher-
+grade Areas, as of October 6, 2009 ................................................................................ 25-8 
+Table 25-2   Indicated Resource Estimates for each Higher-grade Area, as of October 6, 
+2009................................................................................................................................ 25-9 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ iii 
+
+Table 25-3   Inferred Resource Estimates for each Higher-grade Area, as of October 6, 
+2009.............................................................................................................................. 25-10 
+Table 25-4   Indicated Resource Estimates for Higher-grade Areas A, B and C, as of 
+October 6, 2009 ............................................................................................................ 25-12 
+Table 25-5   Inferred Resource Estimates for Higher-grade Areas B and C, as of October 
+6, 2009.......................................................................................................................... 25-13 
+
+ 
+
+LIST OF FIGURES 
+PAGE 
+
+Figure 4-1   Location Map ............................................................................................... 4-2 
+Figure 4-2   Western Duluth Complex Deposits .............................................................. 4-3 
+Figure 4-3   Nokomis Property ........................................................................................ 4-5 
+Figure 4-4   Other DML Properties................................................................................ 4-13 
+Figure 11-1   Drill Hole Location Plan .......................................................................... 11-2 
+Figure 12-1   Assay Sample Length Distribution .......................................................... 12-2 
+Figure 14-1   Field Blanks for MEX-series Holes ......................................................... 14-4 
+Figure 14-2   Reference Standards for MEX-series Holes ............................................ 14-5 
+Figure 14-3   Duplicates Comparison for MEX-series Holes ........................................ 14-8 
+Figure 16-1   Simplified Process Flow Sheet................................................................. 16-8 
+Figure 17-1   Plan View of the Resource Estimation Wireframes ................................. 17-5 
+Figure 17-2   Composite Cross Section of the Resource Estimation Wireframes ......... 17-6 
+Figure 17-3   Histograms of Cu and Ni Analyses in the Nokomis Deposit ................. 17-10 
+Figure 17-4   Block Model Cross Section 594600E .................................................... 17-13 
+Figure 17-5   Block Model Cross Section 596800E .................................................... 17-14 
+Figure 17-6   Block Model Plan -350 m Elevation ...................................................... 17-15 
+Figure 17-7   Block Model Plan -550 m Elevation ...................................................... 17-16 
+Figure 17-8   Indicated Resources ............................................................................... 17-18 
+Figure 25-1   Nokomis Copper variography .................................................................. 25-2 
+Figure 25-2   Nokomis Copper variography .................................................................. 25-3 
+Figure 25-3   Nokomis Nickel variography ................................................................... 25-4 
+Figure 25-4   Nokomis Nickel variography ................................................................... 25-5 
+Figure 25-5   Eastern, Western and Central Higher-grade Areas .................................. 25-7 
+Figure 25-6   Higher-grade Areas A, B and C ............................................................. 25-11 
+
+ 
+
+ 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 1-1 
+
+ 1 SUMMARY 
+INTRODUCTION 
+
+Scott Wilson Roscoe Postle Associates Inc. (Scott Wilson RPA) was requested by 
+
+Duluth Metals Limited (DML) to update the resource estimate that Scott Wilson RPA 
+
+had prepared in July 2008 for the Nokomis Cu-Ni-PGE-Au Deposit and to prepare a 
+
+Technical Report complying with the requirements of National Instrument (NI) 43-101.  
+
+The Nokomis Deposit is located on the DML Nokomis Property near Ely, Minnesota, 
+
+U.S.A.   
+
+ 
+
+Scott Wilson RPA, and precursor firm Roscoe Postle Associates Inc., have prepared 
+
+previous NI 43-101 Resource Estimates and Technical Reports on the Maturi Extension 
+
+Properties (previous name for the Nokomis Property) for Wallbridge Mining Company 
+
+Limited/Wallbridge America Corp. (WM) dated December 2005 (Cargill, 2005a), and 
+
+DML dated May 2006, August 2007 and July 2008.  NI 43-101 compliant Preliminary 
+
+Assessment reports on the Nokomis Property were prepared by Scott Wilson RPA in 
+
+January 2008 and January 2009. 
+
+ 
+
+LAND STATUS 
+
+The Nokomis Property is located in northern Minnesota, Lake County, Townships 
+
+61N and 62N, Range 11W.  
+
+ 
+
+State leases, private leases and federal permits for the Nokomis Property are 
+
+registered to Duluth Metals Corp. (DMC), a Delaware corporation and wholly-owned 
+
+subsidiary of DML. DML is a corporation registered in Ontario, Canada that is listed on 
+
+the Toronto Stock Exchange. DMC has also leased private mineral rights and owns 480 
+
+acres (194 ha) of private surface rights within the property.  DML and DMC are both 
+
+authorized to carry on business in Minnesota.   
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 1-2 
+
+DML, through its U.S. subsidiary DMC, now holds seven State of Minnesota non-
+
+ferrous mineral leases, two federal prospecting permits and four private leases covering 
+
+11 contiguous parcels of lands containing the Nokomis Deposit.  These combined 
+
+properties are referred to as the Nokomis Property.  The total Nokomis land package held 
+
+by DMC covers 3,001 acres (1,215 ha) as measured by its mineral rights holdings.  The 
+
+lands are located in the Superior National Forest area, but some of the surface and 
+
+subsurface rights are held by either the State of Minnesota or by private landowners.  
+
+Each lease or permit is subject to rules which may differ between jurisdictions.   
+
+ 
+
+Additional state and private lands outside the Nokomis Property have been leased or 
+
+optioned and added to DMC's holdings. These additional lands either lie within the 
+
+Duluth Complex and are prospective for further discoveries of economic mineral deposits 
+
+or are considered to be strategic for the development of the Nokomis Deposit. DMC's 
+
+total holdings now stand at approximately 18,500 acres (7,487 ha) of mineral rights and 
+
+14,000 acres (5,666 ha) of surface rights. 
+
+ 
+
+EXPLORATION HISTORY 
+
+Exploration has been conducted in the vicinity of the Nokomis Property, both in the 
+
+Duluth Complex and in the footwall metasedimentary and granitic rocks, since the late-
+
+1800s for iron and, from the 1950s, for copper and nickel.  Drilling for copper and nickel 
+
+has been carried out by major mining companies including Inco, Duval, Kennecott, 
+
+Newmont and US Steel.  In 1985, the Minnesota Department of Natural Resources re-
+
+analyzed core from the early copper-nickel exploration drill holes and found significant 
+
+PGEs.  This prompted the re-evaluation of a number of known deposits in the western 
+
+portion of the Duluth Complex.  
+
+ 
+
+Recent exploration by DML's predecessor company, WM, began in 1999 primarily 
+
+on the adjoining Maturi Property and nearby Spruce Road Property, now held by 
+
+Franconia Minerals Corporation (Franconia).  WM began acquiring lands that now 
+
+comprise the Nokomis Property in 1999 and 2000.  
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 1-3 
+
+From March 2006 to January 2007, DML diamond drilled 10,384.5 m (34,070 ft.) in 
+
+11 holes (MEX 001 to 011 inclusive).  
+
+ 
+
+From January 2007 to January 2008, DML completed 81 drill holes for a total of 
+
+71,303 m (233,933 ft.).  This campaign included four wedge cuts from hole MEX-0075M 
+
+and one wedge cut from hole MEX-0081M (both metallurgical sampling holes).  
+
+ 
+
+From January 2008 to the end of April 2008, DML drilled 40 holes totalling 23,723 m 
+
+(77,832 ft.), including 19 wedge holes for metallurgical samples.  MEX-0108, drilled in 
+
+April 2008, was the last hole used in the previous resource estimate (Routledge, 2008). 
+
+Note that the assay data for hole MEX-0106 was missing from the 2008 estimate but was 
+
+added to the database for inclusion in the 2009 estimate. 
+
+ 
+
+From April 2008 to March 2009 an additional 91 holes were drilled, including 43 
+
+wedge cuts for metallurgical sampling. These holes, which total 48,014 m (157,527 ft.), 
+
+have been used to update the geological wireframes and the Nokomis resource estimate 
+
+of Routledge (2008). MEX-0109 is the first hole in this latest series. 
+
+  
+
+GEOLOGY AND MINERALIZATION 
+
+The Nokomis Property overlies rocks belonging to the Precambrian Superior 
+
+Province.  Specifically, the deposit is located in the northern part of the Duluth Complex, 
+
+a composite intrusion that occupies an area of approximately 6,500 km2.  This intrusion, 
+
+which has a northeast-southwest orientation, extends for approximately 240 km from the 
+
+Ontario border to the City of Duluth, and attains a width of up to 50 km on surface.   
+
+ 
+
+The Duluth Complex consists of anorthositic, troctolitic, gabbroic to 
+
+ferrogranodioritic, and granitic/granophyric rocks.  Footwall contacts on the west and 
+
+north sides of the intrusion are sharp against metagreywackes and slates of the Middle 
+
+Precambrian Virginia Formation, the Biwabik Iron Formation of the Mesabi Range, and 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 1-4 
+
+the Early Precambrian monzonites of the Giants Range Batholith.  The contact and base 
+
+of the complex dip shallowly to moderately southeast at -10˚ to -35˚.  
+
+ 
+
+The Nokomis Property is underlain by the South Kawishiwi Intrusion (SKI), one of 
+
+the 12 intrusions making up the Duluth Complex.  The Nokomis Deposit is hosted by an 
+
+assemblage of ultramafic and mafic rocks, varieties of troctolites and gabbros. It is 
+
+located at the base of the SKI where it parallels the footwall contact with Giants Range 
+
+monzonites.  
+
+ 
+
+As currently modelled, the Nokomis Deposit consists of a generally tabular-shaped 
+
+zone of disseminated copper-nickel-iron sulphide mineralization.    Locally, the Nokomis 
+
+mineralization straddles the SKI-Giants Range Batholith contact and higher-grade copper 
+
+values may be concentrated near the hangingwall and footwall parts of the main body.  
+
+The Nokomis mineralization dips from -35° to -25° toward the southeast and extends to 
+
+vertical depths of more than 1,300 m (4,265 ft.). The Nokomis Deposit has a strike length 
+
+of approximately 5.5 km and is open at depth and along strike.   
+
+ 
+
+MINERAL RESOURCES  
+
+Scott Wilson RPA has reviewed data for the Nokomis Deposit and has independently 
+
+estimated Mineral Resources in accordance with the requirements of NI 43-101 and the 
+
+definitions set out by the CIM Definition Standards on Mineral Resources and Mineral 
+
+Reserves adopted by the CIM Council on December 11, 2005.  The resource estimate is 
+
+based on diamond drilling and core sampling data and employs 3D computer block 
+
+modelling with a combination of ordinary kriging for base metal interpolation and inverse 
+
+distance squared (ID2) for platinum-group elements (PGE) and precious metal grade 
+
+interpolation. The search strategy is constrained by wireframe models of the deposit 
+
+constructed at a cut-off grade of 1.0% copper equivalent (CuEq).  The wireframes were 
+
+constructed using the preliminary metallurgical recoveries and long term metal prices 
+
+from the Scott Wilson RPA Preliminary Assessment study (January 2008). 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 1-5 
+
+The Cu-Ni-PGE mineralization of the Nokomis deposit is, in part, the down-plunge 
+
+extension of the Maturi Deposit. The latter is located on the northwest side of the DML 
+
+property within the Franconia Federal Lease lands. To create the Nokomis deposit model 
+
+the recent drilling and assay data from the Nokomis Property has been combined with 
+
+similar data from historic holes located on and off the Nokomis Property. Some of the 
+
+publicly available historic data has incomplete or missing values for Co, PGE, Au and Ag 
+
+assays. Consequently, the missing grades for these elements were calculated using a 
+
+linear regression equation using the recent, and more complete, MEX dataset. Details of 
+
+the linear regression methodology can be found in Routledge (2008).   
+
+ 
+
+Using the current and historic data, a geological wireframe has been created for an 
+
+area that is larger than the current Nokomis Property. The wireframe is closest to the 
+
+surface (within about 130 m or 427 ft.) in the northwestern part of the model and deeper 
+
+on the southeastern side (about 1,300 m or 4,265 ft.). In order to constrain the resource 
+
+estimate, the geological wireframe was clipped using the Nokomis Property boundary. 
+
+The resource estimate is based entirely on diamond drilling and core sample assays. 
+
+Copper equivalent (CuEq%) is based on Net Smelter Return Factors as determined for 
+
+the Preliminary Assessment by Scott Wilson RPA dated January 18, 2008 and reflects 
+
+expected metal prices and process recovery and refining charges.    
+
+ 
+
+Table 1-1 presents the Indicated and Inferred Resources at a 1% CuEq cut-off and 
+
+various copper cut-off grades.  Based on Scott Wilson RPA's review of metal prices, 
+
+process recoveries, refining costs and future underground mine operating costs for the 
+
+Nokomis Deposit, the 1.0% CuEq cut-off grade is reasonable for the statement of 
+
+Indicated and Inferred Resources at this time. 
+
+ 
+
+In addition to the six elements shown in Table 1-1, Scott Wilson RPA has also 
+
+estimated the silver content of the Nokomis Deposit. Within the Indicated category, there 
+
+are 37 million ounces of silver (550 million tonnes at 2.116 g/t Ag), while the Inferred 
+
+category contains 18 million ounces (274 million tonnes at 2.056 g/t Ag). Silver is 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 1-6 
+
+reported separately because there is no information on silver recoveries and, 
+
+consequently, it could not be included in the CuEq calculation. 
+
+ 
+
+TABLE 1-1   SUMMARY OF MINERAL RESOURCES AT VARIOUS CUT-OFF 
+GRADES 
+
+Duluth Metals Limited - Nokomis Deposit, Minnesota 
+ 
+
+As of October 26, 2009 
+ 
+
+ Indicated Resources 
+Cut-off Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+Grade (000's) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 550,038 0.639 0.200 0.010 0.092 0.176 0.392 0.660 1.51 
+0.5% Cu 482,438 0.666 0.206 0.010 0.098 0.188 0.420 0.706 1.57 
+0.6% Cu 327,847 0.719 0.216 0.011 0.110 0.216 0.482 0.808 1.69 
+0.7% Cu 157,803 0.797 0.231 0.011 0.127 0.256 0.567 0.950 1.87 
+0.8% Cu 59,958 0.886 0.242 0.011 0.149 0.307 0.676 1.132 2.07 
+
+  Inferred Resources 
+Cut-off Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+Grade (000's) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 273,835 0.632 0.207 0.010 0.091 0.185 0.409 0.685 1.53 
+0.5% Cu 252,000 0.648 0.210 0.010 0.094 0.192 0.424 0.710 1.57 
+0.6% Cu 158,651 0.700 0.218 0.010 0.109 0.227 0.499 0.835 1.69 
+0.7% Cu 63,846 0.785 0.229 0.010 0.131 0.278 0.601 1.010 1.88 
+0.8% Cu 20,275 0.865 0.239 0.010 0.134 0.307 0.657 1.098 2.03 
+
+ 
+Notes: 
+
+1. CIM definitions were followed for Mineral Resource estimation and classification. 
+2. Mineral Resources are estimated at a zone definition (wireframe) cut-off grade of approximately 1.0% Cu 
+
+equivalent grade (CuEq).  
+3. The approximately 1.0% CuEq cut-off grade includes all material in the wireframe zones. 
+4. Bulk density is 3.01 t/m3. 
+5. Resources were estimated to a maximum depth of approximately 1,350 m. 
+6. Copper equivalent (CuEq%) is based on Net Smelter Return Factors as determined for the Preliminary 
+
+Assessment by Scott Wilson RPA dated January 18, 2008.  
+7. Metal Prices used were $1.75/lb copper, $7.00/lb nickel, $10.00/lb Co, $600/oz Au, $1100/oz Pt and $350/oz 
+
+Pd. 
+8. Copper equivalent (CuEq%) = Cu% + 3.03 x Ni% + 0.63 x Co% + 0.30 x Au g/t + 0.76 x Pt g/t + 0.24 x Pd g/t 
+
+based on expected metal prices and process recovery and refining charges. 
+9. TPM is Au g/t + Pt g/t + Pd g/t. 
+10. Co, Au, Pt, Pd grades, that are lacking in historic drill holes, have been entered in the resource database based 
+
+on regression of assay grades from DML drill hole assays. 
+ 
+
+Six higher-grade areas have been defined within the Nokomis deposit and these have 
+
+been informally termed the Eastern, Central and Western Areas, and Areas A, B and C. 
+
+The six higher-grade areas are reviewed in Appendix B.  
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 1-7 
+
+MINERAL RESERVES 
+
+No Mineral Reserves have been estimated for the Nokomis Property. 
+
+ 
+
+ENVIRONMETAL STATUS 
+
+In order to operate as an exploration and mining company in the State of Minnesota, 
+
+DML must abide by all federal and state laws pertaining to exploration, development, 
+
+extraction, processing, reclamation, material storage, handling and disposal, inter-state 
+
+and intra-state transportation, international trade and treaty, labour and other laws, 
+
+statutes and permits required for this industry and the particular location(s) in which it 
+
+operates. On private lands held under lease, the agreement requires that all exploration 
+
+and mining operations conducted on leased land be done in compliance with all laws, 
+
+ordinances, regulations, rules, orders, permits and requirements now existing or hereafter 
+
+enacted, adopted or made by federal, state and municipal authorities having jurisdiction 
+
+over such exploration and mining operations. 
+
+ 
+
+METALLURGY 
+
+Initial metallurgical testing of a 252 kg composite sample of drill core was completed 
+
+by SGS Lakefield Research in Lakefield, Ontario (SGS Lakefield) and reported by DML 
+
+in a press release dated October 3, 2007.  These initial tests, using conventional 
+
+floatation-concentration with recovery by the proprietary PLATSOL™ process, achieved 
+
+recoveries of 94.9% for Cu, 71.8% for Ni, 83.9% for Pt, 85.4% for Pd and 61.3% for Au.  
+
+Further metallurgical testing on drill core composites (using sample rejects) and solid 
+
+core from dedicated metallurgical drill holes is underway at SGS Lakefield (DML press 
+
+release dated January 15, 2008).  DML reports that this phase of metallurgical testing is 
+
+still on-going (December 2009) and no results are available. 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 1-8 
+
+INTERPRETATION AND CONCLUSIONS 
+
+Scott Wilson RPA has independently estimated both Indicated and Inferred Mineral 
+
+Resources for the Nokomis Deposit using 3D block modelling and grade interpolation by 
+
+ordinary kriging and inverse distance squared.  The depth, tonnes and grade profile for 
+
+this deposit indicate bulk underground mining should be the preferred method of 
+
+exploitation.   
+
+ 
+
+The Nokomis Deposit is located within DML's Nokomis Property within which the 
+
+2007-2009 diamond drilling has been concentrated.  The Cu-Ni-Co-Au-PGE bearing 
+
+mineralization extends up-dip (off the property) to the west and northwest and is more or 
+
+less, continuous with the mineralization known as the Maturi Deposit.  
+
+ 
+
+The wider-spaced drilling pattern from previous years was reduced by in-fill drilling 
+
+in 2007, 2008 and 2009. As shown in this report, the closer-spaced drilling has created a 
+
+larger Indicated Resource category for the Nokomis Deposit when compared to the 2007 
+
+and 2008 estimates. In fact, the majority of the 2007-2009 drill holes are located within 
+
+the Indicated Resource domain. The Nokomis Deposit remains open down-dip and along 
+
+strike, where there is the potential for additional resources.  
+
+ 
+
+The resource estimate is based entirely on diamond drilling and core assaying from 
+
+both DML and previous explorers. Scott Wilson RPA has checked DML's drilling and 
+
+assaying methodology and notes that it has been carried out to current industry standards.  
+
+Scott Wilson RPA was unable to verify the methodology of the previous explorers but 
+
+notes that the Indicated Resource (higher-confidence) is defined mostly by DML's recent 
+
+MEX series holes which have verifiable data. The estimate does use some of the historic 
+
+drill holes that are known to have less reliable down-hole surveys and generally lack 
+
+cobalt, gold and PGE assays. In general, these historic holes are located within the 
+
+Inferred Resources category.   
+
+ 
+
+In order to use the pre-DML holes, the missing cobalt, gold and PGE grades were 
+
+estimated as "calculated values" derived from a regression analysis of the more complete 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 1-9 
+
+DML assays. This permits interpolation of grades into those resource blocks that extend 
+
+across the north and west property boundaries. Because of the uncertainties attached to 
+
+these historic holes the resource classification for these blocks is lower than that for 
+
+blocks using the MEX series drilling data. Even with these minor uncertainties, Scott 
+
+Wilson RPA's believes that the database is suitable for resource and reserve estimation. 
+
+ 
+
+The resources on the Nokomis Property were reported by clipping the resource block 
+
+model at the property boundary. Property boundaries follow the State Public Land 
+
+System and, for the most part, are not evident on the ground, although a Township survey 
+
+marker has been located.  Going forward with exploration and potential development, a 
+
+boundary survey will be necessary.  Since the Nokomis Deposit is, in part, continuous 
+
+down dip from the Maturi Deposit located on Franconia's land to the west and northwest, 
+
+accurate positioning of the boundary is necessary to delineating resources on the 
+
+respective properties.   
+
+ 
+
+RECOMMENDATIONS 
+
+This Scott Wilson RPA Resource Estimate Update indicates that the Nokomis 
+
+Deposit merits further work, much of which was recommended in the Preliminary 
+
+Assessment.  Areas of concentration include: 
+
+1. Upgrade drilling to benefit mine development planning, provide metallurgical 
+samples, and provide samples for waste rock characterization.  
+
+ 
+2. Continue with environmental baseline data collection, scoping, modelling, 
+
+sampling, and inventory, and continue to focus on the requirements needed for 
+permitting.  
+
+ 
+3. Undertake rock quality and mine planning studies. 
+ 
+4. Continue flotation and hydrometallurgical test work and conduct pilot plant 
+
+operations to confirm recoveries, to allow the development of detailed process 
+design criteria, and to demonstrate product purity samples. 
+
+ 
+5. Tailings chemistry and disposal should be evaluated, including options for paste 
+
+backfill.   
+ 
+6. Initiate the Pre-Feasibility stage of assessment. 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 1-10 
+
+RECOMMENDED PROGRAM AND BUDGET 
+DML has initiated all of the recommendations set out in the January 08, 2009 
+
+Preliminary Assessment and these activities are at various stages of completion. For 
+
+example, approximately 38 metric tonnes of metallurgical bulk sample has been collected 
+
+using a large diameter PQ drill program and this core is currently securely stored at Ely, 
+
+Minnesota in sealed drums purged with nitrogen.  
+
+ 
+
+A recommended program and budget for the continuation of these activities through 
+
+to the end of 2010 is shown in Table 1-2. 
+
+ 
+
+TABLE 1-2   RECOMMENDED PROGRAM AND BUDGET 
+Duluth Metals Limited – Nokomis Deposit, Minnesota 
+
+ 
+Category Amount, $ 
+
+Boundary Survey 40,000 
+Continued and upgraded drilling (NQ & PQ) 8,000,000 
+Geologic Studies 300,000 
+Mining Services, Planning & Studies 1,500,000 
+Metallurgical Testing 3,000,000 
+Environmental (Review Baseline & Scoping Studies) 4,000,000 
+Pre-feasibility and Other Consulting Studies 3,000,000 
+Sub-Total 19,840,000 
+Working capital, Overhead and Administration 6,000,000 
+Total 25,840,000 
+
+ 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 2-1 
+
+ 2 INTRODUCTION AND TERMS OF 
+REFERENCE 
+INTRODUCTION 
+
+Scott Wilson Roscoe Postle Associates Inc. (Scott Wilson RPA) was asked by Duluth 
+
+Metals Limited (DML) to update the previous resource estimate (Scott Wilson RPA, July 
+
+2008) for the Nokomis Deposit, in Minnesota, U.S.A., and to prepare a Technical report 
+
+complying with the requirements of National Instrument (NI) 43-101.  Scott Wilson 
+
+RPA, and precursor firm Roscoe Postle Associates Inc., have prepared other NI 43-101 
+
+Technical Reports on the Maturi Extension Properties (the former name of the Nokomis 
+
+Property) for Wallbridge Mining Company Limited (WM) dated December 30, 2005 
+
+(Cargill, 2005a), and for DML dated May 31, 2006, August 8, 2007, January 8, 2008, 
+
+July 18, 2008 and January, 2009.   
+
+ 
+
+The Nokomis Property is located approximately 22 kilometres southeast of the town 
+
+of Ely, in northern Minnesota, U.S.A.  The property hosts a large zone of copper-nickel-
+
+PGE mineralization known as the Nokomis Deposit. This deposit is located near the base 
+
+of the Duluth Complex at depths varying from 130 m to more than 1,300 m (425 ft. to 
+
+4,270 ft.) below surface. Exploration drilling of the Nokomis Deposit is at an advanced 
+
+stage, with 155 diamond drill holes (and numerous wedge cuts) having been completed 
+
+by DML between 2006 and mid-March 2009. An initial resource estimate was prepared 
+
+for DML by Scott Wilson RPA in June 2007 followed by a Preliminary Assessment  in 
+
+January 2008.  A further resource estimate was prepared by Scott Wilson RPA in July 
+
+2008 and this was followed by another PEA in January, 2009. Drilling, including large 
+
+diameter core for collection of a bulk sample, metallurgical test work and environmental 
+
+baseline studies, is ongoing.  Results of these work programs will be used to provide 
+
+inputs into a Pre-feasibility Study.  
+
+ 
+
+A new geological wireframe has been created for the Nokomis deposit using a 1% 
+
+CuEq cut-off grade. The CuEq formula was defined in a previous Preliminary 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 2-2 
+
+Assessment report (Scott Wilson RPA, 2008) using long term metal prices, metal 
+
+recoveries and suitable mining costs (amongst others).  
+
+ 
+
+Mr. Christopher Moreton Ph.D., P.Geo, visited the Nokomis Property and the DML 
+
+core logging facility on July 14-15, 2009.  During the review of data on site and the 
+
+preparation of this report, discussions were held with the following DML personnel, who 
+
+provided full cooperation: 
+
+• Christopher Dundas, B. Comm., MBA, Chairman and Director 
+• Dr. Henry Sandri, B.Sc., M.A., Ph.D. Mineral Economics, President, CEO and 
+
+Director 
+• Alar Soever, B.Sc., P. Geo., DML Director  
+• David Oliver, B.Sc., P. Geo., Project Manager 
+• Kevin Boerst, B.Sc., M.Sc., Geologist 
+• Dr. Dean Peterson, B.Sc., Ph.D. Geology, Senior VP Exploration 
+
+ 
+
+Richard E. Routledge, M.Sc., P.Geo., has visited the property for previous reports, on 
+
+May 17 and 18, 2006, and on March 13-15, 2007. 
+
+ 
+
+UNITS AND LIST OF ABBREVIATIONS 
+
+The Nokomis Property is located in the U.S.A. where the Imperial System of 
+
+measurement is used. Length is expressed in feet and tenths of feet, volume is expressed 
+
+as cubic feet, mass expressed as short tons (tons), while nickel and copper grades are 
+
+expressed as percents. Core logging and sampling records for the Nokomis Property are 
+
+recorded in Imperial units.  The precious and platinum group metals grades are reported 
+
+in parts per million in the laboratory analysis reports.  These analyses (assays) are entered 
+
+in the resource database as grams per tonne.  Imperial units have been converted to SI 
+
+(metric system) in the database and Scott Wilson RPA reports the resource estimate in SI 
+
+units.  
+
+ 
+
+Drill hole collar locations are surveyed in Universal Transverse Mercator (UTM) 
+
+coordinates relative to the 1983 North American Datum (NAD 83) for the U.S.A.  
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 2-3 
+
+Dollars are expressed in United States currency unless otherwise noted.  The 
+
+exchange rate used in this report is C$1.05 per US$1.00 except where applied 
+
+historically.  Table 2-1 shows abbreviations used in this report. 
+
+ 
+TABLE 2-1   STANDARD LIST OF ABBREVIATIONS 
+
+Duluth Metals Limited - Nokomis Deposit, Minnesota 
+ 
+
+Abbr. Meaning Abbr. Meaning 
+µ micro (one-millionth) km2 square kilometre 
+°C degree Celsius kPa kilopascal 
+°F degree Fahrenheit kVA kilovolt-amperes 
+µg microgram kW kilowatt 
+Amp ampere kWh kilowatt-hour 
+a annum L litre 
+cfm cubic feet per minute L/s litres per second 
+bbl barrels m metre 
+Btu British thermal units M mega (million) 
+C$ Canadian dollars m2 square metre 
+cal calorie m3 cubic metre 
+cm centimetre min minute 
+cm2 square centimetre masl metres above sea level 
+d day mm millimetre  
+dia. diameter mph mile per hour 
+dmt dry metric tonne MVA megavolt-amperes 
+dwt dead-weight ton MW Megawatt 
+ft foot MWh megawatt-hour 
+ft/s foot per second m3/h cubic metres per hour 
+ft2 square foot opt, oz/st ounce per short ton 
+ft3 cubic foot oz troy ounce (31.1035g) 
+g gram oz/dmt ounce per dry metric tonne 
+G giga (billion) ppm/ppb part per million/per billion 
+Gal Imperial gallon psia pound per square inch 
+
+ g/l gram per litre psig pound per square inch 
+ g/t gram per tonne s second 
+
+Gpm Imperial gallons per minute st short ton 
+gr/ft3 grain per cubic foot stpa short ton per year 
+gr/m3 grain per cubic metre stpd short ton per day 
+hr hour t metric tonne 
+ha hectare tpa metric tonne per year 
+hp horsepower tpd metric tonne per day 
+in inch US$ United States dollar 
+in2 square inch USg United States gallon 
+J joule USgpm US gallon per minute 
+k kilo (thousand) V volt 
+kcal kilocalorie W watt 
+kg kilogram wmt wet metric tonne 
+km kilometre yd3 cubic yard 
+km/h kilometre per hour yr year 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 3-1 
+
+ 3 RELIANCE ON OTHER EXPERTS 
+This report has been prepared by Scott Wilson RPA for DML. The information, 
+
+conclusions, opinions, and estimates contained herein are based upon:  
+
+ 
+
+• Information available to Scott Wilson RPA at the time of preparation of this 
+report 
+
+• Assumptions, conditions, and qualifications as set forth in this report, and 
+
+• Data, reports, and opinions supplied by DML and other third party sources (listed 
+below). Scott Wilson RPA does not guarantee the accuracy of conclusions, 
+opinions, or estimates that rely on third party sources for information that is 
+outside the area of technical expertise of Scott Wilson RPA. 
+
+ 
+
+Scott Wilson RPA relied on the following reports and opinions from DML for the 
+
+information that is outside the area of technical expertise of Scott Wilson RPA: 
+
+ 
+
+• Information on property holdings, lease agreements and legal status of property 
+title was provided by DML.  For the land description and DML's holdings in Item 
+4 of this report, Scott Wilson RPA relied on the verification of factual accuracy 
+and legal sufficiency of the description provided by DML's attorneys (Lorass, 
+2009). Scott Wilson RPA has not researched title to the Nokomis Property and 
+Scott Wilson RPA does not express any opinion in connection with title. 
+
+ 
+Except for the purposes legislated under provincial securities law, any use of this 
+
+report by any third party is at that party's sole risk. 
+
+ 
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 4-1 
+
+ 4 PROPERTY DESCRIPTION AND 
+LOCATION 
+
+State leases and federal permits for the Nokomis Property are registered to Duluth 
+
+Metals Corp. (DMC), a Delaware corporation and wholly-owned subsidiary of DML. 
+
+DML is a corporation registered in Ontario, Canada that is listed on the Toronto Stock 
+
+Exchange. DMC retains leased private mineral rights and owns 480 acres (194 ha) of 
+
+private surface rights overlying leased mineral rights within the property.  DML and 
+
+DMC are both authorized to carry on business in Minnesota.   
+
+ 
+
+The Nokomis Property is located in northern Minnesota, Lake County, Townships 
+
+61N and 62N, Range 11W in the U.S.G.S. Kangas Bay and Bogberry Lake 7.5 Minute 
+
+quadrangles (Figures 4-1, 4-2 and 4-3).  The properties are centred approximately at: 
+
+ 
+
+• North latitude 47° 47' 0"; west longitude 91° 42' 30" 
+• UTM coordinates Zone 15, 595,500E, 5,295,300N (NAD 83 CONUS) 
+• UTM coordinates Zone 15, 595,516E, 5,295,082N (NAD 27 CONUS).  
+ 
+
+LAND DESCRIPTION AND DULUTH METALS HOLDINGS 
+Land in Minnesota is held by a combination of private leases, State leases, and federal 
+
+permits, and this land is subject to typical United States split-estate holdings, where the 
+
+surface owner(s) may be different from the subsurface owner(s).  Various rights are also 
+
+subject to United States split-estate rules so that, for example, the mineral rights owner 
+
+may be different from the hydrocarbon rights owner.  According to U.S. law, in split-
+
+estate situations, mineral rights are considered to be the dominant estate and take 
+
+precedence over other rights associated with the property, including those associated with 
+
+surface ownership.  However, the mineral owner must show due regard for the interests 
+
+of the surface estate owner and occupy only those portions of the surface that are 
+
+reasonably necessary to develop the mineral estate.  
+
+
+
+Hoyt Lake
+Taconite Plant
+
+90º00'91º00'92º00'93º00'
+
+48º00'
+
+53
+
+61
+1
+
+11
+
+169
+
+Lake Superior
+
+Vermillion Lake
+
+Burntside
+Lk.
+
+Superior
+
+National Forest
+
+Quetico Provincial Park
+
+Boundary Waters
+
+Canoe Area
+
+Wilderness
+
+Boundary Waters
+
+Canoe Area
+
+Wilderness
+
+Boundary Wate r sCanoe A r e a W
+ei dl
+
+rn
+e s
+
+s
+
+Superior
+
+National Forest
+
+Superior
+
+National Forest
+
+CANADA
+
+C
+A
+
+N
+A
+
+D
+A
+
+U.S.A.
+
+U
+.S.A
+
+.
+
+Province of Ontario
+
+State of Minnesota
+Illgen
+City
+
+Isabella
+
+Atikokan
+
+Grand Marais
+
+Virginia
+
+Ely
+
+To Thunder Bay
+
+To Duluth
+(38 miles)
+
+PROPERTY LOCATION
+
+MINNESOTA
+
+AREA OF INTEREST
+
+United States
+
+N
+
+0
+
+0
+
+10
+
+5 25
+
+Kilometres
+
+Miles
+
+20
+
+10
+
+30
+
+15
+
+40
+
+20
+
+Nokomis Project
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Location Map
+
+Figure 4-1
+
+4
+-
+2
+
+S
+C
+
+O
+T
+
+T
+W
+
+I
+L
+
+S
+O
+
+N
+ R
+
+P
+A
+
+w
+w
+
+w
+.sc
+
+o
+ttw
+
+ilso
+n
+
+.c
+o
+mDecember 2009
+
+
+
+Cu-Ni-PGE Deposits
+
+Ore Deposits:
+
+2TiO   Deposits
+
+Source: The University of Minnesota, Modified by Duluth Metals Limited, 2009.
+
+Nokomis Project
+
+Western Duluth Complex
+
+Deposits
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 4-2
+
+4-3
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 4-4 
+
+DML, through its U.S. subsidiary DMC, now holds seven State of Minnesota non-
+
+ferrous mineral leases, two federal prospecting permits and four private leases covering 
+
+11 contiguous parcels of lands containing the Nokomis Deposit.  These combined 
+
+properties are referred to as the Nokomis Property.  The total Nokomis land package held 
+
+by DMC covers 3,001 acres (1,215 ha) as measured by its mineral rights holdings (Figure 
+
+4-3).  The lands are located in the Superior National Forest area, but some of the surface 
+
+and subsurface rights are held by either the State of Minnesota or by private landowners.  
+
+Each lease or permit is subject to rules which may differ between jurisdictions.   
+
+ 
+
+Additional state and private lands outside the Nokomis Property have been leased or 
+
+optioned and added to DMC's holdings. These additional lands either lie within the 
+
+Duluth Complex and are prospective for further discoveries of economic mineral deposits 
+
+and/or are considered to be strategic for the development of the Nokomis Deposit. 
+
+DMC's total holdings now stand at approximately 18,500 acres (7,487 ha) of mineral 
+
+rights and 14,000 acres (5,666 ha) of surface rights. 
+
+ 
+
+U.S. National Forests are protected forests and woodland areas in the United States.  
+
+National Forests are controlled by the federal government and managed by the United 
+
+States Forest Service, under the direction of the U.S. Department of Agriculture.  
+
+Commercial use of National Forests is permitted and in many cases encouraged.  The 
+
+management of these lands focuses on timber harvesting, livestock grazing, mining, oil 
+
+and gas extraction, water, wildlife management and recreation. The U.S. Bureau of Land 
+
+Management, a division of the U.S. Department of Interior, has management 
+
+responsibility for federal minerals beneath the National Forests. 
+
+
+
+0
+
+Miles
+
+0.5 1.0 1.5
+
+0
+
+Kilometres
+
+1.0 1.5 2.00.5
+
+9 10
+
+Source: Duluth Metals Ltd., 2009.
+
+Nokomis Project
+
+Property Map
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 4-3
+
+S
+C
+
+O
+T
+
+T
+W
+
+I
+L
+
+S
+O
+
+N
+ R
+
+P
+A
+
+4
+-
+5
+
+w
+w
+
+w
+.sc
+
+o
+ttw
+
+ilso
+n
+
+.c
+o
+m
+
+December 2009
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 4-6 
+
+ The Superior National Forest, which encompasses more than 3 million acres (1.21 
+
+million ha) of land in northeast Minnesota, was established in 1909 by President 
+
+Theodore Roosevelt.  The Nokomis Property is completely enclosed within the forest 
+
+boundaries.  The Superior National Forest is open to commercial development, including 
+
+mining. DMC's private and state holdings fall under Minnesota State rules even though 
+
+they lie within the National Forest. 
+
+ 
+
+The state leases are issued by the State of Minnesota, Department of Natural 
+
+Resources, and the federal prospecting permits are issued by the U.S. Bureau of Land 
+
+Management.  The seven state leases cover an area of 1,120 acres (530 ha) and the two 
+
+federal prospecting permits cover an area of 1,044.3 acres (423 ha).  Four private mineral 
+
+leases cover an additional 836 acres (338 ha) and are held pursuant to agreements with: 
+
+ 
+
+• RGGS Land & Minerals, Ltd. (RGGS) dated as of January 1, 2006  
+
+• St. Croix Lumber originally dated December 15, 2006 
+
+• Maki group dated March 17, 2007 
+
+• Fosters dated February 12, 2008 
+ 
+
+All of these private interests are unrelated to and wholly at arm's length from DMC. 
+
+ 
+STATE LEASES 
+
+State leases to explore for, mine and remove metallic minerals are held for a period of 
+
+50 years; DMC was granted its leases during 2000, 2007 and in 2008.  These leases are 
+
+subject to an incremental rental fee of $1.50 per acre for the initial three years, increasing 
+
+to $5.00 per acre for the next three years, $15.00 per acre for the next five years, and 
+
+finally $30.00 per acre for each remaining year.  DMC is currently paying $15.00 per 
+
+acre per year.  Rights conveyed in these leases exclude the extraction of iron ore, taconite 
+
+ores, coal, oil, gas and other liquid or gaseous hydrocarbons, which would be covered 
+
+under separate state leases. The timing of the payments and increments are adjusted to the 
+
+date of issuance. 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 4-7 
+
+In Minnesota, an operating mining company pays a production royalty in addition to 
+
+lease payments and income taxes.  The base royalty rate is 3.95% of the Net Return 
+
+Value. In the case of two leases, an additional bonus rate of 0.50% is applied.  This 
+
+royalty is paid by the lessee to the State of Minnesota for metallic minerals and 
+
+associated mineral products recovered from the state-leased premises.  The base rate is 
+
+escalated for such recovered metallic products that have a Net Return Value greater than 
+
+$75.00 per Ton of Dried Crude Ore. The latter is indexed to the unadjusted Producer 
+
+Price Index for All Commodities (1982 = 100.0), as published by the Bureau of Labour 
+
+Statistics (BLS) of the U.S. Department of Labour, tied to the index for November 1994 
+
+(the "Base Index" which equalled 121.5), and is to be calculated for the first month in the 
+
+calendar quarter in which the royalty payment will be made.  By way of example, based 
+
+on the above formula, the escalated base rate of $75.00 per Ton of Dried Crude Ore 
+
+would equal $115.35 per Ton of Dried Crude Ore as of October 2009 (based on recent 
+
+published BLS statistics).  The rate rises to the maximum 20% if such Net Return Value 
+
+exceeds $444.01 per Ton of Dried Crude Ore (indexed as stated above to $681.56 as of 
+
+October 2009).    
+
+ 
+FEDERAL PROSPECTING PERMITS 
+
+DMC's federal prospecting permits were issued in December 2001.  They have been 
+
+held for their initial period of two years and have been extended for a subsequent four 
+
+years.  Per the standard property advancement procedures for federal prospecting permits, 
+
+DMC will convert its federal prospecting permits to a preference rights lease in order to 
+
+retain and further explore and develop the properties.   In the case of these and other 
+
+federal prospecting permits in the Superior National Forest, deadlines for making 
+
+applications for lease have been extended by the BLM. The earliest due date is now May 
+
+2011. According to federal regulations, in order to obtain a preference rights lease, the 
+
+applicant must hold a federal prospecting permit for the area it wants to lease, apply for a 
+
+preference rights lease, submit the first year annual lease payment, provide information 
+
+required as stated in the U.S. Code of Federal Regulations (CFR) § 3507.17, including 
+
+maps, a proposed mining and processing approach, a description of saleable products and 
+
+markets, utilities and infrastructure in the area, and the applicant must demonstrate that it 
+
+has discovered a valuable deposit covered by its prospecting permit.  A valuable deposit 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 4-8 
+
+is principally defined by the geologic assessment of the mineral deposit, detailing the 
+
+type and extent of exploration, including results, that has taken place on the lands covered 
+
+by the federal prospecting permit, as well as the exploration on adjacent non-federal lands 
+
+that are part of any future resource and/or reserve estimation. Valuable mineral deposit 
+
+lands may include lands covered by the federal prospecting permit as well as adjacent 
+
+non-federal lands that may be required for the development and operation of any 
+
+potential future operations associated with minerals found on the federal prospecting 
+
+permit, such as mill and processing sites. 
+
+ 
+
+DMC will be submitting its application for a preference rights lease on its federal 
+
+prospecting permits in accordance with federal regulations and specific application dates.  
+
+The preference rights lease applications are currently due in May 2011. 
+
+ 
+PRIVATE LEASED LANDS 
+
+DMC currently has leases from RGGS covering fourteen 40 acre (16 ha) parcels, 
+
+situated in Lake County, Minnesota, which comprise the Private RGGS Leased Lands.  
+
+These leases are leased in an "as is" condition to DMC for the purposes of exploring, 
+
+prospecting, drilling and test-pitting the properties. The leases grant DMC the sole and 
+
+exclusive right to mine and extract and to carry on mining, milling and refining 
+
+operations with respect to all mineral substances of a metalliferous nature.  The RGGS 
+
+Leases provide for a production royalty of 5% of the Net Return Values on products 
+
+recovered in the mill concentrate obtained from the Private Leased Lands, less certain 
+
+additional allowable charges. 
+
+ 
+
+On December 15, 2006 DMC leased mineral rights from St. Croix Lumber (St. 
+
+Croix). In July 2007, the agreement was amended to include additional lands which 
+
+increased the total number of acres to 229 acres (93 ha). This lease gives DMC 50% of 
+
+the mineral rights on the 229 acres (93 ha). The complementary mineral rights have been 
+
+leased from the State of Minnesota. Royalty payments are proportional to the percentage 
+
+of the interest owned. After the commencement of commercial production, a royalty 
+
+payment of 3% of the Net Return Value is due.  
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 4-9 
+
+Two other private mineral leases were acquired in 2007 and 2008 from the Maki 
+
+group and the Fosters. Together, these two leases cover 160 acres (65 ha). These leases 
+
+are for partial interests of the same mineral land. Royalty payments are proportional to 
+
+the percentage of the interest owned. After the commencement of commercial 
+
+production, a royalty payment of 3% of the Net Return Value is due. 
+
+ 
+
+Surface rights totalling 440 acres (178 ha) over existing DMC mineral leases were 
+
+purchased in March 2008. This provides DMC with private surface rights for exploration 
+
+operations and possible future development infrastructure. These surface rights overlie 
+
+160 acres (65 ha) of the St. Croix / State leases and all but 40 acres (16 ha) of the RGGS 
+
+mineral rights lease in section 35.  
+
+ 
+
+Table 4-1 lists the property leases. 
+
+ 
+
+  County Lake 
+  Townships 61N / 62N 
+  Range  11W (all parcels) 
+
+ 
+
+Lease #  Section Holder Form of Title Surface Rights 
+ 
+Federal Jurisdiction 
+ 
+MNES050652 4 SE1/4 DMC RENEWED PERMIT FEDERAL 
+MNES050652 4 N1/2 of the NE1/4 DMC RENEWED PERMIT FEDERAL 
+MNES050652 26 SE1/4 of the SW1/4 DMC RENEWED PERMIT FEDERAL 
+MNES050652 26 W1/2 of the SE1/4 DMC RENEWED PERMIT FEDERAL 
+MNES050652 33 SW1/4 of the SE1/4 DMC RENEWED PERMIT FEDERAL 
+MNES050652 33 NE1/4 of the SE1/4 DMC RENEWED PERMIT FEDERAL 
+MNES050652 34 N1/2 of the SW1/4 DMC RENEWED PERMIT FEDERAL 
+MNES050652 34 W1/2 of the SE1/4 DMC RENEWED PERMIT FEDERAL 
+MNES050652 34 S1/2 of the NE1/4 DMC RENEWED PERMIT FEDERAL 
+MNES050652 35 N1/4 DMC RENEWED PERMIT FEDERAL 
+MNES050652 35 NW1/4 of the SW1/4 DMC RENEWED PERMIT FEDERAL 
+MNES050846 8 Lot 1 DMC RENEWED PERMIT FEDERAL 
+MNES050846 8 Lot 3 DMC RENEWED PERMIT FEDERAL 
+MNES050846 8 Lot 4 DMC RENEWED PERMIT FEDERAL 
+MNES050846 8 SW1/4 of the NE1/4 DMC RENEWED PERMIT FEDERAL 
+MNES050846 8 PtN1/2 of the NE1/4 DMC RENEWED PERMIT FEDERAL 
+MNES050846 8 NE1/4 of the NW1/4 DMC RENEWED PERMIT FEDERAL 
+MNES050846 8 NW1/4 of the SE1/4 DMC RENEWED PERMIT FEDERAL 
+
+TABLE 4-1   MINNESOTA PROPERTY LEASES 
+Duluth Metals Limited - Nokomis Property 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 4-10 
+
+Lease #  Section Holder Form of Title Surface Rights 
+ 
+State Jurisdiction 
+ 
+MN-9828 5 SW1/4 of the SE1/4 DMC LEASE STATE 
+MN-9764-N 4 S1/2 of the NE1/4 DMC LEASE STATE 
+MN-9764-N 4 Lot 3 DMC LEASE STATE 
+MN-9764-N 4 Lot 4 DMC LEASE STATE 
+MN-9764-N 4 S1/2 of the NW1/4 DMC LEASE STATE 
+MN-9764-N 4 N1/2 of the SW1/4 DMC LEASE STATE 
+MN-9764-N 4 SE1/4 of the SW1/4 DMC LEASE STATE 
+MM-9756-P 34 S1/2 of the SW1/4 DMC LEASE STATE 
+MM-9756-P 34 E1/2 of the SE1/4 DMC LEASE STATE 
+MM-9755-P 3 Lot 1 DMC LEASE STATE 
+MM-9755-P 3 S1/2 of the NE1/4 DMC LEASE STATE 
+MM-9755-P 3 Lot 3 DMC LEASE STATE 
+MM-9755-P 3 Lot 4 DMC LEASE STATE 
+MM-9755-P 3 S1/2 of the NW1/4 DMC LEASE STATE 
+MM-9755-P 3 N1/2 of the SW1/4 DMC LEASE STATE 
+MM-9755-P 3 SE1/4 of the SW1/4 DMC LEASE STATE 
+MM-9755-P 3 N1/2 of the SE1/4 DMC LEASE STATE 
+ 
+State leases with 50% interest (complementary to the St. Croix Lumber leases below) 
+ 
+MM-10141-N 8 SE1/4 of the NE1/4 DMC LEASE PRIVATE 
+MM-10141-N 8 NE1/4 of the SE1/4 DMC LEASE PRIVATE 
+MM-10141-N 8 SE1/4 of the SE1/4 DMC LEASE PRIVATE 
+MM-10142-N 9 SW1/4 of the NW1/4 DMC LEASE PRIVATE 
+MM-10144-N 8 Lot 5 DMC LEASE PRIVATE 
+MM-10144-N 8 SW1/4 of the SE1/4 DMC LEASE LAKE COUNTY 
+      
+ 
+RGGS Land & Minerals, Ltd., L.P. (January 1, 2006) 
+ 
+Mineral Lease 33 NW1/4 of the NW1/4 DMC 20 YR. AGREEMENT FEDERAL 
+Mineral Lease 33 SE1/4 of the SW1/4 DMC 20 YR. AGREEMENT FEDERAL 
+Mineral Lease 33 NW1/4 of theSE1/4 DMC 20 YR. AGREEMENT FEDERAL 
+Mineral Lease 33 SE1/4 of the SE1/4 DMC 20 YR. AGREEMENT FEDERAL 
+Mineral Lease 33 Govt Lot 5 DMC 20 YR. AGREEMENT  PRIVATE 
+Mineral Lease 35 SW1/4 of the NE1/4 DMC 20 YR. AGREEMENT PRIVATE 
+Mineral Lease 35 SE1/4 of the NE1/4 DMC 20 YR. AGREEMENT PRIVATE 
+Mineral Lease 35 SW1/4 of theNW1/4 DMC 20 YR. AGREEMENT PRIVATE 
+Mineral Lease 35 SE1/4 of the NW1/4 DMC 20 YR. AGREEMENT PRIVATE 
+Mineral Lease 35 NE1/4 of the SW1/4 DMC 20 YR. AGREEMENT PRIVATE 
+Mineral Lease 35 SW1/4 of the SW1/4 DMC 20 YR. AGREEMENT PRIVATE 
+Mineral Lease 35 SE1/4 of the SW1/4 DMC 20 YR. AGREEMENT PRIVATE 
+Mineral Lease 35 NW1/4 of the SE1/4 DMC 20 YR. AGREEMENT PRIVATE 
+Mineral Lease 35 SE1/4 of the SE1/4 DMC 20 YR. AGREEMENT PRIVATE 
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 4-11 
+
+St. Croix Lumber 50% interest Private Leases (complementary to 50% State leases above) 
+ 
+
+Lease #  Section Holder Form of Title Surface Rights 
+Mineral Lease 8 SE1/4 of the NE1/4 DMC LEASE PRIVATE 
+Mineral Lease 8 NE1/4 of the SE1/4 DMC LEASE PRIVATE 
+Mineral Lease 8 SE1/4 of the SE1/4 DMC LEASE PRIVATE 
+Mineral Lease 9 SW1/4 of the NW1/4 DMC LEASE PRIVATE 
+Mineral Lease 8 Lot 5 DMC LEASE PRIVATE 
+Mineral Lease 8 SW1/4 of the SE1/4 DMC LEASE LAKE COUNTY 
+
+ 
+Maki and Associates Private Mineral Lease (complementary to Foster below) 
+
+Mineral Lease 8 NE1/4 of the NE1/4 DMC LEASE FEDERAL 
+Mineral Lease 9 NW1/4 of the NW1/4 DMC LEASE FEDERAL 
+Mineral Lease 4 SW1/4 of the SW1/4 DMC LEASE FEDERAL 
+Mineral Lease 5 SE1/4 of the SE1/4 DMC LEASE FEDERAL 
+ 
+Foster Private Mineral Lease (complementary to Maki above) 
+
+Mineral Lease 8 NE1/4 of the NE1/4 DMC LEASE FEDERAL 
+Mineral Lease 9 NW1/4 of the NW1/4 DMC LEASE FEDERAL 
+Mineral Lease 4 SW1/4 of the SW1/4 DMC LEASE FEDERAL 
+Mineral Lease 5 SE1/4 of the SE1/4 DMC LEASE FEDERAL 
+
+ 
+OTHER ACQUISITIONS 
+
+In the vicinity of the Nokomis Property, DMC has acquired additional mineral and 
+
+surface rights in the form of leases, options and/or purchased lands (Figure 4-4).   
+
+ 
+
+In February 2008, DMC secured an option for surface rights on 1,845 acres (747 ha); 
+
+this is known as the Dunka Property. This option provides DMC with a potential surface 
+
+tailings impoundment area as well as a location for future plant facilities. In April 2008, 
+
+DMC acquired an additional 29 State leases covering 8,842 acres (3578 ha) to the south 
+
+of the Nokomis Deposit. This property is now referred to as the Land O' Dixie.  Some of 
+
+these mineral leases are for less than 100%.  
+
+ 
+
+In May 2008, DMC acquired an option to purchase 1,320 acres (534 ha) of surface 
+
+rights in proximity to the Nokomis Deposit. This land package is referred to as the 
+
+Northland Properties. In July 2008, DMC leased 2,614 acres (1058 ha) of private mineral 
+
+rights on lands largely contiguous to the State of Minnesota leases secured in April 2008 
+
+(as documented in the previous paragraph). These private mineral lands have been 
+
+combined with the state leases and are now included with the Land O' Dixie Property. In 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 4-12 
+
+March 2009 DMC leased an additional 816 acres (330 ha) of State lands which have also 
+
+been incorporated into the Land O' Dixie Property.  
+
+ 
+
+DMC acquired additional lands from the State in March of 2009. These new leases 
+
+make up four other projects referred to as Rook, Hoyt, Lands End, and Cascade. They 
+
+total 5,915 acres (2394 ha). A small portion of the mineral leases are for less than 100% 
+
+of the mineral rights.  
+
+ 
+
+ 
+
+
+
+Cu-Ni-PGE Deposits
+
+Ore Deposits:
+
+2TiO   Deposits
+
+Duluth Metals Lands
+
+Property Positions:
+
+Source: Duluth Metals Limited, 2009.
+
+Nokomis Project
+
+Other DML Properties
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 4-4
+
+4-13
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 5-1 
+
+ 5 ACCESSIBILITY, CLIMATE, LOCAL 
+RESOURCES, INFRASTRUCTURE AND 
+PHYSIOGRAPHY 
+
+The reader is referred to Scott Wilson RPA's August 8, 2007 and January 8, 2008 
+
+reports on the Nokomis Property (formerly called the Maturi Extension Properties) for 
+
+details.  The reports are available on SEDAR.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 6-1 
+
+ 6 HISTORY 
+Exploration for iron deposits in the vicinity of the Nokomis Property has been on-
+
+going since the late-1800s. Since the 1950s, exploration has focused on the copper and 
+
+nickel deposits of the Duluth Complex and related footwall metasedimentary and granitic 
+
+rocks. Drilling for copper and nickel has been carried out by many major mining 
+
+companies including Inco, Duval, Kennecott, Newmont and US Steel.  In 1985, the 
+
+Minnesota Department of Natural Resources re-analyzed core from the early copper-
+
+nickel exploration drill holes and found significant PGEs.  This has prompted the re-
+
+evaluation of a number of known deposits in the western portion of the Duluth Complex.  
+
+ 
+
+In 1999, Wallbridge Mining (the predecessor company to DML) explored two smaller 
+
+areas known as the Maturi Property and the Spruce Road Property. These two properties 
+
+are peripheral to the current Nokomis Property, and the Spruce Road Property is now 
+
+held by Franconia Minerals Corporation (Franconia).  WM began acquiring lands that 
+
+now comprise the Nokomis Property in 1999 and 2000. In late 2005, WM spun-out its 
+
+Minnesota properties into DML. 
+
+ 
+
+From March 14, 2006, to January 08, 2007, DML diamond drilled 10,384.5 m 
+
+(34,070 ft.) in 11 holes (MEX 001 to 011 inclusive). In part, the program was based on 
+
+recommendations from Cargill (2005a).  Some of the planned holes had to be relocated 
+
+due to access issues relating to the unseasonably warm winter of 2005/2006.  Exploration 
+
+on the property to mid-May 2006 was reported by Routledge (2006). 
+
+ 
+
+From January 2007 to January 2008, DML completed 81 drill holes for a total of 
+
+71,303 m (233,933 ft.).  This campaign included four wedge cuts from hole MEX-0075M 
+
+and one wedge cut from hole MEX-0081M (both metallurgical sampling holes).   
+
+ 
+
+From January 2008 to the end of April 2008, DML drilled 40 holes totalling 23,723 m 
+
+(77,832 ft.), including 19 wedge holes for metallurgical samples.  MEX-0108, drilled in 
+
+April 2008, was the cut-off hole for the previous resource estimate (Routledge, 2008). 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 6-2 
+
+Note that the assay data for hole MEX-0106 was missing from the 2008 estimate but was 
+
+added to the database for inclusion in the 2009 estimate. 
+
+ 
+
+From April 2008 to March 2009 an additional 91 holes were drilled, including 43 
+
+wedge cuts for metallurgical sampling. These holes, which total 48,014 m (157,527 ft.), 
+
+have been used to update the geological wireframe and the Nokomis resource estimate of 
+
+Routledge (2008). MEX-0109 is the first hole in this latest series. 
+
+  
+
+For further details on the history, the reader is referred to Scott Wilson RPA's August 
+
+8, 2007, January 18, 2008 and January 8, 2009 reports on the Maturi Extension 
+
+Properties.  The reports are available on SEDAR.   
+
+  
+
+ 
+
+ 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 7-1 
+
+ 7 GEOLOGICAL SETTING 
+The Nokomis Property contains rocks from the Precambrian Superior Province.  
+
+Specifically, the deposit is located in the northern part of the Duluth Complex, a 
+
+composite intrusion that occupies an area of approximately 6,500 km2.  This intrusion, 
+
+which has a northeast-southwest orientation, extends for approximately 240 km from the 
+
+Ontario border to the City of Duluth and attains a width of up to 50 km on surface.   
+
+ 
+
+The Duluth Complex consists of varieties of anorthositic, troctolitic, gabbroic, ferro-
+
+granodioritic, and granitic/granophyric rocks.  Footwall contacts on the west and north 
+
+sides of the Duluth Complex are sharp against metagreywackes and slates of the Middle 
+
+Precambrian Virginia and Rove Formations, the Biwabik Iron Formation of the Mesabi 
+
+Range, Neoarchean metasedimentary and metavolcanic rocks of the Vermilion 
+
+greenstone belt, and granitoids of the Giants Range batholith.  The contact and base of 
+
+the complex dip shallowly to moderately southeast at -10˚ to -35˚.  
+
+ 
+
+The Nokomis Property is underlain by the South Kawishiwi Intrusion (SKI), one of 
+
+the 12 intrusions making up the Duluth Complex.  The Nokomis Deposit is hosted by 
+
+ultramafic and mafic rocks, and varieties of troctolites and gabbros. It is located at the 
+
+base of the SKI where it parallels the footwall contact with monzonites of the Giants 
+
+Range batholith.  
+
+ 
+
+As currently modelled, the Nokomis Deposit consists of a generally tabular-shaped 
+
+zone of disseminated copper-nickel-iron sulphide mineralization.  Locally, the Nokomis 
+
+mineralization straddles the SKI-Giants Range batholith contact and higher-grade copper 
+
+values may be concentrated near the hangingwall and footwall parts of the main body.  
+
+The Nokomis mineralization dips from -35° to -25° toward the southeast and extends to 
+
+vertical depths of more than 1,300 m (4,265 ft.). The main mineralization has a strike 
+
+length of approximately 5.5 km and is open at depth and along strike.   
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 7-2 
+
+For further details on the geology of the Nokomis Deposit, the reader is referred to 
+
+Scott Wilson RPA's August 8, 2007 and January 8, 2008 reports on the Maturi Extension 
+
+Properties.  The reports are available on SEDAR.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 8-1 
+
+ 8 DEPOSIT TYPES 
+The reader is referred to Scott Wilson RPA's August 8, 2007 and January 8, 2008 
+
+reports on the Maturi Extension Properties for details.  The reports are available on 
+
+SEDAR.   
+
+ 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 9-1 
+
+ 9 MINERALIZATION 
+The reader is referred to Scott Wilson RPA's August 8, 2007 and January 8, 2008 
+
+reports on the Maturi Extension Properties for details.  The reports are available on 
+
+SEDAR.   
+
+ 
+
+In addition to the types of mineralization described in earlier Scott Wilson RPA 
+
+reports, DML has identified granite-hosted copper-nickel and PGE mineralization within 
+
+the 2.7 billion year old Giants Range batholith. The latter is a regionally extensive unit of 
+
+granitoid rocks in the footwall of the Duluth Complex.  This granite-hosted 
+
+mineralization occurs beneath the interpreted SKI magma channel within the Nokomis 
+
+deposit. Although it is superficially similar to the known hangingwall mineralization, it 
+
+varies in character, mineralogy, and tenor at depth.   Typically, granite-hosted 
+
+mineralization is dominated by nickel/cobalt-rich pyrrhotite within irregular semi-
+
+massive sulphide veins at or below the troctolite contact. This mineralization changes 
+
+with depth to disseminated chalcopyrite-bornite-millerite mineralization enriched in Cu 
+
+and PGEs. 
+
+ 
+
+The mineralization is hosted within the contact thermal aureole to the Duluth 
+
+Complex and is interpreted to be directly derived from the Duluth Complex.  Footwall 
+
+style mineralization is encountered in approximately one-quarter of the holes that have 
+
+been drilled to date, with about eighty percent of these holes containing mineralization in 
+
+the hangingwall which continues directly into the footwall with little or no breaks.   
+
+ 
+
+The sulphide mineral assemblage in the footwall is dominated by chalcopyrite and 
+
+bornite.  Pentlandite is the principal nickel-bearing mineral, although trace amounts of 
+
+nickel also occur in pyrrhotite. Chalcopyrite, cubanite, talnakhite and bornite are the 
+
+principal copper-bearing minerals.  The footwall mineralization is known to extend 
+
+locally at least 61 m (200 ft.) into the footwall and is an important exploration target. 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 10-1 
+
+ 10 EXPLORATION 
+Prior to 2006, the DML exploration programs on the Nokomis Property (known as the 
+
+Maturi Extension Properties at that time) consisted of re-logging, quartering and re-
+
+assaying of drill core (or assaying grab samples of already quartered core) from six Duval 
+
+drill holes. In addition, one Newmont hole (NM-03) drilled on an adjacent property was 
+
+sampled.  A 3D computer model of the geology of the properties was created (Peterson, 
+
+2001a) and the exploration potential was assessed on the basis of the new model (Cargill, 
+
+2005a).  From 2006 to June 2007, DML diamond drilled 45 holes on the properties 
+
+totalling 36,747.44 m (120,562.5 ft.).  Downhole electromagnetic geophysical surveys 
+
+were performed on several drill holes.  Core composites were also submitted to SGS 
+
+Lakefield Research in Lakefield, Ontario, Canada (SGS Lakefield), for flotation and 
+
+hydrometallurgical recovery tests.   
+
+ 
+
+Drilling continued on the properties over the fall and winter of 2007-2008, with five 
+
+rigs on site.  This program consisted of in-fill drilling, using NQ and PQ size drill core, 
+
+and step-out drilling using NQ drill core on the existing Nokomis Resources Block. In 
+
+addition, NQ size exploration holes were drilled to help define new mineralization in the 
+
+Eastern Exploration Area.  During this campaign, DML drilled holes MEX-46 to MEX-
+
+108 totalling 83,886.46 m (275,218.05 ft.), including 21 wedge holes for 17,674.07 m 
+
+(57,985.80 ft.) on the Nokomis Deposit.  This brought the DML drilling to 108 holes 
+
+totalling 120,633.9 m (395,780.51 ft.).  After this drilling, a second metallurgical sample 
+
+was submitted to SGS Lakefield for testing.  The sample was approximately 1,100 kg and 
+
+consisted of NQ core rejects from 12 of these drill holes within the various geographic, 
+
+mineralogic and grade spectra of the Nokomis Deposit.  Testing is currently underway on 
+
+this sample; no results are available at this time (December 2009). 
+
+ 
+
+From April 2008 to March 2009 an additional 90 holes were drilled, including 41 
+
+wedge cuts for metallurgical sampling. These holes, which total 74,240.37 m (243,570.77 
+
+ft.), have been used to update the geological wireframe and the Nokomis resource 
+
+estimate of Routledge (2008). MEX-0109 is the first hole in this latest series. 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 10-2 
+
+Note that the number of metres/feet described above includes the parent hole portion 
+
+of wedge holes (that is, from the surface collar). The actual cored metres/feet of the 
+
+wedged holes begins at the kick-off point in the parent hole which is less than the number 
+
+quoted here. 
+
+ 
+
+In the field, the casings for these drill holes have not been removed which will allow 
+
+for later down-hole geophysical surveying. Each hole has been capped with a painted 
+
+casing extension. None of the holes has been prepared for permanent abandonment (as 
+
+per Minnesota State law). The authors observed a number of these casings during the 
+
+various site visits. 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 11-1 
+
+ 11 DRILLING 
+DML DRILLING AND DRILL HOLE DATABASE 
+
+The 2006 to 2008 DML drilling campaigns have been documented in Routledge 
+
+(2008). The reader is referred to this report (filed on SEDAR) for further information.  
+
+ 
+
+The current resource estimate uses 360 drill holes including 66 related wedge cuts (63 
+
+by DML and 3 by other companies). The total meters drilled is 247,337 (811,474 ft.) of 
+
+which 50,331 m (165,128 ft.) was drilled as wedge cuts. The database includes 141 holes 
+
+drilled by companies other than DML (which amounts to 52,463 m; 172,123 ft.). These 
+
+holes were included to assist with the wireframe modelling of the Nokomis Deposit on its 
+
+up–dip side (where it joins the Maturi Deposit) and to aid in the interpolation of grades 
+
+near the margins of the property. 
+
+ 
+
+Note that the number of metres/feet described above includes the parent hole portion 
+
+of wedge holes (that is, from the surface collar). The actual cored metres/feet of the 
+
+wedged holes begins at the kick-off point in the parent hole which is less than the number 
+
+quoted here. 
+
+ 
+
+Figure 11-1 shows the location of the drill holes used in the current resource estimate.   
+
+ 
+
+
+
+598,000596,000594,000592,000
+
+5
+,2
+
+9
+2
+,0
+
+0
+0
+
+5
+,2
+
+9
+8
+,0
+
+0
+0
+
+5
+,2
+
+9
+6
+,0
+
+0
+0
+
+5
+,2
+
+9
+4
+,0
+
+0
+0
+
+5
+,2
+
+9
+2
+,0
+
+0
+0
+
+5
+,2
+
+9
+8
+,0
+
+0
+0
+
+5
+,2
+
+9
+6
+,0
+
+0
+0
+
+5
+,2
+
+9
+4
+,0
+
+0
+0
+
+598,000596,000594,000592,000 600,000
+
+600,000
+
+Nokomis Property Boundary
+
+Property Boundary
+
+Legend:
+
+Drill Hole Collar Location
+
+0
+
+0
+
+500
+
+0.25
+
+Metres
+
+Miles
+
+1000
+
+0.5
+
+1500
+
+0.75
+
+2000
+
+1.0
+
+N
+
+Nokomis Project
+
+Drill Hole Location Plan
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 11-1
+
+11-2
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 11-3 
+
+DRILL HOLE SURVEYS 
+HISTORIC 
+
+Inco holes were surveyed at the collar with only acid dip tests taken down hole.  As a 
+
+result, the position of the toe and mineralized intervals is somewhat uncertain because of 
+
+the lack of azimuth deviation data.  Dip tests were taken at intervals ranging from 15 m 
+
+(50 ft.) to 61 m (200 ft.).  Inco collar surveys were originally in Inco's New Minnesota 
+
+grid system and were converted by WM to UTM NAD27 coordinates which required a 
+
+20.42 m (67 ft.) shift west and 42.0 m (138 ft.) south and a grid origin correction to 
+
+539,980.4E, 5,199,956.8N.  Scott Wilson RPA converted the coordinates to NAD 83 for 
+
+use in the Nokomis resource estimation database. 
+
+ 
+
+The Duval, Newmont, Kennecott and US Steel drill holes were all vertical with no 
+
+down-hole azimuth deviation recorded.  The US Steel holes have dip tests and, of the 
+
+others, only DU-03 and NM-03 have acid dip tests.  The other historic holes have no 
+
+down-hole surveys.  
+
+ 
+
+Collars of most historic drill holes were relocated in the field, using GPS, by the 
+
+Natural Resources Research Institute (NRRI), University of Minnesota at Duluth.  
+
+Additional historic drill holes have been relocated in the field, using GPS and metal 
+
+detectors, by DMC. 
+
+ 
+DMC 
+
+DMC hole collars are field-spotted using a hand-held GPS unit and recorded in local 
+
+UTM coordinates.  In 2007, all of the historic drill collars (up to and including MEX-
+
+104) were surveyed by NL Surveying using a differential GPS. This practice was 
+
+continued for the later series of holes (MEX-105 to MEX-155) using a Trimble GPS 
+
+system. The precision for the collar locations is within a few centimetres. 
+
+ 
+
+Down-hole deviation surveys were documented by two different tools produced by 
+
+FLEXIT AB, based in Sweden. Holes MEX-11, 12, 13, 16, 18, 20, 21, 24 and 26 used a 
+
+FLEXIT MultiSmart tool while the remaining holes were surveyed using a FLEXIT Gyro 
+
+tool. Readings were generally taken at ±6.1 m (20 ft.) intervals and coincided with 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 11-4 
+
+running the survey as the rods were pulled in 20 ft. lengths at the end of drilling the hole.  
+
+The FLEXIT MultiSmart tool is a magnetic field-based instrument that measures azimuth 
+
+and dip of the hole.  The tool also records errors based on the fluctuation in magnetic 
+
+field strength which allows for a degree of internal correction by the tool itself. It also 
+
+allows the technician/geologist to review and perform manual adjustments or review 
+
+spurious readings as appropriate.  Spurious readings in the Duluth Complex rocks may be 
+
+caused by variable magnetite contents. 
+
+ 
+
+Previous reviews of the down-hole survey data by Scott Wilson RPA (for holes up to 
+
+MEX-108) showed that the FLEXIT MultiSmart dip readings were generally acceptable 
+
+but the azimuth readings were noisy. Adjustments were made by DMC to the azimuth 
+
+portion of the affected holes (9 holes).  The use of the FLEXIT Gyro tool for the majority 
+
+of the MEX-series holes eliminated the need for corrections due to magnetic field noise.  
+
+For the last series of holes (MEX-109 to MEX-155) only minor corrections were made to 
+
+the down hole survey dataset. Scott Wilson RPA notes that some holes (e.g. MEX-0139) 
+
+have no survey information because the rods were stuck in the hole and could not be 
+
+surveyed.  These holes plot as vertical traces in Gemcom. 
+
+ 
+
+ASSAY DATABASE 
+The assay database contains 360 drill holes with 21,716 intervals.  Of these, 21,007 
+
+are assayed intervals (Cu and/or Ni) totalling 38,385.40 m (125,936 ft.).  Co was not 
+
+assayed in 6,039 of the entries. Similarly, 6,003 samples have no Au values in the 
+
+database while 6,077 samples have no Pt values and 5,969 samples have no Pd values. 
+
+ 
+
+The MEX series of holes drilled by DML have 15,503 assays over an aggregate 
+
+interval of 25,423.53 m (83,411 ft.). Table 11-1 summarises the zero values within the 
+
+MEX portion of the database. None of the zero values are from samples used to update 
+
+the last resource estimate (that is, they are complete for Cu, Ni, Au, Pt, Pd and Ag).   
+
+ 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 11-5 
+
+TABLE 11-1   MEX SERIES HOLES WITH ZERO VALUES 
+Duluth Metals Limited – Nokomis Deposit, Minnesota 
+
+ 
+MEX holes only Cu Ni Co Au Pt Pd Ag 
+
+Number of zero values 48 79 48 148 222 114 516 
+ 
+
+Within the Nokomis Deposit mineralized envelope, as described in Item 17, the drill 
+
+holes contain 8,748 assays from 14,536 m (47,690 ft.) of core.  For Cu, 28 of these 
+
+samples have no values while Ni has 29 entries with no values. In both cases, the zero 
+
+values are from either historic holes (not DMC) or from metallurgical hole MEX-091M-
+
+W3. For Co, there are 1523 samples with zero values while Au has 1524 samples with 
+
+zero values.  In both cases, the values used for the interpolation were estimated from a 
+
+regression analysis (documented in Routledge, 2008) so that the database was complete. 
+
+For Pt, there are 1524 zero values while Pd has 1522 zero values. As with Co and Au, the 
+
+missing Pt and Pd values were estimated from a regression analysis.  
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 12-1 
+
+ 12 SAMPLING METHOD AND APPROACH 
+The sampling method and approach for drill holes pre-dating MEX-109 are described 
+
+in Routledge (2008). For the recent drill holes (MEX-109 to MEX-155) DML followed 
+
+the same methods and procedures used for the initial 108 MEX holes. Inspections of the 
+
+logging facility and core storage areas were made during the recent site visit to Ely 
+
+(Figure 12-1).  No issues were found for the core logging and storage areas. 
+
+ 
+
+Sample lengths for holes within the resource model range from 0.12 m (0.4 ft.) up to 
+
+13.9 m (45.6 ft) although there is one anomalous sample length of 30.48 m (100 ft.) for 
+
+hole 34883 (pre-DML hole).  Figure 12-1 shows the sample lengths distribution. 
+
+
+
+Nokomis Project
+
+Assay Sample Length Distribution
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 12-1
+
+12-2
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 13-1 
+
+ 13 SAMPLE PREPARATION, ANALYSES 
+AND SECURITY 
+
+For sample preparation and analysis pre-dating hole MEX-109 the reader is referred 
+
+to Routledge (2008).  Note that DML continued with the same laboratory for analysis of 
+
+samples from the 2008-2009 drilling program.  
+
+ 
+
+Core samples were crushed, mass reduced and milled to pulps at ALS Chemex's 
+
+preparation facility in Thunder Bay, Ontario, Canada. The pulps were then shipped to the 
+
+ALS Chemex laboratory in Vancouver, Canada for analysis. ALS Chemex is an 
+
+independent, commercial mineral laboratory that is ISO 9002 certified and is accredited 
+
+under ISO/IEC 25 guidelines.   
+
+ 
+
+The sample preparation and analytical procedures used are as follows: 
+
+ 
+• Core samples numbers are entered into the Laboratory Information Management 
+
+System (LIMS). This system employs bar coding and scanning technology for 
+chain of custody reporting as samples are tracked from sample preparation 
+through analysis and computer-generated certificate reporting. 
+
+ 
+• If necessary, samples are oven-dried. Each sample is then jaw crushed to a point 
+
+where more than 75% of the material is less than 2 mm (equivalent to 10 mesh). 
+ 
+
+• A 250 g cut is taken by riffle splitting with the balance stored as coarse rejects.  
+ 
+
+• The 250g cut is pulverized in a ring and puck grinding mill to a point where more 
+than 85% of the samples is smaller than 75 μm (equivalent to 200 mesh). This 
+sub-sample is then carefully homogenized.   
+ 
+
+• Barren material is used to clean the mill between sample batches to minimize 
+contamination. 
+
+ 
+• For precious metal analysis, a one assay ton (±30 g) aliquot of the pulp is fire 
+
+assay fused (FA) for one hour at 1,050ºC and then subjected to a four-acid 
+digestion using a HF-HNO3-HClO4-HCl leach. This solution is analyzed for Pt, 
+Pd and Au using inductively coupled plasma - atomic emission spectrometry (FA-
+ICP-AES: ALS Chemex, method PGM-ICP23).   
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 13-2 
+
+Detection limits for method PGM-ICP23 are:  
+Metal Method Detection limit 
+
+Pd FA-ICP-AES 0.001 ppm 
+Pt FA-ICP-AES 0.005 ppm 
+Au FA-ICP-AES 0.001 ppm 
+
+ 
+• Copper, nickel, cobalt, silver and 29 other elements are analysed using method 
+
+ME-ICP61. For this analysis, a 0.5 g portion of the pulp is digested using a HF-
+HNO3-HClO4-HCl leach with subsequent analysis by ICP-AES. 
+
+ 
+Detection limits for method ME-ICP61 are: 
+
+Metal Method Detection limit 
+Ag FA-ICP-AES 0.5  ppm 
+Cu FA-ICP-AES 1.0  ppm 
+Ni FA-ICP-AES 1.0  ppm 
+Co FA-ICP-AES 1.0  ppm 
+
+ 
+
+If copper and nickel exceeded 10,000 ppm (1%) using method ME-ICP61, a pulp-
+
+split was re-assayed by atomic absorption spectrometry (AAS) using methods Cu-OG62 
+
+and Ni-OG62.  
+
+ 
+
+Detection limits for method OG62 are: 
+Metal Method Detection limit 
+
+Cu OG62 0.01% 
+Ni OG62 0.01% 
+
+ 
+
+ Scott Wilson RPA again notes that these analytical methods entail total digestion of 
+
+the samples. Consequently, the reported Ni values represent a combination of Ni from 
+
+silicates and Ni from sulphides. The Ni in silicate minerals is generally not recoverable 
+
+by conventional processing. Scott Wilson RPA recommends selective digestions of some 
+
+of these samples to assess the Ni contribution from these two sources. 
+
+ 
+
+DML used a formal Quality Assurance/Quality Control (QA/QC) and security 
+
+program for their 2008-2009 drilling campaigns. Company blanks and reference 
+
+standards were included in the sample stream for each drill hole.  In addition, core for 
+
+two sample intervals in each hole were quartered as duplicates and both sets of quartered 
+
+core were submitted for analysis.  The average of the duplicates is entered in the resource 
+
+estimation drill hole database.  The earliest blank samples were prepared from crushed 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 13-3 
+
+cinder block but this was replaced by Dresser Trap rock (a volcanic rock) for the majority 
+
+of the analytical program. Reference standards WMG-1 or WPR-1 were obtained from 
+
+CANMET.  ALS Chemex carries out its own internal QA/QC for analyses.  As a security 
+
+measure, and to assure the nature of control samples was "blind" to the laboratory, all 
+
+QA/QC samples were labelled with numbers independent of hole information and sample 
+
+type and were in sequence with core samples.    
+
+ 
+
+All core was directly retrieved from the drill by DML staff on a daily to twice daily 
+
+basis and logged at a secure company facility in Ely, Minnesota. Samples in plastic bags, 
+
+and accumulated in rice bags, were transported by truck by a chartered and bonded 
+
+independent carrier to the ALS Chemex laboratory in Thunder Bay, Ontario.  Samples 
+
+were recorded, prepared (as described above) and shipped to the ALS Chemex laboratory 
+
+in Vancouver, British Columbia, for assaying and analysis.  
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 14-1 
+
+ 14 DATA VERIFICATION 
+The Nokomis Deposit is not exposed at surface within the DML property. 
+
+Consequently, check-sampling of the mineralization can only be performed using 
+
+diamond drill core stored at either the company site in Ely, MN or at the Minnesota State 
+
+Core library in Hibbing, MN.   
+
+ 
+
+The historic drill core from previous explorers on the property is held at the 
+
+Minnesota State Core library in Hibbing, MN.  This same facility houses some core from 
+
+the early DML holes although the majority of the MEX series of holes are located at 
+
+DML's facility at Ely, MN.  The Minnesota DNR, Minnesota Geological Survey (MGS), 
+
+University of Minnesota (UMN), and the Natural Resource Research Institute (NRRI), 
+
+have all analyzed drill core samples from the Nokomis Property to positively verify the 
+
+types and amounts of mineralization present within the deposit. The extensive re-assaying 
+
+of the core has meant that only a limited amount of sample material is available for 
+
+check-assaying (Routledge, 2008).  Consequently, Scott Wilson RPA did not conduct 
+
+independent sampling of the recent Nokomis Deposit drill core. Instead, Scott Wilson 
+
+RPA has visually estimated the copper grades of the core and the predicted values agree 
+
+well with the actual assays.   
+
+ 
+
+When re-sampling the old core, WM relied on the blanks, duplicates, and standards 
+
+inserted into the sample stream by Swastika Laboratories for its data verification (Cargill, 
+
+2005a). For DML's 2006-2007 drilling, DML personnel routinely compared visual 
+
+estimates from core logging, and digital photos when necessary, with analytical results 
+
+from ALS Chemex to ensure that results were as expected.  QA/QC samples, including 
+
+quarter-core duplicates, blanks, and reference standards, were also inserted into the 
+
+sample stream with each batch of samples.  Results were reviewed to assure that there has 
+
+been no contamination and that analytical accuracy was maintained.  If a problem was 
+
+identified, the assays for the hole were re-done.  The approach used by DML for their 
+
+2006-2007 samples was also used for the recent drill holes (MEX-109 and higher).  
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 14-2 
+
+Scott Wilson RPA spot-checked a number of ALS Chemex certificates against 
+
+database records and found no entry errors (a couple of minor errors were detected for 
+
+SG values in the database and these were removed). In addition, any negative values for 
+
+the metals in the database were re-set to half the appropriate detection limit.  
+
+ 
+
+While on site, Scott Wilson RPA confirmed the location of the casings of a selection 
+
+of drill holes using a hand held global positioning system instrument (Garmin Etrex), 
+
+accurate to ±6 m (±20 ft.).  Core logging and sampling records were also examined for 
+
+several drill holes and the checks confirmed that the DML work conforms to industry 
+
+standard practices.  
+
+ 
+
+QA/QC 
+Scott Wilson RPA reviewed the complete QA/QC dataset for the MEX series holes 
+
+(which also includes the QA/QC data already reviewed by Routledge, 2008). The QA/QC 
+
+data comes from the blanks, quarter-core duplicates and reference standards inserted into 
+
+the sample stream.  
+
+ 
+
+In general, the field blank samples returned low values for the six elements of interest 
+
+(Cu, Ni, Co, Au, Pt, Pd) which suggests that the preparation stage was contamination-
+
+free. Only one Trap rock blank out of 345 samples (number 153336) returned anomalous 
+
+values for all 6 elements (Figure 14-1). Although the affected batch was re-run the 
+
+contamination still persisted suggesting that the blank sample is not completely free of 
+
+base and precious metals. Scott Wilson RPA recommends that DML investigate the use 
+
+of some other material for use as a blank.  
+
+ 
+
+Scott Wilson RPA reviewed the laboratory values returned for the Canmet WMG-1 
+
+reference standard within each sample batch for the MEX holes. The values for Cu, Ni, 
+
+Co, Au, Pt and Pd were compared with the certified or provisional mean and standard 
+
+deviations of this reference standard. This assessment is designed to test for bias (Figure 
+
+14-1).  Overall, the majority of the values for each element fall within +/- 3 standard 
+
+deviations of the certified mean. However, some of the values returned for Cu, Au, Pt and 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 14-3 
+
+Pd clearly lie outside the specification limits. In most instances, these biased values have 
+
+no clear pattern although the final batches (around fifty) consistently display erratic 
+
+values. To rectify the issue, DML replaced standard WMG-1 with standard WPR-1 and 
+
+the affected batches were re-run with cross-checks at different laboratories. The updated 
+
+values were entered into the database for use in the current resource estimate.  
+
+ 
+
+TABLE 14-1   COMPARISON OF STANDARD AND SAMPLE MEANS 
+Duluth Metals Company – Nokomis Deposit 
+
+ 
+
+Metal Comment 
+Mean value for 
+
+WMG-1  
+
+Mean of ALS 
+Chemex 
+Analyses Difference 
+
+Cu (ppm) Slightly high 5,900 6,300 7% 
+Ni (ppm) Slightly low 2,700 2,571 -5% 
+Co (ppm) Low 200 180 -10% 
+Au (g/t) Slightly high 0.11 0.12 8% 
+Pt (g/t) Close 0.73 0.75 2% 
+Pd (g/t) Close 0.38 0.38 -1% 
+
+ 
+
+Table 14-1 compares the averages for the dataset with the averages for the standard 
+
+on a metal by metal basis. Overall, there are no significant issues when comparing the 
+
+averages. 
+
+ 
+
+DML has not submitted any samples to an alternative accredited laboratory for check 
+
+assaying and further confirmation of the accuracy of the assays.  Scott Wilson RPA 
+
+recommends that selected ALS Chemex pulp splits, for various grades from low to high, 
+
+be submitted to an outside laboratory for check analysis. This is standard industry 
+
+practice.  
+
+ 
+
+In Scott Wilson RPA's opinion, the drill hole and assay database is adequate for 
+
+resource and reserve estimation.  
+
+
+
+0
+
+0.02
+
+0.04
+
+0.06
+
+0.08
+
+0.1
+
+0.12
+
+0.14
+
+1
+1
+2
+
+2
+3
+
+3
+4
+
+4
+5
+
+5
+6
+
+6
+7
+
+7
+8
+
+8
+9
+
+1
+0
+0
+
+1
+1
+1
+
+1
+2
+2
+
+1
+3
+3
+
+1
+4
+4
+
+1
+5
+5
+
+1
+6
+6
+
+1
+7
+7
+
+1
+8
+8
+
+Au_ppm_ICP
+
+Au_ppm_ICP
+
+0
+
+0.01
+
+0.02
+
+0.03
+
+0.04
+
+0.05
+
+0.06
+
+0.07
+
+0.08
+
+1
+1
+2
+
+2
+3
+
+3
+4
+
+4
+5
+
+5
+6
+
+6
+7
+
+7
+8
+
+8
+9
+
+1
+0
+0
+
+1
+1
+1
+
+1
+2
+2
+
+1
+3
+3
+
+1
+4
+4
+
+1
+5
+5
+
+1
+6
+6
+
+1
+7
+7
+
+1
+8
+8
+
+Pt_ppm_ICP
+
+Pt_ppm_ICP
+
+0
+
+0.05
+
+0.1
+
+0.15
+
+0.2
+
+0.25
+
+1
+1
+2
+
+2
+3
+
+3
+4
+
+4
+5
+
+5
+6
+
+6
+7
+
+7
+8
+
+8
+9
+
+1
+0
+0
+
+1
+1
+1
+
+1
+2
+2
+
+1
+3
+3
+
+1
+4
+4
+
+1
+5
+5
+
+1
+6
+6
+
+1
+7
+7
+
+1
+8
+8
+
+Pd_ppm_ICP
+
+Pd_ppm_ICP
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+3500
+
+1
+1
+2
+
+2
+3
+
+3
+4
+
+4
+5
+
+5
+6
+
+6
+7
+
+7
+8
+
+8
+9
+
+1
+0
+0
+
+1
+1
+1
+
+1
+2
+2
+
+1
+3
+3
+
+1
+4
+4
+
+1
+5
+5
+
+1
+6
+6
+
+1
+7
+7
+
+1
+8
+8
+
+Cu_ppm_ICP
+
+Cu_ppm_ICP
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+1
+1
+2
+
+2
+3
+
+3
+4
+
+4
+5
+
+5
+6
+
+6
+7
+
+7
+8
+
+8
+9
+
+1
+0
+0
+
+1
+1
+1
+
+1
+2
+2
+
+1
+3
+3
+
+1
+4
+4
+
+1
+5
+5
+
+1
+6
+6
+
+1
+7
+7
+
+1
+8
+8
+
+Ni_ppm_ICP
+
+Ni_ppm_ICP
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+1
+1
+2
+
+2
+3
+
+3
+4
+
+4
+5
+
+5
+6
+
+6
+7
+
+7
+8
+
+8
+9
+
+1
+0
+0
+
+1
+1
+1
+
+1
+2
+2
+
+1
+3
+3
+
+1
+4
+4
+
+1
+5
+5
+
+1
+6
+6
+
+1
+7
+7
+
+1
+8
+8
+
+Co_ppm_ICP
+
+Co_ppm_ICP
+
+1 2
+1
+
+3
+2
+
+5
+4
+
+6
+5
+
+7
+6
+
+8
+7
+
+1
+0
+0
+
+9
+8
+
+4
+3
+
+1
+8
+8
+
+1
+7
+7
+
+1
+6
+6
+
+1
+5
+5
+
+1
+4
+4
+
+1
+3
+3
+
+1
+2
+2
+
+1
+1
+1 1 2
+1
+
+3
+2
+
+5
+4
+
+6
+5
+
+7
+6
+
+8
+7
+
+1
+0
+0
+
+9
+8
+
+4
+3
+
+1
+8
+8
+
+1
+7
+7
+
+1
+6
+6
+
+1
+5
+5
+
+1
+4
+4
+
+1
+3
+3
+
+1
+2
+2
+
+1
+1
+1
+
+1 2
+1
+
+3
+2
+
+5
+4
+
+6
+5
+
+7
+6
+
+8
+7
+
+1
+0
+0
+
+9
+8
+
+4
+3
+
+1
+8
+8
+
+1
+7
+7
+
+1
+6
+6
+
+1
+5
+5
+
+1
+4
+4
+
+1
+3
+3
+
+1
+2
+2
+
+1
+1
+1 1 2
+1
+
+3
+2
+
+5
+4
+
+6
+5
+
+7
+6
+
+8
+7
+
+1
+0
+0
+
+9
+8
+
+4
+3
+
+1
+8
+8
+
+1
+7
+7
+
+1
+6
+6
+
+1
+5
+5
+
+1
+4
+4
+
+1
+3
+3
+
+1
+2
+2
+
+1
+1
+1
+
+1 2
+1
+
+3
+2
+
+5
+4
+
+6
+5
+
+7
+6
+
+8
+7
+
+1
+0
+0
+
+9
+8
+
+4
+3
+
+1
+8
+8
+
+1
+7
+7
+
+1
+6
+6
+
+1
+5
+5
+
+1
+4
+4
+
+1
+3
+3
+
+1
+2
+2
+
+1
+1
+11 2
+1
+
+3
+2
+
+5
+4
+
+6
+5
+
+7
+6
+
+8
+7
+
+1
+0
+0
+
+9
+8
+
+4
+3
+
+1
+8
+8
+
+1
+7
+7
+
+1
+6
+6
+
+1
+5
+5
+
+1
+4
+4
+
+1
+3
+3
+
+1
+2
+2
+
+1
+1
+1
+
+Sequential Batches
+
+C
+u
+ p
+
+p
+m
+
+Sequential Batches
+
+Sequential Batches Sequential Batches
+
+Sequential Batches Sequential Batches
+
+A
+u
+ p
+
+p
+m
+
+N
+i 
+p
+p
+m
+
+P
+t 
+p
+p
+m
+
+C
+o
+ p
+
+p
+m
+
+P
+d
+ p
+
+p
+m
+
+Nokomis Project
+
+Field Blanks for MEX-series Holes
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 14-1
+
+14-4
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+0
+
+0.05
+
+0.1
+
+0.15
+
+0.2
+
+0.25
+
+0.3
+
+0.35
+
+0 50 100 150 200 250 300 350 400 450
+
+Au WMG
+
+Standard Mean
+
+Upper 3SD
+
+Lower 3SD
+
+0
+
+0.05
+
+0.1
+
+0.15
+
+0.2
+
+0.25
+
+0.3
+
+0.35
+
+0 50 100 150 200 250 300 350 400 450
+
+Au WMG-1
+
+Standard Mean
+
+Upper 3SD
+
+Lower 3SD
+
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+1.2
+
+0 50 100 150 200 250 300 350 400 450
+
+Pt WMG-1
+
+Standard Mean
+
+Upper 3SD
+
+Lower 3SD
+
+Au WMG
+
+Pt  WMG
+
+Nokomis Project
+
+Reference Standards for
+
+MEX-series Holes
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 14-2A
+
+14-5
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0 50 100 150 200 250 300 350 400 450
+
+Pd WMG
+
+Standard Mean
+
+Upper 3SD
+
+Lower 3SD
+
+7000
+
+8000
+
+9000
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0 50 100 150 200 250 300 350 400 450
+
+Pd WMG-1
+
+Standard Mean
+
+Upper 3SD
+
+Lower 3SD
+
+0
+
+1000
+
+2000
+
+3000
+
+4000
+
+5000
+
+6000
+
+7000
+
+8000
+
+9000
+
+0 50 100 150 200 250 300 350 400 450
+
+Cu WMG-1
+
+Standard Mean
+
+Upper 3SD
+
+Lower 3SD
+
+Pd WMG
+
+Cu WMG
+
+Nokomis Project
+
+Reference Standards for
+
+MEX-series Holes
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 14-2B
+
+14-6
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+3500
+
+0 50 100 150 200 250 300 350 400 450
+
+Ni WGM
+
+Standard Mean
+
+Upper 3SD
+
+Lower 3SD
+
+200
+
+250
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+3500
+
+0 50 100 150 200 250 300 350 400 450
+
+Ni WGM-1
+
+Standard Mean
+
+Upper 3SD
+
+Lower 3SD
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+0 50 100 150 200 250 300 350 400 450
+
+Co WMG-1
+
+Standard Mean
+
+Upper 3SD
+
+Lower 3SD
+
+Ni WMG
+
+Co WMG
+
+Nokomis Project
+
+Reference Standards for
+
+MEX-series Holes
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 14-2C
+
+14-7
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+y = 0.9916x + 72.388
+
+R² = 0.9189
+
+0
+
+2000
+
+4000
+
+6000
+
+8000
+
+10000
+
+12000
+
+14000
+
+16000
+
+18000
+
+0 2000 4000 6000 8000 10000 12000 14000 16000
+
+Cu Pairs
+
+Cu Value
+
+Linear Regression
+
+y = 0.915x + 125.89
+
+R² = 0.8956
+
+0
+
+1000
+
+2000
+
+3000
+
+4000
+
+5000
+
+6000
+
+0 1000 2000 3000 4000 5000 6000 7000
+
+Ni Pairs
+
+Ni Value
+
+Linear Regression
+
+y = 0.9358x + 5.0905
+
+R² = 0.9404
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+0 50 100 150 200 250
+
+Co Pairs
+
+Co Value
+
+Linear Regression
+
+Cu ppm (original)
+
+A
+u
+ p
+
+p
+m
+
+ (
+d
+u
+p
+li
+c
+a
+te
+
+)
+
+Ni ppm (original)
+
+N
+i 
+p
+p
+m
+
+ (
+d
+u
+p
+li
+c
+a
+te
+
+)
+
+Co ppm (original)
+
+C
+o
+ p
+
+p
+m
+
+ (
+d
+u
+p
+li
+c
+a
+te
+
+)
+
+Nokomis Project
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Duplicates Comparison for
+
+MEX-series Holes
+
+Figure 14-3A
+
+14-8
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+y = 0.7056x + 0.0199
+
+R² = 0.7111
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7
+
+Au Pairs
+
+Au g/t (original)
+
+A
+u
+ g
+
+/t
+ (
+
+d
+u
+p
+li
+c
+a
+te
+
+)
+
+Au Value
+
+Linear Regression
+
+y = 1.0045x + 0.0229
+
+R² = 0.6016
+
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+1.2
+
+1.4
+
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7
+
+Pt Pairs
+
+Pt Value
+
+Linear Regression
+
+y = 1.007x + 0.016
+
+R² = 0.8633
+
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+1.2
+
+1.4
+
+1.6
+
+1.8
+
+0 0.2 0.4 0.6 0.8 1 1.2
+
+Pd Pairs
+
+Pd Value
+
+Linear Regression
+
+Pt g/t (original)
+
+P
+t 
+
+g
+/t
+
+ (
+d
+
+u
+p
+
+li
+c
+a
+
+te
+)
+
+Pd g/t (original)
+
+P
+d
+
+ g
+/t
+
+ (
+d
+
+u
+p
+
+li
+c
+a
+
+te
+)
+
+Nokomis Project
+
+Duplicates Comparison for
+
+MEX-series Holes
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 14-3B
+
+14-9
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 15-1 
+
+ 15 ADJACENT PROPERTIES 
+Properties of interest in the vicinity of the Nokomis Property with historic or NI 43-
+
+101 compliant resources in the public domain include: Birch Lake, Maturi and Spruce 
+
+Road held by Franconia; Mesaba (formerly the Babbitt Deposit) held by Teck Cominco 
+
+American Inc.; and NorthMet (formerly the Dunka Road Deposit) held by PolyMet 
+
+Mining Corporation (PolyMet).  Franconia drilled multiple holes on the Birch Lake 
+
+Deposit in 2005 and completed a Preliminary Assessment in January 2006.  Franconia 
+
+completed a NI 43-101 Preliminary Assessment Technical Report on the Maturi and 
+
+Birch Lake Properties in October 2006.  Franconia also carried out a drilling program at 
+
+Birch Lake in 2007-2008 and recently updated its resource estimate for the Birch Lake 
+
+deposit.  
+
+ 
+
+PolyMet purchased the Cliffs Erie, LLC (Cliffs Natural Resources) taconite plant and 
+
+tailings basin near Hoyt Lakes, Minnesota, in 2005 and completed its definitive 
+
+feasibility study on the NorthMet Deposit in 2006.  The State of Minnesota has released 
+
+the draft Environmental Impact Statement (EIS) for PolyMet's NorthMet project. The 
+
+release of this draft EIS is part of the pre-permitting and pre-development activities for 
+
+the NorthMet project. After public comments and review, the State will issue the final 
+
+EIS and a Record of Decision on the project which will be followed by the issuance of 
+
+permits. With the issuance of permits PolyMet will initiate construction, currently 
+
+forecast for late 2010. 
+
+ 
+
+Teck Cominco is currently working on its Mesaba Deposit and has undertaken 
+
+advanced processing tests of Mesaba mineralization using its proprietary CESL process.   
+
+ 
+
+Encampment, a private company, has conducted geophysical surveys and has initiated 
+
+drilling near its Filson Creek property.  
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 16-1 
+
+ 16 MINERAL PROCESSING AND 
+METALLURGICAL TESTING 
+
+The following is taken from the 2008 report of Routledge. No additional 
+
+metallurgical work has been reported by DML. 
+
+ 
+
+NOKOMIS METALLURGICAL TEST WORK 
+
+Bench-scale flotation test work on a composite sample of drill core from the Nokomis 
+
+Deposit was undertaken in 2007 at SGS Lakefield for DML.  The composite graded 
+
+0.75% Cu, 0.24% Ni, 0.19 g/t Pt, 0.43 g/t Pd and 0.12 g/t Au.  The primary objective was 
+
+to establish the general amenability to flotation recovery of base and precious metals and 
+
+to produce a bulk concentrate for testing by hydrometallurgical (pressure leaching) 
+
+means.  
+
+ 
+
+Pressure leaching test work was limited to a preliminary evaluation of the proprietary 
+
+PLATSOL™ process, developed at SGS Lakefield by International PGM Technologies 
+
+Ltd. It is considered the preferred option for treatment of Nokomis material. The 
+
+PLATSOL™ process is based on a conventional high pressure, high temperature acid 
+
+leach, but incorporates the use of chloride to solubilise gold and PGMs. 
+
+ 
+
+Additional testing is now underway at SGS Lakefield and Coleraine Minerals 
+
+Research Laboratory. 
+
+ 
+
+SUMMARY RESULTS 
+Scott Wilson RPA has reviewed the SGS Lakefield test work.  The key points are 
+
+summarized below: 
+
+• Ni recovery to concentrate is limited by the amount of silicate Ni, which 
+appears to be about 25% in the sample but has been reported to be 0.1% Ni to 
+0.3% Ni in the heads.  Consequently, overall Ni recovery of 71.8% was 
+projected from tests. 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 16-2 
+
+• The sample tested is reasonably representative of the head grade expected for 
+the deposit at a cut-off grade of 0.7% Cu. 
+
+ 
+• Regrinding of the concentrate had a negative effect on Ni flotation in the test 
+
+work, however, it is expected that regrinding (around a P80 of 19 µm) will be 
+required to adequately liberate pentlandite.  This needs further investigation. 
+ 
+
+• The PLATSOL™ test work was limited to a single test on a 100 g sample of 
+bulk concentrate.  Recoveries reported from the work are only "projections" 
+and should be viewed with caution until further work is completed.  Overall 
+PGM recoveries are higher than seen in testing other concentrates. 
+
+ 
+• The production of separate concentrates, a low grade bulk concentrate (6.3% 
+
+Cu, 4.5% Ni) and a reasonably high grade Cu concentrate (28% Cu, 1.0% Ni) 
+at overall recoveries of 95% for copper in the copper concentrate and the bulk 
+concentrate and 61% for nickel in the bulk concentrate, may merit 
+consideration as an alternative processing route. This process route, including 
+only a concentrator without a hydrometallurgical plant, should be further 
+investigated. 
+
+ 
+
+SAMPLES 
+Test work was conducted on a composite sample received on May 3, 2007, 
+
+comprising approximately 225 kg contained in 13 pails from the Nokomis Deposit.  After 
+
+crushing to -6 mesh and blending, a 10 kg sample was set aside for Bond Work Index 
+
+(BWI) testing and another 80 kg sample was crushed to -10 mesh, homogenized and split 
+
+into 2 kg charges for flotation test work.  The 150 kg remainder was stored for future use. 
+
+ 
+
+The composite sample approximates the average grade and mineralogy of the 
+
+Indicated Resource at Nokomis at a 0.7% Cu cut-off grade.  Head analyses of the 
+
+composites from the SGS Lakefield report are shown in Tables 16-1 and 16-2. 
+
+ 
+
+MINERALOGY 
+A QEMSCAN mineralogical study was conducted in conjunction with the test work 
+
+to determine the deportment of copper and nickel mineralization.  A 2 kg sample was 
+
+ground in a ball mill for 25 minutes and classified into four size fractions.  A polished 
+
+section from each fraction was prepared and submitted for QEMSCAN analysis.  A 
+
+significant observation was that a significant portion of the nickel (about 22%) is non-
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 16-3 
+
+sulphide.  The agreement between wet chemical analysis and QEMSCAN analytical 
+
+results was reasonable.   
+
+ 
+
+TABLE 16-1   CHEMICAL ANALYSES – HEAD GRADE 
+Duluth Metals Limited – Nokomis Deposit, Minnesota 
+
+ 
+Element % Element g/t 
+
+Cu 0.77 Au 0.11 
+Ni 0.23 Pt 0.14 
+Fe 8.33 Pd 0.46 
+Co <0.02   
+S 1.46   
+
+ 
+
+TABLE 16-2   WHOLE ROCK ANALYSES – HEAD GRADE 
+Duluth Metals Limited – Nokomis Deposit, Minnesota 
+
+ 
+Compound % Compound % 
+
+SiO2 45.9 TiO2 1.21 
+Al2O3 16.1 P2O5 0.12 
+Fe2O3 14.8 MnO 0.15 
+MgO 8.95 Cr2O3 0.05 
+CaO 7.32 V2O5 0.02 
+Na2O 2.80 LOI 0.58 
+K2O 0.62   
+
+ 
+
+The distribution of chalcopyrite, cubanite and pentlandite increases in the finer 
+
+fractions.  Pyrrhotite distribution remains almost constant in all fractions.  About 80% of 
+
+total copper in the ore is in chalcopyrite and 18% in cubanite.  Pentlandite was the only 
+
+nickel mineral detected. 
+
+ 
+
+GRINDING 
+A sample submitted for Bond ball mill work index determination was found to have a 
+
+BWI of 16.3 kWh/t at a product size of 150 microns. The Nokomis ore is considered 
+
+medium hard. 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 16-4 
+
+FLOTATION 
+The test work program included a series of rougher kinetic flotation tests to evaluate 
+
+the response of the ore to the effect of grind and reagents.  Rougher kinetic tests indicated 
+
+that a primary grind of 100 µm is appropriate for the recovery of Cu and Ni.  Copper 
+
+rougher recovery can reach 95%, but the maximum nickel recovery was only 78%, 
+
+primarily due to the presence of Ni in the unrecoverable silicates.  However, Ni 
+
+recoveries from the sulphide fraction can also reach 95%. SIPX (Sodium Isopropyl 
+
+Xanthate) provided the best recoveries of sulphides and should be used if bulk flotation is 
+
+pursued. 
+
+ 
+
+Three cleaner tests were conducted primarily to assess the rougher concentrate 
+
+regrind P80.  One test was completed with no regrind, one at a P80 of 35 μm and another at 
+
+P80 of 19μm.   Regrinding had a positive effect on copper, with the highest recovery 
+
+attained at a P80 of 19 μm, however, Ni recovery was adversely affected by finer grinding 
+
+resulting in the poorest recovery.  It is theorized that slower flotation kinetics of 
+
+pentlandite is likely due to the finer particle size.   
+
+ 
+
+Additional cleaner tests were conducted with the aim of optimizing conditions ahead 
+
+of locked cycle testing.  Two of the cleaner tests were conducted on 10 kg of feed to 
+
+generate concentrate for downstream work.  Two locked cycle tests were conducted to 
+
+assess the effect of recirculating products on metallurgy and also to generate sufficient 
+
+concentrate for downstream testing and tailing for environmental testing.   
+
+ 
+
+Because the expected process will involve hydrometallurgical treatment of a flotation 
+
+concentrate rather than conventional smelting, the grade of concentrate produced is of 
+
+secondary importance to recovery, provided that the sulphide sulphur level in the 
+
+concentrate is sufficient to maintain a satisfactory heat balance in the autoclave. 
+
+ 
+
+The first locked cycle test, LCT-1, was completed to produce two separate 
+
+concentrates.  The final copper concentrate grade was 28.5% Cu and 1.0% Ni with a 
+
+recovery of 67.3% and 7.4%, respectively (from the last 2 cycles).  A bulk concentrate 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 16-5 
+
+with a concentrate grade of 6.3% Cu and 4.5% Ni at a recovery of 27.3% Cu and 61.1% 
+
+Ni was also produced.  The second locked cycle test, LCT-2, was conducted to produce a 
+
+bulk concentrate only.  The LCT-2 bulk concentrate graded 12.3% Cu and 3.1% Ni with 
+
+a recovery of 95.2% and 72.5%, respectively (from the last 2 cycles). 
+
+ 
+
+The test work indicates that a concentrate comprising about 5% to 6% of the ore 
+
+weight is appropriate.  At this concentration ratio, and subject to more definitive test 
+
+work, expected metal recoveries are 94% to 95% for copper, 69% to 73% for nickel, and 
+
+approximately 73% to 87% for platinum group metals and gold.  
+
+ 
+
+PRESSURE LEACHING 
+A single batch pressure leach test was conducted to establish preliminary metal 
+
+extractions and to confirm general amenability of the Nokomis flotation concentrate to 
+
+the PLATSOL™ process. Batch pressure leach tests are considered adequate to 
+
+demonstrate gold and PGM behaviour under PLATSOL™ conditions, while semi-
+
+continuous test results are better used to establish base metal leach rates. The results 
+
+show that high base metal and PGM extractions can be obtained with the process. 
+
+ 
+
+Tables 16-3 and 16-4 summarize analyses of the flotation concentrate derived from 
+
+cycle flotation tests and used in the pressure leach program. 
+
+ 
+
+TABLE 16-3   CHEMICAL ANALYSES – FLOTATION CONC. 
+Duluth Metals Limited – Nokomis Deposit, Minnesota 
+
+ 
+Element % Element g/t 
+
+Cu 14.6 Au 2.6 
+Ni 3.1 Pt 3.2 
+Fe 24.3 Pd 7.0 
+Co 0.10 Ag 40.8 
+S 24.3   
+
+ 
+
+The following results were obtained: 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 16-6 
+
+TABLE 16-4   PLATSOL™ RESULTS 
+Duluth Metals Limited – Nokomis Deposit, Minnesota 
+
+       
+ Ni Cu Co Pd Pt Au 
+
+PLS* (mg/L) 3,100 16,000 80 0.7 0.3 0.14 
+PLATSOL™ Recovery (%) 99.2 99.6 89.2 98.1 97.6 84.1 
+
+ 
+*PLS – Pregnant Liquor Composition 
+
+ 
+
+FUTURE TEST WORK 
+
+Future test work on Nokomis should include more definitive bench scale flotation test 
+
+work, as well as grindability and other work required for preliminary process design. 
+
+Assuming that the flotation response is generally similar, additional test work will be 
+
+undertaken to obtain more concentrate feed for PLATSOL™ testing.  Data will be 
+
+obtained in order to plan a pilot plant campaign.   
+
+ 
+
+A 38 metric tonne bulk sample of Nokomis mineralization has been collected as feed 
+
+for pilot plant flotation test work to generate concentrate for an integrated PLATSOL™ 
+
+program to prove the process at pilot scale and to generate process design data.  
+
+ 
+
+Environmental test work should also be pursued with the future work and, in 
+
+particular, the possibility of having a separate storage for pyrrhotite tailings.  
+
+ 
+
+MINERAL PROCESSING 
+
+The proposed process for Nokomis involves flotation of a bulk sulphide concentrate 
+
+containing copper, nickel, PGMs and gold and subsequent leaching and recovery of 
+
+metals using the proprietary PLATSOL™ process. The PLATSOL™ process includes 
+
+pressure leaching of concentrate under conditions suitable for simultaneously solubilising 
+
+the base and precious metals. The pressure leach process will be followed by liquid/solid 
+
+separation, recovery of PGMs and gold from the clarified solution by precipitation or 
+
+adsorption, copper and nickel recovery using solvent extraction and electrowinning to 
+
+produce cathode, and precipitation of a cobalt product from a bleed stream. This expected 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 16-7 
+
+general process is illustrated in the following simplified flow sheet (Figure 16-1), and 
+
+may be subject to change as the test work proceeds. The copper and nickel would be a 
+
+direct saleable product, and the cobalt and PGM-gold products will be shipped to 
+
+refineries for processing.     
+
+ 
+
+The PLATSOL™ process has undergone extensive test work at SGS Lakefield, using 
+
+material from PolyMet's NorthMet deposit. However, this process has not been 
+
+commercially demonstrated.  
+
+ 
+
+The predicted metal extractions for Nokomis are shown in Table 16-5. 
+
+ 
+
+TABLE 16-5   NOKOMIS METALLURGICAL RECOVERIES 
+Duluth Metals Limited – Nokomis Deposit, Minnesota 
+
+      
+ Ni 
+
+% 
+Cu 
+% 
+
+Pd 
+% 
+
+Pt 
+% 
+
+Au 
+% 
+
+Concentrator Recovery 72.4 95.3 87.0 86.0 73.0 
+PLATSOL™ Recovery 99.2 99.6 98.1 97.6 84.1 
+
+Total Recovery 71.8 94.9 85.4 83.9 61.3 
+ 
+
+ 
+
+
+
+Ore
+
+Grinding
+
+Flotation
+
+Thickening
+
+PLATSOL
+
+Liquid/Solid Separation
+
+Partial Neutralization
+
+PGM/Au Recovery
+
+Liquid/Solid Separation
+
+Copper SX/EW
+
+To Tailings
+Flotation Tailings
+
+Residue to Tailings
+
+Cathode Nickel to Market
+
+Residue to Tailings
+
+PGM/Au Product to Refinery
+
+Cathode Copper to Market
+
+Nickel SX/EW
+
+Solution Treatment
+
+Solution to Recycle/Tailings
+
+Flotation Concentrate
+
+Cobalt Hydroxide to Refinery
+
+Simplified Process Flow Sheet
+
+Nokomis Project
+
+Duluth Metals Limited
+
+Minnesota, U. S. A.
+
+Figure 16-1
+
+16-8
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 17-1 
+
+ 17 MINERAL RESOURCE AND MINERAL 
+RESERVE ESTIMATES 
+MINERAL RESOURCES 
+
+SUMMARY 
+Scott Wilson RPA has reviewed drilling data (for holes drilled to the end of March, 
+
+2009) for the Nokomis Deposit and has independently estimated Mineral Resources in 
+
+accordance with the requirements of NI 43-101 and the CIM Definition Standards on 
+
+Mineral Resources and Mineral Reserves, as adopted by the CIM Council on December 
+
+11, 2005.  The resource estimate uses data from all relevant drill holes, including the core 
+
+sample assays, down hole surveys and specific gravity data, to generate a model of 
+
+interpolated grades using two different methods: ordinary kriging for base metals and 
+
+inverse distance squared (ID2) for PGE and precious metals. The interpolation routines 
+
+were constrained by the wireframe models for the deposit which were constructed at a 
+
+cut-off grade of 1.0% copper equivalent (CuEq). The CuEq formula is based upon Net 
+
+Smelter Return factors determined for the Preliminary Assessment by Scott Wilson RPA 
+
+(January 18, 2008). 
+
+ 
+
+The Nokomis Deposit is, in part, the down-plunge continuation of the Maturi Deposit 
+
+located on the Franconia Federal Lease. This lease adjoins the DML property on its 
+
+northwest side.  In order to construct a complete grade model for the mineralization the 
+
+historic data from this, and other adjacent properties, was used to create a larger 
+
+wireframe and database.  Unfortunately, many of the historic holes lacked assay values 
+
+for one or more of Co, PGEs, Au or Ag. To overcome this problem, the values for these 
+
+metals were estimated using a regression formula derived from the recent MEX drill 
+
+holes (a more complete set of values is available for Cu, Ni, Co, Au, Ag, and PGEs in the 
+
+DML MEX series of holes). The estimated values were entered by Scott Wilson RPA 
+
+into the resource estimation database.   
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 17-2 
+
+The DML property boundary has been used to clip the wireframe so that the mineral 
+
+resource estimate is only for that portion of the deposit that lies within the DML property 
+
+boundary. The resource estimate is based entirely on diamond drilling and core sample 
+
+assays.  
+
+ 
+
+Indicated and Inferred Resources are shown in Table 17-1; both CuEq and Cu cut-off 
+
+grades are shown. Based on Scott Wilson RPA's review of metal prices, process 
+
+recoveries, refining costs, and underground mine operating costs likely to apply at the 
+
+Nokomis Deposit site, the 1.0% CuEq cut-off grade is reasonable for the statement of 
+
+Indicated and Inferred Resources at this time. 
+
+ 
+
+TABLE 17-1   SUMMARY OF MINERAL RESOURCES AT VARIOUS CUT-OFF 
+GRADES 
+
+Duluth Metals Limited - Nokomis Deposit, Minnesota, As of October 26 2009  
+ Indicated Resources 
+
+Cut-off Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+Grade (000's) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 550,038 0.639 0.200 0.010 0.092 0.176 0.392 0.660 1.51 
+0.5% Cu 482,438 0.666 0.206 0.010 0.098 0.188 0.420 0.706 1.57 
+0.6% Cu 327,847 0.719 0.216 0.011 0.110 0.216 0.482 0.808 1.69 
+0.7% Cu 157,803 0.797 0.231 0.011 0.127 0.256 0.567 0.950 1.87 
+0.8% Cu 59,958 0.886 0.242 0.011 0.149 0.307 0.676 1.132 2.07 
+
+   
+Inferred Resources 
+
+Cut-off Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+Grade (000's) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 273,835 0.632 0.207 0.010 0.091 0.185 0.409 0.685 1.53 
+0.5% Cu 252,000 0.648 0.210 0.010 0.094 0.192 0.424 0.710 1.57 
+0.6% Cu 158,651 0.700 0.218 0.010 0.109 0.227 0.499 0.835 1.69 
+0.7% Cu 63,846 0.785 0.229 0.010 0.131 0.278 0.601 1.010 1.88 
+0.8% Cu 20,275 0.865 0.239 0.010 0.134 0.307 0.657 1.098 2.03 
+
+Notes: 
+1. CIM definitions were followed for Mineral Resource estimation and classification. 
+2. Mineral Resources are estimated at a zone definition (wireframe) cut-off grade of approximately 1.0% Cu 
+
+equivalent grade (CuEq).  
+3. The approximately 1.0% CuEq cut-off grade includes all material in the wireframe zones. 
+4. Bulk density is 3.01 t/m3. 
+5. Resources were estimated to a maximum depth of approximately 1,350 m. 
+6. Copper equivalent (CuEq%) is based on Net Smelter Return Factors as determined for the Preliminary 
+
+Assessment by Scott Wilson RPA dated January 18, 2008.  
+7. Metal Prices used were $1.75/lb copper, $7.00/lb nickel, $10.00/lb Co, $600/oz Au, $1100/oz Pt and 
+
+$350/oz Pd. 
+8. Copper equivalent (CuEq%) = Cu% + 3.03 x Ni% + 0.63 x Co% + 0.30 x Au g/t + 0.76 x Pt g/t + 0.24 x Pd 
+
+g/t based on expected metal prices and process recovery and refining charges. 
+9. TPM is Au g/t + Pt g/t + Pd g/t. 
+10. Co, Au, Pt, Pd grades, that are lacking in historic drill holes, have been entered in the resource database 
+
+based on regression of assay grades from DML drill hole assays. 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 17-3 
+
+DATABASE 
+The resource estimate for the Nokomis Deposit is based on 314 intercepts. Of these, 
+
+242 intercepts are from the MEX-series holes (for a cumulative total of 10,157 m, or 
+
+33,323 ft., including wedges) and 72 intercepts are from historic drill holes (for a 
+
+cumulative total of 4,033 m or 13,232 ft.).  
+
+ 
+
+TABLE 17-2   NOKOMIS DEPOSIT DRILL HOLE INTERCEPTS  
+Duluth Metals Limited – Nokomis Deposit 
+
+ 
+Drill Intercepts Length m (ft) Average m (ft) 
+
+All 14,190 (46,555) 45.19 (148) 
+ 
+
+WIREFRAME MODEL AND CUT-OFF GRADE 
+Two wireframes were created for the Nokomis Deposit using a 1.0% CuEq value over 
+
+a minimum width of 3 m (9.8 ft.): 
+
+ 
+
+1. The Main Nokomis wireframe. The mineralization within this wireframe 
+occurs at or near the footwall of the Duluth Complex and it may locally 
+continue for several metres into the altered, granitic basement rocks. 
+ 
+
+2. A smaller, discrete Footwall Zone of mineralization hosted within granitic 
+rocks of the basement. Continuity of this mineralization is imperfect 
+although grades greater than the cut-off value can be traced between holes 
+in the modelled area. 
+
+ 
+
+The CuEq formula defining the wireframes is based upon Net Smelter Return factors 
+
+determined for the Preliminary Assessment by Scott Wilson RPA (January 18, 2008) 
+
+using such inputs as metal prices, mill and PLATSOLTM leach recoveries and various 
+
+market assumptions.   
+
+ 
+
+The wireframe for the Nokomis Deposit is approximately 6.1 km long and 2.5 km 
+
+wide with its long axis oriented northeast-southwest. The mineralization comes to surface 
+
+just outside the north and northwest sides of the DML property boundary. The deepest 
+
+part of the wireframe is located approximately 1,310 m (4,298 ft.) below surface.  The 
+
+Footwall Zone within the granitic rocks in the central portion of the deposit is 927 m 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 17-4 
+
+(3,041 ft.) long in the northeast-southwest direction and 414 m (1,358 ft.) wide in the 
+
+northwest-southeast direction.  Table 17-2 shows the average thicknesses of the two 
+
+zones. Figures 17-1 and 17-2 are plan and section views respectively of the Nokomis 
+
+Deposit wireframes (the Footwall Zone, in cyan, is beneath the Main Zone, in red).   
+ 
+
+ASSAYS AND ASSAY STATISTICS 
+In most cases, the samples from the historic drill holes (pre-MEX series) were only 
+
+assayed for Cu and Ni. In order to use the historic holes for grade interpolation Scott 
+
+Wilson RPA used the recent drill holes (MEX series) to determine the correlation 
+
+coefficients for all six assayed elements (Ni, Cu, Co, Au, Pt and Pd). The calculated 
+
+linear regression equations for the MEX series data were used to calculate the missing 
+
+entries for Co, Au, Pt and Pd in the historic holes. Compositing and grade interpolation 
+
+routines were then applied to both the calculated values (historic holes) and the 
+
+laboratory determined values (MEX series holes).  The formulae used are: 
+
+ 
+
+ Co = 0.0317Ni% + 0.037 (R2 = 0.5977) 
+
+ Au = 0.1199Cu% + 0.0018 (R2 = 0.5396) 
+
+ Pd = 0.4718Cu% +.0029 (R2 = 0.6814) 
+
+ Pt = 0.43Pd g/t + 0.0024 (R2 = 0.7474) 
+
+ 
+
+Scott Wilson RPA examined descriptive statistics for the assays within the 
+
+wireframes (Table 17-3).  
+
+ 
+
+COMPOSITING 
+To regularize the sample support for grade interpolation the raw assays were 
+
+composited to equal lengths of 3.5 m (11.5 ft.).  This length is longer than 96% of the raw 
+
+assay sample lengths.  Statistics for the composites within the wireframes are shown in 
+
+Table 17-4.  Composites shorter than one metre (3.28 ft.) were omitted from the 
+
+interpolation routine.  A comparison of average grades between the excluded and retained 
+
+composites indicated no grade bias introduced by the exclusion.   
+
+ 
+
+
+
+598,000596,000594,000592,000
+
+Property Boundary
+
+Main Zone
+
+Footwall Zone
+
+5
+,2
+
+9
+2
+,0
+
+0
+0
+
+5
+,2
+
+9
+8
+,0
+
+0
+0
+
+5
+,2
+
+9
+6
+,0
+
+0
+0
+
+5
+,2
+
+9
+4
+,0
+
+0
+0
+
+5
+,2
+
+9
+2
+,0
+
+0
+0
+
+5
+,2
+
+9
+8
+,0
+
+0
+0
+
+5
+,2
+
+9
+6
+,0
+
+0
+0
+
+5
+,2
+
+9
+4
+,0
+
+0
+0
+
+598,000596,000594,000592,000
+
+0
+
+0
+
+500
+
+0.25
+
+Metres
+
+Miles
+
+1000
+
+0.5
+
+1500
+
+0.75
+
+2000
+
+1.0
+
+N
+
+Nokomis Project
+
+Plan View of the Resource
+
+Estimation Wireframes
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 17-1
+
+17-5
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+-400
+
+-600
+
+0
+
+600
+
+6
+0
+0
+
+1
+0
+0
+0
+
+1
+4
+0
+0
+
+1
+8
+0
+0
+
+2
+0
+0
+0
+
+200
+
+400
+
+-200
+1
+2
+0
+0
+
+1
+6
+0
+0
+
+-400
+
+-600
+
+0
+
+600
+
+200
+
+400
+
+-200
+
+8
+0
+0
+
+6
+0
+0
+
+1
+0
+0
+0
+
+1
+4
+0
+0
+
+1
+8
+0
+0
+
+2
+0
+0
+0
+
+1
+2
+0
+0
+
+1
+6
+0
+0
+
+8
+0
+0
+
+Looking Northeast
+
+0 100
+
+Metres
+
+200 300 400
+
+Nokomis Project
+
+Composite Cross Section of the
+
+Resource Estimation Wireframes
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 17-2
+
+17-6
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 17-7 
+
+ 
+TABLE 17-3   STATISTICS FOR ASSAYS WITHIN THE RESOURCE 
+
+WIREFRAMES 
+Duluth Metals Limited - Nokomis Deposit, Minnesota 
+
+ 
+
+ 
+Cu% Ni% Co% Au g/t Pt g/t Pd g/t Ag g/t CuEq% 
+
+Main Zone 
+        Mean 0.604 0.194 0.010 0.080 0.147 0.329 2.140 1.413 
+
+Standard Error 0.003 0.001 0.000 0.001 0.001 0.003 0.015 0.008 
+Median 0.580 0.184 0.010 0.063 0.115 0.263 2.000 1.335 
+Mode 0.540 0.190 0.010 0.045 0.064 0.233 0.250 0.000 
+Standard Deviation 0.310 0.102 0.004 0.087 0.134 0.257 1.401 0.710 
+Sample Variance 0.096 0.010 0.000 0.008 0.018 0.066 1.962 0.504 
+Kurtosis 61.327 47.538 66.046 249.629 62.974 14.674 152.539 24.679 
+Skewness 3.822 3.985 4.239 11.671 5.209 2.790 7.456 2.543 
+Range 8.020 2.180 0.090 2.870 3.070 3.600 44.300 13.159 
+Minimum 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 
+Maximum 8.020 2.180 0.090 2.870 3.070 3.600 44.300 13.159 
+Sum 5173 1665 89 682 1262 2820 18339 12114 
+Count 8571 8571 8571 8571 8571 8571 8571 8571 
+Confidence Level (95.0%) 0.007 0.002 0.000 0.002 0.003 0.005 0.030 0.015 
+
+         
+ 
+
+Cu% Ni% Co% Au g/t Pt g/t Pd g/t Ag g/t CuEq% 
+Footwall Zone 
+
+        Mean 0.579 0.274 0.007 0.080 0.148 0.341 1.980 1.632 
+Standard Error 0.030 0.023 0.001 0.008 0.006 0.014 0.283 0.092 
+Median 0.550 0.194 0.004 0.067 0.145 0.334 1.600 1.427 
+Mode 0.000 0.000 0.000 0.000 0.000 0.000 0.250 0.000 
+Standard Deviation 0.404 0.302 0.010 0.107 0.079 0.187 3.762 1.225 
+Sample Variance 0.163 0.091 0.000 0.011 0.006 0.035 14.152 1.502 
+Kurtosis 45.621 11.164 11.357 110.507 -0.019 3.323 110.106 7.098 
+Skewness 4.913 3.044 3.175 9.515 0.254 0.845 9.712 2.236 
+Range 4.420 2.070 0.064 1.335 0.365 1.305 46.100 8.079 
+Minimum 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 
+Maximum 4.420 2.070 0.064 1.335 0.365 1.305 46.100 8.079 
+Sum 102.497 48.509 1.268 14.130 26.220 60.385 350.492 288.936 
+Count 177 177 177 177 177 177 177 177 
+Confidence Level (95.0%) 0.060 0.045 0.001 0.016 0.012 0.028 0.558 0.182 
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 17-8 
+
+TABLE 17-4   STATISTICS FOR COMPOSITES WITHIN THE RESOURCE 
+WIREFRAMES 
+
+Duluth Metals Limited - Nokomis Deposit, Minnesota 
+ 
+
+ 
+Cu% Ni% Co% Au g/t Pt g/t Pd g/t Ag g/t CuEq% 
+
+Main Zone 
+        Mean 0.588 0.191 0.010 0.077 0.142 0.319 2.083 1.179 
+
+Standard Error 0.004 0.001 0.000 0.001 0.002 0.003 0.015 0.008 
+Median 0.577 0.184 0.010 0.065 0.115 0.259 2.007 1.124 
+Mode 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 
+Standard Deviation 0.244 0.082 0.003 0.062 0.108 0.221 1.007 0.504 
+Sample Variance 0.059 0.007 0.000 0.004 0.012 0.049 1.014 0.254 
+Kurtosis 4.870 7.634 11.792 73.316 16.915 8.509 16.732 2.549 
+Skewness 0.730 1.334 0.932 6.122 3.016 2.261 2.130 0.831 
+Range 3.218 0.990 0.047 1.276 1.499 2.497 15.444 4.991 
+Minimum 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 
+Maximum 3.218 0.990 0.047 1.276 1.499 2.497 15.444 4.991 
+Sum 2494.982 811.936 43.237 326.973 603.042 1350.637 8833.225 4998.807 
+Count 4240 4240 4240 4240 4240 4240 4240 4240 
+Confidence (95.0%) 0.007 0.002 0.000 0.002 0.003 0.007 0.030 0.015 
+
+         
+ 
+
+Cu% Ni% Co% Au g/t Pt g/t Pd g/t Ag g/t CuEq% 
+Footwall Zone 
+
+        Mean 0.552 0.245 0.007 0.082 0.138 0.320 1.934 1.165 
+Standard Error 0.047 0.023 0.001 0.013 0.008 0.019 0.258 0.085 
+Median 0.551 0.191 0.004 0.070 0.144 0.327 1.498 1.068 
+Mode 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 
+Standard Deviation 0.472 0.232 0.008 0.134 0.078 0.193 2.582 0.850 
+Sample Variance 0.223 0.054 0.000 0.018 0.006 0.037 6.668 0.723 
+Kurtosis 45.657 6.259 7.440 79.766 -0.161 5.873 27.944 6.519 
+Skewness 5.507 2.207 2.494 8.472 -0.080 1.043 4.828 1.866 
+Range 4.419 1.317 0.045 1.335 0.349 1.305 17.895 5.224 
+Minimum 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 
+Maximum 4.419 1.317 0.045 1.335 0.349 1.305 17.895 5.224 
+Sum 55.201 24.503 0.652 8.159 13.837 31.954 193.449 116.453 
+Count 100 100 100 100 100 100 100 100 
+Confidence (95.0%) 0.094 0.046 0.002 0.027 0.015 0.038 0.512 0.169 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 17-9 
+
+GRADE CAPPING 
+Scott Wilson RPA examined histograms and cumulative frequency plots for Cu and 
+
+Ni assay grades within the wireframes to determine if any outliers should be capped. 
+
+Both copper and nickel show almost normal distributions (slight positive skew) with a 
+
+few values above 3% for copper (<0.12% of the assays) and 1.0% for nickel (<0.25% of 
+
+the assays). Scott Wilson RPA elected to leave these few values uncapped (Figure 17-3). 
+
+An analysis of the average grades for Cu and Ni in the uncapped and capped datasets 
+
+found negligible impact.  
+
+ 
+
+BULK DENSITY 
+DML measured 15 cm (0.5 ft.) lengths of mostly split core for their specific gravity 
+
+(SG). Samples were routinely taken at 1.52 m to 3.05 m (5 ft. to 10 ft.) intervals down the 
+
+hole in the MEX series holes to provide a database of 2,789 tests.  SG determinations 
+
+were done by water displacement in a graduated cylinder.  Scott Wilson RPA correlated 
+
+the mineralized host rock types with SGs to arrive at a length-weighted average SG of 
+
+3.01 for the mineralized zone.  A bulk density of 3.01 t/m3 was used for volume 
+
+conversion to tonnage for the resource estimate. 
+
+ 
+
+BLOCK MODEL 
+A 3D block model was created for the Nokomis Deposit using 50 m by 50 m by 10 m 
+
+blocks (164 ft. by 164 ft. by 33 ft.).  Model specifications are shown below.   
+
+ 
+
+ 
+
+
+
+December 2009
+
+Nokomis Project
+
+Histograms of Cu and Ni
+
+Analyses in the Nokomis Deposit
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 17-3
+
+17-10
+
+SCOTT WILSON RPA www.scottwilson.com
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 17-11 
+
+For this update, the block model was expanded to accommodate the new Main Zone 
+
+wireframe that was created to include data from the latest drilling programs.  The model, 
+
+which is not rotated because the drill grid is oriented north-south, contains 1,725,000 
+
+blocks for a volume of 43,125 million m3 (887,568 ft3). The block model carries the 
+
+following attributes:  rock/ore type, bulk density, Cu, Ni, Co, Au, Pt, Pd and Ag.   
+
+ 
+
+For volumetric control within the wireframes, the GEMS 6.1.4 software estimates the 
+
+percentage of any resource block that falls inside and outside the wireframe.  This 
+
+contrasts with other mining software that use smaller blocks (sub-blocks or sub-cells) to 
+
+improve the precision of the wireframe volume estimate.  
+
+ 
+
+VARIOGRAPHY 
+Down-hole linear semi-variogram composite grades were used to determine the 
+
+nugget (C0) for 3D variography.  Scott Wilson RPA constructed semi-variograms for 
+
+strike, dip, and thickness directions for Cu and Ni for this estimate using the updated 
+
+dataset.  Results of the variography are shown below:  
+
+ 
+Copper       
+
+Axis Orientation Co C1 Range (m) C2 Range (m) 
+Strike 052ºAz./0º 0.33 0.34 49 0.33 268 
+Dip 142ºAz./-20º 0.33 0.34 64 0.33 337 
+Thickness 322ºAz./-70º 0.33 0.05 33 0.62 39 
+
+ 
+Nickel       
+Axis Orientation Co C1 Range (m) C2 Range (m) 
+
+Strike 052ºAz./0º 0.33 0.29 53 0.38 189 
+Dip 142ºAz./-20º 0.33 0.29 96 0.38 347 
+Thickness 322ºAz./-70º 0.33 0.15 14 0.51 46 
+
+ 
+
+The variograms for both copper and nickel are shown in Appendix A. The difference 
+
+in C1 ranges between this report and that of Routledge (2008) is believed to reflect the 
+
+influence of closer-spaced samples from the multiple wedge-cuts in the metallurgical 
+
+holes. In addition, this report uses a larger data set within a larger wireframe which will 
+
+create differences in the variogram outputs. 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 17-12 
+
+INTERPOLATION 
+Scott Wilson RPA used ordinary kriging (OK) for Ni and Cu grade interpolation with 
+
+kriging profiles developed from the Ni and Cu variograms.  Inverse distance squared 
+
+(ID2) interpolation was used for Au, Pt, Pd and Ag, using Cu variogram range search 
+
+distances. Cobalt was interpolated using the Ni OK and search parameters.  Anisotropic 
+
+(ellipse) search distances were established from the copper and nickel variography.   
+
+ 
+
+For OK and ID2, a minimum of four composites and a maximum of 12 composites 
+
+were used to populate the blocks during Pass 1. To assign grades to all blocks in the 
+
+wireframes, Scott Wilson RPA employed second and third interpolation passes with 
+
+expanded searches.  For Pass 2, a minimum of two composites was used while Pass 3 
+
+used a minimum of one composite. In both cases (Passes 2 and 3), the maximum number 
+
+of composites was 12.  Search distance parameters are: 
+
+ 
+ Maximum Search Range (m) 
+
+Interpolation Pass 1 2* 3* 
+Copper 
+
+Strike 134 268 1,072 
+Dip 169 337 1,352 
+Thickness 20 39 160 
+
+ 
+Nickel 
+
+Strike 95 189 1,072 
+Dip 174 347 1,352 
+Thickness 23 46 160 
+
+ 
+  * Expanded searches to fill wireframe  
+
+ 
+
+Figures 17-4 to 17-7 illustrate cross sections and plans of the block model.  
+
+
+
+-200
+
+-600
+
+0
+
+400
+
+8
+0
+0
+
+1
+2
+0
+0
+
+2
+0
+0
+0
+
+2
+2
+0
+0
+
+1
+8
+0
+0
+
+1
+6
+0
+0
+
+1
+4
+0
+0
+
+1
+0
+0
+0
+
+6
+0
+0
+
+200
+
+-400
+
+-200
+
+0
+
+400
+
+200
+
+-400
+
+0 100
+
+Metres
+
+200 300 400
+
+December 2009
+
+Nokomis Project
+
+Block Model
+
+Cross Section 594600E
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 17-4
+
+S
+C
+
+O
+T
+
+T
+W
+
+I
+L
+
+S
+O
+
+N
+ R
+
+P
+A
+
+1
+7
+-
+13
+
+w
+w
+
+w
+.sc
+
+o
+ttw
+
+ilso
+n
+
+.c
+o
+m
+
+
+
+-1000
+
+-5
+0
+0
+
+0 50
+0
+
+1
+0
+0
+0
+
+1
+5
+0
+0
+
+-500
+
+0
+
+500
+
+-500
+
+0
+
+500
+
+0 100 500
+
+Metres
+
+200 300 400
+
+December 2009
+
+Nokomis Project
+
+Block Model
+
+Cross Section 596800E
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 17-5
+
+S
+C
+
+O
+T
+
+T
+W
+
+I
+L
+
+S
+O
+
+N
+ R
+
+P
+A
+
+1
+7
+-
+14
+
+w
+w
+
+w
+.sc
+
+o
+ttw
+
+ilso
+n
+
+.c
+o
+m
+
+
+
+5297000
+
+5
+9
+7
+0
+0
+0
+
+5
+9
+5
+0
+0
+0
+
+5
+9
+6
+0
+0
+0
+
+5
+9
+4
+0
+0
+0
+
+5
+9
+3
+0
+0
+0
+
+5294000
+
+5295000
+
+5296000
+
+5
+9
+8
+0
+0
+0
+
+5297000
+
+5295000
+
+5296000
+
+5294000
+
+0 200 1000
+
+Metres
+
+400 600 800
+
+N
+
+December 2009
+
+Nokomis Project
+
+Block Model Plan
+
+-350 Elevation
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 17-6
+
+S
+C
+
+O
+T
+
+T
+W
+
+I
+L
+
+S
+O
+
+N
+ R
+
+P
+A
+
+1
+7
+-
+15
+
+w
+w
+
+w
+.sc
+
+o
+ttw
+
+ilso
+n
+
+.c
+o
+m
+
+
+
+5297000
+
+5
+9
+7
+0
+0
+0
+
+5
+9
+5
+0
+0
+0
+
+5
+9
+6
+0
+0
+0
+
+5
+9
+4
+0
+0
+0
+
+5
+9
+3
+0
+0
+0
+
+5294000
+
+5295000
+
+5296000
+
+5
+9
+8
+0
+0
+0
+
+5297000
+
+5295000
+
+5296000
+
+5294000
+
+0 200 1000
+
+Metres
+
+400 600 800
+
+N
+
+December 2009
+
+Nokomis Project
+
+Block Model Plan
+
+-550 Elevation
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 17-7
+
+S
+C
+
+O
+T
+
+T
+W
+
+I
+L
+
+S
+O
+
+N
+ R
+
+P
+A
+
+1
+7
+-16
+
+w
+w
+
+w
+.sc
+
+o
+ttw
+
+ilso
+n
+
+.c
+o
+m
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 17-17 
+
+RESOURCE REPORTING AND CLASSIFICATION 
+Resource blocks within the wireframe were only counted if they fell within the DML 
+
+property boundaries (magenta lines in Figure 17-8).  
+
+ 
+
+Scott Wilson RPA classifies the resources in the Nokomis Deposit as Indicated or 
+
+Inferred Mineral Resources using CIM definitions. For Nokomis, Indicated Resources are 
+
+blocks lying within 100 m (328 ft.) of a composite value while Inferred Resources are 
+
+blocks where the nearest composite value is greater than 100 m (328 ft.).  This distance is 
+
+approximately two-thirds of the variogram distance. A region of contiguous blocks 
+
+(shown as a brown line in Figure 17-8) was selected and reported as Indicated Resources 
+
+within the DML property boundary. Any other resource blocks within the property 
+
+boundary were classified as Inferred Mineral Resources.   
+
+ 
+
+MODEL VALIDATION 
+The grade interpolation results were validated by: 
+
+• On-screen checks to ensure that the interpolated block grades, within reason, 
+match the local composite values. 
+
+• Comparison of average assay, composites and block grades (Table 17-5).  
+
+• A numerical comparison of the copper grades (Indicated) for OK with the 
+results for interpolation by inverse distance squared (ID2) and Nearest 
+Neighbour (NN).   
+
+• A review of the spatial distribution of Indicated Resource blocks at 
+incremental cut-off grades to verify that the resource remains reasonably 
+continuous at increasing copper cut-offs.  
+
+ 
+
+The block grades compare reasonably well to both the assay and composite values when 
+
+all three data types are viewed together on screen.  The decrease in average grades from 
+
+assays to composites is expected (Table 17-5) but the increase in average block grade (by 
+
+6% from the composites) suggests minor grade smearing of some higher values (even 
+
+though the grade range, variance and coefficient of variation have all decreased).   Grade 
+
+differences between the interpolation methods were less than 1% which tends to support 
+
+the veracity of the OK model.  Finally, resource blocks in the zones are reasonably 
+
+continuous at copper cut-offs up to 0.8%.  
+
+
+
+5
+9
+8
+0
+0
+0
+
+5
+9
+6
+0
+0
+0
+
+5
+9
+4
+0
+0
+0
+
+5
+9
+2
+0
+0
+0
+
+5294000
+
+Contiguous blocks
+defined as
+
+Indicated Resources
+
+Property Boundary
+
+Green blocks are
+within 100m of a
+composite value
+
+5296000
+
+5294000
+
+5296000
+
+0
+
+0
+
+500
+
+0.25
+
+Metres
+
+Miles
+
+1000
+
+0.5
+
+1500
+
+0.75
+
+2000
+
+1.0
+
+N
+
+December 2009
+
+Nokomis Project
+
+Indicated Resources
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 17-8
+
+S
+C
+
+O
+T
+
+T
+W
+
+I
+L
+
+S
+O
+
+N
+ R
+
+P
+A
+
+1
+7
+-
+18
+
+w
+w
+
+w
+.sc
+
+o
+ttw
+
+ilso
+n
+
+.c
+o
+m
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 17-19 
+
+ 
+
+TABLE 17-5   GRADE COMPARISONS FOR ASSAYS, COMPOSITES 
+AND RESOURCE BLOCKS  
+
+Duluth Metals Limited - Nokomis Deposit, Main Zone Minnesota 
+ 
+
+Assays 
+Statistic Cu% Ni% Co% Au g/t) Pt g/t) Pd g/t) 
+
+Count 8,571 8,571 8,571 8,571 8,571 8,571 
+Minimum 0 0 0 0 0 0 
+Maximum 8.020 2.180 0.090 2.870 3.070 3.600 
+Average 0.604 0.194 0.010 0.080 0.147 0.329 
+Variance 0.096 0.010 0.000 0.008 0.018 0.066 
+Standard Deviation 0.310 0.102 0.004 0.087 0.134 0.257 
+Coefficient of Variation 0.513 0.526 0.400 1.087 0.912 0.781 
+
+       
+3.5 m Composites 
+
+Statistic Cu% Ni% Co% Au g/t Pt g/t Pd g/t 
+Count 4,240 4,240 4,240 4,240 4,240 4,240 
+Minimum(1) 0 0 0 0 0 0 
+Maximum 3.218 0.990 0.047 1.276 1.499 2.497 
+Average 0.588 0.191 0.010 0.077 0.142 0.319 
+Variance 0.059 0.007 0.000 0.004 0.012 0.049 
+Standard Deviation 0.244 0.082 0.003 0.062 0.108 0.221 
+Coefficient of Variation 0.415 0.429 0.300 0.805 0.761 0.693 
+Notes:       
+(1) Includes composites <1 m that were omitted from grade interpolation 
+       
+
+Resource Blocks 
+Statistic Cu% Ni% Co% Au g/t Pt g/t Pd g/t 
+
+Count 36,727 36,727 36,727 36,727 36,727 36,727 
+Minimum 0.186 0.059 0.005 0.015 0.023 0.051 
+Maximum 1.643 0.477 0.034 1.017 0.779 1.622 
+Average 0.624 0.209 0.010 0.085 0.163 0.361 
+Variance 0.014 0.002 0.000 0.002 0.007 0.031 
+Standard Deviation 0.119 0.045 0.002 0.040 0.085 0.177 
+Coefficient of Variation 0.191 0.215 0.200 0.471 0.521 0.490 
+ 
+
+HIGHER-GRADE AREAS 
+Six discrete higher-grade areas have been defined within the Nokomis deposit 
+
+wireframe. These sub-sets of the global resource are described further in Appendix B. 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 17-20 
+
+MINERAL RESERVES 
+
+No pre-feasibility or feasibility studies have been carried out for the Nokomis Deposit 
+
+and, consequently, there are no Mineral Reserves estimates at the present time.  
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 18-1 
+
+ 18 OTHER RELEVANT DATA AND 
+INFORMATION 
+
+Scott Wilson RPA is not aware of any other relevant data and information on the 
+
+Nokomis Property other than that described and discussed in this report. 
+
+ 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 19-1 
+
+ 19 INTERPRETATION AND CONCLUSIONS 
+Scott Wilson RPA has independently estimated both Indicated and Inferred Mineral 
+
+Resources for the Nokomis Deposit using 3D block modelling and grade interpolation by 
+
+ordinary kriging and inverse distance squared.  The depth, tonnes and grade profile for 
+
+this deposit suggest that bulk underground mining should be the preferred method of 
+
+exploitation.   
+
+ 
+
+The Nokomis Deposit is located within DML's Nokomis Property within which the 
+
+2006-2009 diamond drilling has been conducted.  The Cu-Ni-Co-Au-PGE bearing 
+
+mineralization extends up-dip (off the property) and up-plunge to the west and northwest 
+
+and is more or less continuous with the mineralization known as the Maturi Deposit.  
+
+ 
+
+The wider-spaced drilling pattern from previous years was reduced by in-fill drilling 
+
+in 2007, 2008 and 2009. As shown in this report, the closer-spaced drilling has created a 
+
+larger Indicated Resource category for the Nokomis Deposit when compared to the 2007 
+
+and 2008 estimates. In fact, the majority of the 2007-2009 drill holes are located within 
+
+the Indicated Resource domain. The Nokomis Deposit remains open down-dip and along 
+
+strike, where there is the real potential for additional resources. As well, within the 
+
+mineralized envelope, copper and nickel display good grade continuity over significant 
+
+distances and there is the opportunity to expand the poorly-tested footwall mineralization 
+
+through additional drilling. 
+
+ 
+
+The resource estimate is based entirely on diamond drilling and core assaying from 
+
+both DML and previous explorers. Scott Wilson RPA has checked DML's drilling and 
+
+assaying methodology and notes that it has been carried out to current industry standards.  
+
+Scott Wilson RPA was unable to verify the methodology of the previous explorers but 
+
+notes that the Indicated Resource (higher-confidence) is defined mostly by DML's recent 
+
+MEX series holes which have verifiable data. The estimate does use some of the historic 
+
+drill holes that are known to have less reliable down-hole surveys and generally lack 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 19-2 
+
+cobalt, gold and PGE assays. In general, these historic holes are located within the 
+
+Inferred Resources category.   
+
+ 
+
+ In order to use the pre-DML holes, the missing cobalt, gold and PGE grades were 
+
+estimated as "calculated values" derived from a regression analysis of the more complete 
+
+DML assays. This permits interpolation of grades into those resource blocks that extend 
+
+across the north and west property boundaries. Because of the uncertainties attached to 
+
+these historic holes the resource classification for these blocks is lower than that for 
+
+blocks using the MEX series drilling data. Even with these minor uncertainties, Scott 
+
+Wilson RPA believes that the database is suitable for resource and reserve estimation. 
+
+ 
+
+The resources on the Nokomis Property were reported by clipping the resource block 
+
+model at the property boundary. Property boundaries follow the State Public Land 
+
+System and, for the most part, are not evident on the ground, although a Township survey 
+
+marker has been located.  Going forward with exploration and potential development, a 
+
+boundary survey will be necessary.  Since the Nokomis Deposit is, in part, continuous 
+
+down dip from the Maturi Deposit located on Franconia's land to the west and northwest, 
+
+accurate positioning of the boundary is necessary to delineate resources on the respective 
+
+properties.   
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 20-1 
+
+ 20 RECOMMENDATIONS 
+This Scott Wilson RPA Resource Estimate Update indicates that the Nokomis 
+
+Deposit merits further work, much of which was recommended in the last Preliminary 
+
+Assessment (January 2009).  Areas of concentration include: 
+
+ 
+
+1. Upgrade drilling to benefit mine development planning, provide additional 
+metallurgical samples, and provide samples for waste rock characterization.  
+
+ 
+2. Continue environmental baseline data collection, scoping, modelling, sampling, 
+
+and inventory, and continue to focus on the requirements needed for permitting.  
+ 
+3. Undertake rock mechanic and mine planning studies. 
+ 
+4. Continue flotation and hydrometallurgical test work and conduct pilot plant 
+
+operations to confirm recoveries, to allow the development of detailed process 
+design criteria, and to demonstrate product purity samples. 
+
+ 
+5. Tailings chemistry and disposal should be evaluated, including options for paste 
+
+backfill.   
+ 
+6. Initiate the Pre-Feasibility stage of assessment. 
+ 
+
+RECOMMENDED PROGRAM AND BUDGET 
+DML has already initiated all of the recommendations set out in the Preliminary 
+
+Assessment and is in various stages of completion of those activities. Approximately 38 
+
+metric tonnes of metallurgical bulk sample has been collected by a large diameter PQ 
+
+drill program.  This core is currently securely stored at Ely, Minnesota, in sealed drums 
+
+purged with nitrogen. 
+
+ 
+
+A recommended program and budget for the continuation of these activities through 
+
+to the end of 2010 is shown in Table 20-1. 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 20-2 
+
+TABLE 20-1   RECOMMENDED PROGRAM AND BUDGET 
+Duluth Metals Limited – Nokomis Deposit, Minnesota 
+
+ 
+Category Amount, $ 
+
+Boundary Survey 40,000 
+Continued and upgraded drilling (NQ & PQ) 8,000,000 
+Geologic Studies 300,000 
+Mining Services, Planning & Studies 1,500,000 
+Metallurgical Testing 3,000,000 
+Environmental (Review Baseline & Scoping Studies) 4,000,000 
+Pre-feasibility and Other Consulting Studies 3,000,000 
+Sub-Total 19,840,000 
+Working Capital, Overhead and Administration 6,000,000 
+Total 25,840,000 
+
+ 
+
+ 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 21-1 
+
+ 21 REFERENCES 
+Cargill, D. George (2005a): Technical report on the Maturi Extension property, 
+
+Minnesota, U.S.A. prepared for Wallbridge Mining Company.  SEDAR published NI 
+43-101 technical report by Roscoe Postle Associates Inc., December 30, 2005, 90 p. 
+
+ 
+Cargill, D. George (2005b): Maturi Extension property, Minnesota U.S.A. valuation 
+
+report.  Unpublished report prepared by Roscoe Postle Associates Inc. for Wallbridge 
+Mining Company, June 20, 2005, 38 p. 
+
+ 
+Clow, Graham G., Hwozdyk, Leo R., Routledge, Richard E., McCombe, Deborah A. and 
+
+Scott, Kevin C. (2008): Technical report on the preliminary assessment on the 
+Nokomis Project, Minnesota, U.S.A. prepared for Duluth Metals Limited.  SEDAR 
+published NI 43-101 technical report by Scott Wilson Roscoe Postle Associates Inc., 
+January 8, 2008, 184 p.  
+
+ 
+Clow, Graham G., Cox, Jason J., Routledge, Richard E. and Hayden, Alfred S. (2006): 
+
+Technical report on the preliminary assessment of the Birch Lake and Maturi 
+Deposits, Minnesota, U.S.A. prepared for Franconia Minerals Corporation.  SEDAR 
+published NI 43-101 technical report by Scott Wilson Roscoe Postle Associates Inc., 
+October 20, 2006, 175 p.  
+
+ 
+Clow, Graham G. and Routledge, Richard E. (2005): Preliminary assessment of the 
+
+mineral resources of the Birch Lake property prepared for Franconia Minerals 
+Corporation.  SEDAR published NI 43-101 technical report by Roscoe Postle 
+Associates Inc., November 19, 2005, 90 p.  
+
+ 
+Cole, S., et al. (2000): An investigation of the recovery of copper and nickel from Duluth 
+
+Complex ore samples:  Unpublished Report by Lakefield Research for Wallbridge 
+Mining Company Ltd. 
+
+ 
+Cox, J.J., Routledge, R.E. and Krutzelmann, H. (2009):  Preliminary assessment of the 
+
+Nokomis Project, Minnesota, U.S.A. Prepared for Duluth Metals Limited.  Scott 
+Wilson Roscoe Postle Associates Inc. NI 43-101 Technical Report, January 08, 2009. 
+
+ 
+Ferron, C. J., Flemming, C. A., O'Kane, P. T. and Dreisinger, D. (2002): Pilot plant 
+
+demonstration of the PLATSOLTM process for the treatment of the NorthMet copper-
+nickel-PGM Deposit. Mining Engineering Vol. 54, No. 12, December 2002, p.33-39. 
+
+ 
+Lorass, Paul (2007): Re: Land description and Duluth Metals, Inc. holding.  Unpublished 
+
+letter by Fryberger, Buchanan, Smith & Frederick, P.A. 
+ 
+Grammatikopoulos, T. (2000): Mineralogical examination of one head sample:  
+
+Unpublished Report by Lakefield Research for Wallbridge Mining Company Ltd. 
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 21-2 
+
+Independent Mining Consultants, Inc. (2001): NorthMet Project, Minnesota pre-
+feasibility study Volume 1 project summary prepared for PolyMet Mining 
+Corporation. Published SEDAR technical report, April 2001, 222 p.  
+
+ 
+Jones, David and Moore, Rachel (2002): CESL process: application to a bulk copper 
+
+nickel concentrate.  Paper published at ALTA 202 COPPER-7 Technical 
+Proceedings, Perth, Australia, May 2002, 15 p. 
+
+ 
+Miller, J. D., Green, J. C., Severson, M.J., Chandler, V.W., and Peterson, D.M. (2001): 
+
+Geologic map or the Duluth Complex and related rocks, Northeastern Minnesota:  
+Minnesota Geological Survey, Map M-119 Two Sheets.  
+
+ 
+Miller, J. D., Severson, M.J., and Hauck, S. A. (2002): History of geologic mapping and 
+
+mineral exploration in the Duluth Complex, pp. 21-51:  in Geology and Mineral 
+Potential of the Duluth Complex and Related Rocks of Northeastern Minnesota; 
+Report of Investigations 58, Minnesota Geological Survey, University of Minnesota. 
+
+ 
+Patelke, Richard (2003): Exploration drill hole lithology, geologic unit, copper-nickel 
+
+assay and location database for the Keweenawan Duluth Complex, northeastern 
+Minnesota.  Natural Resources Research Institute, University of Minnesota Duluth 
+Technical Report NRRI/TR-2003/21; 107 p. and digital database files.  
+
+ 
+Peterson, D. M. (2002): Three dimensional views of the basal surface of the Partridge 
+
+River intrusion. 
+ 
+Peterson, D. M. (1997): Ore deposit modeling and mineral exploration criteria for 
+
+footwall copper-platinum group element mineralization in the Duluth Complex:  
+Project 317, Minnesota Department of Natural Resources, Division of Minerals, 36 p. 
+
+ 
+Peterson, D. M. (2001a): Copper-nickel-PGE mineral potential of the eastward extension 
+
+of the Maturi Cu-Ni Deposit, Duluth Complex.  Unpublished ROI NRRI/RI-
+20001/02, Natural Resource Research Institute, 29 p. 
+
+ 
+Peterson, D. M. (2001b): Development of a conceptual model of Cu-Ni-PGE 
+
+mineralization in a portion of the South Kawishiwi intrusion, Duluth Complex, 
+Minnesota:  SEG, Second annual PGE Workshop, Sudbury Ontario. 
+
+ 
+Peterson, D. M. (2002): 3D View through a Mineralized System, the S. Kawishiwi 
+
+Intrusion, Duluth Complex: NRRI, U of Minnesota, Duluth. 
+ 
+Peterson, D. M. (2002): Shaded relief map of the basal contact surface of the South 
+
+Kawishiwi intrusion, Duluth Complex, northeastern Minnesota:  Minnesota Natural 
+Resources Research Institute, University of Minnesota, Duluth. 
+
+ 
+Peterson, D. M. (2004): Development of a conceptual model of Cu-Ni-PGE 
+
+mineralization in a portion of the South Kawishiwi Intrusion:  Unpublished Power 
+Point presentation. 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 21-3 
+
+Peterson, D. M., Marma, J. and Brown, P. (2002):  Bedrock geology, sample location, 
+property position maps of the West Birch Lake Area, Lake and St Louis Co. 
+NRRI/MAP 2002/02. 
+
+ 
+Peterson, D. M., Patelke, R. L. and Severson, M. J. (2004): Bedrock geology map and 
+
+Cu-Ni mineralization data for the basal contact of the Duluth Complex west of Birch 
+Lake:  NRRI/MAP 2004-02 
+
+ 
+Routledge, Richard E. (2008): Technical Report on the resource estimate for the Nokomis 
+
+deposit on the Maturi Extension properties, Minnesota, U.S.A. Roscoe Postle 
+Associates Inc. NI 43-101 technical report, July 18, 2008.  
+
+ 
+Routledge, Richard E. (2007):  Technical Report on the Resource Estimate for the 
+
+Nokomis Deposit on the Maturi Extension Properties, Minnesota, U.S.A. Prepared for 
+Duluth Metals Limited.  Scott Wilson Roscoe Postle Associates Inc. NI 43-101 
+technical report filed on SEDAR, August 8, 2007, 112 p.  
+
+ 
+Routledge, Richard E. (2006): Technical report on the Maturi Extension property, 
+
+Minnesota, USA prepared for Duluth Metals Limited. Roscoe Postle Associates Inc. 
+NI 43-101 technical report filed on SEDAR, May 31, 2006, 69 p.  
+
+ 
+Routledge, Richard E. (2004): Review of the mineral resources of the Birch Lake 
+
+Property, Minnesota, U.S.A. prepared for Franconia Minerals Corporation.  Roscoe 
+Postle Associates Inc. NI 43-101 technical report filed on SEDAR, January 22, 2004, 
+92 p.  
+
+ 
+Severson, M.J., Miller, J. D., Peterson, D. M., Green, J.C., and Hauck, S. A. (2002): 
+
+Mineral potential of the Duluth Complex and related intrusions, pp. 21-51:  in 
+Geology and Mineral Potential of the Duluth Complex and Related Rocks of 
+Northeastern Minnesota.  Report of Investigations 58, Minnesota Geological Survey, 
+University of Minnesota. 
+
+ 
+Soever, A. (2002): Overview of the Maturi Extension Project. Unpublished report for 
+
+Wallbridge, Mining Company Ltd. by Watts, Griffis and McOuat Limited, Consulting 
+Geologists and Engineers, 37 p. 
+
+ 
+Soever, A. (2001): Mineral Resource estimate and assessment of the potential for 
+
+economic mineralization within the existing resource at the Maturi and Spruce Road 
+Deposits, Lake County, Minnesota for Wallbridge Mining Company Ltd.: Watts, 
+Griffis and McOuat Limited, Consulting Geologists and Engineers, 97 p. 
+ 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 22-1 
+
+ 22 SIGNATURE PAGE 
+This report titled "Technical Report on the resource estimate for the Nokomis Deposit 
+
+on the Nokomis Property, Minnesota, U.S.A." and dated December 10, 2009, was 
+
+prepared and signed by the following authors: 
+
+ 
+
+ 
+ 
+       (Signed & Sealed) 
+ 
+ 
+Dated at Toronto, Ontario    Christopher Moreton, Ph.D., P.Geo.  
+December 10, 2009     Senior Consulting Geologist 
+ 
+ 
+ 
+ 
+ 
+       (Signed & Sealed) 
+ 
+ 
+Dated at Toronto, Ontario    Richard E. Routledge, M.Sc., P.Geo.  
+December 10, 2009     Senior Consulting Geologist 
+ 
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 23-1 
+
+ 23 CERTIFICATE OF QUALIFICATIONS 
+CHRISTOPHER MORETON 
+
+I, Christopher Moreton, Ph.D., P. Geo., as an author of this report entitled "Technical 
+Report on the Resource Estimate for the Nokomis Deposit on the Nokomis Property, 
+Minnesota, U.S.A." prepared for Duluth Metals Limited and dated December 10, 2009, 
+do hereby certify that: 
+
+ 
+1. I am a Senior Consulting Geologist with Scott Wilson Roscoe Postle Associates Inc. 
+
+of Suite 501, 55 University Ave Toronto, ON, M5J 2H7. 
+ 
+2. I am a graduate of the University of Southampton in 1981 with a B.Sc. degree in 
+
+Geology, the University of Newfoundland in 1984 with a M.Sc. degree in Earth 
+Sciences and the University of New Brunswick in 1994 with a Ph.D. degree in 
+Geology. 
+
+ 
+3. I am registered as a Professional Geologist in the provinces of Ontario (Reg.#1229) 
+
+and New Brunswick (Reg.#M5484).  I have worked as a geologist for more than 20 
+years since my graduation.  My relevant experience for the purpose of the Technical 
+Report is: 
+
+• Review and report as a consultant on numerous exploration and mining 
+projects for due diligence and regulatory requirements 
+
+• Experience with Cu-Ni-PGE magmatic sulphide deposits in North 
+America 
+
+• Extensive Gemcom block modelling expertise 
+ 
+4. I have read the definition of "qualified person" set out in National Instrument 43-101 
+
+(NI 43-101) and certify that by reason of my education, affiliation with a professional 
+association (as defined in NI 43-101) and past relevant work experience, I fulfill the 
+requirements to be a "qualified person" for the purposes of NI 43-101. 
+
+ 
+5. I visited the Nokomis Project on July 14-15, 2009. 
+ 
+6. I am responsible for preparation of all sections of the Technical Report. 
+ 
+7. I am independent of the Issuer applying the test set out in Section 1.4 of NI 43-101. 
+ 
+8. I have had no prior involvement with the property that is the subject of the Technical 
+
+Report. 
+ 
+9. I have read NI 43-101, and the Technical Report has been prepared in compliance 
+
+with NI 43-101 and Form 43-101F1. 
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 23-2 
+
+10. To the best of my knowledge, information, and belief, the Technical Report contains 
+all scientific and technical information that is required to be disclosed to make the 
+Technical Report not misleading. 
+ 
+ 
+ 
+ 
+Dated this 10th day of December, 2009 
+ 
+ 
+ 
+(Signed & Sealed) 
+ 
+Christopher Moreton, Ph.D., P.Geo 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 23-3 
+
+RICHARD E. ROUTLEDGE 
+I, Richard E. Routledge, M.Sc., P.Geo., as an author of this report entitled "Technical 
+Report on the Resource Estimate for the Nokomis Deposit on the Nokomis Property, 
+Minnesota, U.S.A." prepared for Duluth Metals Limited and dated December 10, 2009, 
+do hereby certify that: 
+ 
+1. I am Consulting Geologist with Scott Wilson Roscoe Postle Associates Inc. of Suite 
+
+501, 55 University Ave Toronto, ON, M5J 2H7. 
+ 
+2. I am a graduate of Sir George Williams (now Concordia) University, Montreal, 
+
+Quebec, Canada in 1971 with a Bachelor of Science degree, Major Geology, and of 
+McGill University, Montreal, Quebec, Canada in 1973 with a Master of Science 
+degree in Applied Mineral Exploration. 
+
+ 
+3. I am registered as a licensed Professional Geologist in the Northwest Territories, 
+
+Canada (L744) and as a Practicing Member of the Association of Professional 
+Geoscientists of Ontario (#1354).  I have worked as a geologist for a total of 36 years 
+since my graduation.  My relevant experience for the purpose of the Technical Report 
+is: 
+
+• Review and report as a consultant on numerous exploration and mining 
+projects around the world for due diligence and regulatory requirements, 
+including: 
+
+o Estimate of the Mineral Resources of the Birch Lake Cu-Ni-PGE-
+Au deposit, Minnesota, USA. 
+
+o Estimate of Mineral Resources for the Spruce Road Cu-Ni deposit, 
+Minnesota, USA. 
+
+o Resource audit and preliminary assessment for the Birch Lake Cu-
+Ni-PGE deposit, Duluth Complex, Minnesota.  
+
+o Estimation of the Mineral Resources of the Maturi Cu-Ni-PGE-Au 
+deposit, Minnesota, USA.   
+
+o Resource estimate for B4-7 Ni-Cu-PGE zone, Armstrong, Ontario. 
+o Resource estimates for the VW nickel-copper deposit, Armstrong, 
+
+Ontario. 
+o Resource and reserves audits for McCreedy West and Levack 
+
+nickel and copper mines, Sudbury, Ontario. 
+o Resource audit for Onaping Depth Nickel and Copper Deposit, 
+
+Sudbury, Ontario. 
+• Vice President Exploration for a junior mining company in charge of 
+
+diamond exploration programs in NWT and property evaluations 
+worldwide for a variety of commodities, including gold, base metals, and 
+diamonds. 
+
+• Senior geologist with a major Canadian mining company in charge of 
+evaluation of advanced properties/projects and acquisitions for a broad 
+variety of metals and industrial minerals. 
+
+• Consulting Geologist and Associate of a major Canadian miming and 
+geological consulting firm. 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 23-4 
+
+4. I have read the definition of "qualified person" set out in National Instrument 43-101 
+("NI 43-101") and certify that by reason of my education, affiliation with a 
+professional association (as defined in NI43-101) and past relevant work experience, I 
+fulfill the requirements to be a "qualified person" for the purposes of NI43-101. 
+
+ 
+5. I visited the Nokomis Project on May 17 and 18, 2006 and on March 13-15, 2007. 
+ 
+6. I collaborated with Christopher Moreton on Item 17 of the Technical Report.  
+ 
+7. I am independent of the Issuer applying the test set out in Section 1.4 of NI 43-101. 
+ 
+8. Prior involvement with the Nokomis Project includes preparation of resource 
+
+estimates dating back to 2006, the latest of which was disclosed in a NI 43-101 
+Technical Report dated July 18, 2008.  Earlier reports are listed in Section 21, 
+References. 
+
+ 
+9. I have read NI 43-101, and the Technical Report has been prepared in compliance 
+
+with NI 43-101 and Form 43-101F1. 
+ 
+10. To the best of my knowledge, information, and belief, the Technical Report contains 
+
+all scientific and technical information that is required to be disclosed to make the 
+technical report not misleading. 
+
+ 
+ 
+ 
+ 
+Dated this 10th day of December, 2009 
+ 
+ 
+ 
+(Signed & Sealed) 
+ 
+Richard E. Routledge, M.Sc., P.Geo. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 24-1 
+
+ 24 ADDITIONAL REQUIREMENTS  
+Not applicable to the Nokomis Property at this time. 
+
+ 
+
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 25-1 
+
+ 25 APPENDICES 
+APPENDIX A 
+
+Downhole linear semi-variograms were created for both copper and nickel to determine 
+
+the nugget effect. In addition, 3-D semi-variograms were created to assess global grade 
+
+continuity (Figures 25-1 to 25-4). 
+
+ 
+
+ 
+
+
+
+Nested Sperical Model,  Polulation Variance Normalized
+
+Comps Jul. 2009\Global\Cu%, Polulation Variance Normalized
+
+3D Semi-variogram  - Cu%  052 AZ./0 Dip (along strike)
+
+Down Hole Linear Semi-variogram - Cu%  3.5 m Composites
+
+Nokomis Project
+
+Cu Variography
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 25-1
+
+25-2
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+Comps Jul. 2009\Global\Cu%, Polulation Variance Normalized
+
+3D Semi-variogram - Cu%  142 AZ./-20 Dip (downdip)
+
+Comps Jul. 2009\Global\Cu%, Polulation Variance Normalized
+
+3D Semi-variogram - Cu%  322 AZ./-70 Dip (across width)
+
+Nokomis Project
+
+Cu Variography
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 25-2
+
+25-3
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+Nested Spherical Model, Polulation Variance Normalized
+
+Down Hole Linear Semi-variogram - Ni%  3.5 m Composites
+
+Comps Jul. 2009\Global\Ni%, Polulation Variance Normalized
+
+3D Semi-variogram - Ni%  052 AZ./0 Dip (along strike)
+
+Nokomis Project
+
+Ni Variography
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 25-3
+
+25-4
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+Comps Jul. 2009\Global\Cu%, Polulation Variance Normalized
+
+3D Semi-variogram - Ni%  142 AZ./-20 Dip 4 (downdip)
+
+Comps Jul. 2009\Global\Cu%, Polulation Variance Normalized
+
+3D Semi-variogram - Ni%  322 AZ./-70 Dip (across width)
+
+Nokomis Project
+
+Ni Variography
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 25-4
+
+25-5
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 25-6 
+
+APPENDIX B 
+
+HIGHER-GRADE AREAS 
+Six areas of higher-grade mineralization within the larger global resource have been 
+
+manually defined within the 1% CuEq Nokomis wireframe (Figures 25-5 and 25-6).  
+
+Three of these areas, which are informally termed the Eastern, Central and Western 
+
+Areas, represent regions of more or less contiguous blocks above a nominal cut-off grade 
+
+of 0.7% Cu. Table 25-1 shows the cumulative Inferred and Indicated Resources for these 
+
+three areas. Tables 25-2 and 25-3 show the Indicated and Inferred Resources, 
+
+respectively, for each area. 
+
+ 
+
+In addition, three other higher-grade areas have been defined using the same criteria. 
+
+These areas are called Areas A, B and C. Table 25-4 shows the Indicated Resources for 
+
+Areas A, B and C, and Table 25-5 shows the Inferred Resources for Areas B and C.  Note 
+
+that Area A has no Inferred Resources. 
+
+ 
+
+ 
+
+ 
+
+
+
+598,000596,000594,000592,000
+
+Western Area
+
+Central Area
+
+Eastern Area
+
+5
+,2
+
+9
+2
+,0
+
+0
+0
+
+5
+,2
+
+9
+8
+,0
+
+0
+0
+
+5
+,2
+
+9
+6
+,0
+
+0
+0
+
+5
+,2
+
+9
+4
+,0
+
+0
+0
+
+5
+,2
+
+9
+2
+,0
+
+0
+0
+
+5
+,2
+
+9
+8
+,0
+
+0
+0
+
+5
+,2
+
+9
+6
+,0
+
+0
+0
+
+5
+,2
+
+9
+4
+,0
+
+0
+0
+
+598,000596,000594,000592,000
+
+0
+
+0
+
+500
+
+0.25
+
+Metres
+
+Miles
+
+1000
+
+0.5
+
+1500
+
+0.75
+
+2000
+
+1.0
+
+N
+
+Nokomis Project
+
+Eastern, Western and Central
+
+Higher-grade Areas
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 25-5
+
+25-7
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 25-8 
+
+ 
+
+TABLE 25-1   RESOURCE ESTIMATES FOR THE COMBINED 
+EASTERN, CENTRAL AND WESTERN HIGHER-GRADE AREAS, AS OF 
+
+OCTOBER 6, 2009  
+Duluth Metals Limited - Nokomis Deposit, Main Zone Minnesota 
+
+ 
+Indicated Resources 
+
+Cut-off grade Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+  (000s) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 91,548 0.754 0.213 0.010 0.137 0.272 0.614 1.023 1.80 
+0.5% Cu 90,419 0.757 0.213 0.010 0.138 0.273 0.617 1.028 1.81 
+0.6% Cu 81,234 0.780 0.218 0.010 0.140 0.283 0.639 1.062 1.86 
+0.7% Cu 57,758 0.832 0.228 0.010 0.148 0.305 0.682 1.135 1.97 
+0.8% Cu 32,404 0.899 0.237 0.010 0.158 0.326 0.728 1.212 2.10 
+
+ 
+Inferred Resources 
+
+Cut-off grade Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+  (000s) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 22,082 0.76 0.216 0.010 0.126 0.272 0.607 1.005 1.81 
+0.5% Cu 21,894 0.763 0.216 0.101 0.126 0.273 0.610 1.009 1.82 
+0.6% Cu 20,101 0.780 0.220 0.010 0.130 0.284 0.629 1.043 1.86 
+0.7% Cu 15,440 0.817 0.229 0.011 0.134 0.305 0.660 1.099 1.95 
+0.8% Cu 8,431 0.868 0.237 0.011 0.139 0.331 0.696 1.166 2.05 
+
+ 
+Notes: 
+
+1. CIM definitions were followed for Mineral Resource estimation and classification.  
+2. Mineral Resources are estimated at a zone definition (wireframe) cut-off grade of approximately 1.0% Cu 
+
+equivalent grade (CuEq). 
+3. The approximately 1.0% CuEq cut-off grade includes all material in the wireframe zones. 
+4. Bulk density is 3.01 t/m3. 
+5. Resources were estimated to a maximum depth of approximately 1,350 m. 
+6. CuEq% is based on Net Smelter Return factors as determined for the Preliminary Assessment by Scott 
+
+Wilson RPA dated January 18, 2008. 
+7. Metal Prices used were $1.75/lb Cu, $7.00/lb Ni, $10.00/lb Co, $600/oz Au, $1100/oz Pt and $350/oz Pd. 
+8. CuEq% = Cu% + 3.03 x Ni% + 0.63 x Co% + 0.30 x Au g/t + 0.76 x Pt g/t + 0.24 x Pd g/t based on 
+
+expected metal prices and process recovery and refining charges. 
+9. TPM is Au g/t + Pt g/t + Pd g/t. 
+10. Co, Au, Pt, Pd grades that are lacking in historic drill holes have been entered in the resource database 
+
+based on regression of assay grades from DML drill hole assays. 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 25-9 
+
+ 
+
+TABLE 25-2   INDICATED RESOURCE ESTIMATES FOR EACH 
+HIGHER-GRADE AREA, AS OF OCTOBER 6, 2009  
+
+Duluth Metals Limited - Nokomis Deposit, Main Zone Minnesota 
+ 
+
+Indicated Resources – Central 
+Cut-off grade Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+
+  (000s) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 13,298 0.829 0.217 0.010 0.134 0.305 0.621 1.060 1.91 
+0.5% Cu 13,298 0.829 0.217 0.010 0.134 0.305 0.621 1.060 1.91 
+0.6% Cu 13,166 0.831 0.218 0.010 0.135 0.306 0.623 1.064 1.92 
+0.7% Cu 11,972 0.848 0.220 0.010 0.137 0.314 0.633 1.084 1.95 
+0.8% Cu 8,629 0.888 0.221 0.010 0.140 0.321 0.637 1.098 2.00 
+
+ 
+Indicated Resources – Eastern 
+
+Cut-off grade Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+  (000s) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 62,509 0.750 0.214 0.010 0.146 0.282 0.651 1.079 1.82 
+0.5% Cu 61,514 0.754 0.215 0.010 0.146 0.284 0.656 1.086 1.83 
+0.6% Cu 56,110 0.773 0.219 0.010 0.147 0.291 0.674 1.112 1.87 
+0.7% Cu 40,330 0.820 0.229 0.010 0.154 0.310 0.716 1.180 1.97 
+0.8% Cu 21,341 0.884 0.240 0.010 0.169 0.334 0.784 1.287 2.11 
+
+ 
+Indicated Resources – Western 
+
+Cut-off grade Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+  (000s) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 15,740 0.707 0.203 0.010 0.106 0.203 0.456 0.765 1.63 
+0.5% Cu 15,607 0.709 0.204 0.010 0.106 0.203 0.457 0.767 1.63 
+0.6% Cu 11,958 0.754 0.213 0.010 0.115 0.221 0.489 0.825 1.73 
+0.7% Cu 5,426 0.887 0.245 0.011 0.128 0.256 0.55 0.918 2.00 
+0.8% Cu 2,434 1.072 0.270 0.012 0.131 0.271 0.552 0.954 2.28 
+
+ 
+Notes: 
+
+1. CIM definitions were followed for Mineral Resource estimation and classification. 
+2. Mineral Resources are estimated at a zone definition (wireframe) cut-off grade of approximately 1.0% Cu 
+
+equivalent grade (CuEq).  
+3. The approximately 1.0% CuEq cut-off grade includes all material in the wireframe zones. 
+4. Bulk density is 3.01 t/m3. 
+5. Resources were estimated to a maximum depth of approximately 1,350 m. 
+6. CuEq% is based on Net Smelter Return factors as determined for the Preliminary Assessment by Scott 
+
+Wilson RPA dated January 18, 2008.  
+7. Metal Prices used were $1.75/lb Cu, $7.00/lb Ni, $10.00/lb Co, $600/oz Au, $1100/oz Pt and $350/oz Pd. 
+8. CuEq% = Cu% + 3.03 x Ni% + 0.63 x Co% + 0.30 x Au g/t + 0.76 x Pt g/t + 0.24 x Pd g/t based on 
+
+expected metal prices and process recovery and refining charges. 
+9. TPM is Au g/t + Pt g/t + Pd g/t. 
+10. Co, Au, Pt, Pd grades that are lacking in historic drill holes have been entered in the resource database 
+
+based on regression of assay grades from DML drill hole assays. 
+  
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 25-10 
+
+TABLE 25-3   INFERRED RESOURCE ESTIMATES FOR EACH 
+HIGHER-GRADE AREA, AS OF OCTOBER 6, 2009  
+
+Duluth Metals Limited - Nokomis Deposit, Main Zone Minnesota 
+ 
+
+Inferred Resources – Central 
+Cut-off grade Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+
+  (000s) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 8,502 0.819 0.225 0.011 0.130 0.320 0.657 1.107 1.95 
+0.5% Cu 8,439 0.821 0.225 0.011 0.130 0.321 0.659 1.110 1.95 
+0.6% Cu 8,394 0.823 0.225 0.011 0.131 0.322 0.660 1.113 1.95 
+0.7% Cu 7,510 0.841 0.229 0.011 0.133 0.335 0.683 1.150 2.00 
+0.8% Cu 5,843 0.864 0.234 0.011 0.134 0.342 0.694 1.169 2.05 
+
+ 
+Inferred Resources – Eastern 
+
+Cut-off grade Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+  (000s) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 7,939 0.731 0.213 0.010 0.131 0.272 0.634 1.037 1.78 
+0.5% Cu 7,813 0.736 0.214 0.010 0.132 0.275 0.641 1.048 1.79 
+0.6% Cu 6,770 0.761 0.215 0.010 0.139 0.291 0.677 1.107 1.85 
+0.7% Cu 4,705 0.805 0.225 0.010 0.143 0.307 0.695 1.145 1.94 
+0.8% Cu 1,786 0.886 0.242 0.011 0.157 0.333 0.754 1.244 2.11 
+
+ 
+Inferred Resources – Western 
+
+Cut-off grade Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+  (000s) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 5,642 0.714 0.208 0.010 0.112 0.200 0.494 0.806 1.65 
+0.5% Cu 5,642 0.714 0.208 0.010 0.112 0.200 0.494 0.806 1.65 
+0.6% Cu 4,936 0.734 0.218 0.010 0.115 0.208 0.508 0.831 1.71 
+0.7% Cu 3,225 0.779 0.235 0.011 0.126 0.231 0.554 0.911 1.84 
+0.8% Cu 802 0.855 0.247 0.011 0.134 0.250 0.583 0.967 1.98 
+
+ 
+Notes: 
+
+1. CIM definitions were followed for Mineral Resource estimation and classification. 
+2. Mineral Resources are estimated at a zone definition (wireframe) cut-off grade of approximately 1.0% Cu 
+
+equivalent grade (CuEq).  
+3. The approximately 1.0% CuEq cut-off grade includes all material in the wireframe zones. 
+4. Bulk density is 3.01 t/m3. 
+5. Resources were estimated to a maximum depth of approximately 1,350 m. 
+6. CuEq% is based on Net Smelter Return factors as determined for the Preliminary Assessment by Scott 
+
+Wilson RPA dated January 18, 2008.  
+7. Metal Prices used were $1.75/lb Cu, $7.00/lb Ni, $10.00/lb Co, $600/oz Au, $1100/oz Pt and $350/oz Pd. 
+8. CuEq% = Cu% + 3.03 x Ni% + 0.63 x Co% + 0.30 x Au g/t + 0.76 x Pt g/t + 0.24 x Pd g/t based on 
+
+expected metal prices and process recovery and refining charges. 
+9. TPM is Au g/t + Pt g/t + Pd g/t. 
+10. Co, Au, Pt, Pd grades that are lacking in historic drill holes have been entered in the resource database 
+
+based on regression of assay grades from DML drill hole assays. 
+ 
+
+
+
+598,000596,000594,000592,000
+
+Area A
+
+Area B
+
+Area C
+
+5
+,2
+
+9
+2
+,0
+
+0
+0
+
+5
+,2
+
+9
+8
+,0
+
+0
+0
+
+5
+,2
+
+9
+6
+,0
+
+0
+0
+
+5
+,2
+
+9
+4
+,0
+
+0
+0
+
+5
+,2
+
+9
+2
+,0
+
+0
+0
+
+5
+,2
+
+9
+8
+,0
+
+0
+0
+
+5
+,2
+
+9
+6
+,0
+
+0
+0
+
+5
+,2
+
+9
+4
+,0
+
+0
+0
+
+598,000596,000594,000592,000
+
+0
+
+0
+
+500
+
+0.25
+
+Metres
+
+Miles
+
+1000
+
+0.5
+
+1500
+
+0.75
+
+2000
+
+1.0
+
+N
+
+Nokomis Project
+
+Higher-grade Areas
+
+A, B, and C
+
+Duluth Metals Limited
+
+Minnesota, U.S.A.
+
+Figure 25-6
+
+25-11
+
+SCOTT WILSON RPA www.scottwilson.com
+
+December 2009
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 25-12 
+
+ 
+TABLE 25-4   INDICATED RESOURCE ESTIMATES FOR HIGHER-
+
+GRADE AREAS A, B AND C, AS OF OCTOBER 6, 2009 
+Duluth Metals Limited - Nokomis Deposit, Main Zone Minnesota 
+
+ 
+Indicated Resources – Area A 
+
+Cut-off 
+grade 
+
+Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+(000s) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 11,261 0.768 0.257 0.011 0.103 0.171 0.405 0.679 1.81 
+0.5% Cu 11,058 0.774 0.258 0.011 0.103 0.172 0.407 0.683 1.82 
+0.6% Cu 10,211 0.792 0.261 0.011 0.106 0.178 0.420 0.703 1.86 
+0.7% Cu 8,045 0.828 0.267 0.011 0.114 0.191 0.451 0.757 1.93 
+0.8% Cu 4,398 0.900 0.279 0.011 0.129 0.222 0.517 0.868 2.08 
+
+          
+Indicated Resources – Area B 
+
+Cut-off 
+grade 
+
+Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+(000s) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 17,058 0.720 0.249 0.011 0.100 0.200 0.428 0.729 1.77 
+0.5% Cu 17,058 0.720 0.249 0.011 0.100 0.200 0.428 0.729 1.77 
+0.6% Cu 16,451 0.726 0.250 0.011 0.102 0.201 0.433 0.736 1.78 
+0.7% Cu 9,517 0.769 0.258 0.011 0.101 0.203 0.433 0.737 1.85 
+0.8% Cu 2,105 0.860 0.284 0.012 0.102 0.223 0.461 0.786 2.04 
+
+          
+Indicated Resources – Area C 
+
+Cut-off 
+grade 
+
+Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+(000s) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 19,318 0.698 0.208 0.010 0.129 0.247 0.565 0.940 1.70 
+0.5% Cu 19,243 0.699 0.208 0.010 0.129 0.247 0.566 0.942 1.70 
+0.6% Cu 16,519 0.718 0.212 0.010 0.134 0.254 0.587 0.974 1.74 
+0.7% Cu 9,325 0.772 0.224 0.010 0.150 0.294 0.682 1.127 1.89 
+0.8% Cu 2,726 0.846 0.232 0.011 0.173 0.357 0.822 1.351 2.08 
+
+          
+Indicated Resources – Combined A, B and C 
+
+ 
+Cut-off 
+grade 
+
+Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+(000s) % % % g/t g/t g/t g/t % 
+
+1.0% CuEq 47,637 0.722 0.234 0.010 0.112 0.212 0.478 0.803 1.75 
+ 
+
+Notes: 
+1. CIM definitions were followed for Mineral Resource estimation and classification. 
+2. Mineral Resources are estimated at a zone definition (wireframe) cut-off grade of approximately 1.0% Cu 
+
+equivalent grade (CuEq).  
+3. The approximately 1.0% CuEq cut-off grade includes all material in the wireframe zones. 
+4. Bulk density is 3.01 t/m3. 
+5. Resources were estimated to a maximum depth of approximately 1,350 m. 
+6. CuEq% is based on Net Smelter Return factors as determined for the Preliminary Assessment by Scott 
+
+Wilson RPA dated January 18, 2008.  
+7. Metal Prices used were $1.75/lb Cu, $7.00/lb Ni, $10.00/lb Co, $600/oz Au, $1100/oz Pt and $350/oz Pd. 
+8. CuEq% = Cu% + 3.03 x Ni% + 0.63 x Co% + 0.30 x Au g/t + 0.76 x Pt g/t + 0.24 x Pd g/t based on 
+
+expected metal prices and process recovery and refining charges. 
+9. TPM is Au g/t + Pt g/t + Pd g/t. 
+10. Co, Au, Pt, Pd grades that are lacking in historic drill holes have been entered in the resource database 
+
+based on regression of assay grades from DML drill hole assays. 
+ 
+
+
+
+SCOTT WILSON RPA www.scottwilson.com 
+ 
+
+ 
+
+ 25-13 
+
+ 
+TABLE 25-5   INFERRED RESOURCE ESTIMATES FOR HIGHER-GRADE 
+
+AREAS B AND C, AS OF OCTOBER 6, 2009 
+Duluth Metals Limited - Nokomis Deposit, Main Zone Minnesota 
+
+Inferred Resources – Area B 
+
+ 
+Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+
+Cut-off grade (000s) % % % g/t g/t g/t g/t % 
+1.0% CuEq 1,169 0.724 0.261 0.010 0.134 0.241 0.553 0.928 1.88 
+
+0.5% Cu 1,169 0.724 0.261 0.010 0.134 0.241 0.553 0.928 1.88 
+0.6% Cu 1,169 0.724 0.261 0.010 0.134 0.241 0.553 0.928 1.88 
+0.7% Cu 734 0.750 0.263 0.010 0.139 0.242 0.55 0.932 1.91 
+0.8% Cu 151 0.818 0.263 0.010 0.159 0.253 0.557 0.969 1.99 
+
+         Inferred Resources – Area C 
+
+ 
+Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+
+Cut-off grade (000s) % % % g/t g/t g/t g/t % 
+1.0% CuEq 10,567 0.676 0.198 0.010 0.132 0.263 0.583 0.978 1.66 
+
+0.5% Cu 10,308 0.681 0.198 0.010 0.133 0.265 0.589 0.988 1.67 
+0.6% Cu 9,141 0.695 0.201 0.010 0.138 0.276 0.612 1.025 1.71 
+0.7% Cu 3,323 0.767 0.212 0.011 0.157 0.309 0.715 1.182 1.87 
+0.8% Cu 862 0.848 0.214 0.010 0.169 0.336 0.77 1.275 1.99 
+
+         Inferred Resources – Combined Areas B and C 
+
+ 
+Tonnes Cu Ni Co Au Pt Pd TPM CuEq 
+
+Cut-off grade (000s) % % % g/t g/t g/t g/t % 
+1.0% CuEq 11,737 0.681 0.204 0.010 0.132 0.26 0.58 0.973 1.68 
+
+ 
+Notes: 
+
+1. CIM definitions were followed for Mineral Resource estimation and classification. 
+2. Mineral Resources are estimated at a zone definition (wireframe) cut-off grade of approximately 1.0% Cu 
+
+equivalent grade (CuEq).  
+3. The approximately 1.0% CuEq cut-off grade includes all material in the wireframe zones. 
+4. Bulk density is 3.01 t/m3. 
+5. Resources were estimated to a maximum depth of approximately 1,350 m. 
+6. CuEq% is based on Net Smelter Return factors as determined for the Preliminary Assessment by Scott 
+
+Wilson RPA dated January 18, 2008.  
+7. Metal Prices used were $1.75/lb Cu, $7.00/lb Ni, $10.00/lb Co, $600/oz Au, $1100/oz Pt and $350/oz Pd. 
+8. CuEq% = Cu% + 3.03 x Ni% + 0.63 x Co% + 0.30 x Au g/t + 0.76 x Pt g/t + 0.24 x Pd g/t based on 
+
+expected metal prices and process recovery and refining charges. 
+9. TPM is Au g/t + Pt g/t + Pd g/t. 
+10. Co, Au, Pt, Pd grades that are lacking in historic drill holes have been entered in the resource database 
+
+based on regression of assay grades from DML drill hole assays. 
+ 
+
+
+	 1 SUMMARY
+	INTRODUCTION
+	LAND STATUS
+	EXPLORATION HISTORY
+	GEOLOGY AND MINERALIZATION
+	MINERAL RESOURCES 
+	MINERAL RESERVES
+	ENVIRONMETAL STATUS
+	METALLURGY
+	INTERPRETATION AND CONCLUSIONS
+	RECOMMENDATIONS
+
+	 2 INTRODUCTION AND TERMS OF REFERENCE
+	INTRODUCTION
+	UNITS AND LIST OF ABBREVIATIONS
+
+	 3 RELIANCE ON OTHER EXPERTS
+	 4 PROPERTY DESCRIPTION AND LOCATION
+	 5 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND PHYSIOGRAPHY
+	 6 HISTORY
+	 7 GEOLOGICAL SETTING
+	 8 DEPOSIT TYPES
+	 9 MINERALIZATION
+	 10 EXPLORATION
+	 11 DRILLING
+	 12 SAMPLING METHOD AND APPROACH
+	 13 SAMPLE PREPARATION, ANALYSES AND SECURITY
+	 14 DATA VERIFICATION
+	 15 ADJACENT PROPERTIES
+	 16 MINERAL PROCESSING AND METALLURGICAL TESTING
+	NOKOMIS METALLURGICAL TEST WORK
+	FUTURE TEST WORK
+	MINERAL PROCESSING
+
+	 17 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES
+	MINERAL RESOURCES
+	MINERAL RESERVES
+
+	 18 OTHER RELEVANT DATA AND INFORMATION
+	 19 INTERPRETATION AND CONCLUSIONS
+	 20 RECOMMENDATIONS
+	 21 REFERENCES
+	 22 SIGNATURE PAGE
+	 23 CERTIFICATE OF QUALIFICATIONS
+	 24 ADDITIONAL REQUIREMENTS 
+	 25 APPENDICES
+	APPENDIX A
+	APPENDIX B
+
+
+'

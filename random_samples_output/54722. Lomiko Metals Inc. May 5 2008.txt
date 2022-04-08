@@ -1,0 +1,1669 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bg Nk 29 Apr 2008 f
+
+
+ 
+
+A Technical Review of the BIG NAK Project, 
+Atlin Mining Division, British Columbia 
+
+Lomiko 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+prepared for 
+ 
+
+Lomiko Resources Inc. 
+#439-7231 120th Street, 
+
+Delta, B.C. V4C 6P5 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+by 
+ 
+
+R. Allan Doherty, P.Geo. 
+Aurum Geological Consultants Inc 
+
+106A Granite Road 
+Whitehorse, Yukon Y1A 2V9 
+
+Amended April 28, 2008 
+ 
+
+
+
+- i - 
+
+2.0 TABLE OF CONTENTS  ii 
+3.0 SUMMARY 1 
+4.0 INTRODUCTION AND TERMS OF REFERENCE 2 
+ 4.1 Background 2 
+ 4.2 Terms of Reference 2 
+ 4.3 Purpose of Report 2 
+ 4.4 Sources of Information 2 
+ 4.5 Field Activity of Qualified Person 2 
+5.0 RELIANCE ON OTHER EXPERTS 2 
+6.0 PROPERTY DESCRIPTION and LOCATION 4 
+ 6.1 Claims Location 4 
+ 6.2 Claims Tenure 4 
+ 6.3 Issuer Agreements 4 
+ 6.4 Claim Maintenance 5 
+ 6.5 Mineralized Zones 5 
+ 6.6 Other Rights 5 
+ 6.7 Environment 5 
+ 6.8 Permits 5 
+7.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE and 
+
+PHYSIOGRAPHY 
+ 
+
+8 
+ 7.1 Accessibility 8 
+ 7.2 Climate 8 
+ 7.3 Infrastructure 8 
+ 7.4 Physiography 8 
+8.0 HISTORY 8 
+ 8.1 Discovery 8 
+ 8.2 Prior Tenure 8 
+ 8.3 Former Issuers Exploration 9 
+ 8.4 Issuers Exploration 9 
+9.0 GEOLOGICAL SETTING 9 
+ 9.1 Regional Geology 9 
+ 9.2 Local Geology 9 
+ 9.3 Property Geology 9 
+10.0 DEPOSIT TYPES 12 
+11.0 MINERALIZATION 12 
+ 11.1 Joss'alun 13 
+ 11.2 Box Lake 13 
+ 11.3 Jennusty 13 
+ 11.4 Bor 13 
+12.0 EXPLORATION 13 
+ 12.1 Geochemical survey by prior issuer 13 
+ 12.2 Prospecting and mapping by prior issuer 14 
+ 12.3 Geophysical survey by prior issuer 14 
+ 12.4 Lomiko exploration 20 
+13.0 DIAMOND DRILLING BY PRIOR ISSUER 20 
+14.0 SAMPLING METHOD AND APPROACH 22 
+ 14.1 Soils 22 
+ 14.2 Core 22 
+15.0 SAMPLING PREPARATION, ANALYSES AND SECURITY 22 
+   
+   
+
+
+
+- ii - 
+
+16.0 DATA VERIFICATION 23 
+ 16.1 Core 23 
+ 16.2 Soil Sampling 23 
+17.0 ADJACENT PROPERTIES 23 
+18.0 MINERAL PROCESSING AND METALLURGICAL TESTING 23 
+19.0 MINERAL RESOURCES AND RESERVE ESTIMATES 24 
+20.0 OTHER RELEVANT DATA AND INFORMATION 24 
+21.0 INTERPRETATION AND CONCLUSIONS 24 
+ 21.1 Interpretation 24 
+ 21.2 Conclusion 24 
+22.0 RECOMMENDATIONS 24 
+ 22.1 Phase 1 25 
+ 22.2 Phase 2 25 
+ 22.3 Recommended Budget 25 
+23.0 REFERENCES 27 
+24.0 DATE AND SIGNATURE 29 
+25.0 AUTHOR'S CERTIFICATE 30 
+ 
+Table 
+ 
+1 Claims status 7 
+2 Significant drill results 21 
+ 
+ 
+Figure 
+ 
+1 Big Nak property location sketch 3 
+2 Big Nak claim map and mineralized areas 6 
+3 Big Nak property geology 11 
+4 Joss'alun showing area geology and sample results 14 
+5 Geochemical grid with copper plot  16 
+6 2004 IP grid and 2003 Joss'alun drill hole locations relative to claim boundaries 17 
+7 Modeled IP chargeability sections 100W, 200W & 300W with drill holes and Cu +0.1% 
+
+in red 
+ 
+
+18 
+8 Modeled IP chargeability sections 0E, 100E & 200E and drill holes with Cu +0.5% in 
+
+red. 
+ 
+
+19 
+
+
+
+- 1 - 
+
+3.0 SUMMARY 
+
+This technical report was commissioned by Lomiko Resources Inc to support their 
+application for Tier 2 status on the TSX venture exchange 
+
+The Big Nak property consists of the adjoining claim groups of Joss'alun and NAK, 
+which collectively cover a total area of about 3,232 ha situated in the Atlin mining 
+division of northern British Columbia some 80 km south, south-east of the town of Atlin. 
+The initial discovery of the Joss'alun copper showing in 2002 was by geologists of the 
+BC Geological Survey. Claim staking and subsequent exploration programs by Copper 
+Ridge Explorations Inc, Tenajon Resource Corp and Imperial Metals Corp led to a further 
+three copper showings being discovered.   
+
+Imperial Metals Corp carried out a nine-hole 1,517 m diamond-drilling program with 
+targets based on copper anomalies of a soil geochemical program. The drilling yielded 
+encouraging core intercepts ranging from 68.06 m of 0.21% Cu, 17.75 m of 0.94% Cu, 
+53.45 m of 0.34% Cu and 57.03 m of 0.10% Cu. 
+
+Lomiko has entered into option agreement with Imperial Metals Corp and Copper Ridge 
+Explorations Inc holders of the two overall claim blocks, which have been consolidated 
+from the original claims. 
+
+It is believed that mineralization on Big Nak suggests a classic Cypress-type environment 
+for VMS copper mineralization with accompanying footwall stringer mineralization and 
+alteration. Assay results show a close correspondence among visible sulphides and weak 
+to moderate IP chargeability anomalies. 
+
+A Phase I non-contingent budget estimated at $220,000 and a Phase II success contingent 
+program estimated to cost  $245,000 is warranted and recommended.  Phase I would 
+consist mapping, soil sampling, airborne Mag-EM survey and IP surveys. A Phase II 
+program contingent on a successful Phase I program would consist of a 750 m core-
+drilling program to test zones of higher chargeability and other prospective areas 
+identified in the Phase I work is estimated to cost $245,000.  The total estimated costs for 
+Phase I and II is $465,000. 
+
+
+
+- 2 - 
+
+4.0 INTRODUCTION AND TERMS OF REFERENCE 
+
+4.1 Background 
+Lomico Resources Inc has entered into an agreement to acquire an interest in the 
+Joss'alun and Nak mineral claims situated in northern British Columbia where 
+preliminary exploration has identified four copper showings.  
+
+4.2 Terms of Reference 
+This report was commissioned by Lomiko Resources Inc. ("Lomiko") to describe the the 
+Big Nak copper prospect in north-western British Columbia, and to recommend a further 
+program of exploration on the property. 
+
+4.3 Purpose of Report 
+The issuer has advised this report is needed to support its application for Tier 2 status. 
+
+4.4 Sources of Information 
+Apart from information gained during the author's field visit, specific property 
+information has been derived from the BC Assessment Report 27,304 by Robertson, S. 
+for Imperial Metals Corporation (2004) and Doherty (2004) which documents and 
+interprets previous exploration on the Property while Belcourt (2005) describes the 
+results of the IP survey carried out by Norsemont. Claim tenure data and claim maps  for 
+Figure 2 were obtained from the BC Ministry of Mines web-site. Other sources are 
+recorded in section 23 References. 
+
+4.5 Field Activity of the Qualified Person 
+The author visited the main mineralized occurrences on the property during the IP 
+program in September 2004. Only IP surveys and some soil sampling have been carried 
+out since 2003.  
+
+5.0 RELIANCE ON OTHER EXPERTS 
+
+This report has been prepared using public documents acquired by the author as well as 
+private reports from Copper Ridge Explorations Inc and Imperial Metals Corp and 
+unpublished drilling data.  While care has been taken in preparing this report, the author 
+cannot guarantee the accuracy or completeness of all supporting documentation.  In 
+particular, the author did not attempt to determine the veracity of geochemical data 
+reported by third parties, nor did he attempt to conduct duplicate sampling for 
+comparison.  The author has made no attempt to verify the legal status and ownership of 
+the Big Nak property.   
+
+Previous issuers' work on the Big Nak Property was carried out by professional 
+geologists and engineers and the author has no reason to believe that the data reported on 
+by these persons is not substantially accurate. 
+
+ 
+
+
+
+- 3 -  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                              Figure 1:   Property location 
+
+ 
+
+
+
+- 4 - 
+
+6.0 PROPERTY DESCRIPTION AND LOCATION 
+
+6.1 Claims Location 
+ 
+The Big Nak property is situated in northern British Columbia, approximately 80 km by 
+air south-southeast of the town of Atlin, British Columbia – Figure. 1.  It lies within NTS 
+map sheet 104-N/2W (104N 006), at latitude 59.0222 north and longitude 132.9028 west, 
+in the Atlin Mining Division. Figure 2 shows the claims location map and a list of claims 
+with areas and expiry dates is given in Table 1.  
+
+6.2 Claims Tenure 
+The Big Nak Property consists of two contiguous claim groups, Joss'alun and NAK which 
+comprise 31 adjoining claims covering  a total area of about 3,232 ha. The Joss'alun claims are 
+100% held by Copper Ridge Explorations Inc. ("Copper Ridge") and the NAK claims are held 
+100% by Imperial Metals Ltd. ("Imperial"). The claims have not had a boundary survey and 
+claim boundaries have been located based on GPS data. The claims, which are renewable, are 
+for mineral rights only and don't include surface rights. 
+
+In this report, the Joss'alun and NAK properties are collectively referred to as the Big Nak 
+Property. All the claims are in the Atlin Mining Division, British Columbia and their current 
+status is listed below in Table 1. 
+
+6.3 Issuer Agreements  
+
+Joss'alun Agreement 
+Pursuant to a property option agreement dated October 11, 2006, amended August 30, 2007, 
+(the "Joss'alun Agreement") between Lomiko Resources Inc. ("Lomiko") and Copper Ridge, 
+Lomiko may acquire up to a 51% legal and beneficial interest in Joss'alun by issuing an 
+aggregate of 440,000 Lomiko shares to Copper Ridge, by paying $10,000 cash and by 
+incurring $2.5 million in exploration expenditures over four years from the date of the Joss'alun 
+Agreement. Upon completing the share issuances, cash payment and exploration expenditures 
+outlined above, Lomiko may, at its sole discretion, increase its interest in Joss'alun to 60% by 
+issuing an additional 200,000 common shares of Lomiko to Copper Ridge and by incurring an 
+additional $1.5 million in exploration expenditures over the following two years.  
+
+NAK Agreement 
+Pursuant to a property option agreement dated April 21, 2007 between Lomiko and Imperial 
+("the NAK Agreement"), Lomiko may acquire up to a 50% legal and beneficial interest in 
+NAK by issuing an aggregate of 440,000 Lomiko shares to Imperial, by paying $10,000 cash 
+and by incurring $2.5 million in exploration expenditures over four years from the date of the 
+NAK Agreement. Upon completing the share issuances, cash payment and exploration 
+expenditures outlined above, Lomiko may, at its sole discretion, increase its interest in NAK to 
+60% by issuing an additional 200,000 common shares of Lomiko to Imperial and by incurring 
+an additional $1.5 million in exploration expenditures over the following two years. Imperial 
+
+
+
+- 5 - 
+
+retains a back-in right: If Lomiko earns only a 50% interest in NAK, Imperial has the right to 
+earn back 15% interest (for a total of 65%) by spending the next $1.5 million. If Lomiko earns 
+a 60% interest in NAK, Imperial can earn back 25% interest (for a total of 65%) by spending 
+the next $3.33 million. 
+
+On April 17, 2008 the property option agreement was amended whereby Lomiko would issue 
+50,000 common shares of Lomiko to Imperial Metals on or before April 30, 2008; issue an 
+additional 50,000 common shares of Lomiko to Imperial Metals on or before July 31, 2008; 
+and incur $100,000 in exploration expenditures on or before July 31, 2008.  
+
+6.4 Claim Maintenance 
+Under the British Columbia Mines Act and Regulations, a claim owner has the option of either 
+filing an assessment report detailing work and expenditures of at least $4.00 per hectare for the 
+first three years and $8.00 per hectare from year 4 on including a filing fee of $0.40 per hectare 
+per year or paying the said rates in lieu of work. 
+
+A Notice of Work application and approval is needed for land disturbance types of exploration 
+and must be filed before commencing exploration activity. 
+
+6.5 Mineralized Zones 
+Figure 2 shows the sites of the four known mineralised zone with respect to claim 
+boundaries. 
+
+6.6 Other Rights 
+We are not aware of any other royalties, back in rights, etc 
+
+6.7 Environment 
+There are no known mine workings or infrastructure on the property. Imperial Metals Corp 
+has posted a reclamation bond with the BC Ministry of Mines to cover the reclamation costs for 
+the drilling done in 2003.  Most of the property is above tree line and there are sufficient water 
+sources for drilling. 
+
+6.8 Permits 
+ A Notice of Work application and approval is needed for land disturbance types of exploration 
+and must be filed before commencing exploration activity. An application for the contingent 
+drilling proposed in Stage 2 will be filed at the appropriate time.  
+
+ 
+ 
+
+ 
+
+
+
+- 6 -  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+- 7 - 
+
+TABLE 1: CLAIM STATUS. 
+
+Number 
+Claim 
+Name Expiry Date Area (Ha) 
+
+396348 D 1 2014/Sep-13 25.0 
+396349 D 2 2014/Sep-13 25.0 
+396350 D 3 2014/Sep-13 25.0 
+396351 D 4 2014/Sep-13 25.0 
+396352 D 5 2014/Sep-13 25.0 
+396353 D 6 2014/Sep-13 25.0 
+396354 D 7 2014/Sep-13 25.0 
+396355 D 8 2014/Sep-13 25.0 
+396356 D 9 2014/Sep-13 25.0 
+396357 D 10 2014/Sep-13 25.0 
+396360 D 11 2014/Sep-13 25.0 
+396361 D 12 2014/Sep-13 25.0 
+396517 KNACK 1 2014/Sep-13 25.0 
+396518 KNACK 2 2014/Sep-13 25.0 
+506067   NAK 1 2008/Dec-31 33.30 
+506071   NAK 2 2008/Dec-31 199.85 
+506073   NAK 3 2008/Dec-31 416.64 
+506074   NAK 4 2008/Dec-31 416.78 
+542224 Gerry 1 2008/Dec-31 33.32 
+542225 Gerry 2 2008/Dec-31 16.66 
+542226 Gerry 3 2008/Dec-31 16.65 
+542227 Gerry 4 2008/Dec-31 16.65 
+542228 Gerry 5 2008/Dec-31 16.65 
+542229 Gerry 6 2008/Dec-31 16.65 
+542230 Gerry 7 2008/Dec-31 16.65 
+542232 Gerry 8 2008/Dec-31 16.66 
+542233 Gerry 9 2008/Dec-31 16.65 
+542234 Gerry 10 2008/Dec-31 16.66 
+542235 Gerry 11 2008/Dec-31 16.66 
+542258 Gerry 12 2008/Dec-31 16.65 
+543171   2008/Dec-31 399.63 
+396516 Dark 2013/Sep 14 400.00 
+404097 Wack 2014/Jul 16 500.00 
+405024 Nic 2009/Aug 27 300.00 
+
+ Total  3,232.72 
+ 
+
+The Dark, Wack and Nic claims are 100% owned by Imperial Metals Corp and all other 
+claims are 100% owned by Copper Ridge Explorations Inc.  
+
+
+
+- 8 - 
+
+7.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, 
+INFRASTRUCTURE AND PHYSIOGRAPHY 
+
+7.1 Accessibility 
+The property is accessible via helicopter, which can be chartered year round in the town 
+of Atlin.  
+
+7.2 Climate 
+The area is in a relatively heavy snow belt with cold winters and moderate summers. The 
+exploration season extends from early June to late September. 
+
+7.3 Infrastructure 
+There is no known infrastructure or mine workings on the property or nearby.  Sufficient 
+water should be available for diamond drilling. The property lies in a broad U-shaped 
+valley and there are sufficient surface areas available for potential waste disposal areas 
+and process plant sites. The town of Atlin is the nearest population centre  
+
+7.4 Physiography  
+The claim area is mostly in the alpine zone, elevations range from 1,160 to 1,709 m.  
+
+8.0 HISTORY 
+
+8.1 Discovery 
+BC Geological Survey geologists discovered the Joss'alun showing in the late summer of 
+2002. A BC Government news conference was advertised for a September 13 release to 
+provide the details of the discovery location. The Joss'alun showing Knack 1 & 2 were 
+staked by Copper Ridge Explorations Inc and  approximately 2 km of prospective 
+stratigraphy to the northwest was staked by Tenajon Resource Corp. ("Tenajon") on 
+September 13, 2003, Imperial Metals acquired the D claims (D1-12) by way of staking, 
+to cover about 2 km of prospective stratigraphy to the southeast of the Joss'alun showing 
+on the following day. 
+
+8.2 Prior Tenure 
+On January 17, 2004, Copper Ridge purchased the Tenajon claims, subject to a 1% NSR, 
+50% of which may be purchased by Copper Ridge for $250,000. Imperial then 
+consolidated the three companies' positions by way of an option to earn 100% of the 
+Copper Ridge and Tenajon claims, subject to the underlying agreement between Copper 
+Ridge and Tenajon and also subject to the issuance of cash and shares to Copper Ridge 
+and a 2% Net Operating Profits Royalty on the Knack 1 and 2 and D 1-12 claims.  
+
+In 2004, Copper Ridge signed an agreement with Norsemont Mining Inc. whereby 
+Norsemont would have the right to earn up to a 75% interest in the Joss'alun Property by 
+issuing shares and making payments to Copper Ridge and completing a feasibility study. 
+
+
+
+- 9 - 
+
+8.2 Former Issuers Exploration 
+Work completed by Imperial Metals during the summer of 2003 included a 1500 sample 
+soil geochemical survey followed by a nine hole diamond drilling program to investigate 
+the copper anomalies in the soils. Expenses for this program, as reported by Imperial 
+Metals to Copper Ridge amounted to $365,651 (S. Robertson, Imperial Metals, pers. 
+com.). Imperial Metals terminated its option in February 2004.  
+
+During the period September 12 to 24, Norsemont completed a program of 4.55 km of 
+line cutting and 4.6 km of IP surveying. The work was carried out under the direction of 
+Copper Ridge and was contracted out to Aurora Geosciences of Whitehorse, Yukon.  
+
+The IP surveys were completed over the Joss'alun showing and results showed a good 
+correlation between chargeability and the drill-intersected mineralization on the Joss'alun 
+showing. The cost for this program amounted to $44,808. In December 2005, Norsemont 
+terminated its option to earn an interest in the Property. 
+
+8.3 Others' Exploration 
+The geology of the area of the Joss'alun project is described in Mihalynuk (2002) and 
+Mihalynuk et al (2003). Regional work has been described by Mihalynuk and others in 
+several publications arising from the Atlin Targeted Geoscience Initiative program – 
+References.  
+
+Work completed in 2003 included a Private-Public Partnership with the BC government, 
+funded by Imperial Metals, including additional work on the Joss'alun property and 
+regionally by Mitch Mihalynuk and his crew. Further work is described in a paper in the 
+2003 Fieldwork publication (Mihalynuk, et.al. 2004).  
+
+8.4 Issuer Exploration 
+Lomiko has not completed any work on the Big Nak Property. 
+
+9.0 GEOLOGICAL SETTING 
+
+9.1 Regional Geology 
+The Big Nak property is situated in the Cache Creek terrane of the Canadian Cordillera. 
+The Cache Creek oceanic crustal rocks are separated from the Laberge Group and 
+overlying Sloko Group to the southwest by the Nahlin Fault and are bisected by the 
+Silver Salmon Fault to the northeast of the Big Nak property (Mihalynuk 2002). 
+
+9.2 Local Geology 
+Cache Creek Group underlies the area of the Big Nak property.  Outcrops are moderate to 
+well exposed on ridges but the valleys are characterized by talus and felsenmeer often 
+covered by alpine vegetation,  
+
+ 
+
+
+
+- 10 - 
+
+9.3 Property Geology 
+The Big Nak property is underlain by the Mississippian to Early Jurassic Cache Creek terrane 
+with the dominant rock types being harzburgite, gabbro, submarine basalt flows, flow 
+breccia, tuffaceous rocks and coarse, quartz-rich clastic strata (Mihalynuk, 2002) as shown in 
+Figure 6. The rocks are exposed as an oblique section through an oceanic crustal sequence 
+with the upper part of the section to the south and deeper rocks exposed to the north.  
+
+Ultramafic Rocks 
+
+The lower member of the crustal stratigraphic sequence is exposed at the far north end of 
+the Property. It is comprised of harzburgite with lesser dunite. The chemistry and fabric 
+of these rocks is consistent with mantle origin (Mihalynuk, 2002). The rocks are easily 
+identified in hand specimen, weathering a distinct orange (harzburgite) or buff-dun 
+(dunite) colour. They are often entirely serpentinized although they retain the weathering 
+characteristics of resistant, large orthopyroxene phenocrysts within a matrix of olivine, 
+giving a "knobby" appearance. 
+
+Gabbro 
+
+Gabbro is seen intermixed with the upper part of the ultramafic sequence, both as large 
+boulders (to 100 m across or more) within highly serpentinized rocks and in intrusive 
+contact. Above the ultramafics, gabbro occurs as a blocky, competent rock.  
+
+Mafic Volcanics 
+
+The mafic volcanic rocks occur as a thick sequence of typical submarine volcanic 
+deposits. The base of the unit is a series of basaltic flows with hyaloclastite texture, 
+interpillow lime mud and chert. The pillows are commonly 1 – 2 m across and individual 
+pillow flows are on the order of 3 – 10 m thick. Up section, volcanic breccia is more 
+common, intermixed with the massive pillow flows. Tuff content increases up section, 
+with the finer dust and crystal tuffs observed near the top of the volcanic sequence. 
+
+Both the Joss'alun and Box Lake showings are hosted in the pillowed flows and breccias 
+in the lower section of the volcanic unit. As the copper mineralization appears to be at 
+least in part syngenetic, determining the origin of the host rocks is important. The overall 
+stratigraphy suggests that these rocks were formed in a spreading ridge setting (typical of 
+Cypress type deposits). Some of the lithogeochemical work completed by Mihalynuk 
+(personal comm., 2003) suggests back arc formation (potential for Kuroko type deposits). 
+
+Neither model has yet been ruled out, although polymetallic mineralization, typical of 
+Kuroko deposits, has not been identified on the Property. 
+
+Clastic Sediments 
+
+A thick sedimentary package unconformably overlies the mafic volcanics. This unit is 
+dominated by coarse boulder and chert pebble conglomerates but has a significant 
+component of quartz rich wackes and siltstones. The generally rounded cobbles and 
+
+
+
+- 11 - 
+
+boulders are derived from widely variable sources including chert, limestone, sandstone, 
+volcanics and intrusives. Mihalynuk (2002) concludes that much of the source material 
+for the clastic unit is the underlying Cache Creek terrane and suggests a deposition age of 
+Triassic – Jurassic. No significant copper mineralization has been observed within this 
+unit. 
+
+Nakina River Stock and related porphyritic rocks. 
+
+A small portion of a large hornblende-biotite granodiorite is exposed on the Property to 
+the south of Jos Peak. It is reported by Mihalynuk (2002) to be part of the Nakina River 
+Stock and is dated at Middle Jurassic. In several other areas of the Property small plugs 
+or dykes of a very coarsely porphyritic phase related to the stock are observed. The 
+plagioclase phenocrysts are up to 5 cm long and commonly over 1 cm long. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+
+
+- 12 - 
+
+10.0 DEPOSIT TYPES 
+
+The geological setting at Big Nak and the observed mineralization suggests a classic 
+Cypress-type environment for massive seafloor VMS copper mineralization with 
+accompanying footwall stringer mineralization and alteration. These deposits are 
+commonly found in tholeiitic or calc-alkaline pillowed marine basalts and occur near a 
+transition with overlying argillaceous sediments and chert.  Many of the deposits appear 
+to be structurally controlled, with clusters of lenses aligned near steep normal faults.  
+
+Cypress type deposits are typically comprised of one or more lenses of massive pyrite 
+and chalcopyrite mineralization underlain by a well-developed pipe-shaped stockwork 
+zone. Common associated minerals include marcasite and sphalerite while galena is less 
+common.  The core of the stockwork zone is often characterized by intense, chlorite, 
+sericite, carbonate and silica alteration, which can grade out into weaker albite and illite 
+alteration. 
+
+Cypress type deposits range widely in size but on average contain about 1.7 % Cu, 0 to 
+33 g/t Ag, 0 to 1.9 g/t Au and 0 to 2.1 % Zn. 
+
+11.0 MINERALIZATION 
+
+Copper mineralization on the Property is relatively widespread. Four main showings 
+occur on the property; Joss'alun, Jennusty, Bor Lake, and Box – Figure 2. In addition to 
+those showings described below, malachite staining in the mafic volcanic rocks was 
+commonly observed across the entire property. Small occurrences of chalcopyrite within 
+gabbro have also been observed and appear to be remobilization of copper from the 
+nearby volcanics. 
+
+Joss'alun has exposed copper mineralization over a 110 m x 45 m wide zone on surface 
+trending NNW and over a wider length in drill hole intercepts. Surface grab samples have 
+returned up to 10% copper whereas the best drill intercept from hole NAK-03-05 
+returned 1.15% Cu over 6.92 m apparent core length.  The Jennusty showing has copper 
+mineralization exposed over a 20 m strike with widths of approximately 2 m. Bor 
+showing is described as of equal size to Joss'alun but of lower grade.  Bor and Box Lake 
+are less explored occurrences. All occurrences exhibit pod like mineralization, which is 
+commonly described for Cypress type VMS mineralization.  
+
+11.1 Joss'alun 
+The original discovery of copper mineralization on the Joss'alun property continues to be 
+the most significant. A full description of this showing is given in Mihalynuk, 2003. 
+Selected grab samples have returned grades of over 10% copper and several grab samples 
+have been collected with grades in the multiple percent range. Copper is present as 
+chalcopyrite as disseminations, fracture fillings and pillow rinds. Evidence for both 
+syngenetic and epigenetic mineralization is present although it is not unexpected that 
+syngenetic mineralization would be commonly remobilized in this setting. 
+
+
+
+- 13 - 
+
+The most significant mode of occurrence for copper is the massive pods that form 
+interstitially in the pillowed flows and flow breccias. The best copper mineralization is 
+concentrated at the base of the mafic unit, with grade generally decreasing up section. 
+The very poddy mineralization at Joss'alun prompted a program to conduct detailed 
+sampling over the exposed area. The sampling on Joss'alun showing from the 2003 
+program in Figure 4 shows grids, which relate to the claim boundaries plot in Figure 6. 
+
+11.2 Box Lake 
+The Box Lake showing lies some 2.0 km to the ESE of Joss'alun. The copper 
+mineralization is equally widespread but in far less concentration than at Joss'alun. One 
+possible explanation for this is that the stratigraphy exposed is higher level and perhaps 
+the best mineralization is not exposed at surface in this area. It is also possible that this is 
+on the periphery, along strike, of the mineralizing system as pyrite is in much greater 
+abundance at Box Lake than in other volcanic hosted copper showings. Mineralization 
+observed at Box Lake was either weak or only observed in talus (float) and therefore it is 
+difficult to give a full assessment of this area. More work is required for this showing. 
+
+11.3 Jennusty 
+The Jennusty showing lies 1.7 km to the NNW of Joss'alun. The very rusty outcrop is 
+visually distinct and can be easily seen from several kilometres distance. Small amounts 
+of chalcopyrite and malachite were discovered in a highly oxidized gabbro host. 
+Although the initial indications were that this was a very significant showing, subsequent 
+work has proven the gabbroic host to be a knocker of limited size hosted within a 
+serpentinite. 
+
+11.4 Bor 
+The Bor showing lies 2.25 km to the NW of Joss'alun. Chalcopyrite and pyrite 
+mineralization are hosted within a series of brittle structures in gabbro. The strike of the 
+host structures varies from 080 to 115 degrees. Mineralization is poddy and although up 
+to 1 m wide, is discontinuous. Of the gabbro hosted copper showings discovered at 
+Joss'alun, BOR is certainly the strongest, with some size potential. Three grab samples 
+were collected at the showings, returning grades of 0.54% copper and 5.10% copper. The 
+third sample returned "below detection limit" for copper. 
+
+12.0 EXPLORATION 
+
+12.1 Geochemical survey by prior issuer 
+Initial exploration in July 2003, by Imperial Metals, on the property was a geochemical 
+survey in of a 38 km grid made up of 31 north-south lines and three east-west tie-lines 
+laid out to provide full coverage of those areas expected to have a significant potential for 
+sulphide mineralization. Grid control was maintained by use of hand held GPS receivers. 
+Figure 5 shows the layout at a small scale. Three contractor personnel from Coureur de 
+Bois Ltd of Whitehorse carried out the grid work. 
+
+ 
+
+
+
+- 14 -  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                             Figure 4  Joss'alun showing area geology and sample results 
+ 
+
+ 
+
+
+
+- 15 - 
+
+ 
+
+1,518 soil samples were multi element assayed and plots draughted for copper, zinc, gold 
+and cobalt. Figure 5 shows the copper data.  
+
+Anomalous copper results were found to correspond well with the mapped boundaries of 
+the mafic volcanics in the Joss'alun area and found in the general vicinity of mafic 
+stratigraphy elsewhere. 
+
+Zinc results were found to weakly mirror the copper results in areas of overlying the 
+volcanic stratigraphy although rarely associated with high zinc values in the gabbro.  
+
+Gold anomalies were not coincident with copper and deemed to be an entirely separate 
+population.  Cobalt results showed only weak anomalies in a few area and did not appear 
+to have a good correlation with copper despite the association in many Cypress-type 
+VMS deposits. 
+
+Copper seems to be the best pathfinder for copper mineralization on the property. 
+
+12.2 Prospecting and Mapping by prior issuer 
+Preliminary prospecting resulted in the discovery of the Box lake and Jennusty copper 
+showings to the south-east and north-west of the Joss'alun discovery. A later 1:10 000 
+geological mapping over the whole of the property led to the discovery of the BOR 
+structurally hosted copper mineralization. 
+
+12.3 Geophysical Survey by prior issuer 
+A five-person crew from Aurora Geosciences of Whitehorse, Yukon was contracted in 
+September 2004 to carryout a programme of 4.55 km of line cutting and 4.7 km of IP 
+surveying. Copper Ridge Explorations Inc by virtue of their then tenure of the claim area 
+to be drilled, supervised the work. 
+
+ The grid consisted of a 700 m baseline at an azimuth of 130o, and seven cross lines, 
+ranging from 450 m to 750 m in length. The base line had Pickets were placed at 50 m 
+intervals on the base line and 25 m intervals on the cross lines. The IP survey used a pole-
+dipole array with 25 m dipole spacing and spacings of n=1 to n=6. Full survey details are 
+reported in Belcourt (2005). The IP line grid and the 2003 drill holes targeted to test the 
+Joss'alun showing are shown in Figure 6. Comparison of Figures 5 and 6 show the 
+coincidence of the geochem Cu anomalies with the IP lines and drill holes. The modelled 
+chargeability for six of the lines, L200E through to L300W, is shown below in Figures 7 
+and 8. 
+
+
+
+- 16 -  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                      Figure 5:  2003 Soil Geochemical grid with copper plot 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+- 17 -  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                  Figure 6:  2004 IP grid and 2003 Joss'alun drill holes 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+ –18 – 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           Figure 7:  Modelled IP sections 100W, 200W & 300W with drill holes and  Cu +0.1% in red 
+ 
+
+ 
+
+
+
+– 19 – 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Figure 8: Modelled IP sections 0E, 100E & 200E and drill holes with Cu +0.5% in red 
+ 
+
+ 
+
+
+
+- 20 - 
+
+Superimposed on the sections are the approximate locations of the drill holes, although it must 
+be remembered that these holes are up to 50 m off section and some are oblique to the sections. 
+The +0.5% copper intervals are shown on the sections. 
+
+There is a clear correlation on L0E and L100W between the copper mineralized zones 
+defined by drilling and a weak to moderate chargeability response. This correlation 
+demonstrates that it is reasonable to conclude that the chargeability results could be 
+reflecting disseminated to stockwork copper mineralization with concentrations in the 
+range of 1% to 3% chalcopyrite, with minor narrow lenses of massive sulphide. Pyrite 
+generally occurs with the chalcopyrite, but in subordinate amounts. These concentrations 
+of predominantly disseminated sulphides would be consistent with the levels of 
+chargeability reported in the survey.    
+ 
+There are no other minerals reported in the drill logs that would be likely to give a 
+chargeability effect. 
+ 
+Of particular interest are zones of anomalously high chargeability on L200W and L300W 
+– Figure 7 – south of the base line that could indicate a continuation of the sulphide 
+mineralization. These anomalies represent a possible extension of the stockwork copper 
+mineralization to the west. 
+ 
+There are also variations in resistivity along all of the lines surveyed, although these 
+variations show less readily correlated with known mineralization. In general, the 
+southern portions of each section have higher resistivity, while the northern ends are 
+lower resistivity. This could reflect an increase in ultramafic rocks and serpentinization, 
+which would significantly reduce resistivity, to the north. 
+ 
+Aurora Geosciences, who carried out the IP survey, are contractors. 
+
+12.4 Lomiko exploration 
+Lomiko Resources have not carried out any exploration on the property. 
+
+13.0 DIAMOND DRILLING BY PRIOR ISSUER 
+
+In 2003, a nine hole, 1517 m drilling programme was completed with drill sites and 
+targets based on the copper anomalies of the prior soil geochemical survey. Figure 6 
+shows the drill-holes sites and directions relative to the IP grid and claims Knack 1 and 2 
+boundaries. 
+ 
+The seven holes NAK-03-03 through NAK-03-09 targeted mineralization at the Joss'alun 
+showing – Figure 6. Holes NAK-03-03 through NAK-03-07 intersected widespread 
+copper mineralization hosted in the mafic volcanic stratigraphy. Copper occurs as 
+stringers, disseminations and pods of mainly chalcopyrite with pyrite. Hole NAK-03-08 
+intersected minor disseminated copper mineralization, but was drilled in a due south 
+direction so could well have intersected the volcanic stratigraphy too high up in the 
+
+
+
+- 21 - 
+
+section. NAK-03-09, the most easterly drill hole, is also thought to have penetrated the 
+volcanic stratigraphy too high to test the main copper bearing horizon. 
+
+The two holes NAK-03-01 and NAK-03-02 were drilled to target the gabbro-hosted 
+mineralization at the Jennusty showing. While these holes did intersect some minor 
+chalcopyrite mineralization in gabbro, they were stopped short of their projected targets 
+owing to difficult drilling conditions. All of the holes were on ground then held by 
+Copper Ridge Explorations and now the subject of an option agreement with Lomiko 
+Resources Inc.  
+
+Table 2: Significant Drill Results 
+
+Drill Hole # 
+ 
+
+metre Interval Length Cu% 
+
+NAK-03-03 41.50 - 109.56 68.06 0.21 
+ Including 41.50 - 48.40 6.90 0.30 
+ And 60.48 - 109.56 49.08 0.24 
+ And 100.10 - 109.56 9.46 0.87 
+NAK-03-04 43.79 - 100.82 57.03 0.10 
+ Including 65.00 - 93.15 28.15 0.12 
+ And 196.83 - 202.84 6.01 0.44 
+NAK-03-05 19.13 - 36.88 17.75 0.94 
+ Including 26.70 - 33.62 6.92 1.15 
+NAK-03-06 14.46 - 56.55 42.09 0.20 
+ Including 23.73 - 39.10 15.37 0.32 
+ And 42.10 - 56.55 14.45 0.20 
+NAK-03-07 143.38 - 196.83 53.45 0.34 
+ Including 143.38 - 151.36 7.98 0.36 
+ And 163.21 - 196.83 33.62 0.41 
+NAK-03-09 20.45 - 23.60 3.15 1.06 
+
+ 
+
+The drilling therefore was successful in demonstrating the presence of significant widths 
+of footwall stringer and semi-massive lenses of copper mineralization along at least a 
+200 m strike length within the mafic volcanic unit. The mineralization is open both ways 
+along strike and down dip. It is considered premature to estimate either mineralization 
+orientation or dip such that a true thickness could be quoted. 
+
+Drilling was carried out by Falcon Diamond Drilling from 31 August to 15 September 
+2003. Core size was BQ drilled by thin-wall core bit. 
+
+Lomiko Resources Inc has not completed any exploration drilling work on the Big Nak 
+Property 
+ 
+
+
+
+- 22 - 
+
+14.0 SAMPLING METHOD AND APPROACH 
+
+14.1 Soils  
+For the Imperil Metals Corp 2003 soil sampling program, a three-man crew from Coureur 
+Des Bois Ltd., based in Whitehorse, installed a grid over the property, to provide full 
+geochemical coverage over those areas expected to have significant potential for sulphide 
+mineralization. Three east west tie lines were tight-chained and picketed while the north 
+south lines were hip chained and slope corrected. Each member of the crew was equipped 
+with a hand-held GPS unit and frequently checked the line placement to ensure accuracy. 
+Stations were marked every 25 m over the entire grid with the exception of some lines 
+near the Joss'alun showing where sample spacing was tightened up to 10 m.  
+ 
+Soil was sampled over the entire grid area, except areas of boggy or extremely rocky 
+ground. Samples were collected using shovels and mattocks with the average sample 
+depth of 30 to 50 cm below surface. The material collected was usually 'B' horizon 
+although the very poorly developed soil profile often made the distinction of different soil 
+horizons difficult. 
+ 
+All soil samples were placed into standard Kraft paper bags and labelled in the field. 
+Labels reflected the grid location where the sample was collected. They were sorted, 
+dried and stored in a tent at the camp until a large enough suite of samples was available 
+to be packaged up and shipped. The samples were catalogued and sent by Greyhound to 
+Acme Analytical Laboratory in Vancouver. A total of 1,518 soil and 50 talus samples 
+were collected and analyzed. 
+ 
+Any sample bias from collection either from line deviation or soil horizon is not 
+considered significant for the requirements of the preliminary survey.  
+
+14.2 Core  
+Core was split on site and the traditional half, after bagging and labelling, sent for assay 
+and the other half stored in the core box. However, no report was either prepared or 
+issued for the drill program. However, we have confidence in that the program was under 
+the control of a professional geologist.  
+
+15.0 SAMPLING PREPARATION ANALYSES AND SECURITY 
+
+All samples (soil, rock, core) collected by Imperial Metals Corp and Copper Ridge 
+Explorations Inc were analyzed at Acme Analytical Laboratory Ltd in Vancouver.  
+Samples were collected according to industry standards and were shipped in secure 
+containers to the laboratory. 
+ 
+Acme Analytical Laboratories Ltd is currently certified with ISO 9001:2000 accreditation 
+and was the first commercial geochemical analysis and assaying lab in North America to 
+be accredited.  
+  
+
+
+
+- 23 - 
+
+Initial analysis for all samples was by multi-element ICP or ICP-MS analysis.  Soil and 
+sediments were sieved to -80 mesh. Rock and drill core samples are jaw crushed to 70% 
+passing 10 mesh, a 250 gm riffle split was then pulverized to 95% passing 150 mesh in a 
+mild-steel ring-and-puck mill.  Samples were digested in a modified Aqua Regia solution. 
+Samples exceeding the standard threshold level for copper were assayed by ICP or ICP-
+MS analysis  .  
+ 
+Additionally Acme used sample prep blanks for controls as well as repeat pulps and also  
+-10 mesh reject samples 
+
+16.0 DATA VERIFICATION 
+
+16.1 Core  
+The author, accompanied by Greg Dawson P. Geo., of Copper Ridge Explorations Inc 
+and Julia Madsen geologist working for Aurum Geological Consultants Inc., visited the 
+Joss'alun property September 13, 2004 to inspect drill core from the Imperial Metals 
+Corp drilling program completed in 2003. Unfortunately, the lack of either a core splitter 
+or core saw on the property at the time of the visit prevented the author from taking check 
+samples. 
+ 
+However, visual inspection of the half core of DDH-03-03, showed sufficient visible 
+chalcopyrite mineralization in the core to support the reported grade of 12.06% Cu over 
+0.30 m high-grade assay result for the increment 103.26-103.56 m. 
+ 
+Core from hole DDH-03-05 was also examined for the section 236.70-33.62 m which 
+returned a weighted assay of 1.15% Cu. Again there was sufficient disseminated and 
+massive chalcopyrite observed in the core to substantiate the high assay values. 
+ 
+The author has no reason to believe that the data reported on by past operators is not 
+substantially accurate.  
+
+16.2 Soil Sampling 
+The author did not take any check soil samples deeming that the 2003 grid was now too 
+indistinct to follow.  
+
+17.0 ADJACENT PROPERTIES 
+
+The author was unable to find any reports or data on the adjoining claims of John 
+MacFarland and there are no other relevant claims. 
+
+18.0 MINERAL PROCESSING AND METALLURGICAL TESTING 
+
+The Big Nak project is at an early stage of exploration with no significant body of 
+mineralization identified to date; no metallurgical testing has been carried out. 
+
+
+
+- 24 - 
+
+19.0 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES 
+
+There is no mineral resource or reserve estimate for the Big Nak property. 
+
+20.0 OTHER RELEVANT DATA AND INFORMATION 
+
+To the author's knowledge, there is no other relevant data or information that is not 
+reported here which could mislead the reader.  
+
+21.0 INTERPRETATION AND CONCLUSIONS 
+
+21.1 Interpretation 
+Results of the soil geochemical survey completed at Joss'alun in 2003 were successful in 
+identifying areas of surface copper mineralization. Known showings produce strong 
+anomalies with little displacement from the bedrock source other than minor down-slope 
+dispersion. The 2003 drill program successfully demonstrated the potential for the 
+discovery of a large stockwork or feeder-type copper deposit that would typically be 
+expected to occur beneath a massive sulphide deposit. 
+ 
+The Cypress-type VMS deposit model appears to be the most suitable given the current 
+information available. Considering the remote location of the property and the grades 
+typical of Cypress-type deposits, a minimum target size could be in the five to ten million 
+tonne range. 
+
+The actual copper assay results in drill core, as superimposed on sections 100W and 0E – 
+Figures 7 and 8 – demonstrate a reasonably close correspondence between sulphide 
+content, as represented by percent copper, and weak to moderate chargeability. Given the 
+likely total percent of sulphides in the rock, for the most part probably less than 3 to 5 %, 
+and the relatively coarse nature of the sulphide disseminations, in stockworks or narrow, 
+massive lenses, the weak to moderate chargeability values are in the range that might be 
+expected. 
+
+21.2 Conclusion   
+When comparing the modeled chargeability from lines 0E and 100W with L200W and 
+L300W shown in Figs 7 and 8 there is a strong suggestion that sulphide mineralization 
+continues in that direction, as indicated by zones of higher chargeability. This 
+mineralization could be either structurally or stratigraphically controlled, or some 
+combination of the two. Given the higher chargeability values to the west, the sulphide 
+mineralization could be more intense in this direction. 
+
+22.0 RECOMMENDATIONS 
+
+Based on the conclusions and previous work results, an airborne magnetics-
+electromagnetic survey completion is justified over the entire property. This should be 
+followed by further IP surveys extending the area surveyed to date.  Contingent on 
+
+
+
+- 25 - 
+
+successful results of a Phase I program, a success contingent Phase II consisting of 750 m 
+of core diamond drilling should be completed. 
+
+22.1 Phase 1   
+Phase I should consist of a helicopter-borne magnetic electromagnetic survey over the 
+entire property. The magnetics will be helpful in defining the ultramafic and mafic 
+volcanic rock stratigraphy and related structures while the electromagnetic survey should 
+detect any near-surface massive sulphide mineralization. Subsequent to interpreting the 
+airborne survey data, the IP survey should be expanded. Lines 0E, L100E, and L 100W, 
+200W should each be extended for 300 m to the northeast. Other anomalies interpreted 
+from the airborne surveys should also be covered. Particularly any anomalies associated 
+with the known surface mineralization at Jennusty, Bor, and Box Lake mineralized zones. 
+ 
+In addition, the soil grid should be extended to the east to cover an area of anomalous 
+copper and gold in soils outlined by the reconnaissance soil sampling done by Imperial 
+Metals. At the same time, the favourable mafic stratigraphy should be prospected and 
+mapped to the east and west of the current mapping.  
+
+22.2 Phase 2   
+A contingent, four hole, 750 m core drilling program is recommended to test the zones of 
+higher chargeability as outlined on L200W and L300W plus additional high chargeability 
+zones defined by the Phase I portion of the program recommended in this report. The 
+objective of the program would be to identify zones of higher-grade copper 
+mineralization, and to determine the structural and stratigraphic controls on that 
+mineralization.   
+
+22.1 Recommended Budget    
+This budget is an estimate of the costs of Phase I and Phase II programs.  
+ 
+ Phase I 
+  Item Amount 
+  Airborne Mag-EM survey (7 km x 7 km) $90,000 
+  Geophysical interpretation $8,000 
+  Geologist & helper $15,000 
+  Grid and soil sampling crew $15,000 
+  Geochemical analysis (800 soils) $20,000 
+  IP Survey (1200 m, 4 lines) $20,000 
+  Mob/Demob $8,000 
+  Data processing $4,000 
+  Camp supplies, groceries, sat phone $5,000 
+  Helicopter (10 hrs) $10,000 
+  Report, supervision $15,000 
+  Management fee $10,000 
+  Sub-Total $220,000 
+
+
+
+- 26 - 
+
+  
+ Phase II 
+  Item Amount 
+  Geologist $14,000 
+  Labour $16,000 
+  Drilling  (750 m  4 holes) $130,000 
+  Assaying (200 samples) $5,000 
+  Mob-Demob $8,000 
+  Cook, First Aid $8,000 
+  Camp supplies, communications $5,000 
+  Helicopter  (40 hrs) $40,000 
+  Report, supervision $10,000 
+  Management fee $10,000 
+  Sub-Total $246,000 
+ 
+ Total – Phases I and II $466,000 
+
+
+
+- 27 - 
+
+23.0 REFERENCES 
+
+Aitken, J.D.; (1959): Atlin map-area, British Columbia; Geological Survey of Canada, 
+Memoir, 307, 89 pages. 
+
+Belcourt, G.; (2005):  Copper Ridge Explorations Inc, Joss'alun Property Ground 
+Geophysical Program, NTS 104 N/02. Private report for Copper Ridge 
+Explorations Inc. 
+
+Doherty, R. Allan, (2004): Report on 2003 exploration activities and recommendations 
+for ongoing exploration, NI 43-101 Report for Consolidated Norsemont Ventures 
+Ltd., 22 p. 
+
+Lowe, C. and Mihalynuk, M.G. (2002): The Atlin Integrated Geoscience Project, 
+northwestern British Columbia- an overview, in Current Research, Part A, 
+Geological Survey of Canada, Paper 2002-A. 
+
+Mihalynuk, M.G., Bellefontaine, K.A., Brown, D.A., Logan, J.M., Nelson, J.L., Legun, 
+A.S. and Diakow, L.J. (1996): Geological compilation, northwest British 
+Columbia (NTS 94E,L, M; 104F, G, H, I, J, K, L, M, N, O, P; 114J, O, P); BC 
+Ministry of Energy and Mines, Open Files, 1996-11. 
+
+Mihalynuk, M.G. and Cordey, F. (1997): Potential for Kutcho Creek volcanogenic 
+massive sulphide mineralization in the northern Cache Creek Terrane; a progress 
+report; in Geological Fieldwork 1996; a summary of field activities and current 
+research., Lefebvre, V., McMillan, J., and McArthur (editors), BC Ministry of 
+Energy, Mines and Petroleum Resources, Paper 1997-1, pages 157-170. 
+
+Mihalynuk, M.G. (2002): Geological setting and style of mineralization at the Joss'alun 
+discovery, Atlin area, British Columbia; BC Ministry of Energy and Mines, 
+Geofile, GF2002-6, 4 pages (plus digital presentation). 
+
+Mihalynuk, Mitchell G., Villeneuve, Michael E. and Cordey, Fabrice (2003): Geological 
+setting and style of mineralization at the Joss'alun Occurrence, Atlin area, (NTS 
+104N/2SW), Minfile 104N136; BC Ministry of Energy and Mines, in Geological 
+Fieldwork 2002; Lefebvre, D. (editor), BC Ministry of Energy and Mines, Paper 
+2003-1, pp. 39-49. 
+
+Mihalynuk, Mitchell G., Johnston, Stephen T., English, Joseph M., Cordey, Fabrice, 
+Villeneuve, Michael E., Rui, Lin, and Orchard, Michael J. (2003): Atlin TGI Part 
+II: Regional Geology and Mineralization of the Nakina Area (NTS 104N/2W and 
+3); in Geological Fieldwork 2002; Lefebvre, D. (editor), BC Ministry of Energy 
+and Mines, Paper 2003-1, pp. 9-37. 
+
+Mihalynuk, M.G., Johnston, S.T., English, J.M., Cordey, F., Villeneuve, M.J., Rui, L. and 
+Orchard, M.J. (2003): Atlin TGI Part II: Regional geology and mineralization of 
+
+
+
+- 28 - 
+
+the Nakina Area (NTS 104N/2W and 3); in Geological Fieldwork 2002, BC 
+Ministry of Energy and Mines, Paper 2003-1. 
+
+Robertson, Stephen (2004): Geological and Geochemical Report D1 –D12, Knack 1 – 2, 
+Nic, Wack and D Claims, Nak Property Atlin B.C., Imperial Metals Corporation 
+Assessment Report # 27,304 
+
+
+
+24.0 DATE ANI)
+
+Tel: 867.667.4168
+Fax: 867.668.2021
+
+email: aurum@yknet.ca
+
+SIGNATURE
+
+Aurum Geological Consultants Inc
+
+l064 Granite Rod
+Whitehorse
+
+Yukon YIA 2V9
+
+28 Apri l  2008
+
+The effective date of this report October 4,2007 and amended January 25,2008, March
+28, 2008 and April 28, 2008
+
+R. Allan Doherty, P. Geo
+
+Apri l  28, 2008
+
+-29 -
+
+
+
+- 30 - 
+
+Aurum Geological Consultants Inc 
+ 
+
+Tel:  8867.667.4168 106A Granite Rod 
+Fax:  867.668.2021 Whitehorse 
+
+email: aurum@yknet.ca Yukon Y1A 2V9 
+ 
+
+28 April 2008 
+ 
+I   R. Allan Doherty PGeo do hereby certify that: 
+ 
+1 I am an independent consulting geologist and principal of Aurum Geological 
+
+Consultants 
+ 
+2. I graduated with a Bachelor of Science in Geology from University of New 
+
+Brunswick in 1977 
+ 
+3 I am a member of the Association of Professional Engineers and Geoscientists in the 
+
+Province of British Columbia, Canada.  
+ 
+4 I have been professionally active in the mining industry for 30 years since initial 
+
+graduation from university. 
+ 
+5 I have read the definition of "qualified person" set out in National Instrument 43-101 
+
+and certify that by reason of my education, affiliation with a professional association 
+and past relevant work experience, I fulfill the requirements to be a "qualified person" 
+for the purposes of NI 43 -10 1. 
+
+ 
+6 I am responsible for the preparation of all sections of the technical report titled 'A 
+
+technical review of the big Nak project and dated 28 April 2008 relating to the Big 
+Nak property in the Atlin Mining Division in northern British Columbia. I visited the 
+Big Nak property on 13 September 2004.  
+
+ 
+7 I have written a previous technical report (as noted in References) on the part of the 
+
+property, which is the subject of this technical report, in 2004 
+ 
+8 I am not aware of any material fact or material change with respect to the subject 
+
+matter of the technical report, which is not reflected in the Technical Report, the 
+omission to disclose which makes the technical report misleading. 
+
+ 
+9 I am independent of the issuer, applying all of the tests in section 1.5 of National 
+
+Instrument 43-101. 
+ 
+10 I have read National Instrument 43-101 and Form 43-101FI, and the technical report 
+
+has been prepared in compliance with that instrument and form. 
+ 
+
+
+
+I I I consent to the filing of the Technical Report with any stock exchange and other
+regulatory authority and any publication by them, including electronic publication in
+the public compan)/ files on their websites accessible by the public, of the Technrcal
+Report.
+
+Signed and sealed 28 day of April 2008 in Whitehorse, Yukon
+
+11. Alan Doherfy, B.Sc, P.Geo
+Consulting geologist
+
+- 3 1
+
+
+
+
+'

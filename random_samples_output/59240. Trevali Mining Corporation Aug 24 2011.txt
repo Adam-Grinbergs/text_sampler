@@ -1,0 +1,3691 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - 0787190100-REP-R0001-00 Ruttan NI 43-101 Trevali.doc
+
+
+0787190100-REP-R0001-00
+
+Report to:
+
+TREVALI MINING CORP.
+
+Technical Report on the
+Former Ruttan Mine,
+Northern Manitoba, Canada
+
+Document No. 0787190100-REP-R0001-00
+
+
+
+0787190100-REP-R0001-00
+
+Report to:
+
+TREVALI MINING CORP.
+
+TECHNICAL REPORT ON THE
+FORMER RUTTAN MINE,
+NORTHERN MANITOBA, CANADA
+
+EFFECTIVE DATE: FEBRUARY 18, 2009
+FILING DATE: AUGUST 19, 2011
+
+Prepared by Tim Maunula, P.Geo.
+Christopher Moreton, Ph.D., P.Geo.
+
+MM/vc
+
+Suite 900, 330 Bay Street, Toronto, Ontario M5H 2S8
+Phone: 416-368-9080 Fax: 416-368-1963
+
+
+
+0787190100-REP-R0001-00
+
+Report to:
+
+TREVALI MINING CORP.
+
+TECHNICAL REPORT ON THE
+FORMER RUTTAN MINE,
+NORTHERN MANITOBA, CANADA
+
+EFFECTIVE DATE: FEBRUARY 18, 2009
+FILING DATE: AUGUST 19, 2011
+
+Prepared by "Original document signed by
+Tim Maunula, P.Geo."
+
+Date
+August 19, 2011
+
+Tim Maunula, P.Geo.
+
+Reviewed by "Original document signed by
+Mike McLaughlin, P.Geo."
+
+Date
+August 19, 2011
+
+Mike McLaughlin, P.Eng.
+
+Authorized by "Original document signed by
+Tim Maunula, P.Geo."
+
+Date
+August 19, 2011
+
+MM/vc
+
+Tim Maunula, P.Geo.
+
+330 Bay Street, Suite 900, Toronto, Ontario M5H 2S8
+Phone: 416-368-9080 Fax: 416-368-1963
+
+
+
+0787190100-REP-L0001-04
+
+R E V I S I O N H I S T O R Y
+
+REV.
+NO
+
+ISSUE DATE PREPARED BY
+AND DATE
+
+REVIEWED BY
+AND DATE
+
+APPROVED BY
+AND DATE
+
+DESCRIPTION OF REVISION
+
+00 2011/08/19 Tim Maunula Mike McLaughlin Tim Maunula
+Original technical report readdressed to Trevali
+Mining Corp.
+
+
+
+i 0787190100-REP-R0001-00
+
+T A B L E O F C O N T E N T S
+
+1.0 SUMMARY .......................................................................................................................... 1
+
+1.1 RESOURCE STATEMENT ........................................................................................................3
+
+2.0 INTRODUCTION AND TERMS OF REFERENCE.............................................................. 4
+
+2.1 TERMS OF REFERENCE .........................................................................................................6
+
+3.0 RELIANCE ON OTHER EXPERTS..................................................................................... 8
+
+4.0 PROPERTY DESCRIPTION AND LOCATION ................................................................... 9
+
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND
+PHYSIOGRAPHY.............................................................................................................. 14
+
+6.0 HISTORY........................................................................................................................... 16
+
+6.1 COPPER CLAIMS .................................................................................................................16
+
+7.0 GEOLOGICAL SETTING.................................................................................................. 20
+
+7.1 REGIONAL GEOLOGY...........................................................................................................20
+
+7.2 PROPERTY GEOLOGY..........................................................................................................20
+7.2.1 RUTTAN MINE (COPPER CLAIMS)........................................................................20
+
+8.0 DEPOSIT TYPE................................................................................................................. 26
+
+9.0 MINERALIZATION............................................................................................................ 27
+
+10.0 EXPLORATION................................................................................................................. 28
+
+10.1 DRILLING 2007 ...................................................................................................................28
+
+10.2 DRILLING, 2007-2008 .........................................................................................................30
+
+10.3 DRILLING, 2008 ..................................................................................................................32
+
+10.4 GEOPHYSICS, 2008 ............................................................................................................33
+
+10.5 EXPLORATION EXPENDITURES, 2007-2008..........................................................................33
+
+11.0 DRILLING.......................................................................................................................... 35
+
+12.0 SAMPLING METHOD AND APPROACH ......................................................................... 36
+
+13.0 SAMPLE PREPARATION, ANALYSES, AND SECURITY............................................... 38
+
+14.0 DATA VERIFICATION ...................................................................................................... 40
+
+15.0 ADJACENT PROPERTIES ............................................................................................... 42
+
+16.0 MINERAL PROCESSING AND METALLURGICAL TESTING......................................... 43
+
+
+
+ii 0787190100-REP-R0001-00
+
+17.0 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES.................................... 44
+
+17.1 INTRODUCTION ...................................................................................................................44
+17.1.1 DATABASE .........................................................................................................44
+17.1.2 SPECIFIC GRAVITY .............................................................................................45
+
+17.2 EXPLORATORY DATA ANALYSIS ...........................................................................................45
+17.2.1 RAW ASSAYS.....................................................................................................46
+17.2.2 CAPPING ...........................................................................................................46
+17.2.3 COMPOSITES .....................................................................................................49
+
+17.3 GEOLOGICAL INTERPRETATION ............................................................................................53
+
+17.4 SPATIAL ANALYSIS ..............................................................................................................54
+
+17.5 BLOCK MODEL ....................................................................................................................54
+17.5.1 BLOCK MODEL SIZE ...........................................................................................54
+17.5.2 INTERPOLATION PLAN ........................................................................................57
+17.5.3 METAL EQUIVALENCY FORMULAE .......................................................................58
+17.5.4 MINERAL RESOURCE CLASSIFICATION ................................................................59
+17.5.5 MINERAL RESOURCE TABULATION ......................................................................60
+17.5.6 VALIDATION .......................................................................................................62
+
+18.0 OTHER RELEVANT DATA AND INFORMATION ............................................................ 64
+
+19.0 INTERPRETATION AND CONCLUSIONS ....................................................................... 65
+
+20.0 RECOMMENDATIONS ..................................................................................................... 66
+
+21.0 REFERENCES .................................................................................................................. 67
+
+22.0 CERTIFICATE OF QUALIFIED PERSONS ...................................................................... 69
+
+22.1 CERTIFICATE FOR PAUL DAIGLE, P.GEO. ............................ ERROR! BOOKMARK NOT DEFINED.
+
+22.2 CERTIFICATE FOR CHRISTOPHER MORETON, PH.D., P.GEO. ................................................70
+
+22.3 CERTIFICATE FOR TIMOTHY MAUNULA, P.GEO. ....................................................................69
+
+L I S T O F T A B L E S
+
+Table 1.1 Inferred Resources for the Ruttan Project at 1% CuEQ Cut-off Base Case ........ 3
+Table 4.1 List of Claims....................................................................................................... 12
+Table 5.1 Location and Access (from Harron, 2007) .......................................................... 15
+Table 6.1 History of the Copper Claims .............................................................................. 16
+Table 10.1 Kria 2007 Drill Hole Coordinates (Local Grid)..................................................... 29
+Table 10.2 Significant Values from the 2007 West Anomaly Drilling.................................... 29
+Table 10.3 Significant Values from the 2007 Hanging Wall Zinc Zone Drilling .................... 29
+Table 10.4 Drill Hole Coordinates form the 2007-2008 Winter Drilling Program.................. 31
+Table 10.5 Significant Results of the 2007/08 Winter Drill Program..................................... 32
+Table 10.6 Kria 2008 Summer Drill Hole Coordinates.......................................................... 32
+Table 10.7 Kria 2007 and 2008 Exploration Expenditures ................................................... 33
+
+
+
+iii 0787190100-REP-R0001-00
+
+Table 14.1 Check Sample Results from the 2007 Drilling Program ..................................... 41
+Table 17.1 Block Centroid Coordinates for the Ruttan Project............................................. 44
+Table 17.2 Summary of the Drilling Data Records................................................................ 45
+Table 17.3 HBM&S Specific Gravity Formula ....................................................................... 45
+Table 17.4 Raw Assay Statistics for the Complete Dataset (Excluding Regional Holes) .... 46
+Table 17.5 Capping Levels for the Complete Dataset (Excluding Regional Holes) ............. 46
+Table 17.6 Raw Assay Sample Length Statistics (Excluding Regional Holes) .................... 49
+Table 17.7 Composite Capped Samples .............................................................................. 50
+Table 17.8 Statistical Summary of all Composites (Values>0)............................................. 50
+Table 17.9 Solids Names and Explanation ........................................................................... 53
+Table 17.10 GEMS Block Model Limits (Edge to Edge) ......................................................... 54
+Table 17.11 Block Sizes.......................................................................................................... 54
+Table 17.12 Interpolation Parameters for Passes 1 and 2 ..................................................... 58
+Table 17.13 Distance to Nearest Composite Statistics........................................................... 60
+Table 17.14 Inferred Mineral Resources at Ruttan (Estimate by Wardrop, 2008) ................. 61
+Table 17.15 Global Grade Comparisons................................................................................. 62
+
+L I S T O F F I G U R E S
+
+Figure 4.1 General Location Map (From Harron, 2007)....................................................... 10
+Figure 4.2 Property Map (from Harron, 2007)...................................................................... 11
+Figure 6.1 General Location of the Mineralization (form Harron, 2007) .............................. 17
+Figure 6.2 Simplified Longitudinal Section (from Harron, 2007) .......................................... 18
+Figure 7.1 Regional Geology – Rusty Lake Belt (from Harron, 2007) ................................. 21
+Figure 7.2 Geology – Ruttan Mine Area (from Harron, 2007).............................................. 22
+Figure 10.1 Drill Hole Location Map, Kria Drill Programs 2007-2008 .................................... 34
+Figure 17.1 Copper Assays (%) for the Complete Dataset (Excluding Regional Holes)....... 47
+Figure 17.2 Zinc Assays (%) for the Complete Dataset (Excluding Regional Holes)............ 48
+Figure 17.3 Decile-Percentile Data for Zinc within the Complete Dataset (Excluding Regional
+
+Holes) .................................................................................................................. 49
+Figure 17.4 Histogram and Cumulative Probability Plot for Copper ...................................... 51
+Figure 17.5 Histogram and Cumulative Probability Plot for Zinc ........................................... 52
+Figure 17.6 Three-Dimensional View of the Solids Used for the Resource Model................ 55
+Figure 17.7 Search Ellipse Parameters.................................................................................. 56
+Figure 17.8 Block Model Set-Up in GEMS............................................................................. 57
+Figure 17.9 Solid Extrusion Issues (Blocks Shown by Red Lines) ........................................ 60
+Figure 17.10 Composites-Block Model Grade Comparisons (1) ............................................. 62
+Figure 17.11 Composites-Block Model Grade Comparisons (2) ............................................. 63
+
+
+
+Trevali Mining Corp. 1 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+1 . 0 S U M M A R Y
+
+Beartooth Platinum Corporation (Beartooth) is a Canadian registered mining
+
+company and publicly listed on the TSX – Venture Exchange.
+
+Kria Resources Limited (Kria) is a private Canadian registered base metal
+
+exploration and development company focused on high quality base metal assets
+
+including lead, zinc, copper and nickel in Manitoba and New Brunswick, Canada.
+
+On October 23, 2008, Beartooth and Kria signed an agreement whereby Beartooth
+
+will acquire all of the outstanding common shares of Kria in exchange for common
+
+shares of Beartooth and effect a merger of the two companies under the name of
+
+Kria Resources Incorporated.
+
+The following report is a revision of the "Technical Report on the Former Ruttan
+
+Mine, Northern Manitoba, Canada" authored by Christopher Moreton, Ph.D., P.Geo.,
+
+former Senior Geologist with Wardrop Engineering Inc. (Wardrop) on August 1, 2008.
+
+The revision includes an update of exploration activities conducted by Kria during
+
+2007 and 2008. These activities are included in this revised report to complete the
+
+description of all exploration activities conducted on the former Ruttan Mine. The
+
+results of these exploration activities do not materially change the resulting resource
+
+estimate presented in this report.
+
+Wardrop has prepared a National Instrument (NI) 43-101 compliant report and
+
+resource estimate for the mineralization remaining within the former Ruttan Mine.
+
+The estimate includes the areas known as the West Anomaly Mine and Main Mine as
+
+well as the recently discovered lens known as the Hanging Wall Zinc Zone.
+
+The Ruttan Mine property is located approximately 21 kilometres (km) east of the
+
+Village of Leaf Rapids, which in turn is approximately 750 kilometres north-northwest
+
+of Winnipeg, Manitoba. Vehicle access to the mine site is via Provincial Highway
+
+391 to Leaf Rapids and then the all-weather Southern Indian Lake road.
+
+The Ruttan property consists of the contiguous un-surveyed Copper 1 to 4 and
+
+Copper 8 to 11 mining claims as well as a single claim (Copper 12) staked by Kria on
+
+January 26
+th
+
+2007. All of these claims are located in National Topographic System
+
+(NTS) quadrangle 64/B/05 within The Pas Mining Division, Manitoba. The nine
+
+Copper claims cover a nominal area of 1,994 hectares and contain the former Ruttan
+
+Mine, tailings ponds, waste rock disposal areas and lands previously occupied by the
+
+mine-mill complex.
+
+The former Ruttan Mine closed in 2002 due to low metal prices. Production from the
+
+mine in the period 1973-2002 was 55,175,754 tonnes grading 1.23% copper and
+
+
+
+Trevali Mining Corp. 2 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+1.41% zinc. The reserve estimates are not supported by an NI 43-101 pre-feasibility
+
+study and should not be relied upon. Wardrop has prepared a new resource
+
+estimate for the remaining mineralization at the former Ruttan Mine (this report).
+
+Both the open pit and the underground infrastructure on the Ruttan property are
+
+flooded. The near-pit surface run-off is currently channelled into the pit. Buildings
+
+related to the operation of the former mine have been demolished and some aspects
+
+of surface reclamation have been started by the Government of Manitoba.
+
+Newdene Gold Inc. (Newdene) entered into an option agreement with W. S. Ferreira
+
+Ltd, dated July 31, 2006, for the purpose of acquiring a 100% interest in the Copper
+
+1-4 mining claims. The Copper 8-11 claims were subsequently added and form part
+
+of the option agreement. On January 25, 2007 Newdene Gold Inc. sold its interest to
+
+Kria for $250,000 cash and retained a 2% net smelter royalty. At the time of writing
+
+the Copper claims (1 to 4 and 8 to 12) are in Kria's name.
+
+The Copper claims are located in the west central portion of the Paleoproterozoic
+
+Rusty Lake greenstone belt in the Lynn Lake-Leaf Rapids Domain on the northern
+
+flank of the Trans-Hudson Orogen. The supracrustal rocks in the immediate area of
+
+the Ruttan Mine on the Copper claims are divided into the Mill Pond unit (MPU), the
+
+Mine Sequence unit (MSU), and the Powder Magazine unit (PMU) from north to
+
+south respectively. All units have been subjected to sub-greenschist to amphibolite
+
+facies metamorphism.
+
+The northern section of the MSU consists of a homogeneous sequence of layered,
+
+heterolithic, intermediate volcaniclastic rocks that ranges from 200 to 300 metres in
+
+thickness. These are referred to as the "footwall volcaniclastic rocks". The middle
+
+section is approximately 75 metres thick and consists of variably altered
+
+volcaniclastic fragmental rocks of dacitic to rhyolitic composition with local exhalite
+
+layers. This section hosts several large lenses of massive sulphide mineralization
+
+which collectively make up the Ruttan deposit. The southern section of the MSU is
+
+up to 100 metres thick and is composed of a distinctive package of light grey to
+
+white, quartz-phyric, rhyolitic volcaniclastic rocks that have a uranium/lead (U/Pb)
+
+age of 1883+/- 2 million years (Ma). Three, or possibly four, periods of deformation
+
+have folded the ore bodies into steeply southeast plunging lenses separated by east-
+
+northeast trending shear zones.
+
+The Ruttan mine is classified as a bimodal-siliciclastic type of volcanogenic massive
+
+sulphide deposit (VMS), similar to those found in the Iberian Pyrite Belt of Portugal
+
+and Spain and in the Bathurst district of New Brunswick, Canada. Deposits of this
+
+type can be located with electromagnetic geophysical surveys and whole rock
+
+geochemical surveys. Wardrop considers that the exploration potential within the
+
+Ruttan claims is above average.
+
+Two near surface zinc- and/or copper-rich opportunities are identified in the historical
+
+database. One opportunity is the upper portion of the West Anomaly Mine which
+
+was developed and partially prepared for mining at the time of closure in 2002.
+
+
+
+Trevali Mining Corp. 3 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+The second opportunity, known as the north hanging wall zinc zone, is located east-
+
+northeast of the mine. Currently it has no underground access. Drill hole UD5803
+
+returned a weighted average Zn value of 26.18% over 3.86 metres.
+
+In mid-2008, Kria completed an exploration drilling program to evaluate the potential
+
+of these (and other) opportunities. A total of 35 drill holes were completed for a total
+
+of 11,114 metres. An updated resource estimate was developed based these and
+
+historical drill holes.
+
+The Ruttan Project contains areas of historical near-surface unmined resources;
+
+recent drilling by Kria has confirmed the presence of this mineralization. The
+
+exploration potential on the property is considered to be excellent, particularly the
+
+down-plunge extension of the Hanging Wall Zinc Zone.
+
+1 . 1 R E S O U R C E S T A T E M E N T
+
+Table 1.1 shows the resource estimate for the Ruttan project. The highlighted line is
+
+the suggested base case for a deposit in northern Manitoba.
+
+Table 1.1 Inferred Resources for the Ruttan Project at 1% CuEQ Cut-off Base
+
+Case
+
+Solid Names Grades
+Volume of
+
+Solids (m
+3
+)*
+
+Density
+
+(t/m
+3
+)
+
+Tonnage
+
+(t)*
+
+Cu
+
+(%)
+
+Zn
+
+(%)
+
+CuEQ07*
+
+(%)
+
+Combined Main
+
+and West
+
+Anomaly Mine
+
+Areas (includes
+
+the HW Zinc
+
+Zone)
+
+>2.0 894,870 3.672 3,285,659 1.90 3.13 2.59
+
+>1.5 2,265,640 3.642 8,252,155 1.50 2.30 2.06
+
+>1.0 4,742,140 3.616 17,148,138 1.23 1.60 1.64
+
+*m
+3
+
+– cubic metres t – tonnes CuEq – copper equivalent
+
+
+
+Trevali Mining Corp. 4 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+2 . 0 I N T R O D U C T I O N A N D T E R M S O F
+R E F E R E N C E
+
+Beartooth is a Canadian registered mining company and publicly listed on the TSX –
+
+Venture Exchange.
+
+Kria is a private Canadian registered base metal exploration and development
+
+company focused on high quality base metal assets including lead, zinc, copper and
+
+nickel in New Brunswick and Manitoba, Canada.
+
+On October 23, 2008, Beartooth and Kria signed an agreement whereby Beartooth
+
+will acquire all of the outstanding common shares of Kria in exchange for common
+
+shares of Beartooth. In effect this is a reverse takeover of Beartooth by Kria where
+
+the merged companies shall be registered under the name of Kria Resources
+
+Incorporated
+1
+. It was proposed in the agreement that Beartooth common shares will
+
+be consolidated on the basis of one new common share for every 20 old common
+
+shares.
+
+Beartooth has agreed to issue one post-consolidation common share for each Kria
+
+common share. Each outstanding Kria convertible security will be exercisable for
+
+Beartooth common shares based on the exchange ratio. Upon completion of the
+
+merger Kria shareholders will hold approximately 82.5% of the issued and
+
+outstanding common shares of the combined company. Following completion of the
+
+merger, the Kria board of directors and management team will become the board
+
+and management team of the new combined company (Press Release, Oct 2008).
+
+The Ruttan property is located in northern Manitoba approximately 21 km east of the
+
+Village of Leaf Rapids and about 750 km north-northwest of Winnipeg, Manitoba. All
+
+nine claims are held in good standing by Kria:
+
+ Copper 1 to 3 (inclusive) expires on March 18, 2012.
+
+ Copper 4 expires on March 19, 2009
+
+ Copper 8 to 11 (inclusive) expires on October 22, 2012.
+
+ Copper 12 expires on April 10, 2009.
+
+Numerous lenses of base metal massive sulphide mineralization are present on the
+
+property and some of these have been exploited by two previous operators of the
+
+Ruttan mine (Sherritt Gordon and HBM&S). Two areas close to the mining
+
+1
+For purposes of simplicity, the ownership of the Ruttan Project, except where stated, shall be referred to as
+
+"Kria".
+
+
+
+Trevali Mining Corp. 5 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+infrastructure have been drilled by Kria in 2007/2008 to investigate the base metal
+
+potential – these areas were not mined by either of the previous two operators.
+
+Base metal mineralization was discovered by drilling following an airborne
+
+electromagnetic (EM) survey in 1968. Subsequent ground EM and magnetic surveys
+
+were followed-up by diamond drilling in 1968/1969. A drill-indicated resource was
+
+defined in 1969 and the mine-site infrastructure was constructed between 1970 and
+
+1972. Open pit production ran from 1973 to 1980 while underground production ran
+
+from 1979 to 1987. HBM&S purchased the mine from SGM in 1987 and went on to
+
+discover the West Mine in 1988. The mine closed in 2002 due to low base metal
+
+prices.
+
+Wardrop conducted a site visit between August 6 and 8, 2007 to examine the
+
+location, access and physical condition of the Ruttan property. A review of the
+
+available drill core and drill set-ups for the 2007 program was also conducted. In
+
+addition, on-site discussions of practices and procedures were held with the
+
+geologist in charge of the drill program, the in-coming Vice-President of Exploration
+
+and the Vice-President of Operations for Kria.
+
+In 2007, Kria began an exploration program to evaluate the potential of the upper
+
+portions of the West Anomaly and the Hanging Wall Zinc Zone. At the time of writing
+
+Kria has drilled 35 holes for a total of 11,114 metres. Complete assay results for
+
+these holes are scheduled for release in May 2008. A Versatile Time Domain
+
+Electromagnetic (VTEM) survey was flown in April 2008 and borehole EM will be
+
+used to optimise additional drill targets. Various press releases are presented on the
+
+Kria website: (www.kiriaresources.com).
+
+The following list shows the meaning of the abbreviations for technical terms used
+
+throughout the text of this report.
+
+Abbreviation Meaning
+
+AEM Airborne electromagnetic survey
+
+AMAG Airborne magnetic survey
+
+Ag Silver
+
+As Arsenic
+
+Au Gold
+
+cm Centimetre
+
+Cu Copper
+
+ddh Diamond drill hole
+
+EM Electromagnetic survey
+
+g Gram
+
+g/t Grams per tonne
+
+ha Hectare(s)
+
+HBM&S Hudson Bay Mining and Smelting
+
+HLEM Horizontal loop electromagnetic (survey)
+
+IP/RES Induced polarization/resistivity (survey)
+
+km Kilometre(s)
+
+
+
+Trevali Mining Corp. 6 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Abbreviation Meaning
+
+L Level
+
+m Metre(s)
+
+Ma Million years
+
+MAG Magnetic survey
+
+mm Millimetre(s)
+
+NI National Instrument
+
+PEM Pulse electromagnetic survey
+
+Pb Lead
+
+ppm Parts per million
+
+PUBCO Public company
+
+SGM Sherritt-Gordon Mines
+
+U/Pb Uranium/lead (age date)
+
+VLF-EM Very low frequency electromagnetic (survey)
+
+VTEM Versatile time-domain electromagnetic (survey)
+
+Zn Zinc
+
+2 . 1 T E R M S O F R E F E R E N C E
+
+Kria has retained Wardrop to prepare a NI 43-101 compliant Technical Report and
+
+Resource Estimate for the former Ruttan property in northern Manitoba.
+
+The address of the corporation is Suite 810, 65 Queen St. W., Toronto, Ont. M5H
+
+2M5. Kria is a private company incorporated under the laws of Ontario and the
+
+Ruttan Mine property is material to the corporation. This report may be used by Kria
+
+to support an application for listing on the Toronto Stock Exchange.
+
+This report is prepared in compliance with the Canadian Securities and
+
+Administrators NI 43-101 under the direct supervision of:
+
+Christopher Moreton, PhD, P.Geo, was formerly a Senior Geologist with Wardrop
+
+Engineering Inc. He directed the review of the data as well as the estimation of the
+
+resources for the Ruttan property. He also visited the property between the dates of
+
+August 6 and 8, 2007 to review the drill sites, drill core and general property layout.
+
+No limitations were put on the author by Kria during the preparation of this report.
+
+Pierre Desautels, P.Geo, was formerly a Senior Geologist with Wardrop
+
+Engineering Inc. He provided technical support as well as critical peer review of the
+
+methods and procedures for this report.
+
+Tim Maunula, P.Geo, is the General Manager for Wardrop Engineering's Toronto
+
+Mining Office and provided on-going technical support and peer review of the final NI
+
+43-101 compliant report.
+
+
+
+Trevali Mining Corp. 7 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Noris Del Bel Belluz, P.Geol. is the Manager of Technical Services for Wardrop
+
+Engineering Inc. He provided on-going geological support and peer review of the
+
+final NI 43-101 compliant report.
+
+In February 2009, this report was revised by:
+
+Paul Daigle, P.Geo., a Senior Geologist with Wardrop and has over 19 years of
+
+progressive experience in evaluating and developing mineral exploration and mining
+
+projects worldwide.
+
+
+
+Trevali Mining Corp. 8 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+3 . 0 R E L I A N C E O N O T H E R E X P E R T S
+
+In the preparation of this report Wardrop has not relied upon any sources of
+
+information where the author is a non-qualified person with the exception of legal
+
+title.
+
+Land tenure information has been obtained from the Manitoba Industry, Economic
+
+Development and Mines (MIEDM), Mineral Resources Division web site, which
+
+contains a disclaimer as to the veracity of the data. In addition, the existence and
+
+validity of any un-registered agreements between parties are not reflected in the
+
+Manitoba land management system.
+
+Wardrop has relied on two principal sources of information for the data contained in
+
+this report as follows: digital and hardcopy information provided by Kria and a
+
+hardcopy technical report prepared by Harron (2007). Wardrop believes this
+
+information to be accurate.
+
+
+
+Trevali Mining Corp. 9 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+4 . 0 P R O P E R T Y D E S C R I P T I O N A N D
+L O C A T I O N
+
+Wardrop has not conducted a title search nor has it verified the legal description of
+
+the property.
+
+The Ruttan project is located approximately 21 kilometres east of the Village of Leaf
+
+Rapids, which in turn is approximately 750 kilometres north-northwest of Winnipeg,
+
+Manitoba (Figure 4.1). The Ruttan property consists of the contiguous un-surveyed
+
+Copper 1 to 4 and 8 to 11 (Figure 4.2) mining claims. All of these claims are located
+
+in NTS quadrangle 64/B/05 within The Pas Mining Division, Manitoba. The nine
+
+claims cover a nominal area of 1,994 hectares and contain the former Ruttan Mine,
+
+tailings ponds, waste rock disposal areas and lands previously occupied by the mine-
+
+mill complex.
+
+The following excerpt is taken from Harron (2007). It explains the issuer's rights and
+
+obligations for the Ruttan property:
+
+Newdene Gold Inc. entered into an option agreement with W. S. Ferreira Ltd
+
+dated July 31, 2006, for the purpose of acquiring a 100% interest in the Copper
+
+1-4 and the Bill 5025* mining claims. The Copper 8-11 claims were
+
+subsequently added and form part of the option agreement. Terms of the
+
+agreement include aggregate cash payments of $100,000, the issuance of
+
+300,000 common shares of PUBCO, and, at the election of the optionor, either
+
+an additional $750,000 cash or 750,000 common shares of PUBCO. A work
+
+commitment of $1,000,000 before the second anniversary of the agreement, the
+
+granting of a 2% Net Smelter Return Royalty, and the opportunity to acquire 1%
+
+of the Net Smelter Return Royalty for $1,500,000 are additional terms included
+
+in the agreement.
+
+As of January 25, 2007, Newdene sold its rights and obligations in the properties
+
+to Kria. Terms of the transaction include $ 250,000 cash and a 2% Net Smelter
+
+Return Royalty in favour of Newdene. Kria has the right to purchase the entire
+
+Net Smelter Return (NSR) Royalty for $ 2,000,000 cash or common stock at any
+
+time.
+
+To the writer's knowledge there are no current or pending challenges to the
+
+ownership or title of the lands, as revealed by examining claim abstracts
+
+maintained by the MIEDM, Mineral Resources Division, Winnipeg office.
+
+
+
+Trevali Mining Corp. 10 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 4.1 General Location Map (From Harron, 2007)
+
+
+
+Trevali Mining Corp. 11 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 4.2 Property Map (from Harron, 2007)
+
+
+
+Trevali Mining Corp. 12 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Newdene and W. S. Ferreira Ltd. (claim holders) warrant that the corporation
+
+has not received from any government authority any notice of, or communication
+
+relating to, any actual or alleged breach of any environmental laws, regulations,
+
+policies or permits.
+
+Table 4.1 List of Claims
+
+Name Number Area (ha)
+Record Date
+
+(yy.mm.dd)
+
+Expiry Date
+
+(yy.mm.dd)
+Registered Owner
+
+Copper 1 MB6509 214 06.01.18 12.03.18 Kria
+
+Copper 2 MB6510 224 06.01.18 12.03.18 Kria
+
+Copper 3 MB6511 224 06.01.18 12.03.18 Kria
+
+Copper 4 MB6512 256 06.01.18 09.03.19 Kria
+
+Copper 8 MB6908 140 06.08.23 12.10.22 Kria
+
+Copper 9 MB6909 200 06.08.23 12.10.22 Kria
+
+Copper 10 MB6910 256 06.08.23 12.10.22 Kria
+
+Copper 11 MB6911 224 06.08.23 12.10.22 Kria
+
+Copper 12 MB7016 256 07.02.09 09.04.10 Kria
+
+Totals 9 1,994
+
+Source: Government of Manitoba, Department of Science and Technology, Energy and Mines
+(website)
+
+The following excerpt is also from Harron (2007):
+
+In Manitoba a claim is good for two years after it has been recorded. To
+
+maintain tenure beyond two years the holder is required to perform and report
+
+exploration work. The work requirements are $12.50 per hectare for each year
+
+from year two to year ten, and $25.00 per hectare for year 11 and beyond.
+
+An exploration expenditure of $11,475 is required to be expended on the Copper
+
+1-4 and $10,250 on the Copper 8-11 claims by March 18, 2008 and August 10,
+
+2008 respectively in order to maintain tenure.
+
+In order to produce minerals from a claim, the claim must be converted to a
+
+surveyed mining lease. A claim can be converted to a mineral lease if a
+
+minimum of $625 per hectare of exploration expenditures has been reported
+
+over the life of the claim. The term of a mineral lease is twenty-one years with
+
+an annual rental of $10.50 per hectare. Additional twenty-one year renewals of
+
+mineral leases are available.
+
+A mineral lessee must submit a report on exploration work carried out under the
+
+lease. The report must contain the information required in the regulations and a
+
+certified statement of expenditures incurred in performing exploration work for
+
+each of the following periods:
+
+A. the first five years of the lease;
+
+B. the second five years of the lease;
+
+
+
+Trevali Mining Corp. 13 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+C. the third five years of the lease;
+
+D. the last six years of the lease.
+
+In respect of surface exploration on the Copper 1-4 and 8-12 claims (Ruttan
+
+Mine site) special conditions and waivers, with regard to safety issues and
+
+provincial government liability, may be imposed.
+
+Underground exploration will require the filing of a closure plan along with a
+
+security deposit. This regulation applies for all advanced stage exploration
+
+projects and mining operations. Closure plans must meet provincial and federal
+
+environmental and workplace health and safety requirements.
+
+
+
+Trevali Mining Corp. 14 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+5 . 0 A C C E S S I B I L I T Y , C L I M A T E , L O C A L
+R E S O U R C E S , I N F R A S T R U C T U R E A N D
+P H Y S I O G R A P H Y
+
+The following information is modified from Harron (2007).
+
+The Ruttan Mine is located approximately 21 kilometres east of the town of Leaf
+
+Rapids in north-western Manitoba. An all-weather gravel road connecting the site to
+
+Leaf Rapids provides easy vehicle access in all seasons (Figure 5.1).
+
+Climatic conditions are typical of the northern boreal forest, with moderately cold
+
+winter conditions from November through March including an average of 0.6 metres
+
+to 2 metres of snowfall. Summer conditions include a moderate amount of
+
+precipitation and warm temperatures in the upper 20 degree Celsius (°C) and low
+
+30°C range persisting for several months. Experience indicates that most
+
+preliminary exploration activities can be executed year round, except geological and
+
+geochemical surveys, which are best executed in the summer months.
+
+Elevations on the properties range from approximately 286 metres to 328 metres
+
+giving a relief of approximately 41 metres. In general, the relief is dominated by
+
+rounded glacially sculpted hills.
+
+Drainage is poorly organized in this area which is typical of the Canadian Shield.
+
+Outcrops are scarce on the claims and the bedrock geology is known mostly from
+
+drill cores, geophysical interpretations and geological surveys.
+
+The property has the sufficient surface rights for future exploration or mining
+
+operations including potential tailings storage areas, potential waste disposal areas,
+
+heap leach pads areas and potential processing plant sites. The closure plan filed by
+
+HBM&S in 2002 has progressed to the point of rehabilitating the roads on the
+
+property. At the time of the 2007 site visit the mine buildings had already been
+
+demolished although the headframe winding house was purchased intact by Kria.
+
+Numerous waste stock piles as well as dried tailings ponds were also observed
+
+during the 2007 site visit.
+
+The numerous lakes in the vicinity of the two properties provide an ample source of
+
+process and potable water. Hydro-electrical power is also available in the area.
+
+Power line towers and wires still extend to the Ruttan Mine site and could be
+
+rehabilitated if required.
+
+The Village of Leaf Rapids is a mining town that supplied labour and services to
+
+support the Ruttan Mine and it maintains an inventory of vacant real estate. The
+
+
+
+Trevali Mining Corp. 15 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+town is connected by provincially maintained highways to Thompson (220
+
+kilometres), Lynn Lake (100 kilometres) and to the highway network in the southern
+
+part of the province providing access to bulk fuel and general freight. Mining
+
+personnel and supplies can be sourced from either Thompson, the largest mining
+
+town in northern Manitoba, or possibly from Leaf Rapids.
+
+Table 5.1 Location and Access (from Harron, 2007)
+
+
+
+Trevali Mining Corp. 16 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+6 . 0 H I S T O R Y
+
+6 . 1 C O P P E R C L A I M S
+
+The following is modified from Harron (2007).
+
+The Copper 1 to 4 and 8 to 12 claims cover the location of the historical Ruttan Mine.
+
+The history of exploration, development and ownership is briefly listed in Table 6.1.
+
+Table 6.1 History of the Copper Claims
+
+SGM 1968
+Hunting-type AEM &
+
+AMAG
+
+Stopped short of Ruttan Mine conductors, AF
+
+91664
+
+MMNR 1968 Questor AEM & AMAG
+Detected conductors at future Ruttan Mine, AF
+
+91988
+
+SGM 1968 Ground EM & MAG
+Delineation of Ruttan Mine conductors and a few
+
+DDHs
+
+SGM 1969
+21,030 m diamond
+
+drilling
+
+Discovery, estimated reserve: 46.3 MM tonnes,
+
+1.5% Cu, 1.6% Zn to 600m level (Not NI 43-101
+
+Compliant)
+
+SGM 1970-72
+61,570m diamond
+
+drilling, bulk sampling
+
+Construction of mine/mill and town of Leaf
+
+Rapids
+
+SGM 1973-80 Open pit production 9,000 tonnes per day
+
+SGM 1979-87 Underground production 5,500 tonnes per day
+
+HBM&S 1987 Purchase of Ruttan Mine
+
+HBM&S 1988 Questor AEM & AMAG Covered whole area
+
+HBM&S 1988
+Discovery of "West
+
+Mine"
+Estimated at 8.2 MM tonnes
+
+HBM&S 1994 Spectrem ® Survey Deep AEM over all claims AF 94918
+
+HBM&S 1995-97
+Ground PEM, HLEM,
+
+MAG, diamond drilling
+
+Follow up of Spectrem anomalies with
+
+geophysics and diamond drilling AF 94917
+
+HBM&S 2002 Closure in July Low metal prices
+
+Note: SGM is Sherritt Gordon Mines Ltd. HBM&S is Hudson Bay Mining and Smelting Ltd. and
+MMNR is the Manitoba Ministry of Natural Resources.
+
+The Ruttan ore bodies are steeply dipping lenses of massive sulphide mineralization
+
+separated by faults of various orientations. The sulphides outcrop over a distance of
+
+1.5 kilometres and have been tested to a known depth of 1.1 kilometres. The
+
+distribution of the main groups of lenses is presented in Figure 6.1 and a simplified
+
+longitudinal section shown in Figure 6.2.
+
+
+
+Trevali Mining Corp. 17 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 6.1 General Location of the Mineralization (form Harron, 2007)
+
+
+
+Trevali Mining Corp. 18 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 6.2 Simplified Longitudinal Section (from Harron, 2007)
+
+
+
+Trevali Mining Corp. 19 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Underground workings are present in the West Anomaly Mine and Main Mine areas.
+
+In addition, there is an open pit located more or less halfway between the two mine
+
+areas. Both the underground workings and the open pit are flooded. A shaft is
+
+located in the Main Mine area, although ancillary equipment is no longer present.
+
+The Ruttan Mine was operated continually until closure in 2002. HBM&S records
+
+indicate that the total production prior to closure from the Ruttan Mine was
+
+55,175,754 tonnes grading 1.23% copper and 1.41% zinc. This number has not
+
+been validated by Wardrop.
+
+In March 2002 an inventory of reserves was undertaken by HBM&S staff to assist
+
+with forward production planning. This study considered three different categories of
+
+sulphide ore: (a) stopes associated with a positive NSR, (b) stopes associated with a
+
+positive NSR, but deemed to be of high risk such that normal mining costs would
+
+probably not apply, and (c) stopes associated with a negative NSR.
+
+Historical diamond drill hole intersections have returned significant intercept widths
+
+and zinc grades in the hanging wall zinc zone. The zone has been traced from the
+
+175 metre level to the 600 metre level and remains open to depth. According to
+
+Harron (2007), a lack of drill stations in this part of the mine prevented further
+
+delineation of the zone.
+
+On April 7, 2011, Trevali Mining Corp. completed a plan of arrangement with Kria
+
+Resources Ltd. and changed its name to "Trevali Mining Corporation". Pursuant to
+
+the plan of arrangement, the Company acquired all of the issued and outstanding
+
+common shares of Kria in consideration of 0.2 of Common Share for each common
+
+share of Kria. The acquisition was approved by shareholders on March 30, 2011,
+
+received final court approval on April 6, 2011, and closed effective April 7, 2011.
+
+Following closing, 87,663,745 Common Shares were issued and outstanding, of
+
+which 20,992,250 Common Shares were issued to Kria shareholders (representing
+
+23.95% of the issued and outstanding Common Shares). On June 8, 2011, the
+
+Company filed a business acquisition report, a copy of which is available at
+
+www.SEDAR.com.
+
+
+
+Trevali Mining Corp. 20 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+7 . 0 G E O L O G I C A L S E T T I N G
+
+The following description of the geological setting is adapted from Harron (2007).
+
+7 . 1 R E G I O N A L G E O L O G Y
+
+The Ruttan deposit is located in the west-central portion of the Paleoproterozoic
+
+Rusty Lake Greenstone Belt (RLGB) within the Lynn Lake-Leaf Rapids Domain on
+
+the northern flank of the Trans-Hudson Orogen (Figure 7.1). The RLGB is 65
+
+kilometres long and up to 35 kilometres wide and lies southeast of the Lynn Lake
+
+Greenstone Belt. The RLGB contains metamorphosed mafic and felsic volcanic
+
+rocks, volcanic-derived sedimentary rocks, and small mafic and felsic sub-volcanic
+
+plutons. All supracrustal rocks have been folded, faulted and subsequently intruded
+
+by larger mafic and felsic plutons. The Baldock Batholith, an assemblage of
+
+paragneiss, orthogneiss and plutonic rocks, completely surrounds the greenstone
+
+belt. The age of the RLGB, as determined by uranium/lead zircon age dating, is
+
+1878 +/- 3 million years (Baldwin et al, 1987).
+
+Contrasts in rock types and apparent stratigraphic discontinuities prompted Baldwin
+
+(1980, 1988) to subdivide the volcanic and sedimentary rocks of the RLGB into four
+
+fault-bounded blocks. The Ruttan deposit on the Copper claims is located in the
+
+northwest portion of the Ruttan Block, which consists mainly of submarine mafic
+
+volcanic and sedimentary rocks.
+
+7 . 2 P R O P E R T Y G E O L O G Y
+
+7.2.1 RUTTAN M IN E (COPPER CLAIM S )
+
+The geology and stratigraphy of the Ruttan Mine area is described in detail by
+
+Speakman et al. (1982), Ames (1996) and Ames and Taylor (1996). From north to
+
+south, the supracrustal rocks in the immediate mine area are divided into the Mill
+
+Pond unit (MPU), Mine Sequence unit (MSU), and the Powder Magazine unit (PMU)
+
+(Figure 7.2).
+
+The MPU consists of allochthonous ocean floor mafic volcanic rocks that are
+
+juxtaposed to the south with the MSU across the northeast-trending Mill Pond Shear
+
+Zone.
+
+
+
+Trevali Mining Corp. 21 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 7.1 Regional Geology – Rusty Lake Belt (from Harron, 2007)
+
+
+
+Trevali Mining Corp. 22 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 7.2 Geology – Ruttan Mine Area (from Harron, 2007)
+
+
+
+Trevali Mining Corp. 23 0787190100-REP-L0001-00
+Technical Report on the Former Ruttan Mine
+
+The MSU is subdivided into three distinct lithological sections. The northern section
+
+consists of a homogeneous sequence of layered, heterolithic, intermediate
+
+volcaniclastic rocks that ranges in thickness from 200 to 300 metres and is referred
+
+to as the "footwall volcaniclastic rocks". The middle section of the MSU, which is
+
+approximately 75 metres thick, consists of variably altered volcaniclastic and
+
+fragmental volcanic rocks of dacitic and rhyolitic compositions along with associated
+
+exhalites. This section hosts several large lenses of massive sulphide mineralization
+
+which collectively make up the Ruttan deposit. The southern section of the MSU is
+
+up to 100 metres thick and is composed of a distinctive sequence of light grey to
+
+white, quartz-phyric, rhyolitic volcaniclastic rocks that have a uranium/lead age of
+
+1883+/- 2 million years. Studies by Ames (1996) indicate that the MSU is of a
+
+transitional calc-alkaline to tholeiitic petrochemical affinity.
+
+The units south of the MSU are in contact with a sequence of intercalated
+
+greywacke-mudstones and polymictic conglomerates of the PMU. Controversy
+
+exists as to the nature of the PMU lower contact; it has been variously termed
+
+discordant, conformable or tectonic.
+
+To the west and north of the Ruttan deposit the supracrustal rocks are truncated by
+
+the Brehaut Lake pluton (1852.5+/- 1.2 million years), which consists primarily of
+
+homogeneous, light grey, medium-grained biotite granodiorite. Contact intrusion
+
+breccia zones and dykes emanate from the intrusion.
+
+To the south the supracrustal sequence is intruded by the Corner Lake pluton, which
+
+in the immediate mine area, consists predominantly of dark green, fine-grained
+
+hornblende diorite dykes and sills within the mineralization and its host rocks.
+
+Hydrothermal alteration in proximity to sulphide mineralization is pervasive and
+
+locally intense in the central portion of the MSU. It takes the form of interleaved
+
+lenticular zones of silicification, chloritization and sericitization, commonly referred to
+
+as exhalite and/or "ore equivalent horizon".
+
+Three principal groups of lenses were defined by HBM&S at the Ruttan deposit
+
+based on their spatial distribution and structural settings: the B lenses, the West
+
+lenses, and the East lenses. Art's Shear Zone (ASZ) separates the B lenses in the
+
+footwall from the West lenses in the hanging wall, whereas the East Shear Zone
+
+(ESZ) separates the West lenses in the footwall from the East lenses in the hanging
+
+wall. The ASZ and the ESZ are sigmoidal structures that dip toward the southeast at
+
+steep to moderate angles and appear to splay off the hanging wall of the North Wall
+
+Shear Zone (NWSZ). The NWSZ is steeply dipping to the south-southeast and
+
+partially envelopes the B lenses in the West Mine. All shear zones are characterized
+
+by laterally continuous zones of strongly foliated chlorite-biotite schist that range up
+
+to 30 metres in thickness. Asymmetric fabrics in the shear zones indicate dextral
+
+shear with a variable component of normal oblique slip.
+
+The Ruttan lenses are elongated and plunge to the southeast at moderate to steep
+
+angles (Figure 6.2). The long axes of the ore bodies are sub-parallel to mineral and
+
+
+
+Trevali Mining Corp. 24 0787190100-REP-L0001-00
+Technical Report on the Former Ruttan Mine
+
+intersection lineations in the host rocks, the hinges of mesoscopic and macroscopic
+
+isoclinal F2 folds and the β–axis of a late network of anatomized D3 shear zones 
+
+suggestive of structural control (Anderson et al, 2005).
+
+In the West Mine the B lens has a strike length of between 350 and 400 metres and
+
+typically it is 10 to 15 metres thick. Over short distances, along strike and down dip,
+
+it varies from 5 to 40 metres thick. This lens does not outcrop and extends from 170
+
+to 1,040 metres below surface, with a general plunge of 55° to 65° to the south-
+
+southeast. The B lens in the Main Mine is laterally continuous at surface with a strike
+
+length of approximately 500 metres and a steep dip to the south-southeast. The lens
+
+is typically 10 to 15 metres thick but locally it varies from 5 to 60 metres over shorter
+
+distances. In the down-dip direction the B lens separates into a series of discrete,
+
+regularly spaced copper-rich ore shoots that plunge steeply to the southeast and
+
+exhibit progressively decreasing strike lengths and thicknesses with depth. Within
+
+the ore shoots, zones of zinc-rich mineralization and large diabase boudins trend at a
+
+slight counter-clockwise angle to the strike of the lens. The deepest ore shoot
+
+ultimately pinches out 370 metres below surface.
+
+The West group of lenses (C, D, E, and F) constitutes a complex ore body bounded
+
+by ASZ in the footwall and ESZ in the hanging wall. At surface the West lenses have
+
+a maximum strike length of approximately 350 metres and contain intervals of
+
+massive sulphides that are up to 75 metres thick. The thickest sulphide
+
+accumulations are along the western termination of the West lenses and define a
+
+prominent copper-rich shoot plunging 55° to 65° to the southeast, and terminating
+
+around 770 metres below surface.
+
+The East group of lenses, which consists mainly of the H, J, K, L, JH, JL and JS
+
+lenses, has a strike length of approximately 600 metres and dips steeply to
+
+moderately to the southeast. These lenses extend from surface for more than 1,000
+
+metres with a general plunge of 55° to 60° to the southeast, and remain open to the
+
+east along strike and down plunge to the southeast. Level plans above the 800
+
+metre level indicate that the East lenses are arranged in a tight, roughly U-shaped
+
+pattern analogous to that of the West lenses, which is interpreted as the D3 hinge
+
+line of an isoclinal synform overturned to the north-northwest. In the fold hinge the J
+
+and K lenses merge to form a copper-rich ore shoot plunging 55° to the southeast
+
+along the western termination of the East lenses to an ultimate depth of 1,050
+
+metres.
+
+Sulphide mineralization in the Ruttan deposits is principally composed of pyrite with
+
+highly variable, though generally subordinate, proportions of pyrrhotite, chalcopyrite,
+
+sphalerite, and minor galena. Common gangue minerals include chlorite, biotite,
+
+quartz, anthophyllite, magnetite, talc, anhydrite, gypsum, calcite and gahnite in order
+
+of decreasing abundance.
+
+Three principal types of sulphide mineralization are recognized in the deposits.
+
+Copper-rich massive sulphide, zinc-rich layered sulphide and copper-rich stringer
+
+sulphide. The copper-rich massive and zinc-rich layered sulphides form the most
+
+
+
+Trevali Mining Corp. 25 0787190100-REP-L0001-00
+Technical Report on the Former Ruttan Mine
+
+significant ore bodies in the deposit. Copper-rich stringer sulphide is particularly well
+
+developed in the immediate footwall rhyolite of the B lens in the West Mine.
+
+In the late stages of mining, the hanging wall zinc zone (HWZ) was discovered. This
+
+new style of mineralization was discovered east of the East lenses on the 265 metre
+
+level of the Main Mine. The zone dips steeply to the southeast and has been traced
+
+down plunge from the 150 metre level to the 600 metre level. The mineralization
+
+consists of an irregular body of high-grade zinc mineralization hosted by epidotized
+
+biotite schist of the PMU. The mineralization is composed of approximately 90%
+
+coarse-grained equigranular sphalerite and 10% combined pyrrhotite, galena, pyrite
+
+and chalcopyrite (in order of decreasing relative abundance). Zinc and silver grades
+
+in this mineralization are an order of magnitude higher than in the Ruttan deposit
+
+(Anderson et al., 2005).
+
+
+
+Trevali Mining Corp. 26 0787190100-REP-L0001-00
+Technical Report on the Former Ruttan Mine
+
+8 . 0 D E P O S I T T Y P E
+
+The following description is modified from Harron (2007).
+
+The Ruttan deposit is a bimodal-siliciclastic type of volcanogenic massive sulphide
+
+deposit, similar to those found in the Iberian Pyrite Belt of Portugal and Spain and in
+
+the Bathurst district of New Brunswick (Barrie and Taylor, 2001). In general,
+
+bimodal-siliciclastic deposits have approximately equal proportions of volcanic and
+
+siliciclastic rocks in the host stratigraphy, with felsic volcanic rocks more abundant
+
+than mafic volcanic rocks. The felsic volcanic rocks are generally calc-alkaline,
+
+whereas the mafic volcanic rocks are generally tholeiitic. The depositional
+
+environment is normally a rifted continental arc.
+
+Electromagnetic geophysical surveys are an efficient technique for discovering these
+
+highly conductive deposits. In the case of the Ruttan deposit magnetic pyrrhotite and
+
+magnetite are minor mineral phases which indicate that a modest magnetic signature
+
+is commonly associated with the electromagnetic signal.
+
+Geochemical trace element analyses are also a method of defining favourable host
+
+rocks. Results of 200 whole rock analyses summarized by Speakman et al (1982)
+
+demonstrate that a pervasive alteration zone extends stratigraphically below and
+
+laterally away from the deposit. The footwall volcaniclastic rocks are depleted in
+
+sodium oxide (Na2O), potassium oxide (K2O) and calcium oxide (CaO), and enriched
+
+in iron (II) oxide (FeO) and, to a lesser extent, magnesium oxide (MgO) toward the
+
+deposit. However, within 200 metres of the deposit there is a sharp increase in MgO
+
+and decreases in CaO and Na2O.
+
+Interpretation of rare earth element data suggests that positive europium (Eu)
+
+anomalies are associated with zinc-rich VMS deposits. The observed patterns are
+
+the result of Eu leached by hydrothermal fluids from the footwall rocks (creating
+
+negative Eu anomalies) and deposited together with other constituents in the
+
+associated exhalative rocks, "ore equivalent horizons" and sulphide deposits. These
+
+positive Eu anomalies extend up to one kilometre east of the Ruttan deposits along
+
+the same exhalative horizon. Negative Eu anomalies are common in exhalites at
+
+locations distal to sulphide deposits, which have not been hydrothermally altered
+
+(Gale et al, 2002).
+
+
+
+Trevali Mining Corp. 27 0787190100-REP-L0001-00
+Technical Report on the Former Ruttan Mine
+
+9 . 0 M I N E R A L I Z A T I O N
+
+Multiple mineralized zones are present on the Ruttan property. These zones, which
+
+are dated at about 1,878 Ma, generally occur at the top of a felsic volcanic rock
+
+sequence that overlies dacites, andesites and basaltic units. Mafic to intermediate
+
+epiclastic units overlie the mineralized zones.
+
+Three massive sulphide bodies have been defined and these are known as the Main
+
+Mine, West Lenses and the West Anomaly. In general, each of these sulphide
+
+bodies consists of several lenses of massive to disseminated sulphide mineralization.
+
+Typically, the lenses are upright with dips ranging from 50
+°
+to 80
+
+°
+to the south. They
+
+vary in thickness from 4 to 50 metres with a strike length of 2,000 metres and a
+
+down-dip length of about 1,050 metres. Isoclinal folding and associated shear zones
+
+disrupt the original primary layering of the sulphides. Locally, however, the typical
+
+volcanogenic massive sulphide mineral sequence is present: disseminated to
+
+stringer pyrite, pyrrhotite and chalcopyrite within a chloritic host rock is overlain by
+
+massive pyrite with subordinate pyrrhotite, sphalerite, chalcopyrite, magnetite,
+
+quartz, anhydrite and calcite. Chalcopyrite and sphalerite are the ore minerals.
+
+
+
+Trevali Mining Corp. 28 0787190100-REP-L0001-00
+Technical Report on the Former Ruttan Mine
+
+1 0 . 0 E X P L O R A T I O N
+
+1 0 . 1 D R I L L I N G 2 0 0 7
+
+Ten holes (R0701 to R0709 inclusive, including one re-start) were drilled by Kria in
+
+2007 to test the upper portions of the West Anomaly and Main Mine area (Table
+
+10.1). These holes were spotted by Karl Albert (consulting geologist) using
+
+engineering grid coordinates defined by Steve Davies of Kria.
+
+Holes R0701 to R0704 tested the upper portion of the West Anomaly Zone (for a
+
+cumulative meterage of 916 metres) while the remaining six holes (including one re-
+
+start) were drilled in the vicinity of the Hanging Wall Zinc Zone (for a cumulative
+
+meterage of 1,505 metres). The coordinates for each hole were confirmed using a
+
+total station surveying tool after the drill rig had been moved off the collar.
+
+All four holes on the West Anomaly intersected multiple zones of base metal
+
+mineralization. Table 10.2 is a summary of the better values reported in a press
+
+release dated October 30, 2007.
+
+Kria also drilled five holes on the Hanging Wall Zinc Zone. Some of the results are
+
+shown in Table 10.3 (taken from a press release dated January 10, 2008).
+
+Borehole EM surveys were carried out on four of the holes to test for down-plunge
+
+extensions of the Hanging Wall Zinc Zone as well as the up-dip portion of the Main
+
+Zone. To date, no results have been released for these surveys.
+
+
+
+Trevali Mining Corp. 29 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Table 10.1 Kria 2007 Drill Hole Coordinates (Local Grid)
+
+Engineering Grid Geology Grid Bearing Dip Depth
+
+Hole ID Northing Easting Elevation Lat (mN) Dep (ft) Elevation (° Az) ( ° ) (m)
+
+RO701 2900.825 14594.029 1540.041 -204.3 00+0.2E 1540.041 339 -73.5 295.0
+
+RO702 2912.098 14638.258 1544.281 -208.9 1+50E 1544.281 339 -60.0 239.9
+
+RO703 2871.585 14700.343 1545.364 -268.3 2+95E 1545.364 339 -50.0 279.9
+
+RO704 2962.059 14717.230 1540.002 -188.9 4+49.2E 1540.002 339 -59.7 209.4
+
+RO705 3168.289 16150.439 1534.804 -485.2 51+00E 1534.804 346.1 -54.4 312.4
+
+RO706 3176.105 16164.296 1535.079 -482.6 51+50E 1535.079 345.6 -50.0 300.5
+
+RO707 3175.573 16164.126 1535.185 -483.1 51+50E 1535.185 338.4 -60.4 -
+
+RO707A 3175.620 16164.431 1535.158 -483.1 51+50E 1535.185 338.4 -60.4 327.7
+
+RO708 3176.182 16180.473 1535.018 -488.2 52+00E 1535.018 343.7 -50.4 269.8
+
+RO709 3220.021 16180.662 1534.489 -446.9 52+50E 1534.489 338.4 -64.5 294.7
+
+2,529.3
+
+Table 10.2 Significant Values from the 2007 West Anomaly Drilling
+
+Hole Number Area Core Length (m) Copper (%) Zinc (%)
+
+R0701 West Anomaly 10.16 0.64 5.04
+
+R0702 West Anomaly 4.08 0.43 7.07
+
+R0703 West Anomaly 27.40 0.53 4.24
+
+R0704 West Anomaly 9.05 1.01 4.63
+
+Table 10.3 Significant Values from the 2007 Hanging Wall Zinc Zone Drilling
+
+Hole Number Area Core Length (m) Copper (%) Zinc (%)
+
+R0707A Hanging Wall Zinc 11.25 0.18 7.43
+
+Including 3.3 0.24 15.85
+
+R0707A Hanging Wall Zinc 3.02 0.05 6.00
+
+R0709 Hanging Wall Zinc 0.98 0.05 1.04
+
+
+
+Trevali Mining Corp. 30 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+1 0 . 2 D R I L L I N G , 2 0 0 7 - 2 0 0 8
+
+The Winter 2007/08 Program consisted of 21 drill holes and the deepening of two
+
+previously drilled holes (R0708 and R0709) for a total of 7.146.7 metres. Eighteen
+
+drill holes targeted the West Anomaly, while the remaining three drill holes and the
+
+two deepened holes targeted the Hanging Wall Zinc Zone.
+
+Drill hole locations were spotted using a total station surveying tool, then upon
+
+completion of the drilling, the coordinates for each hole were confirmed using the
+
+total station surveying tool.
+
+Drill holes R0710 to R0727 as well as R0805 and R0806 tested the upper portion of
+
+the West Anomaly Zone (a total of 4,754 metres) while the remaining three holes and
+
+two deepened holes were drilled in the vicinity of the Hanging Wall Zinc Zone (for a
+
+total of 1,828 m). The coordinates for each hole were confirmed using a total station
+
+surveying tool after the drill rig had been moved off the collar.
+
+After completion of the drill program, a down hole EM geophysical survey was
+
+carried out in six holes, three each on the Hanging Wall Zinc Zone and the West
+
+Anomaly. Results have not been released. Table 10.4 lists the drill holes and collar
+
+locations.
+
+Significant assay results from selected drill holes are listed in Table 10.5.
+
+
+
+Trevali Mining Corp. 31 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Table 10.4 Drill Hole Coordinates form the 2007-2008 Winter Drilling Program
+
+Hole ID
+
+UTM (Nad 27) Geology Grid Bearing Dip Depth
+
+Northing Easting
+Elevation
+
+(m)
+Lat (mN) Dep (ft)
+
+Elevation
+
+(m)
+(° Az) (°) (m)
+
+R0710 6258767.5 460087.5 303.9 -169.5 0+50E 1542.8 340 -60 301.2
+
+R0711 6258679.1 460091.4 308.0 -252.0 0+51W 1546.9 340 -60 303.9
+
+R0712 6258836.6 460140.7 301.1 -126.4 2+99E 1540.0 340 -60 125.0
+
+R0713 6258787.9 460108.3 303.2 -158.8 1+39E 1542.1 340 -55 200.0
+
+R0714 6258858.9 460007.7 291.7 -54.3 0+75W 1530.6 340 -55 199.9
+
+R0715 6258665.3 460047.9 306.7 -248.3 2+00W 1545.6 340 -55 299.5
+
+R0716 6258420.7 460053.0 305.5 -475.6 4+97W 1544.4 340 -65 550.5
+
+R0717 6258373.6 459940.3 304.2 -475.1 8+97W 1543.1 340 -65 550.5
+
+R0718 6258811.4 460056.1 298.4 -116.7 0+11E 1537.3 340 -55 197.5
+
+R0719 6258726.9 460035.5 302.3 -153.6 1+11W 1541.2 340 -55 200.6
+
+R0721 6258721.5 460041.8 301.3 -194.0 1+56W 1540.2 340 -55 221.9
+
+R0722 6258735.0 460007.6 300.5 -168.5 2+32W 1539.4 340 -55 221.9
+
+R0723 6258680.0 460028.4 307.8 -227.2 2+40W 1546.7 340 -55 228.0
+
+R0724 6258681.4 460047.0 309.9 -233.1 1+82W 1548.8 340 -65 230.4
+
+R0725 6258651.9 460038.7 306.7 -257.1 2+45W 1545.6 340 -65 350.5
+
+R0727 6258813.7 460125.4 302.0 -141.7 2+23E 1540.9 340 -45 199.5
+
+R0708D 6259084.3 461657.8 296.1 -488.2 52+00E 1535.0 343.7 -50.4 *474.3
+
+R0709D 6259128.1 461655.8 295.6 -446.9 52+50E 1534.5 338.4 -64.5 *425.5
+
+R0801A 6259036.7 461639.5 296.2 -524.0 50+81E 1535.1 340 -55 500.2
+
+R0802 6259032.5 461668.5 297.1 -540.0 51+62E 1534.8 340 -55 502.3
+
+R0803 6259042.8 461718.1 296.7 -549.8 53+25E 1534.2 340 -53 490.1
+
+R0805 6258834.3 460175.6 301.0 -142.2 4+1E 1539.9 335 -63 173.1
+
+R0806 6258828.6 460208.3 300.5 -160.3 4+93E 1539.4 335 -63 200.6
+
+7146.7
+
+*Deepened holes (see Table 10.1).
+
+
+
+Trevali Mining Corp. 32 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Table 10.5 Significant Results of the 2007/08 Winter Drill Program
+
+Hole Number Area Core Length (m) Copper (%) Zinc (%)
+
+R0708D HW Zinc 9.31 0.04 1.12
+
+R0710 West Anomaly
+1.47
+
+2.00
+
+0.20
+
+0.38
+
+4.21
+
+2.44
+
+R0711 West Anomaly
+5.46
+
+6.65
+
+0.35
+
+0.73
+
+2.58
+
+5.71
+
+R0712 West Anomaly 19.10 0.41 6.16
+
+R0713 West Anomaly
+2.00
+
+2.00
+
+1.09
+
+0.34
+
+4.96
+
+6.98
+
+R0715 West Anomaly
+2.00
+
+0.50
+
+0.63
+
+0.33
+
+2.56
+
+3.39
+
+R0724 West Anomaly 7.70 0.13 2.81
+
+R0727 West Anomaly 16.00 0.36 5.60
+
+R0801A HW Zinc
+9.90
+
+3.90
+
+0.17
+
+0.12
+
+3.39
+
+5.81
+
+R0806 West Anomaly
+
+3.00
+
+7.00
+
+4.70
+
+0.64
+
+1.40
+
+0.29
+
+5.28
+
+2.62
+
+2.77
+
+1 0 . 3 D R I L L I N G , 2 0 0 8
+
+The drill program conducted during the summer of 2008 consisted of five holes, one
+
+of which was a re-start, for a total of 1,437.7 metres. Targets were VTEM anomalies
+
+in close proximity to the historic Ruttan Mine. All holes failed to intersect significant
+
+mineralization and the anomalies are thought to be caused by cultural affects.
+
+Collars were spotted and located after completion of drilling with a hand held GPS
+
+device (Garmin 60 CSx). The drill hole coordinates are listed in Table 10.6.
+
+Table 10.6 Kria 2008 Summer Drill Hole Coordinates
+
+Hole ID
+UTM (Nad 83 Zone 14N)
+
+Bearing (°Az) Dip (°) Depth (m)
+Easting Northing Elevation (m)
+
+R0807 460088 6259793 300.9 347.9 -58.1 102.7
+
+R0808 460108 6259667 302.2 347.8 -60.0 102.7
+
+R0809 460153 6259565 301.7 338.7 -47.5 401.4
+
+R0812 461255 6258350 311.5 344.6 -45.5 503.8
+
+R0812A 461255 6258350 311.5 344.8 -44.5 327.1
+
+1,437.7
+
+The drill hole location map for all Kria's drill programs may be found in Figure 10.1.
+
+
+
+Trevali Mining Corp. 33 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+1 0 . 4 G E O P H Y S I C S , 2 0 0 8
+
+In April 2008, Geotech Inc. was contracted to fly Versatile Time Domain
+
+Electromagnetic (VTEM) Geophysical Survey over the Property. A total 0f 1,723 line
+
+km flown along flight lines oriented at N160°E and at 100 metre spacings. Tie lines
+
+were flown every 1,000 m in a N070°E direction. At the time of writing this report,
+
+processing and interpretation of the geophysical data was ongoing.
+
+1 0 . 5 E X P L O R A T I O N E X P E N D I T U R E S , 2 0 0 7 - 2 0 0 8
+
+To date, Kria has completed over $4,330,000 of exploration expenditures on the
+
+former Ruttan Mine. A detailed list of the exploration expenditures in 2007 and 2008
+
+are listed in Table 10.7 below.
+
+Table 10.7 Kria 2007 and 2008 Exploration Expenditures
+
+Year
+2007
+
+($Cdn)
+
+2008
+
+($Cdn)
+
+Total
+
+($Cdn)
+
+Acquisition and property costs 329,237 303,763 633,000
+
+Exploration Expenditures
+
+Field equipment 11,855 49,111 60,966
+
+Drilling 1,137,243 1,201,884 2,339,127
+
+Wages and salaries 383,738 532,295 916,033
+
+Geological surveys 48,239 403,449 451,688
+
+Travel, transportation and freight 27,409 41,608 69,017
+
+Field consumables 179,595 259,293 438,888
+
+Field office support 27,224 29,537 56,761
+
+Total Exploration Expenditures 1,815,303 2,517,177 4,332,480
+
+TOTAL DEFERRED COSTS $2,144,540 $2,820,940 $4,965,480
+
+$Cdn – Canadian Dollars
+
+Source: Kria Resources Inc.
+
+
+
+Trevali Mining Corp. 34 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 10.1 Drill Hole Location Map, Kria Drill Programs 2007-2008
+
+
+
+Trevali Mining Corp. 35 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+1 1 . 0 D R I L L I N G
+
+Historically, diamond drill holes were sited on the hanging wall side of
+
+electromagnetic conductors and drilled a few metres past the conductor. Lateral
+
+spacing between drill holes varied according to field conditions, but generally the
+
+plan was to intersect the conductors at 200-foot (60 metre) intervals. Diamond
+
+drilling in the late 1960s and 1970s was mainly BQ and AX core size. HBM&S
+
+continued the practice of using BQ size core on surface and AX size underground.
+
+Records indicate that surface and underground core was logged by company
+
+employees in a formal core handling facility located at the mine site. Upon receipt of
+
+the core from the drill contractor, the footage markers were checked for proper
+
+location and were also used to estimate core loss (if any). After logging the core, the
+
+geologist marked the sample intervals on the core and provided appropriate sample
+
+tags and documentation for each interval to be sampled (from the same side of a
+
+splitting line). Sample intervals generally ranged from 0.3 metres to 1.5 metres and
+
+accommodated changes in lithologies and the length of the mineralized sections.
+
+Diamond drill logs were principally recorded on paper media when SGM ran the mine
+
+while digital logs were generated by HBM&S. In both cases the logs contained
+
+detailed descriptions of the lithologies, alteration assemblages, structural data, and
+
+mineralization as well as borehole trajectory surveys. However, in either case the
+
+hard copy drill hole data was not available for review by Wardrop.
+
+The sulphide-rich lenses are upright with dips ranging from 50
+°
+to 80
+
+°
+to the south.
+
+They vary in thickness from 4 to 50 metres with a strike length of 2000m and a down-
+
+dip length of about 1,050 metres. The mineralization is intersected at different
+
+altitudes because of the use of fan drilling underground and surface drilling with
+
+varying head azimuths and dips. Consequently, true widths for the mineralization
+
+have to be calculated on a hole by hole basis. Drilling was conducted on a regular
+
+grid down to 15 metre drill hole spacing and several core samples were collected
+
+where the drill hole intersected the mineralized zones.
+
+
+
+Trevali Mining Corp. 36 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+1 2 . 0 S A M P L I N G M E T H O D A N D A P P R O A C H
+
+Kria collected samples from the 35 holes drilled in 2007 and 2008. The following
+
+description (based upon a document supplied by Kria) documents the method of
+
+sampling.
+
+ The geologist logs the core and prepares it for sampling - the core is marked in
+
+red grease pencil with a sample number, a core cutting line along the core axis
+
+and a sample interval denoted by red arrows at both ends of the sample interval.
+
+The geologist keeps sample books and a sample summary sheet for each drill
+
+hole.
+
+ Nominal sample lengths are one metre.
+
+ The sample intervals and related information are provided to Kria in the form of a
+
+summary list for each hole, the latter providing the sample numbers, from, to,
+
+width (metres) and a description.
+
+ Similar sample information is also recorded in the sample books provided by TSL
+
+Laboratories/ALS Laboratories Group. In particular, the information consists of
+
+the date, drill hole number, sample description, from, to, remarks and the
+
+geologist's name.
+
+ A check is made to ensure that all the data from the sample books matches the
+
+sample summary sheets.
+
+ After this has been done the sample interval is checked against the core in each
+
+box and then checked for sample number, drill hole number, from, to and width.
+
+ Next, one of the three tear-off sample interval tags is placed into a plastic bag.
+
+ The core is then broken to begin the sample interval (if it is not already broken).
+
+ For drill holes R0701 to R0709, each core box with samples was boxed shut and
+
+transported to Snow Lake, MB by Stephen Davies. A core-cutting facility is
+
+available in this mining town.
+
+ For the 2007/2008 winter drill program, Kria purchased a core saw which was set
+
+up in Leaf Rapids core logging facility and operated by local trained personnel.
+
+ The core is then sawn into two halves along the red line using a diamond core
+
+blade. Each sub-section of core is approximately six inches in length.
+
+ After the core is sawn in half it is placed in the sample bag with a sample tag. A
+
+check is made to confirm that the sample is being placed into the correct sample
+
+bag. The other half of the core is placed back into the core box and aligned in
+
+the original orientation as laid out in the core box.
+
+
+
+Trevali Mining Corp. 37 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+ The entire sample interval is cut and continually checked to ensure the correct
+
+sample is placed into the correct sample bag.
+
+ Once the complete sample is cut the sample bag is sealed and placed into rice
+
+bags for shipping by Gardwine North.
+
+ At all times the samples are under the direct care and supervision of Stephen
+
+Davies, P.Eng. or M. Dayle Rusk, P Geo. up to, and including, placing the
+
+samples on the truck. Stephen Davies P.Eng. is an officer of Kria with the title VP
+
+Operations and Chief Operating Officer. M. Dayle Rusk P.Geo is VP Exploration
+
+for Kria.
+
+Wardrop observed some of this sampling protocol during the site visit. In addition, it
+
+was observed by Wardrop that the sample intervals were tied to lithological contacts
+
+wherever practicable. Within the mineralized zones there did not appear to be any
+
+recovery issues. Wardrop recommends that a sample tag is stapled into the core
+
+box at the appropriate location as a record of the sampling program.
+
+The bulk of the information in the database is derived from samples collected by staff
+
+members of different mining companies. There is no current documentation of their
+
+sampling.
+
+
+
+Trevali Mining Corp. 38 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+1 3 . 0 S A M P L E P R E P A R A T I O N , A N A L Y S E S ,
+A N D S E C U R I T Y
+
+There is no available documentation on the preparation, analysis and security of
+
+samples collected at the mine site prior to the involvement of Kria. However,
+
+discussions with former employees of the Ruttan Mine, as well as a review of
+
+summary reports, indicate that a protocol was followed. A summary of this protocol
+
+is given below (modified from Harron, 2007).
+
+Sample preparation was completed by company employees at the mine site. During
+
+the production period of the mine the sample preparation area and separate assay
+
+laboratory were located within a fenced off area.
+
+Split core samples were prepared and analyzed either by SGM personnel (pre-1987)
+
+or HBM&S personnel (post-1987). After the samples were logged, the split drill core
+
+was crushed in its entirety at the on-site laboratory to 70% passing two millimetres.
+
+From these coarse rejects a sub-sample of 200 to 250 grams was split and
+
+pulverized to 80% passing 75 microns. From each pulp a 100 gram sub-sample was
+
+split for assay. The remainder of the pulp (nominally 100 to 150 grams) and the
+
+rejects were archived on site for future reference. There is no record of these coarse
+
+rejects/pulps and their current location is unknown.
+
+The base metals of interest (copper and zinc), plus silver, lead, iron and gold, were
+
+determined using a 0.25 gram aliquot that was subjected to an aqua-regia digestion
+
+followed by analysis using atomic absorption spectrometry.
+
+The upper limit for the base metals determined by this method is one percent.
+
+Samples showing higher values were re-assayed using a 0.4 gram aliquot and a
+
+finish by atomic absorption spectroscopy. The upper limit for the precious metals is
+
+one part per million for each of silver and gold.
+
+The quality assurance/quality control (QA/QC) program of Kria (2007/2008 drilling)
+
+inserted both blanks and certified reference materials in the sample stream. No
+
+sample duplicates were taken. Blank samples were inserted every 40
+th
+
+sample while
+
+commercially available reference materials were inserted every 20
+th
+
+sample. The
+
+latter were chosen to represent a range of grade values appropriate for the
+
+mineralization being sampled.
+
+During the summer 2007 drill program (R0701 to R0709) Kria submitted all
+
+exploration samples to TSL Laboratories in Saskatoon, Saskatchewan (an ISO/IEC
+
+17025 accredited laboratory). All of the samples were crushed, pulverized and
+
+analysed by TSL. A multi-acid digestion was used followed by either Inductively
+
+
+
+Trevali Mining Corp. 39 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Coupled Plasma Atomic Emission Spectrometry (ICP/AES) or Atomic Absorption
+
+Spectrometry (AAS).
+
+During the winter 2007-2008 drill program, samples were submitted to the ALS
+
+Laboratory Group preparation laboratory in Thunder Bay, Ontario where the samples
+
+were dried, crushed, and pulverized. Pulps were then couriered to the ALS North
+
+Vancouver laboratory (an ISO/IEC 17025 accredited laboratory) for analysis. Gold
+
+was analysed by fire assay, with either an AAS or AES (atomic emission
+
+spectroscopy) finish. Other metals were determined by HF-HNO3-HCI04 acid
+
+digestion, hydrochloric acid (HCl) leach and ICP-AES finish.
+
+
+
+Trevali Mining Corp. 40 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+1 4 . 0 D A T A V E R I F I C A T I O N
+
+During mine operation, standard samples were inserted into the sample stream at
+
+approximately 1 in 20 samples and batches exceeding a two standard deviation limit
+
+were re-analyzed. It is not known how many samples were submitted to an
+
+independent laboratory for check assaying. Wardrop was unable to verify any of this
+
+information.
+
+For the 2007/2008 drilling program Kria inserted blank samples every 40
+th
+
+sample
+
+and commercially available reference materials every 20
+th
+
+sample; this technique
+
+monitors contamination and accuracy. No duplicate samples were used to assess
+
+precision issues.
+
+Hard copy versions of the Ruttan Mine (pre-Kria) database records were not
+
+available for examination. According to Harron (2007), HBM&S collected digital data
+
+while most of the records collected by SGM were on paper only.
+
+Check samples from Kria's drilling were collected by Wardrop in August 2007 and
+
+submitted to Activation Laboratories in Ancaster, Ontario (an ISO/IEC 17025
+
+accredited laboratory). The Wardrop samples were analysed using a sodium
+
+peroxide fusion followed by acid dissolution and ICP/OES.
+
+Table 14.1 displays the results for these samples along with the equivalent results
+
+from TSL Laboratories, Saskatoon, Saskatchewan for the same core.
+
+The values in Table 14.1 indicate that base metal mineralization is present in the
+
+selected samples. Sample variability between the two batches may be due to
+
+heterogeneity in the mineralization or differences between the two analytical
+
+techniques (amongst other things). Nevertheless, Wardrop is satisfied that there are
+
+significant grades of base metal mineralization within the Kria West Anomaly portion
+
+of the Ruttan property (from where the samples were taken).
+
+
+
+Trevali Mining Corp. 41 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Table 14.1 Check Sample Results from the 2007 Drilling Program
+
+Wardrop Check Samples
+Activation Labs, Ancaster, Ontario
+
+Au Ag Cu Fe Pb Zn
+
+Unit Symbol g/tonne g/tonne % % % %
+
+Detection Limit 0.03 3 0.005 0.05 0.01 0.01
+
+Analysis Method FA-GRA FA-GRA FUS-Na2O2 FUS-Na2O2 FUS-Na2O2 FUS-Na2O2
+
+W121135 < 0.03 11 0.125 7.02 0.32 0.06
+
+W121136 < 0.03 < 3 0.199 36.5 0.01 7.88
+
+W121137 < 0.03 < 3 0.109 36.4 0.01 7.49
+
+Original Kria Data
+TSL Laboratories, Saskatoon, Saskatchewan
+
+Au Ag Cu Fe Pb Zn
+
+121135 0.0714 6 0.145 5.4 0.12496 0.3012
+
+121136 0.0467 2.2 0.132 35.33 0.00764 7.39
+
+121137 0.0243 2.2 0.102 39.93 0.00971 5.14
+
+
+
+Trevali Mining Corp. 42 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+1 5 . 0 A D J A C E N T P R O P E R T I E S
+
+There are no adjacent properties in this part of Manitoba. However, Barrie and
+
+Taylor (2001) provide commentary on worldwide analogs, suggesting that this is a
+
+normal VMS deposit similar to those in the Iberian Pyrite Belt.
+
+
+
+Trevali Mining Corp. 43 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+1 6 . 0 M I N E R A L P R O C E S S I N G A N D
+M E T A L L U R G I C A L T E S T I N G
+
+Kria has not completed any metallurgical testing of samples taken from either of the
+
+exploration targets drilled in 2007/2008.
+
+
+
+Trevali Mining Corp. 44 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+1 7 . 0 M I N E R A L R E S O U R C E A N D M I N E R A L
+R E S E R V E E S T I M A T E S
+
+1 7 . 1 I N T R O D U C T I O N
+
+This section was previously prepared for Kria and is included in document
+
+# 0787190100-REP-L0001-03.
+
+Wardrop has estimated an NI 43-101 compliant resource for the Ruttan deposit. The
+
+bounding coordinates for the project are shown in Table 17.1. These coordinates
+
+correspond to the block centroids (of the mine grid) provided by Kria.
+
+Table 17.1 Block Centroid Coordinates for the Ruttan Project
+
+Minimum Maximum
+
+Easting -155.0 2005.0
+
+Northing -802.5 102.5
+
+Elevation 195.0 1555.0
+
+17.1.1 DAT ABASE
+
+Kria supplied all of the digital data for the resource estimate. This data is metric and
+
+comes from the final HBM&S MineSite database at the time of mine closure (2002).
+
+The data was imported into Gemcom GEMS 6.04 Resource Evaluation Edition
+
+software package.
+
+The drill hole dataset included the header files, survey files and assay files for all
+
+underground and surface holes at Ruttan. No lithology files were supplied. Wardrop
+
+created a table for composited intervals (called the COMP_FINAL table) as well as a
+
+table to capture the length of mineralization within each solid (the SOLIDCOMBO
+
+table). Table 17.2 summarises the drilling data records supplied to Wardrop. This
+
+table also shows the holes used by Wardrop for the resource estimate. There were
+
+24 regional exploration holes that were not used in the resource estimate as these
+
+drill holes do not form part of the mineralized deposit.
+
+Manual checks on the database were made to remove any obvious errors prior to
+
+statistical treatments (such as negative values). However, some other issues, such
+
+as unusual sample lengths, could not be validated since the hard copy data was
+
+unavailable.
+
+
+
+Trevali Mining Corp. 45 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+The data supplied covers all of the lenses of mineralization within the Ruttan mine.
+
+Recent drill holes from the 2007/2008 drill program (32 holes) are also included in
+
+the dataset.
+
+Table 17.2 Summary of the Drilling Data Records
+
+Deposit Drill Holes
+Collar
+
+Readings
+
+Survey
+
+Readings
+
+Assay
+
+Entries
+
+All Holes in Dataset 5,866 5,866 54,899 296,681
+
+Holes used for Estimate 5,842 5,842 54,431 295,154
+
+Regional Holes not Used 24 Holes lie outside the block centroid coordinates
+
+Assay Readings used by Wardrop (greater than zero)
+
+Cu Zn Fe Pb
+
+215,999 207,316 218,974 2,003
+
+17.1.2 SPEC IF IC GR AVITY
+
+When HBM&S operated the Ruttan Mine the specific gravity was calculated, rather
+
+than interpolated, from assay values (Maunula, 1997). The formula used is given in
+
+Table 17.3.
+
+Table 17.3 HBM&S Specific Gravity Formula
+
+SG = 1/Tonnage Factor
+
+Tonnage Factor (m
+3
+
+/tonne) = 0.3623 – (0.0031*(CU/5+ZN/2+FE))
+
+The formula is derived from a linear regression curve fitted to experimental data (in-
+
+house specific gravity and assay values) collected for 175 lower mine drilling
+
+samples (Lantz, 1985). Specifically, the area of the mine studied is the east ore lens
+
+at the 800 metre level. In this formula, the Cu, Zn and Fe attributes (in %) are known
+
+as the Total Sulphide components and the denominators are derived from
+
+'mineralogical data and basic assumptions at the Ruttan Mine' (Lantz, 1985).
+
+For this report and the resource estimate Wardrop has interpolated the specific
+
+gravity for each block in the block model based on the above formula.
+
+1 7 . 2 E X P L O R A T O R Y D A T A A N A L Y S I S
+
+Exploratory Data Analysis is the application of various statistical tools to elucidate the
+
+characteristics of the data set. In this case, the objective is to understand the
+
+population distribution of the grade elements through the use of such tools as
+
+histograms, descriptive statistics and probability plots. The following discussion
+
+applies to copper and zinc only since these are the key elements at Ruttan.
+
+
+
+Trevali Mining Corp. 46 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+17.2.1 RAW ASSAYS
+
+Raw assay statistics are shown in Table 17.4. Only those values greater than zero
+
+were used in the statistical analysis.
+
+Table 17.4 Raw Assay Statistics for the Complete Dataset (Excluding Regional
+
+Holes)
+
+Minimum Maximum Average Standard Deviation Variance Count
+
+Cu (%) 0.001 26.30 0.68 1.22 1.49 215,999
+
+Zn (%) 0.001 47.85 0.70 2.39 5.69 207,316
+
+Fe (%) 0.1 74.00 16.76 14.12 199.3 218,974
+
+Pb (%) 0.01 28.40 0.13 0.80 0.65 2,003
+
+Frequency and cumulative probability plots for both Cu (%) and Zn (%) are shown in
+
+Figures 17.1 and 17.2.
+
+17.2.2 CAPPIN G
+
+Two methods are used to assess the need for capping:
+
+ Cumulative frequency plots.
+
+ Decile analysis.
+
+Examples of the cumulative frequency plots for the raw uncapped data are given in
+
+Figures 17.1 and 17.2. With large datasets the cumulative frequency plots do not
+
+always produce clear-cut values for capping levels. Instead, decile analysis can be
+
+used to assist with setting capping levels. Table 17.5 shows the capping levels and
+
+the number of capped samples for the complete dataset. A decile-percentile plot for
+
+zinc within the complete dataset is shown in Figure 17.3.
+
+Table 17.5 Capping Levels for the Complete Dataset (Excluding Regional
+
+Holes)
+
+Element Capping Level Values Capped Values Uncapped (>0%) Percent Capped
+
+Cu (%) 5.9 2162 214,256 1.02
+
+Zn (%) 11.75 2189 205,574 1.07
+
+HBM&S did not cap any of the assay data used in their resource estimates (Maunula,
+
+1997) even though capping appears to be appropriate.
+
+
+
+Trevali Mining Corp. 47 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 17.1 Copper Assays (%) for the Complete Dataset (Excluding Regional
+
+Holes)
+
+
+
+Trevali Mining Corp. 48 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 17.2 Zinc Assays (%) for the Complete Dataset (Excluding Regional
+
+Holes)
+
+
+
+Trevali Mining Corp. 49 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 17.3 Decile-Percentile Data for Zinc within the Complete Dataset
+
+(Excluding Regional Holes)
+
+17.2.3 COMPOSIT ES
+
+Table 17.6 shows the statistics for the copper assay sample lengths for the Kria
+
+dataset (excluding the regional holes).
+
+Table 17.6 Raw Assay Sample Length Statistics (Excluding Regional Holes)
+
+Minimum Maximum Average
+Standard
+
+Deviation
+Variance Count
+
+Length (m) 0.01 107.87 1.63 0.84 0.70 216,418
+
+The average length for copper (and zinc) sample assays is 1.63 metres; this value
+
+more or less corresponds to the length used by HBM&S (1.75 metres). A composite
+
+interval of 1.75 metres has been used for the Ruttan dataset to remain consistent
+
+with the HBM&S method.
+
+The number of copper and zinc composite samples (capped) within the solids is
+
+given in Table 17.7 while a statistical summary is given in Table 17.8. The minimum
+
+remnant composite length used is 0.2 metres; this is the same as that used by
+
+HBM&S when the Ruttan Mine was in operation. An analysis of the 1,060 remnant
+
+samples shows that there are 267 samples (0.41% of the total) with Cu > 1% and
+
+190 samples (0.29% of the total) with Zn >1%. When these samples are weighted
+
+against their lengths there are only 18 Cu (0.03% of the total) and 63 Zn (0.10%)
+
+samples with values greater than 0.5%. When these remnants are plotted with the
+
+
+
+Trevali Mining Corp. 50 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+solids in 3-D space they appear to be scattered rather than concentrated at a
+
+particular contact. Leaving out these remnants will not bias the resource estimate
+
+and will ensure that smaller, less representative samples will not be included in the
+
+interpolation.
+
+Table 17.7 Composite Capped Samples
+
+Cu % Zn %
+
+Number of samples 64,742 64,742
+
+Number of composite samples less than 0.2 m 1,060 1,060
+
+Samples used for block modelling 63,682 63,682
+
+Table 17.8 Statistical Summary of all Composites (Values>0)
+
+Copper Capped
+
+Minimum Maximum Average Mode Median Std Dev Variance Count
+
+0.00047 5.9 1.22 5.9 0.93 1.14 1.30 63,428
+
+Zinc Capped
+
+Minimum Maximum Average Mode Median Std Dev Variance Count
+
+0.00003 11.75 1.12 0.01 0.11 2.16 4.65 62,998
+
+Histogram and cumulative probability plots for both Cu and Zn (no zeros) are shown
+
+in Figures 17.4 and 17.5. Note that both graphs flatten out at the capping level.
+
+Within the database there are samples that have no entries for certain elements
+
+(77,213 Cu, 77,223 Zn, 77,204 Fe and 294,567 Pb). These are treated as zero
+
+entries and have not been included in the statistical reports. Composites with zero
+
+grade were used for interpolation. There are no samples with 'below detection limit'
+
+entries although there were some entries with negative values. These have been
+
+transformed into zeroes and are treated the same as the no entry values.
+
+
+
+Trevali Mining Corp. 51 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 17.4 Histogram and Cumulative Probability Plot for Copper
+
+
+
+Trevali Mining Corp. 52 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 17.5 Histogram and Cumulative Probability Plot for Zinc
+
+
+
+Trevali Mining Corp. 53 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+1 7 . 3 G E O L O G I C A L I N T E R P R E T A T I O N
+
+Kria supplied the 3-D rings for the geological interpretation. These rings were
+
+divided into the following three groups:
+
+ 3-D rings for the base metal mineralization.
+
+ 3-D rings for internal waste-rock areas.
+
+ 3-D rings for the mined-out stopes.
+
+Kria supplied the 3-D rings as a series of 10 metre plan-views in DXF format and
+
+Wardrop imported them into Gemcom and validated. The base metal mineralization
+
+rings used a 1% CuEQ cut-off value (as created by HBM&S at the time of mine
+
+closure in 2002).
+
+Twelve geological solids (Table 17.9) were created by extruding the 3-D rings 4.99
+
+metres on either side of the plan section line. This distance was chosen to minimise
+
+the solid validation errors. Two solids (WA1 and MM7) contained minor edge count
+
+and triangulation errors which were deemed insignificant. The mined-out stopes and
+
+internal waste solids were created in the same way and checked for errors. No
+
+significant errors were present.
+
+Table 17.9 Solids Names and Explanation
+
+Rock Code Solid Names Legend
+
+10 WASTE Internal waste
+
+99 EXT_WAS External waste
+
+110 WA110 West Anomaly
+
+120 WA120 West Anomaly
+
+130 WA130 West Anomaly
+
+140 WA140 West Anomaly
+
+210 MM210 Main Mine
+
+220 MM220 Main Mine
+
+230 MM230 Main Mine
+
+240 MM240 Main Mine
+
+250 MM250 Main Mine
+
+260 MM260 Main Mine
+
+270 MM270 Main Mine
+
+280 MM280 Main Mine
+
+Creating a solid by extruding on either side of the plane creates multiple consecutive
+
+intervals as each drill hole passes through different (but adjacent) solids. These
+
+multiple intervals were combined to create one interval for each hole intersecting a
+
+solid (copied to a GEMS table called SOLIDCOMBO). Composite intervals were
+
+created for these intervals within each of the 12 geology solids.
+
+
+
+Trevali Mining Corp. 54 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 17.6 is a perspective view of the multiple solids used for the resource estimate
+
+looking towards the northeast. The solid in dark blue (closest to the viewer) is
+
+WA110, the purple solid is MM280 (middle area) while the burgundy solid is MM270
+
+(furthest away from the viewer). Two other solids were also created (WA_ALL and
+
+MM_ALL).
+
+1 7 . 4 S P A T I A L A N A L Y S I S
+
+HBM&S ran 3-D variography (within MedSystems) on all datasets when the Ruttan
+
+Mine was in operation. In total, 35 variograms were run for different portions of the
+
+mine and independent checks were made to confirm the variography results
+
+(Maunula, 1997). Wardrop believes that the process followed by HBM&S was
+
+thorough and did not need to be repeated. Consequently, the HBM&S parameters
+
+were used by Wardrop to create the current resource estimate.
+
+The search ellipse parameters used for this resource estimate are shown in Figure
+
+17.7.
+
+1 7 . 5 B L O C K M O D E L
+
+A single block model was created to encompass all of the deposits at the former
+
+Ruttan Mine. Table 17.10 shows the GEMS coordinates for this block model. This is
+
+because the Kria coordinates are block centroids and the GEMS coordinates use
+
+block vertices.
+
+Table 17.10 GEMS Block Model Limits (Edge to Edge)
+
+Minimum Maximum
+
+Easting -160 2005.0
+
+Northing -805 102.5
+
+Elevation 1560 1555.0
+
+17.5.1 BLOCK MOD EL S IZ E
+
+The block size used for this report mimics the size used by HBM&S when the mine
+
+was in operation. Table 17.11 shows the block dimensions while Figure 17.8 displays
+
+a screen capture of the block model folders used in GEMS for this project.
+
+Table 17.11 Block Sizes
+
+Easting Northing Elevation
+
+Block Sizes (m) 10 5 10
+
+
+
+Trevali Mining Corp. 55 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 17.6 Three-Dimensional View of the Solids Used for the Resource Model
+
+
+
+Trevali Mining Corp. 56 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 17.7 Search Ellipse Parameters
+
+
+
+Trevali Mining Corp. 57 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 17.8 Block Model Set-Up in GEMS
+
+17.5.2 INTER POLATION PLAN
+
+Inverse Distance Squared (ID
+2
+) and Nearest Neighbour (NN) models were estimated
+
+for the Kria dataset. Both models used two passes for uncapped and capped data.
+
+Table 17.12 displays the Pass 1 and Pass 2 criteria for the ID
+2
+
+interpolation using
+
+capped values.
+
+
+
+Trevali Mining Corp. 58 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Table 17.12 Interpolation Parameters for Passes 1 and 2
+
+Ellipsoid Dimensions Number of samples used
+
+X Y Z Min Max Max per hole
+
+PASS 1 25 7.5 25 6 15 5
+
+PASS 2 50 15 25 3 45 5
+
+Additional special models were created to facilitate the resource estimation and
+
+classification:
+
+ Two models to capture the number of points used in the ID
+2
+
+Pass 1 and 2
+
+estimates of the uncapped data (N_SAM_P1 and N_SAM_P2).
+
+ A model for the actual distance to the closest point for the NN estimates
+
+using uncapped data (DIST).
+
+ A script routine was used to determine the pass number for the blocks
+
+(PASS_NMB). This number was used (with another script) to create a
+
+category number (CAT model).
+
+ Copper equivalent models were created for capped and uncapped data
+
+using two formulae, one using 2002 economic criteria and the other using
+
+2007 criteria. These formulae are discussed in section 17.5.3.
+
+ A model for the interpolated specific gravity values.
+
+17.5.3 MET AL EQUIVALENC Y FORMULAE
+
+HBM&S used a 1% copper equivalency (CuEQ) formula to define the boundaries of
+
+the mineralized solids. The formula is:
+
+CuEQ 2002: Cu + Zn/4
+
+Wardrop used this formula (with capped and uncapped data) to populate the
+
+Cu_EQ_02 model with interpolated values. A copper equivalency formula
+
+incorporating expected metal recoveries was also used with the same point data to
+
+populate the Cu_EQ_07 models. The latter formula uses more relevant variables;
+
+having both models enables visual comparisons of the grade distribution. The 2007
+
+formula is:
+
+CuEQ_C 2007: (((Cu Price * Cu Recovery * Cu Grade Capped * 22.04622) + (Zn
+
+Price * Zn Recovery * Zn Grade Capped * 22.04622)) / (Cu Price)) / 22.04622
+
+For the 2007 formula the following values were used:
+
+
+
+Trevali Mining Corp. 59 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Variable Value
+
+Cu Price $2.50
+
+Cu Recovery 93.80%
+
+Zn Price $1.14
+
+Zn Recovery 77.31%
+
+Pounds per tonne 2204.622
+
+The Cu values are capped at 5.9% while the Zn values are capped at 11.75%. The
+
+mill recovery values are derived from the five-year estimates (1985 to 1989) shown in
+
+a report by Tenney (1985) while the metal prices are three-year moving averages
+
+(September 2004 to October 2007) from a database maintained by Wardrop.
+
+Modified values were used for the updated resource estimate (Appendix A).
+
+17.5.4 M IN ER AL RESOU RCE CLASSIF ICAT ION
+
+The resource estimate for the Ruttan project is classified as Inferred for the following
+
+three reasons:
+
+ There are no hard copy drill logs or assay certificates to validate the
+
+database.
+
+ When a solid is generated by extrusion it may create a variance between the
+
+start (or end) of the extruded solid and the location of the composite assays.
+
+Figure 17.9 highlights this issue.
+
+ The mineralized solids were created using the 2002 CuEQ formula whereas
+
+the block model interpolation uses the 2007 CuEQ formula.
+
+In Figure 17.9 the blue bars represent the drill hole/solid intercepts while the red bars
+
+represent all values greater than 1% CuEQ_02. The mismatch between the two
+
+items highlights the imprecision of extruding solids and lowers the confidence level
+
+for the resource estimate to Inferred.
+
+Both ID
+2
+
+and NN methods were used to estimate the resource; the NN method is
+
+used as a cross-check for the ID
+2
+
+method. Table 17.13 gives the summary statistics
+
+for the Distance model – the average distance to the nearest composite is about 9m
+
+while the maximum is closer to 50 m.
+
+
+
+Trevali Mining Corp. 60 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 17.9 Solid Extrusion Issues (Blocks Shown by Red Lines)
+
+Table 17.13 Distance to Nearest Composite Statistics
+
+Minimum Maximum Average Std Dev Variance Count
+
+0 49.05 9.08 5.66 31.99 77275
+
+17.5.5 M IN ER AL RESOU RCE TABULAT ION
+
+To estimate the resources correctly it was necessary to set a precedence value for
+
+the three types of solids (mineralization, stopes and internal waste). Table 17.14
+
+shows the results of the resource estimation. The base case of 1% CuEQ cut-off is
+
+highlighted in yellow.
+
+
+
+Trevali Mining Corp. 61 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Table 17.14 Inferred Mineral Resources at Ruttan (Estimate by Wardrop, 2008)
+
+Solid Names Grades Volume of Solids (m
+3
+) Density (t/m
+
+3
+) Tonnage (t) Cu (%) Zn (%) CUEQ_C07 (%)
+
+Combined Main
+
+and West Anomaly
+
+Areas (includes the
+
+HW Zinc Zone)
+
+>2.0 894,870 3.672 3,285,659 1.90 3.13 2.59
+
+>1.5 2,265,640 3.642 8,252,155 1.50 2.30 2.06
+
+>1.0 4,742,140 3.616 17,148,138 1.23 1.60 1.64
+
+
+
+Trevali Mining Corp. 62 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+17.5.6 VALIDAT ION
+
+Global and visual methods were used to validate the model. The global methods are
+
+shown in Table 17.15 while examples of the visual methods are shown in Figures
+
+17.10 and 17.11.
+
+Table 17.15 Global Grade Comparisons
+
+Raw Assays Composites Block Model ID
+2
+
+Cu % 1.28 1.24 1.07
+
+Zn % 1.30 1.24 1.28
+
+The visual comparisons of block model grades with composite grades show a
+
+reasonable correlation between the values. No significant discrepancies were
+
+apparent from the sections reviewed.
+
+Figure 17.10 Composites-Block Model Grade Comparisons (1)
+
+
+
+Trevali Mining Corp. 63 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Figure 17.11 Composites-Block Model Grade Comparisons (2)
+
+
+
+Trevali Mining Corp. 64 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+1 8 . 0 O T H E R R E L E V A N T D A T A A N D
+I N F O R M A T I O N
+
+The Ruttan property was a producing mine until 2002 when low metals prices forced
+
+the mine to close. Initial mining was done by open pit. The dimensions of the open
+
+pit are 2600 m long x 1400 m wide x 350 m deep (all approximate measures). The
+
+mine evolved into an underground operation completed to the 1050 m level below
+
+surface, with a shaft utilized for bringing ore to surface.
+
+During the Wardrop site visit, it was confirmed that the mill was removed and no
+
+surface infrastructure remains standing. The site visit confirmed the presence of
+
+small dried tailings ponds on site and a larger active pond. As well, several waste
+
+and low grade rock stockpiles exist on the property. The site surface water is
+
+collected and drained and/or channeled to the open pit, which subsequently drains
+
+into the underground mine. Also noteworthy is the existence of a power line to
+
+property that could be re-habilitated.
+
+
+
+Trevali Mining Corp. 65 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+1 9 . 0 I N T E R P R E T A T I O N A N D C O N C L U S I O N S
+
+Multiple lenses of base metal massive sulphide mineralization are present at Ruttan,
+
+with copper and zinc as the elements of interest. All of the digital data used for this
+
+estimate was supplied by the current owner of the project (Kria Resources). This
+
+data includes drill hole and assay information as well as various 3-D rings for the
+
+mineralization, mined stopes and waste rock lenses. The supplied data came from
+
+the HBM&S database at the time of mine closure (2002) and is believed to be
+
+accurate although a lack of supporting hard copy data made it difficult to validate the
+
+digital data. Wardrop visited the site, reviewed some of the historical drill core and
+
+interviewed the project staff.
+
+The various 3-D rings were extruded for 4.99 metres on either side of the plan centre
+
+line. All of the solids were validated and solid-intercept intersections were calculated.
+
+One of the issues with vertically extruding the 3-D rings to create solids is a potential
+
+mismatch between the solid boundaries and the actual location of the mineralization.
+
+This shortcoming is one reason for defining the category of mineralization as
+
+Inferred. Wardrop recommends that the tie-line approach to solid creation be used
+
+for any future studies.
+
+The density for the tonnage estimation is interpolated from the values supplied by
+
+Kria. Both ID
+2
+
+and NN interpolation methods were used with capped and uncapped
+
+values. An ID
+2
+
+Inferred Resource of 17.15 million tonnes at 1.64% CuEQ_C is
+
+present at Ruttan (using a 1% CuEQ_C cut-off). Both the internal waste and the
+
+mined out stopes have been subtracted from the global resource estimate to arrive at
+
+this number. No reserves are present at Ruttan.
+
+The CUEQ_C 2007 formula incorporates values for both mill recoveries and metal
+
+prices. Weighting the copper and zinc assays with these values creates a more
+
+realistic grade distribution in the final block model. This formula is believed to be
+
+more representative of today's market conditions and will therefore generate a more
+
+relevant resource estimate. This equivalency formula should be compared to the
+
+simpler formula used by HBM&S
+
+(Cu + Zn/4).
+
+
+
+Trevali Mining Corp. 66 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+2 0 . 0 R E C O M M E N D A T I O N S
+
+Recommended work for the Ruttan property consists of grade and tonnage
+
+reconciliation to establish a base case of near term mineable tons from surface to
+
+approximately 600 m deep. This reconciliation will then lead into a desktop study
+
+analyzing the mineable tons from both an underground and an open pit perspective.
+
+Included in the study will be integration of the present ongoing long term closure plan
+
+for the mine and the case for reopening the mine and re-establishing the surface
+
+infrastructure needed to process the reconciled Ruttan deposit. This study will be
+
+conducted internally with outside consultants providing assistance and overview on
+
+an as needed basis. The study will require a 5 month period starting in the 2nd
+
+quarter of 2009. The expected budget for the recommended work is $200,000.
+
+Kria's diamond drill programs of 2007/2008 established the West Anomaly
+
+mineralization extends to within 50 m of the surface. Wardrop recommends targeting
+
+near surface diamond drill holes at a tight spacing to upgrade resources from the
+
+Inferred to the Indicated category. It is envisioned that approximately 1500 m of
+
+drilling will be required for an estimated cost of $300,000.
+
+To upgrade the resource category from Inferred to Indicated Wardrop recommends
+
+the creation of a wireframe using tie-lines and 3-D rings. This required step will be
+
+time consuming and labour-intensive but is essential for accurate volume creation.
+
+At the same time the database should be cleaned by cross-checking the digital data
+
+with any hard copy data. Estimated cost is $65,000.
+
+
+
+Trevali Mining Corp. 67 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+2 1 . 0 R E F E R E N C E S
+
+Anderson, S.D., Beaumont-Smith, C.J. and Bohm, C.O., 2005: Structure and
+
+geometry of the Paleoproterozoic Ruttan VMS deposit, southwest Rusty Lake belt
+
+(NTS 64B5), Manitoba; Manitoba Industry, Economic Development and Mines,
+
+Manitoba Geological Survey, Geoscientific Report GR 2005-1, 35p.
+
+Ames, D.E., 1996: Stratigraphic and tectonic setting of the Paleoproterozoic Ruttan
+
+Cu-Zn VHMS deposit, Rusty Lake belt, Trans-Hudson Oroge; In EXTECH 1: A
+
+Multidisciplinary Approach to Massive Sulphide Research in the Rusty Lake-Snow
+
+Lake Greenstone Belts, Manitoba, (ed.) G.F. Bonham-Carter, A.G. Galley and
+
+G.E.M. Hall; Geol. Survey. Can., Bulletin 426, p. 15-43
+
+Ames, D.E. and Taylor, C., 1996: Geology of the West Anomaly orebody, Ruttan
+
+volcanic-hosted massive sulphide deposit, Proterozoic Rusty Lake belt; In EXTECH
+
+1: A Multidisciplinary Approach to Massive Sulphide Research in the Rusty Lake-
+
+Snow Lake Greenstone Belts Manitoba, (ed.) G.F. Bonham-Carter, A.G. Galley and
+
+G.E.M. Hall; Geol. Survey. Can., Bulletin 426, p. 45-76
+
+Baldwin, D.A., 1980: Ruttan Lake, Karsakuwigamak Lake, Eagle Lake project; In
+
+Manitoba Energy and Mines, Mineral Resources Division, Report of Field Activities,
+
+p. 14-18.
+
+Baldwin, D.A., 1988: Geology of the southern part of the Rusty Lake volcanic belt;
+
+Manitoba Energy and Mines, Minerals Division, Geological Report GR86-1, 90p.
+
+Baldwin, D.A., Syme, E.C., Zwanzig, H.V., Gordon, T.M., Hunt, P.A. and Stevens,
+
+R.D., 1987: U-Pb zircon ages from the Lynn Lake and Rusty Lake metavolcanic
+
+belts, Manitoba: two ages of Proterozoic magmatism; Can Jour. Earth Sci., V. 24, p.
+
+1053-1063.
+
+Barrie, C.T. and Taylor, C., 2001: Geology, alteration mineralogy, geochemistry and
+
+volcanogenic massive sulphide potential of the Ruttan Mine area and the southern
+
+Rusty Lake volcanic belt (NTS 64B); Manitoba Industry, Trade and Mines, Manitoba
+
+Geological Survey, O.F. Report OF2001-9, 25p.
+
+Gale, G.H., McClenaghan, S.H. and Yaworski, R., 2002: Geology and geochemistry
+
+of the Ruttan and Darrol Lake deposits (NTS 63B5), Manitoba; In Report of Activities
+
+2002, Manitoba Industry, Trade and Mines, Manitoba Geological Survey, p. 198-204.
+
+Government of Manitoba, Department of Science and Technology, Energy and
+
+Mines, Mineral Resources Division; Mineral Disposition Map (online GIS viewer and
+
+database) http://geoapp2.gov.mb.ca/website/claim_map/viewer.htm
+
+
+
+Trevali Mining Corp. 68 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+Harron, G.A., 2007: Technical Report on Ruttan Mine Property and Claim 5025, The
+
+Pas Mining District, Manitoba; For Kria Resources Inc.
+
+Lantz, B., 1985: Re-evaluation of the tonnage factor estimate for Ruttan Mine
+
+between 430 and 800 metric levels; Sherritt Gordon Mines Limited, internal report.
+
+Maunula, T.L., 1997: Geological Resource Calculation Procedures; HBM&S, internal
+
+report.
+
+Speakman, D.S., Chornoby, P.J., Haystead, B.C.W. and Holmes, G.F., 1982:
+
+Geology of the Ruttan deposit, northern Manitoba; Geol. Assoc. Can., Special Paper
+
+25, p. 525-555.
+
+Tenney, D., 1985: Ore reserves and break-even grades; Sherritt Gordon Mines
+
+Limited, internal report.
+
+PR ESS RELE ASE S :
+
+Kria Press Release, Oct 2008. Beartooth Platinum and Kria Resources Agree to
+
+Business Combination. 23 October 2008.
+
+WEB SITE S :
+
+Government of Manitoba, Department of Science and Technology, Energy and
+
+Mines. Mineral Resources Division:
+
+Mineral Disposition Map and Database:
+
+http://geoapp2.gov.mb.ca/website/claim_map/viewer.htm
+
+
+
+Trevali Mining Corp. 69 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+2 2 . 0 C E R T I F I C A T E O F Q U A L I F I E D P E R S O N S
+
+2 2 . 1 C E R T I F I C A T E F O R T I M M A U N U L A , P . G E O .
+
+I, Tim Maunula, P.Geo., of Oakville, Ontario, do hereby certify:
+
+ I am a Chief Geostatistician with Wardrop Engineering Inc. with a business
+
+address at 900-330 Bay Street, Toronto, ON M5H 2S8.
+
+ This certificate applies to the technical report entitled Technical Report on the
+
+Former Ruttan Mine, Northern Manitoba, Canada, with an effective date of
+
+February 18, 2009 (the "Technical Report").
+
+ I am a graduate of Lakehead University, (B.Sc. Honours, 1979). I am a member
+
+in good standing of the Association of Professional Geoscientists of Ontario
+
+(License #1115). My relevant experience with respect to geology includes over
+
+30 years of exploration, operations and consulting experience including
+
+considerable experience at base metal properties in Manitoba. I am a "Qualified
+
+Person" for purposes of National Instrument 43-101 (the "Instrument").
+
+ I have not completed a personal inspection of the Property that is the subject of
+
+this Technical Report.
+
+ I am responsible for all Sections of the Technical Report.
+
+ I am independent of Trevali Mining Corp. as defined by Section 1.5 of the
+
+Instrument.
+
+ I have prior involvement with the Property that is the subject of the Technical
+
+Report. I was the Senior Geologist for the Hudson Bay Mining & Smelting Co.
+
+Ltd. From 1995 to 1997 at the Ruttan Mine.
+
+ I have read the Instrument and the Technical Report has been prepared in
+
+compliance with the Instrument.
+
+ As of the date of this certificate, to the best of my knowledge, information and
+
+belief, the technical report contains all scientific and technical information that is
+
+required to be disclosed to make the Technical Report not misleading.
+
+Signed and dated this 19
+th
+
+day of August, 2011 at Oakville, Ontario.
+
+"Original document, signed and
+sealed by Tim Maunula, P.Geo."
+
+Tim Maunula, P.Geo.
+
+
+
+Trevali Mining Corp. 70 0787190100-REP-R0001-00
+Technical Report on the Former Ruttan Mine
+
+2 2 . 2 C E R T I F I C A T E F O R C H R I S T O P H E R M O R E T O N , P H . D . , P . G E O .
+
+I, Christopher Moreton, Ph.D., P.Geo., of Oakville, Ontario, do hereby certify:
+
+ At the effective date of this report I was a Senior Geologist with Wardrop
+
+Engineering Inc. with a business address at 900-330 Bay Street, Toronto, ON,
+
+M5H 2S8.
+
+ This certificate applies to the site visit portion of the technical report entitled
+
+Technical Report on the Former Ruttan Mine, Northern Manitoba, Canada, with
+
+an effective date of February 18, 2009 (the "Technical Report").
+
+ I am a graduate of the University of New Brunswick, (Ph.D., 1994), Memorial
+
+University of Newfoundland (1984) and the University of Southampton (1981). I
+
+am a member in good standing of the Association of Professional Engineers and
+
+Geoscientists of New Brunswick (License # M5484) and the Association of
+
+Professional Geoscientists of Ontario (License # 1229). My relevant experience
+
+with respect to these deposits includes more than 20 years researching and
+
+exploring for similar deposit types for both senior and junior companies. I am a
+
+"Qualified Person" for purposes of National Instrument 43-101 (the "Instrument").
+
+ My most recent personal inspection of the Property was August 6, 2007 for 2
+
+days.
+
+ I am not responsible for any Sections of the Technical Report.
+
+ I am independent of Trevali Mining Corp. as defined by Section 1.5 of the
+
+Instrument.
+
+ I have no prior involvement with the Property that is the subject of the Technical
+
+Report.
+
+ I have read the Instrument and the Technical Report has been prepared in
+
+compliance with the Instrument.
+
+ As of the date of this certificate, to the best of my knowledge, information and
+
+belief, the technical report contains all scientific and technical information that is
+
+required to be disclosed to make the Technical Report not misleading.
+
+Signed and dated this 19
+th
+
+day of August, 2011 at Oakville, Ontario.
+
+"Original document signed and
+sealed by Christopher Moreton,
+
+Ph.D., P.Geo."
+
+Christopher Moreton, Ph.D., P.Geo.
+
+
+'

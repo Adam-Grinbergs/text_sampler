@@ -1,0 +1,3628 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+untitled
+
+
+ 
+ 
+
+TECHNICAL REPORT  
+ON THE  
+
+DJAMBAYE 2 GOLD DEPOSIT 
+KENIEBA GOLD CONCESSION 
+
+(ARRETTE 01-2049 & 04-2182) 
+ 
+
+(Pursuant to National Instrument 43-101 of  
+the Canadian Securities Administrators) 
+
+ 
+Kayes Region, Cercle de Kenieba, Republic of Mali 
+
+(Centered at: 12
+o
+52'17" N; 11
+
+o
+15'00" W) 
+
+UTM (WGS 84, zone 29): 1,423,971 N; 255,814 E 
+ 
+ 
+ 
+ 
+
+For 
+ 
+ 
+
+GREAT QUEST METALS LTD. 
+Suite 515—475 Howe Street 
+
+Vancouver, B.C., Canada  V6C 2B3 
+Tel. 604.684.5854 
+
+ 
+ 
+ 
+
+By 
+ 
+ 
+ 
+
+Carl G. Verley, PGeo 
+Amerlin Exploration Services Ltd 
+
+2150 – 1851 Savage Road 
+Richmond, B.C., CANADA  V6V 1R1 
+
+Tel. 604.821.1088 
+ 
+ 
+
+Dated 
+April 04, 2008
+
+
+
+ 
+
+ 
+
+ii
+
+Table of Contents 
+ 
+
+1.0  Summary..................................................................................................................... 1 
+2.0  Introduction................................................................................................................. 3 
+3.0  Reliance on Other Experts .......................................................................................... 3 
+4.0  Property Description and Location............................................................................. 4 
+5.0  Accessibility, Climate, Local Resources, Infrastructure and Physiography............... 6 
+6.0  History ........................................................................................................................ 7 
+7.0  Geological Setting ...................................................................................................... 8 
+
+7.1  Regional Geological Setting ................................................................................... 8 
+7.2  Local and Property Geology................................................................................... 9 
+
+8.0  Deposit Types ........................................................................................................... 11 
+9.0  Mineralization........................................................................................................... 12 
+
+9.1 Djambaye 1............................................................................................................ 13 
+9.2 Djambaye 2............................................................................................................ 13 
+9.3 Djambaye 3............................................................................................................ 14 
+9.4 Kabaya 1 ................................................................................................................ 14 
+9.5 Kabaya 2 ................................................................................................................ 15 
+9.6 Kourufin................................................................................................................. 15 
+9.7 Sansanto................................................................................................................. 15 
+9.8  Other Zones .......................................................................................................... 15 
+
+10.0  Exploration ............................................................................................................. 16 
+11.0  Drilling 2007........................................................................................................... 24 
+12.0  Sampling Method and Approach ............................................................................ 38 
+
+12.1 Drill Core:............................................................................................................ 38 
+13.0  Sample Preparation, Analyses and Security ........................................................... 38 
+14.0  Data Verification .................................................................................................... 38 
+15.0  Adjacent Properties................................................................................................. 38 
+16.0  Mineral Processing and Metallurgical Testing ....................................................... 39 
+17.0  Mineral Resource and Mineral Reserve Estimates ................................................. 39 
+18.0  Other Relevant Data and Information..................................................................... 45 
+19.0  Interpretation and Conclusions ............................................................................... 45 
+20.0  Recommendations................................................................................................... 46 
+
+20.1 Stage 1 – Estimated Costs: .............................................................................. 46 
+21.0  References............................................................................................................... 48 
+ 
+
+
+
+ 
+
+ 
+
+iii
+
+ 
+List of Figures 
+
+ 
+Figure 1. Location Map. .................................................................................................... 1 
+Figure 2. Concession Location Map.................................................................................. 5 
+Figure 3. Regional Geological Setting – Keniba Gold Property. ...................................... 8 
+Figure 4. Concession Geology - Keniaba Gold Property. ............................................... 10 
+Figure 5. Locations of Gold Zones on Kenieba Gold Concession. ................................. 12 
+Figure 6. Structural Setting of Djambaye 1 and 2 ........................................................... 14 
+Figure 7. Plan of Holes Drilled in Djambaye 2 ............................................................... 27 
+Figure 8. Drill Hole Section KN 03-05, KN 05-05 and KN 22-06 ................................. 28 
+Figure 9. Drill Hole Section KN 08-05, KN 11-05, KN 16-06 ....................................... 29 
+Figure 10. Drill Hole Section KN 55-07 and KN 56-07.................................................. 30 
+Figure 11. Drill Hole Section KN 59-07 and KN 60-07.................................................. 31 
+Figure 12. Djambaye 2 – A Zone Long Section.............................................................. 43 
+Figure 13. Djambaye 2 – B Zone Long Section .............................................................. 44 
+ 
+ 
+
+List of Tables 
+
+Table 1. Ranges for Inferred Resource Estimate – Djambaye 2........................................ 2 
+Table 2. Concession Location............................................................................................ 4 
+Table 3. Diamond Drill Hole Summary, 2005 Drill Program ......................................... 16 
+Table 4. Significant Assays – 2005 Drill Program.......................................................... 17 
+Table 5. Diamond Drill Hole Summary, 2006 Drill Program ......................................... 20 
+Table 6. Significant Assays - 2006 Drill Program........................................................... 21 
+Table 7. Diamond Drill Hole Summary, 2007 Drill Program ......................................... 25 
+Table 8. Significant Assays – Djambaye 2 - 2007 Drill Program ................................... 32 
+Table 9. Updated Inferred Mineral Resource – Djambaye 2........................................... 40 
+Table 10. Djambaye 2 - A Zone – Middle Resource Estimate ........................................ 41 
+Table 11. Djambaye 2 - B Zone – Middle Resource Estimate ........................................ 42 
+
+ 
+ 
+
+
+
+ 
+
+ 
+
+1
+
+1.0  Summary 
+ 
+
+Great Quest Metals Ltd. has interests in several gold concessions in the Republic 
+of Mali. This report describes the results of diamond drilling conducted on two of these 
+concessions, referred to as the Kenieba Gold Concession – Arrette 04-2182 and 01-2049 
+- during 2007. The 2007 drilling results are used to update a resource estimate for the 
+Djambaye 2 gold deposit that, presently, is the focus of exploration on the property. The 
+Kenieba Gold Property is 3,138 hectares in area.  
+
+The concessions are located in western Mali, in the Kayes Region, Kenieba 
+Cercle and are approximately 360 kilometres west of, Bamako, the capital of Mali. 
+ 
+ 
+
+ 
+ 
+
+Figure 1. Location Map. 
+ 
+
+Great Quest Metals Ltd. is the beneficial titleholder of the concessions, which 
+were issued by the government of Mali. 
+
+The concessions are underlain by folded Paleoproterozoic age sediments and 
+volcanics of the Birimian Group. Several areas on the property are intruded by granitic 
+dykes and plutons. Immediately east of the concessions Upper Proterozoic and Paleozoic 
+sediments unconformably overlie the Birimian and intrusive rocks. Jurassic age dolerite 
+dykes and sheets intrude the Birimian and Palaeozoic sediments. The younger 
+sedimentary successions stand out in topographic relief forming highland plateaus 
+demarcated by the Tamboura escarpment. Exploration conducted by Great Quest on the 
+concessions since 2002 has resulted in the discovery of nine gold mineralized areas. 
+Currently, the most important of the gold zones is the Djambaye 2 structure. Gold 
+
+
+
+ 
+
+ 
+
+2
+
+mineralization is associated with quartz veins, which have a close association with 
+altered albitite or keratophyre dykes.  
+
+In 2006 Great Quest drilled a total of 3,078 metres in 28 NQ-sized cored holes. 
+In 2007, a total of 5,712 metres in 41 NQ-sized core holes were drilled and of these 25 
+tested the Djambaye 2 structure. Results of this work have tested a 1.85 kilometre 
+section of the 4 kilometre Djambaye 2 structure. The Djambaye 2 deposit consists of two 
+tabular, gold-bearing zones that are associated with variably altered albitite dykes.  
+Zones of quartz vein stockworks and quartz matrix breccias occur in both the altered 
+dykes and surrounding metasedimentary host rocks.  
+
+Assays of drill intercepts from the 2007 program have been used to update an 
+estimate of a preliminary, inferred resource for the project. The inferred resource 
+estimate indicates that the area drilled has potential to host gold in two mineralized 
+zones: the Djambaye 2-A Zone and the Djambaye 2–B Zone. Uncertainties in the 
+estimation of tonnage of in the order of 15% have led to a range of estimated values for 
+tonnage and gold contents, as tabulated below. A median or middle estimate for the 
+combined Djambaye 2 – A and B Zones is 2,574,000 tonnes averaging 3.92 grams/tonne 
+gold for a undiluted gold content of 10,080,000 grams or 324,000 ounces. 
+
+ 
+Table 1. Ranges for Inferred Resource Estimate – Djambaye 2 
+
+ High  Median Low 
+Djambaye 2 - A Zone - tonnage         2,426,000        2,110,000       1,763,000  
+
+Estimated average gold grade (gm/t) 4.11 4.11 4.11 
+Estimated gold content (grams)         9,970,000        8,690,000       7,369,000  
+Estimated gold content (ounces)           320,500           279,400          236,000  
+
+    
+Djambaye 2 - B Zone - tonnage           534,000           464,000          394,000  
+
+Estimated average gold grade (gm/t) 3.00 3.00 3.00 
+Estimated gold content (grams)         1,600,000        1,390,000       1,183,000  
+Estimated gold content (ounces)             51,000             44,600            38,000  
+
+    
+Djambaye 2 - A & B Zone combined     
+
+Estimated tonnage         2,960,000        2,574,000       2,157,000  
+Estimated average gold grade (gm/t) 3.92 3.92 3.92 
+Estimated gold content (grams)       11,570,000      10,080,000       8,552,000  
+Estimated gold content (ounces)           371,500           324,000          274,000  
+
+ 
+  
+Further work is recommended to continue the evaluation of the potential of the 
+
+concessions. A program designed to continue the exploration of the Djambaye 2 
+structure as well as testing some of the other adjacent gold mineralized structures, such 
+as Djambaye 1, is recommended. The estimated cost of the first phase of this work is 
+$CDN 2,000,000. A second phase program, contingent upon the success of the first, is 
+recommended and is estimated to cost $CDN 4,000,000. 
+ 
+
+
+
+ 
+
+ 
+
+3
+
+2.0  Introduction 
+ 
+
+This report is written at the request of Mr. Willis Osborne, Chief Executive 
+Officer of Great Quest Metals Ltd. The purpose of the report is to update the resource 
+estimate for the Djambaye 2 gold structure and to summarize the results of work 
+programs undertaken in order to maintain the rights to the concessions. 
+
+ In addition the report will be used to meet Great Quest's requirements for its 
+annual information filing with the TSX Venture Exchange. 
+
+ 
+The writer would like to acknowledge logistical help received while in the field 
+
+from Mr. Mamadou Keita, M.Sc., director of Great Quest Metals Ltd. and Mr. 
+Abdoulaye Thiero. In addition, Mr. Niatié Bengaly, managing project geologist, 
+provided insight into the understanding of the mineralized zones on the Kenieba Gold 
+Concession. 
+ 
+ 
+3.0  Reliance on Other Experts 
+ 
+ No reliance has been placed on the opinions or information generated by other 
+experts in the preparation of this report, with the exception of some cited descriptions of 
+regional geology.  
+ 
+ 
+
+
+
+ 
+
+ 
+
+4
+
+4.0  Property Description and Location 
+ 
+
+Great Quest Metals Ltd. has rights to acquire interests in two concessions in the 
+Kayes Region of the western part of the Republic of Mali and collectively referred to as 
+the Kenieba Gold Property. The concessions are centered at: 12
+
+o
+52'17" N, 11
+
+o
+15'00" W or 
+
+at UTM (WGS 84, zone 29) 1,423,971 N and 255,814 E. The Kenieba concessions are 
+approximately 3,138 hectares in area. Corner coordinates for the locations of the 
+concessions are tabulated below (Table 2) and illustrated on Figure 2. 
+
+Great Quest Metals Ltd. holds 100% beneficial title to the concessions pending 
+fulfillment of certain obligations that it undertakes to complete. A 5% net profits interest 
+royalty is payable to a Malian national on production from Arrette 04-2182. 
+
+ 
+There has been no legal survey of the property boundaries. 
+ 
+There are no environmental liabilities affecting the concessions in their present 
+
+state of development. Great Quest has received all the required permits that the 
+Government of Mali requires companies to obtain in order to undertake exploration 
+work programs. As the exploration work programs expand in size additional permits 
+may be required. Great Quest Metals Ltd. anticipates that it will be able to obtain 
+required permits. 
+
+Table 2. Concession Location 
+
+Corner Latitude Longitude 
+Arrette 01-2049
+
+1 12o54' 00" N 11o14'38"W
+2 12o54' 00" N 11o12' 43" W
+3 12o52'54" N 11o12' 43" W
+4 12o52'54" N 11o13'49" W
+5 12 o50'33" N 11o13'49" W
+6 12 o50'33" N 11o14'38" W
+
+Arrette 04-2182
+1 12o54' 00" N 11o15'30" W
+2 12o54' 00" N 11o14'38" W
+3 12 o50'33" N 11o14'38" W
+4 12 o50'33" N 11o17'18" W
+5 12 o51'49" N 11o17'18" W
+6 12 o51'49" N 11o15'30" W
+
+ 
+Great Quest Metals Ltd. recently acquired the Comifa concession, which adjoins 
+
+Arrette 04-2182 to the west. Comifa is approximately 800 hectares in area. Great Quest 
+also has interests in other concessions north of the Kenieba Gold Concession, namely the 
+Baroya and Kenieti concessions located to the north of property. Baroya is a gold 
+concession, approximately 610 hectares in area. However, Kenieti is a diamond 
+
+
+
+ 
+
+ 
+
+5
+
+concession. Diamond concessions held by others are located in the area and some of 
+these overlap the Kenieba Gold Property. 
+ 
+
+ 
+. 
+
+Figure 2. Concession Location Map 
+Great Quest Metals Ltd's Kenieba Property boundaries are in black line 
+(Arrette 01-2049 & 04-2182); yellow lines demark Nevsun Resources Inc's 
+properties – containing the Tabakoto gold mine and Segala gold deposit. 
+Locations of gold zones on Great Quest ground can be found in Figure 5. 
+
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+6
+
+5.0  Accessibility, Climate, Local Resources, Infrastructure 
+and Physiography 
+ 
+
+The Kenieba Gold Concession is situated in generally low lying (100 - 150 
+metres ASL) savannah or veldt of the Faleme River basin. The concessions are covered 
+in open stands of deciduous and evergreen broad leaf trees; the under storey of which 
+consists of a variety of grasses. 
+ 
+
+There is road access to and though much of the concession from the town of 
+Kenieba, which is situated on the south boundary of the Kenieba Gold Concession. 
+Numerous small villages are located throughout the concession and provide a ready 
+source of labour for conducting some aspects of sampling and exploration work. 
+ 
+
+The area is considered to be part of the Sudanese climatic zone and as such 
+experiences a long dry season from November through June when temperatures range 
+from 25oC at night to 47oC during the day. The dry season is followed by a wet season – 
+July to September – during which period travel becomes difficult because of flooding. 
+ 
+
+The rights provided by the government of the Republic of Mali provide the 
+concession holder with rights to gold and other commodities as the terms of the 
+concession permit. In addition, rights to surface access are provided for in the concession 
+agreements. Power is limited in the concession area but, conceivably electricity could be 
+brought into the area from the hydroelectric plant at Manantali, 75 kilometres to the east. 
+There is a concerted effort by other miners in the area (Nevsun and RandGold) to get the 
+Mali government to upgrade infrastructure in the Kenieba area. While the concession 
+areas are in a semi-arid environment ground water is readily available. There is a readily 
+available work force that is capable of supplying many of the labour related jobs in 
+mining; in addition there are some skilled technical people available as well. 
+ 
+
+Because of the relatively subdued topography over much of the concession there 
+are numerous areas that could be made available for tailings disposal and plant sites 
+when exploration indicates the need for such facilities. 
+
+
+
+ 
+
+ 
+
+7
+
+6.0  History 
+ 
+
+The western part of Mali and in particular the Kenieba region has a history of 
+gold mining going back to the third century. Artisanal gold miners have been active from 
+that time to present. Accurate records of the artisanal production do not exist, however 
+there are histories that indicate gold production has been substantial in the past. 
+
+French explorers mentioned gold production in the Kenieba valley in 1747. 
+Initial efforts at gold exploitation by the French focussed on alluvial occurrences of the 
+Faleme and Doundi Rivers. The Companie Des Mines de la Faleme-Gambie is reputed 
+to have dredged 2.5 tonnes of gold from the Faleme River during the period 1912 to 
+1950. Between 1924 and 1925, La Societe des Mines d'Or du Bambouk is reputed to 
+have produced 3.1 kilograms of gold from the Doundi River, in an area just south of the 
+Kenieba Gold Property. In the 1950's the Service de Geologie et de Prospection Miniere 
+conducted extensive prospecting programs in Western Mali that led to the discovery of 
+the Medinandi deposit in 1953. The Medinandi gold deposit is located 33 kilometres to 
+the south of the Kenieba Gold Property.  
+
+In the early 1960's the state mining agency: SONAREM, undertook alluvial gold 
+exploration in western Mali. In the late 1970's and through the 1980's the Malian Gold 
+Syndicate (BRGM and the Malian Government) conducted regional geochemical 
+surveys which led to the discoveries of a number of gold anomalies, including the 
+Tabakoto, Segala and Loulo gold deposits. Also during the late 1980's Klockner 
+Industrie-Alagen GmbH ran regional geochemical sampling programs that resulted in 
+the discovery of the Sadiola gold deposit to the north of Kenieba, near Kayes. Great 
+Quest became involved in gold exploration in the Kenieba area in 2002 with its 
+acquisition of the concessions there. Initial work conducted by Great Quest consisted of 
+geological mapping, soil sampling and trenching. 
+  
+  
+ 
+
+
+
+ 
+
+ 
+
+8
+
+7.0  Geological Setting 
+ 
+
+7.1  Regional Geological Setting 
+ 
+
+ 
+Figure 3. Regional Geological Setting – Keniba Gold Property. 
+
+ 
+Great Quest Metals Ltd's gold concession is situated in the central-western part of the 
+
+West African Craton (Figure 4) – an amalgam of Archean to late Proterozoic metamorphic 
+and intrusive rocks. Archean age greenstone belts in granitic gneissic terrains constitute the 
+Man shield – a proto-continent that accreted to Africa 2.1 billion years ago in a collisional 
+event that resulted in the collapse of Paleoproterozoic Birimian volcanic arc and sedimentary 
+basinal successions that now mantle the Man shield from the north to the east (Milési, J-P, 
+1992). The Birimian is intruded by syn- to late-tectonic intrusive bodies ranging from granite 
+to diorite in composition. Late Proterozoic (?) and Phanerozic clastic sediments of the 
+Taoudeni basin form a cover for Birimian formations in Mali. However, inliers exposing the 
+Birimian occur in several areas of western Mali. The concessions of Great Quest Metals Ltd. 
+lie within the Kedougou-Kenieba inlier.  Jurassic age dolerite sills and dykes intrude the 
+Birimian and Taoudeni basin sediments.    
+
+
+
+ 
+
+ 
+
+9
+
+7.2  Local and Property Geology 
+ 
+
+Relatively deep topical weathering has produced extensive areas of iron and 
+manganese-rich duricrust laterite over much of the Great Quest's gold concessions. Laterite 
+is typically 1 to 2 metres thick on average. Weathered or saprolitic bedrock underlies the 
+laterite and on average, can vary up to 10 or 20 metres in thickness, but can be much deeper 
+in some areas such as at Kabaya 1. Weathering has obscured bedrock geology, most of which 
+has been determined either from rare exposures in creeks, bedrock in pits dug by artisanal 
+miners or from drill core. 
+
+The gold concessions of Great Quest Metals are underlain exclusively by Birimian 
+group metasediments consisting of pelitic and intercalated psammitic rocks. In drill core the 
+metasediments are comprised of interbedded siltstone and sandstone. Siltstone layers are 
+typically thin-bedded and laminated and vary from medium to dark grey in colour. The sand 
+beds vary from thin-bedded, fine-grained, grey to buff colour layers between the siltstone to 
+thick-bedded, medium grained greywacke beds. Quartz-tourmaline bands or "tourmalinite" 
+occur in several areas on the Kenieba Gold Concession. Tourmalinite may reflect an exhalite 
+component in the sedimentary succession. In some areas, such as at the Loulo gold deposit, 
+tourmalinites are directly associated with gold mineralization. Intrusive into the Birimian are 
+a variety of dykes (albitites or keratophyres and lamprophyres) and larger S-type (?) granitic 
+bodies (Figure 6). The Birimian formations are in general tightly folded. Immediately to the 
+east of the Kenieba Gold Concession, Upper Cambrian sediments – mainly quartzites, overlie 
+the Birimian. These resistant units form the cliffs of the Tamboura escarpment. Intrusive into 
+the Birimian and younger formations are Jurassic age dolerite dykes and sills. Extensive 
+dolerite sills within the Upper Cambrian sedimentary succession are exposed in areas along 
+the Tamboura escarpment. On the Kenieba Gold Concession a small dolerite plug crops out 
+at the village of Kouroufing. Dolerite sills and dykes appear to emanate from this plug, cross-
+cutting some of the gold mineralized zones A number of kimberlite pipes intrude Birimian 
+and younger sediments in and around the Kenieba Gold Concession.  
+
+A prominent north-northeasterly structural grain is developed by lineaments that are 
+frequently filled with dolerite dykes. Northeasterly and easterly trending lineaments are also 
+outlined on geological maps of the area (DNGM map sheet ND-29-1). 
+
+A number of gold mineralized structures have been located on the Kenieba Gold 
+Concession. These zones document a brittle style of deformation that prevailed during gold 
+mineralizing events. The mineralized zones are primarily quartz veins associated with felsic 
+dykes with abundant cross-cutting quartz veins, quartz-flooded breccia zones and local quartz 
+vein stockworks. The dykes were initially given field names of rhyodacite and diorite. 
+However, petrogaphic work undertaken by Jeff Harris, PhD in 2007 indicates that the diorites 
+are in fact albitite or keratophyre dykes and the rhyodacite is an altered variety of those 
+dykes. This change in nomenclature has resulted in changes to what was previously described 
+as the Diorite Zone to the Djambaye 2 – B zone and the Rhyodacite Zone to the Djambaye 2 
+– A Zone. In addition to the albitite dykes numerous other dykes intrude the metasedimentary 
+sequence. Some of these dykes have distinct trachytoid textures others may be lamprophyres. 
+These and the mineralized albitite dykes pre-date the dolerite dykes. Facing directions for the 
+metasediments determined from drill cores suggest that the Djambaye 2 structure is situated 
+in the core of a tightly folded anticline. 
+
+
+
+
+
+ 
+
+ 
+
+11
+
+8.0  Deposit Types 
+ 
+ To date gold mineralization found on the Kenieba Gold Concession is primarily 
+hosted in quartz veins intimately associated with albitite dykes, with structural control 
+being the dominant feature. Alteration associated with the structures consists of local 
+silicification of the metasediments. A carbonate-chlorite + sericite assemblage is also 
+locally found associated with the veins and in narrow, bleached alteration envelopes 
+around the veins. This style of mineralization is similar to that found at the adjacent 
+Tabakoto gold mine of Nevsun Resources Inc. 
+
+Gold mineralization that is emplaced in veins filling shatter zones or secondary 
+splays off major shears in rock units that have undergone brittle failure, as opposed to 
+ductile deformation (Colvine et al., 1988), is one style of mineralization that occurs on 
+the Kenieba Gold Property. Examples of such deposits with this mineralization style 
+may include the Siguiri gold mine of AngloGold Ashanti in Guinea or the Tabakoto 
+deposit of Nevsun near Kenieba, Mali. The key to exploring for these types of deposits is 
+defining structural trends and testing these with thorough sampling programs. 
+
+Another gold deposit type, that may be applicable to mineralization on the 
+concessions, is that found in the Birimian terrain in association with chemical sediments 
+(Leube et al., 1990) such as tourmaline-bearing sandstone at the Loulo deposit in Mali 
+(Dommanget et al., 1993) or siliceous exhalative horizons.  
+
+Intrusion-related gold deposits, where gold deposition is spatially related to 
+granitic intrusions, is a possible model for mineralization on the concessions, particularly 
+in light of the close association of the gold mineralization with albitite dykes. An 
+example of these are the deposits of Moto Goldmines Limited in the Democratic 
+Republic of the Congo, where gold is also associated with structurally controlled quartz-
+albite-carbonate-pyrite alteration zones in regionally metamorphosed sediments adjacent 
+to intrusives (Jones, 2005). 
+
+The form of the gold mineralized zones can be variable, ranging from narrow, 
+high-grade (15+ grams/tonne gold) shoots or lodes of several thousand to hundreds of 
+thousands of tonnes in size, to large, low-grade (1-3 grams/tonne gold) zones of 
+hundreds of thousands to millions of tonnes in size. Mining methods for extracting gold 
+from such deposits will vary depending on the form, mineralization character and size 
+and will range from underground to open pit operations. 
+
+Gold in significant concentrations in laterite is also a potential target type. The 
+Siguiri gold mine operated by AngloGold in Guinea is an example of a deposit that also 
+contains this style of gold mineralization in laterite overlying the Birimian rocks. 
+Exploration programs must be vigilant for the different environments as well as 
+structural styles, which may contain gold and therefore should be thoroughly tested. 
+
+Initial targeting of mineralized zones relies on gold soil geochemistry. In many 
+respects, the work of artisanal miners is a proxy for gold geochemistry and has been 
+used extensively to locate gold mineralized areas. Once located however, detailed grid 
+soil sampling can be used to define mineralized trends in bedrock that then can be drill 
+tested, utilizing either RAB, reverse circulation or core drills. 
+
+
+
+ 
+
+ 
+
+12
+
+9.0  Mineralization 
+ 
+
+A number of structurally controlled gold-bearing zones have been defined on the 
+Kenieba Gold Concession by soil geochemical surveys, evaluation of artisanal miners' 
+workings and diamond drilling, as illustrated in Figure 5. To date the zone that has 
+received the most attention has been Djambaye 2, however with continued exploration 
+the other zones could prove to be equally as important. In addition, exploration may lead 
+to the discovery of new gold zones on the concessions.  
+
+Brief summaries of the mineralized zones are presented below. The dominant 
+control for the mineralization is the northerly striking dykes as well as northeasterly 
+cross-cutting quartz stringer zones that develop within the dykes. The dykes and quartz 
+veins are all hosted in Birimian metasediments. Gold occurs as visible, native gold in 
+some of the drilled intercepts in the Djambaye 2. In addition, artisanal miners have 
+shown the writer quartz vein specimens that they have recovered from their workings 
+that contain native gold. Sulphide minerals associated with gold and the quartz veining 
+are not abundant, but locally may reach amounts in the order of 15%. Pyrite, 
+arsenopyrite and lesser pyrrhotite are the main sulphide phases.  
+
+ 
+
+ 
+ 
+
+Figure 5. Locations of Gold Zones on Kenieba Gold Concession. 
+ 
+
+
+
+ 
+
+ 
+
+13
+
+9.1 Djambaye 1 
+ 
+
+Djambaye 1 is located in the eastern part of Arrette 04-2182. The geology of the 
+Djambaye 1 gold zone is that of a gold mineralized north-south albitite dyke. In the wash 
+to the north, some altered dykes have been found. Gold mineralization is associated with 
+intervals of the albitite that are fractured and have numerous quartz stringers. Clay 
+alteration (kaolinite?) occurs with the dyke and may be related to supergene processes. 
+The dyke is hosted in Birimian metasediments. 
+
+Great Quest drilled one hole in 2006, KN 37-06, which intersected 7.9 metres of 
+8.02 g/t gold with 1.0 metre of 56.77 g/t. KN 02-04, drilled in 2004, intersected 29.80 
+metres of 0.66 g/t gold approximately 200 metres south of KN 37-06. To date, the 
+Djambaye 1 gold zone has been traced for 3,477 metres on the surface.  
+
+ 
+9.2 Djambaye 2 
+ 
+Djambaye 2 is located in Arrette 04-2182, north and west, by approximately 500 
+
+metres, of Djambaye 1. The Djambaye 2 zone consists of two parallel, tabular structures 
+(zones A & B) of gold in quartz veins in and adjacent to north-south striking, east 
+dipping albitite dykes that intrude Birimian metasediments. The A zone has been traced 
+on surface for a length of 4,000 metres of which the central 1,850 metres has been drill 
+tested to 150 metres below surface in some areas. The true thickness of the Djambaye 2–
+A Zone is estimated to range from 0.70 to 7.42 metres and average 2.98 metres. The B 
+Zone is an intermittent zone that is parallel to and west of the A Zone by 20 to 30 
+metres.  The B Zone averages 2.24 metres in thickness. The dykes comprising both 
+zones have been fractured and quartz veins with gold have been emplaced into the 
+fractures. Sulphide content of the veins and dykes is low and consists of pyrite and 
+arsenopyrite. Native gold in quartz is not uncommon in drill intercepts and occasionally 
+is spectacular. The structural setting for the mineralized dykes of Djambaye 2, as 
+inferred from facing directions determined from fining upwards sequences in drill core 
+of the metasedimentary wall rocks, is that the dykes were intruded into the cores of 
+anticlines as depicted in Figure 6 below.   
+
+ 
+
+
+
+ 
+
+ 
+
+14
+
+ 
+ 
+
+Figure 6. Structural Setting of Djambaye 1 and 2  
+ 
+9.3 Djambaye 3 
+ 
+Djambaye 3 is a zone of mineralized albitite that has been traced on surface 
+
+through the activity of artisanal miners for a length of 600 metres in a north-south 
+direction . The zone is parallel and to the east of Djambaye 1. 
+
+ 
+ 
+9.4 Kabaya 1 
+ 
+The Kabaya 1 area consists of several geochemically anomalous zones. The 
+
+northeasterly striking Konate zone is an occurrence of quartz vein, quartz breccia and 
+quartz stringers that have been traced on surface a distance of 600 metres. A single drill 
+hole in the zone intersected anomalous gold in the vein zone. A similar, but northerly 
+striking vein zone is situated north of Konate and is separated from Konate by a possible 
+fault zone along which soils have returned anomalous gold values ranging from 34 to 
+8,150 ppb Au. In addition, chip samples from a narrow northeasterly striking quartz vein 
+in the northern part of the area ranged from 11 to 55,670 ppb gold. 
+
+ 
+In the southeastern part of the Kabaya 1 area, a second northerly striking albitite 
+
+dyke – the Kabaya Est - was located based on work of the artisanal miners. Seven 
+samples taken from pits along the dyke returned gold values averaging 3,562 parts per 
+
+
+
+ 
+
+ 
+
+15
+
+billion (ppb) gold per sample over the 350 metre interval sampled. This zone has now 
+been traced for 565 metres and appears open to the north.  
+
+ 
+9.5 Kabaya 2 
+ 
+The main feature of the Kabaya 2 area is a three- to four-metre-wide, north-south 
+
+albitite dyke that pits and soil samples indicate could be at least 476 metres long. The 
+fourteen soil samples taken from the area averaged 2,829 ppb gold (2.84 g/t gold) per 
+sample.  
+
+ 
+9.6 Kourufin 
+ 
+The Kourufin vein system consists of a series of quartz veins in Birimian rock 
+
+striking to the northwest. The center of the system is a two-metre-wide quartz vein that 
+has been traced on the surface for 75 metres. Four samples taken across the vein over a 
+length of 60 metres assayed 1.96, 5.28, 20.67 and 22.52 g/t gold. 
+
+ 
+9.7 Sansanto 
+ 
+The Sansanto gold zone was discovered in February 2006 below six metres of 
+
+alluvium. The gold mineralization in this zone is centered in a north-south albitite dyke 
+950 metres east of the northern part of the Djambaye 2 zone. The vein has been traced 
+for 400 metres and drilling in July 2006 intersected 3.10 metres of 0.85 g/t gold with 1.0 
+metre of 1.66 g/t gold in hole KN 38-06. 
+
+ 
+9.8  Other Zones 
+ 
+Exploration during 2007 located a new potentially mineralized gold zone referred 
+
+to as Roche Rouge. The zone consisted of an area of reddish sandstones that contain 
+quartz stringers. Initial drill testing with 3 NQ holes was completed in 2007. 
+
+The Bokoba zone is situated immediately south of Konate and consists of a 
+quartz vein that has been traced on surface for several hundred metres. 
+
+ 
+ 
+
+
+
+ 
+
+ 
+
+16
+
+10.0  Exploration 
+ 
+ Great Quest Metals Ltd. initiated exploration on the Kenieba Gold Concession in 
+2003 with preliminary site visits, mapping and sampling of artisanal workings. Two diamond 
+drill holes were drilled in that year under the supervision of Mr. Claude Aussant, an 
+independent contractor (Aussant, 2003), in the Djambaye 1 zone.  
+
+In 2005 and 2006 grids were established over some areas and detailed soil sampling 
+undertaken. In addition, diamond drilling in 2005 was completed in 12 NQ-sized holes for a 
+total of 1,226.70 metres on the Djambaye 2 zone under the supervision of Mr. Marvin A. 
+Mitchell, P.Eng, an independent contractor (Mitchell, 2006), during the period March 
+through June 2005. The Programme pour Le Developpement Des Ressources Minerales 
+(PDRM) a department of the Direction Nationale De La Geologie et des Mines (DNGM) of 
+the Government of Mali was contracted to conduct the diamond drilling. The results of this 
+work indicated that over the 400 metres strike length of the Djambaye 2 zone that was tested, 
+gold values ranged from less than 1.0 gram/tonne to over 800 grams/tonne. A summary of 
+the 2005 drill holes is listed below in Table 3. Significant assays for the 2005 drilling are 
+tabulated in Table 4. 
+
+ 
+Table 3. Diamond Drill Hole Summary, 2005 Drill Program 
+
+Hole No. Easting Northing 
+Length 
+
+(m) Azimuth Inclination Zone Start Date 
+ 
+
+Finish Date 
+
+KN 03 255885 1424750 80.0 270o -50o Djambaye 2 April 23, 2005 April 25, 2005
+
+KN 04 255885 1424750 95.0 315o -50o Djambaye 2 May 5, 2005 May 5, 2005 
+
+KN 05 255920 1424750 75.0 270o -50o Djambaye 2 May 19, 2005 May 21, 2005
+
+KN 06 255920 1424900 85.0 315o -50o Djambaye 2 May 5, 2005 May 18, 2005
+
+KN 07 255930 1424880 110 315o -50o Djambaye 2 May 21, 2005 May 24, 2005
+
+KN 08 255940 1425075 150 315o -50o Djambaye 2 May 25, 2005 May 28, 2005
+
+KN 09 255920 1424975 95.0 315o -50o Djambaye 2 May 28, 2005 May 31, 2005
+
+KN 10 255940 1424955 135.0 315o -50o Djambaye 2 May 31, 2005 June 3, 2005 
+
+KN 11 255963 1425095 100 315o -50o Djambaye 2 June 6, 2005 June 8, 2005 
+
+KN 12 255920 1425170 105 270o -50o Djambaye 2 June 12, 2005 June 11, 2005
+
+KN 13 255963 1425095 96.7 340o -50o Djambaye 2 June 16, 2005 June 19, 2005
+
+KN 14 255963 1425095 100.0 300o -50o Djambaye 2 June 19, 2005 June 21, 2005
+
+   
+     
+
+1,226.70      
+ 
+ 
+
+
+
+ 
+
+ 
+
+17
+
+Table 4. Significant Assays – 2005 Drill Program 
+
+Drill Hole Sample from to 
+Sample 
+Interval Au* gm/t
+
+Averaged 
+Interval 
+
+Weighted 
+Average, 
+Au gm/t 
+
+KN-3 13669 30.4 31.4 1 3.79   
+KN-3 13670 31.4 32.4 1 0.12 2.6 2.53 
+KN-3 13671 32.4 33 0.6 4.44   
+
+        
+KN-4 13719 35.1 36.1 1 16.23   
+KN-4 13720 36.1 37.1 1 0.53 3.3 10.69 
+KN-4 13721 37.1 38.1 1 4.71   
+KN-4 13722 38.1 38.4 0.3 46.04   
+
+        
+KN-5 13795 57.55 58.55 1 5.85   
+KN-5 13796 58.55 59.55 1 1.53   
+KN-5 13797 59.55 60.6 1.05 0.69 4.25 2.46 
+KN-5 13798 60.6 61.2 0.6 0.19   
+KN-5 13799 61.2 61.8 0.6 3.75   
+
+        
+KN-5 13804 64.8 66.1 1.3 2.64   
+KN-5 13805 66.1 67.1 1 4.36 3.3 2.85 
+KN-5 13806 67.1 68.1 1 1.62   
+
+        
+KN-6 13824 30.9 32 1.1 4.9 1.1 4.9 
+
+        
+KN-6 13836 45.25 46.3 1.05    
+KN-6 13837 46.3 47.3 1  4.45 9.82 
+KN-6 13838 47.3 48.3 1    
+KN-6 13839 48.3 49.7 1.4    
+
+        
+KN-7 13892 58 59 1 7.34 2.2 11.57 
+KN-7 13893 59 60.2 1.2 15.1   
+
+        
+KN-7 13901 65.2 66.05 0.85 6.673   
+KN-7 13902 66.05 67.05 1 2.808 3.8 3.156 
+KN-7 13903 67.05 68.05 1 1.08   
+KN-7 13904 68.05 69 0.95 2.56   
+
+ 
+
+
+
+ 
+
+ 
+
+18
+
+Table 4. Significant Assays – 2005 Drill Program, continued. 
+
+Drill Hole Sample from to 
+Sample 
+Interval Au* gm/t
+
+Averaged 
+Interval 
+
+Weighted Average,
+Au gm/t 
+
+KN-8 13978 69.55 70.55 1 1.77   
+KN-8 13979 70.55 71.55 1 15.355 3.2 8.69 
+KN-8 13980 71.55 72.3 0.75 9.57   
+KN-8 13981 72.3 72.75 0.45 7.785   
+
+        
+KN-8 14000 87.4 88.4 1 2.12   
+KN-8 14751 88.4 89.4 1 5.84   
+KN-8 14752 89.4 90.4 1 4.06 4.1 4.46 
+KN-8 14753 90.4 90.95 0.55 4.95   
+KN-8 14754 90.95 91.5 0.55 6.44   
+
+        
+KN-9 14831 49.97 51 1.25    
+KN-9 14832 51 52 1  3.7 2.19 
+KN-9 14833 52 53 1    
+KN-9 14834 53 53.45 0.45    
+
+        
+KN-9 14851 71.7 72.7 1    
+KN-9 14852 72.7 73.7 1  3.35 4.09 
+KN-9 14853 73.7 74.7 1    
+KN-9 14854 74.7 75.05 0.35    
+
+        
+KN-10 14902 61.6 63.1 1.5 3.36 6.25 3.36 
+KN-10 14903 63.1 64.6 1.5    
+KN-10 14905 64.6 65.2 0.6    
+KN-10 14906 65.2 66.2 1    
+KN-10 14907 66.2 67.2 1    
+KN-10 14908 67.2 67.85 0.65    
+
+        
+KN-10 14923 81.05 82.05 1 4.07 2.15 4.07 
+KN-10 14924 82.05 83.2 1.15    
+
+        
+KN-11 14981 35.7 36.55 0.85 1.75 1.95 cut to 30 gm 
+KN-11 14982 36.55 37.6 1.05 800.9   
+
+        
+KN-12 13622 30 31 1 3.99 2.3 4.03 
+KN-12 13623 31 31.3 1.3 4.06   
+
+        
+KN-12 29854 56.65 57.65 1 2.27   
+KN-12 29855 57.65 58.65 1 4.53   
+KN-12 29856 58.65 59.65 1 0.15 6.1 2.10 
+KN-12 29857 59.65 60.65 1 0.11   
+KN-12 29858 60.65 61.25 0.6 2.02   
+KN-12 29859 61.25 62.75 1.5 3.03   
+
+ 
+
+
+
+ 
+
+ 
+
+19
+
+Table 4. Significant Assays – 2005 Drill Program, continued. 
+
+Drill Hole Sample from to 
+Sample 
+Interval Au* gm/t
+
+Averaged
+Interval 
+
+Weighted Average, 
+Au gm/t 
+
+KN-14 29982 32.5 33.5 1    
+KN-14 29983 33.5 34.5 1    
+KN-14 29984 34.5 34.85 0.35  4.7 1.9 
+KN-14 29985 34.85 35.85 1    
+KN-14 29986 35.85 36.85 1    
+KN-14 29987 36.85 37.2 0.35    
+
+        
+KN-14 30014 60.9 61.9 1    
+KN-14 30015 61.9 62.9 1  2.85 2.19 
+KN-14 30016 62.9 63.45 0.45    
+KN-14 30017 63.45 63.75 0.4    
+
+ 
+ 
+
+In 2006, diamond drilling was conducted on the Kenieba Gold Concession 
+during the period of March through July under the supervision of the writer. The 
+Programme pour Le Developpement Des Ressources Minerales (PDRM), a department 
+of the Direction Nationale De La Geologie et des Mines (DNGM) of the Government of 
+Mali, was again contracted to conduct the diamond drilling. A further 22 diamond drill 
+holes tested the Djambaye 2 zone and in addition, 6 holes tested other zones (Djambaye 
+1, Bokoba and Konate) on the Kenieba Gold Property. The drilling results on the 
+Djambaye 2 structure were used to make a preliminary resource estimate of the zone 
+(Verley, 2007). The inferred resource was estimated at 928,787 tonnes averaging 4.48 
+grams/tonne gold for 4,164,200 grams or 133,882 ounces.  
+
+On a day-to-day basis Mr. Niatié Bengaly, B.Sc. project geologist for Great 
+Quest managed the drilling and core logging. A table summarizing the drill hole 
+information is found below (Table 5). Significant assays for the 2006 drilling are 
+tabulated in Table 6. 
+ 
+
+
+
+ 
+
+ 
+
+20
+
+Table 5. Diamond Drill Hole Summary, 2006 Drill Program 
+
+Hole No. Easting Northing 
+Length
+
+ (m) Azimuth Inclination Zone Start Date Finish Date 
+
+KN 15 255950 1425166 115.0 270o -50o Djambaye 2 April 4, 2006 April 7, 2006
+
+KN 16 255965 1425050 150.4 315o -50o Djambaye 2 April 7, 2006 April 11, 2006
+
+KN 17 255927 1424971 100.0 270o -50o Djambaye 2 April 11, 2006 April 13, 2006
+
+KN 18 255960 1424968 110.0 270o -50o Djambaye 2 April 13, 2006 April 15, 2006
+
+KN 19 255993 1424968 142.3 270o -50o Djambaye 2 April 15, 2006 April 18, 2006
+
+KN 20 255816 1424975 65.7 90o -50o Djambaye 2 April 19, 2006 April 20, 2006
+
+KN 21 255955 1424860 160.0 315o -50o Djambaye 2 April 21, 2006 April 24, 2006
+
+KN 22 255947 1424749 111.0 270o -50o Djambaye 2 April 25, 2006 April 28, 2006
+
+KN 23 255880 1424620 90.1 315o -50o Djambaye 2 April 28, 2006 April 30, 2006
+
+KN 24 255872 1424516 81.6 315o -50o Djambaye 2 May 1, 2006 May 2, 2006 
+
+KN 25 255852 1424421 70.0 270o -50o Djambaye 2 May 3, 2006 May 4, 2006 
+
+KN 26 255830 1424323 70.2 270o -50o Djambaye 2 May 4, 2006 May 6, 2006 
+
+KN 27 255870 1424320 110.0 270o -50o Djambaye 2 May 6, 2006 May 9, 2006 
+
+KN 28 255804 1424170 75.2 315o -50o Djambaye 2 May 9, 2006 May 11, 2006
+
+KN 29 255905 1424596 130.1 315o -50o Djambaye 2 May 11, 2006 May 14, 2006
+
+KN 30 255901 142890 120.1 315o -50o Djambaye 2 May 16, 2006 May 20, 2006
+
+KN 31 255890 1424420 110.2 270o -50o Djambaye 2 May 22, 2006 May 24, 2006
+
+KN 32 255826 1424150 110.2 315o -50o Djambaye 2 May 26, 2006 May 28, 2006
+
+KN 33 255805 1424032 110.1 315o -50o Djambaye 2 May 30, 2006 June 1, 2006 
+
+KN 34 255833 1424011 130.2 315o -50o Djambaye 2 June 2, 2006 June 4, 2006 
+
+KN 35 255930 1424571 150.1 315o -50o Djambaye 2 June 6, 2006 June 9, 2006 
+
+KN 36 255930 1424480 151.1 315o -50o Djambaye 2 June 10, 2006 June 14, 2006
+
+KN 37 256207 1423073 95.1 315o -50o Djambaye 1 June 15, 2006 June 16, 2006
+
+KN 38 256229 1423054 135.0 315o -50o Djambaye 1 June 17, 2006 June 20, 2006
+
+KN 39 254377 1421623 76.1 310o -50o Bokoba June 22, 2006 June 24, 2006
+
+KN 40 254402 1421600 104.9 310o -50o Bokoba June 24, 2006 June 29, 2006
+
+KN 41 253802 1421278 70.0 90o -50 Konate June 30, 2006 July 1, 2006 
+
+KN 42 253754 1421277 133.2 90o -50 Konate July 2, 2006 July 9, 2006 
+  Total: 3,077.9      
+ 
+
+
+
+ 
+
+ 
+
+21
+
+Table 6. Significant Assays - 2006 Drill Program. 
+
+Drill Hole Sample from to 
+Sample 
+Interval Au* gm/t
+
+Averaged 
+Interval 
+
+Weighted Average, 
+Au gm/t 
+
+KN-15 4135 64.3 65.15 0.85 0.875   
+KN-15 4136 65.15 66.15 1 6.62 2.5 3.91 
+KN-15 4137 66.15 66.8 0.65 3.71   
+KN-15 4172 94.9 95.9 1 0.39 1.8 2.38 
+KN-15 4173 95.9 96.7 0.8 4.86   
+
+        
+KN-16 11054 99.1 100.1 1 0.72   
+KN-16 11055 100.1 101.2 1.1 2.64   
+KN-16 11056 101.2 102.2 1 0.22   
+KN-16 11057 102.2 103.2 1 0.04   
+KN-16 11058 103.2 104.2 1 0.05 9.2 2.90 
+KN-16 11059 104.2 105.4 1.2 0.04   
+KN-16 11060 105.4 106.7 1.3 0.02   
+KN-16 11061 106.7 107.7 1 23.69   
+KN-16 11062 107.7 108.7 1 0.16   
+
+        
+KN-16 11089 132.2 133.2 1 0.30   
+KN-16 11090 133.2 134.2 1 0.62   
+KN-16 11091 134.2 135.2 1 1.12 5.3 2.06 
+KN-16 11092 135.2 136.2 1 3.06   
+KN-16 11093 136.2 137.5 1.3 4.49   
+
+        
+KN-17 11132 40.6 41.3 0.7 0.11   
+KN-17 11133 41.3 42.3 1 1.90 3.5 3.177 
+KN-17 11134 42.3 43.3 1 9.82   
+KN-17 11135 43.3 44.1 0.8 5.11   
+
+        
+KN-18 11224 74.7 75.4 0.70 1.16   
+KN-18 11225 75.4 76.4 1.00 15.63 3.9 24.59 
+KN-18 11226 76.4 77.6 1.20 66.00   
+KN-18 11227 77.6 78.6 1.00 0.26   
+
+        
+KN-18 11235 84.7 85.5 0.8 0.38   
+KN-18 11236 85.5 86.5 1 0.33   
+KN-18 11237 86.5 87.5 1 0.06 4.6 6.53 
+KN-18 11238 87.5 88.7 1.2 24.21   
+KN-18 11239 88.6 89.2 0.6 0.47   
+
+        
+KN-21 14795 94.05 94.6 0.55 0.87   
+KN-21 14796 94.6 95.65 1.05 0.81   
+KN-21 14797 95.65 96.7 1.05 1.34 5.65 1.59 
+KN-21 14798 96.7 97.7 1 2.73   
+KN-21 14799 97.7 98.7 1 1.87   
+KN-21 14800 98.7 99.7 1 1.67   
+
+
+
+ 
+
+ 
+
+22
+
+Table 6. Significant Assays - 2006 Drill Program continued. 
+
+Drill Hole Sample from to 
+Sample  
+Interval Au* gm/t 
+
+Averaged 
+Interval 
+
+Weighted Average,  
+Au gm/t 
+
+KN-22 14901 94.6 95.6 1 1.15 2.1 3.94 
+KN-22 14902 95.6 96.7 1.1 6.47   
+
+        
+KN-23 14959 58.2 59.2 1 1.77 1 1.77 
+
+        
+KN-24 15021 53.7 54.7 1 3.78 2.4 4.19 
+KN-24 15022 54.7 56.1 1.4 4.49   
+
+        
+KN-25 15068 31.9 32.9 1 5.02 1.9 3.55 
+KN-25 15069 32.9 33.8 0.9 1.92   
+
+        
+KN-26 15116 35.9 37 1.1 5.51 2.4 5.88 
+KN-26 15117 37 38.3 1.3 6.2   
+
+        
+KN-27 15199 69.8 70.8 1 4.91   
+KN-27 15200 70.8 71.8 1 1.23 3.2 2.56 
+KN-27 15201 71.8 73 1.2 1.71   
+
+        
+KN-28 15247 28.3 29.3 1 3.84   
+KN-28 15248 29.3 30.2 0.9 5.46   
+KN-28 15249 30.2 31.1 0.9 0.045   
+KN-28 15250 31.1 32.2 1.1 0.31   
+KN-28 15251 32.2 33.2 1 0.3 11.6 1.93 
+KN-28 15252 33.2 34.5 1.3 0.42   
+KN-28 15253 33.2 34.5 1.3 0.2   
+KN-28 15254 34.5 35.5 1 1.7   
+KN-28 15255 35.5 36.5 1 2.75   
+KN-28 15256 36.5 38.6 2.1 3.66   
+
+        
+KN-29 15331 78.4 79.5 1.1 1.09   
+KN-29 15332 79.5 80.6 1.1 56.45   
+KN-29 15333 79.5 80.6 1.1 9.54 5.2 16.35 
+KN-29 15334 80.6 81.5 0.9 11.02   
+KN-29 15335 81.5 82.5 1 1.32   
+
+        
+KN-30 15436 83.2 84.2 1 30.46   
+KN-30 15437 84.2 85.2 1 2.25   
+KN-30 15438 85.2 86.2 1 9.69 5.9 9.18 
+KN-30 15439 86.2 87 0.8 4.37   
+KN-30 15440 87 87.9 0.9 1.85   
+KN-30 15441 87.9 89.1 1.2 5.52   
+
+        
+KN-31 15528 73.5 74.5 1 2.35 2.3 2.26 
+KN-31 15529 74.5 75.8 1.3 2.20   
+
+ 
+
+
+
+ 
+
+ 
+
+23
+
+ 
+ 
+ 
+
+Table 6. Significant Assays - 2006 Drill Program continued. 
+
+Drill Hole Sample from to 
+Sample 
+Interval Au* gm/t 
+
+Averaged 
+Interval 
+
+Weighted Average, 
+Au gm/t 
+
+KN-32 59641 61.26 62.4 1.14 3.14 1.14 3.14 
+        
+
+KN-33 59704 37.5 38.5 1 2.26   
+KN-33 59705 38.5 39.5 1 2.67 3 2.39 
+KN-33 59706 39.5 40.5 1 2.24   
+
+        
+KN-33 59730 65 66 1 0.65 2 1.45 
+KN-33 59731 66 67 1 2.24   
+
+        
+KN-34 59813 88.4 89.4 1 7.14 2 4.47 
+KN-34 59814 89.4 90.4 1 1.81   
+
+        
+KN-35 59860 111.9 112.9 1 65.32   
+KN-35 59861 112.9 113.9 1 3.22 3 24.27 
+KN-35 59862 113.9 114.9 1 4.28   
+
+        
+KN-36 59913 115.95 116.7 0.75 7.90   
+KN-36 59914 116.7 117.7 1 16.90   
+KN-36 59915 117.7 118.7 1 1.90 5.15 6.29 
+KN-36 59916 118.7 119.4 0.7 1.59   
+KN-36 59917 119.4 120.4 1 0.11   
+KN-36 59918 120.4 121.1 0.7 9.20   
+
+ 
+ 
+
+
+
+ 
+
+ 
+
+24
+
+11.0  Drilling 2007 
+ 
+ Diamond drilling was again conducted on the Kenieba Gold Concession during 
+the period of March through August 2007 under the supervision of the writer. The 
+Programme pour Le Developpement Des Ressources Minerales (PDRM), a department 
+of the Direction Nationale De La Geologie et des Mines (DNGM) of the Government of 
+Mali, was contracted to conduct the diamond drilling.  
+ A truck mounted Longyear 38 drill, rigged with NQ wireline equipment, was 
+utilized to do the work. All of the holes were drilled at an inclination of –50o. Three 
+crews, working 8-hour shifts each, conducted drilling on a 24-hour basis. A Great Quest 
+Metals contracted person was on site at all times during the drilling in order to monitor 
+the drilling progress and core recovery. Core was placed in metal core trays for easy 
+handling and permanent storage. At the end of each shift the drill crew took drill core 
+back to Great Quest Metals core logging facility in Kenieba. There the drill core was laid 
+out and washed, and recovery and rock quality designation (RQD)were measured. Then 
+the core was logged by Mr. Niatié Bengaly, project geologist for Great Quest. A table 
+summarizing the drill hole information is found below (Table 7). 
+ Drill hole inclination and azimuth was checked by the drill contractor using a 
+Pajari down hole survey tool. Measurements were taken at the bottom of hole and at the 
+mid-point. The Project geologist was responsible for checking each drill hole set-up 
+prior to the commencement of drilling to ensure the collar azimuth and inclination were 
+correctly set. Drill holes were marked after completion by appropriately number cement 
+blocks. Drill hole locations were measured using a Global Positioning Instrument (GPS) 
+set to record location in WGS 84, zone 29 north, map datum. A plan map illustrating the 
+relative locations of the holes drilled on the Djambaye 2 structure is found in Figure 7. 
+ The relationship between sampled drill intercept and true thickness of 
+mineralization was estimated based on the known surface exposure of the Djambaye 2 
+structure, the inclination of the drill holes with respect to that structure and the angle at 
+which the drill holes crossed the structure. The drilled intercepts ranged from 90% of 
+true thickness for holes drilled normal to the Djambaye 2 structure to 64% for holes drill 
+at angle of 45o to the structure. 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+25
+
+Table 7. Diamond Drill Hole Summary, 2007 Drill Program 
+
+Drill 
+hole Easting Northing Elevation Inclination Azimuth
+
+Length 
+(m) Zone Start Date
+
+Finish 
+Date 
+
+KN43 256018 1425164 106 -50 270 180.2 Djambaye 2 19-Jan-07 24-Jan-07 
+KN44 256005 1425007 118 -50 315 215 Djambaye 2 24-Jan-07 28-Jan-07 
+KN45 256057 1424970 121 -50 270 210 Djambaye 2 28-Jan-07 03-Feb-07
+KN46 256000 1424812 119 -50 315 200.7 Djambaye 2 04-Feb-07 08-Feb-07
+KN47 256008 1424744 122 -50 270 180.2 Djambaye 2 09-Feb-07 13-Feb-07
+KN48 255975 1424523 123 -50 315 210.3 Djambaye 2 14-Feb-07 18-Feb-07
+KN49 255958 1424421 120 -50 315 210.3 Djambaye 2 20-Feb-07 24-Feb-07
+KN50 255970 1424421 122 -50 270 159.6 Djambaye 2 24-Feb-07 28-Feb-07
+KN51 255938 1424317 121 -50 270 171.8 Djambaye 2 28-Feb-07 03-Mar-07
+KN52 255870 1424090 117 -50 315 160.1 Djambaye 2 03-Mar-07 07-Mar-07
+KN53 255873 1423959 121 -50 315 180.6 Djambaye 2 08-Mar-07 12-Mar-07
+KN54 255833 1424011 120 -50 225 147.7 Djambaye 2 13-Mar-07 15-Mar-07
+KN55 255814 1423817 119 -50 315 120.2 Djambaye 2 15-Mar-07 17-Mar-07
+KN56 255855 1423767 116 -50 315 181.7 Djambaye 2 18-Mar-07 21-Mar-07
+KN57 255806 1423722 123 -50 315 100.2 Djambaye 2 24-Mar-07 27-Mar-07
+KN58 255851 1423677 120 -50 315 170.1 Djambaye 2 28-Mar-07 31-Mar-07
+KN59 255800 1423615 120 -50 315 115.1 Djambaye 2 31-Mar-07 05-Apr-07
+KN60 255848 1423566 119 -50 315 175 Djambaye 2 05-Apr-07 10-Apr-07
+KN61 255798 1423509 127 -50 315 127.8 Djambaye 2 11-Apr-07 12-Apr-07
+KN62 255841 1423463 129 -50 315 195 Djambaye 2 13-Apr-07 18-Apr-07
+KN63 255800 1423404 124 -50 315 130.1 Djambaye 2 20-Apr-07 21-Apr-07
+KN64 255843 1423359 127 -50 315 195.2 Djambaye 2 24-Apr-07 28-Apr-07
+KN65 255803 1423300 123 -50 270 57.7 Djambaye 2 29-Apr-07 02-May-07
+KN66 255869 1423197 121 -50 270 140.8 Djambaye 2 02-May-07 05-May-07
+KN67 255845 1423197 115 -50 270 92.3 Djambaye 2 05-May-07 08-May-07
+KN68 256955 1425775 123 -50 315 60 Sansanto 10-May-07 11-May-07
+KN69 256995 1425739 126 -50 315 125.1 Sansanto 13-May-07 16-May-07
+KN70 257230 1422338 142 -50 270 70.3 Roche Rouge 17-May-07 18-May-07
+KN71 257295 1422334 140 -50 270 110.1 Roche Rouge 19-May-07 22-May-07
+KN72 257362 1422332 142 -50 270 165.7 Roche Rouge 23-May-07 26-May-07
+KN73 256267 1422871 120 -50 225 121.5 Djambaye 1 29-May-07 31-May-07
+KN74 256250 1422716 119 -50 315 90.2 Djambaye 1 01-Jun-07 03-Jun-07
+KN75 256297 1422668 118 -50 315 135.6 Djambaye 1 03-Jun-07 07-Jun-07
+
+
+
+ 
+
+ 
+
+26
+
+ 
+ 
+
+Table 7 continued. Diamond Drill Hole Summary, 2007 Drill Program 
+
+Drill 
+hole Easting Northing 
+
+Elevation
+(m) Inclination Azimuth
+
+Length 
+(m) Zone Start Date
+
+Finish 
+Date 
+
+KN76 256209 1422970 124 -50 270 78.6 Djambaye 1 08-Jun-07 09-Jun-07
+KN77 256226 1423152 116 -50 315 110 Djambaye 1 10-Jun-07 14-Jun-07
+KN78 252448 1422534 180 -50 270 75.3 Kabaya 2 20-Jun-07 21-Jun-07
+KN79 252512 1422538 141 -50 270 150 Kabaya 2 22-Jun-07 06-Jul-07
+KN80 254450 1422145 166 -50 135 80 Kabaya 1 10-Jul-07 11-Jul-07
+KN81 254400 1422190 149 -50 135 160.3 Kabaya 1 12-Jul-07 15-Jul-07
+KN82 254498 1421776 141 -50 205 80.3 Bokoba 17-Jul-07 18-Jul-07
+KN83 254682 1421247 142 -50 270 71.3 Konate 19-Jul-07 20-Jul-07
+
+      5712.0    
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+28
+
+ 
+ 
+ 
+
+ 
+ 
+
+Figure 8. Drill Hole Section KN 03-05, KN 05-05 and KN 22-06 
+ 
+
+
+
+ 
+
+ 
+
+29
+
+ 
+ 
+
+Figure 9. Drill Hole Section KN 08-05, KN 11-05, KN 16-06 
+ 
+ 
+
+
+
+ 
+
+ 
+
+30
+
+ 
+ 
+
+Figure 10. Drill Hole Section KN 55-07 and KN 56-07 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+31
+
+ 
+ 
+
+Figure 11. Drill Hole Section KN 59-07 and KN 60-07 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+32
+
+Table 8. Significant Assays – Djambaye 2 - 2007 Drill Program 
+
+Drill Hole Sample from to 
+Sample 
+Interval Au* gm/t
+
+Averaged
+Interval 
+
+Weighted Average,  
+Au gm/t 
+
+KN-43 60440 157.5 158.5 1 5.01   
+KN-43 60441 158.5 159.5 1 1.98 3.7 2.54 
+KN-43 60442 159.5 160.5 1 2.08   
+KN-43 60443 160.5 161.2 0.7 0.48   
+
+        
+KN-44 60491 176.8 177.8 1 1.09   
+KN-44 60492 177.8 178.9 1.1 0.71   
+KN-44 60493 178.9 179.9 1 0.8   
+KN-44 60494 179.9 180.9 1 0.02   
+KN-44 60495 180.9 181.9 1 0.03   
+KN-44 60496 181.9 182.4 0.5 0.48   
+KN-44 60497 182.4 183.4 1 3.80 12.9 1.00 
+KN-44 60499 183.4 184.2 0.8 1.17   
+KN-44 60500 184.2 184.8 0.6 0.57   
+KN-44 60501 184.8 185.8 1 0.02   
+KN-44 60502 185.8 186.5 0.7 0.10   
+KN-44 60503 186.5 187.5 1 2.55   
+KN-44 60504 187.5 188.5 1 1.04   
+KN-44 60505 188.5 189.7 1.2 3.12   
+
+        
+KN-45 60571 187 188.15 1.15 2.68   
+KN-45 60572 188.15 189.2 1.05 0.85   
+KN-45 60573 189.2 189.8 0.6 1.16   
+KN-45 60574 189.8 190.8 1 1.58 6.75 1.71 
+KN-45 60575 190.8 191.8 1 1.83   
+KN-45 60576 191.8 192.75 0.95 2.22   
+KN-45 60578 192.75 193.75 1 1.32   
+
+        
+KN-46 60608 153.5 154.3 0.8 0.27   
+KN-46 60609 154.3 155.3 1 10.13   
+KN-46 60610 154.3 155.3 1 6.09   
+KN-46 60611 155.3 156.3 1 3.02 6.3 3.81 
+KN-46 60612 156.3 157.3 1 1.77   
+KN-46 60613 157.3 157.8 0.5 4.05   
+KN-46 60614 157.8 158.8 1 0.74   
+
+        
+KN-47 60671 155.3 156.3 1 1.36   
+KN-47 60672 156.3 157.05 0.75 0.97 1.75 1.19 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+33
+
+Table 8 continued. Significant Assays – Djambaye 2 - 2007 Drill Program  
+
+Drill 
+Hole Sample from to 
+
+Sample 
+Interval Au* gm/t
+
+Averaged
+Interval 
+
+Weighted Average,  
+Au gm/t 
+
+KN-48 60708 178.3 179.3 1 1.28   
+KN-48 60709 179.3 180.3 1 0.56   
+KN-48 60710 180.3 181.3 1 0.47   
+KN-48 60711 181.3 182.4 1.1 0.75   
+KN-48 60712 182.4 183.2 0.8 0.2 9.9 0.69 
+KN-48 60713 183.2 184.2 1 1.42   
+KN-48 60714 184.2 185.2 1 0.84   
+KN-48 60715 185.2 186.2 1 0.78   
+KN-48 60716 186.2 187.2 1 0.21   
+KN-48 60717 187.2 188.2 1 0.24   
+
+        
+KN-49 60762 181.7 183.1 1.4 0.1   
+KN-49 60763 183.1 184.1 1 3.2   
+KN-49 60764 184.1 185.1 1 5.27   
+KN-49 60765 185.1 186.1 1 0.03 8.2 1.65 
+KN-49 60766 186.1 187.1 1 1.92   
+KN-49 60767 187.1 188.2 1.1 1.22   
+KN-49 60768 188.2 188.9 0.7 2.24   
+KN-49 60769 188.9 189.9 1 0.1   
+
+        
+KN-50 60809 142.6 143.1 0.5 48.5   
+KN-50 60810 143.1 144.1 1 30.00 cut back  
+KN-50 60811 144.1 145.2 1.1 3.4 4.6 12.65 
+KN-50 60812 145.2 146.2 1 0.18   
+KN-50 60813 146.2 147.2 1 0.02   
+
+        
+KN-51 60860 135.8 136.8 1 0.66   
+KN-51 60861 136.8 137.8 1 0.2 2.9 0.94 
+KN-51 60862 137.8 138.7 0.9 2.08   
+
+        
+KN-52 60926 120.7 121.85 1.15 0.49   
+KN-52 60927 121.85 122.85 1 21.64   
+KN-52 60928 122.85 123.8 0.95 6.92 4.1 7.41 
+KN-52 60929 123.8 124.8 1 1.61   
+
+        
+KN-53 60987 156.6 157.6 1 10.87   
+KN-53 60988 157.6 158.2 0.6 2.25 2.6 4.87 
+KN-53 60989 158.2 159.2 1 0.44   
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+34
+
+Table 8 continued. Significant Assays – Djambaye 2 - 2007 Drill Program 
+
+Drill 
+Hole Sample from to 
+
+Sample 
+Interval Au* gm/t
+
+Averaged
+Interval 
+
+Weighted Average,  
+Au gm/t 
+
+KN-54 61027 90.9 91.9 1 0.57   
+KN-54 61028 91.9 92.9 1 0.37   
+KN-54 61029 92.9 93.9 1 0.45 5.2 1.94 
+KN-54 61030 93.9 95.1 1.2 5.52   
+KN-54 61031 95.1 96.1 1 2.07   
+
+        
+KN-54 61038 102.4 103.4 1 2.40   
+KN-54 61039 103.4 104.4 1 3.40 2 2.90 
+
+        
+KN-55 61065 29.7 30.7 1 1.51   
+KN-55 61066 30.7 31.7 1 1.31   
+KN-55 61067 31.7 33.1 1.4 14.53 5.15 4.93 
+KN-55 61068 33.1 34.25 1.15 1.04   
+KN-55 61069 34.25 34.85 0.6 1.76   
+
+        
+KN-55 61098 90 90.6 0.6 0.98   
+KN-55 61099 90.6 91.6 1 1.39   
+KN-55 61100 91.6 92.6 1 1.44 3.2 1.47 
+KN-55 61101 92.6 93.2 0.6 2.15   
+
+        
+KN-56 61164 90 90.6 0.6 1.15   
+KN-56 61165 90.6 91.6 1 1.79 1.6 1.55 
+
+        
+KN-56 61209 164 165 1 1.83   
+KN-56 61210 165 166.1 1.1 1.83 2.1 1.83 
+
+        
+KN-57 61229 27.9 28.9 1 0.96   
+KN-57 61230 28.9 29.9 1 0.22   
+KN-57 61231 29.9 30.9 1 3.23 3.7 1.91 
+KN-57 61232 30.9 31.6 0.7 3.77   
+
+        
+KN-57 61257 90.2 91.2 1 1.54   
+KN-57 61258 91.2 92.3 1.1 1.66 2.1 1.60 
+
+        
+KN-58 61280 84.1 85.1 1 2.85   
+KN-58 61281 85.1 86.1 1 3.8   
+KN-58 61282 85.1 86.1 1 4.89   
+KN-58 61283 86.1 87.1 1 4.77 7 2.83 
+KN-58 61284 87.1 88.1 1 0.38   
+KN-58 61285 88.1 89.1 1 2.58   
+KN-58 61286 89.1 90.1 1 0.54   
+
+ 
+
+
+
+ 
+
+ 
+
+35
+
+Table 8 continued. Significant Assays – Djambaye 2 - 2007 Drill Program 
+
+Drill 
+Hole Sample from to 
+
+Sample 
+Interval Au* gm/t
+
+Averaged
+Interval 
+
+Weighted Average,  
+Au gm/t 
+
+KN-58 61331 151.3 152.3 1 1.52   
+KN-58 61332 152.3 153.4 1.1 7.13 2.1 4.46 
+
+        
+KN-59 61353 32.9 33.9 1 0.45   
+KN-59 61354 33.9 34.9 1 1.16   
+KN-59 61355 34.9 35.9 1 0.11 6.3 0.63 
+KN-59 61356 35.9 36.9 1 0.43   
+KN-59 61357 36.9 37.9 1 0.29   
+KN-59 61358 37.9 39.2 1.3 1.16   
+
+        
+KN-59 61409 100.7 101.2 0.5 0.26   
+KN-59 61411 101.2 102.55 1.35 1.73 1.85 1.33 
+
+        
+KN-60 61435 97.6 98.6 1 30.62   
+KN-60 61436 98.6 99.6 1 1.70   
+KN-60 61437 99.6 100.6 1 1.09 4.6 7.43 
+KN-60 61438 100.6 101.6 1 0.34   
+KN-60 61439 101.6 102.2 0.6 0.72   
+
+        
+KN-60 61473 158.1 159.1 1 2.08   
+KN-60 61475 159.1 159.8 0.7 0.83 1.7 1.57 
+
+        
+KN-61 61497 26.5 27.5 1 2.23   
+KN-61 61498 27.5 28.5 1 0.64   
+KN-61 61499 28.5 29.5 1 2.62 4.6 1.30 
+KN-61 61500 29.5 30.5 1 0.15   
+KN-61 61501 30.5 31.1 0.6 0.57   
+
+        
+KN-61 61508 36.1 37.1 1 0.57   
+KN-61 61509 37.1 38.1 1 2.72   
+KN-61 61510 38.1 39.1 1 1.32 4.3 1.84 
+KN-61 61511 39.1 40.4 1.3 2.54   
+
+        
+KN-62 61573 87.7 88.7 1 0.28   
+KN-62 61574 88.7 89.7 1 2.19   
+KN-62 61575 89.7 90.7 1 0.56 6.25 0.82 
+KN-62 61576 90.7 91.7 1 0.97   
+KN-62 61577 91.7 92.7 1 0.55   
+KN-62 61578 92.7 93.95 1.25 0.44   
+
+        
+KN-62 61590 103.1 103.7 0.6 2.96 0.6 2.96 
+
+ 
+
+
+
+ 
+
+ 
+
+36
+
+Table 8 continued. Significant Assays – Djambaye 2 - 2007 Drill Program 
+
+Drill 
+Hole Sample from to 
+
+Sample 
+Interval Au* gm/t
+
+Averaged
+Interval 
+
+Weighted Average,  
+Au gm/t 
+
+KN-63 61647 26 27.1 1.1 1.78   
+KN-63 61648 27.1 28.1 1 0.2   
+KN-63 61649 28.1 29.1 1 1.13 4.1 1.19 
+KN-63 61650 28.1 29.1 1 1.6   
+
+        
+KN-63 61672 55.2 56.6 1.4 16.55   
+KN-63 61673 56.6 57.6 1 10.47 2.4 14.02 
+
+        
+KN-64 61741 77 78 1 2.08   
+KN-64 61742 78 79 1 7.36   
+KN-64 61743 79 80 1 2.76 4 3.13 
+KN-64 61744 80 81 1 0.31   
+
+        
+KN-66 61789 85.7 86.7 1 3.07   
+KN-66 61790 86.7 87.7 1 1.77   
+KN-66 61791 87.7 88.7 1 0.62   
+KN-66 61792 88.7 89.4 0.7 1.28   
+KN-66 61793 89.4 90.4 1 0.05 8.8 1.63 
+KN-66 61794 89.4 90.4 1 0.07   
+KN-66 61795 90.4 91.1 0.7 0.10   
+KN-66 61796 91.1 92.5 1.4 4.30   
+KN-66 61797 92.5 93.5 1 1.75   
+
+        
+KN-67 61846 52.6 53.6 1 0.19   
+KN-67 61847 53.6 54.6 1 0.15   
+KN-67 61848 54.6 55.2 0.6 0.53 4.6 0.26 
+KN-67 61849 55.2 56.1 0.9 0.43   
+KN-67 61850 56.1 57.2 1.1 0.14   
+
+  
+ 
+ 
+
+In addition to the diamond drilling conducted on the Djambaye 2 zone in 2007, 
+testing of the Djambaye 1, Kabaya 1, Kabaya 2, Konate, Bokoba, Sansanto and Roche 
+Rouge zones was undertaken. 
+
+A total of 5 NQ holes (KN-73 to KN-77: 535.9 metres) were drilled in the 
+Djambaye 1 zone. The best intercept was 6.7 metres that averaged 2.41 grams/tonne 
+gold, from 38.6 to 45.3 metres in hole KN-76. 
+
+Kabaya 1 was tested by 2 NQ drill holes (KN-80 & KN-81) totalling 240.3 
+metres in 2007. No significant gold was intersected. 
+
+Kabaya 2 was tested by 2 NQ drill holes (KN-78 & KN-79) totalling 225.3 
+metres. In KN-78, from 40.1 to 41.8 metres (1.7 m), gold averaged 3.53 grams/tonne. In 
+KN-79 gold averaged: 0.89 gm/t over the 1.5 metre interval from 120.2 to 121.7 metres. 
+
+
+
+ 
+
+ 
+
+37
+
+A total of 2 NQ drill holes (KN-68 & KN-69: 185.1 metres) were in the Sansanto 
+zone. Drill hole KN-68 intersected 0.46 grams/tonne over 1.6 metres, from 23.3 to 24.9 
+metres. 
+
+The 3 NQ drill holes that tested the Roche Rouge zone (KN-70, KN-71 and KN-
+72: 346.1 m total) intersected intermittent gold values of up to 0.18 grams/tonne over 
+sampled lengths of 1.5 metres.  
+
+Single NQ holes were drilled into the Bokoba (KN-82) and Konate (KN-83) 
+zones, but failed to intersect significant gold mineralized intervals. 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+38
+
+12.0  Sampling Method and Approach 
+ 
+
+12.1 Drill Core: 
+ 
+
+The approach to sampling drill core was to sample individual mineralized 
+veins/dykes intersected by the drill as single samples where these intervals were less 
+than 2 metres in length. For wider intercepts the mineralized interval was split into 2 or 
+more samples not more than 1 metre in length. Altered (silicified or stockwork zones) 
+enveloping the Djambaye 2 structures were sampled in intervals of general 1 metre in 
+length or less.  
+
+Drill core sample intervals were marked on the core and samples were split from 
+the core using an electric diamond saw. Samples were systematically cut, with half of 
+each cut portion being placed in uniquely numbered fiber weave sacks for shipping, to 
+Abilab S.A.R.L. (now a subsidiary of ALS Global) in Bamako by either local trucking 
+company to Kayes and from Kayes to Bamako by rail or, in some cases, samples were 
+picked up on site by an ALS Global truck. After sampling, the remaining core was stored 
+in a locked 40-foot steel-shipping container located in the town of Kenieba. 
+
+ 
+ 
+13.0  Sample Preparation, Analyses and Security 
+ 
+  There was no sample preparation conducted on site other than the splitting and 
+bagging of core described above. Sample preparation was conducted at the Abilab 
+facility in Bamako. A standard fire assay approach was used to estimate gold values in 
+most of the drill core. The laboratory was notified of which samples contained visible 
+gold, in order that screening for metallics could be undertaken and an assay estimated 
+that took into account particulate gold. Abilab used its own internal standards, inserted 
+one of every 20 samples, to provide quality control. In addition, check assays were 
+preformed on every tenth sample. 
+ Security on site was maintained by watchmen who patrolled the Kenieba base of 
+operations on a 24 hour basis. Sample handling in 2007 was carefully scrutinized by the 
+writer and found to be adequate for this stage of exploration. 
+ 
+14.0  Data Verification 
+ 
+
+The writer has reviewed all of the original laboratory data sheets, drill logs and 
+has checked drill hole location and drill core on site. 
+ 
+15.0  Adjacent Properties 
+ 
+
+Nevsun Resources Inc. had a producing gold mine – the Tabakoto Mine (total 
+published resource: 3,356,000 tonnes averaging 5.26 grams/tonne gold) – situated 6 
+kilometres north of Great Quest's Kenieba Gold Concession. The Tabakoto mine was 
+developed on a northerly trending structure that has some similar geological and 
+mineralization characteristics when compared to the Djambaye 2 structure on Great 
+
+
+
+ 
+
+ 
+
+39
+
+Quest's property. In addition, Nevsun has a low-grade gold deposit – Segala (3,979,000 
+tonnes averaging 2.98 grams/tonne gold) – that was slated for production. Production 
+problems at the Tabakoto Mine resulted in its closure in late 2007. On March 25, 2008, 
+Nevsun announced the sale of the Tabakoto mine and all its properties in Mali to Avion 
+Resources Corp. for $US 20 million. 
+ 
+16.0  Mineral Processing and Metallurgical Testing 
+ 
+ No mineral processing, in the sense of resource development or amenability 
+studies, have been conducted on or of materials from Great Quest Metals Kenieba Gold 
+Concession. 
+ 
+17.0  Mineral Resource and Mineral Reserve Estimates 
+ 
+ An update of the preliminary resource estimate (Verley, 2007) has been made for 
+the Djambaye 2 gold vein system in the Kenieba area of Mali. The estimate provides an 
+inferred mineral resource (as per CIM Definition Standards on Mineral Resources and 
+Mineral Reserves, 2004) to a maximum depth of 150 metres for the gold mineralized 
+quartz veined albitite dykes in Birimian metasediments that constitute the northerly 
+striking, easterly dipping Djambaya 2 structure. The estimate has focused primarily on 
+two parallel tabular structures (zones A & B). The Djambaye 2 is a north-south striking 
+structure that has been traced on surface for a length of 4,000 metres. The resource 
+estimate for the A Zone was made on a 1,850 metre portion of this. The B Zone is an 
+intermittent zone that is parallel to and west of the A Zone by 20 to 30 metres.  
+
+The estimation procedure utilized the data from 53 out of 60 diamond drill holes 
+drilled in 2005, 2006 and 2007 on the Kenieba Gold Project. Assay data from a total of 
+285 mineralized core samples were used in the estimate. The intercepts were plotted on a 
+longitudinal section and 70 blocks around the mineralized intercepts were constructed. 
+The estimated true thickness, which varied from 64 percent (in the case of holes drilled 
+obliquely to the mineralized structures) and 90 percent (in the case of holes drill 
+perpendicular to the mineralized structures) of the drill intercept, of each mineralized 
+interval was used to define a thickness for each block. A volume was then estimated for 
+each block based on the constructed area and estimated thickness. A specific gravity of 
+2.67 tonnes per cubic metre, as previously determined for some of the mineralized core 
+samples, was used. The specific gravity was applied to the volume estimate in order to 
+determine a tonnage for each block. Assay data from Abilab S.A.R.L. in Mali was 
+examined and averages of regular run assays, check assays and metallic assays were 
+made. Assays greater than 100 gm/tonne, as in the case of two drill holes, were cut back 
+to 30 grams. Several drill holes (KN-65, 66 and 67) that intersected the southern 
+extension of the A Zone were not used in the estimate as the step out for these holes was 
+considered to be too great a distance to allow for a reasonable estimate to be made of the 
+grade and tonnage that they may contribute to the resource model. In-fill drilling around 
+these holes will allow their inclusion in future resource estimates. Similarly, several 
+holes (KN 33, 61 and 63) were left out of the B Zone estimate. In addition, a 10 metre 
+surface layer was not included in the estimate in order to allow for possible depletion by 
+artisanal miners.  
+
+
+
+ 
+
+ 
+
+40
+
+The averaged assays were then used to estimate weighted averages of the drill 
+intercepts in mineralized zones. Drill intercepts used in the estimation are found in 
+Tables 4, 6 and 8 found in the Section 10.0: Exploration and in Section 11.0: 2007 
+Drilling, respectively. The weighted average for a particular block was applied to the 
+tonnage estimate for that block in order to determine an estimated gold content of the 
+block. The total for all of the blocks is summarized in Table 9. Estimated resources for 
+the Djambaye 2 – A Zone are listed in Table 10 those for Djambaye 2 – B Zone in Table 
+11.  
+ 
+
+The estimate can only be viewed as preliminary in nature, providing an 
+indication of the potential of the property. Some of the blocks are very large and will 
+require further drilling in order to place greater confidence in the resource figures. As 
+with many vein systems the grades fluctuate greatly, requiring detailed close spaced 
+drilling in order to determine the grade variability as well as trends of mineralized 
+shoots. Assumptions used in making this estimate are: grade continuity exists within 
+blocks; estimated thickness for blocks is maintained across each block; specific gravity 
+is 2.67 tonnes per cubic metre. Uncertainty, mainly stemming from the volume estimate, 
+as well as to some degree gold grade, is believed to be in the order 15% for this estimate, 
+consequently a range for the tonnage is presented. In addition it is assumed that the 
+north-south strike and easterly dip of the mineralized structure is the main control for 
+mineralization. East-west cross structures may play a role in mineralization and need 
+further evaluation, especially to define higher-grade shoots. No consideration has been 
+given in this estimate to potential dilution by wall rock or recovery of gold in a mining 
+situation. 
+
+Table 9. Updated Inferred Mineral Resource – Djambaye 2 
+
+Zone 
+Estimated 
+
+Ranges 
+Tonnage 
+(tonnes) 
+
+Average 
+Grade (gm/t)
+
+Estimated Gold 
+Content (grams) 
+
+Estimated Gold 
+Content (ounces) 
+
+ High (+15%) 2,426,000  9,970,000 320,500 
+Djambaye 2 – A zone Middle 2,110,000 4.11 8,690,000 279,400 
+ Low (-15%) 1,793,000  7,369,000 236,000 
+ High (+15%) 534,000  1,600,000 51,000 
+Djambaye 2 – B Zone Middle 464,000 3.00 1,390,000 44,600 
+ Low (-15%) 394,000  1,183,000 38,000 
+Total of Middle Estimates  2,574,000 3.92 10,080,000 324,000 
+
+ 
+
+
+
+ 
+
+ 
+
+41
+
+Table 10. Djambaye 2 - A Zone – Middle Resource Estimate 
+
+Block No. Area 
+(m2) 
+
+Thickness
+(m) 
+
+Volume 
+(m3) 
+
+SG 
+(tonnes/m3)
+
+Tonnage
+(tonnes) 
+
+Drill Hole Average  
+Grade 
+
+Contained 
+Au  (gm) 
+
+Number of
+ samples 
+
+1 1604 2.07          3,320 2.67         8,865 KN 12 4.03                 35,727 2 
+2 4875 2.25        10,969 2.67       29,287 KN 15 3.91               114,510 3 
+3 6646 3.33        22,131 2.67       59,090 KN 43 2.54               150,089 4 
+4 965 1.25          1,204 2.67         3,216 KN 11 30.00                 96,466 2 
+5 2216 2.50          5,531 2.67       14,768 KN 8 8.73               128,852 4 
+6 3356 5.89        19,760 2.67       52,760 KN 16 2.90               153,003 9 
+7 6594 8.26        54,440 2.67     145,355 KN 44 1.00               145,355 14 
+8 1751 3.53          6,172 2.67       16,480 KN 14 1.90                 31,312 6 
+9 2871 2.37          6,799 2.67       18,152 KN-9 2.19                 39,753 4 
+
+10 2549 4.00        10,196 2.67       27,223 KN 10 3.36                 91,470 6 
+11 7735 6.08        46,990 2.67     125,464 KN 45 1.71               214,543 7 
+12 3136 4.14        12,983 2.67       34,665 KN 18 24.59               852,405 4 
+13 1371 3.15          4,319 2.67       11,531 KN 17 3.18                 36,633 4 
+14 2668 0.70          1,878 2.67         5,015 KN 6 4.9                 24,573 1 
+15 2818 1.41          3,968 2.67       10,594 KN 7 11.57               122,571 2 
+16 4072 3.62        14,724 2.67       39,314 KN 21 1.59                 62,509 6 
+17 8327 4.03        33,574 2.67       89,644 KN 46 3.81               341,543 7 
+18 1758 2.11          3,713 2.67         9,913 KN 4 10.69               105,975 4 
+19 3364 3.83        12,867 2.67       34,356 KN 5 2.46                 84,515 5 
+20 4871 1.89          9,206 2.67       24,581 KN 22 3.94                 96,847 2 
+21 9990 1.58        15,734 2.67       42,010 KN 47  1.19                 49,992 2 
+22 1982 2.34          4,638 2.67       12,383 KN 3 2.53                 31,329 3 
+23 3891 0.64          2,490 2.67         6,649 KN 23 1.77                 11,769 1 
+24 2451 3.33          8,157 2.67       21,779 KN 29 16.35               356,087 5 
+25 4302 1.92          8,260 2.67        22,054 KN 35 24.27               535,245 3 
+26 6906 6.34        43,756 2.67     116,830 KN 48 0.69                 80,612  10 
+27 5058 1.54          7,769 2.67       20,743 KN 24 4.19                 86,915  2 
+28 2653 3.78        10,018 2.67        26,747 KN 30 9.18               245,541  6 
+29 3664 3.30        12,077 2.67       32,244 KN 36 6.29               202,817  6 
+30 5403 5.25        28,355 2.67       75,708 KN 49 1.65               124,918  8 
+31 3750 1.71          6,413 2.67        17,121 KN 25 3.55                 60,781  2 
+32 3873 2.07          8,017 2.67       21,406 KN 31 2.26                 48,377  2 
+33 8589 4.14        35,558 2.67       94,941 KN 50 12.56            1,192,460  5 
+34 3395 2.16          7,333 2.67        19,580 KN 26 5.88               115,128  2 
+35 4864 2.88        14,008 2.67       37,402 KN 27 2.56                 95,750  3 
+36 12309 2.61        32,126 2.67       85,778 KN 51 0.94                 80,631  3 
+37 4035 7.42        29,956 2.67       79,982 KN 28 1.93               154,365  10 
+38 5285 0.73          3,856 2.67       10,295 KN 32 3.14                 32,327  1 
+39 10776 2.62        28,276 2.67       75,498 KN 52 7.41               559,437  4 
+40 4960 1.92          9,523 2.67       25,427 KN 33 2.39                 60,770  3 
+41 4701 1.28          6,017 2.67       16,066 KN 34 4.47                 71,816  2 
+42 5383 1.66          8,957 2.67       23,916 KN 53 4.87               116,471  3 
+43 11247 2.05        23,034 2.67       61,500 KN 54 2.86               175,891 3 
+44 5181 3.30        17,077 2.67       45,594 KN 55 4.93               224,781  5 
+45 8610 1.02          8,817 2.67       23,540 KN 56 1.55                 36,488  2 
+46 3311 2.37          7,840 2.67       20,934 KN 57 1.91                 39,984  4 
+
+ 
+ 
+
+
+
+ 
+
+ 
+
+42
+
+Table 10 continued. Djambaye 2 - A Zone – Middle Resource Estimate 
+ 
+
+Block No. 
+Area 
+(m2) 
+
+Thickness 
+(m) 
+
+Volume 
+(m3) 
+
+SG 
+(tonnes/m3)
+
+Tonnage
+(tonnes) 
+
+Drill  
+Hole 
+
+Average 
+Grade 
+
+Contained 
+Au  (gm) 
+
+Number of
+ samples 
+
+47 7495 4.48 33,578 2.67       89,652 KN 58 2.83                 253,716 7 
+48 3792 4.03      15,289 2.67       40,823 KN 59 0.63                   25,718 6 
+49 7902 2.94      23,263 2.67       62,114 KN 60 7.43                 461,503 2 
+50 3427 2.94      10,089 2.67       26,938 KN 61 1.3                   35,019 5 
+51 7082 1.92      13,597 2.67       36,305 KN 62 1.24                   45,018 6 
+52 3225 2.62        8,462 2.67       22,595 KN 63 1.19                   26,888 4 
+53 5891 2.56      15,081 2.67       40,266 KN 64 3.13                 126,033 4 
+
+  2.98*   2,115,092  4.11 8,693,230 230 
+
+* Average thickness 
+ 
+ 
+
+Table 11. Djambaye 2 - B Zone – Middle Resource Estimate 
+
+Block No. 
+Area 
+ (m2) 
+
+Thickness 
+(m) 
+
+Volume 
+(m3) 
+
+SG 
+ tones/m3)
+
+Tonnage
+(tonnes)
+
+Drill 
+Hole 
+
+Average 
+Grade (gm/t) 
+
+Contained 
+Au (gm) 
+
+Number of
+ samples 
+
+1 2945 5.49     16,168 2.67      43,169 KN 12 2.10                90,654 6 
+2 4282 1.62      6,937 2.67      18,521 KN 15 2.38                44,081 2 
+3 4150 2.11      8,752 2.67      23,369 KN 14 2.19                51,178 4 
+4 2418 2.62      6,345 2.67      16,941 KN 8 4.46                75,556 5 
+5 4380 3.39     14,857 2.67      39,668 KN 16 2.06                81,716 5 
+6 3892 2.14      8,344 2.67      22,280 KN 9 4.09                91,124 4 
+7 3389 1.38      4,663 2.67      12,451 KN 10 4.07                50,675 2 
+8 2508 2.85      7,143 2.67      19,071 KN 6 9.82                87,280 4 
+9 2265 4.41      9,989 2.67      26,670 KN 18 6.53               174,153 5 
+
+10 3292 2.43      8,006 2.67      21,376 KN 7 3.16                67,549 4 
+11 11069 1.28     14,168 2.67      37,829 KN 54 2.9               109,705 2 
+12 8927 2.05     18,282 2.67       48,814 KN 55 1.47                71,757 5 
+13 7870 1.34     10,577 2.67      28,241 KN 56 1.83                51,682 2 
+14 7174 1.34      9,642 2.67      25,744 KN 57 1.6                41,190 2 
+15 8217 1.34     11,044 2.67      29,487 KN 58 4.46               131,510 2 
+16 10125 1.18     11,988 2.67      32,008 KN 59 1.33                42,571 2 
+17 6496 1.09      7,068 2.67      18,871 KN 60 1.57                29,627 2 
+
+  2.24*      464,509   1,392,007  58 
+*Average thickness 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+-
+- ----- - - --- ---- -- -- -- ----- - ---- - - --- --- - ---
+
+- ------- - ---
+
+-150 m
+
+2222222222222222222222222222222222222222222222222
+
+3333333333333333333333333333333333333333333333333
+
+50 m
+
+100 m1111111111111111111111111111111111111111111111111
+
+14
+25
+
+10
+0 
+
+m
+E
+
+14
+25
+
+20
+0 
+
+m
+E
+
+-200 m
+
+14
+25
+
+00
+0 
+
+m
+E
+
+-100 m
+
+-50 m
+
+0 m
+
+14
+24
+
+90
+0 
+
+m
+E
+
+Horizontal & Vertical Scale
+in metres
+
+1000 200
+
+14
+24
+
+80
+0 
+
+m
+E
+
+4444444444444444444444444444444444444444444444444
+
+8888888888888888888888888888888888888888888888888
+
+5555555555555555555555555555555555555555555555555
+
+6666666666666666666666666666666666666666666666666
+
+9999999999999999999999999999999999999999999999999
+
+10101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+
+11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+
+12121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212
+
+1313131313131313131313131313131313131313131313131313131313131313131313131313131313131313131313131318181818181818181818181818181818181818181818181818181818181818181818181818181818181818181818181818 14141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414
+
+15151515151515151515151515151515151515151515151515151515151515151515151515151515151515151515151515
+
+16161616161616161616161616161616161616161616161616161616161616161616161616161616161616161616161616
+
+17171717171717171717171717171717171717171717171717171717171717171717171717171717171717171717171717
+21212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121212121
+
+19191919191919191919191919191919191919191919191919191919191919191919191919191919191919191919191919
+
+20202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020
+
+2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222223232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323
+
+25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525
+
+26262626262626262626262626262626262626262626262626262626262626262626262626262626262626262626262626
+
+27272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727
+
+14
+24
+
+50
+0 
+
+m
+E
+
+14
+24
+
+60
+0 
+
+m
+E
+
+14
+24
+
+70
+0 
+
+m
+E
+
+30303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030303030 7777777777777777777777777777777777777777777777777
+
+36363636363636363636363636363636363636363636363636363636363636363636363636363636363636363636363636
+
+42424242424242424242424242424242424242424242424242424242424242424242424242424242424242424242424242
+
+24242424242424242424242424242424242424242424242424242424242424242424242424242424242424242424242424
+
+29292929292929292929292929292929292929292929292929292929292929292929292929292929292929292929292929
+
+33333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
+
+28282828282828282828282828282828282828282828282828282828282828282828282828282828282828282828282828
+
+31313131313131313131313131313131313131313131313131313131313131313131313131313131313131313131313131
+
+3232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323235353535353535353535353535353535353535353535353535353535353535353535353535353535353535353535353535
+
+37373737373737373737373737373737373737373737373737373737373737373737373737373737373737373737373737
+
+38383838383838383838383838383838383838383838383838383838383838383838383838383838383838383838383838
+
+39393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939
+
+40404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040404040
+34343434343434343434343434343434343434343434343434343434343434343434343434343434343434343434343434
+
+41414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141414141
+
+14
+24
+
+20
+0 
+
+m
+E
+
+14
+24
+
+30
+0 
+
+m
+E
+
+14
+24
+
+40
+0 
+
+m
+E
+
+14
+24
+
+00
+0 
+
+m
+E
+
+14
+24
+
+10
+0 
+
+m
+E
+
+14
+23
+
+80
+0 
+
+m
+E
+
+14
+23
+
+90
+0 
+
+m
+E
+
+14
+23
+
+60
+0 
+
+m
+E
+
+14
+23
+
+40
+0 
+
+m
+E
+
+14
+23
+
+50
+0 
+
+m
+E
+
+14
+23
+
+70
+0 
+
+m
+E
+
+45454545454545454545454545454545454545454545454545454545454545454545454545454545454545454545454545
+
+4747474747474747474747474747474747474747474747474747474747474747474747474747474747474747474747474749494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949
+
+50505050505050505050505050505050505050505050505050505050505050505050505050505050505050505050505050
+
+51515151515151515151515151515151515151515151515151515151515151515151515151515151515151515151515151
+
+46464646464646464646464646464646464646464646464646464646464646464646464646464646464646464646464646 4343434343434343434343434343434343434343434343434343434343434343434343434343434343434343434343434348484848484848484848484848484848484848484848484848484848484848484848484848484848484848484848484848
+
+44444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
+
+52525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252
+
+53535353535353535353535353535353535353535353535353535353535353535353535353535353535353535353535353
+
+KN
+57
+
+KN
+56KN
+
+61
+
+KN
+60
+
+KN
+65
+
+KN
+64
+
+KN
+63
+
+KN
+62
+
+KN
+59
+
+KN
+58
+
+KN
+55
+
+KN
+53 KN
+
+54
+KN
+
+ 3
+4
+
+KN
+ 3
+
+3
+
+KN
+52 KN
+
+ 3
+2
+
+KN
+ 2
+
+8
+
+KN
+47KN
+ 0
+
+5
+KN
+
+ 0
+4
+
+KN
+ 0
+
+3
+
+KN
+46KN
+
+51
+KN
+
+ 2
+7
+
+KN
+ 2
+
+6
+
+KN
+ 2
+
+5
+KN
+
+49
+KN
+
+50
+KN
+
+ 3
+1
+
+KN
+ 3
+
+6
+KN
+
+ 3
+0
+
+KN
+48
+
+KN
+ 2
+
+4
+
+KN
+ 3
+
+5
+KN
+
+ 2
+9
+
+KN
+ 2
+
+3
+
+KN
+ 2
+
+1
+
+K
+N
+
+ 1
+0 KN
+
+ 1
+8
+
+K
+N
+
+45 KN
+ 1
+
+9
+
+KN 20
+
+KN
+ 1
+
+7
+KN
+
+ 0
+9
+
+KN
+44
+
+KN
+ 0
+
+6
+
+KN
+ 0
+
+7
+
+KN
+ 1
+
+6
+
+KN
+ 11KN
+
+ 1
+4
+
+KN
+ 13
+
+KN
+ 0
+
+8
+
+KN
+43
+
+KN
+ 1
+
+5
+KN
+
+ 1
+2
+
+KN-57aKN-61a KN-3 KN-14a KN-11KN-17
+
+KN-18a KN-8a
+
+KN 22
+KN-4
+
+KN-5a
+KN-6a
+
+KN-7a KN-9aKN-10a
+
+KN-12a
+
+KN-15a
+
+KN-16aKN-21KN-22
+
+KN-23KN-24
+KN-25KN-26
+
+KN-27
+
+KN-28
+
+KN-29KN-30KN-31
+KN-32
+
+KN-33a
+
+KN-34
+KN-35KN-36
+
+KN-43KN-44KN-45
+KN-46KN-47
+
+KN-48KN-49
+
+KN-50KN-51
+KN-52
+
+KN-53
+
+KN-54a
+
+KN-55a
+
+KN-56aKN-58a
+
+KN-59a
+
+KN-60a
+KN-62
+
+KN-63a
+
+KN-64
+
+DJAMBAYE 2 - A ZONE LONG SECTION - LOOKING WEST
+
+GREAT QUEST METALS LTD.
+DJAMBAYE 2 - A ZONE LONG SECTION
+
+KENIEBA GOLD PROJECT
+Kenieba Area, Republic of Mali
+
+NOTE: - elevations in metres above sea level
+
+            -  grid northings datum: WGS 84, Z29N
+
+Mid-point of albitite/mineralized intercept KN-54a
+
+Block constructed around drill intercept 
+and used to estimate tonnage 
+and inferred gold resource
+
+-
+
+KN
+ 5
+
+4 Surface location of drill hole collar project 
+to long section
+
+Drill intercepts of albitite dykes/mineralized zones
+and blocks constructed for tonnage estimate
+
+Figure 12
+
+
+
+-
+- ----- - - --- ---- -- -- -- ----- - ---- - - --- --- - ---
+
+- ------ - ---
+
+-150 m
+
+14
+25
+
+10
+0 
+
+m
+E
+
+14
+25
+
+20
+0 
+
+m
+E
+
+-200 m
+
+2 50 m
+
+100 m
+13
+
+4
+
+5
+
+7
+
+6
+
+14
+24
+
+90
+0 
+
+m
+E
+
+14
+25
+
+00
+0 
+
+m
+E
+
+Horizontal & Vertical Scale
+in metres
+
+0 100 200
+
+8
+
+9
+10
+
+14
+24
+
+80
+0 
+
+m
+E
+
+-100 m
+
+-50 m
+
+0 m
+
+14
+24
+
+50
+0 
+
+m
+E
+
+14
+24
+
+60
+0 
+
+m
+E
+
+14
+24
+
+70
+0 
+
+m
+E
+
+14
+24
+
+00
+0 
+
+m
+E
+
+14
+24
+
+10
+0 
+
+m
+E
+
+14
+24
+
+20
+0 
+
+m
+E
+
+14
+24
+
+30
+0 
+
+m
+E
+
+14
+24
+
+40
+0 
+
+m
+E
+
+11
+
+13
+15
+
+12
+
+14
+23
+
+50
+0 
+
+m
+E
+
+14
+23
+
+60
+0 
+
+m
+E
+
+14
+23
+
+70
+0 
+
+m
+E
+
+14
+23
+
+80
+0 
+
+m
+E
+
+14
+23
+
+90
+0 
+
+m
+E
+
+1416
+
+17
+
+KN 20
+
+KN
+44
+
+KN
+ 1
+
+6
+
+KN
+ 1
+
+3
+KN
+
+ 1
+1
+
+KN
+ 1
+
+4
+
+KN
+ 0
+
+8
+
+KN
+ 09
+
+KN
+43
+
+KN
+ 1
+
+8
+KN
+
+ 1
+7
+
+KN
+46 K
+N
+
+ 1
+0
+
+KN
+ 0
+
+7
+KN
+
+ 0
+6
+
+KN
+ 1
+
+5
+KN
+
+ 1
+2K
+
+N
+ 1
+
+9
+K
+
+N
+45
+
+KN
+ 0
+
+4
+
+KN
+ 0
+
+5
+KN
+
+ 0
+3
+
+KN
+47
+
+KN 22K
+N 
+
+35
+KN
+
+ 2
+9
+
+KN
+ 2
+
+3
+
+KN
+ 2
+
+1
+
+KN
+48
+
+KN
+ 2
+
+4
+
+KN
+ 3
+
+0
+
+KN
+50
+
+KN
+49
+
+KN
+ 3
+
+1
+
+KN
+ 2
+
+5
+
+KN
+ 3
+
+6
+
+KN
+ 3
+
+4
+
+KN
+54
+
+KN
+ 3
+
+3
+
+KN
+ 2
+
+6
+
+KN
+51
+
+KN 27
+
+KN
+ 3
+
+2
+KN
+
+ 2
+8
+
+KN
+52
+
+KN
+53
+
+KN
+55
+
+KN
+56
+
+KN
+57
+
+KN
+60
+
+KN
+59
+
+KN
+58KN
+
+62
+
+KN
+61
+
+KN
+63
+
+KN-16b
+
+KN-18b KN-10b
+KN-9bKN-7b
+
+KN-6b
+
+KN-8b
+
+KN-14bKN-5b
+KN-15b
+KN-12bKN-33b
+
+KN-54bKN-55b
+
+KN-56b
+
+KN-57b
+
+KN-58b
+
+KN-59b
+
+KN-60b
+
+KN-61b
+KN-63b
+
+DJAMBAYE 2 - B ZONE LONG SECTION - LOOKING WEST
+
+GREAT QUEST METALS LTD.
+DJAMBAYE 2 - B ZONE LONG SECTION
+
+KENIEBA GOLD PROJECT
+Kenieba Area, Republic of Mali
+
+Drill intercepts of albitite dykes/mineralized zones
+and blocks constructed for tonnage estimate
+
+NOTE: - elevations in metres above sea level
+
+            -  grid northings datum: WGS 84, Z29N
+
+Mid-point of albitite/mineralized intercept 
+
+Block constructed around drill intercept 
+and used to estimate tonnage 
+and inferred gold resource
+
+KN-54b
+
+-
+
+KN
+ 5
+
+4 Surface location of drill hole collar project 
+to long section
+
+Figure 13
+
+
+
+ 
+
+ 
+
+45
+
+18.0  Other Relevant Data and Information 
+  
+ There is no other relevant data or information in the writer's opinion. 
+ 
+ 
+19.0  Interpretation and Conclusions 
+ 
+ Great Quest Metals Ltd. has interests in two gold concessions in western Mali 
+referred to collectively as the Kenieba Gold Concession.  
+
+ The Kenieba Gold Concession is located in the Kayes region of western Mali. 
+The property is centered at latitude 12o52'17"N and longitude 11o15'00"W (UTM: 
+255,814E; 1,423,971N). The property is 3,138 hectares in area. 
+
+ Both concessions are underlain by Paleoproterozoic metasediments of the 
+Birimian Group. The Birimian is unconformably overlain to the east by near flat lying 
+Paleoproterozoic and younger quartzites, sandstones and shales of the Souroukoto 
+Group, which crops out immediately to the east of the property. Paleoproterozoic 
+granites and related rocks intrude the Birimian. Dykes of albitite intrude the Birimian 
+and host gold mineralization. Lamprophyre dykes are not uncommon in the Birimian. In 
+addition Jurassic dolerite dykes and sills intrude both Birimian and Souroukoto group 
+rocks. Kimberlites of Cretaceous and possibly older age intrude the Birimian and 
+Souroukoto.  
+
+ Gold mineralization on Great Quest's Kenieba Gold Concession has been found 
+in 10 structurally controlled zones to date. The largest of these – Djambaye 2 – has 
+received 7,717.3 metres of diamond drilling in the last 3 years. This work has resulted in 
+an estimation of a range for inferred resources for the Djambaye 2 structure. The median 
+inferred resource estimate for the combined Djambaye 2 – A and B Zones is 2,574,000 
+tonnes averaging 3.92 grams/tonne gold (uncut) over a 1,850 metre interval of the 4,000 
+metre long zone. The data utilized in this estimate is reliable. The structure is open at 
+depth and on strike. Further work should focus on increasing the density of drill 
+intercepts in order to up grade and expand the resource estimate.  
+
+On this basis and considering the favourable results from drilling, further work is 
+warranted and strongly recommended for the Kenieba Gold Concession. 
+ 
+
+ 
+  
+ 
+ 
+
+
+
+ 
+
+ 
+
+46
+
+20.0  Recommendations 
+ 
+ A two-stage program is recommended to continue the exploration of the Kenieba 
+Gold Concession.  
+
+ The first stage of work will consist of 8,000 metres NQ core drilling focussed 
+primarily on testing the Djambaye 2 structure at depth as well as in-fill drill on strike, 
+followed by step-out drilling to test the strike extensions. In conjunction with this work 
+Rab drilling to test for extensions of the Djambaye structures and other promising targets 
+on the Kenieba Gold Concession should be undertaken. Included in the first stage will be 
+the establishment a self-contained exploration drill camp near the village of Sansanto. 
+The camp should include adequate accommodation, power, sanitation and water as well 
+as office and core storage facilities. 
+
+In addition to this work Great Quest Metals Ltd. is advised to compile all assay, 
+analytical and drill log data in a validated digital format in order that it can be easily 
+imported into mine modelling software such as GEMCOM. Drill holes on the Djambaye 
+2 structure must be surveyed. A rigorous quality control/quality assurance program for 
+sampling and drill core handling must be implemented. 
+
+The total estimated cost of this program is $CDN2,000,000. 
+  
+
+20.1   Stage 1 – Estimated Costs: 
+ 
+Wages & Salaries........................................................................................$150,000 
+
+Engineering and consulting services ............................................................100,000 
+
+Field Consumables: 
+ Camp construction ..............................................................................50,000 
+ Communications .................................................................................12,500 
+ Field supplies ......................................................................................20,000 
+ Freight, DHL and local cartage ..........................................................15,000 
+ Fuel, trucks and generator...................................................................40,000 
+ Food ....................................................................................................20,000 
+
+Field Equipment 
+ Generator ............................................................................................20,000 
+ Support vehicles..................................................................................80,000 
+
+Subcontractors: 
+ Diamond Drilling, 8,000 m NQWL @$120/m.................................960,000 
+ Rab Drilling ......................................................................................300,000 
+ Assay and analyses .............................................................................40,000 
+
+Mob/Demob....................................................................................................15,000  
+
+Contingency..................................................................................................177,500 
+ 
+ Total .................................................................................. $CDN 2,000,000 
+ 
+
+
+
+ 
+
+ 
+
+47
+
+ 
+ 
+ 
+
+Based upon the success of the first stage of work on the Kenieba Gold 
+Concession a second stage of work is recommended. The Second stage program should 
+consist of further detailed drill of the mineralized zones tested during the first stage in 
+order to estimate gold resources for these zones and to upgrade existing resources to 
+reserve categories. 
+
+The estimated cost of second stage program will be in the order of $CDN 
+4,000,000. 
+ 
+ 
+ 
+Respectfully submitted, 
+Amerlin Exploration Services Ltd. 
+ 
+ 
+ 
+Signed: "Carl G. Verley" 
+      
+Carl G. Verley, P.Geo. 
+ 
+ 
+Richmond, B.C. 
+April 4, 2008 
+ 
+ 
+
+
+
+ 
+
+ 
+
+48
+
+21.0  References 
+ 
+ 
+Aussant, C.H.J., 2003: Report on the Diamond Drilling Program, Baroya and   
+
+Kenieba Consessions, Mali, West Africa, technical report prepared for Great 
+Quest Metals Ltd. 
+
+Colvine, A.C., J.A. Fyon, K.K. Heather, P.M. Soussan Marmont, P.M. Smith and D.G. 
+Troop, 1988: Archean lode gold deposits in Ontario: Ontario Geological Survey, 
+Misc. Paper 139, pp 136. 
+
+Dommanget, A., J.P. Milési and M. Diallo, 1993: The Loulo gold and tourmaline-
+bearing deposit: a ploymorph type in the Early Proterozoic of Mali (West 
+Africa), Mineralium Deposita, vol. 28, p. 253-263. 
+
+Jones, Colin, 2005: Independent Technical Report on the Moto Project, prepared by 
+RGS Global on behalf of  Moto Goldmines Limited. Sedar filed report. 
+
+Leube, A., W. Hirdes, R. Mauer and G.O. Kesse, 1990: The Early Proterozoic Birimian 
+Supergroup of Ghana and some aspects of its associate gold Mineralization, 
+Precambrian Research, Vol. 46, p. 139 – 165. 
+
+Map Sheet ND-29-1, 1987: Kenieba, Photogeology map of Western Mali, 1:200,000. 
+Ministry of Industrial Development, National Directorate of Geology and Mines, 
+Republic of Mali 
+
+Milési, Jean-Pierre, P. Ledru, J.-L.Feybesse, A. Dommanget and E. Marcoux, 1992: 
+Early Proterozoic ore deposits and tectonics of the Birimian orogenic belt, West 
+Africa, Precambrian Research, vol. 58, p. 305-344. 
+
+Mitchell, M.A., 2006: Report on the Diamond Drilling Program, May-June-July, 2005, 
+Kenieba Area Mining Concessions, Mali. Prepared for Great Quest Metals Ltd. 
+
+ 
+ 
+
+
+'

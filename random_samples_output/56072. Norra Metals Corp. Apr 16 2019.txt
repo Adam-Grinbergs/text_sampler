@@ -1,0 +1,2867 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cangold Limited
+
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Norra Metals Corp. 
+ 
+
+2019 TECHNICAL (N.I. 43-101) REPORT ON 
+THE SAGVOLL PROJECT 
+
+ 
+ 
+ 
+ 
+
+Located in Verdal and Steinkjer Municipalities, Trøndelag County, Norway 
+63.89° N Latitude, 12.06° E Longitude 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+-prepared for- 
+ 
+
+Norra Metals Corp. 
+Suite 480 - 505 Burrard Street, 
+
+Bentall One - Box 217  
+Vancouver, British Columbia, Canada  
+
+V7X 1M3 
+ 
+ 
+
+-prepared by- 
+ 
+
+David Swanton, M.Sc., P.Geo. 
+EQUITY EXPLORATION CONSULTANTS LTD. 
+
+Suite 1510, 250 Howe St. 
+Vancouver, British Columbia, Canada 
+
+V6C 3R8 
+ 
+
+Effective Date: March 12, 2019 
+ 
+
+
+
+1 
+
+ 
+ 
+
+TABLE OF CONTENTS 
+
+TABLE OF CONTENTS ................................................................................................................................. 1 
+LIST OF APPENDICES .................................................................................................................................. 2 
+LIST OF TABLES ........................................................................................................................................... 2 
+LIST OF FIGURES ......................................................................................................................................... 2 
+LIST OF PLATES ........................................................................................................................................... 2 
+1.0 SUMMARY............................................................................................................................................ 3 
+2.0 INTRODUCTION................................................................................................................................... 4 
+3.0 RELIANCE ON OTHER EXPERTS ....................................................................................................... 5 
+4.0 PROPERTY DESCRIPTION AND LOCATION ...................................................................................... 5 
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE, PHYSIOGRAPHY ........... 10 
+
+5.1 Accessibility ................................................................................................................................... 10 
+5.2 Local Resources and Infrastructure ............................................................................................... 10 
+5.3 Physiography and Climate ............................................................................................................. 10 
+
+6.0 HISTORY ............................................................................................................................................ 11 
+7.0 GEOLOGICAL SETTING AND MINERALIZATION ............................................................................. 12 
+
+7.1 Regional Geology and Mineralization ............................................................................................. 12 
+7.2 Property Geology and Mineralization ............................................................................................. 13 
+7.3 Significant Showings ...................................................................................................................... 14 
+
+7.3.1 Åkervollen..................................................................................................................... 14 
+7.3.2 Malså ............................................................................................................................ 14 
+7.3.3 Gaulstad/Mokk ............................................................................................................. 14 
+7.3.4 Skjækerdalen ............................................................................................................... 14 
+
+8.0 DEPOSIT TYPES ................................................................................................................................ 19 
+8.1 Volcanogenic Massive Sulphide (VMS) ......................................................................................... 19 
+8.2 Magmatic Nickel-Copper Sulphide Deposits .................................................................................. 20 
+
+9.0 EXPLORATION .................................................................................................................................. 21 
+10.0 DRILLING ........................................................................................................................................... 28 
+11.0 SAMPLE PREPARATION, ANALYSES AND SECURITY ................................................................... 28 
+12.0 DATA VERIFICATION ........................................................................................................................ 28 
+13.0 MINERAL PROCESSING AND METALLURGICAL TESTING ............................................................ 28 
+14.0 MINERAL RESOURCE ESTIMATES .................................................................................................. 28 
+15.0 ADJACENT PROPERTIES ................................................................................................................. 29 
+16.0 OTHER RELEVANT DATA AND INFORMATION ............................................................................... 29 
+17.0 INTERPRETATION AND CONCLUSIONS.......................................................................................... 29 
+18.0 RECOMMENDATIONS ....................................................................................................................... 30 
+
+18.1 Program ......................................................................................................................................... 30 
+18.1.1 Phase 1 Program .......................................................................................................... 30 
+18.1.2 Phase 2 Program .......................................................................................................... 30 
+
+18.2 Budget ........................................................................................................................................... 31 
+18.2.1 Phase 1 Budget ............................................................................................................ 31 
+18.2.2 Phase 2 Budget ............................................................................................................ 31 
+
+ 
+  
+
+
+
+2 
+
+ 
+ 
+
+LIST OF APPENDICES  
+
+Appendix A: References 
+Appendix B: Qualified Person's Certificate 
+Appendix C: Analytical Certificate 
+
+ 
+LIST OF TABLES  
+
+Table 1: Tenure Data ..................................................................................................................................... 5 
+Table 2: History of work on the Sagvoll Property .......................................................................................... 12 
+Table 3: 2018 Grab Samples ........................................................................................................................ 22 
+Table 4: Proposed 2019 Sagvoll Exploration Budget – Phase I .................................................................... 31 
+Table 5: Proposed 2019 Sagvoll Exploration Budget - Phase II .................................................................... 31 
+
+ 
+LIST OF FIGURES  
+
+Figure 1: Location Map ................................................................................................................................... 8 
+Figure 2: Tenure Map ..................................................................................................................................... 9 
+Figure 3: Regional Geology .......................................................................................................................... 15 
+Figure 4: Property Geology and Mineralization. ............................................................................................ 16 
+Figure 5a: NGU Rock Sampling (Cu/Zn). ..................................................................................................... 17 
+Figure 5b: NGU Rock Sampling (Ni/Pb). ...................................................................................................... 18 
+Figure 6a: 2018 Rock Sampling – Sample Locations ................................................................................... 25 
+Figure 6b: 2018 Rock Sampling – Cu/Zn ...................................................................................................... 26 
+Figure 6c: 2018 Rock Sampling – Pb/Ag ...................................................................................................... 27 
+
+ LIST OF PLATES  
+
+Plate 1: Upper Entrance to Rørosgruben mine showing weathered sulphide mineralization. ........................ 22 
+Plate 2: Weathered massive sulphides exposed in outcrop at sample site M411358 .................................... 23 
+Plate 3: Closeups of sulphide bands from sample site M411358 .................................................................. 24 
+
+ 
+  
+
+
+
+3 
+
+ 
+
+1.0 SUMMARY 
+
+The Sagvoll property is composed of eleven contiguous mineral licences totalling 10,900 ha (109 km2) 
+in area in the Verdal and Steinkjer municipalities of Trøndelag County, Norway. As of the effective date of this 
+report, licences are held by EMX Royalty Corp. ("EMX") through their wholly own subsidiary Eurasian Minerals, 
+though EMX has entered into an agreement with Norra Metals Corp. whereby Norra Metals will acquire 100% 
+ownership of the licences. This report has been prepared on behalf of Norra Metals in support of that 
+transaction. 
+
+The area covered by the property is generally hilly, with vegetation dominated by boreal forests with a 
+sub-arctic climate. Field work is possible from late spring until early fall, with drilling operations possible year-
+round. Access to the property is via paved and dirt road from the towns of Steinkjer and Verdalsøra, each 
+situated approximately 35 km west of the property's northern and southern ends (respectively). From these 
+towns, the city of Trondheim can be reached in approximately two hours travel via either maintained paved 
+highway or passenger rail service. Trondheim is a major city, providing access to supplies, labour, port facilities 
+and an international airport.  
+
+Bedrock geology of the property is dominated by a series of Cambrian to Ordovician age marine 
+metasedimentary and metavolcanic sequences belonging to the Trondheim Nappe Complex. These units have 
+all been deformed and metamorphosed during the Silurian-Devonian Caledonian Orogeny, and presently sit 
+within the Uppermost Allochthon of the Scandinavian Caledonides. The property is largely underlain by rocks 
+of the Gula and Fondsjø groups, with a number of volcanogenic massive sulphide (VMS) occurrences hosted 
+within the Fondsjø Group. A magmatic nickel sulphide occurrence is also present, hosted within a mafic unit 
+intruding the Gula Group. The units underlying the Sagvoll property are correlative to those found in the Røros 
+area, a prolific VMS mining district approximately 150 km south of the property. 
+
+There is a long history of mining on the Sagvoll property, with production of copper from the VMS 
+deposits and nickel from the magmatic sulphide deposit during the 19th century. The Norwegian Geological 
+Survey's (NGU) mineral occurrence database records four clusters of mineralized showings on the property; 
+three of these are interpreted to be VMS type and are hosted in greenstone of the Fondsjø Group, with the 
+fourth belonging to the magmatic sulphide deposit type. The showings contain economically significant 
+quantities of copper, nickel and zinc consistent with the reported mineralization style at each. Exploration by 
+private companies and the NGU following cessation of mining has been sporadic and relatively small scale. No 
+modern drilling or widespread surface geochemical sampling has taken place. The most significant of the 
+historical work programs are a thesis completed on the magmatic sulphide occurrence, an extensive silt 
+sampling campaign near one of the VMS occurrences and airborne geophysical surveys conducted by the 
+NGU over the majority of the property in 1993 and the southern end of the property in 2006. Prior to acquisition 
+of the exploration licences by EMX, mineral tenure had been allowed to lapse by the prior rights holders.  
+
+Work conducted for this report was limited to a one-day property examination, in which the author visited 
+the Åkervollen showing, examined the geology on surface and took four rock samples. This work confirmed 
+the existence of massive sulphide mineralization at this locale, and that the sulphide layers are significantly 
+enriched in copper, zinc, lead and silver. Metal ratios and visual appearance of mineralization is consistent with 
+the Åkervollen showing hosting VMS type mineralization, corroborating the conclusions of previously 
+documented work.   
+
+No NI 43-101 compliant estimates for quantity of mineralization exist for any of the showings on the 
+property. 
+
+Based on the author's examination of the property and historical records, it is concluded that the Sagvoll 
+property presents an attractive exploration target and further work is justified. A $53,000 program of data 
+compilation and surface work is recommended. Data compilation efforts should focus on digitization and 
+compilation of data from the historic work programs into a single GIS database. This database should then be 
+used to guide a short field program focussed on examination of all four clusters of mineralized showings and 
+historic mining. The results of this work should be used to determine if additional exploration work is warranted. 
+If results are sufficiently positive to justify follow-up work a small (1000 m) drilling campaign focussed on the 
+best targets to emerge from the first phase of work with a projected budget of approximately $415,000 is 
+recommended.  
+
+
+
+4 
+
+ 
+
+2.0 INTRODUCTION 
+
+This report has been prepared for Norra Metals Corporation ("Norra Metals") in order to satisfy its 
+disclosure requirements for the TSX-V exchange in connection with its agreement with EMX Royalty 
+Corporation ("EMX") on the Sagvoll property. Equity Exploration Consultants Limited ("Equity") has been 
+engaged by Norra Metals to examine the Sagvoll property in the field, to compile all exploration information 
+available on the property and to make recommendations for further exploration, if warranted. This report has 
+been prepared on the basis of personal observations, on data and reports supplied by Norra Metals, publicly 
+available scientific literature and on geological publications from the Norwegian Geological Survey ("NGU"). A 
+complete list of references is provided in Appendix A. 
+
+The author is an independent Qualified Person under the meaning of National Instrument 43-101 
+("NI 43-101"), and visited and examined the Sagvoll property on November 22, 2018.  
+
+The author is an employee of Equity, which has been contracted by Norra Metals to complete this NI 43-
+101 report on the Sagvoll property. The author is not a director, officer or significant shareholder of Norra Metals 
+or EMX Royalties and has no interest in the Sagvoll property or any nearby properties. 
+
+Unless stated otherwise, all cost estimates are presented in Canadian Dollars. Units and abbreviations 
+used in this report are as follows: 
+
+Units: 
+
+ 
+
+ 
+
+ 
+
+Abbreviations: 
+
+cm centimetre (0.01 m) 
+C$ Canadian dollar 
+Ga Billion years 
+g/t grams/tonne (1 ppm) 
+ha hectare (0.01 km2) 
+km kilometre (1000 m) 
+kg kilogram 
+m metre 
+Ma Million years 
+mm millimetre (0.001 m) 
+Mt- million tonnes 
+NOK Norwegian Kroner (1 NOK = C$.155 at effective date)
+ppm parts per million 
+t tonne (1000 kg) 
+
+AAS atomic absorption spectroscopy
+Ag silver 
+ASL above sea level 
+Au gold 
+Cu copper 
+FA fire assay 
+Ge germanium 
+GIS Geographic Information System
+GPS global positioning system
+ICP-MS inductively coupled plasma mass spectrometry
+ISO International Standards Organization
+NGU Norwegian Geological Survey
+Ni Nickel 
+NI 43-101 National Instrument 43-101
+NSR net smelter return 
+Pb lead 
+PGE Platinum Group Elements
+
+
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.0 RELIANCE ON OTHER EXPERTS 
+
+In Section 4.0, the author has relied entirely upon information provided in a press release dated 
+December 13, 2018 from Norra Metals concerning the terms of their option agreement with EMX. In Section 
+4.0, the author has relied entirely on the website of Geonorge (the Norwegian repository of geodata – 
+www.geonorge.no) for tenure data. Also in Section 4.0, the author has relied entirely upon a legal opinion dated 
+January 15, 2019 written by Siv Sandvik and Ole Klevan from the firm of Advokatfirmaet Schjødt AS of Oslo, 
+Norway regarding current ownership of the claims and legality of transfer of ownership (Sandvik and Klevan, 
+2019). This legal opinion was commissioned for, and provided to the author by, Norra Metals. The author has 
+also relied upon financial statements of EMX, dated December 31, 2017, provided by EMX and Norra Metals 
+regarding the relationship of EMX to Eurasian Minerals Sweden AB as described in section 4.0. In Section 4.0, 
+the author has relied upon personal communications from the Norwegian Ministry of Mines regarding the status 
+of potential environmental liability associated with historic mining. In Section 4.0, the author has relied upon 
+personal communication from Geode Consult AS regarding regulations relating to protected areas and the 
+status of approval of proposed nature reserves on the property.  
+
+ 
+
+4.0 PROPERTY DESCRIPTION AND LOCATION 
+
+The Sagvoll property consists of 11 contiguous exploration licences (alternatively termed or translated 
+as "rights of inquiry") which cover 10,900 hectares (109 km2) of northern Norway (Figure 1, Figure 2, Table 1). 
+The property is centred at 63.89° N latitude and 12.06° E longitude (WGS84 UTM Zone 33V: 7088000N 
+356000E).  
+
+Table 1: Tenure Data 
+
+License Name  Exploration License Issue Date  Expiry Date  Area (ha)
+
+Sagvoll 1  0122‐1/2018  April 4, 2018  April 4, 2025  1000 
+
+Sagvoll 2  0123‐1/2018  April 4, 2018  April 4, 2025  1000 
+
+Sagvoll 3  0124‐1/2018  April 4, 2018  April 4, 2025  1000 
+
+Sagvoll 4  0125‐1/2018  April 4, 2018  April 4, 2025  1000 
+
+Sagvoll 5  1181/2018  August 29, 2018 August 29, 2025  1000 
+
+Sagvoll 6  1182/2018  August 29, 2018 August 29, 2025  1000 
+
+Sagvoll 7  1183/2018  August 29, 2018 August 29, 2025  1000 
+
+Sagvoll 8  1184/2018  August 29, 2018 August 29, 2025  1000 
+
+Sagvoll 9  1185/2018  August 29, 2018 August 29, 2025  1000 
+
+Sagvoll 10  1186/2018  August 29, 2018 August 29, 2025  900 
+
+Sagvoll 11  1187/2018  August 29, 2018 August 29, 2025  1000 
+
+   10900 
+
+ 
+
+QA quality assurance 
+QC quality control 
+TSX-V Toronto Stock Exchange – Ventures
+UTM Universal Transverse Mercator
+VMS Volcanogenic Massive Sulphide
+WGS-84 World Geographic System (1984)
+Zn zinc 
+  
+
+
+
+6 
+
+ 
+ 
+
+ 
+An exploration licence within this context is defined by the Norwegian government as a right to explore 
+
+for state-owned minerals within a defined area for the validity of the licence; state-owned minerals are defined 
+as any metal with a density greater than 5 g/cm3.  
+
+As of the effective date of this report, ownership of the exploration licences is held by EMX through their 
+wholly owned subsidiary, Eurasian Minerals Sweden AB. However, Norra Metals and EMX entered into a 
+definitive agreement on December 12, 2018 whereby (subject to regulatory approval), EMX will transfer 100% 
+of the Sagvoll property to Norra Metals. 
+
+As a part of the acquisition EMX retains an uncapped 3% NSR royalty on any production from the 
+Sagvoll property. Additionally, to retain title to the property Norra Metals is required to make annual advance 
+royalty payments to EMX, beginning with a sum of $20,000 on the second anniversary of the closing of the 
+acquisition, with the royalty increasing by $5,000 per year until such time as it reaches $60,000 per year, after 
+which point payment rates will be adjusted based on the United States Consumer Price Index (Norra Metals 
+Corp, 2018) 
+
+The same transaction which transferred ownership of the Sagvoll claims to Norra Metals also involved 
+three other Scandinavian properties not covered in this report: Bastuträsk in Sweden, and Meråker and 
+Bleikvassli in Norway. In return for 100% interest in the four properties, Norra Metals will issue to EMX a number 
+of post-consolidated common shares of Norra Metals that represents a 9.9% equity ownership in Norra Metals; 
+Norra Metals will have the continuing obligation to issue additional shares of Norra Metals to EMX to maintain 
+its 9.9% interest in Norra Metals, at no additional cost to EMX, until Norra Metals has raised $5-million 
+(Canadian) in equity (capped at a maximum of 13,398,958 post-consolidated common shares); thereafter EMX 
+will have the right to participate pro rata in future financings at its own cost to maintain its 9.9-per-cent interest 
+in Norra Metals. Further, there is an additional provision that requires Norra Metals to raise and spend a total 
+of $2,000,000 on all four of the properties involved in the transaction within 2 years otherwise such 9.9-per-
+cent equity ownership shall be increased to a 14.9% continuing equity interest (capped at a maximum of 
+21,350,956 post-consolidated common shares). This continuing obligation shall expire once Norra Metals has 
+raised and spent $5,000,000 in exploration and development expenditures on the foregoing Scandinavian 
+properties. 
+
+Prior to February 14, 2019 Norra Metals was named OK2 Minerals Limited, and public information 
+regarding the transaction to acquire the Sagvoll property was released by OK2 Minerals. The name change 
+from OK2 Minerals to Norra Metals was conducted in conjunction with the transaction to acquire the Sagvoll 
+property. 
+
+Each of the exploration licences is subject to an annual renewal fee of 10 NOK per hectare for the 
+second and third calendar years of ownership, 30 NOK per ha per year for the fourth and fifth years and 50 
+NOK per ha per year for the sixth and seventh years of ownership. The licence expires at the end of the seventh 
+year of ownership unless a specific exemption is granted by the Norwegian government. The majority of the 
+licences which constitute the Sagvoll property were initially acquired and registered on August 29, 2018; the 
+remainder were acquired on April 4, 2018 (Table 1).  
+
+The Norwegian Directorate for Mineral Management ("DMF") requires that a permit be obtained to 
+conduct sampling on an exploration licence. Required information to be provided for this permit includes details 
+of the applicant, details of the geographic area to be sampled, and reason and methodology of sampling – 
+additional details of the permit requirements can be found at on the DMF website at: https://dirmin.no/soknad-
+om-tillatelse-til-proveuttak. Notification to the DMF of specific work plans are required no later than three weeks 
+before work initiates. Neither Norra Metals or EMX have applied for any permits as of the effective date of this 
+report.  
+
+The author is not aware of any other royalties, back-in rights, payments or other agreements and 
+encumbrances to which the property is subject. 
+
+Historic mining operations at the Sagvoll property have left several adits and waste dumps on the 
+property. The author has not evaluated the state or extent of these, and cannot comment on any potential 
+
+https://dirmin.no/soknad-om-tillatelse-til-proveuttak
+https://dirmin.no/soknad-om-tillatelse-til-proveuttak
+
+
+7 
+
+ 
+
+Surface rights to all portions of the claims which cover privately held land are retained by landowners, 
+who may have to be consulted depending on the scale of work being conducted. In cases where the land is 
+not privately owned, it is still required to notify the DMF of work plans on a parcel of land as part of the permit 
+application process. 
+
+Published information from the DMF indicates as follows with regards to interactions with landowners: 
+
+"With an exploration right one can carry out necessary interventions in the investigation area without 
+the landowner's permission as long as this does not cause damage of significant importance. For interventions 
+that may cause significant damage, the investigator must have the consent of the owner and user of the 
+reason. What is considered significant damage is due to an overall assessment. Ordinary activities such as 
+core drilling and smaller samples on the surface can normally be done without the permission of the 
+landowner. Larger sampling and larger exposures always require landowner's consent or an expropriation 
+permit." (Directorate of Mineral Management, 2019) 
+
+Portions of the northern and southern ends of the property contain farms and houses, and thus the 
+surface rights in these areas are retained by the owners of these properties. To the author's knowledge, no 
+consultation with these landowners on the Sagvoll property has yet been conducted. Upon completion of 
+preliminary work plans, it will be the responsibility of Norra Metals to contact and engage with landowners 
+holding surface rights should that work meet the definition of damage of significant importance as defined by 
+Norwegian law. It is beyond the scope of this report to determine what qualifies as "significant importance".  
+
+Portions of the property are underlain by parks, nature reserves and landscape protection areas, some 
+of which may restrict the ability to perform work on these portions of the property. The Blåfjella-Skjækerfjella 
+National Park lies immediately to the east of the property, and overlaps with one small (3.5 ha) corner of the 
+Sagvoll 9 tenure. A Landscape Protection Area, contiguous with the national park, similarly intersects the 
+southeastern corners of the Sagvoll 9 and Sagvoll 11 tenures, covering approximately 121 ha of these tenures. 
+A nature reserve is present at the north end of the property, encompassing approximately 200 ha on the Sagvoll 
+11 and Sagvoll 10 tenures, immediately north of the Gaulstad showing (Figure 2). It is likely that exploration 
+work will be prohibited within the national park and landscape protection area; however given the small overlap 
+between these areas and property this restriction is unlikely to have an impact on exploration work plans. With 
+regards to the nature reserve, local regulations state that it is possible to apply for dispensation to conduct work 
+in the area; however at present no such application has yet been made.   
+
+A proposed nature reserve is present in the northwestern corner of the Sagvoll 6 claim, covering 
+approximately 125 ha. Two additional proposed nature reserves are present on central portion of the property, 
+encompassing approximately 1200 ha of ground in the vicinity of the Malså showing (Figure 2). Regarding the 
+status of these proposed nature reserves, personal communication from Geode Consulting (a Norwegian 
+environmental and community relations consulting firm engaged by Norra Metals to provide advice on the 
+matter) indicates that conflicts with the local timber companies has preventing them from being converted to 
+established nature reserves, and that at present there are no exploration restrictions associated with them. 
+However, this information has not been personally verified by the author.  
+
+The author is not aware of any other factors which may affect access, title, or the right or ability to 
+perform work on the property. 
+
+ 
+
+  
+
+
+
+6
+4
+.5
+°N
+
+64.5°N
+
+64.0°N
+
+64.0°N
+
+63.5°N
+
+63.5°N
+
+11.0°E
+
+1
+1
+.0
+°E
+
+1
+1
+.5
+°E
+
+1
+1
+.5
+°E
+
+1
+2
+.0
+°E
+
+1
+2
+.0
+°E
+
+1
+2
+.5
+°E
+
+1
+2
+.5
+°E
+
+Norra Metals Corp.
+
+Sagvoll Property
+
+Location Map
+
+Scale:
+
+Sagvoll Project
+
+Legend
+
+NO
+RW
+AY
+
+Fv762
+
+SW
+ED
+EN
+
+Fv757
+
+FI
+NL
+AN
+D
+
+SW
+ED
+EN
+
+Date: 2019/02/25
+Projection: WGS84 / Zone 33N
+
+N
+O
+RW
+
+AY
+
+1
+Figure
+
+
+
+7077500N 7077500N
+
+7080000N 7080000N
+
+7082500N 7082500N
+
+7085000N 7085000N
+
+7087500N 7087500N
+
+7090000N 7090000N
+
+7092500N 7092500N
+
+7095000N 7095000N
+
+7097500N 7097500N
+
+7100000N 7100000N
+
+3
+4
+7
+5
+0
+0
+E
+
+3
+4
+7
+5
+0
+0
+E
+
+3
+5
+0
+0
+0
+0
+E
+
+3
+5
+0
+0
+0
+0
+E
+
+3
+5
+2
+5
+0
+0
+E
+
+3
+5
+2
+5
+0
+0
+E
+
+3
+5
+5
+0
+0
+0
+E
+
+3
+5
+5
+0
+0
+0
+E
+
+3
+5
+7
+5
+0
+0
+E
+
+3
+5
+7
+5
+0
+0
+E
+
+3
+6
+0
+0
+0
+0
+E
+
+3
+6
+0
+0
+0
+0
+E
+
+3
+6
+2
+5
+0
+0
+E
+
+3
+6
+2
+5
+0
+0
+E
+
+3
+6
+5
+0
+0
+0
+E
+
+3
+6
+5
+0
+0
+0
+E
+
+Norra Metals Corp.
+
+Sagvoll Property
+
+Tenure Map
+
+Scale:
+
+Sagvoll Claims
+
+Protected Areas
+
+Nature Reserve
+
+Proposed Nature Conservation Area
+
+National Park
+
+Landscape Protection Area
+
+Legend
+
+Fv762
+
+Fv757
+
+Date: 2019/03/12
+Projection: WGS84 / Zone 33N
+
+2
+Figure
+
+
+
+10 
+
+ 
+ 
+
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE, PHYSIOGRAPHY 
+
+5.1 Accessibility 
+The Sagvoll property is located approximately 35 km inland (east) from the head of the Trondheimsfjord 
+
+and the communities of Steinkjer and Verdalsøra (Figure 1). These towns are connected to each other and 
+southwards to the city of Trondheim by the E6 highway. Access to the Sagvoll property is possible through 
+either of these towns, with route Fv757 leading from Verdalsøra to the southern end of the property and route 
+Fv762 leading from Steinkjer to the northern end of the property. Access to the central parts of the property is 
+possible via secondary roads connecting to these maintained routes.  All parts of the property are within 5 km 
+of one of these secondary roads.  
+
+Regular passenger rail service is available to both Steinkjer and Verdalsøra from Trondheim; there are 
+multiple daily departures and the journey takes approximately 2 hours. The nearest airport to the Sagvoll 
+property is in Trondheim, with multiple daily flights to Oslo and international destinations. 
+
+The property is bordered on its eastern side by Blåfjella-Skjækerfjella national park (Figure 2).  
+
+5.2 Local Resources and Infrastructure 
+The city of Trondheim (population 275,000, 100 km to the southwest of the property) offers a full range 
+
+of services including hotels, fuel, freight, a port, groceries, hardware and transport to elsewhere in Norway and 
+Europe. Trondheim airport has multiple domestic and international flights daily, and the city is well integrated 
+into both the rail and highway networks. The Norwegian Geological Survey is headquartered in Trondheim, 
+and it is expected that a pool of both unskilled and skilled labor suitable for the mining industry are to be found 
+there.  
+
+The towns of Steinkjer and Verdalsøra both offer a range of services, including fuel, groceries, 
+restaurants and hotels; it is expected that unskilled labor for any work programs can be sourced from there. 
+More limited services are available from smaller towns closer to the property along the Fv757 corridor.  
+
+Electrical power is actively supplied along the Fv762 and Fv757 corridors to the northern and southern 
+ends of the property (respectively) by Statnett, the state-owned enterprise responsible for operating the 
+constructing the Norwegian power grid. A 300 kV transmission line is in operation near the property, crossing 
+the Fv762 corridor approximately 7 km west of the property.  
+
+Concentrates could be shipped through the port of Trondheim. As stated above, Trondheim can be 
+reached in approximately two hours drive on paved roads from the property or by rail from Verdalsøra and 
+Steinkjer. 
+
+Surface rights over the Sagvoll property are owned by individual private landholders, and though the 
+mineral tenure system in Norway grants the mineral right holder permission to explore for economically valuable 
+resources, consultation with private landholders would be required before significant exploration work 
+proceeds.  
+
+It is still too early to determine potential tailings storage areas, potential waste disposal areas, and 
+potential processing plant sites; the potential availability of these sites have not been evaluated as part of this 
+report. However, the property is large enough to accommodate suitable sites for such infrastructure and it is 
+expected that suitable sites can be located.  
+
+5.3 Physiography and Climate 
+The Sagvoll property covers a hilly area approximately 35 km inland (east) from the head of 
+
+Trondheimsfjord (Figures 1 and 2). The property trends roughly north-south with a length of ~20 km and an 
+average width of ~ 5 km. Elevation on the property ranges from 130 m ASL in the valley bottom near its southern 
+end to 770 m ASL in the range of hills on the property's eastern edge. 
+
+
+
+11 
+
+ 
+ 
+
+The property is within the boreal ecoregion, typified by spruce forests (with some birch, pine, willow and 
+aspen) at lower elevations, transitioning to birch-dominated forest at higher elevations and eventually to an 
+alpine environment. Treeline is located at approximately 400 - 600 m ASL, depending on the facing direction 
+of the slope.  
+
+The area is within the subarctic climate zone (classification Dfc in the Köppen climate classification), 
+typified by moderately warm summers and moderately cold winters. Average temperatures range from 13° C 
+in the warmest summer months to -4° C in the coldest winter months. Precipitation is highest in the fall and 
+winter months with an average monthly rainfall ranging from 110 mm in September to 50 mm in May. Lower 
+elevations are generally snow-free year-round, with moderate snowpack accumulations expected at higher 
+elevations.  
+
+ Fieldwork on the property is possible from late spring until early fall, while snow may cover parts of 
+higher elevations into late spring or early summer. Drilling operations should be possible year-round, depending 
+on access considerations dictated by snow cover and potentially avalanche risk in areas of steeper topography. 
+
+6.0 HISTORY 
+The Sagvoll property contains four locales with recorded historic mining operations at them, all of which 
+
+ceased operation during or prior to the early 20th century. There is no record of any modern mining production 
+from the property. The Åkervollen, Malså and Gaulstad/Mokk mines were all copper producers, while the 
+Skjækerdalen mine primarily produced nickel.  
+
+Following closure of the mines, there is no record of any geological inquiry into the mineral potential of 
+the Åkervollen, Malså or Gaulstad/Mokk areas until the early 1960's (Table 2), at which point historic reports 
+describe several small programs of mapping, ground-based geophysics and silt sampling focussed on the area 
+around the old Malså mine. Following this, there was another extended hiatus in exploration activity until 1985, 
+when geophysics, rock sampling and soil sampling were conducted in the areas around all three showings. 
+Small scale ground-based geophysical surveys were again conducted on these showings in the mid-1990's by 
+the NGU. The NGU also flew an airborne geophysical survey (magnetics + EM + radiometrics) over the majority 
+of the ground now covered by the property in 1993. 
+
+The Skjækerdalen showing has received slightly more exploration work since cessation of mining 
+activities than the other three prospects (Table 2). It has been the subject of thesis research in the 1970's and 
+numerous small campaigns of ground geophysical surveying in the late 1940's and early 1970's. Relatively 
+detailed geological maps of the area were produced by work in 1977, but no follow up geochemical sampling 
+accompanied any of this work.  Most recently, an airborne geophysical survey and follow up ground truthing 
+were conducted in 2006.  
+
+Following the work described above, mineral exploration rights were allowed to lapse on all four 
+showings prior to registering of new exploration licences in 2018 by EMX.  
+  
+
+
+
+12 
+
+ 
+ 
+
+Table 2: History of work on the Sagvoll Property 
+
+Year Activity Reference 
+1866 – 
+1884 
+
+Copper extraction from Malså mine (Roe, 1995) 
+
+1876 – 
+1891 
+
+Nickel and copper extraction from several small mines in the 
+Skjækerdalen area 
+
+(Roe, 1995) 
+
+1890's Exploration and copper production from Åkervollen area (Roe, 1995) 
+
+1915 Dewatering of a shaft in the Skjækerdalen, several drillholes (Lieungh, 1977) 
+
+1949 Geophysics and mapping in the Skjækerdalen area (Braekken et al., 1958) 
+
+1963 Geophysics in the Malså area (Tørnqvist and Hallin, 1963) 
+
+1967 Geological Mapping in Malså and Mokk areas (Dahl, 1967) 
+
+1970 Thesis research and geophysical surveys in the Skjækerdalen 
+area 
+
+(Lieungh, 1977) 
+
+1970 Silt Sampling in the Malså area (Bølviken, 1970) 
+
+1970 Geophysics in the Skjækerdalen area (Eidsvig, 1970) 
+
+1971 Geophysics in the Skjækerdalen area (Eidsvig, 1972) 
+
+1977 Geological Mapping in the Skjækerdalen area (Lieungh, 1977) 
+
+1985 Rock Sampling and geophysical surveys: Åkervollen, Malså and 
+Gaulstad/Mokk areas 
+
+(Bollingmo, 1985) 
+
+1985 Soil sampling, rock sampling and geophysics over Åkervollen 
+area 
+
+(Bollingmo, 1986) 
+
+1993  NGU Airborne Geophysical Survey – majority of property (Skilbrei, 1994) 
+
+1995 Geophysical surveys over Malså and Åkervollen areas (Dalsegg and Lauritsen, 1995) 
+
+1996 Geophysical surveys over Malså and Åkervollen areas (Dalsegg and Elvebakk, 1996), 
+(Elvebakk and Dalsegg, 1996) 
+
+1997 Geophysical survey of Gaulstad and Mokk area (Dalsegg and Elvebakk, 1997) 
+
+2006 Airborne geophysical survey in the Skjækerdalen and 
+Åkervollen areas 
+
+(Mogaard, 2006) 
+
+2006 Ground-truthing of airborne geophysical anomalies in the 
+Skjækerdalen area 
+
+(Beauddoin, 2006) 
+
+ 
+
+7.0 GEOLOGICAL SETTING AND MINERALIZATION 
+
+7.1 Regional Geology and Mineralization 
+The Sagvoll property is located within the Trondheim Nappe Complex of the Uppermost Allochthon 
+
+(Figure 3), the highest structural unit of the Scandavian Caledonides (Grenne et al., 1995). The Scandanavian 
+Caledonides as a whole were formed during the Scandian Phase of the Caledonian orogeny, during the 
+Silurian-Devonian collision of Baltica and Laurentia. The region surrounding the property is almost entirely 
+underlain by metasedimentary and metavolcanic rocks of Cambrian to Ordovician age submarine provenance, 
+
+
+
+13 
+
+ 
+ 
+
+with subordinate volumes of both mafic and felsic intrusive units. The entire area has been strongly deformed 
+and metamorphosed to greenschist facies, with metamorphic grade increasing from southeast to northwest 
+(Røsholt and Wilberg, 2001a). Overall stratigraphy dips towards the west-northwest, though isoclinal folding 
+has introduced numerous complications and small-scale reversals of dip direction. It has been proposed 
+(Røsholt and Wilberg, 2001a) that the entire stratigraphic succession is this area of the Trondheim Nappe 
+Complex has been overturned, making the structurally highest units (in the northwest of the region) the 
+stratigraphically lowest, oldest units.  
+
+The structurally lowest unit in the present sequence (abutting the Swedish border in the southeast of 
+the Sagvoll region) is the Slågen Group, a dominantly sedimentary sequence of quartzites, quartz-mica schists, 
+graphitic schists and minor mafic tuffs (Figure 3). 
+
+Overlying the Slågen Group is the Kjølhaug Group, dominated by calcareous phyllite, sandstone and 
+greywacke intruded by volumetrically significant pre-metamorphic gabbro sills. This group correlates with the 
+Røros Formation several hundred kilometers to the south in the Røros district, which is significant as the Røros 
+Formation is host to several past-producing mines.  
+
+The next highest unit in the present-day stratigraphy is the Sulåmo Group, which is dominated by 
+phyllite, sandstone, marble and conglomerate with minor basalt. 
+
+Overlying the Sulåmo Group is the Fondsjø Group (interchangeably termed the Støren Group), 
+dominantly composed of basalt, intruded by a suite of coarse grained tonalitic rocks, with minor iron formation, 
+clastic sediments, and felsic volcanic/pyroclastic units.  Similar to the Kjølhaug Group, the Fondsjø Group is 
+mapped in the Røros district and hosts several past-producing mines. The Fondsjø Group can also be 
+correlated with the Stekenjokk volcanics further north in the Caledonides, where the horizon hosts an 
+abundance of VMS deposits (Grenne et al., 1995).  
+
+Above the Fondsjø Group is the Gula Group, a sequence of metasedimentary units dominated by 
+phyllite, gneiss, slate and conglomerate with minor amphibolite layers. As the entire stratigraphic sequence 
+has been overturned, the Gula Group is interpreted to be the oldest unit in the immediate vicinity of the Sagvoll 
+property. Localized isoclinal folding results in a repeat of the Fondsjø Group to the northwest (structurally 
+above) the Gula Group in the immediate vicinity of the Sagvoll Property.  
+
+The northwestern contact of the Gula Group is formed by a thrust fault which puts it in contact with 
+unclassified pre-Cambrian to Silurian age sedimentary, intrusive and volcanic units (Wolff, 1976).  
+
+7.2 Property Geology and Mineralization 
+The majority of the Sagvoll property is underlain by the Gula and Fondsjø groups, with minor amounts 
+
+of unclassified gneissic and rhyolitic units along its northwestern edge (Figure 4). These unclassified units are 
+not believed to be significant from a mineralization perspective, with a thrust fault separating them from the 
+more prospective Gula and Fondsjø groups. 
+
+The Gula Group is present at the southern end and western edge of the property, with stratigraphy 
+dominated by gneiss, slate and phyllite – a metasedimentary package typical of the Gula Group as a whole. 
+Intruding this sequence is a composite gabbro-diorite body with abundant breccia zones containing fragments 
+of wall rock, diorite, gabbro and ultramafic. The Skjækerdalen showing occurs within this intrusive unit, and is 
+interpreted to be a magmatic nickel-sulphide deposit genetically related to it.  
+
+The central and northern portions of the Sagvoll property are underlain by a greenstone (mafic volcanic) 
+unit of the Fondsjø Group, alternatively labelled on some maps as the Støren Group (Figure 4). This unit is 
+contacted on both sides (northwest and southeast) by the Gula Group creating an apparent repeat of 
+stratigraphy in this area (as described in section 7.1, the Gula Group generally structurally overlies the Fondsjø 
+Group). This surface pattern has been interpreted to be the result of an isoclinal fold, emplacing Fondsjø Group 
+rocks on either side of a core of Gula Group rocks (Wolff, 1977). The three most significant VMS-style showings 
+on the property (Åkervollen, Malså and Gaulstad) all occur within this belt of Fondsjø Group greenstone rocks.  
+
+
+
+14 
+
+ 
+ 
+
+7.3 Significant Showings 
+
+7.3.1 Åkervollen 
+The Åkervollen showing is a cluster of Cu-Pb-Zn-Ag rich rock samples and historic workings located 
+
+near the southern boundary of the Sagvoll property (Figures 4, 5a, 5b). Mineralization has been described by 
+previous workers as VMS-style, and this is believed by the author to be correct. It was mined for copper during 
+the late 19th century, and remnants of these historical workings remain visible on surface. Most accessible is 
+the Rørosgruven showing, site of several old adits and waste dumps. Highlights of historical sampling from this 
+showing include samples with up to 6% Zn and 3% Cu (NGU, 2019). This showing was examined by the author 
+for the purposes of this report (see section 9 for details). 
+
+7.3.2 Malså 
+The series of VMS showings which make up Malså are arranged in a sinuous line approximately 3 km 
+
+in strike length near the middle of the Sagvoll property (Figure 5a, 5b), with copper and zinc values from the 
+NGU rock sample database generally elevated, and ranging up to 5% and 4%, respectively (NGU, 2019). 
+Nomenclature of the mineral occurrences would suggest this is the locale of the historic Malså mine, though 
+the location of any historic workings have not been verified personally by the author. Historic reports indicate 
+that the area has received only sporadic exploration attention, with several episodes of geophysical surveying 
+and geological mapping. Notably, a sizeable silt sampling campaign for which the data is available was also 
+conducted during the 1970 field season. This program involved collection of over one hundred silt samples 
+(with analysis for Cu, Pb, Zn and Ni) from both the main and tributary drainages over approximately 10 km of 
+the creek immediately south of the Malså showing.  
+
+7.3.3 Gaulstad/Mokk 
+The Gaulstad and Mokk showings are part of a 1.5 km x 500 m cluster of mineralized occurrences found 
+
+at the northern end of the Sagvoll property (Figures 5a, 5b). Historic descriptions and metal values from NGU 
+rock sampling suggest that, like Åkervollen and Malså, the mineralization in this area is VMS-style. Copper and 
+zinc from NGU sampling both range up to >10%, though Pb and Ag values are generally low (NGU, 2019). 
+Most gold assays are likewise low, with only 4 samples (of the 50 total from the area) containing > 0.1 g/t Au. 
+Apart from these rock samples, this area has received very little modern exploration work; historical records 
+indicate that there have been several small scale ground-based geophysical surveys, but there is no record of 
+any systematic evaluation of the cluster of showings as whole.  
+
+7.3.4 Skjækerdalen 
+Though its scale of historic mining is similar to the other nearby showings, the Skjækerdalen showing 
+
+has received more exploration attention than other parts of the property. Following cessation of nickel mining 
+in the late 19th century, this area has been the subject of numerous mapping campaigns, academic research, 
+geophysical surveys and a small amount of diamond drilling. Note that the drilling is from the early part of the 
+20th century, and no data is available regarding the findings of the work. The mineralogy and geological setting 
+of this showing is substantially different from the others on the property: it is enriched in nickel and copper 
+(lacking zinc, lead and precious metals), and is hosted within a composite mafic intrusive unit. Based on 
+available data, it is interpreted to likely be a magmatic nickel copper sulphide mineralized system (as opposed 
+to a VMS like other nearby showings), making it relatively unique in the area. Sampling reported from the NGU 
+database in the area records values of up to 1.6% Ni and 0.35% Cu (NGU, 2019). 
+
+
+
+7030000N 7030000N
+
+7040000N 7040000N
+
+7050000N 7050000N
+
+7060000N 7060000N
+
+7070000N 7070000N
+
+7080000N 7080000N
+
+7090000N 7090000N
+
+7100000N 7100000N
+
+7110000N 7110000N
+
+7120000N 7120000N
+
+7130000N 7130000N
+
+7140000N 7140000N
+
+7150000N 7150000N
+
+300000E
+
+30
+00
+00
+E
+
+310000E
+
+31
+00
+00
+E
+
+320000E
+
+32
+00
+00
+E
+
+330000E
+
+33
+00
+00
+E
+
+340000E
+
+34
+00
+00
+E
+
+350000E
+
+35
+00
+00
+E
+
+360000E
+
+36
+00
+00
+E
+
+370000E
+
+37
+00
+00
+E
+
+380000E
+
+38
+00
+00
+E
+
+Norra Metals Corp.
+
+Sagvoll Property
+
+Regional Geology Map
+
+Scale:
+
+Claims
+Sagvoll Project
+
+Geology
+
+Groups
+Slågen Group
+
+Kjølhaug Group
+
+Sulåmo Group
+
+Fondsjø Group
+
+Gula Group
+
+Bedrock Geology
+Amphibolite
+
+Diorite
+
+Dioritic Gneiss
+
+Phyllite, Mica Slate
+
+Gabbro
+
+Micaceous Gneiss, Slate, Sandstone
+
+Granite / Granodiorite
+
+Greenstone
+
+Limestone
+
+Conglomerate
+
+Quartz Diorite, Tonalite, Tondjhemite
+
+Quartzite
+
+Slate, Sandstone, Limestone
+
+Metasandstone, micaceous slate
+
+Dunnite, Pyroxenite
+
+Augen Gneiss, Granite, Foliated Granite
+
+Rhyolite, Dacite
+
+Sandstone
+
+Geological Legend
+
+Date: 2019/02/25
+Projection: WGS84 / Zone 33N
+
+3
+Figure
+
+
+
+7075000N 7075000N
+
+7080000N 7080000N
+
+7085000N 7085000N
+
+7090000N 7090000N
+
+7095000N 7095000N
+
+7100000N 7100000N
+
+7105000N 7105000N345000E
+
+34
+50
+00
+E
+
+350000E
+
+35
+00
+00
+E
+
+355000E
+
+35
+50
+00
+E
+
+360000E
+
+36
+00
+00
+E
+
+Norra Metals Corp.
+
+Sagvoll Property
+
+Property Geology Map
+
+Scale:
+
+NGU Mineral Occurences
+
+Sagvoll Claims
+
+Geology
+
+Groups
+Kjølhaug Group
+
+Sulåmo Group
+
+Fondsjø Group
+
+Gula Group
+
+Bedrock Geology
+Amphibolite
+
+Dioritic Gneiss
+
+Phyllite, Mica Slate
+
+Gabbro
+
+Micaceous Gneiss, Slate, Sandstone
+
+Greenstone
+
+Limestone
+
+Conglomerate
+
+Quartzite
+
+Slate, Sandstone, Limestone
+
+Metasandstone, micaceous slate
+
+Augen Gneiss, Granite, Foliated Granite
+
+Rhyolite, Dacite
+
+Sandstone
+
+Geological Legend
+
+Date: 2019/02/25
+Projection: WGS84 / Zone 33N
+
+4
+Figure
+
+
+
+Norra Metals Corp.
+
+Sagvoll Property
+
+NGU Rocks - Cu/Zn (%)
+
+Overview Scale:
+
+NGU Rock Sample (Cu)
+< 0.1 %
+
+0.1 - 0.5 %
+
+0.5 - 1 %
+
+1 - 5 %
+
+> 5%
+
+NGU Rock Sample (Zn)
+< 0.1%
+
+0.1 - 0.5 %
+
+1 - 5 %
+
+> 5%
+
+Mineral Occurences
+NGU Mineral Occurences
+
+Sagvoll Claims
+
+Geological Legend
+
+modified from NGU (2019)   www.ngu.no
+
+Date: 2019/02/26
+Projection: WGS84 / Zone 33N
+
+5a
+Figure
+
+7096000
+
+7097000
+
+7098000
+359000 359500 360000 360500
+
+7089000
+
+7090000
+
+7091000
+
+356000 357000
+
+7084000
+
+7084250
+
+356750 357000 357250
+
+7083750
+
+7084000
+
+351500 352000 352500
+
+Åkervollen
+
+Åkervollen
+
+Malså
+
+Skjækerdalen  
+
+Gaulstad/
+Mokk
+
+Skjækerdalen 
+
+Malså
+
+Gaulstad/
+Mokk
+
+
+
+Norra Metals Corp.
+
+Sagvoll Property
+
+NGU Rocks - Pb/Ni (ppm)
+
+Overview Scale:
+
+NGU Rocks
+
+NGU Rock Sample (Pb - ppm)
+< 500
+
+500 - 1000
+
+1000 - 5000
+
+5000 - 10,000
+
+> 10,000
+
+NGU Rock Sample (Ni - ppm)
+< 1000
+
+1000 - 5000
+
+5000 - 10,000
+
+10,000 - 50,000
+
+> 50,000
+
+Mineral Occurences
+NGU Mineral Occurences
+
+Geological Legend
+
+modified from NGU (2019)   www.ngu.no
+
+Date: 2019/02/26
+Projection: WGS84 / Zone 33N
+
+5b
+Figure
+
+7096000
+
+7097000
+
+7098000
+359000 359500 360000 360500
+
+7089000
+
+7090000
+
+7091000
+
+356000 357000
+
+7084000
+
+7084250
+
+356750 357000 357250
+
+7083750
+
+7084000
+
+351500 352000 352500
+
+Åkervollen
+
+Åkervollen
+
+Malså
+
+Skjækerdalen  
+
+Gaulstad/
+Mokk
+
+Skjækerdalen 
+
+Malså
+
+Gaulstad/
+Mokk
+
+
+
+19 
+
+ 
+ 
+
+8.0 DEPOSIT TYPES 
+
+8.1 Volcanogenic Massive Sulphide (VMS) 
+Historic records and modern observations indicate that most known zones of mineralization on the 
+
+Sagvoll  property are Volcanogenic Massive Sulphide (VMS) deposits. The following is a brief overview of VMS 
+deposits derived from established scientific literature; for a more complete treatment of this highly varied 
+deposit style the reader is referred to the papers referenced in this section. 
+
+ VMS deposits are strata-bound accumulations of sulfide minerals that precipitated at or near the sea 
+floor in spatial, temporal, and genetic association with contemporaneous volcanism. The deposits consist of 
+two parts: a concordant massive sulphide lens (>60% sulfide minerals), and discordant vein-type sulfide 
+mineralization located mainly in the footwall strata, commonly called the stringer or stockwork zone (Franklin 
+et al., 2005). VMS deposits form from metal-enriched fluids associated with seafloor hydrothermal convection. 
+Their immediate host rocks can be either volcanic or sedimentary, and most current classification schemes for 
+these deposits are based around host rock type. VMS deposits are major sources of Zn, Cu, Pb, Ag, and Au, 
+and significant sources for Co, Sn, Se, Mn, Cd, In, Bi, Te, Ga, and Ge. Some also contain significant amounts 
+of As, Sb, and Hg (Galley et al., 2007). VMS deposits occur throughout geologic time, having been discovered 
+in submarine volcanic terranes that range from 3.4 Ga to actively forming deposits in modern seafloor 
+environments.  
+
+The overall architecture of VMS systems is described by Franklin et al (2005) as being comprised of six 
+main elements: a heat source, a high temperature reaction/leaching zone, synvolcanic faults, a footwall reaction 
+zone, the deposit itself and distal seafloor precipitates. The heat source which drives the hydrothermal 
+convection system (and potentially contributes to the metal content of the deposit) is generally, though not 
+exclusively, a subvolcanic intrusion. Convection driven by this heat source drives hydrothermal fluids through 
+a reaction zone, from which the majority of the metals destined to form the deposit are leached. The metal-
+enriched fluids then travel up synvolcanic faults and fissures which focus discharge from the reaction zone to 
+a specific seafloor locale. Proximal to these fluid conduits, but well below the seafloor itself, reactions between 
+ascending hydrothermal fluids and wallrock to the conduits produces an alteration assemblage which varies 
+greatly by deposit type, but generally includes disseminated sulphides, chlorite, silica and sericite. The massive 
+sulphide deposit itself is formed through interaction of the hydrothermal fluid with surface conditions at or near 
+the seafloor. Metal content and aspect ratios of the deposits vary greatly between deposit types. It is common 
+for metal zonation to occur, with the core of the deposit enriched in copper and the margins enriched in 
+zinc±lead. Distal to the vent complex the hydrothermal fluids contribute to the background sedimentation, 
+providing a potential footprint substantially larger than the deposit itself.  
+
+Deposit size varies greatly both between and within deposit types, ranging from hundred of thousands 
+to hundreds of millions of tonnes with the average size of an economically significant deposit on the order of 
+several million tonnes of contained ore. Metal content also varies greatly; average geometric mean across all 
+deposit types is approximately 1.2% Cu, 2.4% Zn, 0.6% Pb, 29 g/t Ag and 0.9 g/t Au (Franklin et al., 2005), 
+though it is important to note that these are averages only, and both total content and metal ratios vary greatly 
+between deposit types.  
+
+The lithostratigraphic classification scheme for VMS deposits defines five primary types, with a sixth 
+hybrid type added by some workers. The five primary types are: Bimodal-mafic, Mafic, Pelitic-mafic, Bimodal 
+felsic and Siliciclastic-felsic; the sixth is a sub-type of Bimodal-felsic with epithermal overprint. Descriptions in 
+the following paragraphs of the five primary types are all taken from Franklin et al (2005); description of the 
+sixth is from Galley et al (2007). 
+
+The Bimodal-mafic type is found in incipient-rifted bimodal volcanic arcs above intra-oceanic subduction 
+zones. Basalt is the dominant rock type, but up to 25% felsic volcanic units can be present. Mafic units are 
+primarily pillowed and massive basalt flows, and in the felsic units flows and domes dominate. Subordinate 
+amounts of felsic and mafic volcaniclastic rock are present, along with minor terrigenous sedimentary units 
+(wacke, sandstone and argillite). Typical examples of this type are found in the Flin Flon area of Manitoba and 
+at Kidd Creek in Ontario. 
+
+
+
+20 
+
+ 
+ 
+
+The Mafic type is found in mature intra-oceanic backarcs dominated by mid-oceanic ridge basalt 
+tholeiitic successions with minor ultramafics and felsics. Synvolcanic mafic dykes are common. Sedimentary 
+rocks are only a minor component of this type, primarily argillite, chert and tuff. Examples of this type can be 
+found in the Norwegian Caledonides, central Newfoundland and Cyprus. Available data about the VMS 
+showings on the Sagvoll property (Åkervollen, Malså and Gaulstad/Mokk) indicates that they are members of 
+this deposit sub-type.  
+
+The Pelitic-mafic type is typically found in mature, basalt-pelite backarc successions in juvenile and 
+accreted arc assemblages. Volume of basalt and pelite is subequal, or pelite is dominant. Mafic sills can form 
+up to 25% of the succession, and where present felsic volcanics form <5% of the rock volume. Sediment types 
+include carbonaceous argillite, subordinate siltstone, wacke and sandstone. Typical examples of this type can 
+be found at Windy Craggy in British Columbia and the Besshi district of Japan.  
+
+The Siliciclastic-felsic type is found in mature epicontinental backarcs; siliciclastic strata constitute 
+~80% of the stratigraphy with the remainder dominated by felsic flows and domes. Minor mafic flows and sills 
+can be present along with chemical and argillaceous sedimentary rocks in the hanging wall. Typical examples 
+of this type can be found in the Iberian Pyrite Belt and in Bathurst, Canada.  
+
+The Bimodal-felsic type occurs in continental margin arcs and related back-arcs; felsic volcanic rocks 
+constitute 35-75% of the strata, with 20-50% basalt and ~10% terrigenous sedimentary units. Both types of 
+volcanic rocks are generally submarine, though some portions may be subaerial. Examples of this type can be 
+found in the Norwegian Caledonides, Skellefte in Sweden and Myra Falls in Canada. 
+
+The final type – hybrid bimodal-felsic – is a subtype of the Bimodal-felsic type that occurs in a similar 
+geologic setting, but with characteristics of both a typical VMS system and a shallow water epithermal system. 
+The Eskay Creek system in British Columbia is an example of this subtype. 
+
+8.2 Magmatic Nickel-Copper Sulphide Deposits 
+Magmatic nickel-copper-platinum group element (PGE) sulphide deposits form as a result of 
+
+segregation and concentration of droplets of liquid sulphide from mafic or ultramafic magma, and portioning of 
+chalcophile elements into these from the silicate magma (Naldrett, 2004a). This deposit type represents a large 
+proportion of global nickel production, and sizable (though less dominant) amounts of copper and PGEs.  
+
+Classification schemes for these deposits vary, with some literature favoring a division based on 
+nickel/copper rations and host rock, while other workers favor a classification based on sulphide content and 
+PGE content. The former scheme assigns mafic-associated deposits with a Ni/Cu ratio of 0.8 – 2.5 to one 
+class, and ultramafic associated deposits with a Ni/Cu ration greater than 3 to a second class (Barnes and 
+Lightfoot, 2005). The latter scheme divides the deposits into sulphide-poor deposits where the primary 
+economic products are PGEs and sulphide-rich deposits where the primary economic products are copper and 
+nickel (Naldrett, 2004b). 
+
+Regardless of the classification scheme used, there are several key characteristics of Ni-Cu-PGE 
+deposits. Nickel and copper are hosted in base metal sulphides, generally an intergrown assemblage of 
+pyrrhotite, pentlandite and chalcopyrite. Magnetite is generally associated with these sulphides, and cobalt, 
+gold and PGEs can be important by-products of these deposits. Sulphides tend to be concentrated in the lower 
+portions of the intrusions or flows in which they occur and in many cases are associated with physical 
+depressions or changes in geometry of the topography of the footwall (Barnes and Lightfoot, 2005). Texture of 
+the sulphide minerals varies from disseminated to massive, depending on the concentration and location within 
+the host intrusion. Massive zones are generally present near the bottom of the magma chambers, though 
+sulphide accumulations can also be found on lateral margins and veins in the country rock.  
+
+An important consideration with regards to metal endowment of magmatic Ni-Cu-PGE systems is that 
+accumulation of metals within the immiscible sulphide droplets is a physical process. The sulphide droplets 
+must physically interact with the silicate melt in order to scavenge the metals which form the deposits. Large 
+volumes of magma are generally required, especially in the case of PGE-rich deposits.  
+
+
+
+21 
+
+ 
+ 
+
+Ni-Cu-PGE deposits are found in a wide variety of geological settings (eg, Voisey's Bay in an anorthosite 
+suite, Norkil'sk in a flood basalt province and Sudbury in a meteorite impact structure), but share several 
+common features. First, the deposits are close to crust-penetrating structures. These faults allow for efficient 
+transport of the magma through crust. Magma must be transferred to the crust with minimal fractionation of 
+olivine or segregation of sulfide liquid (Barnes and Lightfoot, 2005). Second, assimilation of an external source 
+of sulphur (often provided by black shales, paragneiss or evaporites) is important in bringing about sulphide 
+saturation in the magma. Third, the margins of many deposits are marked by magmatic breccias suggesting 
+multiple pulses of intrusion, allowing sulphide droplets to equilibrate with a large volume of turbulent magma. 
+Metal zonation is also common, with copper enrichment found either in footwall dykes and veins or overlying 
+copper-poor zones (Barnes and Lightfoot, 2005). Compositional zoning is thought to be the result of 
+fractionation within the sulphide liquid.  
+
+Available data for the Sagvoll property indicates that mineralization at the Skjækerdalen showing is 
+likely of this deposit class. 
+
+9.0 EXPLORATION 
+Neither EMX nor Norra Metals have conducted sampling or exploration work on the Sagvoll property 
+
+following acquisition of the exploration rights by EMX.  
+As a part of the property inspection, the author visited the Åkervollen area and took a total of four surface 
+
+rock samples, three from bedrock near the Rørosgruben showing (M411355, M411357 & M411358, Table 3) 
+and one from a dump pile near the entrance to the Rørosgruben mine workings (M411356, Figure 6a). These 
+workings consist of a horizontal adit which form a tunnel approximately 50 m running through the base of a 
+ridge; signage near the entrance to this adit suggest there may be additional tunnels branching off from this 
+portal, but this was not verified by the author.  
+
+Visual observation of the outcrops and geochemical analysis of the samples confirm the presence of 
+massive sulphide hosted copper-zinc-lead mineralization at the sites examined. Both weathered and fresh 
+sulphide layers are clearly visible in outcrop (Plates 1 – 3), and separate samples taken from these layers 
+returned up to 3.4% Cu, 5.8% Zn, 3.4% Pb and 92 g/t Ag (Table 3, Figures 6b, 6c). Pyrite was abundant in all 
+samples, and chalcopyrite was noted in the samples which return elevated copper values. Samples were 
+generally elevated in Cu, Cu-Zn or Zn-Pb, but not all three metals. This partitioning of metal content into 
+different portions of the showing is consistent with the standard model of VMS systems, and together with the 
+observation of massive sulphide bands in outcrop indicates that mineralization at the Åkervollen showing is 
+part of a VMS system.  
+
+The scale of this system is potentially significant from an exploration perspective; the samples were 
+taken from an area over 100 m in strike length and nearly 100 m in width; no attempt was made to determine 
+if mineralization continues beyond this footprint. The fact that limonite was visible over much of the exposed 
+bedrock in the area and that mineralized samples were taken from the full extent of this area is quite 
+encouraging, and suggests there is potential for an economically significant mineralized system to be present.  
+
+None of the other showings were examined as part of the author's field visit.  
+  
+
+
+
+22 
+
+ 
+ 
+
+Table 3: 2018 Grab Samples 
+
+Sample ID 
+UTM 
+Zone 
+
+UTM 
+Easting 
+
+UTM 
+Northing 
+
+Elevation 
+(m ASL) 
+
+Cu 
+(%) 
+
+Zn 
+(%) 
+
+Pb 
+(%) 
+
+Ag 
+(ppm) 
+
+Au 
+(ppm) Notes 
+
+M411355 33 352128 7084050 288 3.4 0.1 0.001 13.5 0.075 
+
+Åkervollen showing - Sample 
+chipped from walls of 
+entrance (upper terminus) to 
+the Rørosgruben adit 
+
+M411356 33 352087 7083999 283 3.6 0.8 0.01 17.3 0.119 
+
+Åkervollen showing - Sample 
+taken from dump pile at far 
+end (lower terminus) of the 
+tunnel which forms the 
+Rørosgruben adit 
+
+M411357 33 352142 7083986 289 1.7 5.1 0.04 12.4 0.036 
+
+Åkervollen showing - bedrock 
+sample taken from 
+mineralized outcrop short 
+distance from Rørosgruben 
+adit 
+
+M411358 33 352220 7084026 322 0.6 5.8 3.44 92.2 0.181 
+
+Åkervollen showing - 
+Composite sample of chips 
+taken from various decimeter-
+scale sulphide layers 
+immediately outside mouth of 
+small adit 
+
+ 
+ 
+
+ 
+
+Plate 1: Upper Entrance to Rørosgruben mine showing weathered sulphide mineralization. Sample M411355 taken from 
+this site 
+
+ 
+
+
+
+23 
+
+ 
+ 
+
+ 
+
+Plate 2: Weathered massive sulphides exposed in outcrop at sample site M411358 
+
+
+
+24 
+
+ 
+ 
+
+ 
+
+Plate 3: Closeups of sulphide bands from sample site M411358 
+
+  
+
+
+
+7083800 7083800
+
+7083900 7083900
+
+7084000 7084000
+
+7084100 7084100
+
+7084200 7084200
+
+7084300 7084300
+352000
+
+352000
+
+352100
+
+352100
+
+352200
+
+352200
+
+352300
+
+352300
+
+Norra Metals Corp.
+
+Sagvoll Property
+
+2018 Rock Sample Locations
+
+Scale:
+
+2018 Sample Locations
+
+NGU Mineral Occurences
+
+Legend
+
+modified from NGU (2019)   www.ngu.no
+
+Date: 2019/02/19
+Projection: WGS84 / Zone 33N
+
+6a
+Figure
+
+Åkervollen
+
+
+
+7083800 7083800
+
+7083900 7083900
+
+7084000 7084000
+
+7084100 7084100
+
+7084200 7084200
+
+7084300 7084300
+352000
+
+352000
+
+352100
+
+352100
+
+352200
+
+352200
+
+352300
+
+352300
+
+Norra Metals Corp.
+
+Sagvoll Property
+
+2018 Rock Samples (Cu/Zn)
+
+Scale:
+
+NGU Mineral Occurences
+
+2018 Rocks - Cu (ppm)
+< 1000
+
+1000 - 5000
+
+5000 - 10,000
+
+10,000 - 50,000
+
+> 50,000
+
+2018 Rocks - Zn (ppm)
+< 500
+
+500 - 1000
+
+1000 - 5000
+
+5000 - 10,000
+
+> 10,000
+
+Legend
+
+modified from NGU (2019)   www.ngu.no
+
+Date: 2019/02/26
+Projection: WGS84 / Zone 33N
+
+6b
+Figure
+
+Åkervollen
+
+
+
+7083800 7083800
+
+7083900 7083900
+
+7084000 7084000
+
+7084100 7084100
+
+7084200 7084200
+
+7084300 7084300
+352000
+
+352000
+
+352100
+
+352100
+
+352200
+
+352200
+
+352300
+
+352300
+
+Norra Metals Corp.
+
+Sagvoll Property
+
+2018 Rock Samples (Pb/Ag)
+
+Scale:
+
+NGU Mineral Occurences
+
+2018 Rocks - Pb (ppm)
+< 500
+
+500 - 1000
+
+1000 - 5000
+
+5000 - 10,000
+
+> 10,000
+
+2018 Rocks - Ag (ppm)
+< 5
+
+5 - 10
+
+10 - 25
+
+25 - 50
+
+> 50
+
+Legend
+
+modified from NGU (2019)   www.ngu.no
+
+Date: 2019/02/26
+Projection: WGS84 / Zone 33N
+
+6c
+Figure
+
+Åkervollen
+
+
+
+28 
+
+ 
+ 
+
+10.0 DRILLING 
+Historic reports indicate there was drilling during 1915 at the Skjækerdalen showing, however no 
+
+records exist of position or results of these holes. They are mentioned for historical context only, and have no 
+relevance for the purposes of modern exploration or reporting. 
+
+No other drilling activities have been recorded on the Sagvoll property. 
+ 
+
+11.0 SAMPLE PREPARATION, ANALYSES AND SECURITY 
+All rock sampling described in section 9 of this report was completed personally by the author, with 
+
+samples taken by hand from accessible outcrops and dumps. Sample locations were recorded with a hand-
+help GPS unit. Following collection, samples were placed in individually labelled cloth sample bags and tagged 
+with waterproof paper tags provided by ALS Global. The samples remained in the custody of the author until 
+such time as they were hand delivered by the author to the ALS Global Geochemistry facility in Malå, Sweden.  
+
+Samples were crushed and pulverised at the ALS facility in Malå (ALS method code PREP-31), then 
+subsequently analysed at the ALS Global Geochemistry facility in Loughrea, Ireland. Gold analysis was done 
+via fire assay with an atomic absorption spectroscopy finish (ALS Method Au-AA23); multi-element analysis 
+was performed via Aqua Regia digestion with an ICP-MS finish (ALS Method ME-MS41) with overlimits for Cu, 
+Pb and Zn performed via the ME-OG46 for samples where those elements exceeded the detection limit (10,000 
+ppm) of the ME-MS41 method. All analytical methods (Au-AA23, ME-MS41 & ME-OG46) are listed by ALS as 
+being ISO 17025:2005 accredited.  
+
+The insertion of QA/QC samples was not judged to be required due to the small number of samples 
+collected and the preliminary stage of the exploration program; as such there were no analytical standards or 
+blanks inserted into the sample stream.  
+
+It is the author's opinion that sample preparation, security and analytical procedures are all adequate 
+for the purposes of this report.  
+
+12.0 DATA VERIFICATION 
+The majority of the information contained in this report is from publicly available documents regarding 
+
+the Sagvoll property, and has not been personally verified by the author. All information regarding scope of 
+historical work and geological setting falls into this category. The author has also not personally verified the 
+location of most of the mineral showings or any NGU rock samples.  
+
+However, the Åkervollen site was personally visited by the author, and location, field observations and 
+results of geochemical analysis agree with publicly available information for this showing. The Åkervollen site 
+shows ample evidence for the scope of historic mining indicated by available records; likewise mineralogy and 
+geochemical analyses of the rock samples collected by the author correlate with what would be expected from 
+historic records. GPS locations for these samples have been checked against local topographic features and 
+satellite imagery and found to be consistent. 
+
+Newly obtained and historic data is judged to be of sufficient quality for the purposes of this report. 
+
+13.0 MINERAL PROCESSING AND METALLURGICAL TESTING 
+No mineral processing or metallurgical testwork has been reported on samples from the Sagvoll 
+
+property. 
+
+14.0 MINERAL RESOURCE ESTIMATES 
+No estimates of mineral resources or mineral reserves have been made for the Sagvoll property. 
+
+
+
+29 
+
+ 
+ 
+
+15.0 ADJACENT PROPERTIES 
+The agreement between Norra Metals and EMX (see section 4) covers the Meråker property in addition 
+
+to the Sagvoll property. Meråker is located ~50 km south of Sagvoll and is underlain by similar geology and 
+mineralization. It is also at a similar stage early stage of exploration, and as such there are no results from work 
+on that property which are of specific relevance to the Sagvoll property. The agreement between Norra Metals 
+and EMX also includes two other properties in Norway and Sweden which are underlain by different geology 
+and have no relevance to the Sagvoll property. 
+
+16.0 OTHER RELEVANT DATA AND INFORMATION 
+No other information or explanation is necessary to make this technical report understandable and not 
+
+misleading. 
+
+17.0 INTERPRETATION AND CONCLUSIONS 
+Based on review of historical data and personal examination of the Sagvoll property, it is concluded that 
+
+two distinct styles and settings of massive sulphide mineralization are present: a string of VMS showings within 
+a greenstone unit spanning the entire 20 km strike length of the property (the Åkervollen, Malså and 
+Gaulstad/Mokk areas), and a nickel-copper magmatic sulphide system associated with a composite mafic 
+intrusion on the eastern edge of the property (the Skjækerdalen area). 
+
+The Skjækerdalen showing was not personally examined by the author, and as such all conclusions 
+are based solely on review of publicly available reports. From this review, it is concluded that based on 
+geological setting and historic production of nickel from the area, mineralization at this showing is most likely 
+part of a magmatic sulphide nickel-copper system. Given that this style of mineralization is restricted to the 
+immediate vicinity of its causative mafic intrusions, that no other such bodies are mapped on the property, and 
+that the majority of the causative mafic intrusion is off the Sagvoll property, the potential for similar 
+mineralization to be found elsewhere on the property is limited. However, nickel-rich showings are recorded 
+over approximately 500 m of strike length at Skjækerdalen, meaning that if a sizable system is present at depth 
+then there could be economic potential in the area. Given the sporadic nature of work since mining ceased at 
+this showing over 100 years ago, a re-examination of the surface expression together with collation of historic 
+data is justified.  
+
+Of greater significance is the greenstone belt which forms the core of the property. Historic mapping by 
+the NGU (Wolff, 1976) indicates that this unit is composed of Fondsjø Group metavolcanics; this unit and 
+regional correlatives host an abundance of VMS-style massive sulphide deposits and showings over several 
+hundred kilometres of strike length. The Sagvoll property contains approximately 20 km of strike length of this 
+unit, with three clusters of VMS showings with historic mining (Åkervollen, Malså and Gaulstad/Mokk).  
+
+Of these three, only Åkervollen was examined by the author. Results of this examination confirm what 
+is reported in historical documentation: namely that economically significant quantities of copper, lead and zinc 
+are present in massive sulphide bands at surface (up to 3.6% Cu, 3.4% Pb and 5.8% Zn, from different 
+samples). The footprint of the showing is large enough (50 m x 100 m personally observed, with several 
+hundred meters additional strike length suggested by historic records) to present an attractive early-stage 
+exploration target. Though the other showings were not visited, historical documentation is similar to that from 
+Åkervollen and is judged to be of sufficient quality to indicate that similar massive sulphide showings with 
+significant metal values (>10% Cu and Zn from select samples (NGU, 2019)) are present at these locations as 
+well.  
+
+Given the long history of mining in the area, and satellite imagery which shows relatively good outcrop 
+exposure along the belt, it is unlikely that there are additional large mineralized zones on surface outside of the 
+historically recorded ones. Despite this, the trend presents an attractive exploration target; there has been little 
+to no exploration of these systems to depth, and historic exploration and mining would have been focused 
+exclusively on copper, ignoring the zinc and possibly the precious metal potential of the mineralization. The 
+Malså and Gaulstad showings are larger than the Åkervollen one (2 km and 1.5 km strike length, respectively), 
+
+
+
+30 
+
+ 
+ 
+
+and none of the three have received any systematic modern exploration work. What work has been done has 
+mostly been focussed on small scale ground geophysics and minor rock sampling, with some encouraging 
+results. There has been no modern drilling on any of the prospects, leaving them entirely untested at depth.  
+
+Based on the presence of significant metal values in samples scattered throughout the property, historic 
+mining, geographic extent of documented mineral showings and a dearth of modern exploration work, it is 
+concluded that good potential exists for economically significant mineralization to be present on the Sagvoll 
+property.  
+
+18.0 RECOMMENDATIONS 
+
+18.1 Program 
+As described in section 17.0, it is concluded based on personal examination and data review by the 
+
+author that the Sagvoll property has the potential to host both VMS and magmatic sulphide style deposits. As 
+such two potential phases of additional exploration work are recommended, with advancement to the second 
+phase contingent on positive results from the first.  
+
+18.1.1 Phase 1 Program 
+The recommended first phase involves two parts: a desktop scale compilation of available data and 
+
+subsequent field work to examine and rank the existing showings on the property. 
+The data compilation portion of the work is not expected to require a significant investment of time or 
+
+money; one week of work should be sufficient to collate and georeference the existing geological, geophysical 
+and geochemical maps contained in historic reports. In the cases where geochemical data is available in 
+tabulated form, this data should be entered along with all georeferenced maps into a GIS database.  
+
+Using this compiled GIS database as a guide, the four showing clusters should be visited and examined. 
+The goal of the work should be to create detailed geological maps of the showing areas and to obtain a set of 
+representative rock samples (as opposed to the selective sampling typically done during prospecting-stage 
+work). Satellite imagery suggests that sufficient outcrop is likely present to allow representative chip sampling, 
+though this will have to be confirmed by field personnel. This work should aim to both demonstrate extent and 
+grade of mineralization on surface and to provide geological control on the geometry of mineralization.  A team 
+of three personnel is recommended, with one senior geologist conducting prospect scale mapping and directing 
+work. A junior geologist and assistant would be tasked with collection of grab and chip samples, and outcrop-
+scale mapping of any sampled outcrops. Budget has been allocated for eight days of field time (two at each 
+showing) and 100 rock samples. 
+
+It is also recommended that community engagement be conducted as part of the exploration work, 
+aimed at informing the local community of exploration plans and addressing any concerns arising from those 
+plans. 
+
+Following completion of the first phase, a brief summary report should be compiled by the senior 
+geologist, with ranking of the showings by prospectivity and recommendations as to whether additional work is 
+recommended.  
+
+18.1.2 Phase 2 Program 
+If a second phase is determined to be justified based on results of the data compilation and surface 
+
+work, a program of ~1000 m of diamond drilling is recommended to test the best targets to emerge from the 
+ranking exercise completed as part of the first phase. As the goal of this program would be to test for shallow 
+sub-surface extensions of mineralization present on surface, it is expected that holes will be generally short 
+(100 – 150 m), and therefore it is projected that 7 – 10 drillholes can be completed with the allocated 1000 m 
+total drilling. 
+  
+
+
+
+31 
+
+ 
+ 
+
+18.2 Budget 
+
+18.2.1 Phase 1 Budget 
+A total program budget of ~$53,000 (Table 4)  is recommended to complete the first phase of work 
+
+(surface exploration) outlined in section 18.1.1. 
+
+Table 4: Proposed 2019 Sagvoll Exploration Budget – Phase I 
+
+Sagvoll Data Compilation and Field Program Proposed Budget 
+Analytical    $         7,338  
+Wages   $       21,784  
+Expenses and Supplies   $       10,248  
+Community Engagement   $         5,000  
+Post Field Reporting   $         4,200  
+Contingency   $         4,357  
+Total    $       52,927  
+
+ 
+
+18.2.2 Phase 2 Budget 
+If a second phase of work (1000 m of diamond drilling, as discussed in section 18.1.2) is justified, a 
+
+total budget of ~$415,000 is proposed (Table 5). 
+
+Table 5: Proposed 2019 Sagvoll Exploration Budget - Phase II 
+
+Sagvoll Diamond Drilling Proposed Budget 
+Diamond Drilling    $     241,351  
+Analytical   $       52,580  
+Wages   $       26,550  
+Expenses and Supplies   $       34,378  
+Community Engagement   $       15,000  
+Post Field Reporting   $         8,329  
+Contingency   $       36,319  
+Total    $     414,507  
+
+ 
+ 
+Respectfully submitted, 
+ 
+_(signed) "David Swanton"________________________ 
+David Swanton 
+EQUITY EXPLORATION CONSULTANTS LTD. 
+Vancouver, British Columbia   
+Effective Date: March 12, 2019 
+
+
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Appendix A: References 
+
+ 
+
+
+
+ 
+
+ 
+ 
+
+REFERENCES 
+Barnes, S.-J., and Lightfoot, P. C., 2005, Formation of the Magmatic Nickel Sulphide Deposits and Processes 
+
+Affecting their Copper and Platinum Group Element Contents: Economic Geology, v. 100th Anniversary 
+Volume, p. 179–213. 
+
+Beauddoin, Y., 2006, Report on field work in the Skjaekerdalen area, central Norway: summer 2006: Norwegian 
+Directorate for Mineral Administration BV4832. 
+
+Bollingmo, A., 1985, Undersokeler i Meraker - Verdal: Norwegian Directorate for Mineral Administration BV926. 
+Bollingmo, A., 1986, Undersokelser ved Akervollen Gruve 1985: Norwegian Directorate for Mineral 
+
+Administration BV927. 
+Bølviken, B., 1970, Geokjemisk undersokelse Malsadalen: Norwegian Directorate for Mineral Administration 
+
+BV1770. 
+Braekken, H., Logn, O., and Saether, E., 1958, Forsøksmålinger Skjækerdalen Nikkelforekomster, Verdal: 
+
+Norwegian Directorate for Mineral Administration BV6889. 
+Dahl, O., 1967, Maliner og bergarter i området Malså - Mok: Norwegian Directorate for Mineral Administration 
+
+BV5632. 
+Dalsegg, E., and Elvebakk, H., 1996, Geofyskiske malinger Malsa Gruve: Norwegian Geological Survey 
+
+96.003. 
+Dalsegg, E., and Elvebakk, H., 1997, TFEM-malinger Storgaulstadhogda og Mokk: Norwegian Geological 
+
+Survey 97.001. 
+Dalsegg, E., and Lauritsen, T., 1995, CP - og magnetiske malinger ved Masla og Akervollen Gruver: Norwegian 
+
+Geological Survey 95.003. 
+Directorate of Mineral Management, N., 2019, Investigations for state minerals, (https://dirmin.no/tema/statens-
+
+mineraler/undersokelser-etter-statens-mineraler). 
+Eidsvig, P., 1970, Geofysiske målinger Skjækerdalen, Verdal: Norwegian Directorate for Mineral Administration 
+
+BV1773. 
+Eidsvig, P., 1972, Vertikalsondering med indusert polarisasjon og ledningsevne Skjærkerdalen, Verdal, Nord - 
+
+Trøndelag: Norwegian Directorate for Mineral Administration BV1735. 
+Elvebakk, H., and Dalsegg, E., 1996, Gefysiske malinger Akervollen gruve, Verdal, Nord - Trondelag: 
+
+Norwegian Geological Survey 96.004. 
+Franklin, J. M., Gibson, H. L., Jonasson, I. R., and Galley, A. G., 2005, Volcanogenic massive sulfide deposits, 
+
+in Hedenquist, J. W. ed., Economic Geology 100th anniversary volume: The Economic Geology 
+Publishing Company, p. 523–560. 
+
+Galley, A. G., Hannington, M. D., and Jonasson, I. R., 2007, Volcanogenic massive sulphide deposits, in 
+Goodfellow, W. D. ed., Mineral deposits of Canada: A synthesis of major deposit-types, district 
+metallogeny, the evolution of geological provinces, and exploration methods: Geological Association of 
+Canada, Mineral Deposits Division, p. 141–161. 
+
+Grenne, T., Hertogen, J., Solli, A., Birkeland, A., Erichsen, E., and Sandstad, J., 1995, The sequential 
+development of magmatic and ore-forming processes in the Fundsjo Group, Meraker district, Central 
+Norway: NGU Bulletin, v. 427, p. 4. 
+
+Lieungh, B., 1977, Geological report of the Skkekerdalen - Helgådalen area with special respect to the 
+Dyrhaugen Gabbro breccia and Ni-deposit: Norwegian Directorate for Mineral Administration BV1000. 
+
+Mogaard, J. O., 2006, Data Acquisition and Processing - I lelieopter Geophysical Survey. Sjaekerdalen. 2006. 
+Nord- Troendelag county, Norway: Norwegian Geological Survey 2006.041. 
+
+Naldrett, A., 2004a, Magmatic Sulfide Deposits: Geology, Geochemistry and Exploration: Springer Verlaag, 
+728 p. 
+
+Naldrett, A. J., 2004b, Magmatic Sulfide Deposits: Geology, Geochemistry and Exploration: Springer Science 
+& Business Media, 744 p. 
+
+NGU, 2019, Norwegian Geological Survey - Mineral Resources Dataset, 
+(http://geo.ngu.no/download/order?lang=en&dataset=500). 
+
+Norra Metals Corp, 2018, Norra Metals News Release - December 13, 2018: 
+Roe, G., 1995, Levanger og Verdalsomradet. Akervollen - Malsa - Skjakerdalen  - Tromsdalen - Tingstad. 
+
+Geologi, gruve og hyttredrift: Norwegian Directorate for Mineral Administration BV4581. 
+
+
+
+ 
+
+ 
+ 
+
+Røsholt, B., and Wilberg, R., 2001, Exploration in Meråker North-Eastern Ore Field, Røros, Norway: Norwegian 
+Directorate for Mineral Administration BV4808. 
+
+Sandvik, S., and Klevan, O., 2019, Transfer of Exploration Permits from Eurasian Minerals Sweden AB to OK2 
+Minerals Ltd - Legal Opinion: 
+
+Skilbrei, J., 1994, Helikoptermålinger i Vuku-området, Steinkjer og Verdal kommuner, Nord-Trøndelag | Norges 
+Geologiske Undersøkelse: Norwegian Geological Survey 93.104, accessed February 8, 2019, at 
+https://www.ngu.no/en/publikasjon/helikopterm-linger-i-vuku-omr-det-steinkjer-og-verdal-kommuner-
+nord-tr-ndelag. 
+
+Tørnqvist, G., and Hallin, G., 1963, Utlåtande øver elektromagnetiska markmetningar vid Malsådalen, 
+Skorovas och Lierne i Nord-Trøndelag fylke, Norge: Norwegian Directorate for Mineral Administration 
+BV1784. 
+
+Wolff, F., 1976, Geologisk kart over Norge, berggrunnskat Trondheim 1:250,000: 
+Wolff, F., 1977, Geologisk kart over Norge, berggrunnskat Ostersund 1:250,000: 
+
+  
+
+
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Appendix B: Qualified Person's Certificate 
+
+  
+
+
+
+ 
+
+ 
+ 
+
+QUALIFIED PERSON'S CERTIFICATE 
+I, David Swanton, P.Geo., do hereby certify: 
+ 
+THAT I am a Professional Geologist with offices at 1510-250 Howe Street, Vancouver, BC and reside at 2691 
+
+Maryport Ave, Cumberland, BC. 
+THAT I am the author of the Technical Report entitled "2018 Technical (N.I. 43-101) Report on the Sagvoll 
+
+Property" with an effective date of March 12, 2019, relating to the Sagvoll property (the "Technical 
+Report"). I am responsible for all items within it.  
+
+THAT I am a member in good standing of the Association of Professional Geoscientists of Nova Scotia 
+(Membership #199) and of the Association of the Professional Geoscientists of Ontario (Membership 
+#2748). 
+
+THAT I graduated from the Acadia University with a Master Degree (Science) in geology in 2010, and have 
+been active in the mineral exploration industry since 2006. 
+
+THAT since 2006, I have been involved in mineral exploration for gold, silver, copper, lead, zinc, nickel and 
+rare earth elements in British Columbia, Yukon Territory, Nunavut, Ontario, Quebec, Armenia, Norway 
+and Sweden. 
+
+THAT I am a Senior Project Geologist with Equity Exploration Consultants Ltd., a geological consulting and 
+contracting firm, and have been an employee of the firm since 2010. 
+
+THAT I have read the definition of "independence" set out in Part 1.5 of National Instrument 43-101 ("NI 43-
+101") and certify that I am independent of Norra Metals and EMX Royalties. 
+
+THAT I have examined the property which is the subject of the Technical Report in the field (November 22, 
+2018) and that I have had no prior involvement with that property. 
+
+THAT I have read the definition of "qualified person" set out in National Instrument 43-101 ("NI 43-101") and 
+certify that by reason of my education, affiliation with a professional association (as defined in NI 43-
+101) and past relevant work experience, I fulfill the requirements to be a "qualified person" for the 
+purposes of NI 43-101. 
+
+THAT as of the effective date of the Technical Report, to the best of my knowledge, information and belief, this 
+Technical Report contains all scientific and technical information that is required to be disclosed to make 
+the Technical Report not misleading. 
+
+THAT I have read National Instrument 43-101 and Form 43-101F1, and the Technical Report has been 
+prepared in compliance with that instrument and form. I am responsible for the entire content of this 
+report.  
+
+THAT I consent to the filing of the Technical Report with any stock exchange and other regulatory authority 
+and any publication by them for regulatory purposes, including electronic publication in the public 
+company files on their websites accessible by the public, of the Technical Report. 
+
+ 
+Dated at Vancouver, British Columbia, with effective date of March 12, 2019: 
+ 
+
+ 
+"signed and sealed" 
+
+_____________________ 
+David Swanton, P.Geo. 
+ 
+
+ 
+
+
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Appendix C: Analytical Certificate 
+
+ 
+
+
+
+ALS CODE DESCRIPTION
+
+WEI- 21 Received Sample Weight
+LOG- 22 Sample login -  Rcd w/o BarCode
+CRU- QC Crushing QC Test
+PUL- QC Pulverizing QC Test
+CRU- 31 Fine crushing  -  70% < 2mm
+SPL- 21 Split sample -  riffle splitter
+PUL- 31 Pulverize split to 85% <75 um
+
+ALS CODE DESCRIPTION INSTRUMENT
+
+ME- OG46 ICP- AESOre Grade Elements -  AquaRegia
+Cu- OG46 Ore Grade Cu -  Aqua Regia
+Pb- OG46 Ore Grade Pb -  Aqua Regia
+Zn- OG46 Ore Grade Zn -  Aqua Regia
+Au- AA23 AASAu 30g FA- AA finish
+ME- MS41 Ultra Trace Aqua Regia ICP- MS
+
+This report is for 10 Rock samples submitted to our lab in Mala, Sweden on 
+26- NOV- 2018.
+
+Project: Not Provided
+
+The following have access to data associated with this certificate:
+DAVE SWANTON
+
+To:ALS Scandinavia AB
+
+Hammarvagen 22
+SE- 943 36, Ojebyn
+Phone: +46 911 65 800       Fax: + 46 911 60 085
+www.alsglobal.com/geochemistry
+
+This is the Final Report and supersedes any preliminary report with this certificate number.  Results apply to samples as 
+submitted.  All pages of this report have been checked and approved for release. 
+
+Andrey Tairov, Technical Manager, Ireland***** See Appendix Page for comments regarding this certificate *****
+Comments: Samples and the SSF/Request were received on 26- Nov- 2018.
+
+An INAB accredited testing laboratory Reg. No. 173T. Accredited methods are 
+listed in the Scope of Accreditation available on request.
+
+
+
+ALS Scandinavia AB
+
+Hammarvagen 22
+SE- 943 36, Ojebyn
+Phone: +46 911 65 800       Fax: + 46 911 60 085
+www.alsglobal.com/geochemistry
+
+To:
+
+Project: Not ProvidedAn INAB accredited testing laboratory Reg. No. 173T. Accredited methods are 
+listed in the Scope of Accreditation available on request.
+
+WEI- 21 Au- AA23 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41
+
+Recvd Wt. Au Ag Al As Au B Ba Be Bi Ca Cd Ce Co Cr
+
+kg ppm ppm % ppm ppm ppm ppm ppm ppm % ppm ppm ppm ppm
+
+0.02 0.005 0.01 0.01 0.1 0.02 10 10 0.05 0.01 0.01 0.01 0.02 0.1 1
+
+M411351 2.31 0.056 1.85 0.33 8.5 0.03 <10 10 <0.05 25.9 0.46 >1000 2.71 2.0 9
+M411352 1.37 0.011 6.96 0.85 3.2 <0.02 <10 20 0.05 54.4 0.39 163.5 15.20 276 29
+M411353 1.63 0.094 38.1 0.53 3.0 0.10 <10 50 0.08 41.5 0.33 90.8 6.45 326 19
+M411354 1.53 0.045 5.42 1.53 2.4 0.04 <10 60 0.11 5.49 0.20 6.30 22.5 52.2 58
+M411355 0.95 0.075 13.50 1.93 219 0.05 <10 <10 0.15 5.45 0.24 4.90 3.50 452 11
+
+M411356 1.55 0.119 17.30 0.20 99.5 0.04 <10 <10 <0.05 14.95 0.12 31.7 0.37 182.0 4
+M411357 1.08 0.036 12.40 0.18 51.4 0.04 <10 <10 <0.05 16.05 0.09 164.0 0.59 89.1 3
+M411358 1.00 0.181 92.2 0.08 280 0.12 <10 10 <0.05 131.5 0.05 171.0 0.32 19.6 4
+M411359 1.10 0.320 71.7 0.67 263 0.21 <10 20 0.24 186.5 0.30 179.0 35.7 99.6 5
+M411360 1.59 0.068 4.26 0.02 589 <0.02 <10 <10 <0.05 6.18 <0.01 256 7.58 29.8 3
+
+Comments: Samples and the SSF/Request were received on 26- Nov- 2018.
+
+***** See Appendix Page for comments regarding this certificate *****
+
+
+
+ALS Scandinavia AB
+
+Hammarvagen 22
+SE- 943 36, Ojebyn
+Phone: +46 911 65 800       Fax: + 46 911 60 085
+www.alsglobal.com/geochemistry
+
+To:
+
+Project: Not ProvidedAn INAB accredited testing laboratory Reg. No. 173T. Accredited methods are 
+listed in the Scope of Accreditation available on request.
+
+ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41
+
+Cs Cu Fe Ga Ge Hf Hg In K La Li Mg Mn Mo Na
+
+ppm ppm % ppm ppm ppm ppm ppm % ppm ppm % ppm ppm %
+
+0.05 0.2 0.01 0.05 0.05 0.02 0.01 0.005 0.01 0.2 0.1 0.01 5 0.05 0.01
+
+M411351 <0.05 1670 8.22 40.2 0.27 0.07 3.00 38.3 <0.01 0.9 0.4 0.39 540 15.20 <0.01
+M411352 0.49 5510 29.3 3.83 0.68 0.06 1.67 12.70 0.08 6.8 5.2 0.78 242 2.29 0.02
+M411353 1.12 >10000 33.3 5.88 0.86 0.06 1.82 7.17 0.23 2.9 4.6 0.46 228 3.31 0.02
+M411354 0.94 >10000 10.25 6.14 0.28 0.08 0.09 1.945 0.38 10.2 6.5 1.14 468 1.85 0.03
+M411355 0.05 >10000 16.55 8.77 0.45 0.17 1.41 1.015 <0.01 1.1 3.9 2.30 308 8.76 0.01
+
+M411356 <0.05 >10000 23.1 1.18 0.53 <0.02 1.77 1.425 <0.01 <0.2 0.6 0.33 50 12.05 0.01
+M411357 <0.05 >10000 15.40 1.11 0.34 0.04 9.96 1.170 <0.01 0.2 0.3 0.48 99 15.85 0.01
+M411358 <0.05 6240 27.0 10.90 0.76 0.02 11.10 0.370 <0.01 <0.2 0.3 0.20 137 6.72 0.01
+M411359 1.84 5560 29.6 3.62 0.70 0.28 3.59 25.8 0.41 18.1 7.2 0.45 161 1.46 0.02
+M411360 <0.05 1050 27.5 1.53 0.49 0.03 11.55 14.55 0.01 2.8 0.2 0.01 126 2.07 0.01
+
+Comments: Samples and the SSF/Request were received on 26- Nov- 2018.
+
+***** See Appendix Page for comments regarding this certificate *****
+
+
+
+ALS Scandinavia AB
+
+Hammarvagen 22
+SE- 943 36, Ojebyn
+Phone: +46 911 65 800       Fax: + 46 911 60 085
+www.alsglobal.com/geochemistry
+
+To:
+
+Project: Not ProvidedAn INAB accredited testing laboratory Reg. No. 173T. Accredited methods are 
+listed in the Scope of Accreditation available on request.
+
+ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41
+
+Nb Ni P Pb Rb Re S Sb Sc Se Sn Sr Ta Te Th
+
+ppm ppm ppm ppm ppm ppm % ppm ppm ppm ppm ppm ppm ppm ppm
+
+0.05 0.2 10 0.2 0.1 0.001 0.01 0.05 0.1 0.2 0.2 0.2 0.01 0.01 0.2
+
+M411351 0.05 8.0 10 84.3 0.1 <0.001 >10.0 0.06 0.8 7.4 3.3 5.8 <0.01 0.59 <0.2
+M411352 0.08 62.4 140 2410 4.0 0.001 8.50 0.14 2.8 66.9 0.6 4.7 <0.01 9.48 2.9
+M411353 0.19 45.9 70 1710 14.0 0.001 >10.0 0.57 2.5 89.0 14.4 3.9 <0.01 7.69 1.5
+M411354 0.20 29.2 580 117.0 15.8 <0.001 4.81 0.08 2.9 38.9 2.6 6.7 <0.01 3.59 6.1
+M411355 0.12 6.8 360 8.6 0.1 0.001 >10.0 0.26 3.0 59.8 0.8 1.9 <0.01 1.60 0.2
+
+M411356 0.05 8.8 150 84.3 <0.1 0.002 >10.0 0.30 0.1 70.1 1.1 0.6 <0.01 6.13 <0.2
+M411357 <0.05 3.4 220 394 0.1 0.002 >10.0 0.49 0.1 53.9 2.3 1.6 <0.01 2.77 <0.2
+M411358 0.05 3.9 80 >10000 0.1 0.003 >10.0 3.94 0.2 162.0 16.0 1.4 <0.01 23.1 <0.2
+M411359 2.00 5.6 50 >10000 27.0 0.001 >10.0 76.1 0.5 46.6 27.7 2.6 0.01 0.24 8.2
+M411360 0.09 30.6 <10 7560 0.5 0.002 >10.0 16.45 0.1 1.2 7.7 <0.2 <0.01 0.08 0.8
+
+Comments: Samples and the SSF/Request were received on 26- Nov- 2018.
+
+***** See Appendix Page for comments regarding this certificate *****
+
+
+
+ALS Scandinavia AB
+
+Hammarvagen 22
+SE- 943 36, Ojebyn
+Phone: +46 911 65 800       Fax: + 46 911 60 085
+www.alsglobal.com/geochemistry
+
+To:
+
+Project: Not ProvidedAn INAB accredited testing laboratory Reg. No. 173T. Accredited methods are 
+listed in the Scope of Accreditation available on request.
+
+ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 ME- MS41 Cu- OG46 Pb- OG46 Zn- OG46 CRU- QC PUL- QC
+
+Ti Tl U V W Y Zn Zr Cu Pb Zn Pass2mm Pass75um
+
+% ppm ppm ppm ppm ppm ppm ppm % % % % %
+
+0.005 0.02 0.05 1 0.05 0.05 2 0.5 0.001 0.001 0.001 0.01 0.01
+
+M411351 0.006 0.03 1.47 15 0.14 0.86 >10000 1.9 >30.0 97.9 94.0
+M411352 0.013 0.91 0.66 28 0.15 4.61 >10000 2.3 9.09
+M411353 0.031 1.35 0.48 23 0.38 1.86 >10000 1.7 8.67 5.03
+M411354 0.069 1.29 1.21 33 0.13 5.54 3040 2.2 1.810
+M411355 0.034 0.10 0.13 31 0.07 4.17 982 6.6 3.39
+
+M411356 <0.005 0.12 0.09 3 <0.05 0.29 7930 <0.5 3.56
+M411357 <0.005 0.31 0.94 2 <0.05 0.61 >10000 1.5 1.700 5.09
+M411358 <0.005 2.91 0.30 3 0.05 0.35 >10000 1.2 3.44 5.78
+M411359 0.019 24.7 6.78 13 0.19 13.80 >10000 7.0 3.39 5.62
+M411360 <0.005 2.00 0.91 2 0.06 1.02 >10000 0.5 9.31
+
+Comments: Samples and the SSF/Request were received on 26- Nov- 2018.
+
+***** See Appendix Page for comments regarding this certificate *****
+
+
+
+ALS Scandinavia AB
+
+Hammarvagen 22
+SE- 943 36, Ojebyn
+Phone: +46 911 65 800       Fax: + 46 911 60 085
+www.alsglobal.com/geochemistry
+
+To:
+
+Project: Not ProvidedAn INAB accredited testing laboratory Reg. No. 173T. Accredited methods are 
+listed in the Scope of Accreditation available on request.
+
+Gold determinations by this method are semi- quantitative due to the small sample weight used (0.5g).
+ME- MS41Applies to Method:
+
+The methods immediately below this line are ISO 17025:2005 Accredited. INAB Registration No: 173T
+Au- AA23Applies to Method: ME- MS41 ME- OG46
+
+Processed at ALS Loughrea located at Dublin Road, Loughrea, Co. Galway, Ireland.
+Au- AA23Applies to Method: Cu- OG46 ME- MS41 ME- OG46
+Pb- OG46 Zn- OG46
+
+Processed at ALS Mala located at Fabriksgatan 1, 930 70 Malå, Sweden.
+CRU- 31Applies to Method: CRU- QC LOG- 22 PUL- 31
+PUL- QC SPL- 21 WEI- 21
+
+
+	TABLE OF CONTENTS
+	LIST OF APPENDICES
+	LIST OF TABLES
+	LIST OF FIGURES
+	LIST OF PLATES
+	5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE, PHYSIOGRAPHY
+	5.1 Accessibility
+	5.2 Local Resources and Infrastructure
+	5.3 Physiography and Climate
+
+	6.0 HISTORY
+	7.0 GEOLOGICAL SETTING AND MINERALIZATION
+	7.1 Regional Geology and Mineralization
+	7.2 Property Geology and Mineralization
+	7.3 Significant Showings
+	7.3.1 Åkervollen
+	7.3.2 Malså
+	7.3.3 Gaulstad/Mokk
+	7.3.4 Skjækerdalen
+
+
+	8.0 DEPOSIT TYPES
+	8.1 Volcanogenic Massive Sulphide (VMS)
+	8.2 Magmatic Nickel-Copper Sulphide Deposits
+
+	9.0 EXPLORATION
+	10.0 DRILLING
+	11.0 SAMPLE PREPARATION, ANALYSES AND SECURITY
+	12.0 DATA VERIFICATION
+	13.0 MINERAL PROCESSING AND METALLURGICAL TESTING
+	14.0 MINERAL RESOURCE ESTIMATES
+	15.0 ADJACENT PROPERTIES
+	16.0 OTHER RELEVANT DATA AND INFORMATION
+	17.0 INTERPRETATION AND CONCLUSIONS
+	18.0 RECOMMENDATIONS
+	18.1 Program
+	18.1.1 Phase 1 Program
+	18.1.2 Phase 2 Program
+
+	18.2 Budget
+	18.2.1 Phase 1 Budget
+	18.2.2 Phase 2 Budget
+
+
+	REFERENCES
+	QUALIFIED PERSON'S CERTIFICATE
+
+'

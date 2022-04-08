@@ -1,0 +1,3086 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Technical Report July 20 2010 _FINAL_ _August 4 20
+
+
+TECHNICAL REPORT ON THE ONDUNDU GOLD
+PROJECT - EPL3195, NAMIBIA
+
+NI 43-101 REPORT
+
+PREPARED FOR WESTPORT RESOURCES NAMIBIA (PTY) LTD
+
+and
+
+GOLCONDA CAPITAL CORP.
+
+PREPARED BY: D J BOYACK, FAusIMM
+INDEPENDENT CONSULTANT GEOLOGIST
+
+March 2010 and Revised July 20, 2010
+
+
+
+2 | P a g e
+
+Contents
+1 SUMMARY............................................................................................................................................ 4
+
+2 INTRODUCTION AND TERMS OF REFERENCE ............................................................................... 6
+
+2.1 Qualified Person and Site Visit ....................................................................................................... 7
+
+2.2 Effective Dates ............................................................................................................................... 7
+
+2.3 Previous Technical Reports ............................................................................................................ 7
+
+2.4 Sources of Data .............................................................................................................................. 8
+
+2.5 Technical Report Sections and Required Items under NI 43-101 ..................................................... 8
+
+3 RELIANCE ON OTHER EXPERTS ....................................................................................................... 9
+
+4 PROPERTY DESCRIPTION AND LOCATION..................................................................................... 9
+
+4.1 Location ......................................................................................................................................... 9
+
+4.2 Property and Title in Namibia....................................................................................................... 11
+
+4.3 Surface Rights Title...................................................................................................................... 11
+
+4.4 Permitting..................................................................................................................................... 12
+
+4.5 Current Tenure ............................................................................................................................. 14
+
+4.6 Environmental Liabilities.............................................................................................................. 14
+
+4.7 Royalties ...................................................................................................................................... 14
+
+4.8 Mineralized Zones........................................................................................................................ 15
+
+5 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND PHYSIOGRAPHY
+............................................................................................................................................................. 15
+
+6 HISTORY ............................................................................................................................................. 18
+
+7 GEOLOGICAL SETTING .................................................................................................................... 22
+
+7.1 Regional Geology......................................................................................................................... 22
+
+7.2 Property geology .......................................................................................................................... 26
+
+8 DEPOSIT TYPE ................................................................................................................................... 27
+
+8.1 Quartz Vein Hosted Gold Mineralisation Victoria, Australia......................................................... 28
+
+8.2 Bendigo........................................................................................................................................ 28
+
+8.3 Stawell ......................................................................................................................................... 30
+
+8.4 Fosterville .................................................................................................................................... 31
+
+8.5 Castlemaine.................................................................................................................................. 32
+
+9 MINERALISATION ............................................................................................................................. 33
+
+9.1 Ondundu Main Zone (OMZ) Au quartz-carbonate veins ............................................................... 34
+
+9.2 Ondundu North Cu/Au (Zebraberg) – OD6 Grid ........................................................................... 39
+
+10 EXPLORATION................................................................................................................................... 41
+
+10.1 Exploration work 2005-2006 conducted by Westport .................................................................... 41
+
+10.2 Exploration work 2007-2009 conducted by Westport .................................................................... 47
+
+11 DRILLING............................................................................................................................................ 51
+
+12 SAMPLING METHODS AND APPROACH ........................................................................................ 56
+
+13 SAMPLE PREPARATION AND ANALYSIS AND SECURITY ......................................................... 58
+
+14 DATA VERIFICATION ....................................................................................................................... 61
+
+
+
+3 | P a g e
+
+15 ADJACENT PROPERTIES .................................................................................................................. 63
+
+16 MINERAL RESOURCE & RESERVE ESTIMATES............................................................................ 63
+
+17 MINERAL PROCESSING.................................................................................................................... 63
+
+18 OTHER RELEVANT DATA AND INFORMATION ........................................................................... 63
+
+19 INTERPRETATION AND CONCLUSIONS ........................................................................................ 63
+
+20 RECOMMENDATIONS....................................................................................................................... 65
+
+20.1 Phase 1 - OMZ Resource Drilling ................................................................................................. 65
+
+Phase 1 - OD6 (Core of the Ondundu Anticlinorium)................................................................................. 65
+
+20.2 Phase 2 – OMZ bulk pre-feasibility sampling (Contingent on results of Phase 1) .......................... 66
+
+21 REFERENCES...................................................................................................................................... 67
+
+22 DATE AND SIGNATURE PAGE......................................................................................................... 70
+
+23 ADDITIONAL REQUIREMENTS FOR TECHNICAL REPORTS ON DEVELOPMENT PROPERTIES
+AND PRODUCTION PROPERTIES .................................................................................................... 70
+
+Certificate of Qualified Person ...................................................................................................................... 71
+
+Consent of Author......................................................................................................................................... 72
+
+List of Figures
+Figure 4-1: Ondundu project location ...................................................................................................... 10
+Figure 4-2: Exclusive Prospecting Licence 3195.................................................................................... 11
+Figure 5-1: Exclusive Prospecting Licence 3195.................................................................................... 16
+Figure 7-1: Regional Tectonic Framework - Southwest Africa (After Borg et al, 2003) ...................... 23
+Figure 7-2: Ondundu Regional Geology.................................................................................................. 24
+Figure 8-1: Castlemaine Gold Showing N-S Anticlinal Orientation ....................................................... 33
+Figure 9-1: Conformable Quartz Carbonate Vein Hole OD038............................................................. 34
+Figure 9-2: EPL3195 – OMZ Schematic Surface Geology and Prospectivity...................................... 35
+Figure 9-3: Ondundu Hyperspectral Data (Westport Resources Namibia) .......................................... 36
+Figure 9-4: Ondundu Geological Map ..................................................................................................... 38
+Figure 10-1: 2005 Confirmation Sampling ............................................................................................... 42
+Figure 10-2: OD6 and OMZ areas relative to the Hyperspectral Anomalies – Muscovite .................. 43
+Figure 10-3: OD6 and OMZ areas relative to the Hyperspectral Anomalies – Tourmaline ................ 44
+Figure 10-4: Stream Sediment Locations and Results .......................................................................... 46
+Figure 10-5: Ondundu Total Count Ground Spectrometry and VLF ..................................................... 49
+Figure 10-6: Ondundu Ground Magnetics and VLF ............................................................................... 50
+Figure 11-1: EPL3195 - Ondundu Schematic Cross Section – 141100 ............................................... 53
+Figure 11-2: EPL3195 - Ondundu Schematic Cross Section – 140170 ............................................... 54
+Figure 11-3: EPL3195 - Ondundu Schematic Cross Section – 139900 ............................................... 55
+
+List of Tables
+Table 4-1: Coordinates of EPL 3195 (Westport Resources Namibia) ................................................... 9
+Table 6-1: EPL3195 Ondundu Summary of TCL Diamond Drillhole Assay Results .......................... 19
+Table 6-2: Summary Historic 'resource' comparison (Westport Resources Namibia) ...................... 20
+Table 6-3: Gold Sizing Distribution (Mintek - Southern Cross NL - Fiala, 1999) ................................ 21
+Table 10-1: Confirmation Assay Results ................................................................................................. 41
+Table 10-2: EPL3195 Ondundu Surface Trench Summary Results (Westport Resources Namibia)
+..................................................................................................................................................................... 47
+Table 11-1: 2006 Diamond Drill Holes Summary ................................................................................... 51
+Table 13-1: Laboratory Assay Comparison (Venter and Carter, 1983) ................................................ 59
+Table 20-1: Ondundu Gold Project – Phase One Budget...................................................................... 66
+Table 20-2: Ondundu Gold Project – Phase Two Budget...................................................................... 67
+
+
+
+4 | P a g e
+
+1 SUMMARY
+
+Donald Boyack, consulting exploration geologist and fellow of the Australasian Institute of
+Mining and Metallurgy was commissioned by Westport Resources Namibia (Pty) Ltd.
+("Westport"), a wholly owned subsidiary of Toronto Stock Exchange listed Forsys Metals
+Corp. ("Forsys"), and Golconda Capital Corp. ("Golconda") to provide an independent
+Qualified Person's Review and Technical Report ("Report") for the Ondundu gold project
+("the Project") located in Namibia.
+
+Forsys indirectly holds 100% of the 19,969 hectare Ondundu gold project, which is
+comprised of an Exclusive Prospecting Licence ("EPL") 3195 issued by the Republic of
+Namibia Ministry of Mines and Energy. EPL 3195 was awarded to Omajete Mining
+Company (Nambia) (Pty) Ltd. ("OM") in 2003 and Westport acquired 100% of OM in 2007.
+EPL 3195 is currently in good standing until May 29, 2011. Namibia has a stable, mining-
+friendly democratically elected Government. Mining presently accounts for about 20% of the
+Country's gross domestic product and the mining industry employs 3% of the population.
+
+Through a letter of intent dated May 6, 2010 and amended May 31, 2010, Golconda
+("Golconda") acquired the arm's length right to earn up to a 75% interest in the Project from
+Forsys via an amalgamation with Angus Mining (Namibia) Ltd. ("Angus"). Angus has the
+right to earn up to a 75% interest in the Project by earning into OM, which is the holding
+entity for the Project. Under the agreement, Angus must spend US$5 million in exploration
+on the Project on or before November 6, 2011 and issue 3 million Angus common shares
+and 3 million Angus common share purchase warrants exercisable at C$0.35 in the first
+year and C$0.50 in the second year to earn an initial 50.1% interest. Angus can then elect to
+earn an additional 24.9% interest in the Project by spending an additional US$6 million in
+exploration on the Project and completing a bankable feasibility study by November 6, 2012.
+Should Angus elect to earn the additional 24.9%, Westport retains a 1% net smelter royalty
+on all gold production from the Project. Angus is Project operator. Golconda is a capital pool
+company and intends for the Proposed Acquisition to constitute the Qualifying Transaction
+of the Corporation as such terms is defined in the policies of the TSX Venture Exchange.
+
+The Ondundu project is located in north-central Namibia approximately 242 km via paved
+road from the capital city of Windhoek to the town of Omaruru and then 104 km via a dirt
+road from Omaruru to the Project. The total driving time from Windhoek is 3.5 hours. The
+area is characterized by undulating to hilly topography with an average elevation of 1,000
+metres above sea level. A 220 KV electrical power line runs 15 km east of the Project.
+
+Regionally, the Ondundu project is situated in the Outjo Zone (Swakop Group) of the upper
+Proterozoic Pan African Damara Orogen, occupying the palaeo-eugeosynclinal facies of the
+southern Congo-Kasai Craton margin, to the immediate south of the Otavi Platform.
+
+The geology of the Project comprises Neo-Proterozoic Kuiseb Formation rocks of the Upper
+Swakop Group represented as a monotonous succession of argillaceous and arenaceous
+lithologies.
+
+Gold mineralization on the Project was first discovered in 1917 and intermittent underground
+plus alluvial mining took place from 1923 to 1945. Modern day exploration began in the
+1980s when Tsumeb Corporation Limited ("TCL") and Goldfields Namibia Ltd. ("GFN")
+completed 28 diamond drill holes totalling 5,583 metres in the Ondundu Main zone ("OMZ").
+
+
+
+5 | P a g e
+
+In 1983 a historic resource estimate of 42 million tonnes grading 0.39 gram gold per tonne
+was produced by TCL, in 1987 a historic resource of 4.57 million tonnes grading 3.39 grams
+gold per tonne was reported by GFN and in 1989 a historic resource of 4.35 million tonnes
+grading 3.19 grams gold per tonne was reported by GFN. These resources are historical
+and not compliant with National Instrument 43-101 reporting standards; however they are
+considered material to the prospectivity of the Ondundu gold project. A "qualified person" for
+the purposes of NI 43-101 has not done sufficient work to qualify the historical estimate as
+current mineral resources or mineral reserves. The historical estimates should not be
+treated as current mineral resources or mineral reserves and the historical estimates
+contained herein should not be relied upon.
+
+In 1999 a joint venture between Keadeber Resources (Pty) Ltd (75%) and Southern Cross
+Exploration (25%) completed a 600 kg bulk sample of mineralized material from the OMZ.
+The sample was submitted to the mineral processing division of Mintek Laboratories in
+Johannesburg. The sizing distribution analysis indicates that the gold occurs predominantly
+in the coarser size ranges, i.e. +250µm. Approximately 11% of the gold occurs in the -25µm.
+
+In 2005-2006, Westport completed verification and systematic rock chip sampling,
+hyperspectral surveys and drilled eleven diamond drill holes totalling 524.7 metres.
+
+In 2007-2008, Westport focused on the potential strike extent of the previously identified
+mineralization of the OMZ by collecting 3,431 trench channel samples from 18 trenches.
+Over the entire Project, a total of 23 trenches were sampled covering an area of 7,000
+metres long by 250-300 metre wide.
+
+In 2009, detailed ground geophysical surveys (ground magnetics and ground spectrometry)
+identified anomalies in the southeast, northwest, east and west of the OMZ that are
+indicative of further resource expansion potential.
+
+Westport acquired 100% of OM in a two stage earn-in process, first through the acquisition
+of 32% and then 68%, which included issuing 500 000 ordinary common shares and a cash
+portion of C$ 50,000. Westport completed the acquisition in 2007 and has since spent in
+excess of US$400,000 exploring the Project.
+
+Exploration work to date has largely focussed on the OMZ area where gold mineralization is
+confined to bedding within conformable glassy grey laminated quartz-carbonate veins.
+Accessory minerals include pyrite, arsenopyrite, chalcopyrite, pyrrhotite, marcasite, siderite,
+ankerite and limonite. Minor amounts of sphalerite and galena have been noted.
+
+North of the OMZ, the Zebraberg OD6 Grid area is predominantly Cu/Au mineralized, with
+complex structural controls demonstrated. Brittle EW fractures have acted as conduits for
+secondary Cu minerals (malachite, chrysocolla, azurite and cuprite). Up to eighteen breccias
+blows have been noted in the field, some containing significant amounts of pyrite in the
+matrix. Numerous gossans have also been noted. Small-scale mining by trenching had been
+carried out in the 1950s, however no significant ore reserves were defined. Drilling by GFN
+during the 1980s (5 diamond holes) did not intersect mineable grades.
+
+The regional geological setting and gold mineralization identified on the Project indicates
+that ore bearing fluids are synchronous with a major period of regional compression. The
+resultant structural increase in crustal thickness is believed to have caused prograde
+regional metamorphism of the underlying stratigraphy resulting in the formation and release
+
+
+
+6 | P a g e
+
+of auriferous hydrothermal fluids. These fluids are postulated to have migrated up fault
+splays associated with major regional structures to be precipitated in nearby favourable low
+pressure dilation zones created when the hydraulic pressure of trapped fluids exceeded
+lithostatic pressure during local seismic events. This is a classic setting for the formation of
+large-scale, sediment hosted, orogenic gold deposits.
+
+The Author tenders the following recommendations:
+
+ The operating company must institute an industry acceptable quality
+assurance/quality control (QA/QC) program for a sampling program and should
+ensure that all procedures are fully established and adhered to.
+
+ The operating company should retain the services of a licensed Qualified Person, as
+defined under NI 43-101, to supervise all aspects of exploration and development
+activities on the Project.
+
+ The Author recommends the following exploration activities be completed:
+
+ The operating company embark on a rigorous exploration campaign that would
+involve detailed geological and structural mapping and sampling to define the overall
+limits of the OMZ mineralizing system.
+
+ A two staged program is warranted with the first stage comprising environmental
+base line studies, ground geophysical surveys, 20,000 metres of combined core and
+percussion drilling and 4,280 metres of rotary air blast drilling. The initial program is
+estimated to cost C$5,226,272.
+
+ In the first phase, the operating company is recommended to conduct a combined
+core and percussion drilling programme aimed at infilling and expanding the OMZ
+target to allow for a mineral resource estimate to be prepared in accordance with NI
+43-101 and if warranted move forward towards prefeasibility level studies.
+
+ In the first phase, the operating company is recommended to conduct a detailed
+exploration program over the OD6 area, including a rotary air blast drilling program to
+determine the mineral potential of this area.
+
+ The Phase two program is contingent on the results of the first phase program and
+includes bulk sampling, metallurgical testing and completion of an environmental
+impact assessment. The estimated cost of the second phase program is
+C$5,636,500. The results from the two staged program will allow the operating
+company to evaluate the merits of the Project to the prefeasibility level of
+development.
+
+2 INTRODUCTION AND TERMS OF REFERENCE
+
+Donald J. Boyack, consulting exploration geologist and fellow of the Australasian Institute of
+Mining and Metallurgy, fellow of the United Kingdom Institute of Materials, Minerals and
+Mining was commissioned by Westport and Golconda to provide an independent Qualified
+Person's Review and Technical Report ("Report") for the Ondundu Project located in
+Namibia. The Ondundu Project is comprised of Exclusive Prospecting License ("EPL") 3195
+
+
+
+7 | P a g e
+
+is held by Omatjete Mining (Pty) Ltd ("OM") a wholly owned subsidiary of Westport
+Resources Namibia (Pty) Ltd ("Westport"). Westport is a wholly owned subsidiary of the
+Forsys Metals Corp. EPL 3195 was granted to OM for base metal and precious metal
+exploration and is valid until 29 May 2011. The tenement has an area of 19,969 hectares.
+EPL 3195 is an application for the rights to explore for base and rare metals, precious
+metals and semi-precious stones, and its status at the Ministry of Mines and Energy is
+"granted".
+
+2.1 Qualified Person and Site Visit
+
+The Qualified Person, as defined in NI 43-101 and in compliance with Form 43-101F1
+Technical Report, responsible for the preparation of the Report is Donald J. Boyack,
+consulting exploration geologist and fellow of the Australasian Institute of Mining and
+Metallurgy.
+
+The Qualified person completed a site visit on November 24, 2008 for a period of four days
+and then completed a two week compilation work program in Windhoek. During the visit, Mr.
+Boyack set out recommendations as to the conversion of data in local XYZ coordination into
+UTM33S WGS84 through survey to allow for legacy data verification and accurate
+geological modeling and drill targeting. This visit also allowed Mr. Boyack to confirm the
+veracity of the documentation
+
+2.2 Effective Dates
+
+The effective date of the Report is March 2010 and Revised July 20, 2010. There were no
+material changes to the information of the Project between the effective date and the
+signature date of the Report.
+
+2.3 Previous Technical Reports
+
+A previous independent National Instrument 43-101 technical report on the Ondundu Project
+entitled 'Technical Report on the Ondundu Project EPL3195, Namibia' authored by Donald
+Boyack, FAusIMM. dated March, 2010 was commissioned by Westport and filed by Forsys
+on www.sedar.com.
+
+Subsequent to the original technical report dated March 2010, Westport, OM, and Forsys
+entered into an agreement granting Golconda Capital Corp. ("Golconda") the arm's length
+right to earn up to a 75% interest in the Project from Forsys via an amalgamation with Angus
+Mining (Namibia) Ltd. ("Angus"). Angus has the right to earn up to a 75% interest in the
+Project by earning into OM, which is the holding entity for the Project. Under the agreement
+dated May 6, 2010 and amended May 31, 2010, Angus must spend US$5 million in
+exploration on the Property on or before November 6, 2011 and issue 3 million Angus
+common shares and 3 million Angus common share purchase warrants exercisable at
+C$0.35 in the first year and C$0.50 in the second year to earn an initial 50.1% interest.
+Angus can then elect to earn an additional 24.9% interest in the Project by spending an
+additional US$6 million in exploration on the Project and completing a bankable feasibility
+study by November 6, 2012. Should Angus elect to earn the additional 24.9%, Westport
+retains a 1% net smelter royalty on all gold production from the Project. Angus is Project
+operator. Golconda is a capital pool company and intends for the Proposed Acquisition to
+constitute the Qualifying Transaction of the Corporation as such terms is defined in the
+policies of the TSX Venture Exchange. The current Report includes the addition of the
+
+
+
+8 | P a g e
+
+property transaction terms with Golconda and additional disclosure regarding exploration
+completed by Westport.
+
+2.4 Sources of Data
+
+The author has sourced information from reference documents as cited in the text and
+summarized in Section 21 of the Report. The Qualified Person has based this review of EPL
+3195 on the basis of information compiled by Westport. This information was sourced from
+the public domain, the Geological Survey library at the Ministry of Mines and Energy in
+Windhoek and company records held by Westport. The extensive data obtained at the
+Geological Survey included exploration reports, maps and communications from pervious
+Project operators. All reasonable enquiries have been made to verify the reliability and
+materiality of the data obtained to produce this report.
+
+2.5 Technical Report Sections and Required Items under NI 43-101
+
+Sections as shown in the contents page of this Report to the Prescribed Items Contents
+Page of NI43-101 are as follows:
+
+NI 43-101 Item
+Number
+
+NI 43-101 Heading Report Section
+Number
+
+Report Section Heading
+
+Item 1 Title Page Cover page of Report
+
+Item 2 Table of Contents Table of contents
+
+Item 3 Summary Section 1 Summary
+
+Item 4 Introduction Section 2 Introduction
+
+Item 5 Reliance on Other Experts Section 3 Reliance on Other Experts
+
+Item 6 Property Description and
+Location
+
+Section 4 Property Description and
+Location
+
+Item 7
+Accessibility, Climate, Local
+Resources, Infrastructure and
+Physiography
+
+Section 5
+Accessibility, Climate, Local
+Resources, Infrastructure and
+Physiography
+
+Item 8 History Section 6 History
+
+Item 9 Geological Setting Section 7 Geological Setting
+
+Item 10 Deposit Types Section 8 Deposit Types
+
+Item 11 Mineralization Section 9 Mineralization
+
+Item 12 Exploration Section 10 Exploration
+
+Item 13 Drilling Section 11 Drilling
+
+Item 14 Sampling Method and
+Approach
+
+Section 12 Sampling Method and Approach
+
+Item 15 Sample Preparation, Analyzes
+and Security
+
+Section 13 Sample Preparation, Analyzes
+and Security
+
+Item 16 Data Verification Section 14 Data Verification
+
+Item 17 Adjacent Properties Section 15 Adjacent Properties
+
+Item 18 Mineral Processing and
+Metallurgical Testing
+
+Section 16 Mineral Processing and
+Metallurgical Testing
+
+Item 19
+Mineral Resource and Mineral
+Reserve Estimates
+
+Section 17
+Mineral Resource and Mineral
+Reserve Estimates
+
+Item 20
+Other Relevant Data and
+Information
+
+Section 18
+Other Relevant Data and
+Information
+
+Item 21 Interpretation and Conclusions Section 19 Interpretation and Conclusions
+
+Item 22 Recommendations Section 20 Recommendations
+
+Item 23 References Section 21 References
+
+
+
+9 | P a g e
+
+NI 43-101 Item
+Number
+
+NI 43-101 Heading Report Section
+Number
+
+Report Section Heading
+
+Item 24 Date and Signature Page Section 22 Date and Signature Page
+
+Item 25 Additional Requirements for
+Technical Reports on
+Development Properties and
+Production Properties
+
+Section 23 Additional Requirements for
+Technical Reports on
+Development Properties and
+Production Properties
+
+Item 26 Illustrations Incorporated in Report under
+appropriate section number,
+
+3 RELIANCE ON OTHER EXPERTS
+
+The design of the 2006 diamond drill program completed by Westport and subsequent
+exploration work was solely based upon a review of 28 historical diamond drill holes (5,583
+m) completed by Tsumeb Corporation Limited ("TCL") and Gold Fields Namibia ("GFN")
+between 1980 and 1989. Original diamond drill logs, assay data, and geological section and
+plan maps, filed at the Westport office in Windhoek, were used during this review.
+Professional geotechnical personnel supervised the exploration programs completed by
+TCL/GFN. The exploration techniques, geological logging and sampling practices, and
+assay laboratory procedures were consistent with accepted standards and practices of the
+time.
+
+4 PROPERTY DESCRIPTION AND LOCATION
+
+4.1 Location
+
+The Ondundu Project is located 250 Km northwest of Windhoek in northern central Namibia
+(Figure 4-1) within EPL 3195 and has an area of 19,969 hectares. EPL 3195 is registered in
+the name of OM, which is a wholly owned subsidiary of Westport, which is turn is a wholly
+owned subsidiary of Forsys. The geographic center of EPL 3195 is longitude 15°27'40''
+east, latitude 20°43'37'' south (UTM 548000 east, 7708000 North; WGS84 33S)
+
+Table 4-1).
+
+Under a letter of intent dated May 6, 2010 and amended May 31, 2010 Golconda has the
+right to earn up to a 75% interest in the Project from Forsys via an amalgamation with
+Angus. Angus has the right to earn up to a 75% interest in the Project by earning into OM.
+Golconda is a capital pool company and intends for the Proposed Acquisition to constitute
+the Qualifying Transaction of the Corporation as such terms is defined in the policies of the
+TSX Venture Exchange. EPL 3195 is located on communal lands and is completely
+surrounded by mineral licences belonging to Teck Cominco. A village is located to the
+immediate south west of the Ondundu Main Zone ("OMZ"). The boundary of EPL 3195 has
+not been legally surveyed (Figure 4-2).
+
+Table 4-1: Coordinates of EPL 3195 (Westport Resources Namibia)
+
+Label Latitude Longitude
+1 -20.66080282 15.38908335
+2 -20.66210451 15.52107967
+3 -20.79215643 15.52070357
+4 -20.79203436 15.38754886
+
+
+
+10 | P a g e
+
+Figure 4-1: Ondundu project location
+(Westport Resources Namibia)
+
+
+
+11 | P a g e
+
+Figure 4-2: Exclusive Prospecting Licence 3195
+(Westport Resources Namibia)
+
+4.2 Property and Title in Namibia
+
+Within the Republic of Namibia the government holds all mineral rights. Mineral exploration
+and development is controlled by the 1992 Minerals (Prospecting and Mining) Act, which is
+administered by the Ministry of Mines and Energy.
+
+Prospecting, mineral exploration and mining activities are governed through the awarding of
+mining claims and four distinct licences. The Republic of Namibia on the basis of a
+proponent's technical and financial capability awards exclusive Prospecting Licences, such
+as EPL 3195.
+
+Mineral claims are intended for small-scale mines and mineral deposits and may only be
+established by Namibian citizens. To establish a mining claim, the proponent must
+physically identify the corner boundary points of the claim. The application for a mineral
+concession involves the filing of documents. The mineral concession boundaries are
+specified in the application documents.
+
+4.3 Surface Rights Title
+
+Within Namibia mineral and surface rights are administered separately. Land is either state,
+or privately owned. Under the Mining Act a licence holder wishing to conduct ground based
+exploration programs, on private land, must first obtain written permission to access the land
+from the landholder. Access to private land may not be withheld unreasonably. EPL 3195 is
+
+
+
+12 | P a g e
+
+located on state land, as such; a surface access agreement is not required to conduct
+mineral exploration.
+
+4.4 Permitting
+
+The holder of an EPL is entitled to carry on prospecting operations in respect of such
+mineral or group of minerals specified in the licence. The holder of the EPL is further entitled
+to remove any mineral or group of minerals other than a control mineral or sample of such
+mineral or group of minerals for any purpose other than sale or disposal, found or
+incidentally won in the course of the prospecting operation to any other place within
+Namibia.
+
+The holder of the EPL is additionally entitled, with the written permission of the
+Commissioner:
+
+ to remove any mineral or group of minerals or any control mineral or sample of such
+mineral for any purpose other than sale or disposal from any place where it was
+found or incidentally won in the course of prospecting operation to any place whether
+within or outside Namibia; and
+
+ to remove any mineral or group of mineral for purpose of sale or disposal from any
+place where it was found or incidentally won in the course of the prospecting
+operation and to sell or otherwise dispose any such mineral or group of minerals.
+
+The holder of EPL who has removed any mineral or group of minerals other than a control
+mineral or any sample of such mineral or group of minerals from the place where it was
+found for any purpose other than for sale or disposal to any place within Namibia shall
+inform the Commissioner in writing of such removal not later than 14 days or such longer
+period as the Commissions may allow after such removal and provide particulars of the
+nature of such sample, mineral or group of minerals and the place to which it has been so
+removed.
+
+The holder of EPL is further entitled to carry on such other operation including the erection
+or construction of accessory works as may be reasonable necessary for prospecting
+operation or for the selling or disposal of mineral or group of minerals found or incidentally
+won in the course of prospecting operation. The accessory work shall not be erected or
+constructed without the prior permission in writing of the Commissioner. On the other hand,
+the Commissioner shall not grant permission to erect accessory work unless the holder of
+the EPL has paid compensation to the owner of the private land covered by the EPL.
+
+The holder of EPL is required to exercise his right reasonably and in such a manner that the
+rights and interest of the owners of the land to which the Licence relates are not adversely
+affected except to the extent to which such owners is compensated. Furthermore the holder
+of the EPL is required to carry on the prospecting operation in accordance with good
+prospecting practices and to take all reasonable steps necessary to secure the safety,
+welfare and health of person employed in the licensed area and to prevent or minimize any
+pollution of the environment; to maintain in good condition and repair all accessory works in
+the licensed area; to remove from such area all structure, equipment and other goods not
+used or intended to be used in connection with the prospecting operation; and to take
+reasonable steps to warn persons who may from time to time be in the vicinity of any
+accessory work of the possible hazard resulting there from.
+
+
+
+13 | P a g e
+
+The holder of an EPL is required, to give the Commissioner notice of within 30 days of
+discovery of any mineral or group of minerals other than a mineral or group of minerals to
+which the Licence relates. Furthermore if the holder of EPL is a company, it is required to
+give the Commissioner notice of any change of the name of the company, the registered
+address and principal place of business of the company in Namibia, the directors of the
+company, the particulars of the beneficiary who owns more than 5% of the share issued by
+such company.
+
+The holder of EPL, is required to carry on within a particular period in accordance with the
+work program, prospecting operation or to expend certain expenditures and shall furnish the
+Commissioner with the particulars of the prospecting operations, either operation or
+expenditure.
+
+The EPL is granted for a period not exceeding 3 years and may be renewed for a further
+period not exceeding 2 years at a time. The EPL cannot be renewed on more than two
+occasions unless the Minister deems it desirable in the interest of the development of
+mineral resources of Namibia that such licence be renewed it any particular case on a third
+or subsequent occasion.
+
+The holder of an EPL is required to keep an address in Namibia in relation to the location
+and result of all photo-geological studies, imaging, geological mapping, geochemical
+sampling, geophysical surveying, drilling, pitting and trenching, sampling and bulk sampling
+carried within the licensed area. He is further required to keep the results of all analytical,
+meteorological, and mineralogical work incidental to the prospecting operation. The record
+must also incorporate the interpretation and assessment of studies and survey.
+
+The holder of EPL is required to keep the record of employees, the nature, mass, volume
+and value of minerals produced, the expenses incurred in the course of such operation and
+such other work as may be determined by the Mining Commissioner.
+
+The holder of EPL is further required to prepare and maintain at all times plans and maps in
+respect of the prospecting area. He is further required to prepare a statement of income
+and expenditure and such other financial statements as a Commissioner may determine.
+Such financial statement shall be submitted to the Commissioner within 30 days after the
+end of each quarter during the currency of the EPL. Within 60 days of the end of the
+currency of the terms of the licence or together with a renewal application report or reports
+must be submitted to the Commissioner setting out an evaluation of the prospect of the
+discovery of any mineral or group of minerals in such prospecting area, all information
+including photographs, tabulation, tapes and discs the records to be kept and including
+plans and maps the report must also deal with the nature, mass or volume and value of any
+mineral group or minerals sold or otherwise disposed.
+
+Should the EPL be cancelled or expired, the holder is required within one month of such
+cancellation or expiry to deliver to the Commissioner all records, maps, plans, reports,
+photographs, tabulation, tapes and disc prepared by the house in the course of the
+prospecting operation. Failure to do so amounts to an offence. The Commissioner is also
+afforded powers to enter and search and seize such information.
+
+The primary licence, at this stage of the project activities for the Ondundu Project, is the EPL
+and the Environmental Management Plan (EMP) submitted to the MME to cover existing
+exploration plans.
+
+
+
+14 | P a g e
+
+Other permits and/or licences may be required for activities beyond the current exploration
+work ongoing at the Ondundu project.
+
+In order for Angus to meet its required obligations under the letter agreement dated May 6,
+2010 and amended May 31, 2010, Angus must spend a minimum of US$5 million in
+exploration expenditures on EPL 3195 on or before November 6, 2011.
+
+4.5 Current Tenure
+
+EPL 3195 is registered to OM and was renewed on the 18th January 2010 for the period
+from 31st May 2009 to 29th May 2011 in terms of the Minerals (Prospecting and Mining)
+Act, 33 of 1992. The "granted" status of the EPL entitles Westport to carry on prospecting
+operations in respect of such mineral or group of minerals specified in the licence. The
+holder of the EPL is further entitled to remove any mineral or group of minerals other than a
+control mineral or sample of such mineral or group of minerals for any purpose other than
+sale or disposal, found or incidentally won in the course of the prospecting operation to any
+other place within Namibia.
+
+4.6 Environmental Liabilities
+
+Historic small scale gold production has occurred within the central portion of the Project
+and several workings remain open. Because of the small scale representing a very modest
+footprint and historical nature of the workings, the Author has been advised by Westport that
+there are no historical environmental liabilities for Westport on the Ondundu Project.
+
+4.7 Royalties
+
+The Author is unaware of any royalties, agreements or other encumbrances to third parties
+other than the potential of a 1% NSR on gold production granted to Westport should
+Golconda elect to earn a 75% interest in the Ondundu project.
+
+Section 114 of the Minerals Act, 1992 makes provision for royalties to be payable on the
+market value of minerals won or mined in Namibia, none of which royalties may exceed 5%
+in the case of minerals other than precious stones and dimension stone.
+
+Section 114 contains detailed provisions in terms whereof the Minister is required to consult
+and take into account representations by the person affected by such royalties. In terms of
+Section 114, royalties become payable only after the Minister has: (i) given a general notice
+in the Government Gazette specifying the royalty; (ii) has given a notice of intention to levy
+the royalty to the person on whom the royalty is to be imposed; (iii) has afforded the person
+affected a right to make representations; and (iv) has thereafter raised the royalty by giving
+written notice to the person. In terms of Government Notice 248 (GN 248), as published in
+Government Gazette 3322 on 15 November 2004, the Minister has levied a royalty of 5
+percent in respect of the nuclear fuels minerals group. Although it appears that GN 248 may
+not be in compliance with the requirements of section 114 of the Minerals Act, 1992, it may
+be expected that the Minister of Mines & Energy (MME) intends to charge a 5 percent
+royalty on nuclear fuels and the Minister can simply rectify GN 248. The MME is currently in
+consultation with advisers and/or experts on the matter from South Africa, where the same
+issue is also under consideration. The Qualified Person notes that as of the 1st November
+2006 the government gazette set the royalty tax at 2.0%.
+
+
+
+15 | P a g e
+
+4.8 Mineralized Zones
+
+The historical prospectivity of the Ondundu Project consists of two zones; Ondundu Main
+zone ("OMZ") where mining, (alluvial, open-pit and underground) was carried out for Au, and
+a Cu zone located north of Ondundu Main zone (OD6 grid) towards the centre of the
+Ondundu anticline, separated by a pronounced East-West trending fault immediately north
+of the gold workings.
+
+5 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE
+AND PHYSIOGRAPHY
+
+The Ondundu project site is accessed by driving 242 km on paved road from the capital city
+of Windhoek to the town of Omaruru. A dirt road leads for 104 km from Omaruru to the
+project site (Figure 5-1). The total driving time from Windhoek is 3 1/2 hours. The main
+Ruacana to Windhoek electrical 220KV power line runs 15 km to the east of the EPL area.
+
+The area is characterized by undulating to hilly topography created by a succession of
+repetitive argillaceous and arenaceous geology, partially dissected by ephemeral streams.
+The Main drainages flow NW, while secondary drainages flow NS, following bedding planes.
+The drainage net eventually feeds the modern Ugab River. The highest point is the Zebra
+Berg at 1,172 metres a.m.s.l., in the core of the antiform, 2.5km to the north of the Ondundu
+Main Zone. Average elevation of the property is 1,000 metres a.m.s.l.
+
+The annual rainfall is moderate to low (+100 - 150mm per annum), and consequently the
+vegetation is moderately sparse and predominantly colospermum mopane forest, acacia
+thorn and grassland of the savanna/bushveld biome. Information from water boreholes
+suggest that the water table resides at about 25m below surface. Due to this climate, natural
+re-vegetation takes a considerable time. It may be noticed that 30 year old grid lines are still
+clear of trees and bush.
+
+
+
+16 | P a g e
+
+Figure 5-1: Exclusive Prospecting Licence 3195
+(Westport Resources Namibia)
+
+
+
+17 | P a g e
+
+
+
+18 | P a g e
+
+6 HISTORY
+
+The Ondundu Au deposit was discovered during 1917. Claims were first staked in 1922 and
+a minor gold rush began. Initial production began on alluvial and eluvial workings, with some
+11,600 Oz Au reported from 1923 to 1945.
+
+Surface and underground mining in four areas: Margarethental (3,400 ozs), Geolex North
+(500ozs), Chiquita (1,500 ozs), Geolex South/Razorback (2,850 ozs). Apart from the
+underground workings in the Margarethental and Geolex South areas, past mining activities
+appear to have been confined to open cuts and trenches on the hillside.
+
+Intermittent underground mining and alluvial recovery took place until 1945. Some 20,000
+ozs Au were reported recovered in total. This is likely an underestimate due to the 15%
+royalties required by law.
+
+In 1946, 378 samples from 5 shafts (~6,000 tonnes) were submitted for metallurgical testing.
+It was concluded that a recovery of 70% may be anticipated by amalgamation; the economic
+degree of grinding will be approximately 60% minus 200mesh for the extraction of 98% of
+the total gold.
+
+In the 1980s, Tsumeb Corporation Limited ("TCL") and Goldfields Namibia ("GFN") carried
+out exploration programmes in the area under Mineral Deposit Retention Licence 1552,
+(MDRL 1552, following the consolidation of the claims into one licence), completing 28
+diamond drill holes in the OMZ totalling 5,583 metres. The TCL/GFN Ondundu data are the
+most complete and extensive available. The 5,538m of drilling occurred on 12 sections on
+the Ondundu Main Zone (Margarethental, Razorback and Geolex South). Surface and
+underground sampling and mapping was conducted to establish a selective mining thesis
+once GFN became involved with the project by 1985 and this included more extensive work
+over the old Copper/Gold workings to the north in the OD6 grid area.
+
+The aim of the TCL exploration programme was to test the historically generated grades
+achieved prior to 1983 (Carter and Venter).
+
+Mill head grade (Margarenthental, 1939) 9.8g/t
+
+Surface sampling (Storey, 1946) 10.56g/t
+
+Bulk sampling: 6000 tons quartz (Thomas, 1932) 13.95g/t
+
+Metallurgical test results (Veicht, 1946) 7.45g/t
+
+Mean intersected grade (current (1983) drilling) 8.53g/t
+
+Current (1983) sampling 7.71g/t
+
+Following the consolidation of mineral licences, which to date had been operated as
+individual mining claims by various holders, TCL drilled 19 holes before the first historic
+mineral resource estimate was produced by Venter and Carter in June 1983, and followed
+by another five holes southwards towards Razorback by 1985 when Goldfields commenced
+with the takeover of TCL. Goldfields introduced their own geological team to re-evaluate the
+deposit on a selective underground mining basis and drilled another three diamond drill
+holes following an elaborate underground sampling program aimed at establishing a
+selective mining thesis focused at the quartz veins. Two reverse circulation (RC) holes were
+
+
+
+19 | P a g e
+
+drilled by TCL in 1985 but the results were inconclusive as the sample recoveries were only
+60%.
+
+Table 6-1: EPL3195 Ondundu Summary of TCL Diamond Drillhole Assay Results
+(Westport Resources Namibia)
+
+TCL used the mineralogists in Johannesburg (namely Dr Lauenstein) and a laboratory Israel
+in 1982 to determine the temperature of formation of the quartz and carbonate veins setting
+the temperatures at +400°C and 350-400°C respectively (Worthington, 1981), concluding an
+epithermal genesis. Yet the authors thereafter constrained the deposit to being a product of
+metamorphic dewatering of turbidite sequences where temperatures of around 230°C can
+be inferred from the lower greenschist grade of metamorphism due to the absence of
+conclusive evidence of a heat source.
+
+In 1983 a historic resource estimate of 42 million tonnes grading 0.39 gram gold per tonne
+was produced by TCL ("Venter & Carter"), in 1987 a historic resource of 4.57 million tonnes
+grading 3.39 grams gold per tonne was reported by GFN (Charles September 1987) and in
+1989 a historic resource of 4.35 million tonnes grading 3.19 grams gold per tonne was
+reported by GFN (Charles December 1988). These resources are historical and not
+compliant with National Instrument 43-101 reporting standards; however they are
+considered material to the prospectivity of the Ondundu gold project. A "qualified person" for
+the purposes of NI 43-101 has not done sufficient work to qualify the historical estimate as
+current mineral resources or mineral reserves. The historical estimates should not be
+treated as current mineral resources or mineral reserves and the historical estimates
+contained herein should not be relied upon.
+
+
+
+20 | P a g e
+
+Table 6-2: Summary Historic 'resource' comparison
+(Westport Resources Namibia)
+
+Assumed type of Operation Resource contained in tonnes g/t Au kgs Au Oz Au tonnes g/t Au kgs Au Oz Au Remarks
+
+Venter & Carter 1983 Large Open Pit Country Rock & Veins 42,057,040 0.39 16,208 522,840
+Qz Veins Only 2,393,820 6.77 16,208
+
+Charles Sep 1987 Selective Underground Country Rock & Veins 4,569,666 3.39 15,484 497,811
+
+Cut-offs 1.0 g/t Au over 1.0m Qz Veins Only 924,599 16.75 15,486
+(Estimate used Intersection
+width)
+
+Charles Dec 1988 Selective Underground Country Rock & Veins 4,354,808 3.19 13,898 446,821
+Cut-offs 1.0 g/t Au over 1.0m Qz Veins Only 814,034 17.07 13,898
+
+(Estimate used true width)
+
+Mineral Resource Country Rock Only 4,200,000 3.21 13,482 433,446
+Handbook (Burnett) Veins Only 800,000 17.01 13,608 437,497 800,000 17.01 13,608
+
+Country Rock & Veins 5,000,000 5.42 27,090 870,944
+
+ONDUNDU HISTORICAL RESOURCE COMPARISON
+
+Mineralisation in
+host country rock
+assumed to be nil
+
+grade in all
+estimates
+
+This 'resource' summary has been derived from legacy reports and does not conform to
+current CIM standards with respect to resource statements. The drill hole spacing is too
+widely spaced to demonstrate strike continuity. In addition, the selective nature of the
+sampling technique allied to the coarse gold nature of much of the quartz vein mineralization
+means that reliable assay results are very difficult to achieve.
+
+The use of 1 g/t Au cut-off was used by GFN in 1987 reflecting the economic limit at the
+time.
+
+The ground lay dormant until 1996, when a joint venture between Keadeber Resources (Pty)
+Ltd, (75%) and Southern Cross Exploration (25%) proposed to explore further under MDRL
+1552. No significant verifiable work was done, apart from a bulk (600kg) sample that was
+submitted to MINTEK (RSA) in 1999 and a summary report was written. The 600kg of 'gold
+ore' was sampled at Ondundu and delivered to Mintek Laboratories in Johannesburg to the
+mineral processing division. The sample was originally crushed to -1mm in a jaw crusher
+and blended. Sub-samples were taken and submitted for sizing analysis. Each sample was
+assayed for Au to determine the distribution of the gold in the various size ranges.
+
+A representative sample was removed for shaking table tests and then a fine band of heavy
+concentrate was collected, with remaining feed reporting to the tails. Tails were dried,
+weighed and milled and passed over the shaking table again.
+
+It was reported that the size for liberation is that between 212 µm and 108 µm. The sizing
+distribution analysis indicates that the gold occurs predominantly in the coarser size ranges,
+i.e.+250µm. Approximately 11% of the gold occurs in the -25µm. The fine gold (such as that
+in the -25µm) is considered to be amenable to recovery by leaching method.
+
+
+
+21 | P a g e
+
+Table 6-3: Gold Sizing Distribution (Mintek - Southern Cross NL - Fiala, 1999)
+
+After the 1999 work program, MDRL 1552 was allowed to lapse. EPL 3195 was awarded to
+Omajete Mining in 2003. On June 8, 2005 Westport Resources Namibia (Pty) Ltd. was
+granted an initial 32% interest in Omajete Mining and in October 2007 Westport acquired
+100% Omajete Mining ("OM").
+
+TCL & GFN accumulated a considerable legacy database, with maps and reports that have
+recently been integrated into the company's data base for modeling purposes. Spatial data
+
+
+
+22 | P a g e
+
+previously related to a local grid and following proper land-survey of this grid has now been
+transformed them to WGS84 33S adding value to the legacy data.
+
+7 GEOLOGICAL SETTING
+
+7.1 Regional Geology
+
+Ondundu is situated in the Outjo Zone (Swakop Group) of the upper Proterozoic Pan African
+Damara Orogen, occupying the palaeo-eugeosynclinal facies of the southern Congo-Kasai
+Craton margin, to the immediate south of the Otavi Platform.
+
+Closure of the neo-Proterozoic Adamaster Ocean during the final assembly of west
+Gondwana, followed by continent-continent collision with incipient subduction resulting in
+widespread orogenesis. Crustal shortening resulted in regional metamorphism, deformation
+and anatexis (Figure 7-1 and Figure 7-2). A least 2 phases of deformation have affected the
+Outjo Zone. Metamorphism reached lower greenschist facies.
+
+
+
+23 | P a g e
+
+Figure 7-1: Regional Tectonic Framework - Southwest Africa (After Borg et al, 2003)
+
+
+
+24 | P a g e
+
+Figure 7-2: Ondundu Regional Geology
+(Westport Resources Namibia after Southern Cross NL)
+
+Structure and metamorphism
+
+
+
+25 | P a g e
+
+Structure
+
+Two deformation events, D1 and D2 have resulted in regional scale folding. N-S
+compression resulted from the Kalahari/Congo-Kasai collision and E-W transpression from
+the Brasiliano event.
+
+Folding
+
+Regional
+
+The primary fold structure on the property is a domal low amplitude to wavelength ratio
+antiform with disharmonic parasitic-drag folds developed near the hinge, east of the axis.
+
+The antiform is asymmetric-parallel, the western limb dipping 30°/280°TN and the
+eastern limb 50°/090°TN. The axis trends ~185°TN and plunges ~30° to the south. The
+fold is south vergent. Axial planar S1 is present, trending 160º-180 ºTN and dipping 80 -
+90 º west in sandstone and 30ºwest in argillaceous beds.
+
+Local Property
+
+The parasitic synform-antiform couple share a common limb. Their axes vary between
+176°-182°TN and plunge 20°-33°south, roughly parallel to the axis of the Ondundu
+antiform and coincide with the regional orientation of S1. The superimposed local folding
+has a poorly developed fracture cleavage, S2, axial planar. The common limb straddles
+a sinistral shear and displays drag-induced stretching and boudinage.
+
+Smaller-scale folding is frequently found. Disharmonic or asymmetric folding of quartz-
+carbonate veins in fold noses illustrates the competency contrast between veins and
+their host rocks. Drag folds are also common in the OMZ.
+
+Faulting
+
+There are two frequently displayed brittle fault orientations; EW and NS, with a third,
+possibly conjugate 050º-320ºTN set.
+
+The Margarethental Fault Zone (MFZ), bounds the OMZ to the north.
+
+The MFZ, while apparently a normal fault, has a component of strike-slip. It has displaced
+the parasitic folds >100m dextrally. Immediately north of the MFZ, the folds are drastically
+attenuated. The MFZ dips ~80°/000°TN in the vicinity of the OMZ.
+
+The MFZ is concealed beneath alluvium and regolith. Trenching in the 1980's exposed it as
+a +1m wide chloritised mylonite (cataclastite). Resistivity and VLF surveys suggested a
+300+m down-throw to the south.
+
+Given its proximity to the Waterberg thrust, it is worth considering that the MFZ may be a
+failed thrust splay, reactivated as a normal fault. Essentially its later movements seem that
+of an oblique wrench fault.
+
+North-south directed faulting is largely confined to the hinge zone of the OA. Two main NS
+faults, apparently reverse faults during deformation, displace the local fold structures. They
+
+
+
+26 | P a g e
+
+have a left-lateral sense of movement. Bounding fractures to the east and west of the OMZ
+have been exploited by dolerite and lamprophyre dykes.
+
+Notably these fractures, while having sinistral shear sense are mostly unmineralized.
+Possibly silicification of the OMZ rendered it competent enough that when fractures were
+reactivated in a brittle rheologic regime, they behaved as normal faults.
+
+Shearing
+
+Shearing on the property is best demonstrated in the hinge-zone of the OA. In the OMZ, a
+sinistral shear zone, approximately 50m wide, infests the common limb of the
+synform/antiform. Stretching, boudinage and intense shearing in fine-grained lithologies
+typify the deformation found in the zone.
+
+Two lesser shear zones bracket the common limb shear, both having a sinistral sense,
+though with nominal displacements. Together they are an enechelon shear set, and fairly
+confine Au mineralisation to a 1500m wide corridor. The southern end of the OMZ sees
+these features converging.
+
+Cleavage & foliation
+
+A strongly developed axial planar cleavage is developed in the fine-grained lithologies.
+Foliation is displayed to a greater or lesser degree.
+
+Jointing
+
+Three joint sets are commonly observed in the OMZ. Axial planar and bedding concordant
+joints are best expressed with a third set EW oriented but not as well developed.
+
+7.2 Property geology
+
+Stratigraphy
+
+Neo-Proterozoic Kuiseb Formation rocks of the Upper Swakop Group has been inferred to
+outcrop over much of EPL 3195 as a monotonous succession of argillaceous and
+arenaceous lithologies.
+
+Depositional setting and lithologies
+
+A sequence of interbedded upward-fining sandstones, arkose, siltstones, mudstones, shales
+and minor carbonates, derived from turbidite deposition into a basin repository are the
+dominant rock types, with units often grading into one another or intimately intercalated but
+are overall prograding successions. A volcanoclastic component is present.
+
+The Swakop Group in the nCZ/SCZ is thought to be on the order of a 9,800metre
+succession.
+
+Sandstones
+
+Units of sandstone are metre scale in thickness and fairly continuous, weathering positively
+to form distinct ridges which may be followed considerable distances along strike. They are
+grey-green on fresh surfaces, weathering to orange-brown due to limonite after sulphides.
+
+
+
+27 | P a g e
+
+Compositions range from almost pure quartz sandstone to more micaceous and feldspathic
+and with increasing volcanoclastic components, arkosic. They are mainly medium-grained
+and commonly calcareous.
+
+Sedimentary features have not been completely obliterated during metamorphism. Load
+casts, ripple casts, slumping and cross-bedding are commonly visible in outcrop.
+
+Alteration minerals include hematite, limonite, sulphides, serecite, chlorite and siderite,
+leaving "spotty" iron-stained weathering surfaces.
+
+Jointing, axial planar cleavage, foliation and brittle shearing are noted in the field.
+
+Siltstone-mudstone-shale
+
+The finer-grained rocks weather negatively and are much less conspicuous in outcrop.
+Fresh surfaces are grey-grey-green to black with brown-rust weathering colours. Graded
+bedding and alternating bands of coarse-fine are common.
+
+Sedimentary features include load-casts and fluting where sandstone is present.
+
+Alteration minerals are less common in the fine-grained, less permeable rocks.
+Carbonaceous shales often have a high sulphide content (possibly diagenetic).
+
+These more fissile rocks are most likely to host concordant, (bedding parallel), quartz veins.
+
+Intrusives
+
+Karroo-age Diabase dykes and sills intrude the Kuiseb Fm. metasediments. Fine-grained
+green-black on fresh surfaces, they weather to brown rounded boulders "cannon balls".
+
+They were emplaced mainly along NS and NE-SW directions.
+
+Lamprophyre dykes are noted, intruding along generally EW fractures.
+
+8 DEPOSIT TYPE
+
+The regional setting of the Ondundu Project is imbued with all the elements of structure,
+intrusive character, and original volcaniclastic geology interfingered with arenaceous and
+argillaceous rocks that within the orogenic formation and subsequent tectonic evolution that
+would yield a variety of epithermal suites of deposits. Gold deposition is favourable during
+the extensional and compressional-collision phases of the orogenic evolution. Minor gold
+mineralisation is present in the massive sulphide deposits of the Matchless Amphibolite Belt,
+emplaced during the extensional phase. The compressional-collision phase was
+characterised by deformation, metamorphism and granitic igneous activity. Gold deposits
+that formed during this stage include gold associated with thrust zones; turbidite-hosted
+gold; and marble and calc-silicate-hosted gold. The genesis of these gold deposits is related
+to episodes of hydrothermal fluid generation during tectonism, metamorphism and magmatic
+activity.
+
+The primary exploration targets on the Ondundu Project belong to a class of hydrothermal
+gold deposits that are orogenic in nature and occur within structural folds of sediments.
+
+
+
+28 | P a g e
+
+Mineralization occurs as saddle reefs and as discordant veins and stockworks,
+predominately in anticlinal domes. Structural, lithologic, and temporal trends that encompass
+large scale Phanerozoic slate belt gold deposits are evident on the Ondundu Project.
+
+Typical examples of the deposit model that have similar tectonic and lithological
+characteristics, as well as exploration challenges are discussed below:
+
+8.1 Quartz Vein Hosted Gold Mineralisation Victoria, Australia
+
+The gold deposits have generally been regarded as genetically related to the various suites
+of granitic intrusives. In some gold quartz vein hosted deposits close to granitic intrusives
+accessory minerals include wolframite, molybdenite, bismuth which are typically associated
+with granites. Other deposits are distal, up to 29km from known granite intrusions. The gold
+fields are not zonally distributed in relation to the granite outcrops. The deposits are also
+characterised by a strong north-south or meridianal regional trend to the gold mineralisation.
+
+The quartz veins follow the folding of the sedimentary rocks and are generally regarded as
+contemporaneous with the granite intrusives. As some of the auriferous quartz veins are at
+some distance from known intrusives it is considered that this particular style of
+mineralisation could be formed by remobilisation of quartz and gold from within the
+sedimentary pile.
+
+The several different veins types, mineral associations and different ages of the host rocks
+in these deposits suggest that several different periods of gold mineralisation may have
+occurred.
+
+The age of the major deposits in the Bendigo-Ballarat sub-province is not clear. They occur
+particularly in sediments which have been subjected to later folding. The gold deposits have
+generally been regarded as being associated with the later intrusives. Opinion is divided
+between a contemporaneous folding and mineralising event and an earlier mineralising
+event which has been subsequently deformed by later folding event. The quartz veins
+exhibit a great variety in geometry and each deposit is often characterised by a particular
+vein type. The structures developed probably relates to the intensity of the deformation and
+the relative amounts of the different lithologies present in the sequence.
+
+Gold was first discovered at Clunes, Castlemaine and Warrandyte in mid-1851. The ensuing
+gold rush over the next 60 years and production of approximately 2500 tonnes of gold
+places Victoria amongst the world's major gold provinces. Total Victorian gold production
+still represents 32% of all gold mined in Australia, and 2% of all gold mined in the world.
+About 40% of gold production, as well as small quantities of antimony and silver, came from
+Palaeozoic quartz veins, while the remainder came from Cainozoic placer deposits.
+
+8.2 Bendigo
+
+Gold mineralisation in Victoria is chiefly associated with structurally controlled quartz veins
+in deformed lower Palaeozoic sedimentary rocks. The bulk of gold production has been from
+the west of the state across the Stawell, Bendigo and Melbourne Zones. The most
+prospective gold mining and exploration targets occur in these areas and are all structurally
+controlled. They include:
+
+ slate belt/turbidite hosted lode gold (e.g. Bendigo, Ballarat),
+
+
+
+29 | P a g e
+
+ volcanic associated gold (e.g. Stawell), and
+
+ sedimentary hosted disseminated gold (e.g. Fosterville).
+
+Geological Setting
+
+Bendigo is the largest goldfield in Victoria with orogenic or 'reef' mines producing 17 million
+ounces (529 t) of gold and placer mines producing 5 million ounces (155 t) of gold. It has a
+strike length of approximately 17 km, is up to 4 km wide and is remarkable for its regular
+trains of chevron folds that have controlled the distribution and geometry of mineralisation.
+Most gold came from the hinge zones and east-dipping limbs of three anticlines, the Garden
+Gully, New Chum and Hustlers 'lines', however, significant gold was also mined from other
+adjacent anticlines. Domal culminations along the main anticlines tend to correspond with
+well-mineralised portions of the folds. Mineralisation is mostly in west- and east-dipping
+reverse faults which truncate fold hinges. The famous saddle reefs are composite fault
+structures controlled by thick, competent sandstone beds. They range from simply folded
+bedding-concordant veins through to complex structures involving the interaction of limb
+thrusts, fold hinges and bedding-concordant veins.
+
+The gold endowment of the Bendigo Goldfield has attracted numerous mining companies to
+the area. Exploration programs aimed at discovering similar styles of mineralisation have
+focused on either extensions to known mineralisation at depth or along strike to the north
+beneath shallow transported cover of the Murray Basin. Bendigo Mining have been
+successful in identifying repetitions of the rich Deborah and Sheepshead lines at depth and
+are currently in development. To date limited exploration under cover has failed to locate
+any significant new gold occurrences. The use of geophysical and sophisticated
+geochemical techniques are now viewed as essential for locating another Bendigo-style
+deposit. Such techniques might be used to target favourable structural settings or zones of
+alteration.
+
+The geological modelling of the Ballarat field has identified numerous locations where
+favourable sites for gold mineralisation exists. Whilst there is still a risk, that not all of the
+identified sites will have formed economic gold deposits, BGF believe that the majority of
+them will. In deriving its exploration potential BGF has accounted for the risk that not all of
+the potential sites for gold mineralisation will in fact contain economic quantities of gold.
+
+At Ballarat there are three regional anticlinoria each of which coincide with a goldfield-
+Ballarat East, Ballarat West and Little Bendigo. The most productive line, the First Chance
+Anticline at Ballarat East, has in recent times been the focus of several mining
+developments both at surface and at depth. In the mid 1990s William Australia NL mined
+several small near surface supergene deposits for a total of 346 kg of gold. Ballarat
+Goldfields NL defined an inferred resource of 3.3 Mt at 9.5 g/t gold beneath old workings to
+depths between 350-700 m. An access decline was commenced and had traversed 1 km
+(140 m deep) prior to operations being suspended in early 2000. Exploration potential exists
+for discovering new orogenic gold mineralisation beneath historic production centres and
+beneath shallow Cainozoic basaltic cover to the north and south of Ballarat.
+
+Mining of the quartz hosted gold deposits was much less extensive over the Ballarat area
+than the shallow alluvial gold deposits, partly due to a relatively poor understanding of how
+the quartz hosted gold deposits formed. Regional mapping and modelling of the geology in
+3D has enabled geologists at BGF to identify where and how the historically mined quartz
+
+
+
+30 | P a g e
+
+deposits formed. This interpretation is the foundation from which the BGF's exploration
+targets and ongoing exploration strategy is based.
+
+In summary, the underlying rocks at Ballarat are a series of sands silts and muds that
+originally formed on a sea floor. As the sands, silts and muds became progressively buried
+they eventually consolidated into sandstones, siltstones and mudstones (Stage 1).
+
+Well after their original formation, compressive forces on the rocks at depth forced them to
+buckle and fold. Further compression, resulted in the rocks becoming very tightly folded. As
+the rocks continued to buckle and fold, each layer was forced to slide at its contact with the
+adjacent layer of rock to allow the folding to take place. This movement initiated the creation
+of shear zones which are parallel to the contacts between the sandstones and mudstones
+(Stage 2). Further compression again, eventually forced the rocks to break forming faults
+which thrust the rocks from the west side above the rocks to its immediate east. These
+faults, are known locally at Ballarat as "leatherjacket" faults (Stage 2).
+
+The deposition of gold is interpreted to be one of the last events having a significant impact
+of the underlying rocks at Ballarat. At the end of the compressive events described above,
+the rocks relaxed and opened up slightly, allowing for the introduction of gold bearing fluids
+throughout the rocks at Ballarat (Stage 3). Areas which formed open spaces during this
+event were most favourable for gold to come out of solution and precipitate out as either fine
+particles or coarse concentrations (nuggets) of gold. There are a number of specific
+locations during this event which were favourable for the gold to precipitate. These locations
+have been identified by BGF geologists as the vertical structures that developed between
+the sandstones and mudstones, and also at the intersection of the vertical structures and
+the "leatherjacket" faults (Stage 4).
+
+The geological modelling of the Ballarat field has identified numerous locations where
+favourable sites for gold mineralisation exists. Whilst there is still a risk, that not all of the
+identified sites will have formed economic gold deposits, BGF believe that the majority of
+them will. In deriving its exploration potential BGF has accounted for the risk that not all of
+the potential sites for gold mineralisation will in fact contain economic quantities of gold.
+
+8.3 Stawell
+
+The bulk of recent Victorian gold production has come from the Stawell Goldfield, the source
+of 2.5 million ounces (78 t) of orogenic gold and 0.7 million ounces (24 t) of placer gold with
+reserves in the order of 4.6 million ounces. The main (Magdala-style) mineralisation is in
+ductile–brittle reverse shear zones related to movement on the Stawell Fault. Mineralisation
+at the Magdala deposit has been divided into two systems:
+
+Central Lode system where gold is concentrated in high-strain zones at the contact between
+competent Magdala Volcanics (tholeiitic basalt lava) and less competent metasedimentary
+rocks, and
+
+Scotchmans (or Hangingwall) lodes which overprint the Central Lode along master faults
+and duplex faults defined by laminated reefs and flat 'makes'.
+
+The subordinate Wonga deposit is located within the aureole of the Early Devonian Stawell
+Granite. Here mineralisation is controlled by east-dipping reverse shears within more
+
+
+
+31 | P a g e
+
+massive quartz reefs. The orientation and timing of the Wonga lodes is now believed to
+relate to a syn-intrusive phase of mineralisation.
+
+Important elements in a simplified exploration model of the Magdala mineralisation include:
+
+ Tholeiitic basalt domes,
+
+ Sulphidic volcanogenic rocks,
+
+ D4 fault structures (northwest trending, west-dipping reverse faults), and
+
+ Pyrrhotite-stilpnomelane-biotite alteration.
+
+The close relationship between tholeiitic basalt domes and Magdala-style gold
+mineralisation has enabled Stawell Gold Mines to target similar styles of mineralisation up to
+100 km north along the Stawell Corridor (the area bounded by the Moyston and Coongee
+Faults) using geophysics. Detailed magnetics combined with follow-up aircore drilling has
+been successfully utilised in exploring for similar gold targets beneath shallow Murray Basin
+cover sediments.
+
+8.4 Fosterville
+
+Mineralisation at Fosterville is distinct from Bendigo and Stawell style mineralisation in that
+gold is hosted within sulphides disseminated in sandstone. Although not a major producer
+by Victorian standards, the bulk of the 0.25 million ounces (8 t) of gold production from the
+goldfield has occurred from recent post-1982 discoveries and highlights the potential of
+smaller 'forgotten fields' for the modern explorer.
+
+At Fosterville fine grained gold occurs as inclusions in arsenopyrite and pyrite closely
+associated with unmineralised quartz–carbonate stockwork veins. The stockwork veins have
+developed along a steep west-dipping reverse fault set which has interacted with fold hinges
+and favourable rock types to produce dilatant structures surrounded by mineralisation.
+
+Two main fault lines are recognised - Fosterville Fault, mineralised over 7 km, and O'Dwyers
+Fault mineralised over 3 km. Recent work on the controls of mineralisation have
+emphasised the importance of:
+
+ Steeply west-dipping rock sequence containing black shale on the eastern limb of a
+syncline;
+
+ Bedding parallel faulting (Fosterville Fault) along the black shale unit;
+
+ Splay faults which propagate into the footwall across the smaller synclinal fold hinge;
+
+ Vertical repetitions of the splays at depth; and
+
+ Lithological contrast between sandstones which provide a porous brittle host and
+siltstones which restrict or cap the mineralising fluid.
+
+The position of the Fosterville and O'Dwyers Faults (the latter intruded by rhyolite dykes)
+can be traced using bedrock geochemistry. This approach has enabled the faults to be
+
+
+
+32 | P a g e
+
+located both at surface and beneath cover to the north and south. Threshold values of 100
+ppb gold and 100 ppm arsenic currently outline known deposits with antimony also used as
+a pathfinder element. Induced polarisation surveys have also been used to define the
+position of the faults and associated sulphide concentrations. Potential exists for discoveries
+both along strike under cover and in parallel structures to the east and west.
+
+8.5 Castlemaine
+
+It is clear that the poor historical mining outcomes of a number of mines can be attributed to
+inadequate geological understanding of the major structural controls on gold mineralization.
+Overuse of the Bendigo Saddle Reef model saw the failure of numerous attempts to develop
+the field at depth and the loss of confidence in the overall field. Saddle Reefs were a
+relatively small proportion of the goldfields past production compared to near surface spur
+and laminated quartz veins. It is conclusive that the west-dipping faults are the main
+plumbing control for gold in the Goldfield (Figure 8-1).
+
+They are not always continuous, and can commonly step in an en echelon manner when
+bedded. The intersection of West and East dipping faults is often a focus for the greatest
+structural dilation and thus greater quartz reef volumes.
+
+The mineralisation model developed to explore the Castlemaine Goldfield is shown in the
+block diagram below. Within this model stacked sets of West-dipping faults and fault splays
+with associated gold-bearing quartz veins and breccias are collectively referred to as "fault
+reef" lodes. These lodes are staggered within the west dipping fault planes due to the acute
+angle of these faults to the North trending folding. The best lodes are developed where the
+fault breaches the eastern fold limb. Repetition of reef lodes can occur across adjacent
+anticline folds both along strike and down dip. This model suggests that when discovered,
+the lodes are likely to be discrete and well defined in geometry and that it is possible to have
+a number of deposits located within relative proximity to each other.
+
+The Wattle Gully mineralisation is a classic example of a "fault reef" lode and the model
+explains why prospecting to depth in the vertical plane adjacent to the anticline commonly
+failed in the Castlemaine Goldfield. A number of examples exist, such as the Quartz Hill and
+Ajax mines, which although highly successful at shallow depths failed to prosper at greater
+depths.
+
+The major geological conclusions and outcomes of this period of study were:-
+
+ The gross stratigraphic plunge is shallow towards the North, however;
+
+ Local plunge reversals, which are important to gold mineralisation, exist, and are
+short lived at regional scales.
+
+ The regional fold axes locations are now accurately defined in 3 dimensions.
+
+ East-dipping faults generally strike slightly West of North and West-dipping faults
+strike slightly East of North.
+
+ Approximately 50% of Castlemaine mines were developed on East-dipping "bedded"
+
+ faults, although nearly all these have a nearby major West-dipping fault.
+
+
+
+33 | P a g e
+
+ The Francis Ormond Fault is a major Westdipping fault with similar displacement to
+
+ the Wattle Gully fault which hosts gold mineralisation at that mine. This fault has now
+been linked between a number of mines over a distance of 1.4km.
+
+ It is possible that the Francis Ormond and Wattle Gully Faults are part of the same
+fault system – and even connected.
+
+ Two newly defined West-dipping faults the Fiddlers and Englishman's Faults, are
+interpreted at Castlemaine North.
+
+Extensions to the following major fluid controlling West-Dipping Faults:- Cemetery, Burns
+Hill, McDermott's, Francis Ormond, Milliken's have been postulated or proven.
+
+A deeper understanding of the mining and investment environment since the 1850's has
+been gained. This information has been important in defining why the mines at Castlemaine
+were not developed to greater depths such as elsewhere in Victoria during the same period.
+
+Figure 8-1: Castlemaine Gold Showing N-S Anticlinal Orientation
+(Castlemaine Goldfields Ltd)
+
+9 MINERALISATION
+
+Gold mineralization found by Westport and previous operators on the Ondundu property is
+confined to the quartz-carbonate veins and within the country meta-sedimentary country
+rocks. Mineralization confined to semi-conformable silicified zones within metasediments is
+located in the central portion of EPL 3195 known as the Ondundu Main Zone ("OMZ").
+Copper, plus gold mineralization has also been identified in the northern portion of EPL
+3195 where fractures have acted as conduits for secondary Cu minerals (malachite,
+chrysocolla, azurite and cuprite) within an area known as OD6 "Zebraberg".
+
+
+
+34 | P a g e
+
+9.1 Ondundu Main Zone (OMZ) Au quartz-carbonate veins
+
+Historical work including 28 diamond drill holes totalling 5,583 metres completed in the
+1980s and 11 shallow diamond drill holes totalling 547.7 metres completed by Westport in
+2006 targeted the OMZ. Higher grade values are associated with quartz carbonate vein
+(Figure 9-1), while lower grade values are associated with the surrounding metasedimentary
+host.
+
+Figure 9-1: Conformable Quartz Carbonate Vein Hole OD038
+
+Drilling has tested a 1.5 km by 200-300 metre wide area of a 2.7 km by 200-300 metres
+area of mineralization identified by surface mapping, historic workings and sampling within
+the OMZ.
+
+Width of the OMZ mineralization is variable along strike with intersection widths 100 and
+250m and most likely controlled by structural buckle in a ductile phase later being exploited
+by epithermal fluidization pulses. There however does seem to be a stratigraphic connect
+(seen from historic workings) between the northern portion of the OMZ and the Carr veins
+immediately to the east (Figure 9-2). Due to the plunge of the deposit this was never drill
+tested.
+
+
+
+35 | P a g e
+
+Figure 9-2: EPL3195 – OMZ Schematic Surface Geology and Prospectivity
+
+
+
+36 | P a g e
+
+Ground spectrometry and hyperspectral data (Figure 9-3) further supports that the
+mineralisation is wide spread within the turbidite sequence and that further potential exists to
+the north of the Margarethental fault traditionally viewed to be the northern limit but
+contradicted by the only hole drilled on the northern side (OD 027 averaging 0.4 g/t over
+291m with 83 vein sets bearing gold over and above the lower grade carry of the
+metamorphic country host rock).
+
+Figure 9-3: Ondundu Hyperspectral Data
+(Westport Resources Namibia)
+
+
+
+37 | P a g e
+
+Three types of veins have been recognised in the course of geological mapping:
+
+ The OMZ mineralisation occurs in largely bedding conformable glassy grey laminated
+quartz-carbonate veins. They were emplaced syn-techtonically and deformed during
+D2
+
+ A set of stockwork-type (en echelon) tension-gash (Ridel) veinlets at high angles to
+the N-S shear are a notable component of the mineralisation.
+
+ Undeformed, narrow (1-5cm) E-W oriented quartz veinlets, possibly emplaced during
+Karroo times are nominally Au bearing, likely as a result of remobilization.
+
+A third variety of veining, massive barren milky quartz which cross-cut lithologies, are found
+in the OMZ. They pinch and swell over short distances and form blows in places. These
+veins do not carry any gold mineralization.
+
+Gold is free milling and relatively coarse grained. Accessory minerals include pyrite,
+arsenopyrite, chalcopyrite, pyrrhotite, marcasite, siderite, ankerite and limonite. Minor
+amounts of sphalerite and galena have been noted.
+
+Temperature of formation for the quartz veins was +400degrees C and 350-400degrees C
+for the carbonate veining suggesting an epithermal paragenesis as opposed to metamorphic
+dewatering in the lower greenschist facies although such dewatering was probably an initial
+remobilization process.
+
+Map of Ondundu showing parasitic folds on the nose of the large antiform and the gold
+deposit along a shared limb of a small anti/syncline. Only systematically drilled over the
+northernmost 1.5km of a 2.7km long target and excluding immediate surrounds (Figure 10).
+
+
+
+38 | P a g e
+
+Figure 9-4: Ondundu Geological Map
+(Westport Resources Namibia)
+
+
+
+39 | P a g e
+
+Alteration
+
+The alteration assemblage in the OMZ is primarily:
+
+ Silicification; displayed in quartz blows and cross cutting veins, micro-crystalline
+amygdales and adurlaria but determined to be low potential in gold content
+(Worthington,1981) a thesis untested to date. These later stage quartzitic
+occurrences occur together with remnant magnetite boxworks (now
+haematite/limonite) together at times with arsenopyrite further giving credence to
+multi-stage epithermal events and not consistent with metamorphic dewatering.
+
+ Sulphidation: expressed in arsenopyrite seen as the main scavenger of gold from the
+sediments, pyrite and to a lesser extent chalcopyrite, pyrrhotite, marcasite, and minor
+amounts of sphalerite. These do not occur as massive sulphide zones and represent
+a low sulphidization environment.
+
+ Hematization: seen clearly from the hyperspectral images defines the deposit and
+results from the alteration of magnetite and later further to limonite a paragenesis
+consistent with the epithermal thesis and is the reason for poor definition of the
+deposit through ground magnetic surveys.
+
+ Brecciation: Worthington noted as early as 1981 that breccias blows noted in places
+are evidence of hydrothermal events
+
+ Carbonization; Noted as an early and later stage event with ankerite and siderite
+closely associated with the gold bearing quartz phases (coarse) and finer fibrillose
+veins in the sediments especially down plunge where a syenite body was drilled in
+OD28.
+
+In the context of lower greenschist metamorphism where primary sedimentary structures
+have been preserved none of these assemblages are consistent a thesis other than multi
+stage epithermal events giving rise to the mineralization.
+
+The main gangue minerals are quartz, calcite, hematite, siderite and chlorite.
+
+9.2 Ondundu North Cu/Au (Zebraberg) – OD6 Grid
+
+This area is defined from the Margarethental Fault in the south to the northern extent of the
+EPL boundary, which in the south contains faulted out northern extensions to the OMZ Au
+deposit, has new hyperspectral ground geophysics anomalies corresponding with historical
+works soaked in quartz veining, areas historically mined for Cu/Au, anomalies
+corresponding with tourmalinisation, haemetisation, albitisation, sericitisation, metasomatism
+and ground geophysical anomalies.
+
+The sheer scale (6kmx4km) of alteration and metasomatism together with known Cu/Au
+mineralization, legacy Cu/Au/As soil anomalies, Cu/Au rock chip anomalies, old workings
+and mapped breccia bodies corresponding with hyperspectral anomalies and recently
+generated VLF anomalies highlights the prospectivity of the northern OD6 area and potential
+for a setting differing significantly from the Au only deposit model to the south.
+
+
+
+40 | P a g e
+
+The Zebraberg OD6 Grid area is predominantly Cu/Au mineralized, with complex
+stratigraphic and structural controls demonstrated.
+
+Brittle EW fractures have acted as conduits for secondary Cu minerals (malachite,
+chrysocolla, azurite and cuprite), derived from enriched sedimentary/volcanic units at depth
+in the anticlinorium. Up to eighteen breccias blows have been noted in the field, some
+containing significant amounts of pyrite in the matrix. Numerous gossans have also been
+noted.
+
+Large stratigraphic base metal geochemical anomalies in the core area of the antiform were
+delineated by General Mining (1965) and TCL/Goldfields (1980 – 1992) work.
+
+Small scale mining by trenching has been carried out Goldfields in the 1950s, however no
+significant ore reserves were defined. Drilling by during the 1980s (5 diamond holes) did not
+intersect mineable grades.
+
+Aeromagnetic and radiometric surveys conducted after TCL/GFN work have shown
+interesting targets not identified at the time.
+
+Alteration
+
+The alteration assemblage in the OD6 area is primarily intense potassium and sodium
+metasomatism, phyllic, propylitic, argillic, silicification, sulphidation, hematization,
+carbonization, pyritization and brecciation.
+
+As an area deeper in the anticlinorium It differs markedly from that in the OMZ gold only
+area to the south in terms of complexity and intensity of alteration together with more
+intrusive bodies, and an intensely altered sandstone unit and more massive sulphide
+mineralization. To quote S Galloway "The number of contributory causes including long
+lived, probably overlapping (temporally and spatially) hydrothermal systems, regional
+metamorphic effects (prograde and/or retrograde) and surficial weathering processes." It
+was also more studied for alteration styles by GFN in the late 1980s (Galloway, 1989).
+
+ Metasomatism: Intense Boron metasomatism led to the large scale tourmalinization
+and silicification in the area both as a pervasive hypogene stratabound alteration
+phenomenon confined to silicious sandstone horizons and at time fracture controlled
+but is also encountered as pervasive alteration features in distinct plugs and breccia
+pipes. Course tourmalines overprint other mineralogy particularly the limonite rich
+zones pointing to secondary remobilization.
+
+Silica-Pyrite-Clay ("Paquatite" for Pyrite, Albite, Quartz, Tourmaline) hydrogen
+metasomatism consisting of an extremely fine grained assemblage containing
+abundant pyrite expressed strongly in the lower sandstone units and can most likely
+be classified as advanced argillic alteration.
+
+
+
+41 | P a g e
+
+Albitisation or sodium silica metasomatism is the most widespread and seems to be
+invariably associated with dolomitisation. This is an important feature in the sandstones
+which host the brown hydrothermal dolomites on the western side of the anticlinal core
+(Galloway,1989). It is a common associate with the widespread loci of brecciation in the
+northern part. The brecciation is seen to be succeeded by carbonatisation.
+
+ Carbonatisation: commonly associated with albite rich rocks seems to be a common
+late stage alteration phase in the sandstones, lamprophyre dykes, mafic plugs and
+albitite plugs indicating various phases of introduction.
+
+ Sulphidation is in evidence throughout the area in various minerals (malachite,
+chrysocolla, azurite and cuprite and arsenopyrite and pyrite).
+
+ Ferruginization: as a product of both hypogene and supergene processes associated
+with both E-W structural controls and stratabound replacement gossans in the
+sandstones including dolomite replacement lenses, pyrite blasts in the tourmalinised
+sandstones and breccias.
+
+ Other Alteration: recognized in thin section and in the field include muscovite, sericite,
+margarite, biotite, fuchsite, chlorite, epidote and serpentinite possibly associated with
+both supergene and hypogene (propylitic, argillic and phyllic) alteration processes.
+
+10 EXPLORATION
+
+Exploration work prior to 2005 is included in the History section of the Report.
+
+10.1 Exploration work 2005-2006 conducted by Westport
+
+Confirmation Sampling
+
+In May 2005, Westport completed a verification surface sampling program at the Ondundu
+gold project. A total of 156 grab samples were collected from quartz veins exposed along a
+2.7 km long ridge that marks the OMZ. Eighty eight samples reported gold in excess of 1.0
+g/t gold with the maximum value returning 119.5 g/t gold. Four samples returned no
+significant values (Figure 10-1). The initial results confirmed the broad extent and general
+tenor of mineralization within the OMZ.
+
+Table 10-1: Confirmation Assay Results
+
+Number of Samples Gold Results g/t
+
+10 ≥32 
+10 ≥16 
+12 ≥8 
+56 ≥1 
+68 ≤ 1 
+
+
+
+42 | P a g e
+
+Figure 10-1: 2005 Confirmation Sampling
+
+Hyperspectral Survey
+
+In November 2005, Australian based HyVista Corporation was contracted by Westport to
+complete an airborne hyperspectral survey over the entire Ondundu project. Hyperspectral
+surveys are a no-impact exploration technique for obtaining short wavelength infrared
+(SWIR) images of the surface of the earth. The HyMap SWIR scanner owned by HyVista
+Corporation was mounted in an aircraft to over-fly target areas at a height of about 2500m,
+achieving a spatial resolution of 4.5m. Preliminary inspection of hyperspectral images
+revealed the presence of a range of interesting and potentially prospective structural,
+lithologic and alteration features worthy of detailed investigation. In view of the above, an
+appropriate software was acquired – ENVI Image Analysis Software (ENVI 4.2). This
+
+
+
+43 | P a g e
+
+software enables one to visualize, analyze, manipulate and present the recently acquired
+hyperspectral data. The program successfully mapped the distribution of white mica and
+tourmaline. Alteration assemblages commonly associated with sediment hosted orogenic
+deposits are often characterized by Al-poor white mica with a longer wavelength absorption
+feature at 2.210 µm (Figure 10-2), Tourmaline is also present near the epithermal-like
+deposits, suggesting that it may be an integral part of these systems (Figure 10-3).
+
+Figure 10-2: OD6 and OMZ areas relative to the Hyperspectral Anomalies – Muscovite
+(Westport Resources Namibia)
+
+
+
+44 | P a g e
+
+Figure 10-3: OD6 and OMZ areas relative to the Hyperspectral Anomalies –
+Tourmaline
+
+(Westport Resources Namibia)
+
+
+
+45 | P a g e
+
+Stream Sediment Survey
+
+A regional stream sediment sampling of the entire exclusive prospecting license area- EPL
+3195, was deemed necessary by Westport in order to:
+
+ Determine and trace primary sources of copper and gold in the EPL area;
+
+ Determine potential correlation between copper and gold mineralization in the
+area; and
+
+ Determine the overall mineral potential of the EPL area and hence identify new
+targets for further exploration.
+
+In January to February 2006 a regional stream sediment survey covering the entire
+Ondundu Project was initiated. A total of 126 stream sediment samples were collected
+from the entire EPL area and sent for analysis for utilizing two size fraction (-1000, +500
+microns material and –180 microns material). Samples were mainly collected from first and
+second order streams at about 1km spacing between sample sites. Approximately, 12 kg of
+-2000 microns material have been collected at each sample site.
+
+These results show some anomalous gold values from two main rivers in the area, which
+both seem to drain from the Ondundu main ridge (Figure 10-4). Two assumptions can be
+drawn from the position of these anomalous values. The first assumption is to assume that
+gold at these points originated from the main ridge and transported downstream with time.
+The second assumption is that the gold originates from localized sources and was
+introduced in to the main stream by adjoining tributaries.
+
+A follow-up sampling program that targeted small adjoining tributaries feeding the two main
+streams upstream of elevated/anomalous gold values points was completed. A total of 53
+samples have been processed and steam sediment sampling assay results continue to
+reveal substantial gold occurrences in two different streams in the area. Values range from
+as low as 0.11 g/t to as high as 1.91 g/t gold.
+
+
+
+46 | P a g e
+
+Figure 10-4: Stream Sediment Locations and Results
+
+
+
+47 | P a g e
+
+Drilling
+
+In January 2006, Westport completed 11 BQ sized (75mm) diamond drill holes totalling
+524.7 meters. The program was designed as shallow infill holes in the Margarethental and
+Razorback sections covering only a 270 metre section of the OMZ. The results are detailed
+in the Drilling section of the Report. To date drilling has not been attempted in the middle of
+the deposit where vein clusters were not evident on surface. Current interpretation indicates
+that the ore body plunges to the south with the mineralisation hosted within boudinaged
+tension gashes in the shear zone
+
+10.2 Exploration work 2007-2009 conducted by Westport
+
+Trenching
+
+The focus of the exploration program in 2007 was on the strike extent of mineralization of
+the OMZ towards the southernmost workings (to be drill verified to depth in future), the
+potential gold content within the host sediments and broaden exploration over the whole
+license area to adhere to the obligations of tenure. Multiple trenching programs occurred
+throughout 2007. In total; 23 trenches were completed for geological rock chip channel
+sample composites across target geology hosting vein clusters. The strike length potential
+following trench results is at least 7km over widths of >250-300m in places.
+
+In January and February 2008, 3,043 samples were taken (approximately one per meter)
+from a 3,043 m trenching program (18 east west trenches spaced approximately 170 m
+apart) which was completed over the 2.5 km extension of the silicified ridge. So far the
+highest gold value was encountered in trench 8 with 68.1 g/t and 55.6 g/t, both times over 1
+m widths, which does highlight the nugget affect on results. The trenches TR 8, 9, and 14
+are of special interest because they have continuous gold grades for > 170 m in intersection
+width with values ranging between 0.8 g/t and 0.92 g/t and these areas have not been
+previously drill tested to depth.
+
+Table 10-2: EPL3195 Ondundu Surface Trench Summary Results
+(Westport Resources Namibia)
+
+ID Length
+(m)
+
+Average
+Gold (g/t)
+
+Max Gold
+Value (g/t)
+
+Nugget Observation
+
+TR1-A 63 0.17 2.06
+TR1-B 16 0.56 1.79
+TR1-C 85 0.36 1.79
+TR1-D 16 0.24 0.72
+TR1-E 47 0.34 1.64
+TR1-F 35 0.22 11.65 Not including in average 11.65 g/t AU sample
+TR2 226 0.45 11.90
+TR3 179 0.59 15.25 Missed sample J5132: 141-142 meters
+TR3-B 24 Assays pending JB08042901
+TR3-R1 5 0.10 0.21
+TR4 254 0.16 4.30
+TR5 264 0.17 2.91 Missed samples J5430 to J5433: 260-264
+
+metres
+TR6 163 0.37 33.80 Not including in average 13.85 and 33.8 g/t Au
+
+sample
+TR6-R1 8 0.20 0.62
+TR7 259 0.24 4.52
+TR7-R1 15 0.72 8.39
+TR7-R2 20 0.10 0.29
+TR8 170 0.92 68.10 Not including in average 68.1 and 55.6 g/t Au End in mineralized zone, need extend
+
+
+
+48 | P a g e
+
+ID Length
+(m)
+
+Average
+Gold (g/t)
+
+Max Gold
+Value (g/t)
+
+Nugget Observation
+
+sample sampling
+TR8-R1 5 0.05 0.15
+TR9 201 0.84 16.45
+TR10 209 0.48 11.60
+TR10-R1 14 0.90 7.29 End in mineralized zone, need extend
+
+sampling
+TR11 193 0.40 18.20 Not including in average 10.4 g/t Au sample
+TR12 160 0.42 5.82 End in mineralized zone, need extend
+
+sampling
+Missed sample I5214: 26-27 metres
+
+T13 240 0.10 1.51
+T14 173 0.18 12.80
+T15 114 0.43 2.15 Also 27m at 0.25 g/t 42 at 0.1 g/t
+T16 115 0.10 1.03
+T17A 35 20m at 0.01 g/t (FA-AAS) on the fines
+T17B 8
+T18 115 0.11 0.59 Also 94m at 0.02 (FA-AAS) on the fines
+
+Geophysics
+
+From July 16
+th
+
+through December 15
+th
+
+2009 a series of in-house geophysical surveys were
+completed by Westport over the OMZ and OD6 areas. The surveys were completed by
+Westport personnel under the direct supervision of geophysicist Ronald Joly. None of the
+extensive geophysical programs have been interpreted by a Qualified Geophysicist. On a
+rudimentary basis, the ground magnetics and ground spectrometry survey points to
+anomalies in the south east, north west, east and west of the current drilled area, which is
+indicative of further resource expansion potential. It is strongly recommended that all the
+geophysical data be reviewed by an experienced geophysicist and a report be compiled.
+
+Spectrometer Survey
+
+At the OMZ, a total of 83 grid lines comprising 350 km was completed using a Pico-
+Envirotec Spectrometer. At the OD6 area, a total of 48 grid lines comprising 193 km were
+completed using a Pico-Envirotec Spectrometer. Ground spectrometry in conjunction with
+the hyperspectral data has identified anomalies to the north of the Margarethental fault
+(Figure 10-5) traditionally viewed to be the northern limit but contradicted by the only hole
+drilled on the northern side (OD 27 averaging 0.4 g/t over 291m with 83 vein sets bearing
+gold over and above the lower grade carry of the metamorphic country host rock).
+
+
+
+49 | P a g e
+
+Figure 10-5: Ondundu Total Count Ground Spectrometry and VLF
+(Westport Resources Namibia)
+
+
+
+50 | P a g e
+
+Ground Magnetic Survey
+
+At the OMZ, a total of 82 grid lines comprising 348 km was completed using a GemSystems
+GSM-19W magnetometer. At the OD6 area, a total of 47 grid lines comprising 191 km was
+completed using a GemSystems GSM-19W magnetometer (Figure 10-6).
+
+Figure 10-6: Ondundu Ground Magnetics and VLF
+(Westport Resources Namibia)
+
+
+
+51 | P a g e
+
+VLF Survey
+
+At the OMZ, a total of 17 grid lines comprising 46 km was run using a Geonics EM17 VLF
+unit. At the OD6 area, a total of 16 grid lines comprising 47 km was run using a Geonics
+EM17 VLF unit (Figure 10-6). The magnetic survey successfully defines potential intrusive
+and the Magnetic plus VLF survey indicates anomalies west of the OMZ drilling, which
+should be field checked.
+
+11 DRILLING
+
+In January 2006, Westport completed 11 diamond drill holes totalling 524.7 meters. The
+drilling was completed by Guenzel T/A Guenzel and supervised by Westport geological
+personnel. Drilling Diamond drill core from the 2006 drilling program was geologically logged
+and sampled at the Ondundu site. The holes have been drilled along three different section
+lines: Section 141100/7708170 (OD30 – OD032), Section 140170/7707240 (OD033- OD036
+and OD040) and section 139900/7706970 (OD 036 – OD039). The entire core have been
+split, sampled and assayed for gold. A total of 364 core samples were collected and sent for
+analysis.
+
+The diamond drilling programme comprised shallow (less than 100 metres vertical depth)
+infill holes at the OMZ for future bulk sample control in the historically mined and drilled
+areas (in vein clusters).
+
+Table 11-1: 2006 Diamond Drill Holes Summary
+
+Hole # Northing Easting Dip Azimuth Depth
+(m)
+
+From
+(m)
+
+To (m) Width
+(m)
+
+Gold
+(g/t)
+
+4.48 5.44 0.96 1.16
+14.22 15.44 1.22 1.33
+
+OD030 7708170 548285 -50 090 20.49
+
+15.44 16.80 1.36 1.75
+
+48.14 49.00 0.86 6.96OD031 7708170 548265 -60 090 60.14
+51.07 52.69 1.62 1.12
+
+0 2.84 2.84 1.50
+4.29 5.69 1.40 3.96
+21.54 23.04 1.50 1.15
+41.19 42.54 1.35 2.05
+46.30 46.99 0.69 1.51
+
+OD032 7708170 548265 -90 360 60.54
+
+57.54 59.29 1.75 3.90
+
+8.94 10.00 1.06 2.94
+10.00 10.94 0.94 1.27
+14.90 16.65 1.75 6.18
+16.65 17.79 1.14 2.35
+18.94 20.11 1.17 2.01
+
+OD033 7707240 548365 -50 090 50.42
+
+26.46 27.44 0.98 1.90
+
+2.45 4.00 1.55 10.75
+35.32 36.85 1.53 4.86
+56.40 57.85 1.45 1.79
+
+OD034 7707240 548335 -50 090 86.22
+
+74.22 75.85 1.63 1.36
+
+
+
+52 | P a g e
+
+Hole # Northing Easting Dip Azimuth Depth
+(m)
+
+From
+(m)
+
+To (m) Width
+(m)
+
+Gold
+(g/t)
+
+39.60 41.32 1.72 1.81OD035 7707240 548311 -50 090 60.45
+42.90 44.32 1.42 1.33
+
+OD036 7706970 548353 -50 090 20.12 No Values >1 g/t
+
+11.32 12.82 1.50 1.14OD037 7706970 548333 -50 090 35.32
+27.80 29.32 1.52 2.33
+
+1.45 3.75 2.30 3.87
+8.32 9.75 1.43 31.60
+9.75 11.32 1.57 27.80
+17.32 18.87 1.55 1.23
+28.20 29.32 1.12 3.70
+30.51 31.20 0.69 1.31
+31.20 32.32 1.12 1.35
+
+OD038 7706970 548318 -50 090 50.32
+
+35.32 36.90 1.58 4.77
+
+4.13 5.99 1.86 2.00
+17.70 19.10 1.40 1.39
+
+OD039 7706970 548299 -50 090 30.16
+
+28.00 29.03 1.03 3.00
+
+21.80 23.32 1.52 2.50
+23.32 24.90 1.58 1.25
+27.60 29.32 1.72 2.28
+
+OD040 7707240 548286 -55 090 50.32
+
+47.32 49.00 1.68 1.62
+
+Note:: Down hole width has not been corrected but based on drill holes and structural dip of the
+mineralization, the interval is considered close (90%) to true width.
+
+The drill results indicate that the shallow gold mineralization lacks lithological correlation
+between holes along these sections (Figures 13 -15) and the assay results revealed
+sporadic, nugget gold values throughout. Grade uniformity and continuity of mineralized vein
+clusters are not readily apparent. Mineralized zones with > 1.00 g/t gold do exist in some
+individual drill holes but these zones cannot be easily extrapolated to surfaces and also
+cannot be easily correlated with other adjacent holes. Gold grade is primarily associated
+with quartz-carbonate veins, hematite staining and occurrence of coarse arsenopyrite in the
+core.
+
+To date drilling has not been attempted in the middle of the deposit where vein clusters were
+not evident on surface. Current interpretation indicates that the ore body plunges to the
+south with the mineralisation hosted within boudinaged tension gashes in the shear zone.
+
+
+
+53 | P a g e
+
+Figure 11-1: EPL3195 - Ondundu Schematic Cross Section – 141100
+(Westport Resources Namibia)
+
+
+
+54 | P a g e
+
+Figure 11-2: EPL3195 - Ondundu Schematic Cross Section – 140170
+(Westport Resources Namibia)
+
+
+
+55 | P a g e
+
+Figure 11-3: EPL3195 - Ondundu Schematic Cross Section – 139900
+(Westport Resources Namibia)
+
+
+
+56 | P a g e
+
+12 SAMPLING METHODS AND APPROACH
+
+Exploration Prior to 2005
+
+Sampling methods used in the many previous surface and drill programs prior to 2005 are
+poorly known. There is insufficient information available from the Ondundu legacy data to
+meet CIM requirements.
+
+A detailed review of the legacy data indicates that diamond drill core sample intervals were
+determined based on host rock type, intensity of quartz veining and sulphide mineralization.
+Individual quartz veins were sampled in total and host sediments as half core of maximum
+length of 1.5m. Holes were logged to a scale of 1:50. Detailed surface sampling at 1:100
+was done over the drill sections for surface/core correlation. By 1985 and the focus on
+selective mining much effort was expended trying to correlate vein projection along strike
+down plunge and to surface, which does indicate that there was a certain belief that such
+projectability was possible in such a structural setting. Unfortunately, the basis of their
+selective vein-mining thesis cannot be verified for the purposes of this report other than the
+sections presented by Charles by 1987 reflecting such zones and results were entirely
+quoted in cm g/t. In fact, all the diamond drill holes were re-logged on this basis and veins
+were numbered down the hole in such manner that this nomenclature would be projected to
+surface and along strike and down plunge.
+
+Sampling of boreholes was done by individual unit (i.e. Vein, sediment unit). Not all of the
+drill core was sampled. Surface trench and composite underground sampling was done as a
+series of overlapping "boxes', in order to reduce the "nugget effect". Much of the sampling
+was selective and the absence of assay data could thus underestimate the potential for
+exploiting the deposit as a low grade bulk mining target.
+
+The two RC holes drilled yielded very poor sample returns (>60%) due to unforeseen
+underground workings to depth. In order to mitigate the possibility of intersecting old
+workings in future drilling, modeling of the legacy data utilising the results from the recent
+surface re-survey programme and testing a new geophysical analysis of max/min data is
+recommended.
+
+Westport Exploration 2005-2006
+
+Stream Sediment Sampling.
+
+Steam sediment samples have been collected from sample sites, about 1 km apart from
+each on all major steams and tributaries draining the entire exclusive prospecting license
+area. Materials have been collected from natural trap sites – behind boulders and weirsand
+areas with high concentration of heavy minerals were also targeted for sampling material.
+Approximately 12 kg of -2000 microns material have been collected at each sample site.
+The material was then transported by Westport personnel to the offices in Windhoek for
+further sample preparation.
+
+In Windhoek under the supervision of Westport personnel, the initial – 2000 microns
+material was riffle split in half. The one half is stored in the storage for future reference and
+the other half is processed further. The selected half is sieved in to four size fractions -2000
++ 1000 microns, -1000 + 500 microns, -500 + 180 microns and -180 microns material. The
+
+
+
+57 | P a g e
+
+two desired size fractions ( -1000 +500 and -180 microns) are then sealed and shipped to
+Set Point Laboratories, Johannesburg, South Africa for analysis.
+
+2006 Diamond Drilling
+
+The following sampling protocol was utilized for the sampling of the 2006 diamond drill core:
+
+i. All core was transported from the drill site to the core logging facility by the project
+geologist at least once each day.
+
+ii. All core was logged and sampled at a secure core logging facility on the Ondundu
+property.
+
+iii. Sample intervals were based on lithological, mineralogical and structural features
+observed within the core. Sample intervals always began and ended at lithological
+contacts.
+
+iv. Minimum sample interval was 0.62 metres and maximum sample interval was 2.30
+metres with a typical sample size of 1.50 metres.
+
+v. The one half of the split core was placed in a polyethylene sample bag, labelled with
+an assay tag and secured with a cable tie. The corresponding one half core interval
+in the core box was marked by a stapled tag.
+
+vi. Core boxes are labelled with an aluminum tag engraved with the hole number, box
+number and the meterage of the start and end of the box.
+
+vii. Holes were labelled using an alpha-numeric code.
+
+viii.All core was accurately geologically logged and geotechnically logged.
+
+ix. All core was logged and sampled under the direction of Westport geological
+personnel.
+
+x. Core is currently being stored on the Ondundu property.
+
+The angle of the drill core and dip of the mapped stratigraphy indicate that the down hole
+intercept are approximately 90% true width. Core recovery averaged a moderate 72 per cent
+with some of the mineralised intervals being less than 60 per cent. This, along with the
+relatively small core BQ (75mm) core size makes it difficult to determine a representative
+sample. It is strongly recommended that a minimum of NQ sized core be used for future drill
+programs along with a triple tubed core barrel. The drilled area only occurred at shallow
+depths over a 270 metre strike length segment of the OMZ and cannot be taken as
+representative of the entire mineralizing system.
+
+Westport Exploration 2007-2009
+
+Trenching
+
+Manual (pickaxe and shovel) and mechanical (excavator) trenches are typically excavated
+to widths of 1 m and 1.5 m, respectively, and an average depth of 3 m, with some sections
+of trenches reaching 4 to 5 m in depth. Trenching typically extends down to the saprolite
+horizon, or locally to saprock, but often the saprolite cannot be reached due to safety
+concerns. The entire length of the trench is subjected to systematic geological mapping and
+channel sampling; with wooden pegs stuck to the side of the trench at 2 m intervals. Prior to
+sampling the Samples consist of continuous, horizontal channels excavated along the
+
+
+
+58 | P a g e
+
+bottom sidewall of the trench (~ 0.10 m above floor) with emphasis on constant sample
+volume over the length of the sample interval. Saprolite/rock chips are collected on a clean
+plastic sheet laid on the trench floor and immediately placed into a labeled plastic sample
+bag containing a unique sample ticket stapled to the inside lip of the bag, and securely
+sealed by staples. Samples are typically 2 m in length; with 1 m, to locally 0.5 m, samples
+being utilized in areas of geological interest and/or to delineate specific lithological/structural
+features. The sample intervals (i.e. sample numbers) are marked on aluminum tags stapled
+to wooden pegs stuck to the sidewall of the trench. Samples are collected by a trained field
+assistant under the supervision of a company geologist.
+
+13 SAMPLE PREPARATION AND ANALYSIS AND SECURITY
+
+Exploration Prior to 2005
+
+Sampling analysis used in the many previous surface and drill programs prior to 2006 are
+poorly known. Diamond drill logs from previous drill programs completed in the 1980s
+describe sample intervals ranging from 0.3 to 5 feet. Sample security from dispatch to the
+various laboratories was probably not sufficient to meet present day CIM standards although
+there is no evidence to doubt the veracity of the assay results. Two techniques were
+employed for assays: a "vein route" for quartz vein material and a "sediment route" for the
+intervening metamorphic host rock. Both methods use a KCN leach process to take the Au
+into solution, finishing with AAS. This assay technique can often result in underestimation of
+the gold content.
+
+The veracity of Au assay results obtained from Ondundu has been a matter of uncertainty
+as none of these were umpire assayed at a CIM qualified laboratory. The gold on the
+prospect varies in particle size from ~10microns to a few mm. The coarse nature of the Au
+introduces a considerable "nugget effect" to the mineralization.
+
+This "nugget effect" results in large variations in assay results over short distances, and
+hence statistical uncertainty in ore reserve estimates although it is fair to say that although
+diamond drilling was employed and split core assays would exacerbate this nugget effect
+TCL sampled the whole of the quartz vein containing core where these nuggets are mostly
+found.
+
+TCL/GFN spent a great deal of effort to mitigate this problem. Three separate laboratories
+were used for Au assays: TCL lab in Tsumeb, GFSA laboratory in Johannesburg and
+Scientific Services in Windhoek. Two sampling and assay methods were used.
+
+
+
+59 | P a g e
+
+Table 13-1: Laboratory Assay Comparison (Venter and Carter, 1983)
+
+Westport Exploration 2005-2006
+
+Trench, drill and surface rock chip/grab samples remain within sight of Westport technical
+staff from collection in the field to transport to the Field Camp. All samples were laid-out in
+sequence in the designated sample room to avoid duplications and omissions of samples in
+the laboratory submission orders, and the sample bags placed in labelled rice sacks in
+sequence. The shipping sacks were immediately secured with a numbered security seal (i.e.
+nylon zap strap) and stored in a locked room pending shipment to the laboratory; with only
+the Project Geologist and the Project Manager having access to the key. A record of all
+samples shipped, as well as the actual samples within the individual sacks and their security
+seal numbers, is kept by the project geologist.
+
+Upon delivery or pickup of samples, a signed copy of the Sample Submittal Form was
+provided to Westport personnel by ALS Chemex sample reception staff. All core from the
+2006 diamond drilling program and all sampling was transported to ALS Chemex, with the
+exception of the stream sediment samples and trench samples which were shipped to Set
+Point Laboratories, both in Johannesburg South Africa by Westport personnel for analysis.
+ALS Chemex and Set Point are accredited testing laboratory that conforms to the
+requirements of ISO/IEC 17025.
+
+
+
+60 | P a g e
+
+Stream Sediment Sampling
+
+The initial – 2000 microns material was riffle split in half. The one half is stored in the
+storage for future reference and the other half is processed further. The selected half is
+sieved in to four size fractions -2000 + 1000 microns, -1000 + 500 microns, -500 + 180
+microns and -180 microns material. The two desired size fractions( -1000 +500 and -180
+microns) are then sealed and shipped to Set Point Laboratories, Johannesburg, South
+Africa for analysis. These samples were analyzed for Gold (Au) using a fire assay (ICP)
+technique with a gravimetric finish and for Cu, Pb, Zn, Fe, Mn, Ag, As, and Bi using a
+pressed pellet XRF technique.
+
+2006 Drilling
+
+The samples were sealed and sent to ALS Chemex laboratories, Johannesburg, South
+Africa for analysis. ALS Chemex has attained ISO 9001:2000 for most of its laboratories
+world-wide. It is also accredited by the National Association of Testing Authorities Australia
+for its laboratories in Australia. ALS Chemex is also registered with QMI, one of the North
+American leading management systems registrar and currently working toward attaining ISO
+17025. The South African laboratories are not yet accredited, but they are working on the
+standard.
+
+All samples were crushed, pulverized and then assayed for gold using Au 50 g fire assay
+with a gravimetric finish technique. They were also assayed for other 50 elements using a
+50 element aqua regia ICP – MS technique. Quality control tests have been conducted for
+every procedure. About 5.00% of the pulps will be re-assayed for quality control purposes.
+
+The trace level gold analysis procedure uses a flux mixture, adding the sample amount of 10
+grams into the crucible, mixing and fusing. The resultant lead button is cupelled and the
+Dore bead dissolved in aqua regia and analyzed by Atomic Absorption Spectroscopy. The
+detection limit is 5 ppb Au.
+
+ALS uses international standards manufactured by Rocklabs. For ppm work, seven (7)
+different standards cover the range 0.6-7.71 ppm Au for 50g Fire Assay. One (1) standard of
+13.65 ppm is used for gravimetric determinations. In the event that one internal standard in
+a batch fails by more than + 2 standard deviations, re-assay of 10 samples either side of the
+failed standard is performed. These results, together with the new result for the re-assay
+standard, are entered in the hard copy for Westport.
+
+Westport Exploration 2007-2009
+
+Trenching
+
+Trench samples were analyzed for Gold (Au) using a fire assay (ICP) technique with a
+gravimetric finish and for Cu, Pb, Zn, Fe, Mn, Ag, As, and Bi using a pressed pellet XRF
+technique. Set Point Laboratories is an ISO 9001:2000-accredited laboratory, which control
+their data quality with the use of reagent blanks, reference materials, and replicates. Results
+are routinely examined by an independent geochemist to ensure laboratory performance
+meets required standards.
+
+
+
+61 | P a g e
+
+While the sample preparation, analyses and security of the Westport work were in line with
+best industry practices, the absence of analytical standards, duplicates and blanks inserted
+in the sample submittal stream by Westport for the 2006 drilling and 2008-2009 trenching
+programs, means the assays are not sufficient to meet CIM standards.
+
+14 DATA VERIFICATION
+
+Exploration Prior to 2005
+
+Historical data used in the preparation of this report was obtained from the Westport office in
+Windhoek, Namibia. The design of the 2006 diamond drilling program was entirely based
+upon a review of 28 historical diamond drill holes (5.538 m) completed by TCL and GFN
+between 1980 and 1989. Original diamond drill logs, assay data, and geological section and
+plan maps, filed at the Westport office in Windhoek, were used during this review.
+
+The sampling and drilling data generated by TCL and GFN cannot be qualified in terms of
+the CIM standards and can only represent the potential quantity and grade of these
+exploration targets as conceptual in nature at the present time and there is no assurance
+that they will be defined.
+
+Over and above the nugget effect of coarse gold "nugget" influences on the grade, another
+problem, which significantly affected the confidence in TCL/GFN 'ore reserve' estimates was
+the discontinuous nature of the veins and the variability of grades over distance. Sections
+were drilled on average 200m apart, the influence of each of the sections being the half
+distances to adjacent sections. Significant problems were encountered correlating veins and
+vein-grades from section to section. This was due in part to pinching and swelling and
+boudinage within the veins.
+
+The variability of grades, continuity of veins and geometric complexity of the deposit clearly
+suggests that 28 diamond holes were not enough to provide the data required to determine
+the viability of the Ondundu gold deposit and confidence for a CIM NI43-101 resource
+statement.
+
+The data-set is reasonably well constrained in XYZ for the methods of the time (tape and
+theodolite). The base line was surveyed in and tie lines turned off at right angles and
+chained. Slope interference and poor correction did at times lead to convergent tie lines over
+1km. Their exploration was done on a 50x50m grid. Accuracy (cumulative error) of loop
+closures for survey grids were expected to be not less than 10cm. It was decided that in
+order to make some use of the TCL/GFN data, the grid has been reactivated and
+resurveyed by a qualified land surveyor in WGS84 UTM33S. An accuracy of +3cm in XYZ
+may be expected from this procedure.
+
+Having a resurveyed grid (digital terrain model) will allow the TCL/GFN mapping and
+borehole data to be integrated.
+
+The Qualified Person was unable to independently verify the individual assay results
+because the mineralized intervals from the historic holes were whole core assayed . While,
+none of the historic results were verified, they reasonably fit in with the results of the 2006
+core sampling program and can be used for the purpose of defining geochemical anomalies,
+envelopes and targets for future exploration on the property.
+
+
+
+62 | P a g e
+
+Westport Exploration 2005-2009
+
+The Author reviewed the available data made available from Westport during the site visit,
+which included a digital spreadsheet database of all the drilling conducted on the Project.
+
+The Author notes that very little of the information reviewed made any mention of a QAQC
+program being in place during the time the work was performed.
+
+In order to plan for the bulk sample control drill holes Westport sought to draw sections
+based on lower cut off grades in the hope that the mineralised zones thus identified would
+have a higher spatial continuity than the high grades. Generally high-grade values have
+limited spatial continuity in coarse gold settings due to the 'nugget effect'. These are mere
+projections and based upon data that was not generated in terms of CIM standards.
+
+The 2006 diamond drill program was completed using small sized BQ core. For this reason
+the Qualified Person was unable to independently confirm the individual assay results. The
+coarse gold effect of the mineralization should require a much larger sample being collected,
+at a minimum NQ sized core. The replication of assay results has been an issue for the
+Project since the 1980s, discussed above. The Author notes that given the extremely broken
+up nature of the sampled intervals, attempting to get a good representative core sample is
+unrealistic, and the complete remaining core would have to be processed.
+
+Review of the OMZ area was carried out with the main objective of position the trenches and
+review the geology. Location problems were found at the first two trenches, 80 meters error
+was noted. A review of all trenches needs to be done in order to prove the accuracy in
+location.
+
+The main zone area is characterized by strong N-S foliation with steep dipping to west, and
+low angle bedding and weak foliation at the both sides. In the middle the strong foliation
+overlaps the bedding and there is more density of quartz veins, while at the both side, veins
+follow the bedding and seem to be scattered. Geological detail mapping with accurate
+topographic maps are necessary.
+
+The Author attempted to determine which of the holes in the database best coincided with
+the GPS collars measured in the field but to no avail. In this regard, the resurvey/GPS work
+that was completed in 2009 should be professionally drafted so that there is an up to date
+site plan showing the actual surveyed positions of the original drill holes, trenching and
+sample locations on UTM grid.
+
+Based on the extensive database available, the Author did not collect check samples on the
+Westport work. The size of the database and the nature of the gold mineralization would
+make any results statistically insignificant when compared to the number of samples in the
+total dataset.
+
+The assay data was verified by the respective laboratories using standard quality control
+tests throughout the processes. The original certificates of analysis from ALS Chemex and
+Set Point Laboratories have been perused and verified.
+
+
+
+63 | P a g e
+
+The Author concludes that no problems were found with the assay and lithology database,
+and that the collar survey data has been independently verified. The Author does
+recommend that a formal and rigorous QA/QC program be designed and implemented for
+the project.
+
+15 ADJACENT PROPERTIES
+
+There are no Adjacent Properties as defined by NI43-101
+
+16 MINERAL RESOURCE & RESERVE ESTIMATES
+
+There has been no attempt by Westport or Golconda to calculate a mineral resource on the
+property.
+
+17 MINERAL PROCESSING
+
+No mineral processing or metallurgical testing has been completed by Westport or
+Golconda.
+
+18 OTHER RELEVANT DATA AND INFORMATION
+
+The Ondundu Project is not at a development or production stage therefore no additional
+information is provided that would relate to these activities.
+
+19 INTERPRETATION AND CONCLUSIONS
+
+The regional setting is imbued with all the elements of structure, intrusive character, and
+original volcaniclastic geology interfingered with arenaceous and argillaceous rocks that
+within the orogenic formation and subsequent tectonic evolution would yield a variety of
+epithermal suites of deposits. Such is the case at Ondundu where the perceived gold and
+arsenic only deposit, has been viewed in its isolated context in time to be of upper Swakop
+(Kuiseb) age and therefore predetermined the development enterprise at Ondundu in time.
+
+Gold mineralization on the Project was first discovered in 1917 and intermittent underground
+plus alluvial mining took place from 1923 to 1945. Modern day exploration began in the
+1980s when Tsumeb Corporation Limited ("TCL") and Goldfields Namibia Ltd. ("GFN")
+completed 28 diamond drill holes totalling 5,583 metres in the Ondundu Main zone ("OMZ").
+In 1983 a historic resource estimate of 42 million tonnes grading 0.39 gram gold per tonne
+was produced by TCL, in 1987 a historic resource of 4.57 million tonnes grading 3.39 grams
+gold per tonne was reported by GFN and in 1989 a historic resource of 4.35 million tonnes
+grading 3.19 grams gold per tonne was reported by GFN. These resources are historical
+and not compliant with National Instrument 43-101 reporting standards; however they are
+considered material to the prospectivity of the Ondundu gold project. A "qualified person" for
+the purposes of NI 43-101 has not done sufficient work to qualify the historical estimate as
+current mineral resources or mineral reserves. The historical estimates should not be
+
+
+
+64 | P a g e
+
+treated as current mineral resources or mineral reserves and the historical estimates
+contained herein should not be relied upon.
+
+It is the Qualified Persons opinion that the exploration work done by Westport from 2005-
+2009 met its required objectives by providing evidence for additional prospective ground
+surrounding the present showings. Steam sediment sampling assay results revealed
+substantial gold occurrences in two different streams in the area. Values ranging from as
+low as 0.11 g/t to as high as 1.91 g/t gold. Data from hyperspectral (Hymap) survey
+identified areas of potential hydrothermal alteration that should be followed up. The
+hyperspectral data indicates that potential exists to the north of the Margarethental fault
+traditionally viewed to be the northern limit of the mineralizatin but contradicted by the only
+hole drilled on the northern side (OD 27 averaging 0.4 g/t over 291m with 83 vein sets
+bearing gold over and above the lower grade carry of the metamorphic country host rock).
+
+Based on the previous exploration and drilling by TCL and GFN in the 1980s, the Ondundu
+Project has the potential to develop an economic gold deposit.
+
+Width of the OMZ deposit is variable along strike with intersection widths 100 and 250m and
+most likely controlled by structural buckle in a ductile phase later being exploited by
+epithermal fluidization pulses. There however does seem to be a stratigraphic connect (seen
+from historic workings) between the northern portion of the OMZ and the Carr veins
+immediately to the east. Due to the plunge of the deposit this was never drill tested.
+
+The length was only drilled over the northernmost 1.5km strike extent whereas historic
+workings can be seen over a strike extent of 2.7km. The most recent drill program
+completed in 2006 and comprised only 524.7 metres. The assay results revealed sporadic
+gold values but continuity of mineralized vein cluster cannot be easily justified As a result,
+addition holes need to be drilled adjacent to the recently drilled sections. These holes will
+further help to confirm continuity of this mineralized vein clusters if there is any apparent
+continuity at all. If continuity cannot be confirmed then one can safely conclude that there
+exist no continuity of these vein clusters and therefore a different approach to this program
+will be necessary.
+
+The OMZ area requires systematic drilling to define a mineral resource compliant with NI 43-
+101.
+
+Cu/Au mineralization on EPL 3915 further to the north in the legacy OD6 grid area also
+warrants further investigation. The coeval alteration, metasomatism, tourmalinisation and
+brecciation is indicative of a complex hydrothermal setting that has led to the complex
+intrusive and stratiform occurrence of the Cu/Au/As anomalies and mineralization supported
+by ground geophysics.
+
+This area is defined from the Margarethental Fault in the south to the northern extent of the
+EPL boundary, which in the south contains faulted out northern extensions to the OMZ Au
+deposit, has new hyperspectral ground geophysics anomalies corresponding with historical
+works soaked in quartz veining, areas historically mined for Cu/Au, anomalies
+corresponding with tourmalinisation, haemetisation, albitisation, sericitisation, metasomatism
+and ground geophysical anomalies.
+
+
+
+65 | P a g e
+
+The sheer scale (6kmx4km) of alteration and metasomatism together with known Cu/Au
+mineralization, legacy Cu/Au/As soil anomalies, Cu/Au rock chip anomalies, old workings
+and mapped breccia bodies corresponding with hyperspectral anomalies and recently
+generated VLF anomalies highlights the prospectivity of the northern OD6 area and potential
+for a setting differing significantly from the Au only deposit to the south.
+
+It is clear that a regional copper anomaly exists (General Mining) verified by TCL/GFN
+based around old historic workings. That there were historic Cu/Au workings throughout the
+area and later investigated for gold potential by GFN meant that besides the Au only OMZ
+deposit to the south there was an inkling of the significance of the Cu/Au significance in the
+anticlinorium to the north in terms of epithermal meaning. The occurrence of breccias bodies
+and fuchsite as in Timmins alerts one to the potential of an epithermal family of a different
+sulphidation complexity as opposed to the Au only setting in the OMZ.
+
+20 RECOMMENDATIONS
+
+The Author is of the opinion that the Project has not been adequately explored and warrants
+the funding of a results-driven, well-structured exploration program. The Author considers
+that the Project is of sufficient merit to warrant a contingent, two stage work program with
+the initial work program estimated to cost approximately $5,226,272 (Table 20-1).
+
+20.1 Phase 1 - OMZ Resource Drilling
+
+ Diamond drill the Ondundu Main Zone to test the down plunge and deeper extents of
+the deposit as well as the anomalies the adjacent areas for resource expansion
+delineation. This will include twinning legacy holes for orientation drill procedure and
+sampling, and comparative purposes.
+
+ A combination of Reverse Circulation to sample the first 10-15m where legacy drilling
+achieved poor drill core recovery followed by Diamond Drilling (HQ) to sample drill
+core to depth especially below the water table where water was seen to affect RC
+samples.
+
+ Drilling is aimed at a minimum 50x50m grid with focus on the deeper down plunge
+expression of the full 2.7 km strike extent.
+
+ 3D Modelling of the legacy data will be on going following the recent data validation
+and auditing of the meta data set for incorporation into a computational resource
+model for the deposit.
+
+Phase 1 - OD6 (Core of the Ondundu Anticlinorium)
+
+Follow-up detailed ground geophysics and initial RAB drilling:
+
+ Complete the ground geophysical program to elucidate anomalies that with legacy
+information defines initial RAB drill sampling targets.
+
+ In order to contextualize the Cu/Au occurrences in the OD6 area together with the
+alteration, intrusive and stratiform complexity targeted regional RAB drilling is aimed
+to test legacy and currently generated anomalies.
+
+ 4280m of RAB drilling is planned to test relevant anomalies.
+
+
+
+66 | P a g e
+
+On completion of the Phase 1 program, the operating company should be able to generate
+an NI 43-101 compliant mineral resource estimate for the OMZ and adequately examined
+the full exploration potential of the OD6 area. Should the results merit continuation of
+exploration the following second stage programme is recommended.
+
+20.2 Phase 2 – OMZ bulk pre-feasibility sampling (Contingent on results of Phase 1)
+
+A phase 2 budget of $5,636,500 comprising bulk sampling for pre-feasibility study is
+contingent on positive results of the initial work program (Table 20-2).
+
+Don Boyack is of the opinion that the program and recommended budget are warranted.
+
+Table 20-1: Ondundu Gold Project – Phase One Budget
+
+Omatjete Mining – Ondundu
+Work Type Cost (C$)
+
+Licence cost, prorated 100% 572
+
+Equipment purchases, borehole logging system, 1x3t vehicle, computers 325,000
+
+Transport and shipping 103,571
+
+Office costs Yearly 191,000
+
+Geologist Salaries 20 man month @ $7,000 per month for three months 420,000
+
+Field Salaries - 12 man month @ $2,750 per month for 1.37 months 45,143
+
+Subtotal 1,085,286
+
+Ground Geophysics, spectrometer, magnetic surveys 60,000
+RAB, 4280m at $21 per metre 90,000
+Diamond and Percussion Drilling – 20000 metres at $78 per metre 1,560,000
+Assaying 20 000 samples @ $70 per sample 1,400,000
+Field Expenses/ Field Accommodation 20,000
+Hyperspectral analysis (target delineation) 30,000
+Alteration Mapping and Structural Analysis 342,857
+Surveying 64,286
+Reporting, drafting -4 man months @ $ 5,000 per month 20,000
+QP Supervision - 4 month @ $14,000 per month 56,000
+Compilation and environmental baseline studies 50,000
+Subtotal 3,693,143
+Contingency 447,843
+TOTAL 5,226,272
+
+
+
+67 | P a g e
+
+Table 20-2: Ondundu Gold Project – Phase Two Budget
+
+Omatjete Mining – Ondundu
+Work Type Cost (C$)
+Environmental Impact Assessment 100,000
+Geologist Salaries 12 man month @ $7,000 per month 84,000
+Field Salaries 12 man month @ $2,750per month 33,000
+Bulk Trench Sampling 4,000,000
+Trench Cut logging 20,000
+Processing and Assaying 50 samples @ $1500 per sample 750,000
+Field Expenses/ Accommodation 8 man months 32,000
+Reporting, drafting -2 man months @$ 5,000 per month 10,000
+Supervision 4 months @ $ 14,000 per month 56,000
+Subtotal 5,085,000
+Contingency 551,500
+TOTAL 5,636,500
+
+21 REFERENCES
+
+Public Domain TCL/GFN Reports
+
+Beal, T., (1982), Optimisation of Sample Preparation-Ondundu Project-TCL Internal Memorandum.
+
+Carter, C.J., (1983), Selective Mining of the Ondundu Gold Deposit- A Preliminary Study- TCL
+Internal Memorandum to D.M. Venter.
+
+Carter, C.J., (1983), Relationship of Average Grade to Sample Weight for 574 Ondundu Surface
+Samples. TCL internal memorandum to D.M. Venter.
+
+Charles, P.C.A.,(1985), Comparison between GFP, Scientific Services and TCL Gold Assays for the
+Ondundu Gold Prospect.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, March 1986.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, April 1986.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, May 1986.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, June 1986.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, July 1986.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, 19 September, 1986.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, October, 1986.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, November, 1986.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, December, 1986.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, January, 1987.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, March, 1987.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, July, 1987.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, August, 1987.
+
+
+
+68 | P a g e
+
+Charles, P.C.A., Ondundu Project, Monthly Report, September, 1987.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, October, 1987.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, November, 1987.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, December, 1987.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, January, 1988.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, February, 1988.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, March, 1988.
+
+Charles, P.C.A., Ondundu Project, Monthly Report, April, 1988.
+
+Charles, P.C.A., (1986), Structural Investigation of the Margarethental Area and Discussion on
+Lithogeochemistry as an Exploration Tool. Progress Report No. 1, Gold Fields of Namibia Ltd.
+
+Charles, P.C.A., (1988), Ondundu Ore Reserve Estimate at September 1987.
+
+Charles, P.C.A. and Deane, J., (1988), Motivation for a Deep Diamond Hole OD31 within the
+Common Limb over the Razorback Area – Ondundu Gold Prospect - GFN
+
+Charles, P.C.A., (1989), Ondundu Gold Prospect, Damaraland – Namibia: Summary of Exploration
+on the Ondundu Joint Venture. Gold Fields Namibia – Tsumeb Corporation Limited.
+
+Cooke, R., (1965), Preliminary Report on the Ondundu Gold and Copper Occurrences, Otjihorongo
+Reserve. Geological Survey, Windhoek, Internal Report.
+
+Deane, J. and Mills, A., (1988), Report on the Structure of the Carr Veins – GFN.
+
+Esterhuizen, A.G., (1986), Ondundu Gold Project. Assessment of Sampling Technique.
+
+Ferreira, C., (1987), Landsat and Photointerpretation of the Ondundu Area, Central Zone Namibia –
+GFL.
+
+Fiala, J.D., (1999), Report on Ondundu Gold Deposit, Namibia. Southern Cross Exploration N.L.
+
+Foster, R.P. (Editor), (1993). Gold Metallogeny and Exploration.
+
+Gasparrini, C., (1984), Report 428 – Study of the Gold Occurrence and Distribution in a number of
+rock chips from a Prospect in South West Africa.
+
+Gallaway, S., (1988), Report on the Ondundu Project, Grant M46/3/1032.
+
+Academic papers and reference texts on Orogenic Au deposits
+
+Goldfarb, R.J, Baker, T., Dube, B., Groves, D.I., Hart, C.J.R. and Gosselin, P., (2005). Distribution,
+Character, and Genesis of Gold Deposits in Metamorphic Terranes, in Economic Geology, pp407-
+450.
+
+Goldfarb, R.J., Groves, D.I., and Gardoll, S., (2001). Orogenic Gold and Geologic Time: A global
+synthesis. In: Ore Geology Reviews, 18(2001)1-75.
+
+Goldfarb, R.J., Baker, T., Dube, B., Groves, D.I., Hart, C.J.R., and Gosselin, P., (2005). Distribution,
+Character, and Genesis of Gold deposits in Metamorphic Terranes. In: Economic Geology 100th
+Anniversary Volume, p. 407-450.
+
+Grobler, S. and Heywood, L., (1977), Sampling Results from Eight Trenches at Ondundu.
+Unpublished Report to B. du Preez.
+
+
+
+69 | P a g e
+
+Groen, C. Dr, (1986) The Structural Setting of Auriferous Quartz Veins at Ondundu.
+
+Innes, J., (1981), Report No 86 – Petrography of Five Rock Samples from the Ondundu Gold
+Prospect – TCL.
+
+Hellyer, W.C., (1981), Analyzes of Gold Samples- Newmont Exploration Limited, Metallurgical
+Department- Letter to H.A.R. Meiring, dated 9-02-81.
+
+Huston, D.L., (2000). Gold in Volcanic-Hosted Massive Sulfide deposits: Distribution, Genesis, and
+Exploration. In: SEG Reviews, Vol. 13, 2000, p. 401-426
+
+Kerrich, R., Goldfarb, R., Groves, D., and Garwin, S. (2003). The Geodynamics of Word-Class Gold
+Deposits: Characteristics, Space-Time Distribution, and Origins. In: SEG Reviews, Vol. 13, 2000, pp.
+501-551.
+
+Hofstra, H.A., and Cline, S.J., (2000). Characteristics and Models for Carlin-Type Gold Deposits. In:
+SEG Reviews, Vol. 13, 2000, pp. 163-220.
+
+Kotze, T., (1988), Ondundu Monthly Report, June 1988.
+
+MacLaren, A.H., Report for the Quarter Year Ending 19 June, 1986.
+
+MacLaren, A.H., Report for the Month Ending 22 August, 1986.
+
+Martin, G.J.,(1985), Report Ond/1 – Some Mineralogical Observations of Several Samples from the
+Ondundu Gold Prospect – GFL
+
+Martin, G.J., (1986), Report No Ond/3. Gold Distribution within a Large Rock Sample from Ondundu.
+GFL.
+
+Meerkamp, M., (1987), Report No Ond/4. Preliminary Study of Fluid Inclusions from Ondundu.
+
+Meerkamp, M., (1986), Report No CG8404: Mineralogical Examination of Half-core from Borehole
+OD17. Ondundu Gold Prospect-GFL
+
+Mills, A.B.W., (1987), Monthly Report, Ondundu Gold Prospect, February, 1987.
+
+Mills, A.B.W., (1987), Ondundu Prospect, Monthly Report for May, 1987.
+
+Mills, A.B.W., (1987), Ondundu Prospect, Monthly Report for June, 1987.
+
+Miller, R. McG., (1980), Geology of a portion of Central Damaraland, South West Africa/Namibia.
+South West Africa Series No.6, Republic of South Africa, Department of Mines, Geological Survey.
+
+Moir, S.J., (1986), Proposal for the Determination of Gold-Scientific Services Laboratory.
+
+Piranjo, F. Prof., (1989), Interpretation of the Ondundu Gold Deposit.
+
+Reuning, E., (1937), The Goldfields of Ondundu, South West Africa. Geologische Rundschau, p26.
+
+Shimron, A.E., (1986), Fluid Inclusion Study from Ondundu-Geol. Survey, Israel.
+
+Sperinck, M.J., (1986), Statistical Study of Assay Results Following the "Sediment" and "Quartz"
+route.
+
+Thompson, J.F.H. and Newberry, R.J., (2000). Gold deposits Related to Granitic Intrusions. In: SEG
+Reviews, Vol. 13, 2000, p. 377-400.
+
+Walden, A., (2005), Synopsis of the Ondundu Gold Project Development Potential.
+
+Venter, D.M., (1983), Ondundu Gold Prospect Status Report, Tsumeb Corporation Limited.
+
+
+
+70 | P a g e
+
+Venter, D.M. and Evans, J., (1983), Progress Report on Grant M46/3/1032 (Ondundu Grant), Portion
+of Damaraland, SWA/Namibia- TCL Internal Report to the Mining Commissioner.
+
+Vickers, P. (1988), Report on the Potential for Mining of the Ondundu Gold Deposit. Gold Fields of
+South Africa internal report.
+
+Worthington, E.A., (1981), Preliminary Report on the Prospecting Grant (46/3/1032), four mining
+areas and seven claims over the Ondundu Gold Prospecting Grant, East-Central Damaraland.
+Tsumeb Corporation Limited.
+
+Gold mineralisation in the intracontinental branch of the Damara orogen, Namibia: A preliminary
+survey. F Pirajnoa and R.E Jacoba Dept. of Geology, Rhodes University, Grahamstown, South
+Africa
+
+Castlemaine Goldfields Ltd. Annual Report 2006
+
+Economic Geology of Australia and Papua New Guinea, AusIMM 1975
+
+Borg, G., Karner, K., Buxton, M., Armstrong, R., Van Der Merwe, S. 2003. Geology of the Skorpion
+Supergene Zinc Deposit, Southern Namibia, Economic Geology, Volume 98
+
+22 DATE AND SIGNATURE PAGE
+
+The effective date of this report is as shown on the title page and on the author's consent
+pages at the end of this document.
+
+23 ADDITIONAL REQUIREMENTS FOR TECHNICAL REPORTS ON
+DEVELOPMENT PROPERTIES AND PRODUCTION PROPERTIES
+
+The Ondundu Project is not at a development or production stage therefore no additional
+information is provided that would relate to these activities.
+
+
+
+CERTIFICATE OF QUALIFIED PERSON
+
+1. I, Don Boyack, Independent Consulting Geologist of Arym, Little Orchard, Woodham,
+Addlestone, Surrey, United Kingdom, do hereby certify that:
+
+2. I am the Principal author of and responsible for the technical report titled Ondundu Gold
+Project, Namibia and dated March 2010 and revised July 20, 2010 (the 'Technical Report')
+
+I am a consultant geologist (Master of Science – Mineral Exploration and Mining Geology)
+with over 35 years mining geology and mineral exploration experience, including medium and
+large scale open pit and underground operations. I have previously managed and had direct
+experience with JORC standard ore reserve estimation and have fulfilled the role of the
+Competent Person.
+
+I am a fellow of the Australasian Institute of Mining and Metallurgy, fellow of the Institute of
+Materials and Mining and a Chartered Engineer registered with the Engineering Council UK.
+
+3. I have read the definition of 'qualified person' set out in National Instrument 43-101 ('the
+Instrument') and certify that by reason of my education, affiliation with a professional
+association and past relevant work experience I fulfill the requirements of a 'qualified person'
+for the purposes of the Instrument.
+
+4. I have visited the Ondundu property over a period of four days from 24 to 27 November 2008.
+
+5. I am responsible for the overall preparation of the Technical Report.
+
+6. I am independent of Westport, Forsys, Angus and Golconda as defined in section 1.4 of the
+Instrument.
+
+7. I have not had prior involvement with the property that is the subject of the Technical Report.
+
+8. I have read the Instrument and Form 43-101F1, and the Technical Report has been prepared
+in compliance with that instrument and form.
+
+9. As of the date of this certificate, to the best of my knowledge, information and belief, the
+Technical Report contains all the scientific and technical information that is required to be
+disclosed to make the Technical Report not misleading.
+
+Dated at London this 20
+th
+
+day of July, 2010
+
+Don Boyack, MSc, FAusIMM, FIMM, CEng
+Independent Geological Consultant
+
+
+
+CONSENT OF AUTHOR
+
+To: The securities regulatory authorities of each of the Provinces and Territories of Canada
+
+I, Don Boyack, do hereby consent to the filing of the written disclosure of the report titled Technical Report On
+The Ondundu Gold Project EPL3195, Namibia and dated March 2010 and revised July 20, 2010.
+
+I, Don Boyack (MSc, FAusIMM, FIMMM, CEng.) do hereby certify that:
+
+I am an Independent Consulting Geologist of:
+
+Arym,
+Little Orchard,
+Woodham
+Addlestone,
+Surrey
+KT15 3ED
+United Kingdom
+
+I graduated with an MSc. in Mineral Exploration and Mining Geology from Leicester University, UK in 1979.
+
+I am a Fellow of the Australasian Institution of Mining and Metallurgy and a Fellow of the Institute of
+Materials, Minerals and Mining and a Chartered Engineer registered with the Engineering Council UK.
+
+I have worked as a geologist for a total of 35 years since my graduation from university.
+
+I have read the definition of "qualified person" set out in National Instrument 43 – 101 ("NI 43 – 101") and
+certify that by reason of my education, affiliation with a professional organization (as defined in NI 43 – 101)
+and past relevant work experience, I fulfil the requirements to be a "qualified person" for the purpose of NI 43 –
+101.
+
+I am responsible for compiling the report titled Technical Report On The Ondundu Gold Project EPL3195,
+Namibia and dated March, 2010 and revised July 20, 2010 relating to the Ondundu Project. I visited the
+Ondundu Project property on November 24, 2008 for a period of four days.
+
+I have not had prior involvement with the Ondundu Project property that is the subject of the Technical Report.
+
+I am not aware of any material fact or material change with respect to the subject matter of the Technical
+Report that is not reflected in the Technical Report, the omission to disclose which makes the Technical Report
+misleading.
+
+I am independent of the issuer applying at all of the tests in section 1.5 of National Instrument 43 – 101.
+
+I have read National Instrument 43 – 101 and Form 43 – 101F1, and the Technical Report has been prepared
+in compliance with that instrument and form.
+
+I consent to the filing of the Technical Report with any stock exchange and other regulatory authority and any
+publication by them for regulatory purposes, including electronic publication in the public company files on their
+websites accessible to the public, of the Technical Report.
+
+Don Boyack, MSc, FAusIMM, FIMMM, CEng
+Independent Geological Consultant
+
+
+'

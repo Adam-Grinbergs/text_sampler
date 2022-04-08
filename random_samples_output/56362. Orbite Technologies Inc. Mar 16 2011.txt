@@ -1,0 +1,3738 @@
+b"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rapport Technique
+
+
+   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 2010 Field Work  
+ 
+
+Grande Vallée Property 
+ 
+
+43-101 Technical Report 
+ 
+
+ 
+ 
+
+ 
+
+ 
+  
+
+ 
+
+ 
+
+Prepared for: Exploration Orbite VSPA Inc.                March 2011   
+By: Jean-Guy Levaque, Eng. 
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+2 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+Table of Content 
+ 
+
+Table of Contents………………………………………………………………………………………  2 
+
+List of Figures………………………………………………………………………………………………. 3 
+
+List of Appendices…………………………………………………………………………….………….  4 
+
+3) Summary…………………………….……………………………………………………………………. 5 
+
+4) Introduction………………….………………………………………………………………………… 6 
+ 4.1)  Client ………..…………………………………………………………………………………………………….. 6 
+
+ 4.2)  Purpose   …………………………………………………………………………………………………………. 6 
+
+ 4.3)  Sources of information and data…………..…………………………………………………… 6 
+
+ 4.4) Scope of the personal inspection by the author……………………………………….. 6 
+
+5) Reliance on Other Experts…………….…………………………………………………….. 7 
+
+6) Property Description and Location………………………………………………………. 7 
+
+7) Accessibility, Climate, Infrastructure and Physiography…….……….. 7 
+
+8) History…….…………………………………………………………………………………………………. 7 
+
+9) Geological Setting………………………………………………………………………………….. 7 
+
+10) Deposit Types……………….……………………………………………………………………….. 7 
+
+11) Mineralization…………………………………………………………………………………………. 7 
+
+12) Drilling…………………………………………………………………………………………………….. 8 
+
+13) Sampling Method ……..……..………………………………………………………..………… 8 
+
+14) Sample Preparation, Analysis and Security……………..……………………… 9 
+ 14.1) Sample Preparation Method ……………………….…………………………………………….. 9 
+ 14.2) Quality Control ……..……………………………………………………………………………………… 9 
+
+ 14.3) Major Element Analysis ………….………………………………………………………………… 10 
+
+15) Data Verification ………………..……………………………………………………………… 11 
+
+16) Adjacent Properties…………………………………………………………………………… 12 
+
+17) Mineral Processing and Metallurgical Testing………..……………………. 13 
+
+18) 2010 Exploration Works ………….………………………………………………………      14 
+ 18.1) Introduction………………………………………………………………………………………………… 14 
+
+ 18.1.1) Following 2009 .............................................................................................................. .. 14 
+
+ 18.1.2) Cut-Off Grade ….............................................................................................................. 14 
+
+ 18.1.3) Stored Core ………………………………………….......................................................................... 14 
+
+ 18.2) 2010 Drill Hole Location and Characteristics …………………………………….. 15 
+
+  
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+3 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+Table of Content 
+ 
+
+ 18.3) Geological Synthesis ……………………………………………………………………………….. 17 
+
+  18.3.1) Definition of terms……………………………………………………………………………………………………. 17 
+
+  18.3.2) Drill Holes…….................................................................................................................. 17 
+
+  18.3.3) Rock type vs. Chemistry………………............................................................................ 18 
+
+  18.3.4) Statistical Consideration…………………………………………………………………………………………  20 
+
+  18.3.5) Marin Sector Geological Interpretation…………..………………………………………….……… 21 
+
+  18.3.6) Bulk Sampling ……….........................................................................................................    27 
+
+  18.3.7) Bulk Sampling Lessons Learned ……............................................................................ 28 
+
+19) Mineral Resources Estimate ………......………………………………………………… 30 
+ 19.1) Introduction………………………………………………………………………………………………… 30 
+
+ 19.2) Calculation Methods…………………………………………………………………………………… 30 
+
+ 19.3) Indicated Mineral Resources …………………………………………………………………… 30 
+
+  19.3.1) Hypothesis…………………………………………………………………………………………………………………. 30 
+
+  19.3.2) Open Pit Sections ………………………………………………………………………………………………….. 31 
+
+  19.3.3) Caveat …………………………………………………………………………………………………………….………… 37 
+
+20) Other Relevant Data and Information…………………………………..………. 37 
+
+21) Conclusions ……………………………………...……………………………………………….…. 38 
+
+22) Recommendations and Budget……………………………………………………….  39 
+
+23) References…………………………………………………………………………………………… 42 
+
+24) Date and Signature Page …………………………………………………………………. 43 
+
+Certificate and Consents of Qualified Person …………………………………… 44 
+
+Certificate……………………………………………………………………………………….…………. 45 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+4 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+List of Figures 
+ 
+
+Figure 1: Company's Claims Location ……………………..…………………………………………………… 13 
+
+Figure 2:  2010 Drill Hole Location ……………………………………………………………………………… 15 
+
+Figure 3: 2010 Drill Hole Characteristics ……………………………………………………………… 16 
+
+Figure 4: Geological Plan …………………………………………………….……………………….…………….. 23 
+
+Figure 5:   Geological Sections 337000-337700………………………………………………………. 24 
+
+Figure 6:   Geological Sections 338000-338500……………………………………………………. 25 
+
+Figure 7:   Geological Sections 339000-339500……………………………………………………. 26 
+
+Figure 6:   Mining Sections 337000-337700………………………………………………………….. 33 
+
+Figure 6:   Mining Sections 338000-338500………………………………………………………….. 34 
+
+Figure 6:   Mining Sections 339000-339500………………………………………………………….. 35 
+
+Figure 7:   Mining Plan……….…………………………………………………………………………………………… 36 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+List des Appendices 
+ 
+
+Appendice 1 2010 Core Logs as well as those of 2009 and 2008 for 
+
+commodity. 
+ 
+
+Appendice 2  Bulk Sampling Pictures 
+
+ 
+
+Appendice 3  List of Folded Maps in Back Pockets 
+
+ 
+
+Appendice 4  Technical Report by Dr. Joël Fournier 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+5 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+3) Summary 
+ 
+
+Orbite's property is divided in three sectors: the 2010 field work, which completed 
+
+the work done in 2009, was all done in the Marin Sector. To the already drilled 993 
+
+meters, 4346 meters were added, always on an approximate 500 meter grid. Under 
+
+overburden ranging from a few meters in the West to some fifteen meters in the 
+
+East, there is now a good knowledge of not only the Claystone extension in the 
+
+Marin sector but also of the mudstone in the South and center of the sector. The 
+
+drill holes also were able to both comfort and modified different part of last year 
+
+geological interpretation. In January and February 2011, the pilot plant was able to 
+
+confirm the economic viability of extracting alumina from the mudstone; it is thus a 
+
+double positive.  Not only this mudstone increases the quantity of available material 
+
+for the future plant, but it also allows going wider thus deeper with the open pit.  
+
+The Madeleine and Simoneau sectors will be drilled next year 
+
+The company also added a number of claims around the eastern and western part of 
+
+the property in order to protect the core of the deposit. The property has now 115 
+
+claims covering 6441 hectares. 
+
+The average of the samples is 23.13 % Al2O3. The cumulative volumes of Claystone 
+
+and Mudstone are between 400 and 500 million cubic meters and this equates to 
+
+indicated resource of 800 to 1000MT, based on a prudent density of 2.0. In 2008, 
+
+strictly for claystone, the quantity was 300MT for a much smaller pit. 
+
+A major characteristic of the deposit is the very high homogeneity of the 
+
+aluminous content; it is very similar to the 2008 results where the respective 
+
+average and standard deviation for 2008 and 2010 Claystone are 24.76% Al2O3 and 
+
+0.51 compared to 24.74% Al2O3 and 0.73. 
+
+In October 2010, following the approval of a bulk sampling campaign by the MRNF 
+
+for the claim CDC 84890, we proceeded with the extraction of some 400 metric 
+
+tonnes of material in order to feed the future company's pilot plant in Cap-Chat.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+6 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+4) Introduction  
+ 
+
+4.1) Client 
+
+This present report is written for Exploration Orbite VSPA Inc., 400 St-
+
+Jacques West, office 200, Montréal, Quebec, H2Y 1S1, tel#: 514-849-7336 
+
+4.2) Objectives  
+
+The objectives of the 2010 field work were: 
+
+ In the Marin sector, refine the knowledge of the Claystone/Mudstone* 
+
+interface in the South, in the center and in the North-West.  
+
+ Determine the spread and the chemical composition of this Mudstone.   
+
+ Develop a better regional geological understanding of the overall Marin 
+
+sector in line with all the knowledge acquired to date.  
+
+ Drill sufficient holes to fulfill the first two objectives.  
+
+ Extract different characteristic bulk samples for the pilot plant 
+
+* See Chapter 18.3.1 for a definition of terms. 
+
+4.3) Sources of information and data. 
+
+The content of this report is provided in part by: 
+
+ The results of previous field works on the property as reported by 
+
+the 2008 and 2009 yearly report.  
+
+ The results of the diamond drilling campaign done between June 
+
+and September 2010.  
+
+ A report entitled: Analyse lithologique en support à l'exploration de 
+
+shale alumineux, Grande Vallée, Gaspésie – Phase 2 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+7 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+4.4) Scope of the personal inspection by the author. 
+
+Living a short distance from the project, the author was present on site 
+
+almost every working days, between June 15th and November 15th 2010.  
+
+5) Reliance on Other Experts 
+
+ 
+The diamond drill sample chemical analysis was done in the ALS Chemex Val d'Or 
+
+office under the direction of M. Richard Deschambeault 
+
+The drilling was done by Forages Dibar of Ste-Anne-des-Monts. 
+
+Ms. Michel Rheault and Guillaume Matton of VIASAT GeoTechnologies were 
+
+responsible for the geological interpretation.  
+
+M. Guy Galarneau, technician, was responsible for the preliminary GPS survey of all 
+
+the drill holes, the core handling and preliminary logging and for the production of 
+
+all the required field maps as well as many for this report. 
+
+ 
+
+Chapters 6 to 11 
+
+ 
+Since there was no change following the 2009 43-101 report, amended in August 
+
+2009, and because the regulations allows it, this present report will add nothing 
+
+further to the chapters 6 to 11 from the 2008 report. The chapters are:  
+
+ Chapter 6 Property Description and Location 
+
+ Chapter 7 Accessibility, Climate, Infrastructure and Physiography 
+
+ Chapter 8 History 
+
+ Chapter 9 Geological Setting 
+
+ Chapter 10 Deposit Types 
+
+ Chapter 11 Mineralization 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+8 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+12) Drilling 
+
+ 
+Forages Dibar Inc. operated two self-constructed drill rigs. One had greater 
+
+capacity and was equipped with NQ drilling rods, the other, for shallower drilling 
+
+was equipped with BQ-TK type rods. This last type is similar to BQ but with thinner 
+
+walls thus producing a core that is in between BQ and NQ core. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+13) Sampling Methods 
+
+ 
+All the samples came from drill core and were prepared as follow:  
+
+Once the core boxes were at the core shack, all the boxes were sequenced from 
+
+start to end of the hole.  
+
+The geologist does whatever is required to complete his core log as completely as 
+
+possible.  
+
+From the onset of a geological formation under study, a sampling tag is put every 
+
+three meters until the end of the hole.  
+
+Afterwards, each three meter section is bagged with its own tag.  Then all the bags 
+
+are put in a larger container and shipped to the analytical laboratory. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+9 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+14) Sample Preparation, Analysis and Security 
+
+ 
+Regarding the sample preparation and analysis, M. Richard Deschambeault, from 
+
+ALS Chemex, supplied the following: 
+
+14.1) Drill Core Sample Preparation Technique. 
+
+ Upon receipt of the samples, they are classified in numerical order and 
+
+a new 8-digit number is assigned to each, preceded by the code letters 
+
+of the preparation laboratory. This number identifies the samples and 
+
+provides a reference for the lab personnel. Those sample numbers are 
+
+then transferred by optical reader (bar code) and each sample is 
+
+weighed.  
+
+ The samples are dried, if required. 
+
+ Through subsequent grinding stages, each sample is reduced to 70% 
+
+passing 2 mm.  
+
+ Using a Jones riffle, a representative 250 grams fraction is taken from 
+
+the sample. The unused remaining portion is returned to the bag and 
+
+stored for future references.  
+
+ The representative sample is pulverized to 85% passing 200 mesh with a 
+
+ring pulveriser.  The sample is then transferred to a marked bag and 
+
+sent to the laboratory for analysis.  
+
+14.2) Quality Control 
+
+Once every shift, a sifting test is performed to verify that the 70%- 
+
+passing-2mm-at-the-grinder norm as well as the 84%-passing-200-mesh-
+
+at-the-pulveriser norm are in strict adherence.   
+
+The crushers and grinders are cleaned with compressed air between each 
+
+sample and a neutral media is run through between each series of sample.  
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+10 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+The disks and bowl of the pulveriser are hand cleaned to recuperate the 
+
+entire sample and compressed air is used in between each sample to 
+
+complete the cleaning of bowl and disks.   
+
+14.3) Major Elements Analysis – ME-XRF06 
+
+Sample decomposition with 50% Li2B4O7 and 50% LiBO2 (WEI-GRA06) 
+
+Analytical Method: X-Ray Fluorescence (XRF) 
+
+A burnt sample of 0, 9 g is added to 9, 0g of lithium borate flux (50% 
+
+/50% Li2B4O7 / LiBO2); after being well mixed, it is melted in a crucible 
+
+between 1050 - 1100 ° C. A fused bead is poured from the crucible and 
+
+analysed by XRF.  
+
+ 
+Note: Since sulphur or base metal rich samples can wear out platinum crucible, an alternative 
+
+method such as ME-ICP06 could be used.  
+
+ 
+
+Element Symbol Units Analytical Limit 
+
+Aluminum oxide Al2O3 % 0.01 100 
+
+Barium oxide BaO % 0.01 100 
+
+Calcium oxide CaO % 0.01 100 
+
+Chrome oxide Cr2O3 % 0.01 100 
+
+Iron oxide Fe2O3 % 0.01 100 
+
+Potassium oxide K2O % 0.01 100 
+
+Magnesium oxide MgO % 0.01 100 
+
+Manganese oxide MnO % 0.01 100 
+
+Sodium oxide Na2O % 0.01 100 
+
+Phosphorus oxide P2O5 % 0.01 100 
+
+Silicon dioxide SiO2 % 0.01 100 
+
+Strontium oxide SrO % 0.01 100 
+
+Titanium oxide TiO2 % 0.01 100 
+
+Loss on Ignition LOI % 0.01 100 
+
+ Total % 0.01 101 
+
+     
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+11 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+15) Data Verification 
+The quality control, done up to now by the chemical laboratory, seem adequate at 
+
+this time to determine with sufficient precision the chemical composition of both 
+
+the Claystone and the Mudstone, particularly their alumina content range.  
+
+Further verification methods could be necessary in the future if, for instance, the 
+
+extraction process was jeopardize by certain critical levels of components in the 
+
+Claystone or undesirable elements outside those already analysed.  
+
+Here is an example of duplicate analysis as well as standards analysis done on a 
+
+routine basis for each batch of delivered samples. 
+
+ 
+
+ 
+
+VO10128966 - Finalized           
+
+CLIENT : ORBITE - Exploration Orbite VSPA Inc. 
+  
+
+  
+
+# of SAMPLES : 44 
+    
+
+  
+
+DATE RECEIVED : 2010-09-10 
+   
+
+  
+
+PROJECT : ARGILE GRANDE VALLEE 
+   
+
+  
+
+CERTIFICATE COMMENTS :  
+   
+
+  
+
+PO NUMBER :   
+    
+
+  
+
+  
+ME-
+XRF06 ME-XRF06 ME-XRF06 ME-XRF06 ME-XRF06 ME-XRF06 
+
+SAMPLE SiO2 Al2O3 Fe2O3 CaO LOI Total 
+
+DESCRIPTION % % % % % % 
+
+I847117 58,08 19,4 6,47 0,96 5,57 98,58 
+
+I847117 58 19,31 6,5 0,96 5,56 98,4 
+
+I847673 26,44 8,67 3,43 28,35 26,6 99,44 
+
+I847673 26,55 8,71 3,46 28,51 26,6 99,83 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+12 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+VO10128966 - Finalized           
+
+CLIENT : ORBITE - Exploration Orbite VSPA Inc. 
+  
+
+  
+
+# of SAMPLES : 44 
+    
+
+  
+
+DATE RECEIVED : 2010-09-10 
+   
+
+  
+
+PROJECT : ARGILE GRANDE VALLEE 
+   
+
+  
+
+CERTIFICATE COMMENTS :  
+   
+
+  
+
+PO NUMBER :   
+    
+
+  
+
+  
+ME-
+XRF06 ME-XRF06 ME-XRF06 ME-XRF06 ME-XRF06 ME-XRF06 
+
+SAMPLE SiO2 Al2O3 Fe2O3 CaO LOI Total 
+
+DESCRIPTION % % % % % % 
+
+STSD-4 58,79 12,17 5,66 3,98 11,4 99,87 
+
+STSD-4 58,54 12,21 5,64 4,02 11,45 99,72 
+
+SY-4 49,99 20,63 6,25 8,09 4,57 99,54 
+
+SY-4 49,84 21,01 6,25 8,1 4,77 99,96 
+
+BLANK 0,01 0,01 -0,01 -0,01 0 0,02 
+
+BLANK 0,01 -0,01 -0,01 -0,01 0 0,01 
+
+ 
+
+The Certificates of Analysis for every sample will be attached to this report by the 
+
+head office of Exploration Orbite VSPA Inc. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+13 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+16) Adjacent Properties 
+
+ 
+Figure 1 shows the new claim map of Exploration Orbite VSPA Inc.  
+
+Part of the Marin sector is still under the mining lease 715 owned by M. Réal Rioux. 
+
+As of August 29, 2010, we registered 35 new claims around the Marin sector for an 
+
+added 1969 ha, as well as registering on September 15, 2010 18 new claims around 
+
+the Simoneau sector for an extra 1015 ha. This was done to increase the safety 
+
+boundary around the aluminous clay area. As of February 1, 2011, a total of 115 
+
+claims for 6441 ha are now registered in the company's name. 
+
+ 
+
+ 
+
+                                             Figure 1, Company's Claim Location. 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+14 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+17) Mineral Processing and Metallurgical Testing 
+
+ 
+The author is unaware of any mineral processing tests or metallurgical testing done 
+
+on the property's material during 2010. But during January and February 2011, 
+
+many results were achieved as shown by the technical report of Dr. Joël Founier in 
+
+appendix 4.  
+
+ 
+
+18) 2010 Exploration Works 
+
+  
+
+18.1) Introduction 
+
+18.1.1) Following 2009 
+
+As already mentioned, the 2010 drill campaign is the continuation of 
+
+the aborted 2009 campaign with a few added holes in order to help 
+
+refine the geological interpretation of the Claystone deposit and its 
+
+mudstone counterpart, more precisely, the location, shape and 
+
+composition of the different mudstone layers on the side and in the 
+
+middle of the deposit. 
+
+To get a better understanding of the deposit, both the 2008 and 2009 
+
+drill holes results will be included, not only in the core logs of the 
+
+appendices, but also used in the interpretation of the 2010 results.  
+
+ 
+
+18.1.2) Cut-off Grade  
+
+Contrary to the 2008 report and because of the emphasis on the 
+
+mudstone, there will be no cut-off grade used to eliminate samples; 
+
+only sandstone and quartzite samples will be kept unanalysed.  
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+15 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+18.1.3) Stored Core. 
+
+Similar to previous years, the whole core was sent to the laboratory 
+
+for chemical analysis after being systematically logged and 
+
+photographed.  All non-sampled cores were regrouped by three meters 
+
+length and bagged to keep their integrity.  
+
+ 
+
+ 
+
+18.2) 2010 Drill Hole Location and Characteristics 
+
+ The following figure 2 shows the 2010 drill holes location. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 2, 2010 drill holes location. 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+16 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+Furthermore, the following table shows the physical characteristics of the 
+
+2010 campaign (as well as those of 2009 and 2008) (with Portable GPS) 
+
+HOLE NO LONG LAT ELEV LENGHT AZ DIP 
+
+1001 339713,00 5440823,00 380,00 201 0 -90 
+
+1002 339911,00 5440987,00 380,00 147 0 -45 
+
+1003 339000,00 5440600,00 483,00 411 0 -45 
+
+1004 338501,00 5440653,00 495,00 138 0 -45 
+
+1005 338500,00 5441100,00 400,00 151 0 -45 
+
+1006 338000,00 5440619,00 420,00 138 0 -45 
+
+1007 337995,00 5441009,00 350,00 390 0 -45 
+
+1008 337700,00 5441600,00 300,00 213 0 -45 
+
+1009 337358,00 5441358,00 240,00 372 0 -45 
+
+1010 337200,00 5441800,25 249,00 200 0 -45 
+
+1011 338503,00 5441172,00 400,00 348 0 -45 
+
+1012 338500,00 5440850,00 400,00 21 0 -90 
+
+1013 338500,00 5440829,00 404,00 33 0 -90 
+
+1014 338500,00 5440829,00 404,00 15 180 -45 
+
+1015 338853,00 5440875,00 435,00 90 0 -45 
+
+1016 338853,00 5440875,00 435,00 42 0 -90 
+
+1017 338300,00 5440619,00 420,00 204 0 -60 
+
+1018 337993,00 5441433,00 380,00 339 0 -45 
+
+1019 338977,00 5440806,50 468,00 63 0 -90 
+
+1020 338977,54 5440806,50 460,00 30 180 -45 
+
+1021 337800,00 5441423,40 379,00 123 180 -45 
+
+1022 336712,00 5441731,20 188,00 149 0 -90 
+
+1023 336712,00 5441731,20 188,00 138 0 -45 
+
+1024 337000,00 5440747,00 245,00 183 0 -45 
+
+1025 337000,00 5440747,00 245,00 90 0 -60 
+
+1026 337700,00 5441884,00 340,00 33 0 -90 
+
+1027 337700,00 5441884,00 340,00 84 0 -45 
+
+TOTAL: 27  HOLES   4346 m   
+
+901 338850,00 5441100,00 380,00 234 90 -45 
+
+903 339500,00 5440800,00 450,00 183 0 -90 
+
+904 339500,00 5440800,00 450,00 456 0 -45 
+
+907 339000,00 5440600,00 480,00 120 0 -45 
+
+801 337872,00 5441274,00 389,00 141 0 -90 
+
+803 339067,00 5441377,00 358,00 198 0 -90 
+
+804 339067,00 5441377,00 358,00 201 180 -45 
+
+805 339067,00 5441377,00 358,00 180 0 -45 
+
+806 339466,00 5441403,00 323,00 129 0 -90 
+
+807 339466,00 5441403,00 323,00 105 0 -45 
+
+808 338477,00 5441317,00 400,00 51 0 -90 
+
+809 338670,00 5441480,00 373,00 141 0 -90 
+
+810 338670,00 5441480,00 373,00 120 0 -45 
+
+812 338027,00 5441627,00 330,00 135 0 -90 
+
+813 338027,00 5441626,00 330,00 105 0 -45 
+
+814 339210,00 5440987,00 386,00 273 0 -45 
+
+GR TOTAL: 43 HOLES     7118     
+
+ 
+
+Figure 3, 2010 drill holes physical characteristics (2009 and 2008). 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+17 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+18.3) GEOLOGICAL SYNTHESIS 
+
+18.3.1) Definition of Terms 
+
+In previous governmental or company reports, many terms were used 
+
+to define the rocks encountered on the property whether it was 
+
+Argillite, Claystone, Mudstone, Mudrock, Siltstone, Red Shale, 
+
+Argillaceous Mudstone, Shale Clay, all of those mixed by numerous 
+
+colors like red, green, gray, purple, black, verdigris, etc.  
+
+Since the purpose of the project is the acquisition of knowledge on the 
+
+quantities of Al2O3  bearing rocks and since the author does not wish 
+
+to start a discussion on the nomenclature in sedimentology, he, 
+
+unilaterally, decided to call Claystone all samples containing more than 
+
+23% Al2O3 and Mudstone all the samples between 18 and 23% Al2O3 .  
+
+ 
+
+18.3.2) Drill Holes 
+
+Hole 901 was supposed to enlighten the suspected anomaly just to the 
+
+East of it; starting in Claystone and remained in it for 234 m.  It was 
+
+stopped and 902 was cancelled. Holes 903 and 904 shared the same 
+
+set-up on a quartzite outcrop in order to define its shape. Hole 907, 
+
+started in shale, remained in it for 120 m and was stopped for breach 
+
+of contract.  
+
+Holes 1001 and 1002 were to give us info for the eastern part of the 
+
+deposit; 1001 remained in Mudstone and 1002 jammed at 147 m still in 
+
+quartzite. Holes 1003, 1004, 1006 and 1017 helped defined the 
+
+mountain top to the South. Holes 1015, 1016, 1019 and 1020 detailed 
+
+the Northern flank of this same mountain.  Holes 1012, 1013 and 1014 
+
+were used to pinpoint the location of the bulk sampling. Holes 1005, 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+18 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+1007, 1011, 1018 and 1021 located geological contacts in the center of 
+
+the sector while  holes 1009, 1024 and 1025 did the same for the West 
+
+and holes 1008, 1010, 1022, 1023, 1026 and  1027 for the North-West.  
+
+ 
+
+18.3.3) Rock Type vs. Chemistry 
+
+Of all the recovered samples of Mudstone and Claystone, 1180 were 
+
+analysed; below are the overall characteristics: 
+
+ 
+
+ 
+
+S
+iO
+
+2
+ %
+
+ 
+
+A
+l2
+
+O
+3
+
+ %
+ 
+
+F
+e
+2
+
+O
+3
+
+ %
+ 
+
+C
+a
+O
+
+ %
+ 
+
+M
+g
+O
+
+ %
+ 
+
+N
+a
+2
+
+O
+ %
+
+ 
+
+K
+2
+
+O
+ %
+
+ 
+
+T
+iO
+
+2
+%
+
+ 
+
+ 
+MAX  63.91 26.87 13.02  8.10  3.15  3.06  4.80  1.47  
+
+ MIN 47.85  15.58  3.18  0.20  1.08  0.31  1.99  0.64  
+
+ AVE 53.29  22.77  8.36  0.65  1.67  1.42  3.41  0.98  
+
+ s 2.82  2.37  0.73  0.56  0.32  0.41  0.48  0.12  
+
+  
+
+Sorting those 1180 samples through a series of Al2O3 cut-offs, one 
+
+gets the following table and graph: 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+19 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+The second column represents the different cut-offs; the third 
+
+column shows the resulting average grade of the remaining lot. The 
+
+fourth is the remaining number of samples in the lot while the fifth is 
+
+the number of sample in each class. 
+
+In the graph, the X Axis represents the class and the Y Axis the 
+
+average. 
+
+As the cut-off goes up, so does the average and inversely the number 
+
+of sample decreases. One can see the curve has two inflection points, 
+
+one at 24.42% Al2O3 related to a cut-off of 21.5% Al2O3 and the other 
+
+one at 24.73% Al2O3 related to a cut-off of 23% Al2O3. Moreover, the 
+
+number of analyses in each class is rather low between those two cut-
+
+offs. This could be due to a different type of rock that I would call 
+
+Transitional Mudstone. 
+
+Although most of the contacts between Mudstone and Claystone is 
+
+rather sharp, showing a clear jump in the Al2O3 analysis, there are a 
+
+few holes showing grades between 21.5 and 23% Al2O3 at the contact, 
+
+Class Cut-Off Average Number Delta
+
+1 16,50 22,78 1179 1
+
+2 17,00 22,78 1178 1
+
+3 17,50 22,79 1176 2
+
+4 18,00 22,82 1170 6
+
+5 18,50 22,86 1161 9
+
+6 19,00 23,01 1118 43
+
+7 19,50 23,24 1054 64
+
+8 20,00 23,48 986 68
+
+9 20,50 23,90 872 114
+
+10 21,00 24,27 780 92
+
+11 21,50 24,42 742 38
+
+12 22,00 24,56 707 35
+
+13 22,50 24,66 677 30
+
+14 23,00 24,73 650 27
+
+15 23,50 24,83 610 40
+
+16 24,00 24,94 549 61
+
+17 24,50 25,16 413 136
+
+18 25,00 25,48 230 183
+
+22,50
+
+23,00
+
+23,50
+
+24,00
+
+24,50
+
+25,00
+
+25,50
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+
+A
+v
+e
+ra
+g
+e
+
+Class
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+20 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+grades that cannot be found neither inside the Claystone nor inside 
+
+the Mudstone.  
+
+ 
+
+18.3.4) Statistical Considerations  
+
+The 2008 345 Claystone analysis gave an average of 24, 76% Al2O3 
+
+with a standard deviation of 0, 51 and with a variation coefficient of 0, 
+
+02. The 2010 results, including the 2009 ones, gave, for 651 analyses, 
+
+respectively, 24, 74% Al2O3, 0.73 and 0, 03, which is eminently similar. 
+
+The following Al2O3 table compares year 2008 with 2009/2010 and 
+
+with the sum of the three for Mudstone, Claystone and both.  
+
+ 
+
+Mudstone Claystone Total 
+
+ 
+
+2
+0
+
+0
+8
+
+ 
+
+0
+9
+
+-1
+0
+
+ 
+
+0
+8
+
+-0
+9
+
+-1
+0
+
+ 
+
+2
+0
+
+0
+8
+
+ 
+
+0
+9
+
+-1
+0
+
+ 
+
+0
+8
+
+-0
+9
+
+-1
+0
+
+ 
+
+2
+0
+
+0
+8
+
+ 
+
+0
+9
+
+-1
+0
+
+ 
+
+0
+8
+
+-0
+9
+
+-1
+0
+
+ 
+
+Number 86 528 614 345 651 996 431 1179 1610 
+
+Average 
+Al2O3 20,83 20.36 20,43 24,76 24,74 24,74 23.98 22,77 23,09 
+
+s 1.08 0,57 1.17 0.51 0.73 0.66 1.71 2,37 2,28 
+
+ 
+
+For Al2O3, the two campaigns are carbon copies of each other for both 
+
+Mudstone and Claystone. For the sum of the two, the small bias is due 
+
+to the fact that the 2008 campaign had very little Mudstone analyses.   
+
+Redoing the previous exercise with all the samples, we can see that 
+
+whether the cut-off is 23% or 21.5% Al2O3, the averages are identical 
+
+at 24.74% Al2O3  and 24.48% Al2O3 . Even with a very low cut-off of 
+
+18%, the average is still a very respectable 23.13% Al2O3.   
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+21 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+This average is relatively high and means that the totality of the 
+
+Mudstone  becomes available for production, following the results of 
+
+the pilot plant. 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+As a direct consequence, one has a dramatic increase of available 
+
+material, as will be demonstrated in the following chapter. Not only is 
+
+Mudstone now part of the future plant feed, but it also means a wider 
+
+open pit able to go deeper.  
+
+To confirm this trend, we need to run a Mathematical Model of the 
+
+deposit to determine the various quantities of available materials.    
+
+    
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cut-Off Average Number Delta 
+
+ 
+
+Cut-Off Average Number Delta 
+
+16,00 23,08 1609 1 
+
+ 
+
+21,00 24,35 1156 113 
+
+16,50 23,10 1609 0 
+
+ 
+
+21,50 24,48 1111 45 
+
+17,00 23,11 1608 1 
+
+ 
+
+22,00 24,59 1067 44 
+
+17,50 23,11 1606 2 
+
+ 
+
+22,50 24,68 1027 40 
+
+18,00 23,13 1600 6 
+
+ 
+
+23,00 24,74 994 33 
+
+18,50 23,16 1589 11 
+
+ 
+
+23,50 24,83 940 54 
+
+19,00 23,29 1545 44 
+
+ 
+
+24,00 24,91 871 69 
+
+19,50 23,48 1476 69 
+
+ 
+
+24,50 25,08 685 186 
+
+20,00 23,69 1397 79 
+
+ 
+
+25,00 25,42 331 354 
+
+20,50 23,83 1269 128 
+
+ 
+
+        
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+22 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+18.3.5) Marin Sector Geological Interpretation 
+
+The geological plan in the following figure is different from the one of 
+
+last year in a few details: 
+
+The fault to the South moved a little to the North and split within the 
+
+Three-Pistoles Group. The Claystone deposit moved a little more to the 
+
+West and the contact fault between the Orignal and Rivière-Ouelle 
+
+Formations moved South in the eastern part. 
+
+Looking simultaneously section 338000 and the plan, one can imagine 
+
+the Orignal Formation was "caught" between parts of the Three-
+
+Pistoles Group; because the Orignal formation was mainly soft rocks, it 
+
+folded and even faulted in some places in the West.  
+
+It is interesting to note that the three hills on the property kept their 
+
+"hard rock" cover and what seemed to be a syncline following the 
+
+topography is actually the remnants of an anticline.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+23 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+Figure 4 Geological Plan 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+24 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+Figure 5 Geological Sections 337000-337700 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+25 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+Figure 6 Geological Sections 338000-338500 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+26 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+Figure 7 Geological Sections 339000-339500 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+27 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+18.3.6) Bulk Sampling  
+
+By the end of the 2010, the Company had put together everything 
+
+necessary to begin the operation of the Pilot Plant, situated at Cap-
+
+Chat, in the Gaspe Peninsula. The purpose of this Plant is to prove the 
+
+industrial and economic viability of the alumina extraction process 
+
+from the material coming from its Grande Vallée property and mainly 
+
+from the Marin Sector.  
+
+The start-up being scheduled for December 2010, it was necessary to 
+
+proceed with a bulk sampling campaign to supply the Pilot Plant with 
+
+the required quantities to last until the following spring.  
+
+We then proceeded to get a bulk sampling authorization from the 
+
+Mining Title Division of the Quebec Ministry of Natural Resources and 
+
+Fauna (MRNF), allowing us to excavate some 400 metric tonnes, the 
+
+authorization to cut the undergrowth from the MRNF Gaspe Division 
+
+and a non-subjection notice from the Ministry of Sustaining 
+
+Development, Environment and Parks.  
+
+As of the writing of this report, all the tonnage has been delivered to 
+
+the Pilot Plant.  
+
+We have the possibility of quarrying a couple of hundred tonnes more 
+
+if the Pilot Plant so requires next spring; the prerequisite is to send a 
+
+monetary caution covering 70% of the total rehabilitation costs. If 
+
+the Pilot Plant doesn't require anymore material, the whole site will be 
+
+reclaimed as soon as weather permits in the spring of 2011.  
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+28 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+18.3.7) Bulk Sampling Lessons Learned. 
+
+This bulk sampling was the occasion to dig deep into the Claystone for 
+
+the first time ever. Five items stand out after this experiment which 
+
+will impact on the mining and handling in the future.  
+
+The overburden was bulldozed away down to ± 20 cm of the contact 
+
+with the altered Claystone; it was relatively easy to do by scraping 
+
+down to the contact from place to place as indicated by the #5 
+
+photograph of appendix 2. The remaining 20 cm was removed by the 
+
+shovel to prevent polluting the contact by the tracks of the dozer.    
+
+During full production, the cleaning of the surface of the altered 
+
+Claystone will be relatively easy to accomplish.  
+
+To extract the material, we used an EC330 Volvo shovel with 250 HP, a 
+
+2 m³ bucket as well as a "bear claw". It was easy to dig into the 
+
+Claystone even without the "claw" and, of course, blasting wasn't an 
+
+issue. 
+
+Given a somewhat larger shovel, equipped with a "claw", it will be easy 
+
+to extract a great proportion of the material, except probably the 
+
+quartzite waste material.  
+
+Repeated truck movement over Claystone, whether altered or not, tend 
+
+to render the material slippery and sticky, especially during and after 
+
+rainfalls. The low grade Mudstone turned out to be an excellent road 
+
+topping material both during rain and snow falls. With a grade varying 
+
+between 16 and 18% Al2O3, this material will become less disturbing in 
+
+the making of temporary roads or ramps in the future open pit.   
+
+The Marin sector contains an ample supply of low grade Mudstone, 
+
+which turns out to be a very good temporary road topping material.   
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+29 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+The sampling pit was dug some 3 to 4 meter below the surface of the 
+
+extraction site; it unfortunately fill up to a meter from surface very 
+
+rapidly solely from water table influx.  
+
+Even if the weather was extremely wet in the previous weeks, the 
+
+speed at which the pit fill up warrants a thorough hydrogeological 
+
+study to forecast pumping requirements during full time operation.  
+
+Even if it did not seemed to be a problem during the loading and 
+
+hauling phases, the material turned out to be a major problem during 
+
+the handling and crushing phase of the extraction project. The 
+
+material capacity to absorb water renders it very sticky and prone to 
+
+build-ups. 
+
+The handling equipment will have to be chosen with care to overcome 
+
+the sticky behaviour of the Claystone as well as the Mudstone to a 
+
+lesser degree. The pilot plant is already working on this.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+30 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+19) Mineral Resources Estimates 
+
+ 
+19.1) INTRODUCTION 
+
+Following the technical report in appendix 4, the previous 43-101 
+
+report warnings no longer apply. From now on, the notion of indicated 
+
+resources will be used following the quantity and quality of the 
+
+available data.  
+
+ 
+
+ 
+
+19.2) CALCULATION METHOD 
+
+At this stage of the project, we consider that the geometric method 
+
+of half-distance of sections is still sufficient, given the hypothesis of 
+
+geological formation continuity.  Of course this method implies a 
+
+certain level of uncertainty, given the assumption that the bedding is 
+
+regular and in straight line between sections. This uncertainty 
+
+translates into a variation of volume in the order of 20%.  
+
+Furthermore, the average of the drill Al2O3 analysis can be used to 
+
+give an idea of the quality of the mineralisation.  
+
+ 
+
+19.3) MINERAL QUANTITIES 
+
+19.3.1) Hypothesis 
+
+The recommendations of the 2008 report, considering the wall 
+
+angles in the Claystone, are still valid, given the numerous spot check 
+
+done in the 2010 drilling campaign (see core logs in appendix I).  
+
+The northern slopes of the pit are determined by the contacts 
+
+between the geological formations. The southern slopes will be 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+31 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+either on the contact or at 45° in quartzite; the few RQD readings, 
+
+done this year on the core, confirm the 2008 report conclusions on 
+
+the very weak slope resistance of the Claystone.   
+
+Eastern and western slopes should be in Claystone, thus will be at 
+
+30° when they do not daylight in the topography. 
+
+The maximum depth of the pit is at 100 meters A.S.L., to keep it at 
+
+the level of the Madeleine River and the access to the pit is from 
+
+the East. 
+
+Waste extraction is kept to a minimum and the benches are sloping 
+
+towards the East.  
+
+ 
+
+19.3.2) Open Pit Sections 
+
+In the same order as the geological sections, the following figure 8, 
+
+9 and 10 show the open pit sections, the plan is on figure 11. 
+
+Section 337000 shows a two-part pit because of the huge mass of 
+
+shale in the middle that gets deeper and wider towards the West. 
+
+Less than 700 meters to the East, it's full width. The subsequent 
+
+sections speak for themselves. 
+
+The following table gives an estimation of the total volumes of 
+
+claystone and Mudstone in the pit as shown in figure 11. Since the 
+
+calculation is done from sections, as indicated in chapter 19.2, the 
+
+first column give the section and the second the total distance of 
+
+influence. For each material in each section we thus have, given its 
+
+influence, the volumes represented by each section. An experimental 
+
+factor is applied to this particular method as well as the precision  
+
+factor of 20%.  
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+32 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+On can note that the Waste to Ore* ratio varies from 0.21 to .017 
+
+which is excellent. 
+
+ 
+
+ 
+
+ 
+
+* = The word "ore" refers only to the expression waste to ore ratio 
+
+and is in no way indicative of the quality of the available volumes. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+33 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+Figure 8 Open Pit Sections 337000-337700 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+34 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+Figure 9 Open Pit Sections 338000-338500 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+35 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+Figure 10 Open Pit Sections 339000-339500 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+36 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+Figure 11 Open Pit Plan 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+37 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+19.3.3) CAVEAT 
+
+The author, responsible for the previous estimation, is in no way 
+
+related to the client, whether directly or indirectly, other than, as 
+
+an independent consultant, being responsible for the project field 
+
+follow-up and the writhing of the present report.  
+
+  
+
+20) Other Relevant Data and Information 
+
+At the time of writing, the author does not have any other relevant data or 
+
+information likely to enrich this report.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+38 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+21) Conclusions 
+ 
+
+The mandate of the 2010 field campaign was to refine the geological model, 
+
+to better define Mudstone horizons and gather a bulk sample. Quoting 
+
+Viasat's report, one can say that "the compilation of drilling data allowed 
+
+confirming and refining the phase 1 model …. Adjustments were made to 
+
+lithological contours, faults were redrawn and now fold behaviour are better 
+
+defined." Furthermore, "the spatial distribution of Claystone is better 
+
+ascertained." 
+
+The chemical average of alumina in claystone for the past three years is 
+
+24.74% Al2O3, demonstrating a surprising homogeneity while the average, 
+
+with Mudstone, is 23.13% Al2O3. The volumes related to the latter average 
+
+vary from 400 to 500 Mm3. Following the results obtained by the pilot plant, 
+
+one can use the concept of indicated resources and, assuming a prudent 
+
+density of 2.0, the tonnages vary from 800 to 1000 MT. In the coming year, 
+
+a specific study will be launched to determine the bulk density of the 
+
+product as well as its relative humidity. 
+
+The 2011 drilling should not increase this quantity and the mathematical 
+
+model should bring the tonnage closer to the lower limit. 
+
+The bulk sampling has shown some stunning characteristics of the materials. 
+
+The contact between fragmented and sound Claystone is easily recognisable 
+
+during operations. The use of a large back shovel can preclude the use of 
+
+explosives. There were, nevertheless, two particular features: to control the 
+
+water infiltration, a thorough hydrological study should supply all the 
+
+required parameters. Furthermore, the sticky behaviour of the fine portion 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+39 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+of the material, whether Claystone or Mudstone, is such that it will require 
+
+wet grinding which is already planned at the Pilot Plant. 
+
+ 
+
+ 
+
+ 
+
+22) Recommendations and Budget 
+Following is a series of recommendations and cost estimation not 
+
+necessarily in order of priority;  
+
+ Hydrological study. The work done for the bulk sampling campaign 
+
+proved that the water table is going to be dealt with at least during 
+
+high water period like autumn and spring.  The best way is to get rid of 
+
+the water through proper pump sizing. A hydrological study is required 
+
+to give the transmitivity of the area through a series of pumping wells 
+
+and piezometers. 
+
+ Opportunity Study. At this stage of the project, such a study is 
+
+required to ascertain the possibility of such a project in the field. Its 
+
+scope need to be defined by the Directors of the Company. 
+ Mining Lease. At least for the Marin Sector, we need to ask the 
+
+governmental authorities to transform the claims into a Mining Lease. 
+
+The purpose, here, is to be ready to start pre-production without 
+
+having to wait after the different steps required. To get this lease, it 
+
+is required to survey it according to governmental procedure, obtain 
+
+permission from native nations and supply a 20-year reclamation plan. 
+
+ Main Access Road. A better road is required to get to the heart of the 
+
+project site. This road needs to be shorter, easily maintainable, able to 
+
+contain two-way traffic and manageable in winter. 
+
+ Mathematical model. In order to be able to optimize the pit 
+
+operations, we need to make a mathematical model of the geology 
+
+through the application of standards computer programs. 
+
+ Mine Design and Planning. Stemming from the mathematical model, we 
+
+need to perform multi pit design scenarios in order to optimize 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+40 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+equipment and costs and conclude with pit planning proposal to 
+
+optimize process throughput.  
+
+ Drilling for Contacts at the Marin Sector. The only remaining 
+
+information still required to refine the interpretation of the deposit is 
+
+a better knowledge of the outer limit contacts between the 
+
+recoverable material and the "waste" material. Some 2000 meters of 
+
+core is expected to be sufficient to gather this information. 
+
+ Chemical analysis. The aforementioned length of core will require some 
+
+700 analysis. 
+
+ Reclamation of the Bulk Sampling Area. The MRNF allowed the area to 
+
+remain open, should further material be required by the Pilot Plant.  
+
+But we are committed to reclaim the area as soon as the question was 
+
+settled. 
+
+ Simoneau Sector Drilling. Since only surficial geology was done on this 
+
+sector, two fan-drilled sections could be done to better ascertain the 
+
+potential. 
+
+ Madeleine Sector Drilling. If required, some drilling can be done in the 
+
+Madeleine sector to ascertain the depth of the mineralisation before 
+
+going all out with a geophysical campaign. 
+
+ Aluminous Clay Occurrences.  At this stage of the project, it would be 
+
+beneficial to confirm the presence or absence of any other worthwhile 
+
+deposits in the province, in order to better qualify the potential of 
+
+ORBITE's properties. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+41 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ITEMS AMOUNT 
+
+Hydrological Study 250,000 
+
+Opportunity Study 200,000 
+
+Mining Lease 150,000 
+
+Access Road 100,000 
+
+Mathematical Model 50,000 
+
+Mine Design and Planning 20,000 
+
+Drilling for Contacts at the Marin Sector 200,000 
+
+Chemical Analysis 35,000 
+
+Reclaimation of the Sampling Area 10,000 
+
+Simoneau Sector Drilling 200,000 
+
+Madeleine Sector Drilling 100,000 
+
+Aluminous Clay Occurrence Compilation 
+
+2011 Field Work  
+
+Final Report (43-101)                                                                                                               
+
+100,000 
+
+150,000 
+
+25,000 
+
+Contingencies 20% 320,000 
+
+TOTAL $1,900,000 
+
+  
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+42 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+23) References    
+
+ 
+Jacob, Henri-Louis, 2008- Compilation des travaux sur les argilites alumineuses de 
+
+la propriété Grande-Vallée, préparé pour Exploration Orbite VSPA Inc. Rapport 
+
+Technique 43-101. 
+
+ 
+
+Laflèche, Marc R. ,  Nzangou, Omer S. et Monette Yves, 2006-  Études 
+
+géochimique, minéralogique et hydro-métallurgique des argilites alumineuses de la 
+
+propriété Grande-Vallée de Orbite VSPA , Institut de la Recherche Scientifique,  
+
+INRS-Eau, Terre  et Environnement, Rapport de Recherches No R-909. 
+
+ 
+
+Levaque, Jean-Guy, 2009- Compilation des travaux techniques effectués sur la 
+
+propriété de Grande Vallée, préparé pour Exploration Orbite VSPA Inc.  Rapport 
+
+Technique 43-101. 
+
+Rheault, Michel, VIASAT (2011) Analyse lithologique en support à l'exploration de 
+
+shale alumineux, Grande Vallée, Gaspésie - Phase 2 : Intégration des forages, mise à 
+jour de la carte géologique et production de sections géologiques. Rapport soumis à 
+Exploration ORBITE VSPA Inc., 20p. 
+
+Rheault, Michel, 2009- Analyse lithologique en support à l'exploration de shale 
+
+alumineux, MIR Télédétection Inc.  
+
+ 
+
+Turner, R. W., 2000- Preliminary report on the geology and clay sampling 
+
+programme. Grande Vallée Alumina Project of Jean-Marc Marin and Jean-Yves 
+
+Lavoie ,NTS 22H/3, Dénoue Township, Gaspé Région , Province of Québec.    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+43 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+ 24) Date & Signature 
+
+ 
+
+This report, entitled 2010 Field Work Grande Vallée Property 43-101 Technical 
+
+Report, was completed and signed in February 2011. 
+
+ 
+
+ 
+
+  
+
+Jean-Guy Levaque, Eng. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+44 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+Certificates and Consents 
+
+In the following pages, one will find the certificate of the author, solely responsible 
+
+for the entirety of the present report.  
+
+The consent of the author is on a separate document.  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+45 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+CERTIFICATE 
+
+The following states that : 
+
+a) My name is Jean-Guy Levaque. I live at 30 Fortin, Boisbriand, QC. I am a geological 
+
+engineer, a graduate from École Polytechnique in Montréal (B.A., B.Sc.A.) in 1970 and I 
+
+am a standing member of the Ordre des Ingénieurs du Québec, #21570. 
+
+ 
+
+b) This certificate relates to the technical report entitled 2010 Field Work Grande 
+
+Vallée Property 43-101 Technical report, dated February 2011. 
+
+ 
+
+c) I retired from the Lafarge Group in 2006 after a 25 year career. (With some 
+
+90.000 employees, the Lafarge Group is present in 76 countries and had a revenue in 
+
+2007 of 17.6 billion € with a net result of 1.9 billion €.) I started a chief geologist for 
+
+North America at the Corporate Technical Center in Montreal, responsible for quality 
+
+and reserves for 20 cement plants and 35 quarries producing some 20 million tonnes 
+
+per year. I was also responsible for optimizing mining plans, mining techniques and 
+
+updating rehabilitation plans. For the last four years, I fulfilled the same mandate 
+
+from the International Technical Center in Lyon, France, responsible for South 
+
+America, Africa, Middle East and developing projects in China and India. Previously, I 
+
+had been senior hydro-geologist for Géomines Ltd working in Africa, West Indies and 
+
+Canada. I was also Chief Engineer for Sidbec-Normines on the Fire Lake Project. I 
+
+started my career with the Noranda Group in Murdochville as a geologist and chief 
+
+geologist.   
+
+I consider that I am a "qualified person" for the purpose of the 43-101 regulation 
+
+regarding information on mining projects.  
+
+ 
+
+d) Living a short distance from the project, I was present on site almost every working 
+
+day between June 15 and November 15 2010.  
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+46 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+e) I am responsible for Item 1 to 5 and 12 to 23. Items 6 to 11 are included in the 
+
+2007 report, as mentioned by instruction 5 in the form 43-101F1.  
+
+ 
+
+f) I have not received nor hope to receive any interest in the company Exploration 
+
+Orbite VSPA Inc. I am thus fully independent from the issuer.  
+
+ 
+
+g) I have never been involved with this company nor this project outside of my 
+
+involvement in 2008 and 2009.  
+
+ 
+
+h) I have read regulation 43-101 as well as the form 43-101F1 and prepared this report 
+
+accordingly.  
+
+ 
+
+i) I declare, as of March 1, 2011, that, to the best of my knowledge, information and 
+
+belief, this technical report contains all the scientific and technical information that is 
+
+required to be disclosed to make this technical report not misleading.  
+
+ 
+
+ 
+
+_________________________ 
+
+Jean-Guy Levaque, ing.p. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+47 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX 1 
+
+2010 Drill Logs 
+
+1001, 1002, 1003, 1004, 1005, 1006, 1007,  
+
+1008, 1009, 1010, 1011, 1012, 1013, 1014,  
+
+1015, 1016, 1017, 1018, 1019, 1020, 1021, 
+
+1022, 1023, 1024, 1025, 1026 and 1027 
+
+ 
+
+And, for commodity, those of 2009 
+
+901, 903, 904 and 907 
+
+ 
+
+And those of 2008 
+
+801, 803, 804, 805, 806, 807, 808,  
+
+809, 810, 812, 813 and 814. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+48 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+LOG_1001.xlsx LOG_1002.xlsx LOG_1003.xlsx LOG_1004.xlsx LOG_1005.xlsx LOG_1006.xlsx
+
+LOG_1007.xlsx LOG_1008.xlsx LOG_1009.xlsx LOG_1010.xlsx LOG_1011.xlsx LOG_1012.xlsx
+
+LOG_1013.xlsx LOG_1014.xlsx LOG_1015.xlsx LOG_1016.xlsx LOG_1017.xlsx LOG_1018.xlsx
+
+LOG_1019.xlsx LOG_1020.xlsx LOG_1021.xlsx LOG_1022.xlsx LOG_1023.xlsx LOG_1024.xlsx
+
+LOG_1025.xlsx LOG_1026.xlsx LOG_1027.xlsx
+
+ 
+ 
+
+ 
+
+LOG_901.xlsx LOG_903.xlsx LOG_904.xlsx LOG_907.xlsx
+
+ 
+ 
+
+LOG_801.xlsx LOG_803.xlsx LOG_804.xlsx LOG_805.xlsx LOG_806.xlsx LOG_807.xlsx
+
+LOG_808.xlsx LOG_809.xlsx LOG_810.xlsx LOG_812.xlsx LOG_813.xlsx LOG_814.xlsx
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+49 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX 2 
+ 
+
+BULK 
+
+SAMPLING 
+
+PICTURES 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+50 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+#1-Cut Undergrowth 
+
+ 
+
+ 
+#2-Stripping 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+51 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+#3-Soil Rich in Humus Stockpiled 
+
+ 
+#4-Last part of stripping done with shovel 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+52 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+#5-Altered Claystone ready to be sampled 
+
+ 
+#6-Altered Claystone Pile 
+
+Right Back => Soil Pile      Back => High grade Mudstone Extraction site 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+53 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+#7-Stripping Altered Claystone layer 
+
+ 
+#8-Pure, Unadulterated CLAYSTONE 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+54 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+#9-First Shovelfuls of Claystone 
+
+ 
+
+ 
+#10-Loading First Truck with Altered Claystone 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+55 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX 3 
+
+ 
+
+List of  
+
+Folded Maps 
+
+In Back Pockets 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+56 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+ 
+
+ 
+
+List of Folded Maps in Back Pockets 
+
+ 
+
+ 
+2008, 2009 & 2010 Drill Holes Location on the Geological Plan 
+
+ 
+
+Geological Sections 
+
+ 
+
+Open Pit Plan 
+
+ 
+
+Open Pit Sections 
+
+ 
+There is also, in a smaller pocket, a CD of the totality of the report, 
+
+including the maps of appendix 3. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+57 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX 4 
+
+ 
+
+Technical Report 
+
+By  
+
+Dr. Joël Fournier 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+58 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Technical Report 
+
+Extraction of Alumina from Gaspe area Claystone 
+
+ 
+
+To 
+
+M. Richard Boudreault, President  
+
+Exploration Orbite VSPA 
+
+ 
+
+ 
+
+ 
+
+By 
+
+Dr Joël Fournier, Chemist 
+  
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+59 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+Exploration Orbite VSPA expects to exploit aluminous clay deposits in the Gaspe 
+
+area as well as throughout the world because this material is a promising 
+
+alternative source of alumina for many various applications. 
+
+ 
+
+As a reminder, Claystone is an aluminous silicate which, compared to Bauxite, is of 
+
+average alumina content (20 to 28% Al2O3 versus 40 to 55% Al2O3) and lower in 
+
+iron (8 to 10% Fe2O3). 
+
+ 
+
+The company developed a leaching technique that extracts quantitatively the 
+
+aluminum from clays. Relatively abundant and easy to remove, the iron gets into 
+
+solution with the aluminum. Those two elements are presents in ionic form and have 
+
+similar atomic load. In order to get high purity aluminum, the iron as well as other 
+
+trace metals must be separated. This very delicate operation is central to the 
+
+technologies developed by Orbite.  
+ 
+
+The objectives of this report are: 
+
+ 
+
+1- Demonstrate the process technical feasibility by producing one tonne per day 
+
+of speciality alumina. 
+
+ 
+
+2- Trial on the different types of material available from our property in the 
+
+Gaspe.  
+
+ 
+
+3- Validate the main economical parameters, before optimization, to ascertain 
+
+the economical limits in terms of minimal grade for the clay..  
+ 
+
+  
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+60 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+ 
+
+ 
+
+ 
+
+Methodology 
+
+A series of experiments were carried out, at the pilot scale, on the different types 
+
+of materials coming from the Orbite's property during the summer of 2010. A total 
+
+of more than 400 Tonnes was sampled and transported to the Cap-Chat pilot plant. 
+
+Three types of aluminous clay were tested: a weathered claystone close to surface, 
+
+the standard claystone found underneath at depth and a mudstone coming from 
+
+various site on the property.  
+
+Those different materials were at first analysed for their content in aluminum and 
+
+iron as well as other indicative elements. 
+
+During January 2011, batch leaching was carried out on different samples in trying 
+
+to produce the first tonne of alumina. A trial was made on 750kg of mudstone for 
+
+which the grade was in the order of 18% Al2O3.  Nine batches of 725kg of good 
+
+claystone were also tested to find out the optimal extraction ratio according to 
+
+different operational parameters.  
+
+Measures on the leaching yields were carried out through every process steps, up 
+
+until the production of ultra-pure alumina, to find out if the different types of 
+
+alumina had different behaviour or yield in the process.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Results  
+
+Throughout January and February 2011, the feasibility of producing one tonne per 
+
+day of speciality alumina was demonstrated at the Cap-chat facility.  
+
+It was also demonstrated that yields in excess of 95% for aluminum and close to 
+
+100% for iron were achievable, irrespective of claystone or mudstone.  
+
+It was also proven that the two rock types had no bearing on the final product 
+
+quality; the quality of the in-product only affects the quantity of the finish 
+
+product.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+EXPLORATION ORBITE VSPA Inc. 
+
+___________________________________________________________________________ 
+
+ 
+
+61 
+
+Jean-Guy Levaque, Eng.                                                                                                 March 2011 
+
+Conclusion 
+
+Orbite's innovative process was applied to claystone and mudstone without any 
+
+effect on either the quality or yield of the finish product. It is evident that the 
+
+higher the grade in the incoming material (alumina content in the claystone) the 
+
+higher is the return on investment from an operating cost point of view. A 
+
+operating cost simulation was able to show that, for a 500 tonnes a day production 
+
+plant, the profitability would be sufficient if the grade of the incoming material 
+
+was greater than 17% Al2O3, considering actual market conditions for metallurgical 
+
+alumina.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Joël Fournier, Ph.D. Chemist 
+
+ 
+
+
+"

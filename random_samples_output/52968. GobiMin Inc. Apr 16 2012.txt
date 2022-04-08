@@ -1,0 +1,1760 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NI 43-101 Report_201204_Final
+
+
+ 
+
+1 | P a g e  
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+TECHNICAL REPORT ON 
+RESOURCES AT ZONE I AND ZONE IV 
+
+AT THE SAWAYAERDUN PROJECT 
+ 
+
+XINJIANG UYGUR AUTONOMOUS REGION, CHINA  
+ 
+ 
+
+ 
+REPORT DATE:   April 3, 2012  
+ 
+EFFECTIVE DATE:  April 3, 2012  
+ 
+ 
+ 
+For: 
+ 
+
+GOBIMIN INC. 
+ 
+
+1250-120 Adelaide Street West 
+Toronto, Ontario 
+
+Canada M5H 1T1 
+
+ 
+and 
+
+XINJIANG TONGYUAN MINERALS 
+ LIMITED 
+
+ 
+
+ 
+  
+ 
+
+ 
+Prepared By:  
+
+Philip A. Jones   
+B. App. Sc. (Applied Geology) 
+
+M A.I.G., M Aus.I.M.M. 
+ 
+
+4 Buchan Place 
+Hillarys 
+
+Western Australia 
+AUSTRALIA 6025
+
+
+
+ 
+
+2 | P a g e  
+ 
+
+ 
+
+TABLE OF CONTENTS 
+
+1. SUMMARY................................................................................................................. 5 
+2. INTRODUCTION........................................................................................................ 8 
+3. RELIANCE ON OTHER EXPERTS ............................................................................ 9 
+4. PROPERTY DESCRIPTION AND LOCATION......................................................... 10 
+5. ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND 
+PHYSIOGRAPHY ............................................................................................................... 12 
+6. HISTORY ................................................................................................................. 13 
+7. GEOLOGICAL SETTING ......................................................................................... 15 
+
+Regional ................................................................................................................... 15 
+
+Property Geology ..................................................................................................... 15 
+
+Stratigraphy.............................................................................................................. 15 
+
+Structure................................................................................................................... 16 
+
+8. DEPOSIT TYPE ....................................................................................................... 18 
+9. MINERALIZATION ................................................................................................... 19 
+10. EXPLORATION........................................................................................................ 20 
+11. DRILLING................................................................................................................. 21 
+12. SAMPLING METHOD AND APPROACH ................................................................. 22 
+13. SAMPLE PREPARATION, ANALYSES AND SECURITY......................................... 23 
+14. DATA VERIFICATION.............................................................................................. 24 
+15. ADJACENT PROPERTIES....................................................................................... 25 
+16. MINERAL PROCESSING AND METALLURGICAL TESTING.................................. 26 
+17. MINERAL RESOURCE ESTIMATES ....................................................................... 28 
+
+Data Analysis ........................................................................................................... 28 
+
+Assays...................................................................................................................... 28 
+
+Composites .............................................................................................................. 28 
+
+Capping.................................................................................................................... 29 
+
+Bulk Density ............................................................................................................. 30 
+
+Geological Interpretation .......................................................................................... 30 
+
+18. RESOURCE BLOCK MODEL .................................................................................. 32 
+Interpolation  Plan .................................................................................................... 32 
+
+Mineral Resource Classification ............................................................................... 33 
+
+Mineral Resource Tabulation.................................................................................... 34 
+
+Block Model Validation ............................................................................................. 36 
+
+19. OTHER RELEVANT DATA & INFORMATION.......................................................... 38 
+20. INTERPRETATION AND CONCLUSIONS............................................................... 39 
+21. RECOMMENDATIONS ............................................................................................ 42 
+22. REFERENCES......................................................................................................... 43 
+23. CERTIFICATE OF QUALIFIED PERSON ................................................................ 44 
+ 
+
+
+
+ 
+
+3 | P a g e  
+ 
+
+ 
+
+LIST OF FIGURES 
+
+ 
+Figure 1  Sawayaerdun Property Location .......................................................................... 10 
+Figure 2  Sawayaerdun Property Location and Access   (Google Earth, 2012) ................... 12 
+Figure 3  Sawayaerdun property geology (Modified after GobiMin 2010) ............................ 16 
+Figure 4  Adit locations relative to ID2 model colour coded at 3410m RL (Jones, 2012) ..... 20 
+Figure 5  Location map showing GobiMin drilling in 2010 and 2011.  Tenement outline green, 
+international border black, mineralised zones red.  (Jones, 2012)....................................... 21 
+Figure 6  Assay value frequency ......................................................................................... 22 
+Figure 7  Genalysis fire assay Vs Brigade 2 assays............................................................ 24 
+Figure 8 Sawayaerdun 1m composited gold assay frequency analysis ............................... 30 
+Figure 9  Sawayaerdun Zone I ID2 sulphide block model Long Section showing colour coded 
+gold grades (Jones, 2012) .................................................................................................. 33 
+Figure 10  Sawayaerdun Zone IV ID2 sulphide block model Long Section showing colour 
+coded gold grades (Jones, 2012)........................................................................................ 33 
+Figure 11  Long section of Sawayaerdun Zone I Block Model showing resource classification 
+(Jones, 2012)...................................................................................................................... 34 
+Figure 12  Long section of Sawayaerdun Zone IV Block Model showing resource 
+classification (Jones, 2012) ................................................................................................. 34 
+Figure 13  Sawayaerdun Zone IV typical cross section showing colour coded drill holes and 
+block model grades (Jones, 2012) ...................................................................................... 37 
+Figure 14  Long section along Zone IV showing colour coded model with "Target" zone 
+inside black outline.............................................................................................................. 39 
+ 
+
+
+
+ 
+
+4 | P a g e  
+ 
+
+ 
+
+LIST OF TABLES 
+
+ 
+
+Table 1 Sawayaerdun Zone I and  Zone IV Resource Estimates Summary at 0.5g/t Au lower 
+cut-off grade base case  * Wardrop 2011 estimate Kriged tonnes and grade ........................ 6 
+Table 2  Sawayaerdun Mining Licence Coordinates.  Coordinates are based on the Xi'an 
+1980 geodetic model........................................................................................................... 11 
+Table 3 Sawayaerdun NI 43-101 compliant resource estimate prepared by Wardrop 2011 14 
+Table 4  PRA Metallurgical test gold recoveries .................................................................. 26 
+Table 5  2011 Metallurgical test results  * Includes CIL tailings re-processing..................... 27 
+Table 6  Statistical summary of GobiMin and Total (including GobiMin) drilling assay data. 28 
+Table 7  Population (sum of assays) analysis of composited drill samples >0.5g/t Au......... 29 
+Table 8  Sawayaerdun Block Model Parameters................................................................. 32 
+Table 9  Sawayaerdun Zone IV resource estimate summary .............................................. 35 
+Table 10  Sawayaerdun Zone I resource estimate summary............................................... 36 
+Table 11  Higher grade Zone IV "Target" resource estimate at 0.5g/t Au lower cut-off base 
+case .................................................................................................................................... 40 
+Table 12  Sawayaerdun Zone I and Zone IV ID2 resource estimate summary  at a 0.5g/t Au 
+lower cut-off base case  *Wardrop 2011 estimate Kriged, ................................................... 41 
+
+
+
+ 
+
+5 | P a g e  
+ 
+
+ 
+
+1. SUMMARY  
+The Sawayaerdun Property (Property) is located in Wuqia County Xinjiang Uygur 
+Autonomous Region, western China, immediately adjacent to the border with Kyrgyzstan, 
+about 200 kilometres northwest of the city of Kashi, the nearest major centre, and about 
+1,000 kilometres southwest of Urumqi, the capital of Xinjiang.   
+
+ 
+
+The geographic centre of the property is located at about 40º 04'19" North Latitude and 74º 
+
+16'30" East Longitude. The Property contains two gold deposits, Zone I and Zone IV that 
+are the subject of this report.  A Mining License, No C6500002009124120053762, with an 
+area of 1.7094 square kilometres and valid until February 25, 2018 covers the two deposits.  
+The licence is held in the name of Xinjiang Tongyuan Minerals Ltd. and has an operating 
+limit of 90,000 tonnes per year.  Xinjiang Tongyuan Minerals Ltd. (Tongyuan) is owned by 
+three partners: Xinjiang Weifu Mining Ltd., a subsidiary of GobiMin Inc. (GobiMin), (70%); 
+Xinjiang Baodi Mining Ltd., (15%) and by a subsidiary of the No. 2 Brigade of the Xinjiang 
+Bureau of Geology and Mineral Resources (No. 2 Brigade) (15%).  The Property was 
+acquired by Tongyuan in September 2009.   
+
+Philip Jones has been retained by GobiMin to prepare a resource estimate and technical 
+report on the Sawayaerdun Property for both Zone I and Zone IV, the best-explored of a 
+number of fracture-hosted gold occurrences that are present within the Property.  This 
+technical report is compliant with the requirements of National Instrument (NI) 43-101.   
+
+ 
+
+The Sawayaerdun Property is located in the southern Tian Shan Mountains.  Gold 
+mineralization is contained within a series of sub-parallel fault zones of regional extent 
+marking the structural contact between heavily-sheared, fine-grained clastic 
+metasedimentary rocks of the Silurian Sawayaerdun Formation and the structurally 
+overlying Devonian Taertekuli Formation.   The gold mineralisation at Sawayaerdun was 
+initially explored by the Xinjiang Bureau of Geology and Mineral Resources (XBGMR) during 
+the 1980s and 1990s when they carried out regional geological mapping, trenching, drilling 
+and underground exploration.   The Property was then acquired by Majestic Gold Corp 
+(Majestic). in 2003 who, during the period 2004 – 2007, explored mainly along Zone IV by 
+trenching and drilling (46 holes, 8,800 aggregate metres).  GobiMin acquired Majestic's 
+share of the project in 2009 and funded all subsequent exploration.  In 2010 and 2011 an 
+aggregate of 127 holes were completed for around 38,000 metres within Zone I and Zone IV 
+to verify the exploration results obtained by previous operators and to further explore the 
+main deposits. 
+
+ 
+
+The current resource estimate is based upon all current and historic drill hole and trench 
+assay data.  The resources for Zone 1 and Zone IV are summarised in Table 1. 
+
+
+
+ 
+
+6 | P a g e  
+ 
+
+ 
+
+ 
+
+ 
+
+Table 1 Sawayaerdun Zone I and  Zone IV Resource Estimates Summary at 0.5g/t Au 
+lower cut-off grade base case  * Wardrop 2011 estimate Kriged tonnes and grade       
+
+ 
+
+ 
+
+This latest resource estimate adds 18.4 million tonnes of Indicated resources for 798 
+thousand ounces of contained gold and 30.3 million tonnes of Inferred resources for 1,117 
+
+
+
+ 
+
+7 | P a g e  
+ 
+
+thousand ounces to the resource estimate in Zone IV by Wardrop in 2011.  Wardrop did not 
+estimate a resource for Zone I. 
+
+An exploration program of drilling, underground development and metallurgical testing, with 
+a budget of about US$6.8 million (~RMB43 million) is recommended for Zone IV in order to 
+upgrade more or all of the Inferred resource into the Indicated category and to obtain a 
+better understanding of the mining and metallurgical characteristics of the mineralization.    
+
+
+
+ 
+
+8 | P a g e  
+ 
+
+ 
+
+2. INTRODUCTION   
+The Sawayaerdun Property is located in Wuqia County Xinjiang Uygur Autonomous Region, 
+western China, immediately adjacent to the international border with Kyrgyzstan.  The city of 
+Kashi, the nearest major centre, is about 200 kilometres to the southeast while Urumqi, the 
+capital of Xinjiang, is about 1,000 kilometres northeast.  The geographic centre of the 
+property is located at about 40º 04' 19" North Latitude and 74º 16' 30" East Longitude.    
+
+The Property covers an area of 1.7094 square kilometres and consists of Mining Licence No. 
+C6500002009124120053762 with an annual mine operating limit of 90,000 tonnes of ore 
+that is valid until February 25, 2018.  This license is held by Tongyuan which is in turn owned 
+by three partners: Xinjiang Weifu Mining Ltd., a subsidiary of GobiMin, (70%); Xinjiang Baodi 
+Mining Ltd., (15%) and a subsidiary of the No. 2 Brigade (15%).  The Property contains 
+several gold deposits that are the subject of this report.  The Property was acquired by 
+Tongyuan in September 2009.   
+
+Philip A. Jones has been retained by GobiMin to prepare a resource estimate and technical 
+report for Zone I and Zone IV on the Sawayaerdun Property, the best-explored of a number 
+of fracture-hosted gold occurrences that are present within the Property.  This technical 
+report is compliant with the requirements of National Instrument (NI) 43-101 and is to be 
+used as a supporting document for submission to the Toronto Stock Exchange Venture 
+Exchange (TSX-V).  Information used for the preparation of this report was obtained from 
+GobiMin and the No. 2 Brigade as well as various public domain sources.  The information 
+obtained from GobiMin and the No. 2 Brigade is identified in Section 17.0 Resource Estimate.  
+Public domain information is identified in Section 21.0 References.  As part of the 
+preparation of this report the author inspected the Property on September 21, 2011.      
+
+
+
+ 
+
+9 | P a g e  
+ 
+
+ 
+
+3. RELIANCE ON OTHER EXPERTS  
+ 
+
+In the preparation of this report, the Author has relied upon GobiMin for information 
+pertaining to property ownership, legal and environmental liabilities.   The Author has not 
+independently verified the accuracy of all this information.     
+
+
+
+ 
+
+10 | P a g e  
+ 
+
+ 
+
+4. PROPERTY DESCRIPTION AND LOCATION  
+ 
+
+The Sawayaerdun Property is located in Wuqia County Xinjiang Uygur Autonomous Region, 
+western China, immediately adjacent to the international border with Kyrgyzstan.   The city of 
+Kashi, the nearest major centre, is about 200 kilometres to the southeast while Urumqi, the 
+capital of Xinjiang, is about 1,000 kilometres to the northeast.  The geographic centre of the 
+property is located at about 40º 04' 19" North Latitude and 74º 16' 30" East Longitude.    
+
+ 
+
+Figure 1  Sawayaerdun Property Location 
+
+     
+
+The Property covers an area of 1.7094 square kilometres and consists of Mining Licence No. 
+C6500002009124120053762 and has a mine operating limit of 90,000 tonnes of ore per 
+year valid until February 25, 2018.  The licence is held in the name of Xinjiang Tongyuan 
+Minerals Ltd. which is in turn owned by three partners: Xinjiang Weifu Mining Ltd., a 
+subsidiary of GobiMin, (70%); Xinjiang Baodi Mining Ltd., (15%) and a subsidiary of the No. 
+2 Brigade (15%).  The location coordinates of the Licence are set out in Table 2. The 
+boundary of the Licence has been surveyed.     
+
+
+
+ 
+
+11 | P a g e  
+ 
+
+ 
+
+POINT EAST NORTH 
+
+1 25440879.12 4441038.44 
+
+2 25441946.10 4440258.45 
+
+3 25440826.12 4438368.49 
+
+4 25440426.13 4438568.49 
+
+5 25440726.13 4439068.48 
+
+6 25440936.12 4438968.48 
+
+7 25441596.11 4440078.46 
+
+8 25441256.12 4440278.45 
+
+9 25441436.11 4440568.45 
+
+10 25441006.12 4440788.44 
+
+11 25440466.13 4440318.45 
+
+12 25438936.16 4437828.50 
+
+13 25438746.17 4437958.50 
+
+14 25440286.14 4440498.45 
+
+15 25440876.12 4441038.44 
+
+ 
+
+Table 2  Sawayaerdun Mining Licence Coordinates.  Coordinates are based on the 
+Xi'an 1980 geodetic model.   
+
+The Property contains the numerous gold occurrences although the main structure that 
+contains the gold mineralization is of regional extent and extends well beyond the Property 
+boundaries.  There are two trial adits being developed on the Property as well as several 
+abandoned, experimental leach pads as well as a small open pit and several now-collapsed 
+adits from previous exploration campaigns.    
+
+There are no back-in rights other agreements or encumbrances to which the Property is or 
+will be subject with the exception of an annual fee for the mining licence of RMB 
+1000/kilometre2 (approximately CAD$158 / kilometre2 ).  There are no current environmental 
+liabilities. Future abandoned mine restitution obligations are addressed by an Environmental 
+Protection Deposit that is held by the appropriate government authority.  The existing Mining 
+Licence is the only permit necessary to continue the present program of exploration.  
+
+
+
+ 
+
+12 | P a g e  
+ 
+
+ 
+
+5. ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE 
+AND PHYSIOGRAPHY  
+
+ 
+
+The Property is located in the southern Tian Shan Mountains with moderate to steep 
+topography and elevations between 3,100 and 4,000 metres above sea level, Figure 2.   
+
+ 
+
+Figure 2  Sawayaerdun Property Location and Access   (Google Earth, 2012)  
+
+A paved highway connects the regional centre at Kashgar (Kashi) with the village of 
+Wulukeqiati via Wuqia.  The remaining 38 kilometres to the property from Wulukeqiati is via 
+an un-paved road.  Within the Property, a system of exploration roads provides access to 
+most of the licence area.  Vegetation is primarily comprised of sparse alpine grasses, wild 
+onion and thorny shrubs.   Temperatures range from -15º Celsius in the winter to 25º Celsius 
+in the summer.  Rainfall is sparse except in June and July, snowfall is possible between 
+November and April.  
+
+Water is available locally from the Sawayaerdun River which is mainly fed by snow melt.  An 
+agreement has been entered into with the local electricity supplier for the mining and 
+processing power supply.  A 38km power line from Tongyuan will connect the 
+property with the local power grid.    Adequate areas for waste-rock storage exist within 
+the licence area but the scarcity of flat terrain within the Property may necessitate locating 
+processing facilities, and therefore tailings disposal, outside the Property boundaries.     
+
+
+
+ 
+
+13 | P a g e  
+ 
+
+ 
+
+6. HISTORY  
+ 
+
+Regional geological exploration at 1:200,000 scale was first conducted in the area during 
+1952 and 1953 by geologists from the former Soviet Union.  Chinese geologists followed up 
+with regional geological mapping in the area between 1983 and 1985 when a geochemical 
+survey in 1985 led to the discovery of gold mineralization at Sawayaerdun.   
+
+An exploration licence that included the present Property was granted to XBGMR in 1983.  
+XBGMR continued regional exploration until the mid-1990s with more focused exploration 
+programs continuing until 1999.  The XBGMR carried out geological mapping, geochemical 
+sampling, trenching, pitting, underground development and diamond drilling, primarily within 
+Zone IV.   
+
+Geological mapping was conducted at a scale of 1:10,000.  Trenches were typically spaced 
+from 40 to 80 metres apart and were used to define the surface trace of mineralization.  Of 
+the known areas of mineralization, Zone IV has been most intensively explored: by the end 
+of 1998, nine holes (2,866 aggregate metres) had been drilled, 17 adits (1,415 aggregate 
+metres), had been driven, and 34,000 cubic metres of trenches had been excavated on 22 
+gold zones.  Each of the trenches was chip-sampled at approximately one-metre intervals.   
+
+In 1999 XBGMR estimated a polygonal resource based on the trench, adit and drill hole 
+sampling for Zone IV of 17,246,000 tonnes with an average grade of 1.96 grams per tonne 
+gold (g/t Au).  This resource is comprised of approximately 90% sulphide and 10% oxide 
+mineralization.  The lower cut-off grade for this resource estimate was 1.0g/t Au with a 
+minimum zone thickness of 0.8 metres.    At a cut-off grade of 0.5g/t Au the resource 
+estimate was 26,000,000 tonnes at an average grade of 1.7g/t Au.   The density of data at 
+the time of the calculation resulted in a classification of the resource into Categories D and E 
+of the then-current Chinese resource classification system.  For Category D grades and 
+thicknesses were extrapolated between 30 and 60 metres, and for Category E, 60 to 120 
+metres.  This estimate is considered relevant but is of unknown reliability and not 
+considered NI43-101 compliant and is only included in this report for historical purposes.     
+
+In about 1997, the XBGMR excavated a portion of Zone IV in a small open pit and 
+processed the ore on six leach pads in the adjacent Sawayaerdun River valley.  The results 
+obtained from this leaching operation are not known.  In November 2003, Majestic Gold 
+Corporation signed a joint venture agreement with XBGMR.  Majestic had the right to earn a 
+90% interest in the property as it then existed by incurring all exploration and development 
+costs.  Majestic sold their interest back to XBGMR in 2009.   
+
+During the period 2004 – 2007 Majestic conducted programs of geological mapping, 
+prospecting, trenching, core drilling and geophysical surveys, mostly on Zone IV.  During 
+2004 and 2005, Majestic carried out trench sampling and core drilling over a 2000-metre 
+strike length of this zone.  Thirty-two trenches with an aggregate length of about 1,200 
+metres were excavated and 46 holes with an aggregate length of about 8,840 metres were 
+drilled to test the zone to depths of between 100 and 300 metres below surface.   
+
+
+
+ 
+
+14 | P a g e  
+ 
+
+In 2006 Wardrop completed a NI 43-101 compliant resource estimate for Zone IV based on 
+trench and drill data collected to the end of 2005.  At a lower cut-off grade of 0.50g/t Au, the 
+zone was estimated to contain an Indicated resource of 18.0 million tonnes at an average 
+gold grade of 1.2g/t, and an Inferred resource of 24.4 million tonnes with an average grade 
+of 1.1g/t Au.  This estimate is considered by the Author to be both relevant and reliable as a 
+historic estimate.  The data used in the 2006 estimate forms a substantial portion of the data 
+upon which the current estimate, presented in Section 17.0 of this report, is based.    During 
+2006 and 2007 Majestic drilled a further nine holes for an aggregate of 1,650 metres, 
+principally to test the southwest and northeast limits of the zone.        
+
+In 2011 Wardrop completed another NI 43-101 compliant resource estimate for Zone IV 
+based on the trench and drill data to the end of 2010.  A summary of this resource estimate 
+at a lower cut-off grade of 0.5g/t Au is quoted in Table 3. 
+
+ 
+
+Table 3 Sawayaerdun NI 43-101 compliant resource estimate prepared by Wardrop 
+2011    
+
+
+
+ 
+
+15 | P a g e  
+ 
+
+ 
+
+7. GEOLOGICAL SETTING  
+
+  Regional  
+
+The tectonic framework of China is dominated by three global orogenic systems: the Central-
+Asian or Paleo-Tethyan, the Circum-Pacific and Tethys-Himalaya.  The Property area is 
+located within the Tethys-Himalaya system that resulted from the subduction of the Pacific 
+Ocean floor beneath China and the collision of the Indian sub-continent with Eurasia.  The 
+resultant fold belts are predominantly the product of subduction and accretion of oceanic 
+complexes that were the focus of deformation in Paleozoic-Mesozoic cratonic collisions 
+during final ocean closures.    
+
+The Xinjiang Uygur Autonomous Region is underlain by the Altaid orogenic complex, 
+situated in the south-central part of the Eurasian Plate, immediately north of the Himalayan 
+collision zone and south of the Angara Craton that underlies eastern Russia.  The region 
+consists of several independent Precambrian continental blocks; Paleozoic accretionary 
+complexes and extensional basins define the sutures between these blocks.  Permian 
+extensional tectonics formed deep basins, including the Tarim, within the Altaid orogenic 
+complex.  The Tarim Basin is the largest inland basin in China and is the product of late 
+Paleozoic rifting that led to passive-margin sedimentation through the Cambrian and 
+Ordovician, as well as the accumulation of several kilometres of terrestrial sediments from 
+the mid-Paleozoic through the Mesozoic.  The Tian Shan mountain range, located 
+immediately north of the Tarim Basin, is comprised of two partly-amalgamated Paleozoic 
+sequences of allochthonous terranes forming the south-central portion of the Altaid orogenic 
+zone.                
+
+Property Geology  
+
+Stratigraphy   
+
+The Sawayaerdun Property is located in the eastern Kokshaal region of the southern Tian 
+Shan Mountains.  Gold mineralization is contained within fine-grained clastic 
+metasedimentary rocks of Devonian age.   
+
+
+
+ 
+
+16 | P a g e  
+ 
+
+ 
+
+Figure 3  Sawayaerdun property geology (Modified after GobiMin 2010)     
+
+The Silurian-age Taertekuli Formation is the oldest unit exposed within the Property.  The 
+Taertekuli Formation is comprised of sericite phyllite, metamorphosed sandstone, minor 
+siliceous mudstone, carbonaceous siliceous phyllite, slate and calcareous breccia.  This 
+formation is of probable turbiditic origin.  The Taertekuli Formation is overlain by the 
+Devonian Sawayaerdun Formation.  
+
+The Sawayaerdun Formation is subdivided into upper and lower units, both of which are 
+turbiditic and are comprised of thin laminae of phyllite and siltstone.  The phyllites of the 
+upper member are carbonaceous and this member is the primary host for gold mineralization 
+in the area. 
+
+Overlaying the Sawayaerdun Formation in the southeast are the Lower Carboniferous 
+clastics and limestones of the Bashisuogong Formation. 
+
+Quaternary deposits of fluvial outwash overlays the basement along the lower reaches of the 
+Sawayaerdun River.   
+
+Structure 
+
+The predominant strike direction within the Property is northeast and most dips are to the 
+northwest.   Schistosity is commonly developed parallel to bedding.  Existing mapping 
+indicates that the disposition of formations is tectonically controlled.  The Silurian-aged 
+Taertekuli Formation structurally overlies the Devonian-age Sawayaerdun Formation and 
+strikes about 040 degrees.   The contact between the Taertekuli and Sawayaerdun 
+Formations follows a prominent, northeast-trending fault (F3) with a strike of about 030 
+
+
+
+ 
+
+17 | P a g e  
+ 
+
+degrees that contains mineral Zone IV and obliquely truncates the Sawayaerdun Formation, 
+and may also truncate the Taertekuli Formation.  Zone I is sub-parallel to Zone IV but lies 
+entirely within the Sawayaerdun Formation.   
+
+The Sawayaerdun Formation is mapped regionally as being folded into a broad anticline that 
+strikes about 050 degrees, plunges gently to the northeast, and terminates to the southwest 
+against the F3 fault.  A parallel syncline is mapped to the southeast in the lower member of 
+the formation.  Most dips within the Sawayaerdun Formation are to the northwest, which 
+suggests that these are overturned to the southeast.   
+
+The Sawayaerdun Formation is structurally overlain to the southeast by the northeast 
+dipping, Lower Carboniferous Bashisuogong Formation which is in turn structurally underlain 
+to the southeast by the Middle Devonian-age Tuogemati Formation.     
+
+
+
+ 
+
+18 | P a g e  
+ 
+
+ 
+
+8. DEPOSIT TYPE 
+ 
+
+The gold mineralization known to occur within the Property is considered to be shear-hosted 
+or fracture-controlled, localized along major regional faults and related splays.  In this 
+deposit type, sulphides are a relatively minor component.  The mineralization is related to 
+broad areas of fracturing in which gold and sulphides may be associated with quartz veinlet 
+networks or simply contained within the fractures themselves.   
+
+Principal alteration mineralogy includes silicification, pyritization and potassium 
+metasomatism, within broader zones of carbonaceous alteration including ferroan dolomite.      
+
+
+
+ 
+
+19 | P a g e  
+ 
+
+ 
+
+9. MINERALIZATION  
+ 
+
+Zones I and IV are contained within the upper member of the Sawayaerdun Formation, 
+trending northeast and crosscutting the stratigraphy at low angle and dipping generally 
+steeply (60 to 80 degrees) to the northwest in conformity with the controlling structures.  The 
+Zone IV mineralization is contained within the F3 fault that forms the contact between the 
+upper Sawayaerdun Formation and the structurally overlying Taertekuli Formation.  The 
+controlling structure and the contained mineralization continues to the northeast into 
+Kyrgyzstan.   
+
+The host rocks are heavily-sheared carbonaceous, sericitic phyllite and interbedded siltstone.  
+Previous exploration, primarily surface trenching, by XBGMR and drilling by Majestic, traced 
+mineralization in Zone IV for over seven kilometres, although mineralization is not 
+continuous over that entire distance.  Zone I is shorter than Zone IV, being only 
+approximately three kilometres long, and the alteration and gold/sulphide mineralisation less 
+intense.  The zones both pinch and swell along strike and down-dip up to an apparent 
+maximum thickness of more than 50 metres.     
+
+Pyrite is the most-widely distributed sulphide in the mineralized zones and is accompanied 
+by minor amounts of arsenopyrite, pyrrhotite and stibnite.  Microscope studies of ore 
+samples indicate that within the sulphide zone, gold occurs as micron-size grains of electrum, 
+either in association with arsenopyrite or as free particles.  In the near-surface zone of 
+oxidation, pyrite has been largely replaced by limonite.  Quartz, sericite, siderite, calcite and 
+chlorite are commonly associated with gold.     
+
+
+
+ 
+
+20 | P a g e  
+ 
+
+ 
+
+10. EXPLORATION  
+ 
+
+During 2010 and 2011, Tongyuan engaged the No.2 Brigade to carry out geological 
+mapping, core drilling and underground development to acquire additional exploration data 
+for Zones I and IV to enable a NI41–101 compliant resource to be estimated.  This work was 
+funded by GobiMin.  In 2010 and 2011 an aggregate of 127 holes were completed for 
+around 38,000 metres within Zone I and Zone IV to verify the exploration results obtained by 
+previous operators and to further explore the main deposits. 
+
+Two adits with portals at the 3410 metre level (YD003 and YD004) and a fourth on the 3450 
+metre level were developed during 2010 and 2011 to provide underground access to Zone 
+IV for mapping, mining experience and detailed sampling, Figure 4.  Development of these 
+adits will continue in 2012. 
+
+ 
+
+Figure 4  Adit locations relative to ID2 model colour coded at 3410m RL (Jones, 2012) 
+
+The exploration work carried out in 2010 and 2011 is considered by the Author to have been 
+carried out in a manner consistent with industry standards and the results obtained are 
+considered to be reliable.    
+
+
+
+ 
+
+21 | P a g e  
+ 
+
+ 
+
+11. DRILLING  
+GobiMin drilled an aggregate of 127 diamond drill holes for more than 38,000 metres during 
+2010 and 2011, Figure 5.  These holes were drilled to the southeast, perpendicular to strike 
+and generally at 20 metre or 60 metre intervals along the strike of the zones and generally 
+two or three holes were drilled on each section so as to intersect the zone at progressively 
+greater depths down-dip.  The dip of the holes ranged from 60º to 90º; most were drilled at 
+dips between 75º and 85º.  Holes were surveyed down the holes at 50 metre intervals as 
+well as at the pierce points of the zone.   
+
+ 
+
+Figure 5  Location map showing GobiMin drilling in 2010 and 2011.  Tenement outline 
+green, international border black, mineralised zones red.  (Jones, 2012) 
+
+The holes penetrated the zones at a range of oblique angles so that the intercept thickness 
+is in all cases greater than the true thickness.  However, the relatively large number of drill 
+hole intercepts through the zone permits a good understanding of its morphology and the 
+relationship between true and apparent thickness can be clearly demonstrated.       
+
+
+
+ 
+
+22 | P a g e  
+ 
+
+ 
+
+12. SAMPLING METHOD AND APPROACH  
+The drill core was logged at the drill site and was then transported to the project camp site 
+for sampling.  Only intervals logged by the geologist as potentially mineralized were sampled.  
+Primary indicators of mineralization were the presence of one or more of pyrite, arsenopyrite, 
+stibnite, silicification, sericitization, carbonatization and chloritization.  Where the core was 
+competent it was sawn in half while the highly fractured intervals were sampled by hand.  
+Half the core was bagged and submitted for analysis while the other half was retained on 
+site for reference.  A total of 12,041 samples were collected from the core drilled by GobiMin 
+during 2010 and 2011.  The assay population showed a typical log normal distribution that is 
+typical for gold mineralization. 
+
+ 
+
+Figure 6  Assay value frequency 
+
+The gold mineralization is contained within a fault zone so much of the core is fractured, 
+however recovery was high and the Author considers it improbable that any significant 
+sample bias would have been introduced by loss of fine-grained material or other 
+circumstance introduced by the fractured nature of the core.  The resultant assays are 
+considered representative of the mineralization that was tested.    The sampled core was 
+transported to the laboratory of the No. 2 Brigade in Kashgar (Kashi), Xinjiang for analysis.  
+
+
+
+ 
+
+23 | P a g e  
+ 
+
+ 
+
+13. SAMPLE PREPARATION, ANALYSES AND SECURITY  
+In China the normal use of quality-assurance/ quality-control (QA/QC) measures such as 
+standards, blanks and duplicates when collecting core samples is slightly different than 
+required by NI43-101.  The Chinese standard similarly requires standards and duplicates as 
+for NI43-101 however blanks to check for sample contamination during sample preparation 
+at the laboratory are not normally used.  Consequently, GobiMin did not introduce any blank 
+samples when sampling the Sawayaerdun drill core in 2010 however these blanks were 
+included in all sample batches dispatched for chemical analysis in the 2011 drilling program.   
+
+The assay laboratory included duplicate analyses of about 10% of the samples and a further 
+about 5% of the same samples were sent to an outside laboratory for check sampling in both 
+2010 and 2011.  The primary assaying was done at the No. 2 Brigade laboratory located in 
+Kashgar (Kashi) during 2010 and at Urumqi in 2011.  The samples were only analyzed for 
+gold.  Analyses were done using an activated carbon/foam absorption of dissolved gold in 
+aqua regia after roasting technique.   Check assays of five percent (5%) of the samples were 
+done by the Urumqi Mineral Resources Supervision and Assay Centre of the Land and 
+Resources Ministry of China in Urumqi, Xinjiang.     
+
+The Urumqi Mineral Resources Supervision and Assay Centre is ISO9001 certified and is 
+also accredited by the China National Accreditation Centre for Conformity Assessment.  The 
+laboratory of the No. 2 Brigade has not applied for ISO certification but does have a 
+provincial certification.  The Author considers the sampling, sample preparation, security and 
+analytical procedures to be adequate for the purpose of the resource estimate that follows.       
+
+
+
+ 
+
+24 | P a g e  
+ 
+
+ 
+
+14. DATA VERIFICATION  
+GobiMin followed industry standard QA/QC measures during the 2011 drilling program.  As 
+mentioned in the previous section, the primary and check assay laboratories also performed 
+duplicate analyses on about 10% and 5% respectively of the sample population as required 
+by government regulations.  In order for the analyses to meet government requirements the 
+differences between duplicate means must be statistically insignificant.   
+
+The Author had 40 pulps collected from the Brigade 2 laboratories over a spread of holes 
+from the 2010 and 2011 drilling programs which were sent to Genalysis Laboratories in 
+Perth Western Australia for gold analysis using the fire assay method as a check against the 
+Brigade 2 analyses.  These pulps were splits of the pulverised samples sent to the Brigade 2 
+laboratory for analysis.  Although the Brigade 2 laboratory sample preparation techniques 
+were not checked in this study, the repeatability of the assays were checked to detect if 
+there is a bias in the assay methods used.  A comparison (XY scatter) plot of the check 
+assays are displayed in Figure 7.  The correlation coefficient of the two sets of data is 0.9900 
+which indicates a very high level of correlation between the two sets of assays and that there 
+is no significant bias. 
+
+ 
+
+Figure 7  Genalysis fire assay Vs Brigade 2 assays 
+
+ 
+
+ 
+
+
+
+ 
+
+25 | P a g e  
+ 
+
+ 
+
+15. ADJACENT PROPERTIES  
+There are no adjacent properties the description of which would enhance the current 
+understanding of the Sawayaerdun Property.      
+
+
+
+ 
+
+26 | P a g e  
+ 
+
+ 
+
+16. MINERAL PROCESSING AND METALLURGICAL TESTING  
+Xinjiang Minerals Research Institute conducted metallurgical testing of Sawayaerdun 
+mineralization during 1996 and 1997.  A composite sample weighing 1,160 kilograms with an 
+average grade of about 3.15 grams per tonne gold was collected from five trenches within 
+Zone IV.  The material was subjected to various recovery methods including alkali pre-
+treatment, roasting, arsenic-acid treatment and floatation, all followed by cyanidation.  
+Recovery rates of gold from about 72% to 78% were achieved by these methods.  Acid 
+leaching without cyanidation also produced similar rates of recovery, but over much longer 
+periods.   
+
+In 2005, Majestic collected a 678 kilogram sample comprised of two groups of material, one 
+from surface trenches and the other comprised of coarse drill core reject material.  The 
+sample was submitted to Process Research Associates (PRA) in Vancouver, Canada for 
+testing.   
+
+PRA made composites of the surface and drill core material, and each was subjected to 
+cyanide leach, carbon-in-pulp extraction, and flotation plus cyanide extraction.  The trench 
+material was variably oxidized while the core material was essentially unoxidized.  Gold 
+recoveries varied with the degree of oxidation as summarized in Table 4.  
+
+ 
+
+Extraction Method Trench Core 
+Cyanide, no oxidation 54% <50% 
+CIP after oxidation 75-80% 58% 
+Floatation/oxidation/cyanide 87% 95-98% 
+
+ 
+
+Table 4  PRA Metallurgical test gold recoveries 
+
+ 
+
+In 2011 two sets of metallurgical gold recovery tests were done on representative samples of 
+fresh sulphide ore from the underground workings in Zone IV by the Beijing General Institute 
+of Mining and Metallurgy and the Processing Research Institute of XBGMR.  The results of 
+these floatation and roasting tests are summarised in  
+
+Table 5. 
+
+
+
+ 
+
+27 | P a g e  
+ 
+
+ 
+
+June 2011, Beijing General Institute of Mining and Metallurgy  
+ 
+
+ 
+
+Stage Head Grade g/t Recovery Rate % 
+ Au Ag Au Ag 
+
+Floatation 2.53 4.50 90 42 
+Floatation-Roasting-CIL1 *   82 34 
+     
+March 2011, Processing Research Institute of XBGMR 
+ 
+
+  
+
+Stage Head Grade g/t Recovery Rate % 
+ Au Ag Au Ag 
+
+Floatation 2.41 2.82 93 62 
+Floatation-Roasting-CIL   79 35 
+ 
+
+Table 5  2011 Metallurgical test results  * Includes CIL tailings re-processing
+
+
+
+ 
+
+28 | P a g e  
+ 
+
+ 
+
+17. MINERAL RESOURCE ESTIMATES  
+  
+
+Data Analysis  
+
+Assays  
+
+The Author received electronic data files for trench and drill hole locations, down-hole 
+surveys and gold assays.  GobiMin also provided a topographic map of the Property in 
+electronic format.  The data files included both current (2011) and historic (XBGMR, Majestic 
+and Wardrop) data and therefore are assumed to represent as complete a record of assays 
+from the Property as documentation permits.   
+
+Descriptive statistics for the total assay population and individual sub-populations are 
+presented below in Table 6. 
+
+Assay GobiMin 
+  
+
+Assay 
+
+Total 
+Sample 
+Interval 
+
+Total  
+ 
+
+Assay 
+Mean 0.66  1.00 0.64 
+Standard Error 0.01 0.00 0.01 
+Median 0.18 1.00 0.15 
+Mode 0.05 1.00 0.01 
+Standard Deviation 1.28 0.13 1.21 
+Sample Variance 1.64 0.02 1.47 
+Kurtosis 513.22 1,358.62 417.70 
+Skewness 13.08 25.47 10.87 
+Range 63.87 8.87 63.87 
+Minimum 0.01 0.13 0.01 
+Maximum 63.88 9.00 63.88 
+Sum  18,557.86  
+Count 12,041 18,606  18,606  
+
+ 
+
+Table 6  Statistical summary of GobiMin and Total (including GobiMin) drilling assay 
+data 
+
+  Composites  
+
+Samples are composited (combined to a uniform length) to overcome the influence of 
+variable sample length and thereby to make the influence of all samples comparable on the 
+basis of length.  Almost 92% of the Sawayaerdun samples are one metre in length (17,109 
+of a total of 18,606), therefore all samples were composited to one metre.  
+
+ 
+
+
+
+ 
+
+29 | P a g e  
+ 
+
+Capping  
+
+The distribution of assay grades was examined for the existence of statistical outliers; i.e 
+rare high assay values that are atypical of the assay population which if included in the 
+resource estimate would distort the character of the sample population through the 
+disproportionate contribution of the few high values.  A population that contains such outliers 
+is termed "nuggety" and is typical of quartz-vein gold occurrences.  In such a case it is 
+standard practice to cap the high values at some lower level that minimizes their potentially 
+distorting effect.   
+
+An analysis of Sawayaerdun 1m composited drill hole assay values >0.5g/t Au, i.e. wire-
+framed assays, shows that about 30% of the aggregate gold content (sum of assays) resides 
+in the top 10% of the sample population when the values are ranked from lowest to highest.  
+When the top decile is subdivided into percentiles, the top percentile contains about 19% of 
+the aggregate gold content (sum of assays), Table 7.  This grade distribution is characteristic 
+of a log-normal gold ore population however the distribution of values is smoothly 
+progressive from lowest to highest with no extreme steps in the grade distribution and 
+extreme high grades, Figure 8.  The gold assay population is therefore not considered to be 
+sufficiently nuggety to require capping.   
+
+TOTAL >0.5g/t Au    TOP DECILE 
+ Population 
+
+sum of assays   Cumulative   %    
+Population 
+
+sum of assays 
+ 
+
+Cumulative   %  
+3,066 3,066 30%  579 579 19% 
+1,686 4,752 46%  412 991 32% 
+1,263 6,014 58%  341 1,332 43% 
+1,014 7,028 68%  307 1,639 54% 
+
+842 7,871 76%  276 1,915 63% 
+703 8,573 83%  257 2,173 71% 
+587 9,160 88%  241 2,413 79% 
+489 9,648 93%  227 2,640 86% 
+404 10,053 97%  216 2,856 93% 
+330 10,382 100%  206 3,062 100% 
+
+ 
+
+Table 7  Population (sum of assays) analysis of composited drill samples >0.5g/t Au 
+
+ 
+
+
+
+ 
+
+30 | P a g e  
+ 
+
+ 
+
+Figure 8 Sawayaerdun 1m composited gold assay frequency analysis    
+
+Bulk Density  
+
+GobiMin made a number of density measurements on samples of ore collected from 
+trenches and drill core as follows:   
+
+(1) Brigade 2 on 113 samples before 2007 
+
+(2) Majestic on 572 samples for 2006 - 2007 
+
+(3) Brigade 2 on 37 samples in 2010 
+
+(4) Hanzhong Brigade on 41 samples in 2011 
+
+The average of these measurements was 2.9 grams/centimetre3.  This value was used in 
+this and previous Wardrop resource estimates.   
+
+Geological Interpretation  
+
+Zone I and Zone IV are interpreted as continuous shear zones that strike northeast and dip 
+to the northwest at about 70º.  The zones vary in width from less than 10 to up to 50 metres 
+over their explored strike lengths but in the areas modelled for these resource estimates  
+Zone I is generally inferred to be 10-20m wide and Zone IV 40-50 metres thick.  
+
+    
+
+The wire-framed solids used in these resource estimates were drawn as 0.5 g/t gold grade 
+envelopes, the outer boundary of the zone was drawn to include as many as reasonable of 
+the assays that equal or exceed 0.5 g/t gold so some minor internal waste, i.e. <0.5g/t Au, 
+
+
+
+ 
+
+31 | P a g e  
+ 
+
+was included in the wire-frames to include the higher grade outliers.  Although the fault that 
+contains the gold no doubt continues along strike beyond the modelled limits of the zone, the 
+geological solid was terminated to the northeast and southwest at 20m beyond the last drill 
+intercept that could reasonably be assumed to be part of the zone.  Vertically, the zone was 
+extrapolated to the topographic surface however the grades were not modelled within the 
+wireframes beyond the search ellipses described later in this report.   
+
+
+
+ 
+
+32 | P a g e  
+ 
+
+ 
+
+18. RESOURCE BLOCK MODEL  
+ 
+
+Table 8 summarizes the block model parameters used in the resource modelling.   
+
+  Zone I     Zone IV     
+  Minimum Maximum   Minimum Maximum   
+North 4438200 4440600   4437600 4440700   
+East 440400 442000   438100 440800   
+Elevation 3195 3950   2800 3800   
+              
+ X Y Z X Y Z 
+Cell 
+Dimensions 10 10 5 10 10 5 
+Number 160 240 151 270 310 200 
+              
+  Zone I     Zone IV     
+Search 
+Ellipse ID2 ID3   ID2 ID3   
+X 20 20   20 20   
+Y 200 200   200 200   
+Z 200 200   200 200   
+Min 
+Intercepts 4 4   4 4   
+              
+Dip -70 -70   -70 -70   
+Strike 30 30   30 30   
+Plunge 0 0   0 0   
+
+ 
+
+Table 8  Sawayaerdun Block Model Parameters   
+
+Interpolation  Plan  
+Resources were interpolated using Inverse Distance Squared (ID2) and Inverse Distance to 
+the Third Power (ID3).  ID2 interpolation produces a smoother, less poddy model than ID3 by 
+applying less weight to the nearest sample to the block being interpolated, i.e. there is more 
+blending of the grades.   An ID2 model is more appropriate for bulk mining or underground 
+mining where the ore is poddy and less predictable making selective mining of high grade 
+pods less feasible. 
+
+Trench samples and diamond core samples within 10m of the topographic surface were only 
+interpolated within the top 10m to create an Oxide model.  All diamond core samples below 
+10m of the topographic surface were not interpolated above the -10m surface to create a 
+separate sulphide model. 
+
+
+
+ 
+
+33 | P a g e  
+ 
+
+ 
+
+Figure 9  Sawayaerdun Zone I ID2 sulphide block model Long Section showing colour 
+coded gold grades (Jones, 2012) 
+
+ 
+
+Figure 10  Sawayaerdun Zone IV ID2 sulphide block model Long Section showing 
+colour coded gold grades (Jones, 2012)    
+
+Mineral Resource Classification 
+
+Grade interpolation was carried out in one pass using a search ellipse 20m (X) x 200m (Y) x 
+200m (Z).    The modelled cells within 50m of sample intervals were considered to be 
+Indicated resources while the remaining modelled cells out to 200m from sample intervals 
+were considered to be Inferred resources. 
+
+
+
+ 
+
+34 | P a g e  
+ 
+
+  
+
+ 
+
+Figure 11  Long section of Sawayaerdun Zone I Block Model showing resource 
+classification (Jones, 2012)   
+
+       
+
+ 
+
+Figure 12  Long section of Sawayaerdun Zone IV Block Model showing resource 
+classification (Jones, 2012)   
+
+            
+
+Mineral Resource Tabulation  
+Two estimates, ID2 and ID3, are tabulated below.  The highlighted resource estimates are 
+given at a base case grade threshold of 0.5g/t gold.   
+
+
+
+ 
+
+35 | P a g e  
+ 
+
+ 
+
+ 
+
+ZONE IV     
+Cumulative INDICATED     
+
+Lower  
+Cut-off 
+g/t ID2 
+
+Million 
+Tonnes 
+
+Average 
+Grade 
+Au g/t 
+
+ID2 
+
+Average 
+Grade 
+Au g/t 
+
+ID3 
+
+Contained 
+1000 Ozs 
+
+ID2 
+
+Contained 
+1000 Ozs 
+
+ID3 
+5.00 0.1 6.3 7.6 24 29 
+2.50 2.1 3.2 3.5 217 232 
+2.00 5.5 2.6 2.7 456 475 
+1.75 8.9 2.3 2.4 664 687 
+1.50 14.6 2.0 2.1 957 985 
+1.25 22.7 1.8 1.8 1,314 1,341 
+1.00 33.5 1.6 1.6 1,702 1,729 
+0.75 44.7 1.4 1.4 2,016 2,039 
+0.50 52.5 1.3 1.3 2,176 2,194 
+
+0 57.9 1.2 1.2 2,230 2,245 
+      
+Cumulative INFERRED     
+
+Lower  
+Cut-off 
+g/t ID2 
+
+Million 
+Tonnes 
+
+Average 
+Grade 
+Au g/t 
+
+ID2 
+
+Average 
+Grade 
+Au g/t 
+
+ID3 
+
+Contained 
+1000 Ozs 
+
+ID2 
+
+Contained 
+1000 Ozs 
+
+ID3 
+5.00 0.0 5.9 7.1 1 2 
+2.50 0.3 3.3 4.1 34 42 
+2.00 1.0 2.5 2.8 79 87 
+1.75 2.4 2.1 2.3 163 172 
+1.50 5.8 1.8 1.9 341 350 
+1.25 13.3 1.6 1.6 666 673 
+1.00 24.3 1.4 1.4 1,065 1,068 
+0.75 35.0 1.2 1.2 1,367 1,370 
+0.50 43.8 1.1 1.1 1,543 1,546 
+
+0 48.4 1.0 1.0 1,589 1,590 
+      
+
+Table 9  Sawayaerdun Zone IV resource estimate summary 
+
+
+
+ 
+
+36 | P a g e  
+ 
+
+ 
+
+ZONE I     
+Cumulative INDICATED     
+
+Lower  
+Cut-off 
+g/t ID2 
+
+Million 
+Tonnes 
+
+Average 
+Grade 
+Au g/t 
+
+ID2 
+
+Average 
+Grade 
+Au g/t 
+
+ID3 
+
+Contained 
+1000 Ozs 
+
+ID2 
+
+Contained 
+1000 Ozs 
+
+ID3 
+5.00 0.0 0.0 0.0 0 0 
+2.50 0.0 2.6 2.7 2 2 
+2.00 0.2 2.2 2.3 16 17 
+1.75 0.3 2.2 2.2 20 21 
+1.50 0.5 2.0 2.0 30 30 
+1.25 1.3 1.6 1.6 64 65 
+1.00 1.9 1.4 1.4 88 89 
+0.75 3.0 1.2 1.2 119 121 
+0.50 4.0 1.0 1.1 139 141 
+
+0 5.1 0.9 0.9 146 147 
+      
+Cumulative INFERRED     
+
+Lower  
+Cut-off 
+g/t ID2 
+
+Million 
+Tonnes 
+
+Average 
+Grade 
+Au g/t 
+
+ID2 
+
+Average 
+Grade 
+Au g/t 
+
+ID3 
+
+Contained 
+1000 Ozs 
+
+ID2 
+
+Contained 
+1000 Ozs 
+
+ID3 
+5.00 0.0 0.0 0.0 0 0 
+2.50 0.1 3.1 3.1 6 6 
+2.00 0.4 2.3 2.3 30 30 
+1.75 0.6 2.2 2.2 39 39 
+1.50 1.0 1.9 2.0 59 61 
+1.25 2.2 1.6 1.6 114 116 
+1.00 3.7 1.4 1.4 168 171 
+0.75 7.6 1.1 1.1 274 279 
+0.50 10.4 1.0 1.0 333 337 
+
+0 12.6 0.9 0.9 348 351 
+ 
+
+Table 10  Sawayaerdun Zone I resource estimate summary 
+
+ 
+
+ 
+
+Block Model Validation  
+The block model was validated both visually against the drilling results on cross sections and 
+by comparison of the outcomes of the two interpolation methods.   Figure 13 below is a 
+typical cross section through Zone IV allowing a comparison of the drilling intercepts with the 
+block model.     
+
+
+
+ 
+
+37 | P a g e  
+ 
+
+   
+
+    
+
+ 
+
+Figure 13  Sawayaerdun Zone IV typical cross section showing colour coded drill 
+holes and block model grades (Jones, 2012)
+
+
+
+ 
+
+38 | P a g e  
+ 
+
+ 
+
+19. OTHER RELEVANT DATA & INFORMATION  
+There is no other relevant data or information that would enhance the understanding of the 
+reported resource estimates.    
+
+
+
+ 
+
+39 | P a g e  
+ 
+
+ 
+
+20. INTERPRETATION AND CONCLUSIONS  
+Trenching and drilling by GobiMin during 2010 and 2011 has confirmed the nature and 
+extent of gold mineralization within both Zone I and Zone IV as defined by earlier exploration 
+programs.  The current level of exploration supports the classification of resources within 
+both Zone I and Zone IV as Indicated and Inferred.   
+
+A portion of the Zone IV contains more high grade mineralization than the remaining portions 
+of the zone, termed "Target" for this report, Figure 14.  This portion of Zone IV also appears 
+to be the thickest portion of the zone and therefore may represent a flexure or dilation zone 
+within the F3 fault that contains Zone IV.  A subset of the total resource is provided in Table 
+11 at a 0.5g/t Au lower cut-off base case. 
+
+ 
+
+Figure 14  Long section along Zone IV showing colour coded model with "Target" 
+zone inside black outline 
+
+ 
+
+
+
+ 
+
+40 | P a g e  
+ 
+
+Table 11  Higher grade Zone IV "Target" resource estimate at 0.5g/t Au lower cut-off 
+base case 
+
+Once the underground exploration of the deposit is completed, it is probable that those 
+portions explored underground could be upgraded into the Measured category.  
+Underground exploration would also provide information regarding ground conditions that 
+would assist with mine design as well as provide material for metallurgical testing.   
+
+The Author considers that the 2010-2011 GobiMin exploration program was successful in 
+confirming previous exploration results and in providing a higher level or assurance for the 
+resources in the widest portion of the Zone that had previously existed.  At a 0.5 g/t lower 
+threshold, all of Zone IV is currently estimated to contain ID2 Indicated resources of 
+approximately 52.5 million tonnes with an average grade of 1.3 g/t gold and Inferred 
+resources of 43.8 million tonnes with an average grade of 1.1 g/t gold, Table 12.        
+
+      
+
+
+
+ 
+
+41 | P a g e  
+ 
+
+ 
+
+ 
+
+ 
+
+Table 12  Sawayaerdun Zone I and Zone IV ID2 resource estimate summary  at a 0.5g/t 
+Au lower cut-off base case  *Wardrop 2011 estimate Kriged, 
+
+  
+
+
+
+ 
+
+42 | P a g e  
+ 
+
+ 
+
+21. RECOMMENDATIONS  
+The following program of exploration for 2012 is recommended in order to upgrade the 
+resource estimates and to obtain a better understanding of the mining and metallurgical 
+characteristics of the mineralization:   
+
+1. Core drilling: 30,000 metres @US$175/metre…………………..……… US$5,250,000  
+
+2. Underground development: ……………………………………………… US$1,530,000  
+
+3. Assaying and Metallurgy……………………………………………..…… US$   200,000  
+
+TOTAL…………………………………………………………………………..US$6,980,000   
+
+All future sampling programs will incorporate field duplicates, standards and blanks as part 
+of the continuing QA/QC program.   
+
+  
+
+ 
+
+
+
+ 
+
+43 | P a g e  
+ 
+
+ 
+
+22. REFERENCES  
+Ash, Chris and Alldrick, Dani, 1996 Au-Quartz Veins In: Selected British Columbia Mineral 
+Deposit Profiles, Volume 2 – Metallic Deposits Lefebure, D.V. and Hoy, T., editors. British 
+Columbia Ministry of Employment and Investment, Open File 1996-13, pp 53 – 56  
+
+http://www.em.gov.bc.ca/Mining/Geolsurv/MetallicMinerals/MineralDeposit Profiles   
+
+Mosher, Gregory Zale; Wardrop A Tetra Tech Company, February 28, 2006 Technical 
+Report on the Sawayaerdun Property Lic. 65000000310678, Xinjiang Autonomous Region, 
+China For Majestic Gold Corp.   
+
+Mosher, Gregory Zale; Wardrop A Tetra Tech Company, March 18, 2011 TECHNICAL 
+REPORT ON THE SAWAYAERDUN PROPERTY, XINJIANG UYGUR AUTONOMOUS REGION, 
+CHINA For GobiMin.   
+
+Pollard, David M., 2004 Sawayaerdun Final Report, Fieldwork 2004 For Majestic Resource 
+Corp.   
+
+Robb, Warren; Church, Calvin; Kenwood, Stephen; February 8, 2005 Technical Report on 
+the Sawayaerdun Property For Majestic Gold Corp.   
+
+Rui, Zongyao; Goldfarb, Richard; Qui Yumin, 2002 Paleozoic-early Mesozoic gold deposits 
+of the Xinjiang Autonomous Region, northwestern China Mineralium Deposita Volume 37, pp 
+393 – 418   
+
+Wright, Frank, August 21, 2005 Sawayaerdun Gold Project Preliminary Metallurgical Testing  
+For Majestic Gold Corp.   
+
+Zhou, Taihe; Goldfarb, Richard; Phillips, G. Neil, 17 January, 2002 Tectonics and distribution 
+of gold deposits in China – an overview Mineralium Deposita Volume 37, pp 249 – 282   
+
+
+
+ 
+
+44 | P a g e  
+ 
+
+ 
+
+23. CERTIFICATE OF QUALIFIED PERSON  
+ I, Philip Alan Jones of Perth, Western Australia, do hereby certify that as the author of this 
+report titled, "Technical Report on Resources at Zone I and Zone IV at the Sawayaerdun 
+Project Xinjiang Uygur Autonomous Region, China" dated March 1, 2012, I hereby make the 
+following statements:   
+
+• I am an independent Consulting Geologist with a business address at 4 Buchan 
+Place, Hillarys, Western Australia.  
+ 
+
+• I am a graduate of South Australian Institute of Technology, (B. App. Sc., 1974).  
+ 
+
+• I am a member in good standing of the Australian Institute of Geoscientists 
+(Member# 1903) and Australian Institute of Mining and Metallurgy (Member# 
+105653).  
+ 
+
+• I have practiced my profession continuously since graduation.  
+ 
+
+• I have read the definition of "qualified person" set out in National Instrument 43-101 
+(NI 43-101) and certify that, by reason of my education, affiliation with a professional 
+association (as defined in NI 43-101) and past relevant work experience, I fulfill the 
+requirements to be a "qualified person" for the purpose of NI 43-101.  
+ 
+
+• My relevant experience with respect to polymetallic deposits includes over 35 years 
+of mining, exploration for and evaluation of a variety of gold and  basemetal deposit 
+types in a broad range of geological settings.  In addition, I have carried out resource 
+estimates of a variety of mineral deposits on a regular basis over the past twenty 
+years.  
+ 
+
+• I am responsible for the preparation of all portions of this technical report titled 
+"Technical Report on Resources at Zone I and Zone IV at the Sawayaerdun Project 
+Xinjiang Uygur Autonomous Region, China".  In addition, I visited the Property on 
+September 21, 2011.  
+ 
+
+• I have no prior involvement with the Property that is the subject of the Technical 
+Report.  
+ 
+
+• As of the date of this Certificate, to my knowledge, information and belief, this 
+Technical Report contains all scientific and technical information that is required to be 
+disclosed to make the technical report not misleading.  
+ 
+
+• I am independent of the Issuer as defined by Section 1.4 of the Instrument.  
+
+
+
+ 
+
+45 | P a g e  
+ 
+
+ 
+• I have read National Instrument 43-101 and the Technical Report has been prepared 
+
+in compliance with National Instrument 43-101 and Form 43-101F1.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Signed and dated this 3rd day of April, 2012 at Perth, Western Australia  
+
+ 
+
+
+'

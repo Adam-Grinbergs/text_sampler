@@ -1,0 +1,4497 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESREPORT2008
+
+
+TECHNICAL REPORT AND 
+MINERAL RESOURCE ESTIMATE 
+
+SAN ANTONIO GOLD PROJECT 
+
+BAJA CALIFORNIA SUR, MEXICO 
+
+FOR 
+
+PEDIMENT EXPLORATION LIMITED  
+
+as of December 31, 2007 
+
+Report Date:  June 30th,  2008 
+
+   
+  
+
+Vancouver, BC  Ian S. Thompson, P.Eng.  
+
+June 30, 2008  
+  
+
+Derry, Michener, Booth & 
+Wahl Consultants Ltd. 
+
+ David Laudrum, P.Geo.  
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 2 
+
+TABLE OF CONTENTS 
+Page 
+
+1.0 Summary ................................................................................................................................. 5 
+
+2.0 Introduction and Terms of Reference ....................................................................................... 7 
+
+3.0 Reliance on Other Experts........................................................................................................ 8 
+
+4.0 Property Description and Location .......................................................................................... 9 
+
+5.0 Accessibility, Climate, Local Resources, Infrastructure, Physiography ................................... 11 
+
+6.0 History................................................................................................................................... 13 
+
+7.0 Geological Setting ................................................................................................................. 19 
+
+8.0 Deposit Types........................................................................................................................ 23 
+
+9.0 Mineralization........................................................................................................................ 25 
+
+10.0 Exploration by Minera Pitalla ................................................................................................ 26 
+
+11.0 Drilling ................................................................................................................................. 31 
+
+12.0 Sampling Method and Approach ............................................................................................ 36 
+
+13.0 Sample Preparation, Analyses, Security ................................................................................. 37 
+
+14.0 Data Verification ................................................................................................................... 39 
+
+15.0 Adjacent Properties................................................................................................................ 43 
+
+16.0 Mineral Processing and Metallurgical Testing ........................................................................ 44 
+
+17.0 Mineral Resource Estimates ................................................................................................... 45 
+
+18.0 Other Relevant Data and Information..................................................................................... 61 
+
+19.0 Interpretation and Conclusions ............................................................................................... 63 
+
+20.0 Recommendations and Budget ............................................................................................... 63 
+
+21.0 References ............................................................................................................................ 66 
+
+22.0 Date and Signature Page ........................................................................................................ 68 
+
+23.0 Authors Certificate – Ian S. Thompson................................................................................... 69 
+
+Authors Certificate – Dave Laudrum...................................................................................... 71 
+
+ Appendices ............................................................................................................................ 73 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 3 
+
+     Page 
+LIST OF FIGURES 
+
+4.1 Pediment Concessions.............................................................................................................. 10 
+6.2.1 Las Colinas Drill Hole Locations and IP Results ...................................................................... 16 
+6.2.2 Las Colinas cross-section 38500 N Showing IP response (after RPA section 639500) .............. 17 
+6.2.3 Los Colinas cross-section 39650 N........................................................................................... 18 
+7.1 Regional Geology San Antonio Gold District ........................................................................... 20 
+7.2 Local and Property Geology .................................................................................................... 22 
+8.1 Conceptual Mineralization Model ............................................................................................ 24 
+10.4 Trench sampling results ........................................................................................................... 30 
+11.1 San Antonio Project Drill Map................................................................................................. 34 
+11.4 General Geology Section 39650N ............................................................................................ 35 
+14.7 Comparison Chart between Acme Labs and ALS Chemex Geochem. results ............................ 42 
+17.1 Log Normal Histogram of 2 m Composite Data from Los Planes Deposit................................. 49 
+17.2 Log Normal Histogram of 2 m Composite Data from Las Colinas Deposit ............................... 50 
+17.3 Planes Deposit cross-section 39550N Block Model Showing Gold Grades ............................... 56 
+17.4 Planes Deposit cross-section 39650N Block Model Showing Gold Grades ............................... 57 
+17.5 Planes Deposit cross-section 39750N Block Model Showing Gold Grades ............................... 58 
+17.6 Colinas Deposit cross-section 38400N Block Model Showing Gold Grades ............................. 59 
+17.7 Colinas Deposit cross-section 38500N Block Model Showing Gold Grades ............................. 60 
+
+LIST OF TABLES 
+
+1.1 Inferred Mineral Resource Estimate at December 31, 2007 ....................................................... 6 
+4.1 Mineral Pitalla Properties ........................................................................................................ 11 
+10.4 Colinas Trench Resampling ..................................................................................................... 29 
+14.8 Twinned Hole PL07 RC-20 by 08LC DD-10 ........................................................................... 41 
+17.1 Average Density determinations for San Antonio Mineralization.............................................. 51 
+17.2 Los Planes Deposit Block Model Parameters............................................................................ 51 
+17.3 Las Colinas Deposit Block Model Parameters .......................................................................... 51 
+17.4 Los Planes Deposit Inferred Mineral Resource Estimate........................................................... 53 
+17.5 Las Colinas Deposit Mineral Resource Estimate....................................................................... 54 
+18.1 Cut-off Grades of Selected Open Pit Heap-leachable gold deposits........................................... 62 
+20.1 Budget for Recommended Exploration and Evaluation Program............................................... 65 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 4 
+
+APPENDICES  
+
+Appendix 1.......................................................................................................................................... 73 
+
+List of Drill Hole intersections used in the Mineral Resource Estimates for the Los Planes and Las 
+Colinas Zones.
+
+Appendix 2.......................................................................................................................................... 76 
+
+Figures: 
+10.3.1 Apparent Resistivity dipole-dipole data Las Colinas................................................................. 76 
+10.3.2 Observed Polarization data from RIP survey ............................................................................ 77 
+10.3.3 Pseudo-section on Geophysical Line 40700N........................................................................... 78 
+14.2 QA/QC Duplicates Chart ......................................................................................................... 79 
+14.3.1 Plot for QA/QC Standard SG31 ............................................................................................... 80 
+14.3.2 Plot for QA/QC Standard OXC58 ............................................................................................ 81 
+14.3.3 Plot for QA/QC Standard OXD43 ............................................................................................ 82 
+14.3.4 Plot for QA/QC Standard OXD57 ............................................................................................ 83 
+14.4 Plot for Blanks ........................................................................................................................ 84 
+
+Tables: 
+14.7 Comparison Acme Labs and ALS Chemex Geochem. Results.................................................. 85 
+
+Appendix 3.......................................................................................................................................... 89 
+
+ALS Laboratory Group M. Ramshaw letter (Feb15/08): 
+ALS Chemex Quality Issues at Reno Laboratory ................................................................................... 89 
+
+ALS Laboratory Group S. Armstrong letter (Jan 29/08): 
+Mexican Operations re Reno Laboratory................................................................................................ 91 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 5 
+
+1.0 SUMMARY 
+
+Derry, Michener, Booth & Wahl Consultants Ltd. ("DMBW") has prepared this report at the 
+request of PEDIMENT EXPLORATION LIMITED, ("Pediment") of Vancouver. Pediment 
+are required to file a Technical Report on their San Antonio District gold property in Baja 
+California Sur ("BCS"), Mexico, in compliance with disclosure and reporting requirements set 
+forth in Canadian National Instrument 43-101. 
+
+The Qualified Persons responsible for this report are Ian S. Thompson, P.Eng., President of 
+DMBW, and Dave Laudrum, P.Geo. of Ashloo Consultants Ltd., who is responsible for the 
+estimation of resources on the Los Planes and the Las Colinas gold deposits. 
+
+The property consists of six exploration concessions staked and 100% owned by Pediment, 
+through its wholly-owned Mexican subsidiary, Compania Minera Pitalla S.A. de C.V; these 
+cover 37,800 hectares (ha), representing an additional 14 km of favourable geological trend. 
+
+The SAN ANTONIO PROPERTY is located next to the historic mining town of San Antonio 
+and about 45 km southeast by paved Highway No. 1 from the port city of La Paz. Historic 
+production of about 115,000 ounces of gold was reported from numerous small mines over the 
+period 1862 to 1915. 
+
+Echo Bay Exploration Inc. ("EBX") explored the general property area from 1994 to1997 at the 
+same time that they were exploring the Paredones Amarillos deposit (55.6 MT at 1.05g/t Au), 
+20 km south. EBX outlined a non-NI 43-101 compliant, historic resource at Las Colinas, using 
+data from 16 holes and 5 trenches. The current Pediment concessions contain this deposit. The 
+deposits on the San Antonio project are classified as "Shear Zone Gold Deposits". The shear 
+zones are generally within crystalline metamorphic or igneous rock. 
+
+Pediment has carried out a program of mapping, prospecting, trenching, soil geochemical and 
+Induced Polarization (IP) surveys from 2005 to 2007 over two main concessions. This has 
+resulted in further in fill drilling at Colinas and the drill-discovery of a new deposit "Los Planes" 
+about 600 m north and on structural trend. 
+
+Los Planes was outlined (from June to December 13, 2007) by 75 vertical, Reverse Circulation, 
+5.5 inch diameter ("RC") holes, totaling 14,981 m, completed by Layne Christiansen Drilling 
+Co. of Hermosillo. 
+
+At Las Colinas a total of 5 east-dipping 5 HQ core holes (823 m), were drilled by Pediment using 
+a Longyear 44 rig, by Diamond Drilling Specialists, of New Mexico. 
+
+The main mineralized body is confined to a cataclasite (mylonite) unit, varying from 25-35 m 
+wide at Las Colinas. At Los Planes, several sub parallel cataclasite zones form a broad zone up 
+to 100 m wide. This unit strikes about north-south and dips about 45-50 degrees west in both 
+deposits. The Planes zone is best developed to a vertical depth of about 225m (50m ASL), or 
+315m down the dip; the Colinas zone to a depth of about 150 m. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 6 
+
+Resources 
+
+The current National Instrument 43-101 compliant Mineral Resource Estimates for the Los 
+Planes ("Planes") and Las Colinas ("Colinas") zones on Pediment's San Antonio project were 
+completed by Dave Laudrum of Ashloo Consultants Ltd., under contract to DMBW, using 
+GEMS Software Version 6.1.3, from Gemcom Software International. The resource is reported 
+based on cut-off grades and economic considerations provided by Ian S. Thompson of DMBW in 
+Section 18.0 of this report. 
+
+Based on the parameters described in this report DMBW has estimated an Inferred Mineral 
+Resource, as at December 31, 2007, for the Los Planes deposit of 30.58 million tonnes at an 
+average grade of 1.32 g/t Au, using a 0.4 g/t Au cut-off grade. In addition DMBW has estimated 
+an Inferred Mineral Resource for the Las Colinas deposit of 5.62 million tonnes at an average
+grade of 0.83 g/t Au, using a 0.4 g/t Au cut-off grade. 
+
+Table 1.1 
+
+San Antonio Project 
+Inferred Mineral Resource Estimate @ December 31,2007(1,2,3) 
+
+CUT-OF 
+GRADE 
+
+TONNES GRADE 
+AU 
+PRODUCT 
+
+DEPOSIT 
+
+g/t Au 
+
+ROCK 
+GROUP(4)
+
+T x 106 g/t Au 
+Ounces x 
+106
+
+0.4 g/t Au Oxidized 10.54 1.18 0.40 
+
+0.4g/tAu  Sulphide 20.04 1.4 0.90 
+LOS 
+
+PLANES 
+
+  Total 30.58 1.32 1.30 
+
+0.4 g/t Au Oxidized 0.37 0.92 0.01 
+
+0.4g/tAu  Sulphide 5.25 0.83 0.14 
+LAS 
+
+COLINAS 
+
+  Total 5.62 0.83 0.15 
+
+(1) It cannot be assumed that all or any part of an Inferred Mineral Resource will be upgraded to an 
+Indicated or Measured Resource as a result of continued exploration. 
+
+(2)    Mineral Resources which are not mineral reserves do not have demonstrated economic viability. 
+(3) Numbers may not add up, due to rounding. 
+(4) 'Oxidized' refers here to rock affected by oxidation including weak-moderate-strong intensities. 
+
+At the current level of drilling there are well defined geological and grade domains at both 
+deposit areas. These domains show good vertical and lateral continuity and were used as hard 
+boundaries when interpolating grades into the block models. 
+
+For Planes high-grade assays were capped at 30 g/t Au, although this capping level only affected 
+4 assay samples. No high-grade assay capping was applied at Colinas where the highest assay 
+returned from the zone was 5.71 g/t Au. Density values of 2.7 for sulphide mineralization and 2.6 
+for oxide mineralization were used for both Planes and Colinas. Grades were interpolated by 
+Ordinary Kriging. Search Ellipse and variogram ranges used were 65 m (along strike) x 65 m 
+(down dip) x 25 m (across strike/dip). 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 7 
+
+For this initial resource estimate all mineralization at Planes and Colinas has been classified as 
+Inferred. Current drill spacing on individual x-sections often approaches 25 metre centres (down 
+dip), while the spacing between currently drilled x-sections is generally 50 metres (along strike). 
+
+Recommended Program and Budget 
+
+DMBW recommends a further program of 10,000 metres of infill vertical Reverse Circulation 
+('RC') and Core drilling at Planes in 2008 on a 50 x 50 metre grid to expand the inferred 
+resource base, if possible, as a precursor to closer-spaced drilling. Further IP surveys are also 
+recommended. In addition, as Pediment has noted and DMBW concurs, a Preliminary Economic 
+Assessment ("PEA") should be undertaken. 
+The above recommended program is estimated to cost US $1,962,000. 
+
+2.0 INTRODUCTION AND TERMS OF REFERENCE 
+
+This report has been prepared to satisfy the obligation of PEDIMENT EXPLORATION 
+LIMITED, ("Pediment") of Vancouver, to file a Technical Report on their San Antonio District 
+gold property in the Baja Peninsula, Mexico, in compliance with disclosure and reporting 
+requirements set forth in Canadian National Instrument 43-101.
+
+The Qualified Persons responsible for this report are Ian S. Thompson, P.Eng., President of 
+DMBW, and Dave Laudrum, P.Geo. of Ashloo Consultants Ltd., an independent consulting 
+geologist retained by DMBW. Dave Laudrum prepared the Mineral Resource Estimates 
+presented in Section 17 of this report. The resource is reported based on cut-off grades and 
+economic considerations provided by Ian S. Thompson in Section 18.0 of this report. Thompson 
+visited the property, near La Paz, Baja California Sur, and the offices of Pediment's wholly-
+owned Mexican subsidiary, Compania Minera Pitalla, S.A. de C.V., located in Hermosillo, 
+Sonora, during the period December 12 to 17, 2007. 
+
+The property comprises the currently-explored Los Planes gold deposit, as well as the Las 
+Colinas gold deposit, which is located 600 m to the south and on trend. 
+
+The objective of this report is to estimate initial NI 43-101-Compliant Resources for both the 
+new Los Planes deposit and the historic Las Colinas gold deposit. This is the first Qualifying 
+Report on the San Antonio District properties since 2004 and thus covers exploration from 2005 
+through 2007. 
+
+For Los Planes ("Planes") the data comprises Reverse Circulation ("RC") drilling data from the 
+Pediment's drilling program, which began in March, 2007. The resource estimate includes the 
+assay data from those 75 RC holes completed by December 31, 2007. Core drilling was also 
+initiated in late 2007 and geology/assay logs of five holes on Planes completed in January, 2008, 
+were available to aid in correlations.  
+
+Pediment has continued the program of exploration RC drilling at Los Planes in 2008, however, 
+any additional geological logs and acceptable assays (having passed the company's Quality 
+Assurance and Quality Control measures) were not available at the time of writing this report. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 8 
+
+At Las Colinas HQ type Core and Hydro-Winke NQ type core drilling was also undertaken in 
+2007, prior to the discovery and delineation of Los Planes. The Los Planes discovery was 
+subsequently made by partial completion with the same drill of three core holes and one 
+additional Hydro-Winke drill hole. The balance of the geological and assay data is provided in a 
+digital version of summary logs and complete assays from the 1998 Echo Bay Exploration 
+(EBX) program report. 
+
+There are other gold-bearing target areas, such as Fandango and La Virgen, which have been 
+investigated by Pediment Exploration and by a contractor geophysical survey on the property. 
+(See Exploration Section 10) 
+
+Unless otherwise stated all units used in this report are metric. Gold assays are reported in grams 
+Au per tonne (g Au/t), or ppm Au, unless ounces are specifically stated. Grades of silver are 
+reported in ppm Ag. Currencies are US Dollars, or Mexican Pesos, as indicated.  
+
+3.0 RELIANCE ON OTHER EXPERTS 
+
+The authors have relied on the documents listed in the References and the site visit(s) for the 
+information in this report, however, the conclusions and recommendations are ours. We have 
+assumed that all of the information and technical documents listed in the References section of 
+the report are accurate and complete in all material aspects; however, the accuracy and 
+completeness of the data cannot be guaranteed. 
+
+Portions of Sections 4.0 to 9.0 are reproduced from an earlier NI 43-101 report by R. Wallis, 
+P.Geo. of Roscoe Postle Associates. (RPA -2004) 
+
+Portions of Sections 6.0 and 7.0 are reproduced from an earlier publication of Northwest Mining 
+Association presentation in 1998 by Brown, Reynolds, and Hauck III. 
+
+Portions of Section 10.0 are reproduced from an internal exploration report by J.E. Stephens, 
+P.Geo. and by data and commentary by J.Reynolds of Durango Geophysical Operations. 
+
+The results and opinions in this report are dependent upon the information provided being 
+current, accurate and complete. No information has been withheld that would impact the 
+conclusions or recommendations made. 
+
+DMBW has relied on Cia. Minera Pitalla and Pediment for providing information regarding: 
+current status of legal title, property boundaries, property agreements and environmental matters. 
+
+DMBW has examined a document from the Direccion General de Minas listing the Minera 
+Pitalla title document numbers and the concession names, as well as semesters that the 
+concessions have been renewed semi-annually, from inception in 2003 through 2007. 
+
+The original concessions covering the explored area were the CIRIO and EMILY concession, 
+which were filed by Pitalla in 2003, and title was subsequently granted by the Mexican Federal 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 9 
+
+Government. The agreement between El Dragon LLC and Skinny in 2005 resulted in the full 
+acquisition of Pitalla, including these concessions held by Pitalla.
+
+4.0 PROPERTY DESCRIPTION AND LOCATION 
+
+The SAN ANTONIO PROPERTY is located on the Baja Peninsula, Mexico, adjacent to the 
+historic mining town of San Antonio and about 45 km southeast by paved Highway No.1 from 
+the port city of La Paz, population (170,000) and about 160 km north of the resort town of Cabo 
+San Lucas. Good gravel roads traverse most of the project area and a 115 kV power line passes 
+through San Antonio. The road crossing the deposit area is currently being paved with 
+simultaneous installation of 80 kva electric power line. 
+
+The property consists of six exploration concessions staked and 100% owned by Pediment, 
+through its wholly-owned Mexican subsidiary, Cia. Minera Pitalla S.A. de C.V., that cover 
+37,800 hectares (ha) and an additional 14 km of favorable geological trend. 
+
+DMBW reviewed the title documents for two of the concessions which indicated that the 
+property taxes have been paid for the current period ending September 30, 2007. On the TRINI 
+concession the license has not yet been received, but DMBW has read the Letters of Application 
+and their receipt by the Mining department. At the current exchange rate of 0.10, the yearly taxes 
+are about US $15,300. The concessions are listed in Table 4.1 and their location relative to La 
+Paz is shown in Figure 4.1. 
+
+DMBW observed and photographed a common Discovery Monument for EMILY, CIRIO and 
+TRINI, located at UTM 0597728E; 2638467N (NAD 27 Mexico). This lies next to the main NE-
+SW gravel road to San Antonio village passing just east of the EMILY concession. 
+
+The properties were originally held by Cia. Minera Pitalla. Skinny Technologies Ltd., the 
+predecessor company of Pediment, issued 5,000,000 shares in 2004 to acquire all the outstanding 
+shares of El Dragon Minerals LLC, which company then owned 100% of the issued shares of 
+Cia. Minera Pitalla. Melvin Herdrick, Vice President Exploration and a Director of Pediment, is 
+the majority shareholder in El Dragon. This company owned six properties, five in Sonora and 
+the Las Colinas property in Baja California Sur. Additional bonus shares of Pitalla, totaling 
+2,500,000, were to be issued to the original shareholders of El Dragon, should a minimum of 
+1,000,000 ounces of gold be found on three or less of the properties; also one of these properties 
+needed to contain a minimum 500,000 ounces of gold. This agreement is still in effect. There are 
+no underlying royalties according to Pediment. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 10 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 11 
+
+Table 4.1. Minera Pitalla Properties 
+
+Concession Title No. Type Record Date Area (ha) 
+Taxes 
+
+Pesos/yr 
+TRINI 229908 Exploration 
+ 229909 Exploration 
+ 229910 Exploration 
+ 229911 Exploration 
+
+June 28, 2007 
+All 
+
+34,504.926 
+Total 
+
+139,400 
+
+CIRIO 221072 Exploration Nov. 19, 2003 2,789.9 11,288 
+EMILY 221074 Exploration Nov. 19, 2003 518.2 2,096 
+TOTAL    37,813.03 152,784 
+
+The Trini concessions are valid for 50 years, on payment of annual taxes. 
+
+5.0  ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, 
+INFRASTRUCTURE, PHYSIOGRAPHY 
+
+The San Antonio Property is accessed by good gravel and dirt roads which traverse most of the 
+project area. Electrical and telephone service is available easily in most parts of the region. 
+Water is available as developed domestic and irrigation wells, although there is partial restriction 
+of new water well development regulated by Comision Nacional de Agua, the Mexican Federal 
+Government's water regulation and management agency. 
+
+The climate is normally arid and hot, with an average temperature of 23ºC, and average lows of 
+12ºC and highs of 35ºC. Precipitation averages 170 mm, much of it associated with hurricane 
+systems occurring during the period August and September. Vegetation consists of numerous 
+varieties of thorny desert cacti, small shrubs and bushes, including manzanilla, mesquite, and 
+palo verde. At the time of my visit, the rainy season was just ending and the desert was quite 
+green and thick with vegetation. 
+
+Local labour is available in the nearby towns of San Antonio, Los Planes and the much larger 
+city of La Paz. The capital city, La Paz, of Baja California Sur with a population of about 
+170,000, is serviced by daily flights from the United States and other cities in Mexico. Electric 
+power is readily available with a 115 kV power line passing through San Antonio. 
+
+The northern part of the property consists of nearly flat "pediment" gravels and sands which 
+slope away from mountainous areas and all of which incline gently northeastward towards the 
+Sea of Cortez. Several deeper internal basins, now filled, make up part of the flat gravel covered 
+area. 
+
+The central part of the property is characterized by rounded hills, "Las Colinas" rising from the 
+pediment with elevations ranging from 200 m to 250 m above sea level (ASL). The southern and 
+western part is more rugged with elevations from 400 m to 600 m ASL. 
+
+Electrical and telephone service is available easily in most parts of the region. Water is available 
+as developed domestic and irrigation use with partial restriction of new water well development. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 12 
+
+5.1 Community Consultation  
+
+Although land tenure for mineral rights is acquired through the National Government, the local 
+communal farming areas, or "ejidos" own in common the surface rights to the lands near their 
+villages. Pitalla's social and community efforts in the San Antonio area have been excellent. 
+
+Surface access agreements with the Procuraduria Agraria office in Sonora, (paid on an annual 
+basis to the local ejidos) allow for either "low impact" exploration i.e. prospecting, soil and rock 
+sampling and hand trenching, or "transition", i.e. road building, mechanical trenching, drilling, 
+with higher cash payments. There are two ejidos: the San Antonio ejido and the San Luis ejido. 
+
+SAN LUIS – this ejido comprises about 1000 ha of surface rights in the exploration area and is 
+owned mainly by one family group in the NE part of the CIRIO and the adjacent TRINI 
+concession. The San Luis ejido has more extensive irrigation farmed areas southeast of Los 
+Planes pueblo. 
+
+SAN ANTONIO – this ejido is a very old farm holding dating from 1919 and comprising 10,846 
+hectares. This covers the south half of CIRIO; the last anniversary of the Temporary Surface 
+Occupation Permit was November 8, 2007. A total of US $20,000 was paid prior to this date and 
+annual payments are US $16,000; the expiry is November 2009. There are no work commitments 
+and all types of exploration are permitted except mining. Exploration companies are encouraged 
+to use ejido workers whenever possible. Pitalla, accordingly, have hired all staff from these 
+ejidos and have consulted with these local village councils on all aspects of exploration; jobs are 
+relatively high paying for the local communities and are thus sought after. 
+
+San Antonio and the nearby villages of El Triunfo, 7 km west, while now farming communities, 
+were important gold and silver producing centers respectively, over the last two centuries and in 
+the past 20 years were again mine exploration focused. There is a strong community interest in 
+the benefits of resuming mining activity. Numerous residents of these two communities continue 
+to be active with small scale gambusino production with limited leaching of gold on ore taken 
+back to the pueblo area. 
+
+5.2 Environmental 
+
+At this drilling stage there are routine permits required prior to drilling; the maximum disturbed 
+areas per hole are 720 sq.m. for a core hole and 768 sq.m. for an RC hole. The allowance for 
+roads is 7% of the area tested. The relevant authority is NOM (Norma Official Mexicana) and 
+the environmental agency, SEMARNAT, is located in La Paz. The Mexican federal government 
+regulations (NOM 120-ECOL) were gazetted in 1997, 1998 and 2005. 
+
+Pitalla reported that overall less than 10% of the area has been disturbed and there are no 
+environmental liabilities arising from previous explorers.
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 13 
+
+6.0 MINING HISTORY 
+
+6.1 General 
+
+Gold and silver mineralization was discovered around 1748 and rapidly began limited small 
+scale production mainly in the Triunfo area and south of San Antonio. Don Manuel del Ocio in 
+1748 began exploiting veins of Real de Minas de Santa Ana which towns later were named San 
+Antonio and Triunfo. Jesuits and various French historical connections have been reported to be 
+part of this mining history. A long period of inactivity followed until about 1862 when 25 mines 
+were reported as working (CRM Baja California Sur Monograph, 2000). These mines produced 
+steadily until 1895 when due to a large cyclone-hurricane, water problems and prices lead to a 
+steady decline to 1915, after which the district was no longer active. Total production is 
+estimated at over 3580 kg of gold (115,000 oz) and 661 tons of silver (21,250,000 oz Ag), plus 
+lead and zinc. Recent production is high-lighted by Minera Tepmin in the Testera Mine south of 
+San Antonio. Tepmin operated in about 1998-2000 at an intermittent rate of about 50 tons per 
+day with a flotation mill. 
+
+Old pits and shallow shafts (artisanal workings) have been noted on the both the CIRIO and 
+EMILY Concessions. The government geological branch, Consejo De Recursos Minerales 
+(CRM), now Servicio Geologico Mexicano, carried out work in the 1970s consisting of mapping, 
+trenching and limited magnetic and Induced Polarization (IP) surveys which covered portions of 
+the Las Colinas gold deposit.
+
+Pitalla report that "Placer gold has been investigated in three areas by CRM where limited 
+gambusino activity has defined accumulations mostly southwest of the Triunfo and San Antonio 
+districts. The three areas are described as belonging to either of two types, alluvial or proluvial. 
+The alluvial is typical gold accumulation by clastic separation in mechanical erosion, while the 
+proluvial involves alluvial deposition with lateritic processes to concentrate further the deposited 
+gold in sediments. The two alluvial deposits are closer to the sources of the gold districts, while 
+the proluvial deposit is further west and covers an area estimated at 80 square km. Grades of both 
+types are indicated to range from very low to over 2 grams per ton." 
+
+Echo Bay Exploration Inc. (EBX) acquired the concession in the mid-1990s at the same time that 
+they were exploring the Paredones Amarillos joint venture, 20 km south. (See Section 8) 
+Information on the EBX exploration program is found in the public documents listed in the 
+Reference section and also on the Company's website. 
+
+EBX carried out detailed geological mapping, stream sediment, soil and rock chip sampling, 
+trenching, ground electromagnetics, radio metrics and VLF-EM surveys, airborne magnetics, RC 
+drilling and metallurgical studies. The radiometric survey is reported to have indicated an 
+anomalous potassium and K/Th ratio response associated with the Las Colinas mineralization. 
+(Brown, Reynolds, and Hauck III, 1998) 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 14 
+
+6.2 Colinas Gold Deposit  replace this with newer ? 
+
+Fig.6.2.1) (modified from PRA fig 7) shows the (Colinas) drill hole locations and IP results.
+Two cross sections, one through the centre of the mineralized body (Section 38,500N) and one to 
+the north (39,600N) illustrating the continuation of the mineralization, are shown as Fig.6.2.2 
+and 6.2.3.(Figures 9 and 10 RPA) respectively." 
+
+"The cataclasite is a relative conductor compared to the diorite and granodiorite. A close 
+correlation between the increased polarization response and the sulphides containing the gold 
+mineralization was noted. The IP survey was run using 100 m dipole spacing on lines spaced 
+200 m apart. Additional lines to the north were run using 50 m dipoles on 200 m line spacing. 
+Echo Bay concluded that the IP was successful in outlining the mineralization that was still open 
+to the north beyond the IP coverage. Incomplete results from a soil survey also suggest a 
+continuation of the mineralization to the north. Drill holes SA97- 120 and -123 confirm the 
+extension of the mineralization to the north."(Brown 1998). 
+
+6.3 Historic Estimate 1996-Colinas Deposit 
+
+An independent estimate of the Las Colinas deposit was carried out for Echo Bay by a geologist 
+(Kuyper 1996), using the data from 16 holes and 5 trenches. He estimated a "geological gold 
+resource" of 2.74 MT at a grade of 1.0 g/t Au, using a cross-sectional method and extending 
+mineralization a maximum distance of 25 m from the intercept and a maximum sectional width 
+of 50 m. A specific gravity of 2.7 was used. No gold values were cut, as no assays exceeded 
+34 g/t Au. 
+
+Projecting mineralization 50 m up and down-dip and allowing a sectional width of up to 100 m, 
+he estimated a resource of 6.84 MT @ 1.02g/t gold. At EBX's request he also estimated a 
+incremental resource of 3.76MT @1.01 g/t, by extending the zone a further 200 m down-dip. 
+The total and average of the latter two resources is 10.6MT @ 1.02g/t. This estimate was 
+published by EBX (Brown, 1998) and has been reported in Pediment's Website under the 
+caption "San Antonio project-Las Colinas deposit". 
+
+The estimates have not been verified by a QP as required by NI 43-101. They are considered 
+historical resources that are not compliant with NI 43-101 and are reported for informational 
+purposes only. 
+
+Kuyper noted that "the deposit was open along strike in both directions and down-dip; however, 
+with its low grade and moderately steep dip to the west, the zone would be mineable for only 60 
+to 80 metres down-dip".  
+
+EBX carried out additional drilling in 1997, primarily to the north of the resource. The data 
+available had been expanded to 31 RC holes totaling 6085.5 m. This drilling intercepted several 
+intersections of mineralization confirming that the mineralized trend continued to the north and 
+included Hole SA 97-112, which eventually became the discovery hole for the Planes deposit 
+(reference Section 10). No further resource estimates were made. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 15 
+
+The EBX geological, assay and survey data were recently compiled in digital format by Pitalla 
+and a current resource estimate, including the 2007 RC and Core drill hole data, is described 
+separately by Dave Laudrum in Section 17. 
+
+6.4 Wallis (RPA 2004) 
+
+This property was the subject of an independent technical report by Stewart Wallis, P.Geo. of 
+RPA Associates in June 2004. His report, which described all of the properties in Mexico held by 
+Skinny Technologies Inc., the predecessor company of Pediment, included a review of Las 
+Colinas. He did not verify the database but noted that "the EBX interpretation extended the 
+mineralization on most sections no more than100 m from a drill hole intercept". He also noted 
+that "approximately 15% of the deposit lay on the adjoining Texcalama Concession to the south 
+that was not owned by Pitalla". (Pitalla report that this ownership has not changed.) 
+
+Wallis reported that "The early mining in both districts was focused on oxidized high-sulphide, 
+high-grade gold-silver veins ranging in width of up to 3 m, with strike lengths of nearly 2 km. 
+The Triunfo veins strike north-northeast and possibly converge with the north-south trending San 
+Antonio vein system on the Las Colinas Property north of the currently defined mineralization." 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 16 
+
+
+
+D
+e
+
+rr
+y,
+
+ M
+ic
+
+h
+e
+
+n
+e
+
+r,
+ B
+
+o
+o
+
+th
+ &
+
+ W
+a
+h
+
+l 
+C
+
+o
+n
+
+s
+u
+
+lt
+a
+n
+
+ts
+ L
+
+td
+. 
+
+ 
+P
+
+a
+g
+
+e
+ 1
+
+7
+ 
+
+
+
+D
+e
+
+rr
+y,
+
+ M
+ic
+
+h
+e
+
+n
+e
+
+r,
+ B
+
+o
+o
+
+th
+ &
+
+ W
+a
+h
+
+l 
+C
+
+o
+n
+
+s
+u
+
+lt
+a
+n
+
+ts
+ L
+
+td
+. 
+
+ 
+P
+
+a
+g
+
+e
+ 1
+
+8
+ 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 19 
+
+7.0 GEOLOGICAL SETTING  
+
+7.1  Regional Geology 
+
+The crystalline complex west of the La Paz fault which includes the San Antonio district is 
+composed of two separate intrusive complexes hosted in limited schist and gneiss of sedimentary 
+rock origin. These schist and gneissic rocks represent moderate levels of metamorphism prior to 
+the time of mineralization, and prior to the igneous rocks because none of the igneous rocks 
+show similar degrees of dynamic regional metamorphism. The age of the original sedimentary 
+rocks is thought to be Late Paleozoic to Mid Mesozoic. 
+
+The hornblende rich intrusive complex ranges in composition from gabbro, quartzdiorite. It 
+intrudes the metamorphic units and locally shows foliation. The coarse grained biotite 
+hornblende quartz diorite is the most common rock type present in the Planes deposit. A similar 
+appearing coarse grained weakly foliated biotite granodiorite is present in the Triunfo district, 
+but may not be part of the same intrusive complex. Hornblende from the hornblende gabbro near 
+Paredones is dated at 129 ma (plus or minus 5) (Brown, et. al 1998). (Refer to Figure 7.1) 
+
+Study of the Uvares gold deposit, located between Paredones and Planes-Colinas revealed age 
+dates of hornblende from a tonalite of 137 ma (plus or minus 6) and on diorite of 128 ma (plus or 
+minus 5) (Carrillo-Chavez 1998). He also determined that the batholith cooled at around 100 to 
+90 ma and the hydrothermal activity had ended by 80 ma. Many radiometric determinations were 
+completed as well as others from the area summarized. 
+
+Limited sampling with whole rock major element analysis revealed the biotite granodiorite 
+batholith of Valle Perdido that forms the footwall adjacent to the Paredones gold deposit is of 
+peraluminous composition, having a high alumina content in ratio to the alkali elements. 
+Additional dikes and sills of similar composition near the gold deposits are probably related to 
+that batholith (Herdrick, 1998). The age of the Valle Perdido batholith was radiometric age dated 
+with 91.3 (plus or minus 2.3) from biotite separates. 
+
+Age of sericite from the Paredones deposit was also determined by radiometric analyses in two 
+samples with 91.3 ma in one and the second at 79.1 ma. It is expected that the age of gold 
+mineralization through the district is within this same time range, including Los Planes and Las 
+Colinas. Two post mineral andesitic to dacitic dikes are present at Paredones revealed a 
+radiometric determined age of 74.5 ma. (Brown, et. al. 1998) 
+
+The close spatial position of the Triunfo and San Antonio districts suggests a possible 
+connection. The two districts host mineralization in the same rock units; however the 
+geochemical signature of the two districts is very different. San Antonio is a gold- mineralized 
+district with gold-silver ratios of 1:1 while Triunfo is silver dominated. The trend of the 
+mineralized shear zones at Triunfo is generally north 20-30 east, and they are similar in character 
+to the San Antonio shear zones. The latter have a persistent north-south strike and even although 
+the shear zones are low-angle, the mineralization appears to end down-dip, and possibly away 
+from high- angle source structures. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 20 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 21 
+
+7.2 Local and Property Geology 
+
+Mel Herdrick, V.P. Exploration and a director of Pitalla, has provided the following description: 
+
+"Geology in and around the gold deposits is determined from the drilling because of sand and 
+gravel pediment cover. The deposits are contained in a large mega shear structure, possibly a 
+Mesozoic age thrust fault dipping about 45 degrees westerly. This mega-shear appears to be 
+regional in extent, with strands and splays that may have been more favourable for 
+mineralization, which coalesce in one zone at Planes. (Figure 7.2) 
+
+However the drilling at Planes and Colinas shows the thickness of the shear zone to be more than 
+200 metres hosted in mid-level intrusive rocks of similar age to the shearing episode. This, and 
+the presence of the structure for 40 km to the south, suggest more likely that the shear zone is a 
+thrust fault related structure. Drilling at Planes has shown a very thick shear zone often with a 
+change from coarse grained biotite-hornblende quartz diorite in the hangingwall to a fine to 
+medium grained biotite granodiorite in the footwall. In the Colinas deposit, diorite to gabbro is 
+found irregularly in both hangingwall and footwall parts of the mega-shear zone. The strike 
+length of the shear zone through both Planes and Colinas is about 3 km, with mapping by Echo 
+Bay indicating extension at least several km more to the south. 
+
+Drilling has also revealed that a small northwest trending graben basin, probably Pleistocene age, 
+with true listric faulting drops the northeastern part of the Planes deposit in domino like fault 
+segments to sequentially more than 200 metres deeper to the northeast. Geophysical work 
+consisting of both limited gravity and IP lines has been completed to determine the local extent 
+of deeper parts of this basin. Sediment filling associated with the pediment development of the 
+area consists of mainly sandy gravel produced by weathering breakdown of the local 
+granodiorite and quartz diorite igneous rocks. Possibly this basin is still structurally active 
+dropping in recent time. The top surface of the pediment has numerous scattered cobbles and 
+occasional boulders, which appear to have been moved by erosion from further west, where 
+schist and gneiss are more common. In several geological reports of the region the formal name 
+for this young basin filling is Salada Formation. (Aranda-Gomez and Perez-Venzor, 1989) 
+
+Surface oxidation of the sulphide bearing deposits has progressed to about 100 metres in the 
+Planes deposit and about 25-30 metres in the Colinas deposit. It is reported that the Paredones 
+deposit further south has only about 5-10 metres of oxidation. The reason for the depth of 
+oxidation being greater at Planes is probably due to several causes. One is the covering of the 
+deposit by pediment that removed it from active erosion. Much of the oxidized material is very 
+soft due to the leaching of sulphides and probably would have eroded easily if exposed. Second 
+factor in the depth of oxidation is the breakage of the deposit by the young listric faulting 
+episode associated with the graben basin formation. The faulting opened the rock to more 
+oxygen carried by sub-surface waters with a deeper water table flow route developed." 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 22 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 23 
+
+8.0 DEPOSIT TYPES 
+
+8.1 Los Planes and Las Colinas 
+
+The current model for the gold mineralization at Los Planes and Las Colinas is similar to that 
+described at the nearby Paredones Amarillos deposit, 55.6 MMT grading 1.05 g/t Au (Snowden, 
+2003), and other deposits, including the Mesquite Mine in California (194 MMT grading 
+0.62 g/t, 2006) and La Herradura, 49.4 MMT, grading 1.06 g/t Au in Sonora, México (Penoles 
+1998). The latter two are classified as Sonoran Megashear gold deposits. The general description 
+is included in the name, Shear Zone Gold deposits, as used by Gibson et.al. (1996) and Brown 
+et.al. (1998). The shear zones are generally within crystalline metamorphic or igneous rock of 
+moderate to low grade metamorphism. Peraluminous intrusives related to anatectic metamorphic 
+processes are usually important parts of the geology of these deposits. (See Section 9.0 for 
+additional discussion of deposit model). 
+
+Wallis (2004) describes it below: 
+Figure 7 illustrates a conceptual model. The mineralization is associated with both shallow 
+dipping shear zones and high-angle structures that are the probable conduits of mineralization 
+originating from the peraluminous granodiorites which have intruded the basement metamorphic 
+rocks. These mineralizing conduits have deposited precious metal mineralization in shallow 
+dipping shear zones that are occupied by cataclasite and mylonite. Alteration is dominated by 
+sericite with lesser amounts of quartz, sulphides and potassium feldspar. Refer to Fig 8.1 
+
+8.2 Paredones Amarillos 
+
+An abbreviated description of this gold deposit is taken from the Mine Development Associates 
+('MDA') summary in their feasibility study of Paredones Amarillos in June 2007. The published 
+reserves and resources are: 
+Reserves: 48,496,000 tonnes @ 1.01gAu/t (cutoff grade 0.38 gAu/t) base case  
+Resources: 11,498,000 tonnes @1.17gAu/t measured 
+  44,170,000 tonnes @1.02g/Au/t indicated 
+   5,495,000 tonnes @0.79gAu/t inferred 
+
+"The main ore host is a 10 to 80 metre thick, north-east to east-west striking, 15 degrees to 45 
+degrees, southeast-dipping cataclasite and mylonite unit. Main stage gold mineralization is 
+associated with the cataclasis and mylonitization event. The cataclasite is a dense, competent 
+rock composed of approximately 50% crushed quartz and feldspar fragments in a matrix of 
+sericite and minor chlorite and fine-grained quartz. 
+
+In the field, the term cataclasite is used for any tectonized, brecciated, pervasively sericite altered 
+rock, in which no primary intrusive textures are preserved. Though this is technically an 
+alteration description, through usage on the project it has been adopted as the cataclasite 
+description. The hanging wall contact with the cataclasite is generally sharp, but the footwall 
+contact may be gradational over several tens of metres with strongly fractured and sericitized 
+granodiorite grading to fresh granodiorite. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 24 
+
+Gold grade at Paredones Amarillos generally varies directly with the abundance of sulphides. 
+The important sulphides are pyrite, arsenopyrite, pyrrhotite, and minor marcasite and 
+chalcopyrite. However, not all high-sulphide rock carries high gold values." 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 25 
+
+9.0 MINERALIZATION  
+
+9.1 Los Planes and Las Colinas 
+
+Pitalla have described it in internal memos as:
+
+"Mineralization at Las Colinas and Los Planes is very similar, with the exceptions of the 
+dimensions of the mineralized bodies and level of oxidation. The main mineralized body is 
+confined to a cataclasite unit that varies in width from 25 to 35 metres at Las Colinas. At Los 
+Planes, there are several sub parallel cataclasite zones that together form a broad zone that is up 
+to 100 metres in width. The cataclasite unit has a roughly north-south strike and dips about 45 
+degrees to the west in both Las Colinas and Los Planes. Coyan et al. (2007) interpreted that 
+cataclasite was a good host for mineralization because of its highly fractured nature, but 
+mineralization is not restricted to the cataclasite. Instead mineralization and alteration occur in 
+many rock types, as long as brittle fractures are present. Typically, the cataclasite contains a zone 
+where sulphides increase with abundance as high as 20%. Pyrite appears more commonly 
+throughout the system; however main mineralization is seen with an increase of arsenopyrite and 
+pyrite in addition to pyrrhotite. Sulphides are present in brittle structures including cracks, faults, 
+joints and micro-fractures. Pyrite lines the walls of many fractures and joints as observed from 
+core and outcrop. Quartz veining is also common (Coyan et al. 2007). The alteration goes from 
+chlorite dominant around the cataclasite and changes to sericite-dominant within the cataclasite 
+unit. Chemically, the system has low silver relative to gold, having Ag/Au ratio of around 0.4. 
+Gold is also accompanied by anomalous As, Cu, and Bi. 
+
+Some mineralized zones are believed by Pediment to be controlled by sub-vertical structures. 
+The level of oxidation at Las Colinas extends only a few metres vertically from surface; however 
+oxidation at Los Planes is much deeper, reaching as much as 100 metres from surface." 
+
+Pitalla have recently located and summarized the Colinas drill logs, however there is no specific 
+description in the logs of an oxide zone; except a numeric indicator of the "type of oxidation", 
+i.e. mineralogy, throughout the entire hole, rather than the degree of oxidation. (See Resources 
+Section 17) 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 26 
+
+10.0 EXPLORATION BY PITALLA  2005- 2007 
+
+10.1 General 
+
+Exploration work in the area started in 2005 with contracting a structural and chemical on site 
+review by Stan Keith of Magmachem Exploration which is quoted from the Magmachem web 
+site as follows: 
+
+Sonora-Baja California Mexico Peraluminous Gold Reconnaissance – Minera Pitalla, 
+February 2004 to Present  
+
+• Analysis of existing MagmaChem and Minera Pitalla data followed by a field reconnaissance 
+has established the presence of a major cluster of peraluminous pluton related gold deposits 
+associated with trench directed thrusting in southern Baja between La Paz and Cabo San 
+Lucas and in Sonora north and west of Caborca. 
+
+• The Baja California cluster has a probable PC1A Mesquite or Muruntau type peraluminous 
+gold (arsenic-thorium) porphyry affinity. Grade-tonne data for analog deposits indicates an 
+excellent potential for giant size open-pittable gold deposits. 
+
+• Minera Pitalla has acquired ground and is continuing follow-up on existing targets within 
+their expanded land position(s).  
+
+In 2006 Stephens (2007) was contracted to sample trenches and scattered sampling areas and 
+produced an internal report dated March 16, and revised March 15, 2007, by Melvin Herdrick, 
+then Manager of Exploration of Pediment ("Herdrick"), which summarized the San Antonio gold 
+project just prior to the start of drilling in 2007. Stephens supervised soil and rock geochemical 
+surveys in the Emily, and Cirio concessions and resampled four of the Echo Bay Exploration 
+("EBX") trenches. In the same period IP and magnetic surveys were undertaken by the 
+geophysical contractor J.Reynolds of Durango Geophysical Operations(DGO). 
+
+10.2 Geochemistry 
+
+The data is provided as a map, showing point gold content in ppb in soils, grouped in ranges 
+from 0-25 to >100 ppb Au. (Pitalla August 14, 2007). The soil samples were collected mainly in 
+2007 and the results are not contoured. A total of 3600 samples were collected every 50 m E-W 
+across the trend of the mineralized zones, on lines 200 m apart N-S.; sample depth was 10-30 cm 
+in the B zone of the pediment cover. Soil samples were sent to Jacobs Assay Laboratory in 
+Tucson AZ for 37 element ICP analysis with gold. The last 800 samples on east TRINI were sent 
+to ALS Chemex in Hermosillo for a similar analysis.
+
+Sampling covered all of the CIRIO (which contains the Los Planes and most of the Las Colinas 
+deposits and the El Virgen zone) and the EMILY concession which contains the Fandango zone. 
+For orientation purposes the sampling also covered a small area of adjacent (alien) lands, east of 
+EMILY (Triunfo Este) and south of CIRIO (Minera Exito), which contains the La Colpa zone 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 27 
+
+explored by EBX. Sampling was also extended to cover the east and south part of the newer 
+TRINI concession. 
+
+Description of results
+
+In general the gold background is 0-25ppb; high background is 50-75 ppb and anomalies at 
+>100ppb. Anomalous gold content ranges from 100-300 ppb Au and >300 ppb, is evident at each 
+of the four zones described below and at other locations and at several other points on TRINI. 
+Two known gold anomalous trends are related to the Las Colinas trend continuing northward, as 
+well as the further east trend from Mina La Colpa also trending northward. A large western 
+zone, called Fandango, shows anomalous gold and a possible related subzone or an extension, 
+the La Virgen zone, also has a broad low level gold anomaly. 
+
+Anomalous As, Ag, Pb, Sb, characteristic of the El Triunfo mineralization, occur in a zone with 
+no outcrop, called the 602 anomaly, near the east side of the TRINI concession. 
+
+In 2008 the geochemical data will be used to prioritize the various IP chargeability anomalies for 
+further drill testing/trenching.  
+
+10.3 Geophysics 
+
+This section is extracted from a review of the 2006 and 2007 IP surveys by Reynolds(DGO , 
+2008); the sections in italics are extracted from Stephens, (2007). 
+
+RIP (Reconnaissance Induced Polarization) surveys were carried out in mid-2006 by (DGO) of 
+Durango, CO, under the direct supervision of John Reynolds assisted by (DGO) field 
+geophysical technicians and by trained Pitalla field technicians. Several of the Pitalla field 
+technicians had worked with Reynolds during the EBX generation of IP surveys, 1994 through 
+1997. More detailed dipole-dipole and pole-dipole array IP surveys were carried out in 2007. 
+Fig. 10.1 & 10.2 eliminated. 
+
+2006 "A RIP (reconnaissance induced polarization) survey was done in mid-2006 as noted 
+above to determine if anomalous zones [identified during the late 1990's by Echo Bay 
+Mexico (EBMx)] continue northward beyond the known areas of mineralization. Results 
+of the RIP survey ([stations are randomly spaced yet cover the aerial extend of the 
+project area]) showed two large polarization anomalous areas which extended off the 
+CIRIO concession north and east. The central RIP anomaly was concluded to probably 
+connect to the Las Colinas deposit area, while the eastern chargeable anomaly was 
+located out east of the concession in the 602,000 east UTM coordinate". 
+
+DMBW have examined a DGO map which shows the RIP anomaly and contoured airborne 
+magnetic data. The airborne magnetic data is part of the EBMx data package acquired during the 
+mid-1990s. The output from the EBMx helicopter DIGHEM, which combined magnetic, 
+electromagnetic, radiometric and VLF-EM data, are available through a data access agreement 
+with EBMx' successor, Kinross Gold. [These airborne data were subsequently reprocessed by 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 28 
+
+Mr. Chris Ludwig, independent geophysical consultant, Denver, Colorado and by Reynolds. Two 
+of the data plots as delivered by Ludwig, Total Field Magnetics and "Radiometric - Anomalous 
+Potassium Component" were also examined by DMBW and an understanding of the relationship 
+was gained, but both maps were omitted to limit the size of the digital file.] 
+
+2007 "A geophysical IP dipole-dipole [with limited pole-dipole array data] survey conducted 
+by Durango Geophysics currently totals 16 east west lines, with 100 m dipoles, 3-5 km 
+long lines. Total line distance completed is more than 80 line kilometers. Prior data 
+acquired from the EBX data base is 12 lines with 50 m [and 100] dipoles and about 3 km 
+long IP lines or about 36 line kilometers of lines. There is some overlap of the data, but 
+most of EB[Mx]' IP was in the Colinas deposit area. (Figures 10.3.1 and 10.3.2) These 
+data sets are defining the gold zones continuation north beneath pediment cover, and 
+providing some verification to match soil geochemical which can be tested by drill 
+targeting later". The 2007 IP program data expands on the EBMx' coverage of the Las 
+Colinas and Los Planes zones and this data extends the area of anomalous response 
+significantly. In the Los Planes area, EBMx IP coverage was limited to 50 metre dipoles 
+on lines 200 metres apart. The effective depth of exploration using 50 metre dipoles is 
+probably not greater than 150 metres. The Pediment Exploration 2007 IP program 
+consisted of 100 metre dipole-dipole and a limited amount of 100 metre pole-dipole data 
+on the northern extension of the Los Planes ore deposit. The effective depth of 
+exploration for 100 metres dipole-dipole data possibly exceeds 300 metres while the 
+depth of exploration for the pole-dipole array may reach a depth of 400 metres to 500 
+metres. 
+
+50 metre dipole-dipole data from the EBMx 1997 database on Line 40700N shows a definite 
+polarization anomaly (phase shift data) beneath station 989+00E at the N=3 level, about the 125 
+metre depth. Refer to Fig 10.3.3  
+
+Pediment Exploration 2007 100 metre dipole-dipole data along approximately the same line 
+location UTM NAD 27 – Line 2639800N) shows very similar data patterns but the anomalous 
+responses obviously have a greater depth extent than is displayed in the earlier EBMx 50 metre 
+data set. The shallowest response seen in the Pediment Exploration data is centered under 
+5987+00E. This corresponds with the EBMx zone located at 989+00E in the figure above. In the 
+Pediment 100m data, the zone is seen at the N=2 level, or about 100+ metres. What is obvious is 
+the greater depth penetration of the 100 m dipoles and there are two separate deeper zones 
+apparent in the Pediment data that were never seen in the EBMx data using the 50 metre dipoles. 
+These additional zones warrant drill testing for additional resource delineation. 
+
+The Los Planes zone can be traced in the IP data a distance of 600 metres further north from Line 
+2639800N, above. An expansion of this IP coverage to investigate the northern extension of Los 
+Planes is warranted, in addition to investigating other possible parallel zones. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 29 
+
+10.4 Rock Chip Sampling and Trenching  
+
+In 2006 Pitalla completed a resampling program of four Echo Bay trenches and widespread rock 
+chip sampling over an area 550 m N/S by 700 m E/W. Results are tabulated below; (reference 
+Quick Report Pediment December 10, 2007 by J. Stephens and Figure 10.4) - by Pitalla 
+
+"The old trenches were cleaned out, mapped and re-sampled. All trench sampling consisted of 
+chip samples of three meters length along the trench bottom, with the exception of trench 
+LCOT-19 where three 10-meter samples were taken. Trenches LCOT-5 and 12 are located over 
+the outcrop of Echo Bay's previous inferred resource area. Trench LCOT-22 is located 200 
+meters further east of the resource surface outcrop. Trench LCOT-19 is located almost one 
+kilometer north of and along trend from the resource area. All trenches are oriented east-west, 
+perpendicular to trend of the host thrust zone." The re-sampling confirmed the gold content of 
+the EBX trenches, as shown below:  
+
+Table 10.4 
+Results by Trench (source Stephens and Pediment website) 
+
+Trench Number Width Grades 
+
+LCOT-5 60 metres 
+60 metres @1.06 g/t gold, 
+Includes 18 m @ 2.28 g/t gold and, 
+
+LCOT-12 60 metres 
+60 metres @ 0.48 g/t gold, 
+Includes 9 m @ 1.67 g/t gold and, 
+
+LCOT-19 30 metres 
+30 metres @ 0.42 g/t gold, 
+Includes 10 m @ 0.706 g/t gold 
+
+LCOT-22 99.6 metres 
+
+99.6 m @ 2.3 g/t (uncut) or 
+99.6 m @ 0.5 g/t (cut to 10 g/t), 
+Includes 9 m @ 1.3 g/t gold, and 
+3 m @ 69.8 g/t gold (uncut) 
+
+10.5 Exploration Fandango and Virgen zones  
+
+The western Fandango zone is also marked by anomalous arsenic in soil and to a lesser degree 
+Ag. The Virgen zone is a low level gold anomaly. Peraluminous granodiorite to granite occurs in 
+contact with older granite in a relatively flat contact zone. Although outcrop is limited carbonate 
+alteration and oxidation with limonite is observed indicating oxidized low sulphide content. The 
+structure dips east in contrast to the regional dip. DMBW have not seen these zones. 
+
+10.6 Exploration Los Planes 
+
+The area is mostly covered by the pediment sediments however a very few small trial pits were 
+reportedly dug in areas of anomalous IP response, heavier sulphide mineralization, or shearing.  
+Other than LCOT- 19 in 2006, results have not yet been compiled by Pitalla and have been 
+superseded by the drilling. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 30 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 31 
+
+11.0 DRILLING BY PITALLA
+
+11.1 Los Planes RC Holes 
+
+From June 27 to December 13, 2007 a total of 75 Reverse Circulation, 5.5 inch diameter ("RC") 
+holes, totaling 14,981 m, were drilled at Las Planes by Layne Christiansen Drilling Co. of 
+Hermosillo. Average hole length was 200 metres. 
+
+The runner/manager and another driller were Canadians. All helpers were local Mexicans trained 
+on the job. The drilling was supervised by Pedro Teran, B.Sc., (Qualified Person on site), an 
+experienced exploration and mining geologist from Hermosillo, who is the general manager of 
+the San Antonio project. Visual and binocular chip logging was done by Francisco Mugica, 
+B.Sc., a senior geologist who had logged core/chips for Echo Bay at Paredones Amarillos in 
+1996/7 and also by a Pitalla geologist, Armando Contreras, B.Sc., working under his direction. 
+The database and QA/QC procedures were compiled by Isaac Antuna, M.Sc., a Pitalla 
+Geosciences Engineer. 
+
+Figure 11.1 shows the Hole layout in the Drill plan for both Planes and Colinas. It is an 
+orthogonal grid, measuring 800m N-S x 300m E-W, with holes drilled generally, but not exactly, 
+at 50m intervals, both E-W and N-S. The exploration grid is only about 60% completed. (See 
+Recommendations 20) 
+
+The mineralized cataclasite zone strikes generally N-S and dip about 45-50 degrees west, thus 
+the vertical RC holes cut a zone length expanded by a factor of 1.4. 
+
+Down-hole surveys were carried out for dip and deviation using a Reflex Easy Shot system by 
+the contactor Layne de Mexico. The RC (Core) rig was a truck-mounted Schramm Drill, 
+mobilized from Edmonton to Hermosillo; it could move about easily through the desert scrub 
+terrain on tractor roads made by a local contractor. Pre-numbered drill sites were laid out by 
+Brunton compass and chain, working off the surveyed grid. 
+
+All hole collars were surveyed by Mario Alberto Moyron, working from La Paz, in February 
+2007. Also present was Mr. Charles Skipper, Jr., former Chief Surveyor for Echo Bay Mexico 
+who had previously surveyed the Echo Bay drill hole collars and trenches. They were able to 
+accurately tie the old EBX drill hole locations to the INEGI National Survey monuments near 
+Los Planes, something EBX was unable to do in 1995 to 1997. The map base is NAD 27 and the 
+holes were surveyed by GPS Trimble. 
+
+11.2 Los Planes Core Holes 
+
+Prior to the main RC program, three, short – 50 East dipping core holes, LCDD – 18, 19, 20 
+(398.2 m) were drilled by Diamond Drilling Specialists, of Arizona, in May 2007 with the same 
+Longyear 44 drill, to confirm the near surface gold mineralization in the central-north section of 
+the Los Planes zone. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 32 
+
+Holes 19 and 20 were entirely oxidized, but ended short of target depth, due to ground conditions 
+and equipment problems. Hole 18 cut many oxide sections with a 40.22 m core length (119.2-
+159.4), grading 2.22g/t Au. This was later corroborated by Hole PLRC 62 which cut 57 m 
+(123.4-180.4) @ 3.65 g/t (including 6samples >10g/t). 
+
+One short Winke hole, LCW 24, was also drilled 50 m SE of LCDD-19 at 70 E. It cut 17.68 
+meters of mineralized cataclasite grading 0.55g/t Au. 
+
+11.3 Geotechnical Logging 
+
+Pitalla report that geotechnical logging was carried out on Planes drill core holes DDH-18, 19 
+and 20, drilled in May 2007, prior to the geological logging; it included digital photographs, and 
+records of core recovery (REC), rock quality designation (RQD), fracture types, fracture count 
+and frequency, dip of structures, rock strength and weathering alteration index. 
+
+11.4 Discussion of Los Planes Results  (Figure 11.4 -see also Sections 7.2 & 9) 
+
+The Planes zone lies about 600m north of the Las Colinas zone. It consists of a several sub 
+parallel cataclasite zones that form a broad zone up to 100 meters wide. This unit strikes north-
+south and dips from 35 degrees to the west near surface, steepening to 50 degrees west at depth. 
+A continuous zone of gold mineralization has been traced for at least 700 metres along strike 
+from Section 40050 N (Hole 07PLRC-41, which cut 1.49g/t Au over 48.76m vertical depth) to 
+39350N (Hole PLRC 56, which cut 0.69g/t over 6.09m). Cross-Section 39,650 N, showing the 
+first four holes drilled by Pediment and Echo Bay holes SA 97-120& 123, is attached as Figure 
+11.4. 
+The oxidized portion (see Section 9 &17) extends from surface (275m asl) to about 65m 
+(210mASL); the sulfide (non-oxide) portion has been tested to about 275m (sea level) 
+ The zone is best developed to a depth of about 225m (+50m asl), or 315m down the dip. 
+
+The RC holes were drilled intermittently on 7 N-S tiers (along the strike of the zone) at 50m 
+intervals E-W; the deepest exploratory intercept in the western tier was Hole PLRC 63 which cut 
+0.62g/t over 36.58m (287.12- 323.70m), or-25m asl. 
+
+The five richest intersections were encountered in Hole PLRC -07 (3.69g/tAu over 81.07m), 
+Holes RCPL- 62 (3.65g/tAu over 57.04m), Hole PLRC- 59 (1.66g/tAu over 115.83 m), Hole 
+PLRC -21 (1.57g/t over 109.73m) and Hole PLRC-43 (1.02g/tAu over 135.64 m) 
+Four of these holes are in a cluster around Section 39800N. 
+
+11.5 Las Colinas Core Holes – Resource Base -refer to fig 11. 
+
+From February 24 to March 30, 2007, a total of 5 HQ core drill holes, LCDD 9, 11, 12, 13, and 
+22, totaling 823 m, were drilled using a Longyear 44 rig, by Diamond Drilling Specialists, of 
+New Mexico. The holes were angled east to confirm some of the 1996/1997 EBX RC holes.
+
+Pitalla reported that "the drilling was successful in intercepting the Colinas 'Main Zone' (the 
+Echo Bay historic resource) in holes 9, 11, and 12, returning intersections of 32.93 metres of 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 33 
+
+1.23g/t gold, 25.1 metres of 1.09g/t gold and 18.3 metres of 1.13g/t gold, respectively." (Press 
+release May 22, 2007) These lengths are close to the true width as the Colinas zone dips 50 
+degrees west. 
+
+They report that all holes testing the eastern side of the resource area cut several new zones at 
+depth, parallel to the historic resource and that further definition drilling will be done. (Refer to 
+drill plan.) 
+
+11.6 Discussion of Las Colinas Results 
+
+The core holes have confirmed the 1995-97 Echo Bay gold mineralization and added zone detail 
+on four section lines, along a strike length of 250 m, within the Colinas deposit area; 
+mineralization has now been defined along a strike length of 400m and to an average depth of 
+about 150 m. The footwall of the zone appears to subcrop about 50m east of section 598,400E, 
+the easterly tier. The deepest intercept is about + 70m asl, or approx 225 m below surface. The 
+results are described and discussed, together with the EBX holes, in the context of the resource 
+estimation in Section 17.
+
+11.7 La Colpa Zone Exploration Winke Holes-refer to fig 11.1 
+
+This historic zone lies 200 m east of the Las Colinas zone and is not included in the Colinas 
+resource base 
+
+From February 11 to May 9, 2007, nine HQ thin-wall (4.7cm/1ft 8 inch-diameter) Hydro-Winke 
+holes, were drilled by Diamond Drilling Specialists. One was drilled at Los Planes (Section 11.3 
+below) and nine were drilled at the La Colpa Zone, located 200 m east of the Las Colinas zone.
+
+Six of these were short (c. 50 m) vertical holes to test the northeast extension of the La Colpa 
+Zone that had been outlined by EBX. 
+
+"Though encouraging gold intersections were encountered, notably 7.32m of 1.68g/t Au in hole 
+LCW-05, and 7.3m of 0.5g/t Au in hole LCW-08, the holes were too shallow to adequately test 
+the zone." (Pediment press release May 22, 2007) 
+
+The three others were drilled east to undercut the old Echo Bay trenches at depths of about 35 m. 
+Two of these, holes LCW-06B and LCW-21, confirmed gold mineralization near surface. 
+
+DMBW observed some of the overgrown trenches and several of these monumented 1994-1997- 
+era RC holes, as well as the 2007 Winke- Hole collars. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 34 
+
+
+
+D
+e
+
+rr
+y,
+
+ M
+ic
+
+h
+e
+
+n
+e
+
+r,
+ B
+
+o
+o
+
+th
+ &
+
+ W
+a
+h
+
+l 
+C
+
+o
+n
+
+s
+u
+
+lt
+a
+n
+
+ts
+ L
+
+td
+. 
+
+ 
+P
+
+a
+g
+
+e
+ 3
+
+5
+ 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 36 
+
+12.0 SAMPLING METHOD AND APPROACH
+
+12.1 Drilling Procedure 
+
+Pre-numbered drill sites were laid out generally on section lines at 50 m intervals N-S by 
+Brunton compass and chain, working off the surveyed grid. RC pipe diameter was 5.5 inch and 
+all rods, casing and core barrels are measured in the Imperial system. Sumps were dug at each 
+site. Cuttings were visually and binocular-logged and sampled in 5 foot (1.52 metre) increments 
+regardless of lithology, alteration, or mineralization. 
+
+Chip trays were set up for this sample interval. RC drilling was day shift. On completion of each 
+hole the collar was marked by white PVC pipe encased in a cement marker and the hole plugged 
+and cemented with loose rock; the hole number was inscribed in the cement before hardening; 
+the sump was then backfilled and the site dozer-bladed and restored to normal. DMBW were 
+impressed with the efficiency of the drilling operations. 
+
+In the sample recovery process, a cyclone is set up to initially split the material in half using a 
+vertical and a lateral discharge. When normal samples are collected, material from the vertical 
+discharge (50%) is disposed and the side discharge goes through a second splitter to obtain two 
+samples, each representing 25% of the total discharge. These two samples are collected and 
+sealed with plastic pull ties in pre-numbered cloth bags (for wet material) or plastic bags (for dry 
+material). One of the bags is later weighed and stored in large rice sacks in the fenced yard at the 
+Pitalla warehouse as a Duplicate, while the other is weighed and sent to the ALS Chemex 
+preparation laboratory in Hermosillo. 
+
+RC pipe diameter is 5.5 inch and all rods, casing and core barrels are measured in the Imperial 
+system. Sumps were dug at each site. 
+
+DMBW were impressed with the efficiency of the drilling operations and believe that the 
+samples are representative of mineralization on the San Antonio project. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 37 
+
+13.0 SAMPLE PREPARATION, ANALYSES and SECURITY  
+
+13.1 Reverse Circulation Samples 
+
+All logging of samples is made in-site by qualified Geologists at the same time that the samples 
+are being collected by the local (San Antonio) trained drill helpers. 
+
+All samples are taken by Pitalla staff in a pickup truck at the end of the shift to the central 
+logging facility at San Antonio (about 10 minutes drive) where they are stored under lock and 
+key in a gated and fenced compound (finca) with security guards watching the premises 24 hours 
+per day. The core shack and yard in San Antonio village is rented from the family of one of the 
+staff who acts as a daytime security guard. 
+
+The samples are packaged in rice sacks and trucked to the city of La Paz by bonded carrier and 
+then by truck ferry (8 hours) to the Mexican mainland in Sinaloa State. The truck then proceeds 
+to Hermosillo, Sonora (8 hours) and to the ALS Chemex preparation facility. Once prepared, the 
+pulps are forwarded by ALS to the ALS Chemex labs in North Vancouver, Canada where Au 
+content is measured by fire assay with Atomic Absorption finish as well as by aqua regia 
+digestion and ICP analysis to quantify trace elements. When needed, over- range Au analysis 
+(>10 ppm) is made by fire assay and Gravimetric finish. 
+
+13.2 Rig Duplicates 
+
+In addition, every 30 samples, a rig duplicate sample is obtained from the vertical discharge 
+(50%), then is split and stored as individual samples in the warehouse; the other 50% is split as 
+normal in two 25% samples, which are packed in individual pre-numbered bags to be sent to the 
+lab as duplicate samples. 
+
+13.3 Drill Core samples  
+
+All sampling is carried out at 1.52 m (5 feet) intervals. Core barrels are 10 feet long. In a few 
+areas of poor recovery, samples are combined into lengths greater than 1.52 m. The 1.52 m 
+sample intervals are not tied to lithology, alteration or structure. Most of the sulphide core is 
+fairly hard and competent and a diamond saw is used to cut the core in half (lengthwise). Fault 
+zones (clay gouge) and other alteration, or small rubble zones are split with a spoon. Oxide core 
+is normally solid clay and is cut in half (lengthwise) using a butcher knife; solid lumps are split 
+with the hammer splitter. Care is taken to keep the saws as clean as possible. One half of the core 
+is put into individual sample bags while the other remaining half is retained in the core boxes and 
+stored on site in San Antonio. The plasticized cardboard core boxes, standard in Mexico, can 
+store four runs of 1.52 m. 
+
+Core is washed initially to remove drilling fluids, and then logged and photographed and 
+recovery noted by measuring the net amount received between drillers wooden markers, which 
+are marked in feet and meters.
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 38 
+
+The Pitalla personnel who do the cutting are local laborers with varying degrees of technical 
+skills (non-geological), but were trained on site. Assay samples are bagged, tagged and zip-tied 
+in secure bags and then transported to La Paz and to Hermosillo as described above. 
+
+13.4 Exploration Rock Samples 
+
+Rock and trench samples were collected by qualified Mexican geologists/prospectors with data, 
+including UTM coordinates, lithology and mineralization recorded in field books. Grab, and 
+representative chip samples, are placed in standard plastic rock sample bags, tagged and the 
+locations recorded in a master database. The plastic bags are sealed using plastic pull ties. All 
+samples are taken to the central logging facility at San Antonio. Sample shipment and treatment 
+is as described in 13.1. 
+
+13.5 ALS Chemex Protocol 
+
+ALS Chemex laboratories in North America are registered to ISO 9001: 2000 for the provision 
+of assay and geochemical analytical services by QMI Quality Registrars. 
+
+In addition Chemex's North Vancouver laboratory has received ISO 17205 accreditation from 
+the Standards Council of Canada under CAN-P-1579 "Guidelines for Accreditation of Minerals 
+Testing Laboratories". (Reference www.alsglobal.com) 
+
+Quality Assurance: Standard specifications for sample preparation are as follows: 
+
+ • Crushing:  >70% of crushed sample passes through a 2 mm screen 
+ • Ringing:  >85% of the ring pulverized sample passes through a 75 micron screen (Tyler 
+
+200 mesh) 
+ • Samples received as pulps:  >80% of the sample passes through a 75 micron screen 
+
+13.6 Conclusions  
+
+In the opinion of DMBW the sample preparation, security practices and analytical procedures 
+employed by Pitalla, with exception of the lack of check assays, meet industry norms. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 39 
+
+14.0 DATA VERIFICATION  
+
+14.1 Introduction 
+
+Due to the nature of RC sampling, one control sample (i.e. Duplicate, Standard or Blank) is 
+systematically and alternately inserted every 10 samples by the exploration geologists. 
+
+The sequence is: every tenth rig sample, (i.e. 15.2 m,) – Standard, every twentieth sample 
+(30.4 m) – Blank, every thirtieth sample (45.6m) – Duplicate, every fortieth sample (60.8m.) – 
+Standard, etc. This sequence is repeated continuously from surface collar to the end of each hole. 
+Thus each mineralized interval, normally >30 m, is backed up by 2 to 3 of these QC checks. In 
+the case of deep holes there is normally a thick barren section near surface, so that it is possible 
+that some of this material can be set aside for assaying at a later date, thus reducing assay and 
+reference material costs. 
+
+As mentioned before, duplicates are obtained using the two 25% samples from the lateral 
+discharge of the drill, and packed in two pre-numbered plastic bags. 
+
+In general, the reference material (i.e. Standards and Blanks) consist of pulverized material 
+obtained from "RockLabs Limited" in New Zealand. Standards utilized within the reverse 
+circulation sampling consist of Sulphide and Oxide materials with different certified Au content 
+values. 
+
+After Geochemistry results are generated and certified by ALS Chemex, a statistical and/or 
+graphic QA/QC analyses are applied to all control samples as shown below. 
+
+14.2 Duplicates 
+
+Duplicate samples are evaluated by the Spearman Rank's correlation coefficient (R2), which 
+considers differences in Au-values sorting-ranks and is calculated to assure a good positive-
+correlation represented by the proximity of R2 to 1. As shown in the scatter plot the Spearman 
+rank of 0.953 shows excellent correlation (Fig. 14.2). 
+
+14.3 Standards 
+
+Certificates of results for all reference material are issued by RockLabs, these documents contain 
+mainly the mean Au values and the Standard Deviation for each standard they manufacture, and 
+this information is taken into account to establish the tolerance limits which determine if a re-
+assay is required. 
+
+Reference material's results that Pitalla receives from ALS Chemex are graphically analyzed as 
+part of the QA/QC procedures. 
+
+The RockLabs standards that have been used in the current drilling program are one sulphide-
+type with code SG31, a mean Au value of 0.996 ppm and a standard deviation of 0.028 ppm; as 
+well as three oxide-type materials with codes OxC58, OxD43, and OxD57, and mean Au values 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 40 
+
+of 0.201, 0.401, and 0.413 ppm, respectively. It is apparent that many standard assays reported 
+below the mean down to M+ 2SD and down to M+SD. 
+
+Refer to Scatter Plots for QA/QC Standards: Figures 14.3.1, 14.3.2, 14.3.3, 14.3.4 .Appendix 
+
+14.4 Blanks 
+
+Blank material obtained from RockLabs and the corresponding results that Pitalla receives from 
+ALS Chemex are also graphically analyzed. 
+
+Pitalla's QA/QC procedures establish a maximum limit of 0.015 ppm Au content to consider a 
+blank sample analysis within range, anything above that value would trigger a re-analysis request 
+to ALS Chemex. A total of 11 samples were accordingly re-assayed and found to lie within the 
+tolerance limit. (Refer to Figure 14.4 in-appendix)
+
+14.5 Requested Re-assays
+
+A total of 155 samples from 17 RC holes were re-assayed as a result of unacceptable variations 
+beyond the limits described in Section 14.2, 14.3, and 14, above. All passed.  
+  
+14.6 ALS Chemex Reno, Nevada Assay Lab 
+
+From November 7, 2007 to January 3, 2008, sample pulps from the Chemex Hermosillo prep lab 
+were air freighted to the ALS Chemex assay laboratory in Reno. This was done to speed up assay 
+turn around since the Vancouver facility was seriously over-booked. This practice was 
+discontinued immediately following this date, as the assays from the Reno lab were found to be 
+consistently 10% lower in Au grade than the assays from Vancouver. Samples from a total of 18
+holes were sent. Upon Minera Pitalla identifying this problem the samples pulps were redirected 
+to Vancouver. Chemex have resolved this problem and those pulp assays meeting the QA/QC 
+protocols are now included in the final data base. 
+
+None of the Reno lab samples are included. (See review prepared by Minera Pitalla as Appendix 
+3) 
+
+14.7 Laboratory Cross Check Samples 
+
+Check samples were not taken during the 2007 drilling program to date; the lack of same does 
+not detract from this first resource estimation, in the opinion of DMBW. 
+
+At DMBW's recommendation a catch-up lot of 10 mineralized intervals from previously assayed 
+holes were recently sent by bonded carrier to the Chemex Hermosillo lab with instructions to 
+forward the reject pulp, including control samples, blanks, standards and duplicates to the ACME 
+Preparation lab in Guadalajara, Jalisco. In future about 2% of mineralized zone samples should 
+be routinely sent to ACME. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 41 
+
+As shown in table 14.7 (appendix), all samples passed QA QC satisfactorily. A graph of these 
+results is shown in Figure 14.4. 
+
+14.8 Twinned Holes  
+
+Upon the recommendations of DMBW, the program was started in December and to year end 
+vertical RC hole PL07-RC 20 had been twinned by vertical core hole 08LCDD-10, with the 
+following results  
+
+Table 14.8 Twinned hole PL07 RC-20 
+RC20 
+chips From To Metres
+
+Au 
+ppm 
+
+DD10 
+core From To Metres
+
+Au 
+ppm 
+
+ 20.4 79.9 59.5 1.92  30.6 94.0 63.4 1.51 
+GT 20    114.2 GT10    95.7 
+ 87.5 172.8 85.3 1.37  102.0 185.0 83.0 1.98 
+GT20    116.8 GT 10    164.3 
+
+The cored hole was offset about 5 m and the intersections are about 10 m deeper, however the 
+average grade-thickness products in the lower intercept are too variable. 
+
+A total of 5 more RC holes were twinned in 2008 by core holes; assays are not available for the 
+data base but the geology and mineralization have been used to verify zone continuity. 
+
+When this data is available a more informed opinion can be made. (See Section 17) 
+
+14.9 Conclusion 
+
+The data verification measures observed by DMBW meet industry norms and there are no factors 
+that would limit the use of such data. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 42 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 43 
+
+15.0 ADJACENT PROPERTIES 
+
+The TEXCALAMA Concession that adjoins the Pediment concessions to the south, shown on 
+Figure 4.1 contains a small uncalculated portion of the Las Colinas historic resource and the 
+historic Mina La Colpa Deposit, lying about 200 m east. This was formerly known as El Mirador 
+(2.96MT @ 1.45g/tAu) and was re-discovered by Echo Bay in the 1990s; Pitalla have explored 
+its northern extension since. (Section 11) The company holder, Exploracion Minera El Exito, is 
+inactive.  
+
+This company also holds the EL EXITO concession which adjoins EMILY and TEXCALAMA. 
+The LA TRINCHERA concession to the north is held by J. M. Deword and is also inactive; data 
+is not available. 
+
+Two other inactive small concessions, TRIUNFO ESTE and TRIUNFO OESTE are adjacent to 
+TRINI. There is no record of exploration work on these other concessions. 
+
+To the west of EMILY a large concession is held by The Mexican Geological Survey (SGM) and 
+called El Triunfo. It contains a concession area called UVARES, and is the site of a small gold 
+deposit with a historic resource of 1.82MT @ 1.81g/tAu. (Echo Bay 1997) Essentially, Minera 
+Pitalla has been the sole company actually conducting recent exploration in the district. 
+
+The above noted gold-sulphide deposits are hosted by cataclasite rocks and are oxidized to 
+shallow depths; they were explored by EBX in the late 1990s to serve as potential satellite feed 
+to Paredones Amarillos. The information comprises some drill sections and historic resource 
+calculations. DMBW has been unable to verify the information and the information is not 
+necessarily indicative of mineralization on the properties, which are the subject of this technical 
+report. 
+
+The above estimates have not been verified by a QP, as required by NI 43-101. They are 
+considered as historical resources that are not compliant with NI 43-101 and are reported for 
+informational purposes only. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 44 
+
+16.0 MINERAL PROCESSING & METALLURGICAL TESTING 
+
+Metallurgical test work was carried out on Las Colinas by D. R. Shaw of the Colorado Minerals 
+Research Institute, (CMRI, 1997). Two composite samples of RC drill cuttings, grading 1.07 and 
+1.6 g/t Au respectively, were found to contain pyrite with minor pyrrhotite, arsenopyrite and 
+other sulphides, along with very fine-grained gold. In that study gold bottle leach recoveries of 
+four composites varied from 48.2% to 62.6% and it is reported by Pitalla that these entirely 
+sulphide samples with minor oxidation; they were taken from Holes SA 96-91and SA 96-102, 
+and from depths of 120-160 m. CMRI concluded that "the incomplete gold dissolutions in these 
+tests reflected the relatively coarse particle size of the as-received cuttings materials". "Sodium 
+cyanide consumptions were reasonable at approximately 1 kg/t, as were lime requirements, 
+which were approximately 3 to 4 kg/t." 
+
+CMRI reported that "fine grinding would be required to achieve high gold recoveries" and that 
+"core samples would be the most reliable material for future work especially in respect of 
+confirming the grinding and liberation requirements". 
+
+The samples responded well to flotation and cyanidation of the reground concentrate indicated 
+98% to 99% recovery of the gold. Sodium cyanide consumption was high at 2.7 to 2.8 kg/t of ore 
+because of the presence of copper sulphides and pyrrhotite in the concentrate. Further testing was 
+recommended. 
+
+Following DMBW's recommendation in 2007, Pediment has recently sent nine composited 
+samples from reverse-circulation drilling samples to SGS Minerals Services in Durango, Mexico. 
+The composites were chosen to represent high, medium and low grade for each of the ore zones 
+at Planes: oxide, mixed oxide-sulphide and sulphide. 
+
+A total of 44 samples were sent for oxide, 32 for mixed and 23 for sulphide. Results are not yet 
+available. 
+
+For subsequent metallurgical and scoping studies bottle roll tests should be done using whole 
+(metallurgical) core. (See Section 20) 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 45 
+
+17.0 MINERAL RESOURCE AND RESERVE ESTIMATES
+
+17.1 Historic Mineral Resource Estimate
+
+An independent estimate of mineralized material defined at Las Colinas was carried out for Echo 
+Bay Mines by a Qualified Person (Kuyper, 1996) before the implementation of National 
+Instrument 43-101 reporting standards. A specific gravity of 2.7 was used. No gold values were 
+cut as no assays exceeded 34 g/t Au. Currently available information suggests that Kuyper/Echo 
+Bay had not surveyed the drill hole collar locations at the time of this estimation exercise and 
+that they used hole locations rounded to the nearest 50 m. Based on data from 16 holes and five 
+trenches Kuyper's estimate of the mineralized material present was 6.84 MT at a grade of 1.02 
+g/t Au using a cross-sectional method and extending mineralization a maximum distance of 50 m 
+from each intercept. Kuyper noted that approximately 15% of this mineralization occurred on the 
+adjoining Texcalama Concession to the south that was not owned by Pediment. 
+
+The Echo Bay estimate is considered a Historical Resource that is not compliant with NI 43-101 
+and is reported for informational purposes only. 
+
+Echo Bay carried out additional drilling in 1997, primarily to the north of the resource estimated 
+by Kuyper in 1996. This drilling intercepted several mineralized intervals which suggested that 
+the mineralized trend was open to the north. 
+
+17.2 Current Mineral Resource Estimates
+
+The current National Instrument 43-101 compliant Mineral Resource Estimates for the Los 
+Planes ('Planes') and Las Colinas ('Colinas') zones on Pediment's San Antonio project were 
+completed by Dave Laudrum of Ashloo Consultants Ltd., under contract to DMBW, using 
+GEMS Software Version 6.1.3, from Gemcom Software International. The resource is reported 
+based on cut-off grades and economic parameters produced by Ian Thompson of DMBW in 
+Section 18. 
+
+The resource estimate contains all assay data which had been received and passed Pediment's 
+QA/QC procedures as of December 2007. Similar estimation methodologies were used for both 
+the Los Planes and Las Colinas deposits. 
+
+Based on the parameters described in this report DMBW has estimated an Inferred Mineral 
+Resource for the Los Planes deposit of 30.58 million tonnes at an average grade of 1.32 g/t Au, 
+using a 0.4 g/t Au cut-off grade. In addition DMBW has estimated an Inferred Mineral Resource 
+for the Las Colinas deposit of 5.62 million tonnes at an average grade of 0.83 g/t Au, using a 
+0.4 g/t Au cut-off grade. 
+
+17.3 Geological Interpretation 
+
+A key component of the resource estimation process is the construction of three-dimensional 
+('3D') models of the mineralized domains which correspond to the detailed geological 
+interpretation of the deposit. Domains are required in order to group geologically and statistically 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 46 
+
+similar, and spatially continuous, areas of the deposit for modeling and estimation so that the 
+assay data informs the appropriate areas of the model. 
+
+Geological modelling is an evolving process and further refinement of the models is expected as 
+new data and new interpretations are incorporated. Nevertheless, at the current level of 
+exploration DMBW believe that Pediment has developed an appropriate geological interpretation 
+for estimation of mineral resources at both Planes and Colinas. There are well defined geological 
+and grade domains with good vertical and lateral continuity and these domains were used as hard 
+boundaries when interpolating grades into the block models. 
+
+ 17.3.1 Planes Geological Model 
+
+ For the Planes deposit Pediment provided DMBW with a partial set of cross sections 
+showing its interpretation of the zone geometry. Based on that interpretation DMBW 
+digitized 'polylines' of the mineralized domains in Gemcom,  on cross-sections oriented 
+east-west and spaced 25 m apart. The resulting polylines were then linked and formed 
+into 3D solids ('wireframes') of the mineralized domains. Copies of the polylines, the 3D 
+solids, and a list of the 'from and to' drill intercepts captured in these 3D solids were then 
+sent to Pediment's geologists in order for them to confirm that the geological 
+interpretation was appropriate. 
+
+ At Planes the boundaries of 2 mineralized zones have been modeled, based on assay 
+composite grades > 0.3 g/t Au and on the presence of the cataclasite zone. The two sub-
+parallel zones strike north-northeast and both zones dip approximately -35º to the west 
+near surface with dips steepening to -50º at depth. 'Zone A' is the larger and deeper zone 
+and 'Zone B' overlies it. To date mineralization has been defined along approximately 
+800 m of strike length at Planes. There is generally good correlation between anomalous 
+Au grades in composites and the logged cataclastite unit. 
+
+ There are a number of holes where Au grades in the hole (as well as Au grades and 
+geology of surrounding holes) show the zone coming through but cataclastite was not 
+logged. This is not unusual given that logging of structural intensity can be quite 
+subjective, and is particularly challenging when logging RC holes. Consideration should 
+be given to re-logging some of these holes when time permits. 
+
+ The current models incorporate several intervals of material with low or no grade where 
+it was not considered practical to break that material out. 
+
+ 17.3.2 Colinas Geological Model 
+
+ For the Colinas deposit Pediment provided DMBW with a report from a historic estimate 
+of mineralized material carried out for Echo Bay in 1996 (see section 17.1 of this report). 
+The Echo Bay report contained 8" x 10" summary x-sections showing the geological 
+model for Colinas. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 47 
+
+ Based on the Echo Bay interpretation, and using a 0.3 g/t Au composite cut-off, DMBW 
+created 3D solids of the zone using the methodology as described above for Planes. 
+These 3D solids were then sent to Pediment's geologists in order for them to confirm that 
+the geological interpretation was appropriate. 
+
+ Mineralization at Colinas occurs in a north-northeast striking zone which dips -50º to the 
+west. To date mineralization has been defined along approximately 400 m strike length at 
+Colinas. The southern portion of that strike length extends onto concessions not held by 
+Pediment, however only that portion of the Colinas resource occurring on concessions 
+held by Pediment is reported in this report. 
+
+ 17.3.3 Modelled surfaces 
+
+ A 3D topographic surface was created by gridding the coordinates of the drillhole collars.  
+
+ A 3D surface representing the base of the overburden was created by gridding the base of 
+the overburden unit as identified in the drill logs. 
+
+ A 3D surface representing the base of the rocks affected by oxidation was created by 
+gridding the base of the lowest point where rocks have consistently been affected by 
+surface oxidation in each of the drill logs. This 3D surface represents the base of all 
+logged oxidation (including weak, moderate, and strong intensities) as it was not practical 
+to break out finer divisions based on the available data. 
+
+ The Colinas Deposit straddles the southern boundary of the concessions held by 
+Pediment. For the current Mineral Resource Estimate the deposit was clipped by a 
+vertical boundary constructed between the corners of Pediment's Concession located at 
+596544E 2628303N and 599738E 2638324N. Only that portion of the Colinas resource 
+occurring on concessions held by Pediment is reported in this report. 
+
+17.4 Drill Hole Database 
+
+DMBW received drill hole data from Pediment in MS Excel spreadsheets of the collar, survey, 
+geology, and assay data. In addition separate spreadsheets were provided which contained 
+QA/QC assays for blanks, standards, and duplicate assays for Planes. 
+
+Additional files provided to DMBW contained digital copies of drill logs and assay certificates 
+for both Pediment and Colinas holes, including the Echo Bay holes. No significant errors were 
+found with respect to assay documentation and database entry. 
+
+Geological information in the database is entered as numerical codes for alteration, mineralogy, 
+oxidation, lithology, sulphide content, and zone (structure) type. Pediment and Echo Bay used 
+different systems of numeric codes for these items, and the codes in the Echo Bay holes in the 
+current database have not been converted. Pediment is aware of this discrepancy with the 
+database coding and the issue is being corrected. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 48 
+
+The database contained data on drill holes completed on the project prior to January 2008. 
+
+Surface assays from rock chip sampling of outcrops and trenches were not incorporated into the 
+assay database for the current resource estimate. 
+
+The total San Antonio drillhole database used for the current resource estimates contains 14609 
+assay samples collected from 124 drill holes. 
+
+To ensure equal support in geostatistical analysis and resource estimation the assay data within 
+the modelled domains were composited to fixed 2.0 m lengths. A composite length of 2 m was 
+selected for both Los Planes and Colinas as being appropriate for the currently modelled domain 
+geometry. 
+
+The composites were generated by starting the zero metre length count at the upper edge of each 
+mineralized interval; some fractional composites which are less than 2.0 m in length are retained 
+at the lower edge of some intervals. The compositing process was carried out separately for 
+samples within each modeled domain so that no composites cross the boundary between 
+mineralized and non-mineralized domains. 
+
+The 3D model of the 2 mineralized domains at Planes are intersected by 73 drill holes including 
+five Echo Bay RC holes drilled in 1997, four Pediment Diamond Drill holes completed in March 
+2007, and 64 Pediment RC holes completed in December 2007. Selecting only those samples 
+which fall within the model of the mineralized zones A and B at Planes, and then compositing 
+the selected samples to regular 2 metre intervals resulted in 2450 2 m composites which fall 
+within the two Planes mineralized zones. The composites have a weighted average grade of 
+1.2034 g/t Au. The weighted average of the raw assays (prior to compositing) which fall within 
+the models of the Planes mineralized zones is 1.2056 g/t Au. 
+
+The 3D model of the mineralized zone at Colinas is intersected by 19 drill holes including 14 
+Echo Bay RC holes drilled in 1996-97, and five Pediment DDH holes drilled in 2007. Selecting 
+only those assay samples which fall within the model of the mineralized zone at Colinas, and 
+then compositing the selected samples to regular two metre intervals resulted in 318 2 m 
+composites with a weighted average grade of 0.8688 g/t Au. The weighted average grade of the 
+raw assays (prior to compositing) which fall within the model of the Colinas mineralized zone is 
+0.8683 g/t Au. 
+
+17.5 Sample Population 
+
+The graph below shows the log normal distribution of grades based on the 2450 composites 
+occurring in the modeled zones (zone A and B combined) for Planes. The histogram displays a 
+uni-modal lognormal distribution of gold grades, indicating a single population of samples. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 49 
+
+Figure 17.1  
+Log Normal Histogram of 2 m Composite data from Los Planes Deposit 
+
+Real Value
+
+F
+re
+
+q
+u
+
+e
+n
+
+c
+y 
+
+C
+o
+
+u
+n
+
+t
+
+0 0.000 0.001 0.010 0.100 1.000 10.000 100.000
+0
+
+99
+
+197
+
+296
+
+394
+
+493
+
+LOG Normal Histogram
+
+Software By Gemcom
+
+The graph below shows the log normal distribution of grades based on the 318 2 m composites 
+occurring in the modeled zone at Colinas. The histogram displays a generally uni-modal 
+lognormal distribution of gold grades, indicating a single population of samples. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 50 
+
+Figure 17.2  
+Log Normal Histogram of 2 m Composite data from Las Colinas Deposit 
+
+Real Value
+
+F
+re
+
+q
+u
+
+e
+n
+
+c
+y 
+
+C
+o
+
+u
+n
+
+t
+
+0.010 0.100 1.000 10.000
+0
+
+10
+
+21
+
+31
+
+42
+
+52
+
+LOG Normal Histogram
+
+Software By Gemcom
+
+17.6 High-Grade Assay Capping
+
+The assay populations within the mineralized domains were examined to determine whether the 
+distribution of grades contains erratic high grade values which could have a disproportionate 
+influence in the estimation of the average grade of the deposit, ie: whether the deposit is 
+"nuggety". A common practice with nuggety gold deposits is to cap any identified erratic high 
+grades by resetting all values above a certain threshold value to the threshold value. 
+
+For the raw (uncomposited) assay samples in the Planes database a total of four samples returned 
+assay grades > 30 g/t Au (with the highest being 41.8 g/t) and a total of 39 samples grade > 10 
+g/t Au. Although the four assay samples grading greater than 30 g/t were capped at 30 g/t prior to 
+calculating composites, in line with common industry practice, it was noted that with the Los 
+Planes database this capping to 30 g/t did not have a measurable effect on the overall resource. 
+
+For the raw (uncomposited) assay samples in the Colinas database a total of 23 samples returned 
+assay grades > 2.0 g/t Au (with the highest being 5.71 g/t). No assay capping was applied to the 
+Colinas assays prior to compositing. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 51 
+
+17.7 Bulk Density  
+
+Pediment contracted a local engineering company, Oestec de Mexico, to carry out bulk density 
+(specific gravity) measurements on intervals of diamond drill core or half-core. Pediment 
+provided DMBW with Excel spreadsheets of the density measurements for each of the Los 
+Planes and Colinas Zones. A total of 72 density measurements were carried out on samples of 
+mineralized core from within the modelled zones/domains. 
+
+The following density values were used for resource estimation for both Planes and Colinas:  
+
+Table 17.1 
+Average Density determinations for San Antonio mineralization 
+
+Zone Type Density (SG) Number of Measurements 
+Sulphide Mineralization 2.7 35 
+
+Oxide Mineralization 2.6 37 
+
+17.8 Block Models 
+
+Separate block models were defined to cover the mineralization at Planes and Colinas. The 
+blocks model limits are defined by the parameters in the following tables: 
+
+Table 17.2 
+Los Planes Deposit Block Model Parameters 
+
+PLANES 
+MODEL 
+
+Model Origin1 Number of Blocks Block Size (m) 
+
+Easting 598200 160 columns 5 
+Northing 2638800 300 rows 5 
+Elevation 300 (m) 100 levels 5 
+
+Table 17.3 
+Las Colinas Deposit Block Model Parameters 
+
+COLINAS 
+MODEL 
+
+Model Origin1 Number of Blocks Block Size (m) 
+
+Easting 598000 150 columns 5 
+Northing 2638100 175 rows 5 
+Elevation 300 (m) 100 levels 5 
+
+1 The convention used in Gemcom, and duplicated here, is to define the block model origin by specifying 
+the Minimum X and Y coordinates and the Maximum Z coordinates of the outside corner of the block 
+which sits at the origin. 
+
+There was no rotation of either of the block models, all blocks are oriented east-west and are 
+vertical. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 52 
+
+17.9 Grade Interpolation 
+
+Grades were interpolated into blocks by the method of Ordinary Kriging. 
+
+Modeled 3D domains were used as hard boundaries to constrain the interpolation of grades. Only 
+composites in a particular domain were considered when interpolating grade into blocks in that 
+same domain. 
+
+Gemcom determines the percentage of a block falling within a particular domain by the method 
+of needling. For both Planes and Colinas a needling integration level of three was used so that 
+nine equally spaced vertical needles pierce each block. 
+
+Search ellipse and variogram ranges were determined by Variography using Sage 2001 software 
+from Issacs & Co. Similar interpolation methodology and search ellipse/variogram ranges were 
+used for both Planes and Colinas. Search ellipse distances used were 65 m (along strike) x 65 m 
+(down dip) x 25 m (across strike/dip). 
+
+17.10 Resource Classification 
+
+For this initial resource estimate all mineralization at Planes and Colinas has been classified as 
+Inferred. 
+
+At the current level of drilling there are well defined geological and grade domains with good 
+vertical and lateral continuity and these domains were used as hard boundaries when 
+interpolating grades into the block models. 
+
+Current drill spacing on individual x-sections often approaches 25 metre centres (down dip), 
+while the spacing between currently drilled x-sections is generally 50 metres (along strike). 
+
+Pediment has noted, and DMBW concurs, that the next major step in the development of the San 
+Antonio project should be a Preliminary Economic Assessment ("PEA") to further assess the 
+economic viability of the deposits. And that depending of the results of that PEA, that a program 
+of additional drilling on 25 metre sections may be warranted, with the goal of increasing 
+confidence in geological and grade continuity in order to upgrade portions of the resource to 
+higher resource categories. 
+
+17.11 Results Of Mineral Resource Estimates 
+
+Based on the parameters described in this report DMBW has estimated an Inferred Mineral 
+Resource for the Los Planes deposit of 30.58 million tonnes at an average grade of 1.32 g/t Au, 
+using a 0.4 g/t Au cut-off grade. In addition DMBW has estimated an Inferred Mineral Resource 
+for the Las Colinas deposit of 5.62 million tonnes at an average grade of 0.83 g/t Au, using a 
+0.4 g/t Au cut-off grade. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 53 
+
+Table 17.4 
+Los Planes Deposit Inferred Mineral Resource Estimate(1)(2)(3) 
+
+Los Planes Deposit - Mineral Resource Estimate 
+CUT-OF 
+GRADE TONNES GRADE
+
+AU 
+PRODUCT 
+
+g/t Au 
+
+ROCK 
+GROUP(4)
+
+T x 106 g/t Au Ounces x 106
+
+0.3 g/t Au Oxidized 11.30 1.12 0.41 
+  Sulphide 20.97 1.35 0.91 
+  Total 32.27 1.27 1.32 
+
+0.4 g/t Au Oxidized 10.54 1.18 0.40 
+  Sulphide 20.04 1.40 0.90 
+  Total 30.58 1.32 1.30 
+
+0.5 g/t Au Oxidized 9.60 1.25 0.39 
+  Sulphide 18.55 1.48 0.88 
+  Total 28.15 1.40 1.26 
+
+0.7 g/t Au Oxidized 7.31 1.45 0.34 
+  Sulphide 14.86 1.69 0.81 
+  Total 22.17 1.61 1.15 
+
+1.0 g/t Au Oxidized 4.67 1.80 0.27 
+  Sulphide 10.33 2.07 0.69 
+  Total 14.99 1.99 0.96 
+
+1.5 g/t Au Oxidized 2.23 2.44 0.17 
+  Sulphide 5.51 2.81 0.50 
+  Total 7.73 2.70 0.67 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 54 
+
+Table 17.5  
+Las Colinas Deposit Mineral Resource Estimate(1)(2)(3) 
+
+Las Colinas Deposit - Mineral Resource Estimate 
+CUT-OF 
+GRADE TONNES GRADE
+
+AU 
+PRODUCT 
+
+g/t Au 
+
+ROCK 
+GROUP(4)
+
+T x 106 g/t Au Ounces x 106
+
+0.3 g/t Au Oxidized 0.38 0.90 0.011 
+  Sulphide 5.39 0.81 0.141 
+  Total 5.77 0.82 0.152 
+
+0.4 g/t Au Oxidized 0.37 0.92 0.011 
+  Sulphide 5.25 0.83 0.139 
+  Total 5.62 0.83 0.150 
+
+0.5 g/t Au Oxidized 0.36 0.94 0.011 
+  Sulphide 4.77 0.86 0.132 
+  Total 5.13 0.87 0.143 
+
+0.7 g/t Au Oxidized 0.27 1.03 0.009 
+  Sulphide 3.46 0.96 0.107 
+  Total 3.73 0.97 0.116 
+
+1.0 g/t Au Oxidized 0.13 1.24 0.005 
+  Sulphide 1.13 1.18 0.043 
+  Total 1.26 1.19 0.048 
+
+1.5 g/t Au Oxidized 0.01 1.63 0.000 
+  Sulphide 0.06 1.65 0.003 
+  Total 0.07 1.65 0.004 
+
+(1) It cannot be assumed that all or any part of an Inferred Mineral Resource will be upgraded to an Indicated 
+or Measured Mineral Resource as a result of continued exploration.   
+
+(2) Mineral resources which are not mineral reserves do not have demonstrated economic viability. 
+(3) Numbers may not add up, due to rounding. 
+(4) 'Oxidized' refers here to rock affected by oxidation including weak-moderate-strong intensities. 
+
+17.12 Block Model Validation 
+
+The models and database were checked for proper coding of drillhole intervals, composites and 
+block model cells. A detailed visual validation of the Planes and Colinas block models was 
+carried out in both sectional and plan views where grade interpolation into blocks was checked 
+relative to composite values in drillholes. The checks showed good agreement between drillhole 
+composites and block model grades. 
+
+See Figures 17.3, 17.4 and 17.5 for Planes deposit x-sections. See Figures 17.6 and 17.7 for 
+Colinas deposit x-sections. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 55 
+
+Note that color codes in the following x-sections are as follows: 
+
+0.01 to 0.3 g/t Au = Yellow 
+0.3 to 0.5 g/t Au = Teal 
+0.5 to 1.0 g/t Au = Dark Blue 
+1.0 to 3.0 g/t Au = Purple 
+3.0 to 999 g/t Au = Red 
+
+
+
+D
+e
+
+rr
+y,
+
+ M
+ic
+
+h
+e
+
+n
+e
+
+r,
+ B
+
+o
+o
+
+th
+ &
+
+ W
+a
+h
+
+l 
+C
+
+o
+n
+
+s
+u
+
+lt
+a
+n
+
+ts
+ L
+
+td
+. 
+
+ 
+P
+
+a
+g
+
+e
+ 5
+
+6
+ 
+
+F
+ig
+
+u
+re
+
+ 1
+7.
+
+3 
+ 
+
+P
+la
+
+n
+es
+
+ D
+ep
+
+os
+it
+
+ c
+ro
+
+ss
+-s
+
+ec
+ti
+
+on
+ 3
+
+95
+50
+
+ N
+, B
+
+lo
+ck
+
+ M
+od
+
+el
+ S
+
+h
+ow
+
+in
+g 
+
+G
+ol
+
+d
+ G
+
+ra
+d
+
+es
+ 
+
+
+
+D
+e
+
+rr
+y,
+
+ M
+ic
+
+h
+e
+
+n
+e
+
+r,
+ B
+
+o
+o
+
+th
+ &
+
+ W
+a
+h
+
+l 
+C
+
+o
+n
+
+s
+u
+
+lt
+a
+n
+
+ts
+ L
+
+td
+. 
+
+ 
+P
+
+a
+g
+
+e
+ 5
+
+7
+ 
+
+F
+ig
+
+u
+re
+
+ 1
+7.
+
+4 
+P
+
+la
+n
+
+es
+ D
+
+ep
+os
+
+it
+ c
+
+ro
+ss
+
+-s
+ec
+
+ti
+on
+
+ 3
+96
+
+50
+_N
+
+, B
+lo
+
+ck
+ M
+
+od
+el
+
+ S
+h
+
+ow
+in
+
+g 
+G
+
+ol
+d
+
+ G
+ra
+
+d
+es
+
+ 
+
+
+
+D
+e
+
+rr
+y,
+
+ M
+ic
+
+h
+e
+
+n
+e
+
+r,
+ B
+
+o
+o
+
+th
+ &
+
+ W
+a
+h
+
+l 
+C
+
+o
+n
+
+s
+u
+
+lt
+a
+n
+
+ts
+ L
+
+td
+. 
+
+ 
+P
+
+a
+g
+
+e
+ 5
+
+8
+ 
+
+F
+ig
+
+u
+re
+
+ 1
+7.
+
+5 
+P
+
+la
+n
+
+es
+ D
+
+ep
+os
+
+it
+ c
+
+ro
+ss
+
+-s
+ec
+
+ti
+on
+
+ 3
+97
+
+50
+_N
+
+, B
+lo
+
+ck
+ M
+
+od
+el
+
+ S
+h
+
+ow
+in
+
+g 
+G
+
+ol
+d
+
+ G
+ra
+
+d
+es
+
+ 
+
+
+
+D
+e
+
+rr
+y,
+
+ M
+ic
+
+h
+e
+
+n
+e
+
+r,
+ B
+
+o
+o
+
+th
+ &
+
+ W
+a
+h
+
+l 
+C
+
+o
+n
+
+s
+u
+
+lt
+a
+n
+
+ts
+ L
+
+td
+. 
+
+ 
+P
+
+a
+g
+
+e
+ 5
+
+9
+ 
+
+F
+ig
+
+u
+re
+
+ 1
+7.
+
+6 
+ 
+
+C
+ol
+
+in
+as
+
+ D
+ep
+
+os
+it
+
+ c
+ro
+
+ss
+-s
+
+ec
+ti
+
+on
+ 3
+
+84
+00
+
+_N
+, B
+
+lo
+ck
+
+ M
+od
+
+el
+ S
+
+h
+ow
+
+in
+g 
+
+G
+ol
+
+d
+ G
+
+ra
+d
+
+es
+ 
+
+
+
+D
+e
+
+rr
+y,
+
+ M
+ic
+
+h
+e
+
+n
+e
+
+r,
+ B
+
+o
+o
+
+th
+ &
+
+ W
+a
+h
+
+l 
+C
+
+o
+n
+
+s
+u
+
+lt
+a
+n
+
+ts
+ L
+
+td
+. 
+
+ 
+P
+
+a
+g
+
+e
+ 6
+
+0
+ 
+
+F
+ig
+
+u
+re
+
+ 1
+7.
+
+7 
+ 
+
+C
+ol
+
+in
+as
+
+ D
+ep
+
+os
+it
+
+ c
+ro
+
+ss
+-s
+
+ec
+ti
+
+on
+ 3
+
+85
+00
+
+_N
+, B
+
+lo
+ck
+
+ M
+od
+
+el
+ S
+
+h
+ow
+
+in
+g 
+
+G
+ol
+
+d
+ G
+
+ra
+d
+
+es
+ 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 61 
+
+18.0 OTHER RELEVANT DATA AND INFORMATION 
+
+18.1 General 
+
+Other than the description of Cut-Off Grades below, there is no other relevant data or 
+information not described in previous sections. 
+
+18.1 Selection of Cut-Off Grades  
+
+DMBW has derived a cutoff grade of 0.40g/t Au for the resource estimation in Section 17 
+above. Lacking any determination of operating cost and revenues for Planes, as per a 
+Floating Cone Evaluation, this selection of a cut off grade is only an initial general 
+guideline for the Planes Inferred Resources. At this initial resource stage, the cutoff 
+reflects the opinion of DMBW as regards the relative positioning of the Las Planes 
+deposit with its peers. 
+
+The selection of a cutoff grade at this early stage of project development is a best 
+estimate based on the known geometry and grade of the zone and on the material 
+reviewed below. A Preliminary Economic Analysis, as recommended by DMBW, is 
+needed to determine a more accurate cut-off grade.
+
+DMBW reviewed a variety of breakeven cut-off grades used by operators of open-pit, 
+heap-leach gold deposits and mines currently (or within the past 4 years), in operation, or 
+in various stages of pre-feasibility, or feasibility studies. The deposits are all of the 
+low-grade gold, or gold-equivalent, type; six are located in Mexico, and one, Mesquite, in 
+California. They are described in general terms in this section and tabulated below. 
+
+The data is publicly available on either the companies' websites, or on SEDAR and 
+features the opinions of two companies, Metallica and Gammon Gold and by those of 
+different independent geologists and engineers. 
+
+As shown in Table 18.1 the cut-offs range from 0.20g/t to 0.50g/t Au, the latter at 
+Paredones as selected by Mine Development Associates (MDA). (see also Section 8.2) 
+This deposit is a direct analogue of Planes but has only sulphide ore, thus reflecting the 
+lower leach-recovery, and hence, the higher cut off grade. 
+
+In this study, DMBW have examined data for both Indicated and Inferred Mineral 
+Resources in the determination of Cut-off grades for Mineral and Mining Reserves, 
+which are normally lower than those for Resources, are excluded from the overall 
+average, as they are derived with the benefit of a much greater reliability of data and 
+costs. 
+
+The gold prices stated in the reports were selected by the engineers as suitable longer –
+term prices for forecasting project revenue; they show a dramatic rise from $350/oz in 
+2004 to $650/oz in 2007. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 62 
+
+DMBW examined gold prices published each six months by Kitco (www.kitco.com) a 
+source used by engineers. From January 2004 to January 2008 the average six-month 
+price rose from $425 to 850/oz (London Fix PM). The three year rolling (cumulative 
+average) gold prices/oz for 2005, 2006, and 2007 were: $444.74, $603.46 and $695.39/oz 
+respectively. The five year chart from May 2003 to May 2008 showed a shoulder at 
+$650/oz from May 2006 to May 2007. From the above, a future longer term gold price in 
+the range of $600 to $650/oz seems to be a reasonable assumption as at December 31, 
+2007. 
+
+The above-noted gold price trends have been considered by DMBW in their selection of 
+this average cut-off grade of 0.36g/t Au, which has been marginally increased to 0.40g/t 
+Au for the estimation of the Planes Inferred Mineral Resources. 
+
+Table 18.1 Cut-off Grades of Selected Open Pit Heap-leachable gold deposits 
+Note – resources include measured + indicated + inferred 
+
+Deposit or Mine and Company
+Reserves + Resources 
+
+MMT 
+Engineer / year
+
+Grade 
+Au g/t
+
+Cut off 
+g/t 
+
++$/oz 
+El Chanate 
+Capital Gold Corporation 
+
+39 Reserve 
+46 Resource 
+IMC / 2007 
+
+0.66 
+0.71 
+
+0.3 
+$650 
+
+Cerro San Pedro 
+Metallica 
+
+84.0 -2004 
+Company 
+MD&A / 2007 
+
+0.93 
+0.375 
+
+Au eq. 
+
+0.2 
+ $600 
+Ag10 
+
+Lluvia de Oro 
+Columbia Metals 
+
+12.08 
+Giroux / 2006 
+
+0.71 0.1 
+0.5 
+1.0 
+
+$550 
+Mesquite 
+Western Goldfields 
+
+156.0 oxide 
+45.9 sulphide 
+IMC / 2006 
+
+0.62 0.2 ox 
+0.4s. 
+$500 
+
+Paredones Amarillo 
+Vista Gold 
+
+49 Reserve 
+61 Resource 
+MDA / 2007 
+
+1.01 
+1.02 
+
+0.38 
+0.50 
+$550 
+
+Ocampo 
+Gammon Gold 
+
+29.1 M+I resource 
+23.7 I resource 
+2004Company  
+
+0.30Au.13Ag 
+1.8Au, 93 Ag 
+
+0.3 
+$375 
+
+Mulatos 
+Alamos Gold 
+
+31.9 Reserve 
+37.3 Resource 
+M3/IMC / 2004 
+
+1.65 
+2.15 
+
+0.5 
+
+0.42 
+$350 
+
+AVERAGE   0.36 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 63 
+
+19.0 INTERPRETATION AND CONCLUSIONS 
+
+At the current level of exploration DMBW believe that Pediment has developed an 
+appropriate geological interpretation for estimation of mineral resources at both Planes 
+and Colinas. There are well defined geological and grade domains with good vertical and 
+lateral continuity, suitable for use as hard boundaries, when interpolating grades into the 
+block models. 
+
+Quality assurance/quality control on blanks, standards and duplicates indicate that the 
+assay data provided on the Planes Deposit is of sufficient quality to estimate a resource. 
+
+Gold assays from 73 holes at Planes and from 19 holes at Colinas were used to complete 
+the resource estimates; composite length was two metres. 
+
+The Los Planes zone can be traced in the IP data for 600 metres north of Line 
+2,639,800N, or 400 metres beyond the most northerly holes, 07PLRC-08 and 
+07PLRC-42, thus justifying further exploration. 
+
+20.0 RECOMMENDATIONS AND BUDGET 
+
+20.1 Recommendations
+
+DMBW recommends a further Exploration Program of infill vertical Reverse Circulation 
+('RC') and Core drilling at Planes in 2008 on a 50 x 50 metre grid within a quadrangle 
+formed by coordinates 2639350-2640150 north and 598500-598800 east. The intention is 
+to outline all significant mineralization within this (800 x 300) 240,000 square metre 
+block, thus possibly increasing the inferred resource base, as a precursor to closer spaced 
+drilling. This program would entail about 50 holes or about 10,000 metres.
+
+Note 1: The extent of an increase in inferred resources, if any, is unknown at this time. 
+
+Note 2: It cannot be assumed that all, or any part of the present inferred mineral resource, would 
+be upgraded to a higher category. 
+
+Continued exploration of the Concession lands is also recommended. The IP coverage 
+should be expanded to detail survey the northern extension of the Los Planes zone, in 
+addition to detailing the parallel zones found in 2007. 
+
+Pediment has noted, and DMBW concurs, that following this, the next major step in the 
+development of the San Antonio project should be a Preliminary Economic Assessment 
+("PEA"). 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 64 
+
+The PEA should include: 
+
+• Determination of gold recoveries in bottle roll tests from oxide, mixed and 
+sulphide mineralization at Planes and Colinas. (in progress) 
+
+• Estimation of capital and operating costs for open pit mining and whole ore leach 
+processing to determine appropriate cut-off grades.
+
+• Preparation of a scoping study which would include a Floating Cone Evaluation. 
+• Preliminary environmental and water assessment  
+• Further consultation with village ejidos on the acceptability of mining the San 
+
+Antonio gold deposits. 
+
+Depending on the results of that PEA, a program of additional drilling on 25 metre 
+sections on the Planes gold deposit may be warranted, with the goal of increasing 
+confidence in geological and grade continuity, to upgrade portions of the resource to an 
+Indicated category.
+Drill testing the IP anomaly extending for 400 m north of Los Planes and additional 
+(definition) drilling at Colinas would be contingent on the results of the above program at 
+Planes. 
+DMBW have not determined the cost of further programs beyond this stage.  
+
+20.2 Budget 
+
+The budget is developed from Pitalla cost estimates for the 2007 drilling and exploration 
+program. In DMBW's opinion the costs are reasonable. 
+
+The field program entails about 6 to 8 months of drilling, depending on drill progress, 
+followed by a consolidation/compilation phase of 4 to 6 months, during which the 
+Preliminary Economic Assessment will be completed and plans made for the next phase. 
+The 2 month exploration IP survey includes preliminary and detail follow-up, 
+interpretation and reporting. The estimated cost of the complete recommended program, 
+including normal contingencies, is $1,962,000. 
+
+DMBW have not determined the cost of further programs beyond this stage. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 65 
+
+Table 20.1 Budget for Recommended Exploration and Evaluation Program 
+  Note: Estimates are rounded numbers. 
+
+Category Amount/no. 
+Unit cost 
+
+US $ 
+Total cost 
+
+US $ 
+
+Drilling RC/Core  
+50 holes x 200 
+10,000 m 
+
+ $78 /m contractor cost 780,000 
+
+Assaying $30/sample x 130  3,900 /hole  195,000 
+Geologists 3 for 9 months 13,000 117,000 
+Labour 17 workers 16,000 /month 134,000 
+Vehicles  2 4-WD Trucks  2,400 /month 29,000 
+Gen. expenses 12 months  20,000 240,000 
+Ejido rent  12 months  - 29,000 
+Property tax -  - 18,000 
+  
+SUBTOTAL   1,541,000 
+  
+Contingency 15%   - 230,000 
+Bottle roll tests 44   360 16,000 
+P.E. Assessment 3 months 25,000 75,000 
+IP survey/report 40 days   2,500 100,000 
+    
+TOTAL   1,962,000 
+     
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 66 
+
+21.0 REFERENCES 
+
+Alamos Gold Corp: 4th Quarter 2007 report "Results of Operations" Mulatos Mine. 
+
+ALS Chemex laboratories – www.als.com 
+
+*Aranda-Gomez, J. J., and Perez-Venzor, J. A, 1989, Estratigrafia del Complejo 
+Cristalino de la Region de Todos Santos, Estado de Baja California Sur, Univ. Nal. 
+Auton. Mexico Inst. Geologia Revista, Vol. 8, No. 2, pp 149-170. 
+
+*Aranda-Gomez, J. J., and Perez-Venzor, J.A., 1988, Estudio Geologico de Punta 
+Coyotes, Baja California Sur, Univ. Nal. Auton. Mexico Inst. Geologia Revista, Vol. 
+7, No. 1, pp. 1-21. 
+
+Brown, H.G., 1998, Geology, Geophysics and Discovery of Shear Zone-Hosted Gold 
+Resources, El Triunfo District, B.C.S., Mexico; Northwest Mining Assn. Bulletin, p 
+20 and p 28 illustrated. 
+
+Brown, H.G., 1998, Las Colinas Gold Project, Baja California Sur, Mexico, Echo Bay 
+Company Report, unpublished, p 31. 
+
+*Bustamante-Garcia, Jorge (compilation editor), 2000, Geological-Mining Monograph 
+of the State of Baja California Sur, Publication M-24e, p 232 with two map plates, 
+Consejo Recursos Minerales division of Secretary de Comercio y Fomento 
+Industrial, Federal Govt. Mexico, Mexico City, Distrito Federal. 
+
+Capital Gold Corporation: El Chanate Gold Mine Feasibility Study (2005), Independent 
+Mining Consultants, Inc. 
+
+Carillo-Chavez, A., Huyck, H., Zentilli M., Griest, A., 1999, Age constraints on host 
+rocks of Los Uvares gold deposit: Magmatic pulses in southernmost Baja California, 
+Mexico, pp. 27-33, Geofisica Internacional, Vol. 38, No. 1. 
+
+Columbia Metals Corp: Technical Report (2006) Lluvia de Oro by Giroux and 
+Associates. 
+
+Coyan, Joshua A., Busch, Melanie M., and Stephen J. Reynolds, 2007, Structural 
+Setting of Hydrothermal Gold Deposits at Las Colinas, Baja California Sur -A 
+Preliminary Summary, p. 30 including illustrations, Internal Corp. Report (PhD 
+Students and Professor Reynolds at Arizona State Univ. Tempe, AZ). 
+
+Davis, George H., and Reynolds, Stephen J.,1984 & 1996, Structural Geology – Of 
+Rocks and Regions, John Wiley and Sons Inc., p 776 including illustrations, 2nd
+
+Edition, New York, New York. 
+
+Gammon Gold Corp: Ocampo Deposit (2004) internal report by Company. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 67 
+
+References Cited * Spanish 
+
+Gibson, P.C., Brown, H.G., and Wilson, J.L., 1996, A Shear Zone Hosted Gold Deposit 
+at Paredones Amarillos, Baja California Sur, Mexico; Abstract of Presentation. 
+
+Herdrick, Melvin A., 1998, Summary of Field Visit, La Paz Gold Districts, Baja 
+California Sur, Phelps Dodge Trip Report Summary, p 14. 
+
+Kinross Gold Corporation: (2007) Letter agreement c. Pediment re provision of Las 
+Colinas data. 
+
+Kuyper, B. (1996) Geologic Gold Resource Estimate, Las Colinas Prospect, BCS 
+Mexico, for Echo Bay Exploration Ltd. 
+
+Metallica Resources Inc: Cerro San Pedro, internal Company report (2004) and 
+independent Technical Report by Mine Development Associates (2007). 
+
+*Minera Penmont S. de R.L .de C.V. (Penoles-Newmont) 1988, Mina La Herradura, 
+Sonora –Geologia del Yacimento, Guided Geology and Mine operations Tour. 
+
+Reynolds, John. (2006) Durango Geophysical Operations – Reconnaissance Induced 
+Polarization (RIP) Survey Las Colinas Project Area.
+
+Reynolds, John. (2007) Durango Geophysical Operations – Dipole-Dipole Induced 
+Polarization Survey, Las Colinas Project Area. 
+
+Shaw, D.R., 1997, Las Colinas Project- Preliminary Metallurgical Characterization Test 
+Work, Colorado Minerals Research Institute, Project Report No. 96-4018, 
+Completed for Echo Bay; p 27 and Appendix p 60. 
+
+Stephens, J.E. (2006) Report to Pitalla on San Antonio Project. 
+
+Vista Gold Corp: Mine Development Associates (June 2007) Updated Technical Report 
+Paredones Amarillos Project. 
+
+Wallis, S. (2004) Roscoe Postle Associates (RPA) Technical Report on Pitalla 
+Properties, Mexico prepared for Skinny Technologies Inc. 
+
+Western Goldfields Inc: Technical Report/ Form 43 101-F1 (May 2006) Independent 
+Mine Consultants Inc. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 68 
+
+22.0 SIGNATURE PAGE 
+
+This report titled "Technical Report and Mineral Resource Estimate on the San Antonio 
+Gold Project, Baja California Sur, Mexico", with an effective date of December 31, 2007, 
+prepared for Pediment Exploration Limited, and dated June 30, 2008 was prepared by the 
+following two authors: 
+
+     "Ian S. Thompson"     Date:      June 30, 2008 
+
+Ian S. Thompson, P.Eng. 
+President, 
+Derry, Michener, Booth and Wahl Limited 
+
+     "Dave Laudrum"     Date:      June 30, 2008 
+
+Dave Laudrum, P. Geo. 
+Senior Geologist 
+Ashloo Consultants Ltd. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 69 
+
+23.0 AUTHORS' CERTIFICATES 
+
+Certificate of Qualifications for Ian S. Thompson 
+
+As one of the two authors of this report entitled "Technical Report and Mineral Resource 
+Estimate on the San Antonio Gold Project, Baja California Sur, Mexico, for Pediment 
+Exploration Limited", as at December 31, 2007, and dated June 30, 2008, I, Ian S. 
+Thompson, do hereby certify that: 
+
+1. I am the President of 
+Derry, Michener, Booth & Wahl Consultants Ltd. 
+2338 Marine Drive  
+West Vancouver, BC, Canada 
+V7V 1K8  
+
+2. I graduated with a degree in Honours Geological Sciences from the University of 
+Toronto in 1959.  
+
+3. I am and have been a registered Professional Engineer with the Association of 
+Professional Engineers and Geoscientists of British Columbia since 1971.As well, I 
+am a member in good standing of other technical associations and societies including,  
+
+Life Member, Society of Economic Geologists. 
+Retired Fellow, Association of Applied Geochemists 
+Life Member, Canadian Institute of Mining and Metallurgy. 
+Life Member, Prospectors and Developers Association of Canada. 
+Life Member, Association for Mineral Exploration BC. 
+
+4. I have practiced my profession continually since 1959.  
+
+5. I am responsible for Sections 1 through 16 and 18, 19 and 20 of the Technical Report 
+as well as for the preparation of the Technical Report. I visited the San Antonio 
+property and the offices of Pediment's wholly –owned Mexican subsidiary, Cia. 
+Minera Pitalla, S.A. de C.V. in Hermosillo, during the period December 12-17, 2007. 
+
+6. I have read National Instrument 43-101 and, by reason of education, 
+experience and professional registration, I fulfill the requirements of a 
+Qualified Person as defined in NI 43-101. This technical report has been 
+prepared in compliance with NI 43-101. 
+
+7. I have had no prior involvement with the mineral property in question. 
+
+8. As of the date of this certificate, to the best of my knowledge, information and belief, 
+the technical report contains all scientific and technical information that is required to 
+be disclosed to make the technical report not misleading. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 70 
+
+9. I am independent of the parties involved in the transaction for which this report is 
+required, other than providing consulting services.
+
+Dated this 30th day of June, 2008 
+
+"Ian S. Thompson" 
+
+(signed)     Ian S. Thompson . 
+Signature of Qualified Person  
+
+I. S. Thompson, P.Eng..    (Professional Seal) 
+Name of Qualified Person 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 71 
+
+Certificate of Qualifications for Dave Laudrum 
+
+I, Dave Laudrum, a Senior Geologist with Ashloo Consultants Ltd, 26–1200 Edgewater 
+Drive, Squamish, British Columbia, email: dlaudrum@ashloo.com, do hereby certify 
+that: 
+
+1. I am one of the 2 co-authors of the report entitled "Technical Report and 
+Mineral Resource Estimate on the San Antonio Gold Project, Baja California 
+Sur, Mexico", dated June 30, 2008. I am responsible for the Mineral Resource 
+Estimate in Section 17 of the report. That mineral resource is reported based on 
+cutoff grades and economic parameters produced by my co-author in Section 
+18 of the report. 
+
+2 I carried out this assignment as a sub-contractor to Derry Michener Booth & 
+Wahl Consultants Ltd, 2338 Marine Drive, West Vancouver, BC. 
+
+3  hold the following academic qualification: 
+ B.Sc, Specialization in Geology, Lakehead University, 1987. 
+
+4 I am a registered Professional Geoscientist with the Association of 
+Professional Engineers and Geoscientists of British Columbia; as well, I am a 
+member in good standing of other technical associations and societies, 
+including: 
+
+  
+   Fellow of the Geological Association of Canada. 
+   Member of the Society of Economic Geologists. 
+   Member of the Canadian Institute of Mining and Metallurgy. 
+   Member of the Prospectors and Developers Association of Canada. 
+    Member of the Association for Mineral Exploration BC. 
+
+5 I have worked in the minerals industry for over 20 years on a variety of mine 
+production and exploration projects with Junior and Senior companies and as a 
+Consultant. I have held senior management roles ranging from Project 
+Manager, to Senior Mine Geologist to VP Project Development, to President 
+and Director of a public mining exploration company. My experience includes 
+mineral exploration, advanced exploration and mine development, 
+underground mine production, mineral resource estimation, Pre-Feasibility and 
+Feasibility Studies, permitting and environmental compliance. I have managed 
+or consulted on precious and base metal projects in a variety of geological, and 
+business, environments in North America, Central and South America, the 
+Caribbean, Asia, and Europe. 
+
+6 I have read National Instrument 43-101 and, by reason of education, 
+experience and professional registration, I fulfill the requirements of a 
+Qualified Person as defined in NI 43-101. This technical report has been 
+prepared in compliance with NI 43-101. 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 72 
+
+7 I have not visited the San Antonio project. 
+
+8 I have had no prior involvement with the mineral property in question. 
+
+9 As of the date of this certificate, to the best of my knowledge, information and 
+belief, the technical report contains all scientific and technical information that 
+is required to be disclosed to make the technical report not misleading. 
+
+10 I am independent of the parties involved in the transaction for which this report 
+is required, other than providing consulting services. 
+
+Dated this 30th day of June, 2008 
+
+(signed)     'Dave Laudrum' . 
+Signature of Qualified Person  
+
+Dave Laudrum, P.Geo.    (Professional Seal) 
+Name of Qualified Person 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 73 
+
+APPENDIX 1. (List of Drill Hole intersections used in the Mineral Resource Estimates for 
+the Los Planes and Las Colinas Zones)
+
+Drill hole intercepts - Los Planes Zones 
+HOLE-ID ZONE FROM TO LENGTH AU 
+
+ZONE_B 18.29 36.58 18.29 1.50
+07PLRC-01 
+
+ZONE_A 92.96 149.35 56.39 1.65
+07PLRC-02 ZONE_A 43.59 109.12 65.53 0.94
+07PLRC-03 ZONE_A 56.44 116.06 59.62 1.53
+
+ZONE_B 57.30 78.64 21.34 1.21
+07PLRC-04 
+
+ZONE_A 106.07 177.70 71.63 1.52
+ZONE_B 74.07 156.36 82.29 1.05
+
+07PLRC-05 
+ZONE_A 171.60 189.89 18.29 3.79
+
+07PLRC-07 ZONE_A 218.24 299.31 81.07 3.64
+07PLRC-09 ZONE_A 155.75 232.56 76.81 2.15
+07PLRC-10 ZONE_A 241.71 255.36 13.65 1.41
+
+ZONE_A 100.89 177.09 76.20 0.70
+07PLRC-11 
+
+ZONE_A 210.62 244.14 33.52 1.05
+07PLRC-12 ZONE_A 79.86 111.86 32.00 2.80
+07PLRC-13 ZONE_A 66.14 107.29 41.15 0.91
+07PLRC-14 ZONE_A 24.99 82.91 57.92 0.51
+
+ZONE_B 11.28 18.90 7.62 0.88
+07PLRC-15 
+
+ZONE_A 53.95 70.71 16.76 0.67
+ZONE_B 17.37 43.28 25.91 0.57
+
+07PLRC-16 
+ZONE_A 93.57 172.82 79.25 1.31
+ZONE_B 78.33 104.24 25.91 1.47
+
+07PLRC-17 
+ZONE_A 127.10 207.87 80.77 1.05
+ZONE_B 172.82 235.20 62.38 1.20
+
+07PLRC-18 
+ZONE_A 238.35 262.74 24.39 0.71
+
+07PLRC-19 ZONE_B 20.42 67.67 47.25 0.34
+ZONE_B 20.42 79.86 59.44 1.92
+
+07PLRC-20 
+ZONE_A 87.48 172.82 85.34 1.37
+
+07PLRC-21 ZONE_A 38.71 148.44 109.73 1.57
+ZONE_B 50.60 64.28 13.68 0.50
+ZONE_A 90.13 106.20 16.07 1.0907PLRC-22 
+
+ZONE_A 138.76 170.69 31.92 0.12
+ZONE_B 18.56 35.28 16.72 0.75
+ZONE_A 48.96 80.88 31.92 1.0407PLRC-23 
+
+ZONE_A 81.10 100.16 19.05 0.16
+ZONE_B 38.59 64.43 25.84 0.82
+
+07PLRC-24 
+ZONE_A 103.95 205.79 101.84 0.87
+ZONE_B 15.36 16.69 1.33 0.01
+
+07PLRC-25 
+ZONE_A 64.28 152.44 88.16 2.44
+
+07PLRC-26 ZONE_A 41.36 47.44 6.08 0.97
+07PLRC-27 ZONE_A 62.74 73.38 10.64 1.99
+07PLRC-28 ZONE_A 85.52 111.36 25.84 1.66
+07PLRC-29 ZONE_A 64.36 122.12 57.76 1.13
+07PLRC-31 ZONE_B 40.00 74.96 34.96 1.42
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 74 
+
+Drill hole intercepts - Los Planes Zones 
+HOLE-ID ZONE FROM TO LENGTH AU 
+
+07PLRC-31 ZONE_A 90.16 129.68 39.52 1.38
+ZONE_B 6.46 15.58 9.12 1.31
+
+07PLRC-32 
+ZONE_A 49.02 70.30 21.28 0.90
+
+07PLRC-33 ZONE_A 143.78 201.34 57.56 1.39
+07PLRC-34 ZONE_A 63.09 133.72 69.10 1.41
+07PLRC-35 ZONE_A 81.38 132.73 51.35 0.67
+07PLRC-36 ZONE_A 95.10 146.91 51.81 1.26
+07PLRC-37 ZONE_A 116.26 155.22 38.95 1.24
+07PLRC-38 ZONE_A 104.24 229.21 124.97 1.00
+07PLRC-40 ZONE_A 81.38 177.18 95.80 0.91
+07PLRC-41 ZONE_A 128.63 177.39 48.76 1.49
+
+ZONE_B 43.27 63.08 19.81 1.23
+07PLRC-43 
+
+ZONE_A 102.70 238.34 135.64 1.02
+07PLRC-45 ZONE_A 32.61 67.69 35.08 0.84
+07PLRC-46 ZONE_A 20.42 52.43 32.01 1.01
+07PLRC-47 ZONE_A 26.52 48.52 22.00 0.65
+
+ZONE_B 14.33 79.86 65.53 0.83
+07PLRC-48 
+
+ZONE_A 87.48 134.72 47.24 2.26
+07PLRC-49 ZONE_A 55.47 98.15 42.67 1.53
+
+ZONE_B 146.90 149.96 3.06 0.91
+07PLRC-50 
+
+ZONE_A 171.31 273.41 102.10 1.34
+ZONE_B 82.91 134.72 51.81 1.43
+
+07PLRC-51 
+ZONE_A 157.58 207.88 50.30 1.88
+ZONE_B 38.71 73.76 35.05 0.56
+
+07PLRC-52 
+ZONE_A 102.72 149.96 47.24 1.15
+ZONE_B 109.73 138.68 28.95 0.44
+
+07PLRC-53 
+ZONE_A 150.88 216.41 65.53 0.41
+ZONE_B 44.20 48.43 4.23 4.15
+ZONE_B 50.84 51.82 0.98 1.0007PLRC-54 
+
+ZONE_A 117.35 140.21 22.86 1.04
+ZONE_B 27.43 29.68 2.25 2.94
+ZONE_B 31.68 36.58 4.90 0.6907PLRC-55 
+
+ZONE_A 64.01 85.34 21.33 0.31
+07PLRC-56 ZONE_A 125.58 131.67 6.09 0.69
+
+ZONE_B 15.36 16.55 1.19 0.02
+07PLRC-57 
+
+ZONE_A 46.33 102.72 56.39 1.12
+ZONE_B 21.95 26.52 4.57 0.48
+
+07PLRC-58 
+ZONE_A 75.29 146.91 71.62 1.47
+ZONE_B 90.53 95.10 4.57 1.45
+
+07PLRC-59 
+ZONE_A 124.05 239.88 115.83 1.66
+ZONE_B 90.53 117.96 27.43 2.77
+
+07PLRC-60 
+ZONE_A 174.35 224.65 50.29 0.65
+ZONE_B 123.40 180.44 57.04 3.65
+
+07PLRC-62 
+ZONE_A 192.63 234.06 41.43 1.11
+
+07PLRC-63 ZONE_A 287.12 323.70 36.58 0.62
+07PLRC-65 ZONE_A 273.41 305.41 32.00 0.78
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 75 
+
+Drill hole intercepts - Los Planes Zones 
+HOLE-ID ZONE FROM TO LENGTH AU 
+
+07PLRC-67 ZONE_A 38.71 61.58 22.86 0.88
+07PLRC-68 ZONE_A 114.91 178.92 64.01 1.65
+
+ZONE_B 14.33 70.44 56.11 0.26
+07PLRC-69 
+
+ZONE_A 90.53 119.48 28.95 1.47
+ZONE_B 24.99 55.34 30.34 0.66
+
+07PLRC-70 
+ZONE_A 70.71 104.24 33.53 0.74
+ZONE_B 47.85 63.09 15.24 0.63
+
+07PLRC-71 
+ZONE_A 99.54 174.04 74.50 0.15
+ZONE_B 30.36 53.56 23.20 0.02
+
+07PLRC-72 
+ZONE_A 84.34 192.57 108.22 0.81
+ZONE_B 116.43 133.20 16.77 3.68
+
+07PLRC-73 
+ZONE_A 162.15 212.45 50.30 0.75
+
+LCDD-18 ZONE_B 108.20 186.08 77.88 1.37
+LCDD-19 ZONE_B 42.98 114.00 71.02 0.77
+LCDD-20 ZONE_A 59.13 96.62 35.66 0.25
+LCW-24 ZONE_B 34.14 51.82 17.68 0.55
+
+ZONE_B 120.00 163.50 43.50 0.48
+SA97-111 
+
+ZONE_A 193.50 243.86 50.36 0.43
+ZONE_B 22.50 52.50 30.00 0.68
+
+SA97-112 
+ZONE_A 63.59 83.50 19.91 0.50
+
+SA97-116 ZONE_A 228.74 246.31 17.57 0.46
+ZONE_B 113.21 141.00 27.79 1.26
+
+SA97-120 
+ZONE_A 169.50 226.50 57.00 0.69
+ZONE_B 229.50 238.50 9.00 0.72
+
+SA97-123 
+ZONE_A 307.50 360.00 52.50 0.68
+
+Drill hole intercepts - Las Colinas Zone 
+HOLE-ID FROM TO LENGTH AU 
+
+LCDD-09 48.16 81.08 32.92 1.23
+LCDD-11 32.77 57.91 25.14 1.09
+LCDD-12 76.81 113.39 36.58 0.75
+LCDD-13 29.57 44.93 15.36 0.57
+LCDD-22 120.09 156.06 35.97 0.75
+SA96-100 19.50 48.00 28.50 0.94
+SA96-101 162.00 192.00 30.00 0.92
+SA96-102 115.50 144.00 28.50 0.93
+SA96-106 190.50 210.00 19.50 0.86
+SA96-108 184.50 217.50 33.00 0.47
+SA96-81 37.50 75.00 37.50 0.83
+SA96-82 72.00 91.50 19.50 1.28
+SA96-89 151.50 199.50 48.00 0.72
+SA96-91 133.50 169.50 36.00 1.47
+SA96-92 33.00 61.50 28.50 0.55
+SA96-97 124.50 153.00 28.50 1.06
+SA96-98 120.00 154.50 34.50 1.08
+SA97-114 94.50 114.00 19.50 0.82
+SA97-115 27.00 91.50 64.50 0.54
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 76 
+
+APPENDIX 2. (Figures and Tables) 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 77 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 78 
+
+
+
+D
+e
+
+rr
+y,
+
+ M
+ic
+
+h
+e
+
+n
+e
+
+r,
+ B
+
+o
+o
+
+th
+ &
+
+ W
+a
+h
+
+l 
+C
+
+o
+n
+
+s
+u
+
+lt
+a
+n
+
+ts
+ L
+
+td
+. 
+
+ 
+P
+
+a
+g
+
+e
+ 7
+
+9
+ 
+
+
+
+D
+e
+
+rr
+y,
+
+ M
+ic
+
+h
+e
+
+n
+e
+
+r,
+ B
+
+o
+o
+
+th
+ &
+
+ W
+a
+h
+
+l 
+C
+
+o
+n
+
+s
+u
+
+lt
+a
+n
+
+ts
+ L
+
+td
+. 
+
+ 
+P
+
+a
+g
+
+e
+ 8
+
+0
+ 
+
+
+
+D
+e
+
+rr
+y,
+
+ M
+ic
+
+h
+e
+
+n
+e
+
+r,
+ B
+
+o
+o
+
+th
+ &
+
+ W
+a
+h
+
+l 
+C
+
+o
+n
+
+s
+u
+
+lt
+a
+n
+
+ts
+ L
+
+td
+. 
+
+ 
+P
+
+a
+g
+
+e
+ 8
+
+1
+ 
+
+
+
+D
+e
+
+rr
+y,
+
+ M
+ic
+
+h
+e
+
+n
+e
+
+r,
+ B
+
+o
+o
+
+th
+ &
+
+ W
+a
+h
+
+l 
+C
+
+o
+n
+
+s
+u
+
+lt
+a
+n
+
+ts
+ L
+
+td
+. 
+
+ 
+P
+
+a
+g
+
+e
+ 8
+
+2
+ 
+
+
+
+D
+e
+
+rr
+y,
+
+ M
+ic
+
+h
+e
+
+n
+e
+
+r,
+ B
+
+o
+o
+
+th
+ &
+
+ W
+a
+h
+
+l 
+C
+
+o
+n
+
+s
+u
+
+lt
+a
+n
+
+ts
+ L
+
+td
+. 
+
+ 
+P
+
+a
+g
+
+e
+ 8
+
+3
+ 
+
+
+
+D
+e
+
+rr
+y,
+
+ M
+ic
+
+h
+e
+
+n
+e
+
+r,
+ B
+
+o
+o
+
+th
+ &
+
+ W
+a
+h
+
+l 
+C
+
+o
+n
+
+s
+u
+
+lt
+a
+n
+
+ts
+ L
+
+td
+. 
+
+ 
+P
+
+a
+g
+
+e
+ 8
+
+4
+ 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 85 
+
+Table 14.7 Comparison Acme Labs and ALS Chemex Geochem. results. 
+
+    (Original) (Check assay) 
+
+DEPTH   Chemex  AcmeLabs 
+DH From (m) To (m) Sample Au (g/t)  Au (g/t) 
+
+53.95 55.47 144239  0.263  0.12
+STD-OXC58  144240  0.195  0.39
+
+55.47 57.00 144241  0.021  0.005
+57.00 58.52 144242  0.0025  0.005
+58.52 60.05 144243  0.0025  0.005
+145.39 146.91 144306  0.268  0.37
+146.91 148.44 144307  1.17  0.67
+148.44 149.96 144308  0.647  0.55
+149.96 151.49 144309  0.073  0.11
+
+BLK  144310  0.008  0.005
+188.06 189.59 144337  1.465  1.46
+189.59 191.11 144338  1.07  1.14
+191.11 192.63 144339  1.315  1.52
+
+BLK  144340  0.013  0.005
+
+07PLRC-50 
+
+192.63 194.16 144341  1.44  1.28
+64.62 66.14 144717  0.884  0.54
+66.14 67.67 144718  0.147  0.11
+67.67 69.19 144719  0.686  0.72
+BLK  144720  0.0025  0.005
+
+69.19 70.71 144721  0.838  0.6
+131.67 133.20 144766  0.984  0.99
+133.20 134.72 144767  0.515  0.48
+134.72 136.25 144768  1.18  1.36
+136.25 137.77 144769  0.773  0.71
+
+STD-SG31  144770  0.942  0.97
+204.83 206.35 144819  0.022  0.03
+
+DUPLICATE  144820  0.032  0.03
+206.35 207.87 144821  0.03  0.02
+207.87 209.40 144822  0.016  0.02
+
+07PLRC-52 
+
+209.40 210.92 144823  0.009  0.005
+
+11.28 12.80 307668  0.0025  0.06
+
+12.80 14.33 307669  0.0025  0.14
+
+STD-OXD43  307670  0.387  0.41
+
+14.33 15.85 307671  0.0025  0.52
+
+15.85 17.37 307672  0.0025  0.41
+
+64.62 66.14 307707  0.045  0.04
+
+66.14 67.67 307708  1.21  0.95
+
+67.67 69.19 307709  1.765  1.69
+
+BLK  307710  0.0025  0.005
+
+69.19 70.71 307711  0.952  0.85
+
+95.10 96.62 307729  0.332  0.39
+
+STD-OXD43  307730  0.442  0.41
+
+07PLRC-13 
+
+96.62 98.15 307731  0.392  0.28
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 86 
+
+    (Original) (Check assay) 
+
+DEPTH   Chemex  AcmeLabs 
+DH From (m) To (m) Sample Au (g/t)  Au (g/t) 
+
+98.15 99.67 307732  0.802  0.81
+07PLRC-13 
+
+99.67 101.19 307733  2.07  2.03
+BLK  308452  0.0025  0.005
+
+28.04 29.57 308453  0.552  0.28
+29.57 31.09 308454  1.87  1.92
+31.09 32.61 308455  0.983  0.52
+32.61 34.14 308456  41.5  37.95
+105.77 107.29 308509  0.841  0.8
+107.29 108.81 308510  0.713  0.65
+108.81 110.34 308511  0.839  0.9
+
+BLK  308512  0.006  0.005
+110.34 111.86 308513  0.014  0.005
+148.44 149.96 308540  7.245  5.37
+149.96 151.49 308541  3.19  2.34
+
+BLK  308542  0.0025  0.005
+151.49 153.01 308543  2.77  2.11
+
+07PLRC-20 
+
+153.01 154.53 308544  1.16  1.23
+
+12.60 14.12 309066  0.139  0.12
+
+STD-OXD43  309067  0.406  0.41
+
+14.12 15.64 309068  0.01  0.005
+
+15.64 17.16 309069  0.013  0.005
+
+17.16 18.68 309070  0.007  0.005
+
+64.28 65.80 309104  3.14  2.73
+
+65.80 67.32 309105  0.961  0.66
+
+67.32 68.84 309106  0.268  0.38
+
+BLK  309107  0.0025  0.005
+
+68.84 70.36 309108  3.15  3.4
+
+90.12 91.64 309123  7.66  7.59
+
+91.64 93.16 309124  0.822  0.68
+
+93.16 94.68 309125  1.655  1.49
+
+94.68 96.20 309126  1.115  1.16
+
+07PLRC-25 
+
+STD-SG31  309127  1.01  0.98
+
+23.22 24.74 309286  0.014  0.01
+
+24.74 26.26 309287  0.022  0.03
+
+26.26 27.78 309288  0.027  0.02
+
+BLK  309289  0.0025  0.005
+
+27.78 29.30 309290  0.026  0.07
+
+65.78 67.30 309317  5.69  5.82
+
+67.30 68.82 309318  2.19  1.03
+
+BLK  309319  0.0025  0.005
+
+68.82 70.34 309320  0.75  0.78
+
+70.34 71.86 309321  0.868  0.76
+
+134.18 135.70 309367  0.0025  0.005
+
+135.70 137.22 309368  0.0025  0.005
+
+07PLRC-27 
+
+STD-SG31  309369  0.985  0.98
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 87 
+
+    (Original) (Check assay) 
+
+DEPTH   Chemex  AcmeLabs 
+DH From (m) To (m) Sample Au (g/t)  Au (g/t) 
+
+137.22 138.74 309370  0.0025  0.005
+07PLRC-27 
+
+138.74 140.26 309371  0.048  0.06
+25.91 27.43 310266  0.013  0.005
+
+BLK  310267  0.005  0.005
+27.43 28.96 310268  0.031  0.04
+28.96 30.48 310269  0.012  0.01
+30.48 32.00 310270  0.012  0.005
+79.86 81.38 310305  0.194  0.21
+81.38 82.91 310306  0.258  0.27
+
+DUPLICATE  310307  0.359  0.39
+82.91 84.43 310308  0.535  0.78
+84.43 85.95 310309  0.32  0.35
+122.53 124.05 310336  0.402  0.39
+
+DUPLICATE  310337  0.41  0.46
+124.05 125.58 310338  0.386  0.98
+125.58 127.10 310339  1.465  0.91
+
+07PLRC-35 
+
+127.10 128.63 310340  0.93  0.78
+52.20 53.72 311163  0.007  0.005
+53.72 55.25 311164  0.017  0.01
+55.25 56.77 311165  0.014  0.005
+56.77 58.29 311166  0.02  0.005
+
+DUPLICATE  311167  0.019  0.005
+108.81 110.34 311204  0.769  0.43
+110.34 111.86 311205  0.025  0.02
+111.86 113.39 311206  0.01  0.005
+
+STD-OXC58  311207  0.183  0.4
+113.39 114.91 311208  0.011  0.005
+
+BLK  311217  0.009  0.005
+127.10 128.63 311218  0.011  0.005
+128.63 130.15 311219  3.49  3.12
+130.15 131.67 311220  4.51  4.37
+
+07PLRC-41 
+
+131.67 133.20 311221  3.06  2.92
+
+STD-OXD57  416176  0.403  0.41
+
+13.72 15.24 416177  0.013  0.005
+
+15.24 16.76 416178  0.016  0.01
+
+16.76 18.29 416179  0.031  0.05
+
+18.29 19.81 416180  0.513  0.47
+
+64.01 65.53 416213  0.697  0.71
+
+65.53 67.06 416214  0.8  0.9
+
+67.06 68.58 416215  0.149  0.18
+
+BLK  416216  0.007  0.005
+
+68.58 70.10 416217  0.474  0.82
+
+118.87 120.40 416253  0.688  0.64
+
+120.40 121.92 416254  1.44  1.2
+
+07PLRC-55 
+
+121.92 123.44 416255  0.522  0.54
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 88 
+
+    (Original) (Check assay) 
+
+DEPTH   Chemex  AcmeLabs 
+DH From (m) To (m) Sample Au (g/t)  Au (g/t) 
+
+DUPLICATE  416256  0.618  0.59
+07PLRC-55 
+
+123.44 124.97 416257  0.069  0.06
+67.67 69.19 424093  0.0025  0.005
+BLK  424094  0.0025  0.005
+
+69.19 70.71 424095  0.0025  0.005
+70.71 72.24 424096  0.018  0.005
+72.24 73.76 424097  0.137  0.12
+131.67 133.20 424140  11.85  14.35
+133.20 134.72 424141  4.94  0.005
+134.72 136.25 424142  1.425  1.86
+136.25 137.77 424143  0.834  0.04
+
+STD-OXD57  424144  0.929  0.4
+297.79 299.31 424261  0.855  0.61
+299.31 300.84 424262  0.237  0.03
+300.84 302.36 424263  1.66  1.27
+
+STD-SG31  424264  0.939  0.98
+
+07PLRC-63 
+
+302.36 303.89 424265  0.586  0.61
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 89 
+
+Appendix 3. (Documents) 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 90 
+
+
+
+Derry, Michener, Booth & Wahl Consultants Ltd.  Page 91 
+
+
+'

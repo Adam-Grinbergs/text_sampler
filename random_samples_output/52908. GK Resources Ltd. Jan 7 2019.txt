@@ -1,0 +1,2882 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - IronLake_43_101_July18_2018.docx
+
+
+NI 43-101 Technical Report 
+
+ON THE 
+
+Iron Lake Project 
+
+CLINTON MINING DIVISION, B.C. 
+
+NTS: 092P096 
+
+Latitude 510 57' N, Longitude 1200 54' W 
+
+UTM 645500E, 5757000N (NAD 83Zn10) 
+
+On Behalf Of 
+
+GK Resources Ltd 
+
+Suite 800 – 1199 West Hastings Street 
+
+Vancouver, BC 
+
+V6E 3T5 
+
+by 
+
+B. L. Laird P.Geo.
+
+Mincord Exploration Consultants Ltd. 
+
+Suite 110 – 325 Howe Street 
+
+Vancouver BC 
+
+V6C 1Z7 
+
+July 18, 2018
+
+
+
+
+
+Certificates of Author 
+
+ 
+
+I, Bruce Lawrence Laird, do hereby certify that; 
+
+ 
+
+I am currently employed as a Consulting Geologist contracting with Mincord Exploration Consultants Ltd. with a 
+
+business address at Suite 110, 325 Howe Street, Vancouver, BC. Canada, V6C 1Z7. 
+
+ 
+
+I am a graduate of University of British Columbia with a Bachelor of Science, 1984, in Geology. 
+
+ 
+
+I am a member of the Engineers and Geoscientists of British Columbia (P.Geo.), registration number 21581. 
+
+ 
+
+I have practised my profession since graduation in Canada, the Western USA, Mexico, the Caribbean and 
+
+Central America. I have worked extensively in central British Columbia exploring for massive sulfide base and 
+
+precious metals and copper (gold, molybdenum) porphyry mineralization. Exploration techniques that I have 
+
+utilized include geological mapping, geochemical surveying and geophysical surveying (both ground based and 
+
+airborne). I have worked at various times both as an employee of major and junior mining companies and as a 
+
+consultant. Companies that I have been employed by include BHP Minerals and Rio Algom Exploration. I have 
+
+extensive experience in the British Columbia exploration permitting process. 
+
+ 
+
+I supervised work on the Iron Lake Project in July of 2013. A current site visit was performed on July 11, 2018. 
+
+ 
+
+I have read the definition of "qualified person" as set out in National Instrument 43-101 ("NI 43-101") and 
+
+certify by reason of my education, relevant past work experience and affiliation with a professional association 
+
+(as defined in NI 43-101) that I fulfill the requirements to be such a "qualified person". I have authored the 
+
+technical report titled NI 43-101 Technical Report On the Iron Lake Project, Clinton Mining Division BC, dated 
+
+July 18th, 2018. Report was revised November 16th, 2018.  
+
+ 
+
+I have read National Instrument 43-101 and Form 43-101F and the Technical Report has been prepared in 
+
+compliance with that instrument and form. 
+
+ 
+
+At the time of writing and the signing date of this Technical Report I was independent of the property optionor 
+
+(Eastfield Resources Ltd.) and independent of the property optionee (GK Resources Ltd.) as defined under NI 
+
+43-101 guidelines and section 1.5 of those guidelines.  
+
+ 
+
+I am not aware of any material fact or material change with respect to the subject matter of this Technical 
+
+Report that is not reflected in the Technical Report, the omission of which makes the Technical Report 
+
+misleading. 
+
+ 
+
+To the best of my knowledge and information this Technical Report contains all of the scientific and technical 
+
+information that is required to be disclosed to make the Technical Report not misleading. I am not aware of any 
+
+material excluded from this report that would make this report misleading. I take responsibility for all sections 
+
+of this Technical Report. 
+
+ 
+
+
+
+
+
+Table of Contents 
+
+1: Summary ............................................................................................................................................................... 1 
+
+2: Introduction .......................................................................................................................................................... 2 
+
+3: Reliance on Other Experts .................................................................................................................................... 2 
+
+4: Property Description and Location ....................................................................................................................... 4 
+
+5: Accessibility, Climate, Local Resources, Infrastructure and Physiography............................................................ 7 
+
+6: History .................................................................................................................................................................. 7 
+
+7: Geological Setting ............................................................................................................................................... 20 
+
+8: Deposit Type ....................................................................................................................................................... 23 
+
+8.1 Platinum Group Rich Mafic-Ultramafic Hosted Copper-Cobalt-Nickel: ..................................................23 
+
+8.2 Structurally Controlled Arsenical Gold: ...................................................................................................23 
+
+9: Exploration .......................................................................................................................................................... 23 
+
+10: Drilling............................................................................................................................................................... 24 
+
+11: Sample Preparation and Analysis ..................................................................................................................... 24 
+
+12: Data Verification ............................................................................................................................................... 24 
+
+13: Mineral Processing and Metallurgical Testing .................................................................................................. 25 
+
+14: Mineral Resource Estimates ............................................................................................................................. 25 
+
+15: Mineral Reserve Estimates ............................................................................................................................... 25 
+
+16: Mining Methods ............................................................................................................................................... 25 
+
+17: Recovery Methods ............................................................................................................................................ 25 
+
+18: Project Infrastructure ....................................................................................................................................... 25 
+
+19: Market Studies and Contracts .......................................................................................................................... 25 
+
+20: Environmental Studies, Permitting and Social or Community Impact ............................................................. 25 
+
+21: Capital Operating Costs .................................................................................................................................... 26 
+
+22: Economic Analysis ............................................................................................................................................ 26 
+
+23: Adjacent Properties .......................................................................................................................................... 26 
+
+24: Other Relative Data and Information ............................................................................................................... 26 
+
+25: Interpretation and Conclusions ........................................................................................................................ 26 
+
+26: Recommendations and Budgets ....................................................................................................................... 27 
+
+27: References ........................................................................................................................................................ 29 
+
+ 
+
+  
+
+
+
+Index of Tables 
+
+Table 1: Significant Massive Sulfide Drill Results ...................................................................................... 1 
+
+Table 2: Option Agreement Terms ............................................................................................................. 4 
+
+Table 3: Iron Lake Tenure Status ................................................................................................................ 4 
+
+Table 4: Disseminated Mineralized Rubble ............................................................................................. 10 
+
+Table 5: Drill Hole Locations and Orientations ........................................................................................ 18 
+
+Table 6: Massive Sulfide Drill Intercepts .................................................................................................. 18 
+
+Table 7: Other Mineralized Drill Intercepts ............................................................................................. 18 
+
+Table 8: Phase I Budget ........................................................................................................................... 28 
+
+ 
+
+Index of Figures 
+
+Figure 1: Location Map ............................................................................................................................. 3 
+
+Figure 2: Claim Map .................................................................................................................................. 6 
+
+Figure 3: 2004 Airborne Magnetics with EM Conductors ....................................................................... 11 
+
+Figure 4: IP with Proposed Drilling .......................................................................................................... 12 
+
+Figure 5: Copper In Soils .......................................................................................................................... 13 
+
+Figure 6: Platinum In Soils ....................................................................................................................... 14 
+
+Figure 7: Palladium In Soils ..................................................................................................................... 15 
+
+Figure 8: Gold In Soils .............................................................................................................................. 16 
+
+Figure 9: Arsenic In Soils .......................................................................................................................... 17 
+
+Figure 10: Historical Drilling .................................................................................................................... 19 
+
+Figure 11: Regional Geology ................................................................................................................... 21 
+
+Figure 12: Local Geology ......................................................................................................................... 22 
+
+ 
+
+ 
+
+ 
+
+
+
+B.L. Laird P.Geo             1 
+
+1:0 Summary 
+
+The Iron Lake Project, located in south central British Columbia, comprised of 21 mineral claims, is a regionally 
+
+distinct copper, cobalt, gold and platinum group elements project encompassing an area of 8,035 hectares 
+
+(19,855 acres) 45 kilometres northeast of the City of 100 Mile House, BC.  
+
+ 
+
+GK Resources Ltd has proposed an option agreement with Eastfield Resources Ltd to earn a 60% interest in the 
+
+Iron Lake Property. To earn the 60% interest GK is required to complete $3,000,000 in exploration, pay 
+
+$400,000 in cash and $250,000 in cash/share equivalents over a five year term. A minimum $100,000 program 
+
+is required in the first year.  
+
+ 
+
+Iron Lake covers a mafic to ultramafic intrusive body of early Jurassic age occurring in proximity to a slightly 
+
+older granodiorite batholith that has been determined to be Upper Triassic Early Jurassic. Field relationships 
+
+support the interpretation that the mafic to ultramafic body, named the Iron Lake Complex, intrudes the 
+
+granodiorite batholith and presumably also the surrounding volcanic rocks belonging to the Nicola Group, both 
+
+of which are part of the Quesnel Terrane. 
+
+ 
+
+The Iron Lake Complex hosts disseminated and massive sulfide mineralization of a probable magmatic source 
+
+that is significant for its copper, cobalt, gold, platinum, palladium and to a lesser extent nickel content. A 
+
+prominent aeromagnetic high covering several square kilometres centred on the complex resulted in 
+
+exploration starting in the mid 1970's directed at porphyry copper. Significant platinum and palladium 
+
+anomalies were discovered in soils in the late 1980's.  
+
+ 
+
+In 2000 mineralized olivine pyroxenite rubble was discovered while prospecting a 1989 soil site which had 
+
+returned a value of 392 ppb Pd (Buskas, 1989). In 2001, prospecting initiatives had located mineralized float 
+
+returning 0.59% Cu, 0.53g/t Au, 0.31g/t Pd+Pt and 377 ppm Ni (Morton, 2001). The bedrock source has not yet 
+
+been identified. 
+
+ 
+
+In 2004 a helicopter borne airborne survey was completed over much of the claim group and a number of 
+
+conductors identified some of which were further detailed by a 2006 UTEM ground survey.  Targets from both 
+
+surveys were drill tested in 2005 and 2006 with two 1.4 metre intervals (holes 05-I-02 and 05-I-03) (Morton 
+
+2006) and one 2.3 metre interval (hole IL-06-05) (Morton and Carter, 2007) of pyrrhotite dominant massive 
+
+sulfide being intersected. Base metal values, while low to moderate in grade indicate that the sulfide mix 
+
+includes copper, nickel and cobalt consistent with a magmatic sulfide model. Drill intercepts may not be 
+
+indicative of true thickness. 
+
+Table 1: Significant Massive Sulfide Drill Results 
+
+Hole From (metres) Interval (metres) Cu (%) Ni (ppm) Co (ppm) Pt+Pd (ppb) Fe (%) Mg (%) 
+
+05-I-02 75.2 1.4 0.66 299 1349 23 47.5 0.05 
+
+05-I-03* 32.9 17 0.34 362 270 24 23.7 1.1 
+
+Including 47.8 1.4 0.95 927 836 5 55.7 0.1 
+
+
+
+B.L. Laird P.Geo             2 
+
+Hole From (metres) Interval (metres) Cu (%) Ni (ppm) Co (ppm) Pt+Pd (ppb) Fe (%) Mg (%) 
+
+IL-06-05 73.5 2.3 0.54 170 366 13 0.3 0.8 
+
+IL-06-06 136.2 2.1 1.4 125 246 24 9.3 0 
+
+* interval contains 60% discrete massive sulfide sections interspersed with pyroxenite 
+
+ 
+
+Two styles of magmatic sulfide mineralization present opportunities for discovery at Iron Lake. The first being 
+
+disseminated sulfide with economically significant values of copper, gold, platinum and palladium; and the 
+
+second massive sulfide with economically significant values in copper, nickel and cobalt. A hybrid of the two 
+
+styles of mineralization with the full suite of elements is also possible.  
+
+ 
+
+In 2016 claims were added on the southeastern side of the property to capture an area of arsenical gold 
+
+mineralization associated with megacrystic feldspar porphyry intruding Jurassic age mafic volcanic and 
+
+volcaniclastic rocks. Soil values in this area reach 12 grams per tonne gold and select rock samples reach 74.9 
+
+grams per tonne gold. In 2016 ten kilometres of flagged geochemical grid line was established and soil sampled. 
+
+Results included up to 31.22 g/t gold in rock (grab sample from historical Cate Showing) and up to 1.21 g/t gold 
+
+with 5,013 ppm arsenic in soil (Johnston, 2017). 
+
+2.0: Introduction 
+
+The author, B.L. Laird P.Geo. has been commissioned by GK Resources Ltd., to prepare a NI 43-101 compliant 
+
+report on the Iron Lake Project located in south central British Columbia. The author is a "Qualified Person", as 
+
+defined by the definitions of the Standards for Disclosure for Mineral Projects. The author is independent, of 
+
+both the Optioner, Eastfield Resources Ltd.  and the Optionee, GK Resources Ltd.  
+
+B.L. Laird has conducted field work (mapping, prospecting sampling) at the Iron Lake Project, most recently on 
+
+July 28, 2013 and conducted a site visit of the project area on July 11, 2018. During the site visit the author 
+
+inspected historical drill sites and confirmed the presence of the grid lines in the most recent (2015) grid work. 
+
+The Author has been involved in the porphyry copper and massive sulfide exploration field work in British 
+
+Columbia, the United States, the Caribbean and Central America since 1984. Information sources for this report 
+
+draw on reports written by Eastfield Resources and by assessment work reports on file with the British 
+
+Columbia Ministry of Energy and Mines. 
+
+B.L. Laird P.Geo. is responsible for all sections of this report. 
+
+3.0: Reliance on Other Experts 
+
+The author has not drawn on any report, opinion or statement regarding legal, environmental, political or other 
+
+factors during the preparation of this report except those that are referenced herein. 
+
+
+
+
+
+B.L. Laird P.Geo             4 
+
+4.0: Property Description and Location 
+
+The Iron Lake property, covering some 8,035 hectares, is located in the Clinton Mining Division of southern 
+
+British Columbia (Figure 1). The property is situated 45 kilometres northeast of the City of 100 Mile House at 
+
+latitude 510 57'N longitude 1200 54'W (UTM 645500E 575700N NAD83 Zone 10). The Iron Lake property is 
+
+comprised of 21 mineral claims owned 100% by Eastfield Resources Ltd.  subject to a 1.5% NSR (reducible to 
+
+0.5%). Claims are shown on Figure 2 and listed in Table 3. 
+
+To earn the 60% interest, GK is required to complete $3,000,000 in exploration, pay $400,000 in cash and 
+
+$250,000 in cash/share equivalents over a five year term. A minimum $100,000 program is required in the first 
+
+year. The terms of the option agreement with cash payments, share payments and work commitments are 
+
+outlined in Table 2. 
+
+Table 2: Option Agreement Terms 
+
+Term Cash Shares* Work Commitment 
+
+Upon Signing $20,000   
+
+1st Anniversary $30,000  $100,000 
+
+2nd Anniversary $50,000 $25,000 $300,000 
+
+3rd Anniversary $75,000 $50,000 $600,000 
+
+4th Anniversary $100,000 $75,000 $1,000,000 
+
+5th Anniversary $125,000 $100,000 $1,000,000 
+
+*Shares will be evaluated at the average closing price of the shares for ten business days immediately preceding the anniversary date.  
+
+Table 3: Iron Lake Tenure Status 
+
+Tenure # Name Expiry Area (ha) Owner 
+
+506294 Norilsk 8 2020/Dec/30 498 Eastfield 
+
+506292 Norilsk 7 2020/Dec/30 498 Eastfield 
+
+506286 Norilsk 1 2020/Dec/30 498 Eastfield 
+
+506302 Norilsk 10 2020/Dec/30 398 Eastfield 
+
+504252 Iron 2020/Dec/30 418 Eastfield 
+
+513527 - 2021/Dec/30 637 Eastfield 
+
+513528 - 2021/Dec/30 819 Eastfield 
+
+506297 Norilsk 9 2020/Dec/30 498 Eastfield 
+
+516280 - 2020/Dec/30 578 Eastfield 
+
+374482 Iron Lake 1 2021/Dec/30 500 Eastfield 
+
+377521 Norilsk 5 2020/Dec/30 400 Eastfield 
+
+517528 Northstrip 2020/Dec/30 239 Eastfield 
+
+528293 Susan Lake 2020/Dec/30 498 Eastfield 
+
+
+
+B.L. Laird P.Geo  5 
+
+Tenure # Name Expiry Area (ha) Owner 
+
+530477 East Suzan 2020/Dec/30 239 Eastfield 
+
+856514 Senicar 2020/Dec/30 399 Eastfield 
+
+998924 Sucitin 2020/Dec/30 379 Eastfield 
+
+1041170 Goodasgold 2020/Dec/30 40 Eastfield 
+
+1044174 Gold Lake 2020/Dec/30 120 Eastfield 
+
+1047955 Cangold 2020/Dec/30 219 Eastfield 
+
+1047956 Bingo 2020/Dec/30 40 Eastfield 
+
+1047957 Eastside 2020/Dec/30 120 Eastfield 
+
+Total Area 8,035hectares (19,855 Acres) - Clinton Mining Division, BC 
+
+Several exploration permits have been issued to Eastfield over a number of years without difficulty allowing 
+
+Eastfield to conduct a wide range of activities including geophysical surveys, trenching, road construction 
+
+and diamond drilling. The most recent permit was issued on April 17, 2015, is valid until December 18, 2020, 
+
+and may be extended an additional two years. 
+
+
+
+6
+4
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+2
+,5
+
+0
+0
+ m
+
+E
+
+6
+4
+5
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+7
+,5
+
+0
+0
+ m
+
+E
+
+6
+5
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+5
+2
+,5
+
+0
+0
+ m
+
+E
+
+5,747,500 mN
+
+5,750,000 mN
+
+5,752,500 mN
+
+5,755,000 mN
+
+5,757,500 mN
+
+5,760,000 mN
+
+5,762,500 mN
+
+5,765,000 mN
+
+Susan Lake
+
+Judy Lake
+
+Succour Lake
+
+Squirrel Lake
+Roger Lake
+
+BeverlyLake
+
+Boomerang Lake
+
+Baldwin Lake
+
+Christmas Lake
+
+Schoolhouse Lake
+Drawing: 2
+
+Date: 7/13/2018
+
+Scale: 1:75000 Projection: UTM Zone 10 (NAD 83)
+
+Office:
+
+Author: BL
+
+3
+
+GK Resources Ltd
+
+Iron Lake Property
+
+Claim Map
+
+0 0.75 1.5
+
+kilometres
+
+506286
+
+Iron Lake Property Outline
+
+Iron Lake Claim with Tenure Number
+
+Legend
+
+
+
+B.L. Laird P.Geo             7 
+
+5.0: Accessibility, Climate, Local Resources, Infrastructure and Physiography 
+
+The Iron Lake property is accessible by paved roads to the settlement of Eagle Creek, then a further eight 
+
+kilometres along the all-weather Hendrix Lake Road provide access to the southern boundary of the property. 
+
+Recent logging and previously permitted exploration trails generally provide good access to much of the 
+
+property area. The climatic statistics for the area indicate annual temperatures ranging from -30°C to +30°C 
+
+with 100 to 150 centimetres of precipitation as both snow and rain.  
+
+The infrastructure available from the community of 100 Mile House and its surrounding communities are 
+
+strongly supported by the forest resource industry and would be expected to support the development of an 
+
+economic ore body if one was delineated on the Iron Lake property. Hydroelectric lines are in close proximity 
+
+(±10 km) to the project and there is a significant local supply of water from lakes and creeks on and in proximity 
+
+to the property. 
+
+This region consists of generally broad valleys and gently rolling hills. The elevations in this area range from 
+
+3000 feet (915 meters) to 4500 feet (1370 meters) above sea level. 
+
+The claims occupy a moist vegetative zone dominated by various coniferous (pine-spruce-fir) and deciduous 
+
+(birch-poplar) trees combined with variable undergrowth of brush. A significant portion of the Iron Lake 
+
+property and adjacent lands have recently been clear cut logged in response to a bark beetle epidemic. This 
+
+logging has been beneficial to the project in terms of improved access and occasionally new bedrock exposure. 
+
+6.0 History 
+
+The first documented exploration in the area of the prospect occurred in the early 1970's when Pickands 
+
+Mather and Company, an American based iron ore company (now Cliffs Natural Resources Inc.), conducted 
+
+exploration for porphyry copper. The area of the Iron Lake Prospect was targeted because of a 1968 
+
+government airborne survey which indicated a very strong airborne magnetic feature. An initial geochemical 
+
+survey outlined some modest copper anomalies and a six-hole diamond drill program was initiated in 1974. The 
+
+drill program did not result in significant porphyry copper intercepts being obtained but indicated that the 
+
+airborne magnetic anomaly was due to heavy accumulations of magnetite. The magnetite was found to occur 
+
+in mafic to ultramafic rocks (gabbro to olivine pyroxenite) in concentrations high enough to encourage the 
+
+company to complete a number of Davis Tube iron analyses to evaluate the potential of the property to host a 
+
+magnetite deposit. The magnetite content was ultimately determined to be too low and the claims were 
+
+allowed to expire in 1974 (Leonard, 1973). 
+
+
+
+B.L. Laird P.Geo             8 
+
+In 1975 the area was re-staked as the Sheri Claims by geologist/prospector Herb Wahl who had previously 
+
+managed the Pickands Mather office.  Wahl completed additional soil geochemical surveying and minor hand 
+
+trenching before abandoning the claims (Wahl, 1976).  
+
+In the late 1980's Canevex Resources Ltd., controlled by J.W. Morton and G.L. Garratt, staked the area of the 
+
+current Iron Lake claims. The property was first optioned to a private group and later to a public VSE company, 
+
+Cepeda Minerals Inc., which completed a program on the claims with an emphasis on gold, particularly around 
+
+the periphery of the intrusion. Platinum group metals were for the first time included in the analytical suite. 
+
+This work identified a number of significant palladium and platinum soil and rock anomalies including analysis 
+
+of 933 ppb platinum from select roadside rubble samples and 392 ppb palladium in soils (Buskas, 1989). Shortly 
+
+after completing this program Cepeda withdrew from the project and Canevex along with a privately-owned 
+
+company continued exploration and in 1989 completed an induced polarization survey over part of the 
+
+intrusion. Despite the detection of significant induced polarization anomalies, the claims were allowed to expire 
+
+in 1992.  
+
+Eastfield Resources Ltd. acquired the data base for the Iron Lake property and staked the area of the Iron Lake 
+
+occurrence in February 2000. In October 2000, Eastfield, while investigating soil palladium anomalies from the 
+
+1989 soil survey, discovered mineralized olivine-pyroxenite rubble containing significant disseminated bornite 
+
+and chalcopyrite. Two samples were collected from the rubble field with the first sample grading 0.59% Cu, 
+
+0.53g/t Au, 308 ppb Pt + Pd and 0.04% Ni, the second sample 0.56% Cu, 0.54g/t Au, 287 ppb Pt +Pd and 0.04% 
+
+Ni (Morton, 2001). 
+
+In 2001 Eastfield optioned the right to earn a 60% interest in the property to Lysander Minerals Corp who 
+
+conducted modest surface prospecting programs prior to terminating the option in 2002. 
+
+In 2003 Eastfield granted an option to Argent Mining Corp. (later Avion Resource Corp.) to earn an interest in 
+
+the project. Argent subsequently completed expansions to the 1989 soil grid in 2003 and in 2004 completed 
+
+603 line kilometres of helicopter borne geophysical survey including total field magnetics and multi-frequency 
+
+electromagnetics (DigHem). A large and very strong magnetic anomaly was outlined over an area 5 square 
+
+kilometres in extent within which 405 conductors were located of which 15 were interpreted to be caused by 
+
+discrete entities in bedrock (Dewonk, 2004). Airborne Magnetics with conductors is shown on Figure 3. 
+
+In 2005 Argent completed four diamond drill holes with two of the holes targeting electromagnetic conductors.  
+
+A massive sulfide intercept of 1.2 metres was obtained in the hole targeting the first electromagnetic anomaly 
+
+and an aggregate intercept of 1.4 metres of massive sulfide was obtained (within a 17-metre interval) in the 
+
+
+
+B.L. Laird P.Geo             9 
+
+hole targeting the second electromagnetic anomaly.  The massive sulfide intercepts were largely pyrrhotite with 
+
+lesser chalcopyrite. A 1.4 metre interval starting at 47.8 metres (hole 05-I-03) grades 0.95% copper, 927 ppm 
+
+nickel and 836ppm cobalt. The fourth hole of the 2005 program targeted an induced polarization response 
+
+indicated in the 1989 survey. This hole, drilled some distance to the east of the other holes encountered 
+
+olivine-pyroxenite which is believed to be the important lithology in hosting the platinum group mineralization 
+
+discovered in rubble in 2000 (Morton, 2006).  
+
+In 2006, Argent completed 17 kilometres of ground based UTEM survey. The UTEM survey was completed over 
+
+a portion of the property to the north and south of the first three 2005 drill holes but did not extend as far east 
+
+as the fourth hole. The survey was successful in further detailing and extending the lengths of the 2004 
+
+airborne anomalies and detecting weaker and deeper conductors missed by the 2004 survey.  In May and June 
+
+2006 five holes totalling 681 metres were completed in the general area of the 2005 drill holes with the first 
+
+two holes following up the massive sulfide discovery of 2005. The first of the 2006 holes was lost after the drill 
+
+string became stuck just as the prospective target zone was reached and the second hole was inadvertently 
+
+drilled parallel to the strike of the conductor at 900 to its design (driller error). Interestingly the second hole 
+
+never-the-less intersected a narrow zone of massive sulfide (Morton and Carter, 2007).  
+
+In 2007 a program of targeted prospecting was completed. A field crew consisting of two field technicians 
+
+systematically checked a number of anomalies indicated in the data set (predominantly originating from prior 
+
+geophysical surveys). 143 rock samples and 180 soil samples were collected.  
+
+In 2008, Cobre Exploration Corp. (later Calico Resource Corp.) entered into an option agreement with Eastfield 
+
+Resources Ltd. and the soil grid was expanded. A total of 478 soil samples were collected and analyzed. 
+
+In 2009, a program of excavator trenching, largely drawing from the 2007 program was completed. The depth 
+
+of overburden often proved to be deeper than expected and many attempts to reach bedrock failed.  
+
+In 2011 a program of rock sampling and reconnaissance induced polarization and magnetometer surveying was 
+
+completed over the magmatic sulfide prospective area. The predominant objective of the 2011 geophysical 
+
+survey was to investigate the contact between the Iron Lake Ultramafic Complex and the Takomkame Batholith. 
+
+Two new "IP" anomalies with corresponding magnetic anomalies along with several weaker ones were 
+
+identified (Morton, 2011b). 
+
+In 2012 the Hidden_one claims were staked contiguous to the north and west of the Iron Lake claims to cover 
+
+unexplored areas of the Takomkame Batholith thought to share commonalities with the Woodjam copper gold 
+
+
+
+B.L. Laird P.Geo             10 
+
+project located 40 kilometres to the northwest, currently being explored by Consolidated Woodjam Copper 
+
+Corp. Later in 2012 Calico Resources Corp (formerly Cobre Exploration) withdrew from the project. A program 
+
+of rock sampling, induced polarization and magnetometer surveying was subsequently completed. A strong and 
+
+coherent induced polarization anomaly was identified south of the western end of Beverley Lake and a second 
+
+strong anomaly 1,000 meters further to the north. These anomalies are coincident with an arcuate total field 
+
+anomaly occurring near the edge of the larger magnetic feature indicated in the 2004 airborne survey (Morton, 
+
+2013). 
+
+In 2013 further grids were cut and additional rock and soil sampling conducted to fill in and more precisely 
+
+define anomalies indicated from the 2011 and 2012 geophysical work. IP is shown on Figure 4. 
+
+In 2015 new grids were established peripheral to the area of recent exploration on a separate airborne 
+
+magnetic feature. A previously unknown soil copper anomaly (Cu >200ppm) with possible porphyry copper 
+
+attributes was discovered (Morton, 2016).  
+
+On January 10, 2016 claims were added on the southeast side to capture historical arsenical gold anomalies 
+
+that became open and which are associated with feldspar porphyry. Soil values in this area include values of 
+
+1213ppb Au and a select gold analysis of 74.9 grams per tonne from the 2 centimetre wide historical Cate 
+
+Showing shear (Johnston, 2017). Soil results are shown on Figure 5 through Figure 9. 
+
+ Table summarizes the results of analysis of eight samples of disseminated mineralization. 
+
+Table 4: Disseminated Mineralized Rubble 
+
+Date Cert. # Sample # Cu ppm Au ppb Pt  ppb Pd ppb Ni ppm Co ppm Fe % Mg% 
+
+01-Jun-00 A001668 DICM 10 6,417 571 76 135 377 65 5.2 6.5 
+
+21-Jun-00 A001740 05-2000 5,667 540 67 220 395 78 5.7 6.9 
+
+07-Nov-0 A004506 03-11-00-08 5,908 535 111 197 377 63 4.8 6.0 
+
+04-Sep-01 A102939 I-1 7,170 759 120 189 409 72 5.4 6.2 
+
+18-Jul-02 A202114 02-05-10 11,620 1011 127 348 565 90 6.8 8.2 
+
+18-Aug-02 A202652 250576 6,257 642 113 167 287 45 4.2 3.9 
+
+24-Aug-12 12003982 060687 7,779 739 237 141 540 106 8.4 13.2 
+
+12-Sept-12 12003301 1R-10-7-12 6,645 772 159 190 380 65 5.6 7.4 
+
+Average   7,183 696 126 198 416 73 5.8 7.3 
+
+  
+
+
+
+GK Resources Ltd
+Iron Lake Property
+
+2004 Airborne Magnetics
+and EM Conductors
+with Interpretation
+
+1
+
+kilometres
+
+2
+
+Office:
+
+Author: BL
+
+0.5
+
+Drawing: 3
+
+Date: 7/13/2018
+
+Scale: 1:50000 Projection: UTM Zone 10 (NAD 83)
+
+0
+
+55,700
+
+56,700
+
+57,100
+
+57,900
+
+60,600
+
+65,200
+
+Legend
+
+Total Field Magnetics
+nT
+
+Airborn Conductor
+
+Location of Mineralized Float
+
+Arcuate Magnetic "Edge" Feature
+
+IP Anomaly (2012)
+
+
+
+GK Resources Ltd
+Iron Lake Property
+2012 IP (50m Slice)
+Proposed Drilling
+
+and IP Lines
+
+400
+
+metres
+
+800
+
+Office: 
+
+Author: BL
+
+200
+
+Date: 7/16/2018
+
+Scale: 1:20000 Projection: UTM Zone 10 (NAD 83)
+
+Drawing: 4
+
+0
+
+Proposed Drill Hole
+
+Historical Drill Collar
+
+Disseminated Sulfide Float
+
+Massive Sulfide
+- Projected from Drilling
+
+Lake
+
+Legend
+
+Road
+
+IP Line
+Historical
+
+IP Line
+Proposed
+
+
+
+6
+4
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+2
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+4
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+6
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+8
+,0
+
+0
+0
+ m
+
+E
+
+6
+5
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+5
+2
+,0
+
+0
+0
+ m
+
+E
+
+5,752,000 mN
+
+5,754,000 mN
+
+5,756,000 mN
+
+5,758,000 mN
+
+5,760,000 mN
+
+GK Resources Ltd
+
+Iron Lake Property
+
+Copper In Soils
+
+1
+
+kilometres
+
+2
+
+Office: 
+
+Author: BL
+
+0.5
+
+Drawing: 5
+
+Date: 7/15/2018
+
+Scale: 1:50000 Projection: UTM Zone 10 (NAD 83)
+
+0
+
+Iron Lake Soils Cu (ppm)
+
+750 to 1,360
+
+500 to 750
+
+400 to 500
+
+300 to 400
+
+200 to 300
+all others
+
+
+
+6
+4
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+2
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+4
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+6
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+8
+,0
+
+0
+0
+ m
+
+E
+
+6
+5
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+5
+2
+,0
+
+0
+0
+ m
+
+E
+
+5,752,000 mN
+
+5,754,000 mN
+
+5,756,000 mN
+
+5,758,000 mN
+
+5,760,000 mN
+
+GK Resources Ltd
+
+Iron Lake Property
+
+Platinum In Soils
+
+1
+
+kilometres
+
+2
+
+Office: 
+
+Author: BL
+
+0.5
+
+Drawing: 6
+
+Date: 7/15/2018
+
+Scale: 1:50000 Projection: UTM Zone 10 (NAD 83)
+
+0
+
+Iron Lake Soils Pt (ppb)
+
+30 to 260
+
+20 to 30
+
+10 to 20
+all others
+
+
+
+6
+4
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+2
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+4
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+6
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+8
+,0
+
+0
+0
+ m
+
+E
+
+6
+5
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+5
+2
+,0
+
+0
+0
+ m
+
+E
+
+5,752,000 mN
+
+5,754,000 mN
+
+5,756,000 mN
+
+5,758,000 mN
+
+5,760,000 mN
+
+GK Resources Ltd
+
+Iron Lake Property
+
+Paladium In Soils
+
+1
+
+kilometres
+
+2
+
+Office: 
+
+Author: BL
+
+0.5
+
+Drawing: 7
+
+Date: 7/15/2018
+
+Scale: 1:50000 Projection: UTM Zone 10 (NAD 83)
+
+0
+
+Iron Lake Soils Pd (ppb)
+
+30 to 400
+
+20 to 30
+
+10 to 20
+all others
+
+
+
+6
+4
+2
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+4
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+6
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+8
+,0
+
+0
+0
+ m
+
+E
+
+6
+5
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+5
+2
+,0
+
+0
+0
+ m
+
+E
+
+5,754,000 mN
+
+5,756,000 mN
+
+5,758,000 mN
+
+5,760,000 mN
+
+GK Resources Ltd
+
+Iron Lake Property
+
+Gold In Soils
+
+1
+
+kilometres
+
+2
+
+Office: 
+
+Author: BL
+
+0.5
+
+Drawing: 8
+
+Date: 7/15/2018
+
+Scale: 1:50000 Projection: UTM Zone 10 (NAD 83)
+
+0
+
+Iron Lake Soils Au (ppb)
+
+50 to 1,500
+
+30 to 50
+
+20 to 30
+
+10 to 20
+all others
+
+
+
+6
+4
+2
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+4
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+6
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+8
+,0
+
+0
+0
+ m
+
+E
+
+6
+5
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+5
+2
+,0
+
+0
+0
+ m
+
+E
+
+5,752,000 mN
+
+5,754,000 mN
+
+5,756,000 mN
+
+5,758,000 mN
+
+5,760,000 mN
+
+Drawing: 9
+
+Date: 7/15/2018
+
+Scale: 1:50000 Projection: UTM Zone 10 (NAD 83)
+
+Office:
+
+Author: BL
+
+GK Resources Ltd
+
+0 0.5 1
+
+kilometres
+
+Iron Lake Property
+
+Arsenic In Soils
+
+2
+
+Iron Lake Soils As (ppm)
+
+100 to 5,500
+
+50 to 100
+
+20 to 50
+
+all others
+
+
+
+B.L. Laird P.Geo             18 
+
+Diamond Drill holes have been completed by Pickands Mather and Company in 1974 and by Argent Mining 
+
+Corp. in 2005 and 2006. Seventeen holes totalling 1,878 metres have been completed. The 1974 drilling was BQ 
+
+in diameter while the 2005 and 2006 drilling was NQ. Drill holes are shown on Figure 10. 
+
+Table 5: Drill Hole Locations and Orientations 
+
+Hole Name Azmuth º  Dip º Angle Length (m) UTM NAD83Z10 
+
+(east) 
+
+UTM NAD83Z10 
+
+(north) 
+
+Elevation 
+
+(metres) 
+
+74-S-1 180 -45 91.3  645596 5757177  1025  
+
+74-S-2 360 -50 106.5  645588 5757294  1017  
+
+74-S-3 180 -45 60.7  645620 5757520  1003  
+
+74-S-4 180 -60 60.7  645950 5757524 1017  
+
+74-S-5 180 -45 91.3  645924 5757200  1000  
+
+74-S-6 180 -60 91.3 646234  5757167  999  
+
+74-S-7 180 -45 99.2  645028 5757936  1003  
+
+74-S-8 360 -40 91.3  646625 5756050  982  
+
+IL05-01  - -89 114.9 645929 5756874  1018 
+
+IL05-02 298 -62 131.7 645490 5756749  1025 
+
+IL05-03 298 -62 133.2 645500 5756817  1025 
+
+IL06-04 300 -62 125.0 646272 5756952  1000 
+
+IL06-05 309 -60 90.5 645463 5756642 1010 
+
+IL06-06 15 -60 151.5 645478 5756569 1005 
+
+IL06-07 129 -60 145.4 645496 5757278 1032 
+
+IL06-08 313 -62 147.8  645930 5757555  1018  
+
+IL06-09 298 -50 145.4  645895 5757507  1010  
+
+ 
+
+Table 6: Massive Sulfide Drill Intercepts 
+
+Hole # Description Cu ppm Ni ppm Co ppm Pd+Pt ppb Fe % Mg % 
+
+05-I-02 1.4 metres of massive sulfide (75.2-76.6 m).                 6,635 299 1,349 33 47.5 0.5 
+
+05-I-03 17.0 metres of massive sulfide (32.9- 49.9 m; (60% 
+
+massive sulfide interspersed with pyroxenite). 
+
+3,427 362 270 24 23.7 1.1 
+
+Incl. 1.4 metres of massive sulfide (47.8- 49.2 m). 9,525 927 1,298 5 55.7 0.1 
+
+06-I-05 2.3 metres of massive sulfide (73.4- 75.7 m). 5,428 170 366 13 31.8 0.8 
+
+06-I-06 2.1 metres of massive sulfide (136.2- 138.4 m). 1,363 125 246 34 9.3 0 
+
+ Drill Intercept Intervals May not be indicative of True Thickness 
+
+ 
+
+Table 7: Other Mineralized Drill Intercepts 
+
+Hole # Description Cu ppm Ni ppm Co ppm Pd+Pt ppb Fe % Mg  % 
+
+5-I-04 Elevated Ni per 2.5 m sample (e.g. 23.0-25.5). 67 956 86 12 6.7 12.9 
+
+06-I-09 9.7 metres disseminated sulfide (129.6-139.3 m) 
+
+(Elevated Bi averaging 22.3 ppm) 
+
+1,786 54 45 15 8.2 2.6 
+
+Drill Intercept Intervals May not be indicative of True Thickness 
+
+  
+
+
+
+6
+4
+5
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+5
+,5
+
+0
+0
+ m
+
+E
+
+6
+4
+6
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+6
+,5
+
+0
+0
+ m
+
+E
+
+6
+4
+7
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+7
+,5
+
+0
+0
+ m
+
+E
+
+5,756,000 mN
+
+5,756,500 mN
+
+5,757,000 mN
+
+5,757,500 mN
+
+5,758,000 mN
+
+Massive Sulfide
+- Projected
+
+GK Resources Ltd
+
+Iron Lake Property
+Historical Drilling
+
+250
+
+metres
+
+500
+
+Office:
+
+Author: BL
+
+125
+
+Drawing: 10
+
+Date: 7/16/2018
+
+Scale: 1:12500 Projection: UTM Zone 10 (NAD 83)
+
+0
+
+Hole_Number From_m To_m Interval_m Cu_% Ni_ppm Co_ppm Pt_Pd_ppb
+
+05-I-02 75.2 76.6 1.4 0.66 299 1,349 33
+
+05-I-03 32.9 49.9 17 0.34 362 270 24
+
+Including 47.8 49.2 1.4 0.95 927 1,298 5
+
+IL-06-05 73.4 75.7 2.3 0.54 170 366 13
+
+IL-06-06 136.3 138.4 2.1 0.13 125 246 34
+
+Legend
+Historical Dill Collar
+with Drill Trace
+
+
+
+B.L. Laird P.Geo             20 
+
+Recent Expenditures completed on the Iron Lake Project are as follows: 
+
+2013    $52,280 
+
+2015    $63,922 
+
+2016    $50,051 
+
+2017    $62,231 
+
+Total    $228,484 
+
+ 
+
+7.0 Geological Setting 
+
+ 
+The Iron Lake property is centered on the Iron Lake Complex comprised of ultramafic and mafic plutonic rocks. 
+
+These rocks intrude the Nicola volcaniclastic succession and are in contact with the Schoolhouse Lake unit of 
+
+the Takomkane Batholith across poorly exposed but probably intrusive contacts to the north and northwest.  
+
+The Iron Lake Complex is divided into an ultramafic unit and a mafic unit. Regional geology is shown on Figure 
+
+11. 
+
+ 
+
+The ultramafic unit consists mainly of clinopyroxenite and hornblende clinopyroxenite, but also includes olivine 
+
+clinopyroxenite, wehrlite, hornblendite, gabbro, diorite and intrusion breccia. 
+
+The mafic unit consists mainly of medium to coarse-grained hornblende-pyroxene gabbro to monzogabbro, 
+
+medium to fine-grained hornblende diorite, microdiorite and albite-hornblende pegmatite including breccias of 
+
+the same.  Melanocratic gabbro from the ultramafic unit of the Iron Lake complex yielded Ar/Ar plateau ages of 
+
+187.7 ±1.1 Ma and 186.34 ±0.96 Ma on hornblende and biotite separates, respectively. These Early Jurassic 
+
+dates are significantly younger than the dates obtained from the Boss Creek and Schoolhouse Lake monzonites 
+
+(195.0 to 202.0 Ma), indicating that the Iron Lake Complex is younger than the Takomkane Batholith, and has 
+
+presumably intruded the batholith as well as the Nicola Group.  
+
+Near the northwest corner of the ultramafic unit hornblende pyroxenite, hornblende-feldspar pyroxenite, 
+
+gabbro and diorite have been mapped by the BC Geological Survey as parallel sheets defined partly by modal 
+
+layering and partly by dikes, giving some evidence of magmatic layering. Property geology is shown on Figure 
+
+12.  
+
+
+
+6
+3
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+5
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+6
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+7
+0
+,0
+
+0
+0
+ m
+
+E
+
+5,720,000 mN
+
+5,730,000 mN
+
+5,740,000 mN
+
+5,750,000 mN
+
+5,760,000 mN
+
+5,770,000 mN
+
+5,780,000 mN
+
+uTrNsv
+
+EKAv
+
+EJdr
+
+EKAv
+
+uTrNvb.f
+
+PlWGvb
+
+EJPUmu
+
+PlWGvb
+
+PlWGvbEKBgr
+
+PlWGvb
+
+PlWGvb
+
+PlWGvb
+
+uTrNsv
+EJTASgd
+
+TrJTABCgd
+
+uTrNsv
+
+lmJDMs
+
+uTrNvb
+
+EJdr
+
+lmJDMs
+
+EJdr
+
+EJPUum
+uTrNvb.f
+
+EKAs
+
+uTrNvb
+
+uTrNvb
+
+EKAsf
+
+uTrNsv
+
+TrJTABLgb
+
+lmJDMs
+
+uTrNsvc
+
+uTrNvb
+
+uTrNsv
+
+uTrNsv
+
+PlWGvb
+
+TrSLsf
+
+EJsy
+
+EJPUdr
+
+EKAs
+
+uTrNvb.f
+
+EKBRgd
+
+uTrNvb
+
+EJTASgd
+
+EJdr
+
+EKBgr
+
+EJPUdr
+EJdr
+
+EKBRqd
+
+MiPlCvb
+
+TrJTABCgd
+
+MiPlCvb
+
+GK Resources Ltd
+
+Iron Lake Property
+
+Regional Geology
+
+5
+
+kilometres
+
+10
+
+Drawing: 11
+
+Office: 
+
+Author: BL
+
+Date: 7/14/2018
+
+Scale: 1:250000 Projection: UTM Zone 10 (NAD 83)
+
+0 2.5
+
+Holocene
+
+Miocene - Pleistocene
+
+Eocene
+
+Lower - Middle Jurassic
+
+Pleistocene
+
+Triassic
+
+Upper Triassic
+
+Devonian - Permian
+
+Carboniferous - Permian
+
+Upper Paleozoic
+
+Neoproterozoic to Paleozoic
+
+Eocene
+
+Early Cretaceous
+
+Early to Late Jurassic
+
+Early Jurassic
+
+Late Triassic to Early Jurassic
+
+Late Triassic
+
+Devonian to Carboniferous
+
+Intrusive Rocks
+
+Fault
+
+Dragon Mountain
+succession
+
+Wells Gray - volcanics
+-post-glacial assemblage
+
+Black Riders
+-Mafic-Ultramafic Complex
+
+Early Jurassic
+-syenite to monzonite
+
+Takomkane batholith
+-Boss Creek unit
+
+Takomkane batholith
+-Buster Lake unit
+
+Late Triassic to Early Jurassic
+-dioritic to syenite
+
+Bayonne Suite
+Raft batholith
+
+Eocene
+-diorite intrusive rocks
+
+Takomkane batholith
+-Schoolhouse Lake unit
+
+Takomkane batholith
+-quartz-feldspar porphyry
+
+Takomkane batholith
+-Woodjam Creek unit
+
+Kamloops Group
+-volcanics
+Kamloops Group
+-sediments
+
+Holocene
+basaltic volcanic rocks
+
+Chilcotin Group
+
+Wells Gray volcanics
+
+Slocan Group
+
+Nicola Group
+
+Harper Ranch Group
+
+Fennell assemblage
+
+Crooked Amphibolite
+
+Snowshoe Group
+
+Ste. Marie Plutonic Suite
+
+Polaris ultramafic suite
+
+Polaris ultramafic suite
+
+Thuya batholith
+
+Quesnel Lake Gneiss
+
+Copper Mountain Plutonic Suite
+
+Early Jurassic-diorite
+
+
+
+6
+4
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+2
+,5
+
+0
+0
+ m
+
+E
+
+6
+4
+5
+,0
+
+0
+0
+ m
+
+E
+
+6
+4
+7
+,5
+
+0
+0
+ m
+
+E
+
+6
+5
+0
+,0
+
+0
+0
+ m
+
+E
+
+6
+5
+2
+,5
+
+0
+0
+ m
+
+E
+
+6
+5
+5
+,0
+
+0
+0
+ m
+
+E
+
+5,750,000 mN
+
+5,752,500 mN
+
+5,755,000 mN
+
+5,757,500 mN
+
+5,760,000 mN
+
+Iron Lake
+
+Property
+
+EJPUdr
+
+uTrNvb.f
+
+TrJTABCgd
+
+uTrNsv
+
+EJTASgd
+
+EJPUum
+
+uTrNsv
+
+EJdr EJdr
+
+GK Resources Ltd
+
+Iron Lake Property
+
+Local Geology
+
+Geology afte
+BCGS Digital Geology 2018
+
+Drawing: 12
+
+Date: 7/16/2018
+
+Scale: 1:70000 Projection: UTM Zone 10 (NAD 83)
+
+Office:
+
+Author: BL
+
+Nicola Group Volvanic Sediments
+Sandstone-Conglomerate-Siltstone
+
+Nicola Group Basalts
+Pyroxene Flows
+
+uTRMvb.f
+
+uTRNsv
+
+Polaris Ultramafic Diorite to Gabbro
+
+Late Triassic
+
+Takomkane Batholith
+Boss Creek Granodiorite
+
+Polaris Ultrmafic
+ultramafic intrusives
+
+Takomkane Batholith
+Schoolhouse Lake Granodiorite
+
+TRJTABCgd
+
+EJPUum
+
+Late Triassic  - Early Jurassic
+
+Undifferentiated Diorite
+
+Early Jurassic
+
+EJTASgd
+
+EJdr
+
+EJPUdr
+
+Legend
+
+Fault
+
+
+
+B.L. Laird P.Geo             23 
+
+The Takomkame Batholithic rocks on the property, although locally well exposed are also extensively till 
+
+covered in much of the property. Lithology of these rocks is dominantly granodiorite and varies from 
+
+equigranular to weakly porphyritic in texture. Mafic minerals are dominated by hornblende with lesser biotite.  
+
+8.0: Deposit Type 
+
+8.1: Platinum Group Rich Mafic-Ultramafic Hosted Copper-Cobalt-Nickel 
+
+In 1987, the "Kevitsa" deposit was discovered in Finland.  First Quantum Minerals Ltd. who put the project into 
+
+production in 2012 and in 2016 sold it to Boliden. Kevitsa is a PGE and gold enriched copper, nickel deposit with 
+
+proven reserves of 74,400,000 tonnes grading 0.34% copper, 0.21% nickel, 0.10 g/t gold, 0.19 g/t platinum and 
+
+0.12 g/t palladium and probable reserves of 62,400,000 tonnes grading 0.34% copper, 0.24% nickel, 0.10 g/t 
+
+gold, 0.21 g/t platinum and 0.14 g/t palladium (Boliden, 2017). Mineralization is hosted in olivine pyroxenite 
+
+and is disseminated in style and is considered to be magmatic in origin. Kevitsa shares many attributes with the 
+
+disseminated mineralized rubble discovered at Iron Lake including the suite of elements (copper, gold, 
+
+platinum, palladium and nickel) and the host rock to the mineralization which in both cases is olivine 
+
+pyroxenite. The Kevista deposit is indicative of the quantity of mineralization identified to date at the Iron Lake 
+
+Property. 
+
+8.2 Structurally Controlled Arsenical Gold 
+
+British Columbia examples include the mines of Rossland and the Silback Premier. Mineralization in these 
+
+deposits is structurally controlled within a volcanic-intrusive sequence often in andesitic rocks or porphyritic 
+
+dykes. Gold occurs with pyrrhotite, chalcopyrite, galena, sphalerite and arsenopyrite in association with quartz 
+
+and/or massive sulfides. The Fruta Del Norte epithermal deposit located in Equador is of Jurassic age has similar 
+
+attributes. Here mineralization is largely hosted in andesitic volcanic rocks in association with feldspar porphyry 
+
+dykes and nearby weak porphyry copper mineralization. Gold copper mineralization at Fruta Del Norte is of a 
+
+low sufidation variety occurring with anomalous concentrations of arsenic and antimony. 
+
+ 
+
+9.0: Exploration 
+
+No exploration has been conducted by the issuer GK Resources Ltd. Previous exploration activities are 
+
+described in Section 6. 
+
+
+
+B.L. Laird P.Geo             24 
+
+10.0: Drilling 
+
+No drilling has been conducted by the issuer, GK Resources Ltd. Previous drilling activities are described in 
+
+Section 6. 
+
+11.0: Sample Preparation and Analysis 
+
+All samples collected in the programs completed at Iron Lake between 1989 and 2016 at were kept in a chain of 
+
+continuous custody consisting firstly of project personnel and secondly a reputable freight company until 
+
+delivered to the laboratory.  The laboratory conducting the analysis completed all sample preparation without 
+
+any other party having any part of the sample preparation procedure. 
+
+Normal lab procedure for core samples and rock samples was to crush the entire sample and then obtain a sub 
+
+sample from the larger sample and analyze using ICP/ES MS techniques.  
+
+Normal lab procedure for soils was to screen the samples to a minus 80 mesh fraction and to conduct the 
+
+analysis using the minus 80 mesh fraction. 
+
+All analyses for these programs excepting 2009 were completed by Acme Analytical Laboratories of Vancouver; 
+
+an ISO 9001:2000 certified facility now named Bureau Veritas Minerals. Samples collected in the 2009 program 
+
+were analyzed by Eco Tech Laboratories, located in Kamloops. For the purposes of QA/QC (quality control), 
+
+external standards were routinely submitted on a ratio of generally one standard per twenty samples during 
+
+the drill programs of 2005 and 2006. No external standards were submitted with rock or soil samples. The 
+
+external standards when used were augmented by internal standards and reruns regularly preformed by the 
+
+labs in question usually with a rerun of the pulp samples completed on a ratio of 1 rerun : 20 samples and a lab 
+
+standard run on a ratio of 1 standard : 35 samples). 
+
+The author is satisfied that the sample preparation, analytical and security procedures adhered to for the Iron 
+
+Lake Project have been professional and satisfactory and the author is not aware of any irregularities in the 
+
+data.  
+
+12.0: Data Verification 
+
+In the opinion of the author, the programs run by Canevex Resources Ltd., Eastfield Resources Ltd and Argent 
+
+Mining Corp., which this report largely draws upon for information, have been professionally managed 
+
+according to accepted industry standards including acceptable verification of results.  External standards were 
+
+routinely submitted on a ratio of generally one standard per twenty samples during the 2005 and 2006 drill 
+
+programs. The external standards were augmented by internal standards and reruns regularly preformed by the 
+
+
+
+B.L. Laird P.Geo             25 
+
+laboratories. The author has examined results for third party and laboratory inserted standards as well as 
+
+sample re-runs and is satisfied with their consistency. The author is satisfied and verifies that the quality control 
+
+procedures adhered to at Iron Lake have been professional and satisfactory and that the data described in this 
+
+report can be relied upon.   
+
+13.0: Mineral Processing and Metallurgical Testing 
+
+The author is not aware of any mineral processing work and metallurgical testing done on samples from the 
+
+Iron Lake Project. 
+
+14.0: Mineral Resource Estimates 
+
+The author is not aware of any resource estimates made on the Iron Lake Project. 
+
+15.0: Mineral Reserve Estimates 
+
+The author is not aware of any reserve estimates on the Iron Lake Project. 
+
+16.0: Mining Methods 
+
+No mining methods have been determined for the Iron Lake Project. 
+
+17.0: Recovery Methods 
+
+No recovery methods have been determined for the Iron Lake Project. 
+
+18.0: Project Infrastructure 
+
+A major logging road accesses the Iron Lake from the Hendrix Lake road. Driving time to the property from the 
+
+regional community of 100 Mile House is approximately 45 minutes. Hydro power lines extend to within 10 
+
+kilometres of the claims. 
+
+19.0: Market studies and Contracts 
+
+Not applicable to the Iron Lake Project at this time. 
+
+20.0: Environmental studies, Permitting and Social or Community Impact 
+
+Indian land claims are still unresolved in this area although no settlements, current or historic, or 
+
+archaeologically significant sites, are documented on the claims. There are no known environmental issues 
+
+concerning the claims which are located predominantly on provincially owned land. In British Colombia Notices 
+
+
+
+B.L. Laird P.Geo  26 
+
+of Work authorizations (Exploration Permits) are required when surface disturbance is a consequence of the 
+
+exploration activity. A valid multiyear exploration permit (expiring December 18, 2020) exists for the project. 
+
+21.0: Capital Operating Costs 
+
+This section is not applicable to the Iron Lake Project at this time. 
+
+22.0: Economic Analysis 
+
+This section is not applicable to the Iron Lake Project at this time. 
+
+23.0: Adjacent Properties 
+
+To the author's knowledge, there are no relevant adjacent properties. 
+
+24.0: Other Relative Data and Information 
+
+Not applicable. 
+
+25.0 Interpretation and Conclusions  
+
+Starting in the late 1980's Exploration at the Iron Lake project has predominantly focused on magmatic gold 
+
+and platinum group metal rich copper sulfides associated with ultramafic rocks. The geology of Iron Lake 
+
+supports this model but also supports other styles of mineralization as a consequence of the project being 
+
+located at a "geological triple point" where the ultramafic Iron Lake complex intrudes both arc derived 
+
+intermediate volcanic and related sediments belonging to the Mesozoic aged Quesnel Terrane and the 
+
+Mesozoic aged Takomkame batholith.  Recent exploration beginning in 2011 has focused successfully on 
+
+developing geophysical targets (induced polarization) targeting massive and disseminated gold and platinum 
+
+group metal rich copper sulfides (with significant cobalt) hosted in ultramafic rocks. Several drill targets have 
+
+been defined and permitted. This target area is called "the Magmatic Sulfide Target". 
+
+A second target occurs on the extreme southeastern side of the claim group. Here a number of gold-arsenic 
+
+showings and anomalies have been developed over a distance of 1,500 meters (predominantly in the 1990's). 
+
+Recently the southern portion of this target came open and was successfully re-staked and added to the Iron 
+
+Lake property. Soil arsenic values exceeding 500 ppm are common and select rock samples have returned 
+
+values up to 74.9 g/t gold. Gold mineralization here may be related to pyritic megacrystic porphyry dykes and 
+
+small stocks that outcrop in this area and which intrude Mesozoic aged Nicola volcanic rocks. A renewed 
+
+prospecting and geophysical initiative would be a logical next step in the exploration of this target. Access into 
+
+
+
+B.L. Laird P.Geo             27 
+
+this area is via historic logging roads that while in generally good condition, are heavily overgrown and need to 
+
+be slashed. This target area is called "the Gold Vein Target". 
+
+26.0: Recommendations and Budgets 
+
+Historically two styles of magmatic sulfide mineralization present opportunities for discovery at Iron Lake. The 
+
+first being disseminated sulfide with economically significant values of copper, gold, platinum and palladium; 
+
+and the second being massive sulfide with economically significant values in copper, cobalt and nickel. 
+
+Opportunity exists to follow up to the massive sulfide discovery of 2005 with more drilling and at the same time 
+
+to complete an initial drill on an undrilled airborne conductor located to the north as well as drill test several 
+
+discrete and well-defined induced polarization anomalies to the east and south (outlined subsequent to 2006).   
+
+The objectives of the drilling include testing for sulfide zoning whereby copper, nickel and cobalt sulfides may 
+
+increase in proportion to massive pyrrhotite along strike and down dip from the initial discovery. Historical 
+
+records indicate that a narrow massive sulfide intercept in hole 74-S-1, drilled in 1974, approximately 400 
+
+metres along strike (north) of the 2005 discovery assayed up to 0.35% cobalt. Other magmatic sulfide targets 
+
+include an untested airborne conductor located 4,700 metres to the northwest of the 2005 discovery and 
+
+several discrete induced polarization anomalies outlined in 2011 and 2012 south of the western end of 
+
+Beverley Lake (approximately 2,000 metres from the 2005 discovery). 
+
+Although a number of targets have been adequately developed to proceed to drilling several would benefit 
+
+from infill induced polarization surveying for further focusing and for this reason, a small component of induced 
+
+polarization surveying is also recommended. 
+
+  
+
+
+
+B.L. Laird P.Geo             28 
+
+Table 8: Phase I Budget 
+
+Induced Polarization (5 Km)   
+
+Field Assistants (Line cutting) 2 for 10 days @ $450 day $9,000.00 
+
+IP Contractor 7 days @ $2100 day $14,700.00 
+
+Field Assistants (IP Crew) 3 for 7 days @ $450 $9,450.00 
+
+Room and Board 60 man days @ $110 day $6,600.00 
+
+Trucks  2 for 17 days @ $80 day $2,720.00 
+
+Supervision  1 for 5 days @ 800 day $4,000.00 
+
+Drilling (1,200 m)   
+
+Project Geologist 1 (for 21 days) @$800 day $16,800.00 
+
+Contract Drilling 1,500 meters  @$120 meter $180,000.00 
+
+Extra Costs  $20  per meter (1,500 meters) $30,000.00 
+
+Field Assistants 2 (for 21 days)@$450 day $18,900.00 
+
+Room and Board 7 men for 21 days @$110 day $16,170.00 
+
+Truck Costs  3 Vehicles, 21 days @80 day $5,040.00 
+
+Drill Samples 750 (2 m intervals) @ $30 sample $22,500.00 
+
+Excavator Costs  50 hours @160 hour $8,000.00 
+
+Consumables including gasoline  $5,000.00 
+
+Supervising Geologist 1 (for 10 days) @800 day $2,400.00 
+
+Reporting 1 $15,000.00 
+
+Contingency @10% $36,000.00 
+
+Total Phase 1  $402,280.00 
+
+ 
+
+  
+
+
+
+B.L. Laird P.Geo             29 
+
+27.0 References 
+
+AEROMAGNETIC SERIES. 1968.  Canim Lake, British Columbia.  Airborne magnetic survey map, scale 1:63,360.  
+
+Geophysics Paper 5231, Governments of Canada and British Columbia. 
+
+Boliden Annual Report 2017. https://vp217.alertir.com/afw/files/press/boliden/201803060710-1.pdf 
+
+BUSKAS, A.J., 1989,  Geochemical Sampling Core Logging and Sampling and Geological Mapping of the Canim 
+
+and Horse Claims for Cepeda Minerals Inc and Canavex Resources Ltd. 
+
+CAMPBELL, R.B. and H.W. TIPPER, 1971. Geology of Bonaparte Lake Map Area, British Columbia. Geological 
+
+survey of Canada, Memoir 363. 
+
+DEWONCK, B, Sept. 2003, Assessment Report on the Iron lake property for Argent Resources Ltd. 
+
+DURFELD, R.M. 1985.  Report on the Ironhorse Property, Clinton Mining Division, B.C. Private report prepared 
+
+for Reliant Resources Limited and Mr. Colin Campbell. 
+
+GARRLE, D, Sept, 2004, Fugro Airborne Surveys Corp, Dighem Survey for Argent Resources Ltd., Iron Lake 
+
+Property. 
+
+JOHNSTON, R, January 2017, Assessment Report on the Iron Lake Project, Clinton Mining Division, B.C. (2016 
+
+Work) 
+
+KULLA, GREG et al, Sept 25, 2007, Hard Creek Nickel Corporation, Turnagain Nickel Project, British Columbia,  
+
+Preliminary Assessment, NI 43-101 , Hard Creek Nickel Corp. (SEDAR). 
+
+LEONARD, M.A. 1973.  Exploration Report, Sheri Claims (92P/15W).  Assessment Report #4734, British 
+
+Columbia Department of Mines and Petroleum Resources. 
+
+LUNDIN MINING CORPORATION, June 5, 2008, web page, www.lundinmining.com. 
+
+MORTON, JW. 1984, Report on Electromagnetic Survey, Ironhorse Claim.  Assessment Report #11088, British 
+
+Columbia Ministry of Energy, Mines and Petroleum Resources. 
+
+MORTON, JW. 1986.  Report of Lithogeochemical Analyses of Drill Core.  Assessment Report, British Columbia 
+
+Ministry of Energy, Mines and Petroleum Resources. 
+
+MORTON, J.W. 1988.  Reconnaissance Soil Geochemical Survey, Horse Claim.  Assessment Report, British 
+
+Columbia Ministry of Energy, Mines and Petroleum Resources. 
+
+
+
+B.L. Laird P.Geo             30 
+
+MORTON, J.W. 2001.  Report on the Iron Lake Property, Clinton Mining Division BC, Assessment Report, British 
+
+Columbia Ministry of Energy, Mines and Petroleum Resources. 
+
+MORTON, J.W., 2006, Report on Diamond Drilling (2005 Program) on the Iron Lake Property, Clinton Mining 
+
+Division, BC. 
+
+MORTON, J.W., 2007, Report on Diamond Drilling (2006 Program) on the Iron Lake Property, Clinton Mining 
+
+Division, BC. 
+
+MORTON, J.W. May, 2008, Report on Targeted Geochemical Sampling on the Iron Lake Property, Clinton Mining 
+
+Division. 
+
+MORTON, J.W. March, 2009, Soil Sampling on the Iron Lake Property, Clinton Mining Division. 
+
+MORTON, J.W. Feb 2010, Excavator Trenching on the Iron Lake property, Clinton Mining Division. 
+
+MORTON, J.W. March 2011a, 2010 Assessment Report on the Iron Lake Property, Clinton Mining Division, 
+
+prepared for Calico Resources Corp. 
+
+MORTON, J.W. December 8 2011b, 2011 Assessment Report on the Iron Lake Property, Clinton Mining Division, 
+
+prepared for Calico Resources Corp. 
+
+MORTON, J.W. Feb 15, 2013, 2012 Assessment Report on the Iron Lake-Hidden_One Property, Clinton Mining 
+
+Division, prepared for Eastfield Resources Ltd. 
+
+MORTON, J.W. Jan 31, 2014, Summary Report on the Iron Lake Project, Clinton Mining Division, prepared for 
+
+Eastfield Resources Ltd. 
+
+MORTON, J.W. Jan 15, 2016, Assessment Report on the Iron Lake Project, Clinton Mining Division, prepared for 
+
+Eastfield Resources Ltd. 
+
+NIELSEN, P.P., and GUTRATH, G.C, December, 1972, Geophysical Report of Induced Polarization and 
+
+Magnetometer Surveys on the Sun, Bet, Beer Mineral Canim Lake area, Clinton Mining Division for Aragon 
+
+Exploration Ltd. 
+
+NORTH AMERICAN PALLADIUM LTD., April 28, 2008, Annual Report. 
+
+PEZZOT, Trent, 2004, SJ Geophysics Ltd, Private memorandum on the Iron Lake Property, Airborne Geophysical 
+
+Survey. 
+
+
+
+B.L. Laird P.Geo             31 
+
+PRITCHARD, H.M, and FISHER, P.C., 2004, the Aquablanca Ni-Cu-PGE Deposit, Southwestern Iberia: Magmatic 
+
+Ore-Forming Processes and Retrograde Evolution, The Canadian Mineralogist, Vol. 42, pp. 325-350. 
+
+Ridley, D and Dunn, D, Dec 1993, Prospecting Report on the Papoose property, for Pioneer Metals Corp., BC 
+
+Geological Survey, Assessment Report # 23,269. 
+
+Ridley, D, Jan 1997, Geological and Geochemical Report on the Papoose 1&2 Mineral Claims, BC Geological 
+
+Survey, Assessment Report # 24,952. 
+
+Saunders, C.R, 1987, Geological, Geochemical and Geophysical Report on the Senicar Property, BC Geological 
+
+Survey, Assessment Report # 16,199. 
+
+Tipper, H.W., 1971 Surficial Geology Bonaparte Lake, GSC map 1293A. 
+
+WAHL, H.J. 1974. Exploration Report, Sheri Claims.  Private Report for Pickands Mather & Co., Vancouver. 
+
+WAHL, H.J. 1975. Sheri Claims: Report of Prospecting, Geological, and Geochemical Exploration.  Assessment 
+
+Report #6122, British Columbia Department of Mines and Petroleum Resources. 
+
+WILSON, G.A., 1974. Petrographic Report 74-3.  Private Report for Pickands Mather & Co., Vancouver. 
+
+ 
+
+ 
+
+
+	Slide 1
+
+'

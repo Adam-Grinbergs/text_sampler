@@ -1,0 +1,4539 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This sample text, which is intended to show how paragraphs should be tagged, can be deleted by choosing Edit > Select All and pressing the Delete key
+
+
+NTS 82M05, 92P08 
+
+TECHNICAL REPORT ON THE CHU CHUA PROPERTY, 
+BRITISH COLUMBIA, CANADA 
+
+ 
+ 
+ 
+ 
+ 
+
+Prepared For: 
+Strachan Resources Ltd. 
+
+856 Homer Street Suite 207 
+Vancouver 207, 
+
+British Columbia, Canada 
+V6B 2W5 
+
+ 
+ 
+ 
+
+Prepared by: 
+APEX Geoscience Ltd.
+
+1
+ 
+
+APEX Geoscience Ltd. 
+#200, 9797 – 45 Ave 
+
+Edmonton, Alberta, Canada 
+T6E 5V8 
+
+ 
+ 
+ 
+
+Approximate Property Location: 
+Centre: 706650 m E / 5691660 m N  
+
+(UTM, NAD 83, Zone 10N) 
+24 km northeast of Barriere, B.C. (NTS 82M05 92P08) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1
+ Kristopher J. Raffle, B.Sc., P. Geo. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+January 25, 2013 
+Vancouver, British Columba 
+
+ 
+ 
+ 
+
+
+
+2
+ 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+2 
+
+ 
+
+Contents 
+
+1 Summary ................................................................................................................... 4 
+2 Introduction ................................................................................................................ 7 
+3 Reliance on Other Experts ......................................................................................... 7 
+4 Property Description and Location ............................................................................. 7 
+5 Accessibility, Climate, Local Resources, Infrastructure and Physiography .............. 13 
+6 History ...................................................................................................................... 13 
+7 Geological Setting and Mineralization ...................................................................... 25 
+
+7.1 Regional Geology ............................................................................................. 25 
+7.2 Property Geology ............................................................................................. 25 
+7.3 Mineralization ................................................................................................... 28 
+
+7.3.1 Chu Chua North ...................................................................................... 28 
+7.3.2 MCC ....................................................................................................... 29 
+7.3.3 Energite .................................................................................................. 29 
+7.3.4 Joe .......................................................................................................... 29 
+7.3.5 Chip-Dixie ............................................................................................... 29 
+7.3.6 SC & North Domes ................................................................................. 29 
+
+8 Deposit Types .......................................................................................................... 30 
+8.1 Cyprus Massive Sulphide ................................................................................. 30 
+8.2 Kuroko Massive Sulphide ................................................................................. 31 
+8.3 Epithermal Veins .............................................................................................. 31 
+
+9 Exploration ............................................................................................................... 32 
+9.1 Geophysical Program ....................................................................................... 33 
+9.2 Geochemical Program ...................................................................................... 35 
+
+10 Drilling ...................................................................................................................... 39 
+11 Sample Preparation, Analyses and Security ............................................................ 41 
+
+11.1 Soil Sampling ................................................................................................... 42 
+11.2 Rock Sampling ................................................................................................. 42 
+11.3 Core Sampling .................................................................................................. 43 
+11.4 Data Verification ............................................................................................... 43 
+
+12 Mineral Processing and Metallurgical Testing .......................................................... 43 
+13 Mineral Resource Estimates .................................................................................... 44 
+14 Adjacent Properties .................................................................................................. 44 
+
+14.1 Chu Chua Deposit ........................................................................................... 44 
+14.2 Windpass and Sweethome .............................................................................. 44 
+14.3 Rea and Somatosum Deposits ........................................................................ 45 
+14.4 Harper Creek Deposit ...................................................................................... 46 
+14.5 CM .................................................................................................................... 48 
+
+15 Other Relevant Data and Information ...................................................................... 49 
+16 Interpretation and Conclusions ................................................................................ 49 
+17 Recommendations ................................................................................................... 50 
+18 Date and Signature Page ......................................................................................... 52 
+19 References .............................................................................................................. 53 
+20 Certificate of Author ................................................................................................. 57 
+Appendix 1: Diamond Drill Cross Sections ........................................................... AT END 
+Appendix 2: Diamond Drilling Analytical Certificate .............................................. AT END 
+Appendix 3: Analytical Certificate from the 2012 Property Visit ............................ AT END 
+
+ 
+
+
+
+3
+ 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+3 
+
+ 
+
+Tables 
+
+Table 1: Chu Chua Property Mineral Claims ................................................................... 8 
+Table 2: 2010 Diamond Drill Holes ................................................................................ 39 
+Table 3: Rock Grab Assay Results from the 2012 Property Visit .................................. 43 
+Table  4: Historic Production and Mineral Reserves For the Rea and Samatosum 
+
+Deposits............................................................................................................ 46 
+Table 5: Historic and Current Mineral Resource Estimates for the Harper Creek Deposit
+
+ ......................................................................................................................... 48 
+Table 6: Budget for Proposed 2012 and 2013 Exploration, Chu Chua Property ......... 51 
+ 
+
+Figures 
+
+Figure 1: Property Location ........................................................................................... 10 
+Figure 2: Strachan Claims ............................................................................................. 11 
+Figure 3: Historical Drilling ............................................................................................ 14 
+Figure 4: Geophysical Anomalies & Copper in Soils ..................................................... 22 
+Figure 5: AeroTEM III Total Magnetic Intensity ............................................................. 23 
+Figure 6: AeroTEM III Zoff Electomagnetics .................................................................. 24 
+Figure 7: Regional Geology ........................................................................................... 26 
+Figure 8: Property Geology ........................................................................................... 27 
+Figure 9: VLF-EM AND GROUND MAGNETIC SURVEY ............................................. 34 
+Figure 10: 2010-2011 Rock and Soil Geochemistry (Cu) .............................................. 36 
+Figure 11: 2010-2011 Rock and Soil Geochemistry (Au) .............................................. 37 
+Figure 12: 2011 Drillholes, Zoff Electomagnetics and Soil Geochemistry (Cu) ............. 40 
+ 
+  
+
+
+
+4
+ 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+4 
+
+ 
+
+1 Summary 
+
+This Report (the "Report") is written as a Technical Report (the "Report") for the 
+Chu Chua Property (the "Property"), which is held 100 percent (%) by Kenneth 
+Ellerbeck and Gerald Locke of Kamloops, British Columbia (the "Optionors"). This 
+report has been prepared for Strachan Resources Ltd. ("Strachan" or the "Company") 
+for the purposes of completing a "Qualifying Transaction" as a Capital Pool Company, 
+under the policies of the TSX Venture Exchange.  The Chu Chua property consists of 
+53 contiguous claims totalling 11,431 hectares (ha).  The Property is located within the 
+Kamloops Mining Division approximately 24 kilometres (km) northeast of Barriere, B.C. 
+within NTS map sheet 92P/8.  On June 29, 2012, Strachan entered into an agreement 
+with the Optionors, subject to regulatory approval, whereby Strachan can acquire a 
+100% interest in the 53 contiguous mineral claims that comprise the Chu Chua 
+Property (the "Qualifying Transaction").  This report is written to comply with standards 
+set out in National Instrument 43-101 for the Canadian Securities Administration.   
+
+ 
+APEX Geoscience Ltd. ("APEX") was retained by Strachan during June, 2012 as 
+
+consultants to complete an independent technical report on behalf of Strachan specific 
+to the Chu Chua Property. Mr. Kristopher J. Raffle, P.Geo., Senior Geologist of APEX, 
+and a Qualified Person, conducted a property visit on June 26
+
+th
+, 2012. 
+
+ 
+During 2010 and 2011, Shenul, on behalf of the Optionors, completed 
+
+exploration within the Chu Chua Property that included ground magnetic and VLF-EM 
+geophysical surveys, soil and rock grab geochemical surveys, and diamond drilling of 
+three (3) holes totalling 521.5 m.  The total expenditures for the 2010 and 2011 Chu 
+Chua Property exploration exceed $200,000.   
+
+ 
+The Property is host to a number of magnetic and electromagnetic anomalies 
+
+along with sporadic rock and soil geochemical anomalies that bear similarities to the 
+nearby Chu Chua deposit, a Cyprus-type volcanogenic massive sulphide body first 
+discovered in 1978 and currently owned by Reva Resources Corp (Reva). The current 
+Strachan claim package completely surrounds the two claims that contain the Chu 
+Chua deposit. The Chu Chua deposit occurs within 50 m of the Strachan claims and 
+could extend onto them at both the north and south ends of the deposit.  Drill hole CC-
+32, drilled during 1979 by Craigmont Mines Ltd. (Craigmont), yield 8.62% copper (Cu), 
+0.36% zinc (Zn), 62 grams-per-tonne silver (g/t Ag) and 0.69 g/t gold (Au) over 1.6 m 
+core length. This  hole  lies  approximately  50  m  south  of  mineral  claim  523837  
+held  by Kenneth C. Ellerbeck (under option to Strachan). The Chu Chua property is 
+largely underlain by the Mississippian to Permian aged Fennell Formation which 
+comprises basaltic and rhyolitic volcanic rocks, clastic and chemical sedimentary rocks  
+and  diabase  sills.  This  volcanic  stratigraphy  is  prospective  for  other Cyprus-type 
+and Kuroko-type massive sulphide deposits and also has potential to host precious- 
+and/or base-metal-bearing epithermal deposits. 
+
+ 
+The main Chu Chua deposit, owned by Reva, and currently under option to 
+
+Newport Exploration Ltd. (Newport), consists of two vertical to steeply west-dipping 
+lenses of semi-massive to massive pyrite-chalcopyrite and magnetite up to 40 m thick. 
+The lenses strike for about 400 metres and have a maximum depth extent of 20 m.  
+However, at least one deep hole has intersected massive sulphide at a depth of 630 m 
+
+
+
+5
+ 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+5 
+
+ 
+
+below surface. The deposit is hosted within a 70 m thick chert sequence within a 
+package of pillow basalts. Regionally, stratigraphy strikes north–south and dips 
+moderately to steeply east. Locally, however, Chu Chua is steep to west dipping with 
+stratigraphic top toward the west. Footwall rock units display marked sodium depletion 
+and the massive sulphide horizon and immediate hanging-wall are strongly enriched in 
+barium.  
+
+ 
+Drilling to date has confirmed the presence of two major sulphide lenses in the 
+
+main deposit and a separate lens of massive sulphide immediately to the north named 
+the North Lens. The main deposit is composed of two parallel massive sulphide lenses 
+termed the Footwall and Hanging-wall Zones, respectively. Deep drilling during 1989 
+to 1991 by Minnova, Inc. (Minnova) seems to indicate that the main deposit may 
+plunge to the south onto claim 523835 held by Kenneth C. Ellerbeck (and under 
+option to Strachan) as suggested by the recently acquired airborne magnetic data. The 
+North Lens exists northeast and along strike from the main deposit and appears to 
+be a separate body. For the most part little in the way of massive sulphide has been 
+intersected below about 200 m below surface. However, other than a series of about 10 
+deep drill holes with targeted depths of about 500 to 600 m below surface, there 
+is little drilling that has targeted the area between the deep drilling and the known 
+bottom of the sulphide zones.  Previous drilling by Craigmont within Strachan's claims 
+at the north end of the Chu Chua deposit intersected shallow pyrite-chalcopyrite-
+pyrrhotite mineralization within drill hole CC-34 that returned 0.17% Cu, 0.06% Zn, 0.25 
+g/t Au and 4 g/t Ag over 1.3 m core length.  Minnova drill hole CCF-60 intersected the 
+same mineralized zone down dip at a depth of 83 m, that returned assays of 0.18% Cu, 
+0.03% Zn and 4.4 g/t Ag over 4.3 m.  Within Reva's claims at the south end  of  the Chu  
+Chua  deposit  deep  drilling  by Craigmont and by Minnova encountered narrow 
+intersections of massive sulphide and/or wider stockwork breccia zones with 
+disseminated sulphide in deep drill holes CC-54, CC-57 and CCF-62. Drill hole CC-
+57 yielded 3.82% Cu, 7.47 g/t Ag and 1.17 g/t Au over 2.5 m core length. An initial 
+review of the historic drilling indicates there is potential to expand the known extent of 
+sulphide mineralization to the north and south of the main deposit with some pointed 
+drilling between the existing drill holes and the known extent of mineralization. 
+
+ 
+On June 26, 2012, Newport announced a NI 43-101 compliant resource 
+
+estimate for the Chu Chua deposit comprising an inferred mineral resource of 
+2,500,000 tonnes averaging 2.0% copper, 0.3% zinc, 9.4 g/t silver and 0.5 g/t gold at 
+a copper block cut-off grade of 1.0%. The deposit as currently modelled is relatively 
+shallow with approximately 75% of the inferred resource occurring within a 100 metre 
+depth from surface (Dufresne et al., 2012). Mineral resources are not mineral reserves 
+and do not have demonstrated economic viability. There is no guarantee that all or 
+any part of the mineral resource will be converted into a mineral reserve. The author 
+has personally verified the resource estimate for the Chu Chua deposit; however the 
+resource estimate is not necessarily indicative of mineralization within Strachan's Chu 
+Chua Property. 
+
+Further exploration in the area of the Chu Chua Deposit should be 
+staged.  Expansion of helicopter-borne EM and magnetic geophysical survey 
+coverage is warranted within the southern and eastern claims.  The estimated cost to 
+complete 500 line-km of airborne EM and magnetic surveys at 100 m line spacing is 
+
+
+
+6
+ 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+6 
+
+ 
+
+approximately $80,000 not including GST.  In addition, an exploration database 
+comprising 2,408 soil geochemical samples and 161 diamond drill holes exists for the 
+Chu Chu Property and adjacent Chu Chua deposit.  This report summarizes all 
+significant exploration that has occurred within and adjacent to the Chu Chua Property 
+however, a large amount of additional soil and rock geophysical and HLEM ground 
+geophysical survey data exists that has not been digitally captured.  Digitization of 
+these data will facilitate prioritization of historic base-precious metal soil, rock and 
+diamond drill anomalies, EM conductors and mineral occurrences,   The estimated 
+cost to complete additional compilation of historic exploration data is $10,000 not 
+including GST (Phase 1a).  
+
+ 
+Based on the results of 2010 and 2011 exploration by Shenul, and as a follow-
+
+up to the proposed airborne EM and magnetic geophysical survey and compilation, 
+additional ground geophysical surveys, geologic mapping, soil and rock geochemical 
+surveys are warranted to test priority magnetic-EM and magnetic-only anomalies and 
+historic Cu-Zn and Au anomalies within the Chu Chua Property (Phase 1b).  The 
+total estimated cost to complete Phase 1b evaluation of priority anomalies is $110,000 
+not including GST.  The total cost of the Stage 1 program is estimated at $200,000 not 
+including GST. 
+
+ 
+Contingent on the results of Phase 1 exploration, Phase 2 drilling of priority 
+
+targets throughout the Property, and to test the lateral extent of the Chu Chua deposit 
+within Strachan's claims is warranted. Any new drilling should include downhole 
+electromagnetic surveys measuring conductivity, which can assist in resolving the 
+extent of the Chu Chua massive sulphide lenses and in targeting new separate zones. 
+Additionally, systematic downhole multi trace element and whole rock geochemical 
+work should be conducted on any new core in order to identify and better map the 
+volcanic stratigraphy associated with the Chu Chua massive sulphide lenses.  The 
+actual details and associated budget for the Phase 2 drilling program will depend 
+upon the results of the Phase 1 program.  At present, it is anticipated that at least 
+2,000 m in a minimum of 10 drillholes will be required to test the extent of the Chu 
+Chua deposit and follow-up of the geophysical anomalies at the south end of the 
+Property. The estimated cost to complete Phase 2 drilling is $600,000 not including 
+GST. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+7
+ 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+7 
+
+ 
+
+2 Introduction 
+
+This Report (the "Report") is written as a Technical Report (the "Report") for the 
+Chu Chua Property (the "Property"), which is held 100 percent (%) by Kenneth 
+Ellerbeck and Gerald Locke of Kamloops, British Columbia (the "Optionors"). This 
+report has been prepared for Strachan Resources Ltd. ("Strachan" or the "Company") 
+for the purposes of completing a "Qualifying Transaction" as a Capital Pool Company, 
+under the policies of the TSX Venture Exchange. On June 29, 2012, Strachan entered 
+into an agreement with the Optionors, subject to regulatory approval, whereby 
+Strachan can acquire a 100% interest in the 53 contiguous mineral claims that 
+comprise the Chu Chua Property (the "Qualifying Transaction").  This report is written 
+to comply with standards set out in National Instrument 43-101 for the Canadian 
+Securities Administration.  
+
+ 
+APEX Geoscience Ltd. ("APEX") was retained by Strachan during June, 2012 as 
+
+consultants to complete an independent technical report on behalf of Strachan specific 
+to the Chu Chua Property. Mr. Kristopher J. Raffle, P.Geo., Senior Geologist of APEX, 
+and a Qualified Person, conducted a property visit on June 26
+
+th
+, 2012. 
+
+ 
+The Report written by Mr. Kristopher J. Raffle, P.Geo., an independent and 
+
+qualified person, is a compilation of proprietary and publicly available information.  The 
+author, in writing this report, uses sources of information as listed in the references 
+section.  Government reports were prepared by qualified persons holding post-
+secondary geology, or related university degree(s), and are therefore deemed accurate.  
+Those reports written by other geologists, prior to the implementation of the standards 
+relating to NI 43-101, are also assumed accurate based on a data review and property 
+visit conducted by the author, although they are not the sole basis for this report.  All 
+dollar amounts referred to in this Report are in Canadian currency.  All units used in 
+this Report are metric and Universal Transverse Mercator (UTM) co-ordinates in this 
+report and accompanying illustrations are referenced to the North American Datum 
+1983 (NAD83), Zone 10, unless otherwise stated.  
+
+3 Reliance on Other Experts 
+
+As of January 20, 2013, the effective date of this Report, the fifty-three (53) 
+mineral claims that comprise the Chu Chua Property are shown on the British Columbia 
+Mineral Titles Online (MTO) website (https://www.mtonline.gov.bc.ca), are listed as 
+being in good standing, and as owned 100% by Gerald T. Locke and Kenneth C. 
+Ellerbeck.  The author has used this source of information to verify the ownership and 
+good standing of the claims which comprise the Chu Chua Property. 
+
+4 Property Description and Location 
+
+The Chu Chua property consists of 53 contiguous claims totalling 11,431 
+hectares (ha) held by the Optionors (Table 1).  The mineral claims were staked by the 
+Optionors through online staking between 2005 and 2012.  
+
+ 
+On June 29, 2012, Strachan entered into an agreement with the Optionors, 
+
+subject to regulatory approval, whereby Strachan can acquire a 100% interest in the 
+
+https://www.mtonline.gov.bc.ca/
+
+
+8
+ 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+8 
+
+ 
+
+53 contiguous mineral claims that comprise the Chu Chua Property.  The Property is 
+located within the Kamloops Mining Division approximately 24 kilometres (km) 
+northeast of Barriere, B.C; and is centred at 706,650 m E / 5,691,660 m N (UTM NAD83 
+Zone 10) within NTS map sheet 92P/8 (Figures 1 & 2).   
+
+ 
+Under the terms of the option agreement the Company shall pay to the Optionors 
+
+the sum of $1,300,000; consisting of $10,000 upon signing the agreement; a further 
+$15,000 on regulatory approval of the Qualifying Transaction; a further $25,000 12 
+months after the Closing; a further $50,000 24 months after the Closing; a further 
+$50,000 36 months after the Closing; a further $50,000 48 months after the Closing; 
+and a further $1,100,000 60 months after the Closing. 
+
+ 
+In addition, to exercise the option the Company shall issue and deliver 275,000 
+
+common shares upon Closing; and a further 275,000 common shares 12 months after 
+the Closing. 
+
+ 
+In addition, to exercise the option the Company shall incur a minimum of 
+
+$200,000 in expenditures on the Property by 12 months after the Closing; and a 
+minimum of $100,000 of Expenditures on the Property for each of the following four 
+years while the Option is outstanding. 
+
+ 
+The author is unaware of any royalties, back in rights, payments, or other 
+
+agreements and encumbrances to which the Property is subject. 
+ 
+The Optionors entered into a prior option agreement, dated March 10, 2010, 
+
+with Shenul Capital Inc. (Shenul).  The exploration and drilling described in this report 
+was completed by Shenul, on behalf of the Optionors.  Having failed to complete the 
+terms of the agreement, and as part of a corporate reorganization, Shenul 
+relinquished their option of the Property on September 30, 2011.  The Chu Chua 
+claims remained in the name of the Optionors for the entire duration of the agreement.  
+
+ 
+Table 1: Chu Chua Property Mineral Claims 
+
+ 
+Tenure Number Claim Name Issue Date Good to date Area (ha) Ownership 
+
+508580   2005/03/10 2014/09/30 484.47 KCE (50%), GTL (50%) 
+
+508583 South1 2005/03/10 2013/09/30 504.78 KCE (100%) 
+
+508584 North1 2005/03/10 2013/09/30 322.62 KCE (50%), GTL (50%) 
+
+508586   2005/03/10 2013/09/30 484.71 KCE (100%) 
+
+508587 Southpark 2005/03/10 2015/09/30 505.05 GTL (100%) 
+
+508589 Insure 2005/03/10 2015/09/30 464.74 KCE (100%) 
+
+508590 Ants 2005/03/10 2014/09/30 484.65 KCE (50%), GTL (50%) 
+
+517010 INMETINFILL 2005/07/12 2017/12/30 141.27 KCE (50%), GTL (50%) 
+
+517072 INMETEAST 2005/07/12 2014/09/30 80.71 KCE (50%), GTL (50%) 
+
+523835 CHU CHUA 777 2005/12/13 2016/12/30 484.34 KCE (100%) 
+
+523836 KCGL2 2005/12/13 2014/09/30 342.87 KCE (100%) 
+
+523837 KCGL1 2005/12/13 2015/12/30 383.22 KCE (100%) 
+
+523838 CHU CHUA 7777 2005/12/13 2015/09/30 40.35 KCE (100%) 
+
+523839 KEGL4 2005/12/13 2017/09/30 60.52 KCE (50%), GTL (50%) 
+
+523841 KCGL5 2005/12/13 2019/12/30 20.17 KCE (50%), GTL (50%) 
+
+523843 KCGK7 2005/12/13 2014/09/30 60.52 KCE (100%) 
+
+523844 CHU CHUA 888 2005/12/13 2017/12/30 40.35 KCE (50%), GTL (50%) 
+
+526296 CHUCHUAEAST 2006/01/26 2015/09/30 423.91 KCE (50%), GTL (50%) 
+
+528569 GERRY AND GERRY 2006/02/20 2014/09/30 60.53 GTL (100%) 
+
+528570 ROCKNORTH 2006/02/20 2014/09/30 100.86 KCE (50%), GTL (50%) 
+
+528700 CC FRACTION 2006/02/21 2014/09/30 20.17 KCE (100%) 
+
+529302 G & G 2006/03/03 2018/12/30 40.35 KCE (100%) 
+
+
+
+9
+ 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+9 
+
+ 
+
+Tenure Number Claim Name Issue Date Good to date Area (ha) Ownership 
+
+529890 CAVEATEMPTOR 2006/03/11 2014/09/30 20.19 GTL (100%) 
+
+530072 CARPEDIEM 2006/03/15 2013/09/30 20.18 KCE (50%), GTL (50%) 
+
+530073 YES 2006/03/15 2013/09/30 20.19 KCE (50%), GTL (50%) 
+
+530077 AND MORE 2006/03/15 2014/12/30 121.15 GTL (100%) 
+
+553915 FORGOT 2007/03/08 2015/12/15 363.65 KCE (100%) 
+
+604243 SC 2009/05/10 2017/12/15 40.42 KCE (50%), GTL (50%) 
+
+604247   2009/05/10 2017/12/15 60.64 KCE (100%) 
+
+604248   2009/05/10 2017/12/15 40.43 GTL (100%) 
+
+604258   2009/05/10 2016/12/15 40.42 GTL (100%) 
+
+824362 BAR WEST 2010/07/22 2015/07/22 485.10 KCE (50%), GTL (50%) 
+
+825122 BAR EAST 2010/07/23 2016/12/23 444.75 KCE (50%), GTL (50%) 
+
+857335 GER 1 2011/06/20 2013/09/30 465.31 GTL (100%) 
+
+857336 FY EAST 2011/06/20 2013/09/30 263.00 GTL (100%) 
+
+867630 BAR EAST 2011/07/24 2013/09/30 505.49 KCE (50%), GTL (50%) 
+
+867633 YES YES 2011/07/24 2013/09/30 364.02 KCE (50%), GTL (50%) 
+
+867634 BAR SLIM 2011/07/24 2014/07/24 181.92 KCE (50%), GTL (50%) 
+
+867635 GOLD777 2011/07/24 2015/07/24 40.45 KCE (50%), GTL (50%) 
+
+887669 CHOOEY1 2011/08/10 2014/08/10 20.18 KCE (50%), GTL (50%) 
+
+887709 CHOOEY2 2011/08/10 2015/08/10 20.17 KCE (50%), GTL (50%) 
+
+889827 BAREESTA 2011/08/17 2014/08/17 282.83 KCE (50%), GTL (50%) 
+
+889835 BAREESTER 2011/08/17 2014/08/17 40.40 KCE (50%), GTL (50%) 
+
+889839 BAREESTER2 2011/08/17 2014/08/17 60.61 KCE (50%), GTL (50%) 
+
+890259 ENERGEE 2011/08/19 2014/08/19 242.31 KCE (100%) 
+
+890260 ENERGEEAST 2011/08/19 2014/08/19 100.97 KCE (100%) 
+
+890370 ENERGEEEAST 2011/08/19 2014/08/19 282.68 KCE (100%) 
+
+894749 FORTUNATE ONE 2011/08/27 2014/08/27 20.19 KCE (100%) 
+
+940811 GOLD7 2012/01/12 2013/07/12 161.26 KCE (50%), GTL (50%) 
+
+974889 SWEET HOME ALABAMA 2012/03/30 2013/03/30 443.48 KCE (50%), GTL (50%) 
+
+993542 ANNA DOMES 2012/06/03 2013/06/03 505.72 KCE (50%), GTL (50%) 
+
+1012270 DEPOSIT WEST 2005/03/10 2015/09/30 80.72 KCE (100%) 
+
+1012387 ENERGITE NORTH 2012/08/30 2013/08/30 141.31 KCE (100%) 
+
+*GTL – Gerald T. Locke; KCE – Kenneth C. Ellerbeck 
+ 
+
+In British Columbia, the owner of a mineral claim acquires the right to the 
+minerals which were available at the time of claim location and as defined in the Mineral 
+Tenure Act of British Columbia.  Surface rights are not included.  Claims are valid for 
+one year and the anniversary date is the annual occurrence of the date of record (the 
+staking completion date of the claim).  To maintain a claim in good standing the claim 
+holder must, on or before the anniversary date of the claim, either: (a) record the 
+exploration and development work carried out on that claim during the current 
+anniversary year; or (b) pay cash in lieu of work.  Payment of cash in lieu of work 
+requirements are assessed at double the corresponding assessment work value; and a 
+minimum of 6 months and a maximum. The amount of work required in the first 2 years 
+is $5 per hectare per year; and $10 per hectare per year in years 3 and 4; $15 per 
+hectare per year in years 5 and 6; and $20 per hectare per year in subsequent years.  
+Only work and associated costs for the current anniversary year of the mineral claim 
+may be applied toward that claim unit.  If the value of work performed in a year exceeds 
+the required minimum, the value of the excess work, can be applied to cover work 
+requirements for that claim for additional years (subject to the regulations).  A report 
+detailing work done and expenditures must be filed with, and approved by, the B.C. 
+Ministry of Energy and Mines MTO website. 
+
+Changes to the Mineral Tenure Act effective July 1, 2012 will affect the Chu 
+Chua Property claims.  Because of changes to the yearly assessment work 
+requirements, as of July 1, 2012, all mineral claims within B.C. will be treated as if they 
+are in their first anniversary year, regardless of the issue date of the claim.  This has the 
+effect of reducing the overall yearly assessment work requirements for the Property for 
+the next two anniversary years.    
+
+
+
+1
+0 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+10 
+
+ 
+
+ 
+Figure 1: Property Location 
+
+  
+
+
+
+1
+1 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+11 
+
+ 
+
+ 
+Figure 2: Strachan Claims 
+
+  
+
+
+
+1
+2 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+12 
+
+ 
+
+All work carried out on a claim that disturbs the surface by mechanical means 
+(including drilling, trenching, excavating, blasting, construction or demolishment of a 
+camp or access, induced polarization surveys using exposed electrodes, and site 
+reclamation) requires a Notice of Work permit under the Mines Act and the owner must 
+receive written approval from the District Inspector of Mines prior to undertaking the 
+work.  The Notice of Work must include: the pertinent information as outlined in the 
+Mines Act; additional information as required by the Inspector; maps and schedules for 
+the proposed work; applicable land use designation; up to date tenure information; and, 
+details of actions that will minimize any adverse impacts of the proposed activity.  The 
+claim owner must outline the scope and type of work to be conducted, and approval 
+generally takes one month. 
+
+ 
+Exploration activities that do not require a Notice of Work permit include: 
+
+prospecting with hand tools, geological/geochemical surveys, airborne geophysical 
+surveys, ground geophysics without exposed electrodes, hand trenching (no explosives) 
+and the establishment of grids (no tree cutting).  These activities and those that require 
+Permits are outlined and governed by the Mines Act of British Columbia. 
+
+ 
+The Chief Inspector of Mines makes the decision whether or not land access will 
+
+be permitted.  Other agencies, principally the Ministry of Forests, determine where and 
+how the access may be constructed and used.  With the Chief Inspector's authorization, 
+a mineral tenure holder must be issued the appropriate "Special Use Permit" by the 
+Ministry of Forests, subject to specified terms and conditions.  The Ministry of Energy 
+and Mines makes the decision whether land access is appropriate and the Ministry of 
+Forests must issue a Special Use Permit. However, three ministries, namely the 
+Ministry of Energy and Mines; Forests; and Environment, Lands and Parks, jointly 
+determine the location, design and maintenance provisions of the approved road. 
+
+ 
+Notification must be provided before entering private land for any mining activity, 
+
+including non-intrusive forms of mineral exploration such as mapping surface features 
+and collecting rock, water or soil samples.  Notification may be hand delivered to the 
+owner shown on the British Columbia Assessment Authority records or the Land Title 
+Office records.  Alternatively, notice may be mailed to the address shown on these 
+records or sent by email or facsimile to an address provided by the owner.  Mining 
+activities cannot start sooner than eight days after notice has been served.  Notice must 
+include a description or map of where the work will be conducted and a description of 
+what type of work will be done, when it will take place and approximately how many 
+people will be on the site.  It must include the name and address of the person serving 
+the notice and the name and address of the onsite person responsible for operations. 
+
+ 
+Strachan does not currently hold a Notice of Work permit for the Property.  
+
+Approval of a completed Notice of Work permit application takes approximately 1 to 2 
+months from the date of submission.  At present, the author does not know of any 
+environmental liabilities to which the property may be subject.  The author is unaware of 
+any other significant factors and risks that may affect access, title, or the right or ability 
+to perform work on the Property. 
+
+
+
+1
+3 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+13 
+
+ 
+
+5 Accessibility, Climate, Local Resources, Infrastructure and Physiography 
+
+Barriere, inhabited by about 3,450 persons, is the closest community to the 
+Property with accommodations, RCMP and a health center. Kamloops, the nearest 
+major center with drilling, mining and airport services, is located 64 km south of Barriere 
+along the Yellowhead Highway 5.  
+
+From Barriere, access is along the paved Barriere Lakes Road to North Barriere 
+Lake and Birk Creek forest service road (BCFSR). The BCFSR heads westerly at 8 km 
+from the North Barriere Lake road and at 17.5 km, the Newhykulston Creek FSR 
+(NCFSR) which is sign posted FSR RD 3300 (10.5 km ) provides access to the EM1 
+grid area. The Leone Lake FSR provided access to the southern claims and should 
+improve once planned logging is completed. Access to the Bar Grid area is via a 
+network of new or renewed logging roads that extend approximately 19 km to the 
+headwater area of Sprague Creek. The Bar Grid is at approximately 17.5 km on the 
+extension of the Leonie Lake Forest Service Road.  
+
+The Chu Chua property extends across steep hills with elevations that vary from 
+600 to over 2000 m with snow remaining at higher elevation and northern slopes in July. 
+The climate varies from -30 degrees Celsius (°C) in winter to +30°C in summers. The 
+work season generally extends from mid-June to mid-October. Vegetation varies from 
+clear cuts with thick second growth with dense spruce, pine and cedar stands at lower 
+elevations and sub-alpine and alpine vegetation above 1800m. Logging operations are 
+presently active along Birk, Leonie, Delta and Sprague creeks.  
+
+The Chu Chua property is underlain by Crown Land.  Under the provisions of the 
+Mines Act of British Columbia, tenure holders have the right to access mineral lands for 
+the purpose of exploration.  All work carried out on a claim that disturbs the surface by 
+mechanical means requires a Notice of Work permit issued under the Mines Act.  These 
+surface access rights are sufficient for the current stage of exploration.  The nearest 
+source of power occurs within the North Thompson River valley 3 km west and along 
+North Barriere Lakes Road 3 km to the east of the property.  Water for exploration 
+activities such as diamond drilling is available from numerous creeks and small lakes 
+within the claims.  
+
+6 History 
+
+Much of the flowing history deals with the discovery of the Chu Chua deposit.  
+The Chu Chua deposit is currently not part of the claim package that is being optioned 
+by Strachan however, the History of the Chu Chua deposit exploration is considered 
+relevant and is provided below.  In addition, considerable exploration was conducted on 
+the current Strachan claims as part of the Chu Chua historic exploration programs.  
+
+In 1977, Vestor Explorations Ltd. (Vestor) conducted a stream sediment survey 
+and located a 10 square-metre (m
+
+2
+) limonite gossan on the south slope of Chu Chua 
+
+Mountain near a northerly striking massive magnetite body (Vollo, 1979a). The property 
+was optioned by Craigmont Mines Ltd. and subsequently drilled with a total of 2,843 m 
+in 23 holes in 1978 (Figure 3). Twenty-two of these holes are located within the Reva 
+Resources Corp (Reva) claims.  One hole (CC-8) was drilled within the Property 
+(southern edge of 523837 claim). This initial drilling outlined the Chu Chua massive 
+sulphide body with thicknesses up to 15 m, a strike length of 300 m and a vertical depth   
+
+
+
+1
+4 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+14 
+
+ 
+
+ 
+Figure 3: Historical Drilling 
+
+ 
+  
+
+
+
+1
+5 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+15 
+
+ 
+
+of 200 m. Highlights from this early drilling include sample 2436 from drill hole 
+CC-6 which assayed 4.41% copper (Cu), 0.69% zinc (Zn), 1.23 grams-per-tonne (g/t) 
+gold (Au) and 15.09 g/t silver (Ag) over 5 m, sample 2305 from drill hole CC-16 which 
+assayed 7.47% Cu, 0.75% Zn, 0.69 g/t Au and 22.6 g/t Ag over 5 m, and sample 2313 
+from drill hole CC-17 which assayed 14.54% Cu, 0.93% Zn, 1.03 g/t Au and 9.3 g/t Ag 
+over 4.2 m (Vollo, 1979a). 
+
+Between April 5 and May 20, 1979, a Digital Helicopter Electro-Magnetic 
+(DIGEM) survey of 2,274 line-km was flown in the North Thompson River Area, 
+including within it the Chu Chua deposit, by DIGHEM Ltd. for Craigmont (Fraser and 
+Dvorak, 1979). This survey covered the current Reva claims and more than half of the 
+current Strachan claims. Following the survey 21 holes totalling 3,329.8 m were drilled 
+(all with BQ core; Figure 3). A total of 15 holes (2,655 m) targeted the main area of 
+interest identified by the 1978 drilling, these holes fall on Reva's claim. Eleven of these 
+holes intersected massive sulfides. An additional 4 holes (CC-34, CC-35, CC-37, and 
+CC-39) were drilled to test the extent of the deposit along strike to the north and are 
+located within Strachan's current 523837 claim.  At a depth of 15.0 m, drill hole CC-34 
+intersected chert matrix agglomerate containing up to 5% pyrite-chalcopyrite-pyrrhotite 
+mineralization at a depth of 15.0 m that returned assays of 0.17% Cu, 0.06% Zn, 0.25 
+g/t Au and 4 g/t Ag over 1.3 m.  Drill holes CC-35 and CC-37, collared at distances of 
+200 and 400 m to the north of CC-34, respectively, did not intersect significant 
+mineralisation.  At a depth of 85.0 m drill hole, CC-39 collared 600 m to the north of CC-
+34, intersected rhyolite containing 5-10% pyrite mineralization that returned assays of 
+0.3 g/t Au and 0.6 g/t Ag over 5 m (Cu, Pb and Zn were not analyzed).  Two holes (CC-
+43, and CC-44) were drilled approximately 1.3 km east of the deposit to test nearby 
+conductors that proved to be graphitic cherts (Vollo, 1979b, c). Drill hole CC-43 lies 
+within Strachan's claims. 
+
+By the early 1980's it was evident that the Chu Chua deposit consisted of at least 
+two sulfide lenses within the Fennell Formation (Vollo, 1981b, 1982a). In October 1980, 
+Craigmont conducted a Horizontal Loop Electromagnetic (HLEM) survey on the Chu 
+Chua claim group, which did not reveal prospects of similar size and conductivity to the 
+Chu Chua deposit (Hallof et al., 1981). In 1981, 3 additional holes were drilled to test 
+the extent of the known ore zone (Figure 3). Two holes (CC-45, and CC-46) fall on 
+Reva's claims and one hole (CC-47) was drilling within Strachan's 528835 claim. Hole 
+CC-45 (319 m total depth) was drilled to test the down-dip extension of Chu Chua 
+sulphide zone and encountered tuff with minor chalcopyrite (Vollo, 1981). Hole CC-46 
+(420 m total depth) intersected beds of massive, cupriferous pyrite, magnetite and talc 
+in a siliceous tuff unit. Hole CC-47 (110.5 m total depth) was drilled on a parallel 
+conductor but intersected only basalt (Vollo, 1982a). 
+
+In 1981, Craigmont completed soil geochemical sampling and 20 line-km of very-
+low-frequency electro-magnetic (VLF-EM) and magnetic surveys and one diamond drill 
+hole within the east-central part of the Property, south of Birk Creek. The VLF-EM 
+survey defined a number of north trending conductive anomalies.  A total of 452 soil 
+samples were collected along the geophysical grid lines.  A single copper in soil 
+anomaly was defined at the head of Sprague Creek where three consecutive samples 
+spaced at 25 m intervals returned values of 364, 660 and 1530 ppm Cu.  A single 114.5 
+m diamond drill hole (CH-4) tested soil and coincident VELF-EM conductive anomaly.  
+
+
+
+1
+6 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+16 
+
+ 
+
+The hole intersected graphitic tuff and basalt but did not encounter significant 
+minerlaization (Vollo, 1981a). 
+
+In June 1981, Kam Creed Mines Ltd. (Kam Creed) conducted soil geochemical 
+sampling and vertical loop EM surveys at Birk Creek, immediately east of Strachan's 
+claims.  The EM survey defined a northeast trending conductive anomaly and broadly 
+coincident lead-silver geochemical anomaly crossing Birk Creek (Pasieka, 1981). 
+
+In 1982, Craigmont drilled eight holes totalling 3,992 m targeting the Chu Chua 
+mineralized zone (all within Reva's claims). Hole CC-48 intersected massive to weakly 
+banded chalcopyrite, magnetite and talc in a siliceous tuff unit that assayed 2.4% Cu, 
+0.34% Zn, 2.61 g/t Au and 13.8 g/t Ag over 6.7 m (Vollo, 1982a). Three additional holes 
+(CC-49, CC-54 CC-55) tested the depth extent of the Chu Chua sulphide lens and 
+intersected narrow zones of massive sulphides, tuff and altered basalt at downhole 
+depths up to 600 m (Vollo, 1982b).  Additionally in 1982, Craigmont conducted VLF-EM 
+and magnetic surveys over a 35 km grid, 516 soil samples were collected and four 
+holes (CC-50 to CC-53) totalling 229.5 m were drilled, 3 km to the northeast of the Chu 
+Chua deposit, within Strachan's claims (Figure 3).  The drilling intersected graphitic 
+argillite and tuff containing disseminated pyrite and pyrrhotite; no samples were 
+submitted for analysis (Vollo, 1982c). 
+
+The Craigmont exploration program at Chu Chua was cancelled in 1983 due to 
+the closure of the Craigmont Mine near Merritt, B.C. and difficult deep-hole drilling 
+conditions (Morganti, 1983). The property was returned to Vestor. 
+
+Exploration after 1983 has largely focused on the area surrounding the deposit. 
+During October of 1984, Vestor conducted a program of vector pulse EM surveying. 
+Ninteen line-km was completed at Cowell Creek within the northern Strachan claims. 
+This survey detected four north trending conductors of considerable strike length that 
+correlated with magnetic highs and the target tuffite horizon (Candy and White, 1984). 
+
+During May 1984, Kam Creed tested their coincident conductive and lead-silver 
+soil geochemical anomaly at Birk Creek (east of Strachan's claims) with two holes 
+totalling 205 m (Figure 3).  Drilling intersected pyrite mineralized graphitic shale hosting 
+quartz vein stringers that returned  assays of 7.5 g/t Au over 0.98 m. Kam Creed drilled 
+three additional holes in September 1984 totalling 176 m. One drill hole (84-3) tested 
+the EM anomaly and the remaining two (84-4 and 84-5) tested a pyritic shear zone and 
+quartz veins exposed on surface and within a short adit located 2 km east of the 
+Energite Showing.  Drill hole 84-3 intersected near surface pyrite mineralized graphitic 
+argillite containing quartz stringers that returned assays of 1.99 g/t Au over 0.91 m 
+(Cardinal, 1984). 
+
+In 1984 Zone Petroleum Corp. and Tylox Resources Corp. completed geologic 
+mapping, soil geochemical, VLF-EM and ground magnetic geophysical surveys within 
+the southern portion of the Property at Chip Creek (Chip-Dixie Showing).  A total of 677 
+soil samples were collected at 25 or 50 m intervals along 100 and 200 m spaced north-
+south oriented gridlines.  Geologic mapping defined a 900 x 400 m east-west oriented 
+rusty weathering gossan zone hosted within quartz-eye tuff rocks extending east from 
+Chip Creek.  A single rock grab sample from this zone returned 655 ppm Zn (DC-9); 
+and the soil geochemical survey identified an in part coincident lead-zinc anomaly 
+(Kermeen, 1985). 
+
+
+
+1
+7 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+17 
+
+ 
+
+In July 1984, Corporation Falconbridge Copper (Falconbridge) completed an 
+exploration program on the their SC/CH and Anna claims (within Strachan's southern 
+claims at the head of Sprague Creek) that included geological mapping, and the 
+collection of 166 rock and 14 soil samples, none of which returned significant assays 
+(Pirie, 1985a). In August 1985, Falconbridge acquired the Chu Chua deposit. 
+Subsequently, 82.5 line-km of horizontal-loop EM (HLEM) surveys were carried out on 3 
+grids. The Chu Chua grid covers the Chu Chua deposit and Strachan's claims to the 
+east. The other two grids (SC/CH and Anna grids) are located south of the Chu Chua 
+deposit (Pirie, 1985b). Three drill holes located east of the Chu Chua deposit, totalling 
+617.5 m were drilled to test HLEM anomalies and adjacent stratigraphy but no 
+significant sulfides were intersected (Pirie, 1985c). 
+
+During the 1986 and 1987 field seasons, Larry Ovington completed prospecting 
+at the head of Slate Creek on the Joe claim.  The work resulted in the discovery of a 
+shale-hosted sulphide showing containing massive galena and quartz veins.  Four rock 
+samples were submitted for assay.  Sample J-1 returned 2.1 g/t Au and 92.75 g/t Ag; 
+and sample Q-1 returned 1.44 g/t Au and 43.7 g/t Ag (Moraal, 1986). In 1987, a soil 
+sampling program tested the immediate area of the showing and returned anomalous 
+lead (Pb), Zn, Cu and Ag values (Ovington & Elliott, 1987). 
+
+In 1986, Falconbridge extended the Chu Chua grid 1.5 km south, and collected 
+30 line-km of HLEM data and 1,074 soil geochemical samples to test for strike parallel 
+mineralization to the east of the Chu Chua deposit (within Strachan's 523835 claim).  
+The geophysical survey defined an approximately 100 x 1400 m, north-south trending 
+conductive anomaly crossing the entire survey grid.  An approximately 25 x 300 m, Pb, 
+Zn, Cu, Ag soil geochemical anomaly is broadly coincident with the northern third of the 
+conductive anomaly.  To the south, diamond drilling of eight holes totalling 937 m 
+targeted coincident soil geochemical and HLEM conductive anomalies within the CH 
+grid at the head of Slate and Sprague creeks.  The drill holes intersected a sequence of 
+diorite, chert and locally pyritic argillite, with locally anomalous zinc values (Pirie, 1986). 
+
+In 1986, Falconbridge carried out diamond drilling of four holes totalling 519 m on 
+the SC claim group at the head of Sprague Creek (Figure 3). The drill holes targeted 
+HLEM conductive anomalies and a sequence of rhyolite flows and tuff rocks. The 
+conductive anomalies were explained by intercepts of graphitic argillite, while rhyolite 
+intercepts returned a number of anomalous gold values.  Drill hole BAR-1 intersected a 
+10 m wide zone of sericite altered rhyolite tuff that returned assays of 590 ppb Au over 1 
+m.  Drill hole BAR-3 tested the SC dome and collared into a 59 m interval of quartz 
+veined, silica-sericite altered rhyolite containing an average of 4-7% pyrite.  The interval 
+returned assays of 4.45 g/t Au over 2.52 m, including a 30 cm section of massive pyrite 
+assaying 17.6 g/t Au and 134 g/t Ag; above a broader mineralized zone averaging 242 
+ppb Au over 13.98 m (Evans, 1987).  
+
+In 1987, Falconbridge changed its name to Minnova Inc. (Minnova) and 
+completed diamond drilling of 6 holes totalling 852 m (Figure 3). Minnova's drilling 
+continued to test the HLEM conductive anomaly east of the Chu Chua deposit; and a 
+quartz-feldspar porphyry rhyolite dome within the SC/CH grid at head of Slate Creek.  
+Four holes (CCF-12 to CCF-15) drilled within the Chu Chua grid did not intersect 
+massive sulphides.  Drill holes CCF-16 and CCF-17 targeted the flanks of a rhyolite 
+dome.  Silica-sericite altered rhyolite and tuffaceous argillite intersected within drill hole 
+
+
+
+1
+8 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+18 
+
+ 
+
+CCF-16 returned assays of 1.1 g/t Au over 3 m between 94.5 and 97.5 m depth.  CCF-
+17 did not return significant assays (Gray, 1987). Additionally, in 1987 a field program 
+was conducted on claim SC1 which included a 1:2,500 scale geological mapping 
+program, the collection of 26 rock and 273 soil samples, and approximately 6.5 line-km 
+of HLEM surveys. Several weakly anomalous areas and interesting conductors were 
+identified but no high priority targets were identified (Pirie, 1988). 
+
+In 1987, Minnova continued diamond drilling of the SC dome; and completed 
+HLEM surveys and diamond drilling south of Sprague Creek within their Anna claims. 
+Eight holes (BAR-8 through BAR-15) totalling 705 m were drilled within Strachan's 
+current claims (Figure 3).  Drilling of the SC dome encountered a number of anomalous 
+gold intersections: hole BAR-8 returned two separate near surface intersections 
+assaying 1.23 and 1.39 g/t Au over 1.5 m; BAR-9 returned 0.78 g/t Au over 15 m, 
+including 2.04 g/t Au over 4 m;  BAR-10 returned 7.51 g/t Au over 0.4 m and, 1.79 g/t 
+Au over 1.5 m; BAR-11 returned 0.6% Cu, 3.8% Pb, 4.8% Zn and 110 g/t Ag over 0.45 
+m; and BAR-12 returned 0.59 g/t Au over 9 m.  Drill hole BAR-14 intersected pyrite-
+sphalerite mineralized tuffaceous chert, south of Sprague Creek, that returned assays of 
+0.18% Zn over 10 m; hole BAR-15 did not intersect significant mineralization (Gray & 
+Pirie, 1988). 
+
+The 1988 Minnova included a focused drilling program on the Chu Chua deposit 
+and extension of the Chu Chua Main HLEM Grid to the north (Blackadar, 1989a and 
+Lear, 1989). As noted above, drilling by Craigmont in the late 1970's and early 1980's 
+had defined two zones of relatively thick, high grade mineralization  occurring  within  
+100  m  of  the  surface  which became known as the Main and North Lenses 
+(Blackadar,  1989a). Minnova's  1988  drilling  was  designed  to  test  the  continuity  of  
+grade  and thickness of both lenses of the Chu Chua sulfide deposit by establishing drill 
+intercepts at 25 m spacing. The program consisted of 13 holes totalling 1,152 m (all 
+holes were within Reva's claims). As a result of this drilling significant tonnage was 
+added to the deposit and the western margin of the Main sulphide lens was defined. 
+The Main Lens was determined to be a funnel shaped body with two zones of 
+mineralization termed the Footwall and Hanging Wall Zones. The Footwall Zone was 
+found to be a well-developed, continuous zone of highly variable thickness located 
+along the footwall contact of the lens. It had an average thickness of about 7.2 m and 
+contained the highest grade mineralization in the deposit. The Hanging Wall Zone was 
+found to be thinner, less continuous and of lower grade, with an average thickness of 
+about 4.5 m. The North Lens was found to be thinner than the upper part of the Main 
+Lens, contained uniform mineralization but with lower grades than the Footwall Zone 
+(Blackadar, 1989a). 
+
+During the 1989 field season, 21 holes totalling 1,663 m were drilled in the 
+deposit area (all holes were within Reva's claims, Figure 3).  The drilling further 
+delineated of the near surface mineralization and showed that the highest copper 
+grades occurred in the Footwall and Hangingwall massive sulphide zones. Grades 
+within the massive sulphide zones tended to be highly variable; though increased 
+copper grades correlated positively with zinc, silver, and gold values (Wild, 1989). 
+Additionally, Quantech Consulting Inc. completed a 24.3 line-km of transient 
+electromagnetic (TEM) survey over the deposit and area to the north and south.  The 
+survey defined a subtle conductive anomaly (within Strachan's claims) extending north 
+from the Chu Chua deposit a distance of 200 m.  Beyond this, the anomaly is more 
+
+
+
+1
+9 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+19 
+
+ 
+
+evident and extends a further 650 m to the northwest, suggesting the potential for the 
+discovery of additional deep massive sulphide mineralization (Wild, 1989). 
+
+During October 1988, Minnova completed diamond drilling of 4 holes (BAR-20 
+through BAR-23), totalling 601 m within their FY claim to the east of Chip Creek (Figure 
+3).  Drilling targeted rock and soil geochemical, and HLEM conductive anomalies within 
+a northwest trending rhyolite, dacite and andesite tuff and quartz-feldspar-porphyry 
+rocks of the Eagle Bay assemblage.  Andesite tuff, intersected within drill hole BAR-23, 
+returned assays of 0.13% Cu, 5.46% Pb, 13.2% Zn, 203 g/t Ag and 0.91 g/t Au over 
+0.40 m in association with a narrow quartz veins.  The remaining holes did not intersect 
+significant mineralization (Blackadar, 1989b).  Based on the results of the initial drilling, 
+Minnova extended FY grid soil geochemical and HLEM survey coverage to the north; 
+and drilled an additional five holes totalling 535 m (BAR-26 through BAR-30).  A total of 
+581 soil samples were collected at 25 m intervals along 100 m spaced, north-south 
+oriented survey lines.  The soil survey defined three Cu-Pb-Zn-Ag anomalies within the 
+Chip Creek drainage interpreted to be the result of secondary hydromorphic processes.  
+The HLEM survey identified conductive anomalies paralleling the northwest trend of the 
+geologic units.  The diamond drilling did not intersect significant mineralization 
+(Heberlein, 1990a).  
+
+In 1989, Placer Dome Inc. optioned Larry Ovington's Joe claim at Slate Creek 
+and completed a small soil and rock geochemical sampling program.  A total of 178 soil 
+samples were collected at 20 m intervals along 50 m spaced, east-west oriented lines; 
+in addition the collection of 14 rock samples.  Soil sampling defined an approximately 
+200 x 200 m Au-Ag-Pb-Zn soil anomaly centred on previously discovered massive 
+sulphide outcrop and float within Slate Creek.  A sample of quartz breccia float (sample 
+42760) collected south of Slate Creek returned assays of 3.2 g/t Au, 164 g/t Ag and 
+6.3% Pb (Ovington, 1989).  
+
+During 1990, Minnova drilled eleven holes, totaling 1,731 m. Three holes were 
+drilled into the Chu Chua deposit to test specific targets in the footwall and on the plane 
+of mineralization (Figure 3). Two holes (CCF-61 and CCF62), totalling 1,014.1 m, are on 
+Reva's claim and one hole (CCF-60) totalling 100.9 m lies within Strachan's current 
+523837 claim. At a depth of 83 m, drill hole CCF-60 intersected s sequence of fine 
+grained siliceous sediments containing 2-10% pyrite bands and stringers and trace 
+chalcopyrite that returned assays of 0.18% Cu, 0.03% Zn and 4.4 g/t Ag over 4.3 m.  
+Hole CCF-61 did not identify any new mineralization, but did provide an additional, 
+shallow intersection of the North Lens. Hole CCF-62 demonstrated that the massive 
+sulfide extends to 550 m depth and identified a zone of zinc rich massive sulphide; 
+something that had not been previously observed at Chu Chua (Heberlein, 1990b). In 
+addition, eight diamond drill holes (MCC-52 through MCC-59) were completed to test 
+coincident EM and magnetic anomalies at pass separating the headwaters of Birk and 
+Chu Chua creeks (3 km south of the Chu Chua deposit within Strachan's claims). The 
+drill holes intersected a sequence of sericite altered sediments, argillite and magnetic 
+diorite sills that explained the geophysical anomalies.  Drill hole MCC-56 intersected a 
+3.7 m cherty interval containing 1-3% bedded pyrite, trace chalcopyrite, and a 15 cm 
+interval of massive sulphide with approximately 3% chalcopyrite.  The massive sulphide 
+interval returned assays of 1% Cu and 9 g/t Ag.  Drill hole MCC-37 through MCC-39 
+tested the potential for additional mineralization to the north and south but did not 
+intersect massive sulphides (Heberlein, 1990b). 
+
+
+
+2
+0 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+20 
+
+ 
+
+Minnova completed their last work in the Chu Chua area in the fall of 1991. Nine 
+deep drill holes totalling 4,957 m tested the Chu Chua sulphide horizon along strike and 
+down-dip (Figure 3).  Four of the drill holes (CCF-63, 64, 67 and 69) were surveyed with 
+downhole pulse EM.  Six holes, totalling 3,793 m, are located within Reva's claims. Two 
+holes (CCF-64 and CCF-65) to the north of Chu Chua deposit and one hole (CCF-68) to 
+the south occur within Strachan's claims.  Holes CCF-63 to CCF-66 tested the Chu 
+Chua horizon at depth to the north of the Main Lens.  Drill hole CCF-63 intersected 
+silicified basalt and sulphide stringers interpreted as a footwall alteration zone that 
+returned assays of 0.12% Cu over 11.7 m; and drill hole CCF-66 intersected two 
+separate intervals of pyrite exhalite that returned assays of 0.21% Cu, 360 ppm Zn over 
+4.3 m, and 0.33% Cu, 330 ppm Zn over 1.5 m.  Holes CCF-67 and CCF-68 tested the 
+Chu Chua horizon to the south of the Main Lens and did not intersect significant 
+mineralization or alteration.  Hole CCF-69 was drilled to test the down-dip extent of the 
+Main Lens.  The hole intersected a new hanging wall massive sulphide zone at a depth 
+of 381 m that returned assays of 0.97% Cu, 0.84 g/t Au over 14.85 m occurring 1.9 m 
+above a second zone assaying 0.75% Cu, 1.37 g/t Au over 4.65 m.  Drill hole CCF-70 
+was collared 150 m southwest of CCF-69 and intersected an 11.5 m zone of chert and 
+magnetite-hematite-pyrite exhalite; a distance of 230 m further down dip than the 
+massive sulphide intersected in CCF-69 (Wells, 1991).  Hole CCF-71 tested the down-
+dip and northern strike extent of mineralization within CCF-69, and intersected massive 
+sulfide zone at a depth of 658 m that returned assays of 0.69% Cu, 0.13% Zn, 0.14 g/t 
+Au and 5.69 g/t Ag over 9.95 m. 
+
+ 
+In 1995, Eighty Eight Resources conducted a soil and rock geochemical survey 
+
+on their KB group of claims.  The KB claims overlie the area previously explored and 
+drilled by Falconbridge in 1986; including the SC dome and zone tested by the BAR 1 
+and BAR-2 drill holes 2 km to the north (Evans, 1987).   A total of 168 soil and 48 rock 
+samples were collected.  Soil samples were spaced a 20 m intervals over select areas 
+of Falconbridge's previously established SC grid.  Twenty-two of the 168 soil samples 
+returned assays of greater than 20 ppb (sample L98N 1022+25E collected from the SC 
+dome returned 330 ppb Au).  Anomalous gold values were limited to a line crossing the 
+SC dome and a number of isolated single sample highs; in addition, lead, zinc and silver 
+multi-element anomalies were present along some lines.  A number of rock samples 
+returned weakly anomalous lead, zinc and silver values; and a single rock grab sample 
+(94KB-33), collected from the SC dome, returned assays of 710 ppb Au (Belik, 1995).   
+
+In 2002, Navasota Resources Ltd. (Navasota) completed soil and rock 
+geochemical sampling and a ground magnetic survey within their Gold Creek Property.  
+The Gold Creek Property claims covered the area from the Energite Showing south to 
+Slate Creek.  Navasota's work during 2002 was centred over Larry Ovington's historic 
+Joe claim massive sulphide showing (Ovington & Elliott, 1987; and Ovington, 1989).  A 
+total of 283 soil samples were collected at 25 m intervals along 100 m spaced north-
+south oriented gridlines; in addition to 18 rock samples.  Soil sampling defined a gold 
+anomaly coincident with, and extending downslope from, the previously discovered 
+showing in Slate Creek.  Of the 18 rock grab samples, three samples returned assays of 
+greater than 1 g/t Au (3666, 3669 and 3670;).  Samples 3669 and 3670 also returned 15 
+g/t Ag; and 17 g/t Ag and 0.87% Zn, respectively (Warner, 2003).  Ground magnetic 
+survey data was not diurnally corrected therefore, it is not considered reliable.  
+
+
+
+2
+1 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+21 
+
+ 
+
+Navasota followed up their 2002 exploration with the collection of an additional 
+25 soil samples at Slate Creek and 15 rock grab samples from the Slate Creek and 
+Energite showings.  Of the 25 soil samples, six samples returned assays of greater than 
+100 ppb Au, further establishing the gold in soil anomaly at Slate Creek; and a single 
+rock grab sample (GK-04-009) collected at the Energite Showing returned assays of 6 
+g/t Au, 640 g/t Ag, 29% Pb and 12% Zn (Wild, 2005).   
+
+During 2004, Navasota expanded the Gold Creek grid from Slate Creek 
+northwest to the Energite Showing; collected 1,193 soil and 47 rock grab samples; and 
+completed diamond drilling of six holes totalling 884.  Of the 1,193 soils samples, 33 
+returned assays of greater than 100 ppb Au.  Four diamond drill holes (GC-04-01 to 
+GC-01-04) targeted soil anomalies north of Slate Creek.  All four holes intersected 
+locally quartz veined and faulted Eagle Bay assemblage argillite rocks  that returned a 
+few anomalous gold values over narrow widths; including 130 ppb Au over 1.5 m, and 
+120 ppb Au over 1.0 m (GC-04-02); 390 ppb Au over 1.0 m, and 350 ppb Au over 1.0 m 
+(GC-04-04).  Drill hole GC-04-05 intersected gabbro and diorite rocks of the Lower 
+Fennell assemblage and did not return significant assays; and drill hole GC-04-06 
+tested the Energite Showing adits and returned assays of 650 ppb Au over 0.45 m, and 
+960 ppb Au over 1.0 m (Wild, 2005).  Both mineralized zones occur downhole, and to 
+the west, of a drill intersected fault overlying a sequence of felsic tuff, quartz-feldspar-
+porphyry and argillite rocks; probably of the Lower Fennel assemblage.  
+
+Strongbow Exploration Inc. ("Strongbow") acquired the claims overlying the Chu 
+Chua deposit by online staking on March 2nd, 2006. During fall 2006, Strongbow 
+completed a soil geochemical survey and a compilation of historic Craigmont and 
+Minnova soil sampling.  A total of 302 soil samples were collected at a spacing of 50 m 
+over a series of selecteast-west oriented gridlines designed to test the geochemical 
+response over the Chu Chua deposit, and select conductive anomalies from 
+Craigmont's 1979 DIGEM airborne geophysical survey (Fraser and Dvorak, 1979).  Of 
+the 302 samples collected by Strongbow, 264 were collected within Strachan's current 
+claims.  A series of six consecutive samples collected over the Main Lens of the Chu 
+Chua deposit returned anomalous values ranging from between 27 and 335 ppm Cu. A 
+line crossing just north of the Main Lens, and a second line 400 m further to the north 
+within Strachan's 523837 claim, did not return anomalous values.  A series of 100 and 
+400 m spaced soil lines completed DIGEM and HLEM conductive anomalies within the 
+southern part of the Falconbridge's Chu Chu grid (Pirie, 1985c; and Pirie 1986) 
+correlated with a number of single and two sample greater than 100 ppm Cu anomalies.  
+Two soil lines spaced at 100 m tested the area above Minnova's MCC-52 through MCC-
+55 drill sites (Heberlein, 1990b), but did not return significant anomalies.  Compilation of 
+2,703 historic Craigmont and Minnova soil samples revealed numerous single and 
+multi-sample greater than 100 ppm Cu, and 125 ppm Zn, soil anomalies within 
+Strachan's claims to the north and south of the Chu Chua deposit (Gale, 2007, Figure 
+4). 
+
+APEX on behalf of Longview Capital Partners supervised 2008 exploration at the 
+Chu Chua Property. Exploration comprised an 840 line-km helicopter-borne AeroTEM III 
+electromagnetic and magnetic geophysical survey covering the Chu Chua deposit and 
+an approximately 60% area of Strachan's Current claims (Figures 5 and 6).  The survey 
+defines five discreet high-priority isolated and sizeable magnetic anomalies (M1 to M5) 
+and two discreet, isolated conductive anomalies (EM1 and EM2) that bear resemblance  
+
+
+
+2
+2 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+22 
+
+ 
+
+ 
+Figure 4: Geophysical Anomalies & Copper in Soils 
+
+  
+
+
+
+2
+3 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+23 
+
+ 
+
+ 
+Figure 5: AeroTEM III Total Magnetic Intensity 
+
+ 
+  
+
+
+
+2
+4 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+24 
+
+ 
+
+ 
+Figure 6: AeroTEM III Zoff Electomagnetics 
+
+  
+
+
+
+2
+5 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+25 
+
+ 
+
+to the magnetic and conductive anomalies associated with the Chu Chua deposit 
+(Raffle, 2008).  All of the magnetic and conductive anomalies occur within Strachan's 
+current claims.  The results of soil sampling by Craigmont and Minnnova (Gale, 2007) 
+indicate that the M1 anomaly is coincident with a greater than 100 ppm Cu and greater 
+than 75 ppm Zn soil anomaly (Figure 4). 
+
+7 Geological Setting and Mineralization 
+
+7.1 Regional Geology 
+
+Schiarizza and Preto (1987) mapped the Adams Plateau Clearwater-Vavenby 
+area at 1:100,000 providing a concise regional geological picture for the Chu Chua 
+property. The following regional geology section is taken from that work.  
+
+The Chu Chua area is on the western edge of the Omineca Belt and is underlain 
+by the Fennell Formation (Fm) of the Slide Mountain Assemblage to the west and by the 
+Eagle Bay Assemblage to the east (Figure 7). The Early Cambrian to Mississippian 
+Eagle Bay Assemblage is in the pericratonic Kootenay Terrane and consists of 
+metasedimentary and metavolcanic rocks which are repeated in four Northwest-dipping 
+thrust sheets. The assemblage is comprised of a Lower Palaeozoic succession of 
+clastic metasediments, carbonate and mafic metavolcanic rocks, and an overlying 
+Devono- Mississippian succession of felsic to intermediate metavolcanic rocks and 
+metasediments. The Homestake and Rea VMS deposits are hosted by intermediate to 
+felsic metavolcanic rocks of the Lower Devono-Mississippian succession. 
+
+The Slide Mountain Assemblage is part of Slide Mountain Terrane and consists 
+of the Devonian to Middle Permian Fennell Formation. The formation is an oceanic 
+sequence consisting of two major divisions. The structurally lower (eastern) division 
+comprises a heterogeneous assemblage of bedded chert, gabbro, diabase, pillowed   
+basalt, clastic metasediments, quartz-feldspar-porphyritic rhyolite and intraformational 
+conglomerate. The upper (western) division consists almost entirely of pillowed and 
+massive basalt with gabbro and minor bedded chert and argillite. Both intrusive and 
+extrusive mafic igneous rocks are tholeiitic. Tops throughout the succession consistently 
+face west. 
+
+The Fennell Formation and Eagle Bay Assemblage are intruded by mid-
+Cretaceous granodiorite and quartz-monzonite of the Raft and Baldy batholiths. The 
+package is locally overlain by Eocene Kamloops Group volcanic and sedimentary rocks 
+and Miocene lavas. The map area is dominated by easterly directed thrust faults, which 
+imbricate the Fennell Formation and separate it from the underlying Eagle Bay 
+Assemblage. Tectonic emplacement of the Fennell Formation over the Eagle Bay 
+Assemblage was followed by southwesterly directed folding and associated thrust 
+faulting. Folding and fabrics associated with this event are evident in the Eagle Bay 
+Assemblage, but are rarely seen in the Fennell Formation. 
+
+7.2 Property Geology 
+
+The following summary of the local geology is reprinted from Heberlein (1990b). 
+Detailed discussion of individual lithological units can be found in Wild (1989). The Chu 
+Chua property is underlain by rocks of the Mississippian to Permian Fennell Fm (Figure 
+8) (Schiarizza and Preto, 1987).  
+
+
+
+2
+6 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+26 
+
+ 
+
+ 
+Figure 7: Regional Geology  
+
+ 
+  
+
+
+
+2
+7 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+27 
+
+ 
+
+ 
+Figure 8: Property Geology 
+
+ 
+  
+
+
+
+2
+8 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+28 
+
+ 
+
+Two litho-structural packages make up the Fennell Formation These are called 
+the upper and lower divisions. The lower division forms a north-south belt that extends 
+from the Barriere River fault in the south to Clearwater in the north. It is composed of a 
+complexly interbedded and thrust imbricated sequence of massive basalt, clastic 
+metasediments (greywackes and argillites), ribbon cherts, quartz-feldspar phyric rhyolite 
+and intraformational conglomerate. The upper division underlies most of the property 
+area and hosts the Chu Chua deposit. It consists of pillowed to massive basalt flows, 
+diabase sills, argillite and rare chert. These rocks can be traced from Barriere as far 
+north as Wells Grey Park. They are responsible for the rugged cliff exposures on either 
+side of the North Thompson River Valley between Little Fort and Clearwater. 
+
+Both divisions of the Fennell Formation are intruded by the Cretaceous Baldy 
+Batholith, which forms a prominent easterly trending mountain range to the northeast of 
+Barriere. 
+
+Deformation in the Fennell Formation is not intense. Units have been rotated into 
+a vertically dipping west facing homocline that is interpreted to be the western limb of a 
+thrust-dismembered anticline (Schiarizza and Preto, 1987). There is little evidence for 
+mesoscopic folding and penetrative fabrics are mostly absent. Late, north and east 
+trending normal faults possibly of Tertiary age caused local offsets of the Upper Fennell 
+stratigraphy. A west-dipping thrust fault is inferred to separate the upper and lower 
+divisions of the Fennell Formation. This is based on conodont ages determined from 
+chert beds in both divisions. The Lower Fennell sequence is also inferred to be thrust 
+imbricated based on fossil data (Schiarizza and Preto, 1987). 
+
+Both Fennell Formation divisions are regionally metamorphosed to lower 
+greenschist facies. Close to the contact of the Baldy Batholith (within approximately 500 
+m) the regional metamorphism is overprinted by a contact thermal aureole. Locally this 
+reaches hornfels facies. Despite the metamorphism, primary textures are well preserved 
+in both volcanic and sedimentary units. 
+
+7.3 Mineralization 
+
+There are a total of seven (7) principal mineral occurrences within the Property 
+(Figure 8). The Chu Chua North and MCC showings occur within the Upper Fennell 
+Formation. The North Star, Energite, and Joe showings all fall within Eagle Bay 
+Assemblage along the contact with Lower Fennell Formation. To the south of the 
+Property the Chip-Dixie Showing is hosted within Eagle Bay Assemblage. The North 
+Dome and SC showings occur within felsic volcanic rocks of the Lower Fennel 
+Assemblage.  All diamond drill intercepts reported are core length and may not be 
+indicative of true width of mineralization.   
+
+7.3.1 Chu Chua North 
+
+The Chu Chua North Showing lies immediately north of the Chu Chua deposit 
+within southwestern part of the claim 523837 and is defined by diamond drill 
+intersections only.  Historic drill holes intersected anomalous Cu, Zn, Ag, and Au values 
+over widths ranging from 1.3 m to 4.3 m.  Mineralization comprising 5 to 10% pyrite 
+bands and stringers with trace chalcopyrite is hosted within felsic-intermediate volcanic 
+rocks of Upper Fennell Formation and was intersected within two inclined drill holes 
+(CC-34 and CCF-60) at drilled depths of 15 and 83 metres, respectively. 
+
+
+
+2
+9 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+29 
+
+ 
+
+7.3.2 MCC 
+
+The MCC Showing was discovered during 1990 diamond drill testing of 
+coincident EM and magnetic ground geophysical anomalies at the head of Birk and Chu 
+Chua creeks, 3 km south of the Chu Chua Deposit. Anomalous Cu and Ag values were 
+intersected within drill hole MCC-56 over 3.7 m.  Mineralization, intersected at a drilled 
+depth of 89 m, was hosted within sericite altered wacke, graphitic argillite and chert 
+rocks and comprised 1 to 3% bedded pyrite, trace chalcopyrite, and a 15 cm interval of 
+massive sulphide.  
+
+7.3.3 Energite 
+
+The Energite Showing is located to the north of claim 890259. Historic production 
+from Energite totaled 36 (metric) tonnes producing 3,732 g Ag, 1,581 kg Cu, 1,341 kg 
+Pb and 652 kg Zn. Mineralization consists of galena, pyrite, and lesser sphalerite and 
+chalcopyrite-bearing quartz veins that cut sheared rocks along the faulted contact of the 
+Lower Fennell Formation and Eagle Bay Assemblage. Individual veins and lenses vary 
+from a few centimetres to several metres wide and vary in orientation, although 
+northerly strikes and moderate (40 to 50 degree) easterly dips predominate (B.C. Minfile 
+082M 218).  
+
+7.3.4 Joe 
+
+The Joe Showing is located at the head of Slate Creek within the 889827 claim. 
+Exploration during 1986 resulted in the discovery of a shale-hosted sulphide showing 
+containing massive galena and quartz veins.  Four rock samples were submitted for 
+assay.  Sample J-1 returned 2.1 g/t Au and 92.75 g/t Ag; and sample Q-1 returned 1.44 
+g/t Au and 43.7 g/t Ag (Moraal, 1986).  Subsequent soil sampling defined an 
+approximately 200 x 200 m Au-Ag-Pb-Zn soil anomaly centred over the occurrence 
+(Ovington, 1989). 
+
+7.3.5 Chip-Dixie 
+
+The Chip-Dixie Showing is located at the south end of the Property, within the 
+857335 claim.  Geologic mapping during 1984 defined a 900 x 400 m east-west 
+oriented rusty weathering gossan zone hosted within quartz-eye tuff rocks extending 
+east from Chip Creek.  A single rock grab sample from this zone returned 655 ppm Zn 
+(DC-9).  Soil geochemical surveys completed at the same time identified an in part 
+coincident lead-zinc anomaly (Kermeen, 1985). 
+
+7.3.6 SC & North Domes 
+
+The SC and North Dome showings were discovered during 1986 diamond drilling 
+of HLEM conductive anomalies and a sequence of rhyolite flows and tuff rocks within 
+the south central Chu Chua Property claims.  Drill hole BAR-1 tested the North Dome 
+and intersected a 10 m wide zone of sericite altered rhyolite tuff that returned assays of 
+590 ppb Au over 1 m.  Drill hole BAR-3 tested the SC Dome and collared into a 59 m 
+interval of quartz veined, silica-sericite altered rhyolite containing an average of 4-7% 
+pyrite.  The interval returned assays of 4.45 g/t Au over 2.52 m, including a 30 cm 
+section of massive pyrite assaying 17.6 g/t Au and 134 g/t Ag; above a broader 
+mineralized zone averaging 242 ppb Au over 13.98 m (Evans, 1987).   
+
+ 
+
+
+
+3
+0 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+30 
+
+ 
+
+Subsequent drilling by Minnova tested the western flank of the North Dome.  
+Silica-sericite altered rhyolite and tuffaceous argillite intersected within drill hole CCF-16 
+returned assays of 1.1 g/t Au over 3 m between 94.5 and 97.5 m depth (Gray, 1987). 
+
+ 
+In 1987, Minnova continued diamond drilling of the SC dome with eight holes 
+
+(BAR-8 through BAR-15) totalling 705 m.   Drill hole BAR-8 returned two separate near 
+surface intersections assaying 1.23 and 1.39 g/t Au over 1.5 m; BAR-9 returned 0.78 g/t 
+Au over 15 m, including 2.04 g/t Au over 4 m;  BAR-10 returned 7.51 g/t Au over 0.4 m 
+and, 1.79 g/t Au over 1.5 m; BAR-11 returned 0.6% Cu, 3.8% Pb, 4.8% Zn and 110 g/t 
+Ag over 0.45 m; and BAR-12 returned 0.59 g/t Au over 9 m.  Drill hole BAR-14 
+intersected pyrite-sphalerite mineralized tuffaceous chert, south of Sprague Creek, that 
+returned assays of 0.18% Zn over 10 m; hole BAR-15 did not intersect significant 
+mineralization (Gray & Pirie, 1988). 
+
+8 Deposit Types 
+
+The principal deposit of interest on the Chu Chua property is a Cyprus-type 
+volcanogenic massive sulphide (VMS). The stratigraphy underlying the property is also 
+prospective for Kuroko-type massive sulphide deposits as shown by the presence of 
+several of these deposits proximal to the property. In general terms, VMS deposits are 
+an important source of copper, lead and zinc with lesser precious  metals  and  
+comprise  a  massive  sulphide  ore  lens  underlain  by  a stringer zone of intensely 
+altered rocks hosting vein and disseminated ore (Franklin, 1993). These deposits are 
+generally hosted in volcanic rocks of varying compositions with associated but less 
+abundant sedimentary rocks. Quartz veins hosting base- and/or precious-metals may 
+also be significant when considering the numerous occurrences of this mineralization 
+type surrounding the Chu Chua property. 
+
+8.1 Cyprus Massive Sulphide 
+
+Cyprus-type massive sulphide deposits are part of the volcanic-associated 
+massive sulphide deposits spectrum, present in ophiolite sequences, dominated by 
+mafic and ultramafic volcanic rocks (Galley and Koski, 1999). These ophiolite 
+sequences form in fore-arc and back-arc environments and comprise sheeted dyke 
+complexes overlain by volcanic successions of lava flows, pillow lavas, breccias, 
+hyaloclastites, feeder dykes and sills and interstitial sediments. Driven by the heat of 
+underlying magma chambers, hydrothermal fluids circulate through the volcanic pile 
+scavenging metals, redepositing them as massive, stratiform sulphide lenses typically 
+composed of pyrite, chalcopyrite, sphalerite and magnetite; the underlying 
+stringer/feeder zone typically consists of quartz and pyrite with minimal base metal 
+content. The sulphide lenses are commonly clustered in groups and can often be found 
+along strike of other lenses. In British Columbia, workers have noted a common 
+alignment of these lenses near steep, normal faults (Hoy, 1995). 
+
+Cyprus-type deposits in British Columbia are primarily Mississippian-Permian or 
+late-Triassic in age; the most significant of which are the Anyox deposits which range 
+from 0.2 to 23.7 million tonnes in size and average grades of 1.5% Cu, 9.9 g/t Ag and 
+0.17 g/t Au (Hoy, 1995). The authors have not verified the size and/or grade of the 
+deposits described by Hoy (1995) and the mineralization contained within these 
+deposits may or may not be indicative of the mineralization on the Chu Chua Property. 
+
+
+
+3
+1 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+31 
+
+ 
+
+Exploration for these deposits is aided by the highly conductive massive sulphide 
+bodies that can be readily identified using various electromagnetic, magnetic, or 
+induced-polarization geophysical techniques. Soil sampling typically resolves 
+anomalous levels of copper, zinc, and other associated elements. When rock exposure 
+allows, prospecting and mapping should focus on altered packages of submarine mafic 
+to ultramafic volcanic rocks.  Alteration of these rock types results in common chlorite-
+talc-carbonate-magnetite assemblages; the underlying stringer zone can be typified by 
+this assemblage with accompanying quartz-pyrite veins (Hoy, 1995). 
+
+8.2 Kuroko Massive Sulphide 
+
+Kuroko (or Noranda) type massive sulphide deposits are typically found within 
+felsic volcanic rocks in calc-alkaline, bimodal arc successions. They form during the  
+development  of  island  arc  complexes  during  rifting  within  or  behind  an oceanic or 
+continental margin (Hoy, 1995). Host rocks to these deposits are typically rhyolite-dacite 
+submarine volcanic rocks with associated andesites or, less commonly, mafic volcanic 
+rocks or sedimentary rocks. Mineralization, including pyrite, sphalerite, galena and 
+chalcopyrite, is found within one or more lenses of massive sulfides, commonly zoned 
+with a Cu-rich base and a Pb+Zn-rich top. These deposits can also have significant 
+concentrations of precious- metals including silver and gold. Underneath these lenses, 
+low-grade stringer zones are common, and barite or chert layers commonly overlie 
+these lenses. As with the Cyprus-type deposits, the massive sulphide lens forms above 
+a hydrothermal-fluid cell with the stringer zone representing the remains of the conduit 
+of these fluids. Individual sulphide lenses vary in thickness from metres to tens of 
+metres with strike lengths of tens to hundreds of metres. 
+
+In British Columbia, Kuroko-type deposits are the most common form of VMS 
+deposits, principally hosted by the late-Devonian Eagle Bay Assemblage located 
+northeast of Kamloops and the late-Devonian Sicker group on Vancouver Island (Hoy, 
+1995). Less commonly they are Permian-Mississippian, late-Triassic, early- middle 
+Jurassic, or Cretaceous in age. Deposits in British Columbia range from less than 1 
+million tonnes to more than 10 million tonnes. The most notable Kuroko deposits in 
+British Columbia, the H-W and Kutcho, are reported to contain 10.1 million tonnes 
+grading 2.0% Cu, 3.5% Zn, 0.3% Pb, 30.4 g/t Ag and 2.1 g/t Au and 17 million tonnes 
+grading 1.6% Cu, 2.3% Zn, 0.06% Pb, 29 g/t Ag and 0.3 g/t Au, respectively (Hoy, 
+1995). The authors have not verified the grade and tonnage information provided by 
+Hoy (1995) and it is not necessarily indicative of mineralization within the Chu Chua 
+Property. 
+
+Exploration for Kuroko deposits parallels that for the Cyprus deposits save 
+differences in the host rocks and associated alteration. Felsic volcanic domes and 
+centres should be investigated along with pyrite and chert horizons, all of which display 
+quartz-sericite-chlorite alteration with distal clay mineral-, albite-, or carbonate-
+alteration. 
+
+8.3 Epithermal Veins 
+
+Epithermal veins represent a broad spectrum mineral exploration target in that 
+they are present in rocks of all types and ages in a range of tectonic settings and can 
+host a wide variety of metals, including but not limited to Au, Ag, Cu, Pb, Zn, can be 
+either monometallic or polymetallic ores. Because of this variability they are difficult to 
+
+
+
+3
+2 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+32 
+
+ 
+
+describe in general terms. The common association of these veins to massive sulphide 
+deposits increases their importance in the Chu Chua area. Deposits of this kind typically 
+consist of quartz veins formed penecontemporaneously that may cross-cut one another 
+though they were generated from the same event. The location and morphology of 
+these veins are largely controlled by rheological contrasts in the host rocks and by ore-
+controlling structures. These deposits can also contain multiple stages of mineralization, 
+presumably related to episodic tectonism associated with increased intrusive activity 
+and magmatic hydrothermal fluid generation (Panteleyev, 1996). The country rock 
+surrounding epithermal veins is commonly extensively altered even though the vein 
+walls may be sharply defined. Alteration can be laterally restricted but large overprints of 
+clay minerals, sericite and chlorite are possible; more proximal alteration will comprise 
+pyrite and quartz with lesser carbonate minerals. It is also not uncommon to find large, 
+highly colourful supergene gossans covering epithermal ores. 
+
+Lefebure and Church (1996) suggest that for polymetallic veins in British 
+Columbia larger than 20,000 tonnes, the average size is 161,000 tonnes with grades of 
+304 g/t Ag, 3.47 % Pb and 2.66 % Zn. Within these, gold and copper are of significant 
+abundance in only half of the instances with average grades of 4 g/t Au and 0.09% Cu. 
+The authors have not verified the information provided by Lefebure and Church (1996) 
+and it is not necessarily indicative of mineralization within the Chu Chua Property. 
+
+Exploration for these deposits focuses on second-order structural features 
+adjacent to crustal-scale faults or structures surrounding volcanic centres. 
+Geophysically, these deposits are commonly linear magnetic lows and may have 
+detectable electromagnetic or induced-polarization responses due to the sulphide 
+content. Soil geochemistry can show elevations of the aforementioned principal 
+elements as well as arsenic, mercury, antimony, bismuth, molybdenum, tin, tungsten 
+and manganese. 
+
+9 Exploration 
+
+During 2010 and 2011, Shenul Capital Inc. ("Shenul"), on behalf of the Optionors, 
+completed exploration within the Chu Chua Property that included ground magnetic and 
+VLF-EM geophysical surveys, soil and rock grab geochemical surveys, and diamond 
+drilling of three (3) holes totalling 521.5 m.  Shenul retained PAC Geological Consulting 
+Inc. (PAC) in 2010 to complete the exploration program recommended by Raffle and 
+Dufresne (2010).  Dr. Peter A. Christopher, P. Eng. of PAC supervised all field 
+exploration work.  The total expenditures for the 2010 and 2011 Chu Chua Property 
+exploration exceed $200,000.   
+
+A total of 26.3 line-km of ground magnetic, and 28.1 line-km of VLF-EM survey 
+data was obtained; in addition to the collection of 928 soil, 35 rock and 27 split drill core 
+geochemical samples.  Ground geophysical and soil geochemical surveys were 
+completed over the EM1, EM2, and North Dome conductive anomalies (Figure 9). All of 
+the exploration on the Chu Chua Property was carried out by Shenul or contractors on 
+behalf of Shenul.  To date, Strachan has not conducted any exploration at Chu Chua 
+Property. 
+
+
+
+3
+3 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+33 
+
+ 
+
+9.1 Geophysical Program 
+
+Ground magnetic and VLF-EM geophysical surveys over the EM1 (including part 
+of the M2 magnetic anomaly), EM2 (including part of the M3 and M5 magnetic 
+anomalies), and North Dome conductive anomalies were completed during two 
+separate periods; from June 19 to October 19, 2010, and from July 5 to July 29, 2011. 
+
+A total of 26.3 line-km of ground magnetic, and 28.1 line-km of VLF-EM survey 
+data was obtained that included: 13.5 line-km of magnetics and VLF-EM at the EM1 
+grid; and 8.6 line-km of magnetics, and 7.2 line-km of VLF-EM at the EM2 grid; and 4.3 
+line-km of magnetic, and 7.4 line-km of VLF-EM at the North Dome grid (Figure 9). 
+
+Geophysical data was collected at 25 m spacing along a series of 100 m spaced 
+east-west oriented gridlines.  Grid placement was based on the location of conductive 
+and magnetic anomalies as defined by the 2008 AeroTEM III helicopter-borne 
+electromagnetic and magnetic geophysical survey (Raffle, 2008).  Ground magnetic 
+survey data was acquired with a Geometrics Portable Proton Magnetometer Model G-
+856 (EM1 grid), and a Scintrex MP2 Portable Proton Magnetometer (EM2 and North 
+Dome grids) with a staff mounted sensors.  Diurnal variation was determined by the 
+collection duplicate readings at a fixed location following completion of each survey line.  
+Magnetic diurnal variation for all grids was determined to be less than 10 nano-tesla 
+(nT).  Magnetic amplitude of the observed anomalies was approximately 1000 nT, 
+therefore it is the opinion of the author that the magnetic data quality is acceptable 
+(Figure 9). 
+
+The EM1 grid is centred on the EM1 AeroTEM III conductive anomaly and the 
+northern half of two sub-parallel, north-south trending linear magnetic high anomalies 
+that comprise the M2 anomaly.  The VLF-EM survey defines an approximately 800 m 
+north-northeast trending moderate strength conductive axis coincident with the peak 
+conductivity (greater than 100 nT/s) of the EM1 airborne anomaly.  A number of 
+peripheral weak single and multi-line conductive anomalies flanking the EM1 anomaly 
+were also identified.  The results of the EM1 ground magnetic survey show the EM1 
+conductive anomaly is flanked to the west by a prominent north-south trending 1000 nT 
+linear magnetic high anomaly.  Mapping by Shiarizza and Preto (1987) indicates the 
+EM1 anomaly is underlain by chert, cherty argillite, slate and phyllite flanked to the east 
+and west by diabase and gabbro rocks; all of the Lower Fennell Formation.  Similarly, 
+PAC observed magnetite-bearing gabbro along the west side of the EM1 grid coincident 
+with the magnetic anomaly. 
+
+The EM2 grid comprises a series of four (4) east-west oriented survey lines 
+spaced at 100 m intervals that overlaps the northernmost part of the EM2 AeroTEM III 
+conductive, and the M3 and M5 linear magnetic high anomalies.  Geophysical survey 
+coverage does not extend south due to the steep terrain at the head of Sprague Creek.  
+The VLF-EM survey defines two (2) northwest trending weak-moderate strength 
+conductive axis anomalies spanning four (4) gridlines and a number of weak single and 
+multi-line conductive axis anomalies (Figure 9).  The two weak-moderate strength 
+anomalies flank the northern terminus of the EM2 conductive anomaly. Peak 
+conductivity values (greater than 100 nT/s) were not expected within the EM2 grid area 
+given that much of the EM2 anomaly lies further south.  Similar to the EM1 anomaly, 
+mapping by Shiarizza and Preto (1987) indicates the EM2 anomaly is underlain by a 
+
+
+
+3
+4 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+34 
+
+ 
+
+ 
+Figure 9: VLF-EM AND GROUND MAGNETIC SURVEY 
+
+  
+
+
+
+3
+5 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+35 
+
+ 
+
+narrow belt of chert, cherty argillite, slate and phyllite flanked to the east and west by 
+diabase and gabbro rocks.  The position of the EM2 airborne anomaly is coincident the 
+narrow belt of chert, cherty argillite, slate and phyllite occurring along the axis of a broad 
+south sloping ridgeline.  Ground magnetics define two north-south tending 
+approximately 1000 nT linear magnetic high anomalies within the western half of the 
+grid.  The easternmost magnetic anomaly (M3) occurs within a north-south trending 
+tributary of Sprague Creek and flanks the EM2 conductive anomaly along its western 
+margin.  The northern terminus of the M3 magnetic anomaly lies along the western 
+edge of the EM2 grid within an area of low topographic relief. 
+
+The North Dome grid lies on the eastern margin of area covered by the 2008 
+AeroTEM III survey.  The grid extends 300 m east of the of the boundary of the airborne 
+survey in an effort to cover a moderate 50 nT/s partially defined conductive anomaly 
+along the eastern margin of the airborne survey block (Figures 6).  The North Dome 
+VLF-EM survey defined a number of weak multi-line north-south trending conductive 
+axis anomalies within the western half of the grid that do not appear to directly correlate 
+with airborne conductive anomalies.  Isolated moderate line conductive axis anomalies 
+within the northeast quadrant of the grid may correlate in part with the airborne 
+conductive anomaly.  Ground magnetics defines an apparently northwest trending 200 
+nT magnetic high anomaly within the northeast quadrant of the grid that is coincident 
+with the airborne conductive anomaly (Figure 9). 
+
+9.2 Geochemical Program 
+
+Soil and rock grab geochemical sampling over the EM1, EM2 and North Dome 
+grids was completed during two separate periods; from July 19 to October 19, 2010, 
+and from July 5 to July 29, 2011.  A total of 928 soil and 35 rock grab geochemical 
+samples were collected.   
+
+Soil geochemical samples were collected at 25 m intervals along a series of 100 
+m spaced, east-west oriented gridlines (Figures 10 and 11).  Soil samples were 
+collected from the "B" horizon, generally at a depth of 15 to 20 centimetres (cm) using a 
+mattock and placed in Kraft paper sample bags labelled with the appropriate grid line 
+and station coordinates.  Soil sites were marked in the field on aluminum tags stapled to 
+cedar lath pickets, and their locations recorded using GPS accurate to plus or minus 5 
+m.  Samples were dried prior to submission by PAC to ACME Analytical Laboratories 
+Ltd. (ACME), Vancouver, B.C. for analysis.  Select rock grab samples were collected 
+from representative and apparently mineralized lithologies within the EM1, North Dome 
+and SC Showing areas.  Rock samples ranging from 0.5 to 2.5 kilograms (kg) in weight 
+and were placed in uniquely labelled poly samples bags and their locations were 
+recorded using handheld GPS accurate to plus or minus 5 m.  Rock grab samples were 
+collected by PAC and Gerald Locke, and were submitted to ACME and Eco Tech 
+Laboratories Ltd. (Eco Tech), Kamloops, B.C. for analysis.   
+
+Of the 928 soil geochemical samples collected, a total of 78 samples returned 
+greater than 50 ppm Cu and are considered anomalous (the 90
+
+th
+ percentile is 46 ppm 
+
+Cu).  Of the 78 samples that returned greater than 50 ppm Cu, a total of 10 samples 
+returned greater than 100 ppm Cu, and up to 253 ppm Cu (sample L897+00N  75+25E).    
+
+
+
+3
+6 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+36 
+
+ 
+
+ 
+Figure 10: 2010-2011 Rock and Soil Geochemistry (Cu) 
+
+  
+
+
+
+3
+7 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+37 
+
+ 
+
+ 
+Figure 11: 2010-2011 Rock and Soil Geochemistry (Au) 
+
+ 
+
+  
+
+
+
+3
+8 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+38 
+
+ 
+
+The soil geochemical survey defines numerous spot Cu anomalies, two multi-
+sample and multi-line Cu in soil anomalies within the northern half of the EM1 grid, and 
+one multi-sample and multi-line soil anomaly within the North Dome grid (Figure 10).  
+Within the northeast quadrant of the EM1 grid in area of low topographic relief, six (6) 
+adjacent soil samples returned 53 to 186 ppm Cu; and on the sample line 100 m to the 
+south three (3) adjacent samples returned 53 to 253 ppm Cu (sample L897+00N  
+75+25E).  Within the northwest quadrant of the EM1 grid, 15 samples within a 300 x 400 
+m area returned 53 to 136 ppm Cu.  Within the North Dome grid six (6) soil samples on 
+adjacent lines within the eastern tributary of Sprague Creek returned 50 to 141 ppm Cu.   
+
+Of the 928 soils collected a total of 85 samples returned assays of greater than 
+10 ppb Au and are considered anomalous (the 90
+
+th
+ percentile is 9 ppb Au).  Of the 85 
+
+samples that returned greater than 10 ppb Au, a total of 11 samples returned assays of 
+greater than 50 ppb Au (sample L56876+00N 7074+00E returned assays of 358 ppb 
+Au).  Ten of the 11 samples returning greater than 50 ppb Au were collected within the 
+North Dome grid; the remaining sample (L56891+00N 7068+25E) returned assays of 65 
+ppb Au and was collected from the EM1 grid (Figure 11).  Eleven soil samples returned 
+greater than 10 ppb Au within east half of the EM2 grid (sample L56877+00N 7087+00E 
+returned 48 ppb Au), a distance of 1500 m to the south along strike of the lithologic 
+units.  In the northern half of the EM1 grid, 12 soil samples returned assays of greater 
+than 10 ppb Au (sample L899+00N 68+00E returned 34.7 ppb Au) that define an 
+approximately 600 x 200 m, northwest trending gold and coincident copper anomaly.  
+
+Gold in soil anomalies within the North Dome grid are widely distributed and are 
+underlain by undifferentiated rocks of the Lower Fennell assemblage (Schiarizza and 
+Preto, 1987).  Falconbridge drill hole BAR-1, located 400 m south the North Dome grid 
+intersected a 10 m wide zone of sericite altered rhyolite tuff that returned assays of 590 
+ppb Au over 1 m (Evans, 1987).  Subsequent drilling by Minnova along the western 
+edge of the North Dome grid intersected silica-sericite altered rhyolite and tuffaceous 
+argillite (CCF-16) that returned assays of 1.1 g/t Au over 3 m (Pirie, 1988).  Detailed 
+geologic mapping, also by Falconbridge, completed over part of the south and east 
+quadrant of the North Dome grid indicates gold in soil anomalies are underlain 
+predominantly by quartz-feldspar porphyry intrusive, felsic tuff; and lesser chert, argillite-
+phyllite and diorite (Evans, 1987).  This suggests anomalous gold values are at least in 
+part associated with felsic volcanic rocks of the Lower Fennell assemblage.  The 
+possible bedrock source of copper and gold in soil anomalies within the EM1 grid are 
+unknown.   
+
+Limited rock grab sampling returned anomalous gold values in the North Dome 
+and EM2 grid areas.  Of the 35 rock grab samples collected, eight (8) samples returned 
+assays of greater than 100 ppb Au and are considered anomalous.  In the northeast 
+corner of the EM2 grid, rock grab sampling within a zone of quartz veined, quartz-
+feldspar-porphyry containing disseminated pyrite mineralization, in contact with 
+gossanous argillite rocks cut by 5-10 cm west-dipping quartz veinlets returned multiple 
+anomalous gold values (now known as the New Discovery Zone).  Six (6) composite 
+rock grab samples over a 25 m zone of outcrop exposed in a recent logging road cut 
+returned assays of ranging between 0.25 g/t Au and up to 3.67 g/t Au (sample "Sulphide 
+#2").  Two additional samples collected 200 m to the east (sample #4-82511), and 800 
+m to the north (sample "Chu Chua North CCN1") of the New Discovery Zone returned 
+assays of 160 and 170 ppb Au, respectively.  
+
+
+
+3
+9 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+39 
+
+ 
+
+10 Drilling 
+
+Shenul completed three (3) BQTK (40.8 mm diameter) diamond drill holes, 
+totalling 521.5 m within the EM1 grid area between the dates of September 20 and 
+October 17, 2010.  PAC directly supervised the diamond drill program, and completed 
+geologic logging and geochemical sampling of core.  Drill hole locations are 
+summarized in Table 2 and shown in Figure 12 below.  Diamond drill hole cross-
+sections are presented in Appendix 1. 
+
+Table 2: 2010 Diamond Drill Holes 
+ 
+
+Hole 
+Number 
+
+UTM 
+(Easting) 
+
+UTM 
+(Northing) 
+
+Dip 
+Elevation 
+
+(m) 
+Azimuth 
+
+Total 
+Depth (m) 
+
+CCS10-1 0707377 5689213 -58 1831 270 114.9 
+
+CCS10-2 0707228 5688977 -58 1848 270 200.3 
+
+CCS10-3 0706755 5689854 -55 1739 90 206.3 
+
+Total: 521.5 
+
+ 
+A total of 27 half-split drill core samples were submitted by PAC to ACME for 
+
+inductively coupled mass spectrometer (ICP-MS) multi-element analysis.  Samples 
+were split using a mechanical core splitter and were placed in uniquely labelled poly 
+rock sample bags keyed to drill hole number and sample depth interval.  The length of 
+each core sample interval was determined based on lithology and the presence of 
+mineralization (disseminated pyrite, quartz and/or carbonate veining). Individual drill 
+core samples varied from 1.52 to 3.05 m in length.   
+
+ 
+No significant mineralization was intersected within the three drill holes 
+
+(Appendix 2).  Drill hole CCS10-01 (270
+o
+az/-58
+
+o
+) was collared 375 m to the east of the 
+
+EM1 conductive axis (Figure 12) and collared into gabbro-diorite giving way and depth 
+to grey chert until end of hole at 114.91 m (Appendix 1).  These results indicate the 
+chert, cherty-argillite unit mapped by Schiarizza and Preto (1987) extends further east 
+than currently mapped, or that it may dip eastward.  Drill hole CCS10-02 (270
+
+o
+az/-58
+
+o
+), 
+
+collared 300 m to the southwest of CCS10-01, intersected a sequence of gabbro and 
+diorite, and magnetite bearing basalt-gabbro at depth until end of hole at 203.3 m.  The 
+presence of magnetic basalt-gabbro likely explains the M2 magnetic anomaly.  Drill hole 
+CCS10-03 (090
+
+o
+az/-55
+
+o
+) was collared to the north of the EM1 conductive and M2 
+
+magnetic anomalies.  The drill hole intersected fine-grained chlorite altered andesite-
+basalt, and locally interplayed chert consistent with the Upper Fennell assemblage.  The 
+drill hole terminated in a 12 m core width fault-shear zone.  Given the position of the drill 
+hole, the fault-shear zone may correlate with the interpreted thrust fault contact between 
+the Upper and Lower Fennell assemblage. 
+
+ 
+The 2010 drill hole locations appear to have been largely dictated by access 
+
+considerations (i.e proximity to existing logging roads).  It is the opinion of the author 
+that the drilling does not adequately test the EM1 conductive anomaly.  Similarly, drill 
+hole CCS10-01 was not ideally positioned to test the northwest trending copper and 
+gold soil anomaly identified by the 2010 sampling (Figure 12).  The drilling indicates that 
+chert-argillite rocks likely underlie the EM1 anomaly.  It is possible that graphitic argillite  
+  
+
+
+
+4
+0 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+40 
+
+ 
+
+ 
+Figure 12: 2011 Drillholes, Zoff Electomagnetics and Soil Geochemistry (Cu) 
+
+ 
+  
+
+
+
+4
+1 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+41 
+
+ 
+
+rocks may be the source of the EM1 conductive anomaly; though this has not been 
+determined.  The conductive response of EM1 anomaly (approximately 500-700 nT/s) is 
+comparable to that of the Chu Chua Deposit (approximately 500 nT/s) therefore the 
+possibility that the anomaly is due to a massive sulphide source remains. 
+
+11 Sample Preparation, Analyses and Security 
+
+Soil, rock grabs, and drill core samples were submitted to ACME Analytical 
+Laboratories Ltd. (ACME), Vancouver, B.C., Eco Tech Laboratories Ltd. (Eco Tech), 
+Kamloops, B.C., and ALS Minerals (ALS), North Vancouver, B.C. for analysis.  Rock 
+grab samples collected by the author were submitted to ALS.  Acme, Eco Tech and ALS 
+are International Standards Organization (ISO) 9001:2008 and ISO 17025-2005 
+certified geochemical analysis and assaying laboratories and are independent of the 
+Optionors, Strachan and the author.   
+
+ACME, Eco Tech and ALS did not report anything unusual with respect to the 
+shipments, once received.  PAC, Gerald Locke and the author did not have control over 
+the samples at all times during transport, and therefore cannot personally verify what 
+happened to the samples from shipping up to the time they were received by the 
+laboratory.  However, the author has no reason to believe that the security of the 
+samples was compromised. 
+
+Shenul did not employ internal quality assurance/quality control (QA/QC) 
+measures (including the insertion of field duplicate, Certified Reference Material (CRM), 
+or blank samples) during the 2010 and 2011 exploration.  Shenul has instead relied 
+upon external QA/QC measures implemented by ACME, Eco Tech and ALS, which 
+includes routine analysis of CRM's, blank, repeat and re-split sample analysis.  
+
+ACME QA/QC measures incorporate a coarse blank preceding the first client 
+sample that is carried through preparation and analysis. Typically an analytical batch 
+will comprise of 34 to 36 client samples, a pulp duplicate to monitor analytical precision, 
+a less than 10 mesh (1.7 mm) reject duplicate to monitor sub-sampling variation (rock 
+and drill core), a reagent blank to measure background and an aliquot of CRM or In-
+house reference material to monitor accuracy.  Using these inserted quality control 
+samples each analytical batch and complete job is reviewed and validated before to 
+final approval and certification. 
+
+ 
+QA/QC measures at ALS and Eco Tech include routine screen tests to verify 
+
+crushing efficiency, sample preparation duplicates (every 50 samples), and analytical 
+quality controls (blanks, standards, and duplicates). QC samples are inserted with each 
+analytical run, with the minimum number of QC samples dependant on the rack size 
+specific to the chosen analytical method. Results for quality control samples that fall 
+beyond the established limits are automatically red-flagged for serious failures and 
+yellow-flagged for borderline results. Every batch of samples is subject to a dual 
+approval and review process, both by the individual analyst and the Department 
+Manager, before final approval and certification.   
+
+ 
+It is the author's opinion that the sample preparation, security and analytical 
+
+procedures were adequate for this stage of exploration on the properties.  However, the 
+author recommends that future exploration by Strachan should incorporate a 
+
+
+
+4
+2 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+42 
+
+ 
+
+comprehensive QA/QC program including the insertion of 10% field duplicate, CRM, 
+and blank samples into the sample stream to monitor analytical precision and accuracy. 
+
+11.1 Soil Sampling 
+
+Soil samples were collected by PAC and Gerald Locke from the "B" horizon, 
+generally at a depth of 15 to 20 centimetres (cm) using a mattock, and placed in Kraft 
+paper sample bags labelled with the appropriate grid line and station coordinates.  Soil 
+sites were marked in the field on aluminum tags stapled to cedar lath pickets, and their 
+locations recorded using GPS accurate to plus or minus 5 m.  Samples were dried prior 
+to submission by PAC to ACME for analysis.  At ACME, soil samples were dried at 60°C 
+and a 100 g sample was sieved to -80 mesh (0.18 mm) and subject to ACME's "1DX2" 
+method, whereby a 15 g samples split is dissolved in hot (95
+
+o
+C) aqua-regia and  
+
+inductively coupled mass spectrometry (ICP-MS) analysis.  Detection limits of 0.1 ppm 
+to 10,000 ppm Cu and 0.5 ppb to 100 ppm Au were achieved using the 1DX2 method. 
+
+11.2 Rock Sampling 
+
+Select rock samples were collected from representative and apparently 
+mineralized lithologies within the EM1, North Dome and SC Showing areas.  Rock 
+samples ranging from 0.5 to 2.5 kilograms (kg) in weight and were placed in uniquely 
+labelled poly samples bags and their locations were recorded using handheld GPS 
+accurate to plus or minus 5 m.  Rock grab samples were collected and submitted by 
+PAC, Gerald Locke and the author to ACME, Eco Tech and ALS, respectively. 
+
+Twenty-four rock samples were sent to ACME for analysis by PAC. These 
+samples were crushed and a 250 g split was then pulverized to 200 mesh (0.08 mm).  
+Samples were then subject to ACME's "1DX2" method, whereby a 15 g sample split is 
+dissolved in hot (95
+
+o
+C) aqua-regia and subject to ICP-MS analysis.  Detection limits of 
+
+0.1 ppm to 10,000 ppm Cu and 0.5 ppb to 100 ppm Au were achieved using the 1DX2 
+method. 
+
+Eleven rock samples sent to Eco Tech for analysis by Gerald Locke.  These 
+samples were crushed and a 250 g split was then pulverized to -150 mesh (0.10 mm).  
+Samples were then subject to fire assay whereby a 30 g split is fused with a flux mixture 
+and inquarted with purified silver nitrate to produce a precious metal bead.  The bead is 
+digested using nitric followed by hydrochloric acid solutions and then analyzed by 
+atomic absorption (AA).  The detection limit for standard FA analysis is 5 to 1000 ppb 
+Au.  Over range values are subject to gravimetric Au determination.  Samples submitted 
+to Eco Tech were also subject to inductively coupled atomic emission spectroscopy 
+(ICP-AES) multi-element analysis, whereby a 0.5 g sample is digested at 95
+
+o
+C in a 
+
+hydrochloric and nitric acid solution and analyzed by ICP-AES against certified 
+reference standards.   
+
+Rock samples collected by the author during the Property visit were submitted to 
+ALS for FA and ICP-AES analysis.  The samples were crushed to 10 mesh (1.7 mm) 
+using a jaw crusher.  The samples were then split using a riffle splitter, and sample 
+splits were further crushed to pass 200 mesh using a ring mill pulverizer (ALS PREP-31 
+procedure).    For FA/ICP-AES analysis, a 30 g sample is fused with a flux mixture, 
+inquarted with 6 mg of gold-free silver and then cupelled to yield a precious metal bead.  
+The bead is then digested in 0.5 ml dilute nitric and concentrated hydrochloric acid, 
+
+
+
+4
+3 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+43 
+
+ 
+
+diluted to a total volume of 4 ml, and analyzed by ICP-AES against matrix-matched 
+standards (ALS Au-ICP21 procedure).  For copper determination by ICP-AES analysis, 
+a prepared sample is digested with nitric, perchloric, hydrofluoric, and hydrochloric 
+acids, diluted to 12.5 ml, and analyzed by ICP-AES (ALS ME-OG62 procedure). 
+
+11.3 Core Sampling 
+
+A total of 27 half-split drill core samples were submitted by PAC to ACME for 
+ICP-MS multi-element analysis.  Samples were split using a mechanical core splitter 
+and were placed in uniquely labelled poly rock sample bags keyed to drill hole number 
+and sample depth interval.  The length of each core sample interval was determined 
+based on lithology and the presence of mineralization (disseminated pyrite, quartz 
+and/or carbonate veining). Individual drill core samples varied from 1.52 to 3.05 m in 
+length. 
+
+Drill core samples were crushed and a 250 g split was then pulverized to 200 
+mesh (0.08 mm).  Samples were then subject to ACME's "1DX2" method, whereby a 15 
+g sample split is dissolved in hot (95
+
+o
+C) aqua-regia and subject to ICP-MS analysis.  
+
+Detection limits of 0.1 ppm to 10,000 ppm Cu and 0.5 ppb to 100 ppm Au were 
+achieved using the 1DX2 method. 
+
+11.4 Data Verification 
+
+The author conducted a reconnaissance of the Chu Chua Property on June 
+26
+
+th
+, 2012 to verify the historically reported exploration results. The author completed 
+
+a traverse of the SC Showing area and observed quartz vein and disseminated pyrite 
+mineralized quartz-feldspar porphyritic felsic volcanic rocks of the Lower Fennel 
+assemblage and diamond drill hole collars consistent with those reported historically 
+by Evans (1987) and Gray & Pirie (1988).  In addition, the author collected rock grab 
+samples as 'replicate' samples from the New Discovery Zone and SC Showing 
+(Figures 10 and 11; Table 3). Based on the replicate samples collected by the author, 
+the historical results on the Property are deemed accurate. 
+
+Table 3: Rock Grab Assay Results from the 2012 Property Visit 
+ 
+
+Sample Easting Northing Au (g/t) 
+Cu 
+
+(ppm) 
+As 
+
+(ppm) 
+Description 
+
+12KRP021 708741 5688108 0.026 26 73 
+10 cm quartz vein, 
+quartz-feldspar-
+porphyry hosted 
+
+12KRP022 708743 5688108 0.175 41 34 
+Gossanous quartz-
+feldspar-porphyry, 
+10 cm quartz vein 
+
+12KRP023 709357 5686812 0.002 2 <5 
+Quartz veined, 
+silicified rhyolite 
+
+12 Mineral Processing and Metallurgical Testing 
+
+The author is not aware of any mineral processing or metallurgical testing 
+completed on material from the property. 
+
+
+
+4
+4 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+44 
+
+ 
+
+13 Mineral Resource Estimates 
+
+There are currently no mineral resources, as defined by as defined in "CIM 
+Definition Standards on Mineral Resources and Ore Reserves" dated November 27th, 
+2010, on the Property. 
+
+14 Adjacent Properties 
+
+The section titled "Adjacent Properties" is based on a review of available public 
+company documents including press releases, annual reports, and NI 43-101 
+technical reports as listed in the "References" section. All sources of information 
+referred to in this section were prepared by Qualified Person's as defined by NI 43-
+101 and are assumed accurate.  .  Diamond drill intercepts reported are core length 
+and may not be indicative of true width of mineralization.   
+
+14.1 Chu Chua Deposit 
+
+The current Strachan claims surround the Chu Chua deposit owned by Reva 
+Resources Ltd. (Reva) (Figure 8).  Pursuant to an agreement dated November 22, 
+2010 Reva granted Newport Exploration Ltd. (Newport) an option to acquire a 50% 
+interest in the Chu Chua claims.   On June 26, 2012, Newport announced a NI 43-101 
+compliant resource estimate for the Chu Chua deposit comprising an inferred mineral 
+resource of 2,500,000 tonnes averaging 2.0% copper, 0.3% zinc, 9.4 g/t silver and 0.5 
+g/t gold at a copper block cut-off grade of 1.0%. The deposit as currently modelled is 
+relatively shallow with approximately 75% of the inferred resource occurring within a 
+100 metre depth from surface (Dufresne et al., 2012). Mineral resources are not 
+mineral reserves and do not have demonstrated economic viability. There is no 
+guarantee that all or any part of the mineral resource will be converted into a mineral 
+reserve. The author has personally verified the resource estimate for the Chu Chua 
+deposit; however the resource estimate is not necessarily indicative of mineralization 
+within Strachan's Chu Chua Property. 
+
+The Chu Chua deposit is a Cyprus-type volcanogenic massive sulphide body 
+hosted and comprises three closely-spaced, north-south striking and sub-vertical 
+massive sulphide lenses that outcrop on surface. To date, mineralization has been 
+modeled over a 480 m strike length and to a depth of 180 m from surface. Historic 
+drilling has intersected mineralization to a depth of 560 m vertically; however relatively 
+few drill holes have targeted mineralization below 200 m. The results of historic drilling 
+indicate that the deposit thins at depth; however, the massive sulphide lenses remain 
+open at depth and along strike (Dufresne et al., 2012). 
+
+14.2 Windpass and Sweethome  
+
+Windpass and Sweethome Properties lie directly to the north of the Chu Chua 
+Property and are held 100% by Nevada Clean Magnesium Inc. (Figure 2)  The 
+Windpass Mine and Sweethome Showing are located at distances of 1500 and 600 m 
+to the north of the Chu Chua Property, respectively (Figure 7).  Historic production from 
+Windpass Mine between 1934 and 1939 totalled 93,435 tonnes yielding 1,072 kilograms 
+(34,455 ounces) of gold, 53 kilograms (1,719 ounces) of silver and 78,906 kilograms 
+(173,958 pounds) of copper (B.C. Minfile 092P 039).   
+
+
+
+4
+5 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+45 
+
+ 
+
+Gold mineralization at Windpass and Sweethome occurs within quartz veins 
+cutting gabbro-diorite and chert of the Lower Fennel assemblage (Figure 8).  The 
+Windpass workings include 457 m of drift and cross-cut development within the main 
+(200 level) adit. Two inclined shafts, the Pioneer and Telluride, were sunk from surface 
+to the adit level. An internal shaft (Davis Winze) was sunk to the 900 level and drifting 
+carried out east and west on each level. The Sweethome vein was developed by a 36 m 
+inclined shaft (30 degrees) that connects with a 106 m crosscut adit, and 137 m of drift 
+in the footwall of the vein.  
+
+ In 1972, Dalion Res Ltd performed trenching and 152 m of drilling. Surveying 
+and sampling of the Windpass and Sweethome dumps defined 32,655 tonnes of ore 
+grading 6.99 g/t Au and 16,146 tonnes at 0.68 g/t Au. The resources are considered 
+historic in nature and do not meet the criteria for a NI 43-101 compliant resource of any 
+category as defined in "CIM Definition Standards on Mineral Resources and Mineral 
+Reserves" dated November 27th, 2010, and as such should not be relied upon. In 1987, 
+Kerr Addison Mines Ltd carried out geological mapping, magnetometer surveys, 
+trenching and diamond drilling of 11 holes totalling 2,010 m. Highlights from 1987 
+diamond drilling include 1 m interval of 16.3 g/t Au (Kikauka, 2004).  
+
+Moly Gold Corp. (Moly) completed the most recent exploration during 2003 and 
+2004. Rock chip sampling of trenches on the Windpass vein retuned assays of 21.78 g/t 
+Au over 0.25 m (Pioneer South Trench) and 1.45 g/t Au over 2.0 m (Telluride Shaft 
+Area). Rock chip sampling of a quartz veins and quartz-carboante breccias at the 
+Weather Station Zone, 300m north of Windpass, returned assays of 36.94 g/t Au over 
+4.0 m (Kikauka, 2004). In 2004, Moly drilled two holes totaling 152 m at the Weather 
+Station Zone.  Drilling intersected copper-gold bearing quartz-sulphide and magnetite 
+veins that returned assays of 2.25 g/t Au over 0.3 m (Kikauka, 2005). 
+
+14.3 Rea and Somatosum Deposits 
+
+The Rea volcanogenic sulphide deposit is located 20 km to the southeast of the 
+Chu Chua Property and was first discovered in 1983 (Figure 7).  Subsequent 
+exploration by Corporation Falconbridge Copper (later Minova Inc., now Inmet Mining 
+Inc. "Inmet") resulted in the discovery of the Samatosum massive sulphide deposit in 
+1986; a distance of 500 m to the northeast.   
+
+The Rea deposit comprises two northwest trending massive sulphide lenses, 
+named the RG8 and L100 lenses, which contain fine to medium grained, banded to 
+breccia texture pyrite, sphalerite, galena, arsenopyrite, chalcopyrite and tetrahedrite 
+massive sulphide mineralization.  The RG8 lens occurs over a surface strike length of 
+75 m and a down-dip extent of 80 m; the L100 lens has a surface strike length of 50 m 
+and down-dip extent of 120 m (Bailey, eta al., 2000).  The Samatosum deposit 
+comprises a tabular 5 m thick, shallowly northeast dipping orebody having a 
+northwesterly strike length of 500 m and down-dip extend of 100 to 150 m (B.C. Minfile 
+082M 244). 
+
+The Rea and Somatosum deposits occur within Devonian to Mississippian 
+rocks of the Eagle Bay Assemblage near the stratigraphic top of a unit of mafic 
+metavolcanics, flows and volcaniclastics; overlain by phyllite and quartz-sericite schist 
+metasediments (unit EBF of Schiarizza and Preto, 1987).  The deposits are hosted 
+within two zones of sericite-quartz-carbonate-pyrite altered metasediments termed the 
+
+
+
+4
+6 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+46 
+
+ 
+
+Rea and Samatosum Horizons.  Structurally, the deposits appear to lie on the west 
+limb of an overturned, southwest-verging anticline.  Recent mapping by Bailey et al. 
+(2000) suggests both deposits occur within the same stratigraphic sequence that has 
+been repeated by faulting. 
+
+The Samatosum deposit was mined by Inmet between 1989 and 1992 and 
+produced 14 million ounces silver, 21 thousand ounces gold, 8 million pounds copper, 
+11 million pounds lead and 21 million pounds zinc from 612,000 tons (555,000 tonnes) 
+of ore milled (B.C. Minfile 082M 244).  Before commencement of production, Pirie 
+(1989) reported a Samatosum mineral resource of 634,984 tonnes grading 1,035 g/t Ag, 
+1.9 g/t Au, 1.2% Cu, 1.7% Pb and 3.6% Zn.  The Rea deposit was never put into 
+production, however historic mineral reserves of 376,000 tonnes grading 69 g/t Ag, 6.1 
+g/t Au, 0.3% Cu, 2.2% Pb and 2.3% Zn have been reported (Northern Miner, 1987; 
+Table 4).  The mineral resources and reserves are considered historic in nature and do 
+not meet the criteria for a NI 43-101 compliant resource of any category as defined in 
+"CIM Definition Standards on Mineral Resources and Ore Reserves" dated November 
+27th, 2010, and as such should not be relied upon. The author has been unable to 
+verify these sources of information, and the information is not necessarily indicative of 
+mineralization on the Chu Chua Property. 
+
+ 
+Table 4: Historic Production and Mineral Reserves For the Rea and Samatosum Deposits 
+
+ 
+
+ 
+Tonnes Ag  (g/t) Au (g/t) Cu (%) Pb (%) Zn (%) 
+
+Samatosum (Pre-Mining 
+Resource, Pirie, 1989) 
+
+634,984 1035 1.9 1.2 1.7 3.6 
+
+Samatosum (Production 1989-
+1992) 
+
+554,873 774 1.2 0.7 0.9 1.7 
+
+Rea (Reserves) 376,000 69 6.1 0.3 2.2 2.3 
+
+ 
+
+14.4 Harper Creek Deposit 
+
+Yellowhead Mining Inc's (Yellowhead) Harper Creek polymetallic volcanogenic 
+sulphide deposit is located 20 km to the northeast of the Chu Chua Property (Figure 7).  
+Noranda Exploration Company originally discovered the deposit in 1966, and 
+subsequent exploration through 1974 defined a historic, non NI 43-101 compliant 
+resource of 77.6 million tonnes (Mt) grading 0.39% Cu (Rennie and Scott, 2010, Table 
+5).  The mineral resources are considered historic in nature and do not meet the criteria 
+for a NI 43-101 compliant resource of any category as defined in "CIM Definition 
+Standards on Mineral Resources and Ore Reserves" dated November 27th, 2010, and 
+as such should not be relied upon. The author has been unable to verify these sources 
+of information and, the information is not necessarily indicative of mineralization on the 
+Chu Chua Property. Between 1967 and 1996, Noranda and its joint venture partners 
+completed diamond drilling of 176 holes totalling 21,292 m.  
+
+The Harper Creek Deposit occurs within rocks of the Devonian to Mississippian 
+Eagle Bay Assemblage (unit EBA of Schiarizza and Preto, 1987).  The deposit is 
+hosted within a moderately north dipping, thrust-imbricated, sequence of volcanic 
+derived felsic to intermediate sericite-chlorite-quartz-feldspar phyllite, and silicified 
+sandstone-siltstone rocks.  Mineralization comprises foliation and stratigraphy 
+
+
+
+4
+7 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+47 
+
+ 
+
+conformable lenses of disseminated, fracture-filling and banded pyrite-pyrrhotite and 
+chalcopyrite mineralization and accessory magnetite.   
+
+Yellowhead acquired the Harper Creek Property in 2005 and completed re-
+logging and sampling of historic drill core, and a 7 hole program of confirmatory 
+diamond drilling totalling 2,324 m.  In November 2007 Yellowhead released the first NI 
+43-101 compliant resource estimate for the Harper Creek deposit.  The estimate 
+comprised an indicated resource of 451 million tonnes grading 0.32% Cu, and an 
+inferred resource of 142 Mt grading 0.33% Cu at a copper block cut off grade of 0.2% 
+(Rennie and Scott, 2007).  Mineral resources are not mineral reserves and do not have 
+demonstrated economic viability. There is no guarantee that all or any part of the 
+mineral resource will be converted into a mineral reserve. The author has been unable 
+to verify these sources of information, and the information is not necessarily indicative 
+of mineralization on the Chu Chua Property. 
+
+Through the end of 2008 Yellowhead completed diamond drilling of 75 holes 
+totalling 27,584 m.  During 2009, re-sampling of historic drilling core was completed to 
+permit incorporation of precious metal values into the resource model database.  On 
+March 8, 2011, Yellowhead released the results of preliminary economic assessment 
+(PEA) and an updated resource estimate.  The resource estimate, at a 0.2% Cu cut-off 
+comprised measured resources of 90.0 Mt grading 0.30% Cu, 0.033 g/t Au and 1.18 g/t 
+Ag; indicated resources of 442.1 Mt grading 0.31% Cu, 0.032 g/t Au and 1.06 g/t Ag for 
+a total measured and indicated resource of 532.1 Mt grading 0.31% Cu, 0.032 g/t Au 
+and 1.08 g/t Ag (Narcisco et al, 2011).  Mineral resources are not mineral reserves and 
+do not have demonstrated economic viability. There is no guarantee that all or any 
+part of the mineral resource will be converted into a mineral reserve. The author has 
+been unable to verify these sources of information, and the information is not 
+necessarily indicative of mineralization on the Chu Chua Property. 
+
+During 2010 and 2011 Yellowhead completed an additional 44 diamond drill 
+holes totalling 14,330 m (119 diamond drill holes totalling 41,914 m were completed by 
+Yellowhead between 2006 and 2011).  On February 16, 2012 Yellowhead released and 
+updated resources estimate; and announced completion of a feasibility study (FS) on 
+March 2, 2012.  The current resource estimate (effective December 20, 2011) for the 
+Harper Creek deposit, at a 0.2% Cu cut-off, comprises measured resources of 348.5 Mt 
+grading 0.31% Cu, 0.034 g/t Au, 1.3g/t Ag; indicated resources of 466.5 Mt at 0.28% 
+Cu, 0.03g/t Au, 1.3g/t Ag for a total measured and indicated resource of 815 Mt grading 
+0.29% Cu, 0.032 g/t Au and 1.3 g/t Ag. A further 80.2 Mt grading 0.30% Cu, 0.033g/t 
+Au, and 1.4g/t Ag were classified in the inferred resource category.  Mineral resources 
+are not mineral reserves and do not have demonstrated economic viability. There is 
+no guarantee that all or any part of the mineral resource will be converted into a 
+mineral reserve. The author has been unable to verify these sources of information, 
+and the information is not necessarily indicative of mineralization on the Chu Chua 
+Property. The FS included a mineable reserve estimate for the Harper Creek Deposit.  
+The mineable reserve estimate; based upon certain economic parameters, geotechnical 
+design criteria and metallurgical recovery assumptions; comprises proven reserves of 
+401.2 Mt grading 0.27% Cu, 0.031 g/t Au and 1.15 g/t Ag; probable reserves of 303.3 
+Mt grading 0.25% Cu, 0.027 g/t Au and 1.13 g/t Ag for total proven and probable 
+reserves of 704.4 Mt grading 0.26% Cu, 0.029 g/t Au and 1.14 g/t Ag (Collins et al, 
+
+
+
+4
+8 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+48 
+
+ 
+
+2012). The author has been unable to verify these sources of information, and the 
+information is not necessarily indicative of mineralization on the Chu Chua Property. 
+
+Table 5: Historic and Current Mineral Resource Estimates for the Harper Creek Deposit 
+ 
+
+ 
+Category Cu% Cut-Off 
+
+Million 
+Tonnes 
+
+Cu (%) 
+Au 
+
+(g/t) 
+Ag (g/t) 
+
+Noranda (1974) Unclassified - 77.6 0.39 - - 
+
+Yellowhead Mining Inc. (Rennie and 
+Scott, 2007) 
+
+Indicated 
+0.2% 
+
+451 0.32 - - 
+
+Inferred 142 0.33 - - 
+
+Yellowhead Mining Inc. (Narcisco et 
+al, 2011) 
+
+Measured 
+
+0.2% 
+
+90.0 0.30 0.033 1.18 
+
+Indicated 442.1 0.31 0.032 1.06 
+
+Measured & 
+Indicated 
+
+532.1 0.31 0.032 1.08 
+
+Inferred 117.2 0.29 0.032 1.32 
+
+Yellowhead Mining Inc. (Collins et al, 
+2012) 
+
+Measured 
+
+0.2% 
+
+348.5 0.31 0.034 1.30 
+
+Indicated 466.5 0.28 0.030 1.30 
+
+Measured & 
+Indicated 
+
+815.0 0.29 0.032 1.30 
+
+Inferred 80.2 0.30 0.033 1.40 
+
+Reserves 
+Proven 
+
+401.2 0.27 0.031 1.15 
+
+Reserves 
+Probable 
+
+303.2 0.25 0.027 1.13 
+
+ 
+
+14.5 CM 
+
+JC Resource Inc. (JC) currently holds the CM Cyprus-type massive sulphide 
+prospect, located 4 km west of the Chu Chua Property.  Similar to the Chu Chua 
+deposit, copper, zinc and precious metal mineralization at the Upper and Lower 
+showings occur within a chert-argillite horizon hosted within mafic volcanic rocks of the 
+Upper Fennell assemblage.  Mineralization at the Lower Showing comprises semi-
+massive to disseminated pyrite, chalcopyrite and sphalerite where historic trenching 
+returnee assays of 5.7% Cu, 2.95 g/t Au and 29.7 g/t Ag over 3.4 m.  Trenching of 
+chert-hosted massive magnetite and pyrite-chalcopyrite mineralization at the Upper 
+Showing returned assays of 0.4% Cu and 2.0 g/t Au over and 2 grams per tonne gold 
+over 3 m (Casselman, 1995).  Mapping by Inco Limited defined a bedding conformable 
+zone of intense quartz-calcite-chlorite veining over a 1.7 km strike length and a width of 
+approximately 150 m within basalt rocks lying in the footwall of the chert-argillite horizon 
+hosting the Upper and Lower showings (Casselman and Cameron, 1994).   
+
+At the Gold Zone, 600 m to the south of the Upper and Lower showings, vuggy 
+quartz-carbonate fracture-fill veins occur within locally ankerite altered mafic volcanic 
+rocks.  Diamond dril hole 87-2 tested the Gold Zone and intersected siliceous sediment 
+hosted semi-massive pyrite and chalcopyrite mineralization that returned assays of 
+4.8% copper, 0.2% zinc, 14.1 g/t silver and 0.12 g/t gold over 2.9 metres (Casselman 
+and Cameron, 1994).   
+
+
+
+4
+9 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+49 
+
+ 
+
+15 Other Relevant Data and Information 
+
+The author is not aware of any other relevant information with respect to the 
+Chu Chua property. 
+
+16 Interpretation and Conclusions 
+
+Strachan's Chu Chua Property surrounds the Chu Chua deposit, a Cyprus-type 
+volcanogenic massive sulphide body hosted within a 70 m thick chert sequence within 
+a package of pillow basalts, first discovered in 1978. The Chu Chua property is largely 
+underlain by the Mississippian to Permian aged Fennell Formation comprising basaltic 
+and rhyolitic volcanic rocks, clastic and chemical sedimentary rocks and diabase 
+sills. The main Chu Chua deposit, which is currently owned by Reva, is comprised of 
+two vertical to steeply west-dipping lenses of semi-massive to massive pyrite, 
+chalcopyrite and magnetite up to 40 m thick. The lenses strike for about 400 metres 
+and have a maximum depth of 200m. However, at least one deep hole has 
+intersected massive sulphide at a depth of 630 m below surface. 
+
+ 
+A 2008 AeroTEM III time domain EM-magnetic geophysical survey has 
+
+resulted in the identification of at least two priority magnetic-EM anomalies and three 
+magnetic-only anomalies that compare well with the known signature for the adjacent 
+Chu Chua deposit and thus warrant follow-up exploration. In addition, a compilation of 
+historic surface rock and soil geochemical data and drilling data indicates that there is 
+potential for the Chu Chua deposit, currently held by Reva, to strike onto the Strachan 
+claims.  Other Cu-Zn and Au anomalies occur well away from the main Chu Chua 
+deposit to the southeast and south; specifically the SC Dome, North Dome, Energite, 
+Joe and Chip Dixie showing areas. Some of the geochemical anomalies are 
+coincident with linear or discreet isolated EM and/or magnetic anomalies that warrant 
+further exploration. The possibility exists for the discovery of Chu Chua style VMS 
+deposits as well as base-precious metal veins and stockworks in Paleozoic volcanic 
+and sedimentary rocks on Strachan's Property. 
+
+ 
+Exploration conducted by Shenul during 2010 and 2011 included ground 
+
+magnetic and VLF-EM geophysical surveys; collection of 928 soil and 35 rock grab 
+geochemical samples on three separate targets (EM1, EM2 and North Dome grids); 
+and diamond drilling of three holes totalling 521.5 m with the EM1 grid.   
+
+ 
+VLF-EM surveys define a moderate strength conductive axis coincident with the 
+
+peak conductivity of the EM1 airborne anomaly.  The result of 2010 diamond drilling of 
+previous geologic mapping indicates the EM1 anomaly is underlain by chert, cherty 
+argillite, slate and phyllite flanked to the east and west by variably magnetic diabase 
+and gabbro rocks of the Lower Fennell assemblage.  Soil geochemical surveys define 
+numerous spot copper and gold anomalies, two multi-sample and multi-line copper and 
+coincident gold anomalies within the EM1 grid, and significant widely distributed gold 
+anomalies throughout the North Dome and east half of the EM2 grid.  Between the 
+North Dome and EM2 targets, six rock samples of quartz-feldspar-porphyry and 
+gossanous argillite at the New Discovery Showing returned assays ranging between 
+0.25 g/t Au and up to 3.67 g/t Au.  The results of geologic mapping, soil and rock 
+sampling indicate gold anomalies within the North Dome and EM2 grids values are 
+associated with felsic volcanic rocks of the Lower Fennell assemblage.  The 2010 
+
+
+
+5
+0 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+50 
+
+ 
+
+diamond drilling does not adequately test the EM1 conductive anomaly.  Similarly, drill 
+hole CCS10-01 was not ideally positioned to test the northwest trending copper and 
+gold soil anomaly identified by the 2010 sampling.   
+
+ 
+
+Based on the results of the QA/QC measures and on replicate sampling, the 
+author has no reason to doubt the reliability or confidence in the exploration information.  
+The EM1 anomaly remains a high-priority target and its conductive response is 
+comparable to that of the Chu Chua Deposit; although this does not necessarily indicate 
+the anomaly hosts mineralization similar to the Chu Chua Deposit.  The source of the 
+EM1, EM2 and North Dome anomalies may also be explained by the presence 
+conductive graphitic argillite rocks, which have been intersected in some of the historic 
+drill holes.  However, given the presence of copper and gold in soil anomalies within the 
+EM1 grid and gold in soil, rock and historic diamond drill hole intercepts associated with 
+felsic volcanic rocks within the EM2 and North Dome grids, this is not expected to affect 
+the continued viability of the project.  
+
+17 Recommendations 
+
+Further exploration in the area of the Chu Chua Deposit should be 
+staged.  Expansion of helicopter-borne EM and magnetic geophysical survey 
+coverage is warranted within the southern and eastern claims.  The estimated cost to 
+complete 500 line-km of airborne EM and magnetic surveys at 100 m line spacing is 
+approximately $80,000 not including GST.  In addition, an exploration database 
+comprising 2,408 soil geochemical samples and 161 diamond drill holes exists for the 
+Chu Chu Property and adjacent Chu Chua deposit.  This report summarizes all 
+significant exploration that has occurred within and adjacent to the Chu Chua Property 
+however, a large amount of additional soil and rock geophysical and HLEM ground 
+geophysical survey data exists that has not been digitally captured.  Digitization of 
+these data will facilitate prioritization of historic base-precious metal soil, rock and 
+diamond drill anomalies, EM conductors and mineral occurrences,   The estimated 
+cost to complete additional compilation of historic exploration data is $10,000 not 
+including GST (Phase 1a).  
+
+ 
+Based on the results of 2010 and 2011 exploration by Shenul, and as a follow-
+
+up to the proposed airborne EM and magnetic geophysical survey and compilation, 
+additional ground geophysical surveys, geologic mapping, soil and rock geochemical 
+surveys are warranted to test priority magnetic-EM and magnetic-only anomalies and 
+historic Cu-Zn and Au anomalies within the Chu Chua Property (Phase 1b).  The 
+total estimated cost to complete Phase 1b evaluation of priority anomalies is $110,000 
+not including GST.  The total cost of the Stage 1 program is estimated at $200,000 not 
+including GST (Table 6). 
+
+ 
+Contingent on the results of Phase 1 exploration, Phase 2 drilling of priority 
+
+targets throughout the Property and to test the lateral extent of the Chu Chua deposit 
+within Strachan's claims is warranted (Table 6). Any new drilling should include 
+downhole electromagnetic surveys measuring conductivity, which can assist in 
+resolving the extent of the Chu Chua massive sulphide lenses and in targeting new 
+separate zones. Additionally, systematic downhole multi trace element and whole rock 
+
+
+
+5
+1 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+51 
+
+ 
+
+geochemical work should be conducted on any new core in order to identify and better 
+map the volcanic stratigraphy associated with the Chu Chua massive sulphide lenses.  
+The actual details and associated budget for the Phase 2 drilling program will 
+depend upon the results of the Phase 1 program.  At present, it is anticipated that at 
+least 2,000 m in a minimum of 10 drillholes will be required to test the extent of the 
+Chu Chua deposit and follow-up of the geophysical anomalies at the south end of the 
+Property. The estimated cost to complete Phase 2 drilling is $600,000 not including 
+GST. 
+
+ 
+Table 6: Budget for Proposed 2012 and 2013 Exploration, Chu Chua Property 
+
+ 
+
+Budget Item Estimated Cost 
+
+      
+
+Airborne Geophysics, Compilation, 5 Weeks Surface Exploration   
+
+PHASE 1:    
+
+AeroTEM IV Heli-borne geophysical survey (500 line-km @ $125/line-km) $80,500.00 
+
+      
+
+Digital Compilation of Historic Exploration Data $10,000.00 
+
+      
+
+Salaries Field - Senior Supervision, 1 Geologist and 3 Field Assistants for 28 days  $50,420.00 
+
+      
+
+Flights/Accommodations and Meals $17,770.00 
+
+      
+
+Fuel (gas, diesel) $1,000.00 
+
+      
+Field gear – sample bags, standards/blanks, computer/software, 
+HLEM/magnetometer rental $11,210.00 
+
+      
+
+Truck/ATV rental $5,700.00 
+
+      
+
+Analytical    
+
+  
+Rock : ALS Minerals $40/sample Au FA-AA / ICP-MS (150 samples + 10% 
+QA/QC) $6,600.00 
+
+  Soil : ALS Minerals $20/sample ICP-MS (800 samples + 5% QA/QC) $16,800.00 
+
+    
+
+TOTAL PHASE 1: $200,000.00 
+
+PHASE 2: : (Contingent on the results of Phase 1) Diamond drilling of select 
+targets from Phase 1 (2000 metres @ $300/metre all up)  $600,000.00 
+
+Total Project Costs, Excluding GST $800,000.00 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+5
+2 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+52 
+
+ 
+
+18 Date and Signature Page 
+
+This Technical Report was prepared to NI 43-101 standards by the following 
+Qualified Person.  The effective date of this report is January 25, 2013 
+
+ 
+
+Kristopher J. Raffle, B.Sc., P.Geo. 
+APEX Geoscience Limited 
+ 
+Vancouver, British Columbia, Canada 
+January 25, 2013 
+
+
+
+5
+3 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+53 
+
+ 
+
+19 References 
+
+Belik, G.S. (1995). Geological and Geochemical Report on the KB property, Kamloops Mining 
+Division, 82M/5W and 92P/8E for Eighty-Eight Resources, British Columbia Ministry of 
+Energy and Mines, Assessment Report no. 23816. 
+
+Blackadar, D.W. (1989a). Drilling Report on the CC 1, CC 2 and CC 3 Claims, Kamloops Mining 
+Division, 92P/8E, Lat. 51o22' N, Long. 120 o04' W, British Columbia Ministry of Energy and 
+Mines, Assessment Report no. 18818. 
+
+Blackadar, D.W. (1989b).  Drilling Report on the FY Group (FY 1, 2, 3, Dixie 1, 44, 45 Fr, 46 Fr), 
+Kamloops Mining Division, NTS 82M/5W, Lat 51
+
+o
+15' N, Long 119
+
+o
+57' W, British Columbia 
+
+Ministry of Energy and Mines, Assessment Report no.18489. 
+
+Candy, C., and White, G.E. (1984). Vestor Explorations Ltd. Geophysical Report on a Vector 
+Pulse Electromagnetometer Survey on the CC 5, 6, 7 claims, Kamloops Mining Division, 
+B.C. Lat 51
+
+o
+23' N, Long 120
+
+o
+03' W, N.T.S. 92P/8, British Columbia Ministry of Energy and 
+
+Mines, Assessment Report no. 12884. 
+
+Cardinal, D.G. (1984). A Diamond Drill Assessment Report, Energite Claims Group, Kamloops 
+
+Mining Division, , NTS 82M/5W, Lat.  5121' N, Long. 11950' W. British Columbia Ministry 
+of Energy and Mines, Assessment Report no. 13766. 
+
+Casselman, S. and Cameron, B. (1994). 1994 Geological, Geophysical and Lithogeochemical 
+Report on the CM Property, Kamloops Mining Division, B.C., 92P/8E, 51°18'N, 120°07'W, 
+British Columbia Ministry of Energy and Mines, Assessment Report no. 23653. 
+
+Casselman, S. (1995). 1995 Diamond Drilling Report on the CM Property, CM1 to 7 Claims, 
+Kamloops Mining Division, NTS 92P/83 51°18'N, 120°07'W, British Columbia Ministry of 
+Energy and Mines, Assessment Report no. 24180. 
+
+CIM (Canadian Institute of Mining and Metallurgy) (2010). CIM Definition Standards -For Mineral 
+Resources and Mineral Reserves, Prepared by the CIM Standing Committee on Reserve 
+Definitions Dated November 27, 2010 and Adopted by CIM Council, November, 27 2012 10 
+pages. 
+
+Dufresne, M., Raffle, K., and Nicholls, S. (2012).  Technical Report on the Chu Chua Property, 
+British Columbia.  Newport Exploration Ltd. 
+
+Evans, G.W. (1987). Diamond Drill Hole Report, Holes BAR 1-4, Bar Property (SC Group), 
+Kamloops Mining Division, NTS 82M/5W, 92P/8E, 51°17.7'N, 120°00'W, B.C. British 
+Columbia Ministry of Energy and Mines, Assessment Report no..  
+
+Franklin, J.M. (1993). Volcanic-associated massive sulphide deposits. In Kirkham, R.V., Sinclair, 
+W.D., Thorpe, R.I., Duke, J.M. (eds.) Mineral deposit modeling. Geological Survey of 
+Canada – Special Paper,  v.40, p. 315-334 
+
+Fraser, D.C. and Dvorak, Z. (1979). DIGHEM II Survey of North Thompson River, British 
+Columbia for Craigmont Mines Limited by DIGHHEM Limited, Kamloops Mining Division, 
+B.C. British Columbia Ministry of Energy and Mines, Assessment Report no. 7659. 
+
+Gale, D. F. (2007). 2006 Report on the Exploration Activities, Chu Chua Property, Kamloops 
+Mining Division, 92p, 92P/8E, Lat 51'22" Long 120'04 'W, UTM Zone 10: 704480E and 
+5696320N (NAD 83). British Columbia Ministry of Energy and Mines, Assessment Report 
+no. 28895. 
+
+Galley, A.G., Koski, R.A. (1999). Setting and characteristics of ophiolite-hosted volcanogenic 
+massive sulfide deposits. In Barrie C.T., Hannington, D. (eds.) Volcanic-associated  
+
+
+
+5
+4 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+54 
+
+ 
+
+massive  sulfide  deposits;  processes  and  examples  in modern and ancient settings., 
+Society of Economic Geologists, Socorro, NM, United States, v. 8, p. 221-246 
+
+Gray, M.J. (1987). Minnova Inc. Diamond Drill Report, Chu Chua Option, Barriere Area, 
+Kamloops Mining Division, B.C. 92P/8E, Lat. 51o21', Long. 120 o03', British Columbia 
+Ministry of Energy and Mines, Assessment Report no. 16812. 
+
+Gray, M.J. and Pirie, I.D. (1988). Minnova Inc. Diamond Drill and Geophysical Assessment 
+Report on the Bar Property, Barriere Area, Kamloops Mining Division, NTS 82M/5W 
+92P/8E, 51°16'N, 120°00'W, B.C. British  Columbia  Ministry  of  Energy  and  Mines,  
+Assessment  Report  no. 16996. 
+
+Hallof, P.G., Cartwright P.A., and Adomaitus, P.G. (1980). Report on the Horizontal  Loop  
+Electro-Magnetic  Survey  on  the  92P/8  CC  Group  Mining Division, B.C. for Craigmont 
+Mines Limited, British Columbia Ministry of Energy and Mines, Assessment Report no. 
+8496. 
+
+Heberlein, D. (1990a). Assessment Report on the 1989 Soil Geochemical Survey and Diamond 
+Drill Program, FY and FY-Anna Groups, Kamloops Mining Division, NTS 82M/5W, 51°15'N, 
+119°59'W, B.C. British Columbia Ministry of Energy and Mines, Assessment Report no. 
+19846. 
+
+Heberlein, D. (1990b). Assessment Report on the 1990 Diamond Drilling Program, Chu 1-3 
+(9019, 9110, 9112), CC 1-3, CC 10-11 (1154, 1373, 1374, 1459, 1460), Ch-1 (1461), 
+Kamloops Mining Division, NTS 92P/8E, Lat. 51o22' N, Long. 120 o04' W, British Columbia 
+Ministry of Energy and Mines, Assessment Report no. 20670. 
+
+Hoy, T. (1995). Noranda/Kuroko Massive Sulphide Cu-Pb-Zn, in Selected British Columbia 
+Mineral Deposit Profiles, Volume 1 - Metallics and Coal, Lefebure, D.V. and Hõy, T., 
+Editors, British Columbia Ministry of Energy of Employment and Investment, Open File 
+1995-20, pages 53-54. 
+
+Kermeen, J.S. (1985). Assessment Report on the Chip-Dixie and Isomag Groups of Mineral 
+Claims, Kamloops Mining Division, NTS 82M4, 92P1, British Columbia Ministry of Energy 
+and Mines, Assessment Report no. 14600. 
+
+Kikauka, A. (2004). Geological, Geochemical and Geophysical Report on the Windpass Mining 
+Leases & Baldy 1 Claim. British Columbia Ministry of Energy and Mines, Assessment 
+Report no. 27373. 
+
+Kikauka, A. (2005). Geological, Geochemical and Geophysical Report on the Windpass Mining 
+Leases & Baldy 1 Claim. British Columbia Ministry of Energy and Mines, Assessment 
+Report no. 27615. 
+
+Lear, S. (1989). Geophysical Report, Chu Chua Project, Green Mountain Group, Kamloops 
+Mining Division, NTS 92P/8E, 82M/5W, Lat. 51o24' N, Long. 120 o00' W,  British  Columbia  
+Ministry  of  Energy  and  Mines,  Assessment  Report  no. 18275. 
+
+Lefebure, D.V. and Church, B. N. (1996). Polymetallic Veins Ag-Pb-Zn+/-Au, in Selected British 
+Columbia Mineral Deposit Profiles, Volume 2 - Metallic Deposits, Lefebure, D.V. and Hõy, 
+T., Editors, British Columbia Ministry of Energy of Employment and Investment, Open File 
+1996-13, pages 67-70. 
+
+Moraal, D. (1986). Prospectors Report, Joe Mineral Claim, Kamloops Mining Division, NTS 
+82M/5W, 51°19'N, 119°58.8'W, B.C. British Columbia Ministry of Energy and Mines, 
+Assessment Report no. 15123. 
+
+Morganti, J.M. (1983). Summary on the Chu Chua (CC) Deposit, Craigmont Mines Limited., 
+Nov. 29, 1983. 
+
+ 
+
+
+
+5
+5 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+55 
+
+ 
+
+Ovington, L. (1989). Geochemical Report, Joe Mineral Claim, Kamloops Mining Division, NTS 
+82M/5W, 51°19.5'N, 119°58.5'W, B.C. British Columbia Ministry of Energy and Mines, 
+Assessment Report no. 19546. 
+
+Ovington, L. and Elliott, B. (1987). Geochemical Report, Joe Mineral Claim, Kamloops Mining 
+Division, NTS 82M/5W, 51°19.5'N, 119°58.5'W, B.C. British Columbia Ministry of Energy 
+and Mines, Assessment Report no. 16884. 
+
+Panteleyev, A. (1996). Epithermal Au-Ag-Cu: High Sulphidation, in Selected British  Columbia  
+Mineral  Deposit  Profiles,  Volume  2  -  Metallic  Deposits, Lefebure, D.V. and Hõy, T, 
+Editors, British Columbia Ministry of Employment and Investment, Open File 1996-13, 
+pages 37-39. 
+
+Pasieka, C.T. (1981). Report on the Electromagnetic and Geochemical Surveys on the Energite 
+Claims, North Barriere Lake Area, Kamloops Mining Division, NTS 82M/5W, 51°21'N, 
+119°50'W, B.C. British Columbia Ministry of Energy and Mines, Assessment Report no. 
+9963. 
+
+Pasieka, C.T. (1984). Report on the Diamond Drilling Programme on the Energite Claims, 
+
+Energite Claims Group, Kamloops Mining Division, NTS 82M/5W, Lat.  51 21' N, Long. 
+
+119 50' W. British Columbia Ministry of Energy and Mines, Assessment Report no. 12774. 
+
+Pirie, I.D. (1985a). Geology and Geochemistry of the Anna and SC Claim Groups, Bar Project, 
+NTS 82M/5W, 92P/8E, 51
+
+o
+20', 120
+
+o
+00', B.C. British Columbia Ministry of Energy and 
+
+Mines, Assessment Report no. 14243. 
+
+Pirie, I.D. (1985b). Report on Linecutting and HLEM Survey, Bar and Chua Properties, SC and 
+CH Claims, Kamloops Mining Division, NTS 92P/8E, 51
+
+o
+15', 120°00', B.C. British Columbia 
+
+Ministry of Energy and Mines, Assessment Report no. 14187. 
+
+Pirie, I.D. (1985c). Diamond Drill Report, CCF 1, 2, and 3, Chu Chua Option, Kamloops Mining 
+Division, NTS 82M/5W, 92P/8E, 51
+
+o
+15', 120
+
+o
+00', B.C. British Columbia Ministry of Energy 
+
+and Mines, Assessment Report no. 14186. 
+
+Pirie, I.D. (1986). Chu Chua Option, Report on the 1986 Work Progress, Kamloops Mining 
+Division, NTS 82M/5W, 92P/8E, B.C. British Columbia Ministry of Energy and Mines, 
+Assessment Report no. 15385. 
+
+Pirie, I.D. (1988). Geology, Geochemistry, and Geophysics of the SC1 Claim, Bar Project, NTS 
+82M/5W, 92P/8E, British Columbia Ministry of Energy and Mines, Assessment Report no. 
+17475. 
+
+Raffle, K. (2008). 2008 Report on the Exploration Activities Chu Chua Property, Kamloops 
+Mining Division, NTS 92P/8E, British Columbia Ministry of Energy and Mines, Assessment 
+Report no. 30421. 
+
+Raffle, K. and Dufresne, M. (2010).  Technical Report on the Base and Precious Metal Potential 
+of the Chu Chua Property, British Columbia.  Completed for Shenul Capital Inc. 
+
+Schiarizza, P.,  Preto, V.A., (1987). Geology of the Adams plateau – Clearwater- Vavenby Area, 
+B.C. Ministry of Energy, Mines and petroleum Resources Paper 1987-2 
+
+Vollo, N.B. (1979a). Diamond Drilling Report on CC 1 - 11 Claims, Kamloops Mining Division, 
+B.C. British Columbia Ministry of Energy and Mines, Assessment Report no. 7110. 
+
+Vollo, N.B. (1979b). Diamond Drilling Report CC Group, Kamloops Mining Division,  B.C.  British  
+Columbia  Ministry  of  Energy  and  Mines,  Assessment Report no. 7443. 
+
+Vollo, N.B. (1979c). Diamond Drilling Report on the 92P/8 CC Groups of Craigmont Mined 
+Limited, On Chu Chua Mountain, Kamloops Mining Division, B.C. British Columbia Ministry 
+of Energy and Mines, Assessment Report no. 7499. 
+
+
+
+5
+6 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+56 
+
+ 
+
+Vollo, N.B. (1981a). Geophysical, Geochemical, and Diamond Drilling Report, Kamloops Mining 
+Division, B.C. British Columbia Ministry of Energy and Mines, Assessment Report no. 9622. 
+
+Vollo, N.B. (1981b). Diamond Drilling Report, Kamloops Mining Division, B.C. British Columbia 
+Ministry of Energy and Mines, Assessment Report no. 9623. 
+
+Vollo, N.B. (1982a). Diamond Drilling Report, Kamloops Mining Division, B.C. British Columbia 
+Ministry of Energy and Mines, Assessment Report no. 10940. 
+
+Vollo, N.B. (1982b). Diamond Drilling Report, Kamloops Mining Division, B.C. British Columbia 
+Ministry of Energy and Mines, Assessment Report no. 10958. 
+
+Vollo, N.B. (1982c). Geophysical, Geochemical and Diamond Drilling, Kamloops Mining 
+Division, B.C. British Columbia Ministry of Energy and Mines, Assessment Report no. 
+10957. 
+
+Warner, L. (2003). Assessment Report on the Gold Creek Property, Kamloops Mining Division, 
+NTS 82M/5 and 92P/8 . British Columbia Ministry of Energy and Mines, Assessment Report 
+no. 27184. 
+
+Wells,  G.S.  (1991). Diamond  Drilling  and  Geophysical  Report,  Chu  Chua Property, 
+Kamloops Mining Division, NTS 92P/8E, Lat. 51o22' N, Long. 120 o04' W,  British  
+Columbia  Ministry  of  Energy  and  Mines,  Assessment  Report  no. 22039. 
+
+Wild, C. (1989). Geological Mapping, Lithogeochemical Sampling, Transient Electromagnetics, 
+and Diamond Drilling Report, Chu Chua Project, Chu Chua Group  A,  Chu  Chua  Group  
+B,  Chu  Chua  Group  C,  Chu  Chua  Group  D  , Kamloops Mining Division, 92P/8E, Lat. 
+51o22' N, Long. 120o04' W, British Columbia Ministry of Energy and Mines, Assessment 
+Report no. 19540. 
+
+Wild, C. (2005). Geological, Geochemical & Diamond Drilling Report on the Gold Creek 
+Property, B.C. British Columbia Ministry of Energy and Mines, Assessment Report no. 
+27890. 
+
+  
+
+
+
+5
+7 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+57 
+
+ 
+
+20 Certificate of Author 
+
+1. I, Kristopher J. Raffle, residing in Vancouver British Columbia, Canada do hereby certify that:  I 
+am a senior geologist at APEX Geoscience Ltd. ("APEX"), 200, 9797 – 45 Avenue, Edmonton, 
+Alberta, Canada. 
+
+2. I am the author of this Technical Report entitled: "Technical Report on the Chu Chua Property, 
+BC, Canada", and dated January 25, 2013 (the "Technical Report").  I am a graduate of The 
+University of British Columbia, Vancouver, British Columbia with a B.Sc. in Geology (2000) and 
+have practiced my profession continuously since 2000. During 2008, I visited the Chu Chua 
+Property on behalf of Shenul and co-authored the report titled: "Technical Report on the Base and 
+Precious Metal Potential of the Chu Chua Property"; dated March 18, 2010.  During 2011, I 
+supervised exploration at the Chu Chua massive sulphide deposit on behalf of Newport, and 
+subsequently co-authored the report titled: "Technical Report on the Chu Chua Property", dated 
+August 9, 2012, which presented the first NI 43-101 compliant mineral resource estimate for the 
+deposit.  I am a Professional Geologist registered with APEGGA (Association of Professional 
+Engineers, Geologists and Geophysicists), and APEGBC (Association of Professional Engineers 
+and Geoscientists of British Columbia) and I am a 'Qualified Person' in relation to the subject 
+matter of this Technical Report.  
+
+ 
+4. I visited the Property that is the subject of this Report on June 26
+
+th
+, 2012, and on a prior occasion 
+
+during November 2008 on behalf of Shenul.  
+
+5. I am responsible for all sections of the Technical Report. 
+
+6. I am independent of the Optionors and Strachan Resources Ltd. applying all of the tests in 
+section 1.5 of National Instrument 43-101.  I have not received, nor do I expect to receive, any 
+interest, directly or indirectly, in Strachan Resources Ltd.  I am not aware of any other information 
+or circumstance that could interfere with my judgment regarding the preparation of the Technical 
+Report.  
+
+7. I have read and understand National Instrument 43-101 and Form 43-101 FI and the Report has 
+been prepared in compliance with the instrument.  
+
+8. To the best of my knowledge, information and belief, the Technical Report contains all scientific 
+and technical information that is required to be disclosed to make the Technical Report not 
+misleading. 
+
+9. I consent to the filing of the Technical Report with any stock exchange and other regulatory 
+authority and any publication by them, including electronic publication in the public company files 
+on their websites accessible by the public, of the Technical Report.     
+
+Dated this January 25, 2013 
+ 
+
+Vancouver British Columbia, Canada 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kristopher J. Raffle, B.Sc., P.Geol. 
+
+  
+
+
+
+ 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+ 
+
+ 
+
+Appendix 1: Diamond Drill Cross Sections 
+  
+
+
+
+138251
+
+138252
+
+138253
+138254
+
+138255
+
+138256
+
+C
+C
+
+S1
+0-
+
+1 
+(-5
+
+8)
+
+114.91m
+
+707450
+1875 m
+
+N
+1900 m
+
+N
+1700 m
+
+N
+
+707425 mE 707450
+
+1675 m
+N
+
+1725 m
+N
+
+1750 m
+N
+
+1775 m
+N
+
+707400 mE 707425 mE
+1800 m
+
+N
+1825 m
+
+N
+1850 m
+
+N
+
+707350 mE 707375 mE 707400 mE
+
+707350 mE 707375 mE707300 mE 707325 mE
+
+707300 mE707275 mE 707325 mE
+
+16
+75
+
+ m
+N
+
+17
+00
+
+ m
+N
+
+18
+00
+
+ m
+N
+
+18
+25
+
+ m
+N
+
+18
+50
+
+ m
+N
+
+18
+75
+
+ m
+N
+
+17
+25
+
+ m
+N
+
+17
+50
+
+ m
+N
+
+17
+75
+
+ m
+N
+
+707275 mE
+19
+
+00
+ m
+
+N
+
+0 5 10
+
+metres
+
+20 Scale 1:1,000
+
+STRACHAN RESOURCES LTD.
+
+Chu Chua Property
+Drill Section Looking North
+
+CCS10-1 (-58)
+
+APEX Geoscience LTD. June 2012
+
+0 5 10
+
+metres
+
+20 Scale 1:1,000
+Fault Breccia
+Mafic Dyke
+Chert
+Gabbro-Diorite
+
+Sample Interval
+
+Sample Number
+
+Sample Interval
+
+Sample Number
+
+
+
+13
+82
+
+74
+
+13
+82
+
+77
+
+13
+82
+
+76
+
+13
+82
+
+75
+
+13
+82
+
+72
+
+13
+82
+
+73
+
+13
+82
+
+70
+
+13
+82
+
+69
+
+13
+82
+
+67
+
+13
+82
+
+68
+
+CCS10-3 (-55)
+
+206.35m
+
+706900 mE
+1750 m
+
+N
+1775 m
+
+N
+1575 m
+
+N
+
+706900 mE
+
+1600 m
+N
+
+1625 m
+N
+
+1650 m
+N
+
+1675 m
+N
+
+1700 m
+N
+
+1725 m
+N
+
+706850 mE 706875 mE
+
+706850 mE706825 mE 706875 mE
+
+706825 mE706800 mE
+
+706775 mE 706800 mE
+
+17
+75
+
+ m
+N
+
+706750 mE 706775 mE
+17
+
+50
+ m
+
+N
+18
+
+00
+ m
+
+17
+00
+
+ m
+N
+
+17
+25
+
+ m
+N
+
+16
+25
+
+ m
+N
+
+706725 mE 706750 mE1
+55
+
+0 
+m
+
+N
+15
+
+75
+ m
+
+N
+16
+
+00
+ m
+
+N
+706725 mE
+
+16
+50
+
+ m
+N
+
+16
+75
+
+ m
+N
+
+STRACHAN RESOURCES LTD.
+
+Chu Chua Property
+Drill Section Looking North
+
+CCS10-3 (-55)
+
+APEX Geoscience LTD. June 2012
+
+0 5 10
+
+metres
+
+20 Scale 1:1,000
+
+Sample Interval
+
+Sample Number
+
+Sample Interval
+
+Sample Number
+
+Andesite-Basalt
+NO RECOVERY
+Fault Breccia
+Chert
+
+
+
+138259
+
+138257
+
+138260
+
+138261
+
+138262
+138263
+
+138264
+
+138265
+
+138266
+
+138258
+
+C
+C
+
+S1
+0-
+
+2 
+(-5
+
+8)
+
+203.3m
+
+1850 m
+N
+
+1875 m
+N
+
+707250 mE 707275 mE
+1900 m
+
+N
+1675 m
+
+N
+
+707250 mE
+
+1750 m
+N
+
+1700 m
+N
+
+1725 m
+N
+
+1775 m
+N
+
+1800 m
+N
+
+1825 m
+N
+
+707200 mE 707225 mE
+
+707200 mE 707225 mE
+
+707175 mE
+
+18
+50
+
+ m
+N
+
+18
+25
+
+ m
+N
+
+707100 mE 707125 mE 707150 mE 707175 mE
+19
+
+00
+ m
+
+N
+1
+
+17
+50
+
+ m
+N
+
+17
+75
+
+ m
+N
+
+17
+25
+
+ m
+N
+
+707125 mE707100 mE 707150 mE
+
+16
+75
+
+ m
+N
+
+17
+00
+
+ m
+N
+
+18
+00
+
+ m
+N
+
+18
+75
+
+ m
+N
+
+STRACHAN RESOURCES LTD.
+
+Chu Chua Property
+Drill Section Looking North
+
+CCS10-2 (-58)
+
+APEX Geoscience LTD. June 2012
+
+0 5 10
+
+metres
+
+20 Scale 1:1,000
+
+Sample Interval
+
+Sample Number
+
+Basalt-Gabbro
+Diorite
+Gabbro
+Gabbro-Diorite
+
+
+
+138259
+
+138257
+
+138260
+
+138261
+
+138262
+138263
+
+138264
+
+138265
+
+138266
+
+138258
+
+C
+C
+
+S1
+0-
+
+2 
+(-5
+
+8)
+
+203.3m
+
+1850 m
+N
+
+1875 m
+N
+
+707250 mE 707275 mE
+1900 m
+
+N
+1675 m
+
+N
+
+707250 mE
+
+1750 m
+N
+
+1700 m
+N
+
+1725 m
+N
+
+1775 m
+N
+
+1800 m
+N
+
+1825 m
+N
+
+707200 mE 707225 mE
+
+707200 mE 707225 mE
+
+707175 mE
+
+18
+50
+
+ m
+N
+
+18
+25
+
+ m
+N
+
+707100 mE 707125 mE 707150 mE 707175 mE
+19
+
+00
+ m
+
+N
+1
+
+17
+50
+
+ m
+N
+
+17
+75
+
+ m
+N
+
+17
+25
+
+ m
+N
+
+707125 mE707100 mE 707150 mE
+
+16
+75
+
+ m
+N
+
+17
+00
+
+ m
+N
+
+18
+00
+
+ m
+N
+
+18
+75
+
+ m
+N
+
+STRACHAN RESOURCES LTD.
+
+Chu Chua Property
+Drill Section Looking North
+
+CCS10-2 (-58)
+
+APEX Geoscience LTD. June 2012
+
+0 5 10
+
+metres
+
+20 Scale 1:1,000
+
+Sample Interval
+
+Sample Number
+
+Basalt-Gabbro
+Diorite
+Gabbro
+Gabbro-Diorite
+
+
+
+13
+82
+
+74
+
+13
+82
+
+77
+
+13
+82
+
+76
+
+13
+82
+
+75
+
+13
+82
+
+72
+
+13
+82
+
+73
+
+13
+82
+
+70
+
+13
+82
+
+69
+
+13
+82
+
+67
+
+13
+82
+
+68
+
+CCS10-3 (-55)
+
+206.35m
+
+706900 mE
+1750 m
+
+N
+1775 m
+
+N
+1575 m
+
+N
+
+706900 mE
+
+1600 m
+N
+
+1625 m
+N
+
+1650 m
+N
+
+1675 m
+N
+
+1700 m
+N
+
+1725 m
+N
+
+706850 mE 706875 mE
+
+706850 mE706825 mE 706875 mE
+
+706825 mE706800 mE
+
+706775 mE 706800 mE
+
+17
+75
+
+ m
+N
+
+706750 mE 706775 mE
+17
+
+50
+ m
+
+N
+18
+
+00
+ m
+
+17
+00
+
+ m
+N
+
+17
+25
+
+ m
+N
+
+16
+25
+
+ m
+N
+
+706725 mE 706750 mE1
+55
+
+0 
+m
+
+N
+15
+
+75
+ m
+
+N
+16
+
+00
+ m
+
+N
+706725 mE
+
+16
+50
+
+ m
+N
+
+16
+75
+
+ m
+N
+
+STRACHAN RESOURCES LTD.
+
+Chu Chua Property
+Drill Section Looking North
+
+CCS10-3 (-55)
+
+APEX Geoscience LTD. June 2012
+
+0 5 10
+
+metres
+
+20 Scale 1:1,000
+
+Sample Interval
+
+Sample Number
+
+Sample Interval
+
+Sample Number
+
+Andesite-Basalt
+NO RECOVERY
+Fault Breccia
+Chert
+
+
+
+ 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+ 
+
+ 
+
+Appendix 2: Diamond Drilling Analytical Certificate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+                                 
+
+
+
+                  
+
+
+
+                           
+
+
+
+ 
+
+
+
+                     
+
+ 
+ 
+
+
+
+     
+
+ 
+ 
+ 
+
+
+
+             
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+Technical Report on the Chu Chua Property 
+
+ 
+
+ 
+
+ 
+
+Appendix 3: Analytical Certificate from the 2012 Property Visit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+	Final_Appendix_combined_complete.pdf
+	Appendix_1_Title
+	CCS10-1
+	CCS10-2
+	CCS10-3
+	Appendix_2_Title
+	Diamond drilling analytical cert
+	Appendix_3_Tilte
+	20120718104354118
+
+	Final_Appendix_combined_complete.pdf
+	Appendix_1_Title
+	CCS10-1
+	CCS10-2
+	CCS10-3
+	Appendix_2_Title
+	Diamond drilling analytical cert
+	Appendix_3_Tilte
+	20120718104354118
+
+
+
+
+'

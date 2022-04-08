@@ -1,0 +1,4365 @@
+b"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+TECHNICAL REPORT 
+ 
+
+on the 
+ 
+
+RED WILLOW URANIUM PROJECT  
+ 
+
+NORTHERN SASKATCHEWAN, CANADA 
+ 
+ 
+ 
+
+National Instrument 43-101 
+ 
+ 
+ 
+ 
+
+NTS Map Area 64L/05, 06 and 12 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Prepared for Purepoint Uranium Group Inc by:  
+Scott Frostad, B.Sc., M.A.Sc., P. Geo.  
+
+October 16, 2015 
+ 
+
+
+
+ 
+
+II 
+ 
+
+TABLE OF CONTENTS 
+ 
+1. SUMMARY.................................................................................................................................................... 1 
+
+2. INTRODUCTION ......................................................................................................................................... 5 
+
+3. PROPERTY DESCRIPTION AND LOCATION ...................................................................................... 5 
+4. ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND 
+PHYSIOGRAPHY....................................................................................................................................................... 8 
+
+5. HISTORY ...................................................................................................................................................... 9 
+
+6. GEOLOGICAL SETTING AND MINERALIZATION.......................................................................... 16 
+6.1 GEOLOGICAL SETTING ............................................................................................................... 16 
+6.2 PROPERTY MINERALIZATION ..................................................................................................... 21 
+
+7. DEPOSIT TYPES ....................................................................................................................................... 22 
+
+8. EXPLORATION PROGRAMS ................................................................................................................. 23 
+8.1 AIRBORNE MAGNETIC AND ELECTROMAGNETIC SURVEYS ........................................................ 23 
+
+8.1.1 Quality Control ............................................................................................................................................... 26 
+8.1.2 Methodology of Interpreting VTEM Results .................................................................................................. 26 
+8.1.3 Interpretation of VTEM Results ...................................................................................................................... 26 
+8.1.4 Enhancement of Total Magnetic Field ............................................................................................................ 32 
+
+8.2 AIRBORNE RADIOMETRIC SURVEY ............................................................................................. 32 
+8.2.1 Quality Control ............................................................................................................................................... 33 
+8.2.2 Corrections of Airborne Radiometric Data...................................................................................................... 33 
+8.2.3 Discussion of Radiometric Survey Results ..................................................................................................... 34 
+
+8.3 BOULDER PROSPECTING ............................................................................................................. 34 
+8.3.1 Sampling Method, Preparation and Analysis .................................................................................................. 38 
+8.3.2 Discussion of Results ...................................................................................................................................... 38 
+
+8.4 GEOCHEMICAL SURVEYS............................................................................................................ 38 
+8.4.1 Sampling Method, Preparation and Analysis .................................................................................................. 38 
+8.4.2 Quality Control ............................................................................................................................................... 39 
+8.4.3 Discussion of Results ...................................................................................................................................... 40 
+8.4.4 Conclusions ..................................................................................................................................................... 44 
+
+8.5 GROUND GEOPHYSICAL SURVEYS .............................................................................................. 44 
+8.5.1 Induced Polarization – Gradient Array Methodology ..................................................................................... 45 
+8.5.2 Induced Polarization – Pole-dipole Array Methodology ................................................................................. 46 
+8.5.3 Transient Electromagnetic Survey Methodology ............................................................................................ 47 
+8.5.4 Gravity Survey Methodology .......................................................................................................................... 48 
+8.5.5 Osprey Area - Results and Conclusions .......................................................................................................... 49 
+8.5.6 Geneva and Radon Lake Area - Results and Conclusions ............................................................................... 54 
+8.5.7 Long Lake, Lyon and 333 Areas – Results and Conclusions .......................................................................... 60 
+8.5.8 Dancing Lake and Big Bay Area - Results and Conclusions ........................................................................... 63 
+
+9. DIAMOND DRILLING .............................................................................................................................. 66 
+9.1 DOWNHOLE AND CORE LOGGING PROCEDURES ......................................................................... 71 
+9.2 DIAMOND DRILL HOLE RESULTS ............................................................................................... 72 
+
+9.2.1 Osprey Grid Drill Results ................................................................................................................................ 72 
+9.2.2 Geneva Drill Results ....................................................................................................................................... 82 
+9.2.3 Mustang Drill Results ..................................................................................................................................... 86 
+9.2.4 Radon Lake Drill Results ................................................................................................................................ 88 
+9.2.5 Lasby Lake Drill Results ................................................................................................................................. 92 
+9.2.6 Long Lake and 333 Grid Drill Results ............................................................................................................ 93 
+9.2.7 Interpretation and Conclusions ........................................................................................................................ 95 
+
+10. SAMPLE PREPARATION, ANALYSES AND SECURITY .................................................................. 96 
+10.1 SAMPLE PREPARATION ............................................................................................................... 96 
+
+
+
+ 
+
+III 
+ 
+
+10.2 SAMPLE ANALYSIS ..................................................................................................................... 97 
+10.3 SAMPLE SECURITY ..................................................................................................................... 97 
+
+11. DATA VERIFICATION ............................................................................................................................. 97 
+11.1 QA/QC ....................................................................................................................................... 97 
+11.2 COMPARISON OF ANALYTICAL TECHNIQUES .............................................................................. 98 
+
+12. ADJACENT PROPERTIES ....................................................................................................................... 98 
+
+13. INTERPRETATIONS AND CONCLUSIONS ....................................................................................... 103 
+
+14. RECOMMENDATIONS .......................................................................................................................... 105 
+
+15. REFERENCES .......................................................................................................................................... 107 
+16. DATE AND SIGNATURE ....................................................................................................................... 110 
+
+ 
+ 
+
+LIST OF FIGURES 
+ 
+FIGURE 1: LOCATION MAP OF THE RED WILLOW PROJECT ............................................................................................ 6 
+FIGURE 2: DISPOSITION MAP OF THE RED WILLOW PROJECT ......................................................................................... 7 
+FIGURE 3: HISTORICAL GROUND WORK ON THE RED WILLOW PROJECT (SOUTH) ....................................................... 10 
+FIGURE 4: SOIL GEOCHEMICAL RESULTS FOR U3O8 – GULF MINERALS, 1972 ............................................................ 11 
+FIGURE 5: HISTORICAL BOULDER SAMPLES ................................................................................................................. 13 
+FIGURE 6: HISTORICAL GROUND WORK ON THE RED WILLOW PROJECT (NORTH) ...................................................... 14 
+FIGURE 7: AIRBORNE RADIOMETRIC SURVEY RESULTS (GSC, 2009) – URANIUM CHANNEL ...................................... 17 
+FIGURE 8: BEDROCK GEOLOGY OF NORTHERN SASKATCHEWAN ................................................................................. 18 
+FIGURE 9: LOCAL GEOLOGY OF THE RED WILLOW PROJECT ........................................................................................ 20 
+FIGURE 10: RED WILLOW PROPERTY VTEM SURVEY – TILT MAGNETIC DERIVATIVE (SOUTH RED WILLOW) ........... 24 
+FIGURE 11: RED WILLOW PROPERTY VTEM SURVEY – TILT MAGNETIC DERIVATIVE (TOPPING ISLAND AREA) ....... 25 
+FIGURE 12: AIRBORNE RADIOMETRIC SURVEY RESULTS – URANIUM CHANNEL (SOUTH RED WILLOW) .................... 35 
+FIGURE 13: BOULDER SAMPLE LOCATION MAP – LONG LAKE AREA (2006) ............................................................... 36 
+FIGURE 14: BOULDER SAMPLE LOCATION MAP – OSPREY AND BIG BAY AREAS (2011) ............................................. 37 
+FIGURE 15: SOIL SAMPLE URANIUM RESULTS – GENEVA AREA .................................................................................. 41 
+FIGURE 16: SOIL SAMPLE URANIUM RESULTS – CROSS AND RECON AREAS ................................................................ 42 
+FIGURE 17: SOIL SAMPLE URANIUM RESULTS – OSPREY AREA ................................................................................... 43 
+FIGURE 18: EXAMPLE OF TEM SPREADSHEET DIAGRAM ............................................................................................. 48 
+FIGURE 19: OSPREY GRID – GROUND GEOPHYSICAL SURVEY INDEX MAP .................................................................. 50 
+FIGURE 20: OSPREY GRID – 3D RESISTIVITY RESULTS FOR 100M DEPTH .................................................................... 51 
+FIGURE 21: WESTERN OSPREY GRID – GRADIENT ARRAY RESISTIVITY RESULTS........................................................ 52 
+FIGURE 22: OSPREY GRID – BOUGUER GRAVITY RESULTS .......................................................................................... 53 
+FIGURE 23: GENEVA, RADON, DANCING LAKE AND BIG BAY – GROUND GEOPHYSICAL SURVEY INDEX MAP............ 55 
+FIGURE 24: GENEVA AND RADON GRIDS – GRADIENT ARRAY IP RESISTIVITY RESULTS ............................................. 56 
+FIGURE 25: GENEVA AND RADON GRIDS – GRADIENT ARRAY IP CHARGEABILITY RESULTS ...................................... 57 
+FIGURE 26: GENEVA GRID – POLE-DIPOLE INDUCED POLARIZATION INVERSION SECTIONS ......................................... 58 
+FIGURE 27: GENEVA AND RADON GRIDS – BOUGUER GRAVITY RESULTS ................................................................... 59 
+FIGURE 28: LONG LAKE, LYON AND 333 GRIDS – GROUND GEOPHYSICAL SURVEY INDEX MAP ................................. 61 
+FIGURE 29: LONG LAKE AND 333 GRIDS – 3D RESISTIVITY RESULTS FOR 200M DEPTH .............................................. 62 
+FIGURE 30: LONG LAKE AND 333 GRIDS – GRADIENT IP RESISTIVITY RESULTS .......................................................... 64 
+FIGURE 31: LONG LAKE AND 333 GRIDS – GRADIENT IP CHARGEABILITY RESULTS ................................................... 65 
+FIGURE 32: DANCING LAKE AND BIG BAY GRIDS – GRADIENT RESISTIVITY IP RESULTS ............................................ 67 
+FIGURE 33: DANCING LAKE GRID – POLE-DIPOLE ARRAY IP INVERSION SECTIONS .................................................... 68 
+FIGURE 34: DIAMOND DRILL HOLE LOCATION MAP – OSPREY GRID ........................................................................... 74 
+FIGURE 35: GEOLOGIC INTERPRETATION OF OSPREY LAKE AREA ............................................................................... 75 
+FIGURE 36: GEOLOGIC INTERPRETATION OF SECTION 2400E – OSPREY LAKE AREA ................................................... 76 
+FIGURE 37: SECTIONS OF OSPREY CONDUCTOR AND EAGLE POINT DEPOSIT AT SIMILAR SCALES ............................... 78 
+
+
+
+ 
+
+IV 
+ 
+
+FIGURE 38: GEOLOGIC INTERPRETATION OF DRILL SECTION – OSPREY HINGE ............................................................ 79 
+FIGURE 39: GEOLOGIC INTERPRETATION OF SECTIONS 32N AND 33N – OSPREY SOUTH ............................................. 83 
+FIGURE 40: DIAMOND DRILL HOLE LOCATION MAP – GENEVA AND RADON GRIDS .................................................... 84 
+FIGURE 41: GEOLOGIC INTERPRETATION OF DRILL SECTION – GENEVA AREA ............................................................ 87 
+FIGURE 42: DIAMOND DRILL HOLE LOCATION MAP – MUSTANG AREA ...................................................................... 89 
+FIGURE 43: GEOLOGIC INTERPRETATION OF DRILL SECTION – MUSTANG AREA ......................................................... 90 
+FIGURE 44: GEOLOGIC INTERPRETATION – RADON LAKE AREA .................................................................................. 91 
+FIGURE 45: DIAMOND DRILL HOLE LOCATION MAP –LONG LAKE AND 333 GRIDS ..................................................... 94 
+FIGURE 46: RED WILLOW GEOCHEMISTRY (U AND NI) ................................................................................................ 99 
+FIGURE 47: ADJACENT PROPERTIES WITH AIRBORNE MAGNETICS – TILT DERIVATIVE ............................................. 101 
+ 
+
+ 
+LIST OF TABLES 
+
+ 
+ 
+
+TABLE 1. RED WILLOW PROJECT – LAND STATUS SUMMARY ........................................................................................ 8 
+TABLE 2. SUMMARY OF GROUND GEOPHYSICAL SURVEYS .......................................................................................... 45 
+TABLE 3: DRILL HOLE COLLAR SUMMARY .................................................................................................................. 69 
+TABLE 4: SUMMARY OF SIGNIFICANT URANIUM INTERCEPTS – OSPREY LAKE AREA .................................................. 73 
+TABLE 5: SUMMARY OF SIGNIFICANT URANIUM INTERCEPTS – GENEVA AREA ........................................................... 85 
+TABLE 6: SUMMARY OF SIGNIFICANT URANIUM INTERCEPTS – RADON LAKE AREA ................................................... 92 
+TABLE 7: SUMMARY OF SIGNIFICANT URANIUM INTERCEPTS – LONG LAKE AREA ...................................................... 93 
+TABLE 8: ANALYTICAL METHODS .............................................................................................................................. 100 
+TABLE 9: PROPOSED RED WILLOW EXPLORATION BUDGET ....................................................................................... 106 
+ 
+
+ 
+LIST OF APPENDICES 
+
+ 
+Appendix 1: Statement of Qualified Person …………………………….…. Attached 
+
+
+
+ 
+
+1 
+ 
+
+1. SUMMARY 
+ 
+The Red Willow property is situated on the eastern edge of the Athabasca Basin in 
+Northern Saskatchewan, Canada and consists of seventeen mineral claims having a 
+total area of 41,119 hectares. The mineral claims are 100% owned by Purepoint 
+Uranium Group Inc., a public Company listed on the TSX Venture Exchange. 
+ 
+The Athabasca Basin is host to the world's largest high-grade uranium deposits. The 
+sedimentary basin is filled by relatively undeformed and flat-lying quartz sandstone of 
+the late Proterozoic Athabasca Group. In the Red Willow property area, the Athabasca 
+sandstone unconformably overlies crystalline basement rocks that are within the 
+boundary area of the Mudjatic and Wollaston Domains. The Proterozoic Athabasca 
+Group sandstone is found to cover the Archean and Aphebian basement rocks on the 
+western side of the property at depths of 0 to 120 metres. The basement rock trends NE 
+to SW and is composed of orthogneiss and paragneiss. Six major uranium deposits, 
+JEB, Midwest, Roughrider, Cigar Lake, McArthur River and Millennium, are located 
+along a NE to SW mine trend that extends through the Red Willow Project. 
+ 
+Uranium exploration on the Red Willow project is targeting areas proximal to graphitic 
+basement rocks, possible structures (especially where cross-cutting structures are 
+indicated), extensive alteration envelopes within basement or sandstone rocks, low 
+grades of uranium, complex mineralogy and geochemistry (U, Ni, As, Co, B, Cu, Mo, 
+Pb, Zn and V), areas proximal to the Athabasca basement unconformity, and areas of 
+highly fractured sandstone that may be associated with underlying uraniferous zones. 
+ 
+Extensive airborne and ground geophysics has been conducted over the property 
+starting in 2005. Geophysical surveys have included airborne magnetic and 
+electromagnetic (VTEM) surveys, an airborne radiometric survey, ground gradient array 
+IP, pole-dipole array IP, fixed-loop and moving-loop transient electromagnetics, and 
+gravity. The detailed airborne VTEM survey provided magnetic results that are an 
+excellent base on which to interpret structures while the EM results outlined over 70 
+kilometers of conductors that in most instances represent favourable graphitic lithology. 
+A total of twenty-one conductive zones have been identified as priority exploration 
+targets of which only seven have been subject to first pass drilling. Ground geophysical 
+surveys that are particularly useful for drill targeting include resistivity and gravity. The 
+resistivity results appear to have mapped out barren zones of silicification and granitic 
+rocks allowing for improved drill hole target selection while gravity results have outlined 
+gravity low anomalies that are coincident with historic strong basement alteration. 
+ 
+Drilling on the Red Willow property has discovered uranium mineralization associated 
+with the Osprey conductor returning up to 0.20% eU3O8 over 5.8 metres from a shallow 
+(70 metres depth) flat-lying tensional fracture. The Osprey conductor has been shown 
+from drilling to be a vertical to sub-vertical, weak to moderately sheared, dark green to 
+black chlorite altered pyritic graphitic pelitic gneiss bounded by strongly silicified, 
+moderately hematized pelitic gneiss. Uranium occurs within flat tension fracture zones 
+
+
+
+ 
+
+2 
+ 
+
+and steep narrow gouges within, and running parallel to, the shear zone. Mineralization 
+has been traced along a strike length of approximately 250 metres. 
+ 
+The 6-kilometer long "S"-shaped Osprey conductor, host to significant uranium 
+intercepts, has excellent exploration potential at depth below the known mineralized 
+zone and towards the west. The main mineralized zone has only been drill tested at 
+shallow depths (average hole length < 160 metres) and is open at depth for further 
+stacked, parallel lenses of mineralization. Based on the resistivity results, favourable 
+pelitic rocks are located west of the Osprey conductor that may also host mineralization 
+within sub-vertical structures and as sub-horizontal stacked lenses. 
+ 
+The fold hinge of the Osprey conductor is considered to require further drilling after a 
+fence of three holes drilled in 2008 intersected a vertical, weakly radioactive fault zone 
+(Hinge Fault) associated with strong chlorite and hematite alteration and sections of lost 
+core. The fault zone returned 250 ppm eU over 1.6 metres between 74.7 and 76.3 
+metres from hole RW-29 and 358 ppm U over 0.4 metres between 159.1 and 159.5 
+metres from hole RW-41. Alteration of the basement rocks increases along the northern 
+fold limb towards the fold nose where one of the three holes drilled, RW-28, 
+encountered strong clay alteration. 
+ 
+The Geneva area has a compelling target area based on recently completed ground 
+geophysics and drilling. A Pole-dipole array IP survey by Purepoint in 2007 outlined low 
+apparent resistivity "chimneys" (LARCs) in the sandstone that coincided with the 
+termination of two VTEM conductors in the basement rocks. LARCs within the 
+sandstone may represent "chimneys" of hydrothermal alteration associated with 
+structures that control uranium mineralization at depth. The two LARCs were also seen 
+to correspond with two subtle gravity depressions identified by a limited gravity survey in 
+2007. A gravity survey by Rio Tinto in 2012 supported the presence of the two gravity 
+anomalies and extended the gravity depressions to where Eldorado Resources Ltd 
+intersected very strong basement alteration and 0.22% U3O8 over 1.0 metres within a 
+graphitic fault zone (hole RAD-27). A 3-hole fence was drilled just north of RAD-27 and 
+intersected uranium mineralization in hole 14RDW008 that was related to the graphitic 
+shear returning 0.68% U3O8 over 0.3 metres between 89.1 to 89.4m. The Geneva 
+conductor has been shown from drilling to be dark green to black chlorite altered pyritic 
+graphitic pelitic gneiss that is approximately 5 metres thick, steeply dipping, and weak to 
+moderately sheared.  
+ 
+Immediately east of the Geneva area are VTEM conductors with a relatively short strike 
+length that are considered to be priority exploration targets. The prospective target area 
+containing the conductors is roughly outlined by three points: the 14RDW008 
+mineralization,: to the northeast where high concentrations of radon (a product of the 
+decay of uranium) were first detected in Radon Lake in 1971, and to the southeast 
+where hole RAD08-09 returned 283 ppm U over 1.1 metres from sandstone just above 
+the unconformity. The offset conductors are suggestive of structural complexity within 
+the area and they appear to be bounded by bands of granitic rocks (magnetic highs). 
+The highly competent granitic rocks would provide a contrast in competency favourable 
+
+
+
+ 
+
+3 
+ 
+
+for zones of dilatancy and mineral deposition. Additionally, the presence of swamp in 
+the area may be due to slumping of the underlying sandstone following hydrothermal 
+alteration.  
+
+The Topping Island area was explored during the early 1980's after a pitchstone cobble 
+was discovered down-ice of the arcuate shaped EM conductor. Purepoint flew a 
+VTEMplus over Topping Island in two different directions using a close line spacing of 
+125 metres to provide detail of the arcuate, 6-kilometer long, EM anomaly. The survey 
+outlined numerous lateral displacements in the conductor that can be confidently 
+interpreted as faults, representing high priority drill targets. The Topping Island 
+conductor is the eastern terminus of the Crooked-Richardson Lakes conductive belt that 
+is currently being explored by the Denison Mines/ Eros Resources Joint Venture that 
+intersected mineralization in drill hole RL-13-16 returning 0.45% U3O8 over 2.3 metres. 
+
+The 333 area has been prepared for initial drill testing by 3D resistivity and gradient 
+array IP surveys. The 333 area is named after a historic overburden drill hole (hole 
+#333) that intersected values up to 0.31% U3O8 in glacial till. Based on the recent 
+geophysical results, the source of the anomalous till may be a recently outlined EM 
+conductor that lies only 200 metres northeast of drill hole #333. The strong conductor 
+trends north-south, is 1.1 kilometers in length and, based on the geophysical results, is 
+intersected by a northeast trending fault.  
+ 
+At Dancing Lake, favourable EM conductors have now been covered by a gradient 
+array IP survey and pole-dipole array IP and are considered drill ready. Follow-up 
+drilling is also warranted within the Long Lake area where hole LL08-05 intersected a 
+1.6 metre wide radioactive structure within hematite altered pelitic gneiss returning 269 
+ppm U over 0.5 metres. The area is host to the historic Long Lake Boulder Train 
+discovered in 1975 by Gulf Minerals. The northeast trending boulder train was found to 
+be 2 km long, 300 to 400 meters wide and contained a number of radioactive biotite 
+schist boulders returning up to 0.80% U3O8. 
+ 
+The Golden Eye Shear Zone is located in the northern portion of the claim group and 
+joins two historic uranium occurrences, the FDL and AJ showings. At the FDL showing, 
+uranium mineralization (1.43% U3O8.grab sample) is associated with the 1 metre wide, 
+northeast trending Golden Eye shear zone that crosscuts an outcrop of graphitic biotite-
+rich pelitic gneiss. The AJ showing is a radioactive molybdenite-garnet-biotite schist 
+subcrop that returned an assay of 0.46% U3O8. Historic data indicates the Golden Eye 
+Shear hosts favourable mineralization and is a priority target.  
+ 
+Additional EM targets that are considered worthy of ground geophysics include the 
+Ghost Lake and Horse Lake conductors. Follow-up work is also warranted at the Cross 
+Lake, CBA and Mustang areas. Cross Lake is a structurally complex area located near 
+the historic Scrimes Lake uranium showings that returned anomalous soil geochemistry 
+during 1972 by Gulf Minerals. Within the CBA area, located at a the fold nose of a 
+granitic dome, the last hole of a twenty hole program (CBA-20) intersected anomalous 
+uranium, 0.17% U3O8 over 0.8m, within a pegmatite dyke before being lost at a depth of 
+
+
+
+ 
+
+4 
+ 
+
+20m. Initial drilling in the Mustang area returned 639 ppm U over 30 cm from a fracture, 
+however, the mineralization was not intersected in the follow-up drill holes. 
+ 
+Based on the uranium mineralization discovered to date on the Red Willow property and 
+its favorable geologic setting, further exploration is warranted. A multi-staged 
+exploration program and budget is recommended. 
+ 
+ 
+Stage 1: Fall 2016 and Winter 2016/2017:  
+ 
+Drill testing of the geophysical targets previously identified within the Osprey, Geneva, 
+333 and Dancing Lake areas. Fourteen diamond drill holes for a total of 5,600 meters 
+are recommended. 
+ 
+Stage 2 is not contingent on positive results from Stage 1. 
+ 
+Stage 2: Summer 2017 and Winter 2017 / 2018:  
+ 
+Ground DC resistivity and gravity surveying should be conducted over the Osprey 
+Hinge, Topping Island, Golden Eye, Ghost Lake and Horse Lake conductors. 
+Linecutting will be required at all target areas with the exception of the Horse Lake grid 
+where the existing grid will need refurbishing.  
+ 
+Follow-up of favourable Stage 1 drill program results and drill testing of the high priority 
+geophysical targets. A sixteen hole, 6,400 meter drill program is recommended. 
+
+
+
+ 
+
+5 
+ 
+
+2. INTRODUCTION 
+ 
+The Red Willow technical report was prepared for Purepoint Uranium Group Inc. in 
+compliance with National Instrument 43-101 following the guidelines specified by 
+National Instrument 43-101F. The purpose of this report is to evaluate the potential of 
+the property to host uranium mineralization.  
+ 
+Scott Frostad, P.Geo. Vice President of Purepoint Uranium Group Inc., is the qualified 
+person responsible for the content of this report. Mr. Frostad has been involved with the 
+Red Willow Project since January, 2006. His most recent visit to the site was on 
+February 25th, 2014 during the last drill program. 
+ 
+The report includes opinions on the geophysical data by Roger K. Watson, P.Eng., 
+Purepoint's Chief Geophysicist. 
+ 
+The available assessment data on the property that have been filed with Saskatchewan 
+Industry and Resources has been reviewed, including geological mapping, boulder 
+sampling, soil and water geochemical surveys, ground EM surveys, and drill log results 
+from within, and proximal to, the property. 
+ 
+The author has not verified the technical information in the past technical reports, but 
+has formed opinions on the potential for the uranium mineralization in the project area 
+primarily on the basis of the technical information and preliminary results of the current 
+exploration programs. 
+ 
+ 
+3. PROPERTY DESCRIPTION AND LOCATION 
+
+ 
+The Red Willow property is situated on the eastern edge of the Athabasca Basin in 
+Saskatchewan, Canada (Figure 1) close to several uranium deposits including AREVA 
+Resources Canada Inc.'s mined-out JEB deposit, located approximately 10 kilometers 
+to the southwest, and Cameco's Eagle Point deposit that is approximately 10 kilometers 
+due south. It is located within the NTS map area 64-L-05, 64-L-06, 64-L-11 and 64-L-12, 
+with its centre at about 103° 38' west longitude and 58° 18' north latitude. The property 
+covers approximately 40,119 hectares (ha) and consists of seventeen mineral claims 
+(Figure 2) S-107399, S-107400, S-107409, S-107410, S-108613, S110271, S110272, 
+S-110273, S-112036, S-112026, S-112021, S-112029, S-112022, S-112023, S-112024, 
+S-112027 and S-111155. 
+ 
+The mineral claims are currently held in the name of Purepoint Uranium Corporation 
+and are 100% owned by Purepoint Uranium Corporation. Purepoint Uranium 
+Corporation is a 100% owned subsidiary of the Purepoint Uranium Group Inc., a public 
+Company listed on the TSX Venture Exchange. 
+ 
+In order to conduct work at the property, the operator must be registered with the 
+Saskatchewan government and comply with the Saskatchewan Environment's 
+
+
+
+ 
+
+6 
+ 
+
+ 
+Figure 1: Location Map of the Red Willow Project 
+
+
+
+ 
+
+7 
+ 
+
+ 
+Figure 2: Disposition Map of the Red Willow Project
+
+
+
+ 
+
+8 
+ 
+
+Table 1. Red Willow Project – Land Status Summary 
+
+Disposition Area (ha) NTS Recording Date Next Work Due 
+
+S-107399 3676 64-L-05 1-Jun-04 31-May-35 
+
+S-107400 1042 64-L-05 & 64-L-12 1-Jun-04 31-May-35 
+
+S-107409 3525 64-L-05 & 64-L-12 1-Jun-04 31-May-28 
+
+S-107410 4751 64-L-05 & 64-L-05 1-Jun-04 31-May-23 
+
+S-108613 5828 
+64-L-05, 64-L-12, 64L-
+
+11 & 64-L-06 
+2-Mar-06 1-Mar-23 
+
+S-110271 1413 64-L-05 & 64-L-12 12-Dec-06 11-Dec-23 
+
+S-110272 2099 64-L-05 & 64-L-06 12-Dec-06 11-Dec-23 
+
+S-110273 1443 64-L-06 & 64-L-11 12-Dec-06 11-Dec-23 
+
+S-111155 2035 64-L-05 & 64-L-12 12-Dec-07 5-Dec-23 
+
+S-112021 3166 64-L-12 7-Dec-10 6-Dec-23 
+
+S-112026 4773 64-L-12 7-Dec-10 6-Dec-23 
+
+S-112036 2057 64-L-12 2-Jun-11 1-Jun-24 
+
+S-112029 157 64-L-11 7-Dec-10 6-Dec-26 
+
+S-112022 53 64-L-11 7-Dec-10 6-Dec-26 
+
+S-112023 68 64-L-11 7-Dec-10 6-Dec-26 
+
+S-112024 849 64-L-11 7-Dec-10 6-Dec-26 
+
+S-112027 3381 64-L-06 & 64-L-11 7-Dec-10 6-Dec-26 
+
+ 
+ 
+Exploration Guidelines and hold the appropriate Temporary Work Camp Permit, Timber 
+Permit and Aquatic Habitat Alteration Permit. As well, the operator must comply with the 
+Federal Department of Fisheries and Oceans that administers its own Guidelines for the 
+Mineral Exploration Industry. 
+ 
+A mineral disposition in good standing gives the owner mineral rights only; 
+Saskatchewan Environment controls surface rights. All seventeen mineral claims are in 
+good standing until 2023 and require work commitments of $25.00/ha/annum since the 
+first 10 years of assessment credit has been accepted (Table 1).  
+ 
+ 
+4. ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND 
+
+PHYSIOGRAPHY 
+ 
+The Red Willow property is accessible by vehicles as well as float or ski equipped 
+aircraft. The property is 730 km northeast of Saskatoon and 35 km northeast of Points 
+North Landing. Transwest Air and Pronto Airways provides scheduled aircraft service 
+from Saskatoon to Points North Landing year round. All weather highways 102 and 905 
+reach Points North Landing from La Ronge. The Lasby Lake camp is accessible by 
+driving the Hatchet Lake trail that heads north-northeast from the McClean Lake 
+Minesite 
+
+
+
+ 
+
+9 
+ 
+
+ 
+The climate is typical of northern Saskatchewan, being cold in the winter, (-20 to -40 
+degrees Celsius) and hot in the summer (15 to 35 degrees Celsius). Precipitation is 
+moderate. Freeze up begins in late October and break up occurs in late May. During the 
+period of freeze up, from December to April, accessibility in the area is enhanced by 
+frozen muskegs and lakes. 
+ 
+Three temporary work camps were constructed during 2006, 2007 and 2013. The Lasby 
+Lake camp is located 100 metres from the north shore of Lasby Lake and is directly 
+accessed by the Hatchet Lake seasonal road. The Cunning Bay camp and East Lasby 
+camp were both decommissioned in 2014. 
+ 
+The property has varied topography due to Quaternary landforms that include drumlins, 
+eskers, ground moraine and hummocky moraine. Outcrop exposure is sparse due to a 
+blanket of glacial till. The forest cover is comprised of mainly jack pine and spruce. The 
+elevation of Hatchet Lake is 395 metres above sea level (masl) while Cunning Bay is at 
+425 masl. 
+ 
+ 
+5. HISTORY 
+ 
+Gulf Minerals Canada Ltd. (Gulf) was one of the first uranium explorers in the area 
+conducting an airborne radiometric survey in 1968 followed up by a reconnaissance 
+geochemical soil survey, radon-in-water survey and prospecting during 1971 and 1972. 
+High concentrations of radon were found in the surface water just west of a waterbody 
+that Gulf named "Radon Lake" (Figure 3). The geochemical soil anomalies (Figure 4) 
+and radon-in-water anomalies were followed up with ground geophysics that included 
+electromagnetics (EM), magnetics and radiometrics.  
+ 
+In 1974 Gulf conducted geological mapping and conducted a four hole diamond drill 
+program (GL-1 to GL-4) on the Ghost Lake grid to test two linear electromagnetic (EM) 
+conductors. The north part of the Ghost West conductor was found to be caused by a 
+pyritic and graphitic paragneiss, while the south part of this conductor appears to be 
+related to a fault/fracture zone. The only significant assay from the drilling was a 116 
+ppm U value returned from a clay layer just below the Athabasca Group unconformity in 
+hole GW-85-02. 
+ 
+In 1975, Gulf carried out an airborne magnetic, EM and gamma ray spectrometer 
+survey that was followed by a regional, reverse circulation (RC) overburden drilling 
+program. Over 350 overburden holes were drilled with the most anomalous hole being 
+located on the Red Willow property, with hole #333 returning an assay of 0.31% U3O8. 
+Since the radioactive zone was quite thick and not found in the neighbouring holes, the 
+source was implied to be relatively local. Gulf had recommended that additional RC 
+drilling be conducted to trace the uranium-rich overburden to its source but follow-up 
+work was not done.  
+
+
+
+ 
+
+10 
+ 
+
+ 
+Figure 3: Historical Ground Work on the Red Willow Project (South) 
+
+
+
+ 
+
+11 
+ 
+
+ 
+Figure 4: Soil Geochemical Results for U3O8 – Gulf Minerals, 1972 
+
+
+
+ 
+
+12 
+ 
+
+In 1985, the Dancing Lake grid was surveyed with ground geophysical surveys including 
+magnetic, VLF-EM and HLEM. The short strike-length, shallow conductors were 
+considered to not have bedrock sources and not tested by drilling. 
+ 
+Prospecting by Gulf in 1975 discovered the Long Lake boulder field near Cunning Bay 
+that was comprised of radioactive biotite schist boulders (Figure 5). The Fond du Lac 
+and Osprey grids were established and utilized for ground geophysics that included 
+VLF, Horizontal Loop and Vertical Loop EM surveys. The geophysics defined targets for 
+5 diamond drill holes, OS-1 and OS-3 to OS-6, that were completed in 1977.  
+ 
+In 1978, Gulf conducted additional VLF and Horizontal Loop EM surveys on the Osprey 
+grid along with follow up diamond drilling, holes OS-7 to OS-24, in 1979. The 
+conductors tested were explained by either a retrograded altered paragneiss (OS-7, 8, 
+13 to 19, 23 and 24), an east dipping clay-filled shear zone (OS-9, 10, 20 to 22), or a 
+graphitic pyritic paragneiss (OS-11 and 12).  
+ 
+Gulf drilled on the Radon grid in 1979 testing a resistivity low and a VLF-EM conductor 
+that was best explained by the hematite alteration of basement rock just below the 
+unconformity. Drill holes RAD-1 and RAD-2 intersected an aquifer at the base of the 
+sandstone that contains anomalous radon values up to 521 cpm. In 1980, holes RAD-7 
+to 9 tested an EM conductor and intersected a highly altered zone at the Athabasca 
+Group unconformity, while RAD-12 failed to explain its targeted conductor. A third 
+conductor was tested by holes RAD-10 to 13 and they intersected graphitic quartz-
+feldspar gneiss with an assay highlight of 0.01% U3O8 over 1.0 meter.  
+ 
+In 1977, Canadian Superior Explorations conducted reconnaissance, ground VLF and 
+electromagnetic surveys, geological mapping, lake water and lake-bottom sediment 
+sampling. The following year included an airborne radiometric, magnetic and 
+electromagnetic survey, geological mapping, prospecting, trenching and boulder 
+sampling on previously uncovered ground and radon gas-in-soil and soil sampling on 
+selected areas from earlier work. Ground proofing airborne radiometric anomalies led to 
+the discovery of a radioactive boulder occurrence consisting of approximately 125 
+radioactive boulders and one radioactive outcrop (FDL showing) within an area of 1.5 
+kilometres by 240 metres. The FDL showing is located approximately 1 kilometre to the 
+southwest (down-ice direction) of the Red Willow disposition S-112021 (Figure 6), is 
+associated with sheared and fractured biotite quartzite, pegmatite and graphitic 
+gneisses, and returned an assay highlight of 1.43% U3O8. The nearby AJ showing, also 
+discovered by Canadian Superior, is located on the Red Willow disposition S-112012 
+and has an assay highlight of 0.46% U3O8. 
+ 
+In 1980, Getty Minerals Ltd. discovered a pitchstone cobble (>99,999 cpm) down-ice of 
+an EM conductor on Topping Island that lies within the current disposition S-112026 
+(Figure 6). Four drill holes in 1981 tested the 6-kilometre long conductor, which was 
+explained by pyritic / graphitic pelitic rocks, but the source of the pitchstone cobble was 
+not identified. No drilling has been conducted on the island since the initial Getty 
+
+
+
+ 
+
+13 
+ 
+
+ 
+Figure 5: Historical Boulder Samples
+
+
+
+ 
+
+14 
+ 
+
+ 
+Figure 6: Historical Ground Work on the Red Willow Project (North) 
+
+
+
+ 
+
+15 
+ 
+
+Minerals drill program. Overburden is shallow on the island at 0 to 20 metres in 
+thickness. 
+ 
+In 1980, CanLake Explorations Ltd. drilled 14 holes (CBA-03 to 10 and CBA-15 to 20), 
+Favourable mineralization was intersected in the last two holes of the program. Hole 
+CBA-19 intersected 0.03% U3O8 over 0.5 metres between 36.3 and 36.8 metre depth 
+within pegmatitic rock. CBA-20 intersected 0.17% U3O8 over 0.8 metres within a 
+pegmatite dyke before being lost at a depth of 20m. 
+ 
+In 1982, Saskatchewan Mining and Development Corp. (SMDC) conducted prospecting, 
+mapping and scintillometer surveys. Several radioactive basement boulders with values 
+up to 0.35% U3O8 were found along a pegmatite/calc-silicate contact. Banded calc-
+silicates with trace to 1% disseminated graphite were also found along the north shore 
+of Scrimes Lake.  
+ 
+By 1984, Eldorado Resources had extended the northeast trending Long Lake Boulder 
+Train to an area two km long and 300 to 400 meters wide (Figure 5). A number of 
+radioactive biotite schist boulders were discovered with an assay highlight of 0.80% 
+U3O8 while pegmatite boulders returned an assay highlight of 0.55% U3O8. 
+ 
+Drilling by Eldorado Resources Ltd in 1984 intersected very strong basement alteration 
+and anomalous radioactivity in the Geneva Zone with RAD-27, returning 0.22% U3O8 
+over 1.0 metres within a graphitic fault zone. Cameco later ranked drill holes on their 
+Rabbit Lake project for basement alteration and one of Eldorado's holes from the 
+Geneva Zone, RAD-17, returned the highest alteration score of the 366 drill holes 
+ranked. Cameco's rating for basement rock alteration used the concentrations of 
+pathfinding elements (Pb, Ni, Cu, U, total clay and chlorite). Although Eldorado 
+completed a total of 32 drill holes (RAD-01 to 32) within the Radon Lake area, most 
+were stopped at less than 100 metres into basement rock.  
+ 
+In 1985, Eldorado followed up HLEM and VLF-EM surveys over Lasby Lake with two 
+diamond holes (RAD85-33 and RAD85-34. The conductor on the extended Radon grid 
+was determined to be a faulted graphitic and pyritic paragneiss with no significant 
+radioactivity. Four drill holes (GW85-1 to GW85-4) also tested HLEM targets on the 
+Ghost West grid.  
+ 
+In 1993, Cameco Corp. tested the central Osprey grid conductor (TURK-5 and 7) and 
+intersected anomalous radioactivity ranging from 450 cps to 1660 cps. The radioactivity 
+was intersected at less than 90 metres depth within one of two vertically dipping, faulted 
+graphitic, pyritic pelitic gneiss units. Cameco's geophysical survey results suggested the 
+conductors terminated a short distance (200 m) south of their drill holes and did not 
+conduct follow-up drilling.  
+ 
+In 2005 United Carina carried out a program on the northwest Red Willow claims (S-
+111155 and S-112026) that included boulder sampling, prospecting, examination of old 
+core, line cutting (41.3 km) and 36.7 km of Horizontal Loop EM surveys. The ground 
+
+
+
+ 
+
+16 
+ 
+
+geophysics was conducted on the "G" Grid over known airborne conductors located up-
+ice from anomalous boulder geochemistry. In 2006, United Carina tested some of the 
+drill targets including UCA-1 that intersected Athabasca sandstone underlain by faulted 
+basement rocks but did not encounter anomalous radioactivity. 
+ 
+During 2006 to 2008, ESO Uranium Corporation worked the area that is now the 
+northwest Red Willow claim S-112036. ESO performed geophysical airborne MegaTEM 
+electromagnetic and magnetic surveying, airborne gamma spectrometric and magnetic 
+surveying, geochemical sandstone boulder surveying, and regional geochemical soil 
+surveying and radon in soil gas surveying. 
+ 
+During 2007 and 2008, Hathor Exploration Limited conducted a lake bottom sediment 
+survey and an airborne electromagnetic survey (VTEM) over their Hatchet Lake 
+property that included the current Red Willow North claim S-112021. 
+ 
+During 2009, the Geological Survey of Canada flew a radiometric/magnetic survey over 
+the northern portion of the Red Willow project (Figure 7). The objective of the airborne 
+survey was to provide detailed geophysical coverage of the entire Athabasca Basin in 
+support of geological mapping and to increase geo-scientific knowledge of the region. 
+ 
+ 
+6. GEOLOGICAL SETTING AND MINERALIZATION 
+
+ 
+ 
+
+6.1 Geological Setting 
+ 
+The Red Willow Property lies on the eastern margin of the Athabasca Basin, 
+Saskatchewan. The Athabasca Basin is filled by the Athabasca Group of relatively 
+undeformed and flat-lying, mainly fluviatile clastic strata. The Athabasca Group 
+unconformably overlies crystalline basement rocks of the Rae Province in the northwest 
+and the Hearne Province to the east (Hoffman, 1990; Figure 8). Diabase dykes from a 
+few to a hundred meters in width have intruded into both the Athabasca rocks and the 
+underlying basement. Extensive areas are covered by Quaternary glacial drift and 
+outwash, forming an undulating, lake-covered plain. 
+ 
+The oldest rocks underlying the Red Willow Property are situated in the Archean 
+Hearne Province at the boundary between the northern Mudjatik and Wollaston 
+Domains (Figure 8). The Hearne province is bounded along its southeast margin by the 
+Trans Hudson Orogen and to the northwest by the Snowbird Tectonic Zone (Hoffman, 
+1988), which subdivides the Churchill Structural Province into the Rae and Hearne 
+provinces. The northern Mudjatic Domain is bounded to the northeast by the Tantato 
+and Dodge domains of the Rae Province and to the southeast by the Wollaston Domain 
+of the Hearne Province (Hoffman, 1990). The Wollaston Domain is bounded to the 
+southeast by the Peter Lake Domain of the Hearne Province and the Wathaman 
+Batholith of the Trans Hudson Orogen (Hoffman, 1990).  
+ 
+
+
+
+ 
+
+17 
+ 
+
+ 
+Figure 7: Airborne Radiometric Survey Results (GSC, 2009) – Uranium Channel 
+
+
+
+ 
+
+18 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Figure 8: Bedrock Geology of Northern Saskatchewan
+
+
+
+ 
+
+19 
+ 
+
+ 
+North and east of the property, at the edge of the Basin, the exposed basement 
+consist of the Mudjatic Domain which is comprised of intensely deformed and 
+metamorphosed Archean granitic gneisses and numerous small remnants of 
+Aphebian metasedimentary rocks and pelitic gneisses (Gilboy, 1983) (Figure 9). 
+To the east, metasedimentary rocks of the Wollaston Group rest unconformably on 
+Archean granitoid gneisses (Lewry and Sibbald, 1980; Lewry et al., 1985; Lewry 
+and Collerson, 1990). The Wollaston Group consists of shelf to miogeosynclinal 
+sediments that were deformed and metamorphosed (together with the adjacent 
+gneisses) during the Hudsonian Orogony. The basal units consist mostly of pelitic 
+and semi-pelitic gneisses with graphitic pelitic gneiss and subordinate quartzite 
+and ironstone. These pass upward into calc-silicate gneisses and psammopelitic 
+and psammitic gneisses (Eriks and Chiron, 1994). 
+ 
+Following the Trans-Hudson orogeny (ca. 1860-1770 Ma, Saskatchewan 
+Geological Survey, 2003), the Archean basement and Paleoproterozoic 
+metasedimentary rocks were uplifted and subjected to erosion (Ramaekers, 1990, 
+2003a, b) leaving a weathered profile or regolith with a 1.75 to 1.78 Ga retrograde 
+metamorphic age (Annesley et al., 1997). The regolith consists of a few meters of 
+a hematized red zone, grading into a buff, white to light green weathered 
+basement which grades downwards over a few meters into unweathered 
+basement (Ramaekers, 1990).  
+ 
+The fluviatile sands and gravels of the Athabasca Group were deposited in the 
+intracratonic Athabasca Basin that formed through extensional tectonics 
+(Ramaekers and Hartling, 1979). A maximum age constraint for the Athabasca 
+Group is approximately 1.66 Ga provided by a detrital ziron suite collected from the 
+Wolverine Point Formation (Rainbird et al., 2002). The thickness of the Athabasca 
+Group sediments was originally up to 5 km (Pagel et al., 1980), but presently it is 
+estimated to be a maximum of 2200 m (Sibbald and Quirt, 1987). 
+ 
+The Athabasca Basin was divided into three northeast trending sub-basins 
+separated by northeast trending highs, shown by stratigraphic (Ramaekers, 1979, 
+1980) and seismic work (Hobson and MacAuley, 1969). The three northeasterly 
+trending fault bound sub-basins coalesced to form the Athabasca Basin with seven 
+deposystems recognized (Ramaekers, 1976, 1978a, 1978b; Ramaekers et al., 
+2001; Yeo et al., 2002).  
+ 
+The Athabasca Group was divided into two subgroups: the William River Subgroup 
+and the overlying Points Lake Subgroup (Ramaekers, 1980, 1990). The William 
+River Subgroup now comprises the Fair Point, Manitou Falls, Lazenby Lake, 
+Wolverine Point, Locker Lake and Otherside Formations (Ramaekers et al., 2001). 
+The Points Lake Subgroup consists of the Douglas and Carswell formations that 
+are present only in the Carswell structure. Most formations can be further 
+subdivided into members (e.g. Yeo et al., 2002). 
+ 
+ 
+
+
+
+ 
+
+20 
+ 
+
+ 
+Figure 9: Local Geology of the Red Willow Project 
+
+
+
+ 
+
+21 
+ 
+
+The Manitou Falls Formation is the only formation of the Athabasca Group that occurs 
+underlying the Red Willow Property and is composed of the lower member Manitou 
+Falls b (MFb) and upper member Manitou Falls c (MFc) (Slimmon, 2004). The MFb is 
+characterized as a poorly sorted, medium- to coarse-grained, pebbly sandstone with 
+conglomerate beds over 2 cm thick (Ramaekers et al., 2001), deposited in an alluvial 
+braid-plain characterized by broad channels in a relatively humid climate (Long et al., 
+2000; Jefferson et al., 2001). The overlying MFc is characterized as a moderately 
+sorted, medium- to coarse-grained, granule rich, ripple-cross-laminated sandstone with 
+1% intraclasts-rich layers and one-grain-thick pebble or granule layers at the base 
+(Ramaekers et al., 2001), deposited in a distal alluvial braid-plain lacking well-
+developed channels, in a humid climate (Yeo et al., 2000; Jefferson et al., 2001).  
+
+ 
+ 
+
+6.2 Property Mineralization 
+ 
+The strongest uranium mineralization encountered within the Osprey area was hole 
+RW-07 returned 0.20% eU3O8 over 6 metres (from 71.6 and 77.6 m) from a fracture 
+zone having a distinct geochemical signature that includes anomalous partial digestion 
+results for As (94.1 ppm), Cu (7,660 ppm), Pb (2,280 ppm), and Zn (33,000 ppm). A 
+follow-up drill hole along the Osprey conductor (RW-19), collared 80 metres north of 
+hole RW-07, intercepted 0.58% U3O8 over 1.0 metre (from 93.3 to 94.3 m) within 
+graphitic pelite and included a 10 cm interval assaying 3.03% U3O8.  
+ 
+Drilling results have shown the Osprey conductor to be a vertical to sub-vertical, weak 
+to moderately sheared, dark green to black chlorite altered pyritic graphitic pelitic gneiss 
+bounded by strongly silicified, moderately hematized pelitic gneiss. The pyritic/graphitic 
+unit is typically 40 to 60 metres wide, hosts 5 to 8% pyrite as fine disseminations, 
+medium to coarse subhedral crystals and rare semi-massive bands and trace to 1% fine 
+graphite needles. Uranium mineralization discovered to date in the Osprey zone is 
+confined to flat tension fracture zones and steep narrow gouges within, and running 
+parallel to, the shear zone. 
+ 
+A weakly radioactive fault zone (Hinge Fault) associated with strong chlorite and 
+hematite alteration was intersected by a fence of three holes designed to test a fold 
+nose of the Osprey conductor. RW-29 intersected the vertical radioactive fault zone 
+between 72.5 and 77.5 metres returning 288 ppm U over 1.6 metres while RW-41 
+intersected the fault between 157.7 and 161.0 metres that returned 358 ppm U over 0.4 
+metres. All three holes encountered zones of strong clay alteration and silicification.  
+ 
+Drilling discovered uranium mineralization associated with the Geneva conductor with 
+hole 14RDW008 returning 0.68% U3O8 over 0.3m from 89.1 to 89.4 metres. The 
+radioactivity and associated graphitic shear can be followed down dip into hole 
+14RDW009 where assays returned 322 ppm U over 1.0 metre (from 193 to 194m). 
+ 
+  
+
+
+
+ 
+
+22 
+ 
+
+7. DEPOSIT TYPES 
+ 
+The Athabasca Basin hosts some of the world's largest and richest known uranium 
+deposits. The Cigar lake deposits grade ~15% uranium while McArthur River grades 
+~22% uranium and the average grade of 30 deposits for 30 unconformity-associated 
+deposits in the Athabasca Basin is ~2% uranium, approximately four times the average 
+grade of Australian unconformity-associated deposits (Jefferson et al., 2007). The 
+deposits are located at the sub-Athabasca unconformity, and are hosted in both the 
+Athabasca Group sandstones above the unconformity, and in the Paleoproterozoic 
+metamorphed supracrustal rocks and intrusives of the Archean Hearne Craton 
+basement. Most of the known important deposits occur within a few tens to a few 
+hundred metres of the unconformity and within 500 m of the present-surface, thus 
+making them accessible and attractive exploration targets. 
+ 
+The initial discoveries were found through surficial indicators, such as radioactive 
+boulders, strong geochemical anomalies in the surrounding lakes and swamps, and 
+geophysical signatures (Wheatley et al., 1996). After these initial discoveries, an 
+exploration model was developed that targeted electromagnetic conductors based on 
+the associated underlying graphitic schists with strong electromagnetic signatures 
+(Kirchner and Tan, 1977; Matthews et. al., 1997).  
+ 
+The uraniferous zones are structurally controlled both with relation to the sub-Athabasca 
+unconformity, and the basement fault and fracture-zones. They are commonly localized 
+above and along or in graphitic pelitic gneiss that generally flank structurally competent 
+Archean granitoid domes (Quirt, 1989). Although electromagnetic conductors are typical 
+exploration targets, the Kiggavik deposit in the Thelon Basin, Nunavut (Fuchs and 
+Hilger, 1989) is an example of a significant uranium deposit forming without graphitic 
+units. Uranium deposits within the Athabasca Basin that are associated with little or no 
+graphite include Rabbit Lake, Eagle Point, Raven, Horseshoe, Cluff Lake, and 
+Centennial (Rhys et al., 2010; Yeo and Potter, 2010).  
+ 
+Uranium deposits in the Athabasca Basin that occur in proximity to the Athabasca 
+unconformity can be characterized as polymetallic (U-Ni-Co-Cu, Pb, Zn and Mo) or 
+monometallic (Ruzicka, 1997, Thomas et al., 2000, Jefferson et al., 2007). Examples of 
+polymetallic deposits include the Key Lake, Cigar Lake, Collins Bay 'A', Collins Bay 'B', 
+McClean, Midwest, Sue and Cluff Lake 'D' deposits. Polymetallic deposits have high-
+grade ore at or just below the unconformity, and a lower grade envelope that extends 
+into the sandstone or downwards into the basement. The lower grade envelope exhibits 
+a distinct zonation marked by predominance of base metal sulphides (Ruzicka, 1997). 
+ 
+Monometallic deposits are completely or partially basement hosted deposits localized 
+in, or adjacent to, faults in graphitic gneiss and calc-silicate units. Monometallic deposits 
+contain traces of metals besides uranium and include completely basement-hosted 
+deposits developed for up to 500 m below the unconformity (e.g. Eagle Point deposit, 
+Thomas et al., (2000)), or deposits that may extend from the unconformity downward 
+
+
+
+ 
+
+23 
+ 
+
+along faults in, or adjacent to, graphitic gneiss and/or calc-silicate units such as the 
+McArthur River deposit (Thomas et al., 2000; Jefferson et al., 2007). 
+ 
+Based on the general geological model for unconformity-type uranium deposits, the 
+exploration for uranium on the Red Willow property will target: 
+
+1. Areas proximal to graphitic basement rocks; 
+2. Possible structures, especially where cross-cutting structures are indicated;  
+3. Extensive alteration envelopes within basement or sandstone rocks,
+4. Low grades of uranium;  
+5. Complex mineralogy and geochemistry (U, Ni, As, Co, B, Cu, Mo, Pb, Zn and 
+
+V);  
+6. Areas proximal to the Athabasca basement unconformity, either above or below 
+
+it; and  
+7. Zones of highly fractured sandstone that may be coincident with and overlying 
+
+uraniferous zones. 
+ 
+ 
+
+8. EXPLORATION PROGRAMS 
+ 
+From 2005 to 2014, exploration at the Red Willow property has consisted of airborne 
+magnetic and electromagnetic surveys (VTEM), an airborne radiometric survey, line 
+cutting, boulder prospecting, geochemical surveys, ground 3D resistivity, gradient array 
+induced polarization (IP), pole-dipole IP, fixed-loop transient EM, gravity and diamond 
+drilling.  
+ 
+Purepoint Uranium Group Inc. entered into an agreement with Rio Tinto in 2011 
+allowing an earn-in of 51% of the Red Willow Project by spending $5 million on 
+exploration by December 31, 2015. Rio Tinto became the project operator in 2011 but 
+ceased exploration work in 2014 before reaching their initial earn-in expenditure 
+requirement. 
+ 
+ 
+8.1 Airborne Magnetic and Electromagnetic Surveys 
+ 
+During November 2006 and June 2007, Geotech Ltd. carried out a helicopter-borne, 
+magnetic and versatile time domain electromagnetic (VTEM) survey. The 3,316 line-
+kilometre survey covered the Red Willow claims held by Purepoint at that time (Figure 
+10). The flight line direction was northwest over all of the block and northeast over the 
+southwest half. Flight line separation was 200 metres in the northeast half and 100 
+metres over the rest. 
+ 
+During May 2012, a helicopter-borne electromagnetic (EM) and magnetic (VTEMplus) 
+survey was completed over the Topping Island area within the northwest portion of Red 
+Willow (Figure 11). The 245 line-kilometer VTEMplus survey was conducted with a close 
+line spacing of 125 metres and flown in two different directions to provide detail of the 
+arcuate, 6-kilometer long, EM anomaly within the Topping Island target area. 
+
+
+
+ 
+
+ 24 
+
+ 
+Figure 10: Red Willow Property VTEM Survey – Tilt Magnetic Derivative (South Red Willow)
+
+
+
+ 
+
+ 25 
+
+ 
+Figure 11: Red Willow Property VTEM Survey – Tilt Magnetic Derivative (Topping Island Area)
+
+
+
+ 
+
+ 26 
+
+8.1.1 Quality Control 
+ 
+Quality control of airborne magnetic and electromagnetic surveys include in-field data 
+processing involved and compilation of data collected during the acquisition stage, 
+using the in-field processing centre established at Points North, northern 
+Saskatchewan. Preliminary and final data processing, including generation of final 
+digital data products were done at the office of Geotech Ltd. in Aurora, Ontario. 
+ 
+ 
+8.1.2 Methodology of Interpreting VTEM Results  
+ 
+The VTEM instrument is a pulse type or time domain transmitter with horizontal 
+concentric receiver/transmitter coil configuration. The anomaly that the instrument 
+provides is different for each type of conductor shape. Purepoint has defined four types 
+of EM anomalies that include: 
+ 
+Type 1 - the response from a thin plate and will show two peaks on either side of the 
+center of the plate. "Thin" means less than about 30 metres. A dipping plate will change 
+the symmetry of the anomaly. The ratio of the amplitudes of the two peaks is used to 
+calculate the dip; 
+ 
+Type 2 - a "wide" plate response that could represent a number of closely spaced bands 
+of graphitic sediments or alternatively a broad deep area of very conductive overburden; 
+ 
+Type 3 – that typically represents conductive overburden; and 
+ 
+Type 4 - characterized by a positive single anomaly on the very early channels but 
+which switch to negative readings in later channels. The type 4 anomaly has not been 
+modeled adequately yet and the negative readings are believed to be an induced 
+polarization effect. The current practice is to interpret these anomalies as a body of 
+disseminated conductive particles. 
+ 
+8.1.3 Interpretation of VTEM Results  
+ 
+The various conductive areas that were identified have been named (Figure 10) and 
+individually reviewed, interpreted and described by Purepoint's Chief Geophysicist, 
+Roger K. Watson, B.A.Sc., P.Eng. as follows: 
+ 
+ 
+Geneva Basin 
+ 
+The term Geneva Basin refers to two concentric U-shaped anomaly clusters lying in the 
+western part of the block and beneath the Athabasca sandstone. The outer ring 
+includes the Radon Lake and Lasby Lake anomalies. The inner ring is seen on both the 
+NE and NW sets of flight lines and in fact would probably not have been recognized as 
+a single ring had the two sets of lines not been flown. All of the profiles indicate a plate 
+
+
+
+ 
+
+ 27 
+
+source dipping at a shallow angle (30 to 45 degrees) inward to suggest a basin 
+structure. All are of medium to high conductance, ranging from 15 to 23 channel 
+anomalies.  
+ 
+The outer ring consists of the Lasby Lake and the Radon Lake anomalies, joined by a 
+line that is seen in the pattern of the channel 13 field and which continues their arcuate 
+shape. This outer ring also dips inward to but at a steeper angle, estimated from the 
+VTEM profiles at 80 to 88 degrees, thus supporting the interpretation of a basin 
+structure. The conductance at the Lasby Lake and Radon Lake is medium to high with a 
+range of 13 to 25 channel anomalies. The Radon Lake anomaly extends southwest to 
+the edge of the survey area in more or less a straight line and with lower conductance.  
+ 
+Both conductor axes conform to basement geology as shown in the pattern of the 
+magnetic maps. None, except for a short part of the Radon Lake anomaly, have a direct 
+magnetic expression. The magnetic anomaly referred to above also coincides directly 
+with a topographic high ridge that is likely a glacial remnant and is the cause of the 
+magnetic anomaly.  
+ 
+ 
+Radon Lake  
+ 
+The Radon Lake conductor forms part of the outer ring of the Geneva Basin, is 
+uniformly strong (24 channels) and traverses eleven or so flight lines. It dips very slightly 
+to the northwest (88 degrees) and lies in an area of radon gas anomalies found by 
+earlier investigators. 
+ 
+Some inversion modeling was done on Lines 3110 and 3130 and produced conductive 
+plates dipping as expected, steeply to the west. But they forecast depths of 250 to 300 
+metres which is believed to be erroneous. These are more likely to be at basement 
+surface which is found at 10 to 26 metres from earlier drilling. 
+ 
+ 
+Lasby Lake  
+ 
+The VTEM anomaly over Lasby Lake is of high quality, similar to that on Radon Lake. 
+Drilling on this conductor has shown it to be a thick package of graphitic-pyritic pelitic 
+gneiss. 
+ 
+ 
+Osprey 
+  
+The Osprey conductor is a strong type 1 anomaly seen on both the NW and NE 
+trending survey lines. It forms an "S" shape and is shows a high conductance of 20 
+channel response or more on nearly all profiles. There is a general steep dip to the west 
+of 85 to 75 degrees. It matches the bedrock structure as shown by the magnetic pattern, 
+
+
+
+ 
+
+ 28 
+
+although it does not have a direct magnetic anomaly itself. Maxwell inversions on the 
+data from two flight lines indicate a shallow plate dipping steeply to the SW  
+ 
+ 
+Dancing Lake  
+ 
+The Dancing Lake area consists of a complex of three moderately to good conductive 
+type 1 anomalies. It is in fact very complex, with the three main anomalies folded 
+considerably and connected to each other. The principal anomaly is a 15 channel 
+response, has a north-south trend and is dipping to the east at 70 degrees. A short 
+three line cluster of 25 channel anomalies lies to the east of this and has a very steep 
+dip, +/- 2 degrees to vertical. A third conductor axis of 22 channel anomalies may 
+intersect this one to form tight fold. 
+ 
+Two of the three axes have a coincident magnetic anomaly. The north-south principal 
+conductor axis lies on a longer narrow magnetic anomaly that resembles a thin dyke. 
+The impression is that of a suite of a number of parallel, heavily folded conductive 
+bands. The presence of the magnetic signature suggests sulphides while the multiple 
+parallel conductors suggest graphite. It is difficult to measure the dip of a number of 
+closely spaced anomalies and they should probably be treated as very steeply dipping. 
+ 
+333 Area  
+ 
+The 333 conductor is a short but well-formed type 1 conductor, striking north-south and 
+well defined on both the NW and NE aligned flight lines. But there is uncertainty in 
+regard to the dip between the two sets of flight line data, one the NE lines showing a 
+west dip and the other an east dip direction. 
+ 
+The anomaly conforms somewhat to the bedrock structure as shown by the magnetic 
+field map. It would appear to be a short but massive bed plane of graphitic sediments. 
+ 
+ 
+Topping Island 
+ 
+The curved, horseshoe shaped conductor seen in fragments on previous EM surveys 
+was clearly displayed in the results of the 2013 EM survey (Figure 11). The survey also 
+identified several small but definite lateral displacements of the conductor axis which 
+can be confidently interpreted as faults. Most of these offsets in the conductors are well 
+supported by lateral displacements in linear magnetic features. 
+ 
+The shape of a VTEM anomaly provides a good indication of the dip angle of a plate–
+like conductor and has been calculated on a number of the lines. For the eastern two-
+thirds of the primary conductor axis length, the dips are inward, suggesting a basin 
+structure. But halfway along the north arm the dip rather suddenly changes from into the 
+curve to outward suggesting a complex structure, possibly a syncline plunging to the 
+west with some other movement on the north flank.  
+
+
+
+ 
+
+ 29 
+
+ 
+Weak anomalies at the very south part of the survey area look as though they might join 
+the two EM axes, but close inspection of the profiles in this area rules this out. The three 
+flight lines that extend to cover part of the United Carina HLEM grid to the east confirm 
+the existence of weak type 5 conductors. 
+ 
+ 
+Lyon Lake  
+ 
+A very well defined type 1 anomaly crossing 18 flight lines with a consistent 16 to 18 
+channel response, dipping vertical, lying along the contact between magnetic and non-
+magnetic rock type. The anomaly is typical of massive graphite beds. 
+ 
+ 
+ Riche Lake  
+ 
+A very low amplitude conductor of moderate (14 channels) conductance that was 
+attractive due to the presence of some radioactive boulders in the vicinity. The 
+anomalies have been classified as type 1 although some could just as easily be type 4 
+because of the negative part in the later channels. There is no magnetic signature other 
+than a general conformation to the strike direction of the bedrock shown by the 
+magnetic field pattern. The anomaly is interpreted as minor graphitic bedding, probably 
+somewhat disseminated. 
+ 
+Long Lake 
+  
+A linear east-west anomaly, 16 to 21 channels, unbroken for ¾ of its length and then 
+broken into two parts at the east end. The anomaly dips to the north from 46 to 75 
+degrees. The central broken part is oriented NW-SE and is slightly less conductive. The 
+west part resumes the E-W orientation and shows about 24 channels.  
+ 
+Most of the conductor axis does not have any magnetic expression other than 
+conforming to the general strike direction of the bedrock pattern as seen in the magnetic 
+field map. A short part of the main anomaly shows correlation with a 25 NT magnetic 
+anomaly which may indicate pyrrhotite as part of the conductive material. The anomaly 
+is considered characteristic of graphite sediments. 
+ 
+ 
+Big Bay  
+ 
+The Big Bay conductors are a cluster of three conductors dominated by one strong (23 
+channels) axis that has a 350 NT coincident magnetic anomaly. At least two other 
+weaker and less well defined conductor axes make up the complex. The main anomaly 
+strikes east-west and dips noticeably to the north, 66 degrees at the west end, 50 
+degrees at the east. This conductor is similar to the Dancing Lake in that there are 
+
+
+
+ 
+
+ 30 
+
+several conductors running parallel and close together. Again the magnetic signature 
+indicates sulphides while the banded nature perhaps more likely graphite. 
+ 
+ 
+Cunning Bay  
+ 
+The Cunning Bay anomaly is a twelve kilometre long linear conductor axis that breaks 
+into a small number of parallel axes toward the northeast end. Conductance is high and 
+fairly uniform along its length and it lies in a mainly negative magnetic anomaly trough. 
+Most of it lies under Wollaston Lake. The dip of the conductor was calculated from the 
+VTEM profiles as being towards the southeast at 85 to 60 degrees. 
+ 
+These anomalies are completely characteristic of graphitic sediments. The VTEM 
+profiles are well formed, free of noise and the anomalies are clearly defined and could 
+be used to position drill hole targets if follow up drilling is planned. 
+ 
+ 
+Boundary  
+ 
+A very well defined VTEM anomaly crossing about nine flight lines with a strong 
+amplitude, and then continuing southwest for another 2 kilometers with reduced 
+intensity. To the northeast it continues for a few lines and then turns southwest to form a 
+very clear U-shaped fold. The arms of the fold are about 900 metres apart and both dip 
+to the southeast, ranging in dip from 60 to 75 degrees. The conductor axis conforms 
+exactly to the basement geology as outlined in the magnetic maps, particularly the 
+vertical gradient, which shows a magnetic core on the inside of the fold. 
+ 
+Dominic  
+ 
+The Dominic anomaly appears to be a continuation of the Cunning Bay anomaly to the 
+northeast. It continues to lie in a magnetic low and like the Boundary conductor forms a 
+U-shaped fold. The dip of both arms of the fold is to the southeast, at about 70 degrees. 
+The shape of the conductor conforms well to the bedrock geology as seen in the 
+magnetic patterns.  
+ 
+ 
+Horse Lake  
+ 
+The Horse Lake conductor is a good quality type 1 anomaly crossing 17 flight lines with 
+a high conductance ranging from 16 to 23 channels. The main part strikes northeast but 
+a splay section cuts off part way down to the west. The splay is less conductive, 
+showing on about 15 channels. There is no real magnetic signature; it does not really 
+conform to the bedrock structure displayed by the magnetics nor does it have a directly 
+coincident magnetic anomaly. The main part of the conductor dips at 90 degrees on 
+average, although this varies from 80 degrees SE to NW along its full length. The splay 
+dips at about 70 degrees to the south.  
+
+
+
+ 
+
+ 31 
+
+ 
+The conductor is somewhat different from those discussed up to now because of its 
+non-conformity to the basement geology as shown in the magnetic pattern. This would 
+suggest that perhaps it is controlled by faulting than by stratification. The conductor is 
+considered to be characteristic of massive graphite. 
+ 
+ 
+Jeffrey and Marcus  
+ 
+These two conductor axes are very similar in character to the Dominic and Cunning Bay 
+conductors in that they are composed of moderate to good conductance anomalies, lie 
+entirely within non-magnetic rock, and conform to the bedrock structure as seen in the 
+magnetic maps. The Jeffrey conductor forms an S-shaped pattern, again conforming 
+well to the magnetic pattern in the vertical gradient map. 
+ 
+ 
+Crochet  
+ 
+The Crochet conductor axis is a combination of type 1 and type 4 anomalies and as 
+such is interpreted as a conductor that is composed of disseminated particles at each 
+end and is more massive in the middle. It lies along a contact between rock types of 
+high and low magnetic susceptibility as seen in the magnetic pattern. The dip is 
+relatively shallow, 47 degrees to the southeast. As with the Horse Lake conductor, it is 
+most likely to be at bedrock surface, some 30 metres depth at most.  
+ 
+ 
+Rapids 
+ 
+The Rapids conductor is a trend of long (3+ km) type 4 anomalies that has a partial 
+correlation to a linear magnetic anomaly. At present it is mainly of academic interest and 
+until more is understood about the type 4 anomaly, this is not given a priority for further 
+investigation.  
+ 
+ 
+Turkey  
+ 
+The Turkey anomaly is a high quality conductor axis that is seen on both sets of flight 
+lines (NE and NW trending). Its conductivity is high with the anomalies on the southern 
+lines being seen on all 26 channels. It has high amplitude and exhibits virtually no noise. 
+The dip is to the east, 78 to 85 degrees. It lies in a magnetic low, conforms reasonably 
+well to the bedrock structure as outlined by the magnetic maps and has all of the 
+characteristics of massive graphite.  
+ 
+ 
+  
+
+
+
+ 
+
+ 32 
+
+Ghost Lake  
+ 
+Ghost Lake is a moderate conductor ranging from 12 to 17 channel activity with an S 
+shape and a small spur leading off to the southeast. It conforms reasonably well to the 
+contact between rock types of differing magnetic susceptibility. It is interpreted as a 
+plate dipping to the east, 86 degrees at the north end and more like 70 degrees toward 
+the south, and has the characteristics of graphitic sediments. 
+ 
+ 
+Turkey East  
+ 
+The Turkey East is a short axis of rather minor type 4 anomalies that normally would be 
+disregarded, except that it leads directly to a uranium channel radiometric anomaly. 
+There is some conformation to a magnetic anomaly seen on the vertical magnetic 
+gradient map. The EM anomaly is interpreted as caused by disseminated graphite 
+sediments. 
+ 
+ 
+Mustang  
+ 
+The Mustang is a conductor group composed of two parallel axes of type 1 and type 4 
+anomalies. The type 4 anomaly is thick massive clay alteration at the unconformity 
+proven from diamond drilling. The conductor may also connect across the unsurveyed 
+portion of the property to a similar group some 2 km to the northeast. 
+ 
+ 
+8.1.4 Enhancement of Total Magnetic Field 
+ 
+The airborne survey also measured the total magnetic field and produced a map and a 
+database channel of total magnetic intensity. The magnetic field has been enhanced by 
+computing the Tilt Magnetic Derivative (Figures 10 and 11), which assists in mapping 
+bedrock geology, and in understanding the host rocks for the E.M. conductors. 
+ 
+ 
+8.2 Airborne Radiometric Survey 
+ 
+During the period of July 8th to 14th, 2007, an airborne high resolution radiometric survey 
+was flown over all the Red Willow claims. A total of 2,636 line-kilometres of data were 
+acquired by the survey. The specifications of the survey were designed to provide better 
+than average sensitivity by using large crystals in a helicopter flying at low speed and 
+low ground clearance. Calculations from the final database show the speed was 99 +/- 
+10 kph and the ground clearance was 36 +/- 9 metres. The total crystal size (downward) 
+was 33.6 litres or 2215 cubic inches. 
+ 
+  
+
+
+
+ 
+
+ 33 
+
+8.2.1 Quality Control 
+ 
+Daily quality control, post-processing of GPS positions and archiving of the data were 
+completed by MPX at the Richmond Hill, Ontario office using Geosoft's OASIS Montaj 
+software and a PC computer.  
+ 
+All data were verified upon receipt, and checked against the flight logs. Images of the 
+collected data were forwarded to the client daily.  
+ 
+The final data processing, map and report preparation was completed by MPX at the 
+Richmond Hill, Ontario office. 
+ 
+ 
+8.2.2 Corrections of Airborne Radiometric Data 
+ 
+Gamma-ray spectrometer surveys are utilized for mapping the concentration and 
+distribution of naturally occurring radioelements. The use of an airborne gamma-ray 
+spectrometer allows for the in-situ analysis of radioelement concentrations of naturally 
+occurring Potassium (K), Uranium (U) and Thorium (Th) in the field.  
+ 
+Radioactivity measurements from an airborne platform are dependent upon the 
+detection of gamma rays produced through radioactive decay of the nuclide to be 
+detected. Only three radioactive elements emit sufficient gamma radiation to be 
+measured by airborne methods. 
+ 
+The three major sources are:  
+• Potassium-40 (40K) which comprises 0.011% of all potassium  
+• Daughter products from the 214Bi (238U) decay series,  
+• Daughter products from the 208Tl (232Th) decay series.  
+ 
+High energy cosmic rays of non-terrestrial origin can be detected by airborne gamma-
+ray spectrometer surveys. This cosmic radiation interacts with molecules in the 
+atmosphere, the aircraft, and the NaI detectors resulting in the production of high 
+energy radiation. This radiation is detectable and increases exponentially with height 
+above sea level and must be compensated for to obtain reliable and repeatable 
+measurements and detection of terrestrial radiation sources.  
+ 
+Care must be taken during the acquisition of gamma-ray spectrometer data as the 
+contribution from radon gas and related decay products in the atmosphere can result in 
+misleading count rates. Radon gas can also diffuse from the ground, but only one radon 
+nuclide is directly related to the Uranium decay series. In order to minimize the impact 
+of radon "contamination", radiometric surveys are not completed during rain (since it 
+"washes" radon from the air and increases ground concentrations) or fog conditions and 
+for a period of not less than 2 hours after precipitation has finished in order to allow for 
+dispersion of radon gas to normal background levels.  
+ 
+
+
+
+ 
+
+ 34 
+
+Radiometric surveys have limited depth penetration; most radioactive sources being 
+within the upper 1.5 metres of the ground. Radiometric surveys are therefore not 
+effective over water bodies or snow covered areas, the presence of water (in either 
+liquid or solid state) effectively masking radiometric sources. 
+ 
+ 
+8.2.3 Discussion of Radiometric Survey Results 
+ 
+Some forms of data enhancement were carried out by the Toronto office of Purepoint 
+Uranium Group for this interpretation. To emphasize uranium anomalies, the data is 
+presented as a coloured grid with a lower limit that has been clipped at about the lower 
+background level so as to obtain a more useful spread of colours in the color table. 
+Values below 1.2 equivalent uranium were removed and this had the effect of removing 
+most values over water and some swamp areas. The grid is displayed using a linear 
+scale to emphasize maximum peak values. The resulting uranium channel map was 
+overlaid with the location of VTEM anomalies axes (Figure 12).  
+ 
+Five anomalous areas were selected that warrant follow up field inspections.  
+ 
+Anomaly A is clearly on an extension of a small VTEM anomaly axis. 
+ 
+The B anomaly is seen on five flight lines with a peak value at 8 ppm over the average 
+background of 1.5 ppm. It has a strike length of 600 metres and may be connected to a 
+VTEM EM anomaly. 
+ 
+Anomalies C and D are of similar strength but are connected to a strong regional 
+anomalous areas (Scrimes Lake) explored earlier by Gulf Minerals. 
+ 
+Anomaly E is of lower intensity (4.5 ppm) but lies on a conductor axis. 
+ 
+The ternary map shows the potassium rich Archean rocks contrasted to the Proterozoic 
+sediments by the increase in the potassium channel. The contrast is reasonably well 
+defined and has been used to map the eastern contact of the Athabasca basin in the 
+claim block (Figure 9). 
+ 
+ 
+8.3 Boulder Prospecting 
+ 
+A boulder sampling survey was conducted during July 2006 to definitively map out the 
+historic Long Lake radioactive boulder train and attempt to follow it to its source Figure 
+13). The survey also attempted to discover new occurrences of radioactive boulders to 
+focus exploration efforts on. A total of 84 boulder samples were submitted to SRC for 
+analysis of major and trace elements using two different digestions, partial and total, 
+similar to the till samples. 
+ 
+In 2011, a boulder prospecting program covered areas north of the Lasby Lake camp, 
+and those within the Dancing Lake and Big Bay targets (Figure 14). Targets were 
+
+
+
+ 
+
+ 35 
+
+ 
+Figure 12: Airborne Radiometric Survey Results – Uranium Channel (South Red Willow) 
+
+
+
+ 
+
+ 36 
+
+ 
+Figure 13: Boulder Sample Location Map – Long Lake Area (2006) 
+
+
+
+ 
+
+ 37 
+
+ 
+Figure 14: Boulder Sample Location Map – Osprey and Big Bay Areas (2011) 
+
+
+
+ 
+
+ 38 
+
+prospected for uranium anomalies, generated by reprocessing the airborne radiometrics 
+data. Samples comprised 44 sandstones with conglomerate, 7 granitic gneisses, and 
+one granite boulder. A total of 6 sandstone boulder samples were collected for assay 
+where CPS readings were found to be particularly high. 
+ 
+ 
+8.3.1 Sampling Method, Preparation and Analysis 
+ 
+During the two prospecting programs, CPS readings were taken using a GR110 
+Scintillometer. 
+ 
+Samples for assay were sent to, and analysed by, Saskatchewan Research Council 
+Geoanalytical Laboratories of Saskatoon, Saskatchewan. The samples were analysed 
+by method of fluorimetry and Inductively Coupled Plasma with Optical Emission 
+Spectroscopy (ICP-OES) for partial digestion values of Ag, As, Bi, Co, Cu, Mo, Ni, Pb, 
+Sb, Se, U, V, and Zn as well as total digestion values of Ag, Al2O3, Ba, Be, CaO, Cd, 
+Co, Cr, Cu, Fe2O3, K2O, Li, MgO, MnO, Mo, Na2O, Nb, Ni, P2O5, Pb, Th, TiO2, U, V, 
+Zn, Zr, and B. 
+ 
+ 
+8.3.2 Discussion of Results 
+ 
+The 2006 Long Lake survey documented boulders of granite, biotite schist, pegmatite, 
+meta-sediment and amphibolite. A highlight of the boulder sampling was 1.30% U3O8 
+returned from an autunite and biotite bearing quartz vein hosted in a biotite gneiss 
+(metasediment) boulder located west of Long Lake (Figure 13). 
+ 
+The 2011 survey mapped sandstone boulders that were sub-rounded to angular, while 
+the granitic gneisses and granite boulders were both sub-rounded. Conglomerate 
+boulders with anomalous radioactivity were mapped at the locations of airborne uranium 
+anomalies and were interpreted to be either in-situ or close to their source based on 
+their angularity and location. 
+ 
+ 
+8.4 Geochemical Surveys 
+ 
+Geochemical surveys including soil, vegetation and tree core sampling were completed 
+during 2012 with the objective of confirming historic anomalous geochemical 
+occurrences and to identify new exploration target areas. Soil sampling covered the 
+Osprey, Geneva, Cross and Recon areas while the vegetation and tree core sampling 
+only covered the Cross and Recon areas. 
+8.4.1 Sampling Method, Preparation and Analysis 
+ 
+All soil and vegetation samples were analysed by Acme Analytical Laboratories (ACME) 
+in Vancouver, British Columbia. Tree core samples were analysed by Queen's Facility 
+for Isotope Research (QFIR) in Kingston, Ontario.  
+
+
+
+ 
+
+ 39 
+
+ 
+The soil samples consisted of an average 1kg sample collected using a stainless-steel 
+serrated soil scoop; the material then transferred into a large Ziploc-brand freezer bag 
+for storage and transportation. Samples targeted the clay-rich "B" and "C" horizons; 
+however "A" horizons were collected in boggy and peat-rich areas where the 
+development of B and/or C horizons were lacking. Each vegetation site consisted of two 
+sample types: a cuttings sample of twigs and needles, referenced as vegetation, and a 
+tree core sample. Both vegetation and tree core samples were collected preferentially 
+from black spruce (Picea mariana) or jack pine (Pinus banksiana) when black spruce 
+was not available at a sample site and were recovered using a pruning tool and a tree 
+corer respectively. Preparation methods for all three media types are detailed below. 
+ 
+Clay separations for soil samples involved ~500g of sample being loaded into a 2L 
+nalgene bottle with 1L of de-ionized (DI) water and 1 tsp of Calgon and sonicated for 
+two minutes. The solution is then decanted into 4x 250ml centrifuge bottles and spun at 
+2500rpm to pull out course material. The solution is decanted into a second set of 
+centrifuge bottles and spun at 8000rpm to pull the less than 2 µm fraction out. The 
+remaining solution is discarded and the clay on the bottom of the bottle is suspended in 
+a small amount of DI before final drying to recover the clay. Once the clay fractions are 
+separated from the soil, the samples were sent to the lab to undergo the Acme's 1F 
+aqua regia analysis package. 
+ 
+Each vegetation sample consisted of two types of material; needles and twigs. The 
+needles were chosen as the preferred material for analysis. In order to prepare the 
+needles, they were first separated from the twigs before undergoing Acme's ashing 
+procedure. This involves ~100-200g of dry needle material being weighed in 200-400ml 
+beakers (rough pre-milling is required for some types of samples). The beakers are 
+placed in the oven with a temperature profile of 4 hour ramp up to 475C, followed by 16 
+hours held at 475C, followed by a 4 hour cool down. Ash product is weighed and 
+transferred to plastic bags and sent for Acme's 1F analysis. 
+ 
+For both soil and vegetation samples, the 1F analysis involves an aqua regia digestion 
+designed for low to ultra-determinations. Samples are analysed by ICP-MS and ICP-
+OES for 68 elements, including lead isotope analysis and REE analysis.  
+ 
+ 
+8.4.2 Quality Control 
+ 
+The SRC laboratory ran multiple standards and repeats when analysing the 
+geochemical data. The results for each standard were averaged for the 10 elements of 
+interest, namely U, Mo, V, Pb206, Pb207, Ni, Co, Zn, B and LOI, and visually inspected 
+against the average to estimate the variance. The repeatability of the standards is 
+shown to quite good with minimal variation. The SRC lab duplicates provided good 
+repeatable results. 
+ 
+ 
+
+
+
+ 
+
+ 40 
+
+8.4.3 Discussion of Results 
+ 
+The geochemical sampling at Red Willow produced several areas of interest. After 
+analyzing the geochemical samples results from all three surveys, eight areas of 
+interest were chosen. Anomalies 1 to 4 are located in the Geneva Area (Figure 15), 
+anomalies 5 to 7 are located in the Cross and Recon Areas (Figure 16) while anomalies 
+8 and 9 are located in the Osprey area (Figure 17). The location of vegetation and tree 
+core anomalies are circled in blue and red (Figure 16).  
+ 
+Anomaly 1 is a multi-element anomaly that appears within the main Geneva area at the 
+nose of two VTEM conductors and is coincident with a gravity low. The anomaly 
+includes 4.2ppm U, 87 ppm V, 44.6 ppm La, 100.8 ppm Ce, 7.65 ppm Cu, 10.2 ppm Ni, 
+26.9 ppm Li and a radiogenic 207Pb/206Pb value of 0.56. It is still considered significant 
+given its coincidence with the gravity low, interpreted structure and VTEM conductors. 
+No vegetation sampling was done over the Geneva area. 
+ 
+Anomaly 2 is a multi-element anomaly that appears within the main Geneva area. This 
+area is anomalous in U and elevated in Ce, La, Zn, and a radiogenic Pb isotopic 
+signature. Although the target is anomalous in pathfinders, it is located in a resistivity 
+and electromagnetic high.  
+ 
+Anomaly 3 is in the Geneva zone has been interpreted outside the Geneva conductor 
+which extends from the end of a VTEM conductor to the SE of the main Geneva 
+conductor through holes RAD-07, 08 and 09. This arcuate feature is also characterized 
+by elevated Ni, Cu, Ce, La, Li, and a radiogenic Pb isotopic signature. This anomaly is 
+located over a granite confirmed by drill hole 12RDW003.  
+ 
+Anomaly 4 is elevated U, Ni, Cu, Zn, Ce, La, Li and a radiogenic Pb signature and is 
+coincident with an area of low gravity along the northern portion of the Geneva 
+conductor. This anomaly occurs along the curved Geneva conductor in a gravity low 
+and magnetic high.  
+ 
+Anomaly 5 is located in the Cross area (Figure 16) and contains a moderate uranium 
+anomaly with three samples returning uranium between 3.2 ppm and 3.7 ppm. This 
+same area also shows elevated Cu, Ni, Mo, As, Li, La, Ce and a radiogenic Pb 
+signature.  
+ 
+Anomaly 6 is located in the Recon Area and returned a uranium value returned of 10.6 
+ppm located along a northeast trending lineament extending from the area surrounding 
+the CBA series of DDH's, approximately along the hinge line of prominent magnetic low 
+features. Several other elements appear to highlight this trend, including La, Ce, Cu, Ni 
+and radiogenic Pb isotopes. The area surrounding the CBA series DDHs that is at the 
+southern extent of the anomaly which is also a highlighted with a vegetation anomaly in 
+blue (Figure 16).  
+ 
+
+
+
+ 
+
+ 41 
+
+ 
+Figure 15: Soil Sample Uranium Results – Geneva Area
+
+Anomaly 1 
+
+Anomaly 2 
+
+Anomaly 4 
+
+Anomaly 3 
+
+
+
+ 
+
+ 42 
+
+ 
+Figure 16: Soil Sample Uranium Results – Cross and Recon Areas 
+
+CBA Drill 
+Hole 
+
+Collars 
+
+
+
+ 
+
+ 43 
+
+ 
+Figure 17: Soil Sample Uranium Results – Osprey Area
+
+Anomaly 9 
+
+Anomaly 8 
+
+  
+
+
+
+ 
+
+ 44 
+
+ 
+Anomaly 7 trends approximately north-south and is located at the northeast corner of 
+the Recon grid as is also associated with elevated Cu, Ni, Ce, La, Li and radiogenic Pb 
+isotopes. This area also appears to have both northeast trending and east-west trending 
+fault systems as interpreted from magnetics along with an arcuate VTEM conductor. 
+ 
+Anomaly 8 is located in the Osprey area (Figure 17) that located a multi-element 
+anomaly in the vicinity of known mineralization within the Osprey conductor and extends 
+approximately 1km to the northeast away from the conductor. The anomaly includes 
+elevated U (max 12.8ppm), base metals such as Ni (81.1ppm), Cu (101.87ppm), and Zn 
+(343.2ppm), REE's La (90.8ppm), and Ce (255.4ppm), as well as other trace elements 
+such As (14.6ppm) and V (339ppm). 
+ 
+Anomaly 9 is a northeast-southwest trending lineament of elevated U extending from 
+the Osprey hinge area. 
+ 
+When comparing tree core results with vegetation and soils in the Cross and Recon 
+grids it appears there is little correlation (Figure 16). For example the uranium anomaly 
+seen in both soil and vegetation samples NE of the CBA series of drill holes is not 
+evident in the tree core samples. The anomalies identified in the tree core samples are 
+not evident in soil or vegetation samples which can possibly be explained by biological 
+filtering of elements by the trees, which could affect relative concentrations of those 
+elements in different parts of the plant (i.e. needles vs. cored trunk wood). 
+ 
+ 
+8.4.4 Conclusions 
+
+ 
+The soil and vegetation sampling programs is considered to be a low-cost exploration 
+technique that is useful in delineating targets over a large area relatively quickly. The 
+results of the vegetation and soil anomalies are comparable and occasionally overlap. 
+ 
+ 
+8.5 Ground Geophysical Surveys 
+ 
+The grids established on the Red Willow project during 2007 were utilized for several 
+types of geophysical surveying including Induced Polarization (IP), electromagnetics 
+(EM) and gravity (Table 2). 
+ 
+Gradient and pole-dipole IP surveys were carried out on several parts of the Red Willow 
+claim block by Peter E. Walcott and Associates Ltd. of Vancouver, B.C. during the 
+period August to October, 2007. A three dimensional resistivity survey was also carried 
+out over several areas by SJV Geophysics Ltd. of Vancouver, B.C. during the period 
+January to March, 2007. 
+ 
+  
+
+
+
+ 
+
+ 45 
+
+ 
+Table 2. Summary of Ground Geophysical Surveys 
+
+  Induced Polarization Electromagnetics (EM)   
+  Line-cutting Gradient Pole-dipole Fixed-loop Moving-loop Gravity 
+
+Grid (line/km) (line/km) (line/km) (line/km) (line/km) (line/km) 
+Geneva 34 29       31 
+Radon 32 31       14 
+Osprey 112 19 26 115 33 25 
+
+Long Lake / 333 174 31 60   75   
+Dancing Lake 67 60         
+
+Big Bay 63 22         
+ 
+Gradient array resistivity was conducted by Patterson Geophysics Inc. (PGI) of La 
+Ronge, Saskatchewan surveying over the Osprey West grid, and recent extensions of 
+the Dancing Lake and Big Bay grids during the period August to September, 2011. 
+ 
+A gravity survey was carried out over portions of the Osprey and the Geneva grids in 
+February 2007 by Excel Geophysics Inc. of High River, Alberta. A second gravity survey 
+was also conducted over the Geneva and Radon grids between January and February, 
+2012 by Eastern Geophysics Ltd. of West Pubnico, N.S. 
+ 
+ 
+8.5.1 Induced Polarization – Gradient Array Methodology  
+ 
+The gradient array IP/resistivity surveys were designed to confirm and evaluate airborne 
+EM anomalies, and to investigate whether the measurement of chargeability and 
+resistivity would be useful in locating the alteration halo minerals that are associated 
+with uranium deposits. The gradient array is more of a mapping tool and displays the 
+chargeability and resistivity as surface maps much like a magnetic survey. 
+ 
+The IP/resistivity survey was carried out using and IRIS Instruments ELREC Pro time 
+domain IP-Resistivity receiver, a Walcer TX 9000, 9+ KW IP transmitter, and a Walcer 
+MX6 or MG-12 motor generator. Stainless steel rods were used for the current and 
+potential electrodes. 
+ 
+The gradient electrode array involves establishing 2 infinite current electrodes 
+approximately a distance equal to the survey line length, parallel to and off both ends of 
+a line in the center of the survey area. The two current electrodes remain fixed for a 
+number of survey lines in both directions until the primary voltage signal becomes too 
+weak to obtain a reliable reading. The two fixed current electrodes are hooked to a 
+transmitter via #14 gauge wires and a "Square Wave", 2 second on 2 seconds off pulse 
+is applied across the 2 electrodes. This creates a relatively deep current path between 
+the two current electrodes. A pair of potential electrodes, attached to a Time Domain IP 
+Receiver is moved up and down the survey lines, recording the "IP" effect 
+(chargeability) and apparent resistivity values. An apparent resistivity reading, and on 
+some grids a chargeability reading, were recorded at each 25 meter station along the 
+grid lines using a potential dipole spacing of 50 meters, moving every 25 meters. When 
+the primary voltage signal recorded across the receiver potential dipole became too 
+
+
+
+ 
+
+ 46 
+
+weak on lines further away from the current dipole, the two current electrodes were 
+moved to the approximate center of the next survey rectangular area. 
+ 
+Parameters digitally recorded in the ELREC Pro receivers for each potential dipole 
+location included: 
+
+• decimal chargeability for 20 separate window widths 
+• cumulative average of the total chargeability and its standard deviation 
+• type of decay curve measured 
+• primary voltage 
+• current intensity 
+• self-potential 
+• apparent resistivity 
+• contact resistance for each electrode 
+• grid co-ordinates for each electrode 
+
+ 
+The gradient resistivity and chargeability results are plotted as coloured contour plan 
+maps using Geosoft Inc.'s data processing software. 
+ 
+ 
+8.5.2 Induced Polarization – Pole-dipole Array Methodology 
+ 
+The 3D-IP technique is a modified pole-dipole configuration that uses current electrodes 
+and receiver electrodes located on adjacent lines. Under these conditions, multiple 
+current locations can be applied to a single receiver electrode array. The system of 
+electrode emplacement enables inversion software to calculate the resistivity in volume 
+pixels (voxels). Vertical sections in any direction and plan maps of any layer can then be 
+drawn showing contoured images of calculated resistivity. 
+ 
+In a common 3D-IP configuration, a receiver array is established, end-to-end along a 
+survey line while current electrodes are located on two adjacent lines. The survey 
+typically starts at one end of the line and proceeds to the other end. A typical 12 dipole 
+array normally consists of one 300m dipole, followed by one 200m dipole and then nine 
+100m dipoles, and a 200m dipole at the end of the array. In some areas these spacings 
+are modified to compensate for local conditions such as inaccessible sites, streams, 
+and overall conductivity of ground. Current electrodes are advanced along the adjacent 
+lines, starting at approximately 1000m from the center of the array and advancing 
+approximately 1000m through the array at 100m increments. At this point, the receiver 
+array is advanced 600m and the process is repeated down the line. Receiver arrays are 
+typically established on every second line (400m apart) thereby providing subsurface 
+coverage at 200m increments. 
+ 
+The typical pole-dipole array was also conducted using a 100-meter dipole spacing with 
+six "n's" or dipoles. Because of the extremely high impedance of the ground contacts, 
+water and salt were applied to the moving current electrode to increase the output 
+current with mixed results.  
+ 
+
+
+
+ 
+
+ 47 
+
+The same parameters as the gradient pole-dipole array surveys were recorded by the 
+ELREC Pro time domain receiver for each potential dipole location: 
+ 
+The Inversion Program (DCINV3D), developed by the UBC-Geophysical Inversion 
+Facility was used by the SJ Geophysical Group to invert the 3D-IP resistivity data. 
+Purepoint also used the UBC inversion code as well as the RES2DINV software to 
+invert the pole-dipole IP results. Geosoft's data processing software is used to slice the 
+3D-IP inversion results at various orientations. 
+ 
+ 
+8.5.3 Transient Electromagnetic Survey Methodology 
+ 
+Purepoint's Chief Geophysicist, Roger K. Watson, P.Eng. has reviewed and interpreted 
+the results of the TEM surveys. The anomalies were evaluated with respect to their 
+quality as electromagnetic conductors and in relation to other geophysical data. Quality 
+control was ensured by repeating 5 to 10 Read Stations per day. The average 
+repeatability was 1% in early channels and the worst result being 2%. 
+ 
+The TEM survey was designed to inspect and confirm airborne E.M. anomalies, and it 
+utilized the stepwise moving loop (SWML) array with transmitter coil movements of 200 
+metres. The size of the transmitter coil on all lines was 200 x 400 metres. The 
+anomalies are 'picked' from profiles displayed on a Geosoft database format. 
+
+ 
+Modeling shows that conductor axes are located under local maxima and minima on the 
+x channel and at points of inflection on the z channel. The y channel shows a 'cross-
+over' for conductors crossing the traverse line at an angle, and which disappears when 
+the conductor crosses the traverse line at exactly 90 degrees. 
+ 
+To help find points of inflection and local maxima and minima the profiles are smoothed 
+using a low pass filter where needed, and the first difference is calculated for the last 
+five channels. Some points of inflection are difficult to pick but will show a maximum or 
+minimum on the first difference. An x channel maximum or minimum will show a profile 
+passing through zero on the first difference.  
+ 
+The anomaly picks are assembled on a spreadsheet and plotted as in Figure 18. There 
+is always some variation in the location of the conductor from loop to loop but this can 
+be resolved by grouping them, assigning a letter, and then calculating the average 
+location in local co-ordinates. The average value is the most probable location and 
+should be used to position a vertical drill hole. The standard deviation is the uncertainty 
+that can be expected in the positioning.  
+ 
+  
+
+
+
+ 
+
+ 48 
+
+ 
+8.5.4 Gravity Survey Methodology 
+ 
+The purpose of the gravity surveying was to see if the gravity field would supply 
+additional information about the geological structure in the vicinity of VTEM conductor 
+axes. Gravity and elevation readings were typically obtained at 50m intervals along cut 
+lines spaced at 100 metres. Some readings were at 25 meters for infill stations. The 
+survey was conducted with a LaCoste & Romberg model G gravity meters, Leica - 
+model 1230 Dual Frequency RTK, DGPS Base Station and Rovers, and an Alegro CX 
+dataloggers. The data was manipulated using Geosoft geophysical software and Leica 
+Geo-Office GPS software 
+ 
+All the gravity data has been calculated or reduced to Bouguer mgal. values. These 
+calculations correct for the following parameters (1) elevation, free- air correction, 
+instrument height; (2) latitude correction; (3) tide correction on a daily basis; (4) 
+instrument drift; and, when required; (5) water depth & ice thickness; and (6) terrain 
+corrections. In order to verify the accuracy of these corrections, 5.26% of the readings 
+were observed again as random repeat readings. Repeat readings were to be no 
+greater than 0.05 mgal. 
+ 
+ 
+ 
+
+ 
+ 
+
+Figure 18: Example of TEM Spreadsheet Diagram 
+ 
+
+ 
+
+ 
+ L150N, SWML anomalies 
+ 
+
+9000 
+
+9500 
+
+10000 
+
+10500 
+
+11000 
+
+11500 
+
+12000 
+
+12500 
+
+13000 
+
+13500 
+
+0 2 4 6 8 10 12 14 16 18 
+Loop number 
+
+S
+ta
+
+tio
+n 
+
+N
+um
+
+be
+r 
+
+ 
+
+X anomaly Z anomaly TX loop 
+
+
+
+ 
+
+ 49 
+
+8.5.5 Osprey Area - Results and Conclusions 
+ 
+The ground geophysical surveys conducted at the Osprey area of Red Willow are 
+summarized within an index map (see in Figure 19). 
+ 
+The Osprey conductor, the S-shaped conductor that cuts through the area, is a strong, 
+noise free VTEM anomaly, and its path can be seen clearly in the resistivity pattern 
+(Figure 20). Values as low as <30 ohm metres are seen along the length of this 
+conductor which would be interpreted as indicating massive conductive material such as 
+graphitic sediments. At the SW end of the Osprey conductor, the VTEM axis has been 
+interpreted as having a lateral displacement to the south and this is supported by the 
+resistivity contours. The Osprey area was surveyed with 3D-IP over two overlapping 
+grids, with the 100 metre depth slice being used for comparison with the VTEM 
+anomalies. 
+ 
+Whether the VTEM is associated with basement clay alteration cannot be directly 
+determined since the conductivity of the graphitic pelites is assumed to overshadow the 
+conductive effect of the alteration minerals. However, as discussed in detail in Section 
+9, areas of high resistivity appears to be mapping out strong silicification and felsic 
+rocks including granites and granitized pelites. 
+ 
+The 3D-IP resistivity anomalies correlate well with airborne and ground EM anomalies in 
+most places, particularly at medium depths. They show increased widths with an 
+increase in depth which departs from the usual geological model and may be an 
+'artifact' of the inversion process. But it may also be the correct picture and so should be 
+borne in mind for verification during subsequent drilling programs. 
+ 
+A gradient resistivity survey on the western portion of the Osprey grid has a small 
+overlap with the 3D-IP results at the SW end of the Osprey conductor (Figure 21). The 
+gradient results correlate quite well with the ground EM anomalies outlined within this 
+area.  
+ 
+The EM anomalies found in the 2006 fixed loop survey are mainly confirmed by the 
+VTEM survey results. The circular flat lying conductor located just south of drill hole 
+RW-07 (Figure 20) remains unexplained. It can be seen in the VTEM results but it does 
+not look like the model of graphitic beds in the basement. It has been postulated that 
+wide-spread clay alteration may be responsible or a conductive material in the 
+overburden. 
+ 
+The gravity survey revealed a positive gravity anomaly of 2.5 milligals centered at the 
+southwest side of the grid (Figure 22). It is approximately 600 metres wide and its edge, 
+to some extent, conforms to the shape of the EM conductor axis. Modeling the anomaly 
+to a geometrical shape showed a relatively poor fit to a 550 metre wide cylinder, 150 
+below ground surface and 71 metres thick. An asymmetrical polygon was found to be a 
+better fit with a density contrast of 0.44 gms/cc, a reasonable contrast between high and 
+low density units of the Athabasca sandstone. It may represent a dome structure with 
+the more dense members in the center. 
+
+
+
+ 
+
+ 50 
+
+ 
+Figure 19: Osprey Grid – Ground Geophysical Survey Index Map 
+
+
+
+ 
+
+ 51 
+
+ 
+Figure 20: Osprey Grid – 3D Resistivity Results for 100m Depth 
+
+
+
+ 
+
+ 52 
+
+ 
+Figure 21: Western Osprey Grid – Gradient Array Resistivity Results 
+
+
+
+ 
+
+ 53 
+
+ 
+Figure 22: Osprey Grid – Bouguer Gravity Results
+
+
+
+ 
+
+ 54 
+
+ 
+8.5.6 Geneva and Radon Lake Area - Results and Conclusions 
+ 
+The ground geophysical surveys conducted within the Geneva and Radon Lake areas 
+of Red Willow are summarized within an index map that is provided in Figure 23. 
+ 
+The Geneva grid was surveyed with a block of sixteen gradient array lines followed by 
+four pole-dipole lines. The gradient array resistivity map shows a well-defined resistivity 
+low anomaly occupying the center of the survey grid (Figure 24). Its relationship to the 
+VTEM anomalies is remarkable in that the VTEM anomalies define almost exactly the 
+northern edge, and to a lesser extent the eastern edge of the conductive basin. The 
+interpretation of the VTEM anomalies is that they represent a shallow dipping oval 
+shaped basin dipping into the center at about 30 to 45 degrees. The gradient array 
+resistivity clearly supports this interpretation. The chargeability results are less definitive 
+since they show chargeable material within the basin although not at the edges where 
+the VTEM anomaly is interpreted to lie (Figure 25). Within the centre of the grid, an 
+anomalous chargeability low coincides with a VTEM conductor and an interpreted low 
+apparent resistivity "chimney" in the sandstone (interpreted from inverted pole-dipole IP 
+data)  
+ 
+The gradient resistivity pattern at Radon Lake shows a direct correlation to the VTEM 
+anomaly that cuts through the grid in a NNE strike direction (Figure 24). It is most 
+intense at the southern part where the VTEM anomaly is also at a maximum intensity. A 
+resistivity high on the east side of the anomaly and low to the west with the VTEM 
+conductor axis apparently forms a divide or a contact between them. To the south 
+where the VTEM anomaly is strongest, the resistivity shows a clear anomaly low. The 
+chargeability shows the same effect with the chargeability high being on the west side of 
+the contact (Figure 25). It is clear that the conductor axis is part of a geological contact 
+of some type. 
+ 
+The location of the four pole-dipole lines at Geneva are shown in Figure 23 and the 
+inversion results are provided as stacked sections in Figure 26. The resistivity anomaly 
+defining the basin in the gradient array results is clearly seen in the later n values on all 
+four lines, and it increases in amplitude with depth. 
+ 
+The pole-dipole resistivity anomaly at Geneva supports the gradient resistivity array 
+anomaly and is interpreted as a broad conductive and chargeable mass occurring below 
+the sandstone. Zones of low resistivity within the sandstone may represent "chimneys" 
+of hydrothermal alteration associated with structures controlling uranium mineralization 
+at the unconformity or within the basement rocks (LARC Principal, R. Koch; PDAC 
+Convention 2007). Drill hole GEN11-01 intercepted alteration and a minor structure in 
+the sandstone that coincides with a possible LARC (Low Apparent Resistivity Chimney). 
+Zones interpreted to be possible LARCs on Lines 60 and 61E (Figure 26) coincide with 
+where two short VTEM conductors terminate (Figure 24).  
+ 
+A limited gravity survey was conducted over the Geneva grid in 2007 (Figure 27). Two 
+subtle gravity depressions on L62E were found to correlate with the LARCs and the 
+
+
+
+ 
+
+ 55 
+
+ 
+Figure 23: Geneva, Radon, Dancing Lake and Big Bay – Ground Geophysical Survey Index Map 
+
+
+
+ 
+
+ 56 
+
+ 
+Figure 24: Geneva and Radon Grids – Gradient Array IP Resistivity Results
+
+
+
+ 
+
+ 57 
+
+ 
+Figure 25: Geneva and Radon Grids – Gradient Array IP Chargeability Results
+
+
+
+ 
+
+ 58 
+
+ 
+Figure 26: Geneva Grid – Pole-dipole Induced Polarization Inversion Sections 
+
+
+
+ 
+
+ 59 
+
+ 
+Figure 27: Geneva and Radon Grids – Bouguer Gravity Results 
+
+
+
+ 
+
+ 60 
+
+termination of the two VTEM conductors. A gravity survey conducted in 2012 was 
+designed to support the initial results and provide more extensive coverage. The gravity 
+depressions were supported by the new data and are now interpreted to be related to 
+the strong basement alteration reported by Cameco in holes RAD-17, 19 and 27 and 
+with follow up holes drilled in 2014 (Figure 27). The eastern gravity low anomaly is 
+interpreted to be open to the east. A gravity low in the vicinity of drill holes GEN11-01 
+and 2 where clay alteration was seen locally in both holes and numerous faults were 
+encountered by GEN11-02 may be reflecting alteration in the area. The gravity low in 
+the vicinity of hole 12RDW003 was not explained by the drilling and is possibly an 
+overburden artifact. 
+ 
+On the Radon grid, the elongate gravity low that correlates with the VTEM conductor is 
+a response to thick overburden material. Due to the extreme thickness of the esker, 
+attempts to filter off the surficial material returned inconclusive results. A gravity low 
+located at the north end of the esker may have a bedrock source. 
+ 
+ 
+8.5.7 Long Lake, Lyon and 333 Areas – Results and Conclusions 
+ 
+The ground geophysical surveys conducted within the Long Lake, Lyon and 333 areas 
+of Red Willow are summarized within an index map that is provided in Figure 28. 
+ 
+The 3D IP interpretation map of the Long Lake area (Figure 29) shows the calculated 
+inverted resistivity at a depth slice of approximately 200 metres below ground surface. 
+VTEM and TEM anomalies are superimposed as symbols and a conductor axis. 
+ 
+There is a very close correlation with low resistivity measurements and high 
+conductance airborne anomalies. In area 333, anomaly A, which is the strongest VTEM, 
+also shows the lowest resistivity in the inversion slice. Furthermore, the small break in 
+the linearity of the conductor is reflected in the resistivity contours. The same is 
+observed for anomaly E in the Long Lake area where the conductor axis is broken in the 
+centre of the resistivity grid, and is again reflected in the resistivity pattern. This is 
+excellent confirmation of the ability of both methods to accurately represent the ground 
+resistivity. 
+ 
+Anomaly A has been analyzed in the VTEM interpretation and is interpreted as being 
+caused by steeply dipping massive conductive material such as graphitic sediments. By 
+scrolling through the range of depth slices and the cross sections in SJV's report, the 
+anomaly is seen to increase in width as depth increases. This implies that the graphite 
+bands are increasing in number and/or width with depth. This could be just an artifact or 
+peculiarity of the inversion process but it could also be true representation of the 
+geometry of the conductor. The dip is calculated from the VTEM profiles to be 85 
+degrees east.  
+ 
+Anomaly B is composed of type 4 anomalies and is well supported by three definite but 
+weak TEM anomalies. It is also seen in the resistivity contours, which show a good
+
+
+
+ 
+
+ 61 
+
+ 
+Figure 28: Long Lake, Lyon and 333 Grids – Ground Geophysical Survey Index Map 
+
+
+
+ 
+
+ 62 
+
+Figure 29: Long Lake and 333 Grids – 3D Resistivity Results for 200m Depth
+
+
+
+ 
+
+ 63 
+
+correlation with the distribution of airborne anomaly symbols. This anomaly is 
+interpreted to be caused by less conductive graphitic sediments, possibly because they 
+are more disseminated than massive. 
+ 
+Anomaly C is the tail end of the strong Lyon Lake conductor and is clearly reduced in 
+conductance.  
+ 
+Anomaly D is a low conductance extension of the Riche Lake anomaly. It is partially 
+confirmed by the resistivity but in general is very weak. 
+ 
+Anomaly E is confirmation of a strong VTEM conductor and the resistivity pattern 
+conforms well to the discontinuity in the linearity of the conductor axis. It is interpreted 
+as graphitic sediments. 
+ 
+Anomaly F is the continuation of Anomaly E to the east where it has been confirmed by 
+ground transient E.M. methods. It can be drilled from the existing E.M. information and 
+does not require more resistivity survey data. 
+ 
+Gradient data over the 333 Area (Figures 30 and 31) covers a strong well-defined 
+VTEM anomaly striking north south through the middle of the grid, plus a few minor 
+scattered E.M. anomalies to the south. The resistivity supports the airborne data, 
+showing a clear resistivity low correlating with the airborne anomaly (Figure 30). The 
+chargeability also supports it although not quite as well defined as the resistivity (Figure 
+31). The interpretation is that the VTEM conductor represents massive conductive 
+material for all of its length, probably graphite or sulphide minerals. 
+ 
+The gradient array resistivity and chargeability data at Lyon Lake show low resistivity 
+and high chargeability anomalies that correlate well with airborne and ground E.M. 
+anomalies (Figures 30 and 31). A strong Type 1 VTEM anomaly strikes NNE in the 
+center of the grid and is interpreted as a band of steeply dipping graphitic sediments. 
+The I.P. data supports this interpretation completely showing high chargeability and low 
+resistivity exactly where it would be expected. 
+ 
+Conductors interpreted from the Step-wise Moving Loop EM survey results are provided 
+in Figures 28 to 31 with the symbol-sized according to the strength of the anomaly. 
+ 
+ 
+8.5.8 Dancing Lake and Big Bay Area - Results and Conclusions 
+ 
+An index map for the ground geophysical surveys conducted on the Dancing Lake and 
+Big Bay grids is provided in Figure 23 along with the Geneva and Radon Lake surveys. 
+ 
+The gradient resistivity survey over the southern portion of the Dancing Lake grid 
+covered three type 1 VTEM conductor axes of moderate conductivity that are relatively 
+short in dimension and do not conform to regional geological trends. The resistivity 
+shows a broad low that includes the VEM conductor axes but does not correlate to it  
+
+ 
+
+
+
+ 
+
+ 64 
+
+ 
+Figure 30: Long Lake and 333 Grids – Gradient IP Resistivity Results 
+
+
+
+ 
+
+ 65 
+
+ 
+Figure 31: Long Lake and 333 Grids – Gradient IP Chargeability Results 
+
+
+
+ 
+
+ 66 
+
+ 
+(Figure 32). The shapes and widths are quite different and one conductor crosses over 
+into highly resistive ground to its east. 
+ 
+The gradient resistivity survey over the Dancing Lake and Big Bay grid extensions to the 
+north was conducted along an interpreted strong northeast trending ductile shear zone 
+(Figure 32). The purpose of the survey was to map out possible brittle north-south faults 
+where they crosscut the major shear zone. The resistivity results support the interpreted 
+structure and suggest crosscutting faults may be present. 
+ 
+The results of pole-dipole array IP over 5 lines (Figure 32) are considered to agree with 
+the gradient array results. Two possible LARCs underlain by VTEM conductors have 
+been interpreted on Lines 21 and 28N.  
+ 
+Of the two east-west trending EM conductors found on the Dancing Lake grid, the most 
+northerly of the two is on trend with the conductor tested by the historic holes Dan-1 to 7 
+(Figure 32). The historic holes intersected pyritic graphitic pelitic gneiss suggesting that 
+at least this one EM conductor, if not all three, are responding to graphitic basement 
+rock. 
+ 
+ 
+9. DIAMOND DRILLING 
+ 
+On the Red Willow property, a total of 16,546 metres have been drilled with 64 NQ 
+diamond drill holes being completed by Purepoint and 15 holes by Rio Tinto. The 2007 
+diamond drill program was conducted by Denair Beach Drilling of Denair Beach, SK; the 
+2008, 2010 and 2011 programs by Aggressive Drilling of Prince Albert, SK; and the 
+2012 and 2014 programs by Bryson Drilling Ltd. of Archerwill, SK. 
+ 
+Purepoint drilled seven drill holes in 2007 totaling 1,303 metres on the Osprey grid while 
+the 2008 drill program consisted of 17 drill holes in the Osprey area, 13 holes in the 
+Radon Lake area and 7 on the Long Lake grid for a total of 7,160 metres. During 2010, 
+a 20-hole diamond drill program totaling 3,292 metres again concentrated on the 
+Osprey grid. 
+ 
+Rio Tinto drilled two holes on the Geneva grid in 2011 for a total of 591 metres. In 2012 
+three holes in the Osprey area and one hole in the Geneva area were completed for a 
+total of 1,466 metres. A ten hole, 2,734 metre diamond drill program was completed in 
+2014 with two holes drilled in the Osprey area, three holes within the Mustang area, four 
+within the Geneva area and one in the Lasby Lake area. 
+ 
+A summary of the drill hole collars are provided in Table 3. 
+ 
+
+
+
+ 
+
+ 67 
+
+ 
+Figure 32: Dancing Lake and Big Bay Grids – Gradient Resistivity IP Results 
+
+
+
+ 
+
+ 68 
+
+ 
+
+ 
+Figure 33: Dancing Lake Grid – Pole-dipole Array IP Inversion Sections 
+
+
+
+ 
+
+ 69 
+
+Table 3: Drill Hole Collar Summary 
+    Grid Co-ordinates UTM Co-ordinates Elev. 
+
+  
+Depth 
+
+Hole ID Grid North East UTM_N UTM_E (m) Azi. Dip (m) 
+
+RW-01 Osprey 1822 1352 6484483 573330 420 359 -50 164 
+RW-02 Osprey 1822 1352 6484483 573330 420 257 -65 144 
+RW-03 Osprey 4660 2323 6485812 575992 399 252 -56 258 
+RW-04 Osprey 4653 2338 6485797 575997 399 239 -60 231 
+RW-05 Osprey 4671 2341 6485806 576012 401 247 -60 51 
+RW-06 Osprey 4678 2331 6485819 576010 400 244 -60 272 
+RW-07 Osprey 4622 2396 6485734 576016 401 229 -60 182 
+RW-08 Osprey 4648 2396 6485752 576035 404 236 -60 196 
+RW-09 Osprey 4648 2396 6485752 576035 404 237 -75 243 
+RW-10 Osprey 4561 2407 6485683 575981 397 46 -67 129 
+RW-11 Osprey 4561 2407 6485683 575981 397 0 -90 96 
+RW-12 Osprey 4561 2407 6485683 575981 397 46 -79 105 
+RW-13 Osprey 4561 2407 6485683 575981 397 45 -60 81 
+RW-14 Osprey 4594 2507 6485635 576075 396 225 -75 138 
+RW-15 Osprey 4563 2507 6485614 576053 396 232 -70 186 
+RW-16 Osprey 4563 2507 6485614 576053 396 233 -86 145 
+RW-17 Osprey 4616 2603 6485583 576158 396 239 -66 182 
+RW-18 Osprey 4616 2603 6485583 576158 396 0 -90 96 
+RW-19 Osprey 4634 2331 6485788 575979 399 249 -60 189 
+RW-20 Osprey 4590 2316 6485767 575937 397 240 -71 132 
+RW-21 Osprey 4631 2372 6485757 576005 400 237 -58 162 
+RW-22 Osprey 4630 2347 6485774 575987 399 234 -60 132 
+RW-23 Osprey 4630 2347 6485774 575987 399 237 -52 123 
+RW-24 Osprey 4601 2369 6485738 575982 397 229 -64 102 
+RW-25 Osprey 3500 3060 6484466 575700 410 307 -65 285 
+RW-26 Osprey 3500 2960 6484525 575645 415 299 -63 141 
+RW-27 Osprey 3737 3172 6484558 575948 405 179 -61 328 
+RW-28 Osprey 4710 3260 6485188 576687 410 88 -59 263 
+RW-29 Osprey 4795 3350 6485189 576809 407 79 -65 184 
+RW-30 Osprey 4785 3010 6485406 576580 398 31 -66 207 
+RW-31 Osprey 4630 2200 6485879 575883 399 225 -65 162 
+RW-32 Osprey 4785 2140 6486035 575950 401 266 -64 213 
+RW-33 Osprey 4683 2458 6485733 576103 401 223 -65 210 
+RW-34 Osprey 4550 2421 6485665 575983 397 35 -65 114 
+RW-35 Osprey 4550 2421 6485665 575983 397 35 -55 114 
+
+ 
+  
+
+
+
+ 
+
+ 70 
+
+Table 3 (cont'd): Drill Hole Collar Summary 
+
+  
+Grid Co-ordinates UTM Co-ordinates Elev. 
+
+  
+Depth 
+
+Hole ID Grid North East UTM_N UTM_E (m) Azi. Dip (m) 
+
+RW-36 Osprey 4539 2454 6485634 575998 396 44 -70 114 
+RW-37 Osprey 4539 2454 6485634 575998 396 39 -55 87 
+RW-38 Osprey 4585 2413 6485695 576002 398 314 -65 132 
+RW-39 Osprey 4575 2415 6485687 575996 398 308 -60 105 
+RW-40 Osprey 4575 2415 6485687 575996 398 18 -65 93 
+RW-41 Osprey 4760 3320 6485184 576768 407 81 -65 201 
+RW-42 Osprey 4730 2840 6485483 576421 395 0 -80 114 
+RW-43 Osprey 4725 2780 6485528 576372 395 45 -80 108 
+RW-44 Osprey 4695 2800 6485495 576363 395 10 -80 117 
+LL08-01 Long Lk 5500 12000 6479615 583485 400 0 -75 244 
+LL08-02 Long Lk 4955 11700 6479464 582930 407 4 -60 201 
+LL08-03 Long Lk 4700 11365 6479507 582518 416 316 -53 249 
+LL08-04 Long Lk 5700 11990 6479750 583661 400 311 -90 180 
+LL08-05 Long Lk 4500 10275 6480144 581611 419 128 -54 291 
+LL08-06 Long Lk 8580 10020 6483194 584262 409 309 -55 252 
+LL08-07 Long Lk 8850 9890 6483454 584418 410 300 -55 207 
+
+RAD08-01 Radon 10032 9812 6478690 576313 438 88 -65 237 
+RAD08-02 Radon 9882 9859 6478550 576240 444 315 -65 280 
+RAD08-03 Radon 9821 9950 6478443 576262 456 0 -90 171 
+RAD08-04 Radon 9081 10162 6477768 575887 455 135 -60 256 
+RAD08-05 Radon 8638 10324 6477337 575686 464 314 -61 237 
+RAD08-06 Radon 9028 10198 6477705 575874 458 130 -65 246 
+RAD08-07 Radon 9218 10180 6477853 575997 458 136 -64 258 
+RAD08-08 Radon 8523 10341 6477248 575619 465 0 -90 176 
+RAD08-09 Radon 8320 10244 6477172 575407 465 161 -88 159 
+RAD08-10 Radon 8424 10333 6477181 575544 466 128 -88 171 
+RAD08-11 Radon 8018 10246 6476957 575195 468 136 -64 186 
+RAD08-12 Radon 9655 10147 6478185 576283 443 22 -88 150 
+RAD08-13 Radon 9486 10026 6478151 576078 462 86 -65 198 
+GEN11-01 Geneva 5645 5700 6478845 573825 465 227 -60 255 
+GEN11-02 Geneva 5690 5700 6478868 573866 465 140 -60 336 
+12RDW001 Osprey 4165 2345 6485442 575660 401 10 -60 396 
+12RDW002 Osprey 4055 3290 6484700 576259 409 134 -60 401 
+12RDW003 Geneva 6515 6040 6479312 574647 463 325 -60 302 
+12RDW004 Osprey 3290 2650 6484616 575256 419 324 -60 365 
+
+ 
+  
+
+
+
+ 
+
+ 71 
+
+Table 3 (cont'd): Drill Hole Collar Summary 
+
+  
+UTM Co-ordinates Elev. 
+
+  
+Depth 
+
+Hole ID Grid UTM_N UTM_E (m) Azi. Dip (m) 
+
+14RDW005 Mustang 6484483 573330 416 329 -60 309.58 
+14RDW006 Mustang 6484483 573330 417 329 -57 265.8 
+14RDW007 Mustang 6485812 575992 416 332 -54 177 
+14RDW008 Geneva 6485797 575997 451 65 -65 262 
+14RDW009 Geneva 6485806 576012 451 65 -65 338 
+14RDW010 Geneva 6485819 576010 451 65 -65 174 
+14RDW011 Lasby Lk 6485734 576016 448 350 -60 240 
+14RDW012 Geneva 6485752 576035 451 137 -50 267 
+14RDW013 Osprey 6485752 576035 398 18 -45 348 
+
+14RDW014 Osprey 6485683 575981 400 18 -45 353 
+ 
+ 
+9.1 Downhole and Core Logging Procedures 
+
+ 
+Downhole procedures included oriented core readings and radiometric logging. 
+Oriented drill core markings were made on the drill core for each drill run using an 
+ACE orientating tool. The radiometric logging was conducted using a 2PGA-1000 
+Poly-Gamma Probe and a MGX II Logger. The gamma probe was calibrated 
+against a set of known standards in test pits located at the Saskatchewan 
+Research Council's facilities in Saskatoon. 
+ 
+Data collected from the drill core included geologic descriptions, core recovery, 
+rock quality determination (RQD), fracture count, magnetic susceptibility and 
+radioactivity using a handheld scintillometer. Oriented drill core measurements, 
+recorded using a goniometer, included shearing, foliation, slips, gouge, fractures 
+and veins.  
+ 
+Samples were collected for analysis using a portable short-wave infrared mineral 
+analyzer (PIMA) for the determination of the spatial distribution of clay minerals. 
+The geologist collected PIMA samples where clay alteration was prominent and 
+where clay coatings were seen on fracture surfaces within the basement rock. A 2 
+to 4 cm long piece of drill core was collected where required and placed in a 
+sample bag marked with the hole number and sample depth. All Purepoint PIMA 
+samples were forwarded to Ken Wasyliuk, M.Sc., P.Geo. of Northwind Resources, 
+Saskatoon, Saskatchewan for analysis. 
+ 
+Sampling procedures for samples submitted for analysis using partial and total 
+digestion inductively coupled plasma methods, for boron by Na2O2 fusion, and for 
+uranium by NHO3/HCl and fluorimetry at the Saskatchewan Research Council 
+Geoanalytical Laboratories in Saskatoon are described in detail in Section 10. 
+ 
+ 
+
+
+
+ 
+
+ 72 
+
+9.2 Diamond Drill Hole Results 
+ 
+Diamond drilling to date on the Red Willow project has been conducted on six 
+grids that include Osprey, Geneva, Radon, Lasby Lake, Mustang and Long Lake. 
+ 
+ 
+9.2.1 Osprey Grid Drill Results 
+ 
+The first drill program on the Red Willow project in 2007 targeted the six-kilometer 
+long, "S"-shaped Osprey conductor on the Osprey grid (Figure 34). Hole RW-07 of 
+that program intersected 0.20% eU3O8 over 5.8 metres at the shallow depth of 70 
+metres just north of Osprey Lake. Due to lost core within the mineralized interval of 
+RW-07, an eU3O8 is used which is a radiometric equivalent calculated from the 
+calibrated natural gamma geophysical log. Since that time, numerous geophysical 
+surveys have been conducted over the grid to help target the drilling of this priority 
+target. Target areas are discussed separately below and include the area around 
+Osprey Lake (location of hole RW-07), Osprey Hinge, Central Osprey, Osprey 
+South, Osprey North and Osprey West. 
+ 
+ 
+Osprey Lake 
+ 
+The area immediately surrounding Osprey Lake has now been tested by 33 holes 
+totaling 4,796 metres (Figures 34 and 35). Weakly anomalous uranium 
+mineralization at Osprey Lake was intercepted over a 250 metre strike length but 
+the RW-07 mineralization remains the highlight intercept to date (Table 4). The 
+holes drilled were kept relatively short (average depth of only 160m) in an effort to 
+understand the structural controls of the mineralization before attempting more 
+costly deeper drilling. The location of Osprey Lake in relation to the mineralization 
+has been a hindrance to drilling since angled holes to properly cut the lithology is 
+difficult from lake ice and poor ice conditions have prevented drilling even a vertical 
+hole on the lake. 
+ 
+Drilling results have shown the Osprey conductor to be a vertical to sub-vertical, 
+weak to moderately sheared, dark green to black chlorite altered pyritic graphitic 
+pelitic gneiss bounded by moderate to strongly silicified and moderately hematized 
+pelitic gneiss (Figure 36). The pyritic/graphitic unit is typically 40 to 60 metres wide, 
+hosts 5 to 8% pyrite as fine disseminations, medium to coarse subhedral crystals 
+and rare semi-massive bands and trace to 1% fine graphite needles. The most 
+significant uranium mineralization discovered to date in the Osprey Lake area is 
+confined to a flat tension fracture ("A" zone) but also occurs within steep narrow 
+gouges within, and running parallel to, the shear zone. The radioactive "B" gouge 
+has been interpreted to have a west-northwest trend while the radioactive "C" 
+structure trends north-northwest (Figure 35). The "A" fracture zone has a distinct 
+geochemical signature that includes anomalous partial digestion results for As (up 
+to 94.1 ppm), Cu (up to 7,660 ppm), Pb (up to 2,280 ppm), and Zn (up to 33,000 
+ppm). 
+
+
+
+ 
+
+ 73 
+
+ 
+Table 4: Summary of Significant Uranium Intercepts – Osprey Lake Area 
+
+Hole From (m) To (m) Width (m) U (ppm) U3O8 (wt %) 
+RW-03 124.91 125.11 0.2 5682 0.67 
+  127.4 127.47 0.07 4200 0.50 
+
+ 
+163.28 163.32 0.04 1770 0.21 
+
+RW-04 89.21 89.31 0.1 752 0.09 
+  97.6 98.3 0.7   lost core 
+RW-06 156.4 157.0 0.6 137 0.02 
+  158.3 158.35 0.05 623 0.07 
+  174.55 174.6 0.05 2700 0.32 
+RW-07 68.6 68.7 0.1 1100 0.13 
+  72.1 75.7 3.6 1398 0.17 
+includes 74.6 75.0 0.38 4810 0.57 
+RW-08 72.3 72.7 0.4 988 0.12 
+  159.2 159.9 0.2 451 0.05 
+RW-09 No Significant Values       
+RW-10 58.2 64.2 6.0 424 0.05 
+includes 58.6 58.7 0.1 4220 0.50 
+RW-11 No Significant Values       
+RW-12 59.9 60.0 0.1 172 0.02 
+RW-13 62.8 66.2 3.4 991 0.12 
+includes 65.0 66.2 1.2 2288 0.27 
+RW-14 No Significant Values       
+RW-15 No Significant Values       
+RW-16 24.9 25.0 0.1 298 0.03 
+RW-17 No Significant Values       
+RW-18 25.0 25.5 0.5 161 0.02 
+RW-19 93.3 97.3 4.0 1615 0.19 
+includes 94.1 94.2 0.1 25700 3.03 
+RW-20 26.0 28.7 2.7 431 0.05 
+includes 26.8 27.1 0.3 1277 0.15 
+RW-21 No Significant Values       
+RW-22 No Significant Values       
+RW-23 No Significant Values       
+RW-24 No Significant Values       
+RW-34 57.8 58.6 0.8 340 0.04 
+  80.2 80.6 0.4 1300 0.15 
+RW-35 64.8 65.6 0.8 5350 0.63 
+  83.8 84.0 0.2 921 0.11 
+RW-36 No Significant Values       
+RW-37 54.8 55.4 0.6 499 0.06 
+RW-38 66.5 71.3 4.8 1160 0.14 
+includes 66.5 67.3 0.8 5420 0.64 
+RW-39 78.4 79.8 1.4 360 0.04 
+RW-40 60.2 61.7 1.5 3970 0.47 
+12RDW001 No Significant Values 
+
+   14RDW013 252 253 1.0 132 0.02 
+14RDW014 177.6 178.5 0.9 141 0.02 
+Note: Due to lost core, Hole RW-07 reported as 0.2% eU3O8 over 5.8m from 71.4 to 77.2m. 
+
+
+
+ 
+
+ 74 
+
+ 
+Figure 34: Diamond Drill Hole Location Map – Osprey Grid 
+
+
+
+ 
+
+ 75 
+
+ 
+Figure 35: Geologic Interpretation of Osprey Lake Area 
+
+
+
+ 
+
+ 76 
+
+ 
+Figure 36: Geologic Interpretation of Section 2400E – Osprey Lake Area 
+
+
+
+ 
+
+ 77 
+
+The geophysical results of the Osprey Lake area were initially interpreted as showing a 
+northwest trending fault crosscutting the Osprey conductor in the vicinity of hole RW-07. 
+Subsequent drilling has failed to intercept a significant crosscutting structure but has 
+outlined a silicified flexure in the conductor that appears to be reflected in the 3D 
+resistivity results. Drill holes RW-21 and 24 both encountered the pyritic graphitic pelitic 
+gneiss in the vicinity of the flexure, however, the unit was strongly silicified and devoid 
+of any radioactivity effectively separating the vertical mineralized structure into two 
+separate zones ("B" and "C"). Two additional holes (RW-38 and 39) were drilled into the 
+flexure beneath, and perpendicular to, the RW-21 and 22 holes and intersected strongly 
+silicified pelitic gneiss. Based on this evidence, areas of high resistivity are considered 
+to reflect siliceous barren lithologies. 
+ 
+Three holes were drilled by Rio Tinto in the area including 12RDW001 that encountered 
+barren granitized pelite throughout it length and holes 14RDW013 and 14RDW014 that 
+encountered relatively unaltered quartz-rich semi-pelite and psammitic gneiss. 
+ 
+A resistivity section through the Osprey conductor is compared to the Eagle Point 
+deposits at a similar scale in Figure 37. The comparison suggests that there is potential 
+to discover a large-scale basement hosted uranium deposit in the area.  
+ 
+ 
+Osprey Hinge 
+ 
+Encouraging results were also returned from the Osprey conductor at a fold hinge 
+located approximately 800 metres east-southeast of Osprey Lake and the RW-07 
+intercept. A three hole geologic fence totaling 648.1 metres of drilling tested the Hinge 
+area and encountered strong clay, hematite and chlorite alteration and a weakly 
+radioactive fault zone (Figure 38). 
+ 
+Drill hole RW-28 intersected two intervals of moderately chloritized pyritic-graphitic 
+gneiss. A 2 mm wide fracture hosting massive galena was seen cross-cutting foliation 
+between the two graphitic units returning 1.0% Pb over 1.0 m between 166.8 and 167.8 
+m. Moderately clay altered biotite-feldspar-quartz gneiss hosting clay-filled fractures 
+was encountered between 191.8 and 204.3m then moderate hematite alteration was 
+present to the completion depth of 263.3m. The presence of hematite alteration at a 
+depth greater than 250m was considered encouraging and was followed by the second 
+hole of the geologic drill fence (RW-29).  
+ 
+Drill hole RW-29 was collared 120m east of RW-28 and did not encounter pyritic or 
+graphitic rock. The biotite-feldspar-quartz gneiss was moderately clay altered to 56.0m, 
+strongly hematite and chlorite altered to 83.7 m, intensely silicified to 96.7 m, then weak 
+hematite alteration to the end of hole. Numerous intervals of strongly broken core and 
+lost core were encountered throughout the hole. The radioactivity highlight of hole RW-
+29 was from a zone of lost core intersected between 74.7 to 76.3m that returned 
+downhole gamma results up to 1,892 cps (estimated as an eU value of 250 ppm). The 
+anomalous radioactivity is assumed to be related to a vertical fault, named the "Hinge  
+ 
+
+
+
+ 
+
+ 78 
+
+ 
+ 
+ 
+ 
+
+Figure 37: Sections of Osprey Conductor and Eagle Point Deposit at Similar Scales
+
+
+
+ 
+
+ 79 
+
+ 
+Figure 38: Geologic Interpretation of Drill Section – Osprey Hinge  
+
+
+
+ 
+
+ 80 
+
+Fault", which was intersected between 91.0 and 100.7 m and resulted in 7.5 m of lost 
+core. The Hinge Fault is associated with strong chlorite / hematite alteration and to the 
+east, a zone of intense silicification. 
+ 
+Drill hole RW-41 was collared 40 m behind RW-29 to follow-up the "Hinge Fault" and its 
+related alteration and radioactivity. Pyritic-graphitic (pelitic) gneiss was intersected in 
+this hole between 68.7 and 90.4 m and displayed moderate, pervasive, dark green 
+chlorite alteration. The Hinge Fault was intersected between 171.5 and 178.1 m 
+showing strong dark red hematite alteration and having a core loss of 3.2 m. Again, 
+intense silicification occurred to the immediate west of the Hinge Fault between 155.0 m 
+and 171.5 m and included an interval of moderate hematite alteration between 158.3 
+and 161.2 m. A radioactive zone is hosted within the interval of hematite alteration 
+returning 358 ppm U over 0.4m from 159.1 to 159.5m  
+ 
+ 
+Central Osprey  
+ 
+The Central Osprey area includes the northern fold limb between Osprey Lake and the 
+Osprey Hinge area and was tested by four holes for a total of 546 metres. Weakly 
+elevated uranium mineralization was intersected in all holes and hydrothermal alteration 
+was seen as progressively increasing towards the Osprey Hinge area.  
+ 
+Drill hole RW-30 intersected graphitic pyritic pelitic gneiss with weak to moderate 
+pervasive chlorite alteration between 70.6 and 110.6m before being completed in strong 
+to intensely silicified feldspar-quartz gneiss at a depth of 207.0m. No significant 
+radioactivity was encountered. 
+ 
+Drill hole RW-42 was drilled to the north on Linda Lake and required a steep drilling 
+angle of -80 degrees because of the lake setup. Pyritic-graphitic (pelitic) gneiss with 
+moderate to strong chlorite alteration was intersected from 20.4 to 81.4m and hosted a 
+fault zone between 41.3 and 45.2m that was very soft, strongly sheared and had a 2m 
+core loss. The fault zone returned 20 ppm U over 1.9m from 41.3 to 43.2m. The highest 
+downhole gamma results were returned from the overburden at the bottom of the lake, 
+which averaged 2270 cps over 0.4 m from 13.6 to 14.0m. 
+ 
+Drill hole RW-43, drilled 75m west of RW-42 on Linda Lake, failed to explain the 
+conductor and was completed at a depth of 108m. No significant radioactivity was 
+encountered. 
+ 
+Drill hole RW-44 was then drilled 35m behind RW-43 on Linda Lake in a second attempt 
+to explain the conductor in this area. Pyritic-graphitic gneiss with strong pervasive 
+chlorite alteration was intersected between 30.1 and 76.4 metres. Biotite-feldspar-quartz 
+gneiss with moderate to strong pervasive silicification overprinting weak to moderate 
+patchy dark red hematite alteration was then present to end of the hole at 117.0m. No 
+significant radioactivity was encountered. 
+  
+
+
+
+ 
+
+ 81 
+
+Osprey South 
+ 
+The Osprey South area covers the southern fold limb of the Osprey conductor which is 
+approximately 1.0 kilometers in length. Within this area the conductor is associated with 
+a narrow resistivity low that lies within rocks returning both gravity high and magnetic 
+high responses. Three holes were drilled in the area by Purepoint during their 2010 
+program and two additional holes were drilled by Rio Tinto in 2012 for a total of 1,520 
+metres of drilling. 
+ 
+Drill hole RW-25 was collared outside of the gravity high and magnetic high to allow 
+determination of the lithology and/or alteration responsible for this geophysical 
+response. A minor amount (2.7m) of Athabasca Sandstone was intersected before 
+encountering basement rock that was approximately 65% biotite-feldspar-quartz (pelitic) 
+gneiss and 35% pegmatite / granitic gneiss to a depth of 265.5m. Unaltered pyritic-
+graphitic (pelitic) gneiss was encountered from 265.5m to the end of hole at 285.0m. 
+  
+Drill hole RW-26 was collared 100m in front of RW-25 and intersected Athabasca 
+sandstone over 5.2m. Weakly chlorite altered, locally graphitic, pyrite-biotite-feldspar-
+quartz (pelitic) gneiss was intersected between 67.3m and 99.1m and the hole was 
+completed within weakly chlorite altered magnetite-pyrrhotite-biotite-feldspar-quartz 
+gneiss at a depth of 141.0m.  
+ 
+Drill hole RW-27 did not encounter Athabasca sandstone before intersecting pelitic 
+gneiss at 136.5m followed by pyritic pelitic gneiss with minor graphite and moderate 
+chlorite alteration to 165.7m. Biotite-feldspar-quartz gneiss having weak to moderate 
+silicification was then encountered to the hole's completion depth of 327.7m. No 
+anomalous radioactivity and only minor structures and minor intervals of pegmatite were 
+intersected.  
+ 
+Based on the 2010 drilling, the gravity high and magnetic high in the Osprey South area 
+is considered to be related to the magnetite/pyrrhotite-rich gneiss encountered at the 
+bottom of RW-26. The overall resistivity response of the area is quite high compared to 
+other areas along the Osprey conductor and is thought to be related to a high 
+percentage of pegmatites, granitic gneisses and "granitized" (i.e. silicified) pelites such 
+as encountered by holes 25 and 27 as well as historic holes OS-16 to 19 and Turk-6 
+(Figure 34). 
+ 
+Drill hole 12RDW002 targeted the Osprey conductor and did not encounter sandstone 
+before intersecting zones of sericite and hematite alteration and a weakly radioactive 
+fault zone within graphitic pyritic pelitic gneiss that returned 58 ppm U over 2.0 metres. 
+A talc/serpentine altered calc-silicate unit was encountered by the hole before being 
+completed at 401m. 
+ 
+Drill hole 12RDW004 targeted a resistivity low and encountered 21m of sandstone with 
+illitic alteration before intersecting the unconformity that was associated with hematite 
+and clay alteration. The unconformity returned up to 9 ppm U while the basement rocks, 
+
+
+
+ 
+
+ 82 
+
+which contained two wide zones of sericite, hematite and chlorite alteration, returned up 
+to 11 ppm U. Weakly graphitic and pyritic pelitic gneiss was then encountered before 
+the hole was completed at 365m. The 3D resistivity data for this area suggests the hole 
+may have stopped short of testing a sandstone LARC that was associated with a fault 
+zone (hole OS-14) and alteration (hole OS-15) approximately 150 metres to the south 
+(Figure 39).  
+ 
+ 
+Osprey North  
+ 
+Two holes, RW-31 and 32, targeted the Osprey conductor north of the previous drilling 
+where the conductor has a north-south trend. The two holes totaled 375 metres of 
+drilling and did not intersect anomalous radioactivity.  
+ 
+Drill hole RW-31 was drilled towards the south-west at -65 degrees however, the rocks 
+were not dipping as steeply in this area as previously experienced resulting in the hole 
+being essentially drilled down-dip and the conductor not being explained.  
+ 
+Drill hole RW-32 encountered a wide zone of moderately chloritized pyritic-graphitic 
+pelite. Unlike holes in the Osprey Lake area, the graphite in RW-32 was present as 
+semi-massive bands as well as fine disseminations.  
+ 
+ 
+Osprey West 
+ 
+Drill holes RW-01 and RW-02 targeted a break on the West Zone conductor located 100 
+metres from the Wolly property, an Areva/Denison joint venture. These holes 
+intersected bleached sandstone before reaching the unconformity at a depth of 
+approximately 30 metres. Graphitic pelites and favourable structures were encountered, 
+however, neither hole intersected anomalous radioactivity.  
+ 
+ 
+9.2.2 Geneva Drill Results 
+ 
+Seven drill holes were completed at the Geneva area by Rio Tinto between 2012 and 
+2014 (Figure 40) and a summary of anomalous uranium intercepts is provided in Table 
+5. 
+ 
+Drill hole GEN11-01 tested a 900 metre long EM conductor located within the centre of 
+the Geneva grid where it appeared to be structurally offset. The EM target also 
+coincided with a LARC in the sandstone interpreted as a possible zone of hydrothermal 
+alteration. The hole encountered Athabasca sandstone to a depth of 113.0m and 
+displayed moderate to strong clay alteration between 82.4 and 107.8m that correlates 
+with the resistivity low (Figure 24). Biotite-feldspar-quartz gneiss was moderately 
+chlorite altered due to paleoweathering to a depth of 169.7m then was silicified with 
+trace graphite and pyrite to the completion depth of 255.0m. No anomalous radioactivity 
+was intersected by this hole. 
+
+
+
+ 
+
+ 83 
+
+ 
+
+ 
+Figure 39: Geologic Interpretation of Sections 32N and 33N – Osprey South 
+
+
+
+ 
+
+ 84 
+
+ 
+
+ 
+Figure 40: Diamond Drill Hole Location Map – Geneva and Radon Grids
+
+
+
+ 
+
+ 85 
+
+Table 5: Summary of Significant Uranium Intercepts – Geneva Area 
+  From To Width U 
+
+Hole No. (m) (m) (m) (ppm) 
+
+14RDW008 
+Includes 
+
+88.3 94.7 6.4 434 
+89.1 89.4 0.3 5780 
+
+14RDW008 185.3 185.6 0.3 1500 
+14RDW008 193.1 194.2 1.1 500 
+14RDW009 193 194 1 322 
+14RDW009 286.3 289.0 2.7 169 
+14RDW009 291.0 291.5 0.5 188 
+14RDW010 139 141.3 2.3 314 
+14RDW012 217.5 219 1.5 190 
+
+ 
+ 
+Drill hole GEN11-02 was collared 45m south of GEN11-01 and was designed to test an 
+interpreted structure beneath a small lake. Athabasca sandstone displaying moderate 
+clay alteration was encountered between 102.0 to 109.1.m before a 2.7 metre fault 
+zone, containing semi-massive clay, chloritic fragments and evidence of shearing, was 
+intersected immediately above the unconformity at 111.8m. Another five fault zones, 1.1 
+to 5.2m in width, were then intersected with biotite-feldspar-quartz gneiss to a depth of 
+178.7m. The biotite-feldspar-quartz gneiss then displayed patchy hydrothermal hematite 
+alteration to 222.5m before becoming silicified with localized concentrations of graphite 
+and pyrite to the completion depth of 336.0m. The alteration zone encountered by 
+GEN11-01 within the sandstone correlated with the resistivity low anomaly and GEN11-
+02 intersected significant structures in the basement rocks as were interpreted. The 
+presence of pyrrhotite in the bottom of both holes may help explain the presence of the 
+gravity high anomaly in this area (Figure 27). 
+ 
+Drill hole 12RDW003 targeted a gravity low that was coincident with a VTEM conductor 
+within a magnetic high. The hole did not intersect Athabasca sandstone before 
+encountering hematite and magnetite rich granite to the hole's completion depth of 
+302.0m. The VTEM conductor was not explained by the hole and the gravity low 
+signature is now considered to be an overburden response. The presence of granitic 
+rock in this hole is supported by the high gradient resistivity response (Figure 27) and 
+the high magnetic response (Figure 40). 
+ 
+Drill hole 14RDW008 was to follow-up the on-strike potential of mineralization and 
+alteration encountered historically. Athabasca sandstone with local desilicified intervals 
+was encountered between 7.3 to the unconformity at 78.5m. From the unconformity a 
+pelitic gneiss was encountered between 78.5 and 90.0m. The pelite gneiss is strongly 
+altered to clay and chlorite obliterating most of the fabric. The VTEM conductor is 
+considered to be 4.7m of sheared graphitic pelitic gneiss that was encountered from 
+90.0 to 94.7m. The pelitic gneiss continues to 199.2m where granitic gneiss extents until 
+the end of hole.  
+ 
+
+
+
+ 
+
+ 86 
+
+Results show two main zones of radioactivity. One zone is associated with the 
+conductor and the other is related with the contact between pelite gneiss and granitic 
+units. The radioactive peak of 1561 cps occurs at a depth of 89.2m and corresponds 
+with an assay of 0.68% U3O8 over 0.3m from 89.1 to 89.4m related to the graphitic 
+shear (Figure 41). 
+ 
+Drill hole 14RDW009 was a 70m step-back west to test the down-dip potential of 
+basement mineralization found in 14RDW008. Athabasca sandstone begins at 3.7m 
+and continues to 83.1m where the first basement is encountered. Pelitic gneiss began 
+at the unconformity until the VTEM conductor, a graphitic gneiss is intersected from 
+177.8 to 182.0m. After the graphitic interval the hole returns to pelitic gneiss until 
+293.1m where granitic gneiss is intersected and continued until the end of hole.  
+ 
+There is a radioactive peak of 978 cps that corresponds with an assay of 322 ppm U 
+over 1.0 m from 193.0 to 194.0m which is associated a brittle shear zone. This slightly 
+radioactive graphitic pelitic gneiss is metal enriched (116 ppm Zn, 72 ppm V, 298 ppm 
+Cu, 72 ppm Ni) confirming the presence of a fluid pathway that is interpreted to be 
+connected to 14RDW008. 
+ 
+Drill hole 14RDW010 stepped 40 m in front of 14RDW008 to test for the up-dip 
+extension of the mineralization and alteration in the sandstone. Bleached Athabasca 
+sandstone is encountered from 6.4 to 81.7m when the unconformity is encountered. 
+Pelitic gneiss begins at the unconformity to 150.1m when a granitic gneiss is 
+encountered until the end of hole. There was no mineralization encountered in the 
+sandstone. Only a small radioactive peak of 2637 cps was intersected near the 
+pelite/granite contact.  
+ 
+Drill hole 14RDW012 stepped 270m to the south targeting on-strike mineralization and 
+an interpreted cross-cutting E-W structure at the unconformity. Bleached Athabasca 
+sandstone is encountered from 5.3 to 130.7m where the unconformity is intersected. 
+After the unconformity a paleo-weathering zone of moderate clay and hematite altered 
+pelitic gneiss is encountered until 156m. The pelite continues until granitic gneiss is 
+intersected at 221.1m that continues until the end of hole. 
+ 
+The EM conductor was not intersected explained by hole 14RDW012, however, based 
+on the location of the VTEM conductor pick in relationship to the intersected graphitic 
+unit for the section showing holes 14RDW008, 9 and 10, it is considered that the hole 
+overshot its intended target. 
+ 
+ 
+9.2.3 Mustang Drill Results 
+ 
+The 2014 drilling program on the Mustang conductor systematically drilled a three hole 
+fence targeting historically logged "hydrothermal" alteration that was previously logged 
+as 'plastic, deformable clay' in basement rocks.  
+ 
+
+
+
+ 
+
+ 87 
+
+ 
+Figure 41: Geologic Interpretation of Drill Section – Geneva Area 
+
+
+
+ 
+
+ 88 
+
+The 2006 VTEM survey shows a sub vertical dipping, weak conductor in the 
+channel 6, and a negative "IP response" seen in channel 4 of the survey. The 
+negative "IP response" was attributed to either near-surface weathering or a 
+possible clay-rich zone.  
+ 
+The three drill holes were completed in a staggered fence across the south end of 
+the conductor and along the same transect as the previous holes (OS-20 and -21) 
+(Fig. 42). The three hole fence confirmed a near surface 50m thick zone of weak to 
+very strong clay alteration, dominantly consisting of phengitic-illite clays, 
+montmorillonite clay, and hematite in pelitic and granitic rocks. A narrow, sub-
+horizontal uranophane-filled fracture was intercepted in 14RDW005 below the clay 
+alteration envelope (89 m) and returned 639 ppm uranium over 30 cm from 88.9 to 
+89.32 metres. Graphite was only encountered in hole 14RDW005 and appeared as 
+trace amounts within the last 3 metres of the hole. Follow-up hole 14RDW006 
+encountered unmineralized granite beneath 2 meters of sandstone which implies 
+that the start of bedrock in the drill holes in the Mustang Area are proximal to the 
+unconformity. 
+ 
+Drill hole 14RDW007 was drilled 60m NW of 14RDW005 to follow up the 
+anomalous radioactivity. No Athabasca sandstone was encountered before 
+intersecting semi-pelitic gneiss at 12.9m. The semi-pelitic gneiss continues until 
+148.2m where it transitions to pelitic gneiss until the end of hole (Figure 43). No 
+significant structure, alteration or radioactivity was encountered within the hole.  
+ 
+The near surface alteration halo is depleted in Cu, Mo and Bi and is elevated in B. 
+The alteration package is not depleted in other pathfinder metals (Co, Ni, As, Zn). 
+The observed pattern of trace metal depletion and elevated boron also occurs at 
+and below the unconformity in several other holes across the property, suggesting 
+the clay alteration intercepted at Mustang represents paleo-weathering rather than 
+hydrothermal alteration. 
+ 
+ 
+9.2.4 Radon Lake Drill Results 
+ 
+The drilling program at Radon Lake systematically explored the VTEM conductor 
+southwest of the lake with 13 drill holes for a total of 2,726 metres. The drill hole 
+locations are provided with a geologic interpretation in Figure 44 and a summary of 
+anomalous uranium intercepts are provided in Table 6.  
+ 
+The rocks were interpreted to be dipping steeply towards the west at 
+approximately 70 degrees. Holes testing the VTEM conductor were typically drilled 
+to a depth where they encountered strongly silicified pelitic gneiss before being 
+stopped. The interpreted contact of the silicification matches well with the gradient 
+IP resistivity high seen in Figure 24. The K-spar rich quartzite logged towards the 
+west does not appear to be readily apparent in any of the geophysical results. 
+Graphitic pyritic pelitic gneiss explained the conductor was encountered six of the  
+
+
+
+ 
+
+ 89 
+
+ 
+Figure 42: Diamond Drill Hole Location Map – Mustang Area
+
+
+
+ 
+
+ 90 
+
+ 
+Figure 43: Geologic Interpretation of Drill Section – Mustang Area
+
+
+
+ 
+
+ 91 
+
+ 
+Figure 44: Geologic Interpretation – Radon Lake Area 
+
+
+
+ 
+
+ 92 
+
+ 
+Table 6: Summary of Significant Uranium Intercepts – Radon Lake Area 
+
+  From To Width U 
+Hole No. (m) (m) (m) (ppm) 
+
+RAD08-01 127.0 128.0 1.0 115 
+RAD08-02 118.0 119.0 1.0 180 
+RAD08-05 117.7 118.0 0.3 189 
+
+  166.1 166.3 0.2 148 
+RAD08-06 150.0 150.2 0.2 102 
+RAD08-09 106.1 107.2 1.1 283 
+
+includes 106.9 107.2 0.3 656 
+ 
+ 
+holes (RAD08-01, 03, 04, 05, 06 and 13) while RAD08-09 encountered a pyritic 
+mineralization not associated with graphite. Favourable brick red hematite alteration and 
+strong bleaching was encountered near the unconformity in holes RAD08-04 and 09.  
+ 
+The mineralization highlight was from hole RAD08-09 with sandstone at the 
+unconformity returning 283 ppm U over 1.1 metres between 106.1 and 107.2 metres. 
+The nearby hole RAD08-05 (located 300m NW) returned 189 ppm U over 0.3 metres 
+between 117.7 and 118.0 metres also in sandstone just above the unconformity. Hole 
+RAD-10 was drilled between RAD-09 and 05 and encountered zones of lost core and 
+strong faulting throughout its length. 
+ 
+ 
+9.2.5 Lasby Lake Drill Results 
+ 
+In 2014 Rio Tinto conducted a one hole drill program on the Lasby Lake grid. The drill 
+hole was designed to test alteration along strike (50m) of two historical holes (RAD-85-
+33 & 34) that intersected a thick graphitic unit associated with clay alteration interpreted 
+as being hydrothermal in origin. 
+ 
+Drill hole 14RDW011 (Figure 40) first reached Athabasca sandstone from 5.4 to 82.4m 
+when the unconformity was encountered. From the unconformity psammitic gneiss with 
+moderate clay alteration continued until 176.5m when chlorite altered quartz-rich semi-
+pelitic gneiss is intersected. From 207 to 207.9m a massive graphitic fault zone is 
+intersected which can be considered the VTEM conductor. Between 220.9 and 221.4 
+meters, an assay of 396 ppm U over 0.5 metres was returned from a dark grey, quartz 
+flooded interval. The core returns to quartz-rich semi-pelitic gneiss to 222.5m and then 
+transitions to a psammite to the end of hole. 
+ 
+  
+
+
+
+ 
+
+ 93 
+
+Table 7: Summary of Significant Uranium Intercepts – Long Lake Area 
+  From To Width U 
+
+Hole No. (m) (m) (m) (ppm) 
+LL08-04 117.8 118 0.2 160 
+LL08-05 40.6 41.1 0.5 269 
+LL08-07 
+
+ 
+31.6 31.7 0.1 611 
+33.2 33.4 0.2 237 
+
+ 
+ 
+9.2.6 Long Lake and 333 Grid Drill Results 
+ 
+The Long Lake / 333 grid area was drilled by Purepoint in 2008 with seven holes 
+totaling 1,623 meters. The work done on the Long Lake area was a "first pass' program 
+designed to test multiple targets at different localities.  
+ 
+Two of three EM conductors drill-tested in the Long Lake area are now known to reflect 
+altered, graphitic rocks. These two target areas represent 8.7 kilometers of prospective 
+EM conductors (Figure 45). A summary of the anomalous radioactivity intersected 
+during the Long Lake are drilling is provided in Table 7. 
+ 
+Four holes, LL08-01 to 04, tested the 4.5 kilometer electromagnetic (EM) conductor 
+that partially runs beneath Long Lake. Three of the four holes intersected graphitic rocks 
+that explained the conductor and all holes encountered strong silicification and/or strong 
+chlorite alteration associated with fault zones.  
+ 
+Significant radioactivity was not encountered during the Long Lake drilling and the 
+source of the historic Long Lake boulder train, located due north of Long Lake, remains 
+unknown. Less than a kilometer of the 4.5 km Long Lake conductor was drill-tested, and 
+it is now thought that the source of the radioactive boulders remains further up-ice from 
+the recent drill program.  
+ 
+One hole, LL08-05, tested the 1.0 kilometer EM conductor that partially runs beneath 
+Riche Lake (located 500 m west of Long Lake). LL08-05 encountered a 1.6 metre 
+radioactive fault zone with the downhole gamma probe returning 269 ppm U over 0.5 
+metres from 40.6 to 41.1 metres. Prospecting by Purepoint during the summer of 2006 
+discovered two radioactive boulders approximately 200 metres due south of Riche lake 
+that returned uranium values up to 1.30% U3O8.  
+ 
+Two holes, LL08-06 and 07, were drilled along the 4.2 kilometer Lyon Lake EM 
+conductor. Both holes encountered graphitic rocks associated with strongly chloritic fault 
+zones and strong silicification. LL08-06 did not intersect anomalous radioactivity but the 
+second hole in the conductor, LL08-07, intersected three distinct radioactive zones. The 
+LL08-07 zones of radioactivity were associated with small chloritic gouges (<20 cm) at 
+31.1m and 33.2m that returned 611ppm U over 0.1m and 237ppm U over 0.2m, 
+respectively.  
+ 
+
+
+
+ 
+
+ 94 
+
+ 
+Figure 45: Diamond Drill Hole Location Map –Long Lake and 333 Grids 
+
+
+
+ 
+
+ 95 
+
+9.2.7 Interpretation and Conclusions 
+ 
+The current drilling in the area of Osprey Lake has shown that the RW-07 uranium 
+mineralization is a flat-lying zone associated with a steep weakly radioactive chloritic 
+gouge structure. The area is open at depth for further stacked lenses of mineralization 
+parallel to the RW-07 mineralization. Favourable pelitic rocks are thought to be located 
+west of the Osprey conductor that may also host mineralization within vertical structures 
+and as sub-horizontal stacked lenses. 
+ 
+The fold hinge of the Osprey conductor is considered to require further drilling after a 
+fence of three holes intersected a vertical, weakly radioactive fault zone (Hinge Fault) 
+associated with strong chlorite and hematite alteration. Alteration of the basement rocks 
+within drill holes located along the northern limb is seen as increasing towards the fold 
+nose where one of the holes, RW-28, encountered the strongest clay alteration seen on 
+the property to date. The strike of the Hinge Fault is currently unknown and untested. 
+Where the fault intersects the central portion of the Osprey Conductor is considered to 
+represent an important uranium exploration target. 
+ 
+Geneva intersected elevated uranium levels in the 2014 drilling program, mainly in drill 
+hole 14RDW008, and the associated structure was followed to depth in 14RDW009. 
+The structures hosting anomalous uranium concentrations need to be followed up along 
+strike and at depth. Geophysical data shows that excellent exploration targets remain 
+within Geneva, namely the eastern terminus of two short VTEM conductors and the 
+area proximal to RAD-27 and 14RDW008. The short VTEM conductors coincide with 
+low apparent resistivity chimneys in the sandstone and may represent zones of 
+hydrothermal alteration and should be tested.  
+ 
+Drilling in the Radon Lake did not discover the source of the historic radon-in-water 
+anomaly but did encounter anomalous sandstone geochemistry in hole RAD08-09 that 
+returned uranium values ranging from 46 to 656 ppm. A significant structure was 
+intersected by RAD08-10 (140 metres east of RW-09) and may be associated with the 
+anomalous radioactivity making the area still attractive for follow-up. 
+ 
+First pass drilling within the Mustang area intersected a weakly anomalous uranophane 
+fracture in drill hole 14RDW005, however, the radioactive fracture was not intersected in 
+the two follow-up holes. Strong, clay alteration was encountered in the paleo-weathering 
+zone in hole 14RDW005 and 14RDW007. The Mustang EM conductor remains an 
+exploration target since the most recent holes only tested the weakly conductive south 
+end of the main conductor.  
+ 
+Lasby Lake drill hole 14RDW011 intersected a small radioactive interval of 369 ppm U 
+over 0.5m below the conductor. Only 3 drill holes have been drilled into the 3.5km 
+Lasby Lake EM conductor and is considered to still be an exploration target.  
+ 
+First pass drilling within the Long Lake area intersected a 1.6 metre radioactive 
+structure in LL08-05 (including 269 ppm U over 0.5 m) and two narrow mineralized 
+
+
+
+ 
+
+ 96 
+
+structures in LL08-07 (611 ppm U and 237 ppm U over 0.1 and 0.2 m, respectively). 
+Two of three eastern electromagnetic conductors drill-tested in 2008 at Long Lake are 
+now known to reflect altered, graphitic rocks. Over 7 kilometers of favourable EM 
+conductors remain to be drill tested in the Long Lake area. 
+ 
+ 
+10. SAMPLE PREPARATION, ANALYSES AND SECURITY 
+ 
+10.1 Sample Preparation 
+ 
+The sample preparation on site is limited to splitting the core. All other sample 
+preparation is performed by the independent laboratory, SRC. The core splitting is done 
+under the supervision of the site geologist by the company's geological technician. 
+ 
+Diamond drill core was placed in core boxes and transported to the core logging 
+building at the temporary work camp by the drilling company. The project geologists log 
+the core for lithologic characteristics and the geological technicians log the core for core 
+recovery, rock quality determination (RQD), fracture count, magnetic susceptibility and 
+radioactivity. 
+ 
+Samples of drill core are typically chosen for analysis based on the radioactivity 
+recorded by the geological technician using a handheld scintillometer. Additional 
+"shoulder" samples are also taken above and below the radioactive zone. Also, non-
+radioactive structures, alteration and lithologies were sampled to possibly identify 
+processes related to the mineral deposit model and background geological and 
+geochemical processes. Attempts were made by the geologist to avoid having more 
+than one lithology in any given sample. 
+  
+Samples were collected by both a composite method (only for sandstone) and by 
+splitting. For composite samples of sandstone, the geologist collects a 2 to 4 cm long 
+piece of core every metre and places these in a marked plastic sample bag along with a 
+sample number tag from the sample ticket book. The geologist records the sample 
+intervals within the sample ticket book, and then staples a sample number tag from the 
+sample ticket book to the core box where the interval begins. 
+ 
+For core to be sampled by splitting, the geologist marks the sample intervals on the 
+core, records sample intervals within the sample ticket book, then staples sample 
+number tags from the sample ticket book to the core box where the interval begins.  
+ 
+After the core has been marked for sampling, it is photographed both wet and dry. The 
+core requiring splitting is then is split lengthwise using a mechanical knife-type core 
+splitting tool and every attempt was made to ensure an even split. Intervals of poorly 
+lithified core (i.e. clay altered) were split using stainless steel kitchen utensils. One half 
+of the core is placed in plastic sample bags pre-marked with the sample number along 
+with a sample number tag from the sample ticket book. The other half is returned to the 
+core box and stored at the core storage area located near the Cunning Bay camp for 
+
+
+
+ 
+
+ 97 
+
+the Long Lake holes and near the Osprey Lake camp for the remaining holes. The core 
+splitter and sample collection pans are cleaned thoroughly with a brush before the next 
+sample is split. The bags containing split samples are then placed in buckets with lids 
+for transport to Saskatchewan Research Council (SRC) in Saskatoon, Saskatchewan. 
+ 
+The Red Willow database contains 271 composite samples of the Athabasca 
+sediments, typically 10 metres in length, which were collected and analyzed. The 
+database contains the results of ICP analysis from 1542 split samples and the length of 
+these samples, which range from 0.04 to 3.0 metres, is considered appropriate for the 
+current stage of exploration. Recovery is not believed to be a factor that could materially 
+impact the accuracy and reliability of the results since sample intervals are broken 
+where the core has been lost. A total of 158 samples were collected for PIMA analysis. 
+ 
+10.2 Sample Analysis 
+
+ 
+The SRC facility in Saskatoon crushes each sample to 60% -10 mesh and then riffle 
+split to a 200g sample with the remainder retained as coarse reject. The 200 g sample 
+is then ground to 90% -140 mesh. Replicates are chosen at random and an additional 
+200 g sample is riffle split and ground to 90% -140 mesh. For total digestion analysis, a 
+0.125 g pulp is gently heated in a mixture of ultrapure HF/HNO3/HClO4 until dry and the 
+residue dissolved in dilute ultrapure HNO3. For the partial digestion analysis, a 0.500 g 
+pulp is digested with 2.25 ml of 8:1 ultrapure HNO3/HCl for 1 hour at 95 C. The solutions 
+are then analyzed by ICP (Inductively Coupled Plasma) analysis. For boron, a 0.1 g 
+pulp is fused at 650 C in a mixture of Na2O2/Na2CO3. 
+ 
+The SRC facility is licensed by the Canadian Nuclear Safety Commission (CNSC) to 
+receive, process, and archive radioactive samples. The facility is ISO/IEC 17025:2005 
+accredited by the Standards Council of Canada (scope of accreditation #537) and also 
+participates in regular interlaboratory tests for many of their package elements. 
+ 
+10.3 Sample Security 
+
+ 
+Core samples are transported to the SRC laboratory by Purepoint employees. Results 
+from the analyses are transmitted by email directly to Purepoint's exploration office in 
+Saskatoon and the signed paper assay certificates are mailed. 
+ 
+ 
+11.  DATA VERIFICATION 
+ 
+Data verification utilized at Red Willow includes internal SRC laboratory quality 
+assurance and quality control (QA/QC), comparison of results of the duplicate samples 
+and variance of standard samples.  
+ 
+11.1 QA/QC 
+
+ 
+
+
+
+ 
+
+ 98 
+
+The SRC Geoanalytical Laboratory uses a Laboratory Management System (LMS) for 
+Quality Assurance. The Quality Control measures applied to all methods within the 
+laboratory include insertion of analytical blacks, replicates and certified rock standards 
+which are systematically inserted in each group of samples and results reported (SRC, 
+2007). Laboratory Quality Control results applied are checked and if results are found to 
+be outside Quality Control Limits actions are taken to ensure that the samples are 
+reprocessed within the quality limits.  
+ 
+The drilling database is compiled directly from Excel spreadsheets sent from SRC to 
+Purepoint's Saskatoon office, thus eliminating the errors associated with manual data 
+input. The results from individual Excel spreadsheets received for each certificate is 
+then moved into a single Access database. Values below the detection limit are given a 
+value that is one-half of the detection limits. Results provided in the PDF versions of the 
+assay certificates that are received from SRC by email were randomly checked against 
+the values in the Access database by the author at the end of all drill programs. All 
+anomalous intercepts used in this report were recalculated using original Excel assay 
+datasheets from SRC and compared to previous weighted average calculations. 
+ 
+ 
+11.2 Comparison of Analytical Techniques 
+ 
+The SRC laboratory ran multiple different standards during sample analyses. The 
+results for each standard were averaged for the 16 elements of interest, namely Al2O3, 
+K2O, CaO, Na2O, MgO, Fe2O3, B, U, As, Bi, Co, Cu, Mo, Ni, Pb and V, and plotted 
+against the average to visually show the variance at the end of each program. 
+ 
+Comparisons of six analytical methods that have occurred on Red Willow are presented 
+as scatter plots in Figure 46. The methods include ICP1-OES_DL, ICP1-OES_DL_2, 
+ICP-MS/OES_High CR, ICP-MS/OES_Low CR and two historical methods with details 
+included in Table 8. While the specifics of the analytical method used for Hist_Method_2 
+(green category) are not known, the method produces comparable analyses to the 
+current methods (light blue for sandstone and orange for basement samples) with better 
+precision at low U levels and lower detection limits for U. Historic analyses in 
+Hist_Method_2 category have no response for U or Ni (brown dots on the probability 
+plots in Figure 26). Hist_Method_2 produces unacceptably high detection limits and 
+therefore, these samples have been treated as "not analysed."  
+ 
+ 
+12.  ADJACENT PROPERTIES 
+ 
+Some occurrences of unconformity-type uranium showings surround the Red Willow 
+claims (Figure 47). The Midwest Mine, owned by COGEMA Resources Inc. (69.16%), 
+Denison Mines Ltd. (25.17%), and OURD (Canada) Co. Ltd. (5.6%), is located 28 km 
+southwest of the Red Willow claims. It has 35 million pounds of U3O8 with an average 
+
+
+
+ 
+
+ 99 
+
+ 
+
+ 
+ 
+
+Figure 46: Red Willow Geochemistry (U and Ni) 
+ 
+
+
+
+ 
+
+ 100 
+
+Table 8: Analytical Methods 
+ 
+
+Method Comments 
+
+ICP1-OES 
+DL_1 
+
+SRC Geoanalytical Laboratories, Saskatoon. Partial digest (16 
+elements): 1g pulp digested with 8:1 HNO3:HCl for 1 hour at 
+95°C, analysed by ICP-OES. Total digest (46 elements): 
+0.125g pulp heated in HF/HNO3/HClO4 until dry and residue 
+dissolved in HNO3, analysed by ICP-OES. Boron: 0.1g pulp 
+fused at 650°C in a mixture of Na2O2/Na2CO3, dissolved in 
+deionized water, analysed by ICP-OES. 
+
+ICP1-OES 
+DL_2 
+
+Current analysis method. As for ICP1-OES_DL_1 except 
+order of magnitude higher detection limits for Ag_P, As_P, 
+Bi_P, Cu_P, Ge_P, Hg_P, Mo_P, Sb_P, Se_P, Te_P, Cd_T, 
+Gd_T, Hf_T, Ho_T, Sm_T, Tb_T. This difference will not affect 
+the geochemical interpretation. 
+
+ICP-MS/OES 
+High Cr 
+
+SRC Geoanalytical Laboratories, Saskatoon. Partial digest (44 
+elements): 2g pulp digested with 8:1 ultrapure HNO3:HCl for 1 
+hour at 95°C, analysed by ICP-MS. Total digest (49 elements 
+& 4 Pb isotopes): 0.250g pulp heated in ultrapure 
+HF/HNO3/HClO4 until dry and residue dissolved in ultrapure 
+HNO3, major and minor elements analysed by ICP-OES and 
+trace elements analysed by ICP-MS. Boron: 0.1g pulp fused at 
+650°C in a mixture of Na2O2/Na2CO3, dissolved in deionized 
+water, analysed by ICP-OES.  
+
+ICP-MS/OES 
+Low Cr 
+
+Current analysis method. As for ICP-MS/OES_High Cr but 
+batches post-date July 2008 (see next slide for further 
+information). 
+
+Hist_Method_1 Loring Laboratories, Calgary, data from 1979 and 1980. 
+Assayed for U, Mo, Cu, Ni Co, +/-Ag, As. No method 
+information available. 
+
+Hist_Method_2 
+ 
+
+ 
+
+Data from 1977 assayed for U, Ni, Au. No method information 
+available. Inadequate method as no response for any element 
+in any sample. 
+
+ 
+  
+
+
+
+ 
+
+ 101 
+
+ 
+Figure 47: Adjacent Properties with Airborne Magnetics – Tilt Derivative
+
+
+
+ 
+
+ 102 
+
+grade of 5.5% (Denison website). Cameco Corporation has two deposits in NTS 64L, 
+and is currently beginning production out of their Eagle Point Uranium deposit, located 
+14 km south of the Red Willow claims, which has estimated reserves of approximately 
+24.0 million pounds of U3O8 (Cameco website). The Rabbit Lake open pit, Collins Bay 
+A–, B– and D–zones as well as Eagle Point underground mine, located 18 km south of 
+the Red Willow claims, have been mined out with a total production of 186.3 million 
+pounds of U3O8. 
+ 
+Areva Resources Canada Inc. currently holds three mineral permits contiguous with the 
+south-western property boundary of Red Willow property and were staked in 1974. The 
+McClean Lake mine is located 20 km southwest of the Red Willow claims and is owned 
+by Areva Resouces Canada Inc. (70%), Denson Energy Inc. (22.5%) and OURD 
+Canada Co.Ltd. (7.5%). Open pit mining at McClean Lake began with the JEB orebody 
+in 1995 and was followed by mining of the Sue C, A, E and B orebodies. To date almost 
+50 million pounds of U3O8 have been produced at McClean Lake. (Areva website). 
+Exploration drilling by Areva and Denison has produced mineralized intercepts close to 
+the Red Willow property boundary including Moonlight (2.1% U3O8 over 1.5 m), Lasoy 
+(0.23% eU3O8 over 2.0 m), Burnt Island (0.38% eU3O8 over 2.0 m within basement 
+rocks) and Tooth Lake (0.22% eU3O8 over 0.1m).  
+ 
+The west border of Red Willow is adjacent to Denison Mines' Turkey Lake property. 
+Thirteen diamond drill holes were drilled into the conductor with holes returning 0.065% 
+and 0.16% U3O8. 
+ 
+UEX Corporation's Hidden Bay project is contiguous with the southern boundary of Red 
+Willow. The Hidden Bay property is: 57,321 hectares in size (42 claims) and hosts three 
+uranium deposits, Horseshoe, Raven, and West Bear, all located southwest of the 
+Rabbit Lake mine. 
+ 
+Denison Mines owns 58.3% and Eros Resources Corp. (previously Anthem Resources) 
+owns 41.7% of their Hatchet Lake property that is comprised of 11 claims (33,930 
+hectares) that is contiguous with the northwest side of the Red Willow property. The 
+Smith Bay conductor appears to be the eastern terminus of the Crooked-Richardson 
+Lakes conductive belt that is currently being explored by the Denison Mines/ Anthem 
+Resources Joint Venture. During a 2013 drill program along the Crooked-Richardson 
+Lakes trend, uranium mineralization was intersected in two drill holes. The highlight 
+assay result was in drill hole RL-13-16, which intersected 0.45% U3O8 over 2.3 metres 
+beginning at 124.0 metres down the drill hole. (Anthem Press Release, April 24, 2013).  
+ 
+The Collins Bay Extension project is held by Nu Nova Energy purchased through 
+Baywater on June 12, 2015. The property covers 38,672 hectares in 14 mineral claims 
+contiguous to southeast side of Red Willow property.  
+ 
+There are multiple small claims staked adjacent to the north edge of the Red Willow 
+property. Two of the claims are held by individuals and two claims are held by KALT 
+
+
+
+ 
+
+ 103 
+
+Industries. To the northeast of Red Willow, Kivalliq Energy Corp. owns 6 claims totalling 
+13, 741 hectares.  
+
+ 
+ 
+13.  INTERPRETATIONS AND CONCLUSIONS 
+ 
+The 6-kilometer long "S"-shaped Osprey conductor, host to significant uranium 
+intercepts, has excellent exploration potential at depth below the known mineralized 
+zone and towards the west. The main mineralized zone has only been drill tested at 
+shallow depths (average hole length < 160 metres) and is open at depth for further 
+stacked, parallel lenses of mineralization. Based on the resistivity results, favourable 
+pelitic rocks are located west of the Osprey conductor that may also host mineralization 
+within sub-vertical structures and as sub-horizontal stacked lenses. 
+ 
+The fold hinge of the Osprey conductor is considered to require further drilling after a 
+fence of three holes drilled in 2008 intersected a vertical, weakly radioactive fault zone 
+(Hinge Fault) associated with strong chlorite and hematite alteration. Alteration of the 
+basement rocks increases along the northern fold limb towards the fold nose where one 
+of the three holes drilled, RW-28, encountered very strong clay alteration. 
+ 
+The Geneva area has a compelling target area based on recently completed ground 
+geophysics and drilling. A Pole-dipole array IP survey by Purepoint in 2007 outlined low 
+apparent resistivity "chimneys" (LARCs) in the sandstone that coincided with the 
+termination of two VTEM conductors in the basement rocks. LARCs within the 
+sandstone may represent "chimneys" of hydrothermal alteration associated with 
+structures that control uranium mineralization at depth. The two LARCs were also seen 
+to correspond with two subtle gravity depressions identified by a limited gravity survey in 
+2007. A gravity survey by Rio Tinto in 2012 supported the presence of the two gravity 
+anomalies and extended the gravity depressions to where Eldorado Resources Ltd 
+intersected very strong basement alteration and 0.22% U3O8 over 1.0 metres within a 
+graphitic fault zone (hole RAD-27). A 3-hole fence was drilled just north of RAD-27 and 
+intersected uranium mineralization in hole 14RDW008 that was related to the graphitic 
+shear returning 0.68% U3O8 over 0.3 metres between 89.1 to 89.4m. The Geneva 
+conductor has been shown from drilling to be dark green to black chlorite altered pyritic 
+graphitic pelitic gneiss that is approximately 5 metres thick, steeply dipping, and weak to 
+moderately sheared. 
+ 
+Immediately east of the Geneva area are VTEM conductors with a relatively short strike 
+length that are considered to be priority exploration targets. The prospective target area 
+containing the conductors is roughly outlined by three points: the 14RDW008 
+mineralization,: to the northeast where high concentrations of radon (a product of the 
+decay of uranium) were first detected in Radon Lake in 1971, and to the southeast 
+where hole RAD08-09 returned 283 ppm U over 1.1 metres from sandstone just above 
+the unconformity. The offset conductors are suggestive of structural complexity within 
+the area and they appear to be bounded by bands of granitic rocks (magnetic highs). 
+The highly competent granitic rocks would provide a contrast in competency favourable 
+for zones of dilatancy and mineral deposition. Additionally, the presence of swamp in 
+
+
+
+ 
+
+ 104 
+
+the area may be due to slumping of the underlying sandstone following hydrothermal 
+alteration.  
+ 
+Drilling in the Radon Lake area encountered anomalous sandstone geochemistry in 
+hole RAD08-09 and intersected a significant structure in RAD08-10 (140 metres east of 
+RW-09). The Radon Lake Grid maybe an extension of Areva's Burnt Island showing 
+making the area still attractive for follow-up. 
+ 
+The Topping Island area was explored during the early 1980's after a pitchstone cobble 
+was discovered down-ice of the arcuate shaped EM conductor. Purepoint flew a 
+VTEMplus over Topping Island in two different directions using a close line spacing of 
+125 metres to provide detail of the arcuate, 6-kilometer long, EM anomaly. The survey 
+outlined numerous lateral displacements in the conductor that can be confidently 
+interpreted as faults, representing high priority drill targets. The Topping Island 
+conductor is the eastern terminus of the Crooked-Richardson Lakes conductive belt that 
+is currently being explored by the Denison Mines/ Eros Resources Joint Venture that 
+intersected mineralization in drill hole RL-13-16 returning 0.45% U3O8 over 2.3 metres.  
+ 
+The 333 area has been prepared for initial drill testing by 3D resistivity and gradient 
+array IP surveys. The 333 area is named after a historic overburden drill hole (hole 
+#333) that intersected values up to 0.31% U3O8 in glacial till. Based on the recent 
+geophysical results, the source of the anomalous till may be a recently outlined EM 
+conductor that lies only 200 metres northeast of drill hole #333. The strong conductor 
+trends north-south, is 1.1 kilometers in length and, based on the geophysical results, is 
+intersected by a northeast trending fault.  
+ 
+At Dancing Lake, favourable EM conductors have now been covered by a gradient 
+array IP survey and pole-dipole array IP and are considered drill ready. Follow-up 
+drilling is also warranted within the Long Lake area where hole LL08-05 intersected a 
+1.6 metre wide radioactive structure within hematite altered pelitic gneiss returning 269 
+ppm U over 0.5 metres. The area is host to the historic Long Lake Boulder Train 
+discovered in 1975 by Gulf Minerals. The northeast trending boulder train was found to 
+be 2 km long, 300 to 400 meters wide and contained a number of radioactive biotite 
+schist boulders with the highlight being 0.80% U3O8. 
+ 
+The Golden Eye Shear Zone is located in the northern portion of the claim group and 
+joins two historic uranium occurrences, the FDL and AJ showings. At the FDL showing, 
+uranium mineralization (1.43% U3O8.grab sample) is associated with the 1 metre wide, 
+northeast trending Golden Eye shear zone that crosscuts an outcrop of graphitic biotite-
+rich pelitic gneiss. The AJ showing is a radioactive molybdenite-garnet-biotite schist 
+subcrop that returned an assay of 0.46% U3O8. Historic data indicates the Golden Eye 
+Shear hosts favourable mineralization and is a priority target.  
+ 
+Additional EM targets that are considered worthy of ground geophysics include the 
+Ghost Lake and Horse Lake conductors. Follow-up work is also warranted at the Cross 
+Lake and CBA areas. Cross Lake is a structurally complex area located near the historic 
+
+
+
+ 
+
+ 105 
+
+Scrimes Lake uranium showings that returned anomalous soil geochemistry during 
+1972 by Gulf Minerals. Within the CBA area, located at a the fold nose of a granitic 
+dome, the last hole of a twenty hole program (CBA-20) intersected anomalous uranium, 
+0.17% U3O8 over 0.8m, within a pegmatite dyke before being lost at a depth of 20m. 
+ 
+The Turkey North conductor is considered to be the northern extension of the Turkey 
+conductor where historic drilling has returned intercepts of up to 0.16% U3O8 over 1.0 
+meter. The conductor has a strike length of over 5 kilometers and has not been drill 
+tested. A primary target area is an interpreted structural break with a related offset of 
+approximately 250 meters. 
+ 
+ 
+14.  RECOMMENDATIONS 
+
+ 
+Based on the uranium mineralization discovered to date on the Red Willow property and 
+its favorable geologic setting, further exploration is warranted. A multi-staged 
+exploration program and budget is recommended (Table 10).  
+ 
+ 
+Stage 1: Fall 2016 and Winter 2016/2017:  
+ 
+Drill testing of the geophysical targets previously identified within the Osprey, Geneva, 
+333 and Dancing Lake areas. Fourteen diamond drill holes for a total of 5,600 meters 
+are recommended. 
+ 
+Stage 2 is not contingent on positive results from Stage 1. 
+ 
+Stage 2: Summer 2017 and Winter 2017 / 2018:  
+ 
+Ground DC resistivity and gravity surveying should be conducted over the Osprey 
+Hinge, Topping Island, Golden Eye, Ghost Lake and Horse Lake conductors. 
+Linecutting will be required at all target areas with the exception of the Horse Lake grid 
+where the existing grid will need refurbishing.  
+ 
+Follow-up of favourable Stage 1 drill program results and drill testing of the high priority 
+geophysical targets. A sixteen hole, 6,400 meter drill program is recommended. 
+  
+
+
+
+ 
+
+ 106 
+
+Table 9: Proposed Red Willow Exploration Budget 
+ 
+
+Stage 1 
+  Fall 2016 and Winter 2016/17 
+  
+
+   Mob/Demob of Drill/Drillers/Staff 
+ 
+
+     60,000  
+Diamond Drilling 14 holes, 5,600 m @ $150/m     840,000  
+Technical Staff Geologist & Technician      73,000  
+Camp Costs 65 days @ $3,000/day     195,000  
+Analytical Costs  1700 samples @ $70/sample      119,000  
+Report - Drilling 
+
+ 
+     25,000  
+
+ 
+Subtotal   1,312,000  
+
+ 
+Contingency (5%)      66,000  
+
+ 
+Management Fees (10%)     131,000  
+
+ 
+Total Stage 1 =    1,509,000  
+
+   Stage 2 
+  Summer 2017 and Winter 2017/18 
+  
+
+   Mob/Demob of Drill/Field Crews 
+ 
+
+     70,000  
+Linecutting 140 line/kms @ $800/km      112,000  
+Refurbishing of Cut Lines 20 line/kms @ $400/km       8,000  
+DC Resistivity Survey 145 line/kms @ $3,300/day     479,000  
+Ground Gravity Survey 2900 stations @ $75/station      218,000  
+Diamond Drilling 16 holes, 6,400 m @ $150/m     960,000  
+Technical Staff  Geologist & Technician      101,000  
+Camp Costs 90 days @ $3,000/day     270,000  
+Analytical Costs  1900 samples @ $80/sample      152,000  
+Report - Geophysics & Drilling 
+
+ 
+     40,000  
+
+ 
+Subtotal   2,410,000  
+
+ 
+Contingency (5%)      120,000  
+
+ 
+Management Fees (10%)     241,000 
+
+ 
+Total Stage 2 =   2,771,000 
+
+   Estimate for Total Stages 1 And 2 =  $4,280,000  
+ 
+ 
+  
+
+
+
+ 
+
+ 107 
+
+15.  REFERENCES 
+ 
+Annesley, I.R., Madore, C., Shi, R., and Krogh, T.E. (1997): U-Pb geochronology of thermotectonic 
+
+events in the Wollaston Lake area, Wollaston Domain: A summary of 1994-1996 results; in 
+Summary of Investigations 1997: Saskatchewan Geological Survey, Sask. Energy Mines, Misc. 
+Rep. 97-4, p162-173. 
+
+ 
+Eriks, S. and Chiron, A. (1994): COGEMA Resources Inc., Henday Lake Project, 1994 Winter Activities 
+
+and Results: Saskatchewan Geological Survey, Saskatchewan Industry and Resources, 
+Assessment Report 74I09-SE-0055-R, 83p. 
+
+ 
+Fuchs, H., and Hilger, W. (1989): Kiggavik (Lone Gull): an unconformity related uranium deposit in the 
+
+Thelon Basin, Northwest Territories, Canada, in Muller-Kahle, E., ed., Uranium Resources and 
+Geology of North America: Vienna, International Atomic Energy Agency-TECDOC-500, p. 429–
+454. 
+
+ 
+Gilboy, C.F. (1983): Sub-Athabasca basement geology project; in Summary of Investigations 1983, 
+
+Saskatchewan Geological Survey, Saskatchewan Energy and Mines, Misc. Report 83-4, p. 28-
+31. 
+
+ 
+Hoffman, P.F. (1990): Subdivision of the Churchill Province and extent of the Trans-Hudson Orogen, in 
+
+Lewry, J.F. and Stauffer, M.R., eds. The Early-Proterozoic Trans-Hudson Orogen of North 
+America:Geological Association of Canada, Special Paper 37, p. 15-39. 
+
+ 
+Jefferson, C.W., Thomas, D.J., Gandhi, S.S., Ramaekers, P., Delaney, G., Brisbin, D., Cutts, C., Portella, 
+
+P., and Olson, R.A. (2007): Unconformity-associated uranium deposits of the Athabasca Basin, 
+Saskatchewan and Alberta; in EXTECH IV: Geology and Uranium EXploration TECHnology of 
+the Proterozoic Athabasca Basin, Saskatchewan and Alberta; by Jefferson, C W (ed.); Delaney, 
+G (ed.); Geological Survey of Canada, Bulletin no. 588; p. 23-67. 
+
+ 
+Kirchner, G. and Tan, B. (1977): Prospektion, exploration und entwicklung der uranlagerstatte Key Lake, 
+
+Kanada: Erzmetall, v30, p583-589. 
+ 
+Lewry, J.F. and Collerson, K.D. (1990): The Trans-Hudson Orogen: extent, subdivision and problems. In: 
+
+Lewry, J.F., Stauffer, M.R. (eds.), The Early Proterozoic Trans-Hudson Orogen of North America. 
+Geol. Soc. Can., Spec. Pap. 37, pp-1-14. 
+
+ 
+Lewry, J.F. and Sibbald, T.I.I. (1980): Thermotectonic evolution of the Churchill Province in northern 
+
+Saskatchewan: Tectonophysics, 68, p. 45-82. 
+ 
+Lewry, J.F. and Sibbald, T.I.I., and Schledewitz, D.C.P. (1985): Variation in character of Archean rocks in 
+
+the western Churchill Province and its Significance. In: L.D. Ayres, P.C. Thurston, K.D. Card and 
+W. Weber (eds.), Evolution of Archean Supracrustal Sequences. Geol. Soc. Can., Spec. Pap. 28, 
+pp 239-261. 
+
+ 
+Matthews, R., Koch, R., Leppin, M., Powell, B., and Sopuck, V. (1997): Advances in integrated 
+
+exploration for unconformity uranium deposits in western Canada; in Geophysics and 
+Geochemistry at the Millennium, Proceedings of Exploration 97, (ed.) A.G. Gubins; Fourth 
+Decennial International Conference on Mineral Exploration, September 15-18, 1997; Prospectors 
+and Developers Association of Canada, Toronto, Ontario, p. 993-1002. 
+
+ 
+Quirt, D. (1989): Host rock alteration at Eagle Point South: Sask. Resear. Council, Publi. No. R-855-1-E-
+
+89, 95p. 
+ 
+
+
+
+ 
+
+ 108 
+
+Ramaekers, P. (1976): Athabasca Formation, northeast edge (64L, 74I, 74P): Part I, reconnaissance 
+geology; in Summary of Investigations 1976: Saskatchewan Geological Survey, Sask. Dep. 
+Miner. Resour., Misc. Rep. 76-4, p73-77.  
+
+ 
+Ramaekers, P. (1978a): Athabasca Formation, southwestern edge: Part I, reconnaissance geology (NTS 
+
+area 74F, 74K); in Summary of Investigations 1978: Saskatchewan Geological Survey, Sask. 
+Miner. Resour., Misc. Rep. 78-10, p124-128.  
+
+ 
+Ramaekers, P. (1978b): Reconnaissance geology of the interior Athabasca Basin; in Summary of 
+
+Investigations 1978: Saskatchewan Geological Survey, Sask. Miner. Resour., Misc. Rep. 78-10, 
+p133-135.  
+
+ 
+Ramaekers, P. (1990): The geology of the Athabasca Group (Helikian) in Northern Saskatchewan: 
+
+Saskatchewan Energy and Mines, Report 195, 49 p. 
+ 
+Ramaekers, P. (2003a): Phases 1 to 4 Ex-Tech IV Study of the Early Proterozoic Athabasca Group, 
+
+Northeastern Alberta: Alberta Energy and Utilities Board, EUB/AGS Special Report 61.  
+ 
+Ramaekers, P. (2003b): Development, stratigraphy and summary diagenetic history of the Athabasca 
+
+Basin, early Proterozoic of Alberta and its relation to Uranium Potential: Alberta Energy and 
+Utilities Board, EUB/AGS Special Report 62, 36 p.  
+
+ 
+Ramaekers, P; Jefferson, C W; Yeo, G M; Collier, B; Long, D G F; Drever, G; McHardy, S; Jiricka, D; 
+
+Cutts, C; Wheatley, K; Catuneanu, O; Bernier, S; Kupsch, B; and Post, R (2007): Revised 
+geological map and stratigraphy of the Athabasca Group, Saskatchewan and Alberta; in EXTECH 
+IV: Geology and Uranium EXploration TECHnology of the Proterozoic Athabasca Basin, 
+Saskatchewan and Alberta; by Jefferson, C W (ed.); Delaney, G (ed.); Geological Survey of 
+Canada, Bulletin no. 588, 2007; p. 155-191 
+
+ 
+Ruzicka, V. (1997): Metallogenetic features of the uranium-polymetallic mineralization of the Athabasca 
+
+Basin, Alberta, and a comparison with other parts of the basin; in Macqueen, R.W., ed., Exploring 
+for Minerals in Alberta: Geological Survey of Canada geoscience contributions, Canda-Alberta 
+Agreement on mineral development (1992-1995): Geological Survey of Canada, Bulletin 500, p. 
+31-72. 
+
+ 
+Rhys, D., Eriks, S. and Horn, L. (2010): A new look at basement-hosted mineralization in the Horseshoe 
+
+and Raven deposits, eastern Athabasca Basin; Oral presentation at the Saskatchewan 
+Geological Survey Open House, Saskatoon, SK, Nov. 29, 2010. 
+
+ 
+Saskatchewan Geological Survey (2003): Summary of Investigations 2003 Volume 1, Saskatchewan 
+
+Geological Survey; Misc. Rep. 2003-4.1. 
+ 
+Sibbald, T.I.I., 1983. Geology of the crystalline basement, NEA/IAEA Athabasca test area. in Uranium 
+
+Exploration in Athabasca Basin, Saskatchewan, Canada, ed. E.M. Cameron, Geological Survey 
+of Canada, Paper 82-11, pp. 1-14. 
+
+ 
+SRC, 2007. Geoanalytical Laboratories fee schedule 2007. Saskatchewan Research Council, Saskatoon, 
+
+Saskatchewan, 38 p. 
+ 
+Thomas, D.J., Matthews, R.B., and Sopuck, V. (2000): Athabasca Basin (Canada) unconformity – type 
+
+uranium deposits: exploration model, current mine developments and exploration directions; in 
+Geology and Ore Deposits 2000: The Great Basin and Beyond, Geological Society of Nevada 
+Symposium Proceedings, Reno, Nevada, (ed.) J.K. Cluer, J.G. Price, E.M. Struhsacker, R.F. 
+Hardyman, and C.L. Morris, May 15-18, 2000, v. 1, p. 103-126. 
+
+ 
+
+
+
+ 
+
+ 109 
+
+Wallis, R.H., 1971. The geology of the Hidden Bay area, Saskatchewan. Saskatchewan Department of 
+Mineral Resources, Report 137, 76 pages. 
+
+ 
+Wheatley, K., Murphy, J., Leppin, M., and Climie, J.A. (1996): Advances in the Genetic Model and 
+
+Exploration Techniques for Unconformity-type Uranium Deposits in the Athabasca Basin; in 
+Ashton, K.E., Harper, C.T., eds., MinExpo '96 Symposium – Advances in Saskatchewan Geology 
+and Mineral Exploration: Saskatchewan Geological Society, Special Publication No 14, p. 126-
+136. 
+
+ 
+Yeo, G., Jefferson, C.W., Ramaekers, P. (2002): A preliminary comparison of Manitou Falls Formation 
+
+stratigraphy in four Athabasca Basin deposystems; in Summary of Investigations 2002, Volume 2: 
+Saskatchewan Geological Survey, Sask. Industry Resources, Misc. Report 2002-4.2, CR-ROM, 
+Paper D-7, 14p. 
+
+ 
+Yeo, G. and Potter, E. (2010): Reducing Mechanisms Potentially Involved in Formation of Athabasca 
+
+Basin Uranium Deposits: Relevance to Exploration; Oral presentation at the Saskatchewan 
+Geological Survey Open House, Saskatoon, SK, Nov. 29, 2010. 
+
+  
+
+
+
+ 
+
+ 110 
+
+ 
+ 
+16.  DATE AND SIGNATURE 
+ 
+This NI 43-101 technical report titled "Red Willow Uranium Project, Northern 
+Saskatchewan, Canada" and dated October 16, 2015, was prepared and signed by the 
+following author: 
+ 
+ 
+ 
+"Scott Frostad" 
+(Signed and sealed) 
+ 
+Scott Frostad, BSc, MASc, P.Geo.  
+ 
+Dated at Saskatoon, SK 
+October 16, 2015 
+ 
+
+  
+
+
+
+ 
+
+ 111 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+APPENDIX 1 
+ 
+
+STATEMENT BY QUALIFIED PERSON 
+
+
+
+ 
+
+ 112 
+
+CERTIFICATE OF QUALIFIED PERSON 
+ 
+ 
+I, Scott R. Frostad, of 362 Thode Avenue, Saskatoon, Saskatchewan, Canada S7W 
+1B9 do hereby certify that: 
+ 
+1. I am a registered as a Professional Geologist with the Association of Professional 
+
+Engineers and Geoscientists of Saskatchewan (Member Number 12878) and the 
+Association of Professional Engineers and Geoscientists of British Columbia 
+(Member Number 25020)  
+
+ 
+2. I am a graduate of the University of Western Ontario with a Bachelor of Science 
+
+Degree in Geology (1984) and of the University of British Columbia with a Master of 
+Applied Science Degree in Mining and Mineral Process Engineering (1999). 
+
+ 
+3. I have practiced my profession continuously since 1984 and have experience in the 
+
+search for uranium, gold, and base metals in Canada. 
+ 
+4. I am currently employed as the Vice President of Exploration for Purepoint Uranium 
+
+Group Inc. and am also a director and shareholder of the company. 
+ 
+5. That I have read National Instrument 43-101 and Form 43-101F1 and consider 
+
+myself a "qualified person" for the purpose of the Instrument. 
+ 
+6. That I am responsible for the preparation of the technical report dated October 16, 
+
+2015 entitled "Technical Report on the Red Willow Uranium Project, Northern 
+Saskatchewan, Canada" 
+
+ 
+7. That I have been involved with the Red Willow Project since January, 2006. His 
+
+most recent visit to the site was during the last drill program on February 25th, 2015. 
+ 
+8. For this report, I have relied on assessment reports currently on file with 
+
+Saskatchewan Industry and Resources and recent exploration reports of Purepoint 
+Uranium Group Inc. 
+
+ 
+9. That, as of the date of this certificate, to the best of my knowledge, information and 
+
+belief, the technical report contains all scientific and technical information that is 
+required to be disclosed to make the technical report not misleading.  
+
+ 
+10.  That I consent to the public filing of the Technical Report with any stock exchange 
+
+and other regulatory authority and any publication by them for regulatory purposes. I 
+also consent to an extraction from, or a summary of, the Technical Report. 
+
+ 
+ 
+Dated at Saskatoon, Saskatchewan, this 16th day of October, 2015. 
+ 
+(Signed and sealed) "Scott Frostad" 
+ 
+Scott Frostad, BSc, MASc, P.Geo 
+
+
+"

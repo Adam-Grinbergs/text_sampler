@@ -1,0 +1,3466 @@
+b'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portland Property
+
+
+ 
+
+TECHNICAL REPORT 
+ 
+
+On the 
+ 
+
+METRON BIG SMOKEY VALLEY BRINE LITHIUM PROPERTY 
+ 
+
+Esmeralda County,  
+Nevada, USA 
+
+ 
+Latitude: 37° 54' 21" - 38° 01' 55" N 
+
+Longitude: 117° 37' 56" - 117° 46' 57" W 
+ 
+ 
+ 
+
+Prepared for: 
+ 
+
+Metron Capital Corp. 
+
+1206 – 588 Broughton Street 
+Vancouver, BC 
+
+V6G 3E3 
+Canada 
+
+ 
+
+ 
+Prepared by: 
+
+ 
+Kristian Whitehead, B.Sc., P.Geo. 
+
+Consulting Geologist 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+February 8, 2017 
+ 
+
+ 
+  
+
+
+
+Page 2 of 76 
+
+TABLE OF CONTENTS 
+ 
+1.0 SUMMARY ............................................................................................................... 5 
+2.0 INTRODUCTION AND TERMS OF REFERENCE ......................................................... 9 
+
+2.1 Purpose of Report ............................................................................................... 9 
+2.2 Sources of Information ....................................................................................... 9 
+
+3.0 RELIANCE ON OTHER EXPERTS .............................................................................. 10 
+4.0 PROPERTY DESCRIPTION AND LOCATION ............................................................. 10 
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE, AND 
+PHYSIOGRAPHY ................................................................................................................. 19 
+
+5.1 Access ................................................................................................................ 19 
+5.2 Climate .............................................................................................................. 19 
+5.3 Physiography ..................................................................................................... 20 
+5.4 Local Resources and Infrastructure .................................................................. 22 
+
+6.0 HISTORY ................................................................................................................ 23 
+6.1 General History ................................................................................................. 23 
+6.2 Work by Ultra Lithium Inc. ................................................................................ 23 
+
+6.2.1 Ground Geophysics ................................................................................... 23 
+
+6.2.2 2015 Soil and Water Sampling .................................................................. 28 
+
+6.2.3 Drilling ....................................................................................................... 46 
+
+7.0 GEOLOGICAL SETTING AND MINERALIZATION ..................................................... 51 
+7.1 Regional Geology .............................................................................................. 51 
+7.2 Local and Property Geology .............................................................................. 52 
+7.3 Mineralization ................................................................................................... 54 
+7.4 Hydrogeology .................................................................................................... 54 
+
+8.0 DEPOSIT TYPES ...................................................................................................... 56 
+8.1 Lithium Deposit Types ....................................................................................... 56 
+8.2 Deposit Models ................................................................................................. 57 
+
+9.0 EXPLORATION ....................................................................................................... 60 
+10.0 DRILLING ............................................................................................................... 60 
+11.0 SAMPLE PREPARATION, ANALYSIS AND SECURITY ............................................... 60 
+12.0 DATA VERIFICATION .............................................................................................. 60 
+13.0 MINERAL PROCESSING AND METALLURGICAL TESTING ...................................... 64 
+23.0 ADJACENT PROPERTIES ......................................................................................... 64 
+
+23.1 Silver Peak Mine, Clayton Valley, Nevada ........................................................ 65 
+23.2 Pure Energy Minerals Ltd. ................................................................................. 66 
+
+24.0 OTHER RELEVANT DATA AND INFORMATION ...................................................... 67 
+24.1 Environmental Concerns ................................................................................... 67 
+
+25.0 INTERPRETATION AND CONCLUSIONS ................................................................. 67 
+26.0 RECOMMENDATIONS ........................................................................................... 69 
+27.0 REFERENCES .......................................................................................................... 72 
+28.0 SIGNATURE PAGE .................................................................................................. 74 
+29.0 CERTIFICATE OF AUTHOR ...................................................................................... 75 
+
+
+
+Page 3 of 76 
+
+LIST OF FIGURES 
+ 
+Figure 1: Location Map ..................................................................................................... 15 
+
+Figure 2: Claim Map with Ground Geophysical Survey Lines 2014 .................................. 17 
+
+Figure 3: Metron property claim map .............................................................................. 18 
+
+Figure 4: Tonopah Climate Graph ..................................................................................... 20 
+
+Figure 5: Physiographic Map of the Area ......................................................................... 21 
+
+Figure 6: Ground geophysical survey (CSAMT) lines ........................................................ 24 
+
+Figure 7: Geophysical lines C and D .................................................................................. 26 
+
+Figure 8: Geophysical line E .............................................................................................. 26 
+
+Figure 9: Geophysical line E (Extension) ........................................................................... 27 
+
+Figure 10: Geophysical line F ............................................................................................ 27 
+
+Figure 11. Lithium in soil / sediment samples along CSAMT Survey lines ........................ 34 
+
+Figure 12: Boron in soil / sediment samples along CSAMT Survey lines .......................... 35 
+
+Figure 13: Potassium in soil / sediment samples along CSAMT Survey lines ................... 36 
+
+Figure 14: Magnesium in soil / sediment samples along CSAMT Survey lines ................. 37 
+
+Figure 15: Monitoring well details at BSV 16-01 .............................................................. 48 
+
+Figure 16: Geological Map of the Property Area .............................................................. 55 
+
+Figure 17- Generalized cross section of nearby Clayton Valley, after Davis (1986) ......... 57 
+
+Figure 18: Schematic deposit model for lithium brines ..................................................... 59 
+
+Figure 19: Adjacent properties ......................................................................................... 67 
+
+  
+LIST OF TABLES 
+
+Table 1: BLM Claim Fee Schedule ..................................................................................... 11 
+
+Table 2: Claim Data ........................................................................................................... 12 
+
+Table 3: Historical Drill Holes ............................................................................................ 23 
+
+Table 4: Soil / sediment and water samples 2015 ............................................................ 38 
+
+Table 5: BSH16-01 log and assay results ........................................................................... 49 
+
+Table 6: Sample description .............................................................................................. 62 
+
+Table 7: Phase 1 Budget .................................................................................................... 71 
+
+ 
+ 
+
+
+
+Page 4 of 76 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+  
+
+
+
+Page 5 of 76 
+
+1.0 SUMMARY 
+ 
+Kristian Whitehead. P.Geo. ("the author") was retained by Metron Capital Corp. ("MCC" 
+or "the Company") to prepare an independent Technical Report on the Metron Big 
+Smokey Valley (BSV) Brine Lithium Property ("the Property"). The purpose of the report 
+is to meet the Toronto Stock Exchange's listing requirements and to support future 
+financings.       
+ 
+The Property is located approximately 25 miles (40 kilometres) from Tonopah in 
+Esmeralda County, Nevada, USA and is about 50 kilometres to the west of Goldfield, the 
+County Seat of Esmeralda County. The property consists of 100 placer claims located in 
+Townships 1 and 2, Range 38, and 38 ½ East, Esmeralda County, Nevada, USA. Each claim 
+is approximately 20 acres with a total combined property area of 2,000 acres, configured 
+within two blocks. Metron has an option to acquire 100% interest in the property 
+through cash payments, issuing shares and work commitment. 
+ 
+The South Big Smokey Valley area is a typical internally drained valley hemmed in by 
+mountains, low foothills, and broad alluvial fans. Limestone, quartzite, slate, and schist, 
+aggregating several thousand feet in thickness and ranging in age from Lower Cambrian 
+to Carboniferous which are the oldest rocks found in this region. Since their deposition, 
+they have been extensively deformed, eroded, intruded by lavas, and largely covered by 
+igneous bodies and sedimentary deposits. Originally, they probably covered the entire 
+region, but at present they are found over extensive areas only in the Toyabe, Toquima, 
+Silver Peak, and Lone Mountain ranges. The Quaternary deposits are generally 
+comprised of the soils of uplands and mountains, soils of valley fills, outwash plains and 
+alluvial fans, soils on alluvial fans and aprons, as well as playas and soils on flats and 
+basins. The playas soils are moderate to poorly drained and have a desirable character 
+for potential development of brines and accumulation of lithium. 
+ 
+The Late Miocene to Pliocene tuffaceous lacustrine facies of the Esmeralda Formation is 
+documented to contain up to 1,300 ppm lithium with an overall average of 100 ppm 
+lithium. 2015 surface sampling by Ultra Lithium indicated up to 100 ppm lithium in lake 
+sediments which represent typical soils of Playas on Flats and Basins. 
+ 
+In 1980, United States Geological Survey carried out an investigation for potential 
+lithium bearing brines in and around Clayton Valley as part of regional study related to 
+lithium supply sources. Big Smokey Valley was also part of this study where two reverse 
+circulatory drill holes (BS13 and BS 14) were drilled just outside the current Property.  In 
+BS 13, a maximum value of 1.7 ppm Li was reported in a water sample and 364 ppm in 
+sediment samples. Bore-hole 14 was abandoned after drilling 215 feet (66 m) into 
+unconsolidated sand and gravel. A maximum of 1.3 ppm Li was reported in a water 
+sample and 287 ppm in sediment samples. 
+ 
+
+Ultra Lithium Inc. carried out ground geophysical survey in 2014, as well as a subsequent 
+soil and water sampling program in 2015. The ground geophysical survey consisted of 
+
+
+
+Page 6 of 76 
+
+eight CSAMT survey lines (called Lines A through H) covering 53.8 kilometers. Lines C, D, 
+E and F are partially or fully located on the Property. The survey results indicate that, in 
+northeastern area, the lowest resistivities are indicated south of Line E, in the vicinity of 
+station 6200 on Line F and from station 9400 on Line C to station 2800 on Line D. 
+Evidence for faulting is very tentative in this area, and the depth of investigation does 
+not extend as deeply as on the southwestern lines.  
+ 
+On December 11-18, 2015, a soil and water sampling program completed by Ultra 
+Lithium was aimed at following up on the results of the CSAMT ground geophysical 
+survey, with its purpose to investigate the presence of lithium in shallow soil, and 
+characterize its groundwater system. A total of 48 soil / sediment samples were 
+collected to cover survey lines A to H. Additionally, five water samples were collected 
+from different areas, of which four were collected from surface water / ice and one 
+from a water well, located on adjacent ground to the Property. The results confirmed 
+the presence of lithium in the South Big Smokey hydrogeological system. Of particular 
+interest is the area contained within geophysical survey lines C, D, E and F. Maximum 
+assay values derived from these sediments reported 100 ppm lithium, 480 ppm boron, 
+and 7,600 ppm potassium. Generally, lithium, boron and potassium values correspond 
+well with each other, where samples with higher lithium concentrations yield higher 
+values of other two elements.  
+ 
+In May 2016, Ultra Lithium Inc. completed one HQ diameter diamond core drill hole on 
+the Property. The hole was drilled down to 1,000 feet (305 metres). Drilling was limited 
+to 1,000 feet (305 metres) due to artesian water pressure. The hole was later reamed to 
+a six-inch diameter and a monitoring well was installed to a depth of 500 feet, with 3-
+inch diameter screen located in the bottom 120 feet. The results of 22 drill core samples 
+collected from the hole BSH16-01 indicate maximum values for lithium of 270 parts per 
+million (ppm), 410 ppm boron, 10,000 ppm potassium, and 12,000 ppm magnesium; 
+whereas the average lithium concentration in all core samples is 131 ppm, 151 ppm 
+boron, 5,575 ppm potassium, and 6,210 ppm magnesium.  One sample from a 10-cm 
+gypsum layer yielded a lithium value below the detection limit. These samples were 
+taken at various depth intervals down to 1,000 feet (305 metres) below ground surface. 
+Two rounds of groundwater sampling from this well yielded lithium values of 1 ppm or 
+less. Total exploration expenditures for this drill hole were $165,394.58 USD 
+($215,012.95 CAD) paid by Ultra Lithium Inc. 
+ 
+The author visited the Property on December 3, 2016, and the geological work 
+performed in order to verify the existing data consisted of visiting existing drill hole on 
+the Property (BSH16-01), examining rock outcrops and lake sediments areas of the Big 
+Smokey Valley, taking geological and hydrogeological observations, and observing 
+several claim posts. The drill core for hole BSH16-01 is stored at a locked storage unit 
+located in Tonopah. The author viewed various core sections and collected five 
+representative samples from selected intervals.  The sample assay results indicated 
+lithium values in the range of 192 to 357 ppm, boron 97 to 230 ppm, potassium 7200 to 
+12000 ppm, and magnesium 7200 to 13000 ppm.  
+
+
+
+Page 7 of 76 
+
+ 
+Continental brines are the most common type of brine deposits located in saline desert 
+basins (also known as salt lakes, salt flats or salars). They are located near tertiary or 
+recent volcanoes and are made up of sand, minerals with brine and saline water with 
+high concentrations of dissolved salts. A playa is a brine deposit whose surface is 
+composed mostly of silts and clays which contain less salt than a salar. The South Big 
+Smokey Valley brine lithium property has characteristics of a playa type brine deposit 
+model. It shares geological similarities with the Clayton Valley which hosts the only 
+lithium producing brine operation in North America.  
+ 
+The Property is located in an active mining and mineral exploration region where many 
+operators carried out lithium exploration and/ or development work on adjacent 
+properties. The Silver Peak brine lithium mine located on the adjacent Clayton Valley, 
+currently operated by Rockwood is located approximately 25 kilometres to the southeast 
+of the Property. Similarly, Pure Energy Minerals is working on the southern part of Clayton 
+Valley, adjacent to the south extent of the Silver Peak mine.  
+ 
+The Property has good year-round road access from Tonopah Station through highway 
+6/95. Highway 265 to Silver Peak branches off from 6/95 and crosses the southwestern 
+part of the Property.  The source of water is groundwater exclusive and power is readily 
+available locally. 
+ 
+The present report is based on available data in the public domain, reports from Metron 
+Capital Corp., published reports by the US Geological Survey, and personal observations. 
+All consulted sources are listed in the references section.  The sources of the maps are 
+noted on the individual figures.  All consulted data sources are deemed reliable. The 
+data collected during the course of present study is considered sufficient to provide an 
+opinion about the merit of the Property and deemed a viable exploration target.  
+ 
+Based on the favourable geological, hydrogeological and tectonic setting, presence of 
+anomalous surface lithium values, and the results of present study, it is concluded that 
+the Property is a property of merit and possess a good potential for a discovery of 
+lithium brine mineralization.  The Property has good road access, readily available 
+exploration and mining services locally available as well as nearby power and water 
+resources to support mining activities. The author is of the opinion that the present 
+study has met it original objectives.    
+ 
+
+Recommendations 
+In the qualified person's opinion, the character of the South Big Smokey Valley Property 
+is sufficient to merit a follow-up work program. This can be accomplished through a 
+two-phase exploration program, where each phase is contingent upon the results of the 
+previous phase.   
+ 
+ 
+ 
+
+
+
+Page 8 of 76 
+
+ 
+
+Phase 1 – Surface Sampling and Drilling 
+A total of 12 samples were collected from the property during 2015 surface soil 
+sampling program. This sampling identified anomalous values of lithium, and requires a 
+follow up detailed surface sampling to get better coverage of the property area.  
+ 
+The ground geophysical CSAMT survey and soil sampling program has identified various 
+distinct potential brine targets for drilling. The lowest resistivities are indicated south of 
+Line E, in the vicinity of station 6200 on Line F and from station 9400 on Line C to station 
+2800 on Line D. The drill hole BSH16-01 was drilled at location C9700 where core 
+samples indicated anomalous lithium values however groundwater samples reported 
+low lithium values (1 ppm and below). To test the CSAMT target at line D, one single drill 
+hole is proposed at station D2350 down to a depth of 2,200 feet (670 m). All 
+hydrogeological units intercepted during drilling should be sampled via soil and 
+groundwater testing for lithium, boron, potassium and magnesium. A water well should 
+be installed at this borehole location to support water sampling, downhole geophysical 
+logging, pumping tests, permeability tests and other hydrogeological studies. 
+ 
+
+The estimated cost of this program is USD $309,334 (CAD $412,445) and will take an 
+estimated 8 to 12 weeks to complete. 
+ 
+
+Phase 2 – Detailed Drilling 
+Based on the results of Phase 1 program, an additional 5-hole drill program should be 
+completed on the Property. A scope of work, location of drill holes and budget for Phase 
+2 will be prepared after reviewing the results of Phase 1 drill program.  
+ 
+ 
+
+
+
+Page 9 of 76 
+
+2.0 INTRODUCTION AND TERMS OF REFERENCE 
+ 
+
+2.1 Purpose of Report 
+ 
+Kristian Whitehead, P.Geo. ("the author") was retained by Metron Capital Corp., ("MCC" 
+or the "Company") to prepare an independent Technical Report on the Metron Big 
+Smokey Valley Brine Lithium Property ("the Property). The purpose of the report is to 
+meet the Toronto Stock Exchange's regulatory requirements and to support future 
+financings.    
+ 
+
+2.2 Sources of Information 
+ 
+The present report is based on publicly available data, reports from Metron Capital 
+Corp., published reports by US Geological Survey and other sources, and personal 
+observations. All consulted sources are listed in the References Section.  The sources of 
+the maps are noted on the Figures. 
+ 
+The author carried out a visit of the property on December 3, 2016. The geological work 
+performed in order to verify the existing data consisted of geological observations and 
+measurements, hydrogeological studies, visiting approachable rock outcrops, and taking 
+5 core samples from suitable intervals. The author also visited Silver Peak property of 
+Rockwood Holdings, the only brine lithium producing project in North America, to 
+compare the geological and hydrogeological conditions of both Clayton Valley and Big 
+Smokey Valley.   
+ 
+At the time of Property visit, the author also confirmed many of the claim posts on 
+ground bearing name of Ultra Lithium Inc., the Optionor of the Property.  
+ 
+The information, opinions and conclusions contained herein are based on: 
+ 
+
+• Information available to the author at the time of preparation of this 
+report; 
+
+• Assumptions, conditions, and qualifications as set forth in this report; and 
+• Data, reports, and other information supplied by ULI and other third 
+
+party sources. 
+ 
+The author has no reason to doubt the reliability of the information provided by Metron 
+Capital Corp. The author reserves the right, but will not be obliged; to revise the report 
+and conclusions if additional information becomes known subsequent to the date of this 
+report.  
+ 
+  
+
+
+
+Page 10 of 76 
+
+3.0 RELIANCE ON OTHER EXPERTS 
+ 
+The author has relied on the records and copies of records provided by Metron Capital 
+Corp. to verify the claim data. A limited search of tenure data on the Bureau of Land 
+Management (BLM) website LR2000 on December 10, 2016, conforms to the data 
+supplied by Metron Capital Corp. However, the limited research by the author does not 
+express a legal opinion as to the ownership status of the Property. This disclaimer 
+applies to ownership information relating to the Property, and the information is 
+available in Section 1 (Summary) and Section 4 (Property Description and Location) of 
+this report.  
+ 
+
+4.0 PROPERTY DESCRIPTION AND LOCATION 
+ 
+The Property is located approximately 25 miles (40 kilometres) from Tonopah in 
+Esmeralda County, Nevada, USA (Figure 1). It is about 50 kilometres to the west of 
+Goldfield, the County Seat of Esmeralda County. It consists of 100 placer claims located 
+in Townships 1 and 2, Range 38 and 38 ½ East, Esmeralda County, Nevada. Each claim is 
+approximately 20 acres with a total property area of 2,000 acres, configured in two claim 
+blocks (Metron 1 and 2).  Claim data is summarized in Table 1, while map showing the 
+claims is presented in Figures 2 and 3.   
+ 
+The Property was acquired through an option agreement signed on December 2, 2016 
+between Ultra Lithium Inc. and Metron Capital Corp. Under the terms of the agreement 
+MCC can earn 100% interest on 100 placer claims by paying cash, issuing shares and 
+incurring exploration expenditures as per the following schedule: 
+ 
+Year 1:   
+ 
+
+ Paying $ 5,000 cash on signing; 
+ Paying $ 10,000 cash on approval by the TSX-V;  
+ Issuing 500,000 common shares of Metron Capital Corp. on approval by the TSX-
+
+V; and, 
+ Exploration expenditures of not less than $20,000 to be incurred on or before 
+
+May 31
+st
+
+, 2017. 
+Year 2: 
+ 
+
+ Paying $ 30,000 cash on anniversary date;   
+ Issuing 500,000 common shares of Metron Capital; and,  
+ Exploration expenditures of not less than $150,000 to be incurred on or before 
+
+May 31
+st
+
+, 2018. 
+Year 3: 
+ 
+
+ $ 60,000 on anniversary date;  
+ 1,000,000 common shares of Metron Capital; and  
+
+
+
+Page 11 of 76 
+
+ Exploration expenditures of not less than $250,000 to be incurred on or before 
+May 31
+
+st
+, 2019. 
+
+ 
+Metron Capital Corp. will then have earned a 100% interest in the said Claims after 
+completing the 3rd year cash payments, share payments and work commitment. The 
+Optionor will provide Metron Capital Corp. with a fully executed claim transfer following 
+completion of the 3rd year cash and share payments. 
+ 
+Metron Capital Corp. will pay to the Optionor a royalty equal to three percent 3% Gross 
+Overriding Royalty (GOR) from this property with a 5km area of interest around these said 
+claims. The Royalty will be payable for as long as Metron Capital Corp. and/or its successors 
+and assigns hold any interest in the claims. Metron Capital Corp. will have a right to 
+purchase a 1% NSR for $1,500,000, at any time up to when a production decision is made. 
+ 
+
+Mineral deposits subject to placer claims include all those deposits not subject to lode 
+claims. Originally, these included only deposits of unconsolidated materials, such as 
+sand and gravel, containing free gold or other minerals. By Congressional acts and 
+judicial interpretations, many nonmetallic bedded or layered deposits, such as gypsum, 
+lithium, and high calcium limestone, are also considered placer deposits. 
+ 
+Placer claims, where practicable, are located by legal subdivision (for example: 
+Township 10 South, Range 11 East, Section 9, SE1/4). The maximum size of a placer 
+claim is 20 acres per locator. An association of two locators may locate 40 acres, and 
+three may locate 60 acres, etc. The maximum area of an association placer claim is 160 
+acres for eight or more persons. Corporations may not locate association placer claims 
+unless they are in association with other private individuals or other corporations as co-
+locators. 
+(http://www.blm.gov/nv/st/en/prog/more_programs/geographic_sciences/mineral_sur
+veyor_program/types_of_claims.html) 
+ 
+The following claim maintenance and staking fees is applicable as per BLM schedule. 
+
+Table 1: BLM Claim Fee Schedule  
+
+Claim Type Payment Due Date 
+
+Existing 
+
+placer 
+
+mining claim 
+
+USD $155 for every 20 acres or portion thereof per year Sept. 1, 2017  
+
+Filing   a new 
+
+placer  
+
+mining claim 
+
+USD $212 (includes $37.00 Location Fee and $20.00 
+
+Processing Fee), for each new location and you pay $155 for 
+
+every 20 acres or portion thereof up to 160 acres' maximum. 
+
+For example, a 40-acre claim = $367 ($212.00 + $155.00) OR 
+
+20-acre claim = $367.00 
+
+Upon filing  
+
+(within 90 days 
+
+from date of 
+
+location) 
+
+        
+
+http://www.blm.gov/nv/st/en/prog/more_programs/geographic_sciences/mineral_surveyor_program/types_of_claims.html
+http://www.blm.gov/nv/st/en/prog/more_programs/geographic_sciences/mineral_surveyor_program/types_of_claims.html
+
+
+Page 12 of 76 
+
+In addition to filing with the BLM, the claim holder is required to file an Affidavit of 
+Assessment Work or Notice of Intent to Hold with the county recorder's office by 
+September 30
+
+th
+. The location of this office will always be in the county seat of the county 
+
+in which the claims are situated (Esmeralda County office located in Goldfield). 
+  
+A Notice of Intent permitting process is required to carry out the recommended work 
+program. This process entails providing a short description of the proposed works, plus 
+supporting drawings and accompanying bonding, until such time that the works are 
+complete and the area is reclaimed to its previous condition. A minimum bond required is 
+$3,000 but the actual bond amount is based upon the type of exploration and the degree 
+of disturbance. A Notice of Intent permit application has been approved by BLM for Phase 
+1 recommended work program.  
+ 
+The author is not aware of any environmental liabilities which have accrued from some 
+historical exploration activity on the Property.  
+
+Table 2: Claim Data 
+
+Serial No. 
+Claim 
+Name/Number 
+
+Mc Lead Case 
+Ser Nr 
+
+Lead 
+Serial 
+No. 
+
+NMC1013666 SM 241 NMC1013466 ACTIVE 
+
+NMC1013667 SM 242 NMC1013466 ACTIVE 
+
+NMC1013668 SM 243 NMC1013466 ACTIVE 
+
+NMC1013669 SM 244 NMC1013466 ACTIVE 
+
+NMC1013670 SM 245 NMC1013466 ACTIVE 
+
+NMC1013671 SM 246 NMC1013466 ACTIVE 
+
+NMC1013672 SM 247 NMC1013466 ACTIVE 
+
+NMC1013673 SM 248 NMC1013466 ACTIVE 
+
+NMC1013674 SM 249 NMC1013466 ACTIVE 
+
+NMC1013675 SM 250 NMC1013466 ACTIVE 
+
+NMC1013676 SM 251 NMC1013466 ACTIVE 
+
+NMC1013677 SM 252 NMC1013466 ACTIVE 
+
+NMC1013678 SM 253 NMC1013466 ACTIVE 
+
+NMC1013679 SM 254 NMC1013466 ACTIVE 
+
+NMC1013680 SM 255 NMC1013466 ACTIVE 
+
+NMC1013681 SM 256 NMC1013466 ACTIVE 
+
+NMC1013682 SM 257 NMC1013466 ACTIVE 
+
+NMC1013683 SM 258 NMC1013466 ACTIVE 
+
+NMC1013684 SM 259 NMC1013466 ACTIVE 
+
+NMC1013685 SM 260 NMC1013466 ACTIVE 
+
+NMC1013686 SM 261 NMC1013466 ACTIVE 
+
+NMC1013687 SM 262 NMC1013466 ACTIVE 
+
+NMC1013688 SM 263 NMC1013466 ACTIVE 
+
+NMC1013689 SM 264 NMC1013466 ACTIVE 
+
+
+
+Page 13 of 76 
+
+Serial No. 
+Claim 
+Name/Number 
+
+Mc Lead Case 
+Ser Nr 
+
+Lead 
+Serial 
+No. 
+
+NMC1013690 SM 265 NMC1013466 ACTIVE 
+
+NMC1013691 SM 266 NMC1013466 ACTIVE 
+
+NMC1013692 SM 267 NMC1013466 ACTIVE 
+
+NMC1013693 SM 268 NMC1013466 ACTIVE 
+
+NMC1013694 SM 269 NMC1013466 ACTIVE 
+
+NMC1013695 SM 270 NMC1013466 ACTIVE 
+
+NMC1013696 SM 271 NMC1013466 ACTIVE 
+
+NMC1013697 SM 272 NMC1013466 ACTIVE 
+
+NMC1013763 SM 418 NMC1013466 ACTIVE 
+
+NMC1013764 SM 419 NMC1013466 ACTIVE 
+
+NMC1013765 SM 420 NMC1013466 ACTIVE 
+
+NMC1013775 SM 434 NMC1013466 ACTIVE 
+
+NMC1013776 SM 435 NMC1013466 ACTIVE 
+
+NMC1013777 SM 436 NMC1013466 ACTIVE 
+
+NMC1013791 SM 454 NMC1013466 ACTIVE 
+
+NMC1013792 SM 455 NMC1013466 ACTIVE 
+
+NMC1013793 SM 456 NMC1013466 ACTIVE 
+
+NMC1013807 SM 474 NMC1013466 ACTIVE 
+
+NMC1013808 SM 475 NMC1013466 ACTIVE 
+
+NMC1013809 SM 476 NMC1013466 ACTIVE 
+
+NMC1013827 SM 498 NMC1013466 ACTIVE 
+
+NMC1013828 SM 499 NMC1013466 ACTIVE 
+
+NMC1013829 SM 500 NMC1013466 ACTIVE 
+
+NMC1091414 SM 703 NMC1091392 ACTIVE 
+
+NMC1091415 SM 704 NMC1091392 ACTIVE 
+
+NMC1091416 SM 705 NMC1091392 ACTIVE 
+
+NMC1091417 SM 706 NMC1091392 ACTIVE 
+
+NMC1091418 SM 707 NMC1091392 ACTIVE 
+
+NMC1091419 SM 708 NMC1091392 ACTIVE 
+
+NMC1091420 SM 709 NMC1091392 ACTIVE 
+
+NMC1091421 SM 710 NMC1091392 ACTIVE 
+
+NMC1091422 SM 711 NMC1091392 ACTIVE 
+
+NMC1091423 SM 712 NMC1091392 ACTIVE 
+
+NMC1091424 SM 713 NMC1091392 ACTIVE 
+
+NMC1091425 SM 714 NMC1091392 ACTIVE 
+
+NMC1091426 SM 715 NMC1091392 ACTIVE 
+
+NMC1091427 SM 716 NMC1091392 ACTIVE 
+
+NMC1091428 SM 717 NMC1091392 ACTIVE 
+
+NMC1091429 SM 718 NMC1091392 ACTIVE 
+
+NMC1091430 SM 719 NMC1091392 ACTIVE 
+
+NMC1091431 SM 720 NMC1091392 ACTIVE 
+
+
+
+Page 14 of 76 
+
+Serial No. 
+Claim 
+Name/Number 
+
+Mc Lead Case 
+Ser Nr 
+
+Lead 
+Serial 
+No. 
+
+NMC1091432 SM 721 NMC1091392 ACTIVE 
+
+NMC1091433 SM 722 NMC1091392 ACTIVE 
+
+NMC1091434 SM 723 NMC1091392 ACTIVE 
+
+NMC1091435 SM 724 NMC1091392 ACTIVE 
+
+NMC1091436 SM 725 NMC1091392 ACTIVE 
+
+NMC1091437 SM 726 NMC1091392 ACTIVE 
+
+NMC1091438 SM 727 NMC1091392 ACTIVE 
+
+NMC1091439 SM 728 NMC1091392 ACTIVE 
+
+NMC1091440 SM 729 NMC1091392 ACTIVE 
+
+NMC1091441 SM 730 NMC1091392 ACTIVE 
+
+NMC1091442 SM 731 NMC1091392 ACTIVE 
+
+NMC1091443 SM 732 NMC1091392 ACTIVE 
+
+NMC1091444 SM 733 NMC1091392 ACTIVE 
+
+NMC1091445 SM 734 NMC1091392 ACTIVE 
+
+NMC1091446 SM 735 NMC1091392 ACTIVE 
+
+NMC1091447 SM 736 NMC1091392 ACTIVE 
+
+NMC1091448 SM 737 NMC1091392 ACTIVE 
+
+NMC1091449 SM 738 NMC1091392 ACTIVE 
+
+NMC1091450 SM 739 NMC1091392 ACTIVE 
+
+NMC1091451 SM 740 NMC1091392 ACTIVE 
+
+NMC1091452 SM 741 NMC1091392 ACTIVE 
+
+NMC1091453 SM 742 NMC1091392 ACTIVE 
+
+NMC1091454 SM 743 NMC1091392 ACTIVE 
+
+NMC1091455 SM 744 NMC1091392 ACTIVE 
+
+NMC1091456 SM 745 NMC1091392 ACTIVE 
+
+NMC1091457 SM 746 NMC1091392 ACTIVE 
+
+NMC1091458 SM 747 NMC1091392 ACTIVE 
+
+NMC1091459 SM 748 NMC1091392 ACTIVE 
+
+NMC1091460 SM 749 NMC1091392 ACTIVE 
+
+NMC1091461 SM 750 NMC1091392 ACTIVE 
+
+NMC1091462 SM 751 NMC1091392 ACTIVE 
+
+NMC1091463 SM 752 NMC1091392 ACTIVE 
+
+NMC1091464 SM 753 NMC1091392 ACTIVE 
+
+NMC1091465 SM 754 NMC1091392 ACTIVE 
+
+NMC1091466 SM 755 NMC1091392 ACTIVE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Page 15 of 76 
+
+ 
+
+ 
+
+Figure 1: Location Map 
+
+
+
+Page 16 of 76 
+
+ 
+
+
+
+Figure 2: Claim Map with Ground Geophysical Survey Lines 2014 
+
+ 
+
+
+
+Page 18 of 76 
+
+Figure 3: Metron property claim map 
+
+ 
+
+ 
+
+
+
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, 
+INFRASTRUCTURE, AND PHYSIOGRAPHY 
+
+ 
+
+5.1 Access  
+ 
+The Property has good year-round road access from Tonopah Station through highway 
+6/95 (Figure 2). Tonopah Station is a local commercial town located half way between 
+Las Vegas and Reno on US Route 95 which is a major highway traversing north-south the 
+State of Nevada. Highway 265 to Silver Peak branches off from 6/95 and crosses the 
+southwestern part of the Property. Tonopah is connected with Las Vegas through 198-
+mile-long railroad which is a part of the Union Pacific Railroad and serves as their 
+mainline between Los Angeles and Salt Lake City. 
+ 
+From highways 6/95 and 265, numerous gravel roads traverse through different areas of 
+the Property providing access to various claim blocks.  
+ 
+
+5.2 Climate 
+ 
+The climate of the Big Smokey Valley, like Nevada's in general, is characterized by bright 
+sunshine, clean and clear air, low, annual rainfall in the valleys and deserts, and variable 
+heavy snow in the higher mountains. Annual average precipitation in the state as a 
+whole is close to 9 inches, about one-half of which falls between December and March. 
+January is the wettest month; August, the driest. Over a 24-year period, precipitation 
+records during the first half of the twentieth century for Millett, a former stage station 
+and town site at the north end of Smokey Valley, show an average of 6 inches per year, 
+ranging from 2.45 to 8.67 inches (McCracken 1997). Maximum summer temperatures 
+can reach over 90°F (32.2 C°) during the months of July and August, whereas the winter 
+temperature can drop below 10°F (-12.2 C°) in December and January. Exploration work 
+can be carried out around the year. Some frozen surface water was observed in parts of 
+the valley during the current field visit in December. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+Page 20 of 76 
+
+Figure 4: Tonopah Climate Graph 
+
+ 
+Source: http://www.usclimatedata.com/climate/tonopah/nevada/united-states/usnv0091 
+
+ 
+
+5.3 Physiography 
+ 
+The Property is part of the South Big Smokey Valley which is located within the Basin 
+and Range physiographic province of Nevada, an arid region throughout, characterized 
+by numerous disconnected mountain ranges, low foothills, and broad alluvial fans. The 
+ranges are primarily the result of faulting and uplifting of large blocks of the earth's 
+crust.  
+ 
+The South Big Smokey Valley is bordered on the east by the San Antonio Mountains, an 
+irregular mountain mass about 30 miles (48km) long beginning just south of the 
+Toquima; the highest point is 8500 feet (2591 m). The southern terminus of the valley is 
+formed by Lone Mountain, a conspicuous solitary peak with a precipitous slope that 
+rises to 9114 feet (2778 m). The Silver Peak Range, the border on the southwest, is wide 
+and rather high, separating Smokey Valley from Fish Lake Valley to the south; its highest 
+point is Piper Peak, at 9447 feet (2879 m). The Monte Cristo Range, which creates the 
+western border of the 'lower valley', reaches 7997 feet (2437); with little timber or 
+
+
+
+Page 21 of 76 
+
+vegetation, it appears desiccated. Lone Valley, lying west of the southern end of Smokey 
+Valley, has a drainage basin of about 500 square miles (1295 square km) that drains into 
+the South Big Smokey Valley (McCracken 1997). 
+  
+Streams formed by snowmelt and occasional heavy rains have carved canyons of various 
+sizes in the mountain walls enclosing the Big Smokey Valley, and at the mouth of each 
+canyon that discharges water, a large alluvial fan has formed. Small gravelly fans that 
+end abruptly and have little or no arable land are found at the mouths of the small dry 
+canyons, and expanded, gently sloping fans are found at the mouths of the large 
+canyons.  
+
+Figure 5: Physiographic Map of the Area 
+
+ 
+ 
+ 
+
+
+
+Page 22 of 76 
+
+ 
+Photo 1 - Looking northeast: General physiography of the South Big Smokey valley 
+ 
+
+5.4 Local Resources and Infrastructure 
+ 
+The Property is located approximately 40 kilometers from the town of Tonopah which is 
+also County Seat of Nye County. Tonopah is a historic mining town which experienced a 
+silver rush at the turn of Twentieth Century and was named "Queen of the Silver 
+Camps".  According to 2010 census data, the town had a population of 2,476. There are 
+a few hotels, restaurants, grocery stores, and other businesses to support the needs of 
+an exploration program. The small town of Silver Peak is located approximately 25 
+kilometers from the Property. Silver Peak lies near Clayton Valley which is currently the 
+only operating source of lithium in the United States.    
+ 
+Mining personnel are available locally, whereas, the other specialized services like 
+ground and airborne geophysical survey and drilling companies normally send their own 
+crews. Groundwater is a potential source of water for any mining operations on the 
+Property. Historical water wells located on adjacent grounds indicate water is available 
+from depths of 14 to over 100 feet.  Several powerlines are located on the property and 
+on adjacent areas.  
+ 
+  
+
+
+
+Page 23 of 76 
+
+6.0 HISTORY  
+ 
+
+6.1 General History 
+ 
+In 1980, the United States Geological Survey carried out an investigation for potential 
+lithium bearing brines in and around the Clayton Valley as part of regional study related 
+to lithium supply sources. The Big Smokey Valley was also part of this study due to the 
+fact that it is one of the largest intermontane valleys in Nevada and was occupied by 
+two large lakes during the Pleistocene. The southern lake was 22 miles (35 km) long by 
+5.5 miles (9 km) wide and covered an area estimated to be 85 square miles (211 km
+
+2
+) to 
+
+a maximum depth of approximately 70 feet (21 m). A series of gravelly beach ridges 
+encircled the southwestern part of the ancient lake, enclosing a playa characterized by 
+soft, puffy, unconsolidated, silty and clayey lake sediments.  
+ 
+Two reverse circulatory drill holes (BS 13 and BS 14) were drilled in the Big Smokey 
+Valley. Both holes were located outside the Property, where BS 13 was located on a 
+power line right-of-way road, and BS 14 was located on a beach ridge on the 
+southwestern edge of the playa. BS 13 was completed to a depth of 675 feet (206 m), of 
+which 655 feet (199 m) was in alluvial valley fill and the last 20 feet (7 m) was in the 
+consolidated sedimentary rocks of the Esmeralda Formation of Miocene age. This 
+complete penetration of the valley fill was helpful in the interpretation of the results of 
+water analyses. A maximum value of 1.7 ppm Li was found in a water sample with a Li-Cl 
+ratio of 0.0027 at a depth of 395 feet (120 m). BS 14 was abandoned after drilling 215 
+feet (66 m) into unconsolidated sand and gravel. A maximum of 1.3 ppm Li was found in 
+a water sample with a Li-Cl ratio of 0.0031 at a depth of 135 feet (41 m)(Vine 1980). 
+
+Table 3: Historical Drill Holes 
+
+Hole 
+ID 
+
+Location Surface 
+Elevation 
+
+Depth 
+Drilled  
+
+Max Lithium 
+Content (ppm) 
+
+ 
+
+Latitude Longitude ft m ft m water sediment  
+
+BS 13 38° 02'N 117° 37' W 4735 1443.2 675 205.7 1.7 364  
+
+BS 14 37° 57'N 117° 42' W 4760 1450.8 215 65.5 1.3 287  
+
+ 
+ 
+
+6.2 Work by Ultra Lithium Inc. 
+ 
+Ultra Lithium Inc. ("ULI") carried out a ground geophysical survey in 2014, soil and water 
+sampling program in 2015, and a diamond drilling program in 2016. The following 
+sections provide a summary of each work on the Property.  
+
+6.2.1 Ground Geophysics 
+
+In 2014, ULI contracted Zonge International to complete a CSAMT (Controlled Source 
+Audio-Frequency Magneto-telluric) ground geophysical survey program on the Property. 
+
+
+
+Page 24 of 76 
+
+This geophysical survey is a non-intrusive, low-impact method which is considered 
+suitable for mineral and groundwater exploration purposes.   
+ 
+This survey consisted of eight CSAMT survey lines (named Lines A through H) covering 
+53.8 kilometers of data. A station spacing and electric-field dipole size of 100 meters 
+was used on all lines except Line E, for which a station spacing and e-field dipole size of 
+200 m was used. The location of the lines and stations are shown on Figure 2. 
+ 
+CSAMT is a surface-based electromagnetic method that provides subsurface electrical 
+resistivity information, which can often be related to changes in pore space and pore 
+fluids. Bedrock is often high resistivity relative to overlying material, and fractured, 
+saturated bedrock is often lower resistivity than un-fractured bedrock. Areas of high TDS 
+in the groundwater appear more conductive than equivalent areas of low TDS. 
+Variations in depth to bedrock, faulting, and other structural changes are often also 
+evident as changes in resistivity. In nearby Clayton Valley, lithium-bearing brines are 
+known to be very low resistivity. The goal of the CSAMT survey was to delineate the 
+extent and depth of very low resistivities, and to map, if possible, faults that may 
+influence brine accumulation. 
+ 
+
+ 
+
+Figure 6: Ground geophysical survey (CSAMT) lines 
+
+Geophysical Survey Results 
+
+The survey results are included as cross sections of 2D inversion model results (Figures 7 
+to 10), with station numbers (in meters) across the top and elevation (in meters) down 
+
+
+
+Page 25 of 76 
+
+the side. Pertinent culture and reference points are shown along the line topography. 
+Resistivity values are shown in ohm-meters, contoured logarithmically, with low 
+resistivities shaded toward the red end of the spectrum and high resistivities shaded 
+toward the blue. All resistivity cross sections are shaded using the same scale for 
+comparison. Transparent black dashed lines indicate possible faults evident in the data.  
+ 
+
+In general, resistivity values are realistic and consistent with data acquired over other 
+playas in Nevada, ranging from hundreds of ohm-meters to less than one ohm-meter. 
+Moderate and high resistivities are seen in the near surface and toward the edges of the 
+playa, and very low resistivities are seen in some areas, usually as layers rather than as 
+small, localized features. For discussion purposes, the 1.0 ohm-meter contour line is 
+thicker and bold on these cross sections to highlight the areas of lowest resistivities, but 
+this is not intended to necessarily indicate an outline of lithium-bearing brine. 
+ 
+Interpretation of Lines C, D, E, and F: 
+The area of geophysical survey lines C, D, E, and F is topographically lower and is visually 
+different at the surface with lighter, fine grained materials as well as sand dunes. Line E 
+runs perpendicular to Line F, moving from darker surface material north of the playa, 
+crossing the very light playa material, and back to darker surface material on the 
+southeast, providing a good cross section of the feature. Line C started at a small 
+outcrop of volcanic material on the west, which ran east-southeast to Line E; following a 
+bend in the line at Line E, the line continues as Line D to the southeast.  
+ 
+The resistivity modeling results for Lines C and D are shown on Figure 7. Roads were 
+crossed on Line C at stations 1750 and 3000, but otherwise no other cultural features 
+were noted by the field crews. Note that due to the overall lower resistivities, bedrock is 
+not evident except on the northwestern end of Line C. Resistivities generally decrease 
+from the northwestern end of the line to the southeast. Surface resistivity are lowest on 
+Line C from station 8600 to station 1300 Line D, but the lowest resistivities at depth are 
+offset further southeast, from station 9400 of Line C to 2800 on Line D. This is consistent 
+with the data from Line F, which also shows the deep lowest resistivities to be south of 
+Line E. It is possible that the zone of lowest resistivities from station 9400 on Line C to 
+station 2800 on Line D is bounded by faults in the vicinity of station 9400 and 2900, but 
+this is difficult to interpret in the absence of any data extending into bedrock.  
+ 
+For Line E, station spacing was 200 meters due to budget constraints. In the presence of 
+low resistivities along most of the line, the depth of investigation is limited to only 600 
+meters on the southern segment, and approximately 800 meters on the northern 
+segment. From the southwestern end of the line to approximately station 14500 surface 
+resistivities are very low, as would be expected from the playa material. Along this 
+segment of the line, low resistivities extend to the depth of the survey, though a thin 
+moderately resistive layer is evident in the upper 150 m along the line, suggesting a 
+layer of more competent, perhaps dryer material. The data on this line is in good 
+agreement with the data at the intersections with the other lines, although the thin 
+resistive layer is less evident on Line C-D than it is on Line E. Northeast of station 14500, 
+
+
+
+Page 26 of 76 
+
+near-surface resistivities are more moderate, the deep low resistivities weaken and 
+become gradually shallower, underlain by moderately high resistivities, interpreted as 
+bedrock. At the north end of the line a low resistivity layer is of a narrow width, located 
+approximately 300 m deep. In the absence of deeper bedrock information along this 
+line, faults are difficult to interpret, though faults in the vicinity of station 5800, 8500, 
+12100, and 13300 may be interpreted based on subtle changes seen in the resistivity 
+values collected. 
+ 
+
+ 
+
+Figure 7: Geophysical lines C and D 
+
+ 
+
+  
+
+Figure 8: Geophysical line E 
+
+ 
+
+
+
+Page 27 of 76 
+
+ 
+
+Figure 9: Geophysical line E (Extension) 
+
+ 
+
+Figure 10: Geophysical line F 
+
+Line F ran from northwest to southeast, intersecting Line E at station 10000 (Figure 6). 
+This line crossed a powerline on the northwest end of the line near Highway 6/95, but 
+only minor effects are seen in the data. Low resistivities are seen at the surface as the 
+line crosses the playa from about station 4900 to 7500, and moderate surface 
+resistivities are evident north and south of the playa. Similar to some of the other lines, 
+thin alternating layers of high and low resistivities are seen in the upper 200 meters. A 
+fault is mapped at station 3600, and a second nearby fault would intersect the line at 
+station 4100 if it were extended through interpretation. A very low resistivity zone (< 1 
+ohm-meter) in the deeper data is bounded by these two mapped faults, however the 
+change in the data is relatively subtle, and the correlation is considered tentative. 
+Additional low, deep resistivities are evident just southwest of the intersection with Line 
+E, from station 5900 to 6600. This zone is consistent with the data seen on Lines C-D, in 
+which low, deep resistivities are seen south of Line E.  
+
+
+
+Page 28 of 76 
+
+6.2.2 2015 Soil and Water Sampling 
+
+In December 2015, Afzaal Pirzada, P.Geo. (currently VP Exploration of Ultra Lithium) was 
+contracted by Ultra Lithium to conduct exploration work on the Property which included 
+collecting surface soil samples along 2014 CSAMT geophysical survey lines. The sampling 
+program was aimed at following up on the results of the CSAMT ground geophysical 
+survey, and its purpose was to investigate the presence of lithium in shallow soil, and 
+within its groundwater system. A total of 48 soil / sediment samples were collected to 
+cover survey lines A to H. Additionally, five water samples were collected from different 
+areas, out of which four were from surface water / ice and one from a water well, 
+located on adjacent ground to the Property. The soil samples were collected using hand 
+shovel or a mechanical auger which was able to penetrate 1 to 5 feet below ground 
+surface. The sampling work commenced from December 11-18, 2015. All the samples 
+were shipped to Western Environmental Testing Laboratory (WETLABS) in Sparks, 
+Nevada. Below are the highlights of geological work and field sampling program. 
+
+ Conducted traverses around the property and the surrounding areas to get 
+familiar with the overall geological setting of the Big Smokey Valley (BSV), Silver 
+Peak operational area of Rockwood Holdings, and Clayton Valley. 
+
+ Carried out detailed traverses along the ground geophysical survey (CSAMT) lines 
+conducted by Zonge International noting general soil, hydrogeology and 
+geotechnical conditions.   
+
+ Hydrogeological observations confirming the Property is within an area of the Big 
+Smokey Valley (BSV) which is an enclosed basin which receives its water 
+recharge from the surrounding ranges. The rocks on the southeastern part of 
+BSV were observed to be dipping inwards towards the basin. Overall slope of the 
+basin is to the southwest.  
+
+ Traverses along the geophysical survey lines indicated subsurface sediments 
+generally composed of silty clay, silty sand and gravel. The amount of 
+volocanogenic material and salt varies from place to place but overall it was 
+observed in a majority of the claims held by Ultra Lithium. At several locations, 
+the top sections of sediments are covered by pebbles of broken rocks derived of 
+surrounding outcrops.   
+
+ During a brief visit to the Clayton Valley and Silver Peak brine lithium mine it was 
+observed that distinct layers of white to light grey colour volcanic ash beds 
+surround the Clayton Valley. These ash beds continued to the north, towards the 
+South Big Smokey Valley (BSV). Volcanic ash material observed in both valleys 
+appeared very similar. Outcrops of rhyolite which were observed in the Clayton 
+Valley were not very prominent in BSV.   
+
+ 
+
+Geophysical Line A (Not on the Property) 
+
+ A total of nine stations (A 2000, A 2500, A 3000, A 3500, A 4000, A 4500, A 5000, 
+A 5500, and A 6000) were sampled along this line at 500 m spacing. A brown clay 
+
+
+
+Page 29 of 76 
+
+horizon with a mixture of volcanic ash material, considered prospective for 
+lithium was intercepted at station A 2000, A 3500, A 4000, A 5500, and A 6000.  
+
+ 
+
+Geophysical Line F (Partly on the Property) 
+
+ Seven stations (F 4000, F 4500, F 5000, F 5500, F 6000, F6500, and F7000) were 
+sampled along these lines at 500 m interval. A light grey clay unit mixed with 
+volcanic ash material, considered an ideal geological marker for lithium 
+exploration was intercepted in all stations except for F 6500 and F7000, located 
+on the east margin of BSV. The clay unit is exposed on surface in the middle of 
+the valley on stations F 4500, F5500, and F 6000. All thin water layers in the 
+central portion of BSV are frozen due to severe winter weather conditions. One 
+ice sample was broken at station F6000 and collected as a water sample. 
+
+ 
+
+Geophysical Line E (Partly on the Property) 
+
+ Three stations along this line were sampled (E 7800, E 8400, and E 9000). A grey 
+clay layer with volcanic as material was intercepted at each of the three stations 
+at depths ranging from 0.5 to 2.5 feet, and the top was found to be covered with 
+brown silty sand with some gravel. This clay layer is very sticky and plastic where 
+damp or moist.  
+
+Geophysical Line B (Not on the Property) 
+
+ A total of eight stations (B 2500, B 3000, B 3500, B 4000, B 4500, B 5000, B 6000, 
+and B 6500) were sampled along this line at 500 m spacing, except for station B 
+5500 which was not sampled due to duplication as it was located at intersection 
+with Line A. This line is marked by brown silty sand and gravel from surface to 
+four feet in depth. It does not present a favorable surface horizon in terms of 
+lithium accumulation as very little silt, clay or volcanic ash material was 
+encountered during investigations.  
+
+Geophysical Line C (Partly on the Property) 
+
+ Eight stations (C 5000, C 5500, C 6000, C 6500, C 7000, C 7500, C 8000, and C 
+9600) were sampled along this line at approximately 500 m intervals. The area 
+between station C 8000 and C 9600 was not sampled due to intervening staked 
+claims by a third party. A light grey clay unit mixed with volcanic ash material, 
+considered interesting for lithium exploration was intercepted in all stations. At 
+stations C 5000 and C 9600, this unit was covered by a 1-3 feet layer of brown 
+silty sand and gravel.  This accumulation is a result of their locations being at the 
+margins of the central part of BSV.  This promising grey clay unit is exposed on 
+surface, within the middle of the valley, as well as, on all the stations except for 
+the two mentioned above.  
+
+Geophysical Line D (Partly on the Property) 
+
+
+
+Page 30 of 76 
+
+ This line is in the southern extension of geophysical line C and runs almost 
+parallel to line F. Five stations (D 1100, D 1500, D 2000, D 2500, and D 30000 
+were sampled along this line at 500 m or less intervals. A light grey clay unit 
+mixed with volcanic ash material, considered interesting for lithium exploration 
+was intercepted at stations D 1100 and D 1500, whereas the remaining stations 
+intersected brown and grey silty sand with some gravel due to their location on 
+the east margin of BSV. 
+
+Geophysical Line E (Partly on the Property) 
+
+ Six stations (E 4800, E 5400, E 5600, E 7800, E 8400, and E 9000) were sampled 
+along this line. A grey clay layer with volcanics was intercepted at two stations (E 
+5400 and E 4800) down to a depth of 3-5 feet. The surface was covered with 
+brown silty sand with minor gravel. The clay layer is very sticky and plastic where 
+damp or moist. This unit was not encountered at station E 5600 as the auger was 
+not able to penetrate below 3 feet at this location. 
+
+Water Sampling 
+
+Four of the five water samples collected represent surface water composition which is 
+essentially a perched water table most likely due to the presence of a grey volcanogenic 
+clay layer starting from surface or a few feet below surface. The water well which was 
+the fifth sample has water table at 14 feet below ground surface (17 feet at top of 
+casing) as measured on December 17, 2015.  As there is no lithological data for this well 
+it is not possible to comment on this water table as confined or unconfined.  
+ 
+
+In conclusion, the shallow surface observations in the immediate area of geophysical 
+lines C, D, E and F appear to be of sound prospect for additional lithium exploration. The 
+area of lines A, B, G and H represents sand and gravel at shallow subsurface at the 
+majority of the locations. A thin layer of volcanic clay was intercepted at few locations.  
+
+
+
+Page 31 of 76 
+
+  
+ Photo 2: Soil / sediment sampling 2015 
+ 
+Assay Results and Interpretation 
+
+The assay results confirmed the presence of lithium in the South Big Smokey 
+hydrogeological system. Of particular interest is the area of geophysical survey lines C, 
+D, E and F. Maximum values for lithium in sediments is 100 ppm, 480 ppm boron, and 
+7,600 ppm potassium. Generally, the lithium, boron and potassium values corresponds 
+well with each other, where the samples with higher lithium concentration have higher 
+values of other two elements. A distinct geological similarity with Clayton Valley is the 
+presence of volcanogenic clays in the South Big Smokey Valley. A brief summary of 
+results is provided in the following paragraphs.   
+ 
+The surface and shallow subsurface water samples show less than one mg/L value of 
+lithium and low values of other three elements tested. Average lithium concentration in 
+all soil / sediment samples is 47 mg/kg, boron 142 mg/kg, potassium 4,915 mg/kg, and 
+magnesium 6,685 mg/kg.  
+ 
+The area of lines A, B, G and H represents sand and gravel at shallow subsurface at 
+majority of the sampling locations and represent a low lithium value on surface. 
+Interpreted source of lithium is being contributed from the surrounding rocks as the 
+historical sampling from Esmeralda Formation is documented to contain up to 1,300 
+mg/kg Li with average 100 mg/kg Li (Munk and Chamberlain 2011).  
+ 
+
+
+
+Page 32 of 76 
+
+The present data, especially the water samples corresponds with similar investigations 
+carried out on Clayton Valley by US Geological Survey (Munk and Chamberlain 2011) 
+where the clay / sediment samples show average lithium concentration of 22 mg/kg, 
+snow and fresh water samples have lithium values of less than 1 mg/L (ppm), and one of 
+the brine aquifer (LAS Aquifer) 406.9 mg/L.  
+ 
+The sampling data and results are presented in table 4, concentration of lithium is 
+shown on Figure 11, boron on Figure 12, potassium on Figure 13, and magnesium on 
+Figure 14.   
+ 
+
+Geophysical Line A (Not on the Property) 
+
+ The results of nine samples show low lithium and boron in soil / sediment 
+samples, with a moderate concentration of potassium and magnesium. Lithium 
+values are in the range of 14 to 48 mg/kg, boron 11 to 37 mg/kg, potassium 
+3,700 to 7,600 mg/kg, and magnesium 3,300 to 7,900 mg/kg.   
+
+ 
+
+Geophysical Line B (Not on the Property) 
+
+ The results of eight samples show lithium in soil samples to be generally low, 
+ranges from 14 mg/kg (ppm) to 45 mg/kg, boron 8.2 mg/kg to 80 mg/kg, 
+potassium 1100 to 7600 mg/kg, and magnesium 2800 to 4400 mg/kg.  
+
+ 
+
+Geophysical Line C (Partly on the Property) 
+
+ The results of eight samples show that this line represents the best results for 
+lithium, boron, and potassium. Magnesium level is also higher in samples. The 
+assay results indicate lithium in the range of 50 to 100 mg/kg, boron 160 to 300 
+mg/kg, potassium 4,000 to 6,400 mg/kg, and magnesium 5,900 to 9,400 mg/kg.   
+
+ 
+Geophysical Line D (Partly on the Property) 
+
+ This line is in the southern extension of geophysical line and its results represent 
+low to moderate values of lithium, boron, and potassium potentially 
+corresponding with ash layers, whereas magnesium concentration is moderate 
+to higher. Concentration of lithium is in the range of 15 to 71 mg/kg, boron 82 to 
+330 mg/kg, potassium 2,300 to 6,500 mg/kg, and magnesium 3,000 to 9,700 
+mg/kg.   
+
+ 
+Geophysical Line E (Partly on the Property) 
+
+ The assay results yielded the most consistent values in soil / sediments along this 
+line with very little variation. Concentration of lithium is in the range of 65 to 92 
+mg/kg, boron 160 to 360 mg/kg, potassium 5,100 to 7,600 mg/kg, and 
+magnesium 8,900 to 11,000 mg/kg.  
+
+ 
+
+
+
+Page 33 of 76 
+
+ 
+
+Geophysical Line F (Partly on the Property) 
+
+ The soil / sediment samples from this line show a relatively wider range of 
+concentration in all four elements tested. Lithium values are in the range of 16 to 
+78 mg/kg, boron 34 to 480 mg/kg, potassium 2,400 to 6,300 mg/kg, and 
+magnesium 3,200 to 11,000 mg/kg. 
+
+ 
+
+Geophysical Line G (Not on the Property) 
+
+ The assay results yielded low values of lithium and boron in soil / sediments. 
+Concentration of lithium is in the range of 16 to 20 mg/kg, boron 16 to 20 mg/kg, 
+potassium 2,900 to 5,000 mg/kg, and magnesium 3,900 to 8,400 mg/kg.  
+
+ 
+
+Water Sampling (Not on the Property) 
+
+Concentrations of all four elements tested in water samples was generally low 
+representing freshwater conditions on the surface and shallow ground water. Lithium 
+concentration in four surface water / ice samples was less than one mg/L (ppm) and in 
+the water well sample the lithium value was below detection limit, boron 0.51 to 4 
+mg/L, potassium 27 to 58 mg/L and magnesium reporting 4 to 92 mg/L.  
+
+
+
+ 
+
+Figure 11. Lithium in soil / sediment samples along CSAMT Survey lines  
+
+
+
+Page 35 of 76 
+
+ 
+
+Figure 12: Boron in soil / sediment samples along CSAMT Survey lines  
+
+
+
+Page 36 of 76 
+
+ 
+
+Figure 13: Potassium in soil / sediment samples along CSAMT Survey lines  
+
+
+
+Page 37 of 76 
+
+ 
+
+Figure 14: Magnesium in soil / sediment samples along CSAMT Survey lines  
+
+
+
+Page 38 of 76 
+
+Table 4: Soil / sediment and water samples 2015 
+
+Sample ID 
+Station 
+ID Depth 
+
+Coordinates NAD 
+1983 Elevation Description Assays Date 
+
+    CM Easting Northing m   Li K Mg B   
+
+ NP 
+
+A6000 
+
+0-10 435098 4197591 1484 
+Brownish grey SILTY SAND AND GRAVEL, 
+damp         14-Dec-15 
+
+BSV 15-01 10-20       
+Brown clay with volcanic material, dry 
+(Sample) 48 5200 7900 37   
+
+ NP 
+
+A5500 
+
+0-15 434684 4197871 1480 
+Light brown to earthy colour SILTY SAND AND 
+GRAVEL, dry         14-Dec-15 
+
+BSV 15-02 15-35       
+Brown SILTY CLAY, with volcanic material, dry 
+(Sample) 36 5600 7700 28   
+
+ NP 
+
+A5000 
+
+0-15 434264 4198188 1477 Brown GRAVEL, some sand, dry         14-Dec-15 
+
+BSV 15-03 15-30       
+Brown SILTY SAND, some gravel and volcanic 
+material, dry (Sample) 18 3700 3800 15   
+
+ NP 
+
+A4500 
+
+0-10 433855 4198430 1475 Light grey to brown SAND AND GRAVEL, dry         14-Dec-15 
+
+BSV 15-04 10-25       
+Brown SILTY SAND, some clay and gravel, plus 
+volcanic ash material (Sample) 26 6100 4800 11   
+
+ NP 
+
+A4000 
+
+0-10 433440 4198710 1473 
+Light grey to brownish SAND AND GRAVEL, 
+dry         14-Dec-15 
+
+BSV 15-05 10-20       
+
+Brown CLAY AND GRAVEL, some sand and 
+volcanic ash / bentonite material, damp 
+(Sample) 24 3500 4300 15   
+
+  A3500 0-10 433026 4195990 1469 Light grey SAND AND GRAVEL, dry         14-Dec-15 
+
+
+
+Page 39 of 76 
+
+Sample ID 
+Station 
+ID Depth 
+
+Coordinates NAD 
+1983 Elevation Description Assays Date 
+
+BSV 15-06 10-30       
+
+Brown CLAY, mixed with volcanic ash / 
+bentonite material and gravel, some silt, 
+damp (Sample) 18 6200 3300 14   
+
+ NP 
+
+A3000 
+
+0-10 432612 4199270 1473 Brown SAND AND GRAVEL, dry         14-Dec-15 
+
+BSV 15-07 10-30       
+Brown SAND AND GRAVEL, damp, active 
+channel material (Sample) 14 7600 3700 12   
+
+ NP 
+
+A2500 
+
+0-10 432196 4199549 1476 Grey to brown SAND AND GRAVEL, dry         14-Dec-15 
+
+BSV 15-08 10-30       
+Light brown SAND, some gravel and volcanic 
+material, damp (Sample) 17 5200 3900 12   
+
+ NP 
+
+A2000 
+
+0-10 431782 4199829 1483 Light brown SAND AND GRAVEL, dry         14-Dec-15 
+
+BSV 15-09 10-20       
+Brown SILTY SAND AND CLAY, mixed with 
+volcanic ash material, damp (Sample) 18 4700 3800 14   
+
+  
+
+F4000 
+
+0-60 439793 4207452 1450 Light brown SILTY SAND AND GRAVEL, dry         15-Dec-15 
+
+ NP 60-120       Brown SILTY SAND, some gravel, dry           
+
+BSV 15-10 120-180       
+
+Light brown SILTY CLAY, mixed with volcanic 
+ash (bentonite plus hectorite?) material, dry 
+(Sample) 52 5500 8900 100   
+
+NP          
+BSV 15-11 F4500 0-90 440155 4207107 1442 
+
+Light brown SILTY CLAY, mixed with volcanic 
+ash (bentonite plus hectorite), trace gravel, 
+dry (Sample) 77 6400 11000 110 15-Dec-15 
+
+  F5000 0-90 440516 4206763 1444 Light brown SILTY SAND, trace gravel, dry         15-Dec-15 
+
+
+
+Page 40 of 76 
+
+Sample ID 
+Station 
+ID Depth 
+
+Coordinates NAD 
+1983 Elevation Description Assays Date 
+
+BSV 15-12 90-120       
+
+Light brown SILTY CLAY, mixed with volcanic 
+ash, hard pan refusal at 3 locations to 
+penetrate, success at fourth location, dry 
+(Sample) 34 4000 6000 200   
+
+BSV 15-13 120-150       
+Light brown SILTY SAND, some silt, trace 
+gravel, damp (Sample) 50 5000 7600 220   
+
+OP          
+BSV 15-14 F5500 0-90 440878 4206418 1440 
+
+Light grey to brownish SILTY CLAY, sticky, 
+damp (Sample) 78 6300 10000 480 15-Dec-15 
+
+OP          
+BSV 15-15 F6000 0-90 441240 4206073 1440 
+
+Light grey SILTY CLAY, mixed with volcanic 
+(B&H) material, damp (Sample plus Ice 
+sample for water BSV 15-01W) 68 6000 9600 420 15-Dec-15 
+
+ OP 
+
+F6500 
+
+0-90 441604 4205729 1446 Brown SILTY SAND, coarse grained, damp         15-Dec-15 
+
+BSV 15-16 90-150       Same as above but more silty, damp (Sample) 26 3100 4400 130   
+
+  
+
+F7000 
+
+0-15 441965 4205384 1448 Brown SAND AND GRAVEL, dry         15-Dec-15 
+
+ NP 15-90       Brown SILTY SAND, trace gravel, damp           
+
+BSV 15-17 90-180       
+Brown SILTY SAND, becomes clayey and sticky 
+at 150 cm, damp (Sample) 16 2400 3200 34   
+
+  
+
+E9000 
+
+0-45 440261 4205625 1439 Brown SILTY SAND, fine, damp         15-Dec-15 
+
+OP          
+BSV 15-18 45-90       
+
+Grey SILTY CLAY, mixed with volcanic ash 
+(bentonite plus hectorite) material, sticky, 
+plastic, damp (Sample) 76 5800 10000 360   
+
+ OP 
+
+E8400 
+
+0-60 439799 4205240 1442 
+Brown SILTY SAND, fine grained mixed with 
+brown clay, damp         15-Dec-15 
+
+BSV 15-19 60-90       
+Grey to brown CLAY AND SILT, plastic, damp 
+(Sample) 72 5800 8900 330   
+
+
+
+Page 41 of 76 
+
+Sample ID 
+Station 
+ID Depth 
+
+Coordinates NAD 
+1983 Elevation Description Assays Date 
+
+ OP 
+
+E7800 
+
+0-75 439339 4204857 1443 
+Dark brown SANDY SILT, mixed with brown 
+clay, dry         15-Dec-15 
+
+BSV 15-20 75-90       Grey SILTY CLAY, plastic, damp (Sample) 67 6400 9400 340   
+
+ NP 
+
+C5000 
+
+0-10 434316 4205334 1452 Brown SILTY SAND AND GRAVEL, dry         16-Dec-15 
+
+BSV 15-21 10-90       
+Light brown to light grey SILT AND CLAY, 
+plastic, damp (Sample) 67 4800 7300 160   
+
+BSV 15-22 90-150       
+Light grey SILTY CLAY, mixed with volcanic ash 
+material, plastic, damp (Sample) 100 6200 9300 190   
+
+ NP 
+
+C5500 
+
+0-90 434811 4205264 1450 Light brown SILT, some sand, damp         16-Dec-15 
+
+BSV 15-23 90-100       
+Grey SILTY CLAY, hard to drill, bentonitic, dry 
+(Sample) 75 4800 7700 200   
+
+  
+
+C6000 
+
+0-10 435306 4205194 1448 Light brown SILT AND GRAVEL, dry         16-Dec-15 
+
+ NP 10-100       
+Light grey SILT AND CLAY, mixed with volcanic 
+ash material, plastic, damp            
+
+BSV 15-24 100-120       Same as above (Sample) 50 4000 5900 160   
+
+NP           
+BSV 15-25 C6500 0-90 435802 4205124 1447 
+
+Light grey SILTY CLAY, mixed with volcanic ash 
+material, dry on top 10 cm, damp (Sample) 88 6000 9600 260 16-Dec-15 
+
+NP          
+BSV 15-26 C7000 0-90 436297 4205054 1448 
+
+Light grey SILTY CLAY, mixed with volcanic ash 
+and salt, plastic, damp, dry on top 15cm 
+(Sample) 68 6400 9500 220 16-Dec-15 
+
+ NP 
+
+C7500 
+
+0-90 436792 4204984 1449 
+Light grey SILTY CLAY, mixed with volcanic ash 
+and salt, plastic, damp          16-Dec-15 
+
+BSV 15-27 90-105       Same as above (Sample) 70 6000 9600 300   
+
+ NP C8000 0-30 437286 4204914 1449 Light brown SILT AND CLAY, dry         16-Dec-15 
+
+
+
+Page 42 of 76 
+
+Sample ID 
+Station 
+ID Depth 
+
+Coordinates NAD 
+1983 Elevation Description Assays Date 
+
+  30-90       
+Light grey SILTY CLAY, mixed with volcanic ash 
+and salt, plastic, damp            
+
+BSV 15-28 90-120       Same as above (Sample) 70 5900 9400 250   
+
+  
+
+C9600 
+
+0-30 438870 4204690 1447 Brown SANDY SILT, mixed with clay, damp         16-Dec-15 
+
+ OP 30-90       
+Light grey SILTY CLAY, mixed with volcanic ash 
+and salt, plastic, damp, hard to drill, sticky            
+
+BSV 15-29 90-135       Same as above (Sample) 65 5100 8400 220   
+
+  
+
+D1100 
+
+0-30 439138 4204590 1442 Brown SILT, some sand and clay, damp         16-Dec-15 
+
+ OP 30-90       
+Light grey SILTY CLAY, mixed with volcanic ash 
+and salt, plastic, damp            
+
+BSV 15-30 90-120       Same as above (Sample) 71 6500 9700 330   
+
+ OP 
+
+D1500 
+
+0-30 439411 4204299 1439 Brown SILTY CLAY, plastic, damp         16-Dec-15 
+
+BSV 15-31 30-90       
+
+Light grey SILTY CLAY, mixed with volcanic ash 
+(bentonite and hectorite) and salt, plastic, 
+damp, sticky (Sample)  64 6500 9800 230   
+
+  
+
+D2000 
+
+0-90 439756 4203935 1444 
+Brown SILTY SAND, fine to medium grained, 
+trace gravel, dry         16-Dec-15 
+
+ OP 90-120       
+Light brown to grey SILTY SAND, fine to 
+medium grained, dry           
+
+BSV 15-32 120-150        Same as above (Sample) 15 2300 3000 69   
+
+ OP 
+
+D2500 
+
+0-90 440098 4203571 1449 
+Brown SILTY SAND, some gravel and clay, 
+damp, dry on top 30cm         16-Dec-15 
+
+BSV 15-33 90-120       Same as above (Sample) 61 5400 8700 190   
+
+
+
+Page 43 of 76 
+
+Sample ID 
+Station 
+ID Depth 
+
+Coordinates NAD 
+1983 Elevation Description Assays Date 
+
+OP          
+BSV 15-34 D3000 0-90 440441 4203208 1452 
+
+Brown SILTY SAND, fine to medium grained, 
+some gravel and clay, damp (Sample) 26 2900 5300 82 16-Dec-15 
+
+NP          
+BSV 15-35 E5600 0-90 437649 4203447 1443 
+
+Brown SILTY SAND, some clay, trace gravel, 
+damp (Sample) 92 7600 11000 350 16-Dec-15 
+
+ NP 
+
+E5400 
+
+0-90 437496 4203319 1443 
+Light brown to light grey SILT, some sand, clay 
+and gravel, damp         16-Dec-15 
+
+NP          
+BSV 15-36 90-150       
+
+Light grey SILTY CLAY, mixed with volcanic ash 
+(B&H) and salt, plastic, damp, sticky (Sample)  79 6700 9700 230   
+
+NP          
+BSV 15-37 E4800 0-90 437035 4202934 1443 
+
+Light brown to light grey SILT, some sand, clay 
+and gravel, damp (Sample) 83 6700 9700 160 16-Dec-15 
+
+NP          
+BSV 15-38 B6500 0-90 433007 4199981 1467 
+
+Brown SAND AND GRAVEL, coarse, dry 
+(Sample) 45 5900 3800 80 16-Dec-15 
+
+ NP 
+
+B6000 
+
+0-90 432951 4199483 1471 Brown SILTY SAND AND GRAVEL, dry         16-Dec-15 
+
+BSV 15-39 90-120       
+Light brown SILTY SAND, some gravel and 
+clay, damp (Sample) 31 6100 3800 51   
+
+NP          
+BSV 15-40 B5000 0-90 432842 4198490 1483 
+
+Brown, SAND AND GRAVEL, coarse grained, 
+loose, dry (Sample) 28 2600 4400 35 16-Dec-15 
+
+NP          
+BSV 15-41 B4500 0-90 432787 4197993 1492 
+
+Brown SILTY SAND AND GRAVEL, dry, loose 
+(Sample) 38 3000 5400 35 16-Dec-15 
+
+ NP 
+
+B4000 
+
+0-90 432732 4197497 1499 Brown SILTY SAND AND GRAVEL, dry, loose          16-Dec-15 
+
+BSV 15-42 90-120       Same as above (Sample) 33 2000 4800 24   
+
+BSV 15-43 B3500 0-90 432676 4196999 1503 
+Light brown SILTY SAND AND GRAVEL, dry, 
+loose (Sample) 15 3600 3100 9.9 16-Dec-15 
+
+
+
+Page 44 of 76 
+
+Sample ID 
+Station 
+ID Depth 
+
+Coordinates NAD 
+1983 Elevation Description Assays Date 
+
+NP          
+BSV 15-44 B3000 0-90 432622 4196503 1513 
+
+Light brown SILTY SAND AND GRAVEL, dry, 
+loose (Sample) 14 1600 2800 9.9 16-Dec-15 
+
+NP          
+BSV 15-45 B2500 0-90 432568 4196005 1528 
+
+Light brown SILTY SAND AND GRAVEL, dry, 
+loose (Sample) 15 1100 2800 8.2 16-Dec-15 
+
+NP  
+
+G6500 
+
+0-90 434730 4196151 1516 
+Light brown SILTY SAND AND GRAVEL, 
+medium to coarse grained, dry, loose          17-Dec-15 
+
+BSV 15-46 90-120       Same as above (Sample) 16 2900 4400 16   
+
+ NP 
+
+G6000 
+
+0-15 434315 4196431 1513 
+Light brown SILTY SAND AND GRAVEL, dry, 
+loose          17-Dec-15 
+
+BSV 15-47 15-30       
+Grey CLAY, hard, dry, volcanic ash material 
+(Sample) 20 5000 5900 21   
+
+  30-90       
+Light grey to brown SILT, some sand and 
+gravel, dry           
+
+ NP 
+
+G5500 
+
+0-10 433899 4196710 1509 
+Light brown SILTY SAND AND GRAVEL, dry, 
+loose          17-Dec-15 
+
+BSV 15-48 10-30       
+Grey CLAY, hard, dry, volcanic ash material 
+(Sample) 19 3800 3900 20   
+
+ NP 30-90       
+Light brown SILTY SAND AND GRAVEL, dry, 
+loose            
+
+BSV 15-
+01W   F6000 441240 4206073 1440 
+
+Ice water sample, brown with sediments 
+(preserved immediately) 0.65 47 79 2 15-Dec-15 
+
+BSV 15-
+02W  NP   435394 4195308 1524 
+
+Water well sample, WT TOC 17 feet, ground 
+14 feet, water has some sediments, hair and 
+murky (preserved immediately) nd 27 4 0.51 17-Dec-15 
+
+BSV 15-
+03W  NP   443303 4208375 1443 
+
+Ice water sample, brown with sediments 
+(preserved immediately) 0.73 58 92 3.8 17-Dec-15 
+
+
+
+Page 45 of 76 
+
+Sample ID 
+Station 
+ID Depth 
+
+Coordinates NAD 
+1983 Elevation Description Assays Date 
+
+BSV 15-
+04W  NP   443326 4208371 1443 
+
+Ice water sample, brown with sediments 
+(preserved immediately) 0.55 46 68 4.9 17-Dec-15 
+
+BSV 15-
+05W  NP   443379 4208273 1444   0.64 52 78 4 17-Dec-15 
+Notes: 
+NP – Not on the Property 
+OP – On the Property 
+
+ 
+
+ 
+
+
+
+6.2.3 Drilling 
+
+In the early 2016, Ultra Lithium Inc. applied for drilling permit for three drill holes to the 
+Bureau of Land Management (BLM) and received notice-of-intent exploration work 
+permit from to conduct Phase 1 exploratory drilling. ULI signed a drilling contract with 
+Harris Exploration Drilling to complete one HQ size core drill hole on the Property. The 
+drilling started on May 10, 2016 and the drilling contractor was only able to drill to 
+1,000 feet (305 metres).  The hole was stopped due to artesian water pressure.  
+ 
+Based on (CSAMT) geophysical survey data, two potential brine targets were interpreted 
+at this borehole location. Drilling results confirmed that the first target continues down 
+to approximately 500 feet (152 metres) below surface, whereas the second target 
+begins at 700 feet (213 metres). The second target is expected to continue down to 
+1,800 feet (549 metres) below surface which was the proposed depth of this hole.  The 
+hole was reamed to a six-inch diameter and a monitoring well was installed down to a 
+depth of 500 feet, with 3-inch diameter screen installed at the bottom 120 feet.  
+ 
+The following are the highlights of the data collected from drill hole BSH16-01: 
+
+ Results indicate anomalous values of lithium in drill core samples. The drill core 
+logs show the presence of volcanic clays, organic matter and tuff at various 
+depths which are documented to be contributed from Late Miocene to Pliocene 
+tuffaceous lacustrine facies of the Esmeralda Formation.  Several geological 
+studies consider the Esmeralda Formation to be the source of lithium brine in 
+the South Big Smokey and Clayton valleys. There are a few gypsum layers within 
+sand and clay layers. The amount of volcanic material and tuffs increases with 
+depth.  
+
+ The drill core data shows the presence of multiple sand aquifers down to a 
+drilled depth of 1,000 feet (305 metres) below surface. Water levels as 
+measured on June 04, 2016 was at 2 feet (0.6 meters) below ground surface 
+indicating artesian water pressure from a confined aquifer at 349 to 479 feet 
+(106 to 146 metres). The aquifer is comprised of sand with intervening thin clay 
+layers.  
+
+ Assays of groundwater samples taken at various intervals to a depth of 1,000 
+feet (305 metres) using Harris Exploration's sampling technique indicated 
+anomalous values of lithium. Later sampling after well development and purging 
+indicated lithium values of 1 ppm and lower. 
+
+ 
+The results of 22 drill core samples from the hole BSH16-01 indicate maximum values 
+for lithium of 270 parts per million (ppm), boron 410 ppm, potassium 10,000 ppm, and 
+magnesium 12,000 ppm; whereas the average lithium concentration in all core samples 
+is 131 ppm, boron 151 ppm, potassium 5,575 ppm, and magnesium 6,210 ppm.  One 
+sample from a 10 cm gypsum layer yielded a lithium value below the detection limit. 
+These samples were taken at various depth intervals down to 1,000 feet (305 meters) 
+
+
+
+Page 47 of 76 
+
+below ground surface. Two rounds of groundwater sampling from this well indicated 
+lithium values of 1 ppm or less.  
+
+ 
+Photo 3: Drilling work in progress 
+
+ 
+
+ 
+Photo 4: Core samples from BSH 16-01 drill hole 
+
+ 
+ 
+
+
+
+Page 48 of 76 
+
+ 
+ 
+
+Figure 15: Monitoring well details at BSV 16-01 
+
+ 
+ 
+  
+
+
+
+Page 49 of 76 
+
+Table 5: BSH16-01 log and assay results  
+
+Soil Sample 
+ID 
+
+Depth 
+(ft) 
+
+Depth 
+(m) Lithology 
+
+Li 
+(ppm) 
+
+K  
+(ppm) 
+
+B 
+(ppm) 
+
+Mg 
+(ppm) 
+
+BSH16-01-
+50'S 50 15.24 
+
+Light brown SILTY CLAY, medium 
+plastic, damp, silt patches 100 7100 250 8300 
+
+BSH16-01-
+75'S 75 22.86 
+
+Black SHALE with organic matter, peat 
+like appearance, damp 86 7000 230 7700 
+
+BSH16-01-
+104'S 104 31.70 
+
+Greenish grey SILTY CLAY, plastic, 
+volcanic nature, wet 96 7800 320 8600 
+
+BSH16-01-
+154'S 154 46.94 
+
+Greenish grey SILTY CLAY, plastic, 
+volcanic nature, damp, more greenish 
+at the in some sections, chloritic, peat 
+bog odour and mixing of organic 
+matter at places 250 9600 410 9400 
+
+BSH16-01 
+204'S 204 62.18 
+
+Greenish grey SILTY CLAY, plastic, 
+volcanic nature, wet, more greenish in 
+this part due to more chlorite, mixing 
+of organic matter 190 8700 320 8800 
+
+BSH16-01 
+254'S 254 77.42 
+
+Greenish grey to dark black SILTY 
+CLAY, volcanic, plastic, damp, some 
+black organic matter 270 10000 330 12000 
+
+BSH16-01-
+300'S 300 91.44 
+
+Greenish grey to dark grey and black 
+SILTY CLAY, with organic matter, 
+damp, medium plastic 120 6700 190 7000 
+
+BSH16-01-
+349'S 349 106.37 
+
+Greenish grey CLAYEY SILT, with some 
+fine grey sand patches, damp to wet 190 7000 140 7700 
+
+BSH16-01-
+354'S 354 107.89 Same as above 40 1500 27 1600 
+
+BSH16-01-
+435'S 435 132.58 
+
+Light grey SAND, medium to coarse 
+grained, quartzitic, rounded to sub 
+rounded to rounded grains, damp to 
+wet, pores are filled with drilling mud 
+showing loose sand dilution,  rock 
+fragments including clay, chert, 
+amphibole, limestoneand igneous 
+(quartz 50%, rockfragments 20%, 30% 
+voids filled with drilling fluids and clay 
+cement) 24 1300 23 1400 
+
+BSH16-01-
+453'S 453 138.07 Same as above 24 1100 17 1200 
+
+BSH16-01-
+459'S 459 139.90 Same as above 36 1300 19 1900 
+
+
+
+Page 50 of 76 
+
+ 
+ 
+
+BSH16-01-
+500'S 500 152.39 
+
+Light grey TUFF, with volcanic ash 
+material, silty, contains <cm to 1cm 
+rock fragments, wet moist, irritatting 
+to hands, bottom 6" more clayey with 
+<1" salt/gypsum layer 250 8200 120 10000 
+
+BSH16-01-
+554'S 554 168.85 
+
+Brownish to grey SILTY CLAY, medium 
+plastic damp, more silty at places 260 9200 190 12000 
+
+BSH16-01-
+576'S 576 175.56 
+
+Brown and grey SILTSTONE/CLAY, 
+volcanic, core loss in some sandy parts 210 7600 130 10000 
+
+BSH16-01-
+710'S 710 216.40 
+
+A 3 inch layer of GYPSUM at 710' 
+within grey silty sand, white powdry, 
+damp 0 540 13 130 
+
+BSH16-01-
+719'S 719 219.14 
+
+Grey to greenish grey SILTY CLAY, 
+medium plastic, damp, turns into silt 
+at the bottom 140 7000 89 7700 
+
+BSH16-01-
+730'S 730 222.49 
+
+Grey SAND, fine to medium grained, 
+quartzitic, with 30% rock fragments, 
+interstices are filled with drilling mud, 
+wet, subrounded to subangular grains 
+are bind by fluids 44 2200 25 2000 
+
+BSH16-01-
+801'S 801 244.13 
+
+Greenish grey SILTY CLAY, volcanic, 
+plastic, damp, some parts are whitish, 
+bentonitic 240 9300 200 9100 
+
+BSH16-01-
+887'S 887 270.34 
+
+Light greenish grey TUFF, coarse 
+quartz, amphibole and, chert, clay and 
+other fragments, thin salt layers at 
+places 130 4300 110 4100 
+
+BSH16-01-
+952.5'S 952.5 290.31 
+
+SILTY SAND, fine grained, with clay and 
+salt matrix, 3" of gypsum layer at 
+952.5' (Sample) 92 2600 89 3000 
+
+BSH16-01-
+1000'S 1000 304.79 
+
+SILTY SAND, fine grained, with clay and 
+salt matrix, 3" of gypsum layer at 
+952.5' (Sample) 92 2600 89 3000 
+
+Average 
+   
+
+131 5575 151 6210 
+
+
+
+7.0 GEOLOGICAL SETTING AND MINERALIZATION 
+ 
+
+7.1 Regional Geology  
+ 
+The South Big Smokey Valley area is a typical internally drained valley hemmed in by 
+mountains, low foothills, and broad alluvial fans. Limestone, quartzite, slate, and schist, 
+aggregating several thousand feet in thickness and ranging in age from Lower Cambrian 
+to Carboniferous are the oldest rocks found in this region. Since their deposition, they 
+have been extensively deformed, eroded, intruded by lavas, and largely covered by 
+igneous bodies and sedimentary deposits. Originally, they probably covered the entire 
+region, but at present they are found over extensive areas only in the Toyabe, Toquima, 
+Silver Peak, and Lone Mountain ranges.  
+ 
+Several bodies of granite and associated crystalline rocks occur in this region. Wherever 
+their relations have been determined they are intrusive in the Paleozoic strata and older 
+than the Tertiary eruptive rocks. A large granite mass forms the main part of Lone 
+Mountain, and granite crops out in the ridges farther southwest.  
+ 
+Eruptive formations of Tertiary age, consisting of rhyolite and minor amounts of basalt 
+and rocks of intermediate composition with associated tuffs and breccias, occur over 
+extensive areas in all the ranges bordering the Big Smokey Valley. They lie at the surface 
+in much of the greater part of the San Antonio and Monte Cristo ranges and the hill 
+country north of the Monte Cristo Range, and in considerable areas in the Silver Peak 
+and Lone Mountain ranges.  
+ 
+Tertiary sedimentary rocks of the Esmeralda Formation are developed in the foothill 
+region southwest of Lone Mountain and in the region west and southwest of Blair 
+Junction, but they are widely distributed in the ranges bordering the lower valley and 
+either crop out or lie near the surface over extensive areas in the marginal parts of the 
+lower valley and Lone Valley. There are occurrences of sharp structural unconformities 
+between the Tertiary beds and the overlying Quaternary deposits (O. E. Ivieinzer, 1915).  
+ 
+The Quaternary deposits in general are comprised of soils of uplands and mountains, 
+soils of valley fills, outwash plains and alluvial fans, soils on alluvial fans and aprons, and 
+playas and soils on flats and basins, as described in US Department of Agriculture report 
+on Soil Survey of Big Smokey Valley (1980). 
+ 
+  
+
+
+
+Page 52 of 76 
+
+7.2 Local and Property Geology 
+ 
+The South Big Smokey Valley is located within the Basin and Range Province in southern 
+Nevada. It is a closed-basin that is bounded to the northwest by Monte Cristo Range, 
+the east and northeast by Lone Mountain, and to the southeast by Weeepah Hills and to 
+the south by Red Mountain and the Silver Peak Range. The basement rocks consist of 
+late Neoproterozoic to Ordovician carbonate and clastic rocks which were deposited 
+along the ancient western passive margin of North America. During late Paleozoic and 
+Mesozoic orogenies, the region was shortened and subjected to low‐grade 
+metamorphism and granitoids were emplaced at ca. 155 and 85 Ma.  
+ 
+Multiple wetting and drying periods during the Pleistocene resulted in the formation of 
+lacustrine deposits, salt beds, in this part of the Big Smokey Valley and cover majority of 
+the property claims. The following types of soils are described in US Department of 
+Agriculture report on Soil Survey of Big Smokey Valley (1980).  
+ 
+Soils of Uplands and Mountains: These soils are formed in residuum and colluvium 
+derived from basalt, andesite, rhyolite, and volcanic ash. The surface layer is gravelly 
+and cobbly, medium textured and moderately coarse textured. The soils are well 
+drained, shallow and moderately deep, exposed mostly at the margins of the property 
+claims, and the southwestern claim block. 
+ 
+Soils of Valley Fills, Outwash Plains and Alluvial Fans: These soils formed in alluvium 
+mainly derived from volcanic rocks such as basalt, rhyolite, tuffs and latite, and 
+admixtures of limestone and shale. The surface layer is gravelly and coarse, moderately 
+coarse, or medium in texture. The soils are well drained to excessively drained.  
+ 
+Soils on Alluvial Fans and Aprons: These soils formed in alluvium mainly derived from 
+volcanics such as basalt, rhyolite, tuffs and andesite, and from limestone and granitic 
+rocks. The surface layer is generally coarse textured or moderately coarse textured. The 
+soils are excessively drained, somewhat excessively drained, and well drained. 
+ 
+Playas and Soils on Flats and Basins: The soils formed in silty lacustrine sediment 
+derived from mixed rock sources. The surface layer is generally medium textured, 
+moderately fine textured or fine textured. These soils are somewhat poorly drained to 
+poorly drained and have a desirable character for potential development of brines and 
+accumulation of lithium. 
+ 
+The Late Miocene to Pliocene tuffaceous lacustrine facies of the Esmeralda Formation 
+are documented to contain up to 1,300 ppm lithium and an average of 100 ppm lithium. 
+2015 surface sampling by Ultra Lithium indicated up to 100 ppm lithium in lake 
+sediments which represent soils of Playas on Flats and Basins. 
+
+
+
+Page 53 of 76 
+
+  
+Photo 5: Soil profile showing volcanic ash  Photo 6: Salts on soil surface 
+ 
+ 
+
+ 
+Photo 7: Looking east – outcrop of Esmeralda Formation sediments 
+ 
+
+ 
+  
+
+
+
+Page 54 of 76 
+
+7.3 Mineralization 
+ 
+
+The fine-grained lake sediments in the centre of the South Big Smokey Valley have 
+anomalous values of lithium. Surface and shallow subsurface water samples collected 
+during 2015 fieldwork season did not show anomalous values of lithium.  
+ 
+
+7.4 Hydrogeology 
+
+Hydrogeological observations during 2015 fieldwork indicate that the property area 
+which is a part of the South Big Smokey Valley (BSV), is an enclosed basin which receives 
+water recharge from the surrounding ranges. The rocks on the southeastern part of BSV 
+were observed to be dipping inwards towards the basin, whereas the overall slope of 
+the basin is to the southwest. Traverses along geophysical survey lines indicated 
+subsurface sediments were generally composed of silty clay, silty sand and gravel. The 
+amount of volocanogenic material and salt varies from place to place however was 
+generally observed in the majority of the claims held by Ultra Lithium. At several 
+locations, the top portion of sediments was covered by pebbles of broken rocks of 
+surrounding outcrops. The Central part of the Property represents a light grey fine silty 
+clay unit mixed with volcanic ash material which has a puffy appearance due to water 
+action on its soil surface.  
+
+The Lithium brine at Clayton Valley is documented to be formed from a complex process 
+of evaporation, mixing, halite and hectorite dissolution, precipitation and ion-
+exchange/absorption. Mixing of salts and volcanic material is observed within the 
+central part of the South Big Smokey Valley and on the Property indicating a favorable 
+setting for the accumulation of lithium. Numerous sand dunes were observed in the 
+northeastern claim area near geophysical lines E (station 10000) and F (between station 
+5000 and 6000). 
+
+Within the Clayton Valley including the Silver Peak brine lithium project area a display of 
+distinct layers of white to light grey colored volcanic ash beds can be observed.  These 
+ash beds can be seen to continue to the north, towards the South Big Smokey Valley. 
+Similarity of the presence of volcanic ash is of note for both valleys. Of contrast, 
+outcrops of rhyolite, observed in Clayton valley are not very prominent in the Big 
+Smokey Valley.   
+ 
+
+
+
+Figure 16: Geological Map of the Property Area 
+
+ 
+Legend: Taf – Lava flows and ash flows, Te – Esmeralda Formation, Qal – Desert wash alluvium and colluvium, Qoa – Older alluvium chiefly 
+gravel, Tafl – Non welded ash flows
+
+
+
+8.0 DEPOSIT TYPES 
+ 
+8.1 Lithium Deposit Types 
+ 
+Global lithium resources are estimated to be 39 million metric tons (MT) and lithium is 
+currently mined from three types of deposits: brines, pegmatites and sedimentary rocks. 
+Continental brines and pegmatites (or hard-rock ore) are the main sources for 
+commercial lithium production. Generally, lithium extraction from brine sources has 
+proven more economical than production from hard-rock ore. While hard-rock lithium 
+production once dominated the market, the majority of lithium carbonate is now 
+produced from continental brines in Latin America, primarily due to the lower cost of 
+production. 
+ 
+Pegmatite is coarse-grained intrusive igneous rock formed from crystallized magma 
+below the earth's crust. It can contain extractable amounts of a number of elements, 
+including lithium, tin, niobium and tantalum. Lithium in pegmatites is commonly found 
+in the mineral spodumene, but also may be present in petalite, lepidolite, amblygonite 
+and eucryptite. This form of deposit accounts for 26 percent of known global lithium 
+resources.  
+ 
+Sedimentary rock deposits account for 8 percent of known global lithium resources and 
+are found in clay deposits and lacustrine evaporites. In clay deposits, lithium is found in 
+hectorite, which is rich in both magnesium and lithium. The most commonly-known 
+form of lithium-containing lacustrine deposit is found in the Jadar Valley in Serbia for 
+which the lithium- and boron-bearing element jadarite is named. 
+ 
+Brine deposits represent about 66 percent of global lithium resources and are found 
+mainly in the salt flats of Chile, Argentina, Bolivia, China and Tibet. The second half of the 
+20th century saw a dramatic shift in lithium carbonate (and some lithium chloride) 
+production from the usual pegmatite sources to brines. Today, all lithium carbonate, 
+which is the basis of various downstream lithium chemicals, comes from the brines of the 
+Salar de Atacama, Chile, and Clayton Valley, Nevada (United States). Lithium chloride is 
+also produced from the Salar del Hombre Muerto, Argentina. Various other salars and 
+playas such as those of China, Bolivia, Argentina, and Tibet are being evaluated for future 
+lithium chemical production. The industry was once dominated by two major U.S. 
+producers, until a third producer from Chile started production of various salts, including 
+lithium carbonate. This shift in sources led to the shutdown of both U.S. pegmatite 
+operations. Australia, Canada, and Zimbabwe have continued to supply lithium mineral 
+concentrates for the ceramic and glass industry and other applications. Minor producers 
+in Brazil, Portugal, Russia, and the People's Republic of China mine various lithium 
+minerals. One new U.S. supplier of lithium chemicals came on stream using the depleted 
+lithium hydroxide government stockpile (Kunasz 2004).  
+ 
+ 
+
+
+
+Page 57 of 76 
+
+8.2 Deposit Models 
+ 
+There are three types of brine deposits — continental, geothermal and oil field — with 
+the most common being continental saline desert basins (also known as salt lakes, salt 
+flats or salars). They are located near tertiary or recent volcanoes and are made up of 
+sand, minerals with brine and saline water with high concentrations of dissolved salts. A 
+playa is a brine deposit whose surface is composed mostly of silts and clays; they have 
+less salt than a salar. The South Big Smokey Valley brine lithium property also falls 
+within the playa type brine deposit model. It shares geological similarities with Clayton 
+Valley which is the only lithium producing brine operation in North America. The Lithium 
+brine at Clayton Valley is documented to be formed from a complex process of 
+evaporation, mixing, halite and hectorite dissolution, precipitation and ion-
+exchange/absorption. The Li-rich brines are currently being produced from six different 
+aquifers in the playa as shown in the following Figure (Munk 2011). 
+ 
+
+ 
+
+Figure 17- Generalized cross section of nearby Clayton Valley, after Davis (1986) 
+
+(Indicating that lithium concentrations (in ppm) increase against faults forming 
+structural traps) 
+ 
+All producing lithium brine deposits share a number of first-order characteristics: (1) 
+arid climate; (2) closed basin containing a playa or salar; (3) tectonically driven 
+subsidence; (4) associated igneous or geothermal activity; (5) suitable lithium source-
+rocks; (6) one or more adequate aquifers; and (7) sufficient time to concentrate a brine. 
+Key aspects of the proposed lithium-brine deposit model are shown in Figure 18. In 
+essence, lithium is liberated by weathering or derived from hydrothermal fluids from a 
+variety of rock sources within a closed basin. Circumstantial evidence from the Clayton 
+Valley suggests that felsic vitric tuffs are a particularly favorable primary source. 
+Another potentially important lithium source in the Clayton Valley is uplifted Neogene 
+lake beds from earlier in the basin's history, which had previously been hydrothermally 
+altered to hectorite. Lithium is highly soluble and, unlike sodium (Na), potassium (K), or 
+calcium (Ca), does not readily produce evaporite minerals when concentrated by 
+evaporation. Instead it ends up in residual brines in the shallow subsurface. Economic 
+brines have Li concentrations in the range of 200 to 4,000 milligrams per liter (mg/l). 
+Other elements in solution, such as boron and potassium, may be recovered as 
+byproducts or coproducts; brines can also contain undesirable elements that create 
+problems in processing (magnesium) or toxic elements that require care in waste 
+disposal (Bradley 2013).  
+
+
+
+Page 58 of 76 
+
+ 
+The single most important factor determining if a non-marine basin can accumulate 
+lithium brine is whether or not the basin is closed. Closed basins form because of 
+tectonics but they are maintained only where, over longer time-spans, evaporation 
+exceeds precipitation. If the long-term rate of precipitation in a basin increases 
+sufficiently, eventually lake water will overspill at some point along the drainage divide 
+and drain away, carrying with it any dissolved lithium.  
+ 
+Active faulting appears to be a consistent attribute for lithium host basins. Fault-related 
+subsidence creates accommodation space, without such only a thin veneer of basin 
+sediments could accumulate. A thick basin fill is needed to provide an aquifer of 
+sufficient volume to hold a viable brine resource. In contrast, shallow, superficial basins 
+in cratonic regions such as the Sahara Desert lack fault control and are not known to be 
+prospective for lithium brines. Some basins are cut by active intrabasinal faults. Brine 
+pools in the Clayton Valley and Salar de Atacama are localized along active intrabasinal 
+faults that control the distribution of aquifers and also influence groundwater 
+movement patterns. These intrabasinal faults are known from boreholes and have no 
+surface expression (Bradley et.al., 2013).  
+ 
+Because they are contained by aquifers of various geometries, lithium brines are 
+localized in the subsurface rather than being present throughout at depth. At Salar de 
+Atacama, the brine is hosted in the porous, upper 30 meters of the salar's halite 
+nucleus. Little is known about the potential of brine aquifers at depth in Salar de 
+Atacama. At Clayton Valley, brines are pumped from six gently dipping aquifers that are 
+variously composed of ash, fanglomerate, tufa, and halite (Bradley et.al., 2013). 
+ 
+  
+ 
+ 
+
+
+
+Page 59 of 76 
+
+ 
+
+Figure 18: Schematic deposit model for lithium brines 
+
+Showing part of a closed-basin system consisting of interconnected sub-basins. The sub-
+basin containing the salar is the lowest (McNutt and Salazar 2013) 
+  
+
+
+
+Page 60 of 76 
+
+9.0 EXPLORATION 
+ 
+Metron Capital Corp. has not done any exploration work on the Property. 
+ 
+
+10.0 DRILLING 
+
+No drilling was done on the Property by Metron Capital Corp. 
+ 
+
+11.0 SAMPLE PREPARATION, ANALYSIS AND SECURITY 
+ 
+The samples for this study were shipped directly by the author to Western 
+Environmental Testing Laboratory in Sparks, Nevada, which is an US EPA accredited 
+laboratory. The samples were analyzed for lithium, potassium, boron, and magnesium 
+using Standard Methods for the Examination of Water and Wastewater, online edition, 
+Methods for Determination of Organic Compounds in Drinking Water, EPA-600/4-79-
+020, and Test Methods for Evaluation of Solid Waste, Physical/Chemical Methods 
+(SW846), Third Edition. Laboratory used its own quality control and quality assurance 
+protocols for sample analysis. The soil and water samples from Ultra Lithium's 
+exploration work of 2015-16 were also prepared and analyzed from the same laboratory 
+using the above- mentioned methodology. 
+ 
+For the present study, the sample preparation, security and analytical procedures used by 
+the laboratories are considered adequate. No officer, director, employee or associate of 
+Metron Capital Corp. or Ultra Lithium Inc. was involved in sample preparation and 
+analysis. 
+ 
+
+12.0 DATA VERIFICATION 
+ 
+The author visited the Property on December 3, 2016, and the geological work 
+performed in order to verify the existing data consisted of visiting existing drill hole on 
+the Property (BSH16-01), examining rock outcrops and lake sediments areas of the Big 
+Smokey Valley, taking geological and hydrogeological observations, and observing 
+several claim posts. GPS coordinates using NAD 83 datum were also recorded for several 
+claim posts to confirm the staking process. The drill core for hole BSH16-01 is stored at a 
+locked storage unit located on the Clown Motel property in Tonopah. The author viewed 
+various core sections and collected five representative samples from selected intervals.  
+All samples were under the care and control of the author and are considered 
+representative.  
+ 
+The sample assay results (Table 6) indicated lithium values in the range of 192 to 357 
+ppm, boron 97 to 230 ppm, potassium 7200 to 12000 ppm, and magnesium 7200 to 
+13000 ppm. These results are consistent with 22 core sample results of May 2016 from 
+the same drill hole as discussed in Section 6.2.3 of this report. 
+ 
+
+
+
+Page 61 of 76 
+
+The data collected during the present study is considered reliable because it was collected 
+by the author. The data quoted from other sources is deemed reliable because it was 
+taken from various geological and engineering reports and technical papers published 
+on the area and the work was conducted by professional engineers and or geologists.  
+ 
+ 
+ 
+
+
+
+Table 6: Sample description 
+
+Lithium 
+Sample ID Drill Hole 
+
+From    
+(ft) 
+
+To        
+(ft) 
+
+Width 
+(ft) Description 
+
+Li    
+(ppm) 
+
+B    
+(ppm) 
+
+K     
+(ppm) 
+
+Mg   
+(ppm) 
+
+S195340 BSH16-01 602 606 4 
+HQ Core Sample, Light Grey 
+Uniform Clay 
+
+357 180 9800 13000 
+
+S195341 BSH16-01 576 581 5 
+HQ Core Sample, Light Grey 
+Uniform Clay 
+
+313 150 9200 13000 
+
+S195342 BSH16-01 710 714 4 
+
+HQ Core Sample, Extremely Light 
+white Clay for first 4'' remaining 
+sample light grey Clay 
+
+226 120 7200 9000 
+
+S195343 BSH16-01 719 724 5 
+HQ Core Sample, Light Grey 
+Uniform Clay 
+
+197 97 7900 8300 
+
+S195344 BSH16-01 919 924 5 
+HQ Core Sample, Light Grey 
+Uniform Clay 
+
+192 230 12000 7200 
+
+ 
+
+
+
+ 
+
+ 
+Photo 8: Ultra Lithium claim post on the Property 
+
+ 
+Photo 9: BSH16-01 core box 
+
+
+
+Page 64 of 76 
+
+  
+Photo 10: Well at borehole BSH16-01 location  
+ 
+
+13.0 MINERAL PROCESSING AND METALLURGICAL TESTING 
+
+No mineral processing or metallurgical testing was carried out on the Property by 
+Metron Capital Corp. 
+ 
+
+Item 14 to 22 is not applicable. 
+ 
+
+23.0 ADJACENT PROPERTIES 
+ 
+The Property is located in an active mining and mineral exploration region where many 
+operators have been carrying out lithium exploration and/ or development work on 
+adjacent properties. The following information is taken from the publicly available sources 
+which are identified in the text and in Section 27. The writer has not independently 
+verified the information referenced however has no reason to doubt the reliability of the 
+information used. The information relied upon is not necessarily indicative of the 
+mineralization on the South Big Smokey Valley Property, which is the subject of this 
+technical report and was utilized solely to provide background and context material for 
+benefit of the reader.  
+ 
+ 
+
+
+
+Page 65 of 76 
+
+23.1 Silver Peak Mine, Clayton Valley, Nevada 
+ 
+The Clayton Valley is located in Esmeralda County, Nevada, USA approximately 180 km 
+north of Death Valley, California and is the location of the only lithium brine deposit in 
+production in North America (Fig 19). The Clayton Valley is a closed basin with an area of 
+1,342 km
+
+2
+ and a playa surface of 72 km
+
+2
+. The basin lies in the eastern rain shadow of the 
+
+Sierra Nevada and is arid with an annual average precipitation of 13 cm, average 
+evaporation rates of 142 cm/yr and an average temperature of 13°C. The elevation of 
+the valley floor is 1298 m, the lowest of than any of neighboring basins in the region 
+(Munk 2011).  
+ 
+
+Foote Mineral Company traces its origins to A.E. Foote, who founded the company in 
+1876 as a purveyor of rare minerals. It became a major producer of lithium chemicals 
+when it acquired the right to mine spodumene at Kings Mountain, North Carolina, in the 
+early 1950s. In the 1960s, Foote pioneered the production of lithium carbonate from 
+brine with the opening of the Silver Peak plant (Clayton Valley). It was acquired by Cyprus 
+Minerals Company, then by Chemetall of Germany and more recently by Rockwood 
+Specialties.  The Clayton Valley salt marsh was first investigated during the World War II 
+effort to locate sources of strategic minerals, one of which was potash. The salt marsh 
+area was leased by the American Potash Corp., which let the leases lapse. The leases were 
+picked up by the Leprechaun Mining Company (Clyde Kegel), which conducted some 
+exploration on the subsurface brines and identified lithium in addition to potassium. An 
+agreement was later negotiated with Foote Mineral Company, which developed the 
+brines of the basin as a source of lithium carbonate (Barrett and O'Neill 1970). In Clayton 
+Valley, lithium-bearing brines occur in an asymmetric, undrained structural depression 
+filled with Quaternary sediments composed mainly of clay minerals, including hectorite, 
+volcanic sands, and alluvial gravels, and saline minerals consisting of gypsum and halite 
+(Kunasz 1970). The brine that saturates the sediments is chemically simple. It is a 
+concentrated sodium chloride solution containing subordinate amounts of potassium and 
+minor amounts of magnesium and calcium. The lithium concentration is variable and 
+decreases with pumping; the lithium concentration in the brine varies from 100 to 300 
+ppm Li. The dominant source of lithium has been a volcanic ash that extends across the 
+basin. Exploration has identified additional aquifers which supply additional volumes of 
+lithium-bearing brine. 
+ 
+An extensive well field supplies the brine into some 4,000 acres of solar evaporation 
+ponds. Over 12 to 18 months, the concentration of the brine increases to 6,000 ppm 
+Lithium solely via solar evaporation. When the lithium chloride reaches an optimum 
+concentration, the liquid is pumped to a recovery plant and treated with soda ash, 
+precipitating lithium carbonate, which is then filtrated out, dried, and shipped. At this 
+time, the Silver Peak mine operation is one of the world's leading producers of lithium 
+hydroxide (Kunasz 2004). 
+ 
+
+
+
+Page 66 of 76 
+
+23.2 Pure Energy Minerals Ltd. 
+ 
+Pure Energy Minerals Ltd. is a publicly traded lithium exploration company listed on the 
+TSX Venture Exchange (TSX:PE) with a total lease area of 3,240 ha (8,004 acres) of public 
+land in the southern Clayton Valley, Nevada, USA. The leases are adjacent to 
+Albemarle's Silver Peak Operations where lithium brines are processed in evaporation 
+ponds and used to produce a variety of lithium chemicals. The operation is unique to 
+North America and has been in operation since 1967. Highways and electric power are 
+in place, and local and regional resources are easily accessible.  
+ 
+Rodinia Minerals, Inc., a previous holder of the claims, completed a geophysical survey 
+surrounding the existing lithium operation and identified a deep northeast-southwest 
+structural trough in the southern Clayton Valley. Rodinia drilled 2 dual wall reverse 
+circulation boreholes in the north section of its claims (now Pure Energy claims) in 
+2009/10 and identified aquifers that contained lithium up to 400 ppm Li to 488 m (1600 
+ft) in depth. Rodinia dropped the claims in order to concentrate financial resources on 
+other projects in South America. 
+ 
+Pure Energy completed detailed gravity and seismic reflection surveys during 2014 and 
+2015 that confirmed a deep structural trough on its claims and identified 19 reflectors 
+from sediment layers that correspond to previously identified Lithium host aquifer 
+horizons. Two exploratory boreholes were completed in the north end of Pure Energy's 
+claims. CV-1 "twinned" the Rodina hole SPD-9, and CV-2 explored new ground further 
+south. Pumping tests completed for 8 hrs. in CV-1 provided positive results of 150 gpm 
+(9.5 L/s) and 225 ppm Li. 
+ 
+An Inferred Resource of 816,000 metric tonnes of Lithium Carbonate Equivalent (LCE) 
+has been calculated based on borehole sample chemistry, seismic and gravity 
+interpretations of basin stratigraphy.  
+ 
+
+ 
+
+
+
+Page 67 of 76 
+
+Figure 19: Adjacent properties 
+
+ 
+
+24.0 OTHER RELEVANT DATA AND INFORMATION 
+ 
+
+24.1 Environmental Concerns 
+ 
+The author is not aware of any environmental liabilities related to the Property. The 
+company is bound by the federal and the state laws concerning environmental 
+compliance.   
+ 
+
+25.0 INTERPRETATION AND CONCLUSIONS 
+ 
+The Metron Big Smokey Valley Brine Lithium Property is located approximately 25 miles 
+(40 kilometres) from Tonopah in Esmeralda County, Nevada, USA. It is about 50 
+kilometres to the west of Goldfield, the County Seat of Esmeralda County. It consists of 
+100 placer claims located in Townships 1 and 2, Range 38 and 38 ½ East, Esmeralda 
+County, Nevada, USA. Each claim is approximately 20 acres with a total property area of 
+2,000 acres, configured in two blocks (Metron 1 and 2).  
+ 
+This part of the valley is a typical internally drained basin hemmed in by mountains, low 
+foothills, and broad alluvial fans. Limestone, quartzite, slate, and schist, aggregating 
+several thousand feet in thickness and ranging in age from Lower Cambrian to 
+Carboniferous are the oldest rocks found in this region. Since their deposition, they have 
+been extensively deformed, eroded, intruded by lavas, and largely covered by igneous 
+bodies and sedimentary deposits. Originally, they probably covered the entire region, 
+but at present they are found over extensive areas only in the Toyabe, Toquima, Silver 
+Peak, and Lone Mountain ranges. The Quaternary deposits are generally comprised of 
+the soils of uplands and mountains, soils of valley fills, outwash plains and alluvial fans, 
+soils on alluvial fans and aprons, and playas and soils on flats and basins. The playas soils 
+are somewhat poorly drained to poorly drained and have a desirable character for 
+potential development of brines and accumulation of lithium. 
+ 
+The Late Miocene to Pliocene tuffaceous lacustrine facies of the Esmeralda Formation 
+are documented to contain up to 1,300 ppm lithium and an average of 100 ppm lithium. 
+2015 surface sampling by Ultra Lithium indicated up to 100 ppm lithium in lake 
+sediments which represent soils of Playas on Flats and Basins. 
+ 
+In 1980, United States Geological Survey carried out an investigation for potential 
+lithium bearing brines in and around Clayton Valley as part of regional study related to 
+lithium supply sources. The Big Smokey Valley was also part of this study where two 
+reverse circulatory drill holes (BS13 and BS14) were drilled outside the current Property.  
+In BS13, a maximum value of 1.7 ppm Li was found in a water sample and 364 ppm in 
+sediment samples. BS14 was abandoned after drilling 215 feet (66 m) into 
+
+
+
+Page 68 of 76 
+
+unconsolidated sand and gravel. A maximum of 1.3 ppm Li was found in a water sample 
+and 287 ppm in sediment samples. 
+ 
+
+Ultra Lithium Inc. carried out ground geophysical survey in 2014, and a soil and water 
+sampling program in 2015. A ground geophysical survey consisted of eight CSAMT 
+survey lines (called Lines A through H) covering 53.8 kilometers of data. Lines C, D, E and 
+F are partially or fully located on the Property. The survey results indicate that in the 
+northeastern area, the lowest resistivities are south of Line E, in the vicinity of station 
+6200 on Line F and from station 9400 on Line C to station 2800 on Line D. Evidence for 
+faulting is very tentative in this area, and the depth of investigation does not extend as 
+deep as observed on the southwestern lines.  
+ 
+On December 11-18, 2015, a soil and water sampling program completed by Ultra 
+Lithium was designed to follow up on the results of a CSAMT ground geophysical survey, 
+and its purpose was to investigate the presence of lithium in shallow soil and within its 
+groundwater system. A total of 48 soil / sediment samples were collected to cover 
+survey lines A to H. Additionally, five water samples were collected from different areas, 
+of which four were from surface water / ice with the fifth sample collected from a water 
+well, located on adjacent ground to the Property. The results confirmed the presence of 
+lithium in the Property's hydrogeological system. Of particular interest is the area of 
+geophysical survey lines C, D, E and F. Maximum values for lithium in sediments is 100 
+ppm, boron 480 ppm, and potassium 7,600 ppm. Generally, the lithium, boron and 
+potassium values correspond well with each other, where samples with higher lithium 
+concentrations tend to have higher values of other two elements. The next exploration 
+phase planned was to a drill hole to a depth which would intersect all potentially brine 
+bearing aquifers identified in the CSAMT geophysical survey interpretation.  
+ 
+In May 2016, Ultra Lithium Inc. completed one HQ size core drill hole on the Property. 
+The hole was drilled down to 1,000 feet (305 metres) and was terminated early due to 
+artesian water pressure. The hole was later reamed to a six-inch diameter and a 
+monitoring well was installed to a depth of 500 feet. A 3-inch diameter screen was 
+installed at the bottom 120 feet of the hole. The results of 22 drill core samples 
+collected from the hole BSH16-01 indicate maximum values for lithium of 270 parts per 
+million (ppm), boron 410 ppm, potassium 10,000 ppm, and magnesium 12,000 ppm; 
+whereas the average lithium concentration in all core samples was 131 ppm, boron 151 
+ppm, potassium 5,575 ppm, and magnesium 6,210 ppm.  One sample from a 10-cm 
+gypsum layer yielded a lithium value below detection limit. These samples were taken at 
+various depth intervals down to 1,000 feet (305 meters). Two rounds of groundwater 
+sampling from this well yielded lithium values of 1 ppm or less. The total exploration 
+expenditures for this drill hole were USD $165,394.58 (CAD $215,012.95).  
+ 
+The author visited the Property on December 3, 2016, and the geological work 
+performed in order to verify the existing data consisted of visiting existing drill hole on 
+the Property (BSH16-01), examining rock outcrops and lake sediments areas of the Big 
+Smokey Valley, taking geological and hydrogeological observations, and observing 
+
+
+
+Page 69 of 76 
+
+several claim posts. The drill core for hole BSH16-01 is stored at a locked storage unit 
+located in Tonopah. The author viewed various core sections and collected five 
+representative samples from selected intervals.  The sample assay results indicated 
+lithium values in the range of 192 to 357 ppm, boron 97 to 230 ppm, potassium 7200 to 
+12000 ppm, and magnesium 7200 to 13000 ppm.  
+ 
+Continental brines are the most common type of brine deposits located in saline desert 
+basins (also known as salt lakes, salt flats or salars). They are located near tertiary or 
+recent volcanoes and are made up of sand, minerals with brine and saline water with 
+high concentrations of dissolved salts. A playa is a brine deposit whose surface is 
+composed mostly of silts and clays and have less salt than a salar. The South Big Smokey 
+Valley brine lithium property would be characterized as a playa type brine deposit 
+model. It shares geological similarities with neighboring Clayton Valley. 
+ 
+The Property is located in an active mining and mineral exploration region where many 
+neighboring operators have recently carried out lithium exploration and/ or development 
+work on their adjacent properties.  The Silver Peak brine lithium mine on the adjacent 
+Clayton Valley, currently operated by Rockwood is located approximately 25 kilometres to 
+the southeast of the Property. Similarly, Pure Energy Minerals is working on the southern 
+portion of the Clayton Valley, adjacent to the south extent of the Silver Peak mine.  
+ 
+The Property is exposed to certain risks due to gaps in various claim blocks which can 
+create a competition in pumping lithium containing brines from the adjoining claims by 
+other parties. The Company should make arrangements to acquire claims to fill gaps in its 
+claim blocks if the recommended exploration work is successful.  
+ 
+The Property has a good year-round road access from Tonopah Station through highway 
+6/95. Highway 265 to Silver Peak branches off from 6/95 and crosses the southwestern 
+extent of the Property.  The primary source of water is groundwater and power is 
+available locally. 
+ 
+Based on the favourable geological, hydrogeological and tectonic setting, presence of 
+surface lithium anomalous values, and the results of present study, it is concluded that 
+the Property is a property of merit and possess a good potential for discovery of brine 
+lithium mineralization. It has good road access, most of the exploration and mining 
+services are available in the immediate vicinity. The author is of the opinion that the 
+present study has met it original objectives.    
+ 
+
+26.0 RECOMMENDATIONS 
+ 
+In the qualified person's opinion, the character of the South Big Smokey Valley Property 
+is sufficient to merit for a follow-up work program. This can be accomplished through a 
+two-phase exploration program, where each phase is contingent upon the results of the 
+previous phase.   
+ 
+
+
+
+Page 70 of 76 
+
+ 
+ 
+ 
+
+Phase 1 – Surface Sampling and Drilling 
+A total of 12 samples were collected from the property during 2015 surface soil 
+sampling program. This sampling identified anomalous values of lithium, and requires a 
+follow up detailed surface sampling to get better coverage of the property area.  
+ 
+The ground geophysical CSAMT survey and soil sampling program has identified various 
+distinct potential brine targets for drilling. The lowest resistivities are indicated south of 
+Line E, in the vicinity of station 6200 on Line F and from station 9400 on Line C to station 
+2800 on Line D. The drill hole BSH16-01 was drilled at location C9700 where core 
+samples indicated anomalous lithium values however groundwater samples reported 
+low lithium values (1 ppm and below). To test the CSAMT target at line D, one single drill 
+hole is proposed at station D2350 down to a depth of 2,200 feet (670 m). All 
+hydrogeological units intercepted during drilling should be sampled via soil and 
+groundwater testing for lithium, boron, potassium and magnesium. A water well should 
+be installed at this borehole location to support water sampling, downhole geophysical 
+logging, pumping tests, permeability tests and other hydrogeological studies. 
+ 
+
+The estimated cost of this program is USD $309,334 (CAD $412,445) and will take an 
+estimated 8 to 12 weeks to complete. 
+ 
+
+Phase 2 – Detailed Drilling 
+Based on the results of Phase 1 program, an additional 5-hole drill program should be 
+completed on the Property. A scope of work, location of drill holes and budget for Phase 
+2 will be prepared after reviewing the results of Phase 1 drill program.  
+  
+
+
+
+Page 71 of 76 
+
+Table 7: Phase 1 Budget 
+
+Item Unit Currencey 
+No. 
+Of 
+Units 
+
+Rate Total CAD TOTAL USD 
+
+Project management day CAD 10 $650 $6,500 $4,643 
+
+Sampling fieldwork 
+(Geologist) 
+
+day CAD 10 $650 $6,500 $4,643 
+
+Sampling fieldwork (2 
+Helpers) 
+
+day CAD 10 $700 $7,000 $5,000 
+
+Sample assaying surface 
+soil samples 
+
+sample CAD 50 $70 $3,500 $2,500 
+
+Drilling feet CAD 2500 $50 $125,000 $89,286 
+
+Mob and Demob ls CAD 1 $12,600 $12,600 $9,000 
+
+Reaming and well 
+development 
+
+hrs CAD 72 $525 $37,800 $27,000 
+
+Drilling overheads and 
+testing 
+
+feet CAD 2500 $20 $50,000 $35,714 
+
+Permitting bond ls CAD 1 $36,400 $36,400 $26,000 
+
+Drill supervision 
+geologist 
+
+day CAD 30 $650 $19,500 $14,625 
+
+Hydrogeologist day USD 10 $650 $8,125 $6,500 
+
+Air ticket 
+air 
+ticket 
+
+CAD 3 $750 $2,250 $1,688 
+
+Assaying soil core 
+samples  
+
+sample CAD 100 $70 $7,000 $5,250 
+
+Water samples brine sample CAD 50 $70 $3,500 $2,625 
+
+Accommodation and 
+Meals  
+
+day USD 60 $300 $22,500 $18,000 
+
+Vehicle rental and gas day USD 50 $150 $9,375 $7,500 
+
+Supplies and Rentals 
+lump 
+sum 
+
+CAD 1 $2,000 $2,000 $1,500 
+
+Data interpretation day CAD 10 $650 $6,500 $4,875 
+
+GIS and Maps hrs CAD 40 $60 $2,400 $1,800 
+
+Reports day CAD 10 $650 $6,500 $4,875 
+
+TOTAL $374,950 $281,213 
+
+Contingency 10%         $37,495 $28,121 
+
+GRAND TOTAL $412,445 $309,334 
+
+ 
+  
+
+  
+
+
+
+Page 72 of 76 
+
+27.0 REFERENCES 
+
+1.0 Candland M.D., 1980: Soil survey of Big Smokey Valley area, Nevada, part of Nye 
+County; United States Department of Agriculture, Soil Conservation Service, in 
+cooperation with United States Department of the Interior, Bureau of Land 
+Management, and University of Nevada Agricultural Experiment Station, 
+February 1980. 
+
+2.0 Hains H. D., 2011: CIM Best Practice Guidelines for resource and reserve 
+estimation for lithium brines, July 2011. 
+
+3.0 Ivieinzer O. E., 1915: Ground water in Big Smokey valley, Nevada, Department of 
+Interior, US Geological Survey, Water Supply Paper 375-D, August 04, 1915. 
+
+4.0 Spanjers P. Raymond, 2015: Inferred resource estimate for lithium, Clayton 
+valley South Project, Clayton Valley, Esmeralda County, Nevada, U.S.A, Technical 
+Report for NI 43-101, prepared on behalf of Pure Energy Minerals Ltd., July 17, 
+2015. 
+
+5.0 Davis J. R., Friedman Irving, Gleason, J.D., 1986: Origin of lithium rich brine, 
+Clayton Valley, Nevada, Shorter contributions to isotope research, US Geological 
+Survey Bulletin 1622, 1986. 
+
+6.0 Glorieta Geoscience Inc., 2011: NCWD Water supply appraisal investigation 
+report – Draft 1, Big Smokey Basin – Northern Part (Hydrographic basin 137B), 
+November 14, 2011. 
+
+7.0 Foy Andrew T. 2011: Quaternary faulting in Clayton Valley, Nevada: Implications 
+for distributed deformation in the Eastern California Shear; A thesis presented to 
+the Academic Faculty in partial fulfillment of the requirement for the degree 
+Master of Science in the School of Earth and Atmospheric Sciences, Georgia 
+Institute of Technology, May 2011. 
+
+8.0 Kunasz Ihore, 2004, Lithium – Industrial Minerals and Rocks, pp: 599-614, (2004). 
+9.0 Munk Ann Lee, 2011: Final Technical Report: G10AP00056 – Lithium Brine 
+
+Resources: A predictive exploration model; A research supported by US 
+Geological Survey. 
+
+10.0 Sinclair W.D., 2007: Porphyry Deposits; Mineral Deposits of Canada, Geological 
+Association of Canada, Mineral Deposits Division, Special Publication No. 5, p 
+223-243, 2007. 
+
+11.0 Handman Elenor H., and Kilroy Kathryn C., 1997: Groundwater resources of 
+Northern Big Smokey valley, lander and Nye Counties, Central Nevada, US 
+Geological Survey Water-Resources Investigation Report 96-4311, 1996. 
+
+12.0 Bradley D., Munk Lee A., Jochens H., Hynek S., and Labay K., 2013: A preliminary 
+deposit model for lithium brines; US Geological Survey Open File Report 2013-
+1006 (2013). 
+
+13.0 James Vines D., 1980: Where on earth is all the lithium? US Department of 
+Interior, Geological Survey; Open File Report 80-1234 (1980). 
+
+14.0  Cannon H. L., Harms T.F., and Hamilton J. C., 1975: Lithium in unconsolidated 
+sediments and plants of the Basin and Range Province, Southern California, 
+Nevada; Geological Survey Professional Paper 918, 1975. 
+
+https://archive.org/details/groundwaterinbig00mein
+
+
+Page 73 of 76 
+
+15.0 Reheis Marith C., and Block Debra, 2007: Surficial geological map and 
+geochronologic database, Fish Lake Valley, Esmeralda County, Nevada, and 
+Mono County, California; US Geological Survey, Reston, Virginia, Version 1, 2007. 
+
+16.0 Starkey Harry, C., 1982: The role of clay in fixing lithium, contributions to 
+geochemical prospecting; Geological Survey Bulletin 1278-F, a study of some 
+methods by which lithium is retained in clay minerals, 1982. 
+
+17.0 McCracken R.D., 1997: A history of Smokey Valley, Nevada; Central Nevada 
+Historical Society, Tonopah, Nevada, 1997. 
+
+18.0 Crocker L., Lien R.H, and others, 1984: lithium and its recovery from low-grade 
+Nevada clays US Geological Survey Bulletin 691, 1984. 
+
+19.0 Bohannon Robert G., and Meier Allen L., 1976: Lithium in sediments and rocks in 
+Nevada; US Geological Survey Open File Report 76-567, October 1976. 
+
+20.0 Website: 
+http://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/United_Sta
+tes/Geography#The_Basin_Range_Province 
+
+  
+
+http://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/United_States/Geography#The_Basin_Range_Province
+http://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/United_States/Geography#The_Basin_Range_Province
+
+
+Page 74 of 76 
+
+28.0 SIGNATURE PAGE 
+ 
+
+Effective Date: February 8, 2017 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Page 75 of 76 
+
+29.0 CERTIFICATE OF AUTHOR 
+ 
+
+I, Kristian Whitehead, B.Sc., P.Geo. as an author of this report entitled "Technical Report 
+on the South Big Smokey Valley Brine Lithium Property, Esmeralda County, Nevada, 
+USA", dated February 8, 2017, do hereby certify that: 
+ 
+
+1. I am a consulting geologist of:  
+Infiniti Drilling Corporation. 2763 Panorama Drive, North Vancouver 
+British Columbia, Canada, V7G 1V7. 
+
+ 
+2. This certificate applies to the report entitled ""Technical Report on the South Big 
+
+Smokey Valley Brine Lithium Property, Esmeralda County, Nevada, USA", dated 
+February 8, 2017. 
+
+ 
+3. I have B.Sc. degree in Earth and Ocean Science from the University of Victoria in 
+
+2004. 
+ 
+
+4. I am registered as a Professional Geologist in British Columbia (License #: 34243), 
+Canada.  
+
+ 
+5. I have been practicing my profession continuously since 2004, and have over 
+
+twelve years of experience in mineral exploration for base metals, gold, silver, 
+uranium, niobium, iron, lithium and rare earths.  In addition, I am the VP of 
+Exploration for Eureka Resources Inc. which own an active lithium brine 
+exploration property in the neighboring Lida Valley in Esmeralda County, 
+Nevada. 
+
+ 
+6. I have read the definition of "qualified person" set out in National Instrument 43-
+
+101 ("NI43-101") and certify that by reason of my education, affiliation with 
+professional associations and past relevant work experience, I fulfill the 
+requirements to be a "qualified person" for the purpose of NI43-101. 
+
+ 
+7. I visited the property from December 3rd, 2016, and I am the author of the 
+
+report. To my knowledge, no exploration work has been carried out by Metron 
+Capital Corp. on the property since my last visit to the Property. 
+ 
+
+8. I am responsible for all items of this report. 
+ 
+
+9. I have no interest, direct or indirect in the South Big Smokey Valley Brine Lithium 
+Property, nor do I have any interest in any other properties of Metron Capital 
+Corp. or Ultra Lithium Inc. 
+ 
+
+10. I am independent of Metron Capital Corp., as that term is defined in Section 1.5 
+of NI 43-101. I do not own any securities of Metron Capital Corp.   
+
+
+
+Page 76 of 76 
+
+ 
+11. I have no prior involvement with the Metron Big Smokey Valley Brine Lithium 
+
+Property other than as disclosed in item 7 of this certificate. 
+ 
+
+12. I have read National Instrument 43-101 ("NI43-101"), and the Technical Report 
+has been prepared in compliance with NI43-101, and Form 43-101F1. 
+
+ 
+13. I am not aware of any material fact or material change with respect to Metron 
+
+Capital Corp.'s Property the omission of which would make this report 
+misleading. 
+
+ 
+14. As at the date of this certificate, to the best of my knowledge, information and 
+
+belief the technical report contains all scientific and technical information that is 
+required to be disclosed to make the technical report not misleading. 
+
+ 
+ 
+ 
+Dated:  February 8, 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+'
